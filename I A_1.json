@@ -1070,6 +1070,7 @@
     "previous": "Ῥάγαια",
     "next": "Ῥαγαῦ",
     "proof_read": 3,
+    "short_description": "ein Ort in Noricum, nach Itin. Ant. 129 (Abl.) Ragundone, nach Tab. Peut.",
     "chapters": [
       {
         "start": 127,
@@ -2524,6 +2525,7 @@
     "previous": "Rapina",
     "next": "Rappha",
     "proof_read": 3,
+    "short_description": "Ort an der Küste Etruriens zwischen Algae und Graviscae in der Gegend der",
     "no_creative_height": true,
     "chapters": [
       {
@@ -2770,6 +2772,7 @@
     "previous": "Raraunum",
     "next": "Ραρία",
     "proof_read": 3,
+    "short_description": "Ῥάρεντος πόλις Ἰταλίας Steph. Byz., Lage unbekannt.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -2843,6 +2846,7 @@
     "previous": "Ρᾶρος",
     "next": "Ῥασέννας",
     "proof_read": 3,
+    "short_description": "nach Plin. h. n. VI 74 Volksstamm im Süden der großen indischen Wüste zwischen",
     "chapters": [
       {
         "start": 252,
@@ -3253,6 +3257,7 @@
     "previous": "Rationalis",
     "next": "a rationibus",
     "proof_read": 3,
+    "short_description": "Übersicht über den Staatshaushalt, Suet. Aug. 28; vgl. Marquardt Röm. St.-V. II",
     "chapters": [
       {
         "start": 263,
@@ -3969,6 +3974,7 @@
     "previous": "Reccimundus",
     "next": "Receptio nominis",
     "proof_read": 3,
+    "short_description": "s. receptor, wer wissentlich Verbrecher oder durch Verbrechen erlangte",
     "chapters": [
       {
         "start": 354,
@@ -4561,6 +4567,7 @@
     "previous": "Regemaurekion",
     "next": "Regentium",
     "proof_read": 3,
+    "short_description": "s. regerendarius, Beamter im Officium der Praefecti praetorio, der speziell bei",
     "chapters": [
       {
         "start": 464,
@@ -12585,10 +12592,14 @@
     "lemma": "Roxane 7",
     "previous": "Roxane 6",
     "next": "Ῥωξολανοί",
+    "proof_read": 2,
+    "short_description": "Tochter von Phaidra und Herodes der Grosse",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1156,
-        "author": "Stähelin"
+        "end": 1156,
+        "author": "Stähelin."
       }
     ]
   },
@@ -12636,7 +12647,7 @@
   {
     "lemma": "Ῥούαδις",
     "previous": "Ru...",
-    "next": "Ruaditai",
+    "next": "Ῥουαδῖται",
     "sort_key": "Ruadis",
     "redirect": "Adris",
     "proof_read": 2,
@@ -12648,19 +12659,24 @@
     ]
   },
   {
-    "lemma": "Ruaditai",
+    "lemma": "Ῥουαδῖται",
     "previous": "Ῥούαδις",
     "next": "Ῥουακήνσιοι",
+    "sort_key": "Ruaditai",
+    "proof_read": 2,
+    "short_description": "Stamm der Marmarika",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1156,
-        "author": "Kees"
+        "end": 1156,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Ῥουακήνσιοι",
-    "previous": "Ruaditai",
+    "previous": "Ῥουαδῖται",
     "next": "Ruana",
     "sort_key": "Ruakensioi",
     "redirect": "Rubrenses 1",
@@ -12690,10 +12706,13 @@
     "lemma": "Ruas",
     "previous": "Ruana",
     "next": "Rubellius 1",
+    "proof_read": 2,
+    "short_description": "König der Hunnen, Onkel von Bleda und Attila, 432 n. Chr.",
     "chapters": [
       {
         "start": 1157,
-        "author": "Seeck"
+        "end": 1157,
+        "author": "Seeck."
       }
     ]
   },
@@ -12701,10 +12720,13 @@
     "lemma": "Rubellius 1",
     "previous": "Ruas",
     "next": "Rubellius 2",
+    "proof_read": 2,
+    "short_description": "C. Person bei Cicero, Erbe des Q. Turius",
     "chapters": [
       {
         "start": 1157,
-        "author": "Münzer"
+        "end": 1157,
+        "author": "Münzer."
       }
     ]
   },
@@ -12725,11 +12747,13 @@
     "lemma": "Rubellius 3",
     "previous": "Rubellius 2",
     "next": "Rubellius 4",
+    "proof_read": 2,
+    "short_description": "Blandus, Person bei Iuvenal mit hohlem Adelsstolz",
     "chapters": [
       {
         "start": 1157,
         "end": 1158,
-        "author": "Nagl"
+        "author": "Alf. Nagl."
       }
     ]
   },
@@ -12737,10 +12761,13 @@
     "lemma": "Rubellius 4",
     "previous": "Rubellius 3",
     "next": "Rubellius 5",
+    "proof_read": 2,
+    "short_description": "C. R. Blandus, Münzmeister etwa 25-4 v. Chr., Prokonsul in Creta-Cyrenae",
     "chapters": [
       {
         "start": 1158,
-        "author": "Nagl"
+        "end": 1158,
+        "author": "Alf. Nagl."
       }
     ]
   },
@@ -12748,11 +12775,13 @@
     "lemma": "Rubellius 5",
     "previous": "Rubellius 4",
     "next": "Rubellius 6",
+    "proof_read": 2,
+    "short_description": "C. R. Blandus, Consul suff. 18 n. Chr., Sohn von Nr. 4",
     "chapters": [
       {
         "start": 1158,
         "end": 1159,
-        "author": "Nagl"
+        "author": "Alf. Nagl."
       }
     ]
   },
@@ -12760,11 +12789,13 @@
     "lemma": "Rubellius 6",
     "previous": "Rubellius 5",
     "next": "Rubellius 7",
+    "proof_read": 2,
+    "short_description": "(Rubellius?) Drusus, Sohn von Nr. 5",
     "chapters": [
       {
         "start": 1159,
         "end": 1160,
-        "author": "Nagl"
+        "author": "Nagl."
       }
     ]
   },
@@ -12772,10 +12803,13 @@
     "lemma": "Rubellius 7",
     "previous": "Rubellius 6",
     "next": "Rubellius 8",
+    "proof_read": 2,
+    "short_description": "Geminus, L. cos. ord. 29 n. Chr.",
     "chapters": [
       {
         "start": 1160,
-        "author": "Nagl"
+        "end": 1160,
+        "author": "Nagl."
       }
     ]
   },
@@ -12783,11 +12817,13 @@
     "lemma": "Rubellius 8",
     "previous": "Rubellius 7",
     "next": "Rubellius 9",
+    "proof_read": 2,
+    "short_description": "Plautus, Sohn von Nr. 5 und Iulia, der Tochter der Livia, Stoiker † 62 n. Chr.",
     "chapters": [
       {
         "start": 1160,
         "end": 1161,
-        "author": "Nagl"
+        "author": "Nagl."
       }
     ]
   },
@@ -12795,10 +12831,13 @@
     "lemma": "Rubellius 9",
     "previous": "Rubellius 8",
     "next": "Rubi",
+    "proof_read": 2,
+    "short_description": "Rubellia Bassa, Tochter von Nr. 5 und Iulia, der Tochter der Livia",
     "chapters": [
       {
         "start": 1161,
-        "author": "Nagl"
+        "end": 1161,
+        "author": "Nagl."
       }
     ]
   },
@@ -12843,10 +12882,13 @@
     "lemma": "Rubius",
     "previous": "Rubico",
     "next": "Ῥούβων",
+    "proof_read": 2,
+    "short_description": "römischer Gentilname, republikanische Zeit ff. und im griechischen Osten",
     "chapters": [
       {
         "start": 1166,
-        "author": "Münzer"
+        "end": 1166,
+        "author": "Münzer."
       }
     ]
   },
@@ -12918,10 +12960,13 @@
     "lemma": "Rubrae 2",
     "previous": "Rubrae 1",
     "next": "Rubraesus",
+    "proof_read": 2,
+    "short_description": "ad Rubras, Station in Numidien oder auch in Mauretania Caesariensis",
     "chapters": [
       {
         "start": 1166,
-        "author": "Dessau"
+        "end": 1166,
+        "author": "Dessau."
       }
     ]
   },
@@ -12980,10 +13025,13 @@
     "lemma": "Rubrenus 1",
     "previous": "Rubrenses 2",
     "next": "Rubrenus 2",
+    "proof_read": 2,
+    "short_description": "Lappa, Tragödiendichter bei Iuvenal",
     "chapters": [
       {
         "start": 1167,
-        "author": "Kappelmacher"
+        "end": 1167,
+        "author": "Kappelmacher."
       }
     ]
   },
@@ -12991,11 +13039,13 @@
     "lemma": "Rubrenus 2",
     "previous": "Rubrenus 1",
     "next": "Rubrica",
+    "proof_read": 2,
+    "short_description": "Virius Priscus Pomponius Magianus Proculus, M. Consul, c.v.",
     "chapters": [
       {
         "start": 1167,
         "end": 1168,
-        "author": "Nagl"
+        "author": "Nagl."
       }
     ]
   },
@@ -13003,10 +13053,13 @@
     "lemma": "Rubrica",
     "previous": "Rubrenus 2",
     "next": "Rubricata",
+    "proof_read": 2,
+    "short_description": "rote Erde / Farbe = Titel, Überschrift = Rubrik der Gesetzestitel = Gesetz",
     "chapters": [
       {
         "start": 1168,
-        "author": "Klingmüller"
+        "end": 1168,
+        "author": "Klingmüller."
       }
     ]
   },
@@ -13043,10 +13096,13 @@
     "lemma": "Rubricatus 2",
     "previous": "Rubricatus 1",
     "next": "Rubriensis custodia",
+    "proof_read": 2,
+    "short_description": "Fluß in Numidien, heute Oued Mafragh?",
     "chapters": [
       {
         "start": 1168,
-        "author": "Dessau"
+        "end": 1168,
+        "author": "Dessau."
       }
     ]
   },
@@ -13927,7 +13983,7 @@
   {
     "lemma": "Ῥουφινιαναί, αἱ",
     "previous": "Rufinianae 2",
-    "next": "Ruphinu",
+    "next": "Rufinianus 1",
     "sort_key": "Rufinianai hai",
     "redirect": "Rufinianae 1",
     "proof_read": 3,
@@ -15744,7 +15800,7 @@
     "lemma": "Ruricius 1",
     "previous": "Rura",
     "next": "Ruricius 2",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Pompeianus, Praefectus praetorio des Maxentius, fiel in Verona um 312 n. Chr.",
     "chapters": [
       {
@@ -15758,7 +15814,7 @@
     "lemma": "Ruricius 2",
     "previous": "Ruricius 1",
     "next": "Ruricius 3",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Praeses Tripolitanae, widersteht dem Comes Africae Romanus",
     "chapters": [
       {

@@ -35,6 +35,7 @@
     "previous": "Kynetes",
     "next": "Kynethos 1",
     "proof_read": 3,
+    "short_description": "Name zweier Insel im Aigaiischen Meer.",
     "chapters": [
       {
         "start": 1,
@@ -461,6 +462,7 @@
     "previous": "Κυνὸς σῆμα 4",
     "next": "Kynosura 1",
     "proof_read": 3,
+    "short_description": "(Κῠνόσουρα, Cy̆nosūra), Name mehrerer Landspitzen, eines Hafenortes(?) (und des",
     "chapters": [
       {
         "start": 36,
@@ -5776,9 +5778,16 @@
     "lemma": "Laelius 15",
     "previous": "Laelius 14",
     "next": "Laelius 16",
+    "proof_read": 2,
+    "short_description": "D. Laelius Balbus, cos. ord. 6 v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:en:Decimus Laelius Balbus",
+    "wd_link": "d:Q1223495",
     "chapters": [
       {
-        "start": 415
+        "start": 415,
+        "end": 415,
+        "author": "Miltner."
       }
     ]
   },
@@ -5820,7 +5829,7 @@
     "previous": "Laelius 18",
     "next": "Laelius 20",
     "proof_read": 2,
-    "short_description": "Fulvius Maximus, M. Evtl. ident. mit Nr. 18",
+    "short_description": "Fulvius Maximus, M. vir clarissimus, identisch mit Nr. 18?",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5834,10 +5843,13 @@
     "lemma": "Laelius 20",
     "previous": "Laelius 19",
     "next": "Laelius 21",
+    "proof_read": 2,
+    "short_description": "Hermes, Grammatiker, Adressat eines Briefes des Ateius",
     "chapters": [
       {
         "start": 417,
-        "author": "Münzer"
+        "end": 417,
+        "author": "Münzer."
       }
     ]
   },
@@ -5845,10 +5857,16 @@
     "lemma": "Laelius 21",
     "previous": "Laelius 20",
     "next": "Laelius 22",
+    "proof_read": 2,
+    "short_description": "Maximus, M. Kommandant der Legio VII Claudia pia fidelis 195 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Marcus Laelius Fulvius Maximus Aemilianus",
+    "wd_link": "d:Q12286099",
     "chapters": [
       {
         "start": 417,
-        "author": "Miltner, Franz"
+        "end": 417,
+        "author": "Miltner."
       }
     ]
   },
@@ -5856,10 +5874,16 @@
     "lemma": "Laelius 22",
     "previous": "Laelius 21",
     "next": "Laelius 23",
+    "proof_read": 2,
+    "short_description": "Maximus Aemilianus, M. cos. 227 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Marcus Laelius Fulvius Maximus Aemilianus",
+    "wd_link": "d:Q12286099",
     "chapters": [
       {
         "start": 417,
-        "author": "Miltner, Franz"
+        "end": 417,
+        "author": "Miltner."
       }
     ]
   },
@@ -5923,10 +5947,13 @@
     "lemma": "Laelius 24d",
     "previous": "Laelius 24c",
     "next": "Laelius 24e",
+    "proof_read": 2,
+    "short_description": "Div. Produzentennamen",
     "chapters": [
       {
         "start": 417,
-        "author": "Keune"
+        "end": 417,
+        "author": "Keune."
       }
     ]
   },
@@ -5934,10 +5961,13 @@
     "lemma": "Laelius 24e",
     "previous": "Laelius 24d",
     "next": "Laelius 25",
+    "proof_read": 2,
+    "short_description": "Div. Produzentennamen",
     "chapters": [
       {
         "start": 418,
-        "author": "Keune"
+        "end": 418,
+        "author": "Keune."
       }
     ]
   },
@@ -5945,9 +5975,13 @@
     "lemma": "Laelius 25",
     "previous": "Laelius 24e",
     "next": "Laelius 26",
+    "proof_read": 2,
+    "short_description": "Laelia, die ältere Tochter von Nr. 3, Gattin des Auguren Q. Mucius Scaevola",
     "chapters": [
       {
-        "start": 418
+        "start": 418,
+        "end": 418,
+        "author": "Münzer."
       }
     ]
   },
@@ -5955,10 +5989,13 @@
     "lemma": "Laelius 26",
     "previous": "Laelius 25",
     "next": "Laelius 27",
+    "proof_read": 2,
+    "short_description": "Laelia, die jüngere Tochter von Nr. 3, Gattin des C. Fannius",
     "chapters": [
       {
         "start": 418,
-        "author": "Münzer"
+        "end": 418,
+        "author": "Münzer."
       }
     ]
   },
@@ -5966,12 +6003,14 @@
     "lemma": "Laelius 27",
     "previous": "Laelius 26",
     "next": "Laelius 28",
-    "redirect": true,
     "proof_read": 2,
+    "short_description": "Laelia, Gattin des C. Vibius Marsus (cos. suff. 17 n. Chr.)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 418,
-        "end": 418
+        "end": 418,
+        "author": "Miltner."
       }
     ]
   },
@@ -16905,8 +16944,8 @@
     "lemma": "Latro 1",
     "previous": "Latrius",
     "next": "Latro 2",
-    "redirect": "Tabula Peutingeriana",
-    "proof_read": 2,
+    "redirect": "Iatron",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 978,
@@ -16941,7 +16980,7 @@
     "previous": "Latrocinium",
     "next": "Latros",
     "proof_read": 3,
-    "short_description": "Domitianus Person",
+    "short_description": "Domitius Latronianus, Corrector Siciliae im Winter 313/4",
     "wd_link": "d:Q18238890",
     "chapters": [
       {
@@ -17183,8 +17222,8 @@
     "lemma": "Lavares",
     "previous": "Lavara",
     "next": "Lavaris",
-    "redirect": "Ravennas Geographus",
-    "proof_read": 2,
+    "redirect": "Labores",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 986,
@@ -18924,7 +18963,7 @@
     "previous": "Lebriemelus",
     "next": "Lecanius",
     "redirect": "Leboriae",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1055,
@@ -18937,7 +18976,7 @@
     "previous": "Leburini",
     "next": "Lecha",
     "redirect": "Lekanios Areios",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1055,
@@ -18950,7 +18989,7 @@
     "previous": "Lecanius",
     "next": "Lechaion",
     "proof_read": 3,
-    "short_description": "Ort",
+    "short_description": "Ort in Juda",
     "chapters": [
       {
         "start": 1055,
