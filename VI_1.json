@@ -14342,7 +14342,6 @@
   {
     "lemma": "Euanthius 2",
     "previous": "Euanthius 1",
-    "next": "Euaratos",
     "chapters": [
       {
         "start": 847,
@@ -14351,6 +14350,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "lemma": "Euaratos",
     "previous": "Euanthius 2",
     "next": "Euarchidas",
@@ -14364,6 +14364,8 @@
     ]
   },
   {
+=======
+>>>>>>> 152d722 (Register korrigiert)
     "lemma": "Euarane",
     "previous": "Euanthius 2",
     "next": "Euaratos",
@@ -14375,6 +14377,19 @@
         "start": 847,
         "end": 847,
         "author": "Ruge."
+      }
+    ]
+  },
+  {
+    "lemma": "Euaratos",
+    "previous": "Euarane",
+    "next": "Euarchidas",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 847,
+        "end": 848,
+        "author": "Willrich."
       }
     ]
   },
@@ -14658,7 +14673,6 @@
   {
     "lemma": "Euarzia",
     "previous": "Euarne",
-    "next": "Euas",
     "proof_read": 2,
     "short_description": "Ort in Galatien, acht Milien von Sykeon, Vita S. Theod. 56 (Μνημεῖα ἁγιολογ.",
     "chapters": [
@@ -21201,7 +21215,6 @@
   {
     "lemma": "Eumeneia 1",
     "previous": "Eumeneia",
-    "next": "Eumeneios",
     "chapters": [
       {
         "start": 1082,
@@ -21210,21 +21223,8 @@
     ]
   },
   {
-    "lemma": "Eumeneios",
-    "previous": "Eumeneia 1",
-    "next": "Eumenia 2",
-    "chapters": [
-      {
-        "start": 1082,
-        "end": 1083,
-        "author": "Dittenberger"
-      }
-    ]
-  },
-  {
     "lemma": "Eumenia 2",
     "previous": "Eumeneia 1",
-    "next": "Eumeneia",
     "sort_key": "Eumeneia 2",
     "proof_read": 2,
     "short_description": "Stadt an d. W-Küste d. Pontos Euxeinos",
@@ -21237,8 +21237,17 @@
     ]
   },
   {
+    "lemma": "Eumeneios",
+    "chapters": [
+      {
+        "start": 1082,
+        "end": 1083,
+        "author": "Dittenberger"
+      }
+    ]
+  },
+  {
     "lemma": "Eumenes 1",
-    "previous": "Eumenia 2",
     "next": "Eumenes 2",
     "chapters": [
       {

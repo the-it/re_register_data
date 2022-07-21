@@ -16499,7 +16499,6 @@
   {
     "lemma": "Elaius 2",
     "previous": "Elaius 1",
-    "next": "Eleus 3",
     "proof_read": 3,
     "short_description": "Phyle u. Ortschaft auf Tenos",
     "chapters": [
@@ -16512,7 +16511,6 @@
   },
   {
     "lemma": "Elaius 4",
-    "previous": "Elaius 2",
     "next": "Elaius 5",
     "chapters": [
       {
@@ -16524,27 +16522,11 @@
   {
     "lemma": "Elaius 5",
     "previous": "Elaius 4",
-    "next": "Eleus 3",
     "chapters": [
       {
         "start": 2227,
         "end": 2228,
         "author": "Oberhummer"
-      }
-    ]
-  },
-  {
-    "lemma": "Eleus 3",
-    "previous": "Elaius 2",
-    "next": "Elaius 4",
-    "sort_key": "Elaius 3",
-    "proof_read": 2,
-    "short_description": "Städtchen am dorischen Meerbusen",
-    "chapters": [
-      {
-        "start": 2227,
-        "end": 2227,
-        "author": "Bürchner."
       }
     ]
   },
@@ -17184,18 +17166,6 @@
     ]
   },
   {
-    "lemma": "Elaterion",
-    "previous": "Elateia 3",
-    "next": "Elatia 4",
-    "chapters": [
-      {
-        "start": 2237,
-        "end": 2239,
-        "author": "Stadler"
-      }
-    ]
-  },
-  {
     "lemma": "Elatia 4",
     "previous": "Elateia 3",
     "next": "Elaterion",
@@ -17207,6 +17177,16 @@
         "start": 2237,
         "end": 2237,
         "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Elaterion",
+    "chapters": [
+      {
+        "start": 2237,
+        "end": 2239,
+        "author": "Stadler"
       }
     ]
   },
@@ -17997,7 +17977,6 @@
   {
     "lemma": "Elege",
     "previous": "Elegarsina",
-    "next": "Elegea 2",
     "chapters": [
       {
         "start": 2258,
@@ -18008,7 +17987,6 @@
   {
     "lemma": "Elegea 2",
     "previous": "Elege",
-    "next": "Elegeis",
     "sort_key": "Elegeia 2",
     "proof_read": 2,
     "short_description": "Ort am Durchbruch des Euphrat durch den Taurus, unterhalb von Melitene",
@@ -18022,7 +18000,6 @@
   },
   {
     "lemma": "Elegeia 1",
-    "previous": "Elege",
     "next": "Elegea 2",
     "sort_key": "Elegeia 1",
     "proof_read": 2,
@@ -18037,7 +18014,6 @@
   },
   {
     "lemma": "Elegeis",
-    "previous": "Elegeia 1",
     "next": "Elegiae in Maecenatem",
     "chapters": [
       {
