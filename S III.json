@@ -20449,7 +20449,6 @@
   {
     "lemma": "Epistula 1",
     "previous": "Ἐπιστάτης εἰρήνης",
-    "next": "Epona",
     "chapters": [
       {
         "start": 435,
@@ -20460,6 +20459,7 @@
   },
   {
     "lemma": "Epistula",
+    "previous": "Ἐπιστάτης ἐιρήνης",
     "next": "Epona",
     "redirect": true,
     "chapters": [
@@ -25246,8 +25246,13 @@
     ]
   },
   {
+    "lemma": "Hylas",
+    "next": "Hyllis 1"
+  },
+  {
     "lemma": "Hyllis 1",
-    "previous": "Hydrea",
+    "previous": "Hylas",
+    "next": "Hypometheus",
     "proof_read": 2,
     "short_description": "Messen. Phyle",
     "chapters": [
@@ -25255,6 +25260,20 @@
         "start": 1161,
         "end": 1162,
         "author": "Kroll."
+      }
+    ]
+  },
+  {
+    "lemma": "Hypometheus",
+    "previous": "Hyllis 1",
+    "next": "Ὕψισται πύλαι",
+    "proof_read": 2,
+    "short_description": "Namensverschreibung statt Epimetheus (VI 181)",
+    "chapters": [
+      {
+        "start": 1162,
+        "end": 1162,
+        "author": "Lamer."
       }
     ]
   },
@@ -25305,6 +25324,7 @@
   {
     "lemma": "Jagsthausen",
     "previous": "Iaca",
+    "next": "Jahreszeiten",
     "proof_read": 3,
     "short_description": "dt. Ort an der Stelle eines obergerm. Limeskastells",
     "wp_link": "w:de:Jagsthausen",
