@@ -14095,7 +14095,7 @@
   {
     "lemma": "Eido",
     "previous": "Eidios",
-    "next": "Εἴδωλον",
+    "next": "Eidolon",
     "chapters": [
       {
         "start": 2083,
@@ -14105,7 +14105,7 @@
     ]
   },
   {
-    "lemma": "Εἴδωλον",
+    "lemma": "Eidolon",
     "previous": "Eido",
     "next": "Eidomene",
     "sort_key": "Eidolon",
@@ -14121,7 +14121,7 @@
   },
   {
     "lemma": "Eidomene",
-    "previous": "Εἴδωλον",
+    "previous": "Eidolon",
     "next": "Eidothea 1",
     "proof_read": 3,
     "short_description": "(Εἰδομενή), Tochter des Pheres (Apollod. I 96) oder des Abas (II 27), von",
@@ -15832,7 +15832,7 @@
   {
     "lemma": "Ἔκκλητος 2",
     "previous": "Ἔκκλητος 1",
-    "next": "Ekkletos 3",
+    "next": "Ἔκκλητος 3",
     "sort_key": "Ekkletos 2",
     "proof_read": 2,
     "short_description": "Ekkletos dike, im athenischen Gerichtsverfahren, auch Apellation",
@@ -15845,7 +15845,7 @@
     ]
   },
   {
-    "lemma": "Ekkletos 3",
+    "lemma": "Ἔκκλητος 3",
     "previous": "Ἔκκλητος 2",
     "next": "Ekkritos",
     "sort_key": "Ekkletos 3",
@@ -15861,7 +15861,7 @@
   },
   {
     "lemma": "Ekkritos",
-    "previous": "Ekkletos 3",
+    "previous": "Ἔκκλητος 3",
     "next": "Ἐκκύκλημα",
     "proof_read": 3,
     "short_description": "Spartaner, Anführer nach Sicilien 413 v. Chr.",
@@ -16408,7 +16408,7 @@
     "previous": "Elaia 7",
     "next": "Ἐλαίαγνος",
     "proof_read": 3,
-    "short_description": "Amazone",
+    "short_description": "Amazone aus Elaia bei Nikomedia",
     "chapters": [
       {
         "start": 2224,
@@ -18153,10 +18153,15 @@
   {
     "lemma": "Elege",
     "previous": "Elegarsina",
+    "next": "Elegeia 1",
+    "sort_key": "Elege",
+    "proof_read": 2,
+    "short_description": "Tochter des Proitos, Schwester der Kelaine, im dionysisch-erotischen Kult",
     "chapters": [
       {
         "start": 2258,
-        "author": "Crusius"
+        "end": 2258,
+        "author": "Crusius."
       }
     ]
   },
@@ -18177,7 +18182,7 @@
   {
     "lemma": "Elegeia 1",
     "previous": "Elege",
-    "next": "Elegeia 2",
+    "next": "Elegeis",
     "sort_key": "Elegeia 1",
     "proof_read": 2,
     "short_description": "Stadt in Großarmenien",
@@ -18191,12 +18196,16 @@
   },
   {
     "lemma": "Elegeis",
+    "previous": "Elegeia 1",
     "next": "Elegiae in Maecenatem",
+    "sort_key": "Elegeis",
+    "proof_read": 2,
+    "short_description": "Tochter des Neleus, ein Spitzname in religiöser Übung und im Demeterkult",
     "chapters": [
       {
         "start": 2258,
         "end": 2260,
-        "author": "Crusius"
+        "author": "Crusius."
       }
     ]
   },
@@ -18401,10 +18410,13 @@
     "lemma": "Eleithyaion 2",
     "previous": "Eleithyaion 1",
     "next": "Elektor",
+    "proof_read": 2,
+    "short_description": "Kalendermonat von Tenos, Juni oder Juli",
     "chapters": [
       {
         "start": 2309,
-        "author": "Dittenberger"
+        "end": 2309,
+        "author": "Dittenberger."
       }
     ]
   },
@@ -18441,11 +18453,13 @@
     "lemma": "Elektra 2",
     "previous": "Elektra 1",
     "next": "Elektras",
+    "proof_read": 2,
+    "short_description": "Figur der griechischen Sage, die ,Strahlende‘",
     "chapters": [
       {
         "start": 2309,
         "end": 2314,
-        "author": "Bethe"
+        "author": "Bethe."
       }
     ]
   },
@@ -18453,10 +18467,14 @@
     "lemma": "Elektras",
     "previous": "Elektra 2",
     "next": "Ἠλέκτρας νῆσος",
+    "sort_key": "Elektras",
+    "proof_read": 2,
+    "short_description": "der ,glänzende‘ Fluß in der Mitte der Insel Kreta, heute Amariótis",
     "chapters": [
       {
         "start": 2314,
-        "author": "Bürchner"
+        "end": 2314,
+        "author": "Bürchner."
       }
     ]
   },
@@ -18479,11 +18497,14 @@
     "lemma": "Elektrides",
     "previous": "Ἠλέκτρας νῆσος",
     "next": "Elektron",
+    "sort_key": "Elektrides",
+    "proof_read": 2,
+    "short_description": "angenommene Inselgruppe im Norden der Adria",
     "chapters": [
       {
         "start": 2314,
         "end": 2315,
-        "author": "Patsch"
+        "author": "Patsch."
       }
     ]
   },
