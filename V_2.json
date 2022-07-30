@@ -11656,7 +11656,7 @@
     "previous": "Edas",
     "next": "Eddana",
     "proof_read": 3,
-    "short_description": "vornehmer Jüngling; an ihn gerichtet Ennodius 392 = Epist. VIII 15.",
+    "short_description": "vornehmer Jüngling, genannt bei Ennodius",
     "chapters": [
       {
         "start": 1932,
@@ -19520,7 +19520,7 @@
     "previous": "Ἐλευθέρια 2",
     "next": "Eleutherion 2",
     "proof_read": 2,
-    "short_description": "Bach am Heraion von Mykenai",
+    "short_description": "Bach am Heraion von Mykenai, der das heilige Tempelwasser lieferte",
     "no_creative_height": true,
     "chapters": [
       {
@@ -21870,35 +21870,43 @@
   {
     "lemma": "Embata",
     "previous": "Ἔμβασις",
-    "next": "Embateia, embateusis",
+    "next": "Ἐμβατεία, ἐμβάτευσις",
+    "proof_read": 2,
+    "short_description": "Hafenbucht an der Südwest-Küste der ionischen Chalkitis",
     "chapters": [
       {
         "start": 2485,
         "end": 2486,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Embateia, embateusis",
+    "lemma": "Ἐμβατεία, ἐμβάτευσις",
     "previous": "Embata",
     "next": "Embaterion",
+    "sort_key": "Embateia,embateusis",
+    "proof_read": 2,
+    "short_description": "Besitzergreifung eines Gegenstandes (zum Beispiel Pfand) als juristischer t.t.",
     "chapters": [
       {
         "start": 2486,
-        "author": "Thalheim"
+        "end": 2486,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Embaterion",
-    "previous": "Embateia, embateusis",
+    "previous": "Ἐμβατεία, ἐμβάτευσις",
     "next": "Ἐμβατήρια",
+    "proof_read": 2,
+    "short_description": "Militärmarsch der spartanischen Flötenbläser, mit starken Anapästen",
     "chapters": [
       {
         "start": 2486,
         "end": 2487,
-        "author": "Crusius"
+        "author": "Crusius."
       }
     ]
   },
