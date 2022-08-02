@@ -10,12 +10,12 @@ requirements_file = repo_path.joinpath("requirements-dev.txt")
 
 if os.name == "nt":
     global_binary = "python"
-    local_binary = ".\\python"
     local_binary_path = venv_path.joinpath("Scripts")
+    local_binary = local_binary_path.joinpath("python")
 else:
     global_binary = "python3"
-    local_binary = "./python3"
     local_binary_path = venv_path.joinpath("bin")
+    local_binary = local_binary_path.joinpath("python3")
 
 subprocess.run([global_binary, "-m", "pip", "install", "virtualenv"])
 subprocess.run([global_binary, "-m", "venv", str(venv_path)])
