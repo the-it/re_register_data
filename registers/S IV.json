@@ -7299,51 +7299,64 @@
   {
     "lemma": "Kynosarion",
     "previous": "Kynegeiros",
-    "next": "Kyreschata",
+    "next": "Κυρέσχατα",
+    "proof_read": 2,
+    "short_description": "Ort an der pamphylischen Küste zwischen Eurymedon und Kestros",
     "chapters": [
       {
         "start": 1127,
-        "author": "Ruge"
+        "end": 1127,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Kyreschata",
+    "lemma": "Κυρέσχατα",
     "previous": "Kynosarion",
-    "next": "Kyropolis 1",
+    "next": "Κυρόπολις 1",
+    "sort_key": "Kyreschata",
+    "proof_read": 2,
+    "short_description": "nordöstlichste Stadt des Perserreiches, am Iaxartes",
     "chapters": [
       {
         "start": 1127,
-        "author": "Weissbach"
+        "end": 1127,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Kyropolis 1",
-    "previous": "Kyreschata",
-    "next": "Kyropolis 2",
+    "lemma": "Κυρόπολις 1",
+    "previous": "Κυρέσχατα",
+    "next": "Κυρόπολις 2",
+    "sort_key": "Kyropolis 1",
+    "proof_read": 2,
+    "short_description": "Stadt im Nordwesten von Medien, am Kaspischen Meer, heute Enzeli",
     "chapters": [
       {
         "start": 1128,
-        "author": "Weissbach"
+        "end": 1128,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Kyropolis 2",
-    "previous": "Kyropolis 1",
-    "next": "Kyros",
+    "lemma": "Κυρόπολις 2",
+    "previous": "Κυρόπολις 1",
+    "next": "Kyros 5–7",
+    "sort_key": "Kyropolis 2",
+    "redirect": "Κυρέσχατα",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 1128,
-        "author": "Weissbach"
+        "end": 1128,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Kyros",
-    "previous": "Kyropolis 2",
-    "next": "Kyros 5",
     "chapters": [
       {
         "start": 1128,
@@ -7352,13 +7365,32 @@
     ]
   },
   {
+    "lemma": "Kyros 5–7",
+    "previous": "Κυρόπολις 2",
+    "next": "Kyros 5",
+    "sort_key": "Kyros 4z",
+    "proof_read": 2,
+    "short_description": "zwei Könige und ein Prinz der Achämeniden",
+    "chapters": [
+      {
+        "start": 1128,
+        "end": 1128,
+        "author": "Weissbach."
+      }
+    ]
+  },
+  {
     "lemma": "Kyros 5",
-    "previous": "Kyros",
+    "previous": "Kyros 5–7",
     "next": "Kyros 6",
+    "sort_key": "Kyros 5",
+    "proof_read": 2,
+    "short_description": "Kyros I., König von Anšan im 7. Jh. v. Chr., Großvater von Kyros II. d. Gr.",
     "chapters": [
       {
         "start": 1129,
-        "author": "Weissbach"
+        "end": 1129,
+        "author": "Weissbach."
       }
     ]
   },
