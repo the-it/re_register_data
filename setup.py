@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import os
-import subprocess
+import subprocess  # nosec
 from pathlib import Path
 
 root_path = Path(__file__).parent
@@ -17,11 +17,11 @@ else:
     local_binary_path = venv_path.joinpath("bin")
     local_binary = local_binary_path.joinpath("python3")
 
-subprocess.run([global_binary, "-m", "pip", "install", "virtualenv"])
-subprocess.run([global_binary, "-m", "venv", str(venv_path)])
+subprocess.run([global_binary, "-m", "pip", "install", "virtualenv"])  # nosec
+subprocess.run([global_binary, "-m", "venv", str(venv_path)])  # nosec
 if not os.path.exists(repo_path):
-    subprocess.run(["git", "clone", "git@github.com:the-it/WS_THEbotIT.git"], cwd=root_path)
+    subprocess.run(["git", "clone", "git@github.com:the-it/WS_THEbotIT.git"], cwd=root_path)  # nosec
 else:
-    subprocess.run(["git", "pull"], cwd=repo_path)
-subprocess.run([local_binary, "-m", "pip", "install", "-r", requirements_file],
+    subprocess.run(["git", "pull"], cwd=repo_path)  # nosec
+subprocess.run([local_binary, "-m", "pip", "install", "-r", requirements_file],  # nosec
                cwd=local_binary_path)
