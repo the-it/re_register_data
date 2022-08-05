@@ -9,6 +9,6 @@ Die Quellen dieses Bots finden sich in einem [gesonderten Repositorys](https://g
 Die Daten der Register können in diesem Repository korrigiert werden. 
 Dazu können Tests ausgeführt werden, um die Integrität der Daten sicherzustellen.
 
-* Python3 und Git müssen installiert sein und im Pfad des entsprechenden Systems vorhanden sein.
+* Zuerst müssen Python3 und Git installiert sein und im Pfad des entsprechenden Systems vorhanden sein, z. B. mit den lokalen Apps "PyCharm" und "Git Bash".
 * Führe `setup.py` aus um eine virtuelle Umgebung und den Testcode runterzuladen
 * Führe `test.py` aus um die Tests abzuspielen
