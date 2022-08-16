@@ -247,7 +247,7 @@
     "previous": "Donax 2",
     "next": "Donnes",
     "proof_read": 3,
-    "short_description": "Vir spectabilis, Grundbesitzer in Gallien, Arverner (Apoll. Sid. epist. III 5).",
+    "short_description": "Vir spectabilis, Grundbesitzer in Gallien, Arverner",
     "chapters": [
       {
         "start": 1548,
@@ -22394,6 +22394,7 @@
     "proof_read": 2,
     "short_description": "Stadt in Pannonien, Strassenknoten und Waffenplatz, jetzt Laibach",
     "wp_link": "w:de:Ljubljana",
+    "wd_link": "d:Q437",
     "chapters": [
       {
         "start": 2504,
@@ -22422,7 +22423,7 @@
     "previous": "Ἐμπαιστική",
     "next": "Empedias",
     "proof_read": 2,
-    "short_description": "als paganorum dea nur von Paul. p. 76 erwähnt, wohl zusammengehörig oder",
+    "short_description": "paganorum dea, zusammengehörig oder identisch mit Panda",
     "chapters": [
       {
         "start": 2506,
@@ -22594,7 +22595,7 @@
     "previous": "Ἐμπήκτης",
     "next": "Έμπέλωροι",
     "proof_read": 2,
-    "short_description": "(Ἐμπηλάθρα, Ptol. VII 1, 54), vorderindische Stadt in der Landschaft",
+    "short_description": "vorderindische Stadt in der Landschaft Sandrabatis, heute Mahoba?",
     "chapters": [
       {
         "start": 2512,
@@ -22648,7 +22649,7 @@
     ]
   },
   {
-    "lemma": "Ἒμφρουροι",
+    "lemma": "Ἔμφρουροι",
     "previous": "Emperesion",
     "next": "Emphyteusis",
     "sort_key": "Emphrouroi",
@@ -22664,13 +22665,15 @@
   },
   {
     "lemma": "Emphyteusis",
-    "previous": "Ἒμφρουροι",
+    "previous": "Ἔμφρουροι",
     "next": "Empirische Schule",
+    "proof_read": 2,
+    "short_description": "Anpflanzungsrecht",
     "chapters": [
       {
         "start": 2513,
         "end": 2516,
-        "author": "Leonhard"
+        "author": "R. Leonhard."
       }
     ]
   },
@@ -22678,11 +22681,15 @@
     "lemma": "Empirische Schule",
     "previous": "Emphyteusis",
     "next": "Emplekton",
+    "proof_read": 2,
+    "short_description": "Ärzteschule seit dem 3. Jahrhundert v. Chr.",
+    "wp_link": "w:de:Empiriker (Ärzteschule)",
+    "wd_link": "d:Q1339348",
     "chapters": [
       {
         "start": 2516,
         "end": 2524,
-        "author": "Wellmann, M[ax]"
+        "author": "M. Wellmann."
       }
     ]
   },
@@ -22690,11 +22697,13 @@
     "lemma": "Emplekton",
     "previous": "Empirische Schule",
     "next": "Ἐμπλόκια",
+    "proof_read": 2,
+    "short_description": "Technik einer griechischen Wandkonstruktion",
     "chapters": [
       {
         "start": 2524,
         "end": 2525,
-        "author": "Puchstein"
+        "author": "Puchstein."
       }
     ]
   },
@@ -22743,8 +22752,8 @@
   {
     "lemma": "Empolis",
     "previous": "Empolaios",
-    "next": "Emporia",
-    "proof_read": 2,
+    "next": "Ἐμπορία",
+    "proof_read": 3,
     "short_description": "(Ἔμπολις), Epiklesis des Dionysos, Anon. Laur. 12 (Schoell-Studemund Anecd. I",
     "chapters": [
       {
@@ -22755,84 +22764,111 @@
     ]
   },
   {
-    "lemma": "Emporia",
+    "lemma": "Ἐμπορία",
     "previous": "Empolis",
     "next": "Emporia 2",
+    "sort_key": "Emporia",
+    "proof_read": 2,
+    "short_description": "Großhandel, Großhändler",
     "chapters": [
       {
         "start": 2526,
-        "author": "Thalheim"
+        "end": 2526,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Emporia 2",
-    "previous": "Emporia",
+    "previous": "Ἐμπορία",
     "next": "Emporiae",
+    "sort_key": "Emporia 2",
+    "proof_read": 2,
+    "short_description": "Gebiet um die kleine Syrte",
     "chapters": [
       {
         "start": 2526,
         "end": 2527,
-        "author": "Dessau"
+        "author": "Dessau."
       }
     ]
   },
   {
     "lemma": "Emporiae",
     "previous": "Emporia 2",
-    "next": "Emporikai dikai",
+    "next": "Ἐμπορικαὶ δίκαι",
+    "sort_key": "Emporiae",
+    "proof_read": 2,
+    "short_description": "Stadt in Hispanien, jetzt Ampurias",
+    "wp_link": "w:de:Empúries",
+    "wd_link": "d:Q1229367",
     "chapters": [
       {
         "start": 2527,
         "end": 2530,
-        "author": "Hübner"
+        "author": "Hübner."
       }
     ]
   },
   {
-    "lemma": "Emporikai dikai",
+    "lemma": "Ἐμπορικαὶ δίκαι",
     "previous": "Emporiae",
-    "next": "Emporikoi nomoi",
+    "next": "Ἐμπορικοὶ νόμοι",
+    "sort_key": "Emporikai_dikai",
+    "proof_read": 2,
+    "short_description": "Athener Seehandelsgericht",
     "chapters": [
       {
         "start": 2530,
         "end": 2531,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
-    "lemma": "Emporikoi nomoi",
-    "previous": "Emporikai dikai",
-    "next": "Emporikos kolpos",
+    "lemma": "Ἐμπορικοὶ νόμοι",
+    "previous": "Ἐμπορικαὶ δίκαι",
+    "next": "Ἐμπορικὸς κόλπος",
+    "sort_key": "Emporikoi_nomoi",
+    "proof_read": 2,
+    "short_description": "Attische Handelsgesetze",
     "chapters": [
       {
         "start": 2531,
         "end": 2532,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
-    "lemma": "Emporikos kolpos",
-    "previous": "Emporikoi nomoi",
+    "lemma": "Ἐμπορικὸς κόλπος",
+    "previous": "Ἐμπορικοὶ νόμοι",
     "next": "Emporion",
+    "sort_key": "Emporikos_kolpos",
+    "proof_read": 2,
+    "short_description": "Phönizische Küstenstädte an der Nordwestküste Afrikas",
     "chapters": [
       {
         "start": 2532,
-        "author": "Fischer"
+        "end": 2532,
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Emporion",
-    "previous": "Emporikos kolpos",
+    "previous": "Ἐμπορικὸς κόλπος",
     "next": "Ἐμπόριον Βαρβαρικόν",
+    "sort_key": "Emporion",
+    "proof_read": 2,
+    "short_description": "Bezeichnung für Seehandelsplatz",
+    "wp_link": "w:de:Emporion",
+    "wd_link": "d:Q655593",
     "chapters": [
       {
         "start": 2532,
-        "end": 2534,
-        "author": "Wachsmuth"
+        "end": 2532,
+        "author": "Wachsmuth."
       }
     ]
   },
@@ -22896,11 +22932,13 @@
     "lemma": "Emporius orator",
     "previous": "Emporium 3",
     "next": "Emptio venditio",
+    "proof_read": 2,
+    "short_description": "Lat. Rhetor vermutl. 5./6. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2535,
         "end": 2536,
-        "author": "Brzoska"
+        "author": "Brzoska."
       }
     ]
   },
@@ -22908,11 +22946,13 @@
     "lemma": "Emptio venditio",
     "previous": "Emporius orator",
     "next": "Emptor",
+    "proof_read": 2,
+    "short_description": "Kauf/Verkauf nach Römischem Recht",
     "chapters": [
       {
         "start": 2536,
         "end": 2540,
-        "author": "Leonhard"
+        "author": "R. Leonhard."
       }
     ]
   },
@@ -22962,10 +23002,13 @@
     "lemma": "Empylos",
     "previous": "Empusa",
     "next": "Ἔμπυρα",
+    "proof_read": 2,
+    "short_description": "Griechischer Rhetor (1. Jhdt. vor Christus)",
     "chapters": [
       {
         "start": 2543,
-        "author": "Brzoska"
+        "end": 2543,
+        "author": "Brzoska."
       }
     ]
   },
@@ -22973,11 +23016,14 @@
     "lemma": "Ἔμπυρα",
     "previous": "Empylos",
     "next": "Enadab",
+    "sort_key": "Empyra",
+    "proof_read": 2,
+    "short_description": "Zeichen, die man aus d. Verbrennen d. Opferstücke entnahm",
     "chapters": [
       {
         "start": 2543,
         "end": 2544,
-        "author": "Stengel"
+        "author": "Stengel."
       }
     ]
   },
@@ -23167,10 +23213,13 @@
     "lemma": "Enalios, Enalia",
     "previous": "Enalios",
     "next": "Enalos",
+    "proof_read": 2,
+    "short_description": "Beiwort für Meeresgötter und -Göttinnen",
     "chapters": [
       {
         "start": 2545,
-        "author": "Jessen"
+        "end": 2545,
+        "author": "Jessen."
       }
     ]
   },
@@ -23178,11 +23227,13 @@
     "lemma": "Enalos",
     "previous": "Enalios, Enalia",
     "next": "Enarete",
+    "proof_read": 2,
+    "short_description": "ein in Lesbos verehrter Poseidonheros",
     "chapters": [
       {
         "start": 2545,
         "end": 2547,
-        "author": "Tümpel"
+        "author": "Tümpel."
       }
     ]
   },
@@ -23246,8 +23297,8 @@
     "lemma": "Enauros",
     "previous": "Ἔναυλος κιθάρισις",
     "next": "Encarpa",
-    "proof_read": 2,
-    "short_description": "(Ἔναυρος), Epiklesis des Apollon, Hesych., und zwar vielleicht wegen Hesych.",
+    "proof_read": 3,
+    "short_description": "(Ἔναυρος), Epiklesis des Apollon",
     "chapters": [
       {
         "start": 2547,
@@ -23260,10 +23311,13 @@
     "lemma": "Encarpa",
     "previous": "Enauros",
     "next": "Encheios",
+    "proof_read": 2,
+    "short_description": "Encarpa, Analogie der ionischen Säule mit weiblicher Schönheit",
     "chapters": [
       {
         "start": 2547,
-        "author": "Puchstein"
+        "end": 2547,
+        "author": "Puchstein."
       }
     ]
   },
@@ -23285,11 +23339,13 @@
     "lemma": "Encheirogastores",
     "previous": "Encheios",
     "next": "Enchelees, Encheleioi",
+    "proof_read": 2,
+    "short_description": "Encheigastores, monströse mythische Wesen aus Kyzikos",
     "chapters": [
       {
         "start": 2547,
         "end": 2548,
-        "author": "Tümpel"
+        "author": "Tümpel."
       }
     ]
   },
@@ -23297,10 +23353,14 @@
     "lemma": "Enchelees, Encheleioi",
     "previous": "Encheirogastores",
     "next": "Encheleus",
+    "short_description": "Encheleer, Volkstamm in Illyrien",
+    "wp_link": "w:de:Encheläer",
+    "wd_link": "d:Q1265876",
     "chapters": [
       {
         "start": 2549,
-        "author": "Philippson"
+        "end": 2549,
+        "author": "Philippson."
       }
     ]
   },
@@ -23308,10 +23368,13 @@
     "lemma": "Encheleus",
     "previous": "Enchelees, Encheleioi",
     "next": "Enchelys",
+    "proof_read": 2,
+    "short_description": "Encheleus, Ahnherr eines illyrischen Volks",
     "chapters": [
       {
         "start": 2549,
-        "author": "Tümpel"
+        "end": 2549,
+        "author": "Tümpel."
       }
     ]
   },
@@ -23319,11 +23382,13 @@
     "lemma": "Enchelys",
     "previous": "Encheleus",
     "next": "Enchesimargos",
+    "proof_read": 2,
+    "short_description": "Enchelys, ein spukhaftes Meerwesen in Kos",
     "chapters": [
       {
         "start": 2549,
         "end": 2551,
-        "author": "Tümpel"
+        "author": "Tümpel."
       }
     ]
   },
@@ -23359,10 +23424,13 @@
     "lemma": "Endeides",
     "previous": "Encho",
     "next": "Endeis",
+    "proof_read": 2,
+    "short_description": "Endeides, Bezeichnung der Nymphen auf Kypros",
     "chapters": [
       {
         "start": 2551,
-        "author": "Jessen"
+        "end": 2551,
+        "author": "Jessen."
       }
     ]
   },
@@ -23384,11 +23452,14 @@
     "lemma": "Endeixis",
     "previous": "Endeis",
     "next": "Endelechius",
+    "sort_key": "Endeixis",
+    "proof_read": 2,
+    "short_description": "Endeixis, Form einer Anzeige vor Gericht",
     "chapters": [
       {
         "start": 2551,
         "end": 2552,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
@@ -23396,11 +23467,16 @@
     "lemma": "Endelechius",
     "previous": "Endeixis",
     "next": "Endendros",
+    "proof_read": 2,
+    "short_description": "Endelechius, christlicher Rhetor und Dichter um 400 n.Ch.",
+    "wp_link": "w:de:Severus Sanctus Endelechius",
+    "ws_link": "s:la:Scriptor:Severus Rhetor",
+    "wd_link": "d:Q662111",
     "chapters": [
       {
         "start": 2552,
         "end": 2553,
-        "author": "Jülicher"
+        "author": "Jülicher."
       }
     ]
   },
@@ -23408,10 +23484,13 @@
     "lemma": "Endendros",
     "previous": "Endelechius",
     "next": "Endera",
+    "proof_read": 2,
+    "short_description": "Endendros, Bezeichnung für Götter, die den Wuchs von Bäumen fördern",
     "chapters": [
       {
         "start": 2553,
-        "author": "Jessen"
+        "end": 2553,
+        "author": "Jessen."
       }
     ]
   },
@@ -23461,10 +23540,13 @@
     "lemma": "Endios",
     "previous": "Endiagros",
     "next": "Endirudini",
+    "proof_read": 2,
+    "short_description": "Endios, Sohn des Alkibiades",
     "chapters": [
       {
         "start": 2553,
-        "author": "Niese"
+        "end": 2553,
+        "author": "Niese."
       }
     ]
   },
@@ -23527,46 +23609,61 @@
   {
     "lemma": "Endovellicus",
     "previous": "Endor",
-    "next": "Endromis",
+    "next": "Ἐνδρομίς",
+    "proof_read": 2,
+    "short_description": "Ein Gott in Lusitanien",
     "chapters": [
       {
         "start": 2555,
-        "author": "Ihm"
+        "end": 2555,
+        "author": "Ihm."
       }
     ]
   },
   {
-    "lemma": "Endromis",
+    "lemma": "Ἐνδρομίς",
     "previous": "Endovellicus",
-    "next": "Endromo",
+    "next": "Ἐνδρομώ",
+    "sort_key": "Endromis",
+    "proof_read": 2,
+    "short_description": "Jagdstiefel",
     "chapters": [
       {
         "start": 2555,
         "end": 2557,
-        "author": "Amelung"
+        "author": "Amelung."
       }
     ]
   },
   {
-    "lemma": "Endromo",
-    "previous": "Endromis",
+    "lemma": "Ἐνδρομώ",
+    "previous": "Ἐνδρομίς",
     "next": "Endymion",
+    "sort_key": "Endromo",
+    "proof_read": 2,
+    "short_description": "Endromo, Epiklesis der Göttin Demeter in Halikarnass",
     "chapters": [
       {
         "start": 2557,
-        "author": "Jessen"
+        "end": 2557,
+        "author": "Jessen."
       }
     ]
   },
   {
     "lemma": "Endymion",
-    "previous": "Endromo",
+    "previous": "Ἐνδρομώ",
     "next": "Endyspoitropios",
+    "sort_key": "Endymion",
+    "proof_read": 2,
+    "short_description": "Urspr. göttl. Wesen, Figur d. gr. Sage",
+    "wp_link": "w:de:Endymion (Mythologie)",
+    "wd_link": "d:Q272047",
     "chapters": [
       {
         "start": 2557,
         "end": 2560,
-        "author": "Bethe"
+        "author": "Bethe."
       }
     ]
   },
@@ -23574,11 +23671,14 @@
     "lemma": "Endyspoitropios",
     "previous": "Endymion",
     "next": "Enechyrasia",
+    "sort_key": "Endyspoitropios",
+    "proof_read": 2,
+    "short_description": "Monat d. delphischen Kalenderjahres",
     "chapters": [
       {
         "start": 2560,
         "end": 2561,
-        "author": "Dittenberger"
+        "author": "Dittenberger."
       }
     ]
   },
@@ -23586,10 +23686,16 @@
     "lemma": "Enechyrasia",
     "previous": "Endyspoitropios",
     "next": "Enelyskis",
+    "sort_key": "Enechyrasia",
+    "proof_read": 2,
+    "short_description": "Pfändung",
+    "wp_link": "w:de:Pfändung",
+    "wd_link": "d:Q186302",
     "chapters": [
       {
         "start": 2561,
-        "author": "Thalheim"
+        "end": 2561,
+        "author": "Thalheim."
       }
     ]
   },
@@ -23772,47 +23878,61 @@
   {
     "lemma": "Engonasin",
     "previous": "Engolisma",
-    "next": "Engye",
+    "next": "Ἐγγύη",
+    "proof_read": 2,
+    "short_description": "Sternbild d. nördl. Halbkugel",
+    "wp_link": "w:de:Herkules (Sternbild)",
     "chapters": [
       {
         "start": 2563,
         "end": 2565,
-        "author": "Rehm"
+        "author": "Rehm."
       }
     ]
   },
   {
-    "lemma": "Engye",
+    "lemma": "Ἐγγύη",
     "previous": "Engonasin",
-    "next": "Engyesis",
+    "next": "Ἐγγύησις",
+    "sort_key": "Engye",
+    "proof_read": 2,
+    "short_description": "Bürgschaft",
+    "wp_link": "w:de:Bürgschaft",
     "chapters": [
       {
         "start": 2565,
         "end": 2567,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
-    "lemma": "Engyesis",
-    "previous": "Engye",
+    "lemma": "Ἐγγύησις",
+    "previous": "Ἐγγύη",
     "next": "Engyon",
+    "sort_key": "Engyesis",
+    "proof_read": 2,
+    "short_description": "Abschluss des Ehevertrags",
     "chapters": [
       {
         "start": 2567,
         "end": 2568,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Engyon",
-    "previous": "Engyesis",
+    "previous": "Ἐγγύησις",
     "next": "Ἐγγυθήκη",
+    "sort_key": "Engyon",
+    "proof_read": 2,
+    "short_description": "Stadt in Sizilien",
     "chapters": [
       {
         "start": 2568,
-        "author": "Hülsen"
+        "end": 2568,
+        "author": "Hülsen."
       }
     ]
   },
@@ -23834,11 +23954,13 @@
     "lemma": "Eniautos",
     "previous": "Ἐγγυθήκη",
     "next": "Enikoniai",
+    "sort_key": "Eniautos",
+    "short_description": "Personifikation d. Jahres",
     "chapters": [
       {
         "start": 2568,
         "end": 2569,
-        "author": "Waser"
+        "author": "Waser."
       }
     ]
   },
@@ -25582,10 +25704,13 @@
     "lemma": "Epagathos 1",
     "previous": "Epadatextorix",
     "next": "Epagathos 2",
+    "proof_read": 2,
+    "short_description": "kaiserlicher Freigelassener unter Caracalla, 3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2670,
-        "author": "Stein, [Arthur]"
+        "end": 2670,
+        "author": "Stein."
       }
     ]
   },
@@ -25608,10 +25733,14 @@
     "lemma": "Epagathos 3",
     "previous": "Epagathos 2",
     "next": "Epagatos 4",
+    "sort_key": "Epagathos 3",
+    "proof_read": 2,
+    "short_description": "athenischer Bildhauer 1. Jh. n. Chr., Sohn des Aristodemos",
     "chapters": [
       {
         "start": 2670,
-        "author": "Robert"
+        "end": 2670,
+        "author": "C. Robert."
       }
     ]
   },
@@ -25619,10 +25748,13 @@
     "lemma": "Epagatos 4",
     "previous": "Epagathos 3",
     "next": "Epageritae",
+    "proof_read": 2,
+    "short_description": "in einer archaischen Felsinschrift von Thera",
     "chapters": [
       {
         "start": 2670,
-        "author": "Robert"
+        "end": 2670,
+        "author": "C. Robert."
       }
     ]
   },
@@ -25630,11 +25762,13 @@
     "lemma": "Epageritae",
     "previous": "Epagatos 4",
     "next": "Ἐπαγωγή",
+    "proof_read": 2,
+    "short_description": "sarmatisches Volk im Kaukasus bei der Handelsstadt Pityus = Agoritai",
     "chapters": [
       {
         "start": 2670,
         "end": 2671,
-        "author": "Kiessling, Max"
+        "author": "Kiessling."
       }
     ]
   },
@@ -25657,11 +25791,13 @@
     "lemma": "Epagomenae",
     "previous": "Ἐπαγωγή",
     "next": "Epagris",
+    "proof_read": 2,
+    "short_description": "fünf Zusatztage im Wandeljahr der Ägypter",
     "chapters": [
       {
         "start": 2671,
         "end": 2672,
-        "author": "Dittenberger"
+        "author": "Dittenberger."
       }
     ]
   },
@@ -25800,11 +25936,14 @@
     "lemma": "Epainetos 9",
     "previous": "Epainetos 8",
     "next": "Epakmonios",
+    "sort_key": "Epainetos 9",
+    "proof_read": 2,
+    "short_description": "griechischer Verfasser eines Kochbuchs",
     "chapters": [
       {
         "start": 2672,
         "end": 2673,
-        "author": "Cohn"
+        "author": "Cohn."
       }
     ]
   },
@@ -25826,10 +25965,14 @@
     "lemma": "Epakria",
     "previous": "Epakmonios",
     "next": "Epakrios",
+    "sort_key": "Epakria",
+    "proof_read": 2,
+    "short_description": "das nördliche, überwiegend gebirgige Attika = Diakria",
     "chapters": [
       {
         "start": 2673,
-        "author": "Milchhöfer"
+        "end": 2673,
+        "author": "Milchhöfer."
       }
     ]
   },
@@ -26003,10 +26146,13 @@
     "lemma": "Epameinondas 3",
     "previous": "Epameinondas 2",
     "next": "Epandrides",
+    "proof_read": 2,
+    "short_description": "Sohn des Epameinondas aus Akraiphia, 37 n. Chr. Gesandter der Boioter",
     "chapters": [
       {
         "start": 2707,
-        "author": "Swoboda, [Heinrich]"
+        "end": 2707,
+        "author": "Swoboda."
       }
     ]
   },
@@ -26027,7 +26173,7 @@
   {
     "lemma": "Epandros",
     "previous": "Epandrides",
-    "next": "Epangelia",
+    "next": "Ἐπαγγελία",
     "proof_read": 2,
     "short_description": "mit dem Beinamen Nikephoros, König von Baktrien und Indien, nur aus Münzen",
     "chapters": [
@@ -26039,20 +26185,23 @@
     ]
   },
   {
-    "lemma": "Epangelia",
+    "lemma": "Ἐπαγγελία",
     "previous": "Epandros",
     "next": "Ἐπαγκωνισμός",
+    "sort_key": "Epangelia",
+    "proof_read": 2,
+    "short_description": "Ankündigung gegen einen unwürdigen Redner der Volksversammlung",
     "chapters": [
       {
         "start": 2707,
         "end": 2708,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Ἐπαγκωνισμός",
-    "previous": "Epangelia",
+    "previous": "Ἐπαγγελία",
     "next": "Epanterii",
     "sort_key": "Epankonismos",
     "proof_read": 2,
@@ -26097,11 +26246,13 @@
     "lemma": "Epaphos 1",
     "previous": "Epaphios",
     "next": "Epaphos 2",
+    "proof_read": 2,
+    "short_description": "Sohn der Io von Zeus, König der linnengewandeten Völker",
     "chapters": [
       {
         "start": 2708,
         "end": 2709,
-        "author": "Escher"
+        "author": "Escher."
       }
     ]
   },

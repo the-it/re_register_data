@@ -7379,11 +7379,15 @@
   {
     "lemma": "Ogulnius",
     "previous": "Ogonda",
-    "next": "Ogulnius, Cn. 2",
+    "next": "Ogulnius 1",
+    "sort_key": "Ogulnius 0",
+    "proof_read": 2,
+    "short_description": "Ogulnius, Geschlecht etruskischer Herkunft",
     "chapters": [
       {
         "start": 2064,
-        "author": "Münzer"
+        "end": 2064,
+        "author": "F. Münzer."
       }
     ]
   },
@@ -7415,12 +7419,16 @@
   },
   {
     "lemma": "Ogulnius 1",
-    "previous": "Ogulnius, M. 3",
-    "next": "Ogulnius Gallus, M. 4",
+    "previous": "Ogulnius",
+    "next": "Ogulnius 2",
+    "sort_key": "Ogulnius 1",
+    "proof_read": 3,
+    "short_description": "Münzmeister 84 v. Chr.",
     "chapters": [
       {
         "start": 2064,
-        "author": "Münzer"
+        "end": 2064,
+        "author": "F. Münzer."
       }
     ]
   },
@@ -7449,7 +7457,6 @@
   {
     "lemma": "Ogulnia 6",
     "previous": "Ogulnius Gallus, Q.",
-    "next": "Ogyges",
     "proof_read": 2,
     "short_description": "Ogulnia Vergnügungssüchtige, leichtsinnige Frau",
     "chapters": [
@@ -7461,8 +7468,67 @@
     ]
   },
   {
+    "lemma": "Ogulnius 3",
+    "next": "Ogulnius 4",
+    "sort_key": "Ogulnius 3",
+    "proof_read": 2,
+    "short_description": "M. Ogulnius, Gesandter in Etrurien 210 v. Chr.",
+    "chapters": [
+      {
+        "start": 2064,
+        "end": 2064,
+        "author": "F. Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Ogulnius 4",
+    "previous": "Ogulnius 3",
+    "next": "Ogulnius 5",
+    "sort_key": "Ogulnius 4",
+    "proof_read": 2,
+    "short_description": "M. Ogulnius Gallus, Praetor 182 v. Chr.",
+    "chapters": [
+      {
+        "start": 2064,
+        "end": 2064,
+        "author": "F. Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Ogulnius 5",
+    "previous": "Ogulnius 4",
+    "next": "Ogulnius 6",
+    "sort_key": "Ogulnius 5",
+    "proof_read": 2,
+    "short_description": "Q. Ogulnius Gallus, Volkstribun 300 v. Chr.",
+    "chapters": [
+      {
+        "start": 2064,
+        "end": 2066,
+        "author": "F. Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Ogulnius 6",
+    "previous": "Ogulnius 5",
+    "next": "Ogyges",
+    "sort_key": "Ogulnius 6",
+    "proof_read": 3,
+    "short_description": "Ogulnia, eine Vergnügungssüchtige, leichtsinnige Frau",
+    "chapters": [
+      {
+        "start": 2066,
+        "end": 2066,
+        "author": "Stein."
+      }
+    ]
+  },
+  {
     "lemma": "Ogyges",
-    "previous": "Ogulnia 6",
+    "previous": "Ogulnius 6",
     "next": "Ogygia 1",
     "redirect": "Ogygos 1",
     "proof_read": 2,

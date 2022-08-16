@@ -5054,7 +5054,7 @@
   {
     "lemma": "Vibius 15",
     "previous": "Vibius 14",
-    "next": "Vibius 15–17",
+    "next": "Vibius 15-17",
     "chapters": [
       {
         "start": 1953,
@@ -5063,7 +5063,7 @@
     ]
   },
   {
-    "lemma": "Vibius 15–17",
+    "lemma": "Vibius 15-17",
     "previous": "Vibius 15",
     "next": "Vibius 15a",
     "proof_read": 2,
@@ -5079,7 +5079,7 @@
   },
   {
     "lemma": "Vibius 15a",
-    "previous": "Vibius 15–17",
+    "previous": "Vibius 15-17",
     "next": "Vibius 16",
     "proof_read": 2,
     "short_description": "Pansa, C. Vater von Nr.15",
@@ -8639,8 +8639,8 @@
     "previous": "Wiligis",
     "next": "Vilius 1",
     "sort_key": "Vilitancus",
-    "proof_read": 2,
-    "short_description": "Person",
+    "proof_read": 3,
+    "short_description": "dux, Adressat einer Verfügung Theoderichs des Großen",
     "no_creative_height": true,
     "chapters": [
       {
@@ -10049,7 +10049,7 @@
   {
     "lemma": "Vellebori",
     "previous": "Vellaunus 2",
-    "next": "Venasa",
+    "next": "Vellocasses",
     "proof_read": 2,
     "short_description": "Volk im SW von Hibernia",
     "no_creative_height": true,
@@ -10062,8 +10062,51 @@
     ]
   },
   {
-    "lemma": "Venasa",
+    "lemma": "Vellocasses",
     "previous": "Vellebori",
+    "redirect": true,
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 2412,
+        "end": 2412
+      }
+    ]
+  },
+  {
+    "lemma": "Weltbild",
+    "next": "Weltschöpfung",
+    "sort_key": "Veltbild",
+    "redirect": true,
+    "proof_read": 2,
+    "wp_link": "w:de:Weltbild",
+    "wd_link": "d:Q2030462",
+    "chapters": [
+      {
+        "start": 2412,
+        "end": 2412
+      }
+    ]
+  },
+  {
+    "lemma": "Weltschöpfung",
+    "previous": "Weltbild",
+    "next": "Venasa",
+    "sort_key": "Veltschöpfung",
+    "redirect": true,
+    "proof_read": 2,
+    "wp_link": "w:de:Schöpfung",
+    "wd_link": "d:Q215304",
+    "chapters": [
+      {
+        "start": 2412,
+        "end": 2412
+      }
+    ]
+  },
+  {
+    "lemma": "Venasa",
+    "previous": "Weltschöpfung",
     "next": "Venneianus",
     "redirect": true,
     "proof_read": 2,
@@ -10172,9 +10215,15 @@
     "lemma": "Wera",
     "previous": "Venta Silurum",
     "next": "Veranius a",
+    "sort_key": "Vera",
+    "proof_read": 2,
+    "short_description": "Sajo des Ostgotenkönigs Theoderich",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 2414
+        "start": 2414,
+        "end": 2414,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -10182,9 +10231,12 @@
     "lemma": "Veranius a",
     "previous": "Wera",
     "next": "Veranus",
+    "short_description": "Freund des Dichters Catullus",
     "chapters": [
       {
-        "start": 2414
+        "start": 2414,
+        "end": 2416,
+        "author": "Mauriz Schuster."
       }
     ]
   },
@@ -10192,9 +10244,14 @@
     "lemma": "Veranus",
     "previous": "Veranius a",
     "next": "Veratianus",
+    "short_description": "Bischof",
+    "wp_link": "w:en:Veranus of Vence",
+    "wd_link": "d:Q3079716",
     "chapters": [
       {
-        "start": 2416
+        "start": 2416,
+        "end": 2418,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -11003,9 +11060,16 @@
     "lemma": "Viminacium 3",
     "previous": "Villa 7",
     "next": "Viminalis",
+    "proof_read": 2,
+    "short_description": "irrtümlich rekonstruierter Vorgängerort von Neuville-sur-Saône",
+    "no_creative_height": true,
+    "wp_link": "w:de:Neuville-sur-Saône",
+    "wd_link": "d:Q522234",
     "chapters": [
       {
-        "start": 2588
+        "start": 2588,
+        "end": 2588,
+        "author": "Adrien Bruhl."
       }
     ]
   },

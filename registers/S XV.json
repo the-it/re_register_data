@@ -3576,7 +3576,6 @@
   {
     "lemma": "Zopyros 19a",
     "previous": "Zone 2",
-    "next": "Weltbild",
     "chapters": [
       {
         "start": 1556,
@@ -3585,20 +3584,66 @@
     ]
   },
   {
-    "lemma": "Weltbild",
-    "previous": "Zopyros 19a",
-    "next": "Victor 69",
+    "lemma": "Vellocasses",
+    "next": "Weltalter",
+    "redirect": "Veliocasses",
+    "proof_read": 2,
     "chapters": [
       {
-        "start": 1557,
-        "end": 1583,
-        "author": "Bannert"
+        "start": 783,
+        "end": 783
       }
     ]
   },
   {
-    "lemma": "Victor 69",
+    "lemma": "Weltalter",
+    "previous": "Vellocasses",
+    "sort_key": "Veltalter",
+    "wp_link": "w:de:Weltalter der Antike",
+    "wd_link": "d:Q1525748",
+    "chapters": [
+      {
+        "start": 783,
+        "end": 850,
+        "author": "Hans Schwabl."
+      }
+    ]
+  },
+  {
+    "lemma": "Weltbild",
+    "previous": "Zopyros 19a",
+    "next": "Veneliocassi",
+    "sort_key": "Veltbild",
+    "redirect": true,
+    "wp_link": "w:de:Weltbild",
+    "wd_link": "d:Q2030462",
+    "chapters": [
+      {
+        "start": 1557,
+        "end": 1583,
+        "author": "Herbert Bannert."
+      }
+    ]
+  },
+  {
+    "lemma": "Veneliocassi",
     "previous": "Weltbild",
+    "next": "Venelli",
+    "redirect": "Veliocasses",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 850,
+        "end": 850
+      }
+    ]
+  },
+  {
+    "lemma": "Venelli",
+    "previous": "Veneliocassi"
+  },
+  {
+    "lemma": "Victor 69",
     "next": "Konrat Ziegler †",
     "wp_link": "w:de:Aurelius Victor",
     "ws_link": "s:de:Aurelius Victor",

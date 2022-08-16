@@ -9688,10 +9688,14 @@
     "lemma": "Venator",
     "previous": "venatio 2",
     "next": "Venatrix",
+    "proof_read": 2,
+    "short_description": "Freund des jüngeren Plinius",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 695,
-        "author": "Stiglitz"
+        "end": 695,
+        "author": "Roman Stiglitz."
       }
     ]
   },
@@ -9813,7 +9817,7 @@
   {
     "lemma": "Veneka",
     "previous": "Veneficium",
-    "next": "Venelli",
+    "next": "Veneliocassi",
     "chapters": [
       {
         "start": 699,
@@ -9822,8 +9826,21 @@
     ]
   },
   {
-    "lemma": "Venelli",
+    "lemma": "Veneliocassi",
     "previous": "Veneka",
+    "next": "Venelli",
+    "redirect": "Vellocasses",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 699,
+        "end": 699
+      }
+    ]
+  },
+  {
+    "lemma": "Venelli",
+    "previous": "Veneliocassi",
     "next": "Venenatus",
     "redirect": "Unelli",
     "proof_read": 2,
