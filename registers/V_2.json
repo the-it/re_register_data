@@ -24181,7 +24181,7 @@
     "previous": "Enkaustik",
     "next": "Enkelados",
     "proof_read": 3,
-    "short_description": "(Euseb. Onom. ed. Lagarde 256, 3ff. Ἐνκηλά = Hieron. 120, 15 Eccela), Ort in",
+    "short_description": "Ort in Palästina",
     "chapters": [
       {
         "start": 2578,
@@ -24335,7 +24335,7 @@
   {
     "lemma": "Enkolpos",
     "previous": "Enkolpios 3",
-    "next": "Enkomboma",
+    "next": "Ἐγκόμβωμα",
     "proof_read": 2,
     "short_description": "Person bei Mart.",
     "chapters": [
@@ -24347,26 +24347,31 @@
     ]
   },
   {
-    "lemma": "Enkomboma",
+    "lemma": "Ἐγκόμβωμα",
     "previous": "Enkolpos",
     "next": "Enkomion",
+    "sort_key": "Enkomboma",
+    "proof_read": 2,
+    "short_description": "Kleidungsstück, Mantel ärmlicherer Art",
     "chapters": [
       {
         "start": 2580,
         "end": 2581,
-        "author": "Amelung"
+        "author": "Amelung."
       }
     ]
   },
   {
     "lemma": "Enkomion",
-    "previous": "Enkomboma",
+    "previous": "Ἐγκόμβωμα",
     "next": "Ἐν κοτίλῃ",
+    "proof_read": 2,
+    "short_description": "Literaturgattung im klassischen Griechenland",
     "chapters": [
       {
         "start": 2581,
         "end": 2583,
-        "author": "Crusius"
+        "author": "Crusius."
       }
     ]
   },
@@ -24387,11 +24392,15 @@
   {
     "lemma": "Enkrateia",
     "previous": "Ἐν κοτίλῃ",
-    "next": "en kotile",
+    "next": "Ἔγκτησις",
+    "proof_read": 2,
+    "short_description": "die Selbstbeherrschung, Mäßigung personifiziert",
+    "wp_link": "w:de:Enkrateia",
     "chapters": [
       {
         "start": 2583,
-        "author": "Waser"
+        "end": 2583,
+        "author": "Waser."
       }
     ]
   },
@@ -24897,28 +24906,46 @@
     "lemma": "Enodia",
     "previous": "Ennulus",
     "next": "Enodios",
+    "proof_read": 2,
+    "short_description": "Griechische Gottheit, teils identifiziert mit Artemis, Hekate u.a.",
     "chapters": [
       {
         "start": 2634,
         "end": 2635,
-        "author": "Jessen"
+        "author": "Jessen."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἐνοικίου δίκη",
+    "previous": "Enodia",
+    "sort_key": "enoikiudike",
+    "proof_read": 2,
+    "short_description": "Klage auf den Ertrag eines Hauses oder eines Ackers",
+    "chapters": [
+      {
+        "start": 2636,
+        "end": 2636,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Enodios",
     "previous": "Enodia",
-    "next": "Enoikiu dike",
+    "next": "Ἐνοικίου δίκη",
+    "proof_read": 2,
+    "short_description": "Epiklesis für Gottheiten als Schützer v. Wanderern u. Reisenden",
     "chapters": [
       {
         "start": 2635,
         "end": 2636,
-        "author": "Jessen"
+        "author": "Jessen."
       }
     ]
   },
   {
-    "lemma": "Enoikiu dike",
+    "lemma": "Ἐνοικίου δίκη",
     "previous": "Enodios",
     "next": "Enope",
     "chapters": [
@@ -24930,7 +24957,7 @@
   },
   {
     "lemma": "Enope",
-    "previous": "Enoikiu dike",
+    "previous": "Ἐνοικίου δίκη",
     "next": "Enoplios",
     "proof_read": 2,
     "short_description": "(Ἠνόπη), bei Homer (Il. IX 150. 292) Stadt in Messenien, später Gerenia (s. d.)",
