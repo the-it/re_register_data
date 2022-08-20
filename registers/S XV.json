@@ -3429,7 +3429,6 @@
   {
     "lemma": "Weihrauch",
     "previous": "Altiaienses vicani",
-    "next": "Veneti 1",
     "chapters": [
       {
         "start": 700,
@@ -3440,18 +3439,24 @@
   },
   {
     "lemma": "Veneti 1",
-    "previous": "Weihrauch",
+    "previous": "Venelli",
+    "next": "Vernasius Facundus",
+    "wp_link": "w:de:Veneter (Adria)",
+    "wd_link": "d:Q220379",
     "chapters": [
       {
         "start": 855,
         "end": 898,
-        "author": "Untermann"
+        "author": "Jürgen Untermann."
       }
     ]
   },
   {
-    "lemma": "Konrat Ziegler †",
-    "previous": "Victor 69"
+    "lemma": "Vernasius Facundus",
+    "previous": "Veneti 1"
+  },
+  {
+    "lemma": "Konrat Ziegler †"
   },
   {
     "lemma": "Umbonius 1a",
@@ -3584,7 +3589,12 @@
     ]
   },
   {
+    "lemma": "Veliocasses",
+    "next": "Vellocasses"
+  },
+  {
     "lemma": "Vellocasses",
+    "previous": "Veliocasses",
     "next": "Weltalter",
     "redirect": "Veliocasses",
     "proof_read": 2,
@@ -3640,7 +3650,17 @@
   },
   {
     "lemma": "Venelli",
-    "previous": "Veneliocassi"
+    "previous": "Veneliocassi",
+    "next": "Veneti 1",
+    "wp_link": "w:de:Veneller",
+    "wd_link": "d:Q733283",
+    "chapters": [
+      {
+        "start": 850,
+        "end": 855,
+        "author": "Herbert Bannert."
+      }
+    ]
   },
   {
     "lemma": "Victor 69",
