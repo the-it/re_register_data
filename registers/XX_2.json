@@ -2293,7 +2293,7 @@
   {
     "lemma": "Pirustae",
     "previous": "Pirus",
-    "next": "Pis...",
+    "next": "Pis-",
     "chapters": [
       {
         "start": 1729,
@@ -2302,12 +2302,12 @@
     ]
   },
   {
-    "lemma": "Pis...",
+    "lemma": "Pis-",
     "previous": "Pirustae",
     "next": "Pisa, Pisatis",
     "sort_key": "Pis",
-    "redirect": true,
-    "proof_read": 2,
+    "redirect": "Peisa",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1732,
@@ -2317,12 +2317,15 @@
   },
   {
     "lemma": "Pisa, Pisatis",
-    "previous": "Pis...",
+    "previous": "Pis-",
     "next": "Pisae",
+    "short_description": "Stadt und Landschaft in Griechenland",
+    "wp_link": "w:de:Pisa (Griechenland)",
     "chapters": [
       {
-        "start": 1729,
-        "author": "Meyer, Ernst"
+        "start": 1732,
+        "end": 1756,
+        "author": "Ernst Meyer."
       }
     ]
   },
