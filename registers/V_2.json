@@ -25180,6 +25180,7 @@
     "proof_read": 2,
     "short_description": "Ente, Wasservogel, Darstellung in der klassischen Literatur",
     "wp_link": "w:de:Entenvögel",
+    "wd_link": "d:Q7556",
     "chapters": [
       {
         "start": 2639,
@@ -25209,6 +25210,7 @@
     "proof_read": 2,
     "short_description": "Entella, ehemalige Stadt in Inner-Sizilien, von Kaiser Friedrich II. zerstört",
     "wp_link": "w:de:en:Entella",
+    "wd_link": "d:Q2262528",
     "chapters": [
       {
         "start": 2648,
@@ -25261,7 +25263,7 @@
   },
   {
     "lemma": "Entellus 2",
-    "previous": "Entellus 1",
+    "previous": "Entella 1",
     "next": "Entellus 3",
     "proof_read": 2,
     "short_description": "Sizilischer Heros",
@@ -25390,7 +25392,7 @@
     "chapters": [
       {
         "start": 2650,
-        "end": 261,
+        "end": 2650,
         "author": "Knaack."
       }
     ]
@@ -26437,11 +26439,12 @@
     "lemma": "Epaphos 4",
     "previous": "Epaphos 3",
     "next": "Epaphras 1",
+    "short_description": "angeblicher Schriftsteller",
     "chapters": [
       {
         "start": 2709,
         "end": 2710,
-        "author": "Jacoby, [Felix]"
+        "author": "Jacoby."
       }
     ]
   },
@@ -26533,11 +26536,14 @@
     "lemma": "Epaphroditus 4",
     "previous": "Epaphroditos 3",
     "next": "Epaphroditos 5",
+    "proof_read": 2,
+    "short_description": "Epaphroditus, Freigelassener Neros, tötete ihn auf dessen Verlangen",
+    "wp_link": "w:de:Epaphroditos (Freigelassener Neros)",
     "chapters": [
       {
         "start": 2710,
         "end": 2711,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -26545,11 +26551,14 @@
     "lemma": "Epaphroditos 5",
     "previous": "Epaphroditus 4",
     "next": "Epaphroditos 6",
+    "proof_read": 2,
+    "short_description": "Epaphroditos, griechischer Grammatiker des 1. Jhdt. n. Chr., in Alexandria ausgebildet",
+    "wp_link": "w:de:Epaphroditos von Chaeronea",
     "chapters": [
       {
         "start": 2711,
         "end": 2714,
-        "author": "Cohn"
+        "author": "Cohn."
       }
     ]
   },
@@ -26557,18 +26566,21 @@
     "lemma": "Epaphroditos 6",
     "previous": "Epaphroditos 5",
     "next": "Eparchides",
+    "proof_read": 2,
+    "short_description": "Epaphroditos, Landvermesser und Fachschriftsteller über Architektur",
+    "wp_link": "w:de:Epaphroditus (Agrimensor)",
     "chapters": [
       {
         "start": 2714,
         "end": 2715,
-        "author": "Hultsch"
+        "author": "Hultsch."
       }
     ]
   },
   {
     "lemma": "Eparchides",
     "previous": "Epaphroditos 6",
-    "next": "Eparchos",
+    "next": "Ἔπαρχος",
     "proof_read": 2,
     "short_description": "(FHG IV 404. Susemihl Gr. Lit.-Gesch. II 399, 314), unbekannter Zeit. Schrieb",
     "no_creative_height": true,
@@ -26581,31 +26593,39 @@
     ]
   },
   {
-    "lemma": "Eparchos",
+    "lemma": "Ἔπαρχος",
     "previous": "Eparchides",
-    "next": "Eparitoi",
+    "next": "Ἐπάριτοι",
+    "sort_key": "Eparchos",
+    "proof_read": 2,
+    "short_description": "Eparchos, terminus technicus  in römischer Zeit für Vorgesetzter, Befehlshaber",
+    "wp_link": "w:de:Eparch",
     "chapters": [
       {
         "start": 2715,
-        "author": "Oehler, J[ohann]"
+        "end": 2715,
+        "author": "J. Oehler."
       }
     ]
   },
   {
-    "lemma": "Eparitoi",
-    "previous": "Eparchos",
+    "lemma": "Ἐπάριτοι",
+    "previous": "Ἔπαρχος",
     "next": "Epasnactus",
+    "sort_key": "Eparitoi",
+    "proof_read": 2,
+    "short_description": "Eparitoi, Name einer Truppe, die 363 v. Chr.  von den Beamten des arkadischen Bundes gehalten wurde",
     "chapters": [
       {
         "start": 2715,
         "end": 2716,
-        "author": "Droysen"
+        "author": "Droysen."
       }
     ]
   },
   {
     "lemma": "Epasnactus",
-    "previous": "Eparitoi",
+    "previous": "Ἐπάριτοι",
     "next": "Epatiaci portus",
     "proof_read": 2,
     "short_description": "Arverner, lieferte 703 = 51 den Rebellenführer Lucterius an Caesar aus (Hirt.",
@@ -26679,10 +26699,13 @@
     "lemma": "Epeigeus",
     "previous": "Ἐπαύλια 2",
     "next": "Epeikidai",
+    "proof_read": 2,
+    "short_description": "Epeigeus, Myrmidone, Sohn des Agakleus, Herrscher in Budeion, fällt vor Troja durch Hektor",
     "chapters": [
       {
         "start": 2716,
-        "author": "Tümpel"
+        "end": 2716,
+        "author": "Tümpel."
       }
     ]
   },
@@ -26703,11 +26726,14 @@
     "lemma": "Epeioi",
     "previous": "Epeikidai",
     "next": "Epeion",
+    "proof_read": 2,
+    "short_description": "Epeier, ein verschollener Volkstamm in Elis",
+    "wp_link": "w:de:Epeier",
     "chapters": [
       {
         "start": 2716,
         "end": 2717,
-        "author": "Oberhummer"
+        "author": "Oberhummer."
       }
     ]
   },
