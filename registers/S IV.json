@@ -4567,14 +4567,9 @@
   },
   {
     "lemma": "Iapygia",
-    "previous": "Iamliku"
-  },
-  {
-    "lemma": "Iapygia (geogr.",
     "previous": "Iamliku",
     "next": "Iason 1a",
     "proof_read": 3,
-    "short_description": "Gebiet der unterital. Iapyges vgl. Calabria. Messapioi Nr. 1",
     "chapters": [
       {
         "start": 783,
@@ -4585,7 +4580,7 @@
   },
   {
     "lemma": "Iason 1a",
-    "previous": "Iapygia (geogr.",
+    "previous": "Iapygia",
     "next": "Iason 2b",
     "short_description": "Jüd. Hohepriester z.Zt. Antiochos' IV. Epiphanes, Sohn des Simon II.",
     "chapters": [
@@ -5510,6 +5505,7 @@
   {
     "lemma": "Kalliopios 5",
     "previous": "Kalliopios 4",
+    "next": "Kallippio",
     "chapters": [
       {
         "start": 863,
@@ -5518,22 +5514,8 @@
     ]
   },
   {
-    "lemma": "Kallipolis 7a",
-    "previous": "Kallippio",
-    "next": "Kallirrhoë 14",
-    "proof_read": 3,
-    "short_description": "Achai. Ort",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 864,
-        "end": 864,
-        "author": "v. Geisau."
-      }
-    ]
-  },
-  {
     "lemma": "Kallippio",
+    "previous": "Kalliopios 5",
     "next": "Kallipolis 7a",
     "proof_read": 3,
     "short_description": "Iulius Callippio, Onkel des Dichters Ausonius",
@@ -5546,9 +5528,12 @@
     ]
   },
   {
-    "lemma": "Kallipolis 14a",
-    "redirect": true,
-    "proof_read": 2,
+    "lemma": "Kallipolis 7a",
+    "previous": "Kallippio",
+    "next": "Kallirrhoë 14",
+    "proof_read": 3,
+    "short_description": "Achai. Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 864,
@@ -6489,6 +6474,7 @@
   {
     "lemma": "Koinon 1",
     "previous": "Koës",
+    "next": "Koios 2a",
     "chapters": [
       {
         "start": 914,
@@ -6497,22 +6483,8 @@
     ]
   },
   {
-    "lemma": "Koiranos 11",
-    "previous": "Koiranos 10",
-    "next": "Kolaios",
-    "proof_read": 2,
-    "short_description": "Gesandter Smyrnas zu König Antiochos III.",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 942,
-        "end": 942,
-        "author": "Schoch."
-      }
-    ]
-  },
-  {
     "lemma": "Koios 2a",
+    "previous": "Koinon 1",
     "next": "Koiranos 8",
     "chapters": [
       {
@@ -6550,7 +6522,7 @@
   {
     "lemma": "Koiranos 10",
     "previous": "Koiranos 9",
-    "next": "Kolaios",
+    "next": "Koiranos 11",
     "chapters": [
       {
         "start": 942,
@@ -6559,8 +6531,23 @@
     ]
   },
   {
-    "lemma": "Kolaios",
+    "lemma": "Koiranos 11",
     "previous": "Koiranos 10",
+    "next": "Kolaios",
+    "proof_read": 2,
+    "short_description": "Gesandter Smyrnas zu König Antiochos III.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 942,
+        "end": 942,
+        "author": "Schoch."
+      }
+    ]
+  },
+  {
+    "lemma": "Kolaios",
+    "previous": "Koiranos 11",
     "next": "Komaieis",
     "chapters": [
       {
@@ -7352,30 +7339,6 @@
         "start": 1128,
         "end": 1128,
         "author": "Weissbach."
-      }
-    ]
-  },
-  {
-    "lemma": "Kyros 5–7",
-    "previous": "Κυρόπολις 2",
-    "next": "Kyros 5",
-    "sort_key": "Kyros 4z",
-    "proof_read": 2,
-    "short_description": "zwei Könige und ein Prinz der Achämeniden",
-    "chapters": [
-      {
-        "start": 1128,
-        "end": 1128,
-        "author": "Weissbach."
-      }
-    ]
-  },
-  {
-    "lemma": "Kyros",
-    "chapters": [
-      {
-        "start": 1128,
-        "author": "Weissbach"
       }
     ]
   },
