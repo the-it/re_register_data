@@ -1528,6 +1528,7 @@
   {
     "lemma": "Hadrianius",
     "previous": "Grapheion",
+    "next": "Haterius 11",
     "chapters": [
       {
         "start": 223,
@@ -1536,12 +1537,42 @@
     ]
   },
   {
-    "lemma": "Hegias",
-    "next": "Helikon 1a"
+    "lemma": "Haterius 11",
+    "previous": "Hadrianius",
+    "next": "Haus",
+    "chapters": [
+      {
+        "start": 223,
+        "author": "Groag"
+      }
+    ]
+  },
+  {
+    "lemma": "Haus",
+    "previous": "Haterius 11",
+    "next": "Hegias 5a",
+    "chapters": [
+      {
+        "start": 223,
+        "end": 277,
+        "author": "Groag"
+      }
+    ]
+  },
+  {
+    "lemma": "Hegias 5a",
+    "previous": "Haus",
+    "next": "Helikon 1a",
+    "chapters": [
+      {
+        "start": 278,
+        "author": "Walter"
+      }
+    ]
   },
   {
     "lemma": "Helikon 1a",
-    "previous": "Hegias",
+    "previous": "Hegias 5a",
     "next": "Herennius 33a",
     "proof_read": 3,
     "short_description": "Oberlauf des maked. Baphyras (II 2850)",
@@ -1556,6 +1587,7 @@
   {
     "lemma": "Herennius 33a",
     "previous": "Helikon 1a",
+    "next": "Hodoidokos",
     "proof_read": 3,
     "short_description": "M. H. Philotas, Epistratege der Heptanomis im J. 148 n. Chr.",
     "chapters": [
@@ -1563,46 +1595,6 @@
         "start": 277,
         "end": 278,
         "author": "Stein."
-      }
-    ]
-  },
-  {
-    "lemma": "Hylas 7a",
-    "previous": "ὁμολογία γάμου",
-    "next": "Hymnodoi",
-    "proof_read": 3,
-    "short_description": ">4a Griech. Kultschriftsteller",
-    "chapters": [
-      {
-        "start": 277,
-        "end": 278,
-        "author": "W. Kroll."
-      }
-    ]
-  },
-  {
-    "lemma": "Hymnodoi",
-    "previous": "Hylas 7a",
-    "next": "Hyparchos",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 279,
-        "end": 281,
-        "author": "Ludwig Ziehen."
-      }
-    ]
-  },
-  {
-    "lemma": "Hyparchos",
-    "previous": "Hymnodoi"
-  },
-  {
-    "lemma": "Hegias 5a",
-    "chapters": [
-      {
-        "start": 278,
-        "author": "Walter"
       }
     ]
   },
@@ -1636,7 +1628,35 @@
     ]
   },
   {
+    "lemma": "Hylas 7a",
+    "previous": "ὁμολογία γάμου",
+    "next": "Hymnodoi",
+    "proof_read": 3,
+    "short_description": ">4a Griech. Kultschriftsteller",
+    "chapters": [
+      {
+        "start": 278,
+        "end": 278,
+        "author": "W. Kroll."
+      }
+    ]
+  },
+  {
+    "lemma": "Hymnodoi",
+    "previous": "Hylas 7a",
+    "next": "Hyparchos 2",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 279,
+        "end": 281,
+        "author": "Ludwig Ziehen."
+      }
+    ]
+  },
+  {
     "lemma": "Hyparchos 2",
+    "previous": "Hymnodoi",
     "next": "Hypomnema",
     "chapters": [
       {
@@ -6720,7 +6740,7 @@
   {
     "lemma": "Theodotos 56",
     "previous": "Theodorides 2",
-    "next": "Theon 1a",
+    "next": "Theomnestos 16a",
     "chapters": [
       {
         "start": 1353,
@@ -6729,8 +6749,24 @@
     ]
   },
   {
-    "lemma": "Theon 1a",
+    "lemma": "Theomnestos 16a",
     "previous": "Theodotos 56",
+    "next": "Theon 1a",
+    "proof_read": 2,
+    "short_description": "Griech. Veterinärschriftsteller in der 1. H. des 4. Jh. n. Chr.",
+    "wp_link": "w:ca:Teomnest (veterinari)",
+    "wd_link": "d:Q679536",
+    "chapters": [
+      {
+        "start": 1353,
+        "end": 1354,
+        "author": "Karl Hoppe."
+      }
+    ]
+  },
+  {
+    "lemma": "Theon 1a",
+    "previous": "Theomnestos 16a",
     "next": "Theophrastos 3",
     "proof_read": 2,
     "short_description": "T. von Aigai (I 944 Nr. 5?), hoher Offizier des Ptolemaios II. Philadelphos",
@@ -6750,6 +6786,7 @@
     "chapters": [
       {
         "start": 1354,
+        "end": 1561,
         "author": "Regenbogen"
       }
     ]
@@ -6997,22 +7034,6 @@
       {
         "start": 1626,
         "author": "Regner"
-      }
-    ]
-  },
-  {
-    "lemma": "Theomnestos 16a",
-    "previous": "Theodotos 56",
-    "next": "Theon 1a",
-    "proof_read": 2,
-    "short_description": "Griech. Veterinärschriftsteller in der 1. H. des 4. Jh. n. Chr.",
-    "wp_link": "w:ca:Teomnest (veterinari)",
-    "wd_link": "d:Q679536",
-    "chapters": [
-      {
-        "start": 1353,
-        "end": 1354,
-        "author": "Karl Hoppe."
       }
     ]
   }

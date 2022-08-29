@@ -3429,11 +3429,82 @@
   {
     "lemma": "Weihrauch",
     "previous": "Altiaienses vicani",
+    "next": "Veliocasses",
+    "sort_key": "Veihrauch",
     "chapters": [
       {
         "start": 700,
         "end": 777,
         "author": "Walter W. Müller"
+      }
+    ]
+  },
+  {
+    "lemma": "Veliocasses",
+    "previous": "Weihrauch",
+    "next": "Vellocasses",
+    "wp_link": "w:de:Veliocasses",
+    "wd_link": "d:Q370347",
+    "chapters": [
+      {
+        "start": 777,
+        "end": 783,
+        "author": "Herbert Bannert."
+      }
+    ]
+  },
+  {
+    "lemma": "Vellocasses",
+    "previous": "Veliocasses",
+    "next": "Weltalter",
+    "redirect": "Veliocasses",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 783,
+        "end": 783
+      }
+    ]
+  },
+  {
+    "lemma": "Weltalter",
+    "previous": "Vellocasses",
+    "next": "Veneliocassi",
+    "sort_key": "Veltalter",
+    "wp_link": "w:de:Weltalter der Antike",
+    "wd_link": "d:Q1525748",
+    "chapters": [
+      {
+        "start": 783,
+        "end": 850,
+        "author": "Hans Schwabl."
+      }
+    ]
+  },
+  {
+    "lemma": "Veneliocassi",
+    "previous": "Weltalter",
+    "next": "Venelli",
+    "redirect": "Veliocasses",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 850,
+        "end": 850
+      }
+    ]
+  },
+  {
+    "lemma": "Venelli",
+    "previous": "Veneliocassi",
+    "next": "Veneti 1",
+    "wp_link": "w:de:Veneller",
+    "wd_link": "d:Q733283",
+    "chapters": [
+      {
+        "start": 850,
+        "end": 855,
+        "author": "Herbert Bannert."
       }
     ]
   },
@@ -3453,13 +3524,12 @@
   },
   {
     "lemma": "Vernasius Facundus",
-    "previous": "Veneti 1"
-  },
-  {
-    "lemma": "Konrat Ziegler †"
+    "previous": "Veneti 1",
+    "next": "Umbonius 1a"
   },
   {
     "lemma": "Umbonius 1a",
+    "previous": "Vernasius Facundus",
     "next": "Ummidius 1a",
     "chapters": [
       {
@@ -3522,13 +3592,22 @@
     "chapters": [
       {
         "start": 991,
-        "end": 994,
+        "end": 993,
         "author": "Richter"
       }
     ]
   },
   {
-    "lemma": "Zeus"
+    "lemma": "Zeus",
+    "previous": "Zebra",
+    "next": "Zeuxis 1",
+    "chapters": [
+      {
+        "start": 993,
+        "end": 1481,
+        "author": "Schwabl"
+      }
+    ]
   },
   {
     "lemma": "Zeuxis 1",
@@ -3581,6 +3660,7 @@
   {
     "lemma": "Zopyros 19a",
     "previous": "Zone 2",
+    "next": "Weltbild",
     "chapters": [
       {
         "start": 1556,
@@ -3589,50 +3669,9 @@
     ]
   },
   {
-    "lemma": "Veliocasses",
-    "previous": "Weihrauch",
-    "next": "Vellocasses",
-    "wp_link": "w:de:Veliocasses",
-    "wd_link": "d:Q370347",
-    "chapters": [
-      {
-        "start": 777,
-        "end": 783,
-        "author": "Herbert Bannert."
-      }
-    ]
-  },
-  {
-    "lemma": "Vellocasses",
-    "previous": "Veliocasses",
-    "next": "Weltalter",
-    "redirect": "Veliocasses",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 783,
-        "end": 783
-      }
-    ]
-  },
-  {
-    "lemma": "Weltalter",
-    "previous": "Vellocasses",
-    "sort_key": "Veltalter",
-    "wp_link": "w:de:Weltalter der Antike",
-    "wd_link": "d:Q1525748",
-    "chapters": [
-      {
-        "start": 783,
-        "end": 850,
-        "author": "Hans Schwabl."
-      }
-    ]
-  },
-  {
     "lemma": "Weltbild",
     "previous": "Zopyros 19a",
-    "next": "Veneliocassi",
+    "next": "Victor 69",
     "sort_key": "Veltbild",
     "redirect": true,
     "wp_link": "w:de:Weltbild",
@@ -3646,34 +3685,8 @@
     ]
   },
   {
-    "lemma": "Veneliocassi",
-    "previous": "Weltbild",
-    "next": "Venelli",
-    "redirect": "Veliocasses",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 850,
-        "end": 850
-      }
-    ]
-  },
-  {
-    "lemma": "Venelli",
-    "previous": "Veneliocassi",
-    "next": "Veneti 1",
-    "wp_link": "w:de:Veneller",
-    "wd_link": "d:Q733283",
-    "chapters": [
-      {
-        "start": 850,
-        "end": 855,
-        "author": "Herbert Bannert."
-      }
-    ]
-  },
-  {
     "lemma": "Victor 69",
+    "previous": "Weltbild",
     "next": "Konrat Ziegler †",
     "wp_link": "w:de:Aurelius Victor",
     "ws_link": "s:de:Aurelius Victor",
@@ -3685,5 +3698,9 @@
         "author": "Peter Lebrecht Schmidt."
       }
     ]
+  },
+  {
+    "lemma": "Konrat Ziegler †",
+    "previous": "Victor 69"
   }
 ]

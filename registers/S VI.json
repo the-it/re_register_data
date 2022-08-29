@@ -2455,29 +2455,14 @@
   {
     "lemma": "Ira 4",
     "previous": "Ionnaria",
+    "next": "Isamnus",
     "proof_read": 3,
     "short_description": "Pannon. Fluß",
     "chapters": [
       {
         "start": 133,
-        "end": 134,
+        "end": 133,
         "author": "Max Fluss."
-      }
-    ]
-  },
-  {
-    "lemma": "Iulius 552a",
-    "previous": "Istros 1a",
-    "next": "Iulianum",
-    "proof_read": 2,
-    "short_description": "Iulia, Tochter des Kaisers Titus und der Marcia Nr. 126) Furnilla",
-    "wp_link": "w:de:Iulia (Tochter des Titus)",
-    "wd_link": "d:Q239314",
-    "chapters": [
-      {
-        "start": 133,
-        "end": 137,
-        "author": "Fluss."
       }
     ]
   },
@@ -2488,8 +2473,8 @@
     "short_description": "Epeirot. Fluß",
     "chapters": [
       {
-        "start": 133,
-        "end": 133,
+        "start": 134,
+        "end": 134,
         "author": "Max Fluss."
       }
     ]
@@ -2513,13 +2498,30 @@
   {
     "lemma": "Istros 1a",
     "previous": "Istris",
+    "next": "Iulius 552a",
     "proof_read": 2,
     "short_description": "Dalmat. Insel(?)",
     "chapters": [
       {
-        "start": 133,
-        "end": 133,
+        "start": 134,
+        "end": 134,
         "author": "Max Fluss."
+      }
+    ]
+  },
+  {
+    "lemma": "Iulius 552a",
+    "previous": "Istros 1a",
+    "next": "Iulianum",
+    "proof_read": 2,
+    "short_description": "Iulia, Tochter des Kaisers Titus und der Marcia Nr. 126) Furnilla",
+    "wp_link": "w:de:Iulia (Tochter des Titus)",
+    "wd_link": "d:Q239314",
+    "chapters": [
+      {
+        "start": 134,
+        "end": 137,
+        "author": "Fluss."
       }
     ]
   },
@@ -4939,6 +4941,7 @@
   {
     "lemma": "Syntheke",
     "previous": "Strategos 5",
+    "next": "Syria",
     "chapters": [
       {
         "start": 1158,
@@ -4948,21 +4951,19 @@
     ]
   },
   {
-    "lemma": "Teitha",
-    "previous": "Tatiassos",
-    "next": "Telamon 4",
-    "proof_read": 3,
-    "short_description": "unbekannte Stadt Thessaliens",
+    "lemma": "Syria",
+    "previous": "Syntheke",
+    "next": "Tastris",
     "chapters": [
       {
         "start": 1169,
-        "end": 1169,
-        "author": "Friedrich Stählin."
+        "author": "Honigmann"
       }
     ]
   },
   {
     "lemma": "Tastris",
+    "previous": "Syria",
     "next": "Tatiassos",
     "chapters": [
       {
@@ -4986,7 +4987,13 @@
     ]
   },
   {
+    "lemma": "Teitha",
+    "previous": "Tatiassos",
+    "next": "Telamon 4"
+  },
+  {
     "lemma": "Telamon 4",
+    "previous": "Teitha",
     "next": "Telephanes 5"
   },
   {

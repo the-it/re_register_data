@@ -14405,7 +14405,7 @@
   {
     "lemma": "Euanthius 2",
     "previous": "Euanthius 1",
-    "next": "Euaratos",
+    "next": "Euarane",
     "chapters": [
       {
         "start": 847,
@@ -16369,7 +16369,7 @@
   {
     "lemma": "Eudaimon 6",
     "previous": "Eudaimon 5",
-    "next": "Eudaemon 7",
+    "next": "Eudaimon 7",
     "proof_read": 3,
     "short_description": "höherer Beamter im Occident 440 n. Chr., seine Tochter wird zur Sklavin",
     "chapters": [
@@ -16383,7 +16383,7 @@
   {
     "lemma": "Eudaimon 7",
     "previous": "Eudaimon 6",
-    "next": "Eudaemon 8",
+    "next": "Eudaimon 8",
     "chapters": [
       {
         "start": 885,
@@ -21310,7 +21310,7 @@
   {
     "lemma": "Eumelos 16",
     "previous": "Eumelos 15",
-    "next": "Eumeneia",
+    "next": "Eumeneia 1",
     "chapters": [
       {
         "start": 1082,
@@ -21319,20 +21319,9 @@
     ]
   },
   {
-    "lemma": "Eumeneia",
-    "previous": "Eumelos 16",
-    "next": "Eumeneia 1",
-    "chapters": [
-      {
-        "start": 1082,
-        "author": "Stengel"
-      }
-    ]
-  },
-  {
     "lemma": "Eumeneia 1",
-    "previous": "Eumeneia",
-    "next": "Eumenia 2",
+    "previous": "Eumelos 16",
+    "next": "Eumeneia 2",
     "chapters": [
       {
         "start": 1082,
@@ -21341,9 +21330,9 @@
     ]
   },
   {
-    "lemma": "Eumenia 2",
+    "lemma": "Eumeneia 2",
     "previous": "Eumeneia 1",
-    "next": "Eumeneia",
+    "next": "Εὐμένεια",
     "sort_key": "Eumeneia 2",
     "proof_read": 2,
     "short_description": "Stadt an d. W-Küste d. Pontos Euxeinos",
@@ -21356,7 +21345,22 @@
     ]
   },
   {
+    "lemma": "Εὐμένεια",
+    "previous": "Eumeneia 2",
+    "sort_key": "Eumeneia 3",
+    "next": "Eumeneios",
+    "chapters": [
+      {
+        "start": 1082,
+        "end": 1083,
+        "author": "Dittenberger"
+      }
+    ]
+  },
+  {
     "lemma": "Eumeneios",
+    "previous": "Εὐμένεια",
+    "next": "Eumenes 1",
     "chapters": [
       {
         "start": 1082,

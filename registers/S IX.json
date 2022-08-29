@@ -1367,9 +1367,6 @@
     ]
   },
   {
-    "lemma": "Iulius 375"
-  },
-  {
     "lemma": "Iulius 357",
     "previous": "Iulius 68a",
     "next": "Iulius 379a",
@@ -2291,11 +2288,13 @@
   },
   {
     "lemma": "Palaimon 3",
-    "previous": "Palaimon 2"
+    "previous": "Palaimon 2",
+    "next": "Palaimon 4"
   },
   {
     "lemma": "Palaimon 4",
-    "next": "Pambotis",
+    "previous": "Palaimon 3",
+    "next": "Palaimon 5",
     "chapters": [
       {
         "start": 514,
@@ -2305,24 +2304,25 @@
     ]
   },
   {
-    "lemma": "Pambotis",
+    "lemma": "Palaimon 5",
     "previous": "Palaimon 4",
-    "next": "Palaimon 5",
+    "next": "Pambotis",
+    "chapters": [
+      {
+        "start": 516,
+        "author": "Geisau"
+      }
+    ]
+  },
+  {
+    "lemma": "Pambotis",
+    "previous": "Palaimon 5",
+    "next": "Pannonia",
     "chapters": [
       {
         "start": 515,
         "end": 516,
         "author": "Gisinger"
-      }
-    ]
-  },
-  {
-    "lemma": "Palaimon 5",
-    "previous": "Pambotis",
-    "chapters": [
-      {
-        "start": 516,
-        "author": "Geisau"
       }
     ]
   },

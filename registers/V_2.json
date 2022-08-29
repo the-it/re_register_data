@@ -18164,7 +18164,7 @@
   {
     "lemma": "Elegeia 1",
     "previous": "Elege",
-    "next": "Elegeis",
+    "next": "Elegeia 2",
     "sort_key": "Elegeia 1",
     "proof_read": 2,
     "short_description": "Stadt in Großarmenien",
@@ -18179,6 +18179,7 @@
   {
     "lemma": "Elegeia 2",
     "previous": "Elegeia 1",
+    "next": "Elegeis",
     "sort_key": "Elegeia 2",
     "proof_read": 2,
     "short_description": "Ort am Durchbruch des Euphrat durch den Taurus, unterhalb von Melitene",
@@ -18192,7 +18193,7 @@
   },
   {
     "lemma": "Elegeis",
-    "previous": "Elegeia 1",
+    "previous": "Elegeia 2",
     "next": "Elegiae in Maecenatem",
     "sort_key": "Elegeis",
     "proof_read": 2,
@@ -24421,18 +24422,8 @@
     ]
   },
   {
-    "lemma": "en kotile",
+    "lemma": "Ἔγκτησις",
     "previous": "Enkrateia",
-    "next": "Enktesis",
-    "chapters": [
-      {
-        "start": 2583
-      }
-    ]
-  },
-  {
-    "lemma": "Enktesis",
-    "previous": "en kotile",
     "next": "Enkyklios",
     "chapters": [
       {
@@ -24444,7 +24435,7 @@
   },
   {
     "lemma": "Enkyklios",
-    "previous": "Enktesis",
+    "previous": "Ἔγκτησις",
     "next": "Ἔγκυκλον",
     "proof_read": 2,
     "short_description": "(ἐγκύκλιος), Beiwort des Zeus in Athen, Hesych.; vgl. Wentzel Ἐπικλήσεις II 10.",
@@ -24933,21 +24924,6 @@
     ]
   },
   {
-    "lemma": "Ἐνοικίου δίκη",
-    "previous": "Enodia",
-    "next": "Ἐνωμοτία",
-    "sort_key": "enoikiudike",
-    "proof_read": 2,
-    "short_description": "Klage auf den Ertrag eines Hauses oder eines Ackers",
-    "chapters": [
-      {
-        "start": 2636,
-        "end": 2636,
-        "author": "Thalheim."
-      }
-    ]
-  },
-  {
     "lemma": "Enodios",
     "previous": "Enodia",
     "next": "Ἐνοικίου δίκη",
@@ -24965,10 +24941,14 @@
     "lemma": "Ἐνοικίου δίκη",
     "previous": "Enodios",
     "next": "Ἐνωμοτία",
+    "sort_key": "enoikiudike",
+    "proof_read": 2,
+    "short_description": "Klage auf den Ertrag eines Hauses oder eines Ackers",
     "chapters": [
       {
         "start": 2636,
-        "author": "Thalheim"
+        "end": 2636,
+        "author": "Thalheim."
       }
     ]
   },
@@ -27017,7 +26997,7 @@
   },
   {
     "lemma": "Ἐφήβαρχος",
-    "previous": "Ephaptis",
+    "previous": "Epharmostos",
     "next": "Ephebeum",
     "sort_key": "Ephebarchos",
     "proof_read": 2,
