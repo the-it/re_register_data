@@ -13784,7 +13784,7 @@
   {
     "lemma": "Thapsakos 1",
     "previous": "Thapsagum",
-    "next": "Technitai",
+    "next": "Thapsakos 2",
     "chapters": [
       {
         "start": 1272,
@@ -13793,9 +13793,44 @@
     ]
   },
   {
+    "lemma": "Thapsakos 2",
+    "previous": "Thapsakos 1",
+    "next": "Thapsipolis",
+    "chapters": [
+      {
+        "start": 1280,
+        "author": "Honigmann"
+      }
+    ]
+  },
+  {
+    "lemma": "Thapsipolis",
+    "previous": "Thapsakos 2",
+    "next": "Thapsis",
+    "chapters": [
+      {
+        "start": 1280,
+        "author": "Treidler"
+      }
+    ]
+  },
+  {
+    "lemma": "Thapsis",
+    "previous": "Thapsipolis",
+    "next": "Technitai",
+    "redirect": "Thates",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 1280,
+        "end": 1280
+      }
+    ]
+  },
+  {
     "lemma": "Technitai",
     "previous": "Thapsis",
-    "next": "Thapsos 1",
+    "next": "Teisandros 5",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -13835,41 +13870,6 @@
       {
         "start": 1280,
         "author": "Oldfather"
-      }
-    ]
-  },
-  {
-    "lemma": "Thapsakos 2",
-    "previous": "Telesarchos 2",
-    "next": "Thapsipolis",
-    "chapters": [
-      {
-        "start": 1280,
-        "author": "Honigmann"
-      }
-    ]
-  },
-  {
-    "lemma": "Thapsipolis",
-    "previous": "Thapsakos 2",
-    "next": "Thapsis",
-    "chapters": [
-      {
-        "start": 1280,
-        "author": "Treidler"
-      }
-    ]
-  },
-  {
-    "lemma": "Thapsis",
-    "previous": "Thapsipolis",
-    "next": "Technitai",
-    "redirect": "Thates",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 1280,
-        "end": 1280
       }
     ]
   }
