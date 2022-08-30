@@ -8734,12 +8734,26 @@
   {
     "lemma": "Ripaia ore",
     "previous": "Ripa 2",
-    "next": "Ripari",
+    "next": "Ripanus",
     "chapters": [
       {
         "start": 845,
         "end": 915,
         "author": "Kiessling, Max"
+      }
+    ]
+  },
+  {
+    "lemma": "Ripanus",
+    "previous": "Ripaia ore",
+    "next": "Ripari",
+    "proof_read": 3,
+    "short_description": "Heiligenberger Terrasigillatatöpfer des 2. Jhdts",
+    "chapters": [
+      {
+        "start": 916,
+        "end": 916,
+        "author": "Oxé."
       }
     ]
   },
@@ -8759,26 +8773,12 @@
   {
     "lemma": "Riparienses milites",
     "previous": "Ripari",
-    "next": "Ripanus",
-    "chapters": [
-      {
-        "start": 915,
-        "end": 918,
-        "author": "Seeck"
-      }
-    ]
-  },
-  {
-    "lemma": "Ripanus",
-    "previous": "Riparienses milites",
-    "next": "Ripari",
-    "proof_read": 3,
-    "short_description": "Heiligenberger Terrasigillatatöpfer des 2. Jhdts",
+    "next": "Ripa Thraciae",
     "chapters": [
       {
         "start": 916,
-        "end": 916,
-        "author": "Oxé."
+        "end": 918,
+        "author": "Seeck"
       }
     ]
   },
@@ -13902,12 +13902,26 @@
   {
     "lemma": "Rufinianae 2",
     "previous": "Rufinianae 1",
-    "next": "Rufinianus 1",
+    "next": "Ῥουφινιαναί, αἱ",
     "chapters": [
       {
         "start": 1184,
         "end": 1185,
         "author": "Ruge"
+      }
+    ]
+  },
+  {
+    "lemma": "Ῥουφινιαναί, αἱ",
+    "previous": "Rufinianae 2",
+    "next": "Rufinianus 1",
+    "sort_key": "Rufinianai hai",
+    "redirect": "Rufinianae 1",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 1185,
+        "end": 1185
       }
     ]
   },
@@ -14067,7 +14081,7 @@
   {
     "lemma": "Rufinus 6",
     "previous": "Rufinus 5",
-    "next": "Ῥουφινιαναί, αἱ",
+    "next": "Rufinus 7",
     "proof_read": 2,
     "short_description": "[Salv]ius Rufi[nus Mi]nicius Opimianus, Prokurator der Provinz Asia",
     "chapters": [
@@ -14079,36 +14093,8 @@
     ]
   },
   {
-    "lemma": "Ῥουφινιαναί, αἱ",
-    "previous": "Rufinianae 2",
-    "next": "Ruphinu",
-    "sort_key": "Rufinianai hai",
-    "redirect": "Rufinianae 1",
-    "proof_read": 3,
-    "chapters": [
-      {
-        "start": 1185,
-        "end": 1185
-      }
-    ]
-  },
-  {
-    "lemma": "Ruphinu",
-    "previous": "Ῥουφινιαναί, αἱ",
-    "next": "Rufinus 7",
-    "sort_key": "Ruphinu",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 1185,
-        "end": 1185,
-        "author": "Bürchner."
-      }
-    ]
-  },
-  {
     "lemma": "Rufinus 7",
-    "previous": "Ruphinu",
+    "previous": "Rufinus 6",
     "next": "Rufinus 8",
     "proof_read": 2,
     "short_description": "Lib(eralis?)",
@@ -17808,7 +17794,7 @@
   {
     "lemma": "Rutupiae",
     "previous": "Rutunium",
-    "next": "Rybdos",
+    "next": "Ῥύβδος",
     "chapters": [
       {
         "start": 1284,
@@ -17817,39 +17803,13 @@
     ]
   },
   {
-    "lemma": "Rybdos",
+    "lemma": "Ῥύβδος",
     "previous": "Rutupiae",
-    "next": "Rygmanoi",
-    "chapters": [
-      {
-        "start": 1284,
-        "author": "Ziegler"
-      }
-    ]
-  },
-  {
-    "lemma": "Rygmanoi",
-    "previous": "Ῥύγχος",
-    "next": "Ῥυμμικὰ ὄρη",
-    "proof_read": 2,
-    "short_description": "Ort an der Küste des rauhen Kilikiens, 50 Stadien östlich vom Vorgebirge",
-    "chapters": [
-      {
-        "start": 1284,
-        "end": 1284,
-        "author": "Ruge."
-      }
-    ]
-  },
-  {
-    "lemma": "Ῥυμμικὰ ὄρη",
-    "previous": "Rygmanoi",
     "next": "Ῥύγχαι",
     "chapters": [
       {
         "start": 1284,
-        "end": 1285,
-        "author": "Herrmann"
+        "author": "Ziegler"
       }
     ]
   },
@@ -17897,8 +17857,34 @@
     ]
   },
   {
-    "lemma": "Rymmoi",
+    "lemma": "Rygmanoi",
     "previous": "Ῥύγχος",
+    "next": "Ῥυμμικὰ ὄρη",
+    "proof_read": 2,
+    "short_description": "Ort an der Küste des rauhen Kilikiens, 50 Stadien östlich vom Vorgebirge",
+    "chapters": [
+      {
+        "start": 1284,
+        "end": 1284,
+        "author": "Ruge."
+      }
+    ]
+  },
+  {
+    "lemma": "Ῥυμμικὰ ὄρη",
+    "previous": "Rygmanoi",
+    "next": "Rymmoi",
+    "chapters": [
+      {
+        "start": 1284,
+        "end": 1285,
+        "author": "Herrmann"
+      }
+    ]
+  },
+  {
+    "lemma": "Rymmoi",
+    "previous": "Ῥυμμικὰ ὄρη",
     "next": "Ῥυμμός",
     "chapters": [
       {
