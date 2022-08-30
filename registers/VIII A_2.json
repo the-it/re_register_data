@@ -10034,7 +10034,7 @@
   {
     "lemma": "Vellaunus 2",
     "previous": "Vellaunus 1",
-    "next": "Vellebori",
+    "next": "Velleius Paterculus",
     "proof_read": 2,
     "short_description": "Ein Biturige, eques ala Longiniana",
     "no_creative_height": true,
@@ -10047,8 +10047,18 @@
     ]
   },
   {
+    "lemma": "Velleius Paterculus",
+    "previous": "Vellaunus 2",
+    "next": "Vellebori",
+    "chapters": [
+      {
+        "start": 2411
+      }
+    ]
+  },
+  {
     "lemma": "Vellebori",
-    "previous": "Velleius 5",
+    "previous": "Velleius Paterculus",
     "next": "Vellocasses",
     "proof_read": 3,
     "short_description": "irischer Stamm",

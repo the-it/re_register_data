@@ -2450,22 +2450,11 @@
   {
     "lemma": "Valerius 348",
     "previous": "Valerius 347",
-    "next": "Valerius 349",
-    "chapters": [
-      {
-        "start": 228,
-        "author": "Hanslik"
-      }
-    ]
-  },
-  {
-    "lemma": "Valerius 349",
-    "previous": "Valerius 348",
     "next": "Valerius 349f.",
     "chapters": [
       {
         "start": 228,
-        "author": "Volkmann"
+        "author": "Hanslik"
       }
     ]
   },
@@ -2486,8 +2475,19 @@
     ]
   },
   {
-    "lemma": "Valerius 350",
+    "lemma": "Valerius 349",
     "previous": "Valerius 349f.",
+    "next": "Valerius 350",
+    "chapters": [
+      {
+        "start": 228,
+        "author": "Volkmann"
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 350",
+    "previous": "Valerius 349",
     "next": "Valerius 351",
     "chapters": [
       {
@@ -9942,20 +9942,9 @@
     ]
   },
   {
-    "lemma": "Venerii servi",
-    "previous": "Pagus Veneriensis",
-    "next": "Veneriosus",
-    "chapters": [
-      {
-        "start": 701,
-        "author": "Habermehl"
-      }
-    ]
-  },
-  {
     "lemma": "Veneriosus",
-    "previous": "Venerii servi",
-    "next": "Veneris oppidum 1",
+    "previous": "Pagus Veneriensis",
+    "next": "Venerii servi",
     "chapters": [
       {
         "start": 701,
@@ -9964,8 +9953,19 @@
     ]
   },
   {
-    "lemma": "Veneris oppidum 1",
+    "lemma": "Venerii servi",
     "previous": "Veneriosus",
+    "next": "Veneris oppidum 1",
+    "chapters": [
+      {
+        "start": 701,
+        "author": "Habermehl"
+      }
+    ]
+  },
+  {
+    "lemma": "Veneris oppidum 1",
+    "previous": "Venerii servi",
     "next": "Veneris oppidum 2",
     "chapters": [
       {
@@ -11069,11 +11069,28 @@
   {
     "lemma": "Ver sacrum",
     "previous": "Ver",
-    "next": "Vera 1",
+    "next": "Fundus Ver...",
+    "sort_key": "Ver s",
     "chapters": [
       {
         "start": 911,
         "author": "Eisenhut"
+      }
+    ]
+  },
+  {
+    "lemma": "Fundus Ver...",
+    "previous": "Ver sacrum",
+    "next": "Vera 1",
+    "sort_key": "Ver z",
+    "proof_read": 2,
+    "short_description": "Fundus in Henchir el-Habta",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 923,
+        "end": 923,
+        "author": "Ch. Courtois."
       }
     ]
   },
@@ -11093,7 +11110,7 @@
   {
     "lemma": "Vera 2",
     "previous": "Vera 1",
-    "next": "Fundus Ver...",
+    "next": "Veraglasca",
     "chapters": [
       {
         "start": 923,
@@ -11102,24 +11119,8 @@
     ]
   },
   {
-    "lemma": "Fundus Ver...",
-    "previous": "Vera 2",
-    "next": "Vera 1",
-    "sort_key": "Ver z",
-    "proof_read": 2,
-    "short_description": "Fundus in Henchir el-Habta",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 923,
-        "end": 923,
-        "author": "Ch. Courtois."
-      }
-    ]
-  },
-  {
     "lemma": "Veraglasca",
-    "previous": "Fundus Ver...",
+    "previous": "Vera 2",
     "next": "Veragri",
     "chapters": [
       {
