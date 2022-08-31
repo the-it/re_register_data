@@ -912,7 +912,7 @@
   {
     "lemma": "Paris 1",
     "previous": "Parioi",
-    "next": "Paris 2",
+    "next": "Paris 2–6",
     "chapters": [
       {
         "start": 1484,
@@ -921,9 +921,9 @@
     ]
   },
   {
-    "lemma": "Paris 2",
+    "lemma": "Paris 2–6",
     "previous": "Paris 1",
-    "next": "Paris 2-6",
+    "next": "Paris 2",
     "chapters": [
       {
         "start": 1536,
@@ -932,8 +932,8 @@
     ]
   },
   {
-    "lemma": "Paris 2-6",
-    "previous": "Paris 2",
+    "lemma": "Paris 2",
+    "previous": "Paris 2–6",
     "next": "Paris 3",
     "chapters": [
       {
@@ -944,8 +944,8 @@
   },
   {
     "lemma": "Paris 3",
-    "previous": "Paris 2-6",
-    "next": "Paris",
+    "previous": "Paris 2",
+    "next": "Paris 4",
     "chapters": [
       {
         "start": 1537,
@@ -954,22 +954,8 @@
     ]
   },
   {
-    "lemma": "Paris",
-    "previous": "Paris 7",
-    "next": "Παρισιηνή",
-    "sort_key": "Paris 8",
-    "redirect": "Domitius 69",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 1538,
-        "end": 1538
-      }
-    ]
-  },
-  {
     "lemma": "Paris 4",
-    "previous": "Paris",
+    "previous": "Paris 3",
     "next": "Paris 5",
     "chapters": [
       {
@@ -1003,11 +989,25 @@
   {
     "lemma": "Paris 7",
     "previous": "Paris 6",
-    "next": "Παρισιηνή",
+    "next": "Paris",
     "chapters": [
       {
         "start": 1538,
         "author": "Preisendanz"
+      }
+    ]
+  },
+  {
+    "lemma": "Paris",
+    "previous": "Paris 7",
+    "next": "Παρισιηνή",
+    "sort_key": "Paris 8",
+    "redirect": "Domitius 69",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 1538,
+        "end": 1538
       }
     ]
   },
