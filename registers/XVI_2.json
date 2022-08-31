@@ -4598,26 +4598,11 @@
   {
     "lemma": "Naso 1",
     "previous": "Naskos",
-    "next": "...ale... Naso",
+    "next": "Naso 2",
     "chapters": [
       {
         "start": 1792,
         "author": "Münzer"
-      }
-    ]
-  },
-  {
-    "lemma": "...ale... Naso",
-    "previous": "Naso 3",
-    "next": "Nasoi 1",
-    "sort_key": "Naso 4",
-    "proof_read": 2,
-    "short_description": "auf einer Ehreninschr. v. Verona",
-    "chapters": [
-      {
-        "start": 1793,
-        "end": 1793,
-        "author": "Max Fluss."
       }
     ]
   },
@@ -4649,8 +4634,23 @@
     ]
   },
   {
-    "lemma": "Nasoi 1",
+    "lemma": "...ale... Naso",
     "previous": "Naso 3",
+    "next": "Nasoi 1",
+    "sort_key": "Naso 4",
+    "proof_read": 2,
+    "short_description": "auf einer Ehreninschr. v. Verona",
+    "chapters": [
+      {
+        "start": 1793,
+        "end": 1793,
+        "author": "Max Fluss."
+      }
+    ]
+  },
+  {
+    "lemma": "Nasoi 1",
+    "previous": "...ale... Naso",
     "next": "Nasoi 2",
     "chapters": [
       {
@@ -10525,6 +10525,20 @@
     ]
   },
   {
+    "lemma": "Νεούτ",
+    "previous": "Neothalides",
+    "next": "Nepe",
+    "sort_key": "Neout",
+    "redirect": "Νεσύτ",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 2480,
+        "end": 2480
+      }
+    ]
+  },
+  {
     "lemma": "Nepe",
     "previous": "Νεούτ",
     "next": "Nepeion, pedion",
@@ -10551,25 +10565,11 @@
   {
     "lemma": "Nepet",
     "previous": "Nepeion, pedion",
-    "next": "Νεούτ",
+    "next": "Nepete",
     "chapters": [
       {
         "start": 2480,
         "author": "Philipp"
-      }
-    ]
-  },
-  {
-    "lemma": "Νεούτ",
-    "previous": "Neothalides",
-    "next": "Nepe",
-    "sort_key": "Neout",
-    "redirect": "Νεσύτ",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 2480,
-        "end": 2480
       }
     ]
   },
