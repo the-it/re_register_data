@@ -2052,27 +2052,12 @@
   {
     "lemma": "Popillius 37",
     "previous": "Popillius 36",
-    "next": "Popillius 42",
+    "next": "Popillius 38",
     "chapters": [
       {
         "start": 65,
         "end": 68,
         "author": "Hanslik"
-      }
-    ]
-  },
-  {
-    "lemma": "Popillius 42",
-    "previous": "Popillius 41",
-    "next": "Popillius 43",
-    "proof_read": 2,
-    "short_description": "Virius Nepotianus, Fl. s. Nepotianus",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 69,
-        "end": 69,
-        "author": "W. Enßlin."
       }
     ]
   },
@@ -2116,7 +2101,7 @@
   {
     "lemma": "Popillius 41",
     "previous": "Popillius 40",
-    "next": "Popillius 43",
+    "next": "Popillius 42",
     "chapters": [
       {
         "start": 68,
@@ -2126,8 +2111,23 @@
     ]
   },
   {
-    "lemma": "Popillius 43",
+    "lemma": "Popillius 42",
     "previous": "Popillius 41",
+    "next": "Popillius 43",
+    "proof_read": 2,
+    "short_description": "Virius Nepotianus, Fl. s. Nepotianus",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 69,
+        "end": 69,
+        "author": "W. Enßlin."
+      }
+    ]
+  },
+  {
+    "lemma": "Popillius 43",
+    "previous": "Popillius 42",
     "next": "Popina",
     "chapters": [
       {
@@ -4071,28 +4071,12 @@
   {
     "lemma": "Portus Achaeorum 2",
     "previous": "Portus Achaeorum 1",
-    "next": "Portus Ae(E)patiaci",
+    "next": "Portus Aemines",
     "chapters": [
       {
         "start": 404,
         "end": 405,
         "author": "Treidler"
-      }
-    ]
-  },
-  {
-    "lemma": "Portus Ae(E)patiaci",
-    "previous": "Portus Aemines",
-    "next": "Portus Aggasus",
-    "sort_key": "Portusaepatiaci",
-    "redirect": "Epatiaci portus",
-    "proof_read": 3,
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 405,
-        "end": 405,
-        "author": "P. Goessler."
       }
     ]
   },
@@ -4113,8 +4097,24 @@
     ]
   },
   {
-    "lemma": "Portus Aggasus",
+    "lemma": "Portus Ae(E)patiaci",
     "previous": "Portus Aemines",
+    "next": "Portus Aggasus",
+    "sort_key": "Portusaepatiaci",
+    "redirect": "Epatiaci portus",
+    "proof_read": 3,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 405,
+        "end": 405,
+        "author": "P. Goessler."
+      }
+    ]
+  },
+  {
+    "lemma": "Portus Aggasus",
+    "previous": "Portus Ae(E)patiaci",
     "next": "Portus Albus",
     "chapters": [
       {
@@ -7587,8 +7587,21 @@
     ]
   },
   {
-    "lemma": "Potniades 1",
+    "lemma": "Potnieis",
     "previous": "Potniades",
+    "next": "Potniades 1",
+    "redirect": "Potnia, Potna",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 1187,
+        "end": 1187
+      }
+    ]
+  },
+  {
+    "lemma": "Potniades 1",
+    "previous": "Potnieis",
     "next": "Potniades 2",
     "chapters": [
       {
@@ -7611,7 +7624,7 @@
   {
     "lemma": "Potniades 3",
     "previous": "Potniades 2",
-    "next": "Potnieis",
+    "next": "Potniai 1",
     "chapters": [
       {
         "start": 1187,
@@ -7621,21 +7634,8 @@
     ]
   },
   {
-    "lemma": "Potnieis",
-    "previous": "Potniades",
-    "next": "Potniades 1",
-    "redirect": "Potnia, Potna",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 1187,
-        "end": 1187
-      }
-    ]
-  },
-  {
     "lemma": "Potniai 1",
-    "previous": "Potnieis",
+    "previous": "Potniades 3",
     "next": "Potniai 2",
     "chapters": [
       {

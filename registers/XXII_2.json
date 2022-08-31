@@ -270,18 +270,6 @@
     ]
   },
   {
-    "lemma": "Praes(a)epe",
-    "previous": "Praes",
-    "next": "Praescriptio",
-    "chapters": [
-      {
-        "start": 1561,
-        "end": 1563,
-        "author": "Hug"
-      }
-    ]
-  },
-  {
     "lemma": "Praescriptio",
     "previous": "Praes",
     "next": "Praesens 1–4",
@@ -352,8 +340,20 @@
     ]
   },
   {
-    "lemma": "Praesidia",
+    "lemma": "Praes(a)epe",
     "previous": "Praesenteius",
+    "next": "Praesidia",
+    "chapters": [
+      {
+        "start": 1561,
+        "end": 1563,
+        "author": "Hug"
+      }
+    ]
+  },
+  {
+    "lemma": "Praesidia",
+    "previous": "Praes(a)epe",
     "next": "Praesidium 1",
     "chapters": [
       {
@@ -413,7 +413,7 @@
   },
   {
     "lemma": "Praesidium 6",
-    "previous": "Praesidium 4-5",
+    "previous": "Praesidium 4–5",
     "next": "Praesidium 7",
     "redirect": "Pompei Praesidium",
     "proof_read": 2,
@@ -696,7 +696,7 @@
   {
     "lemma": "Praetextatus 1",
     "previous": "Praetexta",
-    "next": "Praetextatus 7",
+    "next": "Praetextatus 2",
     "chapters": [
       {
         "start": 1575,
@@ -706,31 +706,8 @@
     ]
   },
   {
-    "lemma": "Praetextatus 7",
-    "previous": "Praetextatus 1",
-    "next": "Praetextatus 10",
-    "chapters": [
-      {
-        "start": 1579,
-        "author": "Enßlin"
-      }
-    ]
-  },
-  {
-    "lemma": "Praetextatus 10",
-    "previous": "Praetextatus 7",
-    "next": "Praetextatus 2",
-    "chapters": [
-      {
-        "start": 1579,
-        "end": 1581,
-        "author": "Enßlin"
-      }
-    ]
-  },
-  {
     "lemma": "Praetextatus 2",
-    "previous": "Praetextatus 10",
+    "previous": "Praetextatus 1",
     "next": "Praetextatus 3",
     "chapters": [
       {
@@ -794,6 +771,17 @@
     ]
   },
   {
+    "lemma": "Praetextatus 7",
+    "previous": "Praetextatus 6",
+    "next": "Praetextatus 7a",
+    "chapters": [
+      {
+        "start": 1579,
+        "author": "Enßlin"
+      }
+    ]
+  },
+  {
     "lemma": "Praetextatus 7a",
     "previous": "Praetextatus 7",
     "next": "Praetextatus 8",
@@ -835,20 +823,20 @@
     ]
   },
   {
-    "lemma": "Praetor",
+    "lemma": "Praetextatus 10",
     "previous": "Praetextatus 9",
     "next": "Praetextatus 11",
     "chapters": [
       {
-        "start": 1580,
-        "end": 1605,
-        "author": "Wesenberg"
+        "start": 1579,
+        "end": 1581,
+        "author": "Enßlin"
       }
     ]
   },
   {
     "lemma": "Praetextatus 11",
-    "previous": "Praetor",
+    "previous": "Praetextatus 10",
     "next": "Praetextatus 12",
     "chapters": [
       {
@@ -903,7 +891,7 @@
   {
     "lemma": "Praetextatus 15",
     "previous": "Praetextatus 14",
-    "next": "Praeti",
+    "next": "Praetor",
     "redirect": "Cornelius 449",
     "proof_read": 3,
     "no_creative_height": true,
@@ -916,8 +904,20 @@
     ]
   },
   {
-    "lemma": "Praetor Etruriae",
+    "lemma": "Praetor",
     "previous": "Praetextatus 15",
+    "next": "Praetor Etruriae",
+    "chapters": [
+      {
+        "start": 1581,
+        "end": 1606,
+        "author": "Wesenberg"
+      }
+    ]
+  },
+  {
+    "lemma": "Praetor Etruriae",
+    "previous": "Praetor",
     "next": "Praetoria Augusta",
     "chapters": [
       {
@@ -3670,7 +3670,7 @@
   {
     "lemma": "Primus 1",
     "previous": "Primupolis",
-    "next": "Primus, M. 3",
+    "next": "Primus 2",
     "chapters": [
       {
         "start": 1995,
@@ -3680,20 +3680,9 @@
     ]
   },
   {
-    "lemma": "Primus, M. 3",
-    "previous": "Primus 1",
-    "next": "Primus 2",
-    "chapters": [
-      {
-        "start": 1996,
-        "author": "Hanslik"
-      }
-    ]
-  },
-  {
     "lemma": "Primus 2",
     "previous": "Primus 1",
-    "next": "Primus 4",
+    "next": "Primus 3",
     "proof_read": 2,
     "short_description": "Frater Arvalis im J. 155",
     "no_creative_height": true,
@@ -3706,8 +3695,19 @@
     ]
   },
   {
-    "lemma": "Primus 4",
+    "lemma": "Primus 3",
     "previous": "Primus 2",
+    "next": "Primus 4",
+    "chapters": [
+      {
+        "start": 1996,
+        "author": "Hanslik"
+      }
+    ]
+  },
+  {
+    "lemma": "Primus 4",
+    "previous": "Primus 3",
     "next": "Primus 5",
     "chapters": [
       {
