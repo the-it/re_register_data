@@ -2842,12 +2842,25 @@
   {
     "lemma": "Hieron stoma 1",
     "previous": "Hieron pedion",
-    "next": "Hierondas",
+    "next": "Hieron stoma 2",
     "chapters": [
       {
         "start": 1530,
         "end": 1535,
         "author": "Kiessling, Max"
+      }
+    ]
+  },
+  {
+    "lemma": "Hieron stoma 2",
+    "previous": "Hieron stoma 1",
+    "next": "Hierondas",
+    "redirect": "Danuvius 1",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 1535,
+        "end": 1535
       }
     ]
   },
@@ -2893,26 +2906,12 @@
   {
     "lemma": "Hieronikai",
     "previous": "Hieronides",
-    "next": "Hieron stoma 2",
+    "next": "Hieronnesos",
     "chapters": [
       {
         "start": 1535,
         "end": 1536,
         "author": "Oehler, J[ohann]"
-      }
-    ]
-  },
-  {
-    "lemma": "Hieron stoma 2",
-    "previous": "Hieron stoma 1",
-    "next": "Hierondas",
-    "sort_key": "Hieron stoma 2",
-    "redirect": "Danuvius 1",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 1535,
-        "end": 1535
       }
     ]
   },
@@ -6079,7 +6078,7 @@
   {
     "lemma": "Hippodamas 4",
     "previous": "Hippodamas 3",
-    "next": "Hippodamas 4b",
+    "next": "Hippodamas 2b",
     "proof_read": 2,
     "short_description": "(Doppelt vergeben) Troianer",
     "no_creative_height": true,
@@ -6092,10 +6091,10 @@
     ]
   },
   {
-    "lemma": "Hippodamas 4b",
+    "lemma": "Hippodamas 2b",
     "previous": "Hippodamas 4",
-    "next": "Hippodamas 4c",
-    "sort_key": "Hippodamas 4b",
+    "next": "Hippodamas 3b",
+    "sort_key": "Hippodamas 4b2",
     "proof_read": 2,
     "short_description": "2) H., athenischer Archon im J. 375/4. Diodor. XV 38. IG II 49. II 5, 49 c. 49",
     "chapters": [
@@ -6107,8 +6106,32 @@
     ]
   },
   {
+    "lemma": "Hippodamas 3b",
+    "previous": "Hippodamas 2b",
+    "next": "Hippodamas 4b",
+    "sort_key": "Hippodamas 4b3",
+    "chapters": [
+      {
+        "start": 1723,
+        "author": "Sundwall"
+      }
+    ]
+  },
+  {
+    "lemma": "Hippodamas 4b",
+    "previous": "Hippodamas 3b",
+    "next": "Hippodamas 5",
+    "sort_key": "Hippodamas 4b4",
+    "chapters": [
+      {
+        "start": 1723,
+        "author": "Sundwall"
+      }
+    ]
+  },
+  {
     "lemma": "Hippodamas 5",
-    "previous": "Hippodamas 4d",
+    "previous": "Hippodamas 4b",
     "next": "Hippodamas 6",
     "proof_read": 2,
     "short_description": "Dichter aus Salamis",
@@ -6123,7 +6146,7 @@
   {
     "lemma": "Hippodamas 6",
     "previous": "Hippodamas 5",
-    "next": "Hippodamas (Doppelvergabe) 2",
+    "next": "Hippodame",
     "chapters": [
       {
         "start": 1723,
@@ -6133,41 +6156,8 @@
     ]
   },
   {
-    "lemma": "Hippodamas (Doppelvergabe) 2",
-    "previous": "Hippodamas 6",
-    "next": "Hippodamas (Doppelvergabe) 3",
-    "chapters": [
-      {
-        "start": 1723,
-        "author": "Kirchner"
-      }
-    ]
-  },
-  {
-    "lemma": "Hippodamas (Doppelvergabe) 3",
-    "previous": "Hippodamas (Doppelvergabe) 2",
-    "next": "Hippodamas (Doppelvergabe) 4",
-    "chapters": [
-      {
-        "start": 1723,
-        "author": "Sundwall"
-      }
-    ]
-  },
-  {
-    "lemma": "Hippodamas (Doppelvergabe) 4",
-    "previous": "Hippodamas (Doppelvergabe) 3",
-    "next": "Hippodame",
-    "chapters": [
-      {
-        "start": 1723,
-        "author": "Sundwall"
-      }
-    ]
-  },
-  {
     "lemma": "Hippodame",
-    "previous": "Hippodamas (Doppelvergabe) 4",
+    "previous": "Hippodamas 6",
     "next": "Hippodameia",
     "chapters": [
       {
