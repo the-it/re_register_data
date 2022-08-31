@@ -4066,7 +4066,7 @@
   {
     "lemma": "Lucretius 36",
     "previous": "Lucretius 35",
-    "next": "Lucretia 37",
+    "next": "Lucretius 37",
     "chapters": [
       {
         "start": 1691,
@@ -4075,9 +4075,9 @@
     ]
   },
   {
-    "lemma": "Lucretia 37",
+    "lemma": "Lucretius 37",
     "previous": "Lucretius 36",
-    "next": "Lucretia 38",
+    "next": "Lucretius 38",
     "sort_key": "Lucretius 37",
     "proof_read": 2,
     "short_description": "Gattin des Numa Pompilius",
@@ -4090,8 +4090,22 @@
     ]
   },
   {
+    "lemma": "Lucretius 38",
+    "previous": "Lucretius 37",
+    "next": "Lucretius pagus",
+    "proof_read": 2,
+    "short_description": "Gattin des Numa Pompilius",
+    "chapters": [
+      {
+        "start": 1692,
+        "end": 1692,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
     "lemma": "Lucretius pagus",
-    "previous": "Lucretia 37",
+    "previous": "Lucretius 38",
     "next": "Lucrii Dii",
     "sort_key": "Lucretiuspagus",
     "proof_read": 2,
@@ -8453,7 +8467,7 @@
   {
     "lemma": "Lykomedes 10",
     "previous": "Lykomedes 9",
-    "next": "Lycomedes 13",
+    "next": "Lykomedes 11",
     "chapters": [
       {
         "start": 2299,
@@ -8462,23 +8476,8 @@
     ]
   },
   {
-    "lemma": "Lycomedes 13",
-    "previous": "Lykomedes 12",
-    "next": "Lykomedes 11",
-    "sort_key": "Lykomedes 13",
-    "proof_read": 2,
-    "short_description": "procurator in Hispania Baetica",
-    "chapters": [
-      {
-        "start": 2300,
-        "end": 2300,
-        "author": "Stein."
-      }
-    ]
-  },
-  {
     "lemma": "Lykomedes 11",
-    "previous": "Lycomedes 13",
+    "previous": "Lykomedes 10",
     "next": "Lykomedes 12",
     "chapters": [
       {
@@ -8490,7 +8489,7 @@
   {
     "lemma": "Lykomedes 12",
     "previous": "Lykomedes 11",
-    "next": "Lycomedes 13",
+    "next": "Lykomedes 13",
     "proof_read": 2,
     "short_description": "Erhält durch Caesar d. Priestertum in Komana",
     "no_creative_height": true,
@@ -8503,8 +8502,23 @@
     ]
   },
   {
+    "lemma": "Lykomedes 13",
+    "previous": "Lykomedes 12",
+    "next": "Lykomedes 14",
+    "sort_key": "Lykomedes 13",
+    "proof_read": 2,
+    "short_description": "procurator in Hispania Baetica",
+    "chapters": [
+      {
+        "start": 2300,
+        "end": 2300,
+        "author": "Stein."
+      }
+    ]
+  },
+  {
     "lemma": "Lykomedes 14",
-    "previous": "Lycomedes 13",
+    "previous": "Lykomedes 13",
     "next": "Lykomedes 15",
     "proof_read": 2,
     "short_description": "Arzt?",
