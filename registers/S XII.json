@@ -5197,6 +5197,7 @@
   {
     "lemma": "Paulus 30",
     "previous": "Pauliana actio",
+    "next": "Paulus 31",
     "sort_key": "Paulus 30",
     "proof_read": 2,
     "short_description": "''comes'' und Befehlshaber im gallischen Sonderreich von Soissons um 465 n. Chr.",
@@ -5211,20 +5212,20 @@
     ]
   },
   {
-    "lemma": "Paulus 3a",
-    "next": "Pelops 3a",
+    "lemma": "Paulus 31",
+    "previous": "Paulus 30",
+    "next": "Peloponnesos",
     "chapters": [
       {
-        "start": 1019,
-        "end": 1020,
+        "start": 1020,
         "author": "Demandt"
       }
     ]
   },
   {
-    "lemma": "Pelops 3a",
-    "previous": "Paulus 3a",
-    "next": "Paulus 3b",
+    "lemma": "Peloponnesos",
+    "previous": "Paulus 31",
+    "next": "Pelops 3a",
     "chapters": [
       {
         "start": 1019,
@@ -5234,19 +5235,20 @@
     ]
   },
   {
-    "lemma": "Paulus 3b",
-    "previous": "Pelops 3a",
+    "lemma": "Pelops 3a",
+    "previous": "Peloponnesos",
     "next": "Peraia 6a",
     "chapters": [
       {
-        "start": 1020,
-        "author": "Demandt"
+        "start": 1019,
+        "end": 1021,
+        "author": "Olshausen"
       }
     ]
   },
   {
     "lemma": "Peraia 6a",
-    "previous": "Paulus 3b",
+    "previous": "Pelops 3a",
     "next": "Persis 1",
     "chapters": [
       {
