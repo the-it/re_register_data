@@ -139,7 +139,7 @@
   {
     "lemma": "Abella",
     "previous": "abecedarius, -a, -um",
-    "next": "Abdera 1",
+    "next": "Abdera",
     "redirect": "Avella",
     "proof_read": 3,
     "wp_link": "w:de:Abella",
@@ -152,8 +152,11 @@
     ]
   },
   {
+    "lemma": "Abdera",
+    "previous": "Abella"
+  },
+  {
     "lemma": "Abdera 1",
-    "previous": "Abella",
     "next": "Abdere",
     "proof_read": 3,
     "wp_link": "w:de:Abdera",
@@ -20421,7 +20424,7 @@
   {
     "lemma": "Epimenes 1a",
     "previous": "Epikrates 3",
-    "next": "Ἐπιστάτης εἰρήνης",
+    "next": "Ἐπιστάτης ἐιρήνης",
     "short_description": "Aisymnet von Milet vgl. Amphitres",
     "chapters": [
       {
@@ -20432,9 +20435,9 @@
     ]
   },
   {
-    "lemma": "Ἐπιστάτης εἰρήνης",
+    "lemma": "Ἐπιστάτης ἐιρήνης",
     "previous": "Epimenes 1a",
-    "next": "Epistula 1",
+    "next": "Epistula",
     "sort_key": "Epistates eirenes",
     "redirect": "Εἰρηνοφύλακες",
     "proof_read": 3,
@@ -20446,20 +20449,21 @@
     ]
   },
   {
-    "lemma": "Epistula 1",
-    "previous": "Ἐπιστάτης εἰρήνης",
+    "lemma": "Epistula",
+    "previous": "Ἐπιστάτης ἐιρήνης",
     "next": "Epona",
+    "redirect": true,
     "chapters": [
       {
         "start": 435,
         "end": 436,
-        "author": "E. Weiß."
+        "author": "E. Weiss."
       }
     ]
   },
   {
     "lemma": "Epona",
-    "previous": "Epistula 1",
+    "previous": "Epistula",
     "next": "Eporedorix",
     "proof_read": 3,
     "wp_link": "w:de:Epona (Mythologie)",

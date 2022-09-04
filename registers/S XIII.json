@@ -74,10 +74,21 @@
   },
   {
     "lemma": "Iuvavum",
-    "previous": "Chlodovechus"
+    "previous": "Chlodovechus",
+    "next": "Kallimachos 6",
+    "wp_link": "w:de:Iuvavum",
+    "wd_link": "d:Q877404",
+    "chapters": [
+      {
+        "start": 173,
+        "end": 184,
+        "author": "Norbert Heger."
+      }
+    ]
   },
   {
     "lemma": "Kallimachos 6",
+    "previous": "Iuvavum",
     "next": "Lykia",
     "chapters": [
       {
@@ -90,6 +101,7 @@
   {
     "lemma": "Lykia",
     "previous": "Kallimachos 6",
+    "next": "Mauretania",
     "chapters": [
       {
         "start": 265,
@@ -99,13 +111,36 @@
     ]
   },
   {
-    "lemma": "Mauretania"
+    "lemma": "Mauretania",
+    "previous": "Lykia",
+    "next": "Numidia",
+    "wp_link": "w:de:Mauretanien (Antike)",
+    "wd_link": "d:Q309272",
+    "chapters": [
+      {
+        "start": 308,
+        "end": 316,
+        "author": "Bengt E. Thomasson."
+      }
+    ]
   },
   {
-    "lemma": "Numidia"
+    "lemma": "Numidia",
+    "previous": "Mauretania",
+    "next": "Palaestina",
+    "wp_link": "w:de:Numidien",
+    "wd_link": "d:Q102679",
+    "chapters": [
+      {
+        "start": 315,
+        "end": 322,
+        "author": "Bengt E. Thomasson."
+      }
+    ]
   },
   {
     "lemma": "Palaestina",
+    "previous": "Numidia",
     "next": "Philolaos 5",
     "chapters": [
       {
@@ -142,7 +177,7 @@
   {
     "lemma": "Presbeia",
     "previous": "Politarches",
-    "next": "Proxenos 17",
+    "next": "προμετρητής",
     "chapters": [
       {
         "start": 499,
@@ -152,11 +187,66 @@
     ]
   },
   {
-    "lemma": "Proxenos 17"
+    "lemma": "προμετρητής",
+    "previous": "Presbeia",
+    "next": "Proxenos 17",
+    "short_description": "prometretes, in Athen Fachmann bei Verkauf und Zuteilung von Getreide und Hülsenfrüchten",
+    "chapters": [
+      {
+        "start": 627,
+        "end": 629,
+        "author": "Fritz Gschnitzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Proxenos 17",
+    "previous": "προμετρητής",
+    "next": "Prytanis, Prytaneia, Prytaneion",
+    "short_description": "Amt im antiken Griechenland",
+    "wp_link": "w:de:Proxenos",
+    "wd_link": "d:Q975148",
+    "chapters": [
+      {
+        "start": 629,
+        "end": 730,
+        "author": "Fritz Gschnitzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Prytanis, Prytaneia, Prytaneion",
+    "previous": "Proxenos 17",
+    "next": "Syrakusai",
+    "short_description": "Amt im antiken Griechenland, führende Mitglieder der Regierung einer polis",
+    "wp_link": "w:de:Prytan",
+    "wd_link": "d:Q456334",
+    "chapters": [
+      {
+        "start": 730,
+        "end": 816,
+        "author": "Fritz Gschnitzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Syrakusai",
+    "previous": "Prytanis, Prytaneia, Prytaneion",
+    "next": "Theodosios 10",
+    "short_description": "Stadt an der O-Küste Siziliens. [A.-B.] Entwicklungsgeschichte und Topographie.",
+    "wp_link": "w:de:Syrakus",
+    "wd_link": "d:Q13670",
+    "chapters": [
+      {
+        "start": 815,
+        "end": 836,
+        "author": "H.-P. Drögemüller."
+      }
+    ]
   },
   {
     "lemma": "Theodosios 10",
-    "previous": "Proxenos 17",
+    "previous": "Syrakusai",
     "next": "Theodosios 11",
     "chapters": [
       {
@@ -198,11 +288,29 @@
   },
   {
     "lemma": "Tullius 29",
+    "previous": "Theseus 1",
+    "next": "Wachs",
+    "wp_link": "w:de:Marcus Tullius Cicero",
+    "ws_link": "s:de:Cicero",
+    "wd_link": "d:Q1541",
     "chapters": [
       {
         "start": 1237,
         "end": 1347,
-        "author": "Albrecht"
+        "author": "M. v. Albrecht."
+      }
+    ]
+  },
+  {
+    "lemma": "Wachs",
+    "previous": "Tullius 29",
+    "wp_link": "w:de:Wachs",
+    "wd_link": "d:Q124695",
+    "chapters": [
+      {
+        "start": 1347,
+        "end": 1416,
+        "author": "Reinhard Büll. Ernst Moser."
       }
     ]
   }

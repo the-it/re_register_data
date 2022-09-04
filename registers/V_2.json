@@ -11052,10 +11052,12 @@
     "lemma": "Echinos 1",
     "previous": "Echinades",
     "next": "Echinos 2",
+    "short_description": "Hafenplatz d. Stadt Thyrrheion",
     "chapters": [
       {
         "start": 1921,
-        "author": "Philippson"
+        "end": 1921,
+        "author": "Philippson."
       }
     ]
   },
@@ -11063,10 +11065,12 @@
     "lemma": "Echinos 2",
     "previous": "Echinos 1",
     "next": "Echinos 3",
+    "short_description": "Stadt in Phthiotis in Thessalien",
     "chapters": [
       {
         "start": 1921,
-        "author": "Philippson"
+        "end": 1921,
+        "author": "Philippson."
       }
     ]
   },
@@ -11088,10 +11092,12 @@
     "lemma": "Echinos 4",
     "previous": "Echinos 3",
     "next": "Echinos 5",
+    "short_description": "ein Seher, der mit Amphitryon gegen die Taphier zu Feld zog",
     "chapters": [
       {
         "start": 1921,
-        "author": "Waser"
+        "end": 1921,
+        "author": "Waser."
       }
     ]
   },
@@ -11145,10 +11151,14 @@
     "lemma": "Echinos 8",
     "previous": "Echinos 7",
     "next": "Echinos 9",
+    "sort_key": "Echinos 08",
+    "short_description": "der gemeine Landigel",
+    "wp_link": "w:de:Igel",
     "chapters": [
       {
         "start": 1922,
-        "author": "Delbrück"
+        "end": 1922,
+        "author": "R. Delbrück."
       }
     ]
   },
@@ -11246,10 +11256,12 @@
     "lemma": "Echinos 15",
     "previous": "Echinos 14",
     "next": "Echinos 16",
+    "short_description": "Polster d. dorischen u. tuscanischen Säulenkapitels",
     "chapters": [
       {
         "start": 1923,
-        "author": "Delbrück"
+        "end": 1923,
+        "author": "R. Delbrück."
       }
     ]
   },
@@ -21808,7 +21820,7 @@
   {
     "lemma": "Embaros",
     "previous": "Emathis 3",
-    "next": "Embas",
+    "next": "Ἐμβάς",
     "proof_read": 2,
     "short_description": "schlau oder töricht. Embaros opfert seine Tochter für das Priestertum",
     "chapters": [
@@ -21820,11 +21832,12 @@
     ]
   },
   {
-    "lemma": "Embas",
+    "lemma": "Ἐμβάς",
     "previous": "Embaros",
     "next": "Ἐμβασικοίτη",
+    "sort_key": "Embas",
     "proof_read": 2,
-    "short_description": "Fußbekleidung, nicht allzu hohe Stiefel, vorne verschnürt",
+    "short_description": "Embas, Fußbekleidung, nicht allzu hohe Stiefel, vorne verschnürt",
     "chapters": [
       {
         "start": 2482,
@@ -21835,7 +21848,7 @@
   },
   {
     "lemma": "Ἐμβασικοίτη",
-    "previous": "Embas",
+    "previous": "Ἐμβάς",
     "next": "Embasios",
     "sort_key": "Embasikoite",
     "proof_read": 2,
@@ -26242,11 +26255,16 @@
     "lemma": "Epameinondas 1",
     "previous": "Epameinon 2",
     "next": "Epameinondas 2",
+    "proof_read": 2,
+    "short_description": "Polemarch aus Hyettos",
+    "wp_link": "w:de:Epaminondas",
+    "ws_link": "s:en:Author:Epaminondas",
+    "wd_link": "d:Q190436",
     "chapters": [
       {
         "start": 2674,
         "end": 2707,
-        "author": "Swoboda, [Heinrich]"
+        "author": "Swoboda."
       }
     ]
   },
@@ -27096,40 +27114,54 @@
     "lemma": "Ἐφήγησις",
     "previous": "Ἔφεδρος",
     "next": "Ephemerides",
+    "sort_key": "Ephegesis",
+    "proof_read": 2,
+    "short_description": "Form d. öffentlichen Klage in Athen",
     "chapters": [
       {
         "start": 2748,
         "end": 2749,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Ephemerides",
     "previous": "Ἐφήγησις",
-    "next": "Ephemeron",
+    "next": "Ἐφήμερον",
+    "sort_key": "Ephemerides",
+    "proof_read": 2,
+    "short_description": "'königliche Tagebücher', Aufzeichnungen im Heerlager Alexanders_d._Großen",
+    "wp_link": "w:de:Ephemeriden Alexanders des Großen",
+    "wd_link": "d:Q1346761",
     "chapters": [
       {
         "start": 2749,
         "end": 2753,
-        "author": "Kaerst"
+        "author": "Kaerst."
       }
     ]
   },
   {
-    "lemma": "Ephemeron",
+    "lemma": "Ἐφήμερον",
     "previous": "Ephemerides",
     "next": "Ephesia 1",
+    "sort_key": "Ephemeron",
+    "proof_read": 2,
+    "short_description": "Herbstzeitlose, Giftpflanze",
+    "wp_link": "w:de:Herbstzeitlose",
+    "wd_link": "d:Q152553",
     "chapters": [
       {
         "start": 2753,
-        "author": "Schmidt, Max C[arl] P[aul]"
+        "end": 2753,
+        "author": "M. C. P. Schmidt."
       }
     ]
   },
   {
     "lemma": "Ephesia 1",
-    "previous": "Ephemeron",
+    "previous": "Ἐφήμερον",
     "next": "Ephesia 2",
     "redirect": "Ephesos 1",
     "proof_read": 2,
@@ -27144,18 +27176,22 @@
     "lemma": "Ephesia 2",
     "previous": "Ephesia 1",
     "next": "Ephesia 3",
+    "proof_read": 2,
+    "short_description": "Epiklesis d. Artemis von ihrem berühmten Kult in Ephesos",
+    "wp_link": "w:de:Artemis",
+    "wd_link": "d:Q39503",
     "chapters": [
       {
         "start": 2753,
         "end": 2771,
-        "author": "Jessen"
+        "author": "Jessen."
       }
     ]
   },
   {
     "lemma": "Ephesia 3",
     "previous": "Ephesia 2",
-    "next": "Ephesia grammata",
+    "next": "Ἐφεσία γράμματα",
     "proof_read": 2,
     "short_description": "Fest d. Artemis in Ephesos",
     "chapters": [
@@ -27167,21 +27203,24 @@
     ]
   },
   {
-    "lemma": "Ephesia grammata",
+    "lemma": "Ἐφεσία γράμματα",
     "previous": "Ephesia 3",
     "next": "Ephesios",
+    "sort_key": "Ephesiagrammata",
+    "proof_read": 2,
+    "short_description": "Zauberworte, gesprochen für Schutz und übernatürliche Kraft",
     "chapters": [
       {
         "start": 2771,
         "end": 2773,
-        "author": "Kuhnert"
+        "author": "Kuhnert."
       }
     ]
   },
   {
     "lemma": "Ephesios",
-    "previous": "Ephesia grammata",
-    "next": "Ephesis",
+    "previous": "Ἐφεσία γράμματα",
+    "next": "Ἔφεσις",
     "proof_read": 2,
     "short_description": "(Ἐφέσιος), Epiklesis des Herakles auf einem Altar in Ephesos nach Ps.-Heraklit",
     "chapters": [
@@ -27193,19 +27232,23 @@
     ]
   },
   {
-    "lemma": "Ephesis",
+    "lemma": "Ἔφεσις",
     "previous": "Ephesios",
     "next": "Ephesos 1",
+    "sort_key": "Ephesis",
+    "proof_read": 2,
+    "short_description": "Berufung gg. die Entscheidung einer Behörde an d. Heliastengericht",
     "chapters": [
       {
         "start": 2773,
-        "author": "Thalheim"
+        "end": 2773,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Ephesos 1",
-    "previous": "Ephesis",
+    "previous": "Ἔφεσις",
     "next": "Ephesos 2",
     "chapters": [
       {
@@ -27219,10 +27262,12 @@
     "lemma": "Ephesos 2",
     "previous": "Ephesos 1",
     "next": "Ephesos 3",
+    "short_description": "Eponyme d. Stadt Ephesos",
     "chapters": [
       {
         "start": 2822,
-        "author": "Waser"
+        "end": 2822,
+        "author": "Waser."
       }
     ]
   },
@@ -27230,11 +27275,12 @@
     "lemma": "Ephesos 3",
     "previous": "Ephesos 2",
     "next": "Ephestios 1",
+    "short_description": "Sohn d. Kaystros, Enkel d. Penthesileia",
     "chapters": [
       {
         "start": 2822,
         "end": 2823,
-        "author": "Waser"
+        "author": "Waser."
       }
     ]
   },
@@ -27315,11 +27361,14 @@
     "lemma": "Epheu",
     "previous": "Ἐφετίνδα",
     "next": "Ephialtes 1",
+    "sort_key": "Epheu",
+    "proof_read": 2,
+    "short_description": "Pflanzenart, steigt mit Luftwurzeln an Bäumen und Mauern empor",
     "chapters": [
       {
         "start": 2826,
         "end": 2847,
-        "author": "Olck"
+        "author": "Olck."
       }
     ]
   },
@@ -27520,11 +27569,13 @@
     "lemma": "Ephippos 4",
     "previous": "Ephippos 3",
     "next": "Ephippos 5",
+    "sort_key": "Ephippos 4",
+    "short_description": "Aus Olynth, Begleiter Alexanders d. Gr.",
     "chapters": [
       {
         "start": 2858,
         "end": 2859,
-        "author": "Jacoby, [Felix]"
+        "author": "Jacoby."
       }
     ]
   },

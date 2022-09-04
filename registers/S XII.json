@@ -100,6 +100,7 @@
   {
     "lemma": "Acilius 42",
     "previous": "Achaios 6",
+    "next": "Acilius 52",
     "proof_read": 3,
     "no_creative_height": true,
     "wp_link": "w:de:Manius Acilius Glabrio (Konsul 152)",
@@ -3666,6 +3667,7 @@
   {
     "lemma": "Immo",
     "previous": "Ilunum 2",
+    "next": "Ipneis",
     "chapters": [
       {
         "start": 502,
@@ -3676,7 +3678,16 @@
   },
   {
     "lemma": "Ipneis",
-    "next": "Iulianos 61"
+    "previous": "Immo",
+    "next": "Iulianos 61",
+    "redirect": "Hypnia",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 504,
+        "end": 504
+      }
+    ]
   },
   {
     "lemma": "Iulianos 61",
@@ -4503,10 +4514,20 @@
   },
   {
     "lemma": "Iuventius 24",
-    "previous": "Iunius 187a"
+    "previous": "Iunius 187a",
+    "next": "Kallimandros",
+    "short_description": "Surus Proculus, M. Wohl Angehöriger d. Familie d. Iuventier in Brixia",
+    "chapters": [
+      {
+        "start": 512,
+        "end": 512,
+        "author": "Gerhard Winkler."
+      }
+    ]
   },
   {
     "lemma": "Kallimandros",
+    "previous": "Iuventius 24",
     "next": "Kleomedon 3",
     "chapters": [
       {
@@ -5164,7 +5185,7 @@
   {
     "lemma": "Pauliana actio",
     "previous": "Patricius 3a",
-    "next": "Paulus 3a",
+    "next": "Paulus 30",
     "chapters": [
       {
         "start": 1008,
@@ -5174,8 +5195,23 @@
     ]
   },
   {
-    "lemma": "Paulus 3a",
+    "lemma": "Paulus 30",
     "previous": "Pauliana actio",
+    "sort_key": "Paulus 30",
+    "proof_read": 2,
+    "short_description": "''comes'' und Befehlshaber im gallischen Sonderreich von Soissons um 465 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Paulus (Comes)",
+    "chapters": [
+      {
+        "start": 1019,
+        "end": 1020,
+        "author": "Alexander Demandt."
+      }
+    ]
+  },
+  {
+    "lemma": "Paulus 3a",
     "next": "Pelops 3a",
     "chapters": [
       {

@@ -1575,11 +1575,11 @@
     "previous": "Hegias 5a",
     "next": "Herennius 33a",
     "proof_read": 3,
-    "short_description": "Oberlauf des maked. Baphyras (II 2850)",
+    "short_description": "Oberlauf des makedonischen Baphyras",
     "chapters": [
       {
-        "start": 277,
-        "end": 277,
+        "start": 278,
+        "end": 278,
         "author": "E. Oberhummer."
       }
     ]
@@ -1632,7 +1632,7 @@
     "previous": "ὁμολογία γάμου",
     "next": "Hymnodoi",
     "proof_read": 3,
-    "short_description": ">4a Griech. Kultschriftsteller",
+    "short_description": "griechischer Kultschriftsteller",
     "chapters": [
       {
         "start": 278,
@@ -1963,7 +1963,6 @@
   {
     "lemma": "Iunius 105a",
     "previous": "Iunius 81",
-    "next": "Iuratores",
     "chapters": [
       {
         "start": 313,
@@ -1972,19 +1971,28 @@
     ]
   },
   {
+    "lemma": "Iunius 144",
+    "next": "Iuratores"
+  },
+  {
     "lemma": "Iuratores",
-    "previous": "Iunius 105a",
-    "next": "Kadusioi",
+    "previous": "Iunius 144",
+    "next": "Iurisconsulti",
+    "short_description": "vereidigte Zeugen bei Census und Consulwahl",
     "chapters": [
       {
         "start": 313,
-        "author": "Hellebrand"
+        "end": 314,
+        "author": "Walter Hellebrand."
       }
     ]
   },
   {
+    "lemma": "Iurisconsulti",
+    "previous": "Iuratores"
+  },
+  {
     "lemma": "Kadusioi",
-    "previous": "Iuratores",
     "next": "Kalades",
     "chapters": [
       {
@@ -3827,7 +3835,6 @@
   {
     "lemma": "Mysta",
     "previous": "Mysokaras limen",
-    "next": "Narbo",
     "chapters": [
       {
         "start": 514,
@@ -3836,30 +3843,57 @@
     ]
   },
   {
+    "lemma": "Nanaros",
+    "next": "Narbo"
+  },
+  {
     "lemma": "Narbo",
-    "previous": "Mysta",
-    "next": "Neapolis 18a",
+    "previous": "Nanaros",
+    "next": "ναῦλον",
+    "short_description": "Narbo Martius, Hauptstadt der Gallia Narbonensis, heute Narbonne",
+    "wp_link": "w:de:Narbo Martius",
     "chapters": [
       {
         "start": 515,
-        "author": "Goessler"
+        "end": 548,
+        "author": "P. Goessler."
       }
     ]
   },
   {
-    "lemma": "Neapolis 18a",
+    "lemma": "ναῦλον",
     "previous": "Narbo",
+    "next": "Neapolis 18α",
+    "sort_key": "naulon",
+    "proof_read": 2,
+    "short_description": "Fahrgeld oder Frachtgeld im Personenverkehr oder im Frachtgeschäft",
+    "chapters": [
+      {
+        "start": 548,
+        "end": 549,
+        "author": "Erich Ziebarth."
+      }
+    ]
+  },
+  {
+    "lemma": "Neapolis 18α",
+    "previous": "ναῦλον",
     "next": "Nebiogastes",
+    "sort_key": "Neapolis 18a",
+    "proof_read": 3,
+    "short_description": "Ort in Kolchis, heute Nabbaki",
+    "wp_link": "w:de:en:Neapolis (Colchis)",
     "chapters": [
       {
         "start": 549,
-        "author": "Herrmann"
+        "end": 549,
+        "author": "Albert Herrmann."
       }
     ]
   },
   {
     "lemma": "Nebiogastes",
-    "previous": "Neapolis 18a",
+    "previous": "Neapolis 18α",
     "next": "Nebisgastes",
     "chapters": [
       {
@@ -4418,7 +4452,7 @@
   {
     "lemma": "Noracus",
     "previous": "ad Nonum 5",
-    "next": "Noropes",
+    "next": "Noricum",
     "chapters": [
       {
         "start": 582,
@@ -4427,8 +4461,22 @@
     ]
   },
   {
-    "lemma": "Noropes",
+    "lemma": "Noricum",
     "previous": "Noracus",
+    "next": "Noropes",
+    "wp_link": "w:de:Noricum",
+    "wd_link": "d:Q131434",
+    "chapters": [
+      {
+        "start": 582,
+        "end": 585,
+        "author": "E. Polaschek."
+      }
+    ]
+  },
+  {
+    "lemma": "Noropes",
+    "previous": "Noricum",
     "next": "Notare",
     "chapters": [
       {
@@ -6725,7 +6773,6 @@
   {
     "lemma": "Theodorides 2",
     "previous": "Themistokleia, Theokleia",
-    "next": "Theodotos 56",
     "proof_read": 2,
     "short_description": "von Sikyon, Gesandter des Achai. Bundes bei Ptolemaios V. Epiphanes 188 v. Chr.",
     "no_creative_height": true,
@@ -6738,19 +6785,58 @@
     ]
   },
   {
+    "lemma": "Theodoridas 2",
+    "previous": "Themistokleia, Theokleia",
+    "next": "Theodotos 56",
+    "proof_read": 3,
+    "short_description": "von Sikyon, Gesandter des Achai. Bundes bei Ptolemaios V. Epiphanes 188 v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Teodòrides de Sició",
+    "wd_link": "d:Q11951535",
+    "chapters": [
+      {
+        "start": 1352,
+        "end": 1353,
+        "author": "Fritz Heichelheim."
+      }
+    ]
+  },
+  {
     "lemma": "Theodotos 56",
-    "previous": "Theodorides 2",
-    "next": "Theomnestos 16a",
+    "previous": "Theodoridas 2",
+    "next": "Theomnestos 18a",
+    "proof_read": 2,
+    "short_description": "Münzstempelschneider im ion. Klazomenai um die Mitte des 4. Jh. v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Teòdot de Clazòmenes",
+    "wd_link": "d:Q11951527",
     "chapters": [
       {
         "start": 1353,
-        "author": "Bauer"
+        "end": 1353,
+        "author": "H. E. Bauer."
+      }
+    ]
+  },
+  {
+    "lemma": "Theomnestos 18a",
+    "previous": "Theodotos 56",
+    "next": "Theon 1a",
+    "sort_key": "Theomnestos 18a",
+    "proof_read": 2,
+    "short_description": "griech. Veterinärschriftsteller in der 1. H. des 4. Jh. n. Chr.",
+    "wp_link": "w:ca:Teomnest (veterinari)",
+    "wd_link": "d:Q679536",
+    "chapters": [
+      {
+        "start": 1353,
+        "end": 1354,
+        "author": "Karl Hoppe."
       }
     ]
   },
   {
     "lemma": "Theomnestos 16a",
-    "previous": "Theodotos 56",
     "next": "Theon 1a",
     "proof_read": 2,
     "short_description": "Griech. Veterinärschriftsteller in der 1. H. des 4. Jh. n. Chr.",
