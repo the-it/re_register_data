@@ -23002,10 +23002,19 @@
   },
   {
     "lemma": "Gentinos",
-    "previous": "Genitor 3"
+    "previous": "Genitor 3",
+    "next": "Geophanion",
+    "chapters": [
+      {
+        "start": 543,
+        "end": 544,
+        "author": "Bürchner"
+      }
+    ]
   },
   {
     "lemma": "Geophanion",
+    "previous": "Gentinos",
     "next": "Geranthrai, Geronthrai, Gerenthrai",
     "chapters": [
       {
@@ -23075,6 +23084,7 @@
   {
     "lemma": "Germ(anicae?) figlinae",
     "previous": "Germania",
+    "next": "Germanicum",
     "chapters": [
       {
         "start": 586,
@@ -23084,7 +23094,13 @@
   },
   {
     "lemma": "Germanicum",
-    "next": "Germanus 7"
+    "previous": "Germ(anicae?) figlinae",
+    "next": "Germanus 7",
+    "chapters": [
+      {
+        "start": 586
+      }
+    ]
   },
   {
     "lemma": "Germanus 7",
@@ -23174,10 +23190,18 @@
   },
   {
     "lemma": "Geronteion",
-    "previous": "Germetitha"
+    "previous": "Germetitha",
+    "next": "Gesatus",
+    "chapters": [
+      {
+        "start": 587,
+        "author": "Bürchner"
+      }
+    ]
   },
   {
     "lemma": "Gesatus",
+    "previous": "Geronteion",
     "next": "Gestistyrum",
     "chapters": [
       {
@@ -24100,7 +24124,7 @@
   {
     "lemma": "Gryneia, Gryneion, Gryneon, Grynoi",
     "previous": "Grundbücher",
-    "next": "Habilis 2",
+    "next": "Gyromanteis",
     "chapters": [
       {
         "start": 864,
@@ -24110,8 +24134,33 @@
     ]
   },
   {
-    "lemma": "Habilis 2",
+    "lemma": "Gyromanteis",
     "previous": "Gryneia, Gryneion, Gryneon, Grynoi",
+    "next": "Gyttios(?)",
+    "chapters": [
+      {
+        "start": 866,
+        "author": "Ganschinietz"
+      }
+    ]
+  },
+  {
+    "lemma": "Gyttios(?)",
+    "previous": "Gyromanteis",
+    "next": "Habilis 2",
+    "proof_read": 3,
+    "short_description": "Pythagoreer zu Lokroi",
+    "chapters": [
+      {
+        "start": 866,
+        "end": 866,
+        "author": "Oldfather."
+      }
+    ]
+  },
+  {
+    "lemma": "Habilis 2",
+    "previous": "Gyttios(?)",
     "next": "Habis",
     "proof_read": 2,
     "short_description": "Mittelgall. Sigillatatöpfer in der 1. H. des 2. Jh. n. Chr.",
@@ -24155,7 +24204,7 @@
   {
     "lemma": "Habron 1b",
     "previous": "Habron 1a",
-    "next": "Gyromanteis",
+    "next": "Habron 5",
     "chapters": [
       {
         "start": 865,
@@ -24165,34 +24214,16 @@
     ]
   },
   {
-    "lemma": "Gyromanteis",
+    "lemma": "Habron 5",
     "previous": "Habron 1b",
-    "next": "Gyttios(?)",
-    "chapters": [
-      {
-        "start": 866,
-        "author": "Ganschinietz"
-      }
-    ]
-  },
-  {
-    "lemma": "Gyttios(?)",
-    "previous": "Gyromanteis",
-    "next": "Habron 5",
-    "proof_read": 3,
-    "short_description": "Pythagoreer zu Lokroi",
+    "next": "Hades",
     "chapters": [
       {
         "start": 866,
         "end": 866,
-        "author": "Oldfather."
+        "author": "Lippold."
       }
     ]
-  },
-  {
-    "lemma": "Habron 5",
-    "previous": "Gyttios(?)",
-    "next": "Hades"
   },
   {
     "lemma": "Hades",
