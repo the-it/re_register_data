@@ -1989,10 +1989,25 @@
   },
   {
     "lemma": "Iurisconsulti",
-    "previous": "Iuratores"
+    "previous": "Iuratores",
+    "next": "Iuvenes"
+  },
+  {
+    "lemma": "Iuvenes",
+    "previous": "Iurisconsulti",
+    "next": "Kadusioi",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 315,
+        "end": 316,
+        "author": "Erich Ziebarth."
+      }
+    ]
   },
   {
     "lemma": "Kadusioi",
+    "previous": "Iuvenes",
     "next": "Kalades",
     "chapters": [
       {
