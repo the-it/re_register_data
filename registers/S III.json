@@ -22529,17 +22529,24 @@
     "chapters": [
       {
         "start": 538,
-        "end": 538,
         "author": "Hähnle."
       }
     ]
   },
   {
     "lemma": "Gangra 1",
-    "previous": "Gamus 1"
+    "previous": "Gamus 1",
+    "next": "Ganiccius",
+    "chapters": [
+      {
+        "start": 538,
+        "author": "Hähnle"
+      }
+    ]
   },
   {
     "lemma": "Ganiccius",
+    "previous": "Gangra 1",
     "next": "Ganicos",
     "chapters": [
       {
@@ -22562,7 +22569,7 @@
   {
     "lemma": "Gaodikai",
     "previous": "Ganicos",
-    "next": "Gargoris",
+    "next": "Gargonius 4",
     "chapters": [
       {
         "start": 538,
@@ -22572,8 +22579,19 @@
     ]
   },
   {
-    "lemma": "Gargoris",
+    "lemma": "Gargonius 4",
     "previous": "Gaodikai",
+    "next": "Gargoris",
+    "chapters": [
+      {
+        "start": 539,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Gargoris",
+    "previous": "Gargonius 4",
     "next": "Garizin",
     "chapters": [
       {
@@ -22611,7 +22629,7 @@
   {
     "lemma": "Gaudiacus vicus",
     "previous": "Γαστρόπτης",
-    "next": "Gaudiosus",
+    "next": "Gaudiosus 3",
     "proof_read": 3,
     "wp_link": "w:de:Joué-lès-Tours",
     "wd_link": "d:Q269364",
@@ -22624,16 +22642,8 @@
     ]
   },
   {
-    "lemma": "Gaudiosus",
-    "previous": "Gaudiacus vicus"
-  },
-  {
-    "lemma": "Gaudiacus",
-    "next": "Gaudiosus 3"
-  },
-  {
     "lemma": "Gaudiosus 3",
-    "previous": "Gaudiacus",
+    "previous": "Gaudiacus vicus",
     "next": "Gaudotos",
     "proof_read": 3,
     "short_description": "spätantiker medizin. Autor in den Zusätzen des Cod. Barberin.",
@@ -22792,10 +22802,32 @@
   },
   {
     "lemma": "Gellius 6",
-    "previous": "Geizagera"
+    "previous": "Geizagera",
+    "next": "Gellius 16",
+    "chapters": [
+      {
+        "start": 541,
+        "end": 542,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
+    "lemma": "Gellius 16",
+    "previous": "Gellius 6",
+    "next": "Gellius 16a",
+    "chapters": [
+      {
+        "start": 541,
+        "end": 541,
+        "author": "Stein, [Arthur]"
+      }
+    ]
   },
   {
     "lemma": "Gellius 16a",
+    "previous": "Gellius 16",
+    "next": "Gellius 17",
     "chapters": [
       {
         "start": 542,
@@ -22805,7 +22837,14 @@
   },
   {
     "lemma": "Gellius 17",
-    "next": "Gelupara"
+    "previous": "Gellius 16a",
+    "next": "Gelupara",
+    "chapters": [
+      {
+        "start": 542,
+        "author": "Münzer."
+      }
+    ]
   },
   {
     "lemma": "Gelupara",
