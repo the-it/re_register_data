@@ -3960,23 +3960,68 @@
   },
   {
     "lemma": "Erechtheïs",
-    "previous": "Damolyte"
+    "previous": "Damolyte",
+    "next": "Euboia 2a",
+    "chapters": [
+      {
+        "start": 921,
+        "author": "Hans Riemann."
+      }
+    ]
   },
   {
-    "lemma": "Euboia"
+    "lemma": "Euboia 2a",
+    "previous": "Erechtheïs",
+    "next": "Eubulos 17a",
+    "redirect": "Psegas",
+    "chapters": [
+      {
+        "start": 921
+      }
+    ]
   },
   {
-    "lemma": "Eubulos 17a"
+    "lemma": "Eubulos 17a",
+    "previous": "Euboia 2a",
+    "next": "Hippothontis",
+    "chapters": [
+      {
+        "start": 921,
+        "author": "Heinrich Dörrie."
+      }
+    ]
   },
   {
-    "lemma": "Hippothontis"
+    "lemma": "Hippothontis",
+    "previous": "Eubulos 17a",
+    "next": "Iulius 145",
+    "chapters": [
+      {
+        "start": 922
+      }
+    ]
   },
   {
-    "lemma": "L. (Iulius) Caesar"
+    "lemma": "Iulius 145",
+    "previous": "Hippothontis",
+    "next": "Korobios",
+    "chapters": [
+      {
+        "start": 922,
+        "author": "Fr. Brommer."
+      }
+    ]
   },
   {
     "lemma": "Korobios",
-    "next": "Kybos"
+    "previous": "Iulius 145",
+    "next": "Kybos",
+    "chapters": [
+      {
+        "start": 922,
+        "author": "F. Gisinger."
+      }
+    ]
   },
   {
     "lemma": "Kybos",
@@ -3986,8 +4031,7 @@
     "proof_read": 2,
     "chapters": [
       {
-        "start": 921,
-        "end": 921
+        "start": 922
       }
     ]
   },
