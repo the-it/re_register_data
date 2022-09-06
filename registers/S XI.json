@@ -1232,7 +1232,7 @@
   {
     "lemma": "Haliakmon 2",
     "previous": "Habetdeus",
-    "next": "Herakleides 45",
+    "next": "Heldica",
     "chapters": [
       {
         "start": 674,
@@ -1242,9 +1242,20 @@
     ]
   },
   {
-    "lemma": "Herakleides 45",
+    "lemma": "Heldica",
     "previous": "Haliakmon 2",
-    "next": "Heldica",
+    "next": "Herakleides 45",
+    "chapters": [
+      {
+        "start": 676,
+        "author": "Diesner"
+      }
+    ]
+  },
+  {
+    "lemma": "Herakleides 45",
+    "previous": "Heldica",
+    "next": "Hierokles 19a",
     "chapters": [
       {
         "start": 675,
@@ -1254,19 +1265,8 @@
     ]
   },
   {
-    "lemma": "Heldica",
-    "previous": "Herakleides 45",
-    "next": "Hierokles 19a",
-    "chapters": [
-      {
-        "start": 676,
-        "author": "Diesner"
-      }
-    ]
-  },
-  {
     "lemma": "Hierokles 19a",
-    "previous": "Heldica",
+    "previous": "Herakleides 45",
     "next": "Homeros",
     "proof_read": 2,
     "short_description": "Verfasser einer Witzsammlung vgl. Philogelos",
@@ -1281,11 +1281,48 @@
   },
   {
     "lemma": "Homeros",
-    "previous": "Hierokles 19a"
+    "previous": "Hierokles 19a",
+    "next": "Hypospathismos",
+    "chapters": [
+      {
+        "start": 687,
+        "end": 845,
+        "author": "Albin Lesky."
+      }
+    ]
+  },
+  {
+    "lemma": "Hypospathismos",
+    "previous": "Homeros",
+    "next": "Ianuarius 2",
+    "chapters": [
+      {
+        "start": 845,
+        "author": "Andreas Mócsy."
+      }
+    ]
+  },
+  {
+    "lemma": "Ianuarius 2",
+    "previous": "Hypospathismos",
+    "next": "Ias(s)ii",
+    "chapters": [
+      {
+        "start": 845,
+        "author": "Andreas Mócsy."
+      }
+    ]
   },
   {
     "lemma": "Ias(s)ii",
-    "next": "Illustris 2"
+    "previous": "Ianuarius 2",
+    "next": "Illustris 2",
+    "chapters": [
+      {
+        "start": 845,
+        "author": "Andreas Mócsy."
+      }
+    ]
   },
   {
     "lemma": "Illustris 2",
@@ -1554,7 +1591,7 @@
   {
     "lemma": "Marivadus",
     "previous": "Magnum",
-    "next": "Maximus 134",
+    "next": "Marinianus 20",
     "proof_read": 2,
     "short_description": "Arian. Diakon 5. Jh. n. Chr., Katholikenverfolger",
     "no_creative_height": true,
@@ -1567,8 +1604,19 @@
     ]
   },
   {
-    "lemma": "Maximus 134",
+    "lemma": "Marinianus 20",
     "previous": "Marivadus",
+    "next": "Maximus 134",
+    "chapters": [
+      {
+        "start": 932,
+        "author": "Diesner"
+      }
+    ]
+  },
+  {
+    "lemma": "Maximus 134",
+    "previous": "Marinianus 20",
     "next": "Menandros 7a",
     "chapters": [
       {
@@ -1580,7 +1628,7 @@
   {
     "lemma": "Menandros 7a",
     "previous": "Maximus 134",
-    "next": "Messius 8a",
+    "next": "Menodoros 3",
     "chapters": [
       {
         "start": 933,
@@ -1590,9 +1638,21 @@
     ]
   },
   {
-    "lemma": "Messius 8a",
+    "lemma": "Menodoros 3",
     "previous": "Menandros 7a",
-    "next": "Municipium 2a",
+    "next": "Messius 8a",
+    "chapters": [
+      {
+        "start": 934,
+        "end": 935,
+        "author": "Markwart Michler."
+      }
+    ]
+  },
+  {
+    "lemma": "Messius 8a",
+    "previous": "Menodoros 3",
+    "next": "Mimnermos 1",
     "chapters": [
       {
         "start": 935,
@@ -1601,8 +1661,32 @@
     ]
   },
   {
-    "lemma": "Municipium 2a",
+    "lemma": "Mimnermos 1",
     "previous": "Messius 8a",
+    "next": "Minicius 12",
+    "chapters": [
+      {
+        "start": 935,
+        "end": 951,
+        "author": "Samuel Szádeczky-Kardoss."
+      }
+    ]
+  },
+  {
+    "lemma": "Minicius 12",
+    "previous": "Mimnermos 1",
+    "next": "Municipium 2a",
+    "chapters": [
+      {
+        "start": 952,
+        "end": 1002,
+        "author": "Hans v. Geisau."
+      }
+    ]
+  },
+  {
+    "lemma": "Municipium 2a",
+    "previous": "Minicius 12",
     "next": "Municipium 5",
     "chapters": [
       {
@@ -2398,7 +2482,7 @@
   {
     "lemma": "Zeitha 2",
     "previous": "Zeitha 1",
-    "next": "Zella",
+    "next": "Zelis",
     "proof_read": 2,
     "short_description": "Ort Mesopotamiens = Zaitha",
     "no_creative_height": true,
@@ -2411,8 +2495,18 @@
     ]
   },
   {
-    "lemma": "Zella",
+    "lemma": "Zelis",
     "previous": "Zeitha 2",
+    "next": "Zella",
+    "chapters": [
+      {
+        "start": 1364
+      }
+    ]
+  },
+  {
+    "lemma": "Zella",
+    "previous": "Zelis",
     "next": "Zenertis",
     "chapters": [
       {
@@ -2435,7 +2529,7 @@
   {
     "lemma": "Zengisa",
     "previous": "Zenertis",
-    "next": "Zeugisa",
+    "next": "Cornelius 395",
     "redirect": "Zangenae",
     "proof_read": 2,
     "chapters": [
@@ -2446,13 +2540,8 @@
     ]
   },
   {
-    "lemma": "Zeugisa",
-    "previous": "Zengisa",
-    "next": "Cornelius 395"
-  },
-  {
     "lemma": "Cornelius 395",
-    "previous": "Zeugisa",
+    "previous": "Zengisa",
     "next": "Maes Titianus",
     "wp_link": "w:de:Tacitus",
     "ws_link": "s:de:Tacitus",
@@ -2467,13 +2556,35 @@
   },
   {
     "lemma": "Maes Titianus",
-    "previous": "Cornelius 395"
+    "previous": "Cornelius 395",
+    "next": "Manneianis",
+    "chapters": [
+      {
+        "start": 1365,
+        "end": 1365,
+        "author": "Konrat Ziegler."
+      }
+    ]
   },
   {
     "lemma": "Manneianis",
+    "previous": "Maes Titianus",
+    "next": "Minicius 12",
     "chapters": [
       {
-        "start": 1365
+        "start": 1365,
+        "author": "Andreas Mócsy."
+      }
+    ]
+  },
+  {
+    "lemma": "Minicius 12",
+    "previous": "Manneianis",
+    "chapters": [
+      {
+        "start": 1365,
+        "end": 1378,
+        "author": "Andreas Mócsy."
       }
     ]
   }
