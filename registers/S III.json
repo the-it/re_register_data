@@ -21333,6 +21333,7 @@
   {
     "lemma": "Falkenvögel",
     "previous": "Falinates",
+    "next": "Fallgatter",
     "chapters": [
       {
         "start": 471,
@@ -21342,7 +21343,20 @@
     ]
   },
   {
+    "lemma": "Fallgatter",
+    "previous": "Falkenvögel",
+    "next": "Fannius 1",
+    "chapters": [
+      {
+        "start": 479,
+        "end": 480,
+        "author": "Keune"
+      }
+    ]
+  },
+  {
     "lemma": "Fannius 1",
+    "previous": "Fallgatter",
     "next": "Fannius 7",
     "chapters": [
       {
@@ -21353,7 +21367,7 @@
   {
     "lemma": "Fannius 7",
     "previous": "Fannius 1",
-    "next": "Fannius 9",
+    "next": "Faorianae figlinae",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -21365,29 +21379,9 @@
     ]
   },
   {
-    "lemma": "Fannius 9",
-    "previous": "Fannius 7",
-    "next": "Fannius 16",
-    "chapters": [
-      {
-        "start": 480
-      }
-    ]
-  },
-  {
-    "lemma": "Fannius 16",
-    "previous": "Fannius 9",
-    "next": "Faorianae figlinae",
-    "chapters": [
-      {
-        "start": 480
-      }
-    ]
-  },
-  {
     "lemma": "Faorianae figlinae",
-    "previous": "Fannius 16",
-    "next": "Fato",
+    "previous": "Fannius 7",
+    "next": "Faß",
     "redirect": "Favorianae figlinae",
     "proof_read": 2,
     "chapters": [
@@ -21398,8 +21392,18 @@
     ]
   },
   {
-    "lemma": "Fato",
+    "lemma": "Faß",
     "previous": "Faorianae figlinae",
+    "next": "Fato",
+    "chapters": [
+      {
+        "start": 480
+      }
+    ]
+  },
+  {
+    "lemma": "Fato",
+    "previous": "Faß",
     "next": "Faventinus 3",
     "proof_read": 2,
     "short_description": "Germ. Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
