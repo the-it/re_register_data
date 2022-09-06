@@ -24508,9 +24508,10 @@
   {
     "lemma": "Hekataios 1a",
     "previous": "Heiligenbronn",
+    "next": "Hekate",
     "chapters": [
       {
-        "start": 891,
+        "start": 892,
         "end": 892,
         "author": "Stähelin"
       }
@@ -24518,7 +24519,14 @@
   },
   {
     "lemma": "Hekate",
-    "next": "Helena 1"
+    "next": "Helena 1",
+    "chapters": [
+      {
+        "start": 891,
+        "end": 892,
+        "author": "Keune."
+      }
+    ]
   },
   {
     "lemma": "Helena 1",
@@ -25019,10 +25027,19 @@
   },
   {
     "lemma": "Himerios 1",
-    "previous": "Hilariacus, -um"
+    "previous": "Hilariacus, -um",
+    "next": "Himerios 4",
+    "chapters": [
+      {
+        "start": 1151,
+        "end": 1153,
+        "author": "Schenkl"
+      }
+    ]
   },
   {
     "lemma": "Himerios 4",
+    "previous": "Himerios 1",
     "next": "Himerios 5",
     "chapters": [
       {
@@ -25056,6 +25073,7 @@
   {
     "lemma": "Himerios 7",
     "previous": "Himerios 6",
+    "next": "Hippalus",
     "chapters": [
       {
         "start": 1153,
@@ -25065,7 +25083,14 @@
   },
   {
     "lemma": "Hippalus",
-    "next": "Hippemolgoi"
+    "previous": "Himerios 7",
+    "next": "Hippemolgoi",
+    "chapters": [
+      {
+        "start": 1153,
+        "author": "Grohmann"
+      }
+    ]
   },
   {
     "lemma": "Hippemolgoi",
@@ -25085,10 +25110,30 @@
   },
   {
     "lemma": "Hippodromios",
-    "previous": "Hippemolgoi"
+    "previous": "Hippemolgoi",
+    "next": "Hippokrates 16",
+    "chapters": [
+      {
+        "start": 1154,
+        "author": "Oldfather"
+      }
+    ]
+  },
+  {
+    "lemma": "Hippokrates 16",
+    "previous": "Hippodromios",
+    "next": "Hipponikos 8",
+    "chapters": [
+      {
+        "start": 1154,
+        "author": "Gossen"
+      }
+    ]
   },
   {
     "lemma": "Hipponikos 8",
+    "previous": "Hippokrates 16",
+    "next": "Hipponion",
     "chapters": [
       {
         "start": 1155,
@@ -25098,7 +25143,14 @@
   },
   {
     "lemma": "Hipponion",
-    "next": "Hippos 2"
+    "previous": "Hipponikos 8",
+    "next": "Hippos 2",
+    "chapters": [
+      {
+        "start": 1155,
+        "author": "Oldfather"
+      }
+    ]
   },
   {
     "lemma": "Hippos 2",
@@ -25256,7 +25308,7 @@
   {
     "lemma": "Honorius 6",
     "previous": "Honoratus 14",
-    "next": "Hydrea",
+    "next": "Honorius 7",
     "chapters": [
       {
         "start": 1159,
@@ -25266,20 +25318,8 @@
     ]
   },
   {
-    "lemma": "Hydrea",
-    "previous": "Honorius 6",
-    "next": "Honorius 7",
-    "chapters": [
-      {
-        "start": 1159,
-        "end": 1161,
-        "author": "Bölte"
-      }
-    ]
-  },
-  {
     "lemma": "Honorius 7",
-    "previous": "Hydrea",
+    "previous": "Honorius 6",
     "next": "Horatia",
     "chapters": [
       {
@@ -25302,6 +25342,7 @@
   {
     "lemma": "Hyaila",
     "previous": "Horatia",
+    "next": "Hydrea",
     "chapters": [
       {
         "start": 1160,
@@ -25310,8 +25351,28 @@
     ]
   },
   {
+    "lemma": "Hydrea",
+    "previous": "Hyaila",
+    "next": "Hylas",
+    "chapters": [
+      {
+        "start": 1159,
+        "end": 1161,
+        "author": "Bölte"
+      }
+    ]
+  },
+  {
     "lemma": "Hylas",
-    "next": "Hyllis 1"
+    "previous": "Hydrea",
+    "next": "Hyllis 1",
+    "chapters": [
+      {
+        "start": 1159,
+        "end": 1161,
+        "author": "Bölte"
+      }
+    ]
   },
   {
     "lemma": "Hyllis 1",
@@ -26218,10 +26279,18 @@
   },
   {
     "lemma": "Ilucia",
-    "previous": "Iluberitani"
+    "previous": "Iluberitani",
+    "next": "Ilucro(nensis?)",
+    "chapters": [
+      {
+        "start": 1230,
+        "author": "Keune"
+      }
+    ]
   },
   {
     "lemma": "Ilucro(nensis?)",
+    "previous": "Ilucia",
     "next": "Ilurci",
     "chapters": [
       {
@@ -26290,7 +26359,7 @@
   {
     "lemma": "Inapha",
     "previous": "Impflingen",
-    "next": "Indus 1",
+    "next": "Inatos",
     "chapters": [
       {
         "start": 1238,
@@ -26299,46 +26368,20 @@
     ]
   },
   {
-    "lemma": "Indus 1",
-    "previous": "Inapha",
-    "next": "Indus 3",
-    "chapters": [
-      {
-        "start": 1238,
-        "author": "Keune"
-      }
-    ]
-  },
-  {
-    "lemma": "Indus 3",
-    "previous": "Indus 1",
-    "next": "Indus 2",
-    "chapters": [
-      {
-        "start": 1238,
-        "end": 1239,
-        "author": "Keune"
-      }
-    ]
-  },
-  {
-    "lemma": "Indus 2",
-    "previous": "Indus 3",
-    "chapters": [
-      {
-        "start": 1239,
-        "author": "Keune"
-      }
-    ]
-  },
-  {
     "lemma": "Inatos",
-    "next": "Indus"
+    "previous": "Inapha",
+    "next": "Indus",
+    "chapters": [
+      {
+        "start": 1238,
+        "author": "Bürchner."
+      }
+    ]
   },
   {
     "lemma": "Indus",
     "previous": "Inatos",
-    "next": "Ingelheim",
+    "next": "Indus 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -26349,8 +26392,41 @@
     ]
   },
   {
-    "lemma": "Ingelheim",
+    "lemma": "Indus 1",
     "previous": "Indus",
+    "next": "Indus 2",
+    "chapters": [
+      {
+        "start": 1238,
+        "author": "Keune"
+      }
+    ]
+  },
+  {
+    "lemma": "Indus 2",
+    "previous": "Indus 1",
+    "next": "Indus 3",
+    "chapters": [
+      {
+        "start": 1238,
+        "end": 1239,
+        "author": "Keune"
+      }
+    ]
+  },
+  {
+    "lemma": "Indus 3",
+    "previous": "Indus 2",
+    "chapters": [
+      {
+        "start": 1239,
+        "author": "Keune"
+      }
+    ]
+  },
+  {
+    "lemma": "Ingelheim",
+    "previous": "Indus 3",
     "next": "Ingenuus 4",
     "chapters": [
       {
@@ -26406,6 +26482,7 @@
   {
     "lemma": "Insulae odoriferae",
     "previous": "Inheiden",
+    "next": "Intarabus",
     "chapters": [
       {
         "start": 1240,
@@ -26414,8 +26491,26 @@
     ]
   },
   {
+    "lemma": "Intarabus",
+    "previous": "Insulae odoriferae",
+    "next": "Intaranum",
+    "chapters": [
+      {
+        "start": 1240,
+        "author": "Keune"
+      }
+    ]
+  },
+  {
     "lemma": "Intaranum",
-    "next": "Ad Ioglandem"
+    "previous": "Intarabus",
+    "next": "Ad Ioglandem",
+    "chapters": [
+      {
+        "start": 1241,
+        "author": "Keune"
+      }
+    ]
   },
   {
     "lemma": "Ad Ioglandem",
