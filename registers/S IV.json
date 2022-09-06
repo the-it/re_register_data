@@ -4100,10 +4100,19 @@
   },
   {
     "lemma": "Hippias 4",
-    "previous": "Ἱππεῖος"
+    "previous": "Ἱππεῖος",
+    "next": "Hippias 9a",
+    "chapters": [
+      {
+        "start": 746,
+        "end": 747,
+        "author": "Schoch"
+      }
+    ]
   },
   {
     "lemma": "Hippias 9a",
+    "previous": "Hippias 4",
     "next": "Ἱππικός",
     "chapters": [
       {
@@ -4270,10 +4279,54 @@
   },
   {
     "lemma": "Hydarnes 1",
-    "previous": "Hyäne"
+    "previous": "Hyäne",
+    "next": "Hydarnes 2",
+    "chapters": [
+      {
+        "start": 767,
+        "author": "Berve"
+      }
+    ]
+  },
+  {
+    "lemma": "Hydarnes 2",
+    "previous": "Hydarnes 1",
+    "next": "Hydarnes 3",
+    "chapters": [
+      {
+        "start": 767,
+        "end": 768,
+        "author": "Berve"
+      }
+    ]
+  },
+  {
+    "lemma": "Hydarnes 3",
+    "previous": "Hydarnes 2",
+    "next": "Hydarnes 4",
+    "chapters": [
+      {
+        "start": 767,
+        "end": 767,
+        "author": "Berve"
+      }
+    ]
+  },
+  {
+    "lemma": "Hydarnes 4",
+    "previous": "Hydarnes 3",
+    "next": "Hydrakes",
+    "chapters": [
+      {
+        "start": 768,
+        "end": 769,
+        "author": "Berve"
+      }
+    ]
   },
   {
     "lemma": "Hydrakes",
+    "previous": "Hydarnes 4",
     "next": "Hydrophoros",
     "chapters": [
       {
@@ -4367,7 +4420,7 @@
   {
     "lemma": "Hyperanthes 2",
     "previous": "Ὑπασχολούμενος",
-    "next": "Hyperbolos 1",
+    "next": "Hyperbolos 2",
     "proof_read": 3,
     "short_description": "Sohn des Dareios I. und der Phratagune. S IV.",
     "no_creative_height": true,
@@ -4380,15 +4433,13 @@
     ]
   },
   {
-    "lemma": "Hyperbolos 1",
-    "previous": "Hyperanthes 2"
-  },
-  {
     "lemma": "Hyperbolos 2",
+    "previous": "Hyperanthes 2",
     "next": "Hyperethes",
     "chapters": [
       {
-        "start": 770,
+        "start": 771,
+        "end": 772,
         "author": "Schoch"
       }
     ]
@@ -5730,10 +5781,18 @@
   },
   {
     "lemma": "Kamiris",
-    "previous": "Kamenios 2"
+    "previous": "Kamenios 2",
+    "next": "Kamma",
+    "chapters": [
+      {
+        "start": 865,
+        "author": "Hiller v. Gaertringen"
+      }
+    ]
   },
   {
     "lemma": "Kamma",
+    "previous": "Kamiris",
     "next": "Kandasa",
     "chapters": [
       {
@@ -7407,7 +7466,7 @@
   {
     "lemma": "Kyros 6a",
     "previous": "Kyros 6",
-    "next": "Λαβασσάρασκος",
+    "next": "Kyros 7",
     "proof_read": 2,
     "short_description": "K. d.J., Sohn des Dareios II., Bruder des Artaxerxes II. ca. 400 v. Chr.",
     "wp_link": "w:de:Kyros der Jüngere",
@@ -7421,33 +7480,54 @@
     ]
   },
   {
-    "lemma": "Λαβασσάρασκος",
-    "previous": "Kyros 6a"
-  },
-  {
     "lemma": "Kyros 7",
-    "next": "Labassoaraskos",
+    "previous": "Kyros 6a",
+    "next": "Λαβασσάρασκος",
     "chapters": [
       {
         "start": 1166,
+        "end": 1176,
         "author": "Weissbach"
       }
     ]
   },
   {
-    "lemma": "Labassoaraskos",
+    "lemma": "Λαβασσάρασκος",
     "previous": "Kyros 7",
+    "next": "Labbana",
+    "chapters": [
+      {
+        "start": 1176,
+        "author": "Weissbach"
+      }
+    ]
+  },
+  {
+    "lemma": "Labbana",
+    "previous": "Λαβασσάρασκος",
+    "next": "Labos",
+    "chapters": [
+      {
+        "start": 1176,
+        "end": 1177,
+        "author": "Weissbach"
+      }
+    ]
+  },
+  {
+    "lemma": "Labos",
+    "previous": "Labbana",
     "next": "Ladoineris",
     "chapters": [
       {
-        "start": 1177,
+        "start": 1178,
         "author": "Weissbach"
       }
     ]
   },
   {
     "lemma": "Ladoineris",
-    "previous": "Labassoaraskos",
+    "previous": "Labos",
     "next": "Laidas",
     "chapters": [
       {
