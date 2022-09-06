@@ -1311,7 +1311,7 @@
   {
     "lemma": "Johannisbrot",
     "previous": "Ichneumon",
-    "next": "Iphthimis (K",
+    "next": "Ipthimis",
     "chapters": [
       {
         "start": 233,
@@ -1321,8 +1321,9 @@
     ]
   },
   {
-    "lemma": "Iphthimis (K",
+    "lemma": "Ipthimis",
     "previous": "Johannisbrot",
+    "next": "Iulia aqua",
     "chapters": [
       {
         "start": 234,
@@ -1332,12 +1333,8 @@
     ]
   },
   {
-    "lemma": "Iphtimis",
-    "next": "Iulia aqua"
-  },
-  {
     "lemma": "Iulia aqua",
-    "previous": "Iphtimis",
+    "previous": "Ipthimis",
     "next": "Iulianos 58a",
     "short_description": "Stadtröm. Wasserleitung",
     "chapters": [
@@ -1365,10 +1362,19 @@
   },
   {
     "lemma": "Käfer",
-    "previous": "Iulianos 58a"
+    "previous": "Iulianos 58a",
+    "next": "Kalliades 5a",
+    "chapters": [
+      {
+        "start": 235,
+        "end": 242,
+        "author": "Hans Gossen"
+      }
+    ]
   },
   {
     "lemma": "Kalliades 5a",
+    "previous": "Käfer",
     "next": "Kallias 17a",
     "chapters": [
       {
@@ -6230,7 +6236,7 @@
   {
     "lemma": "Pomptinae paludes",
     "previous": "Polydeukion",
-    "next": "Serapion 7a",
+    "next": "Praeneste",
     "chapters": [
       {
         "start": 1135,
@@ -6240,17 +6246,40 @@
     ]
   },
   {
-    "lemma": "Serapion 7a",
+    "lemma": "Praeneste",
     "previous": "Pomptinae paludes",
+    "next": "Serapion 7a",
     "chapters": [
       {
-        "start": 1260
+        "start": 1241,
+        "end": 1260,
+        "author": "H. Besig."
+      }
+    ]
+  },
+  {
+    "lemma": "Serapion 7a",
+    "previous": "Praeneste",
+    "next": "Serapion 7b",
+    "chapters": [
+      {
+        "start": 1260,
+        "end": 1267,
+        "author": "Heinrich Dörrie"
       }
     ]
   },
   {
     "lemma": "Serapion 7b",
-    "next": "Aleximachos 3"
+    "previous": "Serapion 7a",
+    "next": "Aleximachos 3",
+    "chapters": [
+      {
+        "start": 1267,
+        "end": 1267,
+        "author": "Heinrich Dörrie"
+      }
+    ]
   },
   {
     "lemma": "Aleximachos 3",
