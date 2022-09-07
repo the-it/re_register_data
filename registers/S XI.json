@@ -78,6 +78,8 @@
     "proof_read": 3,
     "short_description": "Bruder Gelimers, muss Hilderich hinrichten, verteidigt Karthago 533 n. Chr.",
     "no_creative_height": true,
+    "wp_link": "w:en:Ammatus",
+    "wd_link": "d:Q20047918",
     "chapters": [
       {
         "start": 29,
@@ -133,7 +135,9 @@
     "lemma": "Anartii",
     "previous": "Anaphe",
     "next": "Anatomie",
-    "short_description": "Kelt. Volk in Dakien",
+    "short_description": "kelt. Volk in Dakien, s. a. Anartes",
+    "wp_link": "w:de:Anartier",
+    "wd_link": "d:Q699194",
     "chapters": [
       {
         "start": 38,
@@ -1255,7 +1259,6 @@
   {
     "lemma": "Herakleides 45",
     "previous": "Heldica",
-    "next": "Hierokles 19a",
     "chapters": [
       {
         "start": 675,
@@ -1266,7 +1269,7 @@
   },
   {
     "lemma": "Hierokles 19a",
-    "previous": "Herakleides 45",
+    "previous": "Heldica",
     "next": "Homeros",
     "proof_read": 2,
     "short_description": "Verfasser einer Witzsammlung vgl. Philogelos",
@@ -1591,7 +1594,7 @@
   {
     "lemma": "Marivadus",
     "previous": "Magnum",
-    "next": "Marinianus 20",
+    "next": "Maximus 134",
     "proof_read": 2,
     "short_description": "Arian. Diakon 5. Jh. n. Chr., Katholikenverfolger",
     "no_creative_height": true,
@@ -1605,7 +1608,6 @@
   },
   {
     "lemma": "Marinianus 20",
-    "previous": "Marivadus",
     "next": "Maximus 134",
     "chapters": [
       {
@@ -2482,7 +2484,7 @@
   {
     "lemma": "Zeitha 2",
     "previous": "Zeitha 1",
-    "next": "Zelis",
+    "next": "Zella",
     "proof_read": 2,
     "short_description": "Ort Mesopotamiens = Zaitha",
     "no_creative_height": true,
@@ -2496,7 +2498,6 @@
   },
   {
     "lemma": "Zelis",
-    "previous": "Zeitha 2",
     "next": "Zella",
     "chapters": [
       {
@@ -2529,7 +2530,7 @@
   {
     "lemma": "Zengisa",
     "previous": "Zenertis",
-    "next": "Cornelius 395",
+    "next": "Zeugisa",
     "redirect": "Zangenae",
     "proof_read": 2,
     "chapters": [
@@ -2540,8 +2541,11 @@
     ]
   },
   {
+    "lemma": "Zeugisa",
+    "previous": "Zengisa"
+  },
+  {
     "lemma": "Cornelius 395",
-    "previous": "Zengisa",
     "next": "Maes Titianus",
     "wp_link": "w:de:Tacitus",
     "ws_link": "s:de:Tacitus",

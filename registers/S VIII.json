@@ -1145,7 +1145,6 @@
   {
     "lemma": "Gorgias 13",
     "previous": "Glaukos 48a",
-    "next": "Hegetorides 3",
     "redirect": "Kallimachos 7a",
     "proof_read": 3,
     "no_creative_height": true,
@@ -1158,8 +1157,12 @@
     ]
   },
   {
+    "lemma": "Hegetorides",
+    "next": "Hegetorides 3"
+  },
+  {
     "lemma": "Hegetorides 3",
-    "previous": "Gorgias 13",
+    "previous": "Hegetorides",
     "next": "Herakleides 61b",
     "proof_read": 2,
     "short_description": "Geschlechterbezeichnung in Kolophon-Notion",
@@ -1323,7 +1326,6 @@
   {
     "lemma": "Ipthimis",
     "previous": "Johannisbrot",
-    "next": "Iulia aqua",
     "chapters": [
       {
         "start": 234,
@@ -1333,8 +1335,12 @@
     ]
   },
   {
+    "lemma": "Iphtimis",
+    "next": "Iulia aqua"
+  },
+  {
     "lemma": "Iulia aqua",
-    "previous": "Ipthimis",
+    "previous": "Iphtimis",
     "next": "Iulianos 58a",
     "short_description": "Stadtröm. Wasserleitung",
     "chapters": [
