@@ -234,7 +234,7 @@
   {
     "lemma": "Acilius 57a",
     "previous": "Acilius 57",
-    "next": "Aelius 23a",
+    "next": "Aelius 17a",
     "proof_read": 3,
     "chapters": [
       {
@@ -244,8 +244,11 @@
     ]
   },
   {
+    "lemma": "Aelius 17a",
+    "previous": "Acilius 57a"
+  },
+  {
     "lemma": "Aelius 23a",
-    "previous": "Acilius 57a",
     "next": "Aelius 24a",
     "redirect": "Antipatros 29",
     "proof_read": 3,
@@ -299,10 +302,12 @@
   },
   {
     "lemma": "Aelius 27aaa",
-    "previous": "Aelius 27aa"
+    "previous": "Aelius 27aa",
+    "next": "Aelius 43a"
   },
   {
     "lemma": "Aelius 43a",
+    "previous": "Aelius 27aaa",
     "next": "Aelius 76",
     "proof_read": 3,
     "chapters": [
@@ -571,7 +576,6 @@
   {
     "lemma": "Alexandreion 3",
     "previous": "Alexandreia 23",
-    "next": "Allât",
     "proof_read": 3,
     "chapters": [
       {
@@ -581,8 +585,12 @@
     ]
   },
   {
+    "lemma": "Alkmeonides 1",
+    "next": "Allât"
+  },
+  {
     "lemma": "Allât",
-    "previous": "Alexandreion 3",
+    "previous": "Alkmeonides 1",
     "next": "Alpinius 1a",
     "redirect": true,
     "proof_read": 3,
@@ -967,10 +975,12 @@
   },
   {
     "lemma": "Aphrodision a",
-    "previous": "Antonius 121a"
+    "previous": "Antonius 121a",
+    "next": "Apolaustus 5–8"
   },
   {
     "lemma": "Apolaustus 5–8",
+    "previous": "Aphrodision a",
     "next": "Appius 13a",
     "redirect": "Apolaustus 1",
     "proof_read": 3,
@@ -1258,7 +1268,7 @@
   {
     "lemma": "Arruntius 17aa",
     "previous": "Arrius 43a",
-    "next": "Arsames 3-4",
+    "next": "Arsames 3–4",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -1269,7 +1279,7 @@
     ]
   },
   {
-    "lemma": "Arsames 3-4",
+    "lemma": "Arsames 3–4",
     "previous": "Arruntius 17aa",
     "next": "Arteriotomia",
     "redirect": "Arsames 4",
@@ -1283,7 +1293,7 @@
   },
   {
     "lemma": "Arteriotomia",
-    "previous": "Arsames 3-4",
+    "previous": "Arsames 3–4",
     "next": "Artois",
     "redirect": true,
     "proof_read": 3,
@@ -1405,7 +1415,7 @@
   {
     "lemma": "Athenadas 2",
     "previous": "Athenadas 1",
-    "next": "Athenades 1-16",
+    "next": "Athenades 1–16",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -1416,7 +1426,7 @@
     ]
   },
   {
-    "lemma": "Athenades 1-16",
+    "lemma": "Athenades 1–16",
     "previous": "Athenadas 2",
     "next": "Atisius 1",
     "redirect": "Athenades 2",
@@ -1430,7 +1440,7 @@
   },
   {
     "lemma": "Atisius 1",
-    "previous": "Athenades 1-16",
+    "previous": "Athenades 1–16",
     "next": "Atisius 2",
     "redirect": true,
     "proof_read": 3,
@@ -4177,7 +4187,7 @@
   {
     "lemma": "Kerketion 2",
     "previous": "Kastalios 2",
-    "next": "Kilikiai pylai 1",
+    "next": "Κιλίκιαι πύλαι 1",
     "redirect": "Kerketeus, Kerketes",
     "proof_read": 3,
     "chapters": [
@@ -4188,9 +4198,9 @@
     ]
   },
   {
-    "lemma": "Kilikiai pylai 1",
+    "lemma": "Κιλίκιαι πύλαι 1",
     "previous": "Kerketion 2",
-    "next": "Kilikiai pylai 2",
+    "next": "Κιλίκιαι πύλαι 2",
     "redirect": "Pylai 9",
     "proof_read": 3,
     "chapters": [
@@ -4201,8 +4211,8 @@
     ]
   },
   {
-    "lemma": "Kilikiai pylai 2",
-    "previous": "Kilikiai pylai 1",
+    "lemma": "Κιλίκιαι πύλαι 2",
+    "previous": "Κιλίκιαι πύλαι 1",
     "next": "Kinaidopolis",
     "redirect": "Pylai 9",
     "proof_read": 3,
@@ -4215,7 +4225,7 @@
   },
   {
     "lemma": "Kinaidopolis",
-    "previous": "Kilikiai pylai 2",
+    "previous": "Κιλίκιαι πύλαι 2",
     "next": "Klearchos 6b",
     "redirect": "Priaponesos",
     "proof_read": 3,
@@ -4268,7 +4278,7 @@
   {
     "lemma": "Koinos 5",
     "previous": "Kleostratos 6",
-    "next": "Koiranos 9-11",
+    "next": "Koiranos 9–11",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -4279,7 +4289,7 @@
     ]
   },
   {
-    "lemma": "Koiranos 9-11",
+    "lemma": "Koiranos 9–11",
     "previous": "Koinos 5",
     "next": "Kokkos a",
     "redirect": "Koiranos 8",
@@ -4293,7 +4303,7 @@
   },
   {
     "lemma": "Kokkos a",
-    "previous": "Koiranos 9-11",
+    "previous": "Koiranos 9–11",
     "next": "Korax 2a",
     "redirect": true,
     "proof_read": 3,
@@ -6178,6 +6188,7 @@
     "next": "Zelis",
     "redirect": "Zeeritai",
     "proof_read": 3,
+    "short_description": "arabisches Volk",
     "chapters": [
       {
         "start": 233,

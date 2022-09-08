@@ -82,7 +82,7 @@
     "previous": "Abacus 9",
     "next": "Abas 12",
     "proof_read": 3,
-    "short_description": "Italien. Heilbäder südwestl. von Padua",
+    "short_description": "Heilbäder südwestlich von Padova (Padua) im östlichen Oberitalien",
     "wp_link": "w:de:Abano Terme",
     "wd_link": "d:Q34603",
     "chapters": [
@@ -17783,6 +17783,7 @@
   {
     "lemma": "Deiotarus 1",
     "previous": "Dedicatio",
+    "next": "Deiotarus 2",
     "proof_read": 3,
     "chapters": [
       {
@@ -17826,8 +17827,9 @@
     "lemma": "Deiotaros 5",
     "previous": "Deiotarus 4",
     "next": "Dekaineos",
+    "sort_key": "Deiotarus 5",
     "proof_read": 3,
-    "short_description": "D. Philopator, (Sohn und?) Mitregent des D. Nr. 4 Philadelphos.",
+    "short_description": "D. Philopator, König in Paphlagonien, Mitregent des D. Nr. 4",
     "chapters": [
       {
         "start": 328,
@@ -20160,6 +20162,7 @@
     "lemma": "Empusa",
     "previous": "Emeia",
     "next": "Empusa 2",
+    "redirect": "Empusa 2",
     "proof_read": 3,
     "wp_link": "w:de:Empusa",
     "wd_link": "d:Q903786",
@@ -20437,7 +20440,7 @@
   {
     "lemma": "Epimenes 1a",
     "previous": "Epikrates 3",
-    "next": "Ἐπιστάτης ἐιρήνης",
+    "next": "Ἐπιστάτης εἰρήνης",
     "short_description": "Aisymnet von Milet vgl. Amphitres",
     "chapters": [
       {
@@ -20448,9 +20451,9 @@
     ]
   },
   {
-    "lemma": "Ἐπιστάτης ἐιρήνης",
+    "lemma": "Ἐπιστάτης εἰρήνης",
     "previous": "Epimenes 1a",
-    "next": "Epistula",
+    "next": "Epistula 1",
     "sort_key": "Epistates eirenes",
     "redirect": "Εἰρηνοφύλακες",
     "proof_read": 3,
@@ -20462,21 +20465,20 @@
     ]
   },
   {
-    "lemma": "Epistula",
-    "previous": "Ἐπιστάτης ἐιρήνης",
+    "lemma": "Epistula 1",
+    "previous": "Ἐπιστάτης εἰρήνης",
     "next": "Epona",
-    "redirect": true,
     "chapters": [
       {
         "start": 435,
         "end": 436,
-        "author": "E. Weiss."
+        "author": "E. Weiß."
       }
     ]
   },
   {
     "lemma": "Epona",
-    "previous": "Epistula",
+    "previous": "Epistula 1",
     "next": "Eporedorix",
     "proof_read": 3,
     "wp_link": "w:de:Epona (Mythologie)",
@@ -24155,7 +24157,6 @@
   {
     "lemma": "Gyttios (?)",
     "previous": "Gyromanteis",
-    "next": "Habron 5",
     "proof_read": 3,
     "short_description": "Pythagoreer zu Lokroi",
     "chapters": [
@@ -24168,6 +24169,7 @@
   },
   {
     "lemma": "Habilis 2",
+    "previous": "Gryneia, Gryneion, Gryneon, Grynoi",
     "next": "Habis",
     "proof_read": 2,
     "short_description": "Mittelgall. Sigillatatöpfer in der 1. H. des 2. Jh. n. Chr.",
@@ -25473,6 +25475,8 @@
     "lemma": "Jahreszeiten",
     "previous": "Jagsthausen",
     "next": "Ianus",
+    "proof_read": 2,
+    "short_description": "Schon in sehr frühen Zeiten muß die Beobachtung der Witterungsabwechslung zum",
     "wp_link": "w:de:Jahreszeit",
     "ws_link": "s:de:Jahreszeiten",
     "wd_link": "d:Q24384",
