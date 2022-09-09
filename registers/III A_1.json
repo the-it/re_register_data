@@ -6427,7 +6427,7 @@
   {
     "lemma": "Sisyphos 2",
     "previous": "Sisyphos 1",
-    "next": "Sisyra",
+    "next": "Σισύρα",
     "proof_read": 2,
     "short_description": "Hofzwerg des Antonius",
     "chapters": [
@@ -6439,19 +6439,23 @@
     ]
   },
   {
-    "lemma": "Sisyra",
+    "lemma": "Σισύρα",
     "previous": "Sisyphos 2",
     "next": "Σίσυρβα",
+    "sort_key": "Sisyra",
+    "proof_read": 2,
+    "short_description": "Sisyra, dicker zottiger Rock der Skythen, Bauern und Sklaven",
     "chapters": [
       {
         "start": 376,
-        "author": "Hug"
+        "end": 377,
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Σίσυρβα",
-    "previous": "Sisyra",
+    "previous": "Σισύρα",
     "next": "Sita",
     "sort_key": "Sisyrba",
     "proof_read": 2,
@@ -6467,29 +6471,37 @@
   {
     "lemma": "Sita",
     "previous": "Σίσυρβα",
-    "next": "Sitagertai",
+    "next": "Σιταγέρται",
+    "sort_key": "Sita",
+    "proof_read": 2,
+    "short_description": "Person",
     "chapters": [
       {
         "start": 377,
-        "author": "Fluss"
+        "end": 377,
+        "author": "Fluß."
       }
     ]
   },
   {
-    "lemma": "Sitagertai",
+    "lemma": "Σιταγέρται",
     "previous": "Sita",
     "next": "Σιτάκη, Σιτακηνή",
+    "sort_key": "Sitagertai",
+    "proof_read": 2,
+    "short_description": "Beamte in Herakleia",
     "chapters": [
       {
         "start": 377,
-        "author": "Thalheim"
+        "end": 377,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Σιτάκη, Σιτακηνή",
-    "previous": "Sitagertai",
-    "next": "Sitakos",
+    "previous": "Σιταγέρται",
+    "next": "Σιτακός",
     "sort_key": "Sitake, Sitakene",
     "redirect": "Sittake",
     "proof_read": 2,
@@ -6501,24 +6513,31 @@
     ]
   },
   {
-    "lemma": "Sitakos",
+    "lemma": "Σιτακός",
     "previous": "Σιτάκη, Σιτακηνή",
     "next": "Sitalkas 1",
+    "sort_key": "Sitakos",
+    "proof_read": 2,
+    "short_description": "Sitakos, ein Fluss in der Provinz Persis",
     "chapters": [
       {
         "start": 377,
-        "author": "Weissbach"
+        "end": 377,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sitalkas 1",
-    "previous": "Sitakos",
+    "previous": "Σιτακός",
     "next": "Sitalkas 2",
+    "sort_key": "Sitalkas 1",
+    "short_description": "Epiklesis des Gottes Apollon in Delphi",
     "chapters": [
       {
         "start": 377,
-        "author": "Storck"
+        "end": 377,
+        "author": "Storck."
       }
     ]
   },
