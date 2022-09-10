@@ -139,7 +139,7 @@
   {
     "lemma": "Abella",
     "previous": "abecedarius, -a, -um",
-    "next": "Abdera",
+    "next": "Abdera 1",
     "redirect": "Avella",
     "proof_read": 3,
     "wp_link": "w:de:Abella",
@@ -150,10 +150,6 @@
         "end": 13
       }
     ]
-  },
-  {
-    "lemma": "Abdera",
-    "previous": "Abella"
   },
   {
     "lemma": "Abdera 1",
@@ -21376,7 +21372,7 @@
   {
     "lemma": "Fannius 7",
     "previous": "Fannius 1",
-    "next": "Fannius 9",
+    "next": "Faorianae figlinae",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -21388,17 +21384,9 @@
     ]
   },
   {
-    "lemma": "Fannius 9",
-    "previous": "Fannius 7"
-  },
-  {
-    "lemma": "Fannius 16",
-    "next": "Faorianae figlinae"
-  },
-  {
     "lemma": "Faorianae figlinae",
-    "previous": "Fannius 16",
-    "next": "Fato",
+    "previous": "Fannius 7",
+    "next": "Faß",
     "redirect": "Favorianae figlinae",
     "proof_read": 2,
     "chapters": [
@@ -21410,6 +21398,8 @@
   },
   {
     "lemma": "Faß",
+    "previous": "Faorianae figlinae",
+    "next": "Fato",
     "chapters": [
       {
         "start": 480
@@ -21418,7 +21408,7 @@
   },
   {
     "lemma": "Fato",
-    "previous": "Faorianae figlinae",
+    "previous": "Faß",
     "next": "Faventinus 3",
     "proof_read": 2,
     "short_description": "Germ. Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
