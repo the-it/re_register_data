@@ -1145,6 +1145,7 @@
   {
     "lemma": "Gorgias 13",
     "previous": "Glaukos 48a",
+    "next": "Hegetorides",
     "redirect": "Kallimachos 7a",
     "proof_read": 3,
     "no_creative_height": true,
@@ -1158,6 +1159,7 @@
   },
   {
     "lemma": "Hegetorides",
+    "previous": "Gorgias 13",
     "next": "Hegetorides 3"
   },
   {
@@ -4036,10 +4038,11 @@
     "previous": "Korobios",
     "next": "Laconius",
     "redirect": "Psegas",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
-        "start": 922
+        "start": 922,
+        "end": 922
       }
     ]
   },

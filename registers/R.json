@@ -245,10 +245,12 @@
   },
   {
     "lemma": "Aelius 17a",
-    "previous": "Acilius 57a"
+    "previous": "Acilius 57a",
+    "next": "Aelius 23a"
   },
   {
     "lemma": "Aelius 23a",
+    "previous": "Aelius 17a",
     "next": "Aelius 24a",
     "redirect": "Antipatros 29",
     "proof_read": 3,
@@ -1397,10 +1399,12 @@
   },
   {
     "lemma": "Astragalomantis",
-    "previous": "Asklepiodoros 11b"
+    "previous": "Asklepiodoros 11b",
+    "next": "Athanadas 1–7"
   },
   {
     "lemma": "Athanadas 1–7",
+    "previous": "Astragalomantis",
     "next": "Athenadas 1",
     "sort_key": "Athanadas 0",
     "redirect": "Athanadas 2",
@@ -1884,6 +1888,7 @@
   {
     "lemma": "Boconiana officina",
     "previous": "Bizana",
+    "next": "Bodus 2",
     "redirect": "Buconiana",
     "proof_read": 3,
     "chapters": [
@@ -1895,6 +1900,7 @@
   },
   {
     "lemma": "Bodus 2",
+    "previous": "Boconiana officina",
     "next": "Boiotios"
   },
   {
@@ -2043,7 +2049,12 @@
     "previous": "Cassutus"
   },
   {
+    "lemma": "Castus 2b",
+    "next": "Catius a"
+  },
+  {
     "lemma": "Catius a",
+    "previous": "Castus 2b",
     "next": "Catius 8a",
     "redirect": true,
     "proof_read": 3,
@@ -2473,7 +2484,7 @@
   {
     "lemma": "Cornelius 282b",
     "previous": "Cornelius 274aa",
-    "next": "Cosius 1–3",
+    "next": "Cosius 1-3",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -2484,7 +2495,7 @@
     ]
   },
   {
-    "lemma": "Cosius 1–3",
+    "lemma": "Cosius 1-3",
     "previous": "Cornelius 282b",
     "next": "Cotus 2",
     "redirect": "Cosius 3",
@@ -2498,7 +2509,7 @@
   },
   {
     "lemma": "Cotus 2",
-    "previous": "Cosius 1–3",
+    "previous": "Cosius 1-3",
     "next": "Crescens 9",
     "redirect": true,
     "proof_read": 3,
@@ -4073,7 +4084,6 @@
   {
     "lemma": "Kallia 1",
     "previous": "Kallepios",
-    "next": "Kallimachos 5a",
     "redirect": "Kalliai 1",
     "proof_read": 3,
     "chapters": [
@@ -4084,24 +4094,38 @@
     ]
   },
   {
+    "lemma": "Kallimachos 3b",
+    "next": "Kallimachos 5a"
+  },
+  {
     "lemma": "Kallimachos 5a",
-    "previous": "Kallia 1",
-    "next": "Kallimachos 9",
+    "previous": "Kallimachos 3b",
+    "next": "Kallimachos 6",
     "redirect": true,
     "proof_read": 3,
+    "wp_link": "w:de:Kallimachos",
+    "ws_link": "s:en:Author:Callimachus",
+    "wd_link": "d:Q192417",
     "chapters": [
       {
         "start": 140,
         "end": 140
       }
     ]
+  },
+  {
+    "lemma": "Kallimachos 6",
+    "previous": "Kallimachos 5a"
+  },
+  {
+    "lemma": "Kallimachos 7a",
+    "next": "Kallimachos 9"
   },
   {
     "lemma": "Kallimachos 9",
-    "previous": "Kallimachos 5a",
-    "next": "Kallipolis 7b",
-    "redirect": "Menophilos 3a",
-    "proof_read": 3,
+    "previous": "Kallimachos 7a",
+    "next": "Kallimachos 1a",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 140,
@@ -4110,8 +4134,13 @@
     ]
   },
   {
-    "lemma": "Kallipolis 7b",
+    "lemma": "Kallimachos 1a",
     "previous": "Kallimachos 9",
+    "next": "Kallipolis 7b"
+  },
+  {
+    "lemma": "Kallipolis 7b",
+    "previous": "Kallimachos 1a",
     "next": "Kallippos 12b",
     "redirect": "Pontos Euxeinos",
     "proof_read": 3,
@@ -4203,7 +4232,7 @@
   {
     "lemma": "Kerketion 2",
     "previous": "Kastalios 2",
-    "next": "Κιλίκιαι πύλαι 1",
+    "next": "Kilikiai pylai 1",
     "redirect": "Kerketeus, Kerketes",
     "proof_read": 3,
     "chapters": [
@@ -4214,9 +4243,9 @@
     ]
   },
   {
-    "lemma": "Κιλίκιαι πύλαι 1",
+    "lemma": "Kilikiai pylai 1",
     "previous": "Kerketion 2",
-    "next": "Κιλίκιαι πύλαι 2",
+    "next": "Kilikiai pylai 2",
     "redirect": "Pylai 9",
     "proof_read": 3,
     "chapters": [
@@ -4227,8 +4256,8 @@
     ]
   },
   {
-    "lemma": "Κιλίκιαι πύλαι 2",
-    "previous": "Κιλίκιαι πύλαι 1",
+    "lemma": "Kilikiai pylai 2",
+    "previous": "Kilikiai pylai 1",
     "next": "Kinaidopolis",
     "redirect": "Pylai 9",
     "proof_read": 3,
@@ -4241,7 +4270,7 @@
   },
   {
     "lemma": "Kinaidopolis",
-    "previous": "Κιλίκιαι πύλαι 2",
+    "previous": "Kilikiai pylai 2",
     "next": "Klearchos 6b",
     "redirect": "Priaponesos",
     "proof_read": 3,
@@ -4294,7 +4323,7 @@
   {
     "lemma": "Koinos 5",
     "previous": "Kleostratos 6",
-    "next": "Koiranos 9–11",
+    "next": "Koiranos 9-11",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -4305,7 +4334,7 @@
     ]
   },
   {
-    "lemma": "Koiranos 9–11",
+    "lemma": "Koiranos 9-11",
     "previous": "Koinos 5",
     "next": "Kokkos a",
     "redirect": "Koiranos 8",
@@ -4319,7 +4348,7 @@
   },
   {
     "lemma": "Kokkos a",
-    "previous": "Koiranos 9–11",
+    "previous": "Koiranos 9-11",
     "next": "Korax 2a",
     "redirect": true,
     "proof_read": 3,
