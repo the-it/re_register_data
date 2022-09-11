@@ -3645,7 +3645,7 @@
   {
     "lemma": "Hypnia",
     "previous": "Hyia",
-    "next": "Ilunum 2",
+    "next": "Iakobos 2a",
     "chapters": [
       {
         "start": 500,
@@ -3654,8 +3654,31 @@
     ]
   },
   {
-    "lemma": "Ilunum 2",
+    "lemma": "Iakobos 2a",
     "previous": "Hypnia",
+    "next": "Iavolenus 2",
+    "chapters": [
+      {
+        "start": 500,
+        "author": "Alexander Demandt."
+      }
+    ]
+  },
+  {
+    "lemma": "Iavolenus 2",
+    "previous": "Iakobos 2a",
+    "next": "Ilunum 2",
+    "chapters": [
+      {
+        "start": 500,
+        "end":   502,
+        "author": "Theo Mayer-Maly."
+      }
+    ]
+  },
+  {
+    "lemma": "Ilunum 2",
+    "previous": "Iavolenus 2",
     "next": "Immo",
     "chapters": [
       {
@@ -4622,7 +4645,7 @@
   {
     "lemma": "Madiama/Modiana",
     "previous": "Lysistratos 13",
-    "next": "Magister 5a",
+    "next": "Maenius 18a",
     "chapters": [
       {
         "start": 525,
@@ -4632,8 +4655,30 @@
     ]
   },
   {
-    "lemma": "Magister 5a",
+    "lemma": "Maenius 18a",
     "previous": "Madiama/Modiana",
+    "next": "Maesius 8",
+    "chapters": [
+      {
+        "start": 552,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Maesius 8",
+    "previous": "Maenius 18a",
+    "next": "Magister 5a",
+    "chapters": [
+      {
+        "start": 552,
+        "author": "Gerhard Winkler."
+      }
+    ]
+  },
+  {
+    "lemma": "Magister 5a",
+    "previous": "Maesius 8",
     "next": "Manneianae",
     "chapters": [
       {
@@ -5538,7 +5583,7 @@
   {
     "lemma": "Iordanes 3",
     "previous": "Inobindus",
-    "next": "Ris",
+    "next": "Kleanthes",
     "chapters": [
       {
         "start": 1704,
@@ -5548,11 +5593,65 @@
     ]
   },
   {
-    "lemma": "Ris",
+    "lemma": "Kleanthes",
     "previous": "Iordanes 3",
+    "next": "Planta",
+    "chapters": [
+      {
+        "start": 1705,
+        "end":   1709,
+        "author": "Heinrich Dörrie."
+      }
+    ]
+  },
+  {
+    "lemma": "Planta",
+    "previous": "Kleanthes",
+    "next": "Poreston",
     "chapters": [
       {
         "start": 1709
+      }
+    ]
+  },
+  {
+    "lemma": "Poreston",
+    "previous": "Planta",
+    "next": "Ris",
+    "chapters": [
+      {
+        "start": 1709
+      }
+    ]
+  },
+  {
+    "lemma": "Ris",
+    "previous": "Poreston",
+    "next": "Selunto",
+    "chapters": [
+      {
+        "start": 1709
+      }
+    ]
+  },
+  {
+    "lemma": "Selunto",
+    "previous": "Ris",
+    "next": "Zamareni",
+    "chapters": [
+      {
+        "start": 1709
+      }
+    ]
+  },
+  {
+    "lemma": "Zamareni",
+    "previous": "Selunto",
+    "chapters": [
+      {
+        "start": 1709,
+        "end":   1712,
+        "author": "Hermann v. Wißmann."
       }
     ]
   }
