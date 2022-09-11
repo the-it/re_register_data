@@ -4437,11 +4437,8 @@
   },
   {
     "lemma": "Hyperbolos 1",
-    "previous": "Hyperanthes 2"
-  },
-  {
-    "lemma": "Hyperbolos 2",
-    "next": "Hyperethes",
+    "previous": "Hyperanthes 2",
+    "next": "Hyperbolos 2",
     "chapters": [
       {
         "start": 771,
@@ -4451,22 +4448,20 @@
     ]
   },
   {
-    "lemma": "Hyperethes",
-    "previous": "Hyperbolos 2",
+    "lemma": "Hyperbolos 2",
+    "previous": "Hyperbolos 1",
+    "next": "Ὑπηρέτης",
     "chapters": [
       {
-        "start": 771,
-        "author": "Bilabel"
+        "start": 772,
+        "end": 772,
+        "author": "Schoch"
       }
     ]
   },
   {
-    "lemma": "Hyperbolos",
-    "next": "Ὑπηρέτης"
-  },
-  {
     "lemma": "Ὑπηρέτης",
-    "previous": "Hyperbolos",
+    "previous": "Hyperbolos 2",
     "next": "Ὑποβιβλιοφύλαξ",
     "sort_key": "Hyperetes",
     "proof_read": 2,
