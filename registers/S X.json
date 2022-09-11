@@ -11140,6 +11140,7 @@
   {
     "lemma": "Tzoides",
     "previous": "Tyrmeidai",
+    "next": "Valerius 151a",
     "chapters": [
       {
         "start": 955,
@@ -11149,8 +11150,185 @@
     ]
   },
   {
+    "lemma": "Valerius 151a",
+    "previous": "Tzoides",
+    "next": "Valerius 199a",
+    "chapters": [
+      {
+        "start": 956,
+        "end":   957,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 199a",
+    "previous": "Valerius 151a",
+    "next": "Vandalen",
+    "chapters": [
+      {
+        "start": 957,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Vandalen",
+    "previous": "Valerius 199a",
+    "next": "Varenus 5a",
+    "chapters": [
+      {
+        "start": 957,
+        "end":   992,
+        "author": "H.-J. Diesner."
+      }
+    ]
+  },
+  {
+    "lemma": "Varenus 5a",
+    "previous": "Vandalen",
+    "next": "Vegetius",
+    "chapters": [
+      {
+        "start": 992,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Vegetius",
+    "previous": "Varenus 5a",
+    "next": "Weltwunder",
+    "chapters": [
+      {
+        "start": 992,
+        "end":   1020,
+        "author": "Alfred R. Neumann."
+      }
+    ]
+  },
+  {
+    "lemma": "Weltwunder",
+    "previous": "Vegetius",
+    "next": "Vergilius 4a",
+    "chapters": [
+      {
+        "start": 1020,
+        "end":   1030,
+        "author": "Jerzy Łanowski."
+      }
+    ]
+  },
+  {
+    "lemma": "Vergilius 4a",
+    "previous": "Weltwunder",
+    "next": "Vermiensis",
+    "chapters": [
+      {
+        "start": 1030,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Vermiensis",
+    "previous": "Vergilius 4a",
+    "next": "Vesclarius",
+    "chapters": [
+      {
+        "start": 1030,
+        "author": "F. M. Heichelheim."
+      }
+    ]
+  },
+  {
+    "lemma": "Vesclarius",
+    "previous": "Vermiensis",
+    "next": "Victoria 5",
+    "chapters": [
+      {
+        "start": 1030,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Victoria 5",
+    "previous": "Vesclarius",
+    "next": "Vindicius 1a",
+    "chapters": [
+      {
+        "start": 1030,
+        "author": "H.-J. Diesner."
+      }
+    ]
+  },
+  {
+    "lemma": "Vindicius 1a",
+    "previous": "Victoria 5",
+    "next": "Vipsanius 4a",
+    "chapters": [
+      {
+        "start": 1031,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Vipsanius 4a",
+    "previous": "Vindicius 1a",
+    "next": "Vitalis 4a",
+    "chapters": [
+      {
+        "start": 1031,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Vitalis 4a",
+    "previous": "Vipsanius 4a",
+    "next": "Uliades 2",
+    "chapters": [
+      {
+        "start": 1031,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Uliades 2",
+    "previous": "Vitalis 4a",
+    "next": "Ulpius 4a",
+    "chapters": [
+      {
+        "start": 1031,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Ulpius 4a",
+    "previous": "Uliades 2",
+    "next": "Ulpius 1",
+    "chapters": [
+      {
+        "start": 1031,
+        "author": "Jenő Fitz."
+      }
+    ]
+  },
+  {
     "lemma": "Ulpius 1",
-    "next": "Ulpius 1a"
+    "previous": "Ulpius 4a",
+    "next": "Ulpius 1a",
+    "chapters": [
+      {
+        "start": 1032,
+        "end": 1101,
+        "author": "Rudolf Hanslik."
+      }
+    ]
   },
   {
     "lemma": "Ulpius 1a",
@@ -11176,11 +11354,39 @@
   {
     "lemma": "Ulpius 3a",
     "previous": "Ulpius 1a",
-    "next": "Ummidius 2a"
+    "next": "Ulpius 3b",
+    "chapters": [
+      {
+        "start": 1113,
+        "author": "Bonaria"
+      }
+    ]
+  },
+  {
+    "lemma": "Ulpius 3b",
+    "previous": "Ulpius 3a",
+    "next": "Ulpius 3c",
+    "chapters": [
+      {
+        "start": 1113,
+        "author": "Bonaria"
+      }
+    ]
+  },
+  {
+    "lemma": "Ulpius 3c",
+    "previous": "Ulpius 3b",
+    "next": "Ummidius 2a",
+    "chapters": [
+      {
+        "start": 1113,
+        "author": "Bonaria"
+      }
+    ]
   },
   {
     "lemma": "Ummidius 2a",
-    "previous": "Ulpius 3a",
+    "previous": "Ulpius 3c",
     "next": "Urbanae cohortes",
     "chapters": [
       {
