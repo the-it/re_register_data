@@ -2843,7 +2843,7 @@
   {
     "lemma": "Tabernae 4",
     "previous": "Tabernae 3",
-    "next": "Tabernae, Tres 1",
+    "next": "Tabernae Caediciae",
     "chapters": [
       {
         "start": 1875,
@@ -2852,52 +2852,8 @@
     ]
   },
   {
-    "lemma": "Tabernae, Tres 1",
-    "previous": "Tabernae 4",
-    "next": "Tabernae, Tres 2",
-    "chapters": [
-      {
-        "start": 1875,
-        "author": "Philipp"
-      }
-    ]
-  },
-  {
-    "lemma": "Tabernae, Tres 2",
-    "previous": "Tabernae, Tres 1",
-    "next": "Tabernae, Tres 3",
-    "chapters": [
-      {
-        "start": 1875,
-        "author": "Philipp"
-      }
-    ]
-  },
-  {
-    "lemma": "Tabernae, Tres 3",
-    "previous": "Tabernae, Tres 2",
-    "next": "Tabernae, Tres 4",
-    "chapters": [
-      {
-        "start": 1875,
-        "author": "Philipp"
-      }
-    ]
-  },
-  {
-    "lemma": "Tabernae, Tres 4",
-    "previous": "Tabernae, Tres 3",
-    "next": "Tabernae Caediciae",
-    "chapters": [
-      {
-        "start": 1875,
-        "author": "Zeiss"
-      }
-    ]
-  },
-  {
     "lemma": "Tabernae Caediciae",
-    "previous": "Tabernae, Tres 4",
+    "previous": "Tabernae 4",
     "next": "Tabernae novae",
     "chapters": [
       {
@@ -2960,14 +2916,36 @@
   },
   {
     "lemma": "Tres Tabernae 1",
-    "previous": "Tabernae veteres"
+    "previous": "Tabernae veteres",
+    "next": "Tres Tabernae 2",
+    "chapters": [
+      {
+        "start": 1875,
+        "author": "Philipp"
+      }
+    ]
   },
   {
-    "lemma": "Tres Tabernae 2"
+    "lemma": "Tres Tabernae 2",
+    "previous": "Tres Tabernae 1",
+    "next": "Tres Tabernae 3",
+    "chapters": [
+      {
+        "start": 1875,
+        "author": "Philipp"
+      }
+    ]
   },
   {
     "lemma": "Tres Tabernae 3",
-    "next": "Tres Tabernae 4"
+    "previous": "Tres Tabernae 2",
+    "next": "Tres Tabernae 4",
+    "chapters": [
+      {
+        "start": 1875,
+        "author": "Philipp"
+      }
+    ]
   },
   {
     "lemma": "Tres Tabernae 4",
