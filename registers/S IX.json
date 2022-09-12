@@ -2289,7 +2289,14 @@
   {
     "lemma": "Palaimon 3",
     "previous": "Palaimon 2",
-    "next": "Palaimon 4"
+    "next": "Palaimon 4",
+    "chapters": [
+      {
+        "start": 514,
+        "end": 514,
+        "author": "H. v. Geisau."
+      }
+    ]
   },
   {
     "lemma": "Palaimon 4",
@@ -2418,11 +2425,18 @@
   },
   {
     "lemma": "Pasargada",
-    "previous": "Parthenopolis 1"
+    "next": "Pasargadai",
+    "previous": "Parthenopolis 1",
+    "chapters": [
+      {
+        "start": 777
+      }
+    ]
   },
   {
     "lemma": "Pasargadai",
     "next": "Pasargadai II.1",
+    "previous": "Pasargada",
     "chapters": [
       {
         "start": 777,
@@ -2640,6 +2654,7 @@
   {
     "lemma": "Pons 26",
     "previous": "Pons 15",
+    "next": "Pontius 44",
     "chapters": [
       {
         "start": 864,
@@ -2650,12 +2665,19 @@
   },
   {
     "lemma": "Pontius 44",
-    "next": "Pontos Euxeinos"
+    "previous": "Pons 26",
+    "next": "Pontos Euxeinos",
+    "chapters": [
+      {
+        "start": 865,
+        "author": "Fitz"
+      }
+    ]
   },
   {
     "lemma": "Pontos Euxeinos",
     "previous": "Pontius 44",
-    "next": "M. Porcius Verus 45",
+    "next": "Porcius 45",
     "wp_link": "w:de:Schwarzes Meer",
     "wd_link": "d:Q166",
     "chapters": [
@@ -2667,8 +2689,27 @@
     ]
   },
   {
-    "lemma": "M. Porcius Verus 45",
-    "previous": "Pontos Euxeinos"
+    "lemma": "Porcius 45",
+    "previous": "Pontos Euxeinos",
+    "next": "Poseidion 15",
+    "chapters": [
+      {
+        "start": 1175,
+        "end": 1176,
+        "author": "Gerhard Winkler."
+      }
+    ]
+  },
+  {
+    "lemma": "Poseidion 15",
+    "previous": "Porcius 45",
+    "next": "praeteritio 1",
+    "chapters": [
+      {
+        "start": 1176,
+        "author": "Ernst Meyer."
+      }
+    ]
   },
   {
     "lemma": "praeteritio 1",
@@ -4902,7 +4943,7 @@
   {
     "lemma": "Votienus Montanus 2",
     "previous": "Vonones 3",
-    "next": "Uranios 1a) = 28",
+    "next": "Uranios 28",
     "chapters": [
       {
         "start": 1867,
@@ -4911,9 +4952,9 @@
     ]
   },
   {
-    "lemma": "Uranios 1a) = 28",
+    "lemma": "Uranios 28",
     "previous": "Votienus Montanus 2",
-    "next": "Uranios 1b) = 29",
+    "next": "Uranios 29",
     "chapters": [
       {
         "start": 1867,
@@ -4922,8 +4963,9 @@
     ]
   },
   {
-    "lemma": "Uranios 1b) = 29",
-    "previous": "Uranios 1a) = 28",
+    "lemma": "Uranios 29",
+    "previous": "Uranios 28",
+    "next": "Urbinius 2",
     "chapters": [
       {
         "start": 1867,
@@ -4933,12 +4975,8 @@
     ]
   },
   {
-    "lemma": "Uranius 29",
-    "next": "Urbinius 2"
-  },
-  {
     "lemma": "Urbinius 2",
-    "previous": "Uranius 29",
+    "previous": "Uranios 29",
     "next": "Urgulania",
     "chapters": [
       {

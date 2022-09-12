@@ -11389,16 +11389,36 @@
   {
     "lemma": "Tauris",
     "previous": "Ταύριος ποταμός",
+    "next": "Symbolaiographos",
     "chapters": [
       {
         "start": 2546,
+        "end": 2548,
         "author": "Fluss"
       }
     ]
   },
   {
+    "lemma": "Symbolaiographos",
+    "previous": "Tauris",
+    "next": "Symmachia",
+    "chapters": [
+      {
+        "start": 2547
+      }
+    ]
+  },
+  {
     "lemma": "Symmachia",
-    "next": "Tarne 2"
+    "previous": "Symbolaiographos",
+    "next": "Tarne 2",
+    "chapters": [
+      {
+        "start": 2547,
+        "end": 2548,
+        "author": "Schwahn."
+      }
+    ]
   },
   {
     "lemma": "Tarne 2",
