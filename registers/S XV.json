@@ -3543,19 +3543,40 @@
   {
     "lemma": "Titius 34a",
     "previous": "Themistokles 9a",
-    "next": "Tuccianus 3",
+    "next": "Tolosates",
     "chapters": [
       {
         "start": 645,
         "end": 652,
-        "author": "Schmidt"
+        "author": "Peter Lebrecht Schmidt."
+      }
+    ]
+  },
+  {
+    "lemma": "Tolosates",
+    "previous": "Titius 34a",
+    "next": "Torthyneion",
+    "chapters": [
+      {
+        "start": 652
+      }
+    ]
+  },
+  {
+    "lemma": "Torthyneion",
+    "previous": "Tolosates",
+    "next": "Tuccianus 3",
+    "chapters": [
+      {
+        "start": 652,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Tuccianus 3",
-    "previous": "Titius 34a",
-    "next": "Altiaienses vicani",
+    "previous": "Torthyneion",
+    "next": "Valerius 141",
     "chapters": [
       {
         "start": 651,
@@ -3564,19 +3585,132 @@
     ]
   },
   {
-    "lemma": "Altiaienses vicani",
+    "lemma": "Valerius 141",
     "previous": "Tuccianus 3",
+    "next": "Valerius 192",
+    "chapters": [
+      {
+        "start": 651,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 192",
+    "previous": "Valerius 141",
+    "next": "Valerius 232a",
+    "chapters": [
+      {
+        "start": 651,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 232a",
+    "previous": "Valerius 192",
+    "next": "Valerius 241",
+    "chapters": [
+      {
+        "start": 651,
+        "end":   652,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 241",
+    "previous": "Valerius 232a",
+    "next": "Valerius 250a",
+    "chapters": [
+      {
+        "start": 652,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 250a",
+    "previous": "Valerius 241",
+    "next": "Valerius 303",
+    "chapters": [
+      {
+        "start": 653,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 303",
+    "previous": "Valerius 250a",
+    "next": "Valerius 336a",
+    "chapters": [
+      {
+        "start": 653,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 336a",
+    "previous": "Valerius 303",
+    "next": "Valerius 408a",
+    "chapters": [
+      {
+        "start": 654,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius 408a",
+    "previous": "Valerius 336a",
+    "next": "Vangiones",
+    "chapters": [
+      {
+        "start": 654,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Vangiones",
+    "previous": "Valerius 408a",
+    "next": "Varinius 1a",
+    "chapters": [
+      {
+        "start": 654,
+        "end":   662,
+        "author": "Herbert Bannert."
+      }
+    ]
+  },
+  {
+    "lemma": "Varinius 1a",
+    "previous": "Vangiones",
+    "next": "Vasen",
+    "chapters": [
+      {
+        "start": 662,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Vasen",
+    "previous": "Varinius 1a",
     "next": "Weihrauch",
     "chapters": [
       {
-        "start": 659,
-        "author": "Bannert"
+        "start": 663,
+        "end":   700,
+        "author": "Ingeborg Scheibler."
       }
     ]
   },
   {
     "lemma": "Weihrauch",
-    "previous": "Altiaienses vicani",
+    "previous": "Vasen",
     "next": "Veliocasses",
     "sort_key": "Veihrauch",
     "chapters": [
