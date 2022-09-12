@@ -5864,7 +5864,7 @@
   {
     "lemma": "Priaponesos",
     "previous": "Priansos",
-    "next": "Pserima",
+    "next": "Priapos 3",
     "chapters": [
       {
         "start": 481,
@@ -5874,29 +5874,8 @@
     ]
   },
   {
-    "lemma": "Pserima",
-    "previous": "Priaponesos",
-    "next": "Sepiusa",
-    "chapters": [
-      {
-        "start": 481
-      }
-    ]
-  },
-  {
-    "lemma": "Sepiusa",
-    "previous": "Pserima",
-    "next": "Priapos 3",
-    "chapters": [
-      {
-        "start": 481,
-        "author": "Olshausen"
-      }
-    ]
-  },
-  {
     "lemma": "Priapos 3",
-    "previous": "Sepiusa",
+    "previous": "Priaponesos",
     "next": "Prifernius 2",
     "chapters": [
       {
@@ -5944,7 +5923,7 @@
   {
     "lemma": "Prinoessa",
     "previous": "Prinassos",
-    "next": "Rubrius 15a",
+    "next": "Priscillianus 5",
     "proof_read": 2,
     "short_description": "Insel vor der akarnan. West-Küste",
     "no_creative_height": true,
@@ -5957,20 +5936,68 @@
     ]
   },
   {
-    "lemma": "Rubrius 15a",
+    "lemma": "Priscillianus 5",
     "previous": "Prinoessa",
+    "next": "Priscus 4a",
+    "chapters": [
+      {
+        "start": 485,
+        "end":   559,
+        "author": "Benedikt Vollmann."
+      }
+    ]
+  },
+  {
+    "lemma": "Priscus 4a",
+    "previous": "Priscillianus 5",
+    "next": "Proculus 4a",
+    "chapters": [
+      {
+        "start": 559,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Proculus 4a",
+    "previous": "Priscus 4a",
+    "next": "Prokonnesos",
+    "chapters": [
+      {
+        "start": 559,
+        "end":   560,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Prokonnesos",
+    "previous": "Proculus 4a",
+    "next": "Propinquus",
+    "chapters": [
+      {
+        "start": 560,
+        "end":   561,
+        "author": "Christo M. Danoff."
+      }
+    ]
+  },
+  {
+    "lemma": "Propinquus",
+    "previous": "Prokonnesos",
     "next": "Protarchos 9",
     "chapters": [
       {
-        "start": 489,
-        "author": "Eck"
+        "start": 561,
+        "end":   562,
+        "author": "Werner Eck."
       }
     ]
   },
   {
     "lemma": "Protarchos 9",
-    "previous": "Rubrius 15a",
-    "next": "Psyttaleia",
+    "previous": "Propinquus",
+    "next": "Prote 3",
     "proof_read": 2,
     "short_description": "von Theben, siegreicher Tragiker bei den Amphiaraia und Rhomaia",
     "no_creative_height": true,
@@ -5983,9 +6010,54 @@
     ]
   },
   {
-    "lemma": "Psyttaleia",
+    "lemma": "Prote 3",
     "previous": "Protarchos 9",
-    "next": "Raecius 6a",
+    "next": "Providentia",
+    "chapters": [
+      {
+        "start": 562,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Providentia",
+    "previous": "Prote 3",
+    "next": "Pserima",
+    "chapters": [
+      {
+        "start": 562,
+        "end":   565,
+        "author": "Werner Eisenhut."
+      }
+    ]
+  },
+  {
+    "lemma": "Pserima",
+    "previous": "Providentia",
+    "next": "Psyra",
+    "chapters": [
+      {
+        "start": 565
+      }
+    ]
+  },
+  {
+    "lemma": "Psyra",
+    "previous": "Pserima",
+    "next": "Psyttaleia",
+    "chapters": [
+      {
+        "start": 565,
+        "end":   566,
+        "author": "Meyer, Ernst"
+      }
+    ]
+  },
+  {
+    "lemma": "Psyttaleia",
+    "previous": "Psyra",
+    "next": "pubertas",
     "chapters": [
       {
         "start": 566,
@@ -5995,8 +6067,76 @@
     ]
   },
   {
-    "lemma": "Raecius 6a",
+    "lemma": "pubertas",
     "previous": "Psyttaleia",
+    "next": "Pudens 8",
+    "chapters": [
+      {
+        "start": 571,
+        "end":   581,
+        "author": "Gunter Wesener."
+      }
+    ]
+  },
+  {
+    "lemma": "Pudens 8",
+    "previous": "pubertas",
+    "next": "Pylaneis",
+    "chapters": [
+      {
+        "start": 581,
+        "end":   582,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Pylaneis",
+    "previous": "Pudens 8",
+    "next": "Pylene",
+    "chapters": [
+      {
+        "start": 582,
+        "author": "Meyer, Ernst"
+      }
+    ]
+  },
+  {
+    "lemma": "Pylene",
+    "previous": "Pylaneis",
+    "next": "Pyrri",
+    "chapters": [
+      {
+        "start": 582,
+        "author": "Meyer, Ernst"
+      }
+    ]
+  },
+  {
+    "lemma": "Pyrri",
+    "previous": "Pylene",
+    "next": "Quinctilius 30a",
+    "chapters": [
+      {
+        "start": 581,
+        "author": "Jaroslav Šašel."
+      }
+    ]
+  },
+  {
+    "lemma": "Quinctilius 30a",
+    "previous": "Pyrri",
+    "next": "Raecius 6a",
+    "chapters": [
+      {
+        "start": 582,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Raecius 6a",
+    "previous": "Quinctilius 30a",
     "next": "Raetia",
     "chapters": [
       {
@@ -6097,6 +6237,17 @@
   {
     "lemma": "Rubrenus 1b",
     "previous": "Rubrenus 1a",
+    "next": "Rubrius 15a",
+    "chapters": [
+      {
+        "start": 589,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Rubrius 15a",
+    "previous": "Rubrenus 1b",
     "next": "Rubrius 22a",
     "chapters": [
       {
@@ -6107,7 +6258,7 @@
   },
   {
     "lemma": "Rubrius 22a",
-    "previous": "Rubrenus 1b",
+    "previous": "Rubrius 15a",
     "next": "Rufius 23a",
     "proof_read": 2,
     "short_description": "C. R. (Vinicius?) Porcius Marcellus, Statthalter der Provinz Thracia",
@@ -6553,7 +6704,7 @@
   {
     "lemma": "Sentius 8c",
     "previous": "Sentius 8b",
-    "next": "Seppius a",
+    "next": "Sepiusa",
     "chapters": [
       {
         "start": 659,
@@ -6562,8 +6713,19 @@
     ]
   },
   {
-    "lemma": "Seppius a",
+    "lemma": "Sepiusa",
     "previous": "Sentius 8c",
+    "next": "Seppius a",
+    "chapters": [
+      {
+        "start": 481,
+        "author": "Olshausen"
+      }
+    ]
+  },
+  {
+    "lemma": "Seppius a",
+    "previous": "Sepiusa",
     "next": "Seppius 1a",
     "chapters": [
       {
