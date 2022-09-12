@@ -13963,15 +13963,85 @@
   },
   {
     "lemma": "Sauconna",
-    "previous": "Sarmus"
+    "previous": "Sarmus",
+    "next": "Saxanus",
+    "chapters": [
+      {
+        "start": 1263,
+        "author": "Keune."
+      }
+    ]
   },
   {
-    "lemma": "Secundini",
-    "next": "Secundus 8a"
+    "lemma": "Saxanus",
+    "previous": "Sauconna",
+    "next": "Saxum ferreum",
+    "chapters": [
+      {
+        "start": 1263,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Saxum ferreum",
+    "previous": "Saxanus",
+    "next": "Scarniunga",
+    "chapters": [
+      {
+        "start": 1263,
+        "end":   1264,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Scarniunga",
+    "previous": "Saxum ferreum",
+    "next": "Schwarzerden",
+    "chapters": [
+      {
+        "start": 1264,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Schwarzerden",
+    "previous": "Scarniunga",
+    "next": "Scottius",
+    "chapters": [
+      {
+        "start": 1264,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Scottius",
+    "previous": "Schwarzerden",
+    "next": "Sebosus 3",
+    "chapters": [
+      {
+        "start": 1264,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sebosus 3",
+    "previous": "Scottius",
+    "next": "Secundus 8a",
+    "chapters": [
+      {
+        "start": 1264,
+        "author": "Keune."
+      }
+    ]
   },
   {
     "lemma": "Secundus 8a",
-    "previous": "Secundini",
+    "previous": "Sebosus 3",
     "next": "Secundus 8b",
     "sort_key": "Secundus 08a",
     "proof_read": 3,
@@ -13996,6 +14066,38 @@
         "start": 1264,
         "end": 1264,
         "author": "Kirchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Secundus 19e",
+    "previous": "Secundus 8b",
+    "next": "Segontium",
+    "chapters": [
+      {
+        "start": 1264,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Segontium",
+    "previous": "Secundus 19e",
+    "next": "Segovia",
+    "chapters": [
+      {
+        "start": 1264,
+        "author": "Macdonald."
+      }
+    ]
+  },
+  {
+    "lemma": "Segovia",
+    "previous": "Segontium",
+    "chapters": [
+      {
+        "start": 1264,
+        "author": "Keune."
       }
     ]
   }
