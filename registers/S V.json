@@ -1123,7 +1123,7 @@
   {
     "lemma": "Ismeni",
     "previous": "Interphrurini",
-    "next": "Issa",
+    "next": "Issa 3",
     "proof_read": 3,
     "short_description": "Illyr. Volksstamm",
     "chapters": [
@@ -1135,21 +1135,29 @@
     ]
   },
   {
-    "lemma": "Issa",
-    "previous": "Ismeni"
-  },
-  {
     "lemma": "Issa 3",
+    "previous": "Ismeni",
+    "next": "Judex",
     "chapters": [
       {
         "start": 346,
+        "end": 350,
         "author": "Fluss"
       }
     ]
   },
   {
     "lemma": "Judex",
-    "next": "Iulius 76a"
+    "previous": "Issa 3",
+    "next": "Iulius 76a",
+    "sort_key": "Iudex",
+    "chapters": [
+      {
+        "start": 350,
+        "end": 355,
+        "author": "Steinwenter."
+      }
+    ]
   },
   {
     "lemma": "Iulius 76a",
@@ -1230,7 +1238,14 @@
   {
     "lemma": "Kalanos",
     "previous": "Iunius 75a",
-    "next": "Kallias 29"
+    "next": "Kallias 29",
+    "chapters": [
+      {
+        "start": 385,
+        "end": 385,
+        "author": "W. Kroll."
+      }
+    ]
   },
   {
     "lemma": "Kallias 29",
@@ -1643,7 +1658,7 @@
   {
     "lemma": "Legeon",
     "previous": "Lecho",
-    "next": "Lekythos",
+    "next": "Lekythos 2",
     "short_description": "Palaestin. Legionslager = Maximianopolis = Megiddo",
     "wp_link": "w:en:Legio",
     "wd_link": "d:Q1812630",
@@ -1656,11 +1671,8 @@
     ]
   },
   {
-    "lemma": "Lekythos",
-    "previous": "Legeon"
-  },
-  {
     "lemma": "Lekythos 2",
+    "previous": "Legeon",
     "next": "Lemniskos",
     "chapters": [
       {
@@ -5368,6 +5380,7 @@
   {
     "lemma": "Skidros 2",
     "previous": "Skiagraphia",
+    "next": "Skylla 1",
     "chapters": [
       {
         "start": 980,
@@ -5377,7 +5390,15 @@
   },
   {
     "lemma": "Skylla 1",
-    "next": "Sokratikerbriefe"
+    "previous": "Skidros 2",
+    "next": "Sokratikerbriefe",
+    "chapters": [
+      {
+        "start": 980,
+        "end": 981,
+        "author": "Philipp."
+      }
+    ]
   },
   {
     "lemma": "Sokratikerbriefe",
@@ -5459,6 +5480,7 @@
   {
     "lemma": "Spania",
     "previous": "Spaleia",
+    "next": "Spartacus",
     "chapters": [
       {
         "start": 992,
@@ -5468,7 +5490,14 @@
   },
   {
     "lemma": "Spartacus",
-    "next": "Statilius 19a"
+    "previous": "Spania",
+    "next": "Statilius 19a",
+    "chapters": [
+      {
+        "start": 993,
+        "author": "Münzer."
+      }
+    ]
   },
   {
     "lemma": "Statilius 19a",

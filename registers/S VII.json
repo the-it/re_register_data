@@ -1729,16 +1729,26 @@
   {
     "lemma": "Isonomia",
     "previous": "Isidoros 3a",
+    "next": "Istron",
     "chapters": [
       {
         "start": 293,
+        "end": 301,
         "author": "Ehrenberg"
       }
     ]
   },
   {
     "lemma": "Istron",
-    "next": "Iulius 62a"
+    "previous": "Isonomia",
+    "next": "Iulius 62a",
+    "chapters": [
+      {
+        "start": 301,
+        "end": 310,
+        "author": "Ehrenberg"
+      }
+    ]
   },
   {
     "lemma": "Iulius 62a",
@@ -3428,7 +3438,7 @@
   {
     "lemma": "Lex Vallia",
     "previous": "Lex Valeria Fundania",
-    "next": "Lex Vibia (oder Leges Vibiae) 1",
+    "next": "Lex Vibia, Leges Vibiae",
     "sort_key": "Lexvallia",
     "proof_read": 2,
     "short_description": "L. V. de manus iniectione",
@@ -3442,10 +3452,10 @@
     ]
   },
   {
-    "lemma": "Lex Vibia (oder Leges Vibiae) 1",
+    "lemma": "Lex Vibia, Leges Vibiae",
     "previous": "Lex Vallia",
-    "next": "Lex Vibia (oder Leges Vibiae) 2",
-    "sort_key": "Lexvibia (oder leges vibiae) 1",
+    "next": "Libella 1",
+    "sort_key": "Lexvibia",
     "proof_read": 2,
     "short_description": "Gesetz über die Abschaffung der Diktatur",
     "no_creative_height": true,
@@ -3458,22 +3468,8 @@
     ]
   },
   {
-    "lemma": "Lex Vibia (oder Leges Vibiae) 2",
-    "previous": "Lex Vibia (oder Leges Vibiae) 1",
-    "chapters": [
-      {
-        "start": 416,
-        "author": "Berger"
-      }
-    ]
-  },
-  {
-    "lemma": "Lex Vibia (oder Leges Vibiae)",
-    "next": "Libella 1"
-  },
-  {
     "lemma": "Libella 1",
-    "previous": "Lex Vibia (oder Leges Vibiae)",
+    "previous": "Lex Vibia, Leges Vibiae",
     "next": "Licinius 151a",
     "chapters": [
       {
@@ -3871,16 +3867,25 @@
   {
     "lemma": "Mysta",
     "previous": "Mysokaras limen",
+    "next": "Nanaros",
     "chapters": [
       {
         "start": 514,
+        "end": 515,
         "author": "Lenschau"
       }
     ]
   },
   {
     "lemma": "Nanaros",
-    "next": "Narbo"
+    "previous": "Mysta",
+    "next": "Narbo",
+    "chapters": [
+      {
+        "start": 514,
+        "author": "J. Miller."
+      }
+    ]
   },
   {
     "lemma": "Narbo",
