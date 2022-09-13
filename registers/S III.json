@@ -12415,7 +12415,7 @@
     "next": "Brivodurum",
     "sort_key": "Briva 0a",
     "proof_read": 3,
-    "short_description": "Kelt. Brücke, Furt",
+    "short_description": "keltisches Wort für Brücke, Furt",
     "chapters": [
       {
         "start": 217,
@@ -13018,7 +13018,7 @@
   {
     "lemma": "Caecilius 101",
     "previous": "Caecilius 99",
-    "next": "Caecilius 124c",
+    "next": "Caecilius 124a",
     "proof_read": 3,
     "chapters": [
       {
@@ -13029,8 +13029,11 @@
     ]
   },
   {
+    "lemma": "Caecilius 124a",
+    "previous": "Caecilius 101"
+  },
+  {
     "lemma": "Caecilius 124c",
-    "previous": "Caecilius 101",
     "next": "Caecilius 136",
     "proof_read": 3,
     "short_description": "(K) Caecilia, Mutter des T. Pomponius (S VIII 503 Nr. 102) Atticus",
@@ -22942,7 +22945,7 @@
   {
     "lemma": "Geminus 2",
     "previous": "Geminius 20a",
-    "next": "Geminus 3",
+    "next": "Geminus 2a",
     "proof_read": 3,
     "chapters": [
       {
@@ -22953,10 +22956,11 @@
     ]
   },
   {
-    "lemma": "Geminus 3",
+    "lemma": "Geminus 2a",
     "previous": "Geminus 2",
     "next": "Genialis 3",
-    "proof_read": 3,
+    "proof_read": 2,
+    "short_description": "mittelgallischer Sigillatatöpfer in Lezoux im 2./3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 543,
@@ -22967,7 +22971,7 @@
   },
   {
     "lemma": "Genialis 3",
-    "previous": "Geminus 3",
+    "previous": "Geminus 2a",
     "next": "Genianae figlinae",
     "sort_key": "Genialis 3",
     "proof_read": 3,
@@ -24154,7 +24158,7 @@
   {
     "lemma": "Gyttios (?)",
     "previous": "Gyromanteis",
-    "next": "Habilis 2",
+    "next": "Habron 5",
     "proof_read": 3,
     "short_description": "Pythagoreer zu Lokroi",
     "chapters": [
@@ -24167,7 +24171,6 @@
   },
   {
     "lemma": "Habilis 2",
-    "previous": "Gyttios (?)",
     "next": "Habis",
     "proof_read": 2,
     "short_description": "Mittelgall. Sigillatatöpfer in der 1. H. des 2. Jh. n. Chr.",
@@ -26404,10 +26407,13 @@
     "lemma": "Indus 1",
     "previous": "Indus",
     "next": "Indus 2",
+    "proof_read": 2,
+    "short_description": "Iulius I., Treverer, Offizier unter Tiberius 21 n. Chr. = Iulius Nr. 280 I",
     "chapters": [
       {
         "start": 1238,
-        "author": "Keune"
+        "end": 1239,
+        "author": "Keune."
       }
     ]
   },

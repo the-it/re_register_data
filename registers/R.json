@@ -1326,7 +1326,7 @@
   {
     "lemma": "Arruntius 17aa",
     "previous": "Arrius 43a",
-    "next": "Arsames 3–4",
+    "next": "Arsames 3-4",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -1337,7 +1337,7 @@
     ]
   },
   {
-    "lemma": "Arsames 3–4",
+    "lemma": "Arsames 3-4",
     "previous": "Arruntius 17aa",
     "next": "Arteriotomia",
     "redirect": "Arsames 4",
@@ -1351,7 +1351,7 @@
   },
   {
     "lemma": "Arteriotomia",
-    "previous": "Arsames 3–4",
+    "previous": "Arsames 3-4",
     "next": "Artois",
     "redirect": true,
     "proof_read": 3,
@@ -4167,7 +4167,6 @@
   {
     "lemma": "Kallimachos 9",
     "previous": "Kallimachos 7a",
-    "next": "Kallimachos 1a",
     "proof_read": 2,
     "chapters": [
       {
@@ -4178,12 +4177,23 @@
   },
   {
     "lemma": "Kallimachos 1a",
-    "previous": "Kallimachos 9",
-    "next": "Kallipolis 7b"
+    "previous": "Kallimachos 5a",
+    "next": "Kallimandros",
+    "redirect": "Kallimachos 9",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 140,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "lemma": "Kallimandros",
+    "previous": "Kallimachos 1a"
   },
   {
     "lemma": "Kallipolis 7b",
-    "previous": "Kallimachos 1a",
     "next": "Kallippos 12b",
     "redirect": "Pontos Euxeinos",
     "proof_read": 3,
