@@ -7760,7 +7760,7 @@
   {
     "lemma": "Torquata 2",
     "previous": "Tlepolemos 6a",
-    "next": "Trebonius 12a",
+    "next": "Totila",
     "proof_read": 2,
     "short_description": "Gattin des L. Pomponius (S XIV 438 Nr.38a) Bassus, Mutter des L. Pomponius (S XIV 438 Nr.39a?) Bassus Cascus Scribonianus",
     "no_creative_height": true,
@@ -7773,9 +7773,32 @@
     ]
   },
   {
-    "lemma": "Trebonius 12a",
+    "lemma": "Totila",
     "previous": "Torquata 2",
-    "next": "Troia 1",
+    "next": "Trebius 4",
+    "chapters": [
+      {
+        "start": 799,
+        "end":   809,
+        "author": "Hans-Norbert Roisl."
+      }
+    ]
+  },
+  {
+    "lemma": "Trebius 4",
+    "previous": "Totila",
+    "next": "Trebonius 12a",
+    "chapters": [
+      {
+        "start": 809,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Trebonius 12a",
+    "previous": "Trebius 4",
+    "next": "Triarius 6",
     "proof_read": 2,
     "short_description": "P. T., cos. suff. im J. 53 n. Chr., Vorfahre des Appius Annius",
     "no_creative_height": true,
@@ -7788,21 +7811,9 @@
     ]
   },
   {
-    "lemma": "Troia 1",
-    "previous": "Trebonius 12a",
-    "next": "Triarius 6",
-    "chapters": [
-      {
-        "start": 809,
-        "end": 817,
-        "author": "Meyer, Ernst"
-      }
-    ]
-  },
-  {
     "lemma": "Triarius 6",
-    "previous": "Troia 1",
-    "next": "Tullius 24a",
+    "previous": "Trebonius 12a",
+    "next": "Tripodiskos",
     "proof_read": 2,
     "short_description": "Triaria Ignatia Lucilla, c.f.",
     "no_creative_height": true,
@@ -7815,9 +7826,32 @@
     ]
   },
   {
-    "lemma": "Tullius 24a",
+    "lemma": "Tripodiskos",
     "previous": "Triarius 6",
-    "next": "Tusidius",
+    "next": "Troia 1",
+    "chapters": [
+      {
+        "start": 809,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Troia 1",
+    "previous": "Tripodiskos",
+    "next": "Tullius 24a",
+    "chapters": [
+      {
+        "start": 809,
+        "end": 817,
+        "author": "Meyer, Ernst"
+      }
+    ]
+  },
+  {
+    "lemma": "Tullius 24a",
+    "previous": "Troia 1",
+    "next": "Tullius 57",
     "chapters": [
       {
         "start": 817,
@@ -7827,8 +7861,30 @@
     ]
   },
   {
-    "lemma": "Tusidius",
+    "lemma": "Tullius 57",
     "previous": "Tullius 24a",
+    "next": "Turranius 11a",
+    "chapters": [
+      {
+        "start": 818,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Turranius 11a",
+    "previous": "Tullius 57",
+    "next": "Tusidius",
+    "chapters": [
+      {
+        "start": 818,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Tusidius",
+    "previous": "Turranius 11a",
     "next": "Tyrrhenia",
     "chapters": [
       {
