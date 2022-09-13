@@ -5391,6 +5391,7 @@
   {
     "lemma": "Plorucensis statio",
     "previous": "Plautius 64a",
+    "next": "Plutodotes",
     "chapters": [
       {
         "start": 385,
@@ -5400,7 +5401,14 @@
   },
   {
     "lemma": "Plutodotes",
-    "next": "Plygonion"
+    "previous": "Plorucensis statio",
+    "next": "Plygonion",
+    "chapters": [
+      {
+        "start": 385,
+        "author": "Frank Brommer."
+      }
+    ]
   },
   {
     "lemma": "Plygonion",
@@ -5409,7 +5417,8 @@
     "chapters": [
       {
         "start": 385,
-        "end": 387
+        "end": 387,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -5937,7 +5946,7 @@
   {
     "lemma": "Praes",
     "previous": "praediatura",
-    "next": "Praesidium 8a",
+    "next": "pragmatica sanctio",
     "chapters": [
       {
         "start": 455,
@@ -5945,10 +5954,6 @@
         "author": "Gunter Wesener."
       }
     ]
-  },
-  {
-    "lemma": "Praesidium 8a",
-    "previous": "Praes"
   },
   {
     "lemma": "pragmatica sanctio",
@@ -7629,7 +7634,7 @@
   {
     "lemma": "Thoas 11",
     "previous": "Thoas 7a",
-    "next": "Timesios 2",
+    "next": "Thukydides 1",
     "chapters": [
       {
         "start": 760,
@@ -7638,24 +7643,15 @@
     ]
   },
   {
-    "lemma": "Timesios 2",
+    "lemma": "Thukydides 1",
     "previous": "Thoas 11",
-    "next": "Thukydides 1",
-    "proof_read": 2,
-    "short_description": "T. von Sybaris, pythagor. Philosoph",
-    "no_creative_height": true,
+    "next": "Tiara",
     "chapters": [
       {
-        "start": 796,
-        "end": 796,
-        "author": "Alexander Demandt."
+        "start": 760,
+        "author": "Otto Luschnat."
       }
     ]
-  },
-  {
-    "lemma": "Thukydides 1",
-    "previous": "Timesios 2",
-    "next": "Tiara"
   },
   {
     "lemma": "Tiara",
@@ -7674,7 +7670,7 @@
   {
     "lemma": "Timesios 1",
     "previous": "Tiara",
-    "next": "Timotheos 7a",
+    "next": "Timesios 2",
     "chapters": [
       {
         "start": 796,
@@ -7683,8 +7679,23 @@
     ]
   },
   {
-    "lemma": "Timotheos 7a",
+    "lemma": "Timesios 2",
     "previous": "Timesios 1",
+    "next": "Timotheos 7a",
+    "proof_read": 2,
+    "short_description": "T. von Sybaris, pythagor. Philosoph",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 796,
+        "end": 796,
+        "author": "Alexander Demandt."
+      }
+    ]
+  },
+  {
+    "lemma": "Timotheos 7a",
+    "previous": "Timesios 2",
     "next": "Timotheos 7b",
     "chapters": [
       {
