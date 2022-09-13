@@ -6064,7 +6064,7 @@
   {
     "lemma": "Quinctilius 32",
     "previous": "Quinctilius 31",
-    "next": "Quinctius",
+    "next": "Quinctilius 33",
     "proof_read": 2,
     "short_description": "Quintilius Laetus, praef. urbi 395 n. Chr. = Quintilius Laetus Nr. 1a",
     "no_creative_height": true,
@@ -6077,9 +6077,20 @@
     ]
   },
   {
-    "lemma": "Quinctius",
+    "lemma": "Quinctilius 33",
     "previous": "Quinctilius 32",
-    "next": "Quintilius 33",
+    "next": "Quinctius",
+    "chapters": [
+      {
+        "start": 987,
+        "author": "Rumpf"
+      }
+    ]
+  },
+  {
+    "lemma": "Quinctius",
+    "previous": "Quinctilius 33",
+    "next": "Quinctius 1",
     "chapters": [
       {
         "start": 987,
@@ -6089,19 +6100,8 @@
     ]
   },
   {
-    "lemma": "Quintilius 33",
-    "previous": "Quinctius",
-    "next": "Quinctius 1",
-    "chapters": [
-      {
-        "start": 987,
-        "author": "Rumpf"
-      }
-    ]
-  },
-  {
     "lemma": "Quinctius 1",
-    "previous": "Quintilius 33",
+    "previous": "Quinctius",
     "next": "Quinctius 2",
     "chapters": [
       {
