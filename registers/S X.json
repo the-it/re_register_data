@@ -6008,7 +6008,7 @@
   {
     "lemma": "Kallipides 2",
     "previous": "Kallimachos 1a",
-    "next": "Kallipos 12a",
+    "next": "Kallippos 12a",
     "proof_read": 2,
     "no_creative_height": true,
     "wp_link": "w:ca:Cal·lípides",
@@ -6022,22 +6022,8 @@
     ]
   },
   {
-    "lemma": "Kallipos 12a",
-    "previous": "Kallipides 2"
-  },
-  {
-    "lemma": "Kallip(p)ides 2",
-    "next": "Kallippos 12a",
-    "chapters": [
-      {
-        "start": 346,
-        "author": "Bonaria"
-      }
-    ]
-  },
-  {
     "lemma": "Kallippos 12a",
-    "previous": "Kallip(p)ides 2",
+    "previous": "Kallipides 2",
     "next": "Kallippos 13b",
     "chapters": [
       {
@@ -9439,21 +9425,28 @@
   },
   {
     "lemma": "Ptolemaios 79a",
-    "previous": "Ptolemaios 66"
-  },
-  {
-    "lemma": "Ptolemaios 79a2",
-    "next": "Pydna",
+    "previous": "Ptolemaios 66",
+    "next": "Put",
     "chapters": [
       {
         "start": 833,
-        "author": "Bonaria"
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Put",
+    "previous": "Ptolemaios 79a",
+    "next": "Pydna",
+    "chapters": [
+      {
+        "start": 833
       }
     ]
   },
   {
     "lemma": "Pydna",
-    "previous": "Ptolemaios 79a2",
+    "previous": "Put",
     "next": "Pyrrhaleos",
     "chapters": [
       {
@@ -11697,6 +11690,7 @@
   {
     "lemma": "Uttiedius 1",
     "previous": "Uruca",
+    "next": "creditum",
     "chapters": [
       {
         "start": 1152,
@@ -11705,12 +11699,8 @@
     ]
   },
   {
-    "lemma": "T. Uttiedius Venerianus",
-    "next": "creditum"
-  },
-  {
     "lemma": "creditum",
-    "previous": "T. Uttiedius Venerianus",
+    "previous": "Uttiedius 1",
     "next": "intercisi dies",
     "wp_link": "w:en:Loan",
     "wd_link": "d:Q189539",
