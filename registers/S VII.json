@@ -5857,6 +5857,7 @@
     "chapters": [
       {
         "start": 899,
+        "end": 949,
         "author": "Brink"
       }
     ]
@@ -5864,6 +5865,7 @@
   {
     "lemma": "Periporphyros agon",
     "previous": "Peripatos",
+    "next": "Peristylium 2",
     "chapters": [
       {
         "start": 949,
@@ -5872,12 +5874,24 @@
     ]
   },
   {
-    "lemma": "Peristylium",
-    "next": "Persius 5"
+    "lemma": "Peristylium 2",
+    "next": "Persius 5",
+    "chapters": [
+      {
+        "start": 950,
+        "end": 971,
+        "author": "Heinrich Sulze."
+      },
+      {
+        "start": 971,
+        "end": 972,
+        "author": "A. W. van Buren."
+      }
+    ]
   },
   {
     "lemma": "Persius 5",
-    "previous": "Peristylium",
+    "previous": "Peristylium 2",
     "next": "Pescennius",
     "proof_read": 3,
     "wp_link": "w:de:Aulus Persius Flaccus",
@@ -5894,7 +5908,13 @@
   {
     "lemma": "Pescennius",
     "previous": "Persius 5",
-    "next": "Petra 7a"
+    "next": "Petra 7a",
+    "chapters": [
+      {
+        "start": 979,
+        "author": "W. Kroll."
+      }
+    ]
   },
   {
     "lemma": "Petra 7a",
@@ -5913,7 +5933,14 @@
   {
     "lemma": "Petra 8",
     "previous": "Petra 7a",
-    "next": "Petra 8a"
+    "next": "Petra 8a",
+    "chapters": [
+      {
+        "start": 980,
+        "end": 981,
+        "author": "Gustav Hölscher."
+      }
+    ]
   },
   {
     "lemma": "Petra 8a",
@@ -6593,16 +6620,30 @@
   {
     "lemma": "Stiftungen",
     "previous": "Stiela oder Stiala",
+    "next": "Straßenraub",
     "chapters": [
       {
         "start": 1236,
+        "end": 1240,
         "author": "Ziebarth"
       }
     ]
   },
   {
     "lemma": "Straßenraub",
-    "next": "Stratonikeia-Hadrianopolis"
+    "previous": "Stiftungen",
+    "next": "Stratonikeia-Hadrianopolis",
+    "chapters": [
+      {
+        "start": 1239,
+        "author": "Düll."
+      },
+      {
+        "start": 1240,
+        "end": 1244,
+        "author": "Mickwitz."
+      }
+    ]
   },
   {
     "lemma": "Stratonikeia-Hadrianopolis",

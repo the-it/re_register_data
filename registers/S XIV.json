@@ -3999,17 +3999,30 @@
   {
     "lemma": "Insteius 8a",
     "previous": "instauratio",
-    "next": "Iulianos 17a",
+    "next": "Ioviacum",
     "chapters": [
       {
         "start": 205,
         "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Ioviacum",
+    "previous": "Insteius 8a",
+    "next": "Iulianos 17a",
+    "chapters": [
+      {
+        "start": 205,
+        "end": 206,
+        "author": "Gerhard Winkler."
       }
     ]
   },
   {
     "lemma": "Iulianos 17a",
-    "previous": "Insteius 8a",
+    "previous": "Ioviacum",
+    "next": "Iulius 65a",
     "chapters": [
       {
         "start": 205,
@@ -4018,12 +4031,8 @@
     ]
   },
   {
-    "lemma": "Iulianus 17a",
-    "next": "Iulius 65a"
-  },
-  {
     "lemma": "Iulius 65a",
-    "previous": "Iulianus 17a",
+    "previous": "Iulianos 17a",
     "next": "Iulius 105a",
     "sort_key": "Iulius 065a",
     "short_description": "C. I. Ant. Tertullinus, Finanz-? Prokurator (der Provinz Asia?) 2. Jh. n. Chr.",
@@ -4284,11 +4293,44 @@
   },
   {
     "lemma": "Iunius 80",
-    "previous": "Iunior 4"
+    "previous": "Iunior 4",
+    "next": "Iunius 139a",
+    "chapters": [
+      {
+        "start": 212,
+        "end": 212,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Iunius 139a",
+    "previous": "Iunius 80",
+    "next": "Kadyanda",
+    "chapters": [
+      {
+        "start": 212,
+        "end": 213,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Kadyanda",
+    "previous": "Iunius 139a",
+    "next": "Kalynda 1.2",
+    "chapters": [
+      {
+        "start": 213,
+        "end": 214,
+        "author": "Jameson"
+      }
+    ]
   },
   {
     "lemma": "Kalynda 1.2",
-    "next": "Kormos",
+    "previous": "Kadyanda",
+    "next": "Kandyba",
     "chapters": [
       {
         "start": 214,
@@ -4297,9 +4339,43 @@
     ]
   },
   {
-    "lemma": "Kormos",
+    "lemma": "Kandyba",
     "previous": "Kalynda 1.2",
-    "next": "Laberius 21a",
+    "next": "Kinaidopolis",
+    "chapters": [
+      {
+        "start": 214,
+        "end": 216,
+        "author": "Jameson"
+      }
+    ]
+  },
+  {
+    "lemma": "Kinaidopolis",
+    "previous": "Kandyba",
+    "next": "Komba",
+    "chapters": [
+      {
+        "start": 215
+      }
+    ]
+  },
+  {
+    "lemma": "Komba",
+    "previous": "Kinaidopolis",
+    "next": "Kormos",
+    "chapters": [
+      {
+        "start": 215,
+        "end": 216,
+        "author": "Jameson"
+      }
+    ]
+  },
+  {
+    "lemma": "Kormos",
+    "previous": "Komba",
+    "next": "Kriton 7",
     "chapters": [
       {
         "start": 216,
@@ -4308,8 +4384,31 @@
     ]
   },
   {
-    "lemma": "Laberius 21a",
+    "lemma": "Kriton 7",
     "previous": "Kormos",
+    "next": "Laberius 9",
+    "chapters": [
+      {
+        "start": 216,
+        "end": 220,
+        "author": "Jost Benedum."
+      }
+    ]
+  },
+  {
+    "lemma": "Laberius 9",
+    "previous": "Kriton 7",
+    "next": "Laberius 21a",
+    "chapters": [
+      {
+        "start": 219,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Laberius 21a",
+    "previous": "Laberius 9",
     "next": "Lappius",
     "chapters": [
       {
@@ -4333,7 +4432,7 @@
   {
     "lemma": "Lartidius 1a",
     "previous": "Lappius",
-    "next": "Licinius 117a",
+    "next": "Lauriacum 1",
     "chapters": [
       {
         "start": 221,
@@ -4342,8 +4441,64 @@
     ]
   },
   {
-    "lemma": "Licinius 117a",
+    "lemma": "Lauriacum 1",
     "previous": "Lartidius 1a",
+    "next": "Lauricius",
+    "chapters": [
+      {
+        "start": 221,
+        "end": 225,
+        "author": "Gerhard Winkler."
+      }
+    ]
+  },
+  {
+    "lemma": "Lauricius",
+    "previous": "Lauriacum 1",
+    "next": "Lentia",
+    "chapters": [
+      {
+        "start": 225,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Lentia",
+    "previous": "Lauricius",
+    "next": "Leo 2",
+    "chapters": [
+      {
+        "start": 225,
+        "end": 232,
+        "author": "Gerhard Winkler."
+      }
+    ]
+  },
+  {
+    "lemma": "Leo 2",
+    "previous": "Lentia",
+    "next": "Licinius 59",
+    "chapters": [
+      {
+        "start": 232
+      }
+    ]
+  },
+  {
+    "lemma": "Licinius 59",
+    "previous": "Leo 2",
+    "next": "Licinius 117a",
+    "chapters": [
+      {
+        "start": 233,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Licinius 117a",
+    "previous": "Licinius 59",
     "next": "Livius 28a",
     "chapters": [
       {
