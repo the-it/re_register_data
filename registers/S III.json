@@ -19917,17 +19917,19 @@
     "lemma": "Egirca",
     "previous": "Edeatros",
     "next": "Egnatius 7a",
+    "short_description": "Station in Dacien, heute Ichtiman/Bulgarien",
     "chapters": [
       {
         "start": 418,
-        "author": "Kazarow"
+        "end": 418,
+        "author": "Kazarow."
       }
     ]
   },
   {
     "lemma": "Egnatius 7a",
     "previous": "Egirca",
-    "next": "Eirenarchai",
+    "next": "Εἰρηνάρχαι",
     "proof_read": 2,
     "short_description": "C. E., in amtlicher Funktion(?) in Kleinasien um das J. 74 v. Chr.",
     "chapters": [
@@ -19939,20 +19941,38 @@
     ]
   },
   {
-    "lemma": "Eirenarchai",
+    "lemma": "Εἰρηνάρχαι",
     "previous": "Egnatius 7a",
-    "next": "Eirenis",
+    "next": "Εἰρηνικοὶ ἄνδρες",
+    "sort_key": "Eirenarchai",
+    "proof_read": 2,
+    "short_description": "Eirenarchai, die Polizei in Kleinasien und Ägypten",
     "chapters": [
       {
         "start": 419,
         "end": 423,
-        "author": "Schulthess"
+        "author": "Schultheß."
+      }
+    ]
+  },
+  {
+    "lemma": "Εἰρηνικοὶ ἄνδρες",
+    "previous": "Εἰρηνάρχαι",
+    "next": "Eirenis",
+    "sort_key": "Eirenikoiandres",
+    "redirect": "Εἰρηνοφύλακες",
+    "proof_read": 3,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 423,
+        "end": 423
       }
     ]
   },
   {
     "lemma": "Eirenis",
-    "previous": "Eirenarchai",
+    "previous": "Εἰρηνικοὶ ἄνδρες",
     "next": "Ἐἰρηνοφύλακες",
     "proof_read": 2,
     "short_description": "Hetäre im 4. Jh. v. Chr.",
@@ -26418,11 +26438,13 @@
     "lemma": "Indus 2",
     "previous": "Indus 1",
     "next": "Indus 3",
+    "proof_read": 2,
+    "short_description": "Mediomatriker, der Handel mit Trier und in Trier trieb 1. Jh. n. Chr.",
     "chapters": [
       {
-        "start": 1238,
+        "start": 1239,
         "end": 1239,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -26430,10 +26452,13 @@
     "lemma": "Indus 3",
     "previous": "Indus 2",
     "next": "Ingelheim",
+    "proof_read": 2,
+    "short_description": "Sigillatatöpfer, auf zwei in England gefundenen Sigillatatellern",
     "chapters": [
       {
         "start": 1239,
-        "author": "Keune"
+        "end": 1239,
+        "author": "Keune."
       }
     ]
   },
