@@ -2886,17 +2886,6 @@
     ]
   },
   {
-    "lemma": "Epimenes 3",
-    "short_description": "Epimenes, Page am Hof Alexanders des Gr., verriet den geplanten Anschlag",
-    "chapters": [
-      {
-        "start": 275,
-        "end": 277,
-        "author": "Berve."
-      }
-    ]
-  },
-  {
     "lemma": "Entimos 1a",
     "previous": "Entasis",
     "next": "Enylos",
@@ -2925,7 +2914,21 @@
     ]
   },
   {
+    "lemma": "Epimenes 3",
+    "previous": "Enylos",
+    "next": "Epiphanes",
+    "short_description": "Epimenes, Page am Hof Alexanders des Gr., verriet den geplanten Anschlag",
+    "chapters": [
+      {
+        "start": 275,
+        "end": 277,
+        "author": "Berve."
+      }
+    ]
+  },
+  {
     "lemma": "Epiphanes",
+    "previous": "Epimenes 3",
     "next": "Epiphanie",
     "proof_read": 2,
     "short_description": "Epiphanes, Götterepitheton, siehe Epiphanie",
@@ -7185,12 +7188,8 @@
     ]
   },
   {
-    "lemma": "Κretheus 1",
-    "next": "Kriegskunst"
-  },
-  {
     "lemma": "Kriegskunst",
-    "previous": "Κretheus 1",
+    "previous": "Kretheus 1a",
     "next": "Krios 7a",
     "short_description": "röm. und griechisch",
     "chapters": [
