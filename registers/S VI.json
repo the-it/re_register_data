@@ -3593,7 +3593,7 @@
   {
     "lemma": "Marcianus 27a",
     "previous": "Manichäismus",
-    "next": "Μαθαλίς",
+    "next": "Marcus 17",
     "chapters": [
       {
         "start": 271,
@@ -3603,8 +3603,32 @@
     ]
   },
   {
-    "lemma": "Μαθαλίς",
+    "lemma": "Marcus 17",
     "previous": "Marcianus 27a",
+    "next": "Marcus 27",
+    "chapters": [
+      {
+        "start": 271,
+        "end": 272,
+        "author": "H. G. Opitz."
+      }
+    ]
+  },
+  {
+    "lemma": "Marcus 27",
+    "previous": "Marcus 17",
+    "next": "Μαθαλίς",
+    "chapters": [
+      {
+        "start": 271,
+        "end": 272,
+        "author": "H. G. Opitz."
+      }
+    ]
+  },
+  {
+    "lemma": "Μαθαλίς",
+    "previous": "Marcus 27",
     "next": "Matisa(?), Matisona(?), Matrona(?)",
     "sort_key": "Mathalis",
     "proof_read": 2,
@@ -3643,30 +3667,39 @@
   {
     "lemma": "Matoas",
     "previous": "Matisonenses",
-    "next": "Maximinus 21a",
+    "next": "Maxentius 1",
     "proof_read": 2,
     "short_description": "skyth. Name der Donau",
     "chapters": [
       {
         "start": 283,
         "end": 283,
-        "author": "Fluss."
+        "author": "Max Fluss."
       }
     ]
   },
   {
-    "lemma": "Maximinus 21a",
+    "lemma": "Maxentius 1",
     "previous": "Matoas",
+    "next": "Maximinus 5",
     "chapters": [
       {
         "start": 283,
-        "author": "Lenz"
+        "author": "Groag."
       }
     ]
   },
   {
     "lemma": "Maximinus 5",
-    "next": "Maximus 128"
+    "previous": "Maxentius 1",
+    "next": "Maximus 128",
+    "chapters": [
+      {
+        "start": 283,
+        "end": 289,
+        "author": "Lenz"
+      }
+    ]
   },
   {
     "lemma": "Maximus 128",
@@ -5004,7 +5037,14 @@
   {
     "lemma": "Telamon 4",
     "previous": "Teitha",
-    "next": "Telephanes 5"
+    "next": "Telephanes 5",
+    "chapters": [
+      {
+        "start": 1169,
+        "end": 1171,
+        "author": "Hans Philipp."
+      }
+    ]
   },
   {
     "lemma": "Telephanes 5",
@@ -5034,6 +5074,7 @@
   {
     "lemma": "Tenestini",
     "previous": "Tellen",
+    "next": "Teos",
     "chapters": [
       {
         "start": 1172,
@@ -5043,7 +5084,14 @@
   },
   {
     "lemma": "Teos",
-    "next": "Terentius 84"
+    "previous": "Tenestini",
+    "next": "Terentius 84",
+    "chapters": [
+      {
+        "start": 1172,
+        "author": "W. Ruge."
+      }
+    ]
   },
   {
     "lemma": "Terentius 84",
@@ -5378,6 +5426,7 @@
   {
     "lemma": "Maia 7",
     "previous": "Kriegsrecht",
+    "next": "Manichäismus",
     "chapters": [
       {
         "start": 1362,
@@ -5388,7 +5437,14 @@
   },
   {
     "lemma": "Manichäismus",
-    "next": "Marius 14"
+    "previous": "Maia 7",
+    "next": "Marius 14",
+    "chapters": [
+      {
+        "start": 1363,
+        "author": "Polotsky"
+      }
+    ]
   },
   {
     "lemma": "Marius 14",
@@ -5406,10 +5462,19 @@
   },
   {
     "lemma": "Neapolis 18",
-    "previous": "Marius 14"
+    "previous": "Marius 14",
+    "next": "Régĭna castra",
+    "chapters": [
+      {
+        "start": 1425,
+        "end": 1427,
+        "author": "Erich Diehl."
+      }
+    ]
   },
   {
     "lemma": "Régĭna castra",
+    "previous": "Neapolis 18",
     "next": "Sarapion 9",
     "chapters": [
       {
