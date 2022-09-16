@@ -19514,7 +19514,7 @@
     "previous": "Draponus",
     "next": "Drasdea",
     "proof_read": 3,
-    "short_description": "S. 1668 zum Art. Drappus: 1) Sigillatatöpfer aus der Mitte des 2. Jhdts. n.",
+    "short_description": "Ergänzung zum Art. Drappus: Sigillatatöpfer aus der Mitte des 2. Jhdts. n. Chr.",
     "chapters": [
       {
         "start": 414,
@@ -19929,7 +19929,7 @@
   {
     "lemma": "Egnatius 7a",
     "previous": "Egirca",
-    "next": "Εἰρηνάρχαι",
+    "next": "Eirenarchai",
     "proof_read": 2,
     "short_description": "C. E., in amtlicher Funktion(?) in Kleinasien um das J. 74 v. Chr.",
     "chapters": [
@@ -19941,7 +19941,7 @@
     ]
   },
   {
-    "lemma": "Εἰρηνάρχαι",
+    "lemma": "Eirenarchai",
     "previous": "Egnatius 7a",
     "next": "Εἰρηνικοὶ ἄνδρες",
     "sort_key": "Eirenarchai",
@@ -19957,7 +19957,7 @@
   },
   {
     "lemma": "Εἰρηνικοὶ ἄνδρες",
-    "previous": "Εἰρηνάρχαι",
+    "previous": "Eirenarchai",
     "next": "Eirenis",
     "sort_key": "Eirenikoiandres",
     "redirect": "Εἰρηνοφύλακες",
@@ -19974,7 +19974,7 @@
     "lemma": "Eirenis",
     "previous": "Εἰρηνικοὶ ἄνδρες",
     "next": "Ἐἰρηνοφύλακες",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Hetäre im 4. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
@@ -20003,31 +20003,39 @@
   {
     "lemma": "Εἰσαγωγεῖς",
     "previous": "Ἐἰρηνοφύλακες",
-    "next": "Eisagogion",
+    "next": "Εἰσαγώγιον",
+    "sort_key": "Eisagogeis",
+    "proof_read": 2,
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 425,
-        "end": 428,
-        "author": "Schulthess"
+        "start": 423,
+        "end": 427,
+        "author": "Schultheß."
       }
     ]
   },
   {
-    "lemma": "Eisagogion",
+    "lemma": "Εἰσαγώγιον",
     "previous": "Εἰσαγωγεῖς",
     "next": "Eisdikaia",
+    "sort_key": "Eisagogion",
+    "proof_read": 2,
+    "short_description": "Eisagogion, Aufnahmegebühr bei Eintritt in einen Verein",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 428,
-        "author": "Schulthess"
+        "end": 428,
+        "author": "Schultheß."
       }
     ]
   },
   {
     "lemma": "Eisdikaia",
-    "previous": "Eisagogion",
-    "next": "Eitrizene",
-    "proof_read": 2,
+    "previous": "Εἰσαγώγιον",
+    "next": "Εἰσηλύσιον",
+    "proof_read": 3,
     "short_description": "Thrak. Kastell.",
     "no_creative_height": true,
     "chapters": [
@@ -20039,10 +20047,41 @@
     ]
   },
   {
-    "lemma": "Eitrizene",
+    "lemma": "Εἰσηλύσιον",
     "previous": "Eisdikaia",
-    "next": "Eleasibos",
-    "proof_read": 2,
+    "next": "Εισόδιον",
+    "sort_key": "Eiselysion",
+    "redirect": "Εἰσαγώγιον",
+    "proof_read": 3,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 428,
+        "end": 428
+      }
+    ]
+  },
+  {
+    "lemma": "Εισόδιον",
+    "previous": "Εἰσηλύσιον",
+    "next": "Eitrizene",
+    "sort_key": "Eisodion",
+    "redirect": "Εἰσαγώγιον",
+    "proof_read": 3,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 428,
+        "end": 428
+      }
+    ]
+  },
+  {
+    "lemma": "Eitrizene",
+    "previous": "Εισόδιον",
+    "next": "Εκκλησία",
+    "sort_key": "Eitrizene",
+    "proof_read": 3,
     "short_description": "Thrak. Ort.",
     "no_creative_height": true,
     "chapters": [
@@ -20054,31 +20093,58 @@
     ]
   },
   {
-    "lemma": "Eleasibos",
+    "lemma": "Εκκλησία",
     "previous": "Eitrizene",
-    "next": "Elenius, Helenius",
+    "next": "Elariacus, -um",
+    "sort_key": "Ekklesia",
+    "proof_read": 2,
+    "short_description": "Marke, um bei öffentlicher Getreideverteilung eine Getreideration zu erhalten",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 428,
-        "author": "Stähelin"
+        "end": 428,
+        "author": "Schultheß."
+      }
+    ]
+  },
+  {
+    "lemma": "Elariacus, -um",
+    "previous": "Εκκλησία",
+    "next": "Eleasibos"
+  },
+  {
+    "lemma": "Eleasibos",
+    "previous": "Elariacus, -um",
+    "next": "Elenius, Helenius",
+    "sort_key": "Eleasibos",
+    "short_description": "jüdischer Hoherpriester um 445ff. vor Chr.",
+    "chapters": [
+      {
+        "start": 428,
+        "end": 428,
+        "author": "Stähelin."
       }
     ]
   },
   {
     "lemma": "Elenius, Helenius",
-    "previous": "Eleasibos",
-    "next": "Helenius",
+    "previous": "Εleasibos",
+    "next": "Elis 4a",
+    "sort_key": "EleniusHelenius",
+    "proof_read": 2,
+    "short_description": "Sigillatatöpfer der zweiten Hälfte des 2. Jhdts. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 428,
         "end": 429,
-        "author": "Hähnle"
+        "author": "Hähnle."
       }
     ]
   },
   {
     "lemma": "Helenius",
-    "previous": "Elenius, Helenius",
     "next": "Elenius oder Helenius",
     "redirect": "Elenius, Helenius",
     "proof_read": 2,
@@ -20250,10 +20316,15 @@
     "lemma": "Epaphroditos 6a",
     "previous": "Epagathiane",
     "next": "Eparmostos",
+    "sort_key": "Epaphroditos 6a",
+    "proof_read": 2,
+    "short_description": "ägyptischer Magier",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 430,
-        "author": "Ganschinietz"
+        "end": 430,
+        "author": "Ganschinietz."
       }
     ]
   },
@@ -20261,7 +20332,7 @@
     "lemma": "Eparmostos",
     "previous": "Epaphroditos 6a",
     "next": "Ephedros 2",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Hieros im ostlokr. Halai um die J. 260-250 v. Chr.",
     "chapters": [
       {
@@ -20274,9 +20345,25 @@
   {
     "lemma": "Ephedros 2",
     "previous": "Eparmostos",
-    "next": "Epidamiorgos",
+    "next": "Epicharmos 3",
+    "proof_read": 3,
+    "short_description": "athenischer Bildhauer",
+    "no_creative_height": true,
+    "wp_link": "w:de:Ephedros (Bildhauer)",
+    "wd_link": "d:Q20656194",
+    "chapters": [
+      {
+        "start": 430,
+        "end": 430,
+        "author": "Lippold."
+      }
+    ]
+  },
+  {
+    "lemma": "Epicharmos 3",
+    "previous": "Ephedros 2",
+    "next": "Ἐπίχυσις",
     "proof_read": 2,
-    "short_description": "Athen. Bildhauer.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -20287,20 +20374,36 @@
     ]
   },
   {
-    "lemma": "Epidamiorgos",
-    "previous": "Ephedros 2",
-    "next": "Epidiana",
+    "lemma": "Ἐπίχυσις",
+    "previous": "Epicharmos 3",
+    "next": "Ἐπίδαμιοργός",
+    "proof_read": 2,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 429,
+        "end": 430,
+        "author": "Frankenstein."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἐπίδαμιοργός",
+    "previous": "Ἐπίχυσις",
+    "next": "Ἐπίδαμιοργός",
+    "sort_key": "Epidamiorgos",
+    "proof_read": 2,
+    "short_description": "Beamtentitel",
     "chapters": [
       {
         "start": 430,
         "end": 431,
-        "author": "Schulthess"
+        "author": "Schultheß."
       }
     ]
   },
   {
     "lemma": "Epidiana",
-    "previous": "Epidamiorgos",
     "next": "Epi tes dioikeseos tetagmenos (ho)",
     "chapters": [
       {
