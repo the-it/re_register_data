@@ -20049,7 +20049,7 @@
   {
     "lemma": "Εἰσηλύσιον",
     "previous": "Eisdikaia",
-    "next": "Εισόδιον",
+    "next": "Εἰσόδιον",
     "sort_key": "Eiselysion",
     "redirect": "Εἰσαγώγιον",
     "proof_read": 3,
@@ -20062,7 +20062,7 @@
     ]
   },
   {
-    "lemma": "Εισόδιον",
+    "lemma": "Εἰσόδιον",
     "previous": "Εἰσηλύσιον",
     "next": "Eitrizene",
     "sort_key": "Eisodion",
@@ -20078,7 +20078,7 @@
   },
   {
     "lemma": "Eitrizene",
-    "previous": "Εισόδιον",
+    "previous": "Εἰσόδιον",
     "next": "Εκκλησία",
     "sort_key": "Eitrizene",
     "proof_read": 3,
@@ -20259,7 +20259,6 @@
   {
     "lemma": "Empusa 2",
     "previous": "Empusa",
-    "next": "Ennius 3a",
     "proof_read": 3,
     "short_description": "Spitzname von Aischines' Mutter Glaukothea Nr.2",
     "no_creative_height": true,
@@ -20272,14 +20271,31 @@
     ]
   },
   {
+    "lemma": "Ἐμπυρομάντεις",
+    "previous": "Empusa",
+    "next": "Ennius 3a",
+    "redirect": "Λιβανομαντεία",
+    "proof_read": 3,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 429,
+        "end": 429
+      }
+    ]
+  },
+  {
     "lemma": "Ennius 3a",
-    "previous": "Empusa 2",
+    "previous": "Ἐμπυρομάντεις",
     "next": "Entribae",
+    "proof_read": 2,
+    "short_description": "Drei Besitzer einer Schwertöpferei aus Hispanien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 429,
         "end": 430,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -20390,7 +20406,7 @@
   {
     "lemma": "Ἐπίδαμιοργός",
     "previous": "Ἐπίχυσις",
-    "next": "Ἐπίδαμιοργός",
+    "next": "Epidiana",
     "sort_key": "Epidamiorgos",
     "proof_read": 2,
     "short_description": "Beamtentitel",
@@ -20404,23 +20420,30 @@
   },
   {
     "lemma": "Epidiana",
-    "next": "Epi tes dioikeseos tetagmenos (ho)",
+    "previous": "Ἐπίδαμιοργός",
+    "next": "Ἐπὶ τῆς διοικήσεως τεταγμένος (ὁ)",
+    "sort_key": "Epidiana",
+    "proof_read": 2,
+    "short_description": "bezeichnung von römischen Ziegeln im Küstengebiet von Istrien bis Umbrien",
     "chapters": [
       {
-        "start": 431,
-        "author": "Keune"
+        "start": 430,
+        "end": 431,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Epi tes dioikeseos tetagmenos (ho)",
+    "lemma": "Ἐπὶ τῆς διοικήσεως τεταγμένος (ὁ)",
     "previous": "Epidiana",
     "next": "Ἐπὶ τῆς εἰρήνης, οἱ",
+    "sort_key": "Epi tes dioikeseos tetagmenos (ho)",
+    "short_description": "Spezialtitel des ptolemäischen διοικητής im 3. Jhdt. als Chef der διοίκησις.",
     "chapters": [
       {
         "start": 431,
         "end": 432,
-        "author": "Steiner"
+        "author": "Steiner."
       }
     ]
   },
@@ -20439,20 +20462,39 @@
     ]
   },
   {
-    "lemma": "Epi ton prosodon (ho)",
+    "lemma": "Ἐπὶ τῶν προσόδων (ὁ)",
     "previous": "Ἐπὶ τῆς εἰρήνης, οἱ",
-    "next": "Epigonos 9",
+    "next": "Ἐπιγνώμονες",
+    "sort_key": "Epi ton prosodon (ho)",
+    "short_description": "ptolemäischer Finanzbeamter seit dem 2. Jhdt.",
     "chapters": [
       {
         "start": 432,
         "end": 434,
-        "author": "Steiner"
+        "author": "Steiner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἐπιγνώμονες",
+    "previous": "Ἐπὶ τῶν προσόδων (ὁ)"
+  },
+  {
+    "lemma": "Epigonos 8",
+    "next": "Epigonos 9",
+    "sort_key": "Epignos 08",
+    "short_description": "E. von Pergamon, Bildhauer in hellenist. Zt.",
+    "chapters": [
+      {
+        "start": 434,
+        "end": 434,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Epigonos 9",
-    "previous": "Epi ton prosodon (ho)",
+    "previous": "Epigonos 8",
     "next": "Epigonos 10",
     "proof_read": 2,
     "short_description": "Lakedaimon. Philosoph.",
@@ -20469,10 +20511,15 @@
     "lemma": "Epigonos 10",
     "previous": "Epigonos 9",
     "next": "Epikados 1",
+    "sort_key": "Epigonos 10",
+    "proof_read": 2,
+    "short_description": "Philosoph aus Cilicien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 434,
-        "author": "Gerth"
+        "end": 434,
+        "author": "Gerth."
       }
     ]
   },
@@ -20480,10 +20527,13 @@
     "lemma": "Epikados 1",
     "previous": "Epigonos 10",
     "next": "Epikados 2",
+    "sort_key": "Epigonos 10",
+    "short_description": "Freund des illyr. Prinzen Plator (s. Pleuratos Nr. 3 [XXI 238]), von König",
     "chapters": [
       {
         "start": 434,
-        "author": "Stähelin"
+        "end": 434,
+        "author": "Stähelin."
       }
     ]
   },
@@ -20506,11 +20556,14 @@
     "lemma": "Epikles 4a",
     "previous": "Epikados 2",
     "next": "Ἐπίκλησις",
+    "proof_read": 2,
+    "short_description": "Bürger des kret. Axos in der 1. H. des 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 434,
         "end": 435,
-        "author": "Oldfather"
+        "author": "Oldfather."
       }
     ]
   },
@@ -24291,9 +24344,10 @@
   },
   {
     "lemma": "Habilis 2",
+    "previous": "Gyttios (?)",
     "next": "Habis",
     "proof_read": 2,
-    "short_description": "Mittelgall. Sigillatatöpfer in der 1. H. des 2. Jh. n. Chr.",
+    "short_description": "mittelgallischer Sigillatatöpfer 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 865,

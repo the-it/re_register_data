@@ -4330,7 +4330,7 @@
   {
     "lemma": "Coelianus 2",
     "previous": "Coelianus 1",
-    "next": "Coelius 1",
+    "next": "Coelius",
     "proof_read": 3,
     "short_description": "T. Flavius cos. suff. 289 n. Chr.",
     "chapters": [
@@ -4342,8 +4342,24 @@
     ]
   },
   {
-    "lemma": "Coelius 1",
+    "lemma": "Coelius",
     "previous": "Coelianus 2",
+    "next": "Coelius 1",
+    "sort_key": "Coelius 00",
+    "proof_read": 3,
+    "short_description": "plebejische Familie",
+    "wp_link": "w:de:en:Coelia gens",
+    "chapters": [
+      {
+        "start": 184,
+        "end": 184,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Coelius 1",
+    "previous": "Coelius",
     "next": "Coelius 2",
     "sort_key": "Coelius 01",
     "proof_read": 3,
