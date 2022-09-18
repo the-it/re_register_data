@@ -2079,18 +2079,23 @@
   {
     "lemma": "Eggius 3a",
     "previous": "Ecritusirus",
-    "next": "Erdmessung",
+    "next": "Egrilius 4",
+    "proof_read": 2,
+    "short_description": "Consul suffectus im J. 111.",
     "chapters": [
       {
         "start": 30,
-        "author": "Groag"
+        "end": 30,
+        "author": "Groag."
       }
     ]
   },
   {
+    "lemma": "Egrilius 4",
+    "previous": "Eggius 3a"
+  },
+  {
     "lemma": "Erdmessung",
-    "previous": "Eggius 3a",
-    "next": "Erucianus 2",
     "chapters": [
       {
         "start": 31,
@@ -2100,13 +2105,21 @@
     ]
   },
   {
+    "lemma": "Erinna",
+    "next": "Erucianus 2"
+  },
+  {
     "lemma": "Erucianus 2",
-    "previous": "Erdmessung",
+    "previous": "Erinna",
     "next": "Euryalos 1a",
+    "proof_read": 2,
+    "short_description": "C. Erucianus Silo, Consul suffectus im J. 110 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 56,
-        "author": "Groag"
+        "end": 56,
+        "author": "Groag."
       }
     ]
   },
@@ -2114,10 +2127,14 @@
     "lemma": "Euryalos 1a",
     "previous": "Erucianus 2",
     "next": "Exekution",
+    "proof_read": 2,
+    "short_description": "sagenhafter attischer Architekt, Erfinder der Ziegeleien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 56,
-        "author": "Kroll"
+        "end": 56,
+        "author": "W. Kroll."
       }
     ]
   },

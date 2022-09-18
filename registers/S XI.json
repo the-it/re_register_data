@@ -1052,6 +1052,9 @@
     "lemma": "Emona",
     "previous": "Elpidoforus",
     "next": "Epikuros",
+    "short_description": "Stadt in Pannonien, jetzt Ljubljana",
+    "wp_link": "w:de:Ljubljana",
+    "wd_link": "d:Q437",
     "chapters": [
       {
         "start": 540,
@@ -2531,26 +2534,40 @@
     "lemma": "Vecturiones",
     "previous": "Vanduara",
     "next": "Venantodunum",
+    "redirect": "Verturiones",
+    "proof_read": 2,
+    "wp_link": "w:ca:Vecturions",
+    "wd_link": "d:Q11954396",
     "chapters": [
       {
-        "start": 1271
+        "start": 1271,
+        "end": 1271
       }
     ]
   },
   {
     "lemma": "Venantodunum",
     "previous": "Vecturiones",
-    "next": "Villa 4a",
+    "next": "Villa Gai",
+    "proof_read": 2,
+    "short_description": "nicht antiker Ortsname für Huntingdon",
+    "no_creative_height": true,
+    "wp_link": "w:de:Huntingdon",
+    "wd_link": "d:Q685640",
     "chapters": [
       {
         "start": 1271,
+        "end": 1271,
         "author": "A. L. F. Rivet."
       }
     ]
   },
   {
+    "lemma": "Villa Gai",
+    "previous": "Venantodunum"
+  },
+  {
     "lemma": "Villa 4a",
-    "previous": "Venantodunum",
     "next": "Vincentia 2",
     "chapters": [
       {
