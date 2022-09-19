@@ -1144,10 +1144,14 @@
     "lemma": "Ehe",
     "previous": "Dura 2",
     "next": "Einatos",
+    "proof_read": 2,
+    "short_description": "Ehe im Recht der Papyri",
+    "wp_link": "w:de:Ehe im Römischen Reich",
     "chapters": [
       {
         "start": 169,
-        "author": "Ziebarth"
+        "end": 169,
+        "author": "E. Ziebarth."
       }
     ]
   },
@@ -1181,7 +1185,7 @@
   {
     "lemma": "Elufrius",
     "previous": "ἐκμαρτύρησις",
-    "next": "Enteuxis",
+    "next": "Ἔντευξις",
     "chapters": [
       {
         "start": 175,
@@ -1190,42 +1194,53 @@
     ]
   },
   {
-    "lemma": "Enteuxis",
+    "lemma": "Ἔντευξις",
     "previous": "Elufrius",
-    "next": "Epicharinos",
+    "next": "ἐντολή",
+    "sort_key": "Enteuxis",
+    "proof_read": 2,
+    "short_description": "persönlich überreichte Gesuche, z. B. an den König",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 175,
-        "author": "Ziebarth"
+        "end": 176,
+        "author": "Erich Ziebarth."
       }
     ]
   },
   {
     "lemma": "Epicharinos",
-    "previous": "Enteuxis",
-    "next": "Epiploos",
+    "next": "Ἐπιπλόος",
+    "sort_key": "Epicharinos",
+    "short_description": "Waffenläufer, dessen Statue auf der Akropolis gefunden wurde",
     "chapters": [
       {
-        "start": 175,
-        "author": "Walter"
+        "start": 176,
+        "end": 176,
+        "author": "Otto Walter."
       }
     ]
   },
   {
-    "lemma": "Epiploos",
+    "lemma": "Ἐπιπλόος",
     "previous": "Epicharinos",
     "next": "Episemasiai",
+    "sort_key": "Epiploos",
+    "proof_read": 2,
+    "short_description": "Transportbegleiter, der die ptolemäischen Kornschiffe begleitete",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 175,
-        "author": "Ziebarth"
+        "start": 176,
+        "end": 176,
+        "author": "Erich Ziebarth."
       }
     ]
   },
   {
     "lemma": "Episemasiai",
-    "previous": "Epiploos",
-    "next": "Entole",
+    "previous": "Ἐπιπλόος",
     "chapters": [
       {
         "start": 175,
@@ -1234,19 +1249,23 @@
     ]
   },
   {
-    "lemma": "Entole",
-    "previous": "Episemasiai",
-    "next": "Episkepsis",
+    "lemma": "ἐντολή",
+    "previous": "Ἔντευξις",
+    "next": "Epicharinos",
+    "sort_key": "Entole",
+    "proof_read": 2,
+    "short_description": "persönlich überreichte Gesuche, z. B. an den König",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 176,
-        "author": "Ziebarth"
+        "end": 176,
+        "author": "Erich Ziebarth."
       }
     ]
   },
   {
     "lemma": "Episkepsis",
-    "previous": "Entole",
     "next": "Euf(?)",
     "chapters": [
       {
