@@ -1210,6 +1210,22 @@
     ]
   },
   {
+    "lemma": "ἐντολή",
+    "previous": "Ἔντευξις",
+    "next": "Epicharinos",
+    "sort_key": "Entole",
+    "proof_read": 2,
+    "short_description": "persönlich überreichte Gesuche, z. B. an den König",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 176,
+        "end": 176,
+        "author": "Erich Ziebarth."
+      }
+    ]
+  },
+  {
     "lemma": "Epicharinos",
     "next": "Ἐπιπλόος",
     "sort_key": "Epicharinos",
@@ -1241,42 +1257,41 @@
   {
     "lemma": "Episemasiai",
     "previous": "Ἐπιπλόος",
+    "next": "Episkepsis",
     "chapters": [
       {
         "start": 175,
+        "end": 198,
         "author": "Rehm"
       }
     ]
   },
   {
-    "lemma": "ἐντολή",
-    "previous": "Ἔντευξις",
-    "next": "Epicharinos",
-    "sort_key": "Entole",
-    "proof_read": 2,
-    "short_description": "persönlich überreichte Gesuche, z. B. an den König",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 176,
-        "end": 176,
-        "author": "Erich Ziebarth."
-      }
-    ]
-  },
-  {
     "lemma": "Episkepsis",
-    "next": "Euf(?)",
+    "previous": "Episemasiai",
+    "next": "Erucius",
     "chapters": [
       {
         "start": 198,
+        "end": 198,
         "author": "Kortenbeutel"
       }
     ]
   },
   {
-    "lemma": "Euf(?)",
+    "lemma": "Erucius",
     "previous": "Episkepsis",
+    "next": "Euf(?)",
+    "chapters": [
+      {
+        "start": 199,
+        "author": "Groag."
+      }
+    ]
+  },
+  {
+    "lemma": "Euf(?)",
+    "previous": "Erucius",
     "next": "Fabius 134a",
     "chapters": [
       {
