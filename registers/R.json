@@ -34,7 +34,7 @@
     "next": "Benutzungshinweise (Register)",
     "chapters": [
       {
-        "start": 1,
+        "start": 3,
         "author": "Gärtner."
       }
     ]
@@ -45,7 +45,7 @@
     "next": "Abercius a",
     "chapters": [
       {
-        "start": 1,
+        "start": 4,
         "author": "Gärtner."
       }
     ]
@@ -4182,11 +4182,25 @@
   },
   {
     "lemma": "Kallimachos 6",
-    "previous": "Kallimachos 5a"
+    "previous": "Kallimachos 5a",
+    "next": "Kallimachos 7a",
+    "chapters": [
+      {
+        "start": 140,
+        "end": 140
+      }
+    ]
   },
   {
     "lemma": "Kallimachos 7a",
-    "next": "Kallimachos 9"
+    "previous": "Kallimachos 6",
+    "next": "Kallimachos 9",
+    "chapters": [
+      {
+        "start": 140,
+        "end": 140
+      }
+    ]
   },
   {
     "lemma": "Kallimachos 9",
@@ -4202,11 +4216,18 @@
   },
   {
     "lemma": "Kallimandros",
-    "previous": "Kallimachos 9"
+    "previous": "Kallimachos 9",
+    "next": "Kallipolis 7b",
+    "chapters": [
+      {
+        "start": 140,
+        "end": 140
+      }
+    ]
   },
   {
     "lemma": "Kallipolis 7b",
-    "previous": "Kallimachos 1a",
+    "previous": "Kallimandros",
     "next": "Kallippos 12b",
     "redirect": "Pontos Euxeinos",
     "proof_read": 3,
