@@ -934,7 +934,6 @@
   {
     "lemma": "Egnatius 29a",
     "previous": "Dodekarchen",
-    "next": "Epidius 3a",
     "proof_read": 2,
     "short_description": "E. Priscus, proc. Aug. der Provinz Noricum (um das J. 100 n. Chr.?)",
     "no_creative_height": true,
@@ -948,36 +947,45 @@
   },
   {
     "lemma": "Epidius 3a",
-    "previous": "Egnatius 29a",
-    "next": "Epaphroditos 7",
+    "previous": "Epaphroditos 7",
+    "proof_read": 2,
+    "short_description": "Procurator der Provinz Mauretania Tingitana um 175 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 35,
         "end": 36,
-        "author": "Thomasson"
+        "author": "Bengt E. Thomasson."
       }
     ]
   },
   {
+    "lemma": "Emporiae",
+    "next": "Epaphroditos 7"
+  },
+  {
     "lemma": "Epaphroditos 7",
-    "previous": "Epidius 3a",
-    "next": "Epigrammata Bobiensia",
+    "previous": "Emporiae",
+    "next": "Epidius 3a",
+    "short_description": "Arzt, aus Karthago",
     "chapters": [
       {
         "start": 36,
-        "author": "Kollesch"
+        "end": 36,
+        "author": "Jutta Kollesch."
       }
     ]
   },
   {
     "lemma": "Epigrammata Bobiensia",
-    "previous": "Epaphroditos 7",
     "next": "Epikuros 5",
+    "short_description": "Spätantike Gedichtsammlung.",
+    "wp_link": "w:de:en:Epigrammata Bobiensia",
     "chapters": [
       {
-        "start": 37,
+        "start": 36,
         "end": 64,
-        "author": "Mariotti"
+        "author": "Sc. Mariotti."
       }
     ]
   },
@@ -985,27 +993,50 @@
     "lemma": "Epikuros 5",
     "previous": "Epigrammata Bobiensia",
     "next": "Epion",
+    "proof_read": 2,
+    "short_description": "Arzt aus Pergamon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 64,
-        "author": "Kudlien"
+        "end": 64,
+        "author": "Fr. Kudlien."
       }
     ]
   },
   {
     "lemma": "Epion",
     "previous": "Epikuros 5",
-    "next": "Eudaimonia 4",
+    "next": "Epitalion",
+    "proof_read": 2,
+    "short_description": "s. Epion, Epeion, Aipion.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 64,
-        "author": "Meyer, Ernst"
+        "end": 64,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Epitalion",
+    "previous": "Epion",
+    "next": "Eudaimonia 4",
+    "proof_read": 2,
+    "short_description": "Triphyl. Stadt.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 64,
+        "end": 64,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Eudaimonia 4",
-    "previous": "Epion",
+    "previous": "Epitalion",
     "next": "Euphrantas limen",
     "proof_read": 2,
     "short_description": "Namensbeischrift auf einer Pyxis",
