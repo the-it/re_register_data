@@ -934,6 +934,7 @@
   {
     "lemma": "Egnatius 29a",
     "previous": "Dodekarchen",
+    "next": "Emporiae",
     "proof_read": 2,
     "short_description": "E. Priscus, proc. Aug. der Provinz Noricum (um das J. 100 n. Chr.?)",
     "no_creative_height": true,
@@ -946,22 +947,16 @@
     ]
   },
   {
-    "lemma": "Epidius 3a",
-    "previous": "Epaphroditos 7",
-    "proof_read": 2,
-    "short_description": "Procurator der Provinz Mauretania Tingitana um 175 n. Chr.",
-    "no_creative_height": true,
+    "lemma": "Emporiae",
+    "previous": "Egnatius 29a",
+    "next": "Epaphroditos 7",
     "chapters": [
       {
-        "start": 35,
+        "start": 34,
         "end": 36,
-        "author": "Bengt E. Thomasson."
+        "author": "Gerhard Winkler."
       }
     ]
-  },
-  {
-    "lemma": "Emporiae",
-    "next": "Epaphroditos 7"
   },
   {
     "lemma": "Epaphroditos 7",
@@ -977,7 +972,23 @@
     ]
   },
   {
+    "lemma": "Epidius 3a",
+    "previous": "Epaphroditos 7",
+    "next": "Epigrammata Bobiensia",
+    "proof_read": 2,
+    "short_description": "Procurator der Provinz Mauretania Tingitana um 175 n. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 35,
+        "end": 36,
+        "author": "Bengt E. Thomasson."
+      }
+    ]
+  },
+  {
     "lemma": "Epigrammata Bobiensia",
+    "previous": "Epidius 3a",
     "next": "Epikuros 5",
     "short_description": "Spätantike Gedichtsammlung.",
     "wp_link": "w:de:en:Epigrammata Bobiensia",

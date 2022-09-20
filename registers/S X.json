@@ -4404,34 +4404,6 @@
     ]
   },
   {
-    "lemma": "Epigenes 14a",
-    "next": "Epinikos 2a",
-    "proof_read": 2,
-    "short_description": "E. vom pont. Herakleia, vielfach siegreicher Schauspieler, Sohn des Satorninos.",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 183,
-        "end": 183,
-        "author": "Mario Bonaria."
-      }
-    ]
-  },
-  {
-    "lemma": "Epinikos 2a",
-    "previous": "Epigenes 14a",
-    "proof_read": 2,
-    "short_description": "Viermalig siegreicher Schauspieler bei den Lenaia um das J. 258 v. Chr.",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 183,
-        "end": 183,
-        "author": "Mario Bonaria."
-      }
-    ]
-  },
-  {
     "lemma": "Emboliarius",
     "previous": "Elpinikos",
     "next": "Emmenides",
@@ -4447,7 +4419,7 @@
   {
     "lemma": "Emmenides",
     "previous": "Emboliarius",
-    "next": "Epameinon 3",
+    "next": "Ennychos",
     "proof_read": 2,
     "short_description": "Siegreicher Schauspieler bei den Lenaia um das J. 282 v. Chr.",
     "no_creative_height": true,
@@ -4460,8 +4432,19 @@
     ]
   },
   {
-    "lemma": "Epameinon 3",
+    "lemma": "Ennychos",
     "previous": "Emmenides",
+    "next": "Epameinon 3",
+    "chapters": [
+      {
+        "start": 184
+      }
+    ]
+  },
+  {
+    "lemma": "Epameinon 3",
+    "previous": "Ennychos",
+    "next": "Epigenes 14a",
     "proof_read": 2,
     "short_description": "Mehrfach siegreicher Schauspieler in der 1. H. des 3. Jh. v. Chr.",
     "no_creative_height": true,
@@ -4469,6 +4452,36 @@
       {
         "start": 184,
         "end": 184,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Epigenes 14a",
+    "previous": "Epameinon 3",
+    "next": "Epinikos 2a",
+    "proof_read": 2,
+    "short_description": "E. vom pont. Herakleia, vielfach siegreicher Schauspieler, Sohn des Satorninos.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 183,
+        "end": 183,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Epinikos 2a",
+    "previous": "Epigenes 14a",
+    "next": "Er",
+    "proof_read": 2,
+    "short_description": "Viermalig siegreicher Schauspieler bei den Lenaia um das J. 258 v. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 183,
+        "end": 183,
         "author": "Mario Bonaria."
       }
     ]
