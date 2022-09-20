@@ -6382,7 +6382,7 @@
   {
     "lemma": "Roscius 25a",
     "previous": "Romis",
-    "next": "Rubrenus 1a",
+    "next": "Rubellius 4",
     "proof_read": 2,
     "short_description": "R. Potitus Memmianus vom afrikan. Thibaris, c.v., Sohn der Seia Nr. 24",
     "no_creative_height": true,
@@ -6395,8 +6395,30 @@
     ]
   },
   {
-    "lemma": "Rubrenus 1a",
+    "lemma": "Rubellius 4",
     "previous": "Roscius 25a",
+    "next": "Rubellius 5",
+    "chapters": [
+      {
+        "start": 589,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Rubellius 5",
+    "previous": "Rubellius 4",
+    "next": "Rubrenus 1a",
+    "chapters": [
+      {
+        "start": 589,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Rubrenus 1a",
+    "previous": "Rubellius 5",
     "next": "Rubrenus 1b",
     "chapters": [
       {
@@ -6419,6 +6441,7 @@
   {
     "lemma": "Rubrius 15a",
     "previous": "Rubrenus 1b",
+    "next": "Rubrius 22a",
     "chapters": [
       {
         "start": 589,
@@ -6428,7 +6451,7 @@
   },
   {
     "lemma": "Rubrius 22a",
-    "previous": "Rubrenus 1b",
+    "previous": "Rubrius 15a",
     "next": "Rufius 23a",
     "proof_read": 2,
     "short_description": "C. R. (Vinicius?) Porcius Marcellus, Statthalter der Provinz Thracia",
@@ -7677,6 +7700,7 @@
   {
     "lemma": "Timesios 1",
     "previous": "Tiara",
+    "next": "Timesios 2",
     "chapters": [
       {
         "start": 796,
@@ -7686,8 +7710,8 @@
   },
   {
     "lemma": "Timesios 2",
-    "previous": "Thoas 11",
-    "next": "Thukydides 1",
+    "previous": "Timesios 1",
+    "next": "Timotheos 7a",
     "proof_read": 2,
     "short_description": "T. von Sybaris, pythagor. Philosoph",
     "no_creative_height": true,
@@ -7701,6 +7725,7 @@
   },
   {
     "lemma": "Timotheos 7a",
+    "previous": "Timesios 2",
     "next": "Timotheos 7b",
     "chapters": [
       {
@@ -7769,14 +7794,15 @@
     "next": "Torquata 2",
     "chapters": [
       {
-        "start": 799
+        "start": 799,
+        "author": "Eckart Olshausen."
       }
     ]
   },
   {
     "lemma": "Torquata 2",
     "previous": "Tlepolemos 6a",
-    "next": "Trebonius 12a",
+    "next": "Totila",
     "proof_read": 2,
     "short_description": "Gattin des L. Pomponius (S XIV 438 Nr.38a) Bassus, Mutter des L. Pomponius (S XIV 438 Nr.39a?) Bassus Cascus Scribonianus",
     "no_creative_height": true,
@@ -7790,6 +7816,7 @@
   },
   {
     "lemma": "Totila",
+    "previous": "Torquata 2",
     "next": "Trebius 4",
     "chapters": [
       {
@@ -7802,6 +7829,7 @@
   {
     "lemma": "Trebius 4",
     "previous": "Totila",
+    "next": "Trebonius 12a",
     "chapters": [
       {
         "start": 809,
@@ -7811,7 +7839,8 @@
   },
   {
     "lemma": "Trebonius 12a",
-    "previous": "Torquata 2",
+    "previous": "Trebius 4",
+    "next": "Triarius 6",
     "proof_read": 2,
     "short_description": "P. T., cos. suff. im J. 53 n. Chr., Vorfahre des Appius Annius",
     "no_creative_height": true,
@@ -7825,8 +7854,8 @@
   },
   {
     "lemma": "Triarius 6",
-    "previous": "Troia 1",
-    "next": "Tullius 24a",
+    "previous": "Trebonius 12a",
+    "next": "Tripodiskos",
     "proof_read": 2,
     "short_description": "Triaria Ignatia Lucilla, c.f.",
     "no_creative_height": true,
@@ -7840,6 +7869,7 @@
   },
   {
     "lemma": "Tripodiskos",
+    "previous": "Triarius 6",
     "next": "Troia 1",
     "chapters": [
       {
