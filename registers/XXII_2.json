@@ -4146,7 +4146,7 @@
   {
     "lemma": "Prisca 2",
     "previous": "Prisca 1",
-    "next": "Prisca 3ff.",
+    "next": "Prisca 3",
     "chapters": [
       {
         "start": 2325,
@@ -4156,10 +4156,22 @@
     ]
   },
   {
-    "lemma": "Prisca 3ff.",
+    "lemma": "Prisca 3",
     "previous": "Prisca 2",
+    "next": "Prisca 3ff.",
+    "chapters": [
+      {
+        "start": 2327,
+        "end": 2328,
+        "author": "Meinhold"
+      }
+    ]
+  },
+  {
+    "lemma": "Prisca 3ff.",
+    "previous": "Prisca 3",
     "next": "Priscianus 1",
-    "sort_key": "Prisca 2z",
+    "sort_key": "Prisca 3z",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -4514,7 +4526,7 @@
   {
     "lemma": "Praylos",
     "previous": "Prasii",
-    "next": "Prisca 3",
+    "next": "Prisca 4",
     "chapters": [
       {
         "start": 2559,
@@ -4524,19 +4536,8 @@
     ]
   },
   {
-    "lemma": "Prisca 3",
-    "previous": "Praylos",
-    "next": "Prisca 4",
-    "chapters": [
-      {
-        "start": 2560,
-        "author": "Enßlin"
-      }
-    ]
-  },
-  {
     "lemma": "Prisca 4",
-    "previous": "Prisca 3",
+    "previous": "Praylos",
     "next": "Prisca 5",
     "chapters": [
       {
@@ -4548,6 +4549,17 @@
   {
     "lemma": "Prisca 5",
     "previous": "Prisca 4",
+    "next": "Prisca 6",
+    "chapters": [
+      {
+        "start": 2560,
+        "author": "Enßlin"
+      }
+    ]
+  },
+  {
+    "lemma": "Prisca 6",
+    "previous": "Prisca 5",
     "chapters": [
       {
         "start": 2560,
