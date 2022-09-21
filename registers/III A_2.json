@@ -350,7 +350,7 @@
   {
     "lemma": "Spatale 2",
     "previous": "Spatale 1",
-    "next": "Spatana",
+    "next": "Spatale 3",
     "chapters": [
       {
         "start": 1544,
@@ -359,8 +359,19 @@
     ]
   },
   {
-    "lemma": "Spatana",
+    "lemma": "Spatale 3",
     "previous": "Spatale 2",
+    "next": "Spatana",
+    "chapters": [
+      {
+        "start": 1544,
+        "author": "Bubbe"
+      }
+    ]
+  },
+  {
+    "lemma": "Spatana",
+    "previous": "Spatale 3",
     "next": "Spatha",
     "proof_read": 2,
     "short_description": "Ort",
@@ -2201,17 +2212,29 @@
   {
     "lemma": "Spodios",
     "previous": "Splonum",
-    "next": "Spoletium",
+    "next": "Spoletinon",
     "chapters": [
       {
         "start": 1841,
+        "end": 1842,
         "author": "Kock"
       }
     ]
   },
   {
-    "lemma": "Spoletium",
+    "lemma": "Spoletinon",
     "previous": "Spodios",
+    "next": "Spoletium",
+    "chapters": [
+      {
+        "start": 1842,
+        "author": "Schulten."
+      }
+    ]
+  },
+  {
+    "lemma": "Spoletium",
+    "previous": "Spoletinon",
     "next": "Spolettinon",
     "chapters": [
       {
