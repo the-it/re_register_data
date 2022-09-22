@@ -2999,13 +2999,13 @@
   {
     "lemma": "Pythion 2",
     "previous": "Pythion 1",
-    "next": "Pythionike",
+    "next": "Pythion 3",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
       {
-        "start": 563,
-        "end": 563
+        "start": 554,
+        "end": 558
       }
     ]
   },
@@ -3107,7 +3107,7 @@
   {
     "lemma": "Pythion 11",
     "previous": "Pythion 10",
-    "next": "Pythionia",
+    "next": "Pythion 12",
     "chapters": [
       {
         "start": 563,
@@ -3116,8 +3116,29 @@
     ]
   },
   {
-    "lemma": "Pythionia",
+    "lemma": "Pythion 12",
     "previous": "Pythion 11",
+    "next": "Pythion 13",
+    "chapters": [
+      {
+        "start": 563
+      }
+    ]
+  },
+  {
+    "lemma": "Pythion 13",
+    "previous": "Pythion 12",
+    "next": "Pythionia",
+    "chapters": [
+      {
+        "start": 563,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Pythionia",
+    "previous": "Pythion 13",
     "next": "Pythionikai",
     "chapters": [
       {
@@ -3129,7 +3150,7 @@
   {
     "lemma": "Pythionikai",
     "previous": "Pythionia",
-    "next": "Pythion PN 1",
+    "next": "Pythionike",
     "chapters": [
       {
         "start": 563,
@@ -3139,32 +3160,8 @@
     ]
   },
   {
-    "lemma": "Pythion PN 1",
-    "previous": "Pythionikai",
-    "next": "Pythion PN 2",
-    "chapters": [
-      {
-        "start": 563,
-        "author": "Gärtner"
-      }
-    ]
-  },
-  {
-    "lemma": "Pythion PN 2",
-    "previous": "Pythion PN 1",
-    "next": "Pythionike",
-    "redirect": true,
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 563,
-        "end": 563
-      }
-    ]
-  },
-  {
     "lemma": "Pythionike",
-    "previous": "Pythion PN 2",
+    "previous": "Pythionikai",
     "next": "Pythios 1",
     "chapters": [
       {
@@ -8418,7 +8415,7 @@
   {
     "lemma": "Pytharchos 2",
     "previous": "Pytharchos 1",
-    "next": "Pythion 2",
+    "next": "Pythion 12",
     "proof_read": 2,
     "short_description": "von Mantineia, Sieger im Stadionlauf zu Olympia",
     "no_creative_height": true,
@@ -8431,7 +8428,7 @@
     ]
   },
   {
-    "lemma": "Pythion 2",
+    "lemma": "Pythion 12",
     "previous": "Pytharchos 2",
     "next": "Πυθὶς ἄκρα",
     "sort_key": "Pythionpn 2",
@@ -8447,7 +8444,7 @@
   },
   {
     "lemma": "Πυθὶς ἄκρα",
-    "previous": "Pythion 2",
+    "previous": "Pythion 12",
     "next": "quinta essentia",
     "chapters": [
       {
