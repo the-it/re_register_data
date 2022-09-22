@@ -182,7 +182,7 @@
     "previous": "Aelius 33a",
     "next": "Aelius 67a",
     "sort_key": "Aelius 042b",
-    "short_description": "Pop. Ailios Kreispos, Pantomime (in antonin. Zeit ?)",
+    "short_description": "Pop. Ailios Kreispos, Pantomime (in antoninischer Zeit ?)",
     "chapters": [
       {
         "start": 4,
@@ -651,7 +651,7 @@
     "lemma": "Alba 2a",
     "previous": "Alba 2",
     "next": "Alexandros 39",
-    "short_description": "Nebenform für Albis, germ. Fluß",
+    "short_description": "Nebenform für Albis, germanischer Fluß, heute Elbe",
     "chapters": [
       {
         "start": 8,
@@ -4437,9 +4437,13 @@
     "lemma": "Ennychos",
     "previous": "Emmenides",
     "next": "Epameinon 3",
+    "redirect": "Flavius 81a",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 184
+        "start": 184,
+        "end": 184
       }
     ]
   },
@@ -6035,8 +6039,10 @@
     "previous": "Kallikrates 8b",
     "next": "Kallipides 2",
     "proof_read": 2,
-    "short_description": "s. 9)",
+    "short_description": "aus Sikyon, tragischer oder komischer Schauspieler, Sohn des Menophilos",
     "no_creative_height": true,
+    "wp_link": "w:de:Kallimachos (Schauspieler)",
+    "wd_link": "d:Q113953374",
     "chapters": [
       {
         "start": 345,
@@ -6048,7 +6054,7 @@
   {
     "lemma": "Kallipides 2",
     "previous": "Kallimachos 1a",
-    "next": "Kallippos 12a",
+    "next": "Kallipos 12a",
     "proof_read": 2,
     "no_creative_height": true,
     "wp_link": "w:ca:Cal·lípides",
@@ -6062,8 +6068,11 @@
     ]
   },
   {
+    "lemma": "Kallipos 12a",
+    "previous": "Kallipides 2"
+  },
+  {
     "lemma": "Kallippos 12a",
-    "previous": "Kallipides 2",
     "next": "Kallippos 13b",
     "chapters": [
       {

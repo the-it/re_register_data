@@ -1474,6 +1474,7 @@
   {
     "lemma": "Karneades 1",
     "previous": "Karkinos 5",
+    "next": "Kauaroi",
     "chapters": [
       {
         "start": 853,
@@ -1958,7 +1959,7 @@
     "previous": "Patrokleides 3",
     "next": "Peiales",
     "proof_read": 2,
-    "short_description": "von Epidauros 225 v. Chr.",
+    "short_description": "aus Epidauros 225 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -2034,6 +2035,7 @@
     "proof_read": 2,
     "short_description": "Griechischer Grammatiker, Verfasser einer Witzsammlung, s. Philogelos",
     "no_creative_height": true,
+    "wd_link": "d:Q24951228",
     "chapters": [
       {
         "start": 1061,
@@ -2885,7 +2887,7 @@
   {
     "lemma": "Zengisa",
     "previous": "Zenertis",
-    "next": "Cornelius 395",
+    "next": "Zeugisa",
     "redirect": "Zangenae",
     "proof_read": 2,
     "chapters": [
@@ -2896,8 +2898,11 @@
     ]
   },
   {
+    "lemma": "Zeugisa",
+    "previous": "Zengisa"
+  },
+  {
     "lemma": "Cornelius 395",
-    "previous": "Zengisa",
     "next": "Maes Titianus",
     "wp_link": "w:de:Tacitus",
     "ws_link": "s:de:Tacitus",
