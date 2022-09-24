@@ -19934,7 +19934,7 @@
   {
     "lemma": "Egnatius 7a",
     "previous": "Egirca",
-    "next": "Εἰρηνάρχαι",
+    "next": "Eirenarchai",
     "proof_read": 2,
     "short_description": "C. E., in amtlicher Funktion(?) in Kleinasien um das J. 74 v. Chr.",
     "chapters": [
@@ -19946,7 +19946,7 @@
     ]
   },
   {
-    "lemma": "Εἰρηνάρχαι",
+    "lemma": "Eirenarchai",
     "previous": "Egnatius 7a",
     "next": "Εἰρηνικοὶ ἄνδρες",
     "sort_key": "Eirenarchai",
@@ -19962,7 +19962,7 @@
   },
   {
     "lemma": "Εἰρηνικοὶ ἄνδρες",
-    "previous": "Εἰρηνάρχαι",
+    "previous": "Eirenarchai",
     "next": "Eirenis",
     "sort_key": "Eirenikoiandres",
     "redirect": "Εἰρηνοφύλακες",
@@ -20206,7 +20206,7 @@
     "lemma": "Elpinike 1a",
     "previous": "Eluissa",
     "next": "Emeia",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Ostlokr. Priesterin der Demeter und Kore.",
     "chapters": [
       {
@@ -20339,7 +20339,7 @@
     "previous": "Epaphroditos 6a",
     "next": "Ἔφεδρος 2",
     "proof_read": 3,
-    "short_description": "Hieros im ostlokr. Halai um die J. 260-250 v. Chr.",
+    "short_description": "Hieros im ostlokr. Halai um die J. 260–250 v. Chr.",
     "chapters": [
       {
         "start": 430,
@@ -20352,8 +20352,9 @@
     "lemma": "Ἔφεδρος 2",
     "previous": "Eparmostos",
     "next": "Epicharmos 3",
+    "sort_key": "Ephedros 2",
     "proof_read": 3,
-    "short_description": "athenischer Bildhauer",
+    "short_description": "Ephedros, athenischer Bildhauer",
     "no_creative_height": true,
     "wp_link": "w:de:Ephedros (Bildhauer)",
     "wd_link": "d:Q20656194",
@@ -20382,7 +20383,6 @@
   {
     "lemma": "Epicharmos 4",
     "previous": "Epicharmos 3",
-    "next": "Ἐπίχυσις",
     "proof_read": 2,
     "no_creative_height": true,
     "chapters": [
@@ -20395,7 +20395,7 @@
   },
   {
     "lemma": "Ἐπίχυσις",
-    "previous": "Epicharmos 4",
+    "previous": "Epicharmos 3",
     "next": "Ἐπίδαμιοργός",
     "proof_read": 2,
     "no_creative_height": true,
@@ -20509,7 +20509,8 @@
     "lemma": "Epigonos 9",
     "previous": "Epigonos 8",
     "next": "Epigonos 10",
-    "proof_read": 2,
+    "sort_key": "Epigonos 09",
+    "proof_read": 3,
     "short_description": "Lakedaimon. Philosoph.",
     "no_creative_height": true,
     "chapters": [
@@ -20554,7 +20555,7 @@
     "lemma": "Epikados 2",
     "previous": "Epikados 1",
     "next": "Epikles 4a",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Partherführer im J. 168 v. Chr.",
     "no_creative_height": true,
     "chapters": [
@@ -24684,45 +24685,79 @@
   {
     "lemma": "Hebryzelmis",
     "previous": "Hebasisthenes",
-    "next": "Hedypotis",
+    "next": "Heddernheim",
+    "short_description": "König der Odryser in den J. 387-383 v. Chr.",
+    "wp_link": "w:de:en:Hebryzelmis",
     "chapters": [
       {
         "start": 890,
         "end": 891,
-        "author": "Kazarow"
+        "author": "Kazarow."
       }
     ]
   },
   {
-    "lemma": "Hedypotis",
+    "lemma": "Heddernheim",
     "previous": "Hebryzelmis",
+    "next": "Hedypotis"
+  },
+  {
+    "lemma": "Hedypotis",
+    "previous": "Heddernheim",
     "next": "Hegemon a",
+    "proof_read": 2,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 891,
-        "author": "Frankenstein"
+        "end": 891,
+        "author": "Frankenstein."
       }
     ]
   },
   {
     "lemma": "Hegemon a",
     "previous": "Hedypotis",
-    "next": "Heiligenbronn",
+    "next": "Hegesaretos",
+    "proof_read": 2,
+    "short_description": "Epiklese des Gottes Iakchos in Eleusis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 891,
-        "author": "Kern"
+        "end": 891,
+        "author": "Kern."
+      }
+    ]
+  },
+  {
+    "lemma": "Hegesaretos",
+    "previous": "Hegemon a",
+    "next": "Heiligenbronn",
+    "redirect": "Hagesaretos",
+    "proof_read": 2,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 891,
+        "end": 891,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Heiligenbronn",
-    "previous": "Hegemon a",
+    "previous": "Hegesaretos",
     "next": "Hekataios 1a",
+    "proof_read": 2,
+    "short_description": "Lothring. Stätte eines vorröm. heiligen Brunnens",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 891,
-        "author": "Keune"
+        "end": 891,
+        "author": "Keune."
       }
     ]
   },
@@ -24730,20 +24765,26 @@
     "lemma": "Hekataios 1a",
     "previous": "Heiligenbronn",
     "next": "Hekate",
+    "short_description": "Tyrann von Kardia im 4. Jhdt. v. Chr.",
     "chapters": [
       {
-        "start": 892,
+        "start": 891,
         "end": 892,
-        "author": "Stähelin"
+        "author": "Stähelin."
       }
     ]
   },
   {
     "lemma": "Hekate",
+    "previous": "Hekataios 1a",
     "next": "Helena 1",
+    "proof_read": 2,
+    "short_description": "Hekate, griechische Gottheit",
+    "wp_link": "w:de:Hekate",
+    "wd_link": "d:Q131575",
     "chapters": [
       {
-        "start": 891,
+        "start": 892,
         "end": 892,
         "author": "Keune."
       }

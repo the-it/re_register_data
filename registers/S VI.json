@@ -4522,10 +4522,14 @@
     "lemma": "Regio Scodrihe(n)sis",
     "previous": "Raparia 2",
     "next": "Rhamnusium",
+    "proof_read": 2,
+    "short_description": "vermutlich Örtlichkeit in Dakien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 643,
-        "author": "Fluss"
+        "end": 643,
+        "author": "Max Fluss."
       }
     ]
   },
@@ -4547,11 +4551,13 @@
     "lemma": "Rhyton",
     "previous": "Rhamnusium",
     "next": "Rinubio",
+    "short_description": "Bezeichnung für ein Trinkgefäß",
+    "wp_link": "w:de:Rhyton",
     "chapters": [
       {
         "start": 643,
         "end": 646,
-        "author": "Lorentz"
+        "author": "v. Lorentz."
       }
     ]
   },
@@ -4587,9 +4593,14 @@
     "lemma": "Romanianus",
     "previous": "Rocobae",
     "next": "Rufus 18a",
+    "proof_read": 2,
+    "short_description": "R. von Thagaste, Gönner des Augustinus, Vater des Licentius (XIII 204)",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 646
+        "start": 646,
+        "end": 646,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -4597,27 +4608,34 @@
     "lemma": "Rufus 18a",
     "previous": "Romanianus",
     "next": "Rusbeas",
+    "sort_key": "Rufus 18a",
+    "short_description": "jüdischer Arzt zur Zeit von Galen",
     "chapters": [
       {
         "start": 646,
-        "author": "Edelstein"
+        "end": 646,
+        "author": "Ludwig Edelstein."
       }
     ]
   },
   {
     "lemma": "Rusbeas",
     "previous": "Rufus 18a",
-    "next": "Sandanos",
+    "next": "Σάνδανος",
+    "sort_key": "Rufus 18a",
+    "proof_read": 2,
+    "short_description": "Kap an der Ostküste des Mare Germanicum",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 646,
         "end": 647,
-        "author": "Franke"
+        "author": "Alfred Franke."
       }
     ]
   },
   {
-    "lemma": "Sandanos",
+    "lemma": "Σάνδανος",
     "previous": "Rusbeas",
     "next": "Σαννάκρα",
     "chapters": [
@@ -4629,7 +4647,7 @@
   },
   {
     "lemma": "Σαννάκρα",
-    "previous": "Sandanos",
+    "previous": "Σάνδανος",
     "next": "Sapaioi",
     "sort_key": "Sannakra",
     "proof_read": 2,
