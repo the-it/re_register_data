@@ -20248,7 +20248,6 @@
   {
     "lemma": "Empusa 2",
     "previous": "Empusa",
-    "next": "Ἐμπυρομάντεις",
     "proof_read": 3,
     "short_description": "Spitzname von Aischines' Mutter Glaukothea Nr.2",
     "no_creative_height": true,
@@ -20262,8 +20261,9 @@
   },
   {
     "lemma": "Ἐμπυρομάντεις",
-    "previous": "Empusa 2",
+    "previous": "Empusa",
     "next": "Ennius 3a",
+    "sort_key": "Empyromanteis",
     "redirect": "Λιβανομαντεία",
     "proof_read": 3,
     "no_creative_height": true,
@@ -20483,9 +20483,13 @@
     "lemma": "Ἐπιγνώμονες",
     "previous": "Ἐπὶ τῶν προσόδων (ὁ)",
     "next": "Epigonos 8",
+    "sort_key": "Epignomones",
+    "redirect": true,
+    "proof_read": 2,
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 432,
+        "start": 434,
         "end": 434,
         "author": "Schultheß."
       }
@@ -20496,7 +20500,6 @@
     "previous": "Ἐπιγνώμονες",
     "next": "Epigonos 9",
     "sort_key": "Epignos 08",
-    "short_description": "E. von Pergamon, Bildhauer in hellenist. Zt.",
     "chapters": [
       {
         "start": 434,
@@ -24057,7 +24060,7 @@
     "previous": "Gongius",
     "next": "Gordiana",
     "proof_read": 3,
-    "short_description": "Mädchenname bei Martial 3,84",
+    "short_description": "Mädchen bei Martial",
     "chapters": [
       {
         "start": 796,
@@ -24672,7 +24675,7 @@
     "lemma": "Hebasisthenes",
     "previous": "Haterius 3a",
     "next": "Hebryzelmis",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Rhabdophore im boiot. Bumelitaia im 1. Jh. n. Chr.",
     "chapters": [
       {

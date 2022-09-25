@@ -3353,7 +3353,7 @@
   {
     "lemma": "prodromos 1",
     "previous": "Prodromoi",
-    "next": "prodromos 2",
+    "next": "πρόδρομος 2",
     "chapters": [
       {
         "start": 102,
@@ -3363,21 +3363,23 @@
     ]
   },
   {
-    "lemma": "prodromos 2",
+    "lemma": "πρόδρομος 2",
     "previous": "prodromos 1",
     "next": "Proechios",
-    "redirect": true,
     "proof_read": 2,
+    "short_description": "Süßwein, Most",
+    "wp_link": "w:de:Most (Getränk)",
     "chapters": [
       {
-        "start": 104,
-        "end": 104
+        "start": 1284,
+        "end": 1284,
+        "author": "Aug. Hug."
       }
     ]
   },
   {
     "lemma": "Proechios",
-    "previous": "prodromos 2",
+    "previous": "πρόδρομος 2",
     "next": "Proegetai theoi",
     "chapters": [
       {
@@ -10644,12 +10646,14 @@
   },
   {
     "lemma": "πρόδρομος 2",
-    "previous": "prodikos",
-    "next": "Prokles 18",
+    "previous": "prodromos 1",
+    "next": "Proechios",
+    "redirect": true,
+    "proof_read": 2,
     "chapters": [
       {
-        "start": 1284,
-        "author": "Hug"
+        "start": 104,
+        "end": 104
       }
     ]
   },
@@ -10680,7 +10684,7 @@
   {
     "lemma": "Promathos",
     "previous": "Proklos 5a",
-    "next": "Prometheios",
+    "next": "Προμήθειος",
     "chapters": [
       {
         "start": 1285,
@@ -10690,19 +10694,24 @@
     ]
   },
   {
-    "lemma": "Prometheios",
+    "lemma": "Προμήθειος",
     "previous": "Promathos",
     "next": "Prometheus 2",
+    "sort_key": "Prometheios",
+    "proof_read": 2,
+    "short_description": "Zugehörigkeitsbezeichnung zu einem Geschlecht in Kolophon-Notion.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1286,
-        "author": "Keil"
+        "end": 1286,
+        "author": "J. Keil."
       }
     ]
   },
   {
     "lemma": "Prometheus 2",
-    "previous": "Prometheios",
+    "previous": "Προμήθειος",
     "next": "Prometheus 3",
     "chapters": [
       {
