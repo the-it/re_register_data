@@ -949,11 +949,13 @@
     "lemma": "Emporiae",
     "previous": "Egnatius 29a",
     "next": "Epaphroditos 7",
+    "wp_link": "w:de:Empúries",
+    "wd_link": "d:Q1229367",
     "chapters": [
       {
         "start": 34,
         "end": 36,
-        "author": "Gerhard Winkler."
+        "author": "Robert Grosse."
       }
     ]
   },
@@ -2801,17 +2803,34 @@
   {
     "lemma": "Principia 1a",
     "previous": "Principia 1",
-    "next": "Proeisphora",
+    "next": "proditio",
+    "proof_read": 2,
+    "short_description": "Gesamtbenennung für Centurionen und principales, die in den p. ihre Versammlungsräume hatten",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1222,
-        "author": "Schleiermacher"
+        "end": 1222,
+        "author": "W. Schleiermacher."
+      }
+    ]
+  },
+  {
+    "lemma": "proditio",
+    "previous": "Principia 1a",
+    "next": "Proeisphora",
+    "short_description": "Landes- und Kriegsverrat im römischen Strafrecht",
+    "chapters": [
+      {
+        "start": 1221,
+        "end": 1230,
+        "author": "Manfred Fuhrmann."
       }
     ]
   },
   {
     "lemma": "Proeisphora",
-    "previous": "Principia 1a",
+    "previous": "proditio",
     "next": "prolatio iudicii 1",
     "chapters": [
       {
