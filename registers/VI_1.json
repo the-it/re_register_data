@@ -327,8 +327,8 @@
     "lemma": "Ephyros",
     "previous": "Ephyre 9",
     "next": "Epiales",
-    "proof_read": 2,
-    "short_description": "(Ἔφυρος), eponymer Heros der epeirotischen Stadt Ephyra. Sohn des Thesproters",
+    "proof_read": 3,
+    "short_description": "(Ἔφυρος), eponymer Heros der epeirotischen Stadt Ephyra.",
     "chapters": [
       {
         "start": 21,
@@ -414,7 +414,7 @@
     "previous": "Epibatae 2",
     "next": "Epibaterios",
     "sort_key": "Epibatai",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Bezeichnung für Kamelreiter",
     "chapters": [
       {
@@ -442,8 +442,8 @@
     "lemma": "Epibates",
     "previous": "Epibaterios",
     "next": "Epibemios",
-    "proof_read": 2,
-    "short_description": "(Ἐπιβάτες, d. h. Ἐπιβάται Acta et Diplom. gr. ed. Fr. Miklonsich et J. Müller",
+    "proof_read": 3,
+    "short_description": "Örtlichkeit auf der Insel Rhodos gegenüber der Insel Chalke",
     "chapters": [
       {
         "start": 28,
@@ -895,11 +895,13 @@
     "lemma": "Epidauros 2",
     "previous": "Epidauros 1",
     "next": "Epidauros 3",
+    "short_description": "Epidauros Limera, Stadt an der Ostküste Lakoniens",
+    "wp_link": "w:de:en:Epidaurus Limera",
     "chapters": [
       {
         "start": 50,
         "end": 51,
-        "author": "Philippson"
+        "author": "Philippson."
       }
     ]
   },
@@ -921,8 +923,9 @@
     "lemma": "Epidauros 4",
     "previous": "Epidauros 3",
     "next": "Epidaurum",
-    "proof_read": 2,
-    "short_description": "Olympionike aus Alexandria",
+    "proof_read": 3,
+    "short_description": "Olympionike aus Alexandria um 137 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 51,
@@ -934,17 +937,21 @@
   {
     "lemma": "Epidaurum",
     "previous": "Epidauros 4",
-    "next": "Epideixis",
+    "next": "Ἐπίδειξις",
+    "proof_read": 2,
+    "short_description": "Epidaurum -> Ragusa vecchia ->jetzt Cavtat in Kroatien",
+    "no_creative_height": true,
+    "wp_link": "w:de:Cavtat",
     "chapters": [
       {
         "start": 51,
         "end": 53,
-        "author": "Patsch"
+        "author": "Patsch."
       }
     ]
   },
   {
-    "lemma": "Epideixis",
+    "lemma": "Ἐπίδειξις",
     "previous": "Epidaurum",
     "next": "Ἐπιδέκατον",
     "chapters": [
@@ -957,7 +964,7 @@
   },
   {
     "lemma": "Ἐπιδέκατον",
-    "previous": "Epideixis",
+    "previous": "Ἐπίδειξις",
     "next": "Epidelion",
     "sort_key": "Epidekaton",
     "proof_read": 2,
