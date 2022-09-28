@@ -242,8 +242,10 @@
     "lemma": "Ephyre 4",
     "previous": "Ephyre 3",
     "next": "Ephyre 5",
-    "short_description": "Ort in der Sikyonia",
-    "wp_link": "w:de:Ort in Aitolien",
+    "proof_read": 2,
+    "short_description": "Insel bei Melos, heute Erimomilo",
+    "no_creative_height": true,
+    "wp_link": "w:de:Andimilos",
     "chapters": [
       {
         "start": 20,
@@ -937,7 +939,7 @@
   {
     "lemma": "Epidaurum",
     "previous": "Epidauros 4",
-    "next": "Ἐπίδειξις",
+    "next": "Epideixis",
     "proof_read": 2,
     "short_description": "Epidaurum -> Ragusa vecchia ->jetzt Cavtat in Kroatien",
     "no_creative_height": true,
@@ -951,20 +953,25 @@
     ]
   },
   {
-    "lemma": "Ἐπίδειξις",
+    "lemma": "Epideixis",
     "previous": "Epidaurum",
     "next": "Ἐπιδέκατον",
+    "sort_key": "Epideixis",
+    "proof_read": 2,
+    "short_description": "Vorführung v. Kunst-Erzeugnissen zur Prüfung der Brauchbarkeit",
+    "no_creative_height": true,
+    "wp_link": "w:de:Epideixis",
     "chapters": [
       {
         "start": 53,
         "end": 56,
-        "author": "Schmid"
+        "author": "W. Schmid."
       }
     ]
   },
   {
     "lemma": "Ἐπιδέκατον",
-    "previous": "Ἐπίδειξις",
+    "previous": "Epideixis",
     "next": "Epidelion",
     "sort_key": "Epidekaton",
     "proof_read": 2,
@@ -981,10 +988,13 @@
     "lemma": "Epidelion",
     "previous": "Ἐπιδέκατον",
     "next": "Epidelios",
+    "short_description": "Vorgebirge an der Ostküste von Lakonien",
+    "wp_link": "w:de:en:Epidelium",
     "chapters": [
       {
         "start": 56,
-        "author": "Philippson"
+        "end": 56,
+        "author": "Philippson."
       }
     ]
   },
@@ -1006,10 +1016,13 @@
     "lemma": "Epidemia 1",
     "previous": "Epidelios",
     "next": "Epidemia 2",
+    "proof_read": 2,
+    "short_description": "das Erscheinen eines Gottes an einem Ort",
     "chapters": [
       {
         "start": 57,
-        "author": "Hiller von Gaertringen"
+        "end": 57,
+        "author": "Hiller v. Gärtringen."
       }
     ]
   },
@@ -1087,7 +1100,7 @@
   {
     "lemma": "Ἐπιδιαθήκη 2",
     "previous": "Ἐπιδιαθήκη 1",
-    "next": "Epidikos",
+    "next": "Ἐπίδικος",
     "sort_key": "Epidiatheke 2",
     "proof_read": 2,
     "short_description": "Unterpfand bei einem Versprechen",
@@ -1100,25 +1113,31 @@
     ]
   },
   {
-    "lemma": "Epidikos",
+    "lemma": "Ἐπίδικος",
     "previous": "Ἐπιδιαθήκη 2",
     "next": "Epidium",
+    "sort_key": "Epidikos",
+    "proof_read": 2,
+    "short_description": "Einspruchsmöglichkeit bei Abweichung von gesetzlicher Erbfolge",
     "chapters": [
       {
         "start": 57,
         "end": 58,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Epidium",
-    "previous": "Epidikos",
+    "previous": "Ἐπίδικος",
     "next": "Epidius 1",
+    "proof_read": 2,
+    "short_description": "unbekannte Völkerschaft im Westen von Britannien",
     "chapters": [
       {
         "start": 58,
-        "author": "Hübner"
+        "end": 58,
+        "author": "Hübner."
       }
     ]
   },
@@ -1126,11 +1145,13 @@
     "lemma": "Epidius 1",
     "previous": "Epidium",
     "next": "Epidius 2",
+    "proof_read": 2,
+    "short_description": "Flussgott des Sarnus in Campanien",
     "chapters": [
       {
         "start": 58,
         "end": 59,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -1138,10 +1159,14 @@
     "lemma": "Epidius 2",
     "previous": "Epidius 1",
     "next": "Epidius 3",
+    "proof_read": 2,
+    "short_description": "römischer Rhetor aus der ersten Hälfte des 1. Jhdts. v. Chr.",
+    "wp_link": "w:de:en:Epidius",
     "chapters": [
       {
         "start": 59,
-        "author": "Brzoska"
+        "end": 59,
+        "author": "Brzoska."
       }
     ]
   },
@@ -1162,7 +1187,7 @@
   {
     "lemma": "Epidius 4",
     "previous": "Epidius 3",
-    "next": "Epidosis",
+    "next": "Ἐπίδοσις",
     "proof_read": 2,
     "short_description": "Titius Aquilinus, L. cos. 125 n. Chr.",
     "chapters": [
@@ -1174,25 +1199,31 @@
     ]
   },
   {
-    "lemma": "Epidosis",
+    "lemma": "Ἐπίδοσις",
     "previous": "Epidius 4",
     "next": "Epidotes, Epidotai",
+    "sort_key": "Epidosis",
+    "proof_read": 2,
+    "short_description": "Freiwillige Beiträge zur Unterstützung des Staates",
     "chapters": [
       {
         "start": 60,
-        "author": "Boerner"
+        "end": 60,
+        "author": "Boerner."
       }
     ]
   },
   {
     "lemma": "Epidotes, Epidotai",
-    "previous": "Epidosis",
+    "previous": "Ἐπίδοσις",
     "next": "Epidotium",
+    "proof_read": 2,
+    "short_description": "Götterbeiname",
     "chapters": [
       {
         "start": 60,
         "end": 61,
-        "author": "Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -1200,10 +1231,13 @@
     "lemma": "Epidotium",
     "previous": "Epidotes, Epidotai",
     "next": "Epidykos",
+    "proof_read": 2,
+    "short_description": "liburnischer Ort in Dalmatien",
     "chapters": [
       {
         "start": 61,
-        "author": "Patsch"
+        "end": 61,
+        "author": "Patsch."
       }
     ]
   },
@@ -1211,10 +1245,13 @@
     "lemma": "Epidykos",
     "previous": "Epidotium",
     "next": "Epieikia",
+    "proof_read": 2,
+    "short_description": "Sohn des Daïklos, dem Philaïdengeschlecht zugehörig",
     "chapters": [
       {
         "start": 61,
-        "author": "Tümpel"
+        "end": 61,
+        "author": "Tümpel."
       }
     ]
   },
@@ -1222,10 +1259,14 @@
     "lemma": "Epieikia",
     "previous": "Epidykos",
     "next": "Epieikidai",
+    "proof_read": 2,
+    "short_description": "Castell in der Sikyonia, Arkadien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 61,
-        "author": "Philippson"
+        "end": 61,
+        "author": "Philippson."
       }
     ]
   },
@@ -4540,10 +4581,15 @@
     "lemma": "Epitalion",
     "previous": "Epitalarios",
     "next": "Epitaphios",
+    "sort_key": "Epitalion",
+    "proof_read": 2,
+    "short_description": "Triphyl. Stadt.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 218,
-        "author": "Philippson"
+        "end": 218,
+        "author": "Philippson."
       }
     ]
   },
@@ -29042,7 +29088,9 @@
     "previous": "Eusebia 1",
     "next": "Eusebios 1",
     "proof_read": 3,
-    "short_description": "Mutter Theoderichs_d._Gr.",
+    "short_description": "Mutter Theoderichs des Großen, auch Erelieva",
+    "wp_link": "w:en:Ereleuva",
+    "wd_link": "d:Q2309988",
     "chapters": [
       {
         "start": 1366,
