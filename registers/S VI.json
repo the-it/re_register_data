@@ -3430,7 +3430,6 @@
   {
     "lemma": "Lex Papia Poppaea",
     "previous": "Leuke akte 3",
-    "next": "Lex Puteolana parieti faciendo",
     "sort_key": "Lexpapiapoppaea",
     "short_description": "Gesetz des Kaisers Augustus zum römischen Eherecht",
     "wp_link": "w:de:Lex Iulia et Papia",
@@ -3444,6 +3443,7 @@
   },
   {
     "lemma": "Linguarum",
+    "previous": "Lex Puteolana parieti faciendo",
     "next": "LIR///",
     "sort_key": "Linguarum",
     "proof_read": 2,
@@ -3471,9 +3471,10 @@
   {
     "lemma": "Λιθίνος πύργος",
     "previous": "LIR///",
+    "next": "Λοιβάσιον",
     "sort_key": "Lithinospyrgos",
     "proof_read": 2,
-    "short_description": "Zeitgenosse des Libanios",
+    "short_description": "Lithinos pyrgos, wichtige Station an der Straße nach China",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3482,6 +3483,10 @@
         "author": "Wilhelm Kubitschek."
       }
     ]
+  },
+  {
+    "lemma": "Λοιβάσιον",
+    "previous": "Λιθίνος πύργος"
   },
   {
     "lemma": "Lex Puteolana parieti faciendo",
@@ -4970,18 +4975,21 @@
   {
     "lemma": "Sklaverei",
     "previous": "Skiluros",
-    "next": "Skyrmiadai (Kyrmianai, Skymniadai",
+    "next": "Skyrmiadai",
     "chapters": [
       {
         "start": 894,
         "end": 1068,
-        "author": "Westermann"
+        "author": "W. L. Westermann."
       }
     ]
   },
   {
+    "lemma": "Skyrmiadai",
+    "previous": "Sklaverei"
+  },
+  {
     "lemma": "Skyrmiadai (Kyrmianai, Skymniadai",
-    "previous": "Sklaverei",
     "next": "Smikythos 1",
     "chapters": [
       {
