@@ -6323,7 +6323,7 @@
   {
     "lemma": "σακκηγία",
     "previous": "R(h)ymmoi",
-    "next": "sakkophoros",
+    "next": "σακκοφόρος",
     "sort_key": "sakkegia",
     "proof_read": 2,
     "short_description": "Die Abgabe für den Korntransport im röm. Aegypten.",
@@ -6336,19 +6336,24 @@
     ]
   },
   {
-    "lemma": "sakkophoros",
+    "lemma": "σακκοφόρος",
     "previous": "σακκηγία",
     "next": "Sanktionsklausel",
+    "sort_key": "sakkoforos",
+    "proof_read": 2,
+    "short_description": "Sackträger, in römischer Zeit eine Korporation in vielen Städten",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1200,
-        "author": "Ziebarth"
+        "end": 1200,
+        "author": "Erich Ziebarth."
       }
     ]
   },
   {
     "lemma": "Sanktionsklausel",
-    "previous": "sakkophoros",
+    "previous": "σακκοφόρος",
     "next": "Saturninus 7a",
     "chapters": [
       {
@@ -6372,9 +6377,14 @@
     "lemma": "Satyros 12a",
     "previous": "Saturninus 7a",
     "next": "Saulakes",
+    "proof_read": 2,
+    "short_description": "Architekt unter Ptolemaios II. Philadelphios in Ägypten",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 1201
+        "start": 1201,
+        "end": 1201,
+        "author": "E. Fabricius."
       }
     ]
   },
@@ -6382,10 +6392,14 @@
     "lemma": "Saulakes",
     "previous": "Satyros 12a",
     "next": "Saulios",
+    "proof_read": 2,
+    "short_description": "Saulakes, König der Kolcher",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1201,
-        "author": "Kroll"
+        "end": 1201,
+        "author": "W. Kroll."
       }
     ]
   },

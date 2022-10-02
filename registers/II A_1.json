@@ -2466,10 +2466,14 @@
     "lemma": "Satyri monumentum",
     "previous": "Satyri",
     "next": "Satyrion",
+    "proof_read": 2,
+    "short_description": "Denkmal auf der asiatischen Seite des kimmerischen Bosporos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 223,
-        "author": "Kretschmer"
+        "end": 223,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -2477,17 +2481,21 @@
     "lemma": "Satyrion",
     "previous": "Satyri monumentum",
     "next": "Satyron",
+    "proof_read": 2,
+    "short_description": "Dichter der neuen Komödie, 3. Jhdt. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 223,
-        "author": "Körte"
+        "end": 223,
+        "author": "A. Körte."
       }
     ]
   },
   {
     "lemma": "Satyron",
     "previous": "Satyrion",
-    "next": "Satyron akron",
+    "next": "Σατύρων ἄκρον",
     "proof_read": 2,
     "short_description": "wird als zeitgenössischer Philosoph (Sokratiker) von Marc Aurel X 31 genannt.",
     "chapters": [
@@ -2499,42 +2507,55 @@
     ]
   },
   {
-    "lemma": "Satyron akron",
+    "lemma": "Σατύρων ἄκρον",
     "previous": "Satyron",
-    "next": "Satyron nesoi",
+    "next": "Σατύρων νῆσοι",
+    "sort_key": "Satyronakron",
+    "proof_read": 2,
+    "short_description": "Vorgebirge an der Küste der Sinai",
     "chapters": [
       {
         "start": 223,
-        "author": "Herrmann"
+        "end": 223,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Satyron nesoi",
-    "previous": "Satyron akron",
-    "next": "Satyron oros",
+    "lemma": "Σατύρων νῆσοι",
+    "previous": "Σατύρων ἄκρον",
+    "next": "Σατύρων ὄρος",
+    "sort_key": "Satyronnesoi",
+    "proof_read": 2,
+    "short_description": "laut Ptolemäus vor der Küste des Sinai gelegene Inseln",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 223,
         "end": 224,
-        "author": "Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Satyron oros",
-    "previous": "Satyron nesoi",
+    "lemma": "Σατύρων ὄρος",
+    "previous": "Σατύρων νῆσοι",
     "next": "Satyros 1",
+    "sort_key": "Satyronoros",
+    "proof_read": 2,
+    "short_description": "Berg am arabischen Meerbusen südlich vom Vorgebirge des Diogenes",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 224,
-        "author": "Fischer"
+        "start": 223,
+        "end": 224,
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Satyros 1",
-    "previous": "Satyron oros",
+    "previous": "Σατύρων ὄρος",
     "next": "Satyros 2",
     "redirect": "Silenos, Satyros",
     "proof_read": 2,
@@ -2549,10 +2570,15 @@
     "lemma": "Satyros 2",
     "previous": "Satyros 1",
     "next": "Satyros 3",
+    "proof_read": 2,
+    "short_description": "Aus Kephisia, oligarch. Parteigänger der 30 Tyrannen",
+    "no_creative_height": true,
+    "wp_link": "w:de:Herrschaft der Dreißig",
     "chapters": [
       {
         "start": 224,
-        "author": "Fluss"
+        "end": 224,
+        "author": "Fluss."
       }
     ]
   },
@@ -2560,9 +2586,15 @@
     "lemma": "Satyros 3",
     "previous": "Satyros 2",
     "next": "Satyros 4",
+    "proof_read": 3,
+    "short_description": "Regent von Herakleia am Pontus, Bruder des Tyrannen Klearchos",
+    "no_creative_height": true,
+    "wp_link": "w:de:pt:Sátiro de Heracleia Pôntica",
     "chapters": [
       {
-        "start": 224
+        "start": 224,
+        "end": 224,
+        "author": "Fluss."
       }
     ]
   },
@@ -2570,11 +2602,15 @@
     "lemma": "Satyros 4",
     "previous": "Satyros 3",
     "next": "Satyros 5",
+    "proof_read": 2,
+    "short_description": "Satyros I., König von Pontus 433–392 v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:en:Satyrus I",
     "chapters": [
       {
         "start": 224,
         "end": 226,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -2685,6 +2721,9 @@
     "lemma": "Satyros 12",
     "previous": "Satyros 11",
     "next": "Satyros 13",
+    "proof_read": 2,
+    "short_description": "Bildhauer u. Architekt etwa im 4. Jh. v. Chr., u. a. tätig in Delphi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 226,
@@ -2697,9 +2736,13 @@
     "lemma": "Satyros 13",
     "previous": "Satyros 12",
     "next": "Satyros 14",
+    "proof_read": 2,
+    "short_description": "Schauspieler aus Olynth, 4. Jhdt. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 227,
+        "end": 227,
         "author": "Fluss."
       }
     ]
@@ -2722,11 +2765,13 @@
     "lemma": "Satyros 15",
     "previous": "Satyros 14",
     "next": "Satyros 16",
+    "proof_read": 2,
+    "short_description": "Epigrammatiker im 1. Jh. v. Chr. oder kurz danach",
     "chapters": [
       {
         "start": 227,
         "end": 228,
-        "author": "Geffcken"
+        "author": "Geffcken."
       }
     ]
   },
@@ -2734,10 +2779,13 @@
     "lemma": "Satyros 16",
     "previous": "Satyros 15",
     "next": "Satyros 17",
+    "proof_read": 2,
+    "short_description": "Griech. Grammatiker, genannt Peripatetikos etwa aus der 2. Hälfte d. 3. Jh.",
     "chapters": [
       {
         "start": 228,
-        "end": 235
+        "end": 235,
+        "author": "Gudeman."
       }
     ]
   },
