@@ -2442,7 +2442,7 @@
   {
     "lemma": "Zita",
     "previous": "Zisemis",
-    "next": "Zmarres",
+    "next": "Zizoatra",
     "chapters": [
       {
         "start": 460,
@@ -2452,26 +2452,14 @@
     ]
   },
   {
-    "lemma": "Zmarres",
+    "lemma": "Zizoatra",
     "previous": "Zita",
-    "next": "Zmilis",
-    "chapters": [
-      {
-        "start": 461,
-        "author": "Helck"
-      }
-    ]
-  },
-  {
-    "lemma": "Zmilis",
-    "previous": "Zmarres",
     "next": "Zminthium templum",
-    "redirect": "Smilis",
-    "proof_read": 2,
     "chapters": [
       {
-        "start": 461,
-        "end": 461
+        "start": 460,
+        "end": 461,
+        "author": "Leglay"
       }
     ]
   },
@@ -2489,8 +2477,32 @@
     ]
   },
   {
-    "lemma": "Zmiris",
+    "lemma": "Zmarres",
     "previous": "Zminthium templum",
+    "next": "Zmilis",
+    "chapters": [
+      {
+        "start": 461,
+        "author": "Helck"
+      }
+    ]
+  },
+  {
+    "lemma": "Zmilis",
+    "previous": "Zmarres",
+    "next": "Zmiris",
+    "redirect": "Smilis",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 461,
+        "end": 461
+      }
+    ]
+  },
+  {
+    "lemma": "Zmiris",
+    "previous": "Zmilis",
     "next": "Zoara",
     "chapters": [
       {

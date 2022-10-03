@@ -3151,7 +3151,7 @@
   {
     "lemma": "Valerius 405",
     "previous": "Valerius 404",
-    "next": "Valeria",
+    "next": "Valerius 406",
     "proof_read": 2,
     "short_description": "Paullina, Tochter des C. Valerius Paullinus Nr. 290",
     "no_creative_height": true,
@@ -3164,36 +3164,8 @@
     ]
   },
   {
-    "lemma": "Valeria",
-    "previous": "Valerius",
-    "next": "Valesianus",
-    "sort_key": "Valerius 405z",
-    "redirect": "Fabius 185",
-    "proof_read": 3,
-    "short_description": "weitere Valeriae",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 259,
-        "end": 259,
-        "author": "Rudolf Hanslik."
-      }
-    ]
-  },
-  {
-    "lemma": "Valerius",
-    "previous": "Valeria",
-    "next": "Valerius 406",
-    "redirect": true,
-    "chapters": [
-      {
-        "start": 259
-      }
-    ]
-  },
-  {
     "lemma": "Valerius 406",
-    "previous": "Valerius",
+    "previous": "Valerius 405",
     "next": "Valerius 407",
     "chapters": [
       {
@@ -3257,11 +3229,39 @@
   {
     "lemma": "Valerius 411",
     "previous": "Valerius 410",
-    "next": "Valesianus",
+    "next": "Valerius",
     "chapters": [
       {
         "start": 259,
         "author": "Hanslik"
+      }
+    ]
+  },
+  {
+    "lemma": "Valerius",
+    "previous": "Valerius 411",
+    "next": "Valeria",
+    "redirect": true,
+    "chapters": [
+      {
+        "start": 259
+      }
+    ]
+  },
+  {
+    "lemma": "Valeria",
+    "previous": "Valerius",
+    "next": "Valesianus",
+    "sort_key": "Valerius 411z",
+    "redirect": "Fabius 185",
+    "proof_read": 3,
+    "short_description": "weitere Valeriae",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 259,
+        "end": 259,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
