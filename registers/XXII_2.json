@@ -4494,7 +4494,7 @@
   {
     "lemma": "Πρακίαι",
     "previous": "Prakes",
-    "next": "Praktor",
+    "next": "Praktis",
     "sort_key": "Prakiai",
     "redirect": "Prakes",
     "proof_read": 2,
@@ -4506,8 +4506,20 @@
     ]
   },
   {
-    "lemma": "Praktor",
+    "lemma": "Praktis",
     "previous": "Πρακίαι",
+    "next": "Praktor",
+    "chapters": [
+      {
+        "start": 2538,
+        "end": 2538,
+        "author": "Gerhard Radke."
+      }
+    ]
+  },
+  {
+    "lemma": "Praktor",
+    "previous": "Praktis",
     "next": "Prasii",
     "chapters": [
       {
@@ -4520,7 +4532,7 @@
   {
     "lemma": "Prasii",
     "previous": "Praktor",
-    "next": "Praylos",
+    "next": "Praxiergidai",
     "short_description": "vorderindisches Volk",
     "wp_link": "w:la:Prasii",
     "wd_link": "d:Q19739832",
@@ -4533,9 +4545,21 @@
     ]
   },
   {
-    "lemma": "Praylos",
+    "lemma": "Praxiergidai",
     "previous": "Prasii",
-    "next": "Prisca 3ff.",
+    "next": "Praylos",
+    "chapters": [
+      {
+        "start": 2559,
+        "end": 2560,
+        "author": "v. Geisau."
+      }
+    ]
+  },
+  {
+    "lemma": "Praylos",
+    "previous": "Praxiergidai",
+    "next": "Prehensio",
     "chapters": [
       {
         "start": 2559,
@@ -4545,8 +4569,19 @@
     ]
   },
   {
-    "lemma": "Prisca 3ff.",
+    "lemma": "Prehensio",
     "previous": "Praylos",
+    "next": "Prisca 3ff.",
+    "chapters": [
+      {
+        "start": 2560,
+        "end": 2560
+      }
+    ]
+  },
+  {
+    "lemma": "Prisca 3ff.",
+    "previous": "Prehensio",
     "next": "Prisca 4",
     "redirect": true,
     "proof_read": 2,
