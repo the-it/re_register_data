@@ -4256,6 +4256,7 @@
   {
     "lemma": "Kallipolis 7b",
     "previous": "Kallimandros",
+    "next": "Kallippos 12a",
     "redirect": "Pontos Euxeinos",
     "proof_read": 3,
     "chapters": [
@@ -4266,13 +4267,20 @@
     ]
   },
   {
-    "lemma": "Kallipos 12a",
-    "next": "Kallippos 12b"
+    "lemma": "Kallippos 12a",
+    "previous": "Kallipolis 7b",
+    "next": "Kallippos 12b",
+    "chapters": [
+      {
+        "start": 141,
+        "end": 141
+      }
+    ]
   },
   {
     "lemma": "Kallippos 12b",
-    "previous": "Kallipos 12a",
-    "next": "Kallipos 13b",
+    "previous": "Kallippos 12a",
+    "next": "Kallippos 13b",
     "proof_read": 3,
     "short_description": "Schauspieler bei den Dionysia zu Delos im J. 268 v. Chr.",
     "chapters": [
@@ -4283,12 +4291,19 @@
     ]
   },
   {
-    "lemma": "Kallipos 13b",
-    "previous": "Kallippos 12b"
+    "lemma": "Kallippos 13b",
+    "previous": "Kallippos 12b",
+    "next": "Kallistos 4",
+    "chapters": [
+      {
+        "start": 141,
+        "end": 141
+      }
+    ]
   },
   {
     "lemma": "Kallistos 4",
-    "previous": "Kallippos 12b",
+    "previous": "Kallippos 13b",
     "next": "Kallistos 5",
     "redirect": "Kallistio",
     "proof_read": 3,
