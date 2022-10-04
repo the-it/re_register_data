@@ -4719,9 +4719,11 @@
     "lemma": "Oamer",
     "previous": "Oageis",
     "next": "Oaxios",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Feldherr und Neffe des Vandalenkönigs Hildericus, Bruder des Oageis = Hoamer",
     "no_creative_height": true,
+    "wp_link": "w:fr:Hoamer",
+    "wd_link": "d:Q3138862",
     "chapters": [
       {
         "start": 680,
@@ -6312,7 +6314,6 @@
   {
     "lemma": "R(h)ymmoi",
     "previous": "Rufus 8a",
-    "next": "σακκηγία",
     "chapters": [
       {
         "start": 1198,
@@ -6321,12 +6322,17 @@
     ]
   },
   {
+    "lemma": "Sachverständiger",
+    "next": "σακκηγία"
+  },
+  {
     "lemma": "σακκηγία",
-    "previous": "R(h)ymmoi",
+    "previous": "Sachverständiger",
     "next": "σακκοφόρος",
     "sort_key": "sakkegia",
-    "proof_read": 2,
-    "short_description": "Die Abgabe für den Korntransport im röm. Aegypten.",
+    "proof_read": 3,
+    "short_description": "Abgabe für den Korntransport zu den Nilhäfen im röm. Aegypten.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1200,
@@ -6406,8 +6412,8 @@
   {
     "lemma": "Saulios",
     "previous": "Saulakes",
-    "next": "Scrutarius",
-    "proof_read": 2,
+    "next": "Scalptor",
+    "proof_read": 3,
     "short_description": "Skyth. König, Bruder des Anacharsis (I 2017)",
     "chapters": [
       {
@@ -6418,8 +6424,11 @@
     ]
   },
   {
+    "lemma": "Scalptor",
+    "previous": "Saulios"
+  },
+  {
     "lemma": "Scrutarius",
-    "previous": "Saulios",
     "next": "Scrutator",
     "chapters": [
       {
