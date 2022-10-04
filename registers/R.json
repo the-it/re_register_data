@@ -3107,6 +3107,7 @@
   {
     "lemma": "Gabrus 2",
     "previous": "Gabinius 14aa",
+    "next": "Galeria 3",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -3118,7 +3119,14 @@
   },
   {
     "lemma": "Galeria 3",
-    "next": "Galerius 9a"
+    "previous": "Gabrus 2",
+    "next": "Galerius 9a",
+    "chapters": [
+      {
+        "start": 114,
+        "end": 114
+      }
+    ]
   },
   {
     "lemma": "Galerius 9a",
@@ -3138,11 +3146,18 @@
   },
   {
     "lemma": "Galitas",
-    "previous": "Galerius 9a"
+    "previous": "Galerius 9a",
+    "next": "Gallos 7",
+    "chapters": [
+      {
+        "start": 114,
+        "end": 114
+      }
+    ]
   },
   {
     "lemma": "Gallos 7",
-    "previous": "Galerius 9a",
+    "previous": "Galitas",
     "next": "Garbantia",
     "redirect": "Atossa 2",
     "proof_read": 3,
