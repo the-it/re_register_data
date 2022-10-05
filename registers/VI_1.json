@@ -911,7 +911,8 @@
     "previous": "Epidauros 1",
     "next": "Epidauros 3",
     "short_description": "Epidauros Limera, Stadt an der Ostküste Lakoniens",
-    "wp_link": "w:de:en:Epidaurus Limera",
+    "wp_link": "w:en:Epidaurus Limera",
+    "wd_link": "d:Q12877135",
     "chapters": [
       {
         "start": 50,
@@ -957,6 +958,7 @@
     "short_description": "Epidaurum -> Ragusa vecchia ->jetzt Cavtat in Kroatien",
     "no_creative_height": true,
     "wp_link": "w:de:Cavtat",
+    "wd_link": "d:Q221350",
     "chapters": [
       {
         "start": 51,
@@ -974,6 +976,7 @@
     "short_description": "Vorführung v. Kunst-Erzeugnissen zur Prüfung der Brauchbarkeit",
     "no_creative_height": true,
     "wp_link": "w:de:Epideixis",
+    "wd_link": "d:Q1346967",
     "chapters": [
       {
         "start": 53,
@@ -1001,8 +1004,11 @@
     "lemma": "Epidelion",
     "previous": "Ἐπιδέκατον",
     "next": "Epidelios",
-    "short_description": "Vorgebirge an der Ostküste von Lakonien",
-    "wp_link": "w:de:en:Epidelium",
+    "proof_read": 3,
+    "short_description": "Vorgebirge mit Apollonheiligtum an der Ostküste Lakoniens, jetzt Kap Kamilos",
+    "no_creative_height": true,
+    "wp_link": "w:en:Epidelium",
+    "wd_link": "d:Q60792070",
     "chapters": [
       {
         "start": 56,
@@ -1085,7 +1091,7 @@
     "lemma": "Epidemos 2",
     "previous": "Epidemos 1",
     "next": "Ἐπιδιαθήκη 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "statt Eudemos, s.d.",
     "chapters": [
       {
@@ -1100,7 +1106,7 @@
     "previous": "Epidemos 2",
     "next": "Ἐπιδιαθήκη 2",
     "sort_key": "Epidiatheke 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Nachtestament",
     "chapters": [
       {
@@ -1160,6 +1166,8 @@
     "next": "Epidius 2",
     "proof_read": 2,
     "short_description": "Flussgott des Sarnus in Campanien",
+    "wp_link": "w:de:Epidius (Mythologie)",
+    "wd_link": "d:Q5834801",
     "chapters": [
       {
         "start": 58,
@@ -1175,6 +1183,7 @@
     "proof_read": 2,
     "short_description": "römischer Rhetor aus der ersten Hälfte des 1. Jhdts. v. Chr.",
     "wp_link": "w:de:en:Epidius",
+    "wd_link": "d:Q777694",
     "chapters": [
       {
         "start": 59,
@@ -1187,8 +1196,8 @@
     "lemma": "Epidius 3",
     "previous": "Epidius 2",
     "next": "Epidius 4",
-    "proof_read": 2,
-    "short_description": "Marullus, C. Trib. pl. 44 v. Chr.",
+    "proof_read": 3,
+    "short_description": "Marullus, Volkstribun 44 v. Chr.",
     "chapters": [
       {
         "start": 59,
@@ -1201,8 +1210,8 @@
     "lemma": "Epidius 4",
     "previous": "Epidius 3",
     "next": "Ἐπίδοσις",
-    "proof_read": 2,
-    "short_description": "Titius Aquilinus, L. cos. 125 n. Chr.",
+    "proof_read": 3,
+    "short_description": "Titius Aquilinus, Consul 125 n. Chr.",
     "chapters": [
       {
         "start": 60,
@@ -1598,8 +1607,9 @@
     "lemma": "Epigenes 19",
     "previous": "Epigenes 18",
     "next": "Epigenes 20",
-    "proof_read": 2,
-    "short_description": "von Rhodos Landwirtschaftl. Schriftsteller",
+    "proof_read": 3,
+    "short_description": "landwirtschaftl. Schriftsteller aus Rhodos",
+    "no_creative_height": true,
     "wd_link": "d:Q1249758",
     "chapters": [
       {
@@ -1613,8 +1623,9 @@
     "lemma": "Epigenes 20",
     "previous": "Epigenes 19",
     "next": "Epigenes 21",
-    "proof_read": 2,
-    "short_description": "Schüler des Galenos",
+    "proof_read": 3,
+    "short_description": "Schüler des Galenos, 2. Jhdt. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 66,
@@ -1829,11 +1840,15 @@
     "lemma": "Ἐπιγραφεῖς",
     "previous": "Epigramm",
     "next": "Epikairos",
+    "sort_key": "Epigrapheis",
+    "proof_read": 2,
+    "short_description": "Vermögensteuer in Athen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
         "end": 112,
-        "author": "Boerner"
+        "author": "Boerner."
       }
     ]
   },
@@ -1855,10 +1870,13 @@
     "lemma": "Epikarpios",
     "previous": "Epikairos",
     "next": "Epikaste 1",
+    "proof_read": 2,
+    "short_description": "Epiklesis von Göttervater Zeus",
     "chapters": [
       {
         "start": 112,
-        "author": "Jessen"
+        "end": 112,
+        "author": "Jessen."
       }
     ]
   },
@@ -1880,8 +1898,8 @@
     "lemma": "Epikaste 2",
     "previous": "Epikaste 1",
     "next": "Epikaste 3",
-    "proof_read": 2,
-    "short_description": "Tochter d. Augeias",
+    "proof_read": 3,
+    "short_description": "Tochter d. Augeias, dessen Stall Herakles ausmistete",
     "chapters": [
       {
         "start": 112,
@@ -1894,8 +1912,8 @@
     "lemma": "Epikaste 3",
     "previous": "Epikaste 2",
     "next": "Epikaste 4",
-    "proof_read": 2,
-    "short_description": "Gattin d. Agamedes",
+    "proof_read": 3,
+    "short_description": "Gattin d. Agamedes von Stymphalos in Arkadien",
     "chapters": [
       {
         "start": 112,
@@ -1908,7 +1926,7 @@
     "lemma": "Epikaste 4",
     "previous": "Epikaste 3",
     "next": "Epikaste 5",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Gattin d. Klymenos",
     "chapters": [
       {
