@@ -246,6 +246,7 @@
     "short_description": "Insel bei Melos, heute Erimomilo",
     "no_creative_height": true,
     "wp_link": "w:de:Andimilos",
+    "wd_link": "d:Q492087",
     "chapters": [
       {
         "start": 20,
@@ -1297,6 +1298,7 @@
     "previous": "Epieikia",
     "next": "Ἐπιγαμία",
     "proof_read": 2,
+    "short_description": "kleiner attischer Demos der Phyle Kekropis",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1315,6 +1317,7 @@
     "short_description": "das vertraglich gesicherte Recht zur Ehe mit Bürgern dritter Staaten",
     "no_creative_height": true,
     "wp_link": "w:de:Epigamie",
+    "wd_link": "d:Q1346983",
     "chapters": [
       {
         "start": 62,
@@ -1954,11 +1957,14 @@
     "lemma": "Epikedeion",
     "previous": "Epikaste 5",
     "next": "Epikephisia",
+    "proof_read": 2,
+    "short_description": "Lied bei der Trauer oder Bestattung",
+    "wp_link": "w:de:Epikedeion",
     "chapters": [
       {
         "start": 112,
         "end": 113,
-        "author": "Crusius"
+        "author": "Crusius."
       }
     ]
   },
@@ -2007,7 +2013,7 @@
   {
     "lemma": "Epikleidas",
     "previous": "Epikichradas",
-    "next": "Epikleidia",
+    "next": "Ἐπικλείδια",
     "redirect": "Eukleidas 1",
     "proof_read": 2,
     "chapters": [
@@ -2018,31 +2024,42 @@
     ]
   },
   {
-    "lemma": "Epikleidia",
+    "lemma": "Ἐπικλείδια",
     "previous": "Epikleidas",
-    "next": "Epikleros",
+    "next": "Ἐπίκληρος",
+    "sort_key": "Epikleidia",
+    "redirect": "Hesychios 10",
+    "proof_read": 2,
+    "short_description": "ein der Demeter in Athen gefeiertes Fest",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 114,
-        "author": "Stengel"
+        "end": 114,
+        "author": "Stengel."
       }
     ]
   },
   {
-    "lemma": "Epikleros",
-    "previous": "Epikleidia",
+    "lemma": "Ἐπίκληρος",
+    "previous": "Ἐπικλείδια",
     "next": "Epikles 1",
+    "sort_key": "Epikleros",
+    "proof_read": 2,
+    "short_description": "Erbschaftsrecht bzgl. der Tochter eines Manns, der ohne männlichen Erben stirbt",
+    "no_creative_height": true,
+    "wp_link": "w:de:Epikleros",
     "chapters": [
       {
         "start": 114,
-        "end": 117,
-        "author": "Thalheim"
+        "end": 116,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Epikles 1",
-    "previous": "Epikleros",
+    "previous": "Ἐπίκληρος",
     "next": "Epikles 2",
     "proof_read": 2,
     "short_description": "Bundesgenosse d. Troianer",
@@ -2072,10 +2089,14 @@
     "lemma": "Epikles 3",
     "previous": "Epikles 2",
     "next": "Epikles 4",
+    "proof_read": 2,
+    "short_description": "Athener, in einer delischen Inschr. 93/2 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 117,
-        "author": "Kirchner"
+        "end": 117,
+        "author": "Kirchner."
       }
     ]
   },
@@ -2083,10 +2104,14 @@
     "lemma": "Epikles 4",
     "previous": "Epikles 3",
     "next": "Epikles 5",
+    "proof_read": 2,
+    "short_description": "Lakedaimonier, erleidet 411 bei Athos Schiffbruch",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 117,
-        "author": "Kirchner"
+        "end": 117,
+        "author": "Kirchner."
       }
     ]
   },
@@ -2094,17 +2119,21 @@
     "lemma": "Epikles 5",
     "previous": "Epikles 4",
     "next": "Epikles 6",
+    "proof_read": 2,
+    "short_description": "Arzt, aus Kreta, Verfasser eines Auszugs aus dem Hippokratesglossar, 1. Jhdt. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 117,
-        "author": "Wellmann, M[ax]"
+        "end": 117,
+        "author": "M. Wellmann."
       }
     ]
   },
   {
     "lemma": "Epikles 6",
     "previous": "Epikles 5",
-    "next": "Epikletoi",
+    "next": "Ἐπίκλητοι",
     "proof_read": 2,
     "short_description": "Von Hermione, Kitharist",
     "chapters": [
@@ -2116,24 +2145,33 @@
     ]
   },
   {
-    "lemma": "Epikletoi",
+    "lemma": "Ἐπίκλητοι",
     "previous": "Epikles 6",
     "next": "Epiklibanios",
+    "sort_key": "Epikletoi",
+    "proof_read": 2,
+    "short_description": "ein Kollegium in Ephesos, dem die Verwaltung mit oblag",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 118,
-        "author": "Szanto"
+        "end": 118,
+        "author": "Szanto."
       }
     ]
   },
   {
     "lemma": "Epiklibanios",
-    "previous": "Epikletoi",
+    "previous": "Ἐπίκλητοι",
     "next": "Epiklopeios",
+    "proof_read": 2,
+    "short_description": "Epiklesis der Artemis als Schutzpatronin der Bäcker",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 118,
-        "author": "Jessen"
+        "end": 118,
+        "author": "Jessen."
       }
     ]
   },
@@ -2141,10 +2179,14 @@
     "lemma": "Epiklopeios",
     "previous": "Epiklibanios",
     "next": "Epiknemidioi",
+    "proof_read": 2,
+    "short_description": "Beiwort, evtl. Epiklesis des Zeus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 118,
-        "author": "Jessen"
+        "end": 118,
+        "author": "Jessen."
       }
     ]
   },
@@ -4664,9 +4706,9 @@
     "previous": "Epitalarios",
     "next": "Epitaphios",
     "sort_key": "Epitalion",
-    "proof_read": 2,
-    "short_description": "Triphyl. Stadt.",
-    "no_creative_height": true,
+    "short_description": "Stadt in Triphylien",
+    "wp_link": "w:en:Epitalium",
+    "wd_link": "d:Q16562607",
     "chapters": [
       {
         "start": 218,
