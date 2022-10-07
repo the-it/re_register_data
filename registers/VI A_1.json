@@ -2006,7 +2006,7 @@
   {
     "lemma": "This",
     "previous": "Thirtonia",
-    "next": "Thisbe 1",
+    "next": "Thisamatai",
     "redirect": "Thinis, Thinites",
     "proof_read": 2,
     "chapters": [
@@ -2017,8 +2017,19 @@
     ]
   },
   {
-    "lemma": "Thisbe 1",
+    "lemma": "Thisamatai",
     "previous": "This",
+    "next": "Thisbe 1",
+    "chapters": [
+      {
+        "start": 286,
+        "author": "Albert Herrmann."
+      }
+    ]
+  },
+  {
+    "lemma": "Thisbe 1",
+    "previous": "Thisamatai",
     "next": "Thisbe 2",
     "chapters": [
       {
@@ -6288,6 +6299,17 @@
   {
     "lemma": "Thymele",
     "previous": "Thymelaia",
+    "next": "Thymele 2",
+    "chapters": [
+      {
+        "start": 700,
+        "author": "Fensterbusch"
+      }
+    ]
+  },
+  {
+    "lemma": "Thymele 2",
+    "previous": "Thymele",
     "next": "Thymelicus",
     "chapters": [
       {
@@ -6298,7 +6320,7 @@
   },
   {
     "lemma": "Thymelicus",
-    "previous": "Thymele",
+    "previous": "Thymele 2",
     "next": "Thymelikoi agones",
     "proof_read": 2,
     "short_description": "Versfuß",
