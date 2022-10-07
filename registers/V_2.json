@@ -15860,7 +15860,7 @@
   {
     "lemma": "Ἐκκλησία",
     "previous": "Ekkea",
-    "next": "Ἐκκλητεύειν",
+    "next": "Ἐκκλησία 2",
     "sort_key": "Ekklesia",
     "proof_read": 2,
     "short_description": "die wiederkehrende Volksversammlung aller Bürger in den griechischen Staaten",
@@ -15873,8 +15873,21 @@
     ]
   },
   {
-    "lemma": "Ἐκκλητεύειν",
+    "lemma": "Ἐκκλησία 2",
     "previous": "Ἐκκλησία",
+    "next": "Ἐκκλητεύειν",
+    "sort_key": "Ekklesia 2",
+    "chapters": [
+      {
+        "start": 2200,
+        "end": 2200,
+        "author": "Brandis."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἐκκλητεύειν",
+    "previous": "Ἐκκλησία 2",
     "next": "Ἔκκλητος 1",
     "sort_key": "Ekkleteuein",
     "proof_read": 2,
