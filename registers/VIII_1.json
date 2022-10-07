@@ -2890,12 +2890,11 @@
     "lemma": "Hemiamphorion",
     "previous": "Hemeroscopium",
     "next": "Hemiassarion",
-    "redirect": "Dianium 2",
-    "proof_read": 2,
     "chapters": [
       {
         "start": 233,
-        "end": 233
+        "end": 233,
+        "author": "Viedebantt."
       }
     ]
   },
@@ -11172,6 +11171,17 @@
   {
     "lemma": "Hermochares 4",
     "previous": "Hermochares 3",
+    "next": "Hermochares 5",
+    "chapters": [
+      {
+        "start": 859,
+        "author": "Gundel, Wilhelm"
+      }
+    ]
+  },
+  {
+    "lemma": "Hermochares 5",
+    "previous": "Hermochares 4",
     "next": "Hermodamas",
     "chapters": [
       {
@@ -11182,7 +11192,7 @@
   },
   {
     "lemma": "Hermodamas",
-    "previous": "Hermochares 4",
+    "previous": "Hermochares 5",
     "next": "Hermodoros 1",
     "chapters": [
       {
@@ -12447,7 +12457,7 @@
   {
     "lemma": "Hermophantos 2",
     "previous": "Hermophantos 1",
-    "next": "Hermopolis 1",
+    "next": "Hermophilos 1",
     "chapters": [
       {
         "start": 902,
@@ -12456,8 +12466,41 @@
     ]
   },
   {
-    "lemma": "Hermopolis 1",
+    "lemma": "Hermophilos 1",
     "previous": "Hermophantos 2",
+    "next": "Hermophilos 2",
+    "chapters": [
+      {
+        "start": 902,
+        "author": "Gossen."
+      }
+    ]
+  },
+  {
+    "lemma": "Hermophilos 2",
+    "previous": "Hermophilos 1",
+    "next": "Hermophilos 3",
+    "chapters": [
+      {
+        "start": 902,
+        "author": "Gossen."
+      }
+    ]
+  },
+  {
+    "lemma": "Hermophilos 3",
+    "previous": "Hermophilos 2",
+    "next": "Hermopolis 1",
+    "chapters": [
+      {
+        "start": 902,
+        "author": "Gossen."
+      }
+    ]
+  },
+  {
+    "lemma": "Hermopolis 1",
+    "previous": "Hermophilos 3",
     "next": "Hermopolis 2",
     "chapters": [
       {

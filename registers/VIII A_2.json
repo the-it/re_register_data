@@ -807,7 +807,7 @@
   {
     "lemma": "Verissimus 2",
     "previous": "Verissimus 1",
-    "next": "Veritas",
+    "next": "Verissimus 3",
     "chapters": [
       {
         "start": 1550,
@@ -816,8 +816,19 @@
     ]
   },
   {
-    "lemma": "Veritas",
+    "lemma": "Verissimus 3",
     "previous": "Verissimus 2",
+    "next": "Veritas",
+    "chapters": [
+      {
+        "start": 1551,
+        "author": "Enßlin"
+      }
+    ]
+  },
+  {
+    "lemma": "Veritas",
+    "previous": "Verissimus 3",
     "next": "Veriugodumnus",
     "chapters": [
       {
@@ -1100,17 +1111,28 @@
   {
     "lemma": "Verora",
     "previous": "Veronius",
-    "next": "Verovesca",
+    "next": "Ueros",
     "chapters": [
       {
         "start": 1560,
+        "author": "Heichelheim."
+      }
+    ]
+  },
+  {
+    "lemma": "Ueros",
+    "previous": "Verora",
+    "next": "Verovesca",
+    "chapters": [
+      {
+        "start": 1561,
         "author": "Preisendanz"
       }
     ]
   },
   {
     "lemma": "Verovesca",
-    "previous": "Verora",
+    "previous": "Ueros",
     "next": "Verpantus",
     "redirect": "Virovesca",
     "proof_read": 2,
@@ -1465,6 +1487,17 @@
   {
     "lemma": "Vervactor",
     "previous": "Vertumnus",
+    "next": "Vervasses",
+    "chapters": [
+      {
+        "start": 1687,
+        "author": "Gerhard Radke."
+      }
+    ]
+  },
+  {
+    "lemma": "Vervasses",
+    "previous": "Vervactor",
     "next": "Verubium Promontorium",
     "chapters": [
       {
@@ -1475,7 +1508,7 @@
   },
   {
     "lemma": "Verubium Promontorium",
-    "previous": "Vervactor",
+    "previous": "Vervasses",
     "next": "Verucini",
     "sort_key": "Verubiumpromonturium",
     "proof_read": 2,
@@ -1532,7 +1565,7 @@
   {
     "lemma": "Verulae",
     "previous": "Οὐερουεις",
-    "next": "Veruniensis",
+    "next": "Verulamium",
     "chapters": [
       {
         "start": 1688,
@@ -1541,8 +1574,18 @@
     ]
   },
   {
-    "lemma": "Veruniensis",
+    "lemma": "Verulamium",
     "previous": "Verulae",
+    "next": "Veruniensis",
+    "chapters": [
+      {
+        "start": 1689
+      }
+    ]
+  },
+  {
+    "lemma": "Veruniensis",
+    "previous": "Verulamium",
     "next": "Verurium",
     "chapters": [
       {
