@@ -674,7 +674,7 @@
   {
     "lemma": "Epicharmos 4",
     "previous": "Epicharmos 3",
-    "next": "Ἐπιχειροτονία",
+    "next": "Epicheirotonia",
     "proof_read": 2,
     "short_description": "Bildhauer aus Rhodos, Sohn von Nr. 3",
     "chapters": [
@@ -686,7 +686,7 @@
     ]
   },
   {
-    "lemma": "Ἐπιχειροτονία",
+    "lemma": "Epicheirotonia",
     "previous": "Epicharmos 4",
     "next": "Epichus",
     "sort_key": "Epicheirotonia",
@@ -702,8 +702,8 @@
   },
   {
     "lemma": "Epichus",
-    "previous": "Ἐπιχειροτονία",
-    "next": "Ἐπίχυσις",
+    "previous": "Epicheirotonia",
+    "next": "Epichysis",
     "proof_read": 3,
     "short_description": "(Ἔπιχος), Stadt an der kleinen Syrte. Der Name ist wohl verdorben.",
     "chapters": [
@@ -715,7 +715,7 @@
     ]
   },
   {
-    "lemma": "Ἐπίχυσις",
+    "lemma": "Epichysis",
     "previous": "Epichus",
     "next": "Epicium",
     "sort_key": "Epichysis",
@@ -731,7 +731,7 @@
   },
   {
     "lemma": "Epicium",
-    "previous": "Ἐπίχυσις",
+    "previous": "Epichysis",
     "next": "Epidaitia",
     "proof_read": 2,
     "short_description": "als gallischer Ortsname angeführt von Holder Altkelt. Sprachsch. s. v. nach der",
@@ -746,7 +746,7 @@
   {
     "lemma": "Epidaitia",
     "previous": "Epicium",
-    "next": "Ἐπιδαμία",
+    "next": "Epidamia",
     "proof_read": 3,
     "short_description": "(Ἐπιδαιτία), Epiklesis der Aphrodite in Ephesos",
     "chapters": [
@@ -758,7 +758,7 @@
     ]
   },
   {
-    "lemma": "Ἐπιδαμία",
+    "lemma": "Epidamia",
     "previous": "Epidaitia",
     "next": "Ἐπιδαμιουργός",
     "sort_key": "Epidamia",
@@ -774,7 +774,7 @@
   },
   {
     "lemma": "Ἐπιδαμιουργός",
-    "previous": "Ἐπιδαμία",
+    "previous": "Epidamia",
     "next": "Epidamnios",
     "sort_key": "Epidamiourgos",
     "proof_read": 2,
@@ -1692,6 +1692,7 @@
     "short_description": "Epigonoi, die Söhne der sieben Helden um Theben",
     "no_creative_height": true,
     "wp_link": "w:de:Epigone",
+    "wd_link": "d:Q1314618",
     "chapters": [
       {
         "start": 67,
@@ -1719,8 +1720,9 @@
     "lemma": "Epigonos 1",
     "previous": "Epigonoi 2",
     "next": "Epigonos 2",
-    "proof_read": 2,
-    "short_description": "Olympionike aus Samos",
+    "proof_read": 3,
+    "short_description": "Olympionike aus Samos, 3. Jhdt. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 68,
@@ -1733,8 +1735,9 @@
     "lemma": "Epigonos 2",
     "previous": "Epigonos 1",
     "next": "Epigonos 3",
-    "proof_read": 2,
-    "short_description": "Eponym v. Tauromenion",
+    "proof_read": 3,
+    "short_description": "Eponym v. Tauromenion auf Sizilien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 68,
@@ -1747,8 +1750,8 @@
     "lemma": "Epigonos 3",
     "previous": "Epigonos 2",
     "next": "Epigonos 4",
-    "proof_read": 2,
-    "short_description": "Tyrann v. Kolophon",
+    "proof_read": 3,
+    "short_description": "Tyrann v. Kolophon in Lydien, von Lucullus besiegt",
     "chapters": [
       {
         "start": 68,
@@ -1761,8 +1764,8 @@
     "lemma": "Epigonos 4",
     "previous": "Epigonos 3",
     "next": "Epigonos 5",
-    "proof_read": 2,
-    "short_description": "Sohn d. Chrysippos, Person bei Plin. ep.",
+    "proof_read": 3,
+    "short_description": "Plinius d.J. erbittet für ihn das Bürgerrecht bei Kaiser Hadrian",
     "chapters": [
       {
         "start": 68,
@@ -1860,7 +1863,7 @@
     "previous": "Ἐπιγραφεῖς",
     "next": "Epikarpios",
     "proof_read": 3,
-    "short_description": "(Ptolem. V 15, 6), Ort im Ostjordanland nahe bei Kallirrhoë, etwa 10 Millien",
+    "short_description": "Ort im Ostjordanland",
     "chapters": [
       {
         "start": 112,
@@ -2249,8 +2252,8 @@
     "lemma": "Epikrates 1",
     "previous": "Epikradios",
     "next": "Epikrates 2",
-    "proof_read": 2,
-    "short_description": "Athen. Archon der Kaiserzeit",
+    "proof_read": 3,
+    "short_description": "Athenischer Archon der Kaiserzeit",
     "chapters": [
       {
         "start": 119,
@@ -2263,12 +2266,14 @@
     "lemma": "Epikrates 2",
     "previous": "Epikrates 1",
     "next": "Epikrates 3",
-    "redirect": true,
-    "proof_read": 2,
+    "proof_read": 3,
+    "short_description": "Harfenspieler aus Argos, 286 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 119,
-        "end": 119
+        "end": 119,
+        "author": "Kirchner."
       }
     ]
   },
@@ -2290,8 +2295,8 @@
     "lemma": "Epikrates 4",
     "previous": "Epikrates 3",
     "next": "Epikrates 5",
-    "proof_read": 2,
-    "short_description": "Antragsteller des eingelegten Psephisma",
+    "proof_read": 3,
+    "short_description": "Antragsteller für ein Psephisma zur Zeit des Demosthenes",
     "chapters": [
       {
         "start": 119,
@@ -2304,7 +2309,7 @@
     "lemma": "Epikrates 5",
     "previous": "Epikrates 4",
     "next": "Epikrates 6",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Athener, Sieger bei den Theseien um 160 v. Chr.",
     "chapters": [
       {
@@ -2318,8 +2323,9 @@
     "lemma": "Epikrates 6",
     "previous": "Epikrates 5",
     "next": "Epikrates 7",
-    "proof_read": 2,
-    "short_description": "Athener, sendete dem Themistokles heimlich Frau und Kinder nach",
+    "proof_read": 3,
+    "short_description": "Athener, sendete Themistokles heimlich Frau und Kinder nach",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 119,
@@ -2332,8 +2338,9 @@
     "lemma": "Epikrates 7",
     "previous": "Epikrates 6",
     "next": "Epikrates 8",
-    "proof_read": 2,
-    "short_description": "Athener, Trierarchos um 377/6",
+    "proof_read": 3,
+    "short_description": "Athener, Trierarch um 377/6",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 119,
@@ -2346,7 +2353,7 @@
     "lemma": "Epikrates 8",
     "previous": "Epikrates 7",
     "next": "Epikrates 9",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Athener, Strategos Anf. d. 1. Jh. v. Chr.",
     "chapters": [
       {
@@ -2360,12 +2367,13 @@
     "lemma": "Epikrates 9",
     "previous": "Epikrates 8",
     "next": "Epikrates 10",
-    "redirect": true,
     "proof_read": 2,
+    "short_description": "Athener, Schwager des Redners Aischines, 4. Jh. v. Chr.",
     "chapters": [
       {
         "start": 119,
-        "end": 119
+        "end": 119,
+        "author": "Kirchner."
       }
     ]
   },
@@ -2373,8 +2381,9 @@
     "lemma": "Epikrates 10",
     "previous": "Epikrates 9",
     "next": "Epikrates 11",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Athener, Trierarchos um 342",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 119,
@@ -2387,7 +2396,7 @@
     "lemma": "Epikrates 11",
     "previous": "Epikrates 10",
     "next": "Epikrates 12",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Athener, Trierarchos um 323",
     "chapters": [
       {
@@ -2401,7 +2410,7 @@
     "lemma": "Epikrates 12",
     "previous": "Epikrates 11",
     "next": "Epikrates 13",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Boiotier, Teilnehmer an den Soterien in Delphoi 270/69",
     "chapters": [
       {
@@ -2415,7 +2424,7 @@
     "lemma": "Epikrates 13",
     "previous": "Epikrates 12",
     "next": "Epikrates 14",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Boiotier, Sieger bei den Museien in Thespiai Anf. d. 1. Jh.",
     "chapters": [
       {
@@ -2429,7 +2438,7 @@
     "lemma": "Epikrates 14",
     "previous": "Epikrates 13",
     "next": "Epikrates 15",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Larisaier, Sieger bei den Amphiaraen in Oropos um 325 v. Chr.",
     "chapters": [
       {
@@ -2443,7 +2452,7 @@
     "lemma": "Epikrates 15",
     "previous": "Epikrates 14",
     "next": "Epikrates 16",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Myrinaier, Teilnehmer an den Soterien in Delphoi 272/1",
     "chapters": [
       {
@@ -2457,7 +2466,7 @@
     "lemma": "Epikrates 16",
     "previous": "Epikrates 15",
     "next": "Epikrates 17",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Stratege in Olbia um 100 n. Chr.",
     "chapters": [
       {
@@ -2652,10 +2661,15 @@
     "lemma": "Ἐπίκροκον",
     "previous": "Ἐπίκρισις",
     "next": "Epiktemon",
+    "sort_key": "Epikrokon",
+    "proof_read": 2,
+    "short_description": "Epikrokon, ein gelbfarbener Umhang, meist von Frauen getragen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 123,
-        "author": "Amelung"
+        "end": 123,
+        "author": "Amelung."
       }
     ]
   },
@@ -2677,11 +2691,14 @@
     "lemma": "Epikteta",
     "previous": "Epiktemon",
     "next": "Epiktetes 1",
+    "proof_read": 2,
+    "short_description": "archäolog. Berichte von der Insel Thera",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 123,
         "end": 126,
-        "author": "Hiller von Gaertringen"
+        "author": "Hiller v. Gärtringen."
       }
     ]
   },
@@ -23025,10 +23042,14 @@
     "lemma": "Euoptios",
     "previous": "Euopis",
     "next": "Euoras",
+    "sort_key": "Euoptios",
+    "proof_read": 2,
+    "short_description": "Bruder des Bischofs Synesios von Kyrene",
     "chapters": [
       {
         "start": 1159,
-        "author": "Schmid"
+        "end": 1159,
+        "author": "W. Schmid."
       }
     ]
   },
@@ -23036,10 +23057,15 @@
     "lemma": "Euoras",
     "previous": "Euoptios",
     "next": "Euormidas",
+    "sort_key": "Euoras",
+    "proof_read": 2,
+    "short_description": "Gipfel des Τaygetos in der Nähe des Taleton, wildreich mit wilden Ziegen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1159,
-        "author": "Philippson"
+        "end": 1159,
+        "author": "Philippson."
       }
     ]
   },
@@ -23061,10 +23087,14 @@
     "lemma": "Eupalamos 1",
     "previous": "Euormidas",
     "next": "Eupalamos 2",
+    "sort_key": "Eupalamos 1",
+    "proof_read": 2,
+    "short_description": "Vater von Daidalos und Metiadusa, Enkel des Metion, Urenkel des Erechtheus",
     "chapters": [
       {
         "start": 1159,
-        "author": "Hiller von Gaertringen"
+        "end": 1159,
+        "author": "Hiller v. Gaertringen."
       }
     ]
   },
@@ -23072,10 +23102,14 @@
     "lemma": "Eupalamos 2",
     "previous": "Eupalamos 1",
     "next": "Eupalinos 1",
+    "sort_key": "Eupalamos 2",
+    "proof_read": 2,
+    "short_description": "Vater eines athenischen Bildhauers",
     "chapters": [
       {
         "start": 1159,
-        "author": "Robert"
+        "end": 1159,
+        "author": "C. Robert."
       }
     ]
   },
@@ -23083,10 +23117,14 @@
     "lemma": "Eupalinos 1",
     "previous": "Eupalamos 2",
     "next": "Eupalinos 2",
+    "sort_key": "Eupalinos 1",
+    "proof_read": 2,
+    "short_description": "Bildhauer aus Megara 3. Jh. v. Chr., Künstlersignatur im Asklepieion Athen",
     "chapters": [
       {
         "start": 1159,
-        "author": "Robert"
+        "end": 1159,
+        "author": "C. Robert."
       }
     ]
   },
@@ -23094,11 +23132,13 @@
     "lemma": "Eupalinos 2",
     "previous": "Eupalinos 1",
     "next": "Eupalion",
+    "proof_read": 2,
+    "short_description": "Erbauer der Wasserleitung von Samos, Sohn des Naustrophos aus Megara",
     "chapters": [
       {
         "start": 1159,
         "end": 1160,
-        "author": "Fabricius"
+        "author": "Fabricius."
       }
     ]
   },
@@ -23106,10 +23146,13 @@
     "lemma": "Eupalion",
     "previous": "Eupalinos 2",
     "next": "Eupatereia",
+    "sort_key": "Eupalion",
+    "short_description": "Stadt im ozolischen Lokris, nahe der aitolischen Grenze",
     "chapters": [
       {
         "start": 1160,
-        "author": "Philippson"
+        "end": 1160,
+        "author": "Philippson."
       }
     ]
   },
@@ -23117,10 +23160,14 @@
     "lemma": "Eupatereia",
     "previous": "Eupalion",
     "next": "Eupaterius",
+    "sort_key": "Eupatereia",
+    "proof_read": 2,
+    "short_description": ",Tochter eines edlen Vaters‘, poetisches Beiwort von Heroinen und Göttinnen",
     "chapters": [
       {
         "start": 1160,
-        "author": "Jessen"
+        "end": 1160,
+        "author": "Jessen."
       }
     ]
   },
@@ -23170,10 +23217,14 @@
     "lemma": "Eupatoria 1",
     "previous": "Eupator 2",
     "next": "Eupatoria 2",
+    "sort_key": "Eupatoria 1",
+    "proof_read": 2,
+    "short_description": "Stadt in Pontos, am Zusammenfluß von Iris und Lykos von Mithridates gegründet",
     "chapters": [
       {
         "start": 1161,
-        "author": "Ruge"
+        "end": 1161,
+        "author": "Ruge."
       }
     ]
   },
@@ -23181,124 +23232,162 @@
     "lemma": "Eupatoria 2",
     "previous": "Eupatoria 1",
     "next": "Eupatoria 3",
+    "sort_key": "Eupatoria 2",
+    "proof_read": 2,
+    "short_description": "Vorstadt von Amisos",
     "chapters": [
       {
         "start": 1161,
-        "author": "Ruge"
+        "end": 1161,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Eupatoria 3",
     "previous": "Eupatoria 2",
-    "next": "Eupatorion",
+    "next": "Εὐπατώριον",
+    "sort_key": "Eupatoria 3",
+    "proof_read": 2,
+    "short_description": "Stadt auf der Chersonnesus Taurica",
     "chapters": [
       {
         "start": 1161,
         "end": 1162,
-        "author": "Brandis"
+        "author": "Brandis."
       }
     ]
   },
   {
-    "lemma": "Eupatorion",
+    "lemma": "Εὐπατώριον",
     "previous": "Eupatoria 3",
     "next": "Eupatoris",
+    "sort_key": "Eupatorion",
+    "proof_read": 2,
+    "short_description": "Pflanzenart, Rosacee, Odermennig = Agrimonia Eupatoria L.",
     "chapters": [
       {
         "start": 1162,
         "end": 1163,
-        "author": "Stadler"
+        "author": "Stadler."
       }
     ]
   },
   {
     "lemma": "Eupatoris",
-    "previous": "Eupatorion",
-    "next": "Eupatoristai",
+    "previous": "Εὐπατώριον",
+    "next": "Εὐπατορισταί",
+    "sort_key": "Eupatoris",
+    "proof_read": 2,
+    "short_description": "ägyptisches Dorf im Herakleidesbezirk des arsinoitischen Gaus",
     "chapters": [
       {
         "start": 1163,
-        "author": "Steindorff"
+        "end": 1163,
+        "author": "Steindorff."
       }
     ]
   },
   {
-    "lemma": "Eupatoristai",
+    "lemma": "Εὐπατορισταί",
     "previous": "Eupatoris",
     "next": "Eupatra",
+    "sort_key": "Eupatoristai",
+    "proof_read": 2,
+    "short_description": "Mitglieder eines Gymnasiums in Delos, der Gönner ist Mithradates V. Eupator",
     "chapters": [
       {
         "start": 1163,
         "end": 1164,
-        "author": "Ziebarth"
+        "author": "Ziebarth."
       }
     ]
   },
   {
     "lemma": "Eupatra",
-    "previous": "Eupatoristai",
+    "previous": "Εὐπατορισταί",
     "next": "Eupatria",
+    "proof_read": 2,
+    "short_description": "Tochter des Mithradates, bei dem Triumph des Pompeius aufgeführt",
     "chapters": [
       {
         "start": 1164,
-        "author": "Willrich"
+        "end": 1164,
+        "author": "Willrich."
       }
     ]
   },
   {
     "lemma": "Eupatria",
     "previous": "Eupatra",
-    "next": "Eupatridai 1",
+    "next": "Εὐπατρίδαι 1",
+    "sort_key": "Eupatria",
+    "proof_read": 2,
+    "short_description": "Städtchen der Lyder",
     "chapters": [
       {
         "start": 1164,
-        "author": "Bürchner"
+        "end": 1164,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Eupatridai 1",
+    "lemma": "Εὐπατρίδαι 1",
     "previous": "Eupatria",
-    "next": "Eupatridai 2",
+    "next": "Εὐπατρίδαι 2",
+    "sort_key": "Eupatridai 1",
+    "proof_read": 2,
+    "short_description": "Adel in Athen, Söhne edler Väter, der erste der drei Stände",
     "chapters": [
       {
         "start": 1164,
         "end": 1165,
-        "author": "Oehler, J[ohann]"
+        "author": "J. Oehler."
       }
     ]
   },
   {
-    "lemma": "Eupatridai 2",
-    "previous": "Eupatridai 1",
-    "next": "Eupatridai 3",
+    "lemma": "Εὐπατρίδαι 2",
+    "previous": "Εὐπατρίδαι 1",
+    "next": "Εὐπατρίδαι 3",
+    "sort_key": "Eupatridai 2",
+    "proof_read": 2,
+    "short_description": "Adelsgeschlecht in Athen",
     "chapters": [
       {
         "start": 1165,
-        "author": "Oehler, J[ohann]"
+        "end": 1165,
+        "author": "J. Oehler."
       }
     ]
   },
   {
-    "lemma": "Eupatridai 3",
-    "previous": "Eupatridai 2",
+    "lemma": "Εὐπατρίδαι 3",
+    "previous": "Εὐπατρίδαι 2",
     "next": "Eupeithes 1",
+    "sort_key": "Eupatridai 3",
+    "proof_read": 2,
+    "short_description": "Übersetzung des lateinischen patricii",
     "chapters": [
       {
         "start": 1165,
-        "author": "Oehler, J[ohann]"
+        "end": 1165,
+        "author": "J. Oehler."
       }
     ]
   },
   {
     "lemma": "Eupeithes 1",
-    "previous": "Eupatridai 3",
+    "previous": "Εὐπατρίδαι 3",
     "next": "Eupeithes 2",
+    "proof_read": 2,
+    "short_description": "Vater des Antinoos",
     "chapters": [
       {
         "start": 1165,
-        "author": "Hoefer"
+        "end": 1165,
+        "author": "Hoefer."
       }
     ]
   },
@@ -23319,10 +23408,13 @@
     "lemma": "Eupeithios",
     "previous": "Eupeithes 2",
     "next": "Eupetale",
+    "proof_read": 2,
+    "short_description": "später Grammatiker und Schreiber",
     "chapters": [
       {
         "start": 1165,
-        "author": "Reitzenstein"
+        "end": 1165,
+        "author": "Reitzenstein."
       }
     ]
   },
@@ -23330,10 +23422,13 @@
     "lemma": "Eupetale",
     "previous": "Eupeithios",
     "next": "Euphamidas",
+    "proof_read": 2,
+    "short_description": "Bakchantin, Amme des Dionysos, kämpft tapfer mit gegen die Inder",
     "chapters": [
       {
         "start": 1165,
-        "author": "Hoefer"
+        "end": 1165,
+        "author": "Hoefer."
       }
     ]
   },
@@ -23341,10 +23436,14 @@
     "lemma": "Euphamidas",
     "previous": "Eupetale",
     "next": "Euphamos 1",
+    "sort_key": "Euphamidas",
+    "proof_read": 2,
+    "short_description": "korinthischer Befehlshaber, Sohn des Aristonymos 431 v. Chr.",
     "chapters": [
       {
         "start": 1166,
-        "author": "Kirchner"
+        "end": 1166,
+        "author": "Kirchner."
       }
     ]
   },
@@ -23352,10 +23451,13 @@
     "lemma": "Euphamos 1",
     "previous": "Euphamidas",
     "next": "Euphamos 2",
+    "proof_read": 2,
+    "short_description": "Stratege in Megara, Sohn des Eukleion 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1166,
-        "author": "Kirchner"
+        "end": 1166,
+        "author": "Kirchner."
       }
     ]
   },
@@ -23363,10 +23465,13 @@
     "lemma": "Euphamos 2",
     "previous": "Euphamos 1",
     "next": "Euphamos 3",
+    "proof_read": 2,
+    "short_description": "Damiurgos in Oiantheia",
     "chapters": [
       {
         "start": 1166,
-        "author": "Kirchner"
+        "end": 1166,
+        "author": "Kirchner."
       }
     ]
   },
@@ -23374,10 +23479,13 @@
     "lemma": "Euphamos 3",
     "previous": "Euphamos 2",
     "next": "Euphanes 1",
+    "proof_read": 2,
+    "short_description": "Vasenfabrikant 6./5. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1166,
-        "author": "Robert"
+        "end": 1166,
+        "author": "C. Robert."
       }
     ]
   },
@@ -23385,10 +23493,13 @@
     "lemma": "Euphanes 1",
     "previous": "Euphamos 3",
     "next": "Euphanes 2",
+    "proof_read": 2,
+    "short_description": "Sohn des Epigenes, Athener 2. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1166,
-        "author": "Kirchner"
+        "end": 1166,
+        "author": "Kirchner."
       }
     ]
   },
@@ -23396,10 +23507,13 @@
     "lemma": "Euphanes 2",
     "previous": "Euphanes 1",
     "next": "Euphanes 3",
+    "proof_read": 2,
+    "short_description": "Sohn des Zoilos aus Oropos, Sieger der Amphiaraen im Pankration 1. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1166,
-        "author": "Kirchner"
+        "end": 1166,
+        "author": "Kirchner."
       }
     ]
   },
@@ -23407,10 +23521,13 @@
     "lemma": "Euphanes 3",
     "previous": "Euphanes 2",
     "next": "Euphanes 4",
+    "proof_read": 2,
+    "short_description": "Kreter, Führer von 1000 Mann, die über Antiochos d. Gr. den Eleern helfen",
     "chapters": [
       {
         "start": 1166,
-        "author": "Willrich"
+        "end": 1166,
+        "author": "Willrich."
       }
     ]
   },
