@@ -2236,7 +2236,7 @@
   {
     "lemma": "Ossadioi",
     "previous": "Ossa 6",
-    "next": "Osiarthe",
+    "next": "Ossaios",
     "chapters": [
       {
         "start": 1597,
@@ -2245,19 +2245,8 @@
     ]
   },
   {
-    "lemma": "Osiarthe",
-    "previous": "Ossadioi",
-    "next": "Ossaios",
-    "chapters": [
-      {
-        "start": 1598,
-        "author": "Enßlin"
-      }
-    ]
-  },
-  {
     "lemma": "Ossaios",
-    "previous": "Osiarthe",
+    "previous": "Ossadioi",
     "next": "Ossarene",
     "chapters": [
       {
@@ -2282,7 +2271,7 @@
   {
     "lemma": "Osset",
     "previous": "Ossarene",
-    "next": "Ossigi",
+    "next": "Osiarthe",
     "chapters": [
       {
         "start": 1598,
@@ -2291,8 +2280,19 @@
     ]
   },
   {
-    "lemma": "Ossigi",
+    "lemma": "Osiarthe",
     "previous": "Osset",
+    "next": "Ossigi",
+    "chapters": [
+      {
+        "start": 1598,
+        "author": "Enßlin"
+      }
+    ]
+  },
+  {
+    "lemma": "Ossigi",
+    "previous": "Osiarthe",
     "next": "Ossilago",
     "chapters": [
       {

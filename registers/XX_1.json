@@ -2097,28 +2097,39 @@
   {
     "lemma": "Philyllios",
     "previous": "Philus",
-    "next": "Philyllios 2",
+    "next": "Philyra 1",
     "chapters": [
       {
         "start": 212,
-        "author": "Bernert"
+        "author": "A. Körte."
       }
     ]
   },
   {
-    "lemma": "Philyllios 2",
+    "lemma": "Philyra 1",
     "previous": "Philyllios",
-    "next": "Philyllios 3",
+    "next": "Philyra 2",
     "chapters": [
       {
-        "start": 214,
+        "start": 213,
         "author": "Bernert"
       }
     ]
   },
   {
-    "lemma": "Philyllios 3",
-    "previous": "Philyllios 2",
+    "lemma": "Philyra 2",
+    "previous": "Philyra 1",
+    "next": "Philyra 3",
+    "chapters": [
+      {
+        "start": 213,
+        "author": "Bernert"
+      }
+    ]
+  },
+  {
+    "lemma": "Philyra 3",
+    "previous": "Philyra 2",
     "next": "Philyreis",
     "redirect": "Papyrus",
     "proof_read": 2,
@@ -2131,7 +2142,7 @@
   },
   {
     "lemma": "Philyreis",
-    "previous": "Philyllios 3",
+    "previous": "Philyra 3",
     "next": "Philyres",
     "redirect": "Philyres",
     "proof_read": 2,

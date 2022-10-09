@@ -3358,6 +3358,17 @@
   {
     "lemma": "Nigropullum",
     "previous": "Nigritis Palus",
+    "next": "Niguza",
+    "chapters": [
+      {
+        "start": 215,
+        "author": "E. Linckenheld."
+      }
+    ]
+  },
+  {
+    "lemma": "Niguza",
+    "previous": "Nigropullum",
     "next": "Nikagoras 1",
     "chapters": [
       {
@@ -3368,7 +3379,7 @@
   },
   {
     "lemma": "Nikagoras 1",
-    "previous": "Nigropullum",
+    "previous": "Niguza",
     "next": "Nikagoras 2",
     "chapters": [
       {
@@ -3649,7 +3660,7 @@
   {
     "lemma": "Nikaios 2",
     "previous": "Nikaios 1",
-    "next": "Nikandre 1",
+    "next": "Nikaistas",
     "proof_read": 2,
     "short_description": "Verwandter des Synesios",
     "no_creative_height": true,
@@ -3662,8 +3673,30 @@
     ]
   },
   {
-    "lemma": "Nikandre 1",
+    "lemma": "Nikaistas",
     "previous": "Nikaios 2",
+    "next": "Nikama",
+    "chapters": [
+      {
+        "start": 247,
+        "author": "Kirchner"
+      }
+    ]
+  },
+  {
+    "lemma": "Nikama",
+    "previous": "Nikaistas",
+    "next": "Nikandre 1",
+    "chapters": [
+      {
+        "start": 247,
+        "author": "O. Stein."
+      }
+    ]
+  },
+  {
+    "lemma": "Nikandre 1",
+    "previous": "Nikama",
     "next": "Nikandre 2",
     "chapters": [
       {
@@ -4319,7 +4352,7 @@
   {
     "lemma": "Nikarete",
     "previous": "Nikarchos 6",
-    "next": "Νικάριστος",
+    "next": "Nikaretos",
     "chapters": [
       {
         "start": 280,
@@ -4328,8 +4361,19 @@
     ]
   },
   {
-    "lemma": "Νικάριστος",
+    "lemma": "Nikaretos",
     "previous": "Nikarete",
+    "next": "Νικάριστος",
+    "chapters": [
+      {
+        "start": 280,
+        "author": "F. Schober."
+      }
+    ]
+  },
+  {
+    "lemma": "Νικάριστος",
+    "previous": "Nikaretos",
     "next": "Nikas",
     "sort_key": "Nikaristos",
     "proof_read": 2,
@@ -4757,7 +4801,7 @@
   {
     "lemma": "Nikeratos 4",
     "previous": "Nikeratos 3",
-    "next": "Nikertai",
+    "next": "Nikeros 1",
     "chapters": [
       {
         "start": 314,
@@ -4766,8 +4810,30 @@
     ]
   },
   {
-    "lemma": "Nikertai",
+    "lemma": "Nikeros 1",
     "previous": "Nikeratos 4",
+    "next": "Nikeros 2",
+    "chapters": [
+      {
+        "start": 316,
+        "author": "G. Lippold."
+      }
+    ]
+  },
+  {
+    "lemma": "Nikeros 2",
+    "previous": "Nikeros 1",
+    "next": "Nikertai",
+    "chapters": [
+      {
+        "start": 316,
+        "author": "G. Lippold."
+      }
+    ]
+  },
+  {
+    "lemma": "Nikertai",
+    "previous": "Nikeros 2",
     "next": "Nikesias",
     "chapters": [
       {
