@@ -2020,7 +2020,7 @@
   {
     "lemma": "Processanus",
     "previous": "Proca(s) (Silvius)",
-    "next": "Processus 1",
+    "next": "Processius",
     "proof_read": 2,
     "short_description": "Μ. Aurelius P. v(ir) egr(egius) ex centurione praetoriae cohortis VI",
     "no_creative_height": true,
@@ -2033,8 +2033,18 @@
     ]
   },
   {
-    "lemma": "Processus 1",
+    "lemma": "Processius",
     "previous": "Processanus",
+    "next": "Processus 1",
+    "chapters": [
+      {
+        "start": 65
+      }
+    ]
+  },
+  {
+    "lemma": "Processus 1",
+    "previous": "Processius",
     "next": "Processus 2",
     "proof_read": 2,
     "short_description": "Schützling des Symmachus, dem Messala empfohlen",
@@ -2601,7 +2611,7 @@
   {
     "lemma": "Prokulianus",
     "previous": "Proculeius 3",
-    "next": "Proculus 1",
+    "next": "Proculinus",
     "sort_key": "Proculianus",
     "proof_read": 2,
     "short_description": "Person",
@@ -2615,8 +2625,21 @@
     ]
   },
   {
-    "lemma": "Proculus 1",
+    "lemma": "Proculinus",
     "previous": "Prokulianus",
+    "next": "Proculus 1",
+    "sort_key": "Proculianus",
+    "chapters": [
+      {
+        "start": 74,
+        "end": 74,
+        "author": "W. Enßlin."
+      }
+    ]
+  },
+  {
+    "lemma": "Proculus 1",
+    "previous": "Proculinus",
     "next": "Proculus 2",
     "chapters": [
       {
@@ -5132,7 +5155,7 @@
   {
     "lemma": "Prolaos 2",
     "previous": "Prolaos 1",
-    "next": "Prolaque",
+    "next": "Prolaos 3",
     "chapters": [
       {
         "start": 630,
@@ -5141,8 +5164,19 @@
     ]
   },
   {
-    "lemma": "Prolaque",
+    "lemma": "Prolaos 3",
     "previous": "Prolaos 2",
+    "next": "Prolaque",
+    "chapters": [
+      {
+        "start": 630,
+        "author": "Hans v. Geisau."
+      }
+    ]
+  },
+  {
+    "lemma": "Prolaque",
+    "previous": "Prolaos 3",
     "next": "Proletarii",
     "chapters": [
       {
@@ -6154,7 +6188,7 @@
   {
     "lemma": "Proneia",
     "previous": "Pronax",
-    "next": "Pronektos",
+    "next": "Proneie",
     "redirect": "Pronoe 7",
     "proof_read": 2,
     "chapters": [
@@ -6165,8 +6199,18 @@
     ]
   },
   {
-    "lemma": "Pronektos",
+    "lemma": "Proneie",
     "previous": "Proneia",
+    "next": "Pronektos",
+    "chapters": [
+      {
+        "start": 741
+      }
+    ]
+  },
+  {
+    "lemma": "Pronektos",
+    "previous": "Proneie",
     "next": "Proneos 1",
     "chapters": [
       {

@@ -1002,7 +1002,7 @@
   {
     "lemma": "Pyrodes",
     "previous": "Pyrnos 2",
-    "next": "Pyroeis 1",
+    "next": "Pyroeides",
     "proof_read": 2,
     "short_description": "Erfinder der Kunst, Feuer aus dem Kiesel zu schlagen",
     "no_creative_height": true,
@@ -1015,8 +1015,19 @@
     ]
   },
   {
-    "lemma": "Pyroeis 1",
+    "lemma": "Pyroeides",
     "previous": "Pyrodes",
+    "next": "Pyroeis 1",
+    "chapters": [
+      {
+        "start": 56,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "lemma": "Pyroeis 1",
+    "previous": "Pyroeides",
     "next": "Pyroeis 2",
     "chapters": [
       {
@@ -1761,7 +1772,7 @@
   {
     "lemma": "Pyrrhion",
     "previous": "Pyrrhine",
-    "next": "Pyrrhon oros",
+    "next": "Pyrrolochos",
     "redirect": "Pyrgion 1",
     "proof_read": 2,
     "chapters": [
@@ -1772,8 +1783,20 @@
     ]
   },
   {
-    "lemma": "Pyrrhon oros",
+    "lemma": "Pyrrolochos",
     "previous": "Pyrrhion",
+    "next": "Pyrrhon oros",
+    "chapters": [
+      {
+        "start": 87,
+        "end": 87,
+        "author": "Konrat Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Pyrrhon oros",
+    "previous": "Pyrrolochos",
     "next": "Pyrrhon 1",
     "chapters": [
       {
@@ -2309,6 +2332,18 @@
   {
     "lemma": "Pythagoras 11",
     "previous": "Pythagoras 10",
+    "next": "Pythagoras 12a",
+    "chapters": [
+      {
+        "start": 304,
+        "end": 305,
+        "author": "Ziegler"
+      }
+    ]
+  },
+  {
+    "lemma": "Pythagoras 12a",
+    "previous": "Pythagoras 11",
     "next": "Pythagoras 12",
     "chapters": [
       {
@@ -2320,7 +2355,7 @@
   },
   {
     "lemma": "Pythagoras 12",
-    "previous": "Pythagoras 11",
+    "previous": "Pythagoras 12a",
     "next": "Pythagoras 13",
     "proof_read": 2,
     "short_description": "als rhetor mochtheros bei Diog. Laert.",
