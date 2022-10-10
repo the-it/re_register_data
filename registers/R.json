@@ -5687,7 +5687,7 @@
   {
     "lemma": "Paulus 25a",
     "previous": "Patiuma",
-    "next": "Pella 6a",
+    "next": "Pausoi",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -5698,9 +5698,14 @@
     ]
   },
   {
-    "lemma": "Pella 6a",
+    "lemma": "Pausoi",
     "previous": "Paulus 25a",
-    "next": "Philonides 10",
+    "next": "Pella 6a"
+  },
+  {
+    "lemma": "Pella 6a",
+    "previous": "Pausoi",
+    "next": "Philikos",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -5711,8 +5716,13 @@
     ]
   },
   {
-    "lemma": "Philonides 10",
+    "lemma": "Philikos",
     "previous": "Pella 6a",
+    "next": "Philonides 10"
+  },
+  {
+    "lemma": "Philonides 10",
+    "previous": "Philikos",
     "next": "Phormion 8a",
     "redirect": "Aristomachos 5",
     "proof_read": 3,
