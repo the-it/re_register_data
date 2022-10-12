@@ -5761,7 +5761,7 @@
   {
     "lemma": "Phretrarchos",
     "previous": "Phormion 8a",
-    "next": "Pindaros 8",
+    "next": "Phylarchoi",
     "redirect": "Phretarchos",
     "proof_read": 3,
     "chapters": [
@@ -5772,9 +5772,20 @@
     ]
   },
   {
-    "lemma": "Pindaros 8",
+    "lemma": "Phylarchoi",
     "previous": "Phretrarchos",
-    "next": "Pompeius 82a",
+    "next": "Pindaros 8",
+    "chapters": [
+      {
+        "start": 188,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "lemma": "Pindaros 8",
+    "previous": "Phylarchoi",
+    "next": "Pithekon kolpos",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -5785,8 +5796,41 @@
     ]
   },
   {
-    "lemma": "Pompeius 82a",
+    "lemma": "Pithekon kolpos",
     "previous": "Pindaros 8",
+    "next": "Pithekusai limen",
+    "chapters": [
+      {
+        "start": 188,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "lemma": "Pithekusai limen",
+    "previous": "Pithekon kolpos",
+    "next": "Planta a",
+    "chapters": [
+      {
+        "start": 188,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "lemma": "Planta a",
+    "previous": "Pithekusai limen",
+    "next": "Pompeius 82a",
+    "chapters": [
+      {
+        "start": 188,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "lemma": "Pompeius 82a",
+    "previous": "Planta a",
     "next": "Pompeius 126a",
     "redirect": "Pompeius 118",
     "proof_read": 3,
