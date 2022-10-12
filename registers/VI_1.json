@@ -1594,7 +1594,6 @@
     "lemma": "Epigenes 18",
     "previous": "Epigenes 17",
     "next": "Epigenes 19",
-    "redirect": "Theophrastos 3",
     "proof_read": 3,
     "short_description": "Arzt aus dem 4. Jhdt. v. Chr.",
     "no_creative_height": true,
@@ -1895,8 +1894,8 @@
     "lemma": "Epikaste 1",
     "previous": "Epikarpios",
     "next": "Epikaste 2",
-    "proof_read": 2,
-    "short_description": "Tochter d. Kalydon",
+    "proof_read": 3,
+    "short_description": "Tochter d. Kalydon und der Aiolia, in Aitolien",
     "chapters": [
       {
         "start": 112,
@@ -1951,8 +1950,8 @@
     "lemma": "Epikaste 5",
     "previous": "Epikaste 4",
     "next": "Epikedeion",
-    "proof_read": 2,
-    "short_description": "Gattin d. Laios",
+    "proof_read": 3,
+    "short_description": "Gattin d. Laios, Mutter und Gattin des Oidipus",
     "chapters": [
       {
         "start": 112,
@@ -1980,8 +1979,8 @@
     "lemma": "Epikephisia",
     "previous": "Epikedeion",
     "next": "Epikerdes",
-    "proof_read": 2,
-    "short_description": "attischer Demos",
+    "proof_read": 3,
+    "short_description": "attischer Demos der Phyle Oineis",
     "chapters": [
       {
         "start": 113,
@@ -1994,8 +1993,8 @@
     "lemma": "Epikerdes",
     "previous": "Epikephisia",
     "next": "Epikichradas",
-    "proof_read": 2,
-    "short_description": "von Kyrene. Er macht sich um den athenischen Staat wohl verdient durch",
+    "proof_read": 3,
+    "short_description": "Epikerdes von Kyrene. Er macht sich verdient durch die Errettung athenischer Gefangenen in Sicilien",
     "chapters": [
       {
         "start": 114,
@@ -2021,9 +2020,9 @@
   {
     "lemma": "Epikleidas",
     "previous": "Epikichradas",
-    "next": "Ἐπικλείδια",
+    "next": "Epikleidia",
     "redirect": "Eukleidas 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 114,
@@ -2032,7 +2031,7 @@
     ]
   },
   {
-    "lemma": "Ἐπικλείδια",
+    "lemma": "Epikleidia",
     "previous": "Epikleidas",
     "next": "Ἐπίκληρος",
     "sort_key": "Epikleidia",
@@ -2050,7 +2049,7 @@
   },
   {
     "lemma": "Ἐπίκληρος",
-    "previous": "Ἐπικλείδια",
+    "previous": "Epikleidia",
     "next": "Epikles 1",
     "sort_key": "Epikleros",
     "proof_read": 2,
@@ -2203,7 +2202,7 @@
     "previous": "Epiklopeios",
     "next": "Epikoinios",
     "redirect": "Lokris 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 118,
@@ -2970,7 +2969,7 @@
     "previous": "Epikyklidios",
     "next": "Ἐπιλαχών",
     "redirect": "Epikyklidios",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 157,
@@ -3515,11 +3514,14 @@
     "lemma": "Epimerismen",
     "previous": "Ἐπιμήνιοι",
     "next": "Epimetheus",
+    "proof_read": 2,
+    "short_description": "grammatikalische Erläuterungen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 179,
         "end": 181,
-        "author": "Cohn"
+        "author": "Cohn."
       }
     ]
   },
@@ -3527,11 +3529,15 @@
     "lemma": "Epimetheus",
     "previous": "Epimerismen",
     "next": "Epimetron",
+    "proof_read": 2,
+    "short_description": "Bruder des Prometheus, Gatte der Pandora",
+    "no_creative_height": true,
+    "wp_link": "w:de:Epimetheus",
     "chapters": [
       {
         "start": 181,
         "end": 182,
-        "author": "Escher"
+        "author": "Escher."
       }
     ]
   },
@@ -3539,10 +3545,15 @@
     "lemma": "Epimetron",
     "previous": "Epimetheus",
     "next": "Epimylios",
+    "sort_key": "Epimetron",
+    "proof_read": 2,
+    "short_description": "Zugabe, Aufschlag",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 182,
-        "author": "Oehler, J[ohann]"
+        "end": 182,
+        "author": "J. Oehler."
       }
     ]
   },
@@ -3577,7 +3588,7 @@
   {
     "lemma": "Epinesia",
     "previous": "Epineikidas",
-    "next": "Epinetron",
+    "next": "Ἐπίνητρον",
     "proof_read": 2,
     "short_description": "Ἄκρα ἐπινησία (?) zwischen Holmoi und der Kalykadnosmündung, Stad. mar. magn.",
     "chapters": [
@@ -3589,26 +3600,31 @@
     ]
   },
   {
-    "lemma": "Epinetron",
+    "lemma": "Ἐπίνητρον",
     "previous": "Epinesia",
     "next": "Epinikion",
+    "sort_key": "Epinetron",
+    "proof_read": 2,
+    "short_description": "eine Knieschiene, auf der Spinnwolle gerieben wird",
     "chapters": [
       {
         "start": 182,
         "end": 183,
-        "author": "Olck"
+        "author": "Olck."
       }
     ]
   },
   {
     "lemma": "Epinikion",
-    "previous": "Epinetron",
+    "previous": "Ἐπίνητρον",
     "next": "Epinikos 1",
+    "proof_read": 2,
+    "short_description": "Opferfeier wegen eines gewonnenen Sieges, Siegeslied",
     "chapters": [
       {
         "start": 183,
         "end": 184,
-        "author": "Crusius"
+        "author": "Crusius."
       }
     ]
   },
@@ -3728,38 +3744,50 @@
     "lemma": "Epinikos 9",
     "previous": "Epinikos 8",
     "next": "Epinikos 10",
+    "proof_read": 2,
+    "short_description": "Phryger, ab 475 n. Chr. Praefectus praetorio Orientis, an Verschwörung gegen Kaiser Zenon beteiligt",
     "chapters": [
       {
         "start": 185,
-        "author": "Seeck"
+        "end": 185,
+        "author": "Seeck."
       }
     ]
   },
   {
     "lemma": "Epinikos 10",
     "previous": "Epinikos 9",
-    "next": "Epinomia",
+    "next": "Ἐπινομία",
+    "proof_read": 2,
+    "short_description": "Komödiendichter in der Zeit von Antiochos d.Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
-        "author": "Kaibel"
+        "end": 185,
+        "author": "Kaibel."
       }
     ]
   },
   {
-    "lemma": "Epinomia",
+    "lemma": "Ἐπινομία",
     "previous": "Epinikos 10",
     "next": "Epio",
+    "sort_key": "Epinomia",
+    "proof_read": 2,
+    "short_description": "unentgeltliche Benutzung der Gemeindeweide",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
-        "author": "Szanto"
+        "end": 185,
+        "author": "Szanto."
       }
     ]
   },
   {
     "lemma": "Epio",
-    "previous": "Epinomia",
+    "previous": "Ἐπινομία",
     "next": "Epiocheir",
     "proof_read": 2,
     "short_description": "(Ἠπιώ), Kurzform des Namens Epione (s. d.) bei Herondas IV 6.",
@@ -3789,10 +3817,14 @@
     "lemma": "Epiodoros",
     "previous": "Epiocheir",
     "next": "Ἠπιοδώρου νῆσος",
+    "proof_read": 2,
+    "short_description": "Beiwort für alle Götter, zu denen man betet",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
-        "author": "Jessen"
+        "end": 186,
+        "author": "Jessen."
       }
     ]
   },
@@ -3801,8 +3833,8 @@
     "previous": "Epiodoros",
     "next": "Epion, Epeion, Aipion",
     "sort_key": "Epiodorounesos",
-    "proof_read": 2,
-    "short_description": "Epiodorounesos",
+    "proof_read": 3,
+    "short_description": "Epiodorou nesos, Insel im Kolchischen Meerbusen, wohl Kory",
     "chapters": [
       {
         "start": 186,
@@ -3815,10 +3847,12 @@
     "lemma": "Epion, Epeion, Aipion",
     "previous": "Ἠπιοδώρου νῆσος",
     "next": "Epione",
+    "short_description": "Minyerstadt in Triphylien S9, 64, Meyer, Ernst.",
     "chapters": [
       {
         "start": 186,
-        "author": "Philippson"
+        "end": 186,
+        "author": "Philippson."
       }
     ]
   },
@@ -20753,10 +20787,15 @@
     "lemma": "Eukrates 16",
     "previous": "Eukrates 15",
     "next": "Eukratidas",
+    "sort_key": "Eukrates 16",
+    "proof_read": 2,
+    "short_description": "Verfasser von Rhodiaka unbekannter Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1058,
-        "author": "Jacoby, [Felix]"
+        "end": 1058,
+        "author": "Jacoby."
       }
     ]
   },
@@ -21114,11 +21153,13 @@
     "lemma": "Eule",
     "previous": "Eulandra",
     "next": "Eulepa",
+    "proof_read": 2,
+    "short_description": "Nachtraubvogel mit klagendem Geschrei, aus der Unterwelt, der Athene heilig",
     "chapters": [
       {
         "start": 1064,
         "end": 1071,
-        "author": "Wellmann, M[ax]"
+        "author": "M. Wellmann."
       }
     ]
   },
@@ -21140,10 +21181,13 @@
     "lemma": "Eulimene 1",
     "previous": "Eulepa",
     "next": "Eulimene 2",
+    "sort_key": "Eulimene 1",
+    "short_description": "Nereïde auf einem Skyphos des Xenotimos mit Nereus",
     "chapters": [
       {
         "start": 1072,
-        "author": "Waser"
+        "end": 1072,
+        "author": "Waser."
       }
     ]
   },
@@ -21151,10 +21195,13 @@
     "lemma": "Eulimene 2",
     "previous": "Eulimene 1",
     "next": "Eulimene 3",
+    "sort_key": "Eulimene 2",
+    "short_description": "Tochter des Kydon, mit Apteros verlobt, aber im Liebesbund mit Lykastos",
     "chapters": [
       {
         "start": 1072,
-        "author": "Waser"
+        "end": 1072,
+        "author": "Waser."
       }
     ]
   },
@@ -21316,10 +21363,15 @@
     "lemma": "Eumachos 4",
     "previous": "Eumachos 3",
     "next": "Eumachos 5",
+    "sort_key": "Eumachos 4",
+    "proof_read": 2,
+    "short_description": "von Neapel, schrieb eine Geschichte Hannibals in zwei Büchern",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1073,
-        "author": "Jacoby, [Felix]"
+        "end": 1073,
+        "author": "Jacoby."
       }
     ]
   },
@@ -23928,7 +23980,8 @@
     "previous": "Euphemia 2",
     "next": "Euphemias",
     "proof_read": 3,
-    "short_description": "Gattin d. Kaisers Iustin_I.",
+    "short_description": "Gattin Kaiser Iustins I.",
+    "wp_link": "w:de:Euphemia (Kaiserin)",
     "chapters": [
       {
         "start": 1167,
@@ -32520,7 +32573,7 @@
     "next": "Eutyches 7",
     "proof_read": 3,
     "short_description": "Schüler Priscians",
-    "wp_link": "w:ca:Eutiques (escriptor)",
+    "wp_link": "w:ca:Èutiques (gramàtic)",
     "wd_link": "d:Q11921316",
     "chapters": [
       {
@@ -32536,7 +32589,7 @@
     "next": "Eutyches 8",
     "proof_read": 3,
     "short_description": "Bithynischer Bildhauer",
-    "wp_link": "w:ca:Eutiques de Bitínia",
+    "wp_link": "w:ca:Èutiques de Bitínia",
     "wd_link": "d:Q11921321",
     "chapters": [
       {
@@ -32639,8 +32692,11 @@
     "lemma": "Eutychianos 2",
     "previous": "Eutychianos 1",
     "next": "Eutychianos 3",
-    "redirect": "Valerius 151a",
-    "proof_read": 2,
+    "redirect": "Valerius 134",
+    "proof_read": 3,
+    "short_description": "Cognomen des P. Valerius Comazon Eutychianus, Consuls des J. 220 n. Chr.",
+    "wp_link": "w:de:Publius Valerius Comazon",
+    "wd_link": "d:Q113856",
     "chapters": [
       {
         "start": 1531,

@@ -6235,7 +6235,7 @@
   {
     "lemma": "Vallius 5",
     "previous": "Vallius a",
-    "next": "Vecturiones",
+    "next": "Varius 12a",
     "redirect": true,
     "proof_read": 3,
     "short_description": "L. V. Tranquillus, Präsidialprokurator der Provinz Mauretania Tingit. 88 n. Chr.",
@@ -6247,8 +6247,13 @@
     ]
   },
   {
-    "lemma": "Vecturiones",
+    "lemma": "Varius 12a",
     "previous": "Vallius 5",
+    "next": "Vecturiones"
+  },
+  {
+    "lemma": "Vecturiones",
+    "previous": "Varius 12a",
     "next": "Velius 4a",
     "redirect": "Verturiones",
     "proof_read": 3,
@@ -6277,7 +6282,7 @@
   {
     "lemma": "Veturius 34aa",
     "previous": "Velius 4a",
-    "next": "Vibullius 3",
+    "next": "Via 4",
     "redirect": "Magius 19a",
     "proof_read": 3,
     "chapters": [
@@ -6288,8 +6293,16 @@
     ]
   },
   {
+    "lemma": "Via 4",
+    "previous": "Veturius 34aa"
+  },
+  {
+    "lemma": "Via 5",
+    "next": "Vibullius 3"
+  },
+  {
     "lemma": "Vibullius 3",
-    "previous": "Veturius 34aa",
+    "previous": "Via 5",
     "next": "Vicesima 1a",
     "redirect": "Vibulenus 2",
     "proof_read": 3,
@@ -6342,7 +6355,7 @@
   {
     "lemma": "Vinalia 2",
     "previous": "Vinalia 1",
-    "next": "Vitalius a",
+    "next": "Viri illustres",
     "redirect": "Vinalia",
     "proof_read": 3,
     "chapters": [
@@ -6353,8 +6366,16 @@
     ]
   },
   {
+    "lemma": "Viri illustres",
+    "previous": "Vinalia 2"
+  },
+  {
+    "lemma": "Vitalis 6a",
+    "next": "Vitalius a"
+  },
+  {
     "lemma": "Vitalius a",
-    "previous": "Vinalia 2",
+    "previous": "Vitalis 6a",
     "next": "Vitalius 1",
     "redirect": "Antius 14a",
     "proof_read": 3,
