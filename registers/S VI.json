@@ -4738,7 +4738,7 @@
   {
     "lemma": "Schraube",
     "previous": "Scelerata",
-    "next": "Segetica (Segetike",
+    "next": "Scoldium",
     "chapters": [
       {
         "start": 654,
@@ -4748,8 +4748,30 @@
     ]
   },
   {
-    "lemma": "Segetica (Segetike",
+    "lemma": "Scoldium",
     "previous": "Schraube",
+    "next": "Sedo",
+    "chapters": [
+      {
+        "start": 659,
+        "author": "Fluss"
+      }
+    ]
+  },
+  {
+    "lemma": "Sedo",
+    "previous": "Scoldium",
+    "next": "Segetica",
+    "chapters": [
+      {
+        "start": 659,
+        "author": "Fluss"
+      }
+    ]
+  },
+  {
+    "lemma": "Segetica",
+    "previous": "Sedo",
     "next": "Selepitani",
     "chapters": [
       {
@@ -4760,8 +4782,8 @@
   },
   {
     "lemma": "Selepitani",
-    "previous": "Segetica (Segetike",
-    "next": "Seleukeia 15",
+    "previous": "Segetica",
+    "next": "Seleukeia 4",
     "chapters": [
       {
         "start": 659,
@@ -4770,8 +4792,19 @@
     ]
   },
   {
-    "lemma": "Seleukeia 15",
+    "lemma": "Seleukeia 4",
     "previous": "Selepitani",
+    "next": "Seleukeia 15",
+    "chapters": [
+      {
+        "start": 660,
+        "author": "Honigmann"
+      }
+    ]
+  },
+  {
+    "lemma": "Seleukeia 15",
+    "previous": "Seleukeia 4",
     "next": "Seleukeia 16",
     "chapters": [
       {
@@ -4894,7 +4927,7 @@
   {
     "lemma": "Servilius 69",
     "previous": "Servilius 21a",
-    "next": "Sisyphos 3",
+    "next": "Sesarethii",
     "chapters": [
       {
         "start": 819,
@@ -4903,31 +4936,8 @@
     ]
   },
   {
-    "lemma": "Sisyphos 3",
-    "previous": "Servilius 69",
-    "next": "Sitos",
-    "chapters": [
-      {
-        "start": 819,
-        "author": "Hiller von Gaertringen"
-      }
-    ]
-  },
-  {
-    "lemma": "Sitos",
-    "previous": "Sisyphos 3",
-    "next": "Sesarethii",
-    "chapters": [
-      {
-        "start": 819,
-        "end": 892,
-        "author": "Heichelheim"
-      }
-    ]
-  },
-  {
     "lemma": "Sesarethii",
-    "previous": "Sitos",
+    "previous": "Servilius 69",
     "next": "Sesarethus",
     "chapters": [
       {
@@ -4939,7 +4949,7 @@
   {
     "lemma": "Sesarethus",
     "previous": "Sesarethii",
-    "next": "Skaptopara",
+    "next": "Seution",
     "proof_read": 2,
     "short_description": "Sesarethos, illyr. Stadt. vgl. Sesarethii",
     "chapters": [
@@ -4951,8 +4961,42 @@
     ]
   },
   {
-    "lemma": "Skaptopara",
+    "lemma": "Seution",
     "previous": "Sesarethus",
+    "next": "Sisyphos 3",
+    "chapters": [
+      {
+        "start": 820,
+        "author": "Max Fluss."
+      }
+    ]
+  },
+  {
+    "lemma": "Sisyphos 3",
+    "previous": "Seution",
+    "next": "Sitos",
+    "chapters": [
+      {
+        "start": 819,
+        "author": "Hiller von Gaertringen"
+      }
+    ]
+  },
+  {
+    "lemma": "Sitos",
+    "previous": "Sisyphos 3",
+    "next": "Skaptopara",
+    "chapters": [
+      {
+        "start": 819,
+        "end": 892,
+        "author": "Heichelheim"
+      }
+    ]
+  },
+  {
+    "lemma": "Skaptopara",
+    "previous": "Sitos",
     "next": "Skiluros",
     "chapters": [
       {

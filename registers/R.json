@@ -6188,7 +6188,7 @@
   {
     "lemma": "Statilius 17a",
     "previous": "Sophokles 5a",
-    "next": "Tybenissos",
+    "next": "Terentius 60a",
     "redirect": "Kriton 7",
     "proof_read": 3,
     "chapters": [
@@ -6199,8 +6199,28 @@
     ]
   },
   {
-    "lemma": "Tybenissos",
+    "lemma": "Terentius 60a",
     "previous": "Statilius 17a",
+    "next": "Thunusidense",
+    "chapters": [
+      {
+        "start": 212
+      }
+    ]
+  },
+  {
+    "lemma": "Thunusidense",
+    "previous": "Terentius 60a",
+    "next": "Tybenissos",
+    "chapters": [
+      {
+        "start": 215
+      }
+    ]
+  },
+  {
+    "lemma": "Tybenissos",
+    "previous": "Thunusidense",
     "next": "en Tyennesso",
     "redirect": "Tyberis(s)eis",
     "proof_read": 3,
@@ -6339,15 +6359,51 @@
   },
   {
     "lemma": "Via 4",
-    "previous": "Veturius 34aa"
+    "previous": "Veturius 34aa",
+    "next": "Via 5",
+    "chapters": [
+      {
+        "start": 223,
+        "end": 223
+      }
+    ]
   },
   {
     "lemma": "Via 5",
-    "next": "Vibullius 3"
+    "previous": "Via 4",
+    "next": "Vibius 35a",
+    "chapters": [
+      {
+        "start": 223,
+        "end": 223
+      }
+    ]
+  },
+  {
+    "lemma": "Vibius 35a",
+    "previous": "Via 5",
+    "next": "Vibius 72aa",
+    "chapters": [
+      {
+        "start": 223,
+        "end": 223
+      }
+    ]
+  },
+  {
+    "lemma": "Vibius 72aa",
+    "previous": "Vibius 35a",
+    "next": "Vibullius 3",
+    "chapters": [
+      {
+        "start": 223,
+        "end": 223
+      }
+    ]
   },
   {
     "lemma": "Vibullius 3",
-    "previous": "Via 5",
+    "previous": "Vibius 72aa",
     "next": "Vicesima 1a",
     "redirect": "Vibulenus 2",
     "proof_read": 3,
