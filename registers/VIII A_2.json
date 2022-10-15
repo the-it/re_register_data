@@ -996,7 +996,7 @@
   {
     "lemma": "Verofabula",
     "previous": "Verodunum",
-    "next": "Veromandui",
+    "next": "Verolamium",
     "chapters": [
       {
         "start": 1559,
@@ -1005,8 +1005,19 @@
     ]
   },
   {
-    "lemma": "Veromandui",
+    "lemma": "Verolamium",
     "previous": "Verofabula",
+    "next": "Veromandui",
+    "chapters": [
+      {
+        "start": 1559,
+        "end": 1559
+      }
+    ]
+  },
+  {
+    "lemma": "Veromandui",
+    "previous": "Verolamium",
     "next": "Verometum",
     "redirect": "Viromandui, Veromandui",
     "proof_read": 2,
@@ -1020,7 +1031,7 @@
   {
     "lemma": "Verometum",
     "previous": "Veromandui",
-    "next": "Veronica",
+    "next": "Verona",
     "redirect": "Vernemetum",
     "proof_read": 2,
     "chapters": [
@@ -1031,9 +1042,20 @@
     ]
   },
   {
-    "lemma": "Veronica",
+    "lemma": "Verona",
     "previous": "Verometum",
-    "next": "Vero...rtitianus vicus",
+    "next": "Veronica",
+    "chapters": [
+      {
+        "start": 1559,
+        "end": 1559
+      }
+    ]
+  },
+  {
+    "lemma": "Veronica",
+    "previous": "Verona",
+    "next": "Veronicianus 1",
     "chapters": [
       {
         "start": 1559,
@@ -1042,19 +1064,8 @@
     ]
   },
   {
-    "lemma": "Vero...rtitianus vicus",
-    "previous": "Veronica",
-    "next": "Veronicianus 1",
-    "chapters": [
-      {
-        "start": 1560,
-        "author": "Saria"
-      }
-    ]
-  },
-  {
     "lemma": "Veronicianus 1",
-    "previous": "Vero...rtitianus vicus",
+    "previous": "Veronica",
     "next": "Veronicianus 2",
     "chapters": [
       {
@@ -1096,7 +1107,7 @@
   {
     "lemma": "Veronius",
     "previous": "Veronicianus 3",
-    "next": "Verora",
+    "next": "Vero...rtitianus vicus",
     "proof_read": 2,
     "short_description": "Falsche Lesart für Duranius s. Duranius",
     "no_creative_height": true,
@@ -1109,12 +1120,24 @@
     ]
   },
   {
-    "lemma": "Verora",
+    "lemma": "Vero...rtitianus vicus",
     "previous": "Veronius",
+    "next": "Verora",
+    "chapters": [
+      {
+        "start": 1560,
+        "author": "Saria"
+      }
+    ]
+  },
+  {
+    "lemma": "Verora",
+    "previous": "Vero...rtitianus vicus",
     "next": "Ueros",
     "chapters": [
       {
         "start": 1560,
+        "end": 1561,
         "author": "Heichelheim."
       }
     ]
@@ -10452,22 +10475,22 @@
     "chapters": [
       {
         "start": 2423,
+        "end": 2425,
         "author": "Kirsten"
       }
     ]
   },
   {
     "lemma": "Verolamium",
-    "previous": "Verofabula",
-    "next": "Veromandui",
-    "redirect": true,
+    "previous": "Verisa",
+    "next": "Verona",
     "proof_read": 2,
     "short_description": "Stadt in Britannien, jetzt St. Alban’s, Hertfordshire",
     "wp_link": "w:de:Verulamium",
     "chapters": [
       {
-        "start": 1559,
-        "end": 1559
+        "start": 2425,
+        "end": 2426
       }
     ]
   },
