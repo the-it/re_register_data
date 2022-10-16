@@ -6290,7 +6290,7 @@
   {
     "lemma": "Thymelaia",
     "previous": "Thymbros",
-    "next": "Thymele",
+    "next": "Thymele 0",
     "chapters": [
       {
         "start": 699,
@@ -6299,9 +6299,10 @@
     ]
   },
   {
-    "lemma": "Thymele",
+    "lemma": "Thymele 0",
     "previous": "Thymelaia",
-    "next": "Thymele 2",
+    "next": "Thymele",
+    "sort_key": "Thymele 0",
     "chapters": [
       {
         "start": 700,
@@ -6310,9 +6311,10 @@
     ]
   },
   {
-    "lemma": "Thymele 2",
-    "previous": "Thymele",
+    "lemma": "Thymele",
+    "previous": "Thymele 0",
     "next": "Thymelicus",
+    "sort_key": "Thymele 1",
     "chapters": [
       {
         "start": 700,
