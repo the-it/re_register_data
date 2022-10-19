@@ -3339,6 +3339,7 @@
     "short_description": "die verschiedenen Arten von Epimeleten (= Beamten)",
     "no_creative_height": true,
     "wp_link": "w:de:Epimelet",
+    "wd_link": "d:Q1347123",
     "chapters": [
       {
         "start": 162,
@@ -3353,7 +3354,7 @@
     "next": "Epimelia",
     "sort_key": "Epimeletaitonmysterion",
     "proof_read": 2,
-    "short_description": "Oberaufsicht über die eleusinischen Mysterien",
+    "short_description": "Oberaufseher über die eleusinischen Mysterien",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3401,6 +3402,7 @@
     "short_description": "Epimelides oder Epimeliades, Nymphen, unter deren Schutz die Herden stehen",
     "no_creative_height": true,
     "wp_link": "w:de:en:Epimeliad",
+    "wd_link": "d:Q2006573",
     "chapters": [
       {
         "start": 172,
@@ -3475,6 +3477,7 @@
     "no_creative_height": true,
     "wp_link": "w:de:Epimenides",
     "ws_link": "s:it:Autore:Epimenide",
+    "wd_link": "d:Q319406",
     "chapters": [
       {
         "start": 173,
@@ -5034,7 +5037,7 @@
   {
     "lemma": "Epitalion",
     "previous": "Ἐπιταλάριος",
-    "next": "Epitaphios",
+    "next": "Ἐπιτάφιος",
     "sort_key": "Epitalion",
     "short_description": "Stadt in Triphylien",
     "wp_link": "w:en:Epitalium",
@@ -5048,20 +5051,23 @@
     ]
   },
   {
-    "lemma": "Epitaphios",
+    "lemma": "Ἐπιτάφιος",
     "previous": "Epitalion",
     "next": "Epitausa",
+    "sort_key": "Epitaphios",
+    "proof_read": 2,
+    "short_description": "jährliche Gedenkfeier in Athen für die Gefallenen",
     "chapters": [
       {
         "start": 218,
         "end": 219,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Epitausa",
-    "previous": "Epitaphios",
+    "previous": "Ἐπιτάφιος",
     "next": "Epitegios",
     "proof_read": 2,
     "short_description": "(Ptolem. VII 1, 6f.), Ort in Indoskythien, auf dem linken Ufer des Indos",
@@ -5077,10 +5083,13 @@
     "lemma": "Epitegios",
     "previous": "Epitausa",
     "next": "Epiteles 1",
+    "proof_read": 2,
+    "short_description": "laut einer Inschrift im Theater zu Athen ein wohltätiger Schützer der menschlichen Hausdächer",
     "chapters": [
       {
         "start": 220,
-        "author": "Hiller von Gaertringen"
+        "end": 220,
+        "author": "Hiller v. Gärtringen."
       }
     ]
   },
@@ -5173,10 +5182,13 @@
     "lemma": "Epitermios",
     "previous": "Epitelidas",
     "next": "Epithalamion",
+    "proof_read": 2,
+    "short_description": "Epiklesis des Hermes",
     "chapters": [
       {
         "start": 220,
-        "author": "Jessen"
+        "end": 220,
+        "author": "Jessen."
       }
     ]
   },
@@ -5196,45 +5208,59 @@
   {
     "lemma": "Epithalamites",
     "previous": "Epithalamion",
-    "next": "Epitheatron",
+    "next": "Ἐπιθέατρον",
+    "proof_read": 2,
+    "short_description": "Epiklesis des Hermes auf Euboia",
     "chapters": [
       {
         "start": 220,
-        "author": "Jessen"
+        "end": 220,
+        "author": "Jessen."
       }
     ]
   },
   {
-    "lemma": "Epitheatron",
+    "lemma": "Ἐπιθέατρον",
     "previous": "Epithalamites",
-    "next": "Epitheke",
+    "next": "Ἐπιθήκη",
+    "sort_key": "Epitheatron",
+    "proof_read": 2,
+    "short_description": "oberster Rang im Theater",
     "chapters": [
       {
         "start": 220,
-        "author": "Reisch"
+        "end": 220,
+        "author": "Reisch."
       }
     ]
   },
   {
-    "lemma": "Epitheke",
-    "previous": "Epitheatron",
+    "lemma": "Ἐπιθήκη",
+    "previous": "Ἐπιθέατρον",
     "next": "Epitherses 1",
+    "sort_key": "Epitheke",
+    "proof_read": 2,
+    "short_description": "Schuldverhältnis mit Unterpfand",
     "chapters": [
       {
         "start": 220,
         "end": 221,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Epitherses 1",
-    "previous": "Epitheke",
+    "previous": "Ἐπιθήκη",
     "next": "Epitherses 2",
+    "proof_read": 2,
+    "short_description": "zweifacher Olympionike im Faustkampf, aus Erythrai, 3./2, Jhdt. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 221,
-        "author": "Kirchner"
+        "end": 221,
+        "author": "Kirchner."
       }
     ]
   },
@@ -5242,38 +5268,47 @@
     "lemma": "Epitherses 2",
     "previous": "Epitherses 1",
     "next": "Epithymia",
+    "proof_read": 2,
+    "short_description": "griechischer Grammatiker aus Nikaia, zur Zeit von Kaiser Tiberius",
     "chapters": [
       {
         "start": 221,
-        "author": "Cohn"
+        "end": 221,
+        "author": "Cohn."
       }
     ]
   },
   {
     "lemma": "Epithymia",
     "previous": "Epitherses 2",
-    "next": "Epithymiatros",
+    "next": "Ἐπιθυμίατρος",
+    "short_description": "Personifikation der Begierde, allegorische Deutung für Aphrodite",
     "chapters": [
       {
         "start": 221,
-        "author": "Waser"
+        "end": 221,
+        "author": "Waser."
       }
     ]
   },
   {
-    "lemma": "Epithymiatros",
+    "lemma": "Ἐπιθυμίατρος",
     "previous": "Epithymia",
     "next": "Epitimides 1",
+    "sort_key": "Epithymiatros",
+    "proof_read": 2,
+    "short_description": "priesterlicher Beamter in Ephesos, der unblutige Opfergaben wie Weihrauch auf dem Altar zu verbrennen hatte",
     "chapters": [
       {
         "start": 221,
-        "author": "Stengel"
+        "end": 221,
+        "author": "Stengel."
       }
     ]
   },
   {
     "lemma": "Epitimides 1",
-    "previous": "Epithymiatros",
+    "previous": "Ἐπιθυμίατρος",
     "next": "Epitimides 2",
     "proof_read": 2,
     "short_description": "aus der Philosophenschule in Kyrene, Kyrenaiker, Schüler des Antipatros",
@@ -5288,40 +5323,49 @@
   {
     "lemma": "Epitimides 2",
     "previous": "Epitimides 1",
-    "next": "Epitimion 1",
+    "next": "Ἐπιτίμιον 1",
+    "short_description": "dramatisch ausgeschmückte Nachricht über das Schicksal der Leiche des spartanischen Königs Pausanias",
     "chapters": [
       {
         "start": 221,
-        "author": "Jacoby, [Felix]"
+        "end": 221,
+        "author": "Jacoby."
       }
     ]
   },
   {
-    "lemma": "Epitimion 1",
+    "lemma": "Ἐπιτίμιον 1",
     "previous": "Epitimides 2",
-    "next": "Epitimion 2",
+    "next": "Ἐπιτίμιον 2",
+    "sort_key": "Epitimion 1",
+    "proof_read": 2,
+    "short_description": "festgelegte Strafe für Vergehen",
     "chapters": [
       {
         "start": 221,
         "end": 222,
-        "author": "Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
-    "lemma": "Epitimion 2",
-    "previous": "Epitimion 1",
+    "lemma": "Ἐπιτίμιον 2",
+    "previous": "Ἐπιτίμιον 1",
     "next": "Epitimos 1",
+    "sort_key": "Epitimion 2",
+    "proof_read": 2,
+    "short_description": "die für Vergehen verhängte Strafe",
     "chapters": [
       {
         "start": 222,
-        "author": "Thalheim"
+        "end": 222,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Epitimos 1",
-    "previous": "Epitimion 2",
+    "previous": "Ἐπιτίμιον 2",
     "next": "Epitimos 2",
     "proof_read": 2,
     "short_description": "aus Ambrakia, Didaskalos, an den Soterien in Delphoi 272/1 v. Chr.",
@@ -5350,7 +5394,7 @@
   {
     "lemma": "Epitimos 3",
     "previous": "Epitimos 2",
-    "next": "Epitokizein",
+    "next": "Ἐπιτοκίζειν",
     "proof_read": 2,
     "short_description": "attischer Vasenfabrikant des 6. Jh. v. Chr.",
     "chapters": [
@@ -5362,19 +5406,23 @@
     ]
   },
   {
-    "lemma": "Epitokizein",
+    "lemma": "Ἐπιτοκίζειν",
     "previous": "Epitimos 3",
     "next": "Epitonion",
+    "sort_key": "Epitokizein",
+    "proof_read": 2,
+    "short_description": "Zinsen stehen lassen",
     "chapters": [
       {
         "start": 222,
-        "author": "Thalheim"
+        "end": 222,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Epitonion",
-    "previous": "Epitokizein",
+    "previous": "Ἐπιτοκίζειν",
     "next": "Epitonos",
     "redirect": "Epistomion",
     "proof_read": 2,
@@ -5389,10 +5437,12 @@
     "lemma": "Epitonos",
     "previous": "Epitonion",
     "next": "Epitragia",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 222,
-        "author": "Rossbach"
+        "end": 222,
+        "author": "O. Rossbach."
       }
     ]
   },
@@ -5400,11 +5450,13 @@
     "lemma": "Epitragia",
     "previous": "Epitonos",
     "next": "Epitrapezios",
+    "proof_read": 2,
+    "short_description": "Epiklesis der Aphrodite, hier auf einem Bock reitend",
     "chapters": [
       {
         "start": 222,
         "end": 223,
-        "author": "Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -10367,19 +10419,23 @@
   },
   {
     "lemma": "Erotianos",
-    "previous": "Ἠροσάνθεια",
+    "previous": "Ἡροσάνθεια",
     "next": "Eroticus",
+    "proof_read": 2,
+    "short_description": "griechischer Grammatiker, Verfasser eines Glossars zu Hippokrates",
+    "wp_link": "w:de:Erotianos (Grammatiker)",
     "chapters": [
       {
         "start": 544,
-        "end": 548
+        "end": 548,
+        "author": "Cohn."
       }
     ]
   },
   {
     "lemma": "Eroticus",
     "previous": "Erotianos",
-    "next": "Erotidia",
+    "next": "Ἐρωτίδια",
     "proof_read": 2,
     "short_description": "arretinischer Töpfer, Ihm Bonn. Jahrb. CII 108.",
     "chapters": [
@@ -10391,19 +10447,23 @@
     ]
   },
   {
-    "lemma": "Erotidia",
+    "lemma": "Ἐρωτίδια",
     "previous": "Eroticus",
     "next": "Erotimos",
+    "sort_key": "Erotidia",
+    "proof_read": 2,
+    "short_description": "Erotidia, Eros-Fest in Thespiae alle fünf Jahre",
     "chapters": [
       {
         "start": 548,
-        "author": "Stengel"
+        "end": 548,
+        "author": "Stengel."
       }
     ]
   },
   {
     "lemma": "Erotimos",
-    "previous": "Erotidia",
+    "previous": "Ἐρωτίδια",
     "next": "Erotion",
     "proof_read": 2,
     "short_description": "Araberkönig, Vater von 700 Söhnen, brandschatzt in der Zeit nach dem",
@@ -19431,6 +19491,7 @@
     "proof_read": 2,
     "short_description": "Sohn und Nachfolger des biblischen Nebukadnezar 562 v. Chr.",
     "wp_link": "w:de:Amēl-Marduk",
+    "wd_link": "d:Q313234",
     "chapters": [
       {
         "start": 991,
@@ -27453,6 +27514,7 @@
     "next": "Eurydamas 2",
     "proof_read": 2,
     "short_description": "Greiser Troianer",
+    "wd_link": "d:Q61030727",
     "chapters": [
       {
         "start": 1321,
@@ -27523,6 +27585,8 @@
     "next": "Eurydamas 7",
     "proof_read": 2,
     "short_description": "Sohn d. Aigyptos",
+    "wp_link": "w:de:Eurydamas (Sohn des Aigyptos)",
+    "wd_link": "d:Q15631096",
     "chapters": [
       {
         "start": 1322,
@@ -27535,8 +27599,9 @@
     "lemma": "Eurydamas 7",
     "previous": "Eurydamas 6",
     "next": "Eurydamas 8",
-    "proof_read": 2,
-    "short_description": "Grieche im troianischen Pferd",
+    "proof_read": 3,
+    "short_description": "Grieche im trojanischen Pferd, Sohn des Pelias",
+    "wp_link": "w:de:Eurydamas (Sohn des Pelias)",
     "chapters": [
       {
         "start": 1322,
@@ -33245,7 +33310,7 @@
     "previous": "Eutychios 1",
     "next": "Eutychios 3",
     "proof_read": 3,
-    "short_description": "Flavius Asclepiades Praeses Thebaidos",
+    "short_description": "Flavius Asclepiades Praeses Thebaidos in d. J. 390/391",
     "chapters": [
       {
         "start": 1535,
@@ -33332,7 +33397,7 @@
     "lemma": "Eutychos 5",
     "previous": "Eutychos 4",
     "next": "Eutychos 6",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Person bei Mart.",
     "chapters": [
       {
@@ -33359,8 +33424,8 @@
     "lemma": "Eutychos 7",
     "previous": "Eutychos 6",
     "next": "Eutychos 8",
-    "proof_read": 2,
-    "short_description": "Porträtmaler",
+    "proof_read": 3,
+    "short_description": "Porträtmaler, evtl. erfundene Person",
     "chapters": [
       {
         "start": 1536,
