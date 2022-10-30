@@ -5386,7 +5386,7 @@
     "previous": "Ἐπιτίμιον 2",
     "next": "Epitimos 2",
     "proof_read": 3,
-    "short_description": "Epitimos aus Ambrakia, Didaskalos, Teilnehmer an den Soterien in Delphoi 272/1 v. Chr.",
+    "short_description": "Epitimos aus Ambrakia, Didaskalos an den Soterien in Delphoi 272/1 v. Chr.",
     "chapters": [
       {
         "start": 222,
@@ -6482,8 +6482,9 @@
     "previous": "Equestris",
     "next": "Equirria",
     "proof_read": 2,
-    "short_description": "Pferderennen",
+    "short_description": "Pferde für Wagenrennen im römischen Zirkus",
     "wp_link": "w:de:Pferderennen",
+    "wd_link": "d:Q187916",
     "chapters": [
       {
         "start": 267,
@@ -6513,6 +6514,7 @@
     "proof_read": 2,
     "short_description": "die Familie der Schachtelhalme",
     "wp_link": "w:de:Schachtelhalme",
+    "wd_link": "d:Q28114",
     "chapters": [
       {
         "start": 272,
@@ -6567,6 +6569,7 @@
     "short_description": "Reitertruppe im Römischen Reich, Gardetruppe",
     "no_creative_height": true,
     "wp_link": "w:de:Equites singulares",
+    "wd_link": "d:Q1347879",
     "chapters": [
       {
         "start": 321,
@@ -6579,10 +6582,10 @@
     "lemma": "Equitius 1",
     "previous": "Equites singulares 2",
     "next": "Equitius 2",
-    "proof_read": 2,
-    "short_description": "Magister utriusque militiae per Illyricum, Consul, im 4. Jhdt. n. Chr.",
-    "no_creative_height": true,
-    "wp_link": "w:de:en:Equitius (consul)",
+    "proof_read": 3,
+    "short_description": "Magister utriusque militiae per Illyricum, Consul, 4. Jhdt. n. Chr.",
+    "wp_link": "w:en:Equitius (consul)",
+    "wd_link": "d:Q63465023",
     "chapters": [
       {
         "start": 321,
@@ -6685,8 +6688,8 @@
     "previous": "Equorum probatio",
     "next": "Equus",
     "sort_key": "Equosera(?)",
-    "proof_read": 2,
-    "short_description": "Nur beim Geogr. Rav. IV 44 p. 313, 5 nach Pallantia (s. d.) genannter Ort im",
+    "proof_read": 3,
+    "short_description": "Nur beim Geogr. Rav. nach Pallantia genannter Ort in Spanien",
     "chapters": [
       {
         "start": 324,
@@ -7959,11 +7962,15 @@
     "lemma": "Erechtheus 1",
     "previous": "Erechtheus",
     "next": "Erechtheus 2",
+    "proof_read": 2,
+    "short_description": "Erechtheus, attischer Heros, Sohn des Pandios, König von Attika",
+    "no_creative_height": true,
+    "wp_link": "w:de:Erechtheus",
     "chapters": [
       {
         "start": 405,
         "end": 410,
-        "author": "Escher"
+        "author": "Escher."
       }
     ]
   },
@@ -7971,18 +7978,21 @@
     "lemma": "Erechtheus 2",
     "previous": "Erechtheus 1",
     "next": "Erechtheus 3",
+    "proof_read": 2,
+    "short_description": "Beiname des Zeus in Athen und Arkadien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 410,
         "end": 411,
-        "author": "Escher"
+        "author": "Escher."
       }
     ]
   },
   {
     "lemma": "Erechtheus 3",
     "previous": "Erechtheus 2",
-    "next": "Ereike",
+    "next": "Ἐρείκη",
     "proof_read": 2,
     "short_description": "Beiname d. Poseidon",
     "chapters": [
@@ -7994,20 +8004,24 @@
     ]
   },
   {
-    "lemma": "Ereike",
+    "lemma": "Ἐρείκη",
     "previous": "Erechtheus 3",
     "next": "Ereithis",
+    "sort_key": "Ereike",
+    "proof_read": 2,
+    "short_description": "Heidekraut, Pflanzenart",
+    "wp_link": "w:de:Heidekräuter",
     "chapters": [
       {
         "start": 411,
         "end": 412,
-        "author": "Stadler"
+        "author": "Stadler."
       }
     ]
   },
   {
     "lemma": "Ereithis",
-    "previous": "Ereike",
+    "previous": "Ἐρείκη",
     "next": "Ereithos",
     "proof_read": 3,
     "short_description": "ägyptisches Dorf im Gau von Hermupolis",
@@ -8023,10 +8037,14 @@
     "lemma": "Ereithos",
     "previous": "Ereithis",
     "next": "Erekon",
+    "proof_read": 2,
+    "short_description": "Epiklesis der Artemis in Athen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 412,
-        "author": "Jessen"
+        "end": 412,
+        "author": "Jessen."
       }
     ]
   },
@@ -8048,11 +8066,14 @@
     "lemma": "Erelieva",
     "previous": "Erekon",
     "next": "Eremboi",
+    "sort_key": "Erelieva",
+    "proof_read": 2,
+    "short_description": "Mutter von Theoderich d. Gr.",
     "chapters": [
       {
         "start": 412,
         "end": 413,
-        "author": "Benjamin"
+        "author": "Benjamin."
       }
     ]
   },
@@ -22549,6 +22570,7 @@
     "proof_read": 2,
     "short_description": "I., König von Pergamon 263–241 v. Chr., Nachfolger des Philetairos",
     "wp_link": "w:de:Eumenes I.",
+    "wd_link": "d:Q314341",
     "chapters": [
       {
         "start": 1090,

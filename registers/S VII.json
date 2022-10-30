@@ -5225,9 +5225,15 @@
     "lemma": "ad Octavum 4",
     "previous": "ad Octavum 3",
     "next": "Oda",
+    "sort_key": "Octavum 4",
+    "proof_read": 2,
+    "short_description": "nicht näher zu bestimmende Station nahe Turin",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 695
+        "start": 695,
+        "end": 696,
+        "author": "Hans Philipp."
       }
     ]
   },
@@ -5235,10 +5241,12 @@
     "lemma": "Oda",
     "previous": "ad Octavum 4",
     "next": "Odainathos",
+    "short_description": "Oda, Armenier aus der Familie Amaduni, Ratgeber des Königs Trdat III.",
     "chapters": [
       {
         "start": 696,
-        "author": "Enßlin"
+        "end": 696,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5246,26 +5254,32 @@
     "lemma": "Odainathos",
     "previous": "Oda",
     "next": "Odyssee",
+    "proof_read": 2,
+    "short_description": "O. (von Palmyra?), Nachkomme des Septimius Odaenathus, Vater des Eusebios",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 696,
-        "author": "Enßlin"
+        "end": 696,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Odyssee",
     "previous": "Odainathos",
-    "next": "Ogdaimoi",
+    "next": "Ὄγδαιμοι",
+    "short_description": "das homerische Epos Odyssee",
     "chapters": [
       {
         "start": 696,
-        "author": "Von der Mühll"
+        "end": 768,
+        "author": "P. Von der Mühll."
       }
     ]
   },
   {
-    "lemma": "Ogdaimoi",
+    "lemma": "Ὄγδαιμοι",
     "previous": "Odyssee",
     "next": "Ogiplosioi",
     "chapters": [
@@ -5277,7 +5291,7 @@
   },
   {
     "lemma": "Ogiplosioi",
-    "previous": "Ogdaimoi",
+    "previous": "Ὄγδαιμοι",
     "next": "Oichalia 4",
     "chapters": [
       {
