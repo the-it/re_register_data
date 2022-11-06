@@ -7694,6 +7694,7 @@
     "short_description": "ein illyrisch-keltischer Stamm im Norden von Pannonia inferior",
     "no_creative_height": true,
     "wp_link": "w:de:Eravisker",
+    "wd_link": "d:Q990124",
     "chapters": [
       {
         "start": 389,
@@ -7739,6 +7740,7 @@
     "short_description": "die Gattung der Erbsen",
     "no_creative_height": true,
     "wp_link": "w:de:Erbse",
+    "wd_link": "d:Q25237",
     "chapters": [
       {
         "start": 393,
@@ -7755,6 +7757,7 @@
     "short_description": "historische Stadt in Hispanien, im heutigen Kastilien - La Mancha",
     "no_creative_height": true,
     "wp_link": "w:de:Ercavica",
+    "wd_link": "d:Q1348600",
     "chapters": [
       {
         "start": 397,
@@ -7853,6 +7856,7 @@
     "proof_read": 2,
     "short_description": "baumartiger Strauch mit eher ungenießbaren Früchten",
     "wp_link": "w:de:Erdbeerbäume",
+    "wd_link": "d:Q430057",
     "chapters": [
       {
         "start": 399,
@@ -8546,7 +8550,8 @@
     "previous": "Ereuates",
     "next": "Ereuthalion 2",
     "proof_read": 3,
-    "short_description": "Führer d. Arkader",
+    "short_description": "Führer d. Arkader, der von Nestor im Zweikampf getötet wird",
+    "wp_link": "w:de:en:Ereuthalion",
     "chapters": [
       {
         "start": 426,
@@ -9273,7 +9278,7 @@
   {
     "lemma": "Eribas",
     "previous": "Erianthes",
-    "next": "Eribianos lophos",
+    "next": "Ἐριβιανὸς λόφος",
     "proof_read": 2,
     "short_description": "Archon in Delphoi c. 316 v. Chr. Bull. hell. XX 636; vgl. Pomtows Art. Delphoi",
     "chapters": [
@@ -9285,24 +9290,32 @@
     ]
   },
   {
-    "lemma": "Eribianos lophos",
+    "lemma": "Ἐριβιανὸς λόφος",
     "previous": "Eribas",
     "next": "Eriboas",
+    "sort_key": "Eribianoslophos",
+    "proof_read": 2,
+    "short_description": "Ort einer Kriegslist des Hannibal",
     "chapters": [
       {
         "start": 438,
-        "author": "Hülsen"
+        "end": 438,
+        "author": "Hülsen."
       }
     ]
   },
   {
     "lemma": "Eriboas",
-    "previous": "Eribianos lophos",
+    "previous": "Ἐριβιανὸς λόφος",
     "next": "Eriboia 1",
+    "sort_key": "Eriboas",
+    "proof_read": 2,
+    "short_description": "Beiwort zum Gott Dionysos",
     "chapters": [
       {
         "start": 438,
-        "author": "Jessen"
+        "end": 438,
+        "author": "Jessen."
       }
     ]
   },
@@ -9310,10 +9323,14 @@
     "lemma": "Eriboia 1",
     "previous": "Eriboas",
     "next": "Eriboia 2",
+    "sort_key": "Eriboia 1",
+    "proof_read": 2,
+    "short_description": "Eriboia, Ort in Bithynien",
     "chapters": [
       {
         "start": 438,
-        "author": "Ruge"
+        "end": 438,
+        "author": "Ruge."
       }
     ]
   },
@@ -9321,10 +9338,14 @@
     "lemma": "Eriboia 2",
     "previous": "Eriboia 1",
     "next": "Eriboia 3",
+    "sort_key": "Eriboia 2",
+    "proof_read": 2,
+    "short_description": "Gattin d. Telamon, Mutter des Aias",
     "chapters": [
       {
         "start": 438,
-        "author": "Tümpel"
+        "end": 438,
+        "author": "Tümpel."
       }
     ]
   },
