@@ -578,7 +578,6 @@
   {
     "lemma": "Agenor 1b",
     "previous": "Agemon 2",
-    "next": "Aianteion 2",
     "chapters": [
       {
         "start": 13,
@@ -587,9 +586,13 @@
     ]
   },
   {
+    "lemma": "Agenor 1a",
+    "next": "Aianteion 2"
+  },
+  {
     "lemma": "Aianteion 2",
-    "previous": "Agenor 1b",
-    "next": "Aigialos 5a",
+    "previous": "Agenor 1a",
+    "next": "Aigialos 5",
     "proof_read": 3,
     "chapters": [
       {
@@ -599,8 +602,11 @@
     ]
   },
   {
+    "lemma": "Aigialos 5",
+    "previous": "Aianteion 2"
+  },
+  {
     "lemma": "Aigialos 5a",
-    "previous": "Aianteion 2",
     "next": "Aioleion",
     "chapters": [
       {
