@@ -3521,7 +3521,7 @@
   {
     "lemma": "Grattius 3",
     "previous": "Glemona",
-    "next": "Hellenika Oxyrhynchia",
+    "next": "Haterius 9",
     "chapters": [
       {
         "start": 383,
@@ -3531,19 +3531,25 @@
     ]
   },
   {
-    "lemma": "Hellenika Oxyrhynchia",
+    "lemma": "Haterius 9",
     "previous": "Grattius 3",
+    "next": "Hawila",
     "chapters": [
       {
-        "start": 383,
-        "end": 426,
-        "author": "Breitenbach"
+        "start": 384,
+        "author": "Hanslik"
       }
     ]
   },
   {
     "lemma": "Hawila",
-    "next": "Hedius 1"
+    "previous": "Haterius 9",
+    "next": "Hedius 1",
+    "chapters": [
+      {
+        "start": 384
+      }
+    ]
   },
   {
     "lemma": "Hedius 1",
@@ -3560,8 +3566,9 @@
     ]
   },
   {
-    "lemma": "Hedius 1a",
-    "next": "Hedius 2",
+    "lemma": "Hedius 2",
+    "previous": "Hedius 1",
+    "next": "Hellenika Oxyrhynchia",
     "chapters": [
       {
         "start": 384,
@@ -3570,19 +3577,20 @@
     ]
   },
   {
-    "lemma": "Hedius 2",
-    "previous": "Hedius 1a",
+    "lemma": "Hellenika Oxyrhynchia",
+    "previous": "Hedius 2",
     "next": "Helvius 16a",
     "chapters": [
       {
-        "start": 384,
-        "author": "Hanslik"
+        "start": 383,
+        "end": 426,
+        "author": "Breitenbach"
       }
     ]
   },
   {
     "lemma": "Helvius 16a",
-    "previous": "Hedius 2",
+    "previous": "Hellenika Oxyrhynchia",
     "next": "Helvius 19a",
     "chapters": [
       {
