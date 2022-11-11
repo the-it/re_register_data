@@ -21372,33 +21372,54 @@
     "lemma": "Germanianus 1",
     "previous": "Germani 2",
     "next": "Germanianus 2",
+    "proof_read": 2,
+    "short_description": "Decimius Germanianus, Cos. 363 n. Chr.",
     "chapters": [
       {
         "start": 1250,
         "end": 1251,
-        "author": "Seeck"
+        "author": "Seeck."
       }
     ]
   },
   {
     "lemma": "Germanianus 2",
     "previous": "Germanianus 1",
-    "next": "Germaniciana",
+    "next": "Germanicia",
+    "proof_read": 2,
+    "short_description": "Germanianus, Comes sacrarum largitionum am Hofe Valentinians I. 366 n. Chr.",
     "chapters": [
       {
         "start": 1251,
-        "author": "Seeck"
+        "end": 1251,
+        "author": "Seeck."
+      }
+    ]
+  },
+  {
+    "lemma": "Germanicia",
+    "previous": "Germanianus 2",
+    "next": "Germaniciana",
+    "redirect": "Kaisareia 9",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 1251,
+        "end": 1251
       }
     ]
   },
   {
     "lemma": "Germaniciana",
-    "previous": "Germanianus 2",
+    "previous": "Germanicia",
     "next": "Germanicomagus",
+    "redirect": true,
+    "proof_read": 2,
     "chapters": [
       {
         "start": 1251,
-        "author": "Dessau"
+        "end": 1251,
+        "author": "Dessau."
       }
     ]
   },
@@ -21406,10 +21427,13 @@
     "lemma": "Germanicomagus",
     "previous": "Germaniciana",
     "next": "Germanicum",
+    "proof_read": 2,
+    "short_description": "Germanicomagus, Ort in Aquitanien, Dép. Charente",
     "chapters": [
       {
         "start": 1251,
-        "author": "Ihm"
+        "end": 1251,
+        "author": "Ihm."
       }
     ]
   },
@@ -21417,10 +21441,13 @@
     "lemma": "Germanicum",
     "previous": "Germanicomagus",
     "next": "Germanicus 1",
+    "proof_read": 2,
+    "short_description": "Germanicum, heute Kösching bei Regensburg",
     "chapters": [
       {
         "start": 1251,
-        "author": "Ihm"
+        "end": 1251,
+        "author": "Ihm."
       }
     ]
   },

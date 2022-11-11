@@ -23304,7 +23304,6 @@
   {
     "lemma": "Germani 3",
     "previous": "Germani 2bis",
-    "next": "Germania",
     "chapters": [
       {
         "start": 546,
@@ -23314,14 +23313,19 @@
     ]
   },
   {
+    "lemma": "Germani",
+    "next": "Germania"
+  },
+  {
     "lemma": "Germania",
-    "previous": "Germani 3",
+    "previous": "Germani",
     "next": "Germ(anicae?) figlinae",
+    "short_description": "Germania, Stadt in Dacia Mediterranea",
     "chapters": [
       {
         "start": 585,
         "end": 586,
-        "author": "Kazarow"
+        "author": "Kazarow."
       }
     ]
   },
@@ -23329,10 +23333,13 @@
     "lemma": "Germ(anicae?) figlinae",
     "previous": "Germania",
     "next": "Germanicum",
+    "proof_read": 2,
+    "short_description": "die dem Kaiser Annius Verus gehörige Ziegelei in Rom",
     "chapters": [
       {
         "start": 586,
-        "author": "Keune"
+        "end": 586,
+        "author": "Keune."
       }
     ]
   },
@@ -23340,9 +23347,13 @@
     "lemma": "Germanicum",
     "previous": "Germ(anicae?) figlinae",
     "next": "Germanus 7",
+    "redirect": "Kösching",
+    "proof_read": 2,
+    "short_description": "Germanicum, heute Kösching nahe Regensburg",
     "chapters": [
       {
-        "start": 586
+        "start": 586,
+        "end": 586
       }
     ]
   },
