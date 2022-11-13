@@ -710,18 +710,32 @@
   {
     "lemma": "Epyaxa",
     "previous": "Epistolographie",
-    "next": "Eumeneia 2",
+    "next": "Eukleides 8",
+    "proof_read": 2,
+    "short_description": "Epyaxa, Gemahlin des Syennesis von Kilikien",
     "chapters": [
       {
         "start": 220,
-        "author": "Fiehn"
+        "end": 220,
+        "author": "Fiehn."
+      }
+    ]
+  },
+  {
+    "lemma": "Eukleides 8",
+    "previous": "Epyaxa",
+    "next": "Eumenia",
+    "short_description": ", Gemahlin des Syennesis von Kilikien",
+    "chapters": [
+      {
+        "start": 220,
+        "end": 220,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Eumeneia 2",
-    "previous": "Epyaxa",
-    "next": "Eusebios 30a",
     "chapters": [
       {
         "start": 221,
@@ -730,8 +744,21 @@
     ]
   },
   {
+    "lemma": "Eumenia",
+    "next": "Eusebios 30a",
+    "proof_read": 2,
+    "short_description": "Stadt in Moesia inferior",
+    "chapters": [
+      {
+        "start": 221,
+        "end": 221,
+        "author": "Fluss."
+      }
+    ]
+  },
+  {
     "lemma": "Eusebios 30a",
-    "previous": "Eumeneia 2",
+    "previous": "Eumenia",
     "next": "Eusthenes",
     "chapters": [
       {
