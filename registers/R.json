@@ -430,7 +430,7 @@
   {
     "lemma": "Aelius 166a",
     "previous": "Aelius 80a",
-    "next": "Aemilius 63c",
+    "next": "Aemilius 3a",
     "redirect": "Aurelius 56",
     "proof_read": 3,
     "chapters": [
@@ -442,6 +442,8 @@
   },
   {
     "lemma": "Aemilius 3a",
+    "previous": "Aelius 166a",
+    "next": "Aemilius 15a",
     "chapters": [
       {
         "start": 10,
@@ -450,12 +452,53 @@
     ]
   },
   {
-    "lemma": "Aemilius 63c",
-    "next": "Aemilius 15a"
+    "lemma": "Aemilius 15a",
+    "previous": "Aemilius 3a",
+    "next": "Aemilius 15c",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 10,
+        "end": 10
+      }
+    ]
   },
   {
-    "lemma": "Aemilius 15a",
-    "previous": "Aemilius 63c",
+    "lemma": "Aemilius 15c",
+    "previous": "Aemilius 15a",
+    "next": "Aemilius 49",
+    "chapters": [
+      {
+        "start": 10,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "lemma": "Aemilius 49",
+    "previous": "Aemilius 15c",
+    "next": "Aemilius 49a",
+    "chapters": [
+      {
+        "start": 10,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "lemma": "Aemilius 49a",
+    "previous": "Aemilius 49",
+    "next": "Aemilius 54b",
+    "chapters": [
+      {
+        "start": 10,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "lemma": "Aemilius 54b",
+    "previous": "Aemilius 49a",
     "next": "Aemilius 63a",
     "proof_read": 3,
     "chapters": [
@@ -467,47 +510,29 @@
   },
   {
     "lemma": "Aemilius 63a",
-    "previous": "Aemilius 15a"
-  },
-  {
-    "lemma": "Aemilius 15c",
-    "next": "Aemilius 49a",
+    "previous": "Aemilius 54b",
+    "next": "Aemilius 63c",
     "chapters": [
       {
-        "start": 10,
-        "end": 10
+        "start": 11,
+        "end": 11
       }
     ]
   },
   {
-    "lemma": "Aemilius 49a",
-    "previous": "Aemilius 15c",
-    "chapters": [
-      {
-        "start": 10,
-        "end": 10
-      }
-    ]
-  },
-  {
-    "lemma": "Aemilius 49",
-    "next": "Aemilius 54b"
-  },
-  {
-    "lemma": "Aemilius 54b",
-    "previous": "Aemilius 49",
+    "lemma": "Aemilius 63c",
+    "previous": "Aemilius 63a",
     "next": "Aenisatus",
-    "proof_read": 3,
     "chapters": [
       {
-        "start": 10,
-        "end": 10
+        "start": 11,
+        "end": 11
       }
     ]
   },
   {
     "lemma": "Aenisatus",
-    "previous": "Aemilius 54b",
+    "previous": "Aemilius 63c",
     "next": "Aëtos 3a",
     "redirect": "Anisatus, Aenisatus",
     "proof_read": 3,
@@ -584,7 +609,9 @@
     ]
   },
   {
-    "lemma": "Agenor 1b",
+    "lemma": "Agenor 1a",
+    "previous": "Agemon 2",
+    "next": "Agenor 1b",
     "chapters": [
       {
         "start": 13,
@@ -593,12 +620,19 @@
     ]
   },
   {
-    "lemma": "Agenor 1a",
-    "next": "Aianteion 2"
+    "lemma": "Agenor 1b",
+    "previous": "Agenor 1a",
+    "next": "Aianteion 2",
+    "chapters": [
+      {
+        "start": 13,
+        "end": 13
+      }
+    ]
   },
   {
     "lemma": "Aianteion 2",
-    "previous": "Agenor 1a",
+    "previous": "Agenor 1b",
     "next": "Aigialos 5",
     "proof_read": 3,
     "chapters": [
@@ -707,10 +741,7 @@
   },
   {
     "lemma": "Alkmeonides",
-    "previous": "Alexandreion 3"
-  },
-  {
-    "lemma": "Alkmeonides 1",
+    "previous": "Alexandreion 3",
     "next": "Allât",
     "chapters": [
       {
@@ -721,7 +752,7 @@
   },
   {
     "lemma": "Allât",
-    "previous": "Alkmeonides 1",
+    "previous": "Alkmeonides",
     "next": "Alpinius 1a",
     "redirect": true,
     "proof_read": 3,
