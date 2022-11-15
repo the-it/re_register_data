@@ -20799,22 +20799,42 @@
   {
     "lemma": "Ἐρημοφύλακες",
     "previous": "Erasistratos 1",
-    "next": "Ergissenoi",
+    "next": "Erge",
+    "proof_read": 2,
+    "short_description": "Die aegypt. Wüstenpolizei.",
     "chapters": [
       {
         "start": 440,
-        "author": "Schulthess"
+        "end": 440,
+        "author": "Schultheß."
+      }
+    ]
+  },
+  {
+    "lemma": "Erge",
+    "previous": "Ἐρημοφύλακες",
+    "next": "Ergissenoi",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 440,
+        "end": 441,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Ergissenoi",
-    "previous": "Ἐρημοφύλακες",
+    "previous": "Erge",
     "next": "Ergophilos 3",
+    "proof_read": 2,
+    "short_description": "Ethnikon von einem thrakischen Ort Ergissa?",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 441,
-        "author": "Kazarow"
+        "start": 440,
+        "end": 441,
+        "author": "Kazarow."
       }
     ]
   },
@@ -20822,10 +20842,12 @@
     "lemma": "Ergophilos 3",
     "previous": "Ergissenoi",
     "next": "Erigus",
+    "short_description": "Bildhauer aus dem 4. Jhdt. v. Chr.",
     "chapters": [
       {
-        "start": 441,
-        "author": "Lippold, Georg"
+        "start": 440,
+        "end": 441,
+        "author": "Lippold."
       }
     ]
   },
@@ -20833,10 +20855,13 @@
     "lemma": "Erigus",
     "previous": "Ergophilos 3",
     "next": "Eros 13",
+    "proof_read": 2,
+    "short_description": "Erigus, südgallischer Sigillatatöpfer im 1. Jhdt. n. Chr.",
     "chapters": [
       {
         "start": 441,
-        "author": "Hähnle"
+        "end": 441,
+        "author": "Hähnle."
       }
     ]
   },
@@ -20844,49 +20869,79 @@
     "lemma": "Eros 13",
     "previous": "Erigus",
     "next": "Errimus",
+    "proof_read": 2,
+    "short_description": "Eros, Sigillatatöpfer in Westerndorf/Bayern im 2. Jhdt. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 441,
-        "author": "Hähnle"
+        "end": 441,
+        "author": "Hähnle."
       }
     ]
   },
   {
     "lemma": "Errimus",
     "previous": "Eros 13",
-    "next": "Escusius",
+    "next": "Erucius 2",
+    "proof_read": 2,
+    "short_description": "Erimus, gallischer Sigillatatöpfer in Vichy im 2. Jhdt. n. Chr.",
     "chapters": [
       {
         "start": 441,
-        "author": "Hähnle"
+        "end": 441,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
+    "lemma": "Erucius 2",
+    "previous": "Errimus",
+    "next": "Escusius",
+    "proof_read": 2,
+    "short_description": "ein C. Erucius auf Delos um 94 v. Chr.",
+    "chapters": [
+      {
+        "start": 441,
+        "end": 441,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Escusius",
-    "previous": "Errimus",
+    "previous": "Erucius 2",
     "next": "Esopis",
+    "proof_read": 2,
+    "short_description": "Escusius, Sigillatatöpfer in Ostgallien im 2. Jhdt. n. Chr.",
     "chapters": [
       {
         "start": 441,
-        "author": "Hähnle"
+        "end": 441,
+        "author": "Hähnle."
       }
     ]
   },
   {
     "lemma": "Esopis",
     "previous": "Escusius",
-    "next": "Esquiliana",
+    "next": "Esquilina",
+    "proof_read": 2,
+    "short_description": "Name des Rückens, auf dem die Stadt Lokroi aufgebaut war",
     "chapters": [
       {
         "start": 441,
-        "author": "Oldfather"
+        "end": 441,
+        "author": "Oldfather."
       }
     ]
   },
   {
+    "lemma": "Esquilina",
+    "previous": "Esopis"
+  },
+  {
     "lemma": "Esquiliana",
-    "previous": "Esopis",
     "next": "Esuaterius",
     "chapters": [
       {
