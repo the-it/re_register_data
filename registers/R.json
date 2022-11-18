@@ -33,9 +33,13 @@
     "previous": "Vorwort (Register)",
     "next": "Benutzungshinweise (Register)",
     "sort_key": "!S16 03 Vorbemerkung",
+    "proof_read": 2,
+    "short_description": "erschließt Artikel, Berichtigungen und Ergänzungen außerhalb des ABC",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 3,
+        "end": 3,
         "author": "Gärtner."
       }
     ]
@@ -45,10 +49,12 @@
     "previous": "Vorbemerkung (Register)",
     "next": "Abercius a",
     "sort_key": "!S16 04 Benutzungshinweise",
+    "short_description": "Legende zum Register (E), (K), (L), (P) und Sondernumerierungen",
     "chapters": [
       {
         "start": 4,
-        "author": "Gärtner."
+        "end": 4,
+        "author": "H.G. A.W."
       }
     ]
   },
@@ -622,7 +628,6 @@
   {
     "lemma": "Agenor 1b",
     "previous": "Agenor 1a",
-    "next": "Aianteion 2",
     "chapters": [
       {
         "start": 13,
@@ -632,7 +637,7 @@
   },
   {
     "lemma": "Aianteion 2",
-    "previous": "Agenor 1b",
+    "previous": "Agenor 1a",
     "next": "Aigialos 5",
     "proof_read": 3,
     "chapters": [
@@ -6811,9 +6816,16 @@
   {
     "lemma": "Verzeichnis der Autoren (Register)",
     "previous": "Zezis",
+    "sort_key": "!S16 235 Verzeichnis der Autoren",
+    "short_description": "Verzeichnis der Bände und Autoren (Register)",
     "chapters": [
       {
         "start": 235,
+        "end": 237,
+        "author": "Gerhard Winkler."
+      },
+      {
+        "start": 238,
         "end": 250
       }
     ]
