@@ -3427,10 +3427,13 @@
     "lemma": "Egnatius 17a",
     "previous": "Domitius 108a",
     "next": "Egnatius 31a",
+    "sort_key": "Egnatius 17a",
+    "short_description": "Egnatius Sattianus, Patron von iuvenes in Benevent 257 n. Chr.",
     "chapters": [
       {
         "start": 115,
-        "author": "Eck"
+        "end": 115,
+        "author": "Werner Eckel."
       }
     ]
   },
@@ -3438,10 +3441,13 @@
     "lemma": "Egnatius 31a",
     "previous": "Egnatius 17a",
     "next": "Egrilius 5",
+    "sort_key": "Egnatius 31a",
+    "short_description": "Suffektkonsul in Mauretania Caesariensis im Jahr 219",
     "chapters": [
       {
         "start": 115,
-        "author": "Eck"
+        "end": 115,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3449,11 +3455,13 @@
     "lemma": "Egrilius 5",
     "previous": "Egnatius 31a",
     "next": "Equitius 6",
+    "sort_key": "Egrilius 5",
+    "short_description": "Egrilius Plarianus Larcius Lepidus Flavius, Senator in Ostia",
     "chapters": [
       {
         "start": 115,
         "end": 116,
-        "author": "Eck"
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3461,38 +3469,71 @@
     "lemma": "Equitius 6",
     "previous": "Egrilius 5",
     "next": "Erminius",
+    "sort_key": "Equitius 6",
+    "proof_read": 2,
+    "short_description": "Eq(uitius?) Proculus, leg. Augg. pr. pr. der Provinz Thracia (unter Septimius",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 115,
-        "author": "Eck"
+        "end": 115,
+        "author": "Werner Eck."
       }
     ]
   },
   {
     "lemma": "Erminius",
     "previous": "Equitius 6",
-    "next": "Erucius 10",
+    "next": "Ernolatia",
+    "sort_key": "Erminius",
+    "proof_read": 2,
+    "short_description": "L. E. Crispinus, richtig: L. Lorenius (XIII 1443 Nr. 2 ) Crispinus, c.v. im J.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 115,
-        "author": "Eck"
+        "end": 115,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Ernolatia",
+    "previous": "Erminius",
+    "next": "Erucius 7"
+  },
+  {
+    "lemma": "Erucius 7",
+    "previous": "Ernolatia",
+    "next": "Erucius 10",
+    "sort_key": "Erucius 7",
+    "chapters": [
+      {
+        "start": 117,
+        "end": 117,
+        "author": "Werner Eck."
       }
     ]
   },
   {
     "lemma": "Erucius 10",
-    "previous": "Erminius",
-    "next": "Fabius 49a",
+    "previous": "Erucius 7",
+    "next": "Etrilius 1",
+    "sort_key": "Erucius 10",
     "chapters": [
       {
         "start": 117,
-        "author": "Eck"
+        "end": 117,
+        "author": "Werner Eck."
       }
     ]
   },
   {
+    "lemma": "Etrilius 1",
+    "previous": "Erucius 10"
+  },
+  {
     "lemma": "Fabius 49a",
-    "previous": "Erucius 10",
     "next": "Fabius 59a",
     "proof_read": 2,
     "short_description": "Q. F. Barbarus Antonius Macer, cos. suff. vor 68 n. Chr.",
