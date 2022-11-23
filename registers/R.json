@@ -2228,7 +2228,6 @@
   {
     "lemma": "Castus 2b",
     "previous": "Castus 2a",
-    "next": "Catius a",
     "chapters": [
       {
         "start": 78,
@@ -2237,8 +2236,12 @@
     ]
   },
   {
+    "lemma": "Castus 6",
+    "next": "Catius a"
+  },
+  {
     "lemma": "Catius a",
-    "previous": "Castus 2b",
+    "previous": "Castus 6",
     "next": "Catius 8a",
     "redirect": true,
     "proof_read": 3,
