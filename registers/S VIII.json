@@ -904,10 +904,12 @@
     "lemma": "Epikrates 26",
     "previous": "Ἐγγύησις",
     "next": "Erechtheïs",
+    "short_description": "Bildhauer auf Rhodos, 2. Jdht. vor Chr.",
     "chapters": [
       {
         "start": 65,
-        "author": "Lippold, Georg"
+        "end": 65,
+        "author": "Lippold."
       }
     ]
   },
@@ -915,11 +917,13 @@
     "lemma": "Erechtheïs",
     "previous": "Epikrates 26",
     "next": "Erinys",
+    "sort_key": "Erechtheïs",
+    "short_description": "attische Phyle, gegründet von Kleisthenes um 500 v. Chr.",
     "chapters": [
       {
         "start": 66,
         "end": 82,
-        "author": "Riemann"
+        "author": "H. Riemann."
       }
     ]
   },
@@ -961,11 +965,12 @@
     "lemma": "Eubulos 17a",
     "previous": "Eschatiotis 2",
     "next": "Eukleides 5a",
+    "short_description": "Schulhaupt der Athener Akademie im 3. Jhdt. n. Chr.",
     "chapters": [
       {
         "start": 166,
         "end": 167,
-        "author": "Dörrie"
+        "author": "Heinr. Dörrie."
       }
     ]
   },
@@ -3967,7 +3972,6 @@
   {
     "lemma": "Damolyte",
     "previous": "Caesaris thronus",
-    "next": "Erechtheïs",
     "short_description": "Amme bei Danaë und Perseus.",
     "chapters": [
       {
@@ -3979,11 +3983,14 @@
   },
   {
     "lemma": "Erechtheïs",
-    "previous": "Damolyte",
+    "previous": "Caesaris thronus",
     "next": "Euboia 2a",
+    "sort_key": "Erechtheïs",
+    "short_description": "attische Phyle, gegründet von Kleisthenes um 500 v. Chr.",
     "chapters": [
       {
         "start": 921,
+        "end": 921,
         "author": "Hans Riemann."
       }
     ]
@@ -3992,10 +3999,12 @@
     "lemma": "Euboia 2a",
     "previous": "Erechtheïs",
     "next": "Eubulos 17a",
-    "redirect": "Psegas",
+    "proof_read": 3,
+    "short_description": "Εὔβοια πόλις s. Art. Psegas",
     "chapters": [
       {
-        "start": 921
+        "start": 921,
+        "end": 921
       }
     ]
   },
@@ -4006,6 +4015,7 @@
     "chapters": [
       {
         "start": 921,
+        "end": 921,
         "author": "Heinrich Dörrie."
       }
     ]
