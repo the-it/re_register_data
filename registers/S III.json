@@ -21124,7 +21124,6 @@
   {
     "lemma": "Eubulides 10",
     "previous": "Eubios 4a",
-    "next": "Eubulos 13a",
     "proof_read": 2,
     "short_description": "Bemerkung wegen Signatur von Amarynthos auf Euboia",
     "no_creative_height": true,
@@ -21138,7 +21137,7 @@
   },
   {
     "lemma": "Eubulos 13a",
-    "previous": "Eubulides 10",
+    "previous": "Eubios 4a",
     "next": "Euchandridas",
     "short_description": "aus Bithynien, eroberte 360 v. Chr. die Städte Atarneus und Assos",
     "chapters": [
@@ -21193,6 +21192,7 @@
   {
     "lemma": "Eudamidas 7",
     "previous": "Eucharides",
+    "next": "Eudemos 12",
     "proof_read": 2,
     "short_description": "einer der πεντάμεροι zu Halai in Lokris",
     "chapters": [
@@ -21205,7 +21205,7 @@
   },
   {
     "lemma": "Eudikos 1a",
-    "previous": "Eudemos 12",
+    "next": "Euelthon 1",
     "proof_read": 2,
     "short_description": "Pythagoreer in Lokroi",
     "chapters": [
@@ -21218,8 +21218,7 @@
   },
   {
     "lemma": "Eudemos 12",
-    "previous": "Eudamidas 7",
-    "next": "Eudikos 1a",
+    "next": "Euelthon 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -21231,6 +21230,7 @@
   },
   {
     "lemma": "Euelthon 1",
+    "previous": "Eudemos 12",
     "next": "Εὐηνίων",
     "short_description": "König von Salamis (I A 1832 Nr. 3 ) auf Kypros etwa in den J. 560-525 v. Chr.",
     "chapters": [
@@ -21472,11 +21472,15 @@
     "lemma": "Eunuchen",
     "previous": "Eunomos 10",
     "next": "Euormos",
+    "proof_read": 2,
+    "short_description": "die Eunuchen im Altertum",
+    "wp_link": "w:de:Eunuch",
+    "wd_link": "d:Q179294",
     "chapters": [
       {
         "start": 449,
         "end": 455,
-        "author": "Hug"
+        "author": "Hug."
       }
     ]
   },
@@ -21496,10 +21500,20 @@
   },
   {
     "lemma": "Eupalion",
-    "previous": "Euormos"
+    "previous": "Euormos",
+    "next": "Euphantos 2",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 455,
+        "end": 455,
+        "author": "Oldfather."
+      }
+    ]
   },
   {
     "lemma": "Euphantos 2",
+    "previous": "Eupalion",
     "next": "Euphranor 2a",
     "proof_read": 2,
     "short_description": "Theorenschreiber in Naupaktos im 2. Jh. v. Chr.",
@@ -21542,7 +21556,7 @@
   {
     "lemma": "Eupolemos 5a",
     "previous": "Euphrosynos 2",
-    "next": "Euritus",
+    "next": "Euripos 6",
     "proof_read": 2,
     "short_description": "Beamter (apologos) im ostlokr. Halai um die J. 260-250 v. Chr.",
     "chapters": [
@@ -21554,13 +21568,30 @@
     ]
   },
   {
-    "lemma": "Euritus",
+    "lemma": "Euripos 6",
     "previous": "Eupolemos 5a",
+    "next": "Euritus",
+    "proof_read": 2,
+    "short_description": "Euripus, der Wassergraben, der Kanal",
+    "chapters": [
+      {
+        "start": 455,
+        "end": 456,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Euritus",
+    "previous": "Euripos 6",
     "next": "Europe 3",
+    "proof_read": 2,
+    "short_description": "germanischer Sigillatatöpfer aus der Mitte des 2. Jhdts. n. Chr.",
     "chapters": [
       {
         "start": 456,
-        "author": "Hähnle"
+        "end": 456,
+        "author": "Hähnle."
       }
     ]
   },
@@ -21568,10 +21599,12 @@
     "lemma": "Europe 3",
     "previous": "Euritus",
     "next": "Eurydike 20",
+    "short_description": "einzige Tochter des makedonischen Königs Philippos II.",
     "chapters": [
       {
         "start": 456,
-        "author": "Stähelin"
+        "end": 456,
+        "author": "Stähelin."
       }
     ]
   },
@@ -21579,8 +21612,8 @@
     "lemma": "Eurydike 20",
     "previous": "Europe 3",
     "next": "Eurykles 1a",
-    "proof_read": 2,
-    "short_description": "Gattin des illyr. Königs Pleuratos II.",
+    "proof_read": 3,
+    "short_description": "Gattin des illyr. Königs Pleuratos II., Mutter des Genthios",
     "no_creative_height": true,
     "chapters": [
       {
@@ -21594,42 +21627,82 @@
     "lemma": "Eurykles 1a",
     "previous": "Eurydike 20",
     "next": "Eustadio",
+    "proof_read": 2,
+    "short_description": "lokrischer Seher, der die Sage vom Tode Hesiods erzählt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 456,
-        "author": "Oldfather"
+        "end": 456,
+        "author": "Oldfather."
       }
     ]
   },
   {
     "lemma": "Eustadio",
     "previous": "Eurykles 1a",
-    "next": "Euthykles 3a",
+    "next": "Euthyaios",
+    "proof_read": 2,
+    "short_description": "germanischer Sigillatatöpfer des 2. Jhdts. n. Chr. in Bergzabern",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 456,
         "end": 457,
-        "author": "Hähnle"
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
+    "lemma": "Euthyaios",
+    "previous": "Eustadio",
+    "next": "Euthykles 3a",
+    "proof_read": 2,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 457,
+        "end": 457,
+        "author": "Oldfather."
       }
     ]
   },
   {
     "lemma": "Euthykles 3a",
-    "previous": "Eustadio",
-    "next": "Euthynus 1",
+    "previous": "Euthyaios",
+    "next": "Euthymos 1",
+    "proof_read": 2,
+    "short_description": "Lokrer, berühmter Pentathlos, wegen Verrat und Bestechung getötet",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 457,
-        "author": "Oldfather"
+        "end": 457,
+        "author": "Oldfather."
+      }
+    ]
+  },
+  {
+    "lemma": "Euthymos 1",
+    "previous": "Euthykles 3a",
+    "next": "Euthynus 1",
+    "proof_read": 2,
+    "short_description": "Dreimaliger Sieger im Faustkampf zu Olympia",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 457,
+        "end": 458,
+        "author": "Oldfather."
       }
     ]
   },
   {
     "lemma": "Euthynus 1",
-    "previous": "Euthykles 3a",
-    "next": "Euthynus 2",
-    "proof_read": 2,
-    "short_description": "s. 2)",
+    "previous": "Euthymos 1",
+    "next": "Eutychides 2",
+    "proof_read": 3,
+    "short_description": "Pythagoreer zu Lokroi, aus unbestimmter Zeit",
     "chapters": [
       {
         "start": 458,
@@ -21640,8 +21713,6 @@
   },
   {
     "lemma": "Euthynus 2",
-    "previous": "Euthynus 1",
-    "next": "Exoria",
     "chapters": [
       {
         "start": 458,
@@ -21650,25 +21721,77 @@
     ]
   },
   {
-    "lemma": "Exoria",
-    "previous": "Euthynus 2",
+    "lemma": "Eutychides 2",
+    "previous": "Euthynus 1",
+    "next": "Eutychides 4",
+    "proof_read": 2,
+    "no_creative_height": true,
+    "wp_link": "w:de:Eutychides",
+    "wd_link": "d:Q1378985",
+    "chapters": [
+      {
+        "start": 458,
+        "end": 458,
+        "author": "Lippold."
+      }
+    ]
+  },
+  {
+    "lemma": "Eutychides 4",
+    "previous": "Eutychides 2",
+    "next": "Exagium",
+    "proof_read": 2,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 458,
+        "end": 458,
+        "author": "Lippold."
+      }
+    ]
+  },
+  {
+    "lemma": "Exagium",
+    "previous": "Eutychides 4",
+    "next": "Ἐξορία",
+    "proof_read": 2,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 458,
+        "end": 458,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἐξορία",
+    "previous": "Exagium",
     "next": "Exscingius",
+    "sort_key": "Exoria",
+    "proof_read": 2,
+    "short_description": "griechische Inschrift auf einer Marmorhalle an der Agora von Ephesos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 458,
         "end": 459,
-        "author": "Schulthess"
+        "author": "Schultheß."
       }
     ]
   },
   {
     "lemma": "Exscingius",
-    "previous": "Exoria",
+    "previous": "Ἐξορία",
     "next": "Fabia 2",
+    "proof_read": 2,
+    "short_description": "Töpfer der ersten Hälfte des 1. Jhdts. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 459,
-        "author": "Hähnle"
+        "end": 459,
+        "author": "Hähnle."
       }
     ]
   },
@@ -21705,8 +21828,8 @@
     "lemma": "Exsobnos",
     "previous": "Fabianae figlinae",
     "next": "Extuomne",
-    "proof_read": 2,
-    "short_description": "Ostgall. Töpfer von sog. belgischer Ware im 1. Jh. n. Chr.",
+    "proof_read": 3,
+    "short_description": "Ostgall. Töpfer sog. belgischer Ware im 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 460,
@@ -21718,17 +21841,20 @@
   {
     "lemma": "Extuomne",
     "previous": "Exsobnos",
-    "next": "Fabius 27a",
+    "next": "Fabia 2",
+    "proof_read": 2,
+    "short_description": "die erste Mutatio an der Str. von Serdica nach Philippopel",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 459,
-        "author": "Kazarow"
+        "start": 460,
+        "end": 460,
+        "author": "Kazarow."
       }
     ]
   },
   {
     "lemma": "Fabius 27a",
-    "previous": "Extuomne",
     "next": "Färbung",
     "proof_read": 2,
     "short_description": "P. F. Reiter der span. Turma Salluitana im Bundesgenossenkrieg 90 v. Chr.",
