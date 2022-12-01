@@ -18698,7 +18698,7 @@
   {
     "lemma": "Καθῦλκα",
     "previous": "Katholikos",
-    "next": "Kathypheseos dike",
+    "next": "Καθυφέσεως δίκη",
     "sort_key": "Kathylka",
     "redirect": "Calucones 1",
     "proof_read": 3,
@@ -18710,46 +18710,55 @@
     ]
   },
   {
-    "lemma": "Kathypheseos dike",
+    "lemma": "Καθυφέσεως δίκη",
     "previous": "Καθῦλκα",
     "next": "Katiene",
+    "sort_key": "Kathypheseosdike",
+    "proof_read": 2,
     "short_description": "Das Zurücktreten von einer Klage",
     "chapters": [
       {
         "start": 2525,
-        "author": "Thalheim"
+        "end": 2525,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Katiene",
-    "previous": "Kathypheseos dike",
-    "next": "Kato",
+    "previous": "Καθυφέσεως δίκη",
+    "next": "Κάτω",
+    "proof_read": 2,
+    "short_description": "Ort in Phrygien oder Pisidien",
     "chapters": [
       {
         "start": 2526,
-        "author": "Ruge"
+        "end": 2526,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Kato",
+    "lemma": "Κάτω",
     "previous": "Katiene",
     "next": "Katoche",
-    "short_description": "ta - tes Asias mere",
+    "sort_key": "Kato",
+    "proof_read": 2,
+    "short_description": "zu Persien gehöriges Westkleinasien zur Zeit des Dareios",
     "chapters": [
       {
         "start": 2526,
-        "author": "Bürchner"
+        "end": 2526,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Katoche",
-    "previous": "Kato",
+    "previous": "Κάτω",
     "next": "Katochos 1",
     "redirect": "Katochos 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2526,
@@ -18761,11 +18770,13 @@
     "lemma": "Katochos 1",
     "previous": "Katoche",
     "next": "Katochos 2",
-    "short_description": "Epiklesis der bei Magie angerufenen Götter",
+    "proof_read": 2,
+    "short_description": "Epiklesis des Hermes",
     "chapters": [
       {
         "start": 2526,
-        "author": "Adler"
+        "end": 2526,
+        "author": "Adler."
       }
     ]
   },
