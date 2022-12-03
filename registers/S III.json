@@ -21144,6 +21144,7 @@
   {
     "lemma": "Eubulides 10",
     "previous": "Eubios 4a",
+    "next": "Eubulos 13a",
     "proof_read": 2,
     "short_description": "Bemerkung wegen Signatur von Amarynthos auf Euboia",
     "no_creative_height": true,
@@ -21157,7 +21158,7 @@
   },
   {
     "lemma": "Eubulos 13a",
-    "previous": "Eubios 4a",
+    "previous": "Eubulides 10",
     "next": "Euchandridas",
     "short_description": "aus Bithynien, eroberte 360 v. Chr. die Städte Atarneus und Assos",
     "chapters": [
@@ -21224,7 +21225,21 @@
     ]
   },
   {
+    "lemma": "Eudemos 12",
+    "previous": "Eudamidas 7",
+    "next": "Eudikos 1a",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 445,
+        "end": 446,
+        "author": "Martini."
+      }
+    ]
+  },
+  {
     "lemma": "Eudikos 1a",
+    "previous": "Eudemos 12",
     "next": "Euelthon 1",
     "proof_read": 2,
     "short_description": "Pythagoreer in Lokroi",
@@ -21237,20 +21252,8 @@
     ]
   },
   {
-    "lemma": "Eudemos 12",
-    "next": "Euelthon 1",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 445,
-        "end": 446,
-        "author": "Martini."
-      }
-    ]
-  },
-  {
     "lemma": "Euelthon 1",
-    "previous": "Eudemos 12",
+    "previous": "Eudikos 1a",
     "next": "Εὐηνίων",
     "short_description": "König von Salamis (I A 1832 Nr. 3 ) auf Kypros etwa in den J. 560-525 v. Chr.",
     "chapters": [
@@ -21732,16 +21735,6 @@
     ]
   },
   {
-    "lemma": "Euthynus 2",
-    "short_description": "Pythagoreer in Lokroi",
-    "chapters": [
-      {
-        "start": 458,
-        "author": "Oldfather"
-      }
-    ]
-  },
-  {
     "lemma": "Eutychides 2",
     "previous": "Euthynus 1",
     "next": "Eutychides 4",
@@ -21817,33 +21810,6 @@
     ]
   },
   {
-    "lemma": "Fabia 2",
-    "next": "Fabianae figlinae",
-    "proof_read": 2,
-    "short_description": "Röm. Landtribus.",
-    "chapters": [
-      {
-        "start": 459,
-        "end": 459,
-        "author": "Rosenberg."
-      }
-    ]
-  },
-  {
-    "lemma": "Fabianae figlinae",
-    "previous": "Fabia 2",
-    "sort_key": "Fabianaefiglinae",
-    "proof_read": 2,
-    "short_description": "Stadtröm. Ziegelei der Flavia (VI 2737 Nr.245) Seia (Servilia?) Isaurica.",
-    "chapters": [
-      {
-        "start": 459,
-        "end": 459,
-        "author": "Keune."
-      }
-    ]
-  },
-  {
     "lemma": "Exsobnos",
     "previous": "Exscingius",
     "next": "Extuomne",
@@ -21873,8 +21839,49 @@
     ]
   },
   {
+    "lemma": "Fabia 2",
+    "previous": "Extuomne",
+    "next": "Fabianae figlinae",
+    "proof_read": 2,
+    "short_description": "Röm. Landtribus.",
+    "chapters": [
+      {
+        "start": 459,
+        "end": 459,
+        "author": "Rosenberg."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabianae figlinae",
+    "previous": "Fabia 2",
+    "next": "Fabius 17",
+    "sort_key": "Fabianaefiglinae",
+    "proof_read": 2,
+    "short_description": "Stadtröm. Ziegelei der Flavia (VI 2737 Nr.245) Seia (Servilia?) Isaurica.",
+    "chapters": [
+      {
+        "start": 459,
+        "end": 459,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 17",
+    "previous": "Fabianae figlinae",
+    "next": "Fabius 27a",
+    "chapters": [
+      {
+        "start": 460,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
     "lemma": "Fabius 27a",
-    "next": "Färbung",
+    "previous": "Fabius 17",
+    "next": "Fabius 53",
     "proof_read": 2,
     "short_description": "P. F. Reiter der span. Turma Salluitana im Bundesgenossenkrieg 90 v. Chr.",
     "chapters": [
@@ -21886,8 +21893,97 @@
     ]
   },
   {
-    "lemma": "Färbung",
+    "lemma": "Fabius 53",
     "previous": "Fabius 27a",
+    "next": "Fabius 108",
+    "chapters": [
+      {
+        "start": 460,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 108",
+    "previous": "Fabius 53",
+    "next": "Fabius 109",
+    "chapters": [
+      {
+        "start": 460,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 109",
+    "previous": "Fabius 108",
+    "next": "Fabius 111",
+    "chapters": [
+      {
+        "start": 460,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 111",
+    "previous": "Fabius 109",
+    "next": "Fabius 112",
+    "chapters": [
+      {
+        "start": 460,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 112",
+    "previous": "Fabius 111",
+    "next": "Fabius 114",
+    "chapters": [
+      {
+        "start": 460,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 114",
+    "previous": "Fabius 112",
+    "next": "Fabius 116",
+    "chapters": [
+      {
+        "start": 460,
+        "end": 461,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 116",
+    "previous": "Fabius 114",
+    "next": "Fadius 1",
+    "chapters": [
+      {
+        "start": 461,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Fadius 1",
+    "previous": "Fabius 116",
+    "next": "Färbung",
+    "chapters": [
+      {
+        "start": 461,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Färbung",
+    "previous": "Fadius 1",
     "next": "Faesonia, Faesonius",
     "chapters": [
       {
