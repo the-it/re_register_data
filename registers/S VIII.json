@@ -3409,7 +3409,6 @@
   {
     "lemma": "Salomo 4",
     "previous": "Salomo 3",
-    "next": "Salomon Stratiotes",
     "short_description": "Salomon, jüd. König in den J. 977-937 v. Chr.",
     "chapters": [
       {
@@ -3421,11 +3420,11 @@
   },
   {
     "lemma": "Salomon Stratiotes",
-    "previous": "Salomo 4",
-    "next": "Salomo 5",
+    "previous": "Salomo 5",
+    "next": "Satrapes",
     "sort_key": "Salomonstratiotes",
     "redirect": "Salomo 4",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 704,
@@ -3435,10 +3434,9 @@
   },
   {
     "lemma": "Salomo 5",
-    "previous": "Salomon Stratiotes",
-    "next": "Satrap",
-    "proof_read": 2,
-    "short_description": "Salomon, Leibarzt",
+    "next": "Salomon Stratiotes",
+    "proof_read": 3,
+    "short_description": "Salomon Archiatros, Leibarzt",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3449,9 +3447,11 @@
     ]
   },
   {
+    "lemma": "Salomon Stratiotes",
+    "previous": "Salomo 5"
+  },
+  {
     "lemma": "Satrap",
-    "previous": "Salomo 5",
-    "next": "Sattel",
     "short_description": "- und Satrapie, Statthalter bzw. Verwaltungsbezirk im Pers. Reich",
     "chapters": [
       {
@@ -3461,8 +3461,23 @@
     ]
   },
   {
+    "lemma": "Satrapes",
+    "previous": "Salomon Stratiotes",
+    "next": "Sattel",
+    "short_description": "als Gottesname, vermutlich verbunden mit dem Gott Pakeidas",
+    "wp_link": "w:de:en:Satrapes",
+    "wd_link": "d:Q7426462",
+    "chapters": [
+      {
+        "start": 705,
+        "end": 705,
+        "author": "Hans Volkmann."
+      }
+    ]
+  },
+  {
     "lemma": "Sattel",
-    "previous": "Satrap",
+    "previous": "Satrapes",
     "next": "Satyros 7a",
     "chapters": [
       {
