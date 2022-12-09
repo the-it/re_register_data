@@ -15,7 +15,9 @@
     "lemma": "Aelius 89a",
     "previous": "Aelius 75a",
     "next": "Aelius 96a",
-    "short_description": "A. Martinus, c.v.",
+    "proof_read": 2,
+    "short_description": "A. Martinus, Errichter eines Altars",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1,
@@ -453,6 +455,7 @@
     "lemma": "Annius 61",
     "previous": "Annius 41a",
     "next": "Annius 65b",
+    "sort_key": "Annius 061",
     "short_description": "M. A. Libo, cos. suff. 161 n. Chr.",
     "wp_link": "w:de:Marcus Annius Libo (Suffektkonsul 161)",
     "wd_link": "d:Q1894078",
@@ -673,6 +676,7 @@
     "previous": "Apollonides 33c",
     "next": "Aqua, Aquae 97",
     "proof_read": 3,
+    "short_description": "Valerius A., Rhetor im 3. Jh. n. Chr., Gatte der Annia",
     "no_creative_height": true,
     "wp_link": "w:en:Apsines",
     "wd_link": "d:Q649082",
@@ -689,6 +693,7 @@
     "previous": "Apsines",
     "next": "Aradius 1a",
     "sort_key": "Aquae 097",
+    "short_description": "Viva, Mansio in Pannonia superior",
     "chapters": [
       {
         "start": 53,
@@ -1003,6 +1008,7 @@
     "previous": "Asinius 19a",
     "next": "Asinius 32a",
     "proof_read": 3,
+    "short_description": "Praetextatus, C. cos. ord. 242 n. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Gaius Asinius Lepidus Praetextatus",
     "wd_link": "d:Q722606",
@@ -1047,6 +1053,7 @@
     "previous": "Asinius 32b",
     "next": "Atilius 36a",
     "proof_read": 3,
+    "short_description": "A. Sanctus, Rhetoriklehrer des Commodus. = T. Aius (S XIV 40 Nr. 2 ) Sanctus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1175,7 +1182,9 @@
     "lemma": "Avillius 2c",
     "previous": "Avidius 1b",
     "next": "Aurelius 5a",
+    "sort_key": "Auillius 2c",
     "proof_read": 3,
+    "short_description": "P. Avi[l]ius Firmus, leg. Aug. pr. pr. der Provinz Lycia unter Vespasian",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1581,6 +1590,7 @@
     "previous": "Boiodurum",
     "next": "Bruttidius",
     "proof_read": 3,
+    "short_description": "B. Quintilianus, f. l. statt Sex. Nonius (Nr. 46 ?) Quinctilianus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1626,6 +1636,7 @@
     "lemma": "Bruttius 5",
     "previous": "Bruttius 4a",
     "next": "Bubon 1",
+    "sort_key": "Bruttius 05",
     "short_description": "C. B. Praesens, cos. I suff. (im J. 119?), cos. II ord. im J. 139 n. Chr.",
     "wp_link": "w:de:Gaius Bruttius Praesens (Konsul 139)",
     "wd_link": "d:Q1229431",
@@ -1801,6 +1812,7 @@
     "previous": "Caecilius 140",
     "next": "Caerellius 9",
     "proof_read": 3,
+    "short_description": "Q. C. Honoratus, richtig für Q. Coelius Honoratus, cos. suff. 105 n. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Quintus Caelius Honoratus",
     "wd_link": "d:Q12282857",
@@ -2263,6 +2275,7 @@
     "sort_key": "Ceionius 04",
     "redirect": "Vettulenus 2",
     "proof_read": 3,
+    "short_description": "(Ceionius) Civica Barbarus, M., Cos. ord. 157 n. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Marcus Vettulenus Civica Barbarus",
     "wd_link": "d:Q334926",
@@ -2657,7 +2670,7 @@
     "previous": "Claudius 273a",
     "next": "Claudius 342a",
     "proof_read": 3,
-    "short_description": "Ti. Cl. Rufus Statius, Xvir stlitibus iudicandis",
+    "short_description": "Ti. Cl. Rufus Statius, Xvir stlitibus iudicandis, Sohn des Ti. Cl. Nr. 336",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3295,6 +3308,7 @@
     "previous": "Damocratia",
     "next": "Decimius 10a",
     "proof_read": 3,
+    "short_description": "D. Quartilla Aureliana, c.f., Gattin des Q. Aiacius Modestus Crescentianus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -8218,10 +8232,14 @@
     "lemma": "Thukydides 1",
     "previous": "Thoas 11",
     "next": "Tiara",
-    "short_description": "T. von Athen, der Historiker, Sohn des Oloros Nr. 2",
+    "short_description": "griechischer Historiker",
+    "wp_link": "w:de:Thukydides",
+    "ws_link": "s:de:Thukydides",
+    "wd_link": "d:Q41683",
     "chapters": [
       {
         "start": 760,
+        "end": 786,
         "author": "Otto Luschnat."
       }
     ]
