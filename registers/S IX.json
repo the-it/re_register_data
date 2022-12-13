@@ -493,6 +493,7 @@
     "previous": "Asprius",
     "next": "Attikos 15",
     "proof_read": 3,
+    "short_description": "Hesperide",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3325,7 +3326,6 @@
   {
     "lemma": "Servilius 77a",
     "previous": "Sertorius 4a",
-    "next": "Servilius 77b",
     "proof_read": 2,
     "short_description": "Q. S. Pudens, Legat zu Anfang des 2. Jh. n. Chr., Sohn des Q.",
     "no_creative_height": true,
@@ -3338,32 +3338,45 @@
     ]
   },
   {
+    "lemma": "Servilius 77aa",
+    "next": "Servilius 77b"
+  },
+  {
     "lemma": "Servilius 77b",
-    "previous": "Servilius 77a",
+    "previous": "Servilius 77aa",
     "next": "Servilius 77c",
     "short_description": "Q. S. Pudens, cos. ord. im J. 166 n. Chr., Sohn des Q. S. Nr. 77a (S IX 1369)",
+    "wp_link": "w:de:Quintus Servilius Pudens (Konsul 166)",
+    "wd_link": "d:Q1229591",
     "chapters": [
       {
         "start": 1369,
-        "author": "Thomasson"
+        "end": 1370,
+        "author": "Bengt E. Thomasson."
       }
     ]
   },
   {
     "lemma": "Servilius 77c",
     "previous": "Servilius 77b",
-    "next": "Setisacum",
-    "short_description": "Q. S. Pudens, Prokonsul der Provinz Creta-Cyrenae, Sohn des Q. S. Nr. 77b (S IX",
+    "next": "Servilius 78",
+    "short_description": "Q. S. Pudens, Prokonsul der Provinz Creta-Cyrenae, Sohn des Q. S. Nr. 77b",
+    "wp_link": "w:de:Quintus Servilius Pudens (Statthalter)",
+    "wd_link": "d:Q115682035",
     "chapters": [
       {
         "start": 1370,
-        "author": "Thomasson"
+        "end": 1370,
+        "author": "Bengt E. Thomasson."
       }
     ]
   },
   {
+    "lemma": "Servilius 78",
+    "previous": "Servilius 77c"
+  },
+  {
     "lemma": "Setisacum",
-    "previous": "Servilius 77c",
     "next": "Seuthopolis",
     "short_description": "Iber. Stadt",
     "chapters": [
