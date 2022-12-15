@@ -428,7 +428,7 @@
   {
     "lemma": "Abercius b",
     "previous": "Abercius a",
-    "next": "Aberglaube d",
+    "next": "Aberglaube",
     "redirect": "Avircius",
     "proof_read": 3,
     "no_creative_height": true,
@@ -440,9 +440,14 @@
     ]
   },
   {
-    "lemma": "Aberglaube d",
+    "lemma": "Aberglaube",
     "previous": "Abercius b",
     "next": "Abersis",
+    "redirect": true,
+    "proof_read": 3,
+    "wp_link": "w:de:Aberglaube",
+    "ws_link": "s:de:Aberglaube",
+    "wd_link": "d:Q133182",
     "chapters": [
       {
         "start": 5,
@@ -452,7 +457,7 @@
   },
   {
     "lemma": "Abersis",
-    "previous": "Aberglaube d",
+    "previous": "Aberglaube",
     "next": "Abia 2",
     "chapters": [
       {
@@ -2301,6 +2306,7 @@
   {
     "lemma": "Aelius 26a",
     "previous": "Aelius 25",
+    "next": "Aelius 26b",
     "chapters": [
       {
         "start": 9,
@@ -2310,22 +2316,21 @@
   },
   {
     "lemma": "Aelius 26b",
-    "previous": "Aelius 24a",
-    "next": "Aelius 27aa",
-    "sort_key": "Aelius 026b",
+    "previous": "Aelius 26a",
+    "next": "Aelius 27",
     "proof_read": 3,
-    "short_description": "T. A. Aurelius, Sohn Marc Aurels",
     "wp_link": "w:de:Aelier",
     "wd_link": "d:Q380806",
     "chapters": [
       {
         "start": 9,
-        "end": 9
+        "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Aelius 27",
+    "previous": "Aelius 26b",
     "next": "Aelius 27aaa",
     "chapters": [
       {
@@ -2484,6 +2489,7 @@
   {
     "lemma": "Aelius 42b",
     "previous": "Aelius 42a",
+    "next": "Aelius 43a",
     "chapters": [
       {
         "start": 9,
@@ -2493,20 +2499,19 @@
   },
   {
     "lemma": "Aelius 43a",
-    "previous": "Aelius 27aaa",
-    "next": "Aelius 76",
-    "sort_key": "Aelius 043a",
+    "previous": "Aelius 42b",
+    "next": "Aelius 51a",
     "proof_read": 3,
-    "short_description": "A. Decius Triccianus, Statthalter Pannonia inf. 217 n. Chr.",
     "chapters": [
       {
         "start": 9,
-        "end": 9
+        "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Aelius 51a",
+    "previous": "Aelius 43a",
     "next": "Aelius 57",
     "chapters": [
       {
@@ -6155,7 +6160,7 @@
   {
     "lemma": "Aigoteoi",
     "previous": "Aigosthena",
-    "next": "Aigyptos 1",
+    "next": "Aigyptos",
     "chapters": [
       {
         "start": 16,
@@ -6164,7 +6169,7 @@
     ]
   },
   {
-    "lemma": "Aigyptos 1",
+    "lemma": "Aigyptos",
     "previous": "Aigoteoi",
     "next": "Ailiotai",
     "chapters": [
@@ -6176,7 +6181,7 @@
   },
   {
     "lemma": "Ailiotai",
-    "previous": "Aigyptos 1",
+    "previous": "Aigyptos",
     "next": "Aime",
     "chapters": [
       {
@@ -15605,6 +15610,7 @@
   {
     "lemma": "Antisthenes 9b",
     "previous": "Antisthenes 9a",
+    "next": "Antistii",
     "chapters": [
       {
         "start": 32,
@@ -15614,23 +15620,19 @@
   },
   {
     "lemma": "Antistii",
-    "previous": "Antinoitai",
-    "next": "Antistius 24",
+    "previous": "Antisthenes 9b",
+    "next": "Antistius",
     "proof_read": 3,
-    "short_description": "Mittelgall. Sigillatatöpfer (in Lezoux?) im 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 32,
-        "end": 32
+        "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Antistius 24",
-    "previous": "Antistii"
-  },
-  {
     "lemma": "Antistius",
+    "previous": "Antistii",
     "next": "Antistius 27",
     "chapters": [
       {
@@ -55585,7 +55587,7 @@
   {
     "lemma": "Echetos 3",
     "previous": "Echenikos",
-    "next": "[7])",
+    "next": "Echinos 7",
     "chapters": [
       {
         "start": 102,
@@ -55594,7 +55596,7 @@
     ]
   },
   {
-    "lemma": "[7])",
+    "lemma": "Echinos 7",
     "previous": "Echetos 3",
     "next": "Ecloga 2",
     "chapters": [
@@ -55606,7 +55608,7 @@
   },
   {
     "lemma": "Ecloga 2",
-    "previous": "[7])",
+    "previous": "Echinos 7",
     "next": "Ecritusirus",
     "chapters": [
       {
@@ -56507,7 +56509,7 @@
   {
     "lemma": "Eperunto",
     "previous": "Epeiros 1",
-    "next": "2)",
+    "next": "Ephedros 2",
     "redirect": "Carniola",
     "proof_read": 3,
     "chapters": [
@@ -56518,7 +56520,7 @@
     ]
   },
   {
-    "lemma": "2)",
+    "lemma": "Ephedros 2",
     "previous": "Eperunto",
     "next": "Ephesos 1",
     "chapters": [
@@ -56530,7 +56532,7 @@
   },
   {
     "lemma": "Ephesos 1",
-    "previous": "2)",
+    "previous": "Ephedros 2",
     "next": "Epicharinos",
     "chapters": [
       {
