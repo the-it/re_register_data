@@ -2301,7 +2301,6 @@
   {
     "lemma": "Aelius 26a",
     "previous": "Aelius 25",
-    "next": "Aelius 26b",
     "chapters": [
       {
         "start": 9,
@@ -2311,21 +2310,22 @@
   },
   {
     "lemma": "Aelius 26b",
-    "previous": "Aelius 26a",
-    "next": "Aelius 27",
+    "previous": "Aelius 24a",
+    "next": "Aelius 27aa",
+    "sort_key": "Aelius 026b",
     "proof_read": 3,
+    "short_description": "T. A. Aurelius, Sohn Marc Aurels",
     "wp_link": "w:de:Aelier",
     "wd_link": "d:Q380806",
     "chapters": [
       {
         "start": 9,
-        "author": "Hans Gärtner."
+        "end": 9
       }
     ]
   },
   {
     "lemma": "Aelius 27",
-    "previous": "Aelius 26b",
     "next": "Aelius 27aaa",
     "chapters": [
       {
@@ -2484,7 +2484,6 @@
   {
     "lemma": "Aelius 42b",
     "previous": "Aelius 42a",
-    "next": "Aelius 43a",
     "chapters": [
       {
         "start": 9,
@@ -2494,19 +2493,20 @@
   },
   {
     "lemma": "Aelius 43a",
-    "previous": "Aelius 42b",
-    "next": "Aelius 51a",
+    "previous": "Aelius 27aaa",
+    "next": "Aelius 76",
+    "sort_key": "Aelius 043a",
     "proof_read": 3,
+    "short_description": "A. Decius Triccianus, Statthalter Pannonia inf. 217 n. Chr.",
     "chapters": [
       {
         "start": 9,
-        "author": "Hans Gärtner."
+        "end": 9
       }
     ]
   },
   {
     "lemma": "Aelius 51a",
-    "previous": "Aelius 43a",
     "next": "Aelius 57",
     "chapters": [
       {
@@ -15605,7 +15605,6 @@
   {
     "lemma": "Antisthenes 9b",
     "previous": "Antisthenes 9a",
-    "next": "Antistii",
     "chapters": [
       {
         "start": 32,
@@ -15615,19 +15614,23 @@
   },
   {
     "lemma": "Antistii",
-    "previous": "Antisthenes 9b",
-    "next": "Antistius",
+    "previous": "Antinoitai",
+    "next": "Antistius 24",
     "proof_read": 3,
+    "short_description": "Mittelgall. Sigillatatöpfer (in Lezoux?) im 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 32,
-        "author": "Hans Gärtner."
+        "end": 32
       }
     ]
   },
   {
+    "lemma": "Antistius 24",
+    "previous": "Antistii"
+  },
+  {
     "lemma": "Antistius",
-    "previous": "Antistii",
     "next": "Antistius 27",
     "chapters": [
       {
