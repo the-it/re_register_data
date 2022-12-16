@@ -4473,18 +4473,19 @@
   {
     "lemma": "Agathinos 9",
     "previous": "Agathinos 8",
-    "next": "Agathinos 10",
+    "next": "Agemon 2",
+    "sort_key": "Agathinos 09",
     "proof_read": 3,
+    "short_description": "aus Epidauros, Bildhauer beim Schmuck des Asklepiostempels",
     "chapters": [
       {
         "start": 12,
-        "author": "Hans Gärtner."
+        "end": 12
       }
     ]
   },
   {
     "lemma": "Agathinos 10",
-    "previous": "Agathinos 9",
     "next": "Agathobulidai",
     "chapters": [
       {
@@ -12969,7 +12970,6 @@
   {
     "lemma": "Andautonia",
     "previous": "Andarta dea",
-    "next": "Andecavi (Andes)",
     "chapters": [
       {
         "start": 27,
@@ -12979,20 +12979,21 @@
   },
   {
     "lemma": "Andecavi (Andes)",
-    "previous": "Andautonia",
-    "next": "Andeda",
+    "previous": "Andaga",
+    "next": "Anelion",
     "redirect": "Angers",
     "proof_read": 3,
+    "wp_link": "w:de:Andecaver",
+    "wd_link": "d:Q749303",
     "chapters": [
       {
         "start": 27,
-        "author": "Hans Gärtner."
+        "end": 27
       }
     ]
   },
   {
     "lemma": "Andeda",
-    "previous": "Andecavi (Andes)",
     "next": "Andematunnum",
     "chapters": [
       {
@@ -13932,7 +13933,6 @@
   {
     "lemma": "Anicius 16a",
     "previous": "Anicius 10",
-    "next": "Anicius 40",
     "chapters": [
       {
         "start": 29,
@@ -13942,21 +13942,21 @@
   },
   {
     "lemma": "Anicius 40",
-    "previous": "Anicius 16a",
-    "next": "Anicius 46",
+    "previous": "Anicius 8a",
+    "next": "Anicius 54a",
     "proof_read": 3,
+    "short_description": "Q. Clodius Hermogenianus Olybrius, praef. urb 369-370 n. Chr. Konsul 379 n. Chr.,",
     "wp_link": "w:en:Quintus Clodius Hermogenianus Olybrius",
     "wd_link": "d:Q1148526",
     "chapters": [
       {
         "start": 29,
-        "author": "Hans Gärtner."
+        "end": 29
       }
     ]
   },
   {
     "lemma": "Anicius 46",
-    "previous": "Anicius 40",
     "next": "Anicius 47",
     "chapters": [
       {
@@ -25026,7 +25026,6 @@
   {
     "lemma": "Arneiter Hof",
     "previous": "Arnefa",
-    "next": "Arno",
     "chapters": [
       {
         "start": 46,
@@ -25036,19 +25035,19 @@
   },
   {
     "lemma": "Arno",
-    "previous": "Arneiter Hof",
-    "next": "Arnsburg",
+    "previous": "Armoric, Armory",
+    "next": "Arrius 43a",
     "proof_read": 3,
+    "short_description": "Italien. Fluß. = Arnus Nr.1",
     "chapters": [
       {
         "start": 46,
-        "author": "Hans Gärtner."
+        "end": 46
       }
     ]
   },
   {
     "lemma": "Arnsburg",
-    "previous": "Arno",
     "next": "Arpinum",
     "chapters": [
       {
@@ -127413,7 +127412,6 @@
   {
     "lemma": "Zorambos",
     "previous": "Zopyros 19a",
-    "next": "Verzeichnis der Autoren (Register)",
     "chapters": [
       {
         "start": 234,
@@ -127423,19 +127421,15 @@
   },
   {
     "lemma": "Verzeichnis der Autoren (Register)",
-    "previous": "Zorambos",
+    "previous": "Zezis",
     "sort_key": "!S16 235 Verzeichnis der Autoren",
     "redirect": true,
-    "short_description": "Verzeichnis der Bände und Autoren (Register)",
+    "short_description": "Verzeichnis der Bände und Autoren (Register R)",
     "chapters": [
       {
         "start": 235,
-        "end": 237,
+        "end": 250,
         "author": "Gerhard Winkler."
-      },
-      {
-        "start": 238,
-        "end": 250
       }
     ]
   }
