@@ -2662,20 +2662,21 @@
   {
     "lemma": "Aelius 80a",
     "previous": "Aelius 78a",
-    "next": "Aelius 87",
+    "next": "Aelius 166a",
+    "sort_key": "Aelius 080a",
     "proof_read": 3,
+    "short_description": "T. A. Largus, römischer Ritter, kaiserl. Prokurator der Bibliotheken",
     "wp_link": "w:de:Aelier",
     "wd_link": "d:Q380806",
     "chapters": [
       {
         "start": 9,
-        "author": "Hans Gärtner."
+        "end": 9
       }
     ]
   },
   {
     "lemma": "Aelius 87",
-    "previous": "Aelius 80a",
     "next": "Aelius 89a",
     "chapters": [
       {
@@ -19388,7 +19389,6 @@
   {
     "lemma": "Aradita",
     "previous": "Arada",
-    "next": "Aradius a",
     "chapters": [
       {
         "start": 38,
@@ -19398,13 +19398,15 @@
   },
   {
     "lemma": "Aradius a",
-    "previous": "Aradita",
+    "previous": "Aquilinus 6",
     "next": "Aradius 1",
+    "sort_key": "Aradius 8",
     "proof_read": 3,
+    "short_description": "P. Aradi[us...] Patern[us...] Rufini[anus]",
     "chapters": [
       {
         "start": 38,
-        "author": "Hans Gärtner."
+        "end": 38
       }
     ]
   },
@@ -31461,7 +31463,6 @@
   {
     "lemma": "Aurelius 78a",
     "previous": "Aurelius 77a",
-    "next": "Aurelius 78b",
     "chapters": [
       {
         "start": 57,
@@ -31471,20 +31472,21 @@
   },
   {
     "lemma": "Aurelius 78b",
-    "previous": "Aurelius 78a",
-    "next": "Aurelius 78c",
+    "previous": "Aurelius 77a",
+    "next": "Aurelius 126a",
+    "sort_key": "Aurelius 078b",
     "redirect": "Aurelius 77a",
     "proof_read": 3,
+    "short_description": "= 77a M. A. Cassianus, Praeses der Provinz Dacia Maluensis",
     "chapters": [
       {
         "start": 57,
-        "author": "Hans Gärtner."
+        "end": 57
       }
     ]
   },
   {
     "lemma": "Aurelius 78c",
-    "previous": "Aurelius 78b",
     "next": "Aurelius 79",
     "chapters": [
       {
@@ -36887,7 +36889,6 @@
   {
     "lemma": "Bituriges",
     "previous": "Bitunus",
-    "next": "Biturix",
     "chapters": [
       {
         "start": 67,
@@ -36897,13 +36898,14 @@
   },
   {
     "lemma": "Biturix",
-    "previous": "Bituriges",
+    "previous": "Betis",
     "next": "ad Bivium",
     "proof_read": 3,
+    "short_description": "Gall. Vasenfabrikant",
     "chapters": [
       {
         "start": 67,
-        "author": "Hans Gärtner."
+        "end": 67
       }
     ]
   },
@@ -50763,7 +50765,6 @@
   {
     "lemma": "Crispinus 7a",
     "previous": "Crispinus 5a",
-    "next": "Crispinus 15a",
     "chapters": [
       {
         "start": 91,
@@ -50773,20 +50774,24 @@
   },
   {
     "lemma": "Crispinus 15a",
-    "previous": "Crispinus 7a",
-    "next": "Crispinus 18",
+    "previous": "Crispinus 4a",
+    "next": "Cuspius 3.4",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "[---]nius Gallus Vecilius C. Mansuanius Marcellinus, leg. Aug. pr. pr. der Provinzen Galatia, Pisidia und Paphlagonia in traian. Zt.",
     "chapters": [
       {
         "start": 91,
-        "author": "Hans Gärtner."
+        "end": 91
       }
     ]
   },
   {
+    "lemma": "Cuspius 3.4",
+    "previous": "Crispinus 15a"
+  },
+  {
     "lemma": "Crispinus 18",
-    "previous": "Crispinus 15a",
     "next": "Crispus 7a",
     "chapters": [
       {
@@ -53246,7 +53251,6 @@
   {
     "lemma": "Demetrias 1",
     "previous": "Demetrianus 5",
-    "next": "Demetrias 1a",
     "chapters": [
       {
         "start": 96,
@@ -53256,20 +53260,20 @@
   },
   {
     "lemma": "Demetrias 1a",
-    "previous": "Demetrias 1",
-    "next": "Demetrios 22a",
+    "previous": "Daunion a",
+    "next": "Demonax 4",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "Stadt in der Landschaft Magnesia.",
     "chapters": [
       {
         "start": 96,
-        "author": "Hans Gärtner."
+        "end": 96
       }
     ]
   },
   {
     "lemma": "Demetrios 22a",
-    "previous": "Demetrias 1a",
     "next": "Demetrios 32a",
     "chapters": [
       {
@@ -73602,7 +73606,6 @@
   {
     "lemma": "Ilva 2",
     "previous": "Ilpa",
-    "next": "Iluberitani",
     "chapters": [
       {
         "start": 132,
@@ -73612,20 +73615,19 @@
   },
   {
     "lemma": "Iluberitani",
-    "previous": "Ilva 2",
-    "next": "Iluberris",
+    "previous": "Ilpa",
+    "next": "Ilunum 1",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
       {
         "start": 132,
-        "author": "Hans Gärtner."
+        "end": 132
       }
     ]
   },
   {
     "lemma": "Iluberris",
-    "previous": "Iluberitani",
     "next": "Ilucia",
     "chapters": [
       {
@@ -86103,29 +86105,37 @@
   {
     "lemma": "Lex Aebutia 2",
     "previous": "Lex Acilia Rubria",
-    "next": "Lex Aemilia 3",
     "chapters": [
       {
         "start": 154,
         "author": "Hans Gärtner."
       }
     ]
+  },
+  {
+    "lemma": "Leges Corneliae 2) 2.",
+    "next": "Lex Aemilia 3"
   },
   {
     "lemma": "Lex Aemilia 3",
-    "previous": "Lex Aebutia 2",
-    "next": "Lex Aemilia 4",
+    "previous": "Leges Corneliae 2) 2.",
+    "next": "Leges de dictatore creando",
+    "sort_key": "Lexaemilia 3",
     "proof_read": 3,
+    "short_description": "ein Aufwandsgesetz, erwähnt bei Gell. II",
     "chapters": [
       {
         "start": 154,
-        "author": "Hans Gärtner."
+        "end": 154
       }
     ]
   },
   {
+    "lemma": "Leges de dictatore creando",
+    "previous": "Lex Aemilia 3"
+  },
+  {
     "lemma": "Lex Aemilia 4",
-    "previous": "Lex Aemilia 3",
     "next": "Lex Antia",
     "chapters": [
       {
@@ -88028,10 +88038,11 @@
     "previous": "Litra",
     "next": "Livila",
     "proof_read": 3,
+    "short_description": "Gall.(?) Ort vgl. -acus, -iacus",
     "chapters": [
       {
         "start": 158,
-        "author": "Hans Gärtner."
+        "end": 158
       }
     ]
   },
