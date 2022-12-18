@@ -1534,6 +1534,7 @@
     "previous": "Aime",
     "next": "Ainesias 2",
     "proof_read": 3,
+    "short_description": "Arzt z. Zeit der Perserkriege, Bruder des Hippokrates",
     "chapters": [
       {
         "start": 64,
@@ -4806,6 +4807,7 @@
     "previous": "Apt",
     "next": "Aquae",
     "proof_read": 3,
+    "short_description": "Stadt in der Provinz Dacia",
     "wp_link": "w:de:Alba Iulia",
     "wd_link": "d:Q174665",
     "chapters": [
@@ -10027,9 +10029,9 @@
   {
     "lemma": "Autodoros",
     "previous": "Autessiodurum",
-    "next": "Autophradates",
+    "next": "Autophradates a",
+    "redirect": "Antidoros 10",
     "proof_read": 3,
-    "short_description": "Richtig: Antidoros Nr.10) von Kyme, Grammatiker um 300 v. Chr.",
     "chapters": [
       {
         "start": 190,
@@ -10040,8 +10042,6 @@
   },
   {
     "lemma": "Autophradates",
-    "previous": "Autodoros",
-    "next": "Autricum",
     "short_description": "(Αὐτοφραδάτης), Satrap von Lydien, kämpfte 390 mit dem Kyprier Euagoras",
     "chapters": [
       {
@@ -10052,8 +10052,23 @@
     ]
   },
   {
+    "lemma": "Autophradates a",
+    "previous": "Autodoros",
+    "next": "Autricum",
+    "short_description": "Satrap von Lydien unter Artaxerxes II.",
+    "wp_link": "w:de:Autophradates (Lydien)",
+    "wd_link": "d:Q788226",
+    "chapters": [
+      {
+        "start": 190,
+        "end": 190,
+        "author": "Stähelin."
+      }
+    ]
+  },
+  {
     "lemma": "Autricum",
-    "previous": "Autophradates",
+    "previous": "Autophradates a",
     "next": "Autun",
     "proof_read": 3,
     "short_description": "Hauptstadt der gall. Carnuten",
@@ -13603,6 +13618,7 @@
     "next": "Calpurnius 73",
     "sort_key": "Calpurnius 056z",
     "proof_read": 3,
+    "short_description": "Piso, Praescriptio: in der Kaiserzeit gehörten die Pisonen zur höchsten Aristokratie, Stammtafel S. 1375",
     "wp_link": "w:de:Calpurnius Piso",
     "wd_link": "d:Q5401888",
     "chapters": [
@@ -13701,6 +13717,7 @@
     "next": "Calpurnius 98",
     "sort_key": "Calpurnius 096",
     "proof_read": 3,
+    "short_description": "L. C. Piso Frugi, Konsul im J. 133 v. Chr., Annalist. (K) (L).",
     "wp_link": "w:de:Lucius Calpurnius Piso Frugi",
     "ws_link": "s:it:Autore:Lucio Calpurnio Pisone Frugi",
     "wd_link": "d:Q550603",
@@ -15618,6 +15635,7 @@
     "next": "Claudius 20a",
     "sort_key": "Claudius 000",
     "proof_read": 3,
+    "short_description": "Praescr.",
     "wp_link": "w:de:Claudier",
     "wd_link": "d:Q385338",
     "chapters": [
@@ -16241,6 +16259,7 @@
     "previous": "Contouca",
     "next": "Contrebia 2",
     "proof_read": 3,
+    "short_description": "Keltiberischer Hauptstamm",
     "no_creative_height": true,
     "chapters": [
       {
@@ -16255,6 +16274,7 @@
     "previous": "Contrebia 1",
     "next": "Coocus",
     "proof_read": 3,
+    "short_description": "Keltiberischer Stamm der Leucada",
     "no_creative_height": true,
     "chapters": [
       {
@@ -16284,6 +16304,7 @@
     "previous": "Coocus",
     "next": "Cornelius 8",
     "proof_read": 3,
+    "short_description": "Fluß in Pannonia sup",
     "chapters": [
       {
         "start": 257,
@@ -16420,6 +16441,7 @@
     "previous": "Cornelius 141",
     "next": "Cornelius 186",
     "proof_read": 3,
+    "short_description": "Cn. C. Lentulus, Konsul im J. 146 v. Chr.",
     "wp_link": "w:de:Gnaeus Cornelius Lentulus (Konsul 146 v. Chr.)",
     "wd_link": "d:Q947137",
     "chapters": [
@@ -16435,6 +16457,7 @@
     "previous": "Cornelius 177",
     "next": "Cornelius 193",
     "proof_read": 3,
+    "short_description": "L. C. Lentulus, Konsul im J. 327, Diktator im J.320 v. Chr.",
     "wp_link": "w:de:Lucius Cornelius Lentulus (Konsul 327 v. Chr.)",
     "wd_link": "d:Q655227",
     "chapters": [
@@ -16450,6 +16473,7 @@
     "previous": "Cornelius 186",
     "next": "Cornelius 202",
     "proof_read": 3,
+    "short_description": "L. C. Lentulus, Quästor auf Delos. vgl. C. Nr.[208b]",
     "chapters": [
       {
         "start": 259,
@@ -16493,6 +16517,7 @@
     "previous": "Cornelius 202a",
     "next": "Cornelius 208a. b",
     "proof_read": 3,
+    "short_description": "P. C. Lentulus, Legat des L. Iulius (X 465 Nr.142) Caesar im Bundesgenossenkrieg",
     "chapters": [
       {
         "start": 260,
@@ -16522,6 +16547,7 @@
     "previous": "Cornelius 208a. b",
     "next": "Cornelius 219",
     "proof_read": 3,
+    "short_description": "Cn. (C.) Lentulus Batiatus, Besitzer einer Gladiatorenschule in Capua.",
     "wp_link": "w:de:Gnaeus Cornelius Lentulus Batiatus",
     "wd_link": "d:Q378683",
     "chapters": [
@@ -16537,6 +16563,7 @@
     "previous": "Cornelius 209",
     "next": "Cornelius 317ff.",
     "proof_read": 3,
+    "short_description": "Cn. C. Lentulus Cruscellio, Prätor (im J. 39 v. Chr.?). . = Cn. (C.) Nr.179 (IV 1361) Lentulus.",
     "chapters": [
       {
         "start": 260,
@@ -16551,6 +16578,7 @@
     "next": "Cornelius 335",
     "sort_key": "Cornelius 316z",
     "proof_read": 3,
+    "short_description": "C. Scipiones",
     "wp_link": "w:fr:Cornelii Scipiones",
     "wd_link": "d:Q16209250",
     "chapters": [
@@ -16582,6 +16610,7 @@
     "previous": "Cornelius 335",
     "next": "Cornelius 337",
     "proof_read": 3,
+    "short_description": "P. C. [Scipio Africanus (maior), cos. I im J. 205, cos. II im J. 194, Sieger von Zama im J.202 v. Chr.",
     "wp_link": "w:de:Publius Cornelius Scipio Africanus",
     "ws_link": "s:en:Author:Scipio Africanus",
     "wd_link": "d:Q2253",
@@ -16598,6 +16627,7 @@
     "previous": "Cornelius 336",
     "next": "Cornelius 338",
     "proof_read": 3,
+    "short_description": "L. C. Scipio Asiagenus, Konsul im J. 190 v. Chr., Sieger über Antiochos III. Megas bei Magnesia",
     "wp_link": "w:de:Lucius Cornelius Scipio Asiaticus (Konsul 190 v. Chr.)",
     "wd_link": "d:Q361377",
     "chapters": [
@@ -16613,6 +16643,7 @@
     "previous": "Cornelius 337",
     "next": "Cornelius 347",
     "proof_read": 3,
+    "short_description": "L. C. Scipio Asiagenus, cos. 83 v. Chr",
     "chapters": [
       {
         "start": 261,
@@ -16626,6 +16657,7 @@
     "previous": "Cornelius 338",
     "next": "Cornelius 351",
     "proof_read": 3,
+    "short_description": "Cn. C. Scipio Hispanus, Prätor im J. 139 v. Chr.",
     "chapters": [
       {
         "start": 261,
@@ -16639,6 +16671,7 @@
     "previous": "Cornelius 347",
     "next": "Cornelius 354",
     "proof_read": 3,
+    "short_description": "P. C. Scipio Nasica, Prätor und Statthalter der Provinz Hispania ult. im J. 93 v. Chr. (L?) vgl. S I.",
     "wp_link": "w:de:Publius Cornelius Scipio Nasica (Prätor)",
     "wd_link": "d:Q1241384",
     "chapters": [
@@ -16654,6 +16687,7 @@
     "previous": "Cornelius 351",
     "next": "Cornelius 373",
     "proof_read": 3,
+    "short_description": "P. C. Scipio Nasica, Konsul im J. 138, unter seiner Führung wurde im J. 133 v. Chr. Ti. Sempronius Gracchus erschlagen",
     "wp_link": "w:de:Publius Cornelius Scipio Nasica Serapio",
     "wd_link": "d:Q285755",
     "chapters": [
@@ -16669,6 +16703,7 @@
     "previous": "Cornelius 354",
     "next": "Cornelius 385",
     "proof_read": 3,
+    "short_description": "Cn. C. Sisenna, Statthalter der Provinz Macedonia im J. 117 v. Chr.",
     "chapters": [
       {
         "start": 261,
@@ -16682,6 +16717,7 @@
     "previous": "Cornelius 373",
     "next": "Cornelius 407",
     "proof_read": 3,
+    "short_description": "P. C. Sulla, an der catilinarischen Verschwörung beteiligter Senator",
     "chapters": [
       {
         "start": 261,
@@ -16695,6 +16731,7 @@
     "previous": "Cornelius 385",
     "next": "Cornificius 5",
     "proof_read": 3,
+    "short_description": "Cornelia, die jüngere der beiden Töchter des P. Scipio Africanus u. der Aemilia Tertia, die Mutter der Gracchen.",
     "chapters": [
       {
         "start": 261,
@@ -16707,7 +16744,9 @@
     "lemma": "Cornificius 5",
     "previous": "Cornelius 407",
     "next": "Cornutus 6",
+    "sort_key": "Cornificius 05",
     "proof_read": 3,
+    "short_description": "L. C., Flottencommandant, cos. 35 v. Chr. Statthalter von Africa",
     "wp_link": "w:de:Lucius Cornificius (Konsul 35 v. Chr.)",
     "wd_link": "d:Q773808",
     "chapters": [
@@ -16736,8 +16775,9 @@
     "lemma": "Cosconius 3",
     "previous": "Cornutus 6",
     "next": "Cosconius 9",
-    "sort_key": "Cosconius 3",
+    "sort_key": "Cosconius 03",
     "proof_read": 3,
+    "short_description": "C. C., Prokonsul von Illyricum in den J. 78-76 v. Chr.",
     "wp_link": "w:es:Cayo Cosconio (pretor 89 a. C.)",
     "wd_link": "d:Q11923538",
     "chapters": [
@@ -16752,8 +16792,9 @@
     "lemma": "Cosconius 9",
     "previous": "Cosconius 3",
     "next": "Cosius 1",
-    "sort_key": "Cosconius 9",
+    "sort_key": "Cosconius 09",
     "proof_read": 3,
+    "short_description": "M. C., Senator um das J. 110 v. Chr. .",
     "chapters": [
       {
         "start": 262,
@@ -17009,6 +17050,7 @@
     "previous": "Crassicius 6",
     "next": "Cremona",
     "proof_read": 3,
+    "short_description": "Kleiner Fluß in Etrurien",
     "wp_link": "w:de:Cremera",
     "wd_link": "d:Q1139578",
     "chapters": [
@@ -17024,6 +17066,7 @@
     "previous": "Cremera",
     "next": "Crescens 8a",
     "proof_read": 3,
+    "short_description": "Röm. Kolonie in Oberitalien.",
     "wp_link": "w:de:Cremona",
     "wd_link": "d:Q6231",
     "chapters": [
@@ -17208,6 +17251,7 @@
     "previous": "Crummus",
     "next": "Cunissa",
     "proof_read": 3,
+    "short_description": "Siedler in Gallia Belgica(?)",
     "chapters": [
       {
         "start": 265,
@@ -17275,7 +17319,9 @@
     "lemma": "Curius 3",
     "previous": "Curiunnus",
     "next": "Curius 8",
+    "sort_key": "Curius 03",
     "proof_read": 3,
+    "short_description": "Genosse des Triumvirn M. Antonius = M'. C., Würfelspieler",
     "chapters": [
       {
         "start": 265,
@@ -17288,7 +17334,9 @@
     "lemma": "Curius 8",
     "previous": "Curius 3",
     "next": "Curmillus",
+    "sort_key": "Curius 08",
     "proof_read": 3,
+    "short_description": "Vibius Caesarianer",
     "chapters": [
       {
         "start": 265,
@@ -17363,6 +17411,7 @@
     "previous": "Curtius 22",
     "next": "Curubis",
     "proof_read": 3,
+    "short_description": "M. C. Postumus, Prätor im J. 48/7 v. Chr. vgl. Rabirius Nr.6",
     "wp_link": "w:ca:Marc Curci Pòstum",
     "wd_link": "d:Q11935116",
     "chapters": [
@@ -17378,6 +17427,7 @@
     "previous": "Curtius 26",
     "next": "Cusiacus, Cussiacus",
     "proof_read": 3,
+    "short_description": "Stadt an der Küste der Zeugitana.",
     "chapters": [
       {
         "start": 266,
@@ -19959,6 +20009,7 @@
     "lemma": "Drypetis",
     "previous": "Drusus 5",
     "next": "Dubitatus",
+    "proof_read": 2,
     "short_description": "Tochter Dareios’ III., Gattin des Hephaistion Nr. 3, nach Alexanders Tod ermordet.",
     "wp_link": "w:de:Drypetis",
     "wd_link": "d:Q3243260",
@@ -23790,6 +23841,7 @@
     "previous": "Gaudotos",
     "next": "Gavius 8a",
     "proof_read": 3,
+    "short_description": "C. G., frühkaiserzeitl. Besitzer einer Sigillatatöpferei in Cincelli bei Arezzo",
     "chapters": [
       {
         "start": 540,
@@ -24028,8 +24080,8 @@
     "lemma": "Geminius 3",
     "previous": "Gemenus",
     "next": "Geminius 20a",
-    "sort_key": "Geminius 03",
     "proof_read": 3,
+    "short_description": "C. G., Freund des Triumvirn M. Antonius 32 v. Chr.",
     "wp_link": "w:de:Geminius (Anhänger des Antonius)",
     "wd_link": "d:Q1501111",
     "chapters": [
@@ -26987,6 +27039,7 @@
     "previous": "Icositani",
     "next": "Idera",
     "proof_read": 3,
+    "short_description": "Germ. Lokalgottheit vgl. Gabia",
     "chapters": [
       {
         "start": 1195,
@@ -27042,6 +27095,7 @@
     "previous": "Iemsal",
     "next": "Jersey",
     "proof_read": 2,
+    "short_description": "Lusitan. Straßenstation = Arabriga (II 366)(?).",
     "chapters": [
       {
         "start": 1196,
@@ -27234,6 +27288,7 @@
     "previous": "Ikos",
     "next": "Ilasarus",
     "proof_read": 2,
+    "short_description": "Stadt der hispan. Carpetani",
     "chapters": [
       {
         "start": 1206,
@@ -27246,6 +27301,7 @@
     "lemma": "Ilasarus",
     "previous": "Ilarcuris",
     "next": "Ildum",
+    "short_description": "Fürst der südarab. Rhammaniten im J. 24 v. Chr",
     "wp_link": "w:en:Ilasaros",
     "wd_link": "d:Q16126069",
     "chapters": [
@@ -27383,6 +27439,7 @@
     "previous": "Iliberri 4",
     "next": "Ilienses 2",
     "proof_read": 2,
+    "short_description": "Stadt der iber. Contestani",
     "wp_link": "w:de:Elche",
     "wd_link": "d:Q10509",
     "chapters": [

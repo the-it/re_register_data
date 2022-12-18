@@ -13639,13 +13639,15 @@
   {
     "lemma": "Esus",
     "previous": "Esuris",
-    "next": "Eszris",
-    "short_description": "Name eines kelt. Gottes",
+    "next": "Esuvii",
+    "sort_key": "Esus",
+    "proof_read": 2,
+    "short_description": "Name eines keltischen Gottes",
     "chapters": [
       {
         "start": 694,
         "end": 696,
-        "author": "Ihm"
+        "author": "Ihm."
       }
     ]
   },
@@ -13662,13 +13664,18 @@
   },
   {
     "lemma": "Esuvii",
-    "previous": "Eszris",
+    "previous": "Esus",
     "next": "Esuvius 1",
+    "sort_key": "Esuvii",
+    "proof_read": 2,
     "short_description": "Volk in Gallien",
+    "wp_link": "w:de:Esuvier",
+    "wd_link": "d:Q628404",
     "chapters": [
       {
         "start": 696,
-        "author": "Ihm"
+        "end": 696,
+        "author": "Ihm."
       }
     ]
   },
@@ -13676,12 +13683,16 @@
     "lemma": "Esuvius 1",
     "previous": "Esuvii",
     "next": "Esuvius 2",
-    "short_description": "[Tetricus, C. Pius Gall. Gegenkaiser im 3. Jh. n. Chr.",
+    "sort_key": "Esuvius 1",
+    "proof_read": 2,
+    "short_description": "Tetricus, Gallischer Gegenkaiser im 3. Jh. n. Chr.",
+    "wp_link": "w:de:Tetricus I.",
+    "wd_link": "d:Q312672",
     "chapters": [
       {
         "start": 696,
         "end": 704,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -13689,12 +13700,16 @@
     "lemma": "Esuvius 2",
     "previous": "Esuvius 1",
     "next": "Etaeries",
+    "sort_key": "Esuvius 2",
+    "proof_read": 2,
     "short_description": "Tetricus, C. Pius Sohn v. Nr. 1",
+    "wp_link": "w:de:Tetricus II.",
+    "wd_link": "d:Q326589",
     "chapters": [
       {
         "start": 704,
         "end": 705,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -13702,8 +13717,8 @@
     "lemma": "Etaeries",
     "previous": "Esuvius 2",
     "next": "Etanna",
-    "proof_read": 2,
-    "short_description": "Kastell unbekannter Lage, bei Procop. de aedif. 282, 45 Ἐταιρίες.",
+    "proof_read": 3,
+    "short_description": "Kastell unbekannter Lage",
     "chapters": [
       {
         "start": 705,
@@ -13716,10 +13731,14 @@
     "lemma": "Etanna",
     "previous": "Etaeries",
     "next": "Etaxalos",
+    "sort_key": "Etanna",
+    "proof_read": 2,
+    "short_description": "Station im Lande der Allobrogen, jetzt Departement Savoie",
     "chapters": [
       {
         "start": 705,
-        "author": "Ihm"
+        "end": 705,
+        "author": "Ihm."
       }
     ]
   },
@@ -13727,12 +13746,14 @@
     "lemma": "Etaxalos",
     "previous": "Etanna",
     "next": "Etazeta",
+    "sort_key": "Etaxalos",
+    "proof_read": 2,
     "short_description": "Inselgruppe wahrscheinl. an d. W-Küste Arabiens",
     "chapters": [
       {
         "start": 705,
         "end": 706,
-        "author": "Tkáč"
+        "author": "Tkač."
       }
     ]
   },
@@ -13740,10 +13761,14 @@
     "lemma": "Etazeta",
     "previous": "Etaxalos",
     "next": "Eteia",
+    "sort_key": "Etazeta",
+    "proof_read": 2,
+    "short_description": "zweite Gemahlin des Nikomedes I. von Bithynien, 3. Jhdt v. Chr.",
     "chapters": [
       {
         "start": 706,
-        "author": "Willrich"
+        "end": 706,
+        "author": "Willrich."
       }
     ]
   },
@@ -13751,10 +13776,14 @@
     "lemma": "Eteia",
     "previous": "Etazeta",
     "next": "Etelesta",
+    "sort_key": "Eteia",
+    "proof_read": 2,
+    "short_description": "Stadt auf der Insel Kreta",
     "chapters": [
       {
         "start": 706,
-        "author": "Bürchner"
+        "end": 706,
+        "author": "Bürchner."
       }
     ]
   },
@@ -13763,7 +13792,7 @@
     "previous": "Eteia",
     "next": "Etene",
     "redirect": "Egelasta",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 706,
@@ -13775,10 +13804,14 @@
     "lemma": "Etene",
     "previous": "Etelesta",
     "next": "Etenna",
+    "sort_key": "Etene",
+    "proof_read": 2,
+    "short_description": "Stadt in der kleinasiatischen Doris",
     "chapters": [
       {
         "start": 706,
-        "author": "Bürchner"
+        "end": 706,
+        "author": "Bürchner."
       }
     ]
   },
@@ -13786,11 +13819,14 @@
     "lemma": "Etenna",
     "previous": "Etene",
     "next": "Eteokarpathoi",
+    "sort_key": "Etenna",
+    "proof_read": 2,
+    "short_description": "Stadt in Pamphylien",
     "chapters": [
       {
         "start": 706,
         "end": 707,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -33170,6 +33206,8 @@
     "sort_key": "Euth",
     "proof_read": 3,
     "short_description": "Namensform eines Münzstempelschneiders",
+    "wp_link": "w:it:Euth-",
+    "wd_link": "d:Q17126325",
     "chapters": [
       {
         "start": 1494,
