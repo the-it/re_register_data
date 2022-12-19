@@ -8507,7 +8507,7 @@
   {
     "lemma": "Pauperies",
     "previous": "Paulus 29",
-    "next": "Pausanias 12a",
+    "next": "Pausanias 25",
     "chapters": [
       {
         "start": 521,
@@ -8517,18 +8517,8 @@
     ]
   },
   {
-    "lemma": "Pausanias 12a",
-    "previous": "Pauperies",
-    "short_description": "s. 25)",
-    "chapters": [
-      {
-        "start": 529
-      }
-    ]
-  },
-  {
     "lemma": "Pausanias 25",
-    "previous": "pauperies",
+    "previous": "Pauperies",
     "next": "Pausanias 26",
     "proof_read": 2,
     "short_description": "Vertreter der athenischen Korporation der Technitai in Delphi 97 v. Chr.",
@@ -8555,8 +8545,31 @@
     ]
   },
   {
-    "lemma": "Peiraios",
-    "next": "Pausikai",
+    "lemma": "Παυσίκαι",
+    "previous": "Pausanias 26",
+    "next": "Pausoi",
+    "short_description": "Volk an der Nordwestgrenze des pers. Reiches",
+    "chapters": [
+      {
+        "start": 530,
+        "author": "Treidler"
+      }
+    ]
+  },
+  {
+    "lemma": "Pausoi",
+    "previous": "Παυσίκαι",
+    "next": "Peiraios 3",
+    "chapters": [
+      {
+        "start": 530
+      }
+    ]
+  },
+  {
+    "lemma": "Peiraios 3",
+    "previous": "Pausoi",
+    "next": "Pelops 5",
     "short_description": "P. von Sikyon, Schauspieler in Argos oder Umgebung in den J. 97-75 v. Chr.",
     "chapters": [
       {
@@ -8567,20 +8580,18 @@
     ]
   },
   {
-    "lemma": "Pausikai",
-    "previous": "Peiraios",
+    "lemma": "Pelops 5",
+    "previous": "Peiraios 3",
     "next": "Perigenes 6",
-    "short_description": "Volk an der Nordwestgrenze des pers. Reiches",
     "chapters": [
       {
-        "start": 530,
-        "author": "Treidler"
+        "start": 530
       }
     ]
   },
   {
     "lemma": "Perigenes 6",
-    "previous": "Pausikai",
+    "previous": "Pelops 5",
     "next": "Peticius 2",
     "short_description": "P. von Argos, Schauspieler in Argos oder Umgebung in den J. 97-75 v. Chr., Sohn",
     "chapters": [
