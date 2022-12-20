@@ -1450,10 +1450,20 @@
   },
   {
     "lemma": "Acilius 57a",
-    "previous": "Acilius 57"
+    "previous": "Acilius 57",
+    "next": "Acilius 58",
+    "proof_read": 3,
+    "short_description": "L. A. Strabo Clodius, Legat der Provinz Numidia 102-114 n. Chr.",
+    "chapters": [
+      {
+        "start": 7,
+        "end": 7
+      }
+    ]
   },
   {
     "lemma": "Acilius 58",
+    "previous": "Acilius 57a",
     "next": "Acionna",
     "chapters": [
       {
@@ -4483,13 +4493,15 @@
     "lemma": "Agathinos 8",
     "previous": "Agathinos 5a",
     "next": "Agathinos 9",
+    "sort_key": "Agathinos 08",
     "proof_read": 3,
+    "short_description": "Cl. A., Arzt der pneumat. Schule im 1. Jh. n. Chr.",
     "wp_link": "w:de:Agathinos aus Sparta",
     "wd_link": "d:Q1752691",
     "chapters": [
       {
         "start": 12,
-        "author": "Hans Gärtner."
+        "end": 12
       }
     ]
   },
@@ -6572,7 +6584,7 @@
   {
     "lemma": "Aioleion",
     "previous": "Aioiorix",
-    "next": "Aiolides",
+    "next": "Aiolides 1",
     "proof_read": 3,
     "chapters": [
       {
@@ -6582,8 +6594,7 @@
     ]
   },
   {
-    "lemma": "Aiolides",
-    "previous": "Aioleion"
+    "lemma": "Aiolides"
   },
   {
     "lemma": "Aiolides 1",
@@ -10384,7 +10395,7 @@
   {
     "lemma": "Alphinus 2",
     "previous": "Alphinus 1",
-    "next": "Alphitomanteia",
+    "next": "Ἀλφιτομαντεία",
     "chapters": [
       {
         "start": 22,
@@ -10393,7 +10404,7 @@
     ]
   },
   {
-    "lemma": "Alphitomanteia",
+    "lemma": "Ἀλφιτομαντεία",
     "previous": "Alphinus 2",
     "next": "Alpinius 1a",
     "chapters": [
@@ -10405,7 +10416,7 @@
   },
   {
     "lemma": "Alpinius 1a",
-    "previous": "Alphitomanteia",
+    "previous": "Ἀλφιτομαντεία",
     "next": "Alpinius 4",
     "redirect": true,
     "proof_read": 3,
@@ -17542,7 +17553,6 @@
   {
     "lemma": "Apolaustus 4",
     "previous": "Apolaustus 3",
-    "next": "Apolaustus 5–8",
     "chapters": [
       {
         "start": 35,
@@ -17552,20 +17562,23 @@
   },
   {
     "lemma": "Apolaustus 5–8",
-    "previous": "Apolaustus 4",
-    "next": "Apolaustus 5",
+    "previous": "Aphrodisios a",
+    "next": "Appius 13a",
     "redirect": "Apolaustus 1",
     "proof_read": 3,
     "chapters": [
       {
         "start": 35,
-        "author": "Hans Gärtner."
+        "end": 35
       }
     ]
   },
   {
+    "lemma": "Appius 13a",
+    "previous": "Apolaustus 5–8"
+  },
+  {
     "lemma": "Apolaustus 5",
-    "previous": "Apolaustus 5–8",
     "next": "Apolaustus 6",
     "chapters": [
       {
@@ -19666,7 +19679,7 @@
   {
     "lemma": "Arauris",
     "previous": "Aravisci",
-    "next": "Arausio",
+    "next": "Arausio 1",
     "proof_read": 3,
     "short_description": "Küstenfluss in Gallia Narbonensis, heute Hérault",
     "wp_link": "w:de:Hérault",
@@ -19680,8 +19693,7 @@
     ]
   },
   {
-    "lemma": "Arausio",
-    "previous": "Arauris"
+    "lemma": "Arausio"
   },
   {
     "lemma": "Arausio 1",
@@ -22439,7 +22451,7 @@
   {
     "lemma": "Argentius a",
     "previous": "Argentiolum",
-    "next": "ab argento",
+    "next": "ab Argento",
     "redirect": "Argenteus",
     "proof_read": 3,
     "chapters": [
@@ -22450,7 +22462,7 @@
     ]
   },
   {
-    "lemma": "ab argento",
+    "lemma": "ab Argento",
     "previous": "Argentius a",
     "next": "Argentoialum",
     "chapters": [
@@ -22462,7 +22474,7 @@
   },
   {
     "lemma": "Argentoialum",
-    "previous": "ab argento",
+    "previous": "ab Argento",
     "next": "Argentorate",
     "redirect": true,
     "proof_read": 3,
@@ -26460,12 +26472,11 @@
     ]
   },
   {
-    "lemma": "Arulenus",
-    "next": "Arura"
+    "lemma": "Arulenus"
   },
   {
     "lemma": "Arura",
-    "previous": "Arulenus",
+    "previous": "Arulenus 1",
     "next": "Arx 3",
     "redirect": true,
     "proof_read": 3,
@@ -28379,6 +28390,7 @@
   },
   {
     "lemma": "Athanadas 2",
+    "previous": "Athanadas 1–7",
     "next": "Athanadas 3",
     "chapters": [
       {
@@ -28541,7 +28553,7 @@
     "chapters": [
       {
         "start": 52,
-        "author": "Hans Gärtner."
+        "end": 52
       }
     ]
   },
@@ -50362,7 +50374,6 @@
   {
     "lemma": "Cosconius 17",
     "previous": "Cosconius 9",
-    "next": "Cosius 1-3",
     "chapters": [
       {
         "start": 90,
@@ -50371,19 +50382,20 @@
     ]
   },
   {
-    "lemma": "Cosius 1-3",
-    "previous": "Cosconius 17",
-    "next": "Cosius 1",
+    "lemma": "Cosius 1–3",
+    "previous": "Cornelius 282b",
+    "next": "Cotus 2",
+    "redirect": "Cosius 3",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 90,
-        "author": "Hans Gärtner."
+        "end": 90
       }
     ]
   },
   {
     "lemma": "Cosius 1",
-    "previous": "Cosius 1-3",
     "next": "Cosius 2",
     "chapters": [
       {
@@ -52720,6 +52732,7 @@
   },
   {
     "lemma": "Dasumius 1",
+    "previous": "Dasumius a",
     "next": "Dasumius 1a",
     "chapters": [
       {
@@ -58071,7 +58084,6 @@
   {
     "lemma": "Epigenes 14a",
     "previous": "Epidius 3a",
-    "next": "Epignomones",
     "chapters": [
       {
         "start": 104,
@@ -58080,19 +58092,21 @@
     ]
   },
   {
-    "lemma": "Epignomones",
-    "previous": "Epigenes 14a",
-    "next": "Epigonos 8",
+    "lemma": "Ἐπιγνώμονες",
+    "previous": "Eperunto",
+    "next": "Epitome de Caesaribus",
+    "sort_key": "Epignomones",
+    "redirect": "Gnomon 2",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 104,
-        "author": "Hans Gärtner."
+        "end": 104
       }
     ]
   },
   {
     "lemma": "Epigonos 8",
-    "previous": "Epignomones",
     "next": "Epigonos 9",
     "chapters": [
       {
@@ -64638,6 +64652,7 @@
   {
     "lemma": "Gerenia",
     "previous": "Geras 2",
+    "next": "Gerenthrai",
     "chapters": [
       {
         "start": 116,
@@ -65903,7 +65918,7 @@
     "chapters": [
       {
         "start": 118,
-        "author": "Hans Gärtner."
+        "end": 118
       }
     ]
   },
@@ -66275,7 +66290,6 @@
   {
     "lemma": "Graphikos",
     "previous": "Grapheion",
-    "next": "Graphium",
     "chapters": [
       {
         "start": 119,
@@ -66284,8 +66298,20 @@
     ]
   },
   {
+    "lemma": "Graia II.2",
+    "next": "Graphium",
+    "redirect": "Graia",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 119,
+        "end": 119
+      }
+    ]
+  },
+  {
     "lemma": "Graphium",
-    "previous": "Graphikos",
+    "previous": "Graia II.2",
     "next": "Gras 2",
     "redirect": "Griffel",
     "proof_read": 3,
@@ -68461,7 +68487,7 @@
     "chapters": [
       {
         "start": 123,
-        "author": "Hans Gärtner."
+        "end": 123
       }
     ]
   },
@@ -68474,7 +68500,7 @@
     "chapters": [
       {
         "start": 123,
-        "author": "Hans Gärtner."
+        "end": 123
       }
     ]
   },
@@ -70126,7 +70152,7 @@
     "chapters": [
       {
         "start": 126,
-        "author": "Hans Gärtner."
+        "end": 126
       }
     ]
   },
@@ -70260,7 +70286,7 @@
     "chapters": [
       {
         "start": 126,
-        "author": "Hans Gärtner."
+        "end": 126
       }
     ]
   },
@@ -70273,7 +70299,7 @@
     "chapters": [
       {
         "start": 126,
-        "author": "Hans Gärtner."
+        "end": 126
       }
     ]
   },
@@ -70429,7 +70455,7 @@
     "chapters": [
       {
         "start": 126,
-        "author": "Hans Gärtner."
+        "end": 126
       }
     ]
   },
@@ -70505,10 +70531,11 @@
     "next": "Hippomachos 2a",
     "redirect": "Herakleidas 5a",
     "proof_read": 3,
+    "short_description": "Bildhauer von Atrax im 4. Jh. v. Chr.",
     "chapters": [
       {
         "start": 127,
-        "author": "Hans Gärtner."
+        "end": 127
       }
     ]
   },
@@ -70961,7 +70988,7 @@
     "chapters": [
       {
         "start": 127,
-        "author": "Hans Gärtner."
+        "end": 127
       }
     ]
   },
@@ -70974,7 +71001,7 @@
     "chapters": [
       {
         "start": 127,
-        "author": "Hans Gärtner."
+        "end": 127
       }
     ]
   },
@@ -70987,7 +71014,7 @@
     "chapters": [
       {
         "start": 127,
-        "author": "Hans Gärtner."
+        "end": 127
       }
     ]
   },
@@ -71506,7 +71533,7 @@
     "chapters": [
       {
         "start": 128,
-        "author": "Hans Gärtner."
+        "end": 128
       }
     ]
   },
@@ -71541,7 +71568,7 @@
     "chapters": [
       {
         "start": 128,
-        "author": "Hans Gärtner."
+        "end": 128
       }
     ]
   },
@@ -71554,7 +71581,7 @@
     "chapters": [
       {
         "start": 128,
-        "author": "Hans Gärtner."
+        "end": 128
       }
     ]
   },
@@ -71875,7 +71902,7 @@
     "chapters": [
       {
         "start": 129,
-        "author": "Hans Gärtner."
+        "end": 129
       }
     ]
   },
@@ -72493,7 +72520,7 @@
     "chapters": [
       {
         "start": 130,
-        "author": "Hans Gärtner."
+        "end": 130
       }
     ]
   },
@@ -72870,7 +72897,7 @@
     "chapters": [
       {
         "start": 131,
-        "author": "Hans Gärtner."
+        "end": 131
       }
     ]
   },
@@ -73169,7 +73196,7 @@
     "chapters": [
       {
         "start": 131,
-        "author": "Hans Gärtner."
+        "end": 131
       }
     ]
   },
@@ -73435,7 +73462,7 @@
     "chapters": [
       {
         "start": 132,
-        "author": "Hans Gärtner."
+        "end": 132
       }
     ]
   },
@@ -73560,12 +73587,11 @@
     ]
   },
   {
-    "lemma": "Illiberris 2",
-    "next": "Illici"
+    "lemma": "Illiberris 2"
   },
   {
     "lemma": "Illici",
-    "previous": "Illiberris 2",
+    "previous": "Illiberris",
     "next": "Illigyris",
     "redirect": true,
     "proof_read": 3,
@@ -73598,7 +73624,7 @@
     "chapters": [
       {
         "start": 132,
-        "author": "Hans Gärtner."
+        "end": 132
       }
     ]
   },
@@ -73611,14 +73637,14 @@
     "chapters": [
       {
         "start": 132,
-        "author": "Hans Gärtner."
+        "end": 132
       }
     ]
   },
   {
     "lemma": "Illiturgi",
     "previous": "Illipula",
-    "next": "Illurco",
+    "next": "Illos",
     "redirect": "Iliturgis",
     "proof_read": 3,
     "chapters": [
@@ -73630,6 +73656,8 @@
   },
   {
     "lemma": "Illos",
+    "previous": "Illiturgi",
+    "next": "Illurco",
     "chapters": [
       {
         "start": 132,
@@ -73639,7 +73667,7 @@
   },
   {
     "lemma": "Illurco",
-    "previous": "Illiturgi",
+    "previous": "Illos",
     "next": "Ilpa",
     "redirect": true,
     "proof_read": 3,
@@ -73691,13 +73719,14 @@
     "chapters": [
       {
         "start": 132,
-        "author": "Hans Gärtner."
+        "end": 132
       }
     ]
   },
   {
     "lemma": "Ilva 2",
     "previous": "Ilpa",
+    "next": "Iluberitani",
     "chapters": [
       {
         "start": 132,
@@ -73707,8 +73736,8 @@
   },
   {
     "lemma": "Iluberitani",
-    "previous": "Ilpa",
-    "next": "Ilunum 1",
+    "previous": "Ilva 2",
+    "next": "Iluberris",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -73720,6 +73749,7 @@
   },
   {
     "lemma": "Iluberris",
+    "previous": "Iluberitani",
     "next": "Ilucia",
     "chapters": [
       {
@@ -73792,7 +73822,7 @@
     "chapters": [
       {
         "start": 132,
-        "author": "Hans Gärtner."
+        "end": 132
       }
     ]
   },
@@ -73937,7 +73967,7 @@
     "chapters": [
       {
         "start": 133,
-        "author": "Hans Gärtner."
+        "end": 133
       }
     ]
   },
@@ -74065,6 +74095,7 @@
   {
     "lemma": "Ina 2",
     "previous": "Impflingen",
+    "next": "Inapaei",
     "chapters": [
       {
         "start": 133,
@@ -74074,8 +74105,8 @@
   },
   {
     "lemma": "Inapaei",
-    "previous": "Imaginifer",
-    "next": "Ipsch",
+    "previous": "Ina 2",
+    "next": "Inapha",
     "redirect": "Scythae",
     "proof_read": 3,
     "chapters": [
@@ -74087,6 +74118,7 @@
   },
   {
     "lemma": "Inapha",
+    "previous": "Inapaei",
     "next": "Inatos",
     "chapters": [
       {
@@ -74907,7 +74939,7 @@
     "chapters": [
       {
         "start": 135,
-        "author": "Hans Gärtner."
+        "end": 135
       }
     ]
   },
@@ -74931,14 +74963,14 @@
     "chapters": [
       {
         "start": 135,
-        "author": "Hans Gärtner."
+        "end": 135
       }
     ]
   },
   {
     "lemma": "Iranos",
     "previous": "Iranische Kosmogonien",
-    "next": "Isidora",
+    "next": "Irasa",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -74950,6 +74982,7 @@
   },
   {
     "lemma": "Irasa",
+    "previous": "Iranos",
     "next": "Iresiae",
     "chapters": [
       {
@@ -75088,7 +75121,7 @@
     "chapters": [
       {
         "start": 135,
-        "author": "Hans Gärtner."
+        "end": 135
       }
     ]
   },
@@ -75244,7 +75277,7 @@
     "chapters": [
       {
         "start": 135,
-        "author": "Hans Gärtner."
+        "end": 135
       }
     ]
   },
@@ -75444,7 +75477,7 @@
     "chapters": [
       {
         "start": 136,
-        "author": "Hans Gärtner."
+        "end": 136
       }
     ]
   },
@@ -75545,7 +75578,7 @@
     "chapters": [
       {
         "start": 136,
-        "author": "Hans Gärtner."
+        "end": 136
       }
     ]
   },
@@ -75558,7 +75591,7 @@
     "chapters": [
       {
         "start": 136,
-        "author": "Hans Gärtner."
+        "end": 136
       }
     ]
   },
@@ -75736,7 +75769,7 @@
     "chapters": [
       {
         "start": 136,
-        "author": "Hans Gärtner."
+        "end": 136
       }
     ]
   },
@@ -75760,7 +75793,7 @@
     "chapters": [
       {
         "start": 136,
-        "author": "Hans Gärtner."
+        "end": 136
       }
     ]
   },
@@ -75894,7 +75927,7 @@
     "chapters": [
       {
         "start": 136,
-        "author": "Hans Gärtner."
+        "end": 136
       }
     ]
   },
@@ -76501,7 +76534,7 @@
     "chapters": [
       {
         "start": 137,
-        "author": "Hans Gärtner."
+        "end": 137
       }
     ]
   },
@@ -76934,9 +76967,13 @@
     ]
   },
   {
+    "lemma": "Iunius 75",
+    "next": "Iunius 75b"
+  },
+  {
     "lemma": "Iunius 75b",
-    "previous": "Iulius 416a",
-    "next": "Iuppitersäulen",
+    "previous": "Iunius 75",
+    "next": "Iunius 78",
     "sort_key": "Iunius 075b",
     "redirect": true,
     "proof_read": 3,
@@ -76949,6 +76986,7 @@
   },
   {
     "lemma": "Iunius 78",
+    "previous": "Iunius 75b",
     "next": "Iunius 80",
     "chapters": [
       {
@@ -77274,7 +77312,7 @@
     "chapters": [
       {
         "start": 138,
-        "author": "Hans Gärtner."
+        "end": 138
       }
     ]
   },
@@ -77540,7 +77578,7 @@
     "chapters": [
       {
         "start": 139,
-        "author": "Hans Gärtner."
+        "end": 139
       }
     ]
   },
@@ -77663,7 +77701,7 @@
     "chapters": [
       {
         "start": 139,
-        "author": "Hans Gärtner."
+        "end": 139
       }
     ]
   },
@@ -77863,7 +77901,7 @@
     "chapters": [
       {
         "start": 139,
-        "author": "Hans Gärtner."
+        "end": 139
       }
     ]
   },
@@ -77876,7 +77914,7 @@
     "chapters": [
       {
         "start": 139,
-        "author": "Hans Gärtner."
+        "end": 139
       }
     ]
   },
@@ -78268,7 +78306,6 @@
   {
     "lemma": "Kallimache",
     "previous": "Kallikritos 2",
-    "next": "Kallimachos 1a",
     "chapters": [
       {
         "start": 140,
@@ -78278,22 +78315,22 @@
   },
   {
     "lemma": "Kallimachos 1a",
-    "previous": "Kallimache",
-    "next": "Kallimachos 3a",
+    "previous": "Kallia 1",
+    "next": "Kallimachos 3b",
     "redirect": "Kallimachos 9",
     "proof_read": 3,
+    "short_description": "aus Sikyon, tragischer oder komischer Schauspieler, Sohn des Menophilos",
     "wp_link": "w:de:Kallimachos (Schauspieler)",
     "wd_link": "d:Q113953374",
     "chapters": [
       {
         "start": 140,
-        "author": "Hans Gärtner."
+        "end": 140
       }
     ]
   },
   {
     "lemma": "Kallimachos 3a",
-    "previous": "Kallimachos 1a",
     "next": "Kallimachos 3b",
     "chapters": [
       {
@@ -78497,7 +78534,7 @@
     "chapters": [
       {
         "start": 141,
-        "author": "Hans Gärtner."
+        "end": 141
       }
     ]
   },
@@ -78545,7 +78582,7 @@
     "chapters": [
       {
         "start": 141,
-        "author": "Hans Gärtner."
+        "end": 141
       }
     ]
   },
@@ -78636,7 +78673,7 @@
     "chapters": [
       {
         "start": 141,
-        "author": "Hans Gärtner."
+        "end": 141
       }
     ]
   },
@@ -78649,7 +78686,7 @@
     "chapters": [
       {
         "start": 141,
-        "author": "Hans Gärtner."
+        "end": 141
       }
     ]
   },
@@ -79355,7 +79392,7 @@
     "chapters": [
       {
         "start": 142,
-        "author": "Hans Gärtner."
+        "end": 142
       }
     ]
   },
@@ -79423,7 +79460,7 @@
     "chapters": [
       {
         "start": 142,
-        "author": "Hans Gärtner."
+        "end": 142
       }
     ]
   },
@@ -79491,7 +79528,7 @@
     "chapters": [
       {
         "start": 142,
-        "author": "Hans Gärtner."
+        "end": 142
       }
     ]
   },
@@ -79900,7 +79937,7 @@
     "chapters": [
       {
         "start": 143,
-        "author": "Hans Gärtner."
+        "end": 143
       }
     ]
   },
@@ -80133,7 +80170,7 @@
     "chapters": [
       {
         "start": 144,
-        "author": "Hans Gärtner."
+        "end": 144
       }
     ]
   },
@@ -80366,7 +80403,7 @@
     "chapters": [
       {
         "start": 144,
-        "author": "Hans Gärtner."
+        "end": 144
       }
     ]
   },
@@ -80379,7 +80416,7 @@
     "chapters": [
       {
         "start": 144,
-        "author": "Hans Gärtner."
+        "end": 144
       }
     ]
   },
@@ -80799,7 +80836,7 @@
     "chapters": [
       {
         "start": 145,
-        "author": "Hans Gärtner."
+        "end": 145
       }
     ]
   },
@@ -81032,7 +81069,7 @@
     "chapters": [
       {
         "start": 145,
-        "author": "Hans Gärtner."
+        "end": 145
       }
     ]
   },
@@ -81155,7 +81192,7 @@
     "chapters": [
       {
         "start": 145,
-        "author": "Hans Gärtner."
+        "end": 145
       }
     ]
   },
@@ -81443,7 +81480,7 @@
     "chapters": [
       {
         "start": 146,
-        "author": "Hans Gärtner."
+        "end": 146
       }
     ]
   },
@@ -81456,7 +81493,7 @@
     "chapters": [
       {
         "start": 146,
-        "author": "Hans Gärtner."
+        "end": 146
       }
     ]
   },
@@ -81469,7 +81506,7 @@
     "chapters": [
       {
         "start": 146,
-        "author": "Hans Gärtner."
+        "end": 146
       }
     ]
   },
@@ -81757,7 +81794,7 @@
     "chapters": [
       {
         "start": 147,
-        "author": "Hans Gärtner."
+        "end": 147
       }
     ]
   },
@@ -81946,7 +81983,7 @@
     "chapters": [
       {
         "start": 147,
-        "author": "Hans Gärtner."
+        "end": 147
       }
     ]
   },
@@ -82234,7 +82271,7 @@
     "chapters": [
       {
         "start": 147,
-        "author": "Hans Gärtner."
+        "end": 147
       }
     ]
   },
@@ -82379,7 +82416,7 @@
     "chapters": [
       {
         "start": 148,
-        "author": "Hans Gärtner."
+        "end": 148
       }
     ]
   },
@@ -82568,7 +82605,7 @@
     "chapters": [
       {
         "start": 148,
-        "author": "Hans Gärtner."
+        "end": 148
       }
     ]
   },
@@ -82614,7 +82651,7 @@
     "chapters": [
       {
         "start": 148,
-        "author": "Hans Gärtner."
+        "end": 148
       }
     ]
   },
@@ -82974,14 +83011,16 @@
     "lemma": "Kyros 6",
     "previous": "Kyros 5",
     "next": "Kyros 6a",
+    "sort_key": "Kyros 6",
     "proof_read": 3,
+    "short_description": "Kyros II. der Große, Begründer des persischen Weltreiches, 6. Jh. v. Chr.",
     "wp_link": "w:de:Kyros II.",
     "ws_link": "s:en:Author:Cyrus",
     "wd_link": "d:Q8423",
     "chapters": [
       {
-        "start": 149,
-        "author": "Hans Gärtner."
+        "start": 148,
+        "end": 148
       }
     ]
   },
@@ -83008,7 +83047,7 @@
     "chapters": [
       {
         "start": 149,
-        "author": "Hans Gärtner."
+        "end": 149
       }
     ]
   },
@@ -83538,7 +83577,7 @@
     "chapters": [
       {
         "start": 150,
-        "author": "Hans Gärtner."
+        "end": 150
       }
     ]
   },
@@ -83782,7 +83821,7 @@
     "chapters": [
       {
         "start": 150,
-        "author": "Hans Gärtner."
+        "end": 150
       }
     ]
   },
@@ -83839,7 +83878,7 @@
     "chapters": [
       {
         "start": 150,
-        "author": "Hans Gärtner."
+        "end": 150
       }
     ]
   },
@@ -84380,7 +84419,7 @@
     "chapters": [
       {
         "start": 151,
-        "author": "Hans Gärtner."
+        "end": 151
       }
     ]
   },
@@ -84470,7 +84509,7 @@
     "chapters": [
       {
         "start": 151,
-        "author": "Hans Gärtner."
+        "end": 151
       }
     ]
   },
@@ -86368,7 +86407,7 @@
     "chapters": [
       {
         "start": 154,
-        "author": "Hans Gärtner."
+        "end": 154
       }
     ]
   },
@@ -86470,7 +86509,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -86516,7 +86555,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -86585,7 +86624,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -86609,7 +86648,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -86700,7 +86739,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -86714,7 +86753,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -86782,7 +86821,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -86839,7 +86878,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -86874,7 +86913,7 @@
     "chapters": [
       {
         "start": 155,
-        "author": "Hans Gärtner."
+        "end": 155
       }
     ]
   },
@@ -87107,7 +87146,7 @@
     "chapters": [
       {
         "start": 156,
-        "author": "Hans Gärtner."
+        "end": 156
       }
     ]
   },
@@ -87242,7 +87281,7 @@
     "chapters": [
       {
         "start": 156,
-        "author": "Hans Gärtner."
+        "end": 156
       }
     ]
   },
@@ -87299,7 +87338,7 @@
     "chapters": [
       {
         "start": 156,
-        "author": "Hans Gärtner."
+        "end": 156
       }
     ]
   },
@@ -87455,7 +87494,7 @@
     "chapters": [
       {
         "start": 157,
-        "author": "Hans Gärtner."
+        "end": 157
       }
     ]
   },
@@ -87556,7 +87595,7 @@
     "chapters": [
       {
         "start": 157,
-        "author": "Hans Gärtner."
+        "end": 157
       }
     ]
   },
@@ -87921,7 +87960,7 @@
     "chapters": [
       {
         "start": 157,
-        "author": "Hans Gärtner."
+        "end": 157
       }
     ]
   },
@@ -88082,7 +88121,6 @@
   {
     "lemma": "Liternius",
     "previous": "Lissenius",
-    "next": "Lithinos pyrgos",
     "chapters": [
       {
         "start": 158,
@@ -88091,27 +88129,33 @@
     ]
   },
   {
-    "lemma": "Lithinos pyrgos",
-    "previous": "Liternius",
+    "lemma": "Λιθίνος πύργος",
+    "previous": "Likymnios a",
     "next": "Litra",
+    "sort_key": "Lithinospyrgos",
+    "redirect": "Sakai",
+    "proof_read": 3,
+    "short_description": "Lithinos pyrgos, wichtige Station an der Straße nach China",
     "chapters": [
       {
-        "start": 158,
-        "author": "Hans Gärtner."
+        "start": 157,
+        "end": 157
       }
     ]
   },
   {
     "lemma": "Litra",
-    "previous": "Lithinos pyrgos",
+    "previous": "Λιθίνος πύργος",
     "next": "Litteriacus",
     "proof_read": 3,
+    "short_description": "Röm. Gewichts- und Münzbezeichnung vgl. Libra Nr. 2 Pondo",
     "wp_link": "w:en:Litra",
     "wd_link": "d:Q3256634",
     "chapters": [
       {
         "start": 158,
-        "author": "Hans Gärtner."
+        "end": 158,
+        "author": "Gärtner & Wünsch."
       }
     ]
   },
@@ -88137,7 +88181,7 @@
     "chapters": [
       {
         "start": 158,
-        "author": "Hans Gärtner."
+        "end": 158
       }
     ]
   },
@@ -88480,7 +88524,7 @@
     "chapters": [
       {
         "start": 158,
-        "author": "Hans Gärtner."
+        "end": 158
       }
     ]
   },
@@ -88603,7 +88647,7 @@
     "chapters": [
       {
         "start": 159,
-        "author": "Hans Gärtner."
+        "end": 159
       }
     ]
   },
@@ -88715,7 +88759,7 @@
     "chapters": [
       {
         "start": 159,
-        "author": "Hans Gärtner."
+        "end": 159
       }
     ]
   },
@@ -89080,7 +89124,7 @@
     "chapters": [
       {
         "start": 160,
-        "author": "Hans Gärtner."
+        "end": 160
       }
     ]
   },
@@ -89106,7 +89150,7 @@
     "chapters": [
       {
         "start": 160,
-        "author": "Hans Gärtner."
+        "end": 160
       }
     ]
   },
@@ -90615,7 +90659,7 @@
     "chapters": [
       {
         "start": 163,
-        "author": "Hans Gärtner."
+        "end": 163
       }
     ]
   },
@@ -92751,7 +92795,7 @@
     "chapters": [
       {
         "start": 166,
-        "author": "Hans Gärtner."
+        "end": 166
       }
     ]
   },
@@ -93039,7 +93083,7 @@
     "chapters": [
       {
         "start": 167,
-        "author": "Hans Gärtner."
+        "end": 167
       }
     ]
   },
@@ -93514,7 +93558,7 @@
     "chapters": [
       {
         "start": 168,
-        "author": "Hans Gärtner."
+        "end": 168
       }
     ]
   },
@@ -93593,7 +93637,7 @@
     "chapters": [
       {
         "start": 168,
-        "author": "Hans Gärtner."
+        "end": 168
       }
     ]
   },
@@ -93606,7 +93650,7 @@
     "chapters": [
       {
         "start": 168,
-        "author": "Hans Gärtner."
+        "end": 168
       }
     ]
   },
@@ -93638,10 +93682,11 @@
     "next": "Menekles 2a",
     "redirect": "Menedemos 13",
     "proof_read": 3,
+    "short_description": "s. 13)",
     "chapters": [
       {
         "start": 168,
-        "author": "Hans Gärtner."
+        "end": 168
       }
     ]
   },
@@ -93852,7 +93897,7 @@
     "chapters": [
       {
         "start": 168,
-        "author": "Hans Gärtner."
+        "end": 168
       }
     ]
   },
@@ -94074,7 +94119,7 @@
     "chapters": [
       {
         "start": 169,
-        "author": "Hans Gärtner."
+        "end": 169
       }
     ]
   },
@@ -94395,7 +94440,7 @@
     "chapters": [
       {
         "start": 169,
-        "author": "Hans Gärtner."
+        "end": 169
       }
     ]
   },
@@ -94534,19 +94579,22 @@
   {
     "lemma": "Mindyrides",
     "previous": "Minaioi",
-    "next": "Minicius 1",
+    "next": "Minucius 1",
     "redirect": "Smindyrides",
     "proof_read": 3,
     "chapters": [
       {
         "start": 169,
-        "author": "Hans Gärtner."
+        "end": 169
       }
     ]
   },
   {
+    "lemma": "Minucius 1",
+    "previous": "Mindyrides"
+  },
+  {
     "lemma": "Minicius 1",
-    "previous": "Mindyrides",
     "next": "Minicius 9",
     "chapters": [
       {
@@ -94740,7 +94788,7 @@
     "chapters": [
       {
         "start": 170,
-        "author": "Hans Gärtner."
+        "end": 170
       }
     ]
   },
@@ -94951,7 +94999,7 @@
     "chapters": [
       {
         "start": 170,
-        "author": "Hans Gärtner."
+        "end": 170
       }
     ]
   },
@@ -95432,14 +95480,16 @@
     "lemma": "ad Muros 2",
     "previous": "ad Mures",
     "next": "Murrenses",
+    "sort_key": "Muros 2",
     "redirect": "Ad Mauros",
     "proof_read": 3,
+    "short_description": "Kastell in Noricum Ripense, s. Ad Mauros",
     "wp_link": "w:de:Kastell Eferding",
     "wd_link": "d:Q1295789",
     "chapters": [
       {
         "start": 171,
-        "author": "Hans Gärtner."
+        "end": 171
       }
     ]
   },
@@ -96222,7 +96272,7 @@
     "chapters": [
       {
         "start": 173,
-        "author": "Hans Gärtner."
+        "end": 173
       }
     ]
   },
@@ -96235,7 +96285,7 @@
     "chapters": [
       {
         "start": 173,
-        "author": "Hans Gärtner."
+        "end": 173
       }
     ]
   },
@@ -96358,7 +96408,7 @@
     "chapters": [
       {
         "start": 173,
-        "author": "Hans Gärtner."
+        "end": 173
       }
     ]
   },
@@ -96467,10 +96517,11 @@
     "next": "Neris 1",
     "redirect": "Celtici",
     "proof_read": 3,
+    "short_description": "Iber. Kap, s. Nerium promunturium, Arrotrebarum promunturium",
     "chapters": [
       {
         "start": 173,
-        "author": "Hans Gärtner."
+        "end": 173
       }
     ]
   },
@@ -96494,7 +96545,7 @@
     "chapters": [
       {
         "start": 173,
-        "author": "Hans Gärtner."
+        "end": 173
       }
     ]
   },
@@ -96518,7 +96569,7 @@
     "chapters": [
       {
         "start": 173,
-        "author": "Hans Gärtner."
+        "end": 173
       }
     ]
   },
@@ -96954,6 +97005,7 @@
   {
     "lemma": "Nikostratos 8a",
     "previous": "Nikophon 3b",
+    "next": "Nikostratos 18a",
     "chapters": [
       {
         "start": 174,
@@ -96963,8 +97015,8 @@
   },
   {
     "lemma": "Nikostratos 18a",
-    "previous": "Nesaion pedion",
-    "next": "Nikostratos 30",
+    "previous": "Nikostratos 8a",
+    "next": "Nikostratos 19",
     "redirect": "Χοροδιδάσκαλος",
     "proof_read": 3,
     "chapters": [
@@ -96976,6 +97028,7 @@
   },
   {
     "lemma": "Nikostratos 19",
+    "previous": "Nikostratos 18a",
     "next": "Nikostratos 19a",
     "chapters": [
       {
@@ -97049,7 +97102,7 @@
     "chapters": [
       {
         "start": 174,
-        "author": "Hans Gärtner."
+        "end": 174
       }
     ]
   },
@@ -97359,7 +97412,7 @@
     "chapters": [
       {
         "start": 175,
-        "author": "Hans Gärtner."
+        "end": 175
       }
     ]
   },
@@ -97890,7 +97943,7 @@
     "chapters": [
       {
         "start": 176,
-        "author": "Hans Gärtner."
+        "end": 176
       }
     ]
   },
@@ -98464,7 +98517,7 @@
     "chapters": [
       {
         "start": 177,
-        "author": "Hans Gärtner."
+        "end": 177
       }
     ]
   },
@@ -98543,7 +98596,7 @@
     "chapters": [
       {
         "start": 177,
-        "author": "Hans Gärtner."
+        "end": 177
       }
     ]
   },
@@ -98699,7 +98752,7 @@
     "chapters": [
       {
         "start": 177,
-        "author": "Hans Gärtner."
+        "end": 177
       }
     ]
   },
@@ -99581,7 +99634,7 @@
     "chapters": [
       {
         "start": 179,
-        "author": "Hans Gärtner."
+        "end": 179
       }
     ]
   },
@@ -100210,7 +100263,7 @@
     "chapters": [
       {
         "start": 180,
-        "author": "Hans Gärtner."
+        "end": 180
       }
     ]
   },
@@ -100301,7 +100354,7 @@
     "chapters": [
       {
         "start": 180,
-        "author": "Hans Gärtner."
+        "end": 180
       }
     ]
   },
@@ -100611,7 +100664,7 @@
     "chapters": [
       {
         "start": 181,
-        "author": "Hans Gärtner."
+        "end": 181
       }
     ]
   },
@@ -100635,7 +100688,7 @@
     "chapters": [
       {
         "start": 181,
-        "author": "Hans Gärtner."
+        "end": 181
       }
     ]
   },
@@ -101165,7 +101218,7 @@
     "chapters": [
       {
         "start": 182,
-        "author": "Hans Gärtner."
+        "end": 182
       }
     ]
   },
@@ -101706,7 +101759,7 @@
     "chapters": [
       {
         "start": 183,
-        "author": "Hans Gärtner."
+        "end": 183
       }
     ]
   },
@@ -103226,7 +103279,7 @@
     "chapters": [
       {
         "start": 186,
-        "author": "Hans Gärtner."
+        "end": 186
       }
     ]
   },
@@ -103459,7 +103512,7 @@
     "chapters": [
       {
         "start": 186,
-        "author": "Hans Gärtner."
+        "end": 186
       }
     ]
   },
@@ -103516,7 +103569,7 @@
     "chapters": [
       {
         "start": 186,
-        "author": "Hans Gärtner."
+        "end": 186
       }
     ]
   },
@@ -104156,7 +104209,7 @@
     "chapters": [
       {
         "start": 187,
-        "author": "Hans Gärtner."
+        "end": 187
       }
     ]
   },
@@ -105137,7 +105190,7 @@
     "chapters": [
       {
         "start": 190,
-        "author": "Hans Gärtner."
+        "end": 190
       }
     ]
   },
@@ -105205,7 +105258,7 @@
     "chapters": [
       {
         "start": 190,
-        "author": "Hans Gärtner."
+        "end": 190
       }
     ]
   },
@@ -105515,7 +105568,7 @@
     "chapters": [
       {
         "start": 190,
-        "author": "Hans Gärtner."
+        "end": 190
       }
     ]
   },
@@ -105594,7 +105647,7 @@
     "chapters": [
       {
         "start": 190,
-        "author": "Hans Gärtner."
+        "end": 190
       }
     ]
   },
@@ -105882,7 +105935,7 @@
     "chapters": [
       {
         "start": 191,
-        "author": "Hans Gärtner."
+        "end": 191
       }
     ]
   },
@@ -105895,7 +105948,7 @@
     "chapters": [
       {
         "start": 191,
-        "author": "Hans Gärtner."
+        "end": 191
       }
     ]
   },
@@ -106051,7 +106104,7 @@
     "chapters": [
       {
         "start": 191,
-        "author": "Hans Gärtner."
+        "end": 191
       }
     ]
   },
@@ -106482,7 +106535,7 @@
     "chapters": [
       {
         "start": 192,
-        "author": "Hans Gärtner."
+        "end": 192
       }
     ]
   },
@@ -107870,7 +107923,7 @@
     "chapters": [
       {
         "start": 195,
-        "author": "Hans Gärtner."
+        "end": 195
       }
     ]
   },
@@ -108301,7 +108354,7 @@
     "chapters": [
       {
         "start": 195,
-        "author": "Hans Gärtner."
+        "end": 195
       }
     ]
   },
@@ -108338,7 +108391,7 @@
     "chapters": [
       {
         "start": 196,
-        "author": "Hans Gärtner."
+        "end": 196
       }
     ]
   },
@@ -108353,7 +108406,7 @@
     "chapters": [
       {
         "start": 196,
-        "author": "Hans Gärtner."
+        "end": 196
       }
     ]
   },
@@ -108520,7 +108573,7 @@
     "chapters": [
       {
         "start": 196,
-        "author": "Hans Gärtner."
+        "end": 196
       }
     ]
   },
@@ -108544,7 +108597,7 @@
     "chapters": [
       {
         "start": 196,
-        "author": "Hans Gärtner."
+        "end": 196
       }
     ]
   },
@@ -109863,10 +109916,11 @@
     "next": "Rufinus 38",
     "redirect": "Minicius 19a",
     "proof_read": 3,
+    "short_description": "[Salv]ius Rufi[nus Mi]nicius Opimianus, Prokurator der Provinz Asia",
     "chapters": [
       {
         "start": 199,
-        "author": "Hans Gärtner."
+        "end": 199
       }
     ]
   },
@@ -110682,7 +110736,7 @@
     "chapters": [
       {
         "start": 200,
-        "author": "Hans Gärtner."
+        "end": 200
       }
     ]
   },
@@ -110695,7 +110749,7 @@
     "chapters": [
       {
         "start": 200,
-        "author": "Hans Gärtner."
+        "end": 200
       }
     ]
   },
@@ -112601,7 +112655,7 @@
     "chapters": [
       {
         "start": 204,
-        "author": "Hans Gärtner."
+        "end": 204
       }
     ]
   },
@@ -114110,7 +114164,7 @@
     "chapters": [
       {
         "start": 207,
-        "author": "Hans Gärtner."
+        "end": 207
       }
     ]
   },
@@ -114156,7 +114210,7 @@
     "chapters": [
       {
         "start": 207,
-        "author": "Hans Gärtner."
+        "end": 207
       }
     ]
   },
@@ -114213,7 +114267,7 @@
     "chapters": [
       {
         "start": 207,
-        "author": "Hans Gärtner."
+        "end": 207
       }
     ]
   },
@@ -114457,7 +114511,7 @@
     "chapters": [
       {
         "start": 208,
-        "author": "Hans Gärtner."
+        "end": 208
       }
     ]
   },
@@ -114470,7 +114524,7 @@
     "chapters": [
       {
         "start": 208,
-        "author": "Hans Gärtner."
+        "end": 208
       }
     ]
   },
@@ -114538,7 +114592,7 @@
     "chapters": [
       {
         "start": 208,
-        "author": "Hans Gärtner."
+        "end": 208
       }
     ]
   },
@@ -114551,7 +114605,7 @@
     "chapters": [
       {
         "start": 208,
-        "author": "Hans Gärtner."
+        "end": 208
       }
     ]
   },
@@ -114641,7 +114695,7 @@
     "chapters": [
       {
         "start": 208,
-        "author": "Hans Gärtner."
+        "end": 208
       }
     ]
   },
@@ -114720,7 +114774,7 @@
     "chapters": [
       {
         "start": 208,
-        "author": "Hans Gärtner."
+        "end": 208
       }
     ]
   },
@@ -115283,7 +115337,7 @@
     "chapters": [
       {
         "start": 210,
-        "author": "Hans Gärtner."
+        "end": 210
       }
     ]
   },
@@ -119014,7 +119068,7 @@
     "chapters": [
       {
         "start": 217,
-        "author": "Hans Gärtner."
+        "end": 217
       }
     ]
   },
@@ -119071,7 +119125,7 @@
     "chapters": [
       {
         "start": 217,
-        "author": "Hans Gärtner."
+        "end": 217
       }
     ]
   },
@@ -119205,7 +119259,7 @@
     "chapters": [
       {
         "start": 218,
-        "author": "Hans Gärtner."
+        "end": 218
       }
     ]
   },
@@ -119274,7 +119328,7 @@
     "chapters": [
       {
         "start": 218,
-        "author": "Hans Gärtner."
+        "end": 218
       }
     ]
   },
@@ -119419,7 +119473,7 @@
     "chapters": [
       {
         "start": 218,
-        "author": "Hans Gärtner."
+        "end": 218
       }
     ]
   },
@@ -119872,7 +119926,7 @@
     "chapters": [
       {
         "start": 219,
-        "author": "Hans Gärtner."
+        "end": 219
       }
     ]
   },
@@ -119897,7 +119951,7 @@
     "chapters": [
       {
         "start": 219,
-        "author": "Hans Gärtner."
+        "end": 219
       }
     ]
   },
@@ -120517,7 +120571,7 @@
     "chapters": [
       {
         "start": 220,
-        "author": "Hans Gärtner."
+        "end": 220
       }
     ]
   },
@@ -120706,7 +120760,7 @@
     "chapters": [
       {
         "start": 221,
-        "author": "Hans Gärtner."
+        "end": 221
       }
     ]
   },
@@ -121819,7 +121873,7 @@
     "chapters": [
       {
         "start": 223,
-        "author": "Hans Gärtner."
+        "end": 223
       }
     ]
   },
@@ -122151,7 +122205,7 @@
     "chapters": [
       {
         "start": 223,
-        "author": "Hans Gärtner."
+        "end": 223
       }
     ]
   },
@@ -122296,7 +122350,7 @@
     "chapters": [
       {
         "start": 224,
-        "author": "Hans Gärtner."
+        "end": 224
       }
     ]
   },
@@ -122430,7 +122484,7 @@
     "chapters": [
       {
         "start": 224,
-        "author": "Hans Gärtner."
+        "end": 224
       }
     ]
   },
@@ -122883,7 +122937,7 @@
     "chapters": [
       {
         "start": 225,
-        "author": "Hans Gärtner."
+        "end": 225
       }
     ]
   },
@@ -122896,7 +122950,7 @@
     "chapters": [
       {
         "start": 225,
-        "author": "Hans Gärtner."
+        "end": 225
       }
     ]
   },
@@ -123338,7 +123392,7 @@
     "chapters": [
       {
         "start": 226,
-        "author": "Hans Gärtner."
+        "end": 226
       }
     ]
   },
@@ -123351,7 +123405,7 @@
     "chapters": [
       {
         "start": 226,
-        "author": "Hans Gärtner."
+        "end": 226
       }
     ]
   },
@@ -125356,7 +125410,7 @@
     "chapters": [
       {
         "start": 229,
-        "author": "Hans Gärtner."
+        "end": 229
       }
     ]
   },
@@ -125743,7 +125797,7 @@
     "chapters": [
       {
         "start": 230,
-        "author": "Hans Gärtner."
+        "end": 230
       }
     ]
   },
@@ -126126,10 +126180,11 @@
     "previous": "Volumnius 29",
     "next": "Voluseius",
     "proof_read": 3,
+    "short_description": "L. V. Proculus, richtig: L. Voluseius Proculus, cos. suff. im J. 17 n. Chr.",
     "chapters": [
       {
         "start": 231,
-        "author": "Hans Gärtner."
+        "end": 231
       }
     ]
   },
@@ -126191,20 +126246,22 @@
   {
     "lemma": "Volusianus 13",
     "previous": "Volusenus 7",
-    "next": "Volusianus 14",
+    "next": "Volusianus 14–16",
     "redirect": "Caecilius 48",
     "proof_read": 3,
-    "short_description": "Sex. Caecilius V., cos. suff. zu Ende des 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 231,
-        "author": "Hans Gärtner."
+        "end": 231
       }
     ]
   },
   {
+    "lemma": "Volusianus 14–16",
+    "previous": "Volusianus 13"
+  },
+  {
     "lemma": "Volusianus 14",
-    "previous": "Volusianus 13",
     "next": "Volusianus 15",
     "chapters": [
       {
@@ -126230,10 +126287,11 @@
     "next": "Volusius 9",
     "redirect": "Volusianus 15",
     "proof_read": 3,
+    "short_description": "[V]olussianus Aemilian[us], proc. Aug. im 1. oder 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 231,
-        "author": "Hans Gärtner."
+        "end": 231
       }
     ]
   },
@@ -127148,7 +127206,7 @@
     "chapters": [
       {
         "start": 233,
-        "author": "Hans Gärtner."
+        "end": 233
       }
     ]
   },
@@ -127228,7 +127286,7 @@
     "chapters": [
       {
         "start": 233,
-        "author": "Hans Gärtner."
+        "end": 233
       }
     ]
   },
@@ -127285,7 +127343,7 @@
     "chapters": [
       {
         "start": 234,
-        "author": "Hans Gärtner."
+        "end": 234
       }
     ]
   },
@@ -127424,7 +127482,6 @@
   {
     "lemma": "Zeuxis 1",
     "previous": "Zeus",
-    "next": "Zezis",
     "chapters": [
       {
         "start": 234,
@@ -127433,15 +127490,19 @@
     ]
   },
   {
+    "lemma": "Zeuxis",
+    "next": "Zezis"
+  },
+  {
     "lemma": "Zezis",
-    "previous": "Zeuxis 1",
+    "previous": "Zeuxis",
     "next": "Ziegelstempel von Rom und Umgebung",
-    "redirect": "Zexis",
+    "redirect": true,
     "proof_read": 3,
     "chapters": [
       {
         "start": 234,
-        "author": "Hans Gärtner."
+        "end": 234
       }
     ]
   },

@@ -473,6 +473,7 @@
     "previous": "Agaue 3",
     "next": "Agimenes",
     "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia 294 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -865,6 +866,7 @@
     "previous": "Alopeke 4",
     "next": "Ameinias 16",
     "proof_read": 3,
+    "short_description": "Naturforscher, s. Habron",
     "no_creative_height": true,
     "chapters": [
       {
@@ -4604,6 +4606,7 @@
     "previous": "Eraton 8a",
     "next": "Erotion 2",
     "proof_read": 2,
+    "short_description": "Schauspieler bei den Soteria zu Delphi im J. 254 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -6187,7 +6190,6 @@
   {
     "lemma": "Kallikrates 8b",
     "previous": "Kallikrates 8a",
-    "next": "Kallimachos 1a",
     "short_description": "Schauspieler in Argos oder Umgebung in den J. 97-75 v. Chr., Sohn des K. vgl.",
     "chapters": [
       {
@@ -6197,9 +6199,13 @@
     ]
   },
   {
+    "lemma": "Kallimache",
+    "next": "Kallimachos 1a"
+  },
+  {
     "lemma": "Kallimachos 1a",
-    "previous": "Kallikrates 8b",
-    "next": "Kallipides 2",
+    "previous": "Kallimache",
+    "next": "Kallimachos 3a",
     "proof_read": 2,
     "short_description": "aus Sikyon, tragischer oder komischer Schauspieler, Sohn des Menophilos",
     "no_creative_height": true,
@@ -6214,10 +6220,15 @@
     ]
   },
   {
+    "lemma": "Kallimachos 3a",
+    "previous": "Kallimachos 1a"
+  },
+  {
     "lemma": "Kallipides 2",
     "previous": "Kallimachos 1a",
     "next": "Kallippos 12a",
     "proof_read": 2,
+    "short_description": "Berühmt-berüchtigter Schauspieler in Athen",
     "no_creative_height": true,
     "wp_link": "w:ca:Cal·lípides",
     "wd_link": "d:Q11910970",
@@ -11105,7 +11116,9 @@
     "lemma": "Telestes 8",
     "previous": "Teleson 2",
     "next": "Telethusa 2",
+    "sort_key": "Telestes 8",
     "proof_read": 2,
+    "short_description": "Athen. Komödiendichter 3. Jh. v. Chr., Sohn des Theokleides",
     "no_creative_height": true,
     "chapters": [
       {
