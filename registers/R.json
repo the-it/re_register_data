@@ -58402,17 +58402,7 @@
   {
     "lemma": "Epi tes dioikeseos tetagmenos (ho)",
     "previous": "Epitalion",
-    "next": "Epi tes eirenes, hoi",
-    "chapters": [
-      {
-        "start": 105,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Epi tes eirenes, hoi",
-    "previous": "Epi tes dioikeseos tetagmenos (ho)",
+    "next": "Ἐπὶ τῆς εἰρήνης, οἱ",
     "chapters": [
       {
         "start": 105,
@@ -58422,7 +58412,14 @@
   },
   {
     "lemma": "Ἐπὶ τῆς εἰρήνης, οἱ",
-    "next": "Epitome de Caesaribus"
+    "previous": "Epi tes dioikeseos tetagmenos (ho)",
+    "next": "Epitome de Caesaribus",
+    "chapters": [
+      {
+        "start": 105,
+        "author": "Hans Gärtner."
+      }
+    ]
   },
   {
     "lemma": "Epitome de Caesaribus",
@@ -58439,10 +58436,7 @@
   },
   {
     "lemma": "Ἐπὶ τῶν προσόδων (ὁ)",
-    "previous": "Epitome de Caesaribus"
-  },
-  {
-    "lemma": "Epi ton prosodon (ho)",
+    "previous": "Epitome de Caesaribus",
     "next": "Epode",
     "chapters": [
       {
@@ -58453,7 +58447,7 @@
   },
   {
     "lemma": "Epode",
-    "previous": "Epi ton prosodon (ho)",
+    "previous": "Ἐπὶ τῶν προσόδων (ὁ)",
     "next": "Epona",
     "chapters": [
       {
@@ -69772,6 +69766,7 @@
   {
     "lemma": "Hestiaios 7a",
     "previous": "Hesiodos",
+    "next": "Hestiaios 8",
     "chapters": [
       {
         "start": 125,
@@ -69780,12 +69775,8 @@
     ]
   },
   {
-    "lemma": "Hestiaios 7",
-    "next": "Hestiaios 8"
-  },
-  {
     "lemma": "Hestiaios 8",
-    "previous": "Hestiaios 7",
+    "previous": "Hestiaios 7a",
     "next": "Heuschrecke",
     "redirect": "Kallikles 6a",
     "proof_read": 3,
@@ -76956,6 +76947,7 @@
   {
     "lemma": "Iunius 75a",
     "previous": "Iunius 55a",
+    "next": "Iunius 75b",
     "chapters": [
       {
         "start": 138,
@@ -76964,12 +76956,8 @@
     ]
   },
   {
-    "lemma": "Iunius 75",
-    "next": "Iunius 75b"
-  },
-  {
     "lemma": "Iunius 75b",
-    "previous": "Iunius 75",
+    "previous": "Iunius 75a",
     "next": "Iunius 78",
     "sort_key": "Iunius 075b",
     "redirect": true,
@@ -94579,7 +94567,7 @@
   {
     "lemma": "Mindyrides",
     "previous": "Minaioi",
-    "next": "Minucius 1",
+    "next": "Minicius 1",
     "redirect": "Smindyrides",
     "proof_read": 3,
     "chapters": [
@@ -94590,11 +94578,8 @@
     ]
   },
   {
-    "lemma": "Minucius 1",
-    "previous": "Mindyrides"
-  },
-  {
     "lemma": "Minicius 1",
+    "previous": "Mindyrides",
     "next": "Minicius 9",
     "chapters": [
       {
@@ -126258,10 +126243,19 @@
   },
   {
     "lemma": "Volusianus 14–16",
-    "previous": "Volusianus 13"
+    "previous": "Volusianus 13",
+    "next": "Volusianus 14",
+    "chapters": [
+      {
+        "start": 231,
+        "end": 231,
+        "author": "Hans Gärtner."
+      }
+    ]
   },
   {
     "lemma": "Volusianus 14",
+    "previous": "Volusianus 14–16",
     "next": "Volusianus 15",
     "chapters": [
       {
@@ -127482,6 +127476,7 @@
   {
     "lemma": "Zeuxis 1",
     "previous": "Zeus",
+    "next": "Zezis",
     "chapters": [
       {
         "start": 234,
@@ -127490,12 +127485,8 @@
     ]
   },
   {
-    "lemma": "Zeuxis",
-    "next": "Zezis"
-  },
-  {
     "lemma": "Zezis",
-    "previous": "Zeuxis",
+    "previous": "Zeuxis 1",
     "next": "Ziegelstempel von Rom und Umgebung",
     "redirect": true,
     "proof_read": 3,
