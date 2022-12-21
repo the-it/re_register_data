@@ -4017,7 +4017,7 @@
   {
     "lemma": "Aetos 3",
     "previous": "Aetoma",
-    "next": "Aetos 3a",
+    "next": "Aëtos 3a",
     "chapters": [
       {
         "start": 11,
@@ -4026,7 +4026,7 @@
     ]
   },
   {
-    "lemma": "Aetos 3a",
+    "lemma": "Aëtos 3a",
     "previous": "Aetos 3",
     "next": "Aëtos 4",
     "chapters": [
@@ -4038,7 +4038,7 @@
   },
   {
     "lemma": "Aëtos 4",
-    "previous": "Aetos 3a",
+    "previous": "Aëtos 3a",
     "next": "Aëtos 5",
     "chapters": [
       {
@@ -51337,6 +51337,17 @@
   {
     "lemma": "Cuspius 3",
     "previous": "Cuspius 2a",
+    "next": "Cuspius 3.4",
+    "chapters": [
+      {
+        "start": 92,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Cuspius 3.4",
+    "previous": "Cuspius 3",
     "next": "Custidius",
     "chapters": [
       {
@@ -51347,7 +51358,7 @@
   },
   {
     "lemma": "Custidius",
-    "previous": "Cuspius 3",
+    "previous": "Cuspius 3.4",
     "next": "Cutius 1a",
     "chapters": [
       {
@@ -66148,6 +66159,28 @@
   {
     "lemma": "Graia 2",
     "previous": "Graia 1",
+    "next": "Graia II.1",
+    "chapters": [
+      {
+        "start": 119,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Graia II.1",
+    "previous": "Graia 2",
+    "next": "Graia II.2",
+    "chapters": [
+      {
+        "start": 119,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Graia II.2",
+    "previous": "Graia II.1",
     "next": "Gramme",
     "chapters": [
       {
@@ -66158,7 +66191,7 @@
   },
   {
     "lemma": "Gramme",
-    "previous": "Graia 2",
+    "previous": "Graia II.2",
     "next": "Grand oder Gran",
     "chapters": [
       {
@@ -66269,6 +66302,7 @@
   {
     "lemma": "Graphikos",
     "previous": "Grapheion",
+    "next": "Graphium",
     "chapters": [
       {
         "start": 119,
@@ -66277,20 +66311,8 @@
     ]
   },
   {
-    "lemma": "Graia II.2",
-    "next": "Graphium",
-    "redirect": "Graia",
-    "proof_read": 3,
-    "chapters": [
-      {
-        "start": 119,
-        "end": 119
-      }
-    ]
-  },
-  {
     "lemma": "Graphium",
-    "previous": "Graia II.2",
+    "previous": "Graphikos",
     "next": "Gras 2",
     "redirect": "Griffel",
     "proof_read": 3,
@@ -67860,7 +67882,7 @@
   {
     "lemma": "Heliupolis a",
     "previous": "Heliougmounis deus",
-    "next": "Helius",
+    "next": "Helius 2",
     "chapters": [
       {
         "start": 122,
@@ -67869,7 +67891,7 @@
     ]
   },
   {
-    "lemma": "Helius",
+    "lemma": "Helius 2",
     "previous": "Heliupolis a",
     "next": "Helix",
     "chapters": [
@@ -67881,7 +67903,7 @@
   },
   {
     "lemma": "Helix",
-    "previous": "Helius",
+    "previous": "Helius 2",
     "next": "Helixoia",
     "chapters": [
       {
@@ -94984,7 +95006,7 @@
   {
     "lemma": "Modestinus 3",
     "previous": "Mochos",
-    "next": "Modiana",
+    "next": "Modiana 2",
     "chapters": [
       {
         "start": 170,
@@ -94993,7 +95015,7 @@
     ]
   },
   {
-    "lemma": "Modiana",
+    "lemma": "Modiana 2",
     "previous": "Modestinus 3",
     "next": "Modius 11a",
     "chapters": [
@@ -95005,7 +95027,7 @@
   },
   {
     "lemma": "Modius 11a",
-    "previous": "Modiana",
+    "previous": "Modiana 2",
     "next": "Möbel",
     "chapters": [
       {
@@ -95740,7 +95762,7 @@
   {
     "lemma": "Myrs(inusa?)",
     "previous": "Myrrhidas",
-    "next": "Myrtos a",
+    "next": "Myrto a",
     "chapters": [
       {
         "start": 172,
@@ -95749,7 +95771,7 @@
     ]
   },
   {
-    "lemma": "Myrtos a",
+    "lemma": "Myrto a",
     "previous": "Myrs(inusa?)",
     "next": "Myrtos 4",
     "chapters": [
@@ -95761,7 +95783,7 @@
   },
   {
     "lemma": "Myrtos 4",
-    "previous": "Myrtos a",
+    "previous": "Myrto a",
     "next": "Myrtuntion 2",
     "chapters": [
       {
