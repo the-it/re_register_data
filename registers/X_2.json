@@ -4818,7 +4818,7 @@
   {
     "lemma": "Kalandos",
     "previous": "Kalamyde",
-    "next": "Kalanos",
+    "next": "Kalanos 1",
     "proof_read": 3,
     "short_description": "Bischofssitz = Stratonikeia in Karien",
     "chapters": [
@@ -4830,26 +4830,32 @@
     ]
   },
   {
-    "lemma": "Kalanos",
+    "lemma": "Kalanos 1",
     "previous": "Kalandos",
     "next": "Kalanthia",
-    "short_description": "Brahmanischer Büßer am Hof Alexanders_d._Gr.",
+    "sort_key": "Kalanos 1",
+    "proof_read": 2,
+    "short_description": "brahmanischer Büßer am Hof Alexanders d. Gr., der sich den Tod gab 325 v. Chr.",
     "chapters": [
       {
         "start": 1544,
         "end": 1546,
-        "author": "Kroll"
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Kalanthia",
-    "previous": "Kalanos",
+    "previous": "Kalanos 1",
     "next": "Kalaoidia",
+    "sort_key": "Kalanthia",
+    "proof_read": 2,
+    "short_description": "Ort an der Ostküste von Kilikia Tracheia, zwischen Soloi und Elaius",
     "chapters": [
       {
         "start": 1546,
-        "author": "Ruge"
+        "end": 1546,
+        "author": "Ruge."
       }
     ]
   },
@@ -4858,7 +4864,7 @@
     "previous": "Kalanthia",
     "next": "Kalaon",
     "proof_read": 2,
-    "short_description": "Lieder, die der Artemis Dereatis (o. Bd. V S. 239) zu Ehren gesungen wurden.",
+    "short_description": "Lieder, die der Artemis Dereatis zu Ehren gesungen wurden.",
     "chapters": [
       {
         "start": 1546,
@@ -4871,10 +4877,14 @@
     "lemma": "Kalaon",
     "previous": "Kalaoidia",
     "next": "Kalaos 1",
+    "sort_key": "Kalaon",
+    "proof_read": 2,
+    "short_description": "Flüßchen bei Kolophon in Ionien",
     "chapters": [
       {
         "start": 1546,
-        "author": "Bürchner"
+        "end": 1546,
+        "author": "Bürchner."
       }
     ]
   },
@@ -4897,40 +4907,52 @@
     "lemma": "Kalaos 2",
     "previous": "Kalaos 1",
     "next": "Kalaos 3",
-    "short_description": "= Talaos, Vater d. Parthenopaios",
+    "sort_key": "Kalaos 2",
+    "proof_read": 2,
+    "short_description": "= Talaos, Vater des Parthenopaios",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1546,
-        "author": "Meyer, Herbert"
+        "end": 1546,
+        "author": "Herb. Meyer."
       }
     ]
   },
   {
     "lemma": "Kalaos 3",
     "previous": "Kalaos 2",
-    "next": "Kalarzene",
-    "short_description": "Sohn d. Thyestes",
+    "next": "Καλαρζηνή",
+    "sort_key": "Kalaos 3",
+    "proof_read": 2,
+    "short_description": "Sohn des Thyestes, von Atreus dem eigenen Vater als Speise vorgesetzt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1546,
-        "author": "Meyer, Herbert"
+        "end": 1546,
+        "author": "Herb. Meyer."
       }
     ]
   },
   {
-    "lemma": "Kalarzene",
+    "lemma": "Καλαρζηνή",
     "previous": "Kalaos 3",
     "next": "Kalas",
+    "sort_key": "Kalarzene",
+    "proof_read": 2,
+    "short_description": "Landschaft in Armenien, längs der moschischen Berge",
     "chapters": [
       {
         "start": 1546,
-        "author": "Weissbach"
+        "end": 1546,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Kalas",
-    "previous": "Kalarzene",
+    "previous": "Καλαρζηνή",
     "next": "Kalasarna",
     "chapters": [
       {

@@ -6595,6 +6595,7 @@
   },
   {
     "lemma": "Aiolides a",
+    "previous": "Aioleion",
     "next": "Aiolion",
     "chapters": [
       {
@@ -17562,7 +17563,17 @@
   },
   {
     "lemma": "Appius 13a",
-    "previous": "Apolaustus 5–8"
+    "previous": "Apolaustus 5–8",
+    "next": "Aprio 1",
+    "sort_key": "Appius13a",
+    "redirect": true,
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 36,
+        "end": 36
+      }
+    ]
   },
   {
     "lemma": "Apolaustus 5",
@@ -57096,7 +57107,7 @@
     "chapters": [
       {
         "start": 102,
-        "author": "Hans Gärtner."
+        "end": 102
       }
     ]
   },
@@ -57314,7 +57325,7 @@
   {
     "lemma": "Eiranos",
     "previous": "Einatos",
-    "next": "Eirenarchai",
+    "next": "Εἰρηνάρχαι",
     "chapters": [
       {
         "start": 103,
@@ -57323,7 +57334,7 @@
     ]
   },
   {
-    "lemma": "Eirenarchai",
+    "lemma": "Εἰρηνάρχαι",
     "previous": "Eiranos",
     "next": "Eirenikoi andres",
     "chapters": [
@@ -57335,7 +57346,7 @@
   },
   {
     "lemma": "Eirenikoi andres",
-    "previous": "Eirenarchai",
+    "previous": "Εἰρηνάρχαι",
     "next": "Eirenis",
     "redirect": "Ἐἰρηνοφύλακες",
     "proof_read": 3,
@@ -57393,7 +57404,7 @@
   {
     "lemma": "Eisdikaia",
     "previous": "Eisagogion",
-    "next": "Eiselysion",
+    "next": "Εἰσηλύσιον",
     "chapters": [
       {
         "start": 103,
@@ -57402,7 +57413,7 @@
     ]
   },
   {
-    "lemma": "Eiselysion",
+    "lemma": "Εἰσηλύσιον",
     "previous": "Eisdikaia",
     "next": "Eisodion",
     "chapters": [
@@ -57414,7 +57425,7 @@
   },
   {
     "lemma": "Eisodion",
-    "previous": "Eiselysion",
+    "previous": "Εἰσηλύσιον",
     "next": "Eitrizene",
     "redirect": "Εἰσαγώγιον",
     "proof_read": 3,
@@ -57753,7 +57764,7 @@
   {
     "lemma": "Empyromanteis",
     "previous": "Empusa 2",
-    "next": "Engaioi",
+    "next": "Ἔγγαιοι",
     "redirect": "Ἔμπυρα",
     "proof_read": 3,
     "chapters": [
@@ -57764,7 +57775,7 @@
     ]
   },
   {
-    "lemma": "Engaioi",
+    "lemma": "Ἔγγαιοι",
     "previous": "Empyromanteis",
     "next": "Engye",
     "chapters": [
@@ -57776,7 +57787,7 @@
   },
   {
     "lemma": "Engye",
-    "previous": "Engaioi",
+    "previous": "Ἔγγαιοι",
     "next": "Engyesis",
     "chapters": [
       {
@@ -57968,7 +57979,7 @@
   {
     "lemma": "Eperunto",
     "previous": "Epeiros 1",
-    "next": "Ephedros 2",
+    "next": "Ἔφεδρος 2",
     "redirect": "Carniola",
     "proof_read": 3,
     "chapters": [
@@ -57979,7 +57990,7 @@
     ]
   },
   {
-    "lemma": "Ephedros 2",
+    "lemma": "Ἔφεδρος 2",
     "previous": "Eperunto",
     "next": "Ephesos 1",
     "chapters": [
@@ -57991,7 +58002,7 @@
   },
   {
     "lemma": "Ephesos 1",
-    "previous": "Ephedros 2",
+    "previous": "Ἔφεδρος 2",
     "next": "Epicharinos",
     "chapters": [
       {
@@ -78339,7 +78350,7 @@
     "chapters": [
       {
         "start": 140,
-        "author": "Hans Gärtner."
+        "end": 140
       }
     ]
   },
@@ -78372,10 +78383,11 @@
     "previous": "Kallimachos 7a",
     "next": "Kallimandros",
     "proof_read": 2,
+    "short_description": "Dichter, Artikel jedoch gestrichen",
     "chapters": [
       {
         "start": 140,
-        "author": "Hans Gärtner."
+        "end": 140
       }
     ]
   },
@@ -81096,7 +81108,6 @@
   {
     "lemma": "Koiranos 3",
     "previous": "Koios 2a",
-    "next": "Koiranos 9–11",
     "chapters": [
       {
         "start": 145,
@@ -81106,18 +81117,19 @@
   },
   {
     "lemma": "Koiranos 9–11",
-    "previous": "Koiranos 3",
-    "next": "Koiranos 8",
+    "previous": "Koinos 5",
+    "next": "Kokkos a",
+    "redirect": "Koiranos 8",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 145,
-        "author": "Hans Gärtner."
+        "end": 145
       }
     ]
   },
   {
     "lemma": "Koiranos 8",
-    "previous": "Koiranos 9–11",
     "next": "Koiranos 9",
     "chapters": [
       {
@@ -83005,12 +83017,13 @@
     "previous": "Kyros 6",
     "next": "Kyros 6b",
     "proof_read": 3,
+    "short_description": "der Jüngere, Sohn des Dareios II., Bruder des Artaxerxes II. ca. 400 v. Chr.",
     "wp_link": "w:de:Kyros der Jüngere",
     "wd_link": "d:Q297960",
     "chapters": [
       {
         "start": 149,
-        "author": "Hans Gärtner."
+        "end": 149
       }
     ]
   },
@@ -86390,7 +86403,6 @@
   {
     "lemma": "Leges Corneliae 2",
     "previous": "Leges colonicae",
-    "next": "Leges Corneliae 2) 1.",
     "chapters": [
       {
         "start": 154,
@@ -86399,30 +86411,43 @@
     ]
   },
   {
+    "lemma": "Leges colonicae",
+    "next": "Leges Corneliae 2) 1."
+  },
+  {
     "lemma": "Leges Corneliae 2) 1.",
-    "previous": "Leges Corneliae 2",
+    "previous": "Leges colonicae",
     "next": "Leges Corneliae 2) 2.",
+    "sort_key": "Lex Corneliae 2) 1.",
+    "redirect": "Sumptus",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 154,
-        "author": "Hans Gärtner."
+        "end": 154
       }
     ]
   },
   {
     "lemma": "Leges Corneliae 2) 2.",
     "previous": "Leges Corneliae 2) 1.",
-    "next": "Leges Corneliae 3",
+    "next": "Lex Aemilia 3",
+    "sort_key": "Lex Corneliae 2) 2.",
+    "redirect": "Lex Scatinia",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 154,
-        "author": "Hans Gärtner."
+        "end": 154
       }
     ]
   },
   {
+    "lemma": "Lex Aemilia 3",
+    "previous": "Leges Corneliae 2) 2."
+  },
+  {
     "lemma": "Leges Corneliae 3",
-    "previous": "Leges Corneliae 2) 2.",
     "next": "Leges Corneliae 4",
     "chapters": [
       {
@@ -87365,7 +87390,6 @@
   {
     "lemma": "Leges Semproniae 1a",
     "previous": "Lex Scribonia",
-    "next": "Leges Semproniae 2.4",
     "chapters": [
       {
         "start": 156,
@@ -87375,12 +87399,15 @@
   },
   {
     "lemma": "Leges Semproniae 2.4",
-    "previous": "Leges Semproniae 1a",
+    "previous": "Lex Maenia 1",
     "next": "Leges Semproniae 2.7",
+    "sort_key": "Lex Semproniae 2.4",
+    "redirect": "Sempronius 47",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 156,
-        "author": "Hans Gärtner."
+        "end": 156
       }
     ]
   },
@@ -87388,27 +87415,32 @@
     "lemma": "Leges Semproniae 2.7",
     "previous": "Leges Semproniae 2.4",
     "next": "Leges Semproniae 2.8",
+    "sort_key": "Lex Semproniae 2.7",
+    "redirect": "Sempronius 47",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 156,
-        "author": "Hans Gärtner."
+        "end": 156
       }
     ]
   },
   {
     "lemma": "Leges Semproniae 2.8",
     "previous": "Leges Semproniae 2.7",
-    "next": "Leges Semproniae 3",
+    "next": "Lex Plotia de vi",
+    "sort_key": "Lex Semproniae 2.8",
+    "redirect": "Sempronius 47",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 156,
-        "author": "Hans Gärtner."
+        "end": 156
       }
     ]
   },
   {
     "lemma": "Leges Semproniae 3",
-    "previous": "Leges Semproniae 2.8",
     "next": "Leges Semproniae 4",
     "chapters": [
       {
@@ -89158,7 +89190,7 @@
     "chapters": [
       {
         "start": 160,
-        "author": "Hans Gärtner."
+        "end": 160
       }
     ]
   },
@@ -126277,18 +126309,18 @@
   {
     "lemma": "Volusianus 14–16",
     "previous": "Volusianus 13",
-    "next": "Volusianus 14",
+    "next": "Volusianus 17",
+    "redirect": "Volusianus 14",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 231,
-        "end": 231,
-        "author": "Hans Gärtner."
+        "end": 231
       }
     ]
   },
   {
     "lemma": "Volusianus 14",
-    "previous": "Volusianus 14–16",
     "next": "Volusianus 15",
     "chapters": [
       {
