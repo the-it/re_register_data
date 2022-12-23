@@ -4235,8 +4235,8 @@
     "previous": "Ovatio",
     "next": "Ovetum(?)",
     "sort_key": "Oveiniates",
-    "proof_read": 2,
-    "short_description": "Ὀου(ε)ινιάτης, s. ο. Bd. XVII S. 1997, 52f., wo noch Sterret nr. 373, 40 (aus",
+    "proof_read": 3,
+    "short_description": "s. Oeinia",
     "chapters": [
       {
         "start": 1903,
@@ -4283,11 +4283,14 @@
     "lemma": "Ovida",
     "previous": "Ovianus",
     "next": "Ovidius 1",
+    "sort_key": "Ovida",
+    "proof_read": 2,
     "short_description": "Großvater d. Ostgotenkönigs Geberich",
     "chapters": [
       {
         "start": 1907,
-        "author": "Nagl"
+        "end": 1907,
+        "author": "Assunta Nagl."
       }
     ]
   },
@@ -4295,11 +4298,14 @@
     "lemma": "Ovidius 1",
     "previous": "Ovida",
     "next": "Ovidius 2",
-    "short_description": "Q. Freund Martials",
+    "sort_key": "Ovidius 1",
+    "proof_read": 2,
+    "short_description": "Freund Martials. 1. Jhdt. n. Chr.",
     "chapters": [
       {
         "start": 1907,
-        "author": "Stein, [Arthur]"
+        "end": 1907,
+        "author": "Stein."
       }
     ]
   },
@@ -4307,23 +4313,30 @@
     "lemma": "Ovidius 2",
     "previous": "Ovidius 1",
     "next": "Ovidius 3",
-    "short_description": "Naso Anscheinend Grammatiker unbestimmter Zt.",
+    "sort_key": "Ovidius 2",
+    "short_description": "Ovidius Naso, römischer Grammatiker unbekannter Zeit",
     "chapters": [
       {
         "start": 1907,
-        "author": "Lenz"
+        "end": 1910,
+        "author": "Friedrich Lenz."
       }
     ]
   },
   {
     "lemma": "Ovidius 3",
     "previous": "Ovidius 2",
-    "next": "Ovilavis",
-    "short_description": "Naso, P. Röm. Dichter, 43 v. Chr. - nach 17 n. Chr.",
+    "next": "Ovilatus",
+    "sort_key": "Ovidius 3",
+    "short_description": "Römischer Dichter 43 v. bis 17 n. Chr.",
+    "wp_link": "w:de:Ovid",
+    "ws_link": "s:de:Ovid",
+    "wd_link": "d:Q7198",
     "chapters": [
       {
         "start": 1910,
-        "author": "Kraus"
+        "end": 1986,
+        "author": "Walter Kraus."
       }
     ]
   },

@@ -4017,7 +4017,6 @@
   {
     "lemma": "Aetos 3",
     "previous": "Aetoma",
-    "next": "Aëtos 3a",
     "chapters": [
       {
         "start": 11,
@@ -4027,18 +4026,19 @@
   },
   {
     "lemma": "Aëtos 3a",
-    "previous": "Aetos 3",
-    "next": "Aëtos 4",
+    "previous": "Aenisatus",
+    "next": "Agathinos 5a",
+    "redirect": "Aetoma",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 11,
-        "author": "Hans Gärtner."
+        "end": 11
       }
     ]
   },
   {
     "lemma": "Aëtos 4",
-    "previous": "Aëtos 3a",
     "next": "Aëtos 5",
     "chapters": [
       {
@@ -15980,10 +15980,15 @@
     "lemma": "Antistius 24",
     "previous": "Antistius",
     "next": "Antistius 25",
+    "proof_read": 3,
+    "short_description": "Adventus, leg. Aug. pr. pr. von Britannien",
+    "wp_link": "w:de:Quintus Antistius Adventus Postumius Aquilinus",
+    "wd_link": "d:Q1365424",
     "chapters": [
       {
         "start": 32,
-        "author": "Hans Gärtner."
+        "end": 32,
+        "author": "Gärtner & Wünsch."
       }
     ]
   },
@@ -37354,7 +37359,7 @@
     "chapters": [
       {
         "start": 67,
-        "author": "Hans Gärtner."
+        "end": 67
       }
     ]
   },
@@ -42951,7 +42956,7 @@
     "chapters": [
       {
         "start": 78,
-        "author": "Hans Gärtner."
+        "end": 78
       }
     ]
   },
@@ -73619,7 +73624,6 @@
   {
     "lemma": "Iliturgicola",
     "previous": "Iliturgi",
-    "next": "Illiberris 2",
     "chapters": [
       {
         "start": 132,
@@ -73629,12 +73633,15 @@
   },
   {
     "lemma": "Illiberris 2",
-    "previous": "Iliturgicola",
+    "previous": "Iligga",
     "next": "Illici",
+    "redirect": "Iliberri 3",
+    "proof_read": 3,
+    "short_description": "Gall. Stadt nordöstl. der Pyrenäen. = Iliberri (S III 1215 Nr. 3 ).",
     "chapters": [
       {
         "start": 132,
-        "author": "Hans Gärtner."
+        "end": 132
       }
     ]
   },
@@ -80170,7 +80177,6 @@
   {
     "lemma": "Kilikarches",
     "previous": "Kildara",
-    "next": "Κιλίκιαι πύλαι 1",
     "chapters": [
       {
         "start": 144,
@@ -80180,29 +80186,36 @@
   },
   {
     "lemma": "Κιλίκιαι πύλαι 1",
-    "previous": "Kilikarches",
+    "previous": "Kerketion 2",
     "next": "Κιλίκιαι πύλαι 2",
+    "sort_key": "Kilikiaipylai 1",
+    "redirect": "Pylai 9",
+    "proof_read": 3,
+    "short_description": "Hauptpass über den Tauros nach Kilikien",
     "chapters": [
       {
         "start": 144,
-        "author": "Hans Gärtner."
+        "end": 144
       }
     ]
   },
   {
     "lemma": "Κιλίκιαι πύλαι 2",
     "previous": "Κιλίκιαι πύλαι 1",
-    "next": "Killes",
+    "next": "Kinaidopolis",
+    "sort_key": "Kilikiaipylai 2",
+    "redirect": "Pylai 9",
+    "proof_read": 3,
+    "short_description": "Strandpass an der Grenze Kilikien - Syrien",
     "chapters": [
       {
         "start": 144,
-        "author": "Hans Gärtner."
+        "end": 144
       }
     ]
   },
   {
     "lemma": "Killes",
-    "previous": "Κιλίκιαι πύλαι 2",
     "next": "Kimissa",
     "chapters": [
       {
