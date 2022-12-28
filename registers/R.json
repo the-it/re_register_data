@@ -16142,6 +16142,7 @@
   {
     "lemma": "Antius 6aa",
     "previous": "Antium 1",
+    "next": "Antius 6a",
     "chapters": [
       {
         "start": 32,
@@ -16151,8 +16152,8 @@
   },
   {
     "lemma": "Antius 6a",
-    "previous": "Antistius 27",
-    "next": "Antonius 121a",
+    "previous": "Antius 6aa",
+    "next": "Antius 6b",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -16164,6 +16165,7 @@
   },
   {
     "lemma": "Antius 6b",
+    "previous": "Antius 6a",
     "next": "Antius 8",
     "chapters": [
       {
@@ -18678,12 +18680,8 @@
     ]
   },
   {
-    "lemma": "Appius 13a",
-    "next": "Aprio 1"
-  },
-  {
     "lemma": "Aprio 1",
-    "previous": "Appius 13a",
+    "previous": "Aprilis 3",
     "next": "Aprio 2",
     "redirect": true,
     "proof_read": 3,
@@ -18697,7 +18695,7 @@
   {
     "lemma": "Aprio 2",
     "previous": "Aprio 1",
-    "next": "Apronius 4a",
+    "next": "Apronianus 3a",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -18709,6 +18707,7 @@
   },
   {
     "lemma": "Apronianus 3a",
+    "previous": "Aprio 2",
     "next": "Apronius 4",
     "chapters": [
       {
@@ -18720,6 +18719,7 @@
   {
     "lemma": "Apronius 4",
     "previous": "Apronianus 3a",
+    "next": "Apronius 4a",
     "chapters": [
       {
         "start": 36,
@@ -18729,8 +18729,8 @@
   },
   {
     "lemma": "Apronius 4a",
-    "previous": "Aprio 2",
-    "next": "Aquilinus 6",
+    "previous": "Apronius 4",
+    "next": "Apronius 8a",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -18742,6 +18742,7 @@
   },
   {
     "lemma": "Apronius 8a",
+    "previous": "Apronius 4a",
     "next": "Apronius 9a",
     "chapters": [
       {
