@@ -4996,8 +4996,9 @@
     "previous": "Epistula 2",
     "next": "Epistylion",
     "sort_key": "Epistulis ab",
+    "proof_read": 2,
     "short_description": "Kaiserliches Sekretariat",
-    "wp_link": "w:en:Ab epistulis",
+    "wp_link": "w:de:en:Ab epistulis",
     "wd_link": "d:Q14526933",
     "chapters": [
       {
@@ -5321,6 +5322,7 @@
     "lemma": "Epithymia",
     "previous": "Epitherses 2",
     "next": "Ἐπιθυμίατρος",
+    "proof_read": 2,
     "short_description": "Personifikation der Begierde, allegorische Deutung für Aphrodite",
     "chapters": [
       {
@@ -9904,6 +9906,7 @@
     "previous": "Erikeia",
     "next": "Erikos",
     "sort_key": "Erikepaios",
+    "proof_read": 3,
     "short_description": "Urwesen d. jüngeren orphischen Kosmogonien",
     "wp_link": "w:de:en:Erikepaios",
     "wd_link": "d:Q16327085",
@@ -10295,6 +10298,7 @@
     "previous": "Eriphanis",
     "next": "Eriphe 2",
     "sort_key": "Eriphe 1",
+    "proof_read": 2,
     "short_description": "Amme des Dionysos",
     "chapters": [
       {
@@ -10309,6 +10313,7 @@
     "previous": "Eriphe 1",
     "next": "Eriphia",
     "sort_key": "Eriphe 2",
+    "proof_read": 2,
     "short_description": "Stute d. Marmax, von Oinomaos getötet",
     "chapters": [
       {
@@ -10325,7 +10330,6 @@
     "sort_key": "Eriphia",
     "proof_read": 2,
     "short_description": "Tochter des Okeanos",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 460,
@@ -11028,6 +11032,7 @@
     "previous": "Erophyllis",
     "next": "Eros 2",
     "sort_key": "Eros 1",
+    "proof_read": 2,
     "short_description": "Eros, griechischer Gott",
     "wp_link": "w:de:Eros (Mythologie)",
     "wd_link": "d:Q121973",
@@ -20229,11 +20234,14 @@
     "lemma": "Euemeros 4",
     "previous": "Euemeros 3",
     "next": "Evena",
-    "short_description": "Gr. Augenarzt",
+    "sort_key": "Euemeros 4",
+    "proof_read": 2,
+    "short_description": "griechischer Augenarzt, von dem Galen mehrere Rezepte erhalten hat",
     "chapters": [
       {
         "start": 972,
-        "author": "Wellmann, M[ax]"
+        "end": 972,
+        "author": "M. Wellmann."
       }
     ]
   },
@@ -20241,10 +20249,14 @@
     "lemma": "Evena",
     "previous": "Euemeros 4",
     "next": "Euenia",
+    "sort_key": "Evena",
+    "proof_read": 2,
+    "short_description": "vicus der civitas Turonum, jetzt Esvres (Indre-et-Loire, Tours)",
     "chapters": [
       {
         "start": 972,
-        "author": "Ihm"
+        "end": 972,
+        "author": "Ihm."
       }
     ]
   },
@@ -20252,11 +20264,14 @@
     "lemma": "Euenia",
     "previous": "Evena",
     "next": "Euenor 1",
-    "short_description": "Gattin d. Phrixos",
+    "sort_key": "Euenia",
+    "proof_read": 2,
+    "short_description": "Nebenname der Chalkiope, Tochter des Aietes, Gattin des Phrixos, = Iophossa",
     "chapters": [
       {
         "start": 972,
-        "author": "Tümpel"
+        "end": 972,
+        "author": "Tümpel."
       }
     ]
   },
@@ -20264,12 +20279,14 @@
     "lemma": "Euenor 1",
     "previous": "Euenia",
     "next": "Euenor 2",
-    "short_description": "Sohn d. Euepios aus Argos, gr. Arzt",
+    "sort_key": "Euenor 1",
+    "proof_read": 2,
+    "short_description": "Sohn des Euepios aus Argos, griechischer Arzt in Athen 322 v. Chr.",
     "chapters": [
       {
         "start": 972,
         "end": 973,
-        "author": "Wellmann, M[ax]"
+        "author": "M. Wellmann."
       }
     ]
   },
@@ -20277,11 +20294,14 @@
     "lemma": "Euenor 2",
     "previous": "Euenor 1",
     "next": "Euenor 3",
-    "short_description": "Att. Bildhauer",
+    "sort_key": "Euenor 2",
+    "proof_read": 2,
+    "short_description": "attischer Bildhauer 6. Jh. v. Chr. mit Künstlersignatur Basen im Perserschutt",
     "chapters": [
       {
         "start": 973,
-        "author": "Robert"
+        "end": 973,
+        "author": "C. Robert."
       }
     ]
   },
@@ -20289,11 +20309,14 @@
     "lemma": "Euenor 3",
     "previous": "Euenor 2",
     "next": "Euenos 1",
-    "short_description": "Vater d. Malers Parrhasios aus Ephesos",
+    "sort_key": "Euenor 3",
+    "proof_read": 2,
+    "short_description": "Vater und Lehrer des Malers Parrhasios aus Ephesos, vor der Blüte der Malerei",
     "chapters": [
       {
         "start": 974,
-        "author": "Rossbach"
+        "end": 974,
+        "author": "O. Rossbach."
       }
     ]
   },
@@ -20301,11 +20324,13 @@
     "lemma": "Euenos 1",
     "previous": "Euenor 3",
     "next": "Euenos 2",
-    "short_description": "Fluß in Aitolien",
+    "sort_key": "Euenos 1",
+    "short_description": "reissender Fluß in Aitolien, jetzt Phidaris, mündet im Golf von Patrai",
     "chapters": [
       {
         "start": 974,
-        "author": "Philippson"
+        "end": 974,
+        "author": "Philippson."
       }
     ]
   },
@@ -20313,11 +20338,14 @@
     "lemma": "Euenos 2",
     "previous": "Euenos 1",
     "next": "Euenos 3",
-    "short_description": "Flüßchen in d. kleinasiat. Aiolis bzw. Mysien",
+    "sort_key": "Euenos 2",
+    "proof_read": 2,
+    "short_description": "Flüßchen der kleinasiatischen Aiolis bzw. Mysien, jetzt Frénelitschai",
     "chapters": [
       {
         "start": 974,
-        "author": "Bürchner"
+        "end": 974,
+        "author": "Bürchner."
       }
     ]
   },
@@ -20325,12 +20353,14 @@
     "lemma": "Euenos 3",
     "previous": "Euenos 2",
     "next": "Euenos 4",
-    "short_description": "Vater d. Marpessa",
+    "sort_key": "Euenos 3",
+    "proof_read": 2,
+    "short_description": "Vater der Marpessa, aitolischer Flußgott, Sage vom Raub der Marpessa durch Idas",
     "chapters": [
       {
         "start": 974,
         "end": 975,
-        "author": "Tümpel"
+        "author": "Tümpel."
       }
     ]
   },
@@ -20338,12 +20368,14 @@
     "lemma": "Euenos 4",
     "previous": "Euenos 3",
     "next": "Euenos 5",
-    "short_description": "König v. Lyrnessos",
+    "sort_key": "Euenos 4",
+    "proof_read": 2,
+    "short_description": "König von Lyrnessos, Stadt der troischen Kiliker, Sohn des Selepios",
     "chapters": [
       {
         "start": 975,
         "end": 976,
-        "author": "Tümpel"
+        "author": "Tümpel."
       }
     ]
   },
@@ -20351,11 +20383,14 @@
     "lemma": "Euenos 5",
     "previous": "Euenos 4",
     "next": "Euenos 6",
-    "short_description": "Sohn v. Okeanos u. Tethys in d. Theogonie",
+    "sort_key": "Euenos 5",
+    "proof_read": 2,
+    "short_description": "Flußgott in der Theogonie, Sohn von Okeanos und Tethys",
     "chapters": [
       {
         "start": 976,
-        "author": "Tümpel"
+        "end": 976,
+        "author": "Tümpel."
       }
     ]
   },
@@ -20363,11 +20398,14 @@
     "lemma": "Euenos 6",
     "previous": "Euenos 5",
     "next": "Euenos 7",
-    "short_description": "Sohn d. Herakles",
+    "sort_key": "Euenos 6",
+    "proof_read": 2,
+    "short_description": "ein Sohn des Herakles im Verzeichnis bei Hyginus Fabulae",
     "chapters": [
       {
         "start": 976,
-        "author": "Tümpel"
+        "end": 976,
+        "author": "Tümpel."
       }
     ]
   },
@@ -20375,11 +20413,14 @@
     "lemma": "Euenos 7",
     "previous": "Euenos 6",
     "next": "Euenos 8",
-    "short_description": "Von Paros, Sophist u. elegischer Dichter",
+    "sort_key": "Euenos 7",
+    "proof_read": 2,
+    "short_description": "von Paros, Rhetor, Sophist und elegischer Dichter, † nahe dem Sokrates",
     "chapters": [
       {
         "start": 976,
-        "author": "Reitzenstein"
+        "end": 976,
+        "author": "Reitzenstein."
       }
     ]
   },
@@ -20387,12 +20428,14 @@
     "lemma": "Euenos 8",
     "previous": "Euenos 7",
     "next": "Euenos 9",
-    "short_description": "Epigrammatiker",
+    "sort_key": "Euenos 8",
+    "proof_read": 2,
+    "short_description": "Epigrammatiker aus Askalon um die Zeitenwende",
     "chapters": [
       {
         "start": 976,
         "end": 977,
-        "author": "Reitzenstein"
+        "author": "Reitzenstein."
       }
     ]
   },
@@ -20400,11 +20443,14 @@
     "lemma": "Euenos 9",
     "previous": "Euenos 8",
     "next": "Euepes",
-    "short_description": "Arzt",
+    "sort_key": "Euenos 9",
+    "proof_read": 2,
+    "short_description": "Arzt vor Asklepiades, mit einem Rezept gegen Magenschmerzen",
     "chapters": [
       {
         "start": 977,
-        "author": "Wellmann, M[ax]"
+        "end": 977,
+        "author": "M. Wellmann."
       }
     ]
   },
@@ -20412,10 +20458,14 @@
     "lemma": "Euepes",
     "previous": "Euenos 9",
     "next": "Everdingus",
+    "sort_key": "Euepes",
+    "proof_read": 2,
+    "short_description": "Großvater Homers mütterlicherseits",
     "chapters": [
       {
         "start": 977,
-        "author": "Bethe"
+        "end": 977,
+        "author": "Bethe."
       }
     ]
   },
@@ -20423,10 +20473,13 @@
     "lemma": "Everdingus",
     "previous": "Euepes",
     "next": "Euereides",
+    "sort_key": "Everdingus",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 977,
-        "author": "Seeck"
+        "end": 977,
+        "author": "Seeck."
       }
     ]
   },
@@ -20434,10 +20487,14 @@
     "lemma": "Euereides",
     "previous": "Everdingus",
     "next": "Eueres 1",
+    "sort_key": "Euereides",
+    "proof_read": 2,
+    "short_description": "Sohn des Eueres Nr. 1",
     "chapters": [
       {
         "start": 977,
-        "author": "Escher"
+        "end": 977,
+        "author": "Escher."
       }
     ]
   },
@@ -20445,11 +20502,14 @@
     "lemma": "Eueres 1",
     "previous": "Euereides",
     "next": "Eueres 2",
-    "short_description": "Vater d. blinden Teiresias",
+    "sort_key": "Eueres 1",
+    "proof_read": 2,
+    "short_description": "Vater des blinden Teiresias in der Sage der beiden Schlangen in Arkadien",
     "chapters": [
       {
         "start": 977,
-        "author": "Tümpel"
+        "end": 977,
+        "author": "Tümpel."
       }
     ]
   },
@@ -20457,11 +20517,14 @@
     "lemma": "Eueres 2",
     "previous": "Eueres 1",
     "next": "Eueres 3",
-    "short_description": "Sohn d. Herakles",
+    "sort_key": "Eueres 2",
+    "proof_read": 2,
+    "short_description": "Sohn des Herakles und der Stymphalostochter Parthenope",
     "chapters": [
       {
         "start": 977,
-        "author": "Tümpel"
+        "end": 977,
+        "author": "Tümpel."
       }
     ]
   },
@@ -20469,11 +20532,14 @@
     "lemma": "Eueres 3",
     "previous": "Eueres 2",
     "next": "Euergesia",
-    "short_description": "Sohn d. Taphierkönigs Pterelaos",
+    "sort_key": "Eueres 3",
+    "proof_read": 2,
+    "short_description": "Sohn des Taphierkönigs Pterelaos, entkam den Söhnen des Elektryon",
     "chapters": [
       {
         "start": 977,
-        "author": "Tümpel"
+        "end": 977,
+        "author": "Tümpel."
       }
     ]
   },
@@ -23309,6 +23375,7 @@
     "previous": "Eulepa",
     "next": "Eulimene 2",
     "sort_key": "Eulimene 1",
+    "proof_read": 2,
     "short_description": "Nereïde auf einem Skyphos des Xenotimos mit Nereus",
     "chapters": [
       {
@@ -23323,7 +23390,9 @@
     "previous": "Eulimene 1",
     "next": "Eulimene 3",
     "sort_key": "Eulimene 2",
-    "short_description": "Tochter des Kydon, mit Apteros verlobt, aber im Liebesbund mit Lykastos",
+    "proof_read": 2,
+    "short_description": "mit Apteros verlobt, aber von Lykastes schwanger und daher hingerichtet",
+    "wp_link": "w:de:Eulimene (Tochter des Kydon)",
     "chapters": [
       {
         "start": 1072,
@@ -25010,7 +25079,9 @@
     "previous": "Eunoios",
     "next": "Eunomia 2",
     "sort_key": "Eunomia 1",
+    "proof_read": 2,
     "short_description": "Personifikation der Gesetzmäßigkeit, die ganze Natur beherrschend",
+    "wp_link": "w:de:Eunomia (Mythologie)",
     "chapters": [
       {
         "start": 1129,
@@ -25641,6 +25712,7 @@
     "previous": "Euonios",
     "next": "Euonymeia",
     "sort_key": "Euonyme",
+    "proof_read": 3,
     "short_description": "Epitheton einer Gottheit",
     "wp_link": "w:de:Euonyme",
     "wd_link": "d:Q1374029",
