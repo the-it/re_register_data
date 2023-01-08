@@ -5129,7 +5129,7 @@
   {
     "lemma": "Statio Martis",
     "previous": "Statio 3",
-    "next": "Stationarius",
+    "next": "Statio Turicensis",
     "redirect": "ad Martis 1",
     "proof_read": 2,
     "chapters": [
@@ -5140,8 +5140,21 @@
     ]
   },
   {
-    "lemma": "Stationarius",
+    "lemma": "Statio Turicensis",
     "previous": "Statio Martis",
+    "next": "Stationarius",
+    "redirect": "Turicum",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 2213,
+        "end": 2213
+      }
+    ]
+  },
+  {
+    "lemma": "Stationarius",
+    "previous": "Statio Turicensis",
     "next": "Statios",
     "short_description": "Sicherheitsbeamte der Kaiserzeit",
     "chapters": [
@@ -5154,25 +5167,12 @@
   {
     "lemma": "Statios",
     "previous": "Stationarius",
-    "next": "Statio Turicensis",
+    "next": "Statius",
     "short_description": "Gefälschte Inschr. auf einer Gnathiavase in London",
     "chapters": [
       {
         "start": 2213,
         "author": "Nachod"
-      }
-    ]
-  },
-  {
-    "lemma": "Statio Turicensis",
-    "previous": "Statios",
-    "next": "Statius",
-    "redirect": "Turicum",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 2213,
-        "end": 2213
       }
     ]
   },
