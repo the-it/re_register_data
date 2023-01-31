@@ -11785,7 +11785,7 @@
     "previous": "Ἀλευρομαντεία",
     "next": "Alexandra 5",
     "proof_read": 3,
-    "short_description": "Tochter des Johannes Hyrkanos II., Gattin des Alexandros",
+    "short_description": "Tochter des Johannes Hyrkanos II., Gattin des Alexandros II.",
     "no_creative_height": true,
     "wp_link": "w:de:Alexandra (Hasmonäerin)",
     "wd_link": "d:Q446110",
@@ -53789,7 +53789,7 @@
   {
     "lemma": "Brundisium",
     "previous": "Brumath",
-    "next": "Bruttianus campus",
+    "next": "Brutianae",
     "proof_read": 3,
     "short_description": "kalabr. Hafenstadt, Brindisi",
     "no_creative_height": true,
@@ -53804,8 +53804,23 @@
     ]
   },
   {
-    "lemma": "Bruttianus campus",
+    "lemma": "Brutianae",
     "previous": "Brundisium",
+    "next": "Bruttianus campus",
+    "proof_read": 3,
+    "short_description": "tegulae, Stempel einer stadtröm. Ziegelei aus dem 2. Jh. n. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 69,
+        "end": 69,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Bruttianus campus",
+    "previous": "Brutianae",
     "next": "Bruttidius",
     "proof_read": 3,
     "short_description": "Gelände in Rom vgl. Boarius campus.",
@@ -70306,7 +70321,7 @@
   {
     "lemma": "Cosconius 17",
     "previous": "Cosconius 9",
-    "next": "Cosius 1-3",
+    "next": "Cosius 1–3",
     "proof_read": 3,
     "short_description": "Cosconia Gallitta, Gattin des L. Seius Nr. 15 Strabo",
     "no_creative_height": true,
@@ -70319,7 +70334,7 @@
     ]
   },
   {
-    "lemma": "Cosius 1-3",
+    "lemma": "Cosius 1–3",
     "previous": "Cosconius 17",
     "next": "Cosius 1",
     "redirect": "Cosius 3",
@@ -70333,7 +70348,7 @@
   },
   {
     "lemma": "Cosius 1",
-    "previous": "Cosius 1-3",
+    "previous": "Cosius 1–3",
     "next": "Cosius 2",
     "proof_read": 3,
     "short_description": "L. C. Virilis, südgall. Sigillatatöpfer in La Graufesenque Mitte 1. Jh. n. Chr.",
@@ -70934,7 +70949,8 @@
     "chapters": [
       {
         "start": 91,
-        "end": 91
+        "end": 91,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -81467,7 +81483,7 @@
   {
     "lemma": "Ἐπὶ τῆς διοικήσεως τεταγμένος (ὁ)",
     "previous": "Epitalion",
-    "next": "Epi tes eirenes, hoi",
+    "next": "Ἐπὶ τῆς εἰρήνης, οἱ",
     "sort_key": "Epi tes dioikeseos tetagmenos (ho)",
     "proof_read": 3,
     "short_description": "Epi tes dioikeseos tetagmenos (ho), Chef der Basilikon-Kasse 3. Jh. v. Chr.",
@@ -81481,8 +81497,23 @@
     ]
   },
   {
-    "lemma": "Epi tes eirenes, hoi",
-    "previous": "Ἐπὶ τῆς διοικήσεως τεταγμένος (ὁ)"
+    "lemma": "Ἐπὶ τῆς εἰρήνης, οἱ",
+    "previous": "Ἐπὶ τῆς διοικήσεως τεταγμένος (ὁ)",
+    "next": "Epitome de Caesaribus",
+    "sort_key": "Epi tes eirenes, hoi",
+    "proof_read": 3,
+    "short_description": "Epi tes eirenes, hoi, Polizeibeamte im röm. Aegypten = Eirenophylakes",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 105,
+        "end": 105,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Epi tes eirenes, hoi"
   },
   {
     "lemma": "Ἐπὶ τῆς διοικήσεως τεταγμένος (ὁ)",
@@ -81521,20 +81552,35 @@
     "lemma": "Ἐπὶ τῶν προσόδων (ὁ)",
     "previous": "Epitome de Caesaribus",
     "next": "Epode",
+    "sort_key": "Epi ton prosodon (ho)",
+    "proof_read": 3,
+    "short_description": "epi ton prosodon (ho), ptolemäischer Finanzbeamter",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
+    "lemma": "Epi ton prosodon (ho)",
+    "next": "Epode"
+  },
+  {
     "lemma": "Epode",
-    "previous": "Ἐπὶ τῶν προσόδων (ὁ)",
+    "previous": "Epi ton prosodon (ho)",
     "next": "Epona",
+    "proof_read": 3,
+    "short_description": "eigentlich Nachgesang, hier auch Zauberspruch",
+    "no_creative_height": true,
+    "wp_link": "w:de:Epode",
+    "wd_link": "d:Q655918",
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81543,9 +81589,15 @@
     "lemma": "Epona",
     "previous": "Epode",
     "next": "Eporedorix",
+    "proof_read": 3,
+    "short_description": "gallischen Göttin",
+    "no_creative_height": true,
+    "wp_link": "w:de:Epona (Mythologie)",
+    "wd_link": "d:Q835976",
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81554,9 +81606,13 @@
     "lemma": "Eporedorix",
     "previous": "Epona",
     "next": "Eppillius",
+    "proof_read": 3,
+    "short_description": "keltischer Name = Roß-wagen-könig",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81565,9 +81621,13 @@
     "lemma": "Eppillius",
     "previous": "Eporedorix",
     "next": "Eppius 2",
+    "proof_read": 3,
+    "short_description": "mittelgall. Sigillatatöpfer in Lezoux im 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81576,9 +81636,13 @@
     "lemma": "Eppius 2",
     "previous": "Eppillius",
     "next": "Eppius 3a",
+    "proof_read": 3,
+    "short_description": "M. E., Senator im J. 51 v. Chr., Parteigänger des Cn. Pompeius Magnus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81587,9 +81651,13 @@
     "lemma": "Eppius 3a",
     "previous": "Eppius 2",
     "next": "Eprius",
+    "proof_read": 3,
+    "short_description": "verschiedene südgall. Sigillatatöpfer in Montans am Tarn im 1./2.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81598,9 +81666,13 @@
     "lemma": "Eprius",
     "previous": "Eppius 3a",
     "next": "Epyaxa",
+    "proof_read": 3,
+    "short_description": "Eprius Marcellus, Praetor, Proconsul Asien, Rhetor, Suizid 79 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81609,9 +81681,13 @@
     "lemma": "Epyaxa",
     "previous": "Eprius",
     "next": "Equa....",
+    "proof_read": 3,
+    "short_description": "Epyaxa, Gemahlin des Syennesis von Kilikien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81620,9 +81696,13 @@
     "lemma": "Equa....",
     "previous": "Epyaxa",
     "next": "Equites extraordinarii",
+    "proof_read": 3,
+    "short_description": "römischer Glasfabrikant in Köln?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81631,9 +81711,15 @@
     "lemma": "Equites extraordinarii",
     "previous": "Equa....",
     "next": "Equitius 6",
+    "proof_read": 3,
+    "short_description": "Elitereiter der Bundesgenossen im frühen röm. Milizheer",
+    "no_creative_height": true,
+    "wp_link": "w:en:Extraordinarii",
+    "wd_link": "d:Q3062615",
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81642,9 +81728,14 @@
     "lemma": "Equitius 6",
     "previous": "Equites extraordinarii",
     "next": "Er",
+    "sort_key": "Equitius 6",
+    "proof_read": 3,
+    "short_description": "Eq(uitius?) Proculus, leg. Augg. pr. pr. der Provinz Thracia unter Septimius",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81653,9 +81744,15 @@
     "lemma": "Er",
     "previous": "Equitius 6",
     "next": "Erasippos 2",
+    "proof_read": 3,
+    "short_description": "Träger des Schlussmythos der platonischen Politeia",
+    "no_creative_height": true,
+    "wp_link": "w:en:Myth of Er",
+    "wd_link": "d:Q647775",
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81664,9 +81761,13 @@
     "lemma": "Erasippos 2",
     "previous": "Er",
     "next": "Erasistratos 1",
+    "proof_read": 3,
+    "short_description": "Dichter von Paianen und Dithyramben, im 7. Jh. v. Chr.? aus Lokroi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81675,9 +81776,13 @@
     "lemma": "Erasistratos 1",
     "previous": "Erasippos 2",
     "next": "Eraton 8a",
+    "proof_read": 3,
+    "short_description": "Athener im 5. Jh. v. Chr., Vater des Demagogen Phaiax",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81686,9 +81791,13 @@
     "lemma": "Eraton 8a",
     "previous": "Erasistratos 1",
     "next": "Erdbebenforschung",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Dionysia 185 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81697,9 +81806,15 @@
     "lemma": "Erdbebenforschung",
     "previous": "Eraton 8a",
     "next": "Erdmessung",
+    "proof_read": 3,
+    "short_description": "Begriff",
+    "no_creative_height": true,
+    "wp_link": "w:de:Seismologie",
+    "wd_link": "d:Q83371",
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81708,9 +81823,15 @@
     "lemma": "Erdmessung",
     "previous": "Erdbebenforschung",
     "next": "Erechtheïs",
+    "proof_read": 3,
+    "short_description": "Entwicklung der Erdmessung  in der Antike",
+    "no_creative_height": true,
+    "wp_link": "w:de:Erdmessung",
+    "wd_link": "d:Q1349355",
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81718,32 +81839,48 @@
   {
     "lemma": "Erechtheïs",
     "previous": "Erdmessung",
-    "next": "Eremophylakes",
+    "next": "Ἐρημοφύλακες",
+    "sort_key": "Erechtheïs",
+    "proof_read": 3,
+    "short_description": "attische Phyle, gegründet von Kleisthenes um 500 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Eremophylakes",
+    "lemma": "Ἐρημοφύλακες",
     "previous": "Erechtheïs",
     "next": "Eretria 1",
+    "sort_key": "Eremophylakes",
+    "proof_read": 3,
+    "short_description": "Wüstenpolizei in Ägypten zum Schutz von Karawanen und Grenzen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Eretria 1",
-    "previous": "Eremophylakes",
+    "previous": "Ἐρημοφύλακες",
     "next": "Erge",
+    "proof_read": 3,
+    "short_description": "bedeutendste Stadt Euboias nächst Chalkis",
+    "no_creative_height": true,
+    "wp_link": "w:de:Eretria",
+    "wd_link": "d:Q320367",
     "chapters": [
       {
         "start": 105,
+        "end": 105,
         "author": "Hans Gärtner."
       }
     ]
@@ -81752,9 +81889,14 @@
     "lemma": "Erge",
     "previous": "Eretria 1",
     "next": "Erginos 2a",
+    "sort_key": "Erge",
+    "proof_read": 3,
+    "short_description": "iberische Gottheit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81763,9 +81905,13 @@
     "lemma": "Erginos 2a",
     "previous": "Erge",
     "next": "Erginos 3",
+    "proof_read": 3,
+    "short_description": "Syrer, Bruder des Diokles, half Aratos zur Einnahme von Korinth 243 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81774,9 +81920,13 @@
     "lemma": "Erginos 3",
     "previous": "Erginos 2a",
     "next": "Ergissenoi",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Soteria zu Delphi 254 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81785,9 +81935,13 @@
     "lemma": "Ergissenoi",
     "previous": "Erginos 3",
     "next": "Ergophilos 3",
+    "proof_read": 3,
+    "short_description": "Ethnikon von einem thrakischen Ort Ergissa oder Verein?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81796,9 +81950,13 @@
     "lemma": "Ergophilos 3",
     "previous": "Ergissenoi",
     "next": "Ergoteles 3",
+    "proof_read": 3,
+    "short_description": "Bildhauer aus dem 4. Jhdt. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81807,9 +81965,13 @@
     "lemma": "Ergoteles 3",
     "previous": "Ergophilos 3",
     "next": "Ergoteles 3a",
+    "proof_read": 3,
+    "short_description": "aus Knosos, Sieger im Dauerlauf zu Olympia 472 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81818,9 +81980,13 @@
     "lemma": "Ergoteles 3a",
     "previous": "Ergoteles 3",
     "next": "Erigus",
+    "proof_read": 3,
+    "short_description": "Lauerte mit Pythodoros dem verbannten Themistokles in Kleinasien auf",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81829,9 +81995,13 @@
     "lemma": "Erigus",
     "previous": "Ergoteles 3a",
     "next": "Erinna",
+    "proof_read": 3,
+    "short_description": "südgallischer Sigillatatöpfer im 1. Jhdt. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81840,9 +82010,16 @@
     "lemma": "Erinna",
     "previous": "Erigus",
     "next": "Erinys",
+    "proof_read": 3,
+    "short_description": "Dichterin auf Telos aus der Mitte des 4. Jh. v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Erinna",
+    "ws_link": "s:it:Autore:Erinna",
+    "wd_link": "d:Q256241",
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81862,9 +82039,14 @@
     "lemma": "Erminius",
     "previous": "Erinys",
     "next": "Ernolatia",
+    "sort_key": "Erminius",
+    "proof_read": 3,
+    "short_description": "L. E. Crispinus, richtig: L. Lorenius Nr. 2 Crispinus, c.v.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81873,9 +82055,15 @@
     "lemma": "Ernolatia",
     "previous": "Erminius",
     "next": "Eros 13",
+    "sort_key": "Ernolatia",
+    "proof_read": 3,
+    "short_description": "Ort im Noricum",
+    "no_creative_height": true,
+    "wd_link": "d:Q21556430",
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81884,9 +82072,13 @@
     "lemma": "Eros 13",
     "previous": "Ernolatia",
     "next": "Erotion 2",
+    "proof_read": 3,
+    "short_description": "Sigillatatöpfer in Westerndorf/Bayern im 2. Jhdt. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81895,9 +82087,13 @@
     "lemma": "Erotion 2",
     "previous": "Eros 13",
     "next": "Erotylos",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia um 280 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81906,9 +82102,14 @@
     "lemma": "Erotylos",
     "previous": "Erotion 2",
     "next": "Errimus",
+    "proof_read": 3,
+    "short_description": "ein Verfasser von Orphika im Papyrus Leidens",
+    "no_creative_height": true,
+    "wd_link": "d:Q111693858",
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81917,9 +82118,13 @@
     "lemma": "Errimus",
     "previous": "Erotylos",
     "next": "Erucianus 2",
+    "proof_read": 3,
+    "short_description": "gallischer Sigillatatöpfer in Vichy im 2. Jhdt. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81928,9 +82133,13 @@
     "lemma": "Erucianus 2",
     "previous": "Errimus",
     "next": "Erucius 2",
+    "proof_read": 3,
+    "short_description": "C. Erucianus Silo, Consul suffectus 110 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81939,9 +82148,14 @@
     "lemma": "Erucius 2",
     "previous": "Erucianus 2",
     "next": "Erucius 6",
+    "sort_key": "Erucius 2",
+    "proof_read": 3,
+    "short_description": "u.a. ein gewerbsmäßiger Ankläger um 80 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81950,9 +82164,16 @@
     "lemma": "Erucius 6",
     "previous": "Erucius 2",
     "next": "Erucius 7",
+    "sort_key": "Erucius 6",
+    "proof_read": 3,
+    "short_description": "Sex. E. Clarus, cos. I suff. im J. 117, cos. II ord. und praef. urbi im J. 146",
+    "no_creative_height": true,
+    "wp_link": "w:de:Sextus Erucius Clarus",
+    "wd_link": "d:Q333092",
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81961,9 +82182,14 @@
     "lemma": "Erucius 7",
     "previous": "Erucius 6",
     "next": "Erucius 10",
+    "sort_key": "Erucius 7",
+    "proof_read": 3,
+    "short_description": "C. Iulius E. Clarus Vibianus , cos. ord. im J. 193 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -81972,9 +82198,14 @@
     "lemma": "Erucius 10",
     "previous": "Erucius 7",
     "next": "Erythrai 5",
+    "sort_key": "Erucius 10",
+    "proof_read": 3,
+    "short_description": "C. Iulius E. Clarus Sosius, Mitglied der Salii Collini",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82027,9 +82258,13 @@
     "lemma": "Escusius",
     "previous": "Eschatiotis 2",
     "next": "Esopis",
+    "proof_read": 3,
+    "short_description": "Sigillatatöpfer in Ostgallien im 2. Jhdt. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82038,9 +82273,13 @@
     "lemma": "Esopis",
     "previous": "Escusius",
     "next": "Esquilina",
+    "proof_read": 3,
+    "short_description": "Name des Rückens, auf dem die Stadt Lokroi aufgebaut war",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82049,9 +82288,14 @@
     "lemma": "Esquilina",
     "previous": "Esopis",
     "next": "Essener",
+    "sort_key": "Esquilina",
+    "proof_read": 3,
+    "short_description": "Stadtviertel von Rom",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82060,9 +82304,15 @@
     "lemma": "Essener",
     "previous": "Esquilina",
     "next": "Esuaterius",
+    "proof_read": 3,
+    "short_description": "religiöse Gruppe im antiken Judentum vor Zerstörung des Jerusalemer Tempels",
+    "no_creative_height": true,
+    "wp_link": "w:de:Essener",
+    "wd_link": "d:Q189204",
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82071,9 +82321,13 @@
     "lemma": "Esuaterius",
     "previous": "Essener",
     "next": "Eteokles 4",
+    "proof_read": 3,
+    "short_description": "mittelgallischer Sigillatatöpfer des 2. Jhdts. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82082,9 +82336,13 @@
     "lemma": "Eteokles 4",
     "previous": "Esuaterius",
     "next": "Etevandros",
+    "proof_read": 3,
+    "short_description": "Bildhauer Anfang 3. Jhdt. v. Chr., Sohn des Eugnatos von Theben?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82093,9 +82351,13 @@
     "lemma": "Etevandros",
     "previous": "Eteokles 4",
     "next": "Ethelandros",
+    "proof_read": 3,
+    "short_description": "König von Paphos auf Zypern im 7. Jhdt. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82106,6 +82368,7 @@
     "next": "Ethologos",
     "redirect": "Thysandros",
     "proof_read": 3,
+    "short_description": "Bildhauer aus Epidauros im 2. Jh. v. Chr.",
     "chapters": [
       {
         "start": 106,
@@ -82117,9 +82380,13 @@
     "lemma": "Ethologos",
     "previous": "Ethelandros",
     "next": "Etleva",
+    "proof_read": 3,
+    "short_description": "ein Berufs- oder Charaktertypen nachahmender Schauspieler, Gaukler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82128,9 +82395,13 @@
     "lemma": "Etleva",
     "previous": "Ethologos",
     "next": "Etrilius 1",
+    "proof_read": 3,
+    "short_description": "Gemahlin des Illyrierkönigs Genthos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82139,9 +82410,14 @@
     "lemma": "Etrilius 1",
     "previous": "Etleva",
     "next": "Ettritos",
+    "sort_key": "Etrilius 1",
+    "proof_read": 3,
+    "short_description": "M. E. Lupercus, Legat des Prokonsuls von Cypern, 29 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82150,9 +82426,13 @@
     "lemma": "Ettritos",
     "previous": "Etrilius 1",
     "next": "Etuta",
+    "proof_read": 3,
+    "short_description": "Freund des Illyriers Plator, von  dessen Bruder Genthios ermordet",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82161,9 +82441,13 @@
     "lemma": "Etuta",
     "previous": "Ettritos",
     "next": "Eua 2",
+    "proof_read": 3,
+    "short_description": "Tochter des Dardanerfürsten Monunios, von Genthios geheiratet",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82172,9 +82456,13 @@
     "lemma": "Eua 2",
     "previous": "Etuta",
     "next": "Euagion",
+    "proof_read": 3,
+    "short_description": "antike Ortschaft in der Thyreatis, im Parnongebirge",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82193,7 +82481,6 @@
   {
     "lemma": "Euandros 1",
     "previous": "Euagion",
-    "next": "Euantheia",
     "chapters": [
       {
         "start": 106,
@@ -82202,12 +82489,31 @@
     ]
   },
   {
-    "lemma": "Euantheia",
-    "previous": "Euandros 1",
-    "next": "Euanthes 1d",
+    "lemma": "Euandros 4a",
+    "previous": "Euagion",
+    "next": "Euantheia",
+    "proof_read": 3,
+    "short_description": "Truppenführer des maked. Königs Perseus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Euantheia",
+    "previous": "Euandros 4a",
+    "next": "Euanthes 1d",
+    "proof_read": 3,
+    "short_description": "späterer Name der Stadt Oiantheia, westlokr. Stadt",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82216,9 +82522,13 @@
     "lemma": "Euanthes 1d",
     "previous": "Euantheia",
     "next": "Euarchides 2",
+    "proof_read": 3,
+    "short_description": "Eponymos der westlokr. Stadt Euanthis oder Euantheia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82227,9 +82537,13 @@
     "lemma": "Euarchides 2",
     "previous": "Euanthes 1d",
     "next": "Evaunum",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Soteria zu Delphi 255 v. Chr., Sohn des Amphistratos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 106,
+        "end": 106,
         "author": "Hans Gärtner."
       }
     ]
@@ -82238,9 +82552,13 @@
     "lemma": "Evaunum",
     "previous": "Euarchides 2",
     "next": "Eubios 3",
+    "proof_read": 3,
+    "short_description": "Ivaunum, Evaunum, aquitan. Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82249,9 +82567,13 @@
     "lemma": "Eubios 3",
     "previous": "Evaunum",
     "next": "Eubios 4a",
+    "proof_read": 3,
+    "short_description": "Kitharode aus Athen, siegt bei den Amphiaraen zu Oropos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82260,9 +82582,13 @@
     "lemma": "Eubios 4a",
     "previous": "Eubios 3",
     "next": "Euboia 1",
+    "proof_read": 3,
+    "short_description": "Proxenos der Delphier im J. 236 v. Chr., Sohn des Alypos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82271,9 +82597,15 @@
     "lemma": "Euboia 1",
     "previous": "Eubios 4a",
     "next": "Euboia 2a",
+    "proof_read": 3,
+    "short_description": "griech. Insel (Geschichte)",
+    "no_creative_height": true,
+    "wp_link": "w:de:Euböa",
+    "wd_link": "d:Q173096",
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82307,9 +82639,13 @@
     "lemma": "Eubulides 10",
     "previous": "Eubotes",
     "next": "Eubulos 13a",
+    "proof_read": 3,
+    "short_description": "zur Signatur von Amarynthos auf Euboia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82318,9 +82654,13 @@
     "lemma": "Eubulos 13a",
     "previous": "Eubulides 10",
     "next": "Eubulos 17a",
+    "proof_read": 3,
+    "short_description": "aus Bithynien, eroberte 360 v. Chr. die Städte Atarneus und Assos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82329,9 +82669,13 @@
     "lemma": "Eubulos 17a",
     "previous": "Eubulos 13a",
     "next": "Euchandridas",
+    "proof_read": 3,
+    "short_description": "Schulhaupt der Athener Akademie im 3. Jhdt. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82340,9 +82684,13 @@
     "lemma": "Euchandridas",
     "previous": "Eubulos 17a",
     "next": "Eucharidas 2",
+    "proof_read": 3,
+    "short_description": "Sohn des Nikandros, Kultbeamter des Apollon zu Chalaion",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82351,9 +82699,13 @@
     "lemma": "Eucharidas 2",
     "previous": "Euchandridas",
     "next": "Eucharidas 3",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Soteria zu Delphi 256 v. Chr., Sohn des Epichares",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82362,9 +82714,13 @@
     "lemma": "Eucharidas 3",
     "previous": "Eucharidas 2",
     "next": "Eucharides",
+    "proof_read": 3,
+    "short_description": "Sieger im Pankration der Knaben bei den Amphiaraia zu Oropos 1. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82373,9 +82729,13 @@
     "lemma": "Eucharides",
     "previous": "Eucharidas 3",
     "next": "Eucharis",
+    "proof_read": 3,
+    "short_description": "Name auf einem athen. Ostrakon von einem Scherbengericht",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82395,9 +82755,13 @@
     "lemma": "Eudaimon 3a",
     "previous": "Eucharis",
     "next": "Eudaimonia 4",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Museia zu Thespiai 161-169 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82406,9 +82770,13 @@
     "lemma": "Eudaimonia 4",
     "previous": "Eudaimon 3a",
     "next": "Eudalagines",
+    "proof_read": 3,
+    "short_description": "Namensbeischrift auf einer rotfarbenen Pyxis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82428,9 +82796,13 @@
     "lemma": "Eudamidas 7",
     "previous": "Eudalagines",
     "next": "Eudamos 9",
+    "proof_read": 3,
+    "short_description": "Beamter zu Halai im östlichen Lokris um 260–250 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82439,9 +82811,13 @@
     "lemma": "Eudamos 9",
     "previous": "Eudamidas 7",
     "next": "Eudemos 11",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Argos oder Umgebung in den J. 97-75 v. Chr. Sohn des Lykiskos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82450,9 +82826,14 @@
     "lemma": "Eudemos 11",
     "previous": "Eudamos 9",
     "next": "Eudemos 12",
+    "sort_key": "Eudemos 11",
+    "proof_read": 3,
+    "short_description": "E. von Rhodos, Peripatetiker im 4. Jh. v. Chr. Schüler des Aristoteles",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82461,9 +82842,13 @@
     "lemma": "Eudemos 12",
     "previous": "Eudemos 11",
     "next": "Eudikos 1a",
+    "proof_read": 3,
+    "short_description": "jüngerer Peripatetiker, Zeitgenosse des Galenos, 2. Jhdt. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82472,9 +82857,13 @@
     "lemma": "Eudikos 1a",
     "previous": "Eudemos 12",
     "next": "Eudikos 3",
+    "proof_read": 3,
+    "short_description": "Pythagoreer in Lokroi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82483,9 +82872,13 @@
     "lemma": "Eudikos 3",
     "previous": "Eudikos 1a",
     "next": "Euelthon a",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Delphi um 97 v. Chr., Sohn des Alkimos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82506,32 +82899,47 @@
   {
     "lemma": "Euelthon 1",
     "previous": "Euelthon a",
-    "next": "Euenion",
+    "next": "Εὐηνίων",
+    "proof_read": 3,
+    "short_description": "König von Salamis auf Kypros etwa 560-525 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Euenion",
+    "lemma": "Εὐηνίων",
     "previous": "Euelthon 1",
     "next": "Eventus, Bonus",
+    "sort_key": "Euenion",
+    "proof_read": 3,
+    "short_description": "Euenion, bewaffneter Jüngling auf einem Mosaik in Messenien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Eventus, Bonus",
-    "previous": "Euenion",
+    "previous": "Εὐηνίων",
     "next": "Euetes 3",
+    "proof_read": 3,
+    "short_description": "Bonus Eventus, eine Art Gottheit des Gedeihens",
+    "no_creative_height": true,
+    "wp_link": "w:de:Bonus Eventus",
+    "wd_link": "d:Q781780",
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82540,9 +82948,13 @@
     "lemma": "Euetes 3",
     "previous": "Eventus, Bonus",
     "next": "Euf(?)",
+    "proof_read": 3,
+    "short_description": "Pythagoreer zu Lokroi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82562,9 +82974,13 @@
     "lemma": "Eugeiton 2",
     "previous": "Euf(?)",
     "next": "Eugnostos",
+    "proof_read": 3,
+    "short_description": "Athener, Vertreter der τεχνῖται in Delphi 106 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82573,9 +82989,13 @@
     "lemma": "Eugnostos",
     "previous": "Eugeiton 2",
     "next": "Euhodia",
+    "proof_read": 3,
+    "short_description": "Grammateus der Söldnertruppen Alexanders d. Gr. in Aegypten 331 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82584,9 +83004,13 @@
     "lemma": "Euhodia",
     "previous": "Eugnostos",
     "next": "Euippos 5a",
+    "proof_read": 3,
+    "short_description": "Besitzerin einer Glasfabrik im 3. Jhdt.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82595,9 +83019,13 @@
     "lemma": "Euippos 5a",
     "previous": "Euhodia",
     "next": "Eukleides 5a",
+    "proof_read": 3,
+    "short_description": "fingierter Name in der Ahnenreihe des pergamenischen Fürstenhauses",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82617,9 +83045,14 @@
     "lemma": "Eukleides 8",
     "previous": "Eukleides 5a",
     "next": "Eukles 9a",
+    "sort_key": "Eukleides 8",
+    "proof_read": 3,
+    "short_description": "Bildhauer in Athen, für Achaia tätig, 4. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82628,9 +83061,13 @@
     "lemma": "Eukles 9a",
     "previous": "Eukleides 8",
     "next": "Eukles 16a",
+    "proof_read": 3,
+    "short_description": "aus Argos, nahm als τραγῳδός an den Soteria des J. 262 v. Chr. teil",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82639,9 +83076,13 @@
     "lemma": "Eukles 16a",
     "previous": "Eukles 9a",
     "next": "Eukles 19",
+    "proof_read": 3,
+    "short_description": "politischer (?) Funktionär des Polyperchon Nr. 1 in Athen 318 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82661,9 +83102,13 @@
     "lemma": "Eukles 20",
     "previous": "Eukles 19",
     "next": "Euktemon 11",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Iasos 180-150 v. Chr., Sohn des Iambos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82672,9 +83117,13 @@
     "lemma": "Euktemon 11",
     "previous": "Eukles 20",
     "next": "Euktos 2",
+    "proof_read": 3,
+    "short_description": "griechischer Deklamator zur Zeit von Kaiser Augustus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82683,9 +83132,13 @@
     "lemma": "Euktos 2",
     "previous": "Euktemon 11",
     "next": "Eulaios 3",
+    "proof_read": 3,
+    "short_description": "Finanzbeamter in Pella unter König Perseus vgl. Eulaios Nr. 3",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82693,39 +83146,52 @@
   {
     "lemma": "Eulaios 3",
     "previous": "Euktos 2",
-    "next": "Eulamios",
+    "next": "Εὐλάμιος",
+    "proof_read": 3,
+    "short_description": "Finanzbeamter in Pella unter König Perseus vgl. Euktos Nr. 2",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Eulamios",
+    "lemma": "Εὐλάμιος",
     "previous": "Eulaios 3",
-    "next": "Eulamo(n",
+    "next": "Eulamon",
+    "sort_key": "Eulamios",
+    "proof_read": 3,
+    "short_description": "Eulamios, neuplatonischer Philosoph, 531 n. Chr. nach Persien verbannt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Eulamo(n",
-    "previous": "Eulamios",
+    "lemma": "Eulamon",
+    "previous": "Εὐλάμιος",
     "next": "Eulimna",
+    "proof_read": 3,
+    "short_description": "Gottesnamen in Zauberbüchern und auf nachchristlichen Verfluchungstafeln",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Eulimna",
-    "previous": "Eulamo(n",
+    "previous": "Eulamon",
     "next": "Eumaios 3",
     "chapters": [
       {
@@ -82738,9 +83204,13 @@
     "lemma": "Eumaios 3",
     "previous": "Eulimna",
     "next": "Eumedes 7a",
+    "proof_read": 3,
+    "short_description": "Chreophylax in Naupaktos (im 2. Jh. v. Chr.?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82760,9 +83230,13 @@
     "lemma": "Eumedes 9",
     "previous": "Eumedes 7a",
     "next": "Eumelides",
+    "proof_read": 3,
+    "short_description": "siegreicher Sänger in Delphi 106 v. Chr., Vater des Eugeiton",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 107,
+        "end": 107,
         "author": "Hans Gärtner."
       }
     ]
@@ -82771,9 +83245,13 @@
     "lemma": "Eumelides",
     "previous": "Eumedes 9",
     "next": "Eumelos 10",
+    "proof_read": 3,
+    "short_description": "verhindert die Todesstrafe durch den athenischen Rat",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82782,9 +83260,13 @@
     "lemma": "Eumelos 10",
     "previous": "Eumelides",
     "next": "Eumeneia 2",
+    "proof_read": 3,
+    "short_description": "Archon in Buttos um 200 v. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82793,9 +83275,14 @@
     "lemma": "Eumeneia 2",
     "previous": "Eumelos 10",
     "next": "Eumoiros",
+    "sort_key": "Eumeneia 2",
+    "proof_read": 3,
+    "short_description": "Stadt an der Westküste des Pontos Euxeinos, heute Kastell von Dišpudak",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82804,9 +83291,13 @@
     "lemma": "Eumoiros",
     "previous": "Eumeneia 2",
     "next": "Eunikos a",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Argos oder Umgebung 97-75 v. Chr., Sohn des Melantychos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82815,9 +83306,13 @@
     "lemma": "Eunikos a",
     "previous": "Eumoiros",
     "next": "Eunikos 2a",
+    "proof_read": 3,
+    "short_description": "E.(?), Heros (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82826,9 +83321,13 @@
     "lemma": "Eunikos 2a",
     "previous": "Eunikos a",
     "next": "Eunikos 5",
+    "proof_read": 3,
+    "short_description": "Archon in Physkos um das J. 133/2 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82837,9 +83336,14 @@
     "lemma": "Eunikos 5",
     "previous": "Eunikos 2a",
     "next": "Eunomos 5a",
+    "sort_key": "Eunikos 5",
+    "proof_read": 3,
+    "short_description": "Erzbildner von Mytilene, unbestimmter Zeit, berühmter Toreut",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82848,9 +83352,13 @@
     "lemma": "Eunomos 5a",
     "previous": "Eunikos 5",
     "next": "Eunomos 10",
+    "proof_read": 3,
+    "short_description": "Beamter (ithynter) zu Naupaktos im 2. Jhdt. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82859,9 +83367,14 @@
     "lemma": "Eunomos 10",
     "previous": "Eunomos 5a",
     "next": "Eunuchen",
+    "sort_key": "Eunomos 10",
+    "proof_read": 3,
+    "short_description": "Kitharode aus dem epizephyrischen Lokroi, Zikade auf der Lyra 8. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82869,28 +83382,39 @@
   {
     "lemma": "Eunuchen",
     "previous": "Eunomos 10",
-    "next": "Eunudas",
+    "next": "Εὐνούδας",
+    "proof_read": 3,
+    "short_description": "die Eunuchen im Altertum, durch Verstümmelung zeugungsunfähig",
+    "no_creative_height": true,
+    "wp_link": "w:de:Eunuch",
+    "wd_link": "d:Q179294",
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Eunudas",
+    "lemma": "Εὐνούδας",
     "previous": "Eunuchen",
     "next": "Eunus 3",
+    "sort_key": "Eunudas",
+    "proof_read": 3,
+    "short_description": "Eunudas, bewaffneter Jüngling auf einem Mosaik in Messenien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Eunus 3",
-    "previous": "Eunudas",
+    "previous": "Εὐνούδας",
     "next": "Euormos",
     "chapters": [
       {
@@ -82903,9 +83427,13 @@
     "lemma": "Euormos",
     "previous": "Eunus 3",
     "next": "Eupalion",
+    "proof_read": 3,
+    "short_description": "Tempelbaumeister aus Lokris im J. 348 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82914,9 +83442,14 @@
     "lemma": "Eupalion",
     "previous": "Euormos",
     "next": "Euphantos 2",
+    "sort_key": "Eupalion",
+    "proof_read": 3,
+    "short_description": "Stadt im ozolischen Lokris, nahe der aitolischen Grenze",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82925,9 +83458,13 @@
     "lemma": "Euphantos 2",
     "previous": "Eupalion",
     "next": "Euphantos 3",
+    "proof_read": 3,
+    "short_description": "Theorenschreiber in Naupaktos im 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82936,9 +83473,13 @@
     "lemma": "Euphantos 3",
     "previous": "Euphantos 2",
     "next": "Euphemos 13",
+    "proof_read": 3,
+    "short_description": "Hellenisierter Aegypter",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82958,9 +83499,13 @@
     "lemma": "Euphorbos 1a",
     "previous": "Euphemos 13",
     "next": "Euphranor 2a",
+    "proof_read": 3,
+    "short_description": "Verräter seiner Heimatstadt Eretria an die pers. Truppen 480 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82969,9 +83514,13 @@
     "lemma": "Euphranor 2a",
     "previous": "Euphorbos 1a",
     "next": "Euphranor 3a",
+    "proof_read": 3,
+    "short_description": "Grammateus in Thronion",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -82980,9 +83529,13 @@
     "lemma": "Euphranor 3a",
     "previous": "Euphranor 2a",
     "next": "Euphranor 3b",
+    "proof_read": 3,
+    "short_description": "Statthalter des makedon. Königs Perseus in Dolopia, 174 v. Chr. ermordet",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83024,9 +83577,13 @@
     "lemma": "Euphrosynos 2",
     "previous": "Euphrantas limen",
     "next": "Eupolemos 5a",
+    "proof_read": 3,
+    "short_description": "Archon in Opus? in röm. Zeit, Sohn des E.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83035,9 +83592,13 @@
     "lemma": "Eupolemos 5a",
     "previous": "Euphrosynos 2",
     "next": "Eupolemos 8a",
+    "proof_read": 3,
+    "short_description": "Beamter (apologos) zu Halai im östlichen Lokris um 260-250 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83046,9 +83607,15 @@
     "lemma": "Eupolemos 8a",
     "previous": "Eupolemos 5a",
     "next": "Eupolemos 14",
+    "proof_read": 3,
+    "short_description": "Stratege des aitol. Bundes in den J. 189/8(?) und 176/5 v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Eupolem d'Etòlia (exèrcit etoli)",
+    "wd_link": "d:Q11921242",
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83057,9 +83624,13 @@
     "lemma": "Eupolemos 14",
     "previous": "Eupolemos 8a",
     "next": "Eupolis 2a",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia um das J. 390 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83068,9 +83639,13 @@
     "lemma": "Eupolis 2a",
     "previous": "Eupolemos 14",
     "next": "Eurea",
+    "proof_read": 3,
+    "short_description": "Beamter (Diatribon) am Hof des Demetrios I. Poliorketes",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83079,9 +83654,13 @@
     "lemma": "Eurea",
     "previous": "Eupolis 2a",
     "next": "Euremon",
+    "proof_read": 3,
+    "short_description": "Ort in der Landschaft Magnesia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83090,9 +83669,13 @@
     "lemma": "Euremon",
     "previous": "Eurea",
     "next": "Euripides 4",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia um das J. 272 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83101,9 +83684,16 @@
     "lemma": "Euripides 4",
     "previous": "Euremon",
     "next": "Euripos 6",
+    "proof_read": 3,
+    "short_description": "att. Tragiker im 5. Jh. v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Euripides",
+    "ws_link": "s:de:Euripides",
+    "wd_link": "d:Q48305",
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83112,9 +83702,14 @@
     "lemma": "Euripos 6",
     "previous": "Euripides 4",
     "next": "Euritus",
+    "sort_key": "Euripos 6",
+    "proof_read": 3,
+    "short_description": "Euripus, Kanal, Wassergraben im Circus Maximus zur Sicherung des Publikums",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83123,9 +83718,13 @@
     "lemma": "Euritus",
     "previous": "Euripos 6",
     "next": "Euromos 1",
+    "proof_read": 3,
+    "short_description": "germanischer Sigillatatöpfer aus der Mitte des 2. Jhdts. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83134,9 +83733,13 @@
     "lemma": "Euromos 1",
     "previous": "Euritus",
     "next": "Europe 3",
+    "proof_read": 3,
+    "short_description": "E. (Hyromos, Kyromos, Europos), Städtchen Kariens",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83145,9 +83748,13 @@
     "lemma": "Europe 3",
     "previous": "Euromos 1",
     "next": "Euryalos 1a",
+    "proof_read": 3,
+    "short_description": "einzige Tochter des makedonischen Königs Philippos II.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83156,9 +83763,13 @@
     "lemma": "Euryalos 1a",
     "previous": "Europe 3",
     "next": "Eurydike 20",
+    "proof_read": 3,
+    "short_description": "sagenhafter attischer Architekt, Erfinder der Ziegeleien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83167,9 +83778,13 @@
     "lemma": "Eurydike 20",
     "previous": "Euryalos 1a",
     "next": "Eurykles 1a",
+    "proof_read": 3,
+    "short_description": "Gattin des illyr. Königs Pleuratos II., Mutter des Genthios",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83178,9 +83793,13 @@
     "lemma": "Eurykles 1a",
     "previous": "Eurydike 20",
     "next": "Eurylochos 5a",
+    "proof_read": 3,
+    "short_description": "lokrischer Seher, der die Sage vom Tode Hesiods erzählt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83200,9 +83819,15 @@
     "lemma": "Eurylochos 10",
     "previous": "Eurylochos 5a",
     "next": "Eurylochos 11",
+    "proof_read": 3,
+    "short_description": "Arkader (von Lusoi) im Heer Kyros  d. J.",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Euríloc de Lúsies",
+    "wd_link": "d:Q11921279",
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83222,9 +83847,13 @@
     "lemma": "Eurymachos 11",
     "previous": "Eurylochos 11",
     "next": "Eurymenes 4",
+    "proof_read": 3,
+    "short_description": "Dardaner im Heer Kyros d. J.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83244,9 +83873,13 @@
     "lemma": "Eurypylos 17",
     "previous": "Eurymenes 4",
     "next": "Eurysthenes 5",
+    "proof_read": 3,
+    "short_description": "Aleuade, im Gefolge des Mardonios im J. 479 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83255,9 +83888,13 @@
     "lemma": "Eurysthenes 5",
     "previous": "Eurypylos 17",
     "next": "Eusebios 30a",
+    "proof_read": 3,
+    "short_description": "Eurysthenes, Herrscher von Pergamon um 400 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83277,9 +83914,13 @@
     "lemma": "Eustadio",
     "previous": "Eusebios 30a",
     "next": "Eusthenes",
+    "proof_read": 3,
+    "short_description": "germanischer Sigillatatöpfer des 2. Jhdts. n. Chr. in Bergzabern",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83310,9 +83951,13 @@
     "lemma": "Eutelidas 3",
     "previous": "Eustorgius",
     "next": "Euterpe 1a",
+    "proof_read": 3,
+    "short_description": "schöner myth. Jüngling, der sich selbst mit dem bösen Blick behexte",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 108,
+        "end": 108,
         "author": "Hans Gärtner."
       }
     ]
@@ -83321,9 +83966,13 @@
     "lemma": "Euterpe 1a",
     "previous": "Eutelidas 3",
     "next": "Euterpe 2",
+    "proof_read": 3,
+    "short_description": "Karerin aus Halikarnassos, Hetäre, Mutter des Themistokles",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83354,9 +84003,13 @@
     "lemma": "Euthias 2",
     "previous": "Eutheniarchai",
     "next": "Euthyaios",
+    "proof_read": 3,
+    "short_description": "griech. Schauspieler oder Dichter (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83365,9 +84018,13 @@
     "lemma": "Euthyaios",
     "previous": "Euthias 2",
     "next": "Euthykles 3a",
+    "proof_read": 3,
+    "short_description": "Kalendermonat der Aitoler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83376,9 +84033,13 @@
     "lemma": "Euthykles 3a",
     "previous": "Euthyaios",
     "next": "Euthykrates 5a",
+    "proof_read": 3,
+    "short_description": "Lokrer, berühmter Pentathlos, wegen Verrat und Bestechung getötet",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83387,9 +84048,13 @@
     "lemma": "Euthykrates 5a",
     "previous": "Euthykles 3a",
     "next": "Euthykrates 7",
+    "proof_read": 3,
+    "short_description": "politischer Funktionär des Antigonos Gonatas",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83420,9 +84085,14 @@
     "lemma": "Euthymos 1",
     "previous": "Euthymides 2",
     "next": "Euthynteria 1",
+    "sort_key": "Euthymos 1",
+    "proof_read": 3,
+    "short_description": "dreimaliger Sieger im Faustkampf an den Olympiaden 74, 76, 77 um 480 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83431,9 +84101,15 @@
     "lemma": "Euthynteria 1",
     "previous": "Euthymos 1",
     "next": "Euthynteria 2",
+    "proof_read": 3,
+    "short_description": "der Mauerfuß, die Wandschwelle",
+    "no_creative_height": true,
+    "wp_link": "w:de:Euthynterie",
+    "wd_link": "d:Q1378917",
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83442,9 +84118,13 @@
     "lemma": "Euthynteria 2",
     "previous": "Euthynteria 1",
     "next": "Euthynus 1",
+    "proof_read": 3,
+    "short_description": "die Stelle des Schiffes, für das Steuerruder",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83453,9 +84133,13 @@
     "lemma": "Euthynus 1",
     "previous": "Euthynteria 2",
     "next": "Euthynus 2",
+    "proof_read": 3,
+    "short_description": "Pythagoreer zu Lokroi aus unbestimmter Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83486,9 +84170,13 @@
     "lemma": "Eutyches 7b",
     "previous": "Eutyches 7a",
     "next": "Eutyches 9",
+    "proof_read": 3,
+    "short_description": "Q. Antonius E., Maler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83507,7 +84195,6 @@
   {
     "lemma": "Eutychianos 1",
     "previous": "Eutyches 9",
-    "next": "Eutychides 2",
     "chapters": [
       {
         "start": 109,
@@ -83516,12 +84203,33 @@
     ]
   },
   {
-    "lemma": "Eutychides 2",
-    "previous": "Eutychianos 1",
-    "next": "Eutychides 4",
+    "lemma": "Eutychianos 1a",
+    "previous": "Eutyches 9",
+    "next": "Eutychides 2",
+    "proof_read": 3,
+    "short_description": "M. E., siegreicher Schauspieler bei den Museia zu Thespiai 3. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Eutychides 2",
+    "previous": "Eutychianos 1a",
+    "next": "Eutychides 4",
+    "proof_read": 3,
+    "short_description": "E. von Sikyon, Erzbildner, Bildhauer und Maler im 4./3. Jh. v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Eutychides",
+    "wd_link": "d:Q1378985",
+    "chapters": [
+      {
+        "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83530,9 +84238,13 @@
     "lemma": "Eutychides 4",
     "previous": "Eutychides 2",
     "next": "Eutychos a",
+    "proof_read": 3,
+    "short_description": "Athen. (?) Bildhauer im 2./1. Jh. v. Chr",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83541,9 +84253,13 @@
     "lemma": "Eutychos a",
     "previous": "Eutychides 4",
     "next": "Eutychos 1",
+    "proof_read": 3,
+    "short_description": "angesehene Persönlichkeit auf Delos, Stifter",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83552,9 +84268,14 @@
     "lemma": "Eutychos 1",
     "previous": "Eutychos a",
     "next": "Euxenippos 4",
+    "sort_key": "Eutychos 1",
+    "proof_read": 3,
+    "short_description": "Eseltreiber, dem Octavian 31 v. Chr. ein ehernes Bild widmete",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83563,9 +84284,14 @@
     "lemma": "Euxenippos 4",
     "previous": "Eutychos 1",
     "next": "Exagium",
+    "proof_read": 3,
+    "short_description": "Page Alexanders d. Gr. (?)",
+    "no_creative_height": true,
+    "wd_link": "d:Q113625805",
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83574,9 +84300,13 @@
     "lemma": "Exagium",
     "previous": "Euxenippos 4",
     "next": "Exakestos",
+    "proof_read": 3,
+    "short_description": "das Normalgewicht des Solidus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83628,7 +84358,7 @@
   {
     "lemma": "exhibere",
     "previous": "exercitor",
-    "next": "Exoria",
+    "next": "Ἐξορία",
     "chapters": [
       {
         "start": 109,
@@ -83637,23 +84367,32 @@
     ]
   },
   {
-    "lemma": "Exoria",
+    "lemma": "Ἐξορία",
     "previous": "exhibere",
     "next": "Exscingius",
+    "sort_key": "Exoria",
+    "proof_read": 3,
+    "short_description": "Exoria, Inschrift auf einer Marmorhalle an der Agora von Ephesos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Exscingius",
-    "previous": "Exoria",
+    "previous": "Ἐξορία",
     "next": "Exsecratio",
+    "proof_read": 3,
+    "short_description": "Töpfer der ersten Hälfte des 1. Jhdts. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83662,9 +84401,13 @@
     "lemma": "Exsecratio",
     "previous": "Exscingius",
     "next": "Exsobnos",
+    "proof_read": 3,
+    "short_description": "die Verfluchung, die Verwünschung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83673,9 +84416,13 @@
     "lemma": "Exsobnos",
     "previous": "Exsecratio",
     "next": "Extuomne",
+    "proof_read": 3,
+    "short_description": "Ostgall. Töpfer sog. belgischer Ware im 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83684,9 +84431,13 @@
     "lemma": "Extuomne",
     "previous": "Exsobnos",
     "next": "Fabia 2",
+    "proof_read": 3,
+    "short_description": "die erste Mutatio an der Straße von Serdica nach Philippopel",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83695,9 +84446,13 @@
     "lemma": "Fabia 2",
     "previous": "Extuomne",
     "next": "Fabianae figlinae",
+    "proof_read": 3,
+    "short_description": "römische Landtribus, eine der 16 ältesten",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83706,9 +84461,14 @@
     "lemma": "Fabianae figlinae",
     "previous": "Fabia 2",
     "next": "Fabius 17",
+    "sort_key": "Fabianaefiglinae",
+    "proof_read": 3,
+    "short_description": "stadtrömische Ziegelei der Flavia Seia (Servilia?) Isaurica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83717,9 +84477,13 @@
     "lemma": "Fabius 17",
     "previous": "Fabianae figlinae",
     "next": "Fabius 27a",
+    "proof_read": 3,
+    "short_description": "C. F., Statthalter von Asien 57/6 v. Chr., Legat Caesars, Freund des Atticus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83728,9 +84492,13 @@
     "lemma": "Fabius 27a",
     "previous": "Fabius 17",
     "next": "Fabius 49a",
+    "proof_read": 3,
+    "short_description": "P. F. Reiter der spanischen Turma Salluitana 90 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83739,9 +84507,15 @@
     "lemma": "Fabius 49a",
     "previous": "Fabius 27a",
     "next": "Fabius 50",
+    "proof_read": 3,
+    "short_description": "Q. F. Barbarus Antonius Macer, cos. suff. vor 68 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:pt:Quinto Fábio Bárbaro Antônio Mácer",
+    "wd_link": "d:Q545857",
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83750,9 +84524,13 @@
     "lemma": "Fabius 50",
     "previous": "Fabius 49a",
     "next": "Fabius 53",
+    "proof_read": 3,
+    "short_description": "Q. F. Barbarus Valerius, in Numidien, cos. suff. im J. 99 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83796,9 +84574,13 @@
     "lemma": "Fabius 65a",
     "previous": "Fabius 59a",
     "next": "Fabius 76a",
+    "proof_read": 3,
+    "short_description": "F. Claudius, Praeses von Noricum mediterraneum zw. 324-337 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -83864,9 +84646,15 @@
     "lemma": "Fabius 108",
     "previous": "Fabius 101",
     "next": "Fabius 109",
+    "proof_read": 3,
+    "short_description": "Q. F. Maximus, Legat Caesars in Spanien, cos. suff. im J. 45 v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Quintus Fabius Maximus (Suffektkonsul)",
+    "wd_link": "d:Q1283535",
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -83952,9 +84740,16 @@
     "lemma": "Fabius 132",
     "previous": "Fabius 131a",
     "next": "Fabius 134a",
+    "sort_key": "Fabius 132",
+    "proof_read": 3,
+    "short_description": "Fabius Postuminus, Proconsul Asia im Jahr 103 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Quintus Fabius Postuminus",
+    "wd_link": "d:Q11706115",
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -83996,9 +84791,13 @@
     "lemma": "Fabius 174a",
     "previous": "Fabius 150a",
     "next": "Fabius 175a",
+    "proof_read": 3,
+    "short_description": "s. [175a]).",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84040,9 +84839,13 @@
     "lemma": "Fadius 1",
     "previous": "Fabricius 13a",
     "next": "Fadius 4a",
+    "proof_read": 3,
+    "short_description": "Soldat des Pompeius",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84097,9 +84900,13 @@
     "lemma": "Faenius 1a",
     "previous": "Faenius a",
     "next": "Färbung",
+    "proof_read": 3,
+    "short_description": "L. Faenius Faustus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84185,9 +84992,13 @@
     "lemma": "Fannius 7",
     "previous": "Fannius 1",
     "next": "Faorianae figlinae",
+    "proof_read": 3,
+    "short_description": "C. F., Konsul im J. 122 v. Chr., Redner und Historiograph",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84196,9 +85007,13 @@
     "lemma": "Faorianae figlinae",
     "previous": "Fannius 7",
     "next": "Faß",
+    "proof_read": 3,
+    "short_description": "stadtröm. Ziegelei = Favorianae figlinae",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84207,9 +85022,12 @@
     "lemma": "Faß",
     "previous": "Faorianae figlinae",
     "next": "Fasti",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84229,9 +85047,13 @@
     "lemma": "Fato",
     "previous": "Fasti",
     "next": "Faventinus 3",
+    "proof_read": 3,
+    "short_description": "germanischer Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84240,9 +85062,13 @@
     "lemma": "Faventinus 3",
     "previous": "Fato",
     "next": "Faveria",
+    "proof_read": 3,
+    "short_description": "Sigillatatöpfer in (Gallien und?) Rheinzabern im 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84251,9 +85077,13 @@
     "lemma": "Faveria",
     "previous": "Faventinus 3",
     "next": "Faviana officina",
+    "proof_read": 3,
+    "short_description": "Stadt in Istrien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84262,9 +85092,12 @@
     "lemma": "Faviana officina",
     "previous": "Faveria",
     "next": "Faunianae figlinae",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84284,9 +85117,13 @@
     "lemma": "Favonius 1a",
     "previous": "Faunianae figlinae",
     "next": "Favonius 1b",
+    "proof_read": 3,
+    "short_description": "Senator der augusteisch-tiberianischen Zeit, consul suffectus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84317,9 +85154,16 @@
     "lemma": "Favorinus",
     "previous": "Favorianae figlinae",
     "next": "Faurianae figlinae",
+    "proof_read": 3,
+    "short_description": "Favorinus aus Arelate, Sophist im 1./2. Jh. n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Favorinus",
+    "ws_link": "s:it:Autore:Favorino",
+    "wd_link": "d:Q554387",
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84328,9 +85172,13 @@
     "lemma": "Faurianae figlinae",
     "previous": "Favorinus",
     "next": "Fausta 4",
+    "sort_key": "Faurianaefiglinae",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84372,9 +85220,14 @@
     "lemma": "Faustinianus ager",
     "previous": "Faustinianus 4",
     "next": "Faustus 6",
+    "sort_key": "Faustinianusager",
+    "proof_read": 3,
+    "short_description": "Kampan. Gebiet, durch seinen Wein berühmt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84383,9 +85236,13 @@
     "lemma": "Faustus 6",
     "previous": "Faustinianus ager",
     "next": "Faustus 24",
+    "proof_read": 3,
+    "short_description": "M. [A]nnius F., cos. suff. im J. 121 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -84482,9 +85339,13 @@
     "lemma": "Felicio 6",
     "previous": "Felicio 5",
     "next": "Felicius 1a",
+    "proof_read": 3,
+    "short_description": "ostgall. Sigillatatöpfer 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84537,9 +85398,13 @@
     "lemma": "Felix 21d",
     "previous": "Felix 21c",
     "next": "Felix 23a",
+    "proof_read": 3,
+    "short_description": "Bischof von Hadrumetum im 5. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84570,9 +85435,13 @@
     "lemma": "Felix 27",
     "previous": "Felix 26",
     "next": "Felix 28",
+    "proof_read": 3,
+    "short_description": "Töpfer (in Vienne?) im 3. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84636,9 +85505,13 @@
     "lemma": "Festus 20",
     "previous": "Felsendenkmäler",
     "next": "Fibel",
+    "proof_read": 3,
+    "short_description": "ostgall. Sigillatatöpfer Mitte des 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84669,9 +85542,13 @@
     "lemma": "Fidelis 5",
     "previous": "Fictiliarius = figulus",
     "next": "Fificulanus pagus",
+    "proof_read": 3,
+    "short_description": "Sigillatatöpfer (in Rheinzabern?) im 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84713,9 +85590,14 @@
     "lemma": "Fines, ad fines 5",
     "previous": "Fines, ad fines 3b",
     "next": "Fines, ad fines 12a",
+    "sort_key": "Fines,ad fines 5",
+    "proof_read": 3,
+    "short_description": "Ort der Straße Burdigala - Augustodunum",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84746,9 +85628,14 @@
     "lemma": "Fines, ad fines 18",
     "previous": "Fines, ad fines 14a",
     "next": "Fines, ad fines 23",
+    "sort_key": "Fines,ad fines 18",
+    "proof_read": 3,
+    "short_description": "F. Grenzort zwischen Germania sup. und inf.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84757,9 +85644,14 @@
     "lemma": "Fines, ad fines 23",
     "previous": "Fines, ad fines 18",
     "next": "Fines, ad fines 28",
+    "sort_key": "Fines,ad fines 23",
+    "proof_read": 3,
+    "short_description": "F., ad F. XXXX, F. Cotti, Grenzort der regio Transpadana",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84790,9 +85682,14 @@
     "lemma": "Fines, ad Fines 30",
     "previous": "Fines, ad fines 29",
     "next": "Fingerrechnen",
+    "sort_key": "Fines,ad fines 30",
+    "proof_read": 3,
+    "short_description": "Verweisungen.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84814,9 +85711,13 @@
     "lemma": "Finitus",
     "previous": "Fingerrechnen",
     "next": "Finken",
+    "proof_read": 3,
+    "short_description": "Sigillatatöpfer in Rheinzabern? im 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84825,9 +85726,14 @@
     "lemma": "Finken",
     "previous": "Finitus",
     "next": "Firmanus 1",
+    "proof_read": 3,
+    "short_description": "Familie Fringillidae Gadow, a) Gattung",
+    "no_creative_height": true,
+    "wd_link": "d:Q115694618",
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84836,9 +85742,13 @@
     "lemma": "Firmanus 1",
     "previous": "Finken",
     "next": "Firmanus 2",
+    "proof_read": 3,
+    "short_description": "Südgall. Sigillatatöpfer in Montans am Tarn im 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84847,9 +85757,13 @@
     "lemma": "Firmanus 2",
     "previous": "Firmanus 1",
     "next": "Firmii",
+    "proof_read": 3,
+    "short_description": "Germ. Sigillatatöpfer in Rheinzabern in der 1. H. des 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84869,9 +85783,13 @@
     "lemma": "Firminus 7",
     "previous": "Firmii",
     "next": "Firmius 3",
+    "proof_read": 3,
+    "short_description": "germ. Sigillatatöpfer in Rheinzabern aus der Mitte des 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84891,9 +85809,13 @@
     "lemma": "Firmo",
     "previous": "Firmius 3",
     "next": "Firmus 12",
+    "proof_read": 3,
+    "short_description": "Südgall. Sigillatatöpfer in La Graufesenque Mitte 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84946,9 +85868,15 @@
     "lemma": "Flamingo",
     "previous": "Fisius 2",
     "next": "Flaminius 8a",
+    "proof_read": 3,
+    "short_description": "Tierart",
+    "no_creative_height": true,
+    "wp_link": "w:de:Flamingos",
+    "wd_link": "d:Q41994",
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -84990,9 +85918,16 @@
     "lemma": "Flavius 35",
     "previous": "Flavius 34a",
     "next": "Flavius 36",
+    "sort_key": "Flavius 035",
+    "proof_read": 3,
+    "short_description": "M. F. Aper, cos. ord. im J. 130 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Marcus Flavius Aper (Konsul 130)",
+    "wd_link": "d:Q658973",
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -85001,9 +85936,14 @@
     "lemma": "Flavius 36",
     "previous": "Flavius 35",
     "next": "Flavius 36a",
+    "sort_key": "Flavius 036",
+    "proof_read": 3,
+    "short_description": "M. F. Aper, cos. II ord. im J. 176 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -85034,9 +85974,13 @@
     "lemma": "Flavius 44",
     "previous": "Flavius 37a",
     "next": "Flavius 46a",
+    "sort_key": "Flavius 044",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
+        "end": 111,
         "author": "Hans Gärtner."
       }
     ]
@@ -85100,9 +86044,14 @@
     "lemma": "Flavius 62",
     "previous": "Flavius 58a",
     "next": "Flavius 66a",
+    "sort_key": "Flavius 062",
+    "proof_read": 3,
+    "short_description": "T. F. Clemens, cos. ord. im J. 95 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85133,9 +86082,14 @@
     "lemma": "Flavius 70",
     "previous": "Flavius 66b",
     "next": "Flavius 76a",
+    "sort_key": "Flavius 070",
+    "proof_read": 3,
+    "short_description": "F. [C]risp[inus], f. l. statt T. F. Nr. 147a Piso, Präfekt Aegypten 181 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85166,9 +86120,14 @@
     "lemma": "Flavius 82",
     "previous": "Flavius 81a",
     "next": "Flavius 83a",
+    "sort_key": "Flavius 082",
+    "proof_read": 3,
+    "short_description": "F. Eudaemon, v. e., procurator zu Ende des 3. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85210,9 +86169,14 @@
     "lemma": "Flavius 91",
     "previous": "Flavius 84a",
     "next": "Flavius 92a",
+    "sort_key": "Flavius 091",
+    "proof_read": 3,
+    "short_description": "F. Ranius Pollio Flavianus, Agonothet des Asklepios in Pergamon.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85243,9 +86207,13 @@
     "lemma": "Flavius 97",
     "previous": "Flavius 95a",
     "next": "Flavius 101a",
+    "sort_key": "Flavius 097",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85265,9 +86233,13 @@
     "lemma": "Flavius 102",
     "previous": "Flavius 101a",
     "next": "Flavius 103a",
+    "proof_read": 3,
+    "short_description": "F. Iulianus, Statthalter der Provinz Arabia im J. 219 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85298,9 +86270,13 @@
     "lemma": "Flavius 113",
     "previous": "Flavius 106a",
     "next": "Flavius 117a",
+    "proof_read": 3,
+    "short_description": "F. Latronianus, cos. suff. um 230 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85320,9 +86296,13 @@
     "lemma": "Flavius 128",
     "previous": "Flavius 117a",
     "next": "Flavius 128a",
+    "proof_read": 3,
+    "short_description": "F. Marcianus, Statthalter der Provinz Pannonia inf. unter Severus Alexander",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85342,9 +86322,13 @@
     "lemma": "Flavius 145",
     "previous": "Flavius 128a",
     "next": "Flavius 146a",
+    "proof_read": 3,
+    "short_description": "T. F. Philinus, cos. suff. um 225 n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85375,9 +86359,13 @@
     "lemma": "Flavius 149",
     "previous": "Flavius 147a",
     "next": "Flavius 159aa",
+    "proof_read": 3,
+    "short_description": "F. Pollio Flavianus, prokonsularer Legat der Provinz Asia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85408,9 +86396,15 @@
     "lemma": "Flavius 166",
     "previous": "Flavius 159a",
     "next": "Flavius 170a",
+    "proof_read": 3,
+    "short_description": "T. F. Sabinus, cos. suff. 45 n. Chr.? Bruder des Kaisers Vespasian",
+    "no_creative_height": true,
+    "wp_link": "w:de:Titus Flavius Sabinus (Suffektkonsul 47)",
+    "wd_link": "d:Q537235",
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85441,9 +86435,13 @@
     "lemma": "Flavius 181",
     "previous": "Flavius 179a",
     "next": "Flavius 184a",
+    "proof_read": 3,
+    "short_description": "L. F. Silva Nonius, cos. ord. im J. 81 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85463,9 +86461,15 @@
     "lemma": "Flavius 185",
     "previous": "Flavius 184a",
     "next": "Flavius 204a",
+    "proof_read": 3,
+    "short_description": "T. F. Sulpicianus, Konsul zw. 161 und 170 n. Chr.?",
+    "no_creative_height": true,
+    "wp_link": "w:de:Titus Flavius Sulpicianus",
+    "wd_link": "d:Q334910",
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85485,9 +86489,13 @@
     "lemma": "Flavius 216a",
     "previous": "Flavius 204a",
     "next": "Flavius 221a",
+    "proof_read": 3,
+    "short_description": "Flavius Germanus, südgallischer Sigillatatöpfer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85551,9 +86559,13 @@
     "lemma": "ad Flexum 3",
     "previous": "Flavus 6",
     "next": "Fliegenfänger",
+    "proof_read": 3,
+    "short_description": "Kampan. Station an der via Latina.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85573,9 +86585,12 @@
     "lemma": "Floh",
     "previous": "Fliegenfänger",
     "next": "Floreius pagus",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85584,9 +86599,13 @@
     "lemma": "Floreius pagus",
     "previous": "Floh",
     "next": "Florentia 3",
+    "proof_read": 3,
+    "short_description": "Flurbezeichnung bei Veleia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85595,9 +86614,13 @@
     "lemma": "Florentia 3",
     "previous": "Floreius pagus",
     "next": "Florentianus 2",
+    "proof_read": 3,
+    "short_description": "Militärlager in Pannonia inf = Lugio",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85617,9 +86640,13 @@
     "lemma": "Florentinus 16",
     "previous": "Florentianus 2",
     "next": "Floriacus, -um",
+    "proof_read": 3,
+    "short_description": "germ. Sigillatatöpfer in Rheinzabern Mitte 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85639,9 +86666,13 @@
     "lemma": "Floriana",
     "previous": "Floriacus, -um",
     "next": "Florianus 9",
+    "proof_read": 3,
+    "short_description": "Knotenpunkt der Straße Savaria-Aquincum in Pannonia inferior",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85672,9 +86703,13 @@
     "lemma": "Floridus",
     "previous": "Floridius",
     "next": "Florus 11",
+    "proof_read": 3,
+    "short_description": "germ. Sigillatatöpfer in Rheinzabern 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 112,
+        "end": 112,
         "author": "Hans Gärtner."
       }
     ]
@@ -85738,9 +86773,14 @@
     "lemma": "Fonteius 9",
     "previous": "Fonteius 7a",
     "next": "Fonteius 20",
+    "sort_key": "Fonteius 09",
+    "proof_read": 3,
+    "short_description": "M'. F., Münzmeister um das J. 84 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 113,
+        "end": 113,
         "author": "Hans Gärtner."
       }
     ]
@@ -85749,9 +86789,13 @@
     "lemma": "Fonteius 20",
     "previous": "Fonteius 9",
     "next": "Fonteius 30a",
+    "proof_read": 3,
+    "short_description": "C. F. Capito, cos. suff. 33 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 113,
+        "end": 113,
         "author": "Hans Gärtner."
       }
     ]
@@ -85815,9 +86859,13 @@
     "lemma": "Fortiana",
     "previous": "Fornasidius",
     "next": "Fortunatus 11",
+    "proof_read": 3,
+    "short_description": "Station in Pannonia inf.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 113,
+        "end": 113,
         "author": "Hans Gärtner."
       }
     ]
@@ -86103,9 +87151,13 @@
     "lemma": "Fulvius 48a",
     "previous": "Fulvius 38a",
     "next": "Fulvius 81a",
+    "proof_read": 3,
+    "short_description": "F. F[---], Dioiket in Aegypten etwa im J. 175 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 113,
+        "end": 113,
         "author": "Hans Gärtner."
       }
     ]
@@ -86158,9 +87210,13 @@
     "lemma": "Fumiolus",
     "previous": "Fulvius 110a",
     "next": "Fundanius 6a",
+    "proof_read": 3,
+    "short_description": "Archimimus im 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 113,
+        "end": 113,
         "author": "Hans Gärtner."
       }
     ]
@@ -86213,9 +87269,15 @@
     "lemma": "Furius 44",
     "previous": "Furianae figlinae",
     "next": "Furius 51a",
+    "proof_read": 3,
+    "short_description": "M. Furius Camillus, mehrfach Dictator und Feldherr zw. 403 und 363 v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Marcus Furius Camillus",
+    "wd_link": "d:Q294862",
     "chapters": [
       {
         "start": 113,
+        "end": 113,
         "author": "Hans Gärtner."
       }
     ]
@@ -86336,9 +87398,13 @@
     "lemma": "Gabala 5",
     "previous": "Futratus",
     "next": "Gabbara",
+    "proof_read": 3,
+    "short_description": "Stadt in Nordsyrien an der Küste, heute Dscheble",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 114,
+        "end": 114,
         "author": "Hans Gärtner."
       }
     ]
@@ -86626,9 +87692,12 @@
     "lemma": "Gaius 8b",
     "previous": "Gaius 8a",
     "next": "Gala 2",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 114,
+        "end": 114,
         "author": "Hans Gärtner."
       }
     ]
@@ -86659,9 +87728,15 @@
     "lemma": "Galba 1",
     "previous": "Galba a",
     "next": "Galbanum",
+    "proof_read": 3,
+    "short_description": "Cognomen der Sulpicier",
+    "no_creative_height": true,
+    "wp_link": "w:de:Galba (Cognomen)",
+    "wd_link": "d:Q15811242",
     "chapters": [
       {
         "start": 114,
+        "end": 114,
         "author": "Hans Gärtner."
       }
     ]
@@ -86705,7 +87780,7 @@
     "previous": "Galeria 3",
     "next": "Galitas(?)",
     "sort_key": "Galerius 09a",
-    "redirect": "Galerius 9a",
+    "redirect": "Embolium",
     "proof_read": 3,
     "short_description": "G. Copiola, Tänzerin 82 v. Chr. – 9 n. Chr.",
     "wp_link": "w:en:Galeria Copiola",
@@ -86765,9 +87840,13 @@
     "lemma": "Gallonianus",
     "previous": "Gallicus 4",
     "next": "Gallos 3",
+    "proof_read": 3,
+    "short_description": "Statthalter der Provinz Arabia 259/60 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 114,
+        "end": 114,
         "author": "Hans Gärtner."
       }
     ]
@@ -86844,9 +87923,13 @@
     "lemma": "Gallus 14",
     "previous": "Gallus 10a",
     "next": "Gallus 15",
+    "proof_read": 3,
+    "short_description": "südgall. Sigillatatöpfer in Banassac und La Graufesenque 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 114,
+        "end": 114,
         "author": "Hans Gärtner."
       }
     ]
@@ -86855,9 +87938,13 @@
     "lemma": "Gallus 15",
     "previous": "Gallus 14",
     "next": "Gamikos",
+    "proof_read": 3,
+    "short_description": "s. 14).",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 114,
+        "end": 114,
         "author": "Hans Gärtner."
       }
     ]
@@ -86866,9 +87953,13 @@
     "lemma": "Gamikos",
     "previous": "Gallus 15",
     "next": "Gamus",
+    "proof_read": 3,
+    "short_description": "Schauspieler von Aizanoi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 115,
+        "end": 115,
         "author": "Hans Gärtner."
       }
     ]
@@ -86877,9 +87968,13 @@
     "lemma": "Gamus",
     "previous": "Gamikos",
     "next": "Gangra 1",
+    "proof_read": 3,
+    "short_description": "ital. Sigillatatöpfer in Puteoli aus august. Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 115,
+        "end": 115,
         "author": "Hans Gärtner."
       }
     ]
@@ -86910,9 +88005,13 @@
     "lemma": "Ganicos",
     "previous": "Ganiccius",
     "next": "Gantunae",
+    "proof_read": 3,
+    "short_description": "Töpfer von sog. belgischer Ware 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 115,
+        "end": 115,
         "author": "Hans Gärtner."
       }
     ]
@@ -86978,9 +88077,13 @@
     "lemma": "Gareas 2",
     "previous": "Garbantia",
     "next": "Gargilius 4",
+    "proof_read": 3,
+    "short_description": "G. aus Sparta, Bildhauer im 6. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 115,
+        "end": 115,
         "author": "Hans Gärtner."
       }
     ]
@@ -87011,9 +88114,13 @@
     "lemma": "Gargonius 4",
     "previous": "Gargilius 7",
     "next": "Gargoris",
+    "proof_read": 3,
+    "short_description": "C. G., römischer Ritter, redegewandter Rabulist in Sullanischer Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 115,
+        "end": 115,
         "author": "Hans Gärtner."
       }
     ]
