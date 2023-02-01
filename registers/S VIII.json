@@ -1369,12 +1369,8 @@
     ]
   },
   {
-    "lemma": "Ipthimis",
-    "next": "Iulia aqua"
-  },
-  {
     "lemma": "Iulia aqua",
-    "previous": "Ipthimis",
+    "previous": "Iphthimis",
     "next": "Iulianos 58a",
     "short_description": "stadtrömische Wasserleitung, Aquaeduct gebaut von Agrippa 40 v. Chr.",
     "chapters": [
@@ -3114,10 +3110,19 @@
   },
   {
     "lemma": "Praefectus Aegypti",
-    "previous": "Potentia 2"
+    "previous": "Potentia 2",
+    "next": "Praenestina",
+    "chapters": [
+      {
+        "start": 525,
+        "end": 539,
+        "author": "O. W. Reinmuth."
+      }
+    ]
   },
   {
     "lemma": "Praenestina",
+    "previous": "Praefectus Aegypti",
     "next": "Praepositus 1",
     "short_description": "Die Bezeichnung der Fortuna von Praeneste",
     "chapters": [
