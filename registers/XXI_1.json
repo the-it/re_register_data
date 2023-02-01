@@ -1999,7 +1999,7 @@
   {
     "lemma": "Plinta",
     "previous": "Plinos",
-    "next": "en plinthio",
+    "next": "ἐν πλινθίῳ",
     "short_description": "Magister militum der östl. Reichshälfte",
     "chapters": [
       {
@@ -2009,20 +2009,24 @@
     ]
   },
   {
-    "lemma": "en plinthio",
+    "lemma": "ἐν πλινθίῳ",
     "previous": "Plinta",
     "next": "Plinthos 1",
-    "short_description": "Epiklesis der Aphrodite",
+    "sort_key": "plinthio",
+    "proof_read": 2,
+    "short_description": "en plinthio, Epiklesis der Aphrodite in Tegea",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 458,
-        "author": "Kruse"
+        "end": 459,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Plinthos 1",
-    "previous": "en plinthio",
+    "previous": "ἐν πλινθίῳ",
     "next": "Plinthos 2",
     "proof_read": 2,
     "short_description": "Luftziegel, Backstein",
