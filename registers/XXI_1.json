@@ -4455,7 +4455,7 @@
   {
     "lemma": "Poimenios 7",
     "previous": "Poimenios 6",
-    "next": "to Poimenion",
+    "next": "Poimenios 8",
     "proof_read": 2,
     "short_description": "Presbyter in Sebasteia, wich in der Lehrmeinung von Basileios d. Gr. ab",
     "no_creative_height": true,
@@ -4468,20 +4468,8 @@
     ]
   },
   {
-    "lemma": "to Poimenion",
-    "previous": "Poimenios 7",
-    "next": "Poimenios 8",
-    "short_description": "Ort",
-    "chapters": [
-      {
-        "start": 1210,
-        "author": "Hölscher"
-      }
-    ]
-  },
-  {
     "lemma": "Poimenios 8",
-    "previous": "to Poimenion",
+    "previous": "Poimenios 7",
     "next": "Poimenios 9",
     "short_description": "Bischof von Satala",
     "chapters": [
@@ -4509,7 +4497,7 @@
   {
     "lemma": "Poimenios 10",
     "previous": "Poimenios 9",
-    "next": "Poimenis",
+    "next": "to Poimenion",
     "short_description": "Subdiakon in Edessa",
     "chapters": [
       {
@@ -4519,8 +4507,21 @@
     ]
   },
   {
-    "lemma": "Poimenis",
+    "lemma": "to Poimenion",
     "previous": "Poimenios 10",
+    "next": "Poimenis",
+    "sort_key": "Poimenion",
+    "short_description": "Ort",
+    "chapters": [
+      {
+        "start": 1210,
+        "author": "Hölscher"
+      }
+    ]
+  },
+  {
+    "lemma": "Poimenis",
+    "previous": "to Poimenion",
     "next": "Poimes",
     "short_description": "Hündin des Aktaion",
     "chapters": [
