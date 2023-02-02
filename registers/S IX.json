@@ -1087,7 +1087,7 @@
   {
     "lemma": "Eudaimonia 4",
     "previous": "Epitalion",
-    "next": "Euphrantas limen",
+    "next": "Εὐφράντας λιμήν",
     "proof_read": 3,
     "short_description": "Namensbeischrift auf einer rotfarbenen Pyxis",
     "no_creative_height": true,
@@ -1100,27 +1100,32 @@
     ]
   },
   {
-    "lemma": "Euphrantas limen",
+    "lemma": "Εὐφράντας λιμήν",
     "previous": "Eudaimonia 4",
     "next": "Euthymides 2",
-    "short_description": "Ort an der Großen Syrte vgl. Euphranta Nr. 1, Pyrgos Nr. 3",
+    "sort_key": "Euphrantaslimen",
+    "proof_read": 2,
+    "short_description": "Ort an der Großen Syrte, vgl. Euphranta Nr. 1, Pyrgos Nr. 3",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 64,
         "end": 65,
-        "author": "Treidler"
+        "author": "Hans Treidler."
       }
     ]
   },
   {
     "lemma": "Euthymides 2",
-    "previous": "Euphrantas limen",
+    "previous": "Εὐφράντας λιμήν",
     "next": "Fabius 65a",
-    "short_description": "E. von Chalkis, romfeindlicher Politiker bis zum J. 192 v. Chr., Sohn des",
+    "sort_key": "Euthymides 2",
+    "short_description": "E. von Chalkis, romfeindlicher Politiker 192 v. Chr., Sohn des Aristomachos",
     "chapters": [
       {
         "start": 65,
-        "author": "Schmitt"
+        "end": 65,
+        "author": "Hatto H. Schmitt."
       }
     ]
   },
