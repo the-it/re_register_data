@@ -83574,17 +83574,6 @@
   {
     "lemma": "Euphranor 3b",
     "previous": "Euphranor 3a",
-    "next": "Euphranor 4a",
-    "chapters": [
-      {
-        "start": 108,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Euphranor 4a",
-    "previous": "Euphranor 3b",
     "next": "Εὐφράντας λιμήν",
     "sort_key": "Euphranor 4a",
     "proof_read": 3,
@@ -83600,7 +83589,25 @@
   },
   {
     "lemma": "Εὐφράντας λιμήν",
-    "previous": "Euphranor 4a",
+    "previous": "Euphranor 3b"
+  },
+  {
+    "lemma": "Euphranor 4a",
+    "sort_key": "Euphranor 4a",
+    "proof_read": 3,
+    "short_description": "Stratege des makedonischen Königs Perseus 169 v. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 108,
+        "end": 108,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Εὐφράντας λιμήν",
+    "previous": "Euphranor 3b",
     "next": "Euphrosynos 2",
     "sort_key": "Euphrantaslimen",
     "proof_read": 3,
@@ -84398,9 +84405,14 @@
     "lemma": "Exegetika",
     "previous": "Exakestos",
     "next": "Exekution",
+    "sort_key": "Exegetika",
+    "proof_read": 3,
+    "short_description": "Exegetika, attischen Schriften über das Sakralrecht mit hohem Ansehen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 109,
+        "end": 109,
         "author": "Hans Gärtner."
       }
     ]
@@ -91457,8 +91469,12 @@
     ]
   },
   {
+    "lemma": "Hagias 2",
+    "next": "Hagnon 2a"
+  },
+  {
     "lemma": "Hagnon 2a",
-    "previous": "Hagias 2a",
+    "previous": "Hagias 2",
     "next": "Haimon a",
     "proof_read": 3,
     "short_description": "Boiot. Züchter von Jagdhunden (?), Sohn des Astylos",
@@ -92495,9 +92511,15 @@
     "lemma": "Helena 1",
     "previous": "Heldica",
     "next": "Helena 1a",
+    "proof_read": 3,
+    "short_description": "gallisches Kastell an den Pyrenäen",
+    "no_creative_height": true,
+    "wp_link": "w:de:Elne",
+    "wd_link": "d:Q23073",
     "chapters": [
       {
         "start": 122,
+        "end": 122,
         "author": "Hans Gärtner."
       }
     ]
@@ -92552,9 +92574,13 @@
     "lemma": "Helikon 1a",
     "previous": "Helike 4",
     "next": "Heliodoros 6",
+    "proof_read": 3,
+    "short_description": "Oberlauf des makedonischen Baphyras",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 122,
+        "end": 122,
         "author": "Hans Gärtner."
       }
     ]
@@ -92563,9 +92589,16 @@
     "lemma": "Heliodoros 6",
     "previous": "Helikon 1a",
     "next": "Heliodoros 12a",
+    "sort_key": "Heliodoros 06",
+    "proof_read": 3,
+    "short_description": "Kanzler des Königs Seleukos IV. Philopator. um 180 v.Cr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Heliodoros (General)",
+    "wd_link": "d:Q1397528",
     "chapters": [
       {
         "start": 122,
+        "end": 122,
         "author": "Hans Gärtner."
       }
     ]
