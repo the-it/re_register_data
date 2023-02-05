@@ -14411,6 +14411,7 @@
   {
     "lemma": "Archelas 1b",
     "previous": "Archelas 1a",
+    "next": "Archelas 2",
     "proof_read": 3,
     "short_description": "Delph. Archon um 221/20 v. Chr.",
     "chapters": [
@@ -14423,13 +14424,15 @@
   },
   {
     "lemma": "Archelas 2",
+    "previous": "Archelas 1b",
     "next": "Archene",
     "proof_read": 3,
-    "short_description": "Delph. Archon um das J. 265/4 v. Chr.",
+    "short_description": "Delph. Archon im J. 175/4 v. Chr.",
     "chapters": [
       {
-        "start": 118,
-        "end": 119
+        "start": 119,
+        "end": 119,
+        "author": "Kirchner."
       }
     ]
   },

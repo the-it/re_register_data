@@ -2247,12 +2247,15 @@
     "lemma": "Exekution",
     "previous": "Euryalos 1a",
     "next": "Fufius 5a",
-    "short_description": "Die Zwangsvollstreckung",
+    "sort_key": "Exekution",
+    "short_description": "die Zwangsvollstreckung, die Verwirklichung eines Rechtes",
+    "wp_link": "w:de:Zwangsvollstreckungsrecht",
+    "wd_link": "d:Q28147639",
     "chapters": [
       {
         "start": 56,
         "end": 64,
-        "author": "Weiss, Egon"
+        "author": "Egon Weiss."
       }
     ]
   },
@@ -5844,6 +5847,7 @@
   {
     "lemma": "Manichäismus",
     "previous": "Maia 7",
+    "next": "Marius 14",
     "short_description": "Religion der 'dualistischen Gnosis'",
     "chapters": [
       {
@@ -5856,20 +5860,21 @@
     "lemma": "Marius 14",
     "previous": "Manichäismus",
     "next": "Neapolis 18",
-    "redirect": true,
-    "proof_read": 3,
+    "proof_read": 2,
     "short_description": "C. M., der röm. Feldherr und siebenmalige Konsul",
     "wp_link": "w:de:Gaius Marius",
     "wd_link": "d:Q177975",
     "chapters": [
       {
         "start": 1363,
-        "end": 1425
+        "end": 1425,
+        "author": "Weynand."
       }
     ]
   },
   {
     "lemma": "Neapolis 18",
+    "previous": "Marius 14",
     "next": "Régĭna castra",
     "short_description": "Residenz des skyth. Königs Skiluros (III A 526. S VI 892)",
     "chapters": [

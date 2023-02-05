@@ -11415,28 +11415,33 @@
     "lemma": "Maroneia 2",
     "previous": "Maroneia 1",
     "next": "Maroneus",
-    "short_description": "Attischer? Flecken",
+    "proof_read": 3,
+    "short_description": "attischer? Flecken",
     "chapters": [
       {
         "start": 1913,
-        "author": "Kroll"
+        "end": 1913,
+        "author": "W. Kroll."
       }
     ]
   },
   {
     "lemma": "Maroneus",
     "previous": "Maroneia 2",
-    "next": "Maronias",
+    "next": "Μαρωνιάς",
+    "proof_read": 2,
     "short_description": "Gebirge auf Sizilien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1914,
-        "author": "Ziegler"
+        "end": 1914,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Maronias",
+    "lemma": "Μαρωνιάς",
     "previous": "Maroneus",
     "next": "Maronilla",
     "short_description": "Stadt der syrischen Landschaft Chalkidike",
@@ -11449,7 +11454,7 @@
   },
   {
     "lemma": "Maronilla",
-    "previous": "Maronias",
+    "previous": "Μαρωνιάς",
     "next": "Maronsa",
     "short_description": "Beliebiger Name bei Martial",
     "chapters": [
