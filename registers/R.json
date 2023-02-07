@@ -70411,6 +70411,7 @@
     "proof_read": 3,
     "short_description": "P. C. Felix, leg. Augg. pro praetore der Provinz Pannonia inferior 252 n. Chr.",
     "no_creative_height": true,
+    "wp_link": "w:de:Publius Cosinius Felix",
     "chapters": [
       {
         "start": 90,
@@ -91442,7 +91443,7 @@
   {
     "lemma": "Haemona",
     "previous": "Haemasi",
-    "next": "Hagias 2a",
+    "next": "Hagias 2",
     "redirect": "Emona",
     "proof_read": 3,
     "chapters": [
@@ -91453,8 +91454,11 @@
     ]
   },
   {
+    "lemma": "Hagias 2",
+    "previous": "Haemona"
+  },
+  {
     "lemma": "Hagias 2a",
-    "previous": "Haemona",
     "next": "Hagnon 2a",
     "proof_read": 3,
     "short_description": "H. von Messene, Bildhauer im 1. Jh. v. Chr. = Agias (Nr. 9)",
@@ -96112,7 +96116,7 @@
   {
     "lemma": "Honorius 4c",
     "previous": "Honorius 4b",
-    "next": "Honorius 6",
+    "next": "Honorius 4a",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -96124,7 +96128,6 @@
   },
   {
     "lemma": "Honorius 6",
-    "previous": "Honorius 4c",
     "next": "Honorius 8",
     "chapters": [
       {
@@ -97512,7 +97515,7 @@
   {
     "lemma": "Hysiai a",
     "previous": "Hyrnethion",
-    "next": "Hysiai 1",
+    "next": "Hysminos",
     "proof_read": 3,
     "short_description": "Boiot Ort",
     "no_creative_height": true,
@@ -97526,7 +97529,6 @@
   },
   {
     "lemma": "Hysiai 1",
-    "previous": "Hysiai a",
     "next": "Hysminos",
     "chapters": [
       {
@@ -97571,7 +97573,7 @@
   {
     "lemma": "Hythmitae",
     "previous": "Hystaspes 5",
-    "next": "Iabadiu nesos",
+    "next": "Ἰαβαδίου νῆσος",
     "chapters": [
       {
         "start": 129,
@@ -97580,23 +97582,36 @@
     ]
   },
   {
-    "lemma": "Iabadiu nesos",
+    "lemma": "Ἰαβαδίου νῆσος",
     "previous": "Hythmitae",
     "next": "Iaca",
+    "sort_key": "Iabadiu nesos",
+    "proof_read": 3,
+    "short_description": "Iabadiu nesos, wahrscheinlich Java, Insel im indonesischen Archipel",
+    "no_creative_height": true,
+    "wp_link": "w:de:Java (Insel)",
+    "wd_link": "d:Q3757",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Iaca",
-    "previous": "Iabadiu nesos",
+    "previous": "Ἰαβαδίου νῆσος",
     "next": "Iac(c)etani",
+    "proof_read": 3,
+    "short_description": "Stadt im Gebiet der hispan. Vasconen",
+    "no_creative_height": true,
+    "wp_link": "w:es:Iaca",
+    "wd_link": "d:Q11926303",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97616,9 +97631,13 @@
     "lemma": "Iactus 2",
     "previous": "Iac(c)etani",
     "next": "Jagsthausen",
+    "proof_read": 3,
+    "short_description": "Wurf in verschiedenen rechtlichen Termini technici",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97627,9 +97646,15 @@
     "lemma": "Jagsthausen",
     "previous": "Iactus 2",
     "next": "Jahreszeiten",
+    "proof_read": 3,
+    "short_description": "dt. Ort an der Stelle eines obergerm. Limeskastells",
+    "no_creative_height": true,
+    "wp_link": "w:de:Jagsthausen",
+    "wd_link": "d:Q167823",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97637,28 +97662,40 @@
   {
     "lemma": "Jahreszeiten",
     "previous": "Jagsthausen",
-    "next": "Iakchiastai",
+    "next": "Ἰακχιασταί",
+    "proof_read": 3,
+    "short_description": "die Beobachtung der Witterungsabwechslung",
+    "no_creative_height": true,
+    "wp_link": "w:de:Jahreszeit",
+    "ws_link": "s:de:Jahreszeiten",
+    "wd_link": "d:Q24384",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Iakchiastai",
+    "lemma": "Ἰακχιασταί",
     "previous": "Jahreszeiten",
     "next": "Iakobos 2a",
+    "sort_key": "Iakchiastai",
+    "proof_read": 3,
+    "short_description": "Iakchiastai, Kultverein (?) des Iakchos in Lagina",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Iakobos 2a",
-    "previous": "Iakchiastai",
+    "previous": "Ἰακχιασταί",
     "next": "Ialysos 1",
     "chapters": [
       {
@@ -97671,9 +97708,13 @@
     "lemma": "Ialysos 1",
     "previous": "Iakobos 2a",
     "next": "Iambres",
+    "proof_read": 3,
+    "short_description": "Gründer und Heros Eponymos von I. Nr. 3",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97682,9 +97723,13 @@
     "lemma": "Iambres",
     "previous": "Ialysos 1",
     "next": "Iamliku",
+    "proof_read": 3,
+    "short_description": "ägypt. Magier = Mambres",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97693,9 +97738,13 @@
     "lemma": "Iamliku",
     "previous": "Iambres",
     "next": "Ianassa",
+    "proof_read": 3,
+    "short_description": "Arab. Erzieher des syr. Königs Antiochos' VI. Epiphanes Dionysos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97704,9 +97753,15 @@
     "lemma": "Ianassa",
     "previous": "Iamliku",
     "next": "Ianio",
+    "proof_read": 3,
+    "short_description": "Tochter des Nereus vgl. Nereiden",
+    "no_creative_height": true,
+    "wp_link": "w:de:Ianassa",
+    "wd_link": "d:Q12900353",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97726,9 +97781,13 @@
     "lemma": "Ianuarius 2",
     "previous": "Ianio",
     "next": "Ianuarius 13",
+    "sort_key": "Ianuarius 02",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97748,9 +97807,15 @@
     "lemma": "Ianus",
     "previous": "Ianuarius 13",
     "next": "Ianus Augustus",
+    "proof_read": 3,
+    "short_description": "Röm. Gottheit",
+    "no_creative_height": true,
+    "wp_link": "w:de:Janus (Mythologie)",
+    "wd_link": "d:Q167685",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97759,9 +97824,13 @@
     "lemma": "Ianus Augustus",
     "previous": "Ianus",
     "next": "Iao",
+    "proof_read": 3,
+    "short_description": "Torbogen an der Nordostgrenze der Provinz Baetica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97770,9 +97839,15 @@
     "lemma": "Iao",
     "previous": "Ianus Augustus",
     "next": "Iapodes",
+    "proof_read": 3,
+    "short_description": "Semit. Gottesname",
+    "no_creative_height": true,
+    "wp_link": "w:de:JHWH",
+    "wd_link": "d:Q105173",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97781,9 +97856,15 @@
     "lemma": "Iapodes",
     "previous": "Iao",
     "next": "Iapygia",
+    "proof_read": 3,
+    "short_description": "Illyr. Volk",
+    "no_creative_height": true,
+    "wp_link": "w:de:Japoden",
+    "wd_link": "d:Q1266928",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97791,32 +97872,48 @@
   {
     "lemma": "Iapygia",
     "previous": "Iapodes",
-    "next": "Iarzeitha",
+    "next": "Ἰάρζειθα",
+    "proof_read": 3,
+    "short_description": "Gebiet der unterital. Iapyges, vgl. Calabria",
+    "no_creative_height": true,
+    "wp_link": "w:de:Japyger",
+    "wd_link": "d:Q841576",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Iarzeitha",
+    "lemma": "Ἰάρζειθα",
     "previous": "Iapygia",
     "next": "Ias(s)ii",
+    "sort_key": "Iarzeitha",
+    "proof_read": 3,
+    "short_description": "Iarzeitha, Stadt an der libyschen Westküste",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Ias(s)ii",
-    "previous": "Iarzeitha",
+    "previous": "Ἰάρζειθα",
     "next": "Iaso 4",
+    "sort_key": "Iasii",
+    "proof_read": 3,
+    "short_description": "pannon. Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97825,9 +97922,13 @@
     "lemma": "Iaso 4",
     "previous": "Ias(s)ii",
     "next": "Iason 1a",
+    "proof_read": 3,
+    "short_description": "Kelt. Männername vgl. Iasos Nr. 20",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97836,9 +97937,15 @@
     "lemma": "Iason 1a",
     "previous": "Iaso 4",
     "next": "Iason 2b",
+    "proof_read": 3,
+    "short_description": "jüdischer Hohepriester zur Zeit Antiochos' IV. Epiphanes, Sohn des Simon II.",
+    "no_creative_height": true,
+    "wp_link": "w:en:Jason (High Priest)",
+    "wd_link": "d:Q2462642",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97847,9 +97954,13 @@
     "lemma": "Iason 2b",
     "previous": "Iason 1a",
     "next": "Iason 12a",
+    "proof_read": 3,
+    "short_description": "Gesandter des Iudas Makkabaios nach Rom",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97857,7 +97968,7 @@
   {
     "lemma": "Iason 12a",
     "previous": "Iason 2b",
-    "next": "Iason 12b",
+    "next": "Iason 14",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -97869,8 +97980,6 @@
   },
   {
     "lemma": "Iason 12b",
-    "previous": "Iason 12a",
-    "next": "Iason 14",
     "chapters": [
       {
         "start": 130,
@@ -97880,11 +97989,15 @@
   },
   {
     "lemma": "Iason 14",
-    "previous": "Iason 12b",
+    "previous": "Iason 12a",
     "next": "Iasos 20",
+    "proof_read": 3,
+    "short_description": "I., Iaso, griech. Männername in lat. Inschriften",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97893,9 +98006,13 @@
     "lemma": "Iasos 20",
     "previous": "Iason 14",
     "next": "Iastai",
+    "proof_read": 3,
+    "short_description": "Kelt. Männername vgl. Iaso Nr. 4",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97904,9 +98021,13 @@
     "lemma": "Iastai",
     "previous": "Iasos 20",
     "next": "Iastos",
+    "proof_read": 3,
+    "short_description": "skyth. Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97915,9 +98036,13 @@
     "lemma": "Iastos",
     "previous": "Iastai",
     "next": "Iasulones",
+    "proof_read": 3,
+    "short_description": "skyth. Fluß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97926,9 +98051,13 @@
     "lemma": "Iasulones",
     "previous": "Iastos",
     "next": "Iatinon",
+    "proof_read": 3,
+    "short_description": "Straßenstation in Pannonia inf.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97937,9 +98066,13 @@
     "lemma": "Iatinon",
     "previous": "Iasulones",
     "next": "Iatrine",
+    "proof_read": 3,
+    "short_description": "Hauptstadt der gall. Meldi = Fixtinnum",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97948,9 +98081,13 @@
     "lemma": "Iatrine",
     "previous": "Iatinon",
     "next": "Iatrokles 2a",
+    "proof_read": 3,
+    "short_description": "Epiklese der Aphrodite",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97959,9 +98096,13 @@
     "lemma": "Iatrokles 2a",
     "previous": "Iatrine",
     "next": "Iavolenus 2",
+    "proof_read": 3,
+    "short_description": "späthellenist. Rhetor",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97970,9 +98111,12 @@
     "lemma": "Iavolenus 2",
     "previous": "Iatrokles 2a",
     "next": "Javols",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97981,9 +98125,13 @@
     "lemma": "Javols",
     "previous": "Iavolenus 2",
     "next": "Iaxamatae",
+    "proof_read": 3,
+    "short_description": "Frz. Ort = Anderitum",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -97992,9 +98140,15 @@
     "lemma": "Iaxamatae",
     "previous": "Javols",
     "next": "Iaxartae",
+    "proof_read": 3,
+    "short_description": "Volk in Sarmatia Asiatica",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Iaxamates",
+    "wd_link": "d:Q19715062",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -98003,9 +98157,13 @@
     "lemma": "Iaxartae",
     "previous": "Iaxamatae",
     "next": "Iaxartes",
+    "proof_read": 3,
+    "short_description": "ostskyth. Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -98014,9 +98172,15 @@
     "lemma": "Iaxartes",
     "previous": "Iaxartae",
     "next": "Iazyges",
+    "proof_read": 3,
+    "short_description": "Fluß im westl. Zentralasien",
+    "no_creative_height": true,
+    "wp_link": "w:de:Syrdarja",
+    "wd_link": "d:Q483159",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -98025,9 +98189,15 @@
     "lemma": "Iazyges",
     "previous": "Iaxartes",
     "next": "Iberia",
+    "proof_read": 3,
+    "short_description": "Sarmat. Volk",
+    "no_creative_height": true,
+    "wp_link": "w:de:Jazygen",
+    "wd_link": "d:Q837791",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -98036,9 +98206,15 @@
     "lemma": "Iberia",
     "previous": "Iazyges",
     "next": "Iberingai, Ibethingai",
+    "proof_read": 3,
+    "short_description": "kaukas. Landschaft",
+    "no_creative_height": true,
+    "wp_link": "w:de:Iberien (Kaukasien)",
+    "wd_link": "d:Q19083",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -98046,32 +98222,47 @@
   {
     "lemma": "Iberingai, Ibethingai",
     "previous": "Iberia",
-    "next": "Ibio...oi",
+    "next": "Ἰβιω...οι",
+    "proof_read": 3,
+    "short_description": "ostind. Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Ibio...oi",
+    "lemma": "Ἰβιω...οι",
     "previous": "Iberingai, Ibethingai",
     "next": "Ibis",
+    "sort_key": "Ibio...oi",
+    "proof_read": 3,
+    "short_description": "Ibio...oi, die ägypt. Polizeibeamten",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Ibis",
-    "previous": "Ibio...oi",
+    "previous": "Ἰβιω...οι",
     "next": "Ibisua",
+    "proof_read": 3,
+    "short_description": "Der Vogel",
+    "no_creative_height": true,
+    "wp_link": "w:de:Heiliger Ibis",
+    "wd_link": "d:Q208763",
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -98080,9 +98271,13 @@
     "lemma": "Ibisua",
     "previous": "Ibis",
     "next": "Iboita",
+    "proof_read": 3,
+    "short_description": "pannon. Ort zwischen Bersellana und Derva",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 130,
+        "end": 130,
         "author": "Hans Gärtner."
       }
     ]
@@ -98091,9 +98286,13 @@
     "lemma": "Iboita",
     "previous": "Ibisua",
     "next": "Icaedit(anus)",
+    "proof_read": 3,
+    "short_description": "kelt. (?) Gottheit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98102,9 +98301,12 @@
     "lemma": "Icaedit(anus)",
     "previous": "Iboita",
     "next": "Icauna",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98113,9 +98315,15 @@
     "lemma": "Icauna",
     "previous": "Icaedit(anus)",
     "next": "Iccius 3",
+    "proof_read": 3,
+    "short_description": "kelt. Flußgottheit",
+    "no_creative_height": true,
+    "wp_link": "w:de:Icauna",
+    "wd_link": "d:Q15819846",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98135,9 +98343,13 @@
     "lemma": "Ichnaia 1",
     "previous": "Iccius 3",
     "next": "Ichnaia 2",
+    "proof_read": 3,
+    "short_description": "Epiklese der Themis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98146,9 +98358,13 @@
     "lemma": "Ichnaia 2",
     "previous": "Ichnaia 1",
     "next": "Ichneumon",
+    "proof_read": 3,
+    "short_description": "Epitheton der Nemesis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98179,9 +98395,15 @@
     "lemma": "Ichthyas",
     "previous": "Ichthya",
     "next": "Ichthyophagoi",
+    "proof_read": 3,
+    "short_description": "Philosoph der megar. Schule",
+    "no_creative_height": true,
+    "wp_link": "w:en:Ichthyas",
+    "wd_link": "d:Q2006829",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98190,9 +98412,15 @@
     "lemma": "Ichthyophagoi",
     "previous": "Ichthyas",
     "next": "Icilius",
+    "proof_read": 3,
+    "short_description": "Küstenvölker in Afrika und Asien",
+    "no_creative_height": true,
+    "wp_link": "w:de:Ichthyophagen",
+    "wd_link": "d:Q1096303",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98201,9 +98429,13 @@
     "lemma": "Icilius",
     "previous": "Ichthyophagoi",
     "next": "Icositani",
+    "proof_read": 3,
+    "short_description": "Name eines pleb. Geschlechts",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98212,9 +98444,13 @@
     "lemma": "Icositani",
     "previous": "Icilius",
     "next": "Iculisma",
+    "proof_read": 3,
+    "short_description": "Icositoni, Volk in Hispania Tarraconensis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98223,9 +98459,15 @@
     "lemma": "Iculisma",
     "previous": "Icositani",
     "next": "Idaios 1–10",
+    "proof_read": 3,
+    "short_description": "oder Iculisna oder Ecubisna, aquitan. Stadt = Angoulême",
+    "no_creative_height": true,
+    "wp_link": "w:de:Angoulême",
+    "wd_link": "d:Q134346",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98248,9 +98490,14 @@
     "lemma": "Idaios 1a",
     "previous": "Idaios 1–10",
     "next": "Idaios 1b",
+    "sort_key": "Idaios 01a",
+    "proof_read": 3,
+    "short_description": "Idaios kolpos, ho = Adramyttenos kolpos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98358,9 +98605,13 @@
     "lemma": "Idanum",
     "previous": "Idaios 1j",
     "next": "Idassa 2",
+    "proof_read": 3,
+    "short_description": "südillyr. Kastell",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98369,9 +98620,13 @@
     "lemma": "Idassa 2",
     "previous": "Idanum",
     "next": "Idbansa",
+    "proof_read": 3,
+    "short_description": "Küstenstadt der illyr. Liburner = Iader (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98380,9 +98635,13 @@
     "lemma": "Idbansa",
     "previous": "Idassa 2",
     "next": "Idenheim",
+    "proof_read": 3,
+    "short_description": "Germ. Lokalgottheit vgl. Gabia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98391,9 +98650,15 @@
     "lemma": "Idenheim",
     "previous": "Idbansa",
     "next": "Idera",
+    "proof_read": 3,
+    "short_description": "dt. Ort nördl. von Trier",
+    "no_creative_height": true,
+    "wp_link": "w:de:Idenheim",
+    "wd_link": "d:Q553337",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98402,9 +98667,13 @@
     "lemma": "Idera",
     "previous": "Idenheim",
     "next": "Idia",
+    "proof_read": 3,
+    "short_description": "Iber. Stadt (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98413,9 +98682,13 @@
     "lemma": "Idia",
     "previous": "Idera",
     "next": "Idikara 1",
+    "proof_read": 3,
+    "short_description": "Gemeinde in Hispania Baetica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98424,9 +98697,13 @@
     "lemma": "Idikara 1",
     "previous": "Idia",
     "next": "Idus",
+    "proof_read": 3,
+    "short_description": "Stadt in Arabia deserta",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98446,9 +98723,13 @@
     "lemma": "Iemerii",
     "previous": "Idus",
     "next": "Iemsal",
+    "proof_read": 3,
+    "short_description": "Volk in den Westalpen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98457,9 +98738,13 @@
     "lemma": "Iemsal",
     "previous": "Iemerii",
     "next": "Ierabriga",
+    "proof_read": 3,
+    "short_description": "Name numid. Könige = Hiempsal",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98468,9 +98753,13 @@
     "lemma": "Ierabriga",
     "previous": "Iemsal",
     "next": "Jersey",
+    "proof_read": 3,
+    "short_description": "Lusitan. Straßenstation = Arabriga (?).",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98479,9 +98768,15 @@
     "lemma": "Jersey",
     "previous": "Ierabriga",
     "next": "Iesdan",
+    "proof_read": 3,
+    "short_description": "Insel vor der nordwestfrz. Küste = Caesarea Nr. 17",
+    "no_creative_height": true,
+    "wp_link": "w:de:Jersey",
+    "wd_link": "d:Q785",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98490,9 +98785,13 @@
     "lemma": "Iesdan",
     "previous": "Jersey",
     "next": "Jesi",
+    "proof_read": 3,
+    "short_description": "eine der fünf Gottheiten von Magifa",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98501,9 +98800,15 @@
     "lemma": "Jesi",
     "previous": "Iesdan",
     "next": "Iesso",
+    "proof_read": 3,
+    "short_description": "Mittelitalien. Stadt = Aesis Nr. 2",
+    "no_creative_height": true,
+    "wp_link": "w:de:Jesi",
+    "wd_link": "d:Q13144",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98512,9 +98817,15 @@
     "lemma": "Iesso",
     "previous": "Jesi",
     "next": "IEVRV",
+    "proof_read": 3,
+    "short_description": "Stadt der kelt. Iac(c)etani",
+    "no_creative_height": true,
+    "wp_link": "w:es:Iesso",
+    "wd_link": "d:Q5908877",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98523,9 +98834,13 @@
     "lemma": "IEVRV",
     "previous": "Iesso",
     "next": "Jeutz",
+    "proof_read": 3,
+    "short_description": "kelt. Weihewort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98547,9 +98862,13 @@
     "lemma": "Igabrum",
     "previous": "Jeutz",
     "next": "Igaeditani",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98558,9 +98877,15 @@
     "lemma": "Igaeditani",
     "previous": "Igabrum",
     "next": "Igel",
+    "proof_read": 3,
+    "short_description": "Iber.-lusitan. Volk",
+    "no_creative_height": true,
+    "wp_link": "w:de:Idanha-a-Velha",
+    "wd_link": "d:Q1026697",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98569,9 +98894,15 @@
     "lemma": "Igel",
     "previous": "Igaeditani",
     "next": "Ignatius 3",
+    "proof_read": 3,
+    "short_description": "dt. Ort bei Trier",
+    "no_creative_height": true,
+    "wp_link": "w:de:Igel (Mosel)",
+    "wd_link": "d:Q543497",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98580,9 +98911,14 @@
     "lemma": "Ignatius 3",
     "previous": "Igel",
     "next": "Igonta",
+    "proof_read": 3,
+    "short_description": "I. Magister, byzant. Gelehrter um 900 n. Chr.",
+    "no_creative_height": true,
+    "wd_link": "d:Q97642596",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98591,9 +98927,13 @@
     "lemma": "Igonta",
     "previous": "Ignatius 3",
     "next": "Ikaros 8",
+    "proof_read": 3,
+    "short_description": "kelt. Name der Salzach (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98613,9 +98953,15 @@
     "lemma": "Ikos",
     "previous": "Ikaros 8",
     "next": "Ilarcuris",
+    "proof_read": 3,
+    "short_description": "Insel der nördl. Sporaden",
+    "no_creative_height": true,
+    "wp_link": "w:de:Alonnisos",
+    "wd_link": "d:Q647941",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98624,9 +98970,13 @@
     "lemma": "Ilarcuris",
     "previous": "Ikos",
     "next": "Ilasarus",
+    "proof_read": 3,
+    "short_description": "Stadt der hispan. Carpetani",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98635,9 +98985,15 @@
     "lemma": "Ilasarus",
     "previous": "Ilarcuris",
     "next": "Ilattia",
+    "proof_read": 3,
+    "short_description": "Fürst der südarab. Rhammaniten im J. 24 v. Chr",
+    "no_creative_height": true,
+    "wp_link": "w:en:Ilasaros",
+    "wd_link": "d:Q16126069",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98646,9 +99002,13 @@
     "lemma": "Ilattia",
     "previous": "Ilasarus",
     "next": "Ilbeitenoi",
+    "proof_read": 3,
+    "short_description": "Kret. Stadt = Elatos Nr. 1 (?) vgl. Einatos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98657,9 +99017,13 @@
     "lemma": "Ilbeitenoi",
     "previous": "Ilattia",
     "next": "Ildum",
+    "proof_read": 3,
+    "short_description": "Gemeinde im oberen Tal des Granikos Nr. 3",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
@@ -98667,32 +99031,49 @@
   {
     "lemma": "Ildum",
     "previous": "Ilbeitenoi",
-    "next": "Ileïon pedion",
+    "next": "Ἰλήϊον πεδίον",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Tarraconensis",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Ildum",
+    "wd_link": "d:Q107533457",
     "chapters": [
       {
         "start": 131,
+        "end": 131,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Ileïon pedion",
+    "lemma": "Ἰλήϊον πεδίον",
     "previous": "Ildum",
     "next": "Ilercavonia",
+    "sort_key": "Ileion pedion",
+    "proof_read": 3,
+    "short_description": "ileion pedion, Ebene bei Troia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Ilercavonia",
-    "previous": "Ileïon pedion",
+    "previous": "Ἰλήϊον πεδίον",
     "next": "Ilerda",
+    "proof_read": 3,
+    "short_description": "Beiname der hispan. Stadt Dertosa",
+    "no_creative_height": true,
+    "wp_link": "w:de:Tortosa",
+    "wd_link": "d:Q12812",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98701,9 +99082,15 @@
     "lemma": "Ilerda",
     "previous": "Ilercavonia",
     "next": "Iliberri",
+    "proof_read": 3,
+    "short_description": "Hauptstadt der iber. Surdaoner",
+    "no_creative_height": true,
+    "wp_link": "w:de:Lleida",
+    "wd_link": "d:Q15090",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98712,9 +99099,13 @@
     "lemma": "Iliberri",
     "previous": "Ilerda",
     "next": "Iliberri 1",
+    "proof_read": 3,
+    "short_description": "allg. Vorb.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98723,9 +99114,15 @@
     "lemma": "Iliberri 1",
     "previous": "Iliberri",
     "next": "Iliberri 2",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica = Iliberris",
+    "no_creative_height": true,
+    "wp_link": "w:de:Granada",
+    "wd_link": "d:Q8810",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98734,9 +99131,13 @@
     "lemma": "Iliberri 2",
     "previous": "Iliberri 1",
     "next": "Iliberri 3",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania cit. = Iluberris",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98745,9 +99146,13 @@
     "lemma": "Iliberri 3",
     "previous": "Iliberri 2",
     "next": "Iliberri 4",
+    "proof_read": 3,
+    "short_description": "gall. Stadt nordöstl. der Pyrenäen = Illiberris Nr. 2",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98756,9 +99161,15 @@
     "lemma": "Iliberri 4",
     "previous": "Iliberri 3",
     "next": "Iliberris",
+    "proof_read": 3,
+    "short_description": "Hauptstadt der aquitan. Ausci = Elimberrum",
+    "no_creative_height": true,
+    "wp_link": "w:de:Auch",
+    "wd_link": "d:Q181725",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98767,9 +99178,15 @@
     "lemma": "Iliberris",
     "previous": "Iliberri 4",
     "next": "Ilici",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica = Iliberri Nr. 1",
+    "no_creative_height": true,
+    "wp_link": "w:es:Ilíberis",
+    "wd_link": "d:Q4502340",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98778,9 +99195,15 @@
     "lemma": "Ilici",
     "previous": "Iliberris",
     "next": "Ilienses 2",
+    "proof_read": 3,
+    "short_description": "Stadt der iber. Contestani",
+    "no_creative_height": true,
+    "wp_link": "w:de:Elche",
+    "wd_link": "d:Q10509",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98789,9 +99212,13 @@
     "lemma": "Ilienses 2",
     "previous": "Ilici",
     "next": "Iligga",
+    "proof_read": 3,
+    "short_description": "I. (?), hispan. Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98813,9 +99240,13 @@
     "lemma": "Ilioneus 3",
     "previous": "Iligga",
     "next": "Ilipa",
+    "proof_read": 3,
+    "short_description": "Sohn des pers. Satrapen Artabazos III.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98823,32 +99254,45 @@
   {
     "lemma": "Ilipa",
     "previous": "Ilioneus 3",
-    "next": "Ilipula 1-4",
+    "next": "Ilipula 1–4",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica",
+    "no_creative_height": true,
+    "wp_link": "w:de:Alcalá del Río",
+    "wd_link": "d:Q1386351",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Ilipula 1-4",
+    "lemma": "Ilipula 1–4",
     "previous": "Ilipa",
     "next": "Ilipula 1",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Ilipula 1",
-    "previous": "Ilipula 1-4",
+    "previous": "Ilipula 1–4",
     "next": "Ilipula 2",
+    "proof_read": 3,
+    "short_description": "Magna, Stadt in Hispania Baetica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98857,9 +99301,13 @@
     "lemma": "Ilipula 2",
     "previous": "Ilipula 1",
     "next": "Ilipula 3",
+    "proof_read": 3,
+    "short_description": "minor, Ort in Hispania Baetica Repla",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98901,9 +99349,15 @@
     "lemma": "Iliturgi",
     "previous": "Ilipula 5",
     "next": "Iliturgicola",
+    "proof_read": 3,
+    "short_description": "Stadt im südl. Hispanien = Iliturgis",
+    "no_creative_height": true,
+    "wp_link": "w:en:Illiturgis",
+    "wd_link": "d:Q3068185",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98912,9 +99366,13 @@
     "lemma": "Iliturgicola",
     "previous": "Iliturgi",
     "next": "Illiberris 2",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -98925,7 +99383,7 @@
     "next": "Illici",
     "redirect": "Iliberri 3",
     "proof_read": 3,
-    "short_description": "Gall. Stadt nordöstl. der Pyrenäen. = Iliberri (S III 1215 Nr. 3 ).",
+    "short_description": "Gall. Stadt nordöstl. der Pyrenäen = Iliberri Nr. 3",
     "chapters": [
       {
         "start": 132,
@@ -99002,9 +99460,15 @@
     "lemma": "Illos",
     "previous": "Illiturgi",
     "next": "Illurco",
+    "proof_read": 3,
+    "short_description": "einflußreicher Berater des Kaisers Zenon Nr. 17, Konsul 478 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Illus",
+    "wd_link": "d:Q1282438",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99026,9 +99490,13 @@
     "lemma": "Illustris 2",
     "previous": "Illurco",
     "next": "Illyrioi",
+    "proof_read": 3,
+    "short_description": "afrikan. Bischof (in der Byzacena?), Exilsgefährte des Bischofs Fulgentius",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99037,9 +99505,15 @@
     "lemma": "Illyrioi",
     "previous": "Illustris 2",
     "next": "Ilorci",
+    "proof_read": 3,
+    "short_description": "Zweig der indogermanischen Völker auf der südosteuropäischen Halbinsel",
+    "no_creative_height": true,
+    "wp_link": "w:de:Illyrer",
+    "wd_link": "d:Q146715",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99048,9 +99522,13 @@
     "lemma": "Ilorci",
     "previous": "Illyrioi",
     "next": "Ilpa",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica, vgl. Ilucro(nensis?) Mons",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99072,9 +99550,13 @@
     "lemma": "Ilva 2",
     "previous": "Ilpa",
     "next": "Iluberitani",
+    "proof_read": 3,
+    "short_description": "Insel vor der sardin. Nordostküste",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99096,9 +99578,15 @@
     "lemma": "Iluberris",
     "previous": "Iluberitani",
     "next": "Ilucia",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania cit. = Iliberri Nr. 2",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Iluberri",
+    "wd_link": "d:Q15987253",
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99107,9 +99595,13 @@
     "lemma": "Ilucia",
     "previous": "Iluberris",
     "next": "Ilucro(nensis?)",
+    "proof_read": 3,
+    "short_description": "Stadt der iber. Oretani = Ilugo (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99118,9 +99610,13 @@
     "lemma": "Ilucro(nensis?)",
     "previous": "Ilucia",
     "next": "Ilugo",
+    "proof_read": 3,
+    "short_description": "Mons Gebirge im südöstl. Hispanien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99129,9 +99625,13 @@
     "lemma": "Ilugo",
     "previous": "Ilucro(nensis?)",
     "next": "Ilumber",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Tarraconensis = Ilucia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99140,9 +99640,13 @@
     "lemma": "Ilumber",
     "previous": "Ilugo",
     "next": "Ilunnis",
+    "proof_read": 3,
+    "short_description": "Ilumber(ris), iber. Gottheit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99151,9 +99655,13 @@
     "lemma": "Ilunnis",
     "previous": "Ilumber",
     "next": "Ilunum 1",
+    "proof_read": 3,
+    "short_description": "Ilunis, Ilunnus, pyren. Gottheit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99186,9 +99694,13 @@
     "lemma": "Ilurbida",
     "previous": "Ilunum 2",
     "next": "Ilurci",
+    "proof_read": 3,
+    "short_description": "Stadt der iber. Carpetani",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99208,9 +99720,13 @@
     "lemma": "Ilurco",
     "previous": "Ilurci",
     "next": "Iluro",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
@@ -99230,9 +99746,15 @@
     "lemma": "Iluro 1",
     "previous": "Iluro",
     "next": "Iluro 2",
+    "proof_read": 3,
+    "short_description": "Stadt in Aquitanien",
+    "no_creative_height": true,
+    "wp_link": "w:de:Oloron-Sainte-Marie",
+    "wd_link": "d:Q208407",
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99241,9 +99763,15 @@
     "lemma": "Iluro 2",
     "previous": "Iluro 1",
     "next": "Iluro 3",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica",
+    "no_creative_height": true,
+    "wp_link": "w:de:Álora",
+    "wd_link": "d:Q250746",
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99252,9 +99780,15 @@
     "lemma": "Iluro 3",
     "previous": "Iluro 2",
     "next": "Iluro 4",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Tarraconensis",
+    "no_creative_height": true,
+    "wp_link": "w:de:Mataró",
+    "wd_link": "d:Q11492",
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99263,9 +99797,13 @@
     "lemma": "Iluro 4",
     "previous": "Iluro 3",
     "next": "Ilursenses",
+    "proof_read": 3,
+    "short_description": "Iber. Gottheit vgl. Ilumber",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99273,7 +99811,7 @@
   {
     "lemma": "Ilursenses",
     "previous": "Iluro 4",
-    "next": "Im(...)",
+    "next": "Ἰμ(...)",
     "chapters": [
       {
         "start": 133,
@@ -99282,23 +99820,32 @@
     ]
   },
   {
-    "lemma": "Im(...)",
+    "lemma": "Ἰμ(...)",
     "previous": "Ilursenses",
     "next": "Imadochi",
+    "sort_key": "Im",
+    "proof_read": 3,
+    "short_description": "Münzstempelschneider in Syrakus zu Ende des 5. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Imadochi",
-    "previous": "Im(...)",
+    "previous": "Ἰμ(...)",
     "next": "Imaginifer",
+    "proof_read": 3,
+    "short_description": "Imaduchi, Volk am Kaukasos = Modokai = Amadokoi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99320,9 +99867,15 @@
     "lemma": "Imaon",
     "previous": "Imaginifer",
     "next": "Imaos",
+    "proof_read": 3,
+    "short_description": "ostasiat. Gebirge = Imaos, vgl. Emodon, India",
+    "no_creative_height": true,
+    "wp_link": "w:de:Himalaya",
+    "wd_link": "d:Q5451",
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99331,9 +99884,13 @@
     "lemma": "Imaos",
     "previous": "Imaon",
     "next": "Imbrasios",
+    "proof_read": 3,
+    "short_description": "ostasiat. Gebirge = Imaon vgl. Emodon, India",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99353,9 +99910,13 @@
     "lemma": "Imbros 3",
     "previous": "Imbrasios",
     "next": "Imbrosgebirge",
+    "proof_read": 3,
+    "short_description": "Kastell in der rhod. Peraia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99364,9 +99925,13 @@
     "lemma": "Imbrosgebirge",
     "previous": "Imbros 3",
     "next": "Imera",
+    "proof_read": 3,
+    "short_description": "Gebirgszug im kleinasiatischen Karien, nahe dem See von Kaunos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99375,9 +99940,13 @@
     "lemma": "Imera",
     "previous": "Imbrosgebirge",
     "next": "Imityi",
+    "proof_read": 3,
+    "short_description": "Stadt auf Lesbos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99386,9 +99955,13 @@
     "lemma": "Imityi",
     "previous": "Imera",
     "next": "Immo",
+    "proof_read": 3,
+    "short_description": "Volk am Kaukasos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99441,9 +100014,13 @@
     "lemma": "Ina 2",
     "previous": "Impflingen",
     "next": "Inapaei",
+    "proof_read": 3,
+    "short_description": "kret. Stadt = Biennos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99476,9 +100053,13 @@
     "lemma": "Inatos",
     "previous": "Inapha",
     "next": "Incerum",
+    "proof_read": 3,
+    "short_description": "Stadt auf der Insel Kreta = Binatos und Einatos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99498,9 +100079,13 @@
     "lemma": "Indesina",
     "previous": "Incerum",
     "next": "Indus 1",
+    "proof_read": 3,
+    "short_description": "richtig für Andesina, Station an der Straße Colonia Agrippina-Durocortorum",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99509,9 +100094,15 @@
     "lemma": "Indus 1",
     "previous": "Indesina",
     "next": "Indus 2",
+    "proof_read": 3,
+    "short_description": "Iulius I., Treverer, Offizier unter Tiberius 21 n. Chr. = Iulius Nr. 280",
+    "no_creative_height": true,
+    "wp_link": "w:de:Iulius Indus",
+    "wd_link": "d:Q1433355",
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99520,9 +100111,13 @@
     "lemma": "Indus 2",
     "previous": "Indus 1",
     "next": "Indus 3",
+    "proof_read": 3,
+    "short_description": "Mediomatriker, der Handel mit und in Trier trieb 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99531,9 +100126,13 @@
     "lemma": "Indus 3",
     "previous": "Indus 2",
     "next": "Infibulatio",
+    "proof_read": 3,
+    "short_description": "Sigillatatöpfer, auf zwei in England gefundenen Sigillatatellern",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99542,9 +100141,15 @@
     "lemma": "Infibulatio",
     "previous": "Indus 3",
     "next": "Inflation",
+    "proof_read": 3,
+    "short_description": "Durchbohrung des Praeputium mittelst einer fibula",
+    "no_creative_height": true,
+    "wp_link": "w:de:Infibulation",
+    "wd_link": "d:Q1662388",
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99553,9 +100158,16 @@
     "lemma": "Inflation",
     "previous": "Infibulatio",
     "next": "Ingelheim",
+    "proof_read": 3,
+    "short_description": "Vermehrung der im Verkehr stehenden Geldmenge, Preissteigerung",
+    "no_creative_height": true,
+    "wp_link": "w:de:Inflation",
+    "ws_link": "s:de:Inflation",
+    "wd_link": "d:Q35865",
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99641,9 +100253,13 @@
     "lemma": "Inmatrae",
     "previous": "Inianuvetitius",
     "next": "Inkrustation",
+    "proof_read": 3,
+    "short_description": "Anlegestelle zwischen Cassis und Massilia = Immadrae",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99707,9 +100323,13 @@
     "lemma": "Insulae Liburnicae",
     "previous": "Insteius 8a",
     "next": "Insulae odoriferae",
+    "proof_read": 3,
+    "short_description": "Inseln vor der Küste Norddalmatiens, vgl. Liburnia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99729,9 +100349,15 @@
     "lemma": "Intarabus",
     "previous": "Insulae odoriferae",
     "next": "Intaranum",
+    "proof_read": 3,
+    "short_description": "trever. Gottheit = Entarabus",
+    "no_creative_height": true,
+    "wp_link": "w:de:Intarabus",
+    "wd_link": "d:Q1580179",
     "chapters": [
       {
         "start": 133,
+        "end": 133,
         "author": "Hans Gärtner."
       }
     ]
@@ -99773,9 +100399,13 @@
     "lemma": "Interphrurini",
     "previous": "intercisi dies",
     "next": "Intibili",
+    "proof_read": 3,
+    "short_description": "illyr. Volk = Endirudini (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -99784,9 +100414,15 @@
     "lemma": "Intibili",
     "previous": "Interphrurini",
     "next": "Intibili 1",
+    "proof_read": 3,
+    "short_description": "iberischer, flexionsloser Ortsname",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Intibili",
+    "wd_link": "d:Q11926803",
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -99883,9 +100519,13 @@
     "lemma": "Ioannes 16c",
     "previous": "Ioannes 16b",
     "next": "Ioannes 18",
+    "proof_read": 3,
+    "short_description": "Gesandter des Judas Makkabaios an syr. Reichsverweser Lysias 164 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -99894,9 +100534,15 @@
     "lemma": "Ioannes 18",
     "previous": "Ioannes 16c",
     "next": "Ioannes 48",
+    "proof_read": 3,
+    "short_description": "I. Stobaios, griech. Kompilator (im 5. Jh. n. Chr.?)",
+    "no_creative_height": true,
+    "wp_link": "w:de:Johann Stobäus",
+    "wd_link": "d:Q316164",
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -99905,9 +100551,16 @@
     "lemma": "Ioannes 48",
     "previous": "Ioannes 18",
     "next": "Ad Ioglandem",
+    "proof_read": 3,
+    "short_description": "Joh. Maxentius, theolog. Schriftsteller um 520 n. Chr s. Maxentius Nr. 7",
+    "no_creative_height": true,
+    "wp_link": "w:en:Joannes Maxentius",
+    "ws_link": "s:la:Scriptor:Ioannes Maxentius",
+    "wd_link": "d:Q3279558",
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -99916,9 +100569,14 @@
     "lemma": "Ad Ioglandem",
     "previous": "Ioannes 48",
     "next": "Johannisbrot",
+    "sort_key": "Ioglandum",
+    "proof_read": 3,
+    "short_description": "Straßenstation zwischen Florentia und Clusium",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -99949,9 +100607,13 @@
     "lemma": "Iolaos 6",
     "previous": "Iolaos 5a",
     "next": "Iolkos",
+    "proof_read": 3,
+    "short_description": "Dichter der Neuen Komödie im 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -99971,9 +100633,16 @@
     "lemma": "Jonathan 1",
     "previous": "Iolkos",
     "next": "Jonathan 2",
+    "sort_key": "Ionathan 1",
+    "proof_read": 3,
+    "short_description": "J. Apphus, jüd. Hohepriester in den J. 152-143 v. Chr., Sohn des Mattathias",
+    "no_creative_height": true,
+    "wp_link": "w:de:Jonatan (Hasmonäer)",
+    "wd_link": "d:Q75043",
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -99993,9 +100662,14 @@
     "lemma": "Jonathan 3",
     "previous": "Jonathan 2",
     "next": "Ionidai",
+    "sort_key": "Ionathan 3",
+    "proof_read": 3,
+    "short_description": "Freund und Offizier des Hohepriesters Simon 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -100026,9 +100700,13 @@
     "lemma": "Ionnaria",
     "previous": "Ionische Aufstandsmünze",
     "next": "Jonquières",
+    "proof_read": 3,
+    "short_description": "illyr. Ort an der Straße Salona-Servitium",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -100081,9 +100759,14 @@
     "lemma": "Joseph 1",
     "previous": "Iordanis",
     "next": "Joseph 2",
+    "sort_key": "Ioseph 1",
+    "proof_read": 3,
+    "short_description": "Sohn des jüd. Priesters Mattathias, Bruder des Judas Makkabaios",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -100125,9 +100808,13 @@
     "lemma": "Iovantucarus",
     "previous": "Iosista",
     "next": "Iovetanum",
+    "proof_read": 3,
+    "short_description": "kelt. Beiname des Mercurius",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -100180,9 +100867,15 @@
     "lemma": "Ioviacum",
     "previous": "Iovia, Iobia",
     "next": "Iovii, Victores",
+    "proof_read": 3,
+    "short_description": "norische Straßenstation zwischen Lauriacum und Boiodurum",
+    "no_creative_height": true,
+    "wp_link": "w:de:Ioviacum",
+    "wd_link": "d:Q113988261",
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -100235,9 +100928,15 @@
     "lemma": "Iphigeneia",
     "previous": "Joyeuse",
     "next": "Iphthimis",
+    "proof_read": 3,
+    "short_description": "Griech. Geburts- und Fruchtbarkeitsgottheit und Sagengestalt",
+    "no_creative_height": true,
+    "wp_link": "w:de:Iphigenie",
+    "wd_link": "d:Q192673",
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -100257,9 +100956,16 @@
     "lemma": "Ipneis",
     "previous": "Iphthimis",
     "next": "Ipposretum",
+    "sort_key": "Ipneis",
+    "proof_read": 3,
+    "short_description": "Bewohner einer westlokrischen Stadt, s. Hypnia",
+    "no_creative_height": true,
+    "wp_link": "w:en:Hypnia",
+    "wd_link": "d:Q60791049",
     "chapters": [
       {
         "start": 134,
+        "end": 134,
         "author": "Hans Gärtner."
       }
     ]
@@ -100292,9 +100998,13 @@
     "lemma": "Ira 4",
     "previous": "Ipsch",
     "next": "Iranische Kosmogonien",
+    "proof_read": 3,
+    "short_description": "pannon. Fluß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100303,12 +101013,13 @@
     "lemma": "Iranische Kosmogonien",
     "previous": "Ira 4",
     "next": "Iranos",
-    "redirect": "Weltschöpfung",
     "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
-        "end": 135
+        "end": 135,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -100329,9 +101040,13 @@
     "lemma": "Irasa",
     "previous": "Iranos",
     "next": "Iresiae",
+    "proof_read": 3,
+    "short_description": "Libysche Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100351,9 +101066,13 @@
     "lemma": "Irvaccus",
     "previous": "Iresiae",
     "next": "Isamnus",
+    "proof_read": 3,
+    "short_description": "vicus, Flurbezeichnung in Veleia Nr. 2",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100362,9 +101081,13 @@
     "lemma": "Isamnus",
     "previous": "Irvaccus",
     "next": "Isarchos",
+    "proof_read": 3,
+    "short_description": "Fluß bei Dyrrhachion, illyrisch Krahe",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100395,9 +101118,13 @@
     "lemma": "Isbeli",
     "previous": "Isarcus",
     "next": "Isca 1",
+    "proof_read": 3,
+    "short_description": "Volk der afrikan. Garamanten",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100417,9 +101144,13 @@
     "lemma": "Ischandros",
     "previous": "Isca 1",
     "next": "Ise 1",
+    "proof_read": 3,
+    "short_description": "Arkader, Begleiter des Aischines in Athen im J. 348 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100450,9 +101181,15 @@
     "lemma": "Isère",
     "previous": "Ise 2",
     "next": "Isidora",
+    "proof_read": 3,
+    "short_description": "Frz. Fluß = Isar",
+    "no_creative_height": true,
+    "wp_link": "w:de:Isère",
+    "wd_link": "d:Q201341",
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100474,9 +101211,13 @@
     "lemma": "Isidoros 3a",
     "previous": "Isidora",
     "next": "Isidoros 6a",
+    "proof_read": 3,
+    "short_description": "oberster Hofbeamter unter Ptolemaios XI. Alexandros II., Sohn des Helenos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100540,9 +101281,13 @@
     "lemma": "Ismeni",
     "previous": "Isis 2",
     "next": "Ismenodoros 2",
+    "proof_read": 3,
+    "short_description": "Volksstamm in Illyrien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100551,9 +101296,13 @@
     "lemma": "Ismenodoros 2",
     "previous": "Ismeni",
     "next": "Isokrates 3",
+    "proof_read": 3,
+    "short_description": "theban. Schauspieler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100562,9 +101311,13 @@
     "lemma": "Isokrates 3",
     "previous": "Ismenodoros 2",
     "next": "Isola Farnese",
+    "proof_read": 3,
+    "short_description": "Siegreicher Schauspieler bei den Lenaia um 270 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100630,9 +101383,15 @@
     "lemma": "Isthmos 1",
     "previous": "Issa 4",
     "next": "Istor",
+    "proof_read": 3,
+    "short_description": "die Landenge von Korinth",
+    "no_creative_height": true,
+    "wp_link": "w:de:Isthmus von Korinth",
+    "wd_link": "d:Q215200",
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100652,9 +101411,13 @@
     "lemma": "Istriopolis, Istropolis",
     "previous": "Istor",
     "next": "Istris",
+    "proof_read": 3,
+    "short_description": "Stadt in Moesia inf. = Istros",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100663,9 +101426,15 @@
     "lemma": "Istris",
     "previous": "Istriopolis, Istropolis",
     "next": "Istron",
+    "proof_read": 3,
+    "short_description": "Insel vor der Küste Norddalmatiens",
+    "no_creative_height": true,
+    "wp_link": "w:de:Cres",
+    "wd_link": "d:Q13280",
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100685,9 +101454,13 @@
     "lemma": "Istros 1a",
     "previous": "Istron",
     "next": "Isurgut(ana?)",
+    "proof_read": 3,
+    "short_description": "dalmat. Insel (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100707,9 +101480,13 @@
     "lemma": "Isylos",
     "previous": "Isurgut(ana?)",
     "next": "Italia",
+    "proof_read": 3,
+    "short_description": "Didaskalos bei den Soteria zu Delphi im J. 272 v. Chr., Sohn des Chrysolaos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100718,9 +101495,12 @@
     "lemma": "Italia",
     "previous": "Isylos",
     "next": "Italiotikos nomos",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100740,9 +101520,13 @@
     "lemma": "Itanes",
     "previous": "Italiotikos nomos",
     "next": "Itone",
+    "proof_read": 3,
+    "short_description": "Vornehmer Baktrer am Hof Alexanders d. Gr., Sohn des Oxyartes",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100773,9 +101557,15 @@
     "lemma": "Ivanum",
     "previous": "Ivanelius",
     "next": "Ivaro, Ivarus",
+    "proof_read": 3,
+    "short_description": "mittelital. Stadt",
+    "no_creative_height": true,
+    "wp_link": "w:de:Ljubljana",
+    "wd_link": "d:Q437",
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100784,9 +101574,15 @@
     "lemma": "Ivaro, Ivarus",
     "previous": "Ivanum",
     "next": "Ivau 1",
+    "proof_read": 3,
+    "short_description": "(Vor-)kelt. Name der Salzach. vgl. Isonta",
+    "no_creative_height": true,
+    "wp_link": "w:de:Salzach",
+    "wd_link": "d:Q152661",
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100795,9 +101591,13 @@
     "lemma": "Ivau 1",
     "previous": "Ivaro, Ivarus",
     "next": "Ivau 2",
+    "proof_read": 3,
+    "short_description": "Lokalgottheit von Ivaunum = Ivaus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100806,9 +101606,13 @@
     "lemma": "Ivau 2",
     "previous": "Ivau 1",
     "next": "Iuaum",
+    "proof_read": 3,
+    "short_description": "I. (Nom.), Töpfer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -100830,9 +101634,13 @@
     "lemma": "Ivaunum",
     "previous": "Iuaum",
     "next": "Iuavum",
+    "proof_read": 3,
+    "short_description": "Ivaunum, Evaunum, Aquitan. Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 136,
+        "end": 136,
         "author": "Hans Gärtner."
       }
     ]
@@ -100841,9 +101649,12 @@
     "lemma": "Iuavum",
     "previous": "Ivaunum",
     "next": "Iuba 1",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 136,
+        "end": 136,
         "author": "Hans Gärtner."
       }
     ]
@@ -100852,9 +101663,15 @@
     "lemma": "Iuba 1",
     "previous": "Iuavum",
     "next": "Iuba 4",
+    "proof_read": 3,
+    "short_description": "I., König v. Numidien u. Gaetulien, geb. um 85 v. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Juba I.",
+    "wd_link": "d:Q379277",
     "chapters": [
       {
         "start": 136,
+        "end": 136,
         "author": "Hans Gärtner."
       }
     ]
@@ -100874,9 +101691,16 @@
     "lemma": "Jublains",
     "previous": "Iuba 4",
     "next": "Iucundus 3a",
+    "sort_key": "Iublains",
+    "proof_read": 3,
+    "short_description": "westfrz. Ort = Noviodunum Nr. 4",
+    "no_creative_height": true,
+    "wp_link": "w:de:Jublains",
+    "wd_link": "d:Q1060319",
     "chapters": [
       {
         "start": 136,
+        "end": 136,
         "author": "Hans Gärtner."
       }
     ]
@@ -100944,9 +101768,14 @@
     "lemma": "Judas 1",
     "previous": "Judas a",
     "next": "Judenburg",
+    "sort_key": "Iudas 1",
+    "proof_read": 3,
+    "short_description": "Offizier des jüd. Hohepriesters Jonathan Nr. 1",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 136,
+        "end": 136,
         "author": "Hans Gärtner."
       }
     ]
@@ -100955,9 +101784,15 @@
     "lemma": "Judenburg",
     "previous": "Judas 1",
     "next": "Iudex",
+    "proof_read": 3,
+    "short_description": "österr. Ort im Murtal",
+    "no_creative_height": true,
+    "wp_link": "w:de:Judenburg",
+    "wd_link": "d:Q263107",
     "chapters": [
       {
         "start": 136,
+        "end": 136,
         "author": "Hans Gärtner."
       }
     ]
@@ -100966,9 +101801,13 @@
     "lemma": "Iudex",
     "previous": "Judenburg",
     "next": "iudicium domesticum",
+    "proof_read": 3,
+    "short_description": "in der röm. Prozeßordnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 136,
+        "end": 136,
         "author": "Hans Gärtner."
       }
     ]
