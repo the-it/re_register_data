@@ -1615,7 +1615,7 @@
     "previous": "Kleonymos 5",
     "next": "Klippschliefer",
     "proof_read": 2,
-    "short_description": "Baumeister(?) in Delos",
+    "short_description": "Baumeister (?) in Delos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1745,7 +1745,7 @@
     "next": "Lamprias 5",
     "sort_key": "Kyprides",
     "proof_read": 2,
-    "short_description": "Geschlechtername in Kolophon (XI 1118 Nr. 3)",
+    "short_description": "Geschlechtername in Kolophon Nr. 3",
     "no_creative_height": true,
     "chapters": [
       {
@@ -4446,7 +4446,6 @@
   {
     "lemma": "Quinctilius 32",
     "previous": "Lamponianos",
-    "next": "Lampridius 3a",
     "short_description": "Quintilius Laetus, praef. urbi 395 n. Chr. = Quintilius Laetus Nr. 1a",
     "chapters": [
       {
@@ -4456,19 +4455,21 @@
   },
   {
     "lemma": "Lampridius 3a",
-    "previous": "Quinctilius 32",
-    "next": "Lampridius 5",
-    "short_description": "c. m. v. um 400 n. Chr.",
+    "previous": "Lampridius 3a",
+    "next": "Lanthacarius",
+    "proof_read": 2,
+    "short_description": "cl(arissimae) m(emoriae) vir, dessen Sohn Vipsanianius 428 starb",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 924,
-        "author": "Enßlin"
+        "end": 924,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
   {
     "lemma": "Lampridius 5",
-    "previous": "Lampridius 3a",
     "next": "Lanthacarius",
     "proof_read": 2,
     "short_description": "s. [3a]",
@@ -4658,7 +4659,7 @@
     "previous": "Laurentius 10",
     "next": "Laurentius 12",
     "proof_read": 2,
-    "short_description": "L. aus Ravenna, c.v. z. Zeit Theoderichs d.Gr.",
+    "short_description": "L. aus Ravenna, c.v. zur Zeit Theoderichs d. Gr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -4697,7 +4698,7 @@
     "previous": "Laurentius 13",
     "next": "Laurentius 15",
     "proof_read": 2,
-    "short_description": "V. s. im 6. Jh. n. Chr.",
+    "short_description": "v(ir) s(pectabilis), Zeuge einer Ravennater Schenkungsurkunde 6. Jh. n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5331,7 +5332,7 @@
     "previous": "Leonas",
     "next": "Leonianus 2",
     "proof_read": 2,
-    "short_description": "Röm. Offizier in Illyrien 552/3 n. Chr.",
+    "short_description": "röm. Offizier in Illyrien 552/3 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5344,7 +5345,6 @@
   {
     "lemma": "Leonianus 2",
     "previous": "Leonianus 1",
-    "next": "Leonides 4a",
     "proof_read": 2,
     "short_description": "Presbyter in Serdica",
     "no_creative_height": true,
@@ -5358,19 +5358,19 @@
   },
   {
     "lemma": "Leonides 4a",
-    "previous": "Leonianus 2",
-    "next": "Leonides 6",
-    "short_description": "Advokat im 6. Jh. n. Chr., Digesten-Redaktor",
+    "previous": "Leonides 7",
+    "next": "Leonides 20-21",
+    "redirect": true,
+    "proof_read": 2,
     "chapters": [
       {
         "start": 934,
-        "author": "Enßlin"
+        "end": 934
       }
     ]
   },
   {
     "lemma": "Leonides 6",
-    "previous": "Leonides 4a",
     "next": "Leonides 7",
     "short_description": "Angebl. Mitverfasser der Andreasakten",
     "chapters": [
@@ -5448,7 +5448,7 @@
     "previous": "Leonteus 3a",
     "next": "Leontia 2",
     "proof_read": 2,
-    "short_description": "Tochter des Valentinianus (VII A 2260 Nr. 14), Gattin des Simplicius",
+    "short_description": "Tochter des Valentinianus Nr. 14, Gattin des Simplicius",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5476,7 +5476,7 @@
     "previous": "Leontia 2",
     "next": "Leontia 4",
     "proof_read": 2,
-    "short_description": "Märtyrerin unter Hunericus (VIII 2582), Tochter des Bischofs Germanus",
+    "short_description": "Märtyrerin unter Hunericus, Tochter des Bischofs Germanus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5503,7 +5503,7 @@
     "previous": "Leontia 4",
     "next": "Leontis 2",
     "proof_read": 2,
-    "short_description": "Stadtpräfekt(?) unter Kaiser Leo I. (XII 1947 Nr. 3)",
+    "short_description": "Stadtpräfekt (?) unter Kaiser Leo I. Nr. 3",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5533,7 +5533,7 @@
     "previous": "Leontis 2",
     "next": "Leontius 5",
     "proof_read": 2,
-    "short_description": "Corrector Apuliae(?)",
+    "short_description": "Corrector Apuliae (?)",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5662,7 +5662,7 @@
     "previous": "Leontius 13",
     "next": "Leontius 15",
     "proof_read": 3,
-    "short_description": "Phöniker aus Paneas, 4. Jhdt. n. Chr.",
+    "short_description": "Phöniker aus Paneas, 4. Jh. n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5732,7 +5732,7 @@
     "previous": "Leontius 18",
     "next": "Leontius 20",
     "proof_read": 2,
-    "short_description": "Gemeinsam mit Crescens tauroboliatus in Rom (im 4. Jh. n. Chr.?)",
+    "short_description": "Gemeinsam mit Crescens tauroboliatus in Rom 4. Jh. n. Chr.?",
     "no_creative_height": true,
     "chapters": [
       {
@@ -6470,7 +6470,7 @@
     "previous": "Liberius 4",
     "next": "Limpidius oder Lympidius",
     "proof_read": 2,
-    "short_description": "v.c.. um 400 n. Chr.",
+    "short_description": "v(ir) c(larissimus) um 400 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {

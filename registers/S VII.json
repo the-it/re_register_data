@@ -2786,7 +2786,7 @@
     "next": "Lex Clodia de victoriato",
     "sort_key": "Lexcicereia de sponsu",
     "proof_read": 2,
-    "short_description": "s. Weiss Art. Sponsio Bd. III A S. 1856, 48ff. Rotondi Leges publ. pop. rom.",
+    "short_description": "s. Weiss Art. Sponsio, Rotondi Leges publ. pop. rom.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -2959,6 +2959,7 @@
     "previous": "Lex (plebiscitum) de fenore semunciario",
     "next": "Lex Furia (Leges Furiae)",
     "proof_read": 2,
+    "short_description": "das Gesetz über die Obnuntiation",
     "no_creative_height": true,
     "chapters": [
       {
@@ -2998,7 +2999,7 @@
     "next": "Lex Hirtia de Pompeianis",
     "sort_key": "Lexhelvia",
     "proof_read": 2,
-    "short_description": "Gesetz über die Absetzung der Volkstribunen L. Caesetius, Epidius, Marullus",
+    "short_description": "Gesetz über Absetzung der Volkstribunen L. Caesetius, Epidius, Marullus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3014,7 +3015,7 @@
     "next": "Lex Hortensia 1",
     "sort_key": "Lexhirtia de pompeianis",
     "proof_read": 2,
-    "short_description": "s. Von der Mühll Bd. VIII S. 1957, 29ff. Rotondi Leges publ. pop. Rom. 419",
+    "short_description": "s. Von der Mühll, Rotondi Leges publ. pop. Rom. 419",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3080,7 +3081,7 @@
     "lemma": "Lex Lucretia de agro Campano",
     "previous": "Lex Iunia 7",
     "next": "Lex Lutatia de vi",
-    "sort_key": "Lexlucretia de agro campano",
+    "sort_key": "Lex Lucretia de agro campano",
     "proof_read": 2,
     "short_description": "Vgl. M. Lucretius Nr. 8. Campanus ager",
     "no_creative_height": true,
@@ -3200,7 +3201,6 @@
     "lemma": "Lex Orchia de cenis",
     "previous": "Lex Munatia Aemilia",
     "next": "Lex Ovinia",
-    "sort_key": "Lexorchia de cenis",
     "proof_read": 2,
     "short_description": "s. Kübler Bd. IV A S. 905 (Jahreszahl ist: 573 = 181 v. Chr.)",
     "no_creative_height": true,
@@ -3448,7 +3448,7 @@
   {
     "lemma": "Leges Semproniae 1a",
     "previous": "Lex Scatinia",
-    "next": "Leges Semproniae 2",
+    "next": "Leges Semproniae 2.4",
     "sort_key": "Lex Semproniae 1a",
     "proof_read": 2,
     "short_description": "Gesetz zur Aberkennung der tribuniz. Amtsgewalt des M. Octavius",
@@ -3460,6 +3460,10 @@
         "author": "Adolf Berger."
       }
     ]
+  },
+  {
+    "lemma": "Leges Semproniae 2.4",
+    "previous": "Leges Semproniae 1a"
   },
   {
     "lemma": "Leges Semproniae 2",
@@ -3629,6 +3633,7 @@
     "previous": "Leges Valeriae 10",
     "next": "Leges Valeriae 11",
     "proof_read": 2,
+    "short_description": "Gesetz über die Kooptation von Volkstribunen",
     "no_creative_height": true,
     "chapters": [
       {
