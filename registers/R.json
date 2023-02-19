@@ -6176,7 +6176,7 @@
   {
     "lemma": "Agathinos 9",
     "previous": "Agathinos 8",
-    "next": "Agathinos 5",
+    "next": "Agathobulidai",
     "sort_key": "Agathinos 09",
     "proof_read": 3,
     "short_description": "aus Epidauros, Bildhauer beim Schmuck des Asklepiostempels",
@@ -6184,19 +6184,6 @@
       {
         "start": 12,
         "end": 12
-      }
-    ]
-  },
-  {
-    "lemma": "Agathinos 10",
-    "proof_read": 3,
-    "short_description": "s. 5), Sohn des Menippos, Athener, Bildhauer",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 12,
-        "end": 12,
-        "author": "Hans Gärtner."
       }
     ]
   },
@@ -124465,7 +124452,7 @@
   {
     "lemma": "Myrto a",
     "previous": "Μυρσ(ινουσα?)",
-    "next": "Myrtos 4",
+    "next": "Myrtuntion 2",
     "sort_key": "Myrto 0",
     "redirect": true,
     "proof_read": 3,
@@ -124477,33 +124464,8 @@
     ]
   },
   {
-    "lemma": "Myrtos 4",
-    "previous": "Myrto a",
-    "chapters": [
-      {
-        "start": 172,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Myrto 4",
-    "previous": "Myrto a",
-    "next": "Myrtuntion 2",
-    "proof_read": 3,
-    "short_description": "Insel vor der Südostspitze von Euboia",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 172,
-        "end": 172,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Myrtuntion 2",
-    "previous": "Myrto 4",
+    "previous": "Myrto a",
     "next": "Mysokaras limen",
     "proof_read": 3,
     "short_description": "Lagune des ion. Meeres zwischen Leukas und dem ambrak. Golf",
@@ -141265,12 +141227,8 @@
     ]
   },
   {
-    "lemma": "Sarapion 3",
-    "next": "Sarapion 4"
-  },
-  {
     "lemma": "Sarapion 4",
-    "previous": "Sarapion 3",
+    "previous": "Sarapion 1a",
     "next": "Sardelle",
     "proof_read": 3,
     "short_description": "Aelius S. von Alexandreia, Rhetor im 2. Jh. n. Chr.",
@@ -144951,7 +144909,7 @@
   {
     "lemma": "Smaragd",
     "previous": "Skythes 1a",
-    "next": "Smikythos 13",
+    "next": "Smikythos 1",
     "chapters": [
       {
         "start": 208,
@@ -144960,7 +144918,7 @@
     ]
   },
   {
-    "lemma": "Smikythos 13",
+    "lemma": "Smikythos 1",
     "previous": "Smaragd",
     "chapters": [
       {
@@ -144971,8 +144929,8 @@
   },
   {
     "lemma": "Smikythos 2",
-    "previous": "Smikythos 2",
-    "next": "Smikythos 4",
+    "previous": "Smikythos 1",
+    "next": "Smikythos 3",
     "proof_read": 3,
     "short_description": "Athener vom Demos Sypalettos = Mikythos Nr. 4",
     "no_creative_height": true,
@@ -150895,18 +150853,8 @@
     ]
   },
   {
-    "lemma": "Vallius 6",
-    "next": "Vallum 1",
-    "chapters": [
-      {
-        "start": 219,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Vallum 1",
-    "previous": "Vallius 6",
+    "previous": "Vallius 5",
     "next": "Vallus 2",
     "chapters": [
       {
@@ -151112,7 +151060,7 @@
   },
   {
     "lemma": "Varisidius a",
-    "previous": "Varisidius a",
+    "previous": "Varinius 1a",
     "next": "Varius",
     "proof_read": 3,
     "short_description": "M. V., röm. Ritter im 1. Jh. v. Chr., Vertrauter des L. Munatius Nr. 30",
@@ -151126,18 +151074,8 @@
     ]
   },
   {
-    "lemma": "Varisidius 2",
-    "next": "Varius",
-    "chapters": [
-      {
-        "start": 220,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Varius",
-    "previous": "Varisidius 2",
+    "previous": "Varisidius a",
     "next": "Varius 7a",
     "chapters": [
       {
@@ -153189,29 +153127,8 @@
     ]
   },
   {
-    "lemma": "Vibenna 1",
-    "next": "Vibenna 2",
-    "chapters": [
-      {
-        "start": 223,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Vibenna 2",
-    "previous": "Vibenna 1",
-    "next": "Vibennius 2",
-    "chapters": [
-      {
-        "start": 223,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Vibennius 2",
-    "previous": "Vibenna 2",
+    "previous": "Vibenna",
     "next": "Vibianus 3",
     "chapters": [
       {
@@ -157725,8 +157642,7 @@
   {
     "lemma": "Volusianus 14–16",
     "previous": "Volusianus 13",
-    "redirect": "Volusianus 14",
-    "proof_read": 3,
+    "next": "Volusianus 14",
     "chapters": [
       {
         "start": 231,
@@ -157736,7 +157652,7 @@
   },
   {
     "lemma": "Volusianus 14",
-    "previous": "Volusianus 13",
+    "previous": "Volusianus 14–16",
     "next": "Volusianus 15",
     "proof_read": 3,
     "no_creative_height": true,
