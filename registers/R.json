@@ -4643,6 +4643,10 @@
     "lemma": "Aemilius 49",
     "previous": "Aemilius 48a",
     "next": "Aemilius 49a",
+    "sort_key": "Aemilius 049",
+    "proof_read": 3,
+    "short_description": "Frontinus, Proconsul in Ephesos um 180 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 10,
@@ -73761,7 +73765,7 @@
   {
     "lemma": "Decius 9",
     "previous": "Decius 7",
-    "next": "Decmanus 1",
+    "next": "Decmanus",
     "sort_key": "Decius 09",
     "proof_read": 3,
     "short_description": "P. D. (Subulo?), Prätor im J. 115 v. Chr. vgl. Egilius",
@@ -73775,7 +73779,7 @@
     ]
   },
   {
-    "lemma": "Decmanus 1",
+    "lemma": "Decmanus",
     "previous": "Decius 9",
     "next": "Decminus",
     "proof_read": 3,
@@ -73791,7 +73795,7 @@
   },
   {
     "lemma": "Decminus",
-    "previous": "Decmanus 1",
+    "previous": "Decmanus",
     "next": "Decmus",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer in Rheinzabern? 2. Jh. n. Chr.",
@@ -85152,8 +85156,9 @@
     "lemma": "Fannius 7",
     "previous": "Fannius 1",
     "next": "Faorianae figlinae",
+    "sort_key": "Fannius 7",
     "proof_read": 3,
-    "short_description": "C. F., Konsul im J. 122 v. Chr., Redner und Historiograph",
+    "short_description": "C. F., cos. 122 v. Chr., Redner und Historiograph",
     "no_creative_height": true,
     "chapters": [
       {
@@ -124468,6 +124473,7 @@
     "sort_key": "Myrto 0",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "Insel vor der Südostspitze von Euboia",
     "chapters": [
       {
         "start": 172,
@@ -144932,9 +144938,13 @@
   {
     "lemma": "Smikythos 1",
     "previous": "Smaragd",
+    "next": "Smikythos 2",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 208,
+        "end": 208,
         "author": "Hans Gärtner."
       }
     ]
@@ -144943,6 +144953,21 @@
     "lemma": "Smikythos 2",
     "previous": "Smikythos 1",
     "next": "Smikythos 3",
+    "proof_read": 3,
+    "short_description": "Athener vom Demos Sypalettos. = Mikythos Nr. 4 ).",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 208,
+        "end": 208,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Smikythos 3",
+    "previous": "Smikythos 2",
+    "next": "Smikythos 4",
     "proof_read": 3,
     "short_description": "Athener vom Demos Sypalettos = Mikythos Nr. 4",
     "no_creative_height": true,
@@ -144955,21 +144980,12 @@
     ]
   },
   {
-    "lemma": "Smikythos 3",
-    "next": "Smikythos 4",
-    "chapters": [
-      {
-        "start": 208,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Smikythos 4",
     "previous": "Smikythos 3",
     "next": "Smikythos 5",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "Athen. grammateus tamion des Parthenon",
     "chapters": [
       {
         "start": 208,
@@ -150840,7 +150856,7 @@
     "previous": "Vallius a",
     "next": "Vallius 5",
     "proof_read": 3,
-    "short_description": "M. V., röm. Großkaufmann in Abdera im 2. Jh. v. Chr.",
+    "short_description": "V. Syriacus, röm. Rhetor 1. Jh. n. Chr., Schüler des Theodoros Nr. 39",
     "no_creative_height": true,
     "chapters": [
       {
@@ -151063,6 +151079,7 @@
   {
     "lemma": "Varinius 1a",
     "previous": "Vargula",
+    "next": "Varisidius a",
     "chapters": [
       {
         "start": 219,

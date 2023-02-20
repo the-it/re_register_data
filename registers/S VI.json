@@ -4618,7 +4618,7 @@
   {
     "lemma": "Μυρσ(ινουσα?)",
     "previous": "Myrina 1",
-    "next": "Myrto 4",
+    "next": "Myrto a",
     "sort_key": "Myrs(inusa?)",
     "proof_read": 2,
     "short_description": "Dorf bei Priene",
@@ -4631,9 +4631,10 @@
     ]
   },
   {
-    "lemma": "Myrto 4",
+    "lemma": "Myrto a",
     "previous": "Μυρσ(ινουσα?)",
     "next": "Myrtuntion 2",
+    "sort_key": "Myrto 0",
     "proof_read": 2,
     "short_description": "Insel vor der Südostspitze von Euboia",
     "chapters": [
@@ -4646,7 +4647,7 @@
   },
   {
     "lemma": "Myrtuntion 2",
-    "previous": "Myrto 4",
+    "previous": "Myrto a",
     "next": "Naevius 2",
     "proof_read": 2,
     "short_description": "Lagune des ion. Meeres zwischen Leukas und dem ambrak. Golf",
@@ -5312,6 +5313,20 @@
   {
     "lemma": "Smikythos 3",
     "previous": "Smikythos 2",
+    "next": "Smikythos 4",
+    "proof_read": 2,
+    "short_description": "Athener vom Demos Sypalettos = Mikythos Nr. 4",
+    "chapters": [
+      {
+        "start": 1068,
+        "end": 1068,
+        "author": "Wilhelm Becher."
+      }
+    ]
+  },
+  {
+    "lemma": "Smikythos 4",
+    "previous": "Smikythos 3",
     "next": "Stat(io) Maien(sis)",
     "proof_read": 2,
     "short_description": "Athen. grammateus tamion des Parthenon",
@@ -5325,7 +5340,7 @@
   },
   {
     "lemma": "Stat(io) Maien(sis)",
-    "previous": "Smikythos 3",
+    "previous": "Smikythos 4",
     "next": "Strategos 5",
     "short_description": "Stark befestigter Punkt an der raet.-ital. Grenze",
     "chapters": [
