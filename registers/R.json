@@ -2302,6 +2302,7 @@
     "lemma": "Ad Malum",
     "previous": "Ad-",
     "next": "Ad Vicesimum",
+    "sort_key": "Admalum",
     "proof_read": 3,
     "short_description": "Station an der Militärstraße ab Aquileia per Liburniam Sisciam",
     "no_creative_height": true,
@@ -51931,7 +51932,7 @@
   {
     "lemma": "Bobiensia epigrammata",
     "previous": "Boarius campus",
-    "next": "Boconiana officina",
+    "next": "Boconiana",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -51943,7 +51944,7 @@
     ]
   },
   {
-    "lemma": "Boconiana officina",
+    "lemma": "Boconiana",
     "previous": "Bobiensia epigrammata",
     "next": "Bodatius",
     "redirect": "Buconiana",
@@ -51957,7 +51958,7 @@
   },
   {
     "lemma": "Bodatius",
-    "previous": "Boconiana officina",
+    "previous": "Boconiana",
     "next": "Bodensee",
     "proof_read": 3,
     "short_description": "vicus, gall. Dorf",
@@ -52039,6 +52040,7 @@
     "lemma": "Böhming",
     "previous": "Boëdromia",
     "next": "Boerebista",
+    "sort_key": "Boehming",
     "proof_read": 3,
     "short_description": "dt. Ort im Altmühltal an der Stelle eines raet. Limeskastells",
     "no_creative_height": true,
@@ -54292,9 +54294,9 @@
     "lemma": "Bürgel",
     "previous": "Budorai",
     "next": "Bukatios",
-    "sort_key": "Burgel",
+    "sort_key": "Buergel",
     "proof_read": 3,
-    "short_description": "dt. Gutshof im Rheinland. vgl. Burungum",
+    "short_description": "dt. Gutshof im Rheinland, vgl. Burungum",
     "no_creative_height": true,
     "wp_link": "w:de:Haus Bürgel",
     "wd_link": "d:Q1360812",
@@ -85029,9 +85031,14 @@
     "lemma": "Fadius 12",
     "previous": "Fadius 4a",
     "next": "Fadius 12a",
+    "sort_key": "Fadius 12",
+    "proof_read": 3,
+    "short_description": "Rufinus, cos. suff. im J. 113 n. Chr., Freund Plinius' d. J.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -85145,9 +85152,14 @@
     "lemma": "Fannius 1",
     "previous": "Falerius 3",
     "next": "Fannius 7",
+    "sort_key": "Fannius 1",
+    "proof_read": 3,
+    "short_description": "Legat des Cassius 43 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -85837,7 +85849,7 @@
   {
     "lemma": "Fines, ad fines 29",
     "previous": "Fines, ad fines 28",
-    "next": "Fines, ad Fines 30",
+    "next": "Fines, ad fines 30",
     "chapters": [
       {
         "start": 111,
@@ -85846,7 +85858,7 @@
     ]
   },
   {
-    "lemma": "Fines, ad Fines 30",
+    "lemma": "Fines, ad fines 30",
     "previous": "Fines, ad fines 29",
     "next": "Fingerrechnen",
     "sort_key": "Fines,ad fines 30",
@@ -85863,7 +85875,7 @@
   },
   {
     "lemma": "Fingerrechnen",
-    "previous": "Fines, ad Fines 30",
+    "previous": "Fines, ad fines 30",
     "next": "Finitus",
     "redirect": "digitorum computus",
     "proof_read": 3,
