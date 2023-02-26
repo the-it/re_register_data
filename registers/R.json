@@ -119312,7 +119312,7 @@
   {
     "lemma": "Maximinianos",
     "previous": "(---)us Maximillianus",
-    "next": "Maximina",
+    "next": "Maximinus 3a",
     "proof_read": 3,
     "short_description": "Bischof von Konstantinopel 431-434 n. Chr.",
     "no_creative_height": true,
@@ -119325,11 +119325,8 @@
     ]
   },
   {
-    "lemma": "Maximina",
-    "previous": "Maximinianos"
-  },
-  {
     "lemma": "Maximinus 3a",
+    "previous": "Maximinianos",
     "next": "Maximinus 5",
     "chapters": [
       {
@@ -153531,7 +153528,7 @@
   {
     "lemma": "Vicesima 1a",
     "previous": "Vicesima 1",
-    "next": "Ad Vice(n)simum",
+    "next": "Ad Vice(n)simum 5",
     "redirect": "vicesima manumissionum",
     "proof_read": 3,
     "chapters": [
@@ -153542,8 +153539,41 @@
     ]
   },
   {
-    "lemma": "Ad Vice(n)simum",
+    "lemma": "Ad Vice(n)simum 5",
     "previous": "Vicesima 1a",
+    "next": "Ad Vice(n)simum 6",
+    "chapters": [
+      {
+        "start": 224,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ad Vice(n)simum 6",
+    "previous": "Ad Vice(n)simum 5",
+    "next": "Ad Vice(n)simum 7",
+    "chapters": [
+      {
+        "start": 224,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ad Vice(n)simum 7",
+    "previous": "Ad Vice(n)simum 6",
+    "next": "Ad Vice(n)simum 8",
+    "chapters": [
+      {
+        "start": 224,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ad Vice(n)simum 8",
+    "previous": "Ad Vice(n)simum 7",
     "next": "vici magister",
     "chapters": [
       {
@@ -153554,7 +153584,7 @@
   },
   {
     "lemma": "vici magister",
-    "previous": "Ad Vice(n)simum",
+    "previous": "Ad Vice(n)simum 8",
     "next": "Vicirius 1",
     "sort_key": "Vicimagister",
     "proof_read": 3,
