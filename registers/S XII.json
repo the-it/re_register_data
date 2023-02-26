@@ -3535,53 +3535,155 @@
     "lemma": "Fabius 50",
     "previous": "exercitor",
     "next": "Fabius 76a",
-    "proof_read": 2,
     "short_description": "Q. F. Barbarus Valerius, in Numidien, cos. suff. im J. 99 n. Chr.",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 372,
-        "end": 372,
         "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Fabius 76a",
-    "previous": "Fabius 50"
+    "previous": "Fabius 50",
+    "next": "Fabius 88",
+    "chapters": [
+      {
+        "start": 372,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 88",
+    "previous": "Fabius 76a",
+    "next": "Fabius 90",
+    "short_description": "Q. F. Iulianus Optatianus, cos. suff. im 2. Jh. n. Chr.?",
+    "chapters": [
+      {
+        "start": 372,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 90",
+    "previous": "Fabius 88",
+    "next": "Fabius 101",
+    "short_description": "L. F. Iustus, cos. suff. im J. 102 n. Chr.",
+    "chapters": [
+      {
+        "start": 372,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 101",
+    "previous": "Fabius 90",
+    "next": "Fabius 120",
+    "short_description": "Africanus F. Maximus, Konsul im J. 10 v. Chr.",
+    "chapters": [
+      {
+        "start": 372,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 120",
+    "previous": "Fabius 101",
+    "next": "Fabius 131a",
+    "short_description": "Paullus F. Persicus, cos. ord. 34 n. Chr.",
+    "chapters": [
+      {
+        "start": 372,
+        "author": "Rudolf Hanslik."
+      }
+    ]
   },
   {
     "lemma": "Fabius 131a",
-    "next": "Fadius 12a",
+    "previous": "Fabius 120",
+    "next": "Fabius 132",
     "short_description": "s. C. Pompusidius F. Fraternus, Xvir stlitibus iudicandis. = C. Pompusidius (S",
     "chapters": [
       {
         "start": 372,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Fabius 132",
+    "previous": "Fabius 131a",
+    "next": "Fadius 12",
+    "short_description": "Fabius Postuminus, Proconsul Asia im Jahr 103 n. Chr.",
+    "chapters": [
+      {
+        "start": 372,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Fadius 12",
+    "previous": "Fabius 132",
+    "next": "Fadius 12a",
+    "short_description": "Rufinus, cos. suff. im J. 113 n. Chr., Freund Plinius' d. J.",
+    "chapters": [
+      {
+        "start": 372,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Fadius 12a",
-    "previous": "Fabius 131a",
-    "next": "Flavius 66a",
+    "previous": "Fadius 12",
+    "next": "Fibel",
     "short_description": "C. F. Rufus, cos. suff. im J. 145 n. Chr.",
     "chapters": [
       {
         "start": 372,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Fibel",
+    "previous": "Fadius 12a",
+    "next": "Flavius 62",
+    "short_description": "Fibula chirurgica",
+    "chapters": [
+      {
+        "start": 372,
+        "end": 379,
+        "author": "Jost Benedum."
+      }
+    ]
+  },
+  {
+    "lemma": "Flavius 62",
+    "previous": "Fibel",
+    "next": "Flavius 66a",
+    "short_description": "T. F. Clemens, cos. ord. im J. 95 n. Chr.",
+    "chapters": [
+      {
+        "start": 379,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Flavius 66a",
-    "previous": "Fadius 12a",
+    "previous": "Flavius 62",
     "next": "Flavius 66b",
     "short_description": "T. F. Coelianus, cos. suff. im J. 289 n. Chr.",
     "chapters": [
       {
         "start": 379,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
       }
     ]
   },
@@ -3593,7 +3695,7 @@
     "chapters": [
       {
         "start": 379,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
       }
     ]
   },
@@ -3605,64 +3707,99 @@
     "chapters": [
       {
         "start": 379,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Flavius 92a",
     "previous": "Flavius 84a",
-    "next": "Galitas(?)",
+    "next": "Flavius 103a",
     "short_description": "F. Gabso, protector domesticus, Christ in der 2. H. des 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 379,
         "end": 380,
-        "author": "Demandt"
-      }
-    ]
-  },
-  {
-    "lemma": "Galitas(?)",
-    "previous": "Flavius 92a",
-    "next": "Flavius 103a",
-    "short_description": "Griech. Historiker (im 3. oder 2. Jh. v. Chr.?)",
-    "chapters": [
-      {
-        "start": 379,
-        "end": 381,
-        "author": "Schröder"
+        "author": "Alexander Demandt."
       }
     ]
   },
   {
     "lemma": "Flavius 103a",
-    "previous": "Galitas(?)",
-    "next": "Flavius 204a",
-    "short_description": "T. F. Iulianus, cos. suff. im J. 140 n. Chr. = T. F. Iulianus (S XII 503 Nr.",
+    "previous": "Flavius 92a",
+    "next": "Flavius 166",
+    "short_description": "T. F. Iulianus, cos. suff. im J. 140 n. Chr. = T. F. Iulianus (S XII 503 Nr. ",
     "chapters": [
       {
         "start": 380,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Flavius 166",
+    "previous": "Flavius 103a",
+    "next": "Flavius 204a",
+    "short_description": "T. F. Sabinus, cos. suff. 45 n. Chr.? Bruder des Kaisers Vespasian",
+    "chapters": [
+      {
+        "start": 380,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Flavius 204a",
-    "previous": "Flavius 103a",
-    "next": "Garavodurum",
+    "previous": "Flavius 166",
+    "next": "Fuficius 4",
     "short_description": "F. Verus Metrobalanus, proc. Aug. praepositus vectigalis ferrariarum",
     "chapters": [
       {
         "start": 380,
-        "author": "Winkler"
+        "author": "Gerhard Winkler."
+      }
+    ]
+  },
+  {
+    "lemma": "Fuficius 4",
+    "previous": "Flavius 204a",
+    "next": "Gabinus 19",
+    "short_description": "Q. F. Cornutus, cos. suff. im J. 147 n. Chr.",
+    "chapters": [
+      {
+        "start": 379,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Gabinus 19",
+    "previous": "Fuficius 4",
+    "next": "Galitas(?)",
+    "chapters": [
+      {
+        "start": 379,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Galitas(?)",
+    "previous": "Gabinus 19",
+    "next": "Garavodurum",
+    "short_description": "Griech. Historiker (im 3. oder 2. Jh. v. Chr.?)",
+    "chapters": [
+      {
+        "start": 379,
+        "end": 381,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Garavodurum",
-    "previous": "Flavius 204a",
-    "next": "Geminius 20",
+    "previous": "Galitas(?)",
+    "next": "Geminus 20",
     "short_description": "Stadt (in Noricum ripense?)",
     "chapters": [
       {
@@ -3672,21 +3809,32 @@
     ]
   },
   {
-    "lemma": "Geminius 20",
+    "lemma": "Geminus 20",
     "previous": "Garavodurum",
-    "next": "Glemona",
-    "short_description": "G. Tuticius Aemilianus, c.v., Patron der regio Hortensiana 3. Jh. n. Chr.",
+    "next": "Gerenia",
     "chapters": [
       {
         "start": 381,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Gerenia",
+    "previous": "Geminus 20",
+    "next": "Glemona",
+    "short_description": "Stadt an der O-Küste des messen. Golfes",
+    "chapters": [
+      {
+        "start": 381,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Glemona",
-    "previous": "Geminius 20",
-    "next": "Grattius 3",
+    "previous": "Gerenia",
+    "next": "Glitius Atilius Agricola",
     "short_description": "Langobard. Kastell",
     "chapters": [
       {
@@ -3696,15 +3844,50 @@
     ]
   },
   {
-    "lemma": "Grattius 3",
+    "lemma": "Glitius Atilius Agricola",
     "previous": "Glemona",
+    "next": "Goredius Gallus",
+    "chapters": [
+      {
+        "start": 381,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Goredius Gallus",
+    "previous": "Glitius Atilius Agricola",
+    "next": "Gortys 5",
+    "chapters": [
+      {
+        "start": 381,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Gortys 5",
+    "previous": "Goredius Gallus",
+    "next": "Grattius 3",
+    "short_description": "Arkad. Stadt",
+    "chapters": [
+      {
+        "start": 381,
+        "end": 383,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Grattius 3",
+    "previous": "Gortys 5",
     "next": "Haterius 9",
     "short_description": "G. Geminius, Senator in traian.-hadrian. Zt. = [V]al[erius...] (VIII A 40. S",
     "chapters": [
       {
         "start": 383,
         "end": 384,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
       }
     ]
   },
