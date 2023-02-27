@@ -6222,7 +6222,8 @@
     "short_description": "Didaskalos bei den Soteria zu Delphi im J. 270 v. Chr.",
     "chapters": [
       {
-        "start": 345
+        "start": 345,
+        "author": "Bonaria"
       }
     ]
   },
@@ -6245,7 +6246,8 @@
     "short_description": "Schauspieler bei den Dionysia im J. 155 v. Chr. vgl. K. Nr. 8b",
     "chapters": [
       {
-        "start": 345
+        "start": 345,
+        "author": "Bonaria"
       }
     ]
   },
@@ -6302,7 +6304,8 @@
     "short_description": "Siegreicher Schauspieler bei den Lenaia um das J. 313, bei den Dionysia in den",
     "chapters": [
       {
-        "start": 346
+        "start": 346,
+        "author": "Mario Bonaria."
       }
     ]
   },
@@ -6313,7 +6316,8 @@
     "short_description": "s. [12b])",
     "chapters": [
       {
-        "start": 346
+        "start": 346,
+        "author": "Mario Bonaria."
       }
     ]
   },
@@ -7423,7 +7427,8 @@
     "chapters": [
       {
         "start": 394,
-        "end": 410
+        "end": 410,
+        "author": "Erich Sander."
       }
     ]
   },
@@ -8651,7 +8656,8 @@
     "next": "Perigenes 6",
     "chapters": [
       {
-        "start": 530
+        "start": 530,
+        "author": "Fr. Kudlien."
       }
     ]
   },
@@ -9083,7 +9089,7 @@
   {
     "lemma": "Phretarchos",
     "previous": "Phrasilaos",
-    "next": "Phuth",
+    "next": "Phretrarchos",
     "short_description": "Der Vorsteher einer Phratrie in Neapel aus der Kaiserzeit",
     "chapters": [
       {
@@ -9094,9 +9100,19 @@
     ]
   },
   {
-    "lemma": "Phuth",
+    "lemma": "Phretrarchos",
     "previous": "Phretarchos",
-    "next": "Put",
+    "next": "Phuth",
+    "chapters": [
+      {
+        "start": 540
+      }
+    ]
+  },
+  {
+    "lemma": "Phuth",
+    "previous": "Phretrarchos",
+    "next": "Phytios 3",
     "short_description": "Fluß in Mauretania Tingitana",
     "chapters": [
       {
@@ -9107,19 +9123,8 @@
     ]
   },
   {
-    "lemma": "Put",
-    "previous": "Phuth",
-    "next": "Phytios 3",
-    "short_description": "Fluß in Mauretania Tingit. = Phuth (s.d.).",
-    "chapters": [
-      {
-        "start": 540
-      }
-    ]
-  },
-  {
     "lemma": "Phytios 3",
-    "previous": "Put",
+    "previous": "Phuth",
     "next": "Pialeia",
     "proof_read": 2,
     "short_description": "siegreicher Schauspieler bei den Lenaia um das J. 392 v. Chr.",

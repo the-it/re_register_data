@@ -1576,7 +1576,7 @@
   {
     "lemma": "Flavius 159aa",
     "previous": "Flavius 147a",
-    "next": "Pulex 2",
+    "next": "Floh",
     "short_description": "Sex. F. Quietus, praef. classis Britannicae im 2. Jh. n. Chr., Gatte der",
     "chapters": [
       {
@@ -1586,19 +1586,21 @@
     ]
   },
   {
-    "lemma": "Pulex 2",
+    "lemma": "Floh",
     "previous": "Flavius 159aa",
     "next": "Fronto 4d",
     "short_description": "s. d. Suppl",
     "chapters": [
       {
-        "start": 101
+        "start": 101,
+        "end": 106,
+        "author": "Will Richter."
       }
     ]
   },
   {
     "lemma": "Fronto 4d",
-    "previous": "Pulex 2",
+    "previous": "Floh",
     "next": "Fulvius 38a",
     "short_description": "[---]us F., Senator unter Traian",
     "chapters": [
@@ -2015,30 +2017,30 @@
   {
     "lemma": "Iunius 86a",
     "previous": "Iulius 513a",
-    "next": "Licinius 138a",
+    "next": "Iunius 105",
     "short_description": "L. I. Iunillus, Praeses der Provinz Mauretania Caes. (zu Anfang des 4. Jh. n.",
     "chapters": [
       {
-        "start": 125
+        "start": 125,
+        "author": "Eck"
       }
     ]
   },
   {
-    "lemma": "Licinius 138a",
+    "lemma": "Iunius 105",
     "previous": "Iunius 86a",
     "next": "Iunius 130a",
-    "short_description": "Licinnius Pacatianus, dux (ripae) im J. 245 n. Chr.",
     "chapters": [
       {
         "start": 125,
-        "end": 127,
+        "end": 126,
         "author": "Eck"
       }
     ]
   },
   {
     "lemma": "Iunius 130a",
-    "previous": "Licinius 138a",
+    "previous": "Iunius 105",
     "next": "Iunius 196",
     "short_description": "I. Pomponius Ammonius, praef. urbi zwischen den J. 354 und 423 n. Chr.",
     "chapters": [
@@ -2051,7 +2053,7 @@
   {
     "lemma": "Iunius 196",
     "previous": "Iunius 130a",
-    "next": "Lissenius",
+    "next": "Licinius 138a",
     "short_description": "Iunia Aiacia Modesta, Gattin des Q. Aradius (II 371 Nr. 3?) Rufinus",
     "chapters": [
       {
@@ -2061,8 +2063,21 @@
     ]
   },
   {
-    "lemma": "Lissenius",
+    "lemma": "Licinius 138a",
     "previous": "Iunius 196",
+    "next": "Lissenius",
+    "short_description": "Licinnius Pacatianus, dux (ripae) im J. 245 n. Chr.",
+    "chapters": [
+      {
+        "start": 125,
+        "end": 127,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Lissenius",
+    "previous": "Licinius 138a",
     "next": "Livius 21a",
     "short_description": "L. Proculus, iuridicus(?) in Aegypten (um die Mitte des 3. Jh. n. Chr.?)",
     "chapters": [
@@ -2282,7 +2297,7 @@
   {
     "lemma": "Matidius (Matidia) 2",
     "previous": "Matidius (Matidia) a",
-    "next": "Salonius 3",
+    "next": "Melinoë",
     "short_description": "Matidia d.J., Tochter (des [L. Vi]bius Nr. 21) der M. Nr. 1, Schwester der",
     "chapters": [
       {
@@ -2293,19 +2308,8 @@
     ]
   },
   {
-    "lemma": "Salonius 3",
-    "previous": "Matidius (Matidia) 2",
-    "next": "Melinoë",
-    "short_description": "C. S. Matidius Patruinus, Senator im 1. Jh. n. Chr., Gatte der Ulpia (S XV 932",
-    "chapters": [
-      {
-        "start": 131
-      }
-    ]
-  },
-  {
     "lemma": "Melinoë",
-    "previous": "Salonius 3",
+    "previous": "Matidius (Matidia) 2",
     "next": "Maximus 27a",
     "short_description": "Tochter des Zeus Kronios und der Persephone",
     "chapters": [
@@ -3356,7 +3360,7 @@
   {
     "lemma": "Salonius 2",
     "previous": "Sadduzäer",
-    "next": "Salonius 4",
+    "next": "Salonius 3",
     "short_description": "M. S. Longinus Marcellus, c.v., Prätor in antonin.sever. Zt.",
     "chapters": [
       {
@@ -3366,8 +3370,20 @@
     ]
   },
   {
-    "lemma": "Salonius 4",
+    "lemma": "Salonius 3",
     "previous": "Salonius 2",
+    "next": "Salonius 4",
+    "short_description": "C. S. Matidius Patruinus, Senator im 1. Jh. n. Chr., Gatte der Ulpia (S XV 932",
+    "chapters": [
+      {
+        "start": 478,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Salonius 4",
+    "previous": "Salonius 3",
     "next": "Salonius 5",
     "short_description": "Salonia, Mutter des Senators Ma[---]o. vgl. C. S. Matidius Nr. a Patruinus.",
     "chapters": [
