@@ -5547,7 +5547,8 @@
     "short_description": "Röm. Gentilname",
     "chapters": [
       {
-        "start": 412
+        "start": 412,
+        "author": "Münzer"
       }
     ]
   },
@@ -7251,7 +7252,7 @@
   {
     "lemma": "Munatius 21",
     "previous": "Munatius 20",
-    "next": "Munatii Plancii 26ff.",
+    "next": "Munatius 22",
     "short_description": "Gallus, L. Leg. Aug. pro pr. exercitus Africanus 100 n. Chr.",
     "chapters": [
       {
@@ -7261,19 +7262,8 @@
     ]
   },
   {
-    "lemma": "Munatii Plancii 26ff.",
-    "previous": "Munatius 21",
-    "next": "Munatius 22",
-    "short_description": "Praescriptio: der Beiname Plancus ist in der angesehensten Familie der Munatii",
-    "chapters": [
-      {
-        "start": 541
-      }
-    ]
-  },
-  {
     "lemma": "Munatius 22",
-    "previous": "Munatii Plancii 26ff.",
+    "previous": "Munatius 21",
     "next": "Munatius 23",
     "proof_read": 2,
     "short_description": "Genteanus s. Gentianus Nr. 2",
@@ -7315,7 +7305,7 @@
   {
     "lemma": "Munatius 25",
     "previous": "Munatius 24",
-    "next": "Munatius 26",
+    "next": "Munatii Plancii 26ff.",
     "short_description": "Mundus",
     "chapters": [
       {
@@ -7325,8 +7315,20 @@
     ]
   },
   {
-    "lemma": "Munatius 26",
+    "lemma": "Munatii Plancii 26ff.",
     "previous": "Munatius 25",
+    "next": "Munatius 26",
+    "short_description": "Praescriptio: der Beiname Plancus ist in der angesehensten Familie der Munatii",
+    "chapters": [
+      {
+        "start": 541,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Munatius 26",
+    "previous": "Munatii Plancii 26ff.",
     "next": "Munatius 27",
     "proof_read": 2,
     "short_description": "Plancus, C. hieß L. Plautius Plancus, praetor 43 v. Chr.",

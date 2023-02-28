@@ -6854,7 +6854,8 @@
     "short_description": "Flavius Vicarius Asiae 354 n. Chr.",
     "chapters": [
       {
-        "start": 488
+        "start": 488,
+        "author": "Enßlin"
       }
     ]
   },
@@ -6914,7 +6915,8 @@
     "short_description": "Vindaonius Praef. urb. Constantinopolitanae 375 n. Chr.",
     "chapters": [
       {
-        "start": 489
+        "start": 489,
+        "author": "Enßlin"
       }
     ]
   },
@@ -6985,7 +6987,8 @@
     "short_description": "Flavius c.v., rhetor urbis aeternae, möglicherweise aus dem 4. Jh. n. Chr.",
     "chapters": [
       {
-        "start": 490
+        "start": 490,
+        "author": "Enßlin"
       }
     ]
   },
@@ -7936,7 +7939,8 @@
     "short_description": "Malerin, s. Jaia",
     "chapters": [
       {
-        "start": 533
+        "start": 533,
+        "author": "Lippold."
       }
     ]
   },
@@ -12682,7 +12686,7 @@
   {
     "lemma": "Mamile",
     "previous": "Mamertus 2",
-    "next": "Mamilianus 1",
+    "next": "Mamilia turris",
     "redirect": "Mannila",
     "proof_read": 2,
     "chapters": [
@@ -12693,13 +12697,25 @@
     ]
   },
   {
-    "lemma": "Mamilianus 1",
+    "lemma": "Mamilia turris",
     "previous": "Mamile",
+    "next": "Mamilianus 1",
+    "chapters": [
+      {
+        "start": 953,
+        "author": "Kroll"
+      }
+    ]
+  },
+  {
+    "lemma": "Mamilianus 1",
+    "previous": "Mamilia turris",
     "next": "Mamilianus 2",
     "short_description": "cos. suff. 100 n. Chr. s. T. Pomponius Mamilianus Nr. 42",
     "chapters": [
       {
-        "start": 953
+        "start": 953,
+        "author": "Groag"
       }
     ]
   },
@@ -12718,7 +12734,7 @@
   {
     "lemma": "Mamilianus 3",
     "previous": "Mamilianus 2",
-    "next": "Mamilia turris",
+    "next": "Mamilius",
     "short_description": "Bürger aus Kaisareia",
     "chapters": [
       {
@@ -12728,19 +12744,8 @@
     ]
   },
   {
-    "lemma": "Mamilia turris",
-    "previous": "Mamilianus 3",
-    "next": "Mamilius",
-    "chapters": [
-      {
-        "start": 953,
-        "author": "Kroll"
-      }
-    ]
-  },
-  {
     "lemma": "Mamilius",
-    "previous": "Mamilia turris",
+    "previous": "Mamilianus 3",
     "next": "Mamilius 1",
     "short_description": "Name eines alten Fürstengeschlechts v. Tusculum",
     "chapters": [
@@ -14692,7 +14697,8 @@
     "short_description": "Praescriptio: röm. Gentilname, in den Hss. oft mit Mallius, Mamilius, Manlius",
     "chapters": [
       {
-        "start": 1114
+        "start": 1114,
+        "author": "Münzer."
       }
     ]
   },
@@ -15222,7 +15228,8 @@
     "short_description": "Gentilname",
     "chapters": [
       {
-        "start": 1147
+        "start": 1147,
+        "author": "Münzer"
       }
     ]
   },
@@ -15316,7 +15323,8 @@
     "short_description": "Praescriptio: Name eines röm. Patriziergeschlechtes, das schon im 4. Jh. v.",
     "chapters": [
       {
-        "start": 1149
+        "start": 1149,
+        "author": "Münzer"
       }
     ]
   },
@@ -15433,7 +15441,8 @@
     "short_description": "A. Consulartribun 383 v. Chr.",
     "chapters": [
       {
-        "start": 1153
+        "start": 1153,
+        "author": "Münzer"
       }
     ]
   },
@@ -15456,7 +15465,8 @@
     "short_description": "A. Kriegstribun um 208 v. Chr.",
     "chapters": [
       {
-        "start": 1154
+        "start": 1154,
+        "author": "Münzer"
       }
     ]
   },
@@ -15467,7 +15477,8 @@
     "short_description": "A. Legat des Marius im iugurthinischen Krieg",
     "chapters": [
       {
-        "start": 1155
+        "start": 1155,
+        "author": "Münzer"
       }
     ]
   },
@@ -15528,7 +15539,8 @@
     "short_description": "A.f., C. Auf Caeretaner Grabstein",
     "chapters": [
       {
-        "start": 1156
+        "start": 1156,
+        "author": "Münzer"
       }
     ]
   },
@@ -15551,7 +15563,8 @@
     "short_description": "Cn. Der erste cos. 480 seines Geschlechts 480 v. Chr.",
     "chapters": [
       {
-        "start": 1157
+        "start": 1157,
+        "author": "Münzer"
       }
     ]
   },
@@ -15575,7 +15588,8 @@
     "short_description": "Cn. Praetor 72 v. Chr.",
     "chapters": [
       {
-        "start": 1157
+        "start": 1157,
+        "author": "Münzer"
       }
     ]
   },
@@ -15612,7 +15626,8 @@
     "short_description": "L. Wurde auf Befehl des Stadtpraetors 188 v. Chr. nach Kathargo abgeführt",
     "chapters": [
       {
-        "start": 1158
+        "start": 1158,
+        "author": "Münzer"
       }
     ]
   },
@@ -15623,7 +15638,8 @@
     "short_description": "L. Mit Cato befreundeter Besitzer eines Gutes",
     "chapters": [
       {
-        "start": 1158
+        "start": 1158,
+        "author": "Münzer"
       }
     ]
   },
@@ -15634,7 +15650,8 @@
     "short_description": "L. Quaestor 168 v. Chr.",
     "chapters": [
       {
-        "start": 1158
+        "start": 1158,
+        "author": "Münzer"
       }
     ]
   },
@@ -15645,7 +15662,8 @@
     "short_description": "oder L. Mallius, L. Anwesend im Senatskonsult von 132 v. Chr. bei Joseph. ant.",
     "chapters": [
       {
-        "start": 1158
+        "start": 1158,
+        "author": "Münzer"
       }
     ]
   },
@@ -15656,7 +15674,8 @@
     "short_description": "L. Genannt bei Dionys. I 19,3 evtl. ident. mit Nr. 30 oder mit Nr. 79",
     "chapters": [
       {
-        "start": 1159
+        "start": 1159,
+        "author": "Münzer"
       }
     ]
   },
@@ -15681,7 +15700,8 @@
     "short_description": "L. Statthalter des narbonensischen Galliens mit dem Titel Proconsul 78 v. Chr.",
     "chapters": [
       {
-        "start": 1159
+        "start": 1159,
+        "author": "Münzer"
       }
     ]
   },
@@ -15692,7 +15712,8 @@
     "short_description": "P. Praetor II 182 v. Chr.",
     "chapters": [
       {
-        "start": 1159
+        "start": 1159,
+        "author": "Münzer"
       }
     ]
   },
@@ -15730,7 +15751,8 @@
     "short_description": "Q. Volkstribun 69 v. Chr.",
     "chapters": [
       {
-        "start": 1161
+        "start": 1161,
+        "author": "Münzer"
       }
     ]
   },
@@ -15782,7 +15804,8 @@
     "short_description": "T. Aus Trasacco am Fucinersee",
     "chapters": [
       {
-        "start": 1161
+        "start": 1161,
+        "author": "Münzer"
       }
     ]
   },
@@ -15793,7 +15816,8 @@
     "short_description": "T. Röm. Gesandter 164 v. Chr. in Palästina",
     "chapters": [
       {
-        "start": 1162
+        "start": 1162,
+        "author": "Münzer"
       }
     ]
   },
@@ -15804,7 +15828,8 @@
     "short_description": "T. Wird auf delph. Ehreninschr. aus der Zeit zw. 84 und 78 v. Chr. genannt",
     "chapters": [
       {
-        "start": 1162
+        "start": 1162,
+        "author": "Münzer"
       }
     ]
   },
@@ -15917,7 +15942,8 @@
     "short_description": "Capitolinus, C. Consulartribun 379 v. Chr.",
     "chapters": [
       {
-        "start": 1165
+        "start": 1165,
+        "author": "Münzer"
       }
     ]
   },
@@ -15978,7 +16004,8 @@
     "short_description": "Capitolinus Imperiosus, Cn. cos. 359 v. Chr., evtl. ident. mit dem cos. von 357",
     "chapters": [
       {
-        "start": 1175
+        "start": 1175,
+        "author": "Fluss"
       }
     ]
   },
@@ -15990,7 +16017,7 @@
     "chapters": [
       {
         "start": 1176,
-        "author": "Münzer"
+        "author": "Fluss"
       }
     ]
   },
@@ -16039,7 +16066,8 @@
     "short_description": "Imperiosus Torquatus, T. cos. III 340 v. Chr.",
     "chapters": [
       {
-        "start": 1179
+        "start": 1179,
+        "author": "Münzer."
       }
     ]
   },
@@ -16050,7 +16078,8 @@
     "short_description": "Lentinus",
     "chapters": [
       {
-        "start": 1190
+        "start": 1190,
+        "author": "Münzer."
       }
     ]
   },
@@ -16111,7 +16140,8 @@
     "short_description": "Priscus",
     "chapters": [
       {
-        "start": 1190
+        "start": 1190,
+        "author": "Münzer"
       }
     ]
   },
@@ -16122,7 +16152,8 @@
     "short_description": "Sergia(nus?), A.",
     "chapters": [
       {
-        "start": 1191
+        "start": 1191,
+        "author": "Münzer"
       }
     ]
   },
@@ -16135,7 +16166,8 @@
     "chapters": [
       {
         "start": 1191,
-        "end": 1191
+        "end": 1191,
+        "author": "Münzer"
       }
     ]
   },
@@ -16182,7 +16214,8 @@
     "short_description": "Torquatus Evtl. ders. von Lucilius an zwei Stellen verspottet",
     "chapters": [
       {
-        "start": 1191
+        "start": 1191,
+        "author": "Münzer"
       }
     ]
   },
@@ -16193,7 +16226,8 @@
     "short_description": "Torquatus, war mit Cn. Cornelius Dolabella Nr. 134 in Sullas Umgebung bei der",
     "chapters": [
       {
-        "start": 1192
+        "start": 1192,
+        "author": "Münzer"
       }
     ]
   },
@@ -16218,7 +16252,8 @@
     "short_description": "Torquatus Augur, von einem Manlier im J. 57 v. Chr. adoptierter Sohn des P.",
     "chapters": [
       {
-        "start": 1192
+        "start": 1192,
+        "author": "Münzer"
       }
     ]
   },
@@ -16229,7 +16264,8 @@
     "short_description": "Torquatus, Quaestor 43 v. Chr.",
     "chapters": [
       {
-        "start": 1192
+        "start": 1192,
+        "author": "Münzer"
       }
     ]
   },
@@ -16240,7 +16276,8 @@
     "short_description": "Torquatus Ein Freund des Horaz",
     "chapters": [
       {
-        "start": 1193
+        "start": 1193,
+        "author": "Münzer"
       }
     ]
   },
@@ -16251,7 +16288,8 @@
     "short_description": "Torquatus, A. Praetor 167 v. Chr.",
     "chapters": [
       {
-        "start": 1193
+        "start": 1193,
+        "author": "Münzer"
       }
     ]
   },
@@ -16262,7 +16300,8 @@
     "short_description": "Torquatus, A. Bei Frontin. strat. III 5,3",
     "chapters": [
       {
-        "start": 1193
+        "start": 1193,
+        "author": "Münzer"
       }
     ]
   },
@@ -16284,7 +16323,8 @@
     "short_description": "Manlii Torquatii. Hier sind aufgeführt fünf Manlii Torquatii aus sullanischer",
     "chapters": [
       {
-        "start": 1194
+        "start": 1194,
+        "author": "Münzer"
       }
     ]
   },
@@ -16309,7 +16349,8 @@
     "short_description": "Torqua(tus), L., Q(uaestor) zw. 99 u. 94 v. Chr.",
     "chapters": [
       {
-        "start": 1199
+        "start": 1199,
+        "author": "Münzer"
       }
     ]
   },
@@ -16320,7 +16361,8 @@
     "short_description": "Torquatus, L. cos. 65 v. Chr.",
     "chapters": [
       {
-        "start": 1199
+        "start": 1199,
+        "author": "Münzer"
       }
     ]
   },
@@ -16331,7 +16373,8 @@
     "short_description": "Torquatus, L. Praetor 49 v. Chr., Führer einer Legion unter Pompeius, Sohn von",
     "chapters": [
       {
-        "start": 1203
+        "start": 1203,
+        "author": "Münzer"
       }
     ]
   },
@@ -16342,7 +16385,8 @@
     "short_description": "Torquatus, T. cos. 299 v. Chr.",
     "chapters": [
       {
-        "start": 1207
+        "start": 1207,
+        "author": "Münzer"
       }
     ]
   },
@@ -16353,7 +16397,8 @@
     "short_description": "Torquatus, T. cos. II 224 v. Chr.",
     "chapters": [
       {
-        "start": 1207
+        "start": 1207,
+        "author": "Münzer"
       }
     ]
   },
@@ -16378,7 +16423,8 @@
     "chapters": [
       {
         "start": 1210,
-        "end": 1210
+        "end": 1210,
+        "author": "Münzer"
       }
     ]
   },
@@ -16403,7 +16449,8 @@
     "chapters": [
       {
         "start": 1211,
-        "end": 1211
+        "end": 1211,
+        "author": "Münzer"
       }
     ]
   },
@@ -16510,7 +16557,8 @@
     "short_description": "Vulso, M. cos. 474 v. Chr. nach Diod. XI 63,1 s. Nr. 89",
     "chapters": [
       {
-        "start": 1223
+        "start": 1223,
+        "author": "Münzer"
       }
     ]
   },
@@ -16521,7 +16569,8 @@
     "short_description": "Vulso, M. Consulartribun 420 v. Chr.",
     "chapters": [
       {
-        "start": 1223
+        "start": 1223,
+        "author": "Münzer"
       }
     ]
   },
@@ -16532,7 +16581,8 @@
     "short_description": "Vulso, P. Consulartribun 400 v. Chr.",
     "chapters": [
       {
-        "start": 1224
+        "start": 1224,
+        "author": "Münzer"
       }
     ]
   },
@@ -16543,7 +16593,8 @@
     "short_description": "Vulso, P. Praetor 210 v. Chr.",
     "chapters": [
       {
-        "start": 1224
+        "start": 1224,
+        "author": "Münzer"
       }
     ]
   },
@@ -16554,7 +16605,8 @@
     "short_description": "Vulso, Q.",
     "chapters": [
       {
-        "start": 1224
+        "start": 1224,
+        "author": "Münzer"
       }
     ]
   },
@@ -16565,7 +16617,8 @@
     "short_description": "Vulso Capitolinus, A.",
     "chapters": [
       {
-        "start": 1224
+        "start": 1224,
+        "author": "Münzer"
       }
     ]
   },
@@ -16576,7 +16629,8 @@
     "short_description": "Vulso Longus, L. cos. 256 v. Chr.",
     "chapters": [
       {
-        "start": 1225
+        "start": 1225,
+        "author": "Münzer"
       }
     ]
   },
@@ -16602,7 +16656,7 @@
     "chapters": [
       {
         "start": 1226,
-        "author": "Münzer"
+        "author": "Fluss"
       }
     ]
   },
