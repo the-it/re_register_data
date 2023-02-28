@@ -4818,7 +4818,6 @@
   {
     "lemma": "Eumedes 9",
     "previous": "Eukles 20",
-    "next": "Plaetorius 18b",
     "proof_read": 3,
     "short_description": "siegreicher Sänger in Delphi 106 v. Chr., Vater des Eugeiton",
     "no_creative_height": true,
@@ -4832,19 +4831,21 @@
   },
   {
     "lemma": "Plaetorius 18b",
-    "previous": "Eumedes 9",
-    "next": "Eumoiros",
-    "redirect": true,
-    "short_description": "M. P. Nicon, parasitus Apollinis und quinquennalis des collegium cantorum in Rom",
+    "previous": "Pittheus 2",
+    "next": "Pleisthenes 4",
+    "proof_read": 2,
+    "short_description": "Μ. Plaetorius Nicon, parasitus Apollinis",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 188
+        "start": 546,
+        "end": 546,
+        "author": "Mario Bonaria."
       }
     ]
   },
   {
     "lemma": "Eumoiros",
-    "previous": "Plaetorius 18b",
     "next": "Eupolemos 14",
     "proof_read": 2,
     "short_description": "Schauspieler in Argos oder Umgebung 97-75 v. Chr., Sohn des Melantychos",
@@ -8618,7 +8619,7 @@
   {
     "lemma": "Παυσίκαι",
     "previous": "Pausanias 26",
-    "next": "Pausoi",
+    "next": "Παυσοί",
     "short_description": "Volk an der Nordwestgrenze des pers. Reiches",
     "chapters": [
       {
@@ -8628,18 +8629,23 @@
     ]
   },
   {
-    "lemma": "Pausoi",
+    "lemma": "Παυσοί",
     "previous": "Παυσίκαι",
     "next": "Peiraios 3",
+    "sort_key": "Pausoi",
+    "redirect": "Παυσίκαι",
+    "proof_read": 2,
+    "short_description": "Volk an der Nordwestgrenze des persischen Reiches",
     "chapters": [
       {
-        "start": 530
+        "start": 530,
+        "end": 530
       }
     ]
   },
   {
     "lemma": "Peiraios 3",
-    "previous": "Pausoi",
+    "previous": "Παυσοί",
     "next": "Pelops 5",
     "short_description": "P. von Sikyon, Schauspieler in Argos oder Umgebung in den J. 97-75 v. Chr.",
     "chapters": [
@@ -9934,10 +9940,13 @@
     "lemma": "Put",
     "previous": "Ptolemaios 79a",
     "next": "Pydna",
-    "short_description": "Fluß in Mauretania Tingit. = Phuth (s.d.).",
+    "sort_key": "Put",
+    "redirect": "Phuth",
+    "proof_read": 2,
     "chapters": [
       {
-        "start": 833
+        "start": 833,
+        "end": 833
       }
     ]
   },
@@ -12184,10 +12193,14 @@
     "lemma": "Ursicinus 9",
     "previous": "Ursicinus 8",
     "next": "Ursicinus 10",
-    "short_description": "U. von Ravenna, Märtyrer. = U. Nr. 8",
+    "sort_key": "Vrsicinus 9",
+    "redirect": "Ursicinus 8",
+    "proof_read": 2,
+    "short_description": "U. von Ravenna, Märtyrer = U. Nr. 8",
     "chapters": [
       {
-        "start": 1141
+        "start": 1141,
+        "end": 1141
       }
     ]
   },

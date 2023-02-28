@@ -3907,10 +3907,14 @@
     "lemma": "Hawila",
     "previous": "Haterius 9",
     "next": "Hedius 1",
-    "short_description": "Haulan, westarab. Gau, s. Ophir (S. XII 906) und .Hawila.",
+    "sort_key": "Hawila",
+    "redirect": "Ophir und Hawila",
+    "proof_read": 2,
+    "short_description": "Haulan, westarabischer Gau, s. Ophir und Ḥawila",
     "chapters": [
       {
-        "start": 384
+        "start": 384,
+        "end": 384
       }
     ]
   },
@@ -4382,8 +4386,12 @@
     ]
   },
   {
+    "lemma": "Iulius 342",
+    "next": "Iulius 357"
+  },
+  {
     "lemma": "Iulius 357",
-    "previous": "Iulius 341",
+    "previous": "Iulius 342",
     "next": "Iulius 357a",
     "short_description": "T. I. Maximus Manlianus, cos. suff. im J. 112 n. Chr.",
     "wp_link": "w:de:Titus Iulius Maximus",
@@ -6122,17 +6130,20 @@
   {
     "lemma": "Poreston",
     "previous": "Planta a",
-    "next": "Ris 1",
+    "next": "Ris",
+    "sort_key": "Poreston",
+    "redirect": "Anonymi 8",
+    "proof_read": 2,
+    "short_description": "Ort im oberen Savetal? s. Carniola (Carneola)",
     "chapters": [
       {
-        "start": 1709
+        "start": 1709,
+        "end": 1709
       }
     ]
   },
   {
     "lemma": "Ris 1",
-    "previous": "Poreston",
-    "next": "Selunto",
     "chapters": [
       {
         "start": 1709
@@ -6140,12 +6151,20 @@
     ]
   },
   {
+    "lemma": "Ris",
+    "next": "Selunto"
+  },
+  {
     "lemma": "Selunto",
-    "previous": "Ris 1",
+    "previous": "Ris",
     "next": "Zamareni",
+    "redirect": "Anonymi 8",
+    "proof_read": 2,
+    "short_description": "Ort im oberen Savetal? s. Carniola (Carneola)",
     "chapters": [
       {
-        "start": 1709
+        "start": 1709,
+        "end": 1709
       }
     ]
   },
