@@ -23618,7 +23618,8 @@
     "short_description": "L. G., Verfertiger schwarzer Reliefschalen in Cales im 3./2. Jh. v. Chr.",
     "chapters": [
       {
-        "start": 533
+        "start": 533,
+        "author": "Stein, [Arthur]"
       }
     ]
   },
@@ -23629,7 +23630,8 @@
     "short_description": "T. G., Verfertiger schwarzer Reliefschalen in Cales im 3./2. Jh. v. Chr.",
     "chapters": [
       {
-        "start": 533
+        "start": 533,
+        "author": "Stein, [Arthur]"
       }
     ]
   },
@@ -26211,7 +26213,7 @@
   {
     "lemma": "Hemiolion",
     "previous": "Ἡμιολία",
-    "next": "Heraios 1",
+    "next": "Hemiolios",
     "short_description": "Die Konventionalstrafe bei Verträgen",
     "chapters": [
       {
@@ -26222,8 +26224,39 @@
     ]
   },
   {
-    "lemma": "Heraios 1",
+    "lemma": "Hemiolios",
     "previous": "Hemiolion",
+    "next": "Hephaistion",
+    "chapters": [
+      {
+        "start": 906
+      }
+    ]
+  },
+  {
+    "lemma": "Hephaistion",
+    "previous": "Hemiolios",
+    "next": "Hera",
+    "chapters": [
+      {
+        "start": 906
+      }
+    ]
+  },
+  {
+    "lemma": "Hera",
+    "previous": "Hephaistion",
+    "next": "Heraios 1",
+    "chapters": [
+      {
+        "start": 906,
+        "end": 909
+      }
+    ]
+  },
+  {
+    "lemma": "Heraios 1",
+    "previous": "Hera",
     "next": "Heraios 1a",
     "short_description": "s. [1a]).",
     "chapters": [
