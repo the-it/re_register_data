@@ -1291,7 +1291,8 @@
     "short_description": "Anicia Faltonia s. Nr. 44",
     "chapters": [
       {
-        "start": 34
+        "start": 34,
+        "author": "Enßlin"
       }
     ]
   },
@@ -2930,7 +2931,8 @@
     "chapters": [
       {
         "start": 76,
-        "end": 77
+        "end": 77,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7775,7 +7777,7 @@
   {
     "lemma": "Prorogatio",
     "previous": "Proreus",
-    "next": "Proros",
+    "next": "Pro(r)sa",
     "short_description": "Die Verlängerung der Amtsgewalt in der röm. Republik",
     "chapters": [
       {
@@ -7784,21 +7786,9 @@
     ]
   },
   {
-    "lemma": "Proros",
-    "previous": "Prorogatio",
-    "next": "Pro(r)sa",
-    "short_description": "Person",
-    "chapters": [
-      {
-        "start": 839,
-        "author": "Aly"
-      }
-    ]
-  },
-  {
     "lemma": "Pro(r)sa",
-    "previous": "Proros",
-    "next": "Prosagogeus",
+    "previous": "Prorogatio",
+    "next": "Proros",
     "short_description": "Gottheit, die zu Postverta im Verhältnis der Polarität steht",
     "chapters": [
       {
@@ -7808,8 +7798,20 @@
     ]
   },
   {
-    "lemma": "Prosagogeus",
+    "lemma": "Proros",
     "previous": "Pro(r)sa",
+    "next": "Prosagogeus",
+    "short_description": "Person",
+    "chapters": [
+      {
+        "start": 839,
+        "author": "Aly"
+      }
+    ]
+  },
+  {
+    "lemma": "Prosagogeus",
+    "previous": "Proros",
     "next": "Proschion",
     "short_description": "Spitzel im Dienst eines Gewaltherren",
     "chapters": [
