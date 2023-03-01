@@ -8595,10 +8595,13 @@
     "lemma": "Priscillianus 5",
     "previous": "Pyramiden",
     "next": "prodigium",
-    "short_description": "Span. Asket, Bischof von Abila im 4. Jh. n. Chr.",
+    "redirect": true,
+    "proof_read": 2,
+    "short_description": "Span. Asket, Bischof von Abila",
     "chapters": [
       {
-        "start": 2283
+        "start": 2283,
+        "end": 2283
       }
     ]
   },
@@ -8643,7 +8646,7 @@
   {
     "lemma": "Programma",
     "previous": "πρόεδρος",
-    "next": "Prographe",
+    "next": "προγραφή",
     "chapters": [
       {
         "start": 2309,
@@ -8653,18 +8656,23 @@
     ]
   },
   {
-    "lemma": "Prographe",
+    "lemma": "προγραφή",
     "previous": "Programma",
     "next": "Prologos",
+    "sort_key": "Prographe",
+    "redirect": "Programma",
+    "proof_read": 2,
+    "short_description": "die schriftliche Verlautbarung, der Anschlag = programma",
     "chapters": [
       {
-        "start": 2312
+        "start": 2312,
+        "end": 2312
       }
     ]
   },
   {
     "lemma": "Prologos",
-    "previous": "Prographe",
+    "previous": "προγραφή",
     "next": "Promea",
     "short_description": "Die Einleitung des antiken Dramas",
     "chapters": [
@@ -8737,7 +8745,7 @@
   {
     "lemma": "Psephokleptes",
     "previous": "Psaios",
-    "next": "Psephologos",
+    "next": "ψηφολόγος",
     "chapters": [
       {
         "start": 2465,
@@ -8746,18 +8754,23 @@
     ]
   },
   {
-    "lemma": "Psephologos",
+    "lemma": "ψηφολόγος",
     "previous": "Psephokleptes",
     "next": "Pteleon 6",
+    "sort_key": "Psephologos",
+    "redirect": "Praestigiator",
+    "proof_read": 2,
+    "short_description": "der Taschenspieler",
     "chapters": [
       {
-        "start": 2465
+        "start": 2465,
+        "end": 2465
       }
     ]
   },
   {
     "lemma": "Pteleon 6",
-    "previous": "Psephologos",
+    "previous": "ψηφολόγος",
     "next": "Pteria 1",
     "short_description": "Ort auf der thrak. Chersonesos",
     "chapters": [

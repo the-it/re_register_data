@@ -90587,8 +90587,10 @@
     "lemma": "Gordiana",
     "previous": "Gongylos 1a",
     "next": "Gordianus 1",
+    "sort_key": "Gordiana",
     "redirect": "Ulpius 56",
     "proof_read": 3,
+    "short_description": "Ulpia G., Mutter des Kaisers Gordian I., s. Ulpius Nr. 56",
     "wd_link": "d:Q108494520",
     "chapters": [
       {
@@ -92802,9 +92804,14 @@
     "lemma": "Helix",
     "previous": "Helius 2",
     "next": "Helixoia",
+    "sort_key": "Helix",
+    "proof_read": 3,
+    "short_description": "Cn. Calpurnius H., Archon in Opus 1. Jh. v. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 122,
+        "end": 122,
         "author": "Hans Gärtner."
       }
     ]
@@ -93050,7 +93057,7 @@
   {
     "lemma": "Ἡμιχόριον",
     "previous": "Hema",
-    "next": "Ἡμικόλλιον",
+    "next": "Hemikollion",
     "sort_key": "Hemichorion",
     "proof_read": 3,
     "short_description": "Hemichorion, Halbchor im griechischen Drama",
@@ -93064,9 +93071,9 @@
     ]
   },
   {
-    "lemma": "Ἡμικόλλιον",
+    "lemma": "Hemikollion",
     "previous": "Ἡμιχόριον",
-    "next": "Hemiolia",
+    "next": "Ἡμιολία",
     "sort_key": "Hemikollion",
     "proof_read": 3,
     "short_description": "Hemikollion, Maßbezeichnung",
@@ -93080,19 +93087,24 @@
     ]
   },
   {
-    "lemma": "Hemiolia",
-    "previous": "Ἡμικόλλιον",
+    "lemma": "Ἡμιολία",
+    "previous": "Hemikollion",
     "next": "Hemiolion",
+    "sort_key": "Emiolia",
+    "proof_read": 3,
+    "short_description": "Hemiolia, die Konventionalstrafe bei Verträgen = Hemiolion",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 122,
+        "end": 122,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Hemiolion",
-    "previous": "Hemiolia",
+    "previous": "Ἡμιολία",
     "next": "Hemiolios",
     "chapters": [
       {
@@ -97541,9 +97553,14 @@
     "lemma": "Hyrkanos 6",
     "previous": "Hyrkanos 2",
     "next": "Hyrmine 1",
+    "sort_key": "Hyrkanos 6",
+    "proof_read": 3,
+    "short_description": "streichen.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 129,
+        "end": 129,
         "author": "Hans Gärtner."
       }
     ]
@@ -106253,9 +106270,14 @@
     "lemma": "Karkabos 2",
     "previous": "Karkabos",
     "next": "Karkesios",
+    "sort_key": "Karkabos 2",
+    "proof_read": 3,
+    "short_description": "streichen.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -133064,6 +133086,7 @@
     "next": "Phuth",
     "redirect": "Phretarchos",
     "proof_read": 3,
+    "short_description": "der Vorsteher einer Phratrie in Neapel aus der Kaiserzeit",
     "chapters": [
       {
         "start": 186,
@@ -133931,6 +133954,7 @@
   {
     "lemma": "Plaetorius 18a",
     "previous": "Pittheus 2",
+    "next": "Plaetorius 18b",
     "proof_read": 3,
     "short_description": "P. Nepos, cos. suff. 119 n. Chr. = A. Platorius Nepos Aponianus",
     "no_creative_height": true,
@@ -134016,9 +134040,13 @@
     "lemma": "Planta a",
     "previous": "Plancius 9",
     "next": "Platea 1a",
+    "proof_read": 3,
+    "short_description": "Ort im oberen Savetal? s. Carniola (Carneola)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 188,
+        "end": 188,
         "author": "Hans Gärtner."
       }
     ]
@@ -138115,7 +138143,7 @@
   {
     "lemma": "Psephokleptes",
     "previous": "Psellos",
-    "next": "Psephologos",
+    "next": "ψηφολόγος",
     "chapters": [
       {
         "start": 195,
@@ -138124,7 +138152,7 @@
     ]
   },
   {
-    "lemma": "Psephologos",
+    "lemma": "ψηφολόγος",
     "previous": "Psephokleptes",
     "next": "Pserima",
     "chapters": [
@@ -138136,7 +138164,7 @@
   },
   {
     "lemma": "Pserima",
-    "previous": "Psephologos",
+    "previous": "ψηφολόγος",
     "next": "Psiax",
     "sort_key": "Pserima",
     "proof_read": 3,
@@ -139638,7 +139666,7 @@
   {
     "lemma": "Rinubio",
     "previous": "Rind",
-    "next": "Ris",
+    "next": "Ris 1",
     "proof_read": 3,
     "short_description": "Ort im oberen Savetal vgl. Carniola (Carneola)",
     "no_creative_height": true,
@@ -139651,19 +139679,23 @@
     ]
   },
   {
-    "lemma": "Ris",
+    "lemma": "Ris 1",
     "previous": "Rinubio",
     "next": "Rochen und Seedrachen",
+    "proof_read": 3,
+    "short_description": "Ort im oberen Savetal? s. Carniola (Carneola)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 198,
+        "end": 198,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Rochen und Seedrachen",
-    "previous": "Ris",
+    "previous": "Ris 1",
     "next": "Rocobae",
     "chapters": [
       {
@@ -152561,9 +152593,14 @@
     "lemma": "Verona",
     "previous": "Verolamium",
     "next": "Verres 4",
+    "sort_key": "Verona",
+    "proof_read": 3,
+    "short_description": "Venet. Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 222,
+        "end": 222,
         "author": "Hans Gärtner."
       }
     ]
@@ -152881,9 +152918,13 @@
     "lemma": "Vetissos",
     "previous": "Vetis",
     "next": "Vettennius",
+    "proof_read": 3,
+    "short_description": "phrygischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 222,
+        "end": 222,
         "author": "Hans Gärtner."
       }
     ]
