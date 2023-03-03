@@ -1782,6 +1782,7 @@
     "lemma": "Acilius 29a",
     "previous": "Acilius 28a",
     "next": "Acilius 40",
+    "sort_key": "Acilius 29a",
     "proof_read": 3,
     "short_description": "L. A. Eutyches, archimimus in antonin. Zeit",
     "no_creative_height": true,
@@ -79889,6 +79890,7 @@
     "lemma": "Egrilius 2a",
     "previous": "Egretios",
     "next": "Egrilius 3",
+    "sort_key": "Egrilius 2a",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -88891,8 +88893,9 @@
     "lemma": "Gemina 3",
     "previous": "Gemina 2",
     "next": "Geminius 3",
+    "sort_key": "Gemina 3",
     "proof_read": 3,
-    "short_description": "Hörerin Plotins in Rom, Tochter der G. Nr. 2 (S XV 111).",
+    "short_description": "Hörerin Plotins in Rom, Tochter der G. Nr. 2",
     "no_creative_height": true,
     "chapters": [
       {
@@ -99707,7 +99710,7 @@
     "previous": "Ilucia",
     "next": "Ilugo",
     "proof_read": 3,
-    "short_description": "Mons Gebirge im südöstl. Hispanien",
+    "short_description": "Mons, Gebirge im südöstlichen Hispanien",
     "no_creative_height": true,
     "chapters": [
       {
@@ -111999,7 +112002,7 @@
     "previous": "Lebona 2",
     "next": "Lebra",
     "proof_read": 3,
-    "short_description": ": streichen",
+    "short_description": "streichen.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -129759,6 +129762,7 @@
     "previous": "Parmenion 2",
     "next": "Parmenon 4",
     "proof_read": 3,
+    "short_description": "streichen.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -153595,7 +153599,7 @@
   {
     "lemma": "Vicesima 1a",
     "previous": "Vicesima 1",
-    "next": "Ad Vice(n)simum 5",
+    "next": "Ad Vice(n)simum",
     "redirect": "vicesima manumissionum",
     "proof_read": 3,
     "chapters": [
@@ -153607,7 +153611,6 @@
   },
   {
     "lemma": "Ad Vice(n)simum 5",
-    "previous": "Vicesima 1a",
     "next": "Ad Vice(n)simum 6",
     "chapters": [
       {
@@ -153641,7 +153644,6 @@
   {
     "lemma": "Ad Vice(n)simum 8",
     "previous": "Ad Vice(n)simum 7",
-    "next": "vici magister",
     "chapters": [
       {
         "start": 224,
@@ -153650,8 +153652,12 @@
     ]
   },
   {
+    "lemma": "Ad Vice(n)simum",
+    "next": "vici magister"
+  },
+  {
     "lemma": "vici magister",
-    "previous": "Ad Vice(n)simum 8",
+    "previous": "Ad Vice(n)simum",
     "next": "Vicirius 1",
     "sort_key": "Vicimagister",
     "proof_read": 3,
