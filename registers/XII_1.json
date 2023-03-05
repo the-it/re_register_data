@@ -7895,11 +7895,14 @@
     "lemma": "Laios 2",
     "previous": "Laios 1a",
     "next": "Laios 3",
-    "short_description": "Kreter, wurde in eine Drossel verwandelt",
+    "sort_key": "Laios 2",
+    "proof_read": 2,
+    "short_description": "Kreter, zur Strafe in eine Drossel verwandelt",
     "chapters": [
       {
         "start": 512,
-        "author": "Lamer"
+        "end": 513,
+        "author": "Lamer."
       }
     ]
   },
@@ -7907,11 +7910,14 @@
     "lemma": "Laios 3",
     "previous": "Laios 2",
     "next": "Laios 4",
+    "sort_key": "Laios 3",
+    "proof_read": 2,
     "short_description": "Gefährte des Odysseus",
     "chapters": [
       {
         "start": 513,
-        "author": "Lamer"
+        "end": 513,
+        "author": "Lamer."
       }
     ]
   },
@@ -7919,11 +7925,14 @@
     "lemma": "Laios 4",
     "previous": "Laios 3",
     "next": "Laios 5",
-    "short_description": "Faustkämpfer, dem Herakles unterlag",
+    "sort_key": "Laios 4",
+    "proof_read": 2,
+    "short_description": "Faustkämpfer, dem Herakles unterlag, der auch gegen einen anderen kämpft",
     "chapters": [
       {
         "start": 513,
-        "author": "Lamer"
+        "end": 513,
+        "author": "Lamer."
       }
     ]
   },
@@ -7931,11 +7940,14 @@
     "lemma": "Laios 5",
     "previous": "Laios 4",
     "next": "Laios 6",
-    "short_description": "Nachkomme des Philaios",
+    "sort_key": "Laios 5",
+    "proof_read": 2,
+    "short_description": "Nachkomme des Philaios, halbmythische halbhistorische Person",
     "chapters": [
       {
         "start": 513,
-        "author": "Lamer"
+        "end": 513,
+        "author": "Lamer."
       }
     ]
   },
@@ -7943,35 +7955,60 @@
     "lemma": "Laios 6",
     "previous": "Laios 5",
     "next": "Laipso",
-    "short_description": "Prytanis",
+    "sort_key": "Laios 6",
+    "proof_read": 2,
+    "short_description": "ein Prytanis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 513,
-        "author": "Obst"
+        "end": 513,
+        "author": "Obst."
       }
     ]
   },
   {
     "lemma": "Laipso",
     "previous": "Laios 6",
-    "next": "Lais",
-    "short_description": "Person",
+    "next": "Lairbenos",
+    "sort_key": "Laipso",
+    "proof_read": 2,
+    "short_description": "Tribunus des Auxilium palatinum der Cornuti, † 357 n. Chr. bei Straßburg",
     "chapters": [
       {
         "start": 513,
-        "author": "Seeck"
+        "end": 513,
+        "author": "Seeck."
+      }
+    ]
+  },
+  {
+    "lemma": "Lairbenos",
+    "previous": "Laipso",
+    "next": "Lais",
+    "redirect": true,
+    "proof_read": 2,
+    "short_description": "Beiname des Apollon",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 513,
+        "end": 513
       }
     ]
   },
   {
     "lemma": "Lais",
-    "previous": "Laipso",
+    "previous": "Lairbenos",
     "next": "Lais 1",
-    "short_description": "Hetärenname",
+    "sort_key": "Lais",
+    "proof_read": 2,
+    "short_description": "Hetärenname, griechisch oder semitisch",
     "chapters": [
       {
         "start": 513,
-        "author": "Geyer"
+        "end": 514,
+        "author": "Geyer."
       }
     ]
   },
@@ -7979,11 +8016,14 @@
     "lemma": "Lais 1",
     "previous": "Lais",
     "next": "Lais 2",
-    "short_description": "Korinthische Hetäre",
+    "sort_key": "Lais 1",
+    "proof_read": 2,
+    "short_description": "korinthische Hetäre mit hohen Forderungen, später Trinkerin",
     "chapters": [
       {
         "start": 514,
-        "author": "Geyer"
+        "end": 515,
+        "author": "Geyer."
       }
     ]
   },
@@ -7991,11 +8031,14 @@
     "lemma": "Lais 2",
     "previous": "Lais 1",
     "next": "Lais 3",
-    "short_description": "Tochter der Timandra",
+    "sort_key": "Lais 2",
+    "proof_read": 2,
+    "short_description": "Tochter der Timandra, die Männerbesiegerin",
     "chapters": [
       {
         "start": 515,
-        "author": "Geyer"
+        "end": 516,
+        "author": "Geyer."
       }
     ]
   },
@@ -8003,11 +8046,14 @@
     "lemma": "Lais 3",
     "previous": "Lais 2",
     "next": "Lais 4",
-    "short_description": "Beliebiger Name bei Mart. III 11,3",
+    "sort_key": "Lais 3",
+    "proof_read": 2,
+    "short_description": "beliebiger Name bei Martial für ein Mädchen",
     "chapters": [
       {
         "start": 516,
-        "author": "Lieben"
+        "end": 516,
+        "author": "Lieben."
       }
     ]
   },
@@ -8015,11 +8061,14 @@
     "lemma": "Lais 4",
     "previous": "Lais 3",
     "next": "Laisch",
-    "short_description": "Hebamme",
+    "sort_key": "Lais 4",
+    "proof_read": 2,
+    "short_description": "Hebamme wie Sotira und Salpe, kurierte Fieber und Tollwut",
     "chapters": [
       {
         "start": 516,
-        "author": "Kind"
+        "end": 516,
+        "author": "Kind."
       }
     ]
   },

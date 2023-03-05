@@ -13451,35 +13451,41 @@
   {
     "lemma": "Kardopion",
     "previous": "Kardia",
-    "next": "Karduchoi",
+    "next": "Καρδοῦχοι",
+    "sort_key": "Kardopion",
+    "proof_read": 2,
     "short_description": "Held einer altfränkischen Geschichte",
     "chapters": [
       {
         "start": 1933,
-        "author": "Kroll"
+        "end": 1933,
+        "author": "Kroll."
       }
     ]
   },
   {
-    "lemma": "Karduchoi",
+    "lemma": "Καρδοῦχοι",
     "previous": "Kardopion",
     "next": "Καρδουηνή",
-    "short_description": "Volk am oberen Tigris",
+    "sort_key": "Karduchoi",
+    "proof_read": 2,
+    "short_description": "Karduchoi, Volk am oberen Tigris",
     "chapters": [
       {
         "start": 1933,
         "end": 1938,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Καρδουηνή",
-    "previous": "Karduchoi",
+    "previous": "Καρδοῦχοι",
     "next": "Καρδυαία",
     "sort_key": "Karduene",
-    "redirect": "Karduchoi",
+    "redirect": "Καρδοῦχοι",
     "proof_read": 2,
+    "short_description": "Karduene",
     "chapters": [
       {
         "start": 1938,
@@ -13492,8 +13498,9 @@
     "previous": "Καρδουηνή",
     "next": "Κάρδυνον ὄρος",
     "sort_key": "Kardyaia",
-    "redirect": "Karduchoi",
+    "redirect": "Καρδοῦχοι",
     "proof_read": 2,
+    "short_description": "Kardyaia",
     "chapters": [
       {
         "start": 1938,
@@ -13504,10 +13511,11 @@
   {
     "lemma": "Κάρδυνον ὄρος",
     "previous": "Καρδυαία",
-    "next": "Kardys",
+    "next": "Κάρδυς",
     "sort_key": "Kardynon oros",
     "redirect": "Gordyaia ore",
     "proof_read": 2,
+    "short_description": "Kardynon oros",
     "chapters": [
       {
         "start": 1938,
@@ -13516,19 +13524,23 @@
     ]
   },
   {
-    "lemma": "Kardys",
+    "lemma": "Κάρδυς",
     "previous": "Κάρδυνον ὄρος",
     "next": "Καρέα",
+    "sort_key": "Kardys",
+    "proof_read": 2,
+    "short_description": "Kardys, Dämon zum Backtrog",
     "chapters": [
       {
         "start": 1938,
-        "author": "Kern"
+        "end": 1938,
+        "author": "Kern."
       }
     ]
   },
   {
     "lemma": "Καρέα",
-    "previous": "Kardys",
+    "previous": "Κάρδυς",
     "next": "Kareios",
     "sort_key": "Karea",
     "proof_read": 2,
