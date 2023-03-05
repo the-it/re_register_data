@@ -1766,7 +1766,7 @@
   {
     "lemma": "Gemina 2",
     "previous": "Gavinius(?)",
-    "next": "Haterius 7",
+    "next": "Gemina 3",
     "proof_read": 3,
     "short_description": "Hörerin Plotins in Rom, Mutter der G. Nr. 3",
     "no_creative_height": true,
@@ -1779,12 +1779,9 @@
     ]
   },
   {
-    "lemma": "Haterius 7",
-    "previous": "Gemina 2"
-  },
-  {
     "lemma": "Gemina 3",
-    "next": "Heliodoros 12a",
+    "previous": "Gemina 2",
+    "next": "Haterius 7",
     "short_description": "Hörerin Plotins in Rom, Tochter der G. Nr. 2 (S XV 111).",
     "chapters": [
       {
@@ -1794,8 +1791,31 @@
     ]
   },
   {
-    "lemma": "Heliodoros 12a",
+    "lemma": "Haterius 7",
     "previous": "Gemina 3",
+    "next": "Heius 4",
+    "chapters": [
+      {
+        "start": 111,
+        "end": 112,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Heius 4",
+    "previous": "Haterius 7",
+    "next": "Heliodoros 12a",
+    "chapters": [
+      {
+        "start": 112,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Heliodoros 12a",
+    "previous": "Heius 4",
     "next": "Herakleides 34a",
     "short_description": "H. von Alexandreia, Peripatetiker in der 1. H. des 3. Jh. n. Chr.",
     "chapters": [
@@ -1820,7 +1840,7 @@
   {
     "lemma": "Hippodamas 3a",
     "previous": "Herakleides 34a",
-    "next": "Heius 4",
+    "next": "Hostilianus 1a",
     "short_description": "Rhetor(?) im 4. Jh. (2._H.?) v. Chr.",
     "chapters": [
       {
@@ -1831,23 +1851,8 @@
     ]
   },
   {
-    "lemma": "Heius 4",
-    "previous": "Hippodamas 3a",
-    "next": "Hostilianus 1a",
-    "proof_read": 2,
-    "short_description": "M. H., Präfekt von Aegypten 42-45 n. Chr.",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 112,
-        "end": 112,
-        "author": "Werner Eck."
-      }
-    ]
-  },
-  {
     "lemma": "Hostilianus 1a",
-    "previous": "Heius 4",
+    "previous": "Hippodamas 3a",
     "next": "Hostilius 9a",
     "short_description": "H. Hesychios von Apameia, Adoptivsohn des Amelius (I 1822) Gentilianus",
     "chapters": [
