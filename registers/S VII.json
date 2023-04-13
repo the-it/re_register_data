@@ -1386,30 +1386,46 @@
     "lemma": "Fabius 134a",
     "previous": "Euf(?)",
     "next": "Fadius 4a",
-    "short_description": "F. Proculus, Quellenautor Plinius, d.Ä.",
+    "proof_read": 2,
+    "short_description": "F. Proculus, Quellenautor bei Plinius d. Ä.",
     "chapters": [
       {
         "start": 199,
-        "author": "Kroll"
+        "end": 199,
+        "author": "W. Kroll."
       }
     ]
   },
   {
     "lemma": "Fadius 4a",
     "previous": "Fabius 134a",
-    "next": "Falerius (K) 3",
-    "short_description": "M. F. Celer Flavianus, ritterlicher Statthalter der Provinz Mauretania Tingit.",
+    "next": "Falerius 3",
+    "proof_read": 2,
+    "short_description": "M. F. Celer Flavianus, Statthalter der Provinz Mauretania Tingit. 44 n. Chr.",
     "chapters": [
       {
         "start": 199,
-        "author": "Stein, [Arthur]"
+        "end": 200,
+        "author": "A. Stein."
+      }
+    ]
+  },
+  {
+    "lemma": "Falerius 3",
+    "previous": "Fadius 4a",
+    "next": "Flavius 34a",
+    "proof_read": 2,
+    "short_description": "Signum des Kaisers Gallienus auf Gold- und Silbermedaillons",
+    "chapters": [
+      {
+        "start": 200,
+        "end": 200,
+        "author": "W. Kubitschek †."
       }
     ]
   },
   {
     "lemma": "Falerius (K) 3",
-    "previous": "Fadius 4a",
-    "next": "Flavius 34a",
     "short_description": "Signum des Kaisers Gallienus (s. Licinius Nr. 84).",
     "chapters": [
       {
@@ -1420,13 +1436,14 @@
   },
   {
     "lemma": "Flavius 34a",
-    "previous": "Falerius (K) 3",
+    "previous": "Falerius 3",
     "next": "Flavius 37a",
-    "short_description": "F. Aper, Offizier unter Gallienus (s. Licinius Nr. 84 [XIII 350]) = L. F. Nr.",
+    "short_description": "F. Aper, Offizier unter Gallienus in den dakischen Legionen",
     "chapters": [
       {
         "start": 200,
-        "author": "Saria"
+        "end": 201,
+        "author": "B. Saria."
       }
     ]
   },
@@ -1434,11 +1451,13 @@
     "lemma": "Flavius 37a",
     "previous": "Flavius 34a",
     "next": "Flavius 46a",
-    "short_description": "F. Apollonius, proc. Aug. a pinacothecis in der 1. H. des 2. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "F. Apollonius, proc. Aug. a pinacothecis 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 201,
-        "author": "Stein, [Arthur]"
+        "end": 201,
+        "author": "Stein."
       }
     ]
   },
@@ -1446,29 +1465,36 @@
     "lemma": "Flavius 46a",
     "previous": "Flavius 37a",
     "next": "Flavius 76a",
-    "short_description": "T. F. Asclepas, proc. quadragesimae (portuum Asiae) zu Ende des 1. oder im 2.",
+    "proof_read": 2,
+    "short_description": "T. F. Asclepas, proc. quadragesimae (portuum Asiae) 1./2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 201,
-        "author": "Stein, [Arthur]"
+        "end": 201,
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Flavius 76a",
     "previous": "Flavius 46a",
-    "next": "Flavius 97",
-    "short_description": "F. Domitianus, praef. ann., curator von Ostia nicht vor dem 3. Jh. n. Chr.",
+    "next": "Flavius 82",
+    "proof_read": 2,
+    "short_description": "F. Domitianus, praefectus annonae, curator von Ostia 3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 201,
-        "author": "Stein, [Arthur]"
+        "end": 201,
+        "author": "Stein."
       }
     ]
   },
   {
+    "lemma": "Flavius 82",
+    "previous": "Flavius 76a"
+  },
+  {
     "lemma": "Flavius 97",
-    "previous": "Flavius 76a",
     "next": "Flavius 128a",
     "short_description": "T. F. Glaucus, advocatus fisci um die Mitte des 3. Jh. n. Chr. .",
     "chapters": [
@@ -1482,11 +1508,13 @@
     "lemma": "Flavius 128a",
     "previous": "Flavius 97",
     "next": "Flavius 146a",
-    "short_description": "M. F. Marcianus Ilis(s)us, Inhaber mehrerer Prokuraturen in der 2. H. des 2.",
+    "proof_read": 2,
+    "short_description": "M. F. Marcianus Ilis(s)us, Inhaber mehrerer Prokuraturen 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 201,
-        "author": "Stein, [Arthur]"
+        "end": 201,
+        "author": "Stein."
       }
     ]
   },
@@ -1494,11 +1522,13 @@
     "lemma": "Flavius 146a",
     "previous": "Flavius 128a",
     "next": "Flavius 184a",
+    "proof_read": 2,
     "short_description": "F. Philoxenus, Epistratege der Thebais im J. 117/8 n. Chr.",
     "chapters": [
       {
         "start": 201,
-        "author": "Stein, [Arthur]"
+        "end": 202,
+        "author": "Stein."
       }
     ]
   },
@@ -1506,11 +1536,13 @@
     "lemma": "Flavius 184a",
     "previous": "Flavius 146a",
     "next": "Fluchtafeln",
+    "proof_read": 2,
     "short_description": "F. Studiosus, Dioiket in Aegypten im J. 199/200 n. Chr.",
     "chapters": [
       {
         "start": 202,
-        "author": "Stein, [Arthur]"
+        "end": 202,
+        "author": "Stein."
       }
     ]
   },
@@ -1518,10 +1550,15 @@
     "lemma": "Fluchtafeln",
     "previous": "Flavius 184a",
     "next": "Gabinius 14a",
+    "proof_read": 2,
+    "short_description": "Verwünschung mit einem Bindezauber gegen einen anderen",
+    "wp_link": "w:de:Fluchtafel",
+    "wd_link": "d:Q1430557",
     "chapters": [
       {
         "start": 202,
-        "author": "Ziebarth"
+        "end": 203,
+        "author": "Erich Ziebarth."
       }
     ]
   },

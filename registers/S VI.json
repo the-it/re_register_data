@@ -2246,7 +2246,6 @@
   {
     "lemma": "Exekution",
     "previous": "Euryalos 1a",
-    "next": "Fufius 5a",
     "sort_key": "Exekution",
     "short_description": "die Zwangsvollstreckung, die Verwirklichung eines Rechtes",
     "wp_link": "w:de:Zwangsvollstreckungsrecht",
@@ -2260,14 +2259,20 @@
     ]
   },
   {
+    "lemma": "Flavius 113",
+    "next": "Fufius 5a"
+  },
+  {
     "lemma": "Fufius 5a",
-    "previous": "Exekution",
+    "previous": "Flavius 113",
     "next": "Gaesatorix",
+    "proof_read": 2,
     "short_description": "L. F., cos. suff. (in der 1. H. des 1. Jh. n. Chr.?)",
     "chapters": [
       {
         "start": 69,
-        "author": "Fluss"
+        "end": 70,
+        "author": "Max Fluss."
       }
     ]
   },
@@ -2345,7 +2350,7 @@
   {
     "lemma": "Grabaei",
     "previous": "Gnome, Gnomendichtung, Gnomologien",
-    "next": "Harpokration 3.5",
+    "next": "Haartracht, Haarschmuck",
     "short_description": "Illyr. Volk",
     "chapters": [
       {
@@ -2355,8 +2360,22 @@
     ]
   },
   {
-    "lemma": "Harpokration 3.5",
+    "lemma": "Haartracht, Haarschmuck",
     "previous": "Grabaei",
+    "sort_key": "Haartracht",
+    "short_description": "die Frisuren der Männer und Frauen in Griechenland und Rom",
+    "wp_link": "w:de:Frisur",
+    "wd_link": "d:Q327496",
+    "chapters": [
+      {
+        "start": 90,
+        "end": 102,
+        "author": "Marg. Stephan."
+      }
+    ]
+  },
+  {
+    "lemma": "Harpokration 3.5",
     "next": "Helixoia",
     "short_description": "Valerius H., griech. Grammatiker im 2. Jh. n. Chr.(?)",
     "chapters": [

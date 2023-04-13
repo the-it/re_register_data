@@ -12049,11 +12049,14 @@
     "lemma": "Myndos 2",
     "previous": "Myndos 1",
     "next": "Myndos 3",
+    "sort_key": "Myndos 2",
+    "proof_read": 2,
     "short_description": "Stadt in Lykien",
     "chapters": [
       {
         "start": 1079,
-        "author": "Ruge"
+        "end": 1079,
+        "author": "W. Ruge."
       }
     ]
   },
@@ -12061,11 +12064,14 @@
     "lemma": "Myndos 3",
     "previous": "Myndos 2",
     "next": "Myndry(tus?)",
-    "short_description": "Insel d. Ikarischen Meeres?",
+    "sort_key": "Myndos 3",
+    "proof_read": 2,
+    "short_description": "Insel des Ikarischen Meeres?",
     "chapters": [
       {
         "start": 1079,
-        "author": "Kroll"
+        "end": 1079,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -12073,22 +12079,47 @@
     "lemma": "Myndry(tus?)",
     "previous": "Myndos 3",
     "next": "Mynes 1",
+    "sort_key": "Myndry(tus?)",
+    "proof_read": 2,
+    "short_description": "thrakische Gottheit, erwähnt in einer Inschrift",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1079,
-        "author": "Kazarow"
+        "end": 1079,
+        "author": "G. Kazarow."
+      }
+    ]
+  },
+  {
+    "lemma": "Mynes",
+    "previous": "Myndry(tus?)",
+    "next": "Mynes 1",
+    "sort_key": "Mynes 0",
+    "proof_read": 2,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1079,
+        "end": 1079,
+        "author": "J. Schmidt."
       }
     ]
   },
   {
     "lemma": "Mynes 1",
-    "previous": "Myndry(tus?)",
+    "previous": "Mynes",
     "next": "Mynes 2",
-    "short_description": "Sohn d. Selepiaden Euenos",
+    "sort_key": "Mynes 1",
+    "proof_read": 3,
+    "short_description": "Prinz von Lyrnessos in der Ilias, Sohn des Euenos",
+    "wp_link": "w:fr:Mynès",
+    "wd_link": "d:Q3331425",
     "chapters": [
       {
         "start": 1079,
-        "author": "Schmidt"
+        "end": 1080,
+        "author": "J. Schmidt."
       }
     ]
   },
@@ -12096,11 +12127,15 @@
     "lemma": "Mynes 2",
     "previous": "Mynes 1",
     "next": "Mynichos",
-    "short_description": "Ein myth. Ahnherr in d. künstl. Genealogen d. att. Königshauses",
+    "proof_read": 2,
+    "short_description": "mythischer Ahnherr des attischen Königshauses",
+    "wp_link": "w:de:Mynes (Vater der Pedias)",
+    "wd_link": "d:Q117310397",
     "chapters": [
       {
         "start": 1080,
-        "author": "Schmidt"
+        "end": 1080,
+        "author": "J. Schmidt."
       }
     ]
   },
@@ -12138,40 +12173,50 @@
     "lemma": "Mynnion",
     "previous": "Μύνις",
     "next": "Mynniskos",
+    "sort_key": "Mynnion",
+    "short_description": "Bildhauer am Fries des Erechtheions, Metoike in Athen (Agryle) 407 v. Chr.",
     "chapters": [
       {
         "start": 1080,
-        "author": "Lippold, Georg"
+        "end": 1080,
+        "author": "G. Lippold."
       }
     ]
   },
   {
     "lemma": "Mynniskos",
     "previous": "Mynnion",
-    "next": "Myodia",
-    "short_description": "M. aus dem euboi. Chalkis Nr. 1, Schauspieler z. Zt. des Aischylos = M.,",
+    "next": "Μυοδία",
+    "sort_key": "Mynniskos",
+    "proof_read": 2,
+    "short_description": "M. aus Chalkis Nr. 1 in Euboia, Schauspieler zur Zeit des Aischylos",
     "chapters": [
       {
         "start": 1080,
-        "author": "Diehl, Ernst"
+        "end": 1080,
+        "author": "E. Diehl."
       }
     ]
   },
   {
-    "lemma": "Myodia",
+    "lemma": "Μυοδία",
     "previous": "Mynniskos",
     "next": "Myon",
+    "sort_key": "Myodia",
+    "proof_read": 2,
+    "short_description": "Myodia, Bischofssitz in Pamphylien",
     "chapters": [
       {
         "start": 1080,
-        "author": "Ruge"
+        "end": 1080,
+        "author": "W. Ruge."
       }
     ]
   },
   {
     "lemma": "Myon",
-    "previous": "Myodia",
-    "next": "Myonnesos 1",
+    "previous": "Μυοδία",
+    "next": "Μυόννησος 1",
     "redirect": "Myania",
     "proof_read": 2,
     "chapters": [
@@ -12182,20 +12227,23 @@
     ]
   },
   {
-    "lemma": "Myonnesos 1",
+    "lemma": "Μυόννησος 1",
     "previous": "Myon",
     "next": "Myonnesos 2",
-    "short_description": "Kleine Insel H. Nikolaos zw. Larisa Kremaste u. Antron",
+    "sort_key": "Myonnesos 1",
+    "proof_read": 2,
+    "short_description": "Kleine Insel H. Nikolaos zwischen Larisa Kremaste und Antron",
     "chapters": [
       {
         "start": 1080,
-        "author": "Stählin"
+        "end": 1080,
+        "author": "Friedr. Stählin."
       }
     ]
   },
   {
     "lemma": "Myonnesos 2",
-    "previous": "Myonnesos 1",
+    "previous": "Μυόννησος 1",
     "next": "Myoparon",
     "short_description": "Küstenvorsprung zw. Teos u. Lebedos in Ionien",
     "chapters": [
