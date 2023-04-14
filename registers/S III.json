@@ -23026,7 +23026,7 @@
   {
     "lemma": "Fidelis 5",
     "previous": "Fictiliarius",
-    "next": "Fines, ad Fines 3a",
+    "next": "Fificulanus pagus",
     "proof_read": 2,
     "short_description": "Sigillatatöpfer (in Rheinzabern?) im 2. Jh. n. Chr.",
     "chapters": [
@@ -23038,18 +23038,20 @@
     ]
   },
   {
-    "lemma": "Fines, ad Fines 3a",
+    "lemma": "Fificulanus pagus",
     "previous": "Fidelis 5",
-    "short_description": "F., Grenzort zwischen den kelt. Pictones und Santoni.",
+    "next": "Fines, ad fines 3a",
     "chapters": [
       {
-        "start": 523,
-        "author": "Keune"
+        "start": 522,
+        "end": 523,
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Fines, ad fines 3a",
+    "previous": "Fificulanus pagus",
     "next": "Fines, ad fines 3b",
     "sort_key": "Fines,ad fines 3a",
     "proof_read": 2,
@@ -23092,7 +23094,7 @@
   {
     "lemma": "Fines, ad fines 12a",
     "previous": "Fines, ad fines 5",
-    "next": "Fines, ad Fines 14a",
+    "next": "Fines, ad fines 14a",
     "sort_key": "Fines,ad fines 12a",
     "proof_read": 2,
     "short_description": "F. Aeduorum.",
@@ -23105,7 +23107,7 @@
     ]
   },
   {
-    "lemma": "Fines, ad Fines 14a",
+    "lemma": "Fines, ad fines 14a",
     "previous": "Fines, ad fines 12a",
     "short_description": "F. Atrebatium, Ort in Gallia Belgica.",
     "chapters": [
@@ -23114,6 +23116,10 @@
         "author": "Keune"
       }
     ]
+  },
+  {
+    "lemma": "Fines, ad fines 18",
+    "next": "Fines, ad fines 23"
   },
   {
     "lemma": "Fines, ad fines 23",
