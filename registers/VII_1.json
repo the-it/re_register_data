@@ -11520,7 +11520,7 @@
   {
     "lemma": "Galaios",
     "previous": "Galaesus 2",
-    "next": "Galaistes 1",
+    "next": "Galaiu paga",
     "proof_read": 2,
     "short_description": "Archon in Delos 376/5 v. Chr.",
     "chapters": [
@@ -11532,8 +11532,20 @@
     ]
   },
   {
-    "lemma": "Galaistes 1",
+    "lemma": "Galaiu paga",
     "previous": "Galaios",
+    "next": "Galaistes 1",
+    "short_description": "Quelle in Achaia Phthiotis",
+    "chapters": [
+      {
+        "start": 514,
+        "author": "Bürchner"
+      }
+    ]
+  },
+  {
+    "lemma": "Galaistes 1",
+    "previous": "Galaiu paga",
     "next": "Galaistes 2",
     "short_description": "Sohn des Athamanenkönigs Amynandros, 2. Jh. v. Chr.",
     "chapters": [
@@ -11546,7 +11558,7 @@
   {
     "lemma": "Galaistes 2",
     "previous": "Galaistes 1",
-    "next": "Galaiu paga",
+    "next": "Galako",
     "proof_read": 2,
     "short_description": "Kommandant der jüdischen Festung Agaba, nimmt Aristobulos II. auf",
     "chapters": [
@@ -11558,21 +11570,9 @@
     ]
   },
   {
-    "lemma": "Galaiu paga",
-    "previous": "Galaistes 2",
-    "next": "Galako",
-    "short_description": "Quelle in Achaia Phthiotis",
-    "chapters": [
-      {
-        "start": 514,
-        "author": "Bürchner"
-      }
-    ]
-  },
-  {
     "lemma": "Galako",
-    "previous": "Galaiu paga",
-    "next": "Galaktophagoi",
+    "previous": "Galaistes 2",
+    "next": "Galaktion",
     "short_description": "Quelle von Las in Lakonien",
     "chapters": [
       {
@@ -11582,8 +11582,19 @@
     ]
   },
   {
-    "lemma": "Galaktophagoi",
+    "lemma": "Galaktion",
     "previous": "Galako",
+    "next": "Galaktophagoi",
+    "chapters": [
+      {
+        "start": 514,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Galaktophagoi",
+    "previous": "Galaktion",
     "next": "Galan",
     "short_description": "Südruss. Nomadenstamm",
     "chapters": [
