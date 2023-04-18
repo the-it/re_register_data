@@ -22620,10 +22620,14 @@
     "lemma": "Fannius 1",
     "previous": "Fallgatter",
     "next": "Fannius 7",
+    "sort_key": "Fannius 1",
+    "proof_read": 2,
     "short_description": "Legat des Cassius 43 v. Chr.",
     "chapters": [
       {
-        "start": 480
+        "start": 480,
+        "end": 480,
+        "author": "Münzer."
       }
     ]
   },
@@ -23041,6 +23045,9 @@
     "lemma": "Fificulanus pagus",
     "previous": "Fidelis 5",
     "next": "Fines, ad fines 3a",
+    "sort_key": "Fificulanuspagus",
+    "proof_read": 2,
+    "short_description": "Örtlichkeit im Gebiet der Sabiner",
     "chapters": [
       {
         "start": 522,
@@ -23083,11 +23090,14 @@
     "lemma": "Fines, ad fines 5",
     "previous": "Fines, ad fines 3b",
     "next": "Fines, ad fines 12a",
+    "sort_key": "Fines,ad fines 5",
+    "proof_read": 2,
     "short_description": "Ort der Straße Burdigala - Augustodunum",
     "chapters": [
       {
         "start": 523,
-        "author": "Keune"
+        "end": 523,
+        "author": "Keune."
       }
     ]
   },
@@ -23109,17 +23119,32 @@
   {
     "lemma": "Fines, ad fines 14a",
     "previous": "Fines, ad fines 12a",
-    "short_description": "F. Atrebatium, Ort in Gallia Belgica.",
+    "next": "Fines, ad fines 18",
+    "sort_key": "Fines,ad fines 14a",
+    "proof_read": 2,
+    "short_description": "F. Atrebatium, Ort in Gallia Belgica",
     "chapters": [
       {
         "start": 523,
-        "author": "Keune"
+        "end": 523,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Fines, ad fines 18",
-    "next": "Fines, ad fines 23"
+    "previous": "Fines, ad fines 14a",
+    "next": "Fines, ad fines 23",
+    "sort_key": "Fines,ad fines 18",
+    "proof_read": 2,
+    "short_description": "F. Grenzort zwischen Germania superior und inferior",
+    "chapters": [
+      {
+        "start": 523,
+        "end": 523,
+        "author": "Keune."
+      }
+    ]
   },
   {
     "lemma": "Fines, ad fines 23",
@@ -23381,7 +23406,16 @@
   {
     "lemma": "Floridus",
     "previous": "Florianus 9",
-    "next": "Florus 11"
+    "next": "Florus 11",
+    "proof_read": 2,
+    "short_description": "germanischer Sigillatatöpfer in Rheinzabern 2. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 527,
+        "end": 527,
+        "author": "Hähnle."
+      }
+    ]
   },
   {
     "lemma": "Florus 11",
@@ -23414,7 +23448,16 @@
   {
     "lemma": "Foetus",
     "previous": "Florus 12",
-    "next": "Fonteius 7a"
+    "next": "Fonteius 7a",
+    "proof_read": 2,
+    "short_description": "ein Ort in Raetien",
+    "chapters": [
+      {
+        "start": 528,
+        "end": 528,
+        "author": "Hopfner."
+      }
+    ]
   },
   {
     "lemma": "Fonteius 7a",
@@ -23432,11 +23475,32 @@
   },
   {
     "lemma": "Fonteius 9",
-    "previous": "Fonteius 7a"
+    "previous": "Fonteius 7a",
+    "next": "Fonteius 20",
+    "sort_key": "Fonteius 09",
+    "proof_read": 2,
+    "short_description": "M'. F., Münzmeister um 84 v. Chr.",
+    "chapters": [
+      {
+        "start": 528,
+        "end": 528,
+        "author": "Münzer."
+      }
+    ]
   },
   {
     "lemma": "Fonteius 20",
-    "next": "Fonteius 30a"
+    "previous": "Fonteius 9",
+    "next": "Fonteius 30a",
+    "proof_read": 2,
+    "short_description": "C. F. Capito, cos. suff. 33 v. Chr.",
+    "chapters": [
+      {
+        "start": 528,
+        "end": 528,
+        "author": "Münzer."
+      }
+    ]
   },
   {
     "lemma": "Fonteius 30a",
@@ -27670,7 +27734,8 @@
     "next": "Igonta",
     "proof_read": 2,
     "short_description": "I. Magister, byzant. Gelehrter um 900 n. Chr.",
-    "wd_link": "d:Q97642596",
+    "wp_link": "w:el:Ιγνάτιος μάγιστρος",
+    "wd_link": "d:Q16328097",
     "chapters": [
       {
         "start": 1205,
