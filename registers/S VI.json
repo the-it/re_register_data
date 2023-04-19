@@ -2262,7 +2262,6 @@
   {
     "lemma": "Fasti",
     "previous": "Exekution",
-    "next": "Favorinus",
     "sort_key": "Fasti",
     "proof_read": 2,
     "short_description": "Tagesverzeichnisse und die römische Eponymenliste",
@@ -2277,12 +2276,43 @@
     ]
   },
   {
+    "lemma": "Favorianae figlinae",
+    "next": "Favorinus"
+  },
+  {
     "lemma": "Favorinus",
-    "previous": "Fasti"
+    "previous": "Favorianae figlinae",
+    "next": "Faurianae figlinae",
+    "proof_read": 3,
+    "short_description": "Favorinus aus Arelate, Sophist im 1./2. Jh. n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Favorinus",
+    "ws_link": "s:it:Autore:Favorino",
+    "wd_link": "d:Q554387",
+    "chapters": [
+      {
+        "start": 110,
+        "end": 110,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Faurianae figlinae",
+    "previous": "Favorinus"
   },
   {
     "lemma": "Flavius 113",
-    "next": "Fufius 5a"
+    "next": "Fufius 5a",
+    "proof_read": 2,
+    "short_description": "F. Latronianus, cos. suff. um 230 n. Chr.",
+    "chapters": [
+      {
+        "start": 70,
+        "end": 70,
+        "author": "Groag."
+      }
+    ]
   },
   {
     "lemma": "Fufius 5a",
