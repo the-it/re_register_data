@@ -4316,6 +4316,7 @@
     "lemma": "Anwen",
     "previous": "Anunus",
     "next": "Anytos 1",
+    "sort_key": "Anwen",
     "proof_read": 3,
     "short_description": "Nieder-Anwen, Anweiler Luxemburg. Ort = Andethanna",
     "wp_link": "w:de:Niederanven",
@@ -9950,6 +9951,7 @@
     "lemma": "Aurelia Aquensis",
     "previous": "Avranches",
     "next": "Aurelianorum (Aurelianensis) civitas, Aureliani",
+    "sort_key": "Aureliaaquensis",
     "proof_read": 3,
     "short_description": "Röm. Badeort in Germania sup. = Baden-Baden",
     "wp_link": "w:de:Baden-Baden",
@@ -11950,6 +11952,7 @@
     "lemma": "Böckingen",
     "previous": "Bodus, Boudus",
     "next": "Böhming",
+    "sort_key": "Boeckingen",
     "proof_read": 3,
     "short_description": "dt. Ort am Neckar an der Stelle eines obergerm. Limeskastells",
     "wp_link": "w:de:Kastell Heilbronn-Böckingen",
@@ -19642,6 +19645,7 @@
     "lemma": "Domitius pagus",
     "previous": "Domitianus 11",
     "next": "Domitius",
+    "sort_key": "Domitius",
     "proof_read": 2,
     "short_description": "Flurbezeichnung bei Veleia Nr. 2",
     "chapters": [
@@ -21883,12 +21887,9 @@
     "lemma": "Eumelos 10",
     "previous": "Eumelides",
     "next": "Eunikos 2a",
-    "sort_key": "Eumelos 10",
     "proof_read": 2,
-    "short_description": "Sohn des Pairisades, gewinnt das Reich und regiert verständig, † 304 v. Chr.",
+    "short_description": "Archon in Buttos um 150 v. Chr.?",
     "no_creative_height": true,
-    "wp_link": "w:en:Eumelus of Bosporus",
-    "wd_link": "d:Q2077747",
     "chapters": [
       {
         "start": 448,
@@ -21901,9 +21902,8 @@
     "lemma": "Eunikos 2a",
     "previous": "Eumelos 10",
     "next": "Eunikos a",
-    "proof_read": 2,
-    "short_description": "E.(?), Heros (?)",
-    "no_creative_height": true,
+    "proof_read": 3,
+    "short_description": "Archon in Physkos um das J. 133/2 v. Chr.",
     "chapters": [
       {
         "start": 448,
@@ -21916,8 +21916,10 @@
     "lemma": "Eunikos a",
     "previous": "Eunikos 2a",
     "next": "Εὐνούδας",
-    "proof_read": 3,
-    "short_description": "Archon in Physkos um das J. 133/2 v. Chr.",
+    "sort_key": "Eunikos 0",
+    "proof_read": 2,
+    "short_description": "E.(?), Heros (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 448,
@@ -23578,6 +23580,7 @@
     "lemma": "Forum Claudii 2",
     "previous": "Fortunatus 11",
     "next": "Frentrum",
+    "sort_key": "Forumclaudii 2",
     "proof_read": 2,
     "short_description": "Hauptort der gallischen Varagrer, heute Martigny",
     "wp_link": "w:de:Martigny",

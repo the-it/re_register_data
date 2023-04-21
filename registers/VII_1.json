@@ -610,6 +610,7 @@
     "lemma": "Forum Augustum",
     "previous": "Forum Appi",
     "next": "Forum Aureli",
+    "sort_key": "Forumaugustum",
     "redirect": "Libisosa",
     "proof_read": 2,
     "chapters": [
@@ -668,6 +669,7 @@
     "lemma": "Forum Cambysis",
     "previous": "Forum Brentan(i, -orum?)",
     "next": "Forum Cassi",
+    "sort_key": "Forumcambysis",
     "redirect": "Tamieia Kambysu",
     "proof_read": 2,
     "chapters": [
@@ -940,6 +942,7 @@
     "lemma": "Forum Gigurrorum",
     "previous": "Forum Germa(nici, -norum?)",
     "next": "Forum Hadriani",
+    "sort_key": "Forumgigurrorum",
     "redirect": "Gigurri",
     "proof_read": 2,
     "chapters": [
@@ -970,9 +973,9 @@
     "lemma": "ad forum hordiarium",
     "previous": "Forum Hadriani",
     "next": "Forum Iuli 1",
-    "sort_key": "Forum hordiarium",
+    "sort_key": "Forumhordiarium",
     "proof_read": 2,
-    "short_description": "Lokalität im römischen Cöln, wo ein gewisser Servandus seine Töpferwaren",
+    "short_description": "Lokalität im römischen Cöln, wo Servandus Töpferwaren fabrizierte",
     "chapters": [
       {
         "start": 69,
@@ -1053,6 +1056,7 @@
     "lemma": "Forum Iulium",
     "previous": "Forum Iuli 4",
     "next": "Forum Iutuntorum",
+    "sort_key": "Forumiulium",
     "redirect": "Iliturgis",
     "proof_read": 2,
     "chapters": [
@@ -1141,6 +1145,7 @@
     "lemma": "Forum Limicorum",
     "previous": "Forum Ligneum",
     "next": "Forum Livi",
+    "sort_key": "Forumlimicorum",
     "redirect": "Limia",
     "proof_read": 2,
     "chapters": [
@@ -8678,12 +8683,16 @@
     "lemma": "Furnus",
     "previous": "Furnius 7",
     "next": "Furor 1",
-    "short_description": "Backofen",
+    "sort_key": "Furnus",
+    "proof_read": 2,
+    "short_description": "Backofen mit zahlreicher Erhaltung in Pompeii",
+    "wp_link": "w:de:Backofen",
+    "wd_link": "d:Q36539",
     "chapters": [
       {
         "start": 378,
         "end": 380,
-        "author": "Mau, [August]"
+        "author": "Mau."
       }
     ]
   },
@@ -8691,12 +8700,16 @@
     "lemma": "Furor 1",
     "previous": "Furnus",
     "next": "Furor 2",
-    "short_description": "Geisteskrankheit",
+    "sort_key": "Furor 1",
+    "proof_read": 2,
+    "short_description": "Geisteskrankheit, der rechtlich erhebliche Grad von Unvernunft",
+    "wp_link": "w:de:Geisteskrankheit",
+    "wd_link": "d:Q1499013",
     "chapters": [
       {
         "start": 380,
         "end": 382,
-        "author": "Leonhard"
+        "author": "R. Leonhard."
       }
     ]
   },
