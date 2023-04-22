@@ -4295,7 +4295,7 @@
     "previous": "Scaevianus",
     "next": "Scaevola 1",
     "proof_read": 3,
-    "short_description": "[343] Scaevinus, fingierter Name eines Ehebrechers, Martial. III 70, 1.",
+    "short_description": "Scaevinus, fingierter Name eines Ehebrechers",
     "chapters": [
       {
         "start": 343,
@@ -8339,10 +8339,14 @@
     "lemma": "Scuriacus, Scauriacus, Scureiacus",
     "previous": "Scurgum",
     "next": "Scurra",
+    "sort_key": "Scuriacus,scauriacus, scureiacus",
+    "proof_read": 2,
+    "short_description": "Ortschaft nach dem Eigentümer",
     "chapters": [
       {
         "start": 911,
-        "author": "Keune"
+        "end": 911,
+        "author": "Keune."
       }
     ]
   },
@@ -8350,12 +8354,14 @@
     "lemma": "Scurra",
     "previous": "Scuriacus, Scauriacus, Scureiacus",
     "next": "Scutara",
-    "short_description": "Stutzer, Geck berufsmäßiger Witzbold, Spaßmacher",
+    "sort_key": "Scurra",
+    "proof_read": 2,
+    "short_description": "Stutzer, Geck, berufsmäßiger Witzbold, Spaßmacher",
     "chapters": [
       {
         "start": 911,
         "end": 912,
-        "author": "Hug"
+        "author": "Hug."
       }
     ]
   },
@@ -8363,12 +8369,14 @@
     "lemma": "Scutara",
     "previous": "Scurra",
     "next": "Scutarii",
-    "short_description": "Alter kelt. Flußname",
+    "sort_key": "Scutara",
+    "proof_read": 2,
+    "short_description": "alter keltischer Flußname",
     "chapters": [
       {
         "start": 912,
         "end": 913,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -8389,11 +8397,14 @@
     "lemma": "Scutarius 1",
     "previous": "Scutarii",
     "next": "Scutarius 2",
-    "short_description": "L., 31 v. Chr. Decemvir v. Venusia",
+    "sort_key": "Scutarius 1",
+    "proof_read": 2,
+    "short_description": "L., Decemvir von Venusia 31 v. Chr.",
     "chapters": [
       {
         "start": 913,
-        "author": "Münzer"
+        "end": 913,
+        "author": "Münzer."
       }
     ]
   },
@@ -8401,11 +8412,14 @@
     "lemma": "Scutarius 2",
     "previous": "Scutarius 1",
     "next": "Scuttara",
-    "short_description": "Richtig: Scrutarius, evocatus Augusti in Rom.",
+    "sort_key": "Scutarius 2",
+    "proof_read": 2,
+    "short_description": "richtig: Scrutarius, evocatus Augusti in Rom",
     "chapters": [
       {
         "start": 913,
-        "author": "Stein, [Arthur]"
+        "end": 913,
+        "author": "Stein."
       }
     ]
   },
