@@ -27112,7 +27112,7 @@
   {
     "lemma": "Hippoteia",
     "previous": "Hippostratos 10",
-    "next": "Hodoidokos",
+    "next": "Hirtius 2",
     "short_description": "Ort in der rhod. Stadtgemeinde Kamiros",
     "chapters": [
       {
@@ -27122,8 +27122,30 @@
     ]
   },
   {
-    "lemma": "Hodoidokos",
+    "lemma": "Hirtius 2",
     "previous": "Hippoteia",
+    "next": "Hludana",
+    "chapters": [
+      {
+        "start": 1156,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Hludana",
+    "previous": "Hirtius 2",
+    "next": "Hodoidokos",
+    "chapters": [
+      {
+        "start": 1156,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Hodoidokos",
+    "previous": "Hludana",
     "next": "Holkias",
     "short_description": "Angebliche altlokr. Sagengestalt",
     "chapters": [
@@ -27149,7 +27171,7 @@
   {
     "lemma": "Homeristai",
     "previous": "Holkias",
-    "next": "Honoratus 14",
+    "next": "Homoloios 2",
     "short_description": "Die Darsteller homer. Szenen",
     "chapters": [
       {
@@ -27159,9 +27181,20 @@
     ]
   },
   {
-    "lemma": "Honoratus 14",
+    "lemma": "Homoloios 2",
     "previous": "Homeristai",
-    "next": "Honorius 6",
+    "next": "Honoratus 14",
+    "chapters": [
+      {
+        "start": 1158,
+        "author": "Oldfather"
+      }
+    ]
+  },
+  {
+    "lemma": "Honoratus 14",
+    "previous": "Homoloios 2",
+    "next": "Honoris vicus",
     "short_description": "Germ. Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
     "chapters": [
       {
@@ -27171,8 +27204,20 @@
     ]
   },
   {
-    "lemma": "Honorius 6",
+    "lemma": "Honoris vicus",
     "previous": "Honoratus 14",
+    "next": "Honorius 6",
+    "chapters": [
+      {
+        "start": 1158,
+        "end": 1159,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Honorius 6",
+    "previous": "Honoris vicus",
     "next": "Honorius 7",
     "short_description": "Scholasticus (im 6. Jh. n. Chr.?)",
     "chapters": [
@@ -27238,9 +27283,7 @@
     "next": "Hyllis 1",
     "chapters": [
       {
-        "start": 1159,
-        "end": 1161,
-        "author": "Bölte"
+        "start": 1161
       }
     ]
   },
