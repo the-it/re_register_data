@@ -23983,11 +23983,14 @@
     "lemma": "Gaius 8a",
     "previous": "Gaios 3a",
     "next": "Gaius 8b",
-    "short_description": "Gaios, Vater des Sophisten Kallinikos (X 1649 Nr. 1) im 3. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "Gaios, Vater des Sophisten Kallinikos Nr. 1, 3. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 537,
-        "author": "Gerth"
+        "end": 537,
+        "author": "Gerth."
       }
     ]
   },
@@ -24022,11 +24025,13 @@
     "lemma": "Galba a",
     "previous": "Gala",
     "next": "Galeria 3",
-    "short_description": "Kelt. Name des Stammesfürsten der Belger im J. 57 v. Chr.",
+    "proof_read": 2,
+    "short_description": "keltischer Name des Stammesfürsten der Belger 57 v. Chr.",
     "chapters": [
       {
         "start": 537,
-        "author": "Münzer"
+        "end": 537,
+        "author": "Münzer."
       }
     ]
   },
@@ -24034,11 +24039,13 @@
     "lemma": "Galeria 3",
     "previous": "Galba a",
     "next": "Galerius 9a",
-    "short_description": "Röm. Landtribus",
+    "proof_read": 2,
+    "short_description": "alter römischer Landtribus",
     "chapters": [
       {
         "start": 537,
-        "author": "Rosenberg"
+        "end": 537,
+        "author": "Rosenberg."
       }
     ]
   },
@@ -24063,11 +24070,13 @@
     "lemma": "Galliana Praedia",
     "previous": "Galerius 9a",
     "next": "Gallicanus 8",
-    "short_description": "Kaiserl. Domänen",
+    "proof_read": 2,
+    "short_description": "kaiserliche Domänen",
     "chapters": [
       {
         "start": 537,
-        "author": "Kroll"
+        "end": 538,
+        "author": "Kroll."
       }
     ]
   },
@@ -24075,11 +24084,13 @@
     "lemma": "Gallicanus 8",
     "previous": "Galliana Praedia",
     "next": "Gallicus 4",
-    "short_description": "Südgall. Sigillatatöpfer in La Graufesenque aus der Mitte des 1. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "südgall. Sigillatatöpfer in La Graufesenque 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 538,
-        "author": "Hähnle"
+        "end": 538,
+        "author": "Hähnle."
       }
     ]
   },
@@ -24087,11 +24098,13 @@
     "lemma": "Gallicus 4",
     "previous": "Gallicanus 8",
     "next": "Gallos 7",
-    "short_description": "Südgall. Sigillatatöpfer in La Graufesenque in der 2. H. des 1. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "südgall. Sigillatatöpfer in La Graufesenque 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 538,
-        "author": "Hähnle"
+        "end": 538,
+        "author": "Hähnle."
       }
     ]
   },
@@ -24099,29 +24112,32 @@
     "lemma": "Gallos 7",
     "previous": "Gallicus 4",
     "next": "Gallus 10a",
-    "short_description": "Ergänzungslemma zu Gallos 1ff.",
+    "proof_read": 2,
+    "short_description": "Sohn des Pharnakes und der Atossa im kappadokischen Königshaus",
     "chapters": [
       {
         "start": 538,
-        "author": "Stähelin"
+        "end": 538,
+        "author": "Stähelin."
       }
     ]
   },
   {
     "lemma": "Gallus 10a",
     "previous": "Gallos 7",
-    "next": "Gallus 15",
-    "short_description": "G. Marianus, Epistratege der Thebais unter oder nach Hadrian.",
+    "next": "Gallus 14",
+    "proof_read": 2,
+    "short_description": "G. Marianus, Epistratege der Thebais unter oder nach Hadrian",
     "chapters": [
       {
         "start": 538,
-        "author": "Stein, [Arthur]"
+        "end": 538,
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Gallus 15",
-    "previous": "Gallus 10a",
     "next": "Gamus 1",
     "proof_read": 3,
     "short_description": "s. 14).",
@@ -24136,7 +24152,6 @@
   {
     "lemma": "Gamus 1",
     "previous": "Gallus 15",
-    "next": "Gangra 1",
     "proof_read": 3,
     "short_description": "S. 694 zum Art. Gamus: 1) Italischer Sigillatatöpfer augusteischer Zeit, der in",
     "chapters": [
@@ -24148,14 +24163,37 @@
     ]
   },
   {
-    "lemma": "Gangra 1",
-    "previous": "Gamus 1",
-    "next": "Ganiccius",
-    "short_description": "Paphlagon. Stadt.",
+    "lemma": "Gallus 14",
+    "next": "Gamus"
+  },
+  {
+    "lemma": "Gamus",
+    "previous": "Gallus 14",
+    "next": "Gangra 1",
+    "proof_read": 3,
+    "short_description": "ital. Sigillatatöpfer in Puteoli aus august. Zeit",
     "chapters": [
       {
         "start": 538,
-        "author": "Hähnle"
+        "end": 538,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
+    "lemma": "Gangra 1",
+    "previous": "Gamus",
+    "next": "Ganiccius",
+    "sort_key": "Gangra 1",
+    "proof_read": 2,
+    "short_description": "paphlagon. Stadt, heute Kanghry",
+    "wp_link": "w:de:Çankırı",
+    "wd_link": "d:Q209925",
+    "chapters": [
+      {
+        "start": 538,
+        "end": 538,
+        "author": "Imhoof-Blumer."
       }
     ]
   },
@@ -24163,11 +24201,13 @@
     "lemma": "Ganiccius",
     "previous": "Gangra 1",
     "next": "Ganicos",
+    "proof_read": 2,
     "short_description": "Sigillatatöpfer im elsäss. Ittenweiler im 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 538,
-        "author": "Hähnle"
+        "end": 538,
+        "author": "Hähnle."
       }
     ]
   },
@@ -24175,11 +24215,13 @@
     "lemma": "Ganicos",
     "previous": "Ganiccius",
     "next": "Gantunae",
+    "proof_read": 2,
     "short_description": "Töpfer von sog. belgischer Ware 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 538,
-        "author": "Hähnle"
+        "end": 538,
+        "author": "Hähnle."
       }
     ]
   },
@@ -27045,11 +27087,14 @@
     "lemma": "Hipponikos 8",
     "previous": "Hippokrates 16",
     "next": "Hipponion",
-    "short_description": "Hipponeik[---] aus Magnesia a. M., inschriftl. Künstlersignatur(?)",
+    "proof_read": 2,
+    "short_description": "Hipponeik[---] aus Magnesia a. M., inschriftliche Künstlersignatur?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1155,
-        "author": "Lippold, Georg"
+        "end": 1155,
+        "author": "Lippold."
       }
     ]
   },
@@ -27095,7 +27140,6 @@
   {
     "lemma": "Hippos 5",
     "previous": "Hippos 3a",
-    "next": "Hippos 5a",
     "short_description": "oros, Vorgebirge Arabiens am Roten Meer",
     "chapters": [
       {
@@ -27107,13 +27151,15 @@
   },
   {
     "lemma": "Hippos 5a",
-    "previous": "Hippos 5",
+    "previous": "Hippos 3a",
     "next": "Hippostratos 8",
-    "short_description": "Hippos kome, Ort an der arab. Küste des Arab. Meerbusens",
+    "proof_read": 2,
+    "short_description": "Ort an der arabischen Küste des Roten Meeres",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1155,
-        "author": "Grohmann"
+        "end": 1155
       }
     ]
   },
@@ -27121,11 +27167,13 @@
     "lemma": "Hippostratos 8",
     "previous": "Hippos 5a",
     "next": "Hippostratos 9",
-    "short_description": "Vornehmer Makedone, Bruder der Kleopatra (XI 734 Nr. 12)",
+    "proof_read": 2,
+    "short_description": "vornehmer Makedone, Bruder der Kleopatra Nr. 12",
     "chapters": [
       {
         "start": 1156,
-        "author": "Stähelin"
+        "end": 1156,
+        "author": "Stähelin."
       }
     ]
   },
@@ -27133,11 +27181,13 @@
     "lemma": "Hippostratos 9",
     "previous": "Hippostratos 8",
     "next": "Hippostratos 10",
-    "short_description": "Maked. Reiterführer, Vater des Hegelochos (VII 2594 Nr. 1)",
+    "proof_read": 2,
+    "short_description": "Makedone, Reiterführer bei Gaugamela, Vater des Hegelochos Nr. 1",
     "chapters": [
       {
         "start": 1156,
-        "author": "Stähelin"
+        "end": 1156,
+        "author": "Stähelin."
       }
     ]
   },
@@ -27145,11 +27195,13 @@
     "lemma": "Hippostratos 10",
     "previous": "Hippostratos 9",
     "next": "Hippoteia",
-    "short_description": "Soldat im Heer des maked. Königs Philippos II. = H. Nr. 8 (S III 1156)(?). = H.",
+    "proof_read": 2,
+    "short_description": "Makedone, Soldat im Heer des Königs Philippos II.",
     "chapters": [
       {
         "start": 1156,
-        "author": "Stähelin"
+        "end": 1156,
+        "author": "Stähelin."
       }
     ]
   },
@@ -27157,11 +27209,13 @@
     "lemma": "Hippoteia",
     "previous": "Hippostratos 10",
     "next": "Hirtius 2",
-    "short_description": "Ort in der rhod. Stadtgemeinde Kamiros",
+    "proof_read": 2,
+    "short_description": "Ort auf Rhodos in der Stadtgemeinde Kamiros",
     "chapters": [
       {
         "start": 1156,
-        "author": "Bürchner"
+        "end": 1156,
+        "author": "Bürchner."
       }
     ]
   },
@@ -27169,9 +27223,15 @@
     "lemma": "Hirtius 2",
     "previous": "Hippoteia",
     "next": "Hludana",
+    "proof_read": 2,
+    "short_description": "Vertrauter Caesars, Konsul im J. 43 v. Chr., Sohn von Nr. 1",
+    "wp_link": "w:de:Aulus Hirtius",
+    "ws_link": "s:en:Author:Aulus Hirtius",
+    "wd_link": "d:Q354990",
     "chapters": [
       {
         "start": 1156,
+        "end": 1156,
         "author": "Münzer."
       }
     ]
@@ -27180,9 +27240,14 @@
     "lemma": "Hludana",
     "previous": "Hirtius 2",
     "next": "Hodoidokos",
+    "proof_read": 2,
+    "short_description": "germanische Gottheit",
+    "wp_link": "w:de:Hludana",
+    "wd_link": "d:Q12912888",
     "chapters": [
       {
         "start": 1156,
+        "end": 1156,
         "author": "Keune."
       }
     ]
@@ -27191,12 +27256,14 @@
     "lemma": "Hodoidokos",
     "previous": "Hludana",
     "next": "Holkias",
-    "short_description": "Angebliche altlokr. Sagengestalt",
+    "proof_read": 2,
+    "short_description": "angeblich altlokrische Sagengestalt",
+    "wp_link": "w:de:Odoidokos",
     "chapters": [
       {
         "start": 1156,
         "end": 1158,
-        "author": "Oldfather"
+        "author": "Oldfather."
       }
     ]
   },
@@ -27204,11 +27271,13 @@
     "lemma": "Holkias",
     "previous": "Hodoidokos",
     "next": "Homeristai",
-    "short_description": "Offizier Alexanders d.Gr.",
+    "proof_read": 2,
+    "short_description": "Offizier Alexanders d. Gr.",
     "chapters": [
       {
         "start": 1158,
-        "author": "Kroll"
+        "end": 1158,
+        "author": "Kroll."
       }
     ]
   },
@@ -27216,11 +27285,13 @@
     "lemma": "Homeristai",
     "previous": "Holkias",
     "next": "Homoloios 2",
-    "short_description": "Die Darsteller homer. Szenen",
+    "proof_read": 2,
+    "short_description": "dramatische Darsteller homerischer Szenen",
     "chapters": [
       {
         "start": 1158,
-        "author": "Kroll"
+        "end": 1158,
+        "author": "Kroll."
       }
     ]
   },
@@ -27228,10 +27299,13 @@
     "lemma": "Homoloios 2",
     "previous": "Homeristai",
     "next": "Honoratus 14",
+    "proof_read": 2,
+    "short_description": "Griech. Monatsname",
     "chapters": [
       {
         "start": 1158,
-        "author": "Oldfather"
+        "end": 1158,
+        "author": "Oldfather."
       }
     ]
   },
@@ -27239,11 +27313,13 @@
     "lemma": "Honoratus 14",
     "previous": "Homoloios 2",
     "next": "Honoris vicus",
-    "short_description": "Germ. Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "germanischer Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1158,
-        "author": "Hähnle"
+        "end": 1158,
+        "author": "Hähnle."
       }
     ]
   },
