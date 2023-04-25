@@ -10138,7 +10138,7 @@
     "next": "Gabri",
     "sort_key": "Gabreta",
     "proof_read": 2,
-    "short_description": "germanisches Waldgebirge, der Böhmerwald",
+    "short_description": "germanisches Waldgebirge, ,Geißwald‘, der Böhmerwald",
     "wp_link": "w:de:Böhmerwald",
     "wd_link": "d:Q157290",
     "chapters": [
@@ -10231,7 +10231,7 @@
     "next": "Gabrosentum",
     "sort_key": "Gabromagus",
     "proof_read": 2,
-    "short_description": "Straßenstation in Noricum, heute Windischgarsten",
+    "short_description": "Straßenstation in Noricum, ,Geißfeld', heute Windischgarsten",
     "wp_link": "w:de:Windischgarsten",
     "wd_link": "d:Q681099",
     "chapters": [
@@ -10608,12 +10608,16 @@
     "lemma": "Gades",
     "previous": "Gadenos",
     "next": "Gadias",
-    "short_description": "Stadt in Südspanien, heute Cadiz_ _I Name II Tartessos",
+    "sort_key": "Gades",
+    "proof_read": 2,
+    "short_description": "Stadt in Südspanien, heute Cadiz",
+    "wp_link": "w:de:Cádiz",
+    "wd_link": "d:Q15682",
     "chapters": [
       {
         "start": 439,
         "end": 461,
-        "author": "Hübner"
+        "author": "Hübner."
       }
     ]
   },
@@ -12035,11 +12039,14 @@
     "lemma": "Galates 1",
     "previous": "Galateia 2",
     "next": "Galates 2",
-    "short_description": "Nach Plut. späterer Name für d. Gebirge Akrurion",
+    "sort_key": "Galates 1",
+    "proof_read": 2,
+    "short_description": "späterer Name für das Gebirge Akrurion in Mittelgriechenland",
     "chapters": [
       {
         "start": 519,
-        "author": "Bürchner"
+        "end": 519,
+        "author": "Bürchner."
       }
     ]
   },
@@ -12047,11 +12054,16 @@
     "lemma": "Galates 2",
     "previous": "Galates 1",
     "next": "Galates 3",
+    "sort_key": "Galates 2",
+    "proof_read": 2,
     "short_description": "Eponymos der Galater",
+    "wp_link": "w:de:Galates",
+    "wd_link": "d:Q1477143",
     "chapters": [
       {
         "start": 519,
-        "author": "Tümpel"
+        "end": 519,
+        "author": "Tümpel."
       }
     ]
   },
@@ -12076,7 +12088,7 @@
     "previous": "Galates 3",
     "next": "Galatia 2",
     "proof_read": 3,
-    "short_description": "= Galatike [chora], Gallograika. I Galatia der östliche Teil von Großphrygien",
+    "short_description": "das Galaterland, der östliche Teil von Großphrygien",
     "wp_link": "w:de:Galatien",
     "wd_link": "d:Q26847",
     "chapters": [
@@ -12104,11 +12116,14 @@
     "lemma": "Galatina",
     "previous": "Galatia 2",
     "next": "Galaton 1",
-    "short_description": "Quelle in einem Quertal des Vorgebirges Agyronikon",
+    "sort_key": "Galatina",
+    "proof_read": 2,
+    "short_description": "Quelle im Vorgebirge Agyronikon am Bosporos",
     "chapters": [
       {
         "start": 559,
-        "author": "Bürchner"
+        "end": 559,
+        "author": "Bürchner."
       }
     ]
   },
@@ -12116,11 +12131,14 @@
     "lemma": "Galaton 1",
     "previous": "Galatina",
     "next": "Galaton 2",
+    "sort_key": "Galaton 1",
+    "proof_read": 2,
     "short_description": "Maler aus Alexandrien zur Zeit Ptolemaios Philopators",
     "chapters": [
       {
         "start": 559,
-        "author": "Robert"
+        "end": 559,
+        "author": "C. Robert."
       }
     ]
   },
@@ -12128,18 +12146,21 @@
     "lemma": "Galaton 2",
     "previous": "Galaton 1",
     "next": "Galaxaure",
-    "short_description": "Identisch mit Nr. 1",
+    "sort_key": "Galaton 2",
+    "proof_read": 2,
+    "short_description": "identisch mit Nr. 1",
     "chapters": [
       {
         "start": 559,
-        "author": "Rossbach"
+        "end": 559,
+        "author": "O. Rossbach."
       }
     ]
   },
   {
     "lemma": "Galaxaure",
     "previous": "Galaton 2",
-    "next": "Galaxia",
+    "next": "Γαλάξια",
     "proof_read": 2,
     "short_description": "Nymphe, Tochter des Okeanos und der Tethys, Gespielin der Persephone",
     "no_creative_height": true,
@@ -12152,21 +12173,23 @@
     ]
   },
   {
-    "lemma": "Galaxia",
+    "lemma": "Γαλάξια",
     "previous": "Galaxaure",
     "next": "Galaxias",
-    "short_description": "Fest der Göttermutter in Athen",
+    "sort_key": "Galaxia",
+    "proof_read": 2,
+    "short_description": "Galaxia, Fest der Göttermutter in Athen",
     "chapters": [
       {
         "start": 559,
         "end": 560,
-        "author": "Stengel"
+        "author": "Stengel."
       }
     ]
   },
   {
     "lemma": "Galaxias",
-    "previous": "Galaxia",
+    "previous": "Γαλάξια",
     "next": "Galaxion 1",
     "short_description": "Die Milchstraße_ _1. Sonnenstraße 2. Götterstraße",
     "chapters": [
