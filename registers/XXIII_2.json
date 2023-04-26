@@ -983,7 +983,7 @@
   {
     "lemma": "Psitharas",
     "previous": "Psipha",
-    "next": "Psithios oinos",
+    "next": "Ψίθιος οἶνος",
     "short_description": "Fluß im Land d. Serer",
     "chapters": [
       {
@@ -994,20 +994,23 @@
     ]
   },
   {
-    "lemma": "Psithios oinos",
+    "lemma": "Ψίθιος οἶνος",
     "previous": "Psitharas",
     "next": "Psithyra",
-    "short_description": "Gr. Rosinenwein",
+    "sort_key": "Psithiosoinos",
+    "proof_read": 2,
+    "short_description": "Psithios oinos, griechischer Rosinenwein",
     "chapters": [
       {
         "start": 1414,
-        "author": "Hug"
+        "end": 1414,
+        "author": "Aug. Hug."
       }
     ]
   },
   {
     "lemma": "Psithyra",
-    "previous": "Psithios oinos",
+    "previous": "Ψίθιος οἶνος",
     "next": "Psithyristes",
     "chapters": [
       {
@@ -1491,10 +1494,14 @@
     "lemma": "Psyllikoi",
     "previous": "Psylla",
     "next": "Psyllikos kolpos",
+    "sort_key": "Psyllikoi",
+    "proof_read": 2,
+    "short_description": "Psyllikoi, eine Hunderasse",
     "chapters": [
       {
         "start": 1463,
-        "author": "Hug"
+        "end": 1463,
+        "author": "Aug. Hug."
       }
     ]
   },
@@ -2261,11 +2268,14 @@
     "lemma": "Ptolemaion 1",
     "previous": "Ptolemaia",
     "next": "Ptolemaion 2",
-    "short_description": "Makedonischer Name",
+    "sort_key": "Ptolemaion 1",
+    "proof_read": 2,
+    "short_description": "makedonischer Name",
     "chapters": [
       {
         "start": 1590,
-        "author": "Hiller von Gaertringen"
+        "end": 1590,
+        "author": "v. Hiller."
       }
     ]
   },
@@ -4412,11 +4422,14 @@
     "lemma": "Publicius 37",
     "previous": "Publicius 36",
     "next": "Publicius 38",
-    "short_description": "Proculeianus, C. Proc. von Pannonien und Achaia",
+    "sort_key": "Publicius 37",
+    "proof_read": 2,
+    "short_description": "Proculeianus, C. aus Ravenna, Procurator von Pannonien und Achaia",
     "chapters": [
       {
         "start": 1905,
-        "author": "Stein, [Arthur]"
+        "end": 1905,
+        "author": "A. Stein."
       }
     ]
   },
@@ -4424,11 +4437,14 @@
     "lemma": "Publicius 38",
     "previous": "Publicius 37",
     "next": "Publicius 39",
-    "short_description": "Severus, Gardepraef. unter Hadrian",
+    "sort_key": "Publicius 38",
+    "proof_read": 2,
+    "short_description": "Severus, Gardepraefekt unter Hadrian",
     "chapters": [
       {
         "start": 1905,
-        "author": "Hanslik"
+        "end": 1905,
+        "author": "A. Stein."
       }
     ]
   },
@@ -4853,11 +4869,14 @@
     "lemma": "Publilius 20",
     "previous": "Publilius 19",
     "next": "Publilius 21",
-    "short_description": "Memoralis, Proc. von Corsica unter Kaiser Vespasian",
+    "sort_key": "Publilius 20",
+    "proof_read": 2,
+    "short_description": "Memoralis, Procurator von Korsika unter Kaiser Vespasian",
     "chapters": [
       {
         "start": 1919,
-        "author": "Stein, [Arthur]"
+        "end": 1919,
+        "author": "A. Stein."
       }
     ]
   },
@@ -4889,12 +4908,14 @@
     "lemma": "Publilius 23",
     "previous": "Publilius 22",
     "next": "Publilius 24",
-    "short_description": "L. P. Probatus, legatus provinciae Africae per Numidiam, cos. suff. aus der",
+    "sort_key": "Publilius 23",
+    "proof_read": 2,
+    "short_description": "L. P. Probatus, legatus provinciae Africae per Numidiam, cos. suff. 3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1919,
         "end": 1920,
-        "author": "Stein, [Arthur]"
+        "author": "A. Stein."
       }
     ]
   },
@@ -4902,11 +4923,14 @@
     "lemma": "Publilius 24",
     "previous": "Publilius 23",
     "next": "Publilius 25",
-    "short_description": "Sabinus, Günstling des A. Caecina",
+    "sort_key": "Publilius 24",
+    "proof_read": 2,
+    "short_description": "Sabinus, Günstling des A. Caecina 69 n. Chr.",
     "chapters": [
       {
         "start": 1920,
-        "author": "Stein, [Arthur]"
+        "end": 1920,
+        "author": "A. Stein."
       }
     ]
   },
