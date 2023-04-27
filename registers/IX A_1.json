@@ -966,7 +966,7 @@
   {
     "lemma": "Winkel- und Kreisteilung",
     "previous": "Vinius 6",
-    "next": "Vinnius 1",
+    "next": "Vinnius",
     "chapters": [
       {
         "start": 127,
@@ -975,14 +975,33 @@
     ]
   },
   {
-    "lemma": "Vinnius 1",
+    "lemma": "Vinnius",
     "previous": "Winkel- und Kreisteilung",
+    "next": "Vinnius 1",
+    "sort_key": "Vinnius 0",
+    "proof_read": 2,
+    "short_description": "Eigenname, Variante zu Vinius",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 150,
+        "end": 151,
+        "author": "Hans Gundel."
+      }
+    ]
+  },
+  {
+    "lemma": "Vinnius 1",
+    "previous": "Vinnius",
     "next": "Vinnius 2",
+    "sort_key": "Vinnius 1",
+    "proof_read": 2,
     "short_description": "Asina, Bekannter des Dichters Horatius",
     "chapters": [
       {
         "start": 150,
-        "author": "Schuster"
+        "end": 151,
+        "author": "Mauriz Schuster."
       }
     ]
   },
