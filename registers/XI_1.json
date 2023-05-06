@@ -6039,11 +6039,15 @@
     "lemma": "Keto 2",
     "previous": "Keto 1",
     "next": "Ketos 1",
+    "sort_key": "Keto 2",
+    "proof_read": 2,
     "short_description": "Nereide oder Okeanide",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 364,
-        "author": "Latte"
+        "end": 364,
+        "author": "Latte."
       }
     ]
   },
@@ -6051,12 +6055,16 @@
     "lemma": "Ketos 1",
     "previous": "Keto 2",
     "next": "Ketos 2",
-    "short_description": "Sternbild der südl. Hemisphäre",
+    "sort_key": "Ketos 1",
+    "proof_read": 2,
+    "short_description": "Sternbild der südlichen Hemisphäre, Walfisch",
+    "wp_link": "w:de:Walfisch (Sternbild)",
+    "wd_link": "d:Q8839",
     "chapters": [
       {
         "start": 364,
         "end": 372,
-        "author": "Gundel, Wilhelm"
+        "author": "Gundel."
       }
     ]
   },
@@ -6064,11 +6072,14 @@
     "lemma": "Ketos 2",
     "previous": "Ketos 1",
     "next": "Ketriporis",
-    "short_description": "Flüßchen bei Kyme in Kampanien s. Kyme",
+    "sort_key": "Ketos 2",
+    "proof_read": 2,
+    "short_description": "Flüßchen bei Kyme in Kampanien",
     "chapters": [
       {
         "start": 372,
-        "author": "Bürchner"
+        "end": 372,
+        "author": "Bürchner."
       }
     ]
   },
@@ -6088,11 +6099,14 @@
     "lemma": "Keuaron, Keuaros",
     "previous": "Ketriporis",
     "next": "Keuthenes",
-    "short_description": "Ort bei Halikarnassos",
+    "sort_key": "Keuaron,keuaros",
+    "proof_read": 2,
+    "short_description": "Ort bei dem karischen Halikarnassos",
     "chapters": [
       {
         "start": 372,
-        "author": "Bürchner"
+        "end": 372,
+        "author": "Bürchner."
       }
     ]
   },
@@ -6100,11 +6114,15 @@
     "lemma": "Keuthenes",
     "previous": "Keuaron, Keuaros",
     "next": "Keuthonymos",
-    "short_description": "Chthonische Dämonen",
+    "sort_key": "Keuthenes",
+    "proof_read": 2,
+    "short_description": "chthonische Dämonen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 372,
-        "author": "Eitrem"
+        "end": 372,
+        "author": "Eitrem."
       }
     ]
   },
@@ -6112,11 +6130,14 @@
     "lemma": "Keuthonymos",
     "previous": "Keuthenes",
     "next": "Keyx",
-    "short_description": "Vater des Menoites",
+    "sort_key": "Keuthonymos",
+    "proof_read": 2,
+    "short_description": "Vater des Menoites, des Wächters der Hadesrinder",
     "chapters": [
       {
         "start": 372,
-        "author": "Kroll"
+        "end": 372,
+        "author": "Kroll."
       }
     ]
   },
@@ -6124,12 +6145,16 @@
     "lemma": "Keyx",
     "previous": "Keuthonymos",
     "next": "Kia",
-    "short_description": "König von Trachis",
+    "sort_key": "Keyx",
+    "proof_read": 2,
+    "short_description": "Sohn des Heosphoros, König von Trachis",
+    "wp_link": "w:de:Keyx (Sohn des Heosphoros)",
+    "wd_link": "d:Q578888",
     "chapters": [
       {
         "start": 372,
         "end": 374,
-        "author": "Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -6137,11 +6162,14 @@
     "lemma": "Kia",
     "previous": "Keyx",
     "next": "Κιαβρὸς ποταμός",
-    "short_description": "Die Kykladeninsel Keos s. Keos",
+    "sort_key": "Kia",
+    "proof_read": 2,
+    "short_description": "die Kykladeninsel Keos",
     "chapters": [
       {
         "start": 374,
-        "author": "Bürchner"
+        "end": 374,
+        "author": "Bürchner."
       }
     ]
   },
@@ -6188,31 +6216,51 @@
   {
     "lemma": "Kianis",
     "previous": "Kianika",
-    "next": "Kianos",
-    "short_description": "Ort",
+    "next": "Κιανός",
+    "sort_key": "Kianis",
+    "proof_read": 2,
+    "short_description": "Städtchen Bithyniens",
     "chapters": [
       {
         "start": 374,
-        "author": "Bürchner"
+        "end": 374,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kianos",
+    "lemma": "Κιανός",
     "previous": "Kianis",
-    "next": "Kianos kolpos",
-    "short_description": "Beiname des Asklepiades von Bithynien",
+    "next": "Κιανὸς κόλπος",
+    "sort_key": "Kianos",
+    "proof_read": 2,
+    "short_description": "Kianis, Beiname des Asklepiades von Bithynien",
     "chapters": [
       {
         "start": 374,
-        "author": "Kind"
+        "end": 374,
+        "author": "Kind."
       }
     ]
   },
   {
-    "lemma": "Kianos kolpos",
-    "previous": "Kianos",
-    "next": "Kibdeloi krenai",
+    "lemma": "Κιανὸς κόλπος",
+    "previous": "Κιανός",
+    "next": "Κίβδηλοι κρῆναι",
+    "sort_key": "Kianoskolpos",
+    "proof_read": 2,
+    "short_description": "Kianos kolpos, Golf bei Kios in Bithynien",
+    "chapters": [
+      {
+        "start": 374,
+        "end": 374,
+        "author": "Ruge."
+      }
+    ]
+  },
+  {
+    "lemma": "Κιανὸς κόλπος",
+    "next": "Κίβδηλοι κρῆναι",
     "short_description": "Golf bei Kios in Bithynien",
     "chapters": [
       {
@@ -6222,26 +6270,32 @@
     ]
   },
   {
-    "lemma": "Kibdeloi krenai",
-    "previous": "Kianos kolpos",
+    "lemma": "Κίβδηλοι κρῆναι",
+    "previous": "Κιανὸς κόλπος",
     "next": "Kibotos",
-    "short_description": "Laufbrunnen in Troizen",
+    "sort_key": "Kibdeloikrenai",
+    "proof_read": 2,
+    "short_description": "Kibdeloi krenai, Laufbrunnen in Troizen",
     "chapters": [
       {
         "start": 374,
-        "author": "Bölte"
+        "end": 374,
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Kibotos",
-    "previous": "Kibdeloi krenai",
+    "previous": "Κίβδηλοι κρῆναι",
     "next": "Kibyra 1",
-    "short_description": "Berg und Stadt, durch ein Erdbeben zerstört Apameia Kibotos?",
+    "sort_key": "Kibotos",
+    "proof_read": 2,
+    "short_description": "Berg und Stadt durch ein Erdbeben zerstört, Apameia Kibotos?",
     "chapters": [
       {
         "start": 374,
-        "author": "Bürchner"
+        "end": 374,
+        "author": "Bürchner."
       }
     ]
   },
