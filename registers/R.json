@@ -40278,6 +40278,9 @@
     "proof_read": 3,
     "short_description": "Athenischer Philosoph",
     "no_creative_height": true,
+    "wp_link": "w:de:Athenagoras von Athen",
+    "ws_link": "s:en:Author:Athenagoras of Athens",
+    "wd_link": "d:Q309772",
     "chapters": [
       {
         "start": 52,
@@ -49209,6 +49212,8 @@
     "proof_read": 3,
     "short_description": "aus Alexandria, bildet neben Pylades den Pantomimus zur Kunstform, 23 v. Chr.",
     "no_creative_height": true,
+    "wp_link": "w:en:Bathyllus",
+    "wd_link": "d:Q791314",
     "chapters": [
       {
         "start": 63,
@@ -94759,9 +94764,14 @@
     "lemma": "Hermochares 5",
     "previous": "Hermippos 13",
     "next": "Hermochoinios",
+    "sort_key": "Hermochares 5",
+    "proof_read": 3,
+    "short_description": "gefälschter Künstlername s. Emmochares",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 124,
+        "end": 124,
         "author": "Hans Gärtner."
       }
     ]
@@ -138758,7 +138768,7 @@
   {
     "lemma": "Psellos",
     "previous": "Psammetichos 5",
-    "next": "Psephokleptes",
+    "next": "ψηφοκλέπτης",
     "proof_read": 3,
     "short_description": "Michael P., byzant. Philosoph und Historiograph im 11. Jh. n. Chr.",
     "no_creative_height": true,
@@ -138774,19 +138784,24 @@
     ]
   },
   {
-    "lemma": "Psephokleptes",
+    "lemma": "ψηφοκλέπτης",
     "previous": "Psellos",
-    "next": "ψηφολόγος",
+    "next": "Psephologos",
+    "sort_key": "Psephokleptes",
+    "proof_read": 3,
+    "short_description": "psephokleptes, ein Taschenspieler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 195,
+        "end": 195,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "ψηφολόγος",
-    "previous": "Psephokleptes",
+    "lemma": "Psephologos",
+    "previous": "ψηφοκλέπτης",
     "next": "Pserima",
     "sort_key": "Psephologos",
     "proof_read": 3,
@@ -138802,7 +138817,7 @@
   },
   {
     "lemma": "Pserima",
-    "previous": "ψηφολόγος",
+    "previous": "Psephologos",
     "next": "Psiax",
     "sort_key": "Pserima",
     "proof_read": 3,
@@ -139118,9 +139133,14 @@
     "lemma": "pugillares",
     "previous": "Pudens 8",
     "next": "Pulex 2",
+    "sort_key": "pugillares",
+    "proof_read": 3,
+    "short_description": "Schreibtafel, Notizbuch",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 196,
+        "end": 196,
         "author": "Hans Gärtner."
       }
     ]

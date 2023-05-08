@@ -593,7 +593,7 @@
     "next": "Pseras",
     "sort_key": "Psephopaiktes",
     "proof_read": 2,
-    "short_description": "Taschenspieler",
+    "short_description": "Psephopaiktes, ein Taschenspieler",
     "chapters": [
       {
         "start": 1357,
@@ -5506,7 +5506,7 @@
     "lemma": "Pugilatus",
     "previous": "Puemunus",
     "next": "Pugio",
-    "redirect": "Pygme",
+    "redirect": "Πυγμή",
     "proof_read": 2,
     "chapters": [
       {
@@ -6849,7 +6849,7 @@
   {
     "lemma": "Pursepmunis",
     "previous": "Purpurius",
-    "next": "pus",
+    "next": "πούς",
     "short_description": "Nubische Lokalgottheit, in Kertassi verehrt",
     "chapters": [
       {
@@ -6860,20 +6860,25 @@
     ]
   },
   {
-    "lemma": "pus",
+    "lemma": "πούς",
     "previous": "Pursepmunis",
     "next": "Pusai, Pusaik",
-    "short_description": "Gr. Längenmaß",
+    "sort_key": "pus",
+    "proof_read": 2,
+    "short_description": "pus, griechisches Längenmaß Fuß ca. 0,3 m",
+    "wp_link": "w:de:Fuß (Einheit)",
+    "wd_link": "d:Q3710",
     "chapters": [
       {
         "start": 2030,
-        "author": "Becher"
+        "end": 2030,
+        "author": "Wilh. Becher."
       }
     ]
   },
   {
     "lemma": "Pusai, Pusaik",
-    "previous": "pus",
+    "previous": "πούς",
     "next": "Pusaios 1",
     "chapters": [
       {
@@ -7335,7 +7340,7 @@
   {
     "lemma": "Pygmalion 4",
     "previous": "Pygmalion 3",
-    "next": "Pygme",
+    "next": "Πυγμή",
     "short_description": "Letzter, 313 o. 312 v. Chr. getöteter König v. Kition",
     "chapters": [
       {
@@ -7345,32 +7350,38 @@
     ]
   },
   {
-    "lemma": "Pygme",
+    "lemma": "Πυγμή",
     "previous": "Pygmalion 4",
-    "next": "Pygon",
-    "short_description": "Gr. Längenmaß",
+    "next": "Πυγών",
+    "sort_key": "Pygme",
+    "proof_read": 2,
+    "short_description": "Pygme, griechisches Längenmaß ca. 36 cm",
     "chapters": [
       {
         "start": 2076,
-        "author": "Becher"
+        "end": 2076,
+        "author": "Wilhelm Becher."
       }
     ]
   },
   {
-    "lemma": "Pygon",
-    "previous": "Pygme",
+    "lemma": "Πυγών",
+    "previous": "Πυγμή",
     "next": "Pykate",
-    "short_description": "Gr. Längenmaß",
+    "sort_key": "Pygon",
+    "proof_read": 2,
+    "short_description": "Pygon, griechisches Längenmaß ca. 40 cm.",
     "chapters": [
       {
         "start": 2076,
-        "author": "Becher"
+        "end": 2076,
+        "author": "Wilhelm Becher."
       }
     ]
   },
   {
     "lemma": "Pykate",
-    "previous": "Pygon",
+    "previous": "Πυγών",
     "next": "Pykimede",
     "redirect": true,
     "proof_read": 2,
@@ -7894,12 +7905,14 @@
     "lemma": "Pylaimenes 5",
     "previous": "Pylaimenes 4",
     "next": "Pylaimenes 6",
-    "short_description": "Sohn d. Königs Amyntas v. Galatien",
+    "sort_key": "Pylaimenes 5",
+    "proof_read": 2,
+    "short_description": "Sohn des Königs Amyntas von Galatien um 29 n. Chr.",
     "chapters": [
       {
         "start": 2107,
         "end": 2108,
-        "author": "Stein, [Arthur]"
+        "author": "A. Stein."
       }
     ]
   },
@@ -8654,10 +8667,14 @@
     "lemma": "Pyrallianus",
     "previous": "Pyralaoi nesoi",
     "next": "Pyrallis",
+    "sort_key": "Pyrallianus",
+    "proof_read": 2,
+    "short_description": "Freund des Aelius Aristides",
     "chapters": [
       {
         "start": 2167,
-        "author": "Stein, [Arthur]"
+        "end": 2167,
+        "author": "A. Stein."
       }
     ]
   },
@@ -8665,10 +8682,14 @@
     "lemma": "Pyrallis",
     "previous": "Pyrallianus",
     "next": "Pyrallus",
+    "sort_key": "Pyrallis",
+    "proof_read": 2,
+    "short_description": "eine öffentliche Dirne",
     "chapters": [
       {
         "start": 2167,
-        "author": "Stein, [Arthur]"
+        "end": 2167,
+        "author": "A. Stein."
       }
     ]
   },
@@ -8676,10 +8697,14 @@
     "lemma": "Pyrallus",
     "previous": "Pyrallis",
     "next": "Pyramia",
+    "sort_key": "Pyrallus",
+    "proof_read": 2,
+    "short_description": "Person",
     "chapters": [
       {
         "start": 2167,
-        "author": "Stein, [Arthur]"
+        "end": 2167,
+        "author": "A. Stein."
       }
     ]
   },
@@ -8852,7 +8877,7 @@
   {
     "lemma": "Psaios",
     "previous": "Prusias",
-    "next": "Psephokleptes",
+    "next": "ψηφοκλέπτης",
     "chapters": [
       {
         "start": 2465,
@@ -8861,19 +8886,23 @@
     ]
   },
   {
-    "lemma": "Psephokleptes",
+    "lemma": "ψηφοκλέπτης",
     "previous": "Psaios",
     "next": "ψηφολόγος",
+    "sort_key": "Psephokleptes",
+    "proof_read": 2,
+    "short_description": "psephokleptes, ein Taschenspieler",
     "chapters": [
       {
         "start": 2465,
+        "end": 2465,
         "author": "Aug. Hug."
       }
     ]
   },
   {
     "lemma": "ψηφολόγος",
-    "previous": "Psephokleptes",
+    "previous": "ψηφοκλέπτης",
     "next": "Pteleon 6",
     "sort_key": "Psephologos",
     "redirect": "Praestigiator",
@@ -8971,6 +9000,9 @@
     "lemma": "pugillares",
     "previous": "publicatio bonorum",
     "next": "Pulpitum",
+    "sort_key": "pugillares",
+    "proof_read": 2,
+    "short_description": "Schreibtafel, Notizbuch",
     "chapters": [
       {
         "start": 2515,
