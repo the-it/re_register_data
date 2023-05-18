@@ -22696,11 +22696,14 @@
     "lemma": "Genos",
     "previous": "Genobaudes",
     "next": "Gens",
-    "short_description": "Phoinikischer Kulturheros, Bruder der Genea",
+    "sort_key": "Genos",
+    "proof_read": 2,
+    "short_description": "phoinikischer Kulturheros, Bruder der Genea, Erfinder",
     "chapters": [
       {
         "start": 1175,
-        "author": "Tümpel"
+        "end": 1175,
+        "author": "Tümpel."
       }
     ]
   },
@@ -22734,11 +22737,16 @@
     "lemma": "Gensis",
     "previous": "Gensericus",
     "next": "Gensoe",
+    "sort_key": "Gensis",
+    "proof_read": 2,
     "short_description": "Station an der Straße Sirmium - ad Drinum",
+    "wp_link": "w:de:Koviljkin grad",
+    "wd_link": "d:Q952005",
     "chapters": [
       {
         "start": 1198,
-        "author": "Patsch"
+        "end": 1198,
+        "author": "Patsch."
       }
     ]
   },
@@ -22788,12 +22796,16 @@
     "lemma": "Genthios",
     "previous": "Genta",
     "next": "Gentiana",
-    "short_description": "Illyrischer König",
+    "sort_key": "Genthios",
+    "proof_read": 2,
+    "short_description": "letzter illyrischer König in Skodra um 180 v. Chr.",
+    "wp_link": "w:de:Genthios",
+    "wd_link": "d:Q380555",
     "chapters": [
       {
         "start": 1198,
         "end": 1201,
-        "author": "Stähelin"
+        "author": "Stähelin."
       }
     ]
   },
@@ -22801,12 +22813,16 @@
     "lemma": "Gentiana",
     "previous": "Genthios",
     "next": "Gentianus 1",
-    "short_description": "Enzian",
+    "sort_key": "Gentiana",
+    "proof_read": 2,
+    "short_description": "Pflanzengattung Enzian",
+    "wp_link": "w:de:Enziane",
+    "wd_link": "d:Q144682",
     "chapters": [
       {
         "start": 1201,
         "end": 1203,
-        "author": "Stadler"
+        "author": "Stadler."
       }
     ]
   },
@@ -23432,32 +23448,38 @@
   {
     "lemma": "Geometria",
     "previous": "Geogus",
-    "next": "Geomoroi",
-    "short_description": "Berechnung von Linien, Flächen und Körpern",
+    "next": "Γεωμόροι",
+    "sort_key": "Geometria",
+    "proof_read": 2,
+    "short_description": "Erdmessung, Berechnung von Linien, Flächen und Körpern",
+    "wp_link": "w:de:Euklidische Geometrie",
+    "wd_link": "d:Q162886",
     "chapters": [
       {
         "start": 1210,
         "end": 1219,
-        "author": "Hultsch"
+        "author": "Hultsch."
       }
     ]
   },
   {
-    "lemma": "Geomoroi",
+    "lemma": "Γεωμόροι",
     "previous": "Geometria",
     "next": "Geon 1",
-    "short_description": "Gamoroi, Grundbesitzer",
+    "sort_key": "Geomoroi",
+    "proof_read": 2,
+    "short_description": "Gemoroi, Partei der Grundbesitzer mit verschiedener Bedeutung",
     "chapters": [
       {
         "start": 1219,
         "end": 1221,
-        "author": "Boerner"
+        "author": "Boerner."
       }
     ]
   },
   {
     "lemma": "Geon 1",
-    "previous": "Geomoroi",
+    "previous": "Γεωμόροι",
     "next": "Geon 2",
     "proof_read": 3,
     "short_description": "(Gaion) = Neilos",
@@ -23501,12 +23523,16 @@
     "lemma": "Geoponika",
     "previous": "Geon 3",
     "next": "Georgios 1",
-    "short_description": "Gr. Sammelwerk landwirtschaftlicher Exzerpte, cit. als Geop.",
+    "sort_key": "Geoponika",
+    "proof_read": 2,
+    "short_description": "griechisches Sammelwerk landwirtschaftlicher Exzerpte = ‚Geop.‘",
+    "wp_link": "w:de:Geoponica",
+    "wd_link": "d:Q1235421",
     "chapters": [
       {
         "start": 1221,
         "end": 1225,
-        "author": "Oder"
+        "author": "Oder."
       }
     ]
   },
@@ -23514,12 +23540,14 @@
     "lemma": "Georgios 1",
     "previous": "Geoponika",
     "next": "Georgios 2",
-    "short_description": "Bischof von Laodicea, 4. Jh. n. Chr.",
+    "sort_key": "Georgios 1",
+    "proof_read": 2,
+    "short_description": "Bischof von Laodicea in Syrien, 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1225,
         "end": 1226,
-        "author": "Jülicher"
+        "author": "Jülicher."
       }
     ]
   },
@@ -23527,12 +23555,14 @@
     "lemma": "Georgios 2",
     "previous": "Georgios 1",
     "next": "Georgios 3",
+    "sort_key": "Georgios 2",
+    "proof_read": 2,
     "short_description": "Rationalis summarum 361-363 n. Chr.",
     "chapters": [
       {
         "start": 1226,
         "end": 1227,
-        "author": "Seeck"
+        "author": "Seeck."
       }
     ]
   },
@@ -23780,7 +23810,7 @@
   {
     "lemma": "Gephyreis",
     "previous": "Gephyraios 2",
-    "next": "Gephyrismoi",
+    "next": "Γεφυρισμοί",
     "sort_key": "Gephyreis",
     "proof_read": 2,
     "short_description": "attischer Demos",
@@ -23793,26 +23823,32 @@
     ]
   },
   {
-    "lemma": "Gephyrismoi",
+    "lemma": "Γεφυρισμοί",
     "previous": "Gephyreis",
     "next": "Gephyritis",
-    "short_description": "Rituelle Spottreden",
+    "sort_key": "Gephyrismoi",
+    "proof_read": 2,
+    "short_description": "Gephyrismoi, rituelle Spottreden auf einer Brücke",
     "chapters": [
       {
         "start": 1229,
-        "author": "Kern"
+        "end": 1229,
+        "author": "Kern."
       }
     ]
   },
   {
     "lemma": "Gephyritis",
-    "previous": "Gephyrismoi",
+    "previous": "Γεφυρισμοί",
     "next": "Gephyros",
-    "short_description": "Beiname der Athena",
+    "sort_key": "Gephyritis",
+    "proof_read": 2,
+    "short_description": "Beiname der Athena in Athen",
     "chapters": [
       {
         "start": 1229,
-        "author": "Jessen"
+        "end": 1230,
+        "author": "Jessen."
       }
     ]
   },
@@ -23835,12 +23871,16 @@
     "lemma": "Gepidae",
     "previous": "Gephyros",
     "next": "Ger",
-    "short_description": "Gotisches Volk",
+    "sort_key": "Gepidae",
+    "proof_read": 2,
+    "short_description": "gotisches Volk",
+    "wp_link": "w:de:Gepiden",
+    "wd_link": "d:Q201706",
     "chapters": [
       {
         "start": 1230,
         "end": 1232,
-        "author": "Ihm"
+        "author": "Ihm."
       }
     ]
   },
