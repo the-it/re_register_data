@@ -2329,12 +2329,13 @@
     "lemma": "Gaesatorix",
     "previous": "Fufius 5a",
     "next": "Gavisa regio",
-    "short_description": "König der Boier.",
+    "proof_read": 2,
+    "short_description": "König der Boier",
     "chapters": [
       {
         "start": 69,
         "end": 71,
-        "author": "Fluss"
+        "author": "Max Fluss."
       }
     ]
   },
@@ -2342,11 +2343,13 @@
     "lemma": "Gavisa regio",
     "previous": "Gaesatorix",
     "next": "Gefäßnamen",
-    "short_description": "Illyr. Gegend",
+    "proof_read": 2,
+    "short_description": "illyrische Gegend",
     "chapters": [
       {
         "start": 71,
-        "author": "Fluss"
+        "end": 71,
+        "author": "Max Fluss."
       }
     ]
   },
@@ -2366,21 +2369,38 @@
   {
     "lemma": "Geras 2",
     "previous": "Gefäßnamen",
-    "next": "Gnome, Gnomendichtung, Gnomologien",
-    "short_description": "Karthag. Mechaniker",
+    "next": "Gesta",
+    "proof_read": 2,
+    "short_description": "karthagischer Mechaniker",
     "chapters": [
       {
         "start": 73,
-        "author": "Kroll"
+        "end": 73,
+        "author": "W. Kroll."
+      }
+    ]
+  },
+  {
+    "lemma": "Gesta",
+    "previous": "Geras 2",
+    "next": "Gnome, Gnomendichtung, Gnomologien",
+    "sort_key": "Gesta",
+    "proof_read": 2,
+    "short_description": "die öffentlichen Akten, Urkunden",
+    "chapters": [
+      {
+        "start": 73,
+        "end": 74,
+        "author": "Egon Weiss."
       }
     ]
   },
   {
     "lemma": "Gnome, Gnomendichtung, Gnomologien",
-    "previous": "Geras 2",
+    "previous": "Gesta",
     "next": "Grabaei",
     "proof_read": 2,
-    "short_description": "Die Grundbedeutung von γνώμη ist nota, Kennzeichen, Merkmal",
+    "short_description": "die Grundbedeutung von γνώμη ist nota, Kennzeichen, Merkmal",
     "wp_link": "w:de:Gnome (Dichtung)",
     "wd_link": "d:Q1533260",
     "chapters": [
@@ -2400,11 +2420,13 @@
     "lemma": "Grabaei",
     "previous": "Gnome, Gnomendichtung, Gnomologien",
     "next": "Haartracht, Haarschmuck",
-    "short_description": "Illyr. Volk",
+    "proof_read": 2,
+    "short_description": "Volk in Illyrien",
     "chapters": [
       {
         "start": 90,
-        "author": "Fluss"
+        "end": 90,
+        "author": "Max Fluss."
       }
     ]
   },

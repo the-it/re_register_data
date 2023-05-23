@@ -24253,9 +24253,13 @@
     "lemma": "Gantunae",
     "previous": "Ganicos",
     "next": "Ganymedes 1",
+    "sort_key": "Gantunae",
+    "proof_read": 2,
+    "short_description": "germanische Schutzgottheiten?",
     "chapters": [
       {
-        "start": 538
+        "start": 538,
+        "end": 539
       }
     ]
   },
@@ -24741,12 +24745,14 @@
     "lemma": "Gentinos",
     "previous": "Genitor 3",
     "next": "Geophanion",
-    "short_description": "Stadt in der Troas",
+    "sort_key": "Gentinos",
+    "proof_read": 2,
+    "short_description": "Städtchen in der Troas",
     "chapters": [
       {
         "start": 543,
         "end": 544,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -24754,41 +24760,88 @@
     "lemma": "Geophanion",
     "previous": "Gentinos",
     "next": "Geranthrai, Geronthrai, Gerenthrai",
-    "short_description": "Örtlichkeit auf Samos.",
+    "proof_read": 2,
+    "short_description": "Örtlichkeit auf Samos, wo Erde zutage tritt",
     "chapters": [
       {
         "start": 544,
-        "author": "Bürchner"
+        "end": 544,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Geranthrai, Geronthrai, Gerenthrai",
     "previous": "Geophanion",
-    "next": "Germani 1",
-    "short_description": "Peloponnes. Stadt",
+    "next": "Geraria figlina",
+    "proof_read": 2,
+    "short_description": "Stadt der südlichen Peloponnes",
     "chapters": [
       {
         "start": 544,
-        "author": "Bürchner"
+        "end": 544,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Geraria figlina",
+    "previous": "Geranthrai, Geronthrai, Gerenthrai",
+    "next": "Gerenthrai",
+    "proof_read": 2,
+    "short_description": "spanische Amphorentöpferei 2. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 545,
+        "end": 545
+      }
+    ]
+  },
+  {
+    "lemma": "Gerenthrai",
+    "previous": "Geraria figlina",
+    "next": "Germani 1",
+    "sort_key": "Gerenthrai",
+    "redirect": "Geranthrai",
+    "proof_read": 3,
+    "short_description": "Stadt im Peloponnes",
+    "chapters": [
+      {
+        "start": 545,
+        "end": 545
       }
     ]
   },
   {
     "lemma": "Germani 1",
-    "previous": "Geranthrai, Geronthrai, Gerenthrai",
-    "next": "Germani 2bis",
-    "short_description": "Iber. Volk.",
+    "previous": "Gerenthrai",
+    "next": "Germani 1a",
+    "proof_read": 2,
+    "short_description": "iberisches Volk",
     "chapters": [
       {
         "start": 545,
-        "author": "Much"
+        "end": 545,
+        "author": "Much."
+      }
+    ]
+  },
+  {
+    "lemma": "Germani 1a",
+    "previous": "Germani 1",
+    "next": "Germani 3",
+    "proof_read": 2,
+    "short_description": "kleinere Stämme am Niederrhein",
+    "chapters": [
+      {
+        "start": 545,
+        "end": 546,
+        "author": "Much."
       }
     ]
   },
   {
     "lemma": "Germani 2bis",
-    "previous": "Germani 1",
     "next": "Germani 3",
     "short_description": "= 1a. Kleinere Stämme am Niederrhein",
     "chapters": [
@@ -24944,11 +24997,14 @@
     "lemma": "Geronteion",
     "previous": "Germetitha",
     "next": "Gesatus",
-    "short_description": "Arkad. Höhenzug",
+    "sort_key": "Geronteion",
+    "proof_read": 2,
+    "short_description": "arkadischer Höhenzug",
     "chapters": [
       {
         "start": 587,
-        "author": "Bürchner"
+        "end": 587,
+        "author": "Bürchner."
       }
     ]
   },
@@ -24956,11 +25012,13 @@
     "lemma": "Gesatus",
     "previous": "Geronteion",
     "next": "Gestistyrum",
-    "short_description": "Sigillatatöpfer in Lavoye und im elsäss. Ittenweiler aus der Mitte des 2. Jh.",
+    "proof_read": 2,
+    "short_description": "Sigillatatöpfer in Lavoye und im elsäss. Ittenweiler 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 587,
-        "author": "Hähnle"
+        "end": 587,
+        "author": "Hähnle."
       }
     ]
   },
@@ -24993,11 +25051,14 @@
     "lemma": "Getrinas",
     "previous": "Getas",
     "next": "Getristaus",
+    "proof_read": 2,
     "short_description": "Kastell in Haemimontus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 588,
-        "author": "Kazarow"
+        "end": 588,
+        "author": "Kazarow."
       }
     ]
   },
@@ -25005,11 +25066,14 @@
     "lemma": "Getristaus",
     "previous": "Getrinas",
     "next": "Gewichte",
+    "proof_read": 2,
     "short_description": "Kastell in Haemimontus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 588,
-        "author": "Kazarow"
+        "end": 588,
+        "author": "Kazarow."
       }
     ]
   },
