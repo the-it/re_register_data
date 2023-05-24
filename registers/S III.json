@@ -24788,6 +24788,7 @@
     "lemma": "Geraria figlina",
     "previous": "Geranthrai, Geronthrai, Gerenthrai",
     "next": "Gerenthrai",
+    "redirect": "Ceraria (Caeraria, Geraria) figlina",
     "proof_read": 2,
     "short_description": "spanische Amphorentöpferei 2. Jh. n. Chr.",
     "chapters": [
@@ -25081,11 +25082,13 @@
     "lemma": "Giamillus 1",
     "previous": "Gewichte",
     "next": "Giamillus 2",
-    "short_description": "Gall. Name",
+    "proof_read": 2,
+    "short_description": "häufiger gallischer Name",
     "chapters": [
       {
         "start": 654,
-        "author": "Keune"
+        "end": 654,
+        "author": "Keune."
       }
     ]
   },
@@ -25093,11 +25096,13 @@
     "lemma": "Giamillus 2",
     "previous": "Giamillus 1",
     "next": "Giamilus 1",
-    "short_description": "Gall. Töpfer",
+    "proof_read": 2,
+    "short_description": "gallischer Töpfer",
     "chapters": [
       {
         "start": 654,
-        "author": "Keune"
+        "end": 654,
+        "author": "Keune."
       }
     ]
   },
@@ -25105,11 +25110,13 @@
     "lemma": "Giamilus 1",
     "previous": "Giamillus 2",
     "next": "Giamilus 2",
-    "short_description": "Südgall. Sigillatatöpfer in Banassac in der 2. H. des 1. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "südgallischer Sigillatatöpfer in Banassac 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 654,
-        "author": "Hähnle"
+        "end": 654,
+        "author": "Hähnle."
       }
     ]
   },
@@ -25117,11 +25124,13 @@
     "lemma": "Giamilus 2",
     "previous": "Giamilus 1",
     "next": "Giamos",
-    "short_description": "Mittelgall. Sigillatatöpfer in Lavoye aus der Mitte des 2. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "mittelgallischer Sigillatatöpfer in Lavoye 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 654,
-        "author": "Hähnle"
+        "end": 654,
+        "author": "Hähnle."
       }
     ]
   },
@@ -25129,11 +25138,13 @@
     "lemma": "Giamos",
     "previous": "Giamilus 2",
     "next": "Giganten",
-    "short_description": "Töpfer von sog. belgischer Ware (im Moselgebiet?) im 1. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "Töpfer von sog. belgischer Ware (im Moselgebiet?) 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 654,
-        "author": "Hähnle"
+        "end": 654,
+        "author": "Hähnle."
       }
     ]
   },
@@ -25154,18 +25165,20 @@
     "lemma": "Gilaios",
     "previous": "Giganten",
     "next": "Gildoba",
+    "proof_read": 2,
     "short_description": "Epiklese des Poseidon",
     "chapters": [
       {
         "start": 759,
-        "author": "Jessen"
+        "end": 760,
+        "author": "Jessen."
       }
     ]
   },
   {
     "lemma": "Gildoba",
     "previous": "Gilaios",
-    "next": "Gimandros flumen",
+    "next": "Gimandrion provincia",
     "proof_read": 2,
     "short_description": "Stadt in Thrakien mit unbekannter Lage",
     "no_creative_height": true,
@@ -25178,8 +25191,22 @@
     ]
   },
   {
-    "lemma": "Gimandros flumen",
+    "lemma": "Gimandrion provincia",
     "previous": "Gildoba",
+    "next": "Gimandros flumen",
+    "proof_read": 2,
+    "short_description": "ostiranische Provinz",
+    "chapters": [
+      {
+        "start": 760,
+        "end": 760,
+        "author": "Kiessling."
+      }
+    ]
+  },
+  {
+    "lemma": "Gimandros flumen",
+    "previous": "Gimandrion provincia",
     "next": "Ginula",
     "sort_key": "Gimandrosflumen",
     "proof_read": 2,
@@ -25195,7 +25222,7 @@
   {
     "lemma": "Ginula",
     "previous": "Gimandros flumen",
-    "next": "Gitanae, -ai",
+    "next": "Gitanae",
     "proof_read": 2,
     "short_description": "Ortschaft in Thrakien",
     "no_creative_height": true,
@@ -25208,19 +25235,33 @@
     ]
   },
   {
-    "lemma": "Gitanae, -ai",
+    "lemma": "Gitanae",
     "previous": "Ginula",
     "next": "Giz",
-    "short_description": "Epeirot. Ort",
+    "sort_key": "Gitanae",
+    "proof_read": 2,
+    "short_description": "Ort in Epeiros, Kerkyra gegenüber",
     "chapters": [
       {
         "start": 760,
-        "author": "Bürchner"
+        "end": 760,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Giz"
+    "lemma": "Giz",
+    "previous": "Gitanae",
+    "next": "Gladiatores",
+    "redirect": "Gir",
+    "proof_read": 2,
+    "short_description": "innerafrikanischer Fluß",
+    "chapters": [
+      {
+        "start": 760,
+        "end": 760
+      }
+    ]
   },
   {
     "lemma": "Gladiatores",
