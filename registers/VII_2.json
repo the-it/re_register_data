@@ -177,7 +177,7 @@
   {
     "lemma": "Gnathia",
     "previous": "Gnaphoi",
-    "next": "Gnaesippos, Nothippos",
+    "next": "Gnathis",
     "short_description": "Stadt an d. apulischen Küste",
     "chapters": [
       {
@@ -188,21 +188,8 @@
     ]
   },
   {
-    "lemma": "Gnaesippos, Nothippos",
-    "previous": "Gnathia",
-    "next": "Gnathis",
-    "short_description": "Evtl. identische Personen, a) Kitharode, Tragiker",
-    "chapters": [
-      {
-        "start": 1479,
-        "end": 1481,
-        "author": "Maas"
-      }
-    ]
-  },
-  {
     "lemma": "Gnathis",
-    "previous": "Gnaesippos, Nothippos",
+    "previous": "Gnathia",
     "next": "Gnathon",
     "chapters": [
       {
@@ -225,7 +212,7 @@
   {
     "lemma": "Gnes",
     "previous": "Gnathon",
-    "next": "Gnidier",
+    "next": "Gnesippos, Nothippos",
     "short_description": "Rhodisches Ethnikon, meist Pl.",
     "chapters": [
       {
@@ -235,8 +222,21 @@
     ]
   },
   {
-    "lemma": "Gnidier",
+    "lemma": "Gnesippos, Nothippos",
     "previous": "Gnes",
+    "next": "Gnidier",
+    "short_description": "Evtl. identische Personen, a) Kitharode, Tragiker",
+    "chapters": [
+      {
+        "start": 1479,
+        "end": 1481,
+        "author": "Maas"
+      }
+    ]
+  },
+  {
+    "lemma": "Gnidier",
+    "previous": "Gnesippos, Nothippos",
     "next": "Gnidos",
     "redirect": "Gnidos",
     "proof_read": 2,
