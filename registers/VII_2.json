@@ -304,7 +304,7 @@
   {
     "lemma": "Gnomische Literatur",
     "previous": "Gnomeisegetes",
-    "next": "Gnonom 1",
+    "next": "Gnomon 1",
     "redirect": "Gnome, Gnomendichtung, Gnomologien",
     "proof_read": 3,
     "chapters": [
@@ -315,7 +315,7 @@
     ]
   },
   {
-    "lemma": "Gnonom 1",
+    "lemma": "Gnomon 1",
     "previous": "Gnomische Literatur",
     "next": "Gnomon 2",
     "short_description": "Schattenmessender Stift zur Stundenmessung",
@@ -329,8 +329,8 @@
   },
   {
     "lemma": "Gnomon 2",
-    "previous": "Gnonom 1",
-    "next": "Gnomon 5",
+    "previous": "Gnomon 1",
+    "next": "Gnomon 3",
     "proof_read": 2,
     "short_description": "der Aufseher der heiligen Ölbäume in Attika",
     "chapters": [
@@ -342,21 +342,9 @@
     ]
   },
   {
-    "lemma": "Gnomon 5",
+    "lemma": "Gnomon 3",
     "previous": "Gnomon 2",
-    "next": "Gnonom 3",
-    "short_description": "Der Tarif",
-    "chapters": [
-      {
-        "start": 1502,
-        "author": "Schulthess"
-      }
-    ]
-  },
-  {
-    "lemma": "Gnonom 3",
-    "previous": "Gnomon 5",
-    "next": "Gnonom 4",
+    "next": "Gnomon 4",
     "short_description": "Kaufzeugen' in einer Inschr. v. Iasos",
     "chapters": [
       {
@@ -366,9 +354,9 @@
     ]
   },
   {
-    "lemma": "Gnonom 4",
-    "previous": "Gnonom 3",
-    "next": "Gnosias",
+    "lemma": "Gnomon 4",
+    "previous": "Gnomon 3",
+    "next": "Gnomon 5",
     "short_description": "G. tou idiou logou, kaiserl. Beamter",
     "chapters": [
       {
@@ -378,8 +366,20 @@
     ]
   },
   {
+    "lemma": "Gnomon 5",
+    "previous": "Gnomon 4",
+    "next": "Gnosias",
+    "short_description": "Der Tarif",
+    "chapters": [
+      {
+        "start": 1502,
+        "author": "Schulthess"
+      }
+    ]
+  },
+  {
     "lemma": "Gnosias",
-    "previous": "Gnonom 4",
+    "previous": "Gnomon 5",
     "next": "Gnosis 1",
     "proof_read": 2,
     "short_description": "Phoker. Ἡγεμών ξένων in einer eleusinischen Inschrift um 286/5, CIA IV 2, 614 b.",
