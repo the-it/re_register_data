@@ -1646,7 +1646,7 @@
   {
     "lemma": "Γεωμετρία 2",
     "previous": "Geminius 15a",
-    "next": "Georgoi",
+    "next": "Γεωργοί",
     "sort_key": "Geometria 2",
     "proof_read": 2,
     "short_description": "Geometria, die Grundsteuer (?) im ptolemäischen und röm. Ägypten",
@@ -1659,19 +1659,23 @@
     ]
   },
   {
-    "lemma": "Georgoi",
+    "lemma": "Γεωργοί",
     "previous": "Γεωμετρία 2",
     "next": "Gesta",
-    "short_description": "Die Pächter im griech. und röm. Aegypten.",
+    "sort_key": "Georgoi",
+    "proof_read": 2,
+    "short_description": "die Pächter im griech. und römischen Aegypten",
     "chapters": [
       {
         "start": 206,
-        "author": "Kortenbeutel"
+        "end": 207,
+        "author": "H. Kortenbeutel."
       }
     ]
   },
   {
-    "lemma": "Gesta"
+    "lemma": "Gesta",
+    "previous": "Γεωργοί"
   },
   {
     "lemma": "Gezeiten",
@@ -1699,36 +1703,43 @@
   {
     "lemma": "Goaxis",
     "previous": "Glossokomon",
-    "next": "Grapheion",
+    "next": "Γραφεῖον",
+    "proof_read": 2,
     "short_description": "Edoner im 5. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 223,
-        "author": "Kazarow"
+        "end": 223,
+        "author": "Gawril Kazarow."
       }
     ]
   },
   {
-    "lemma": "Grapheion",
+    "lemma": "Γραφεῖον",
     "previous": "Goaxis",
     "next": "Hadrianius",
-    "short_description": "Die Schreibstube",
+    "proof_read": 2,
+    "short_description": "private und auch öffentliche Schreibstube",
     "chapters": [
       {
         "start": 223,
-        "author": "Ziebarth"
+        "end": 223,
+        "author": "E. Ziebarth."
       }
     ]
   },
   {
     "lemma": "Hadrianius",
-    "previous": "Grapheion",
+    "previous": "Γραφεῖον",
     "next": "Haterius 11",
-    "short_description": "H. Sallustius, Präfekt von Aegypten im J. 280/81 n. Chr. = H. Sallustius (I A",
+    "proof_read": 2,
+    "short_description": "H. Sallustius, Präfekt von Ägypten 280/81 n. Chr.",
     "chapters": [
       {
         "start": 223,
-        "author": "Stein, [Arthur]"
+        "end": 223,
+        "author": "Stein."
       }
     ]
   },
@@ -1736,11 +1747,13 @@
     "lemma": "Haterius 11",
     "previous": "Hadrianius",
     "next": "Haus",
-    "short_description": "Ti. H. Saturninus, cos. suff. im J. 164 n. Chr., Vater des (Ti.?) H. Nr. 7 (VII",
+    "proof_read": 2,
+    "short_description": "Ti. H. Saturninus, cos. suff. 164 n. Chr.",
     "chapters": [
       {
         "start": 223,
-        "author": "Groag"
+        "end": 223,
+        "author": "Groag."
       }
     ]
   },
