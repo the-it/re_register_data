@@ -295,7 +295,7 @@
     "previous": "Gnidier",
     "next": "Gnissi",
     "proof_read": 2,
-    "short_description": "s. Knidos Kerkyra",
+    "short_description": "s. Knidos und Kerkyra",
     "chapters": [
       {
         "start": 1481,
@@ -309,7 +309,7 @@
     "previous": "Gnidos",
     "next": "Γνώμη",
     "proof_read": 2,
-    "short_description": "nach Plin. n. h. VI 19 skythisches Volk am Ostufer der Maiotis gegen die",
+    "short_description": "skythisches Volk am Ostufer der Maiotis",
     "chapters": [
       {
         "start": 1481,
@@ -365,12 +365,14 @@
     "lemma": "Gnomon 1",
     "previous": "Gnomische Literatur",
     "next": "Gnomon 2",
-    "short_description": "Schattenmessender Stift zur Stundenmessung",
+    "sort_key": "Gnomon 1",
+    "proof_read": 2,
+    "short_description": "schattenmessender Stift zur Stundenmessung",
     "chapters": [
       {
         "start": 1500,
         "end": 1502,
-        "author": "Hultsch"
+        "author": "Hultsch."
       }
     ]
   },
@@ -392,11 +394,14 @@
     "lemma": "Gnomon 3",
     "previous": "Gnomon 2",
     "next": "Gnomon 4",
-    "short_description": "Kaufzeugen' in einer Inschr. v. Iasos",
+    "sort_key": "Gnomon 3",
+    "proof_read": 2,
+    "short_description": "Kaufzeugen in einer Inschrift von Iasos",
     "chapters": [
       {
         "start": 1502,
-        "author": "Schulthess"
+        "end": 1502,
+        "author": "Schultheß."
       }
     ]
   },
@@ -404,11 +409,14 @@
     "lemma": "Gnomon 4",
     "previous": "Gnomon 3",
     "next": "Gnomon 5",
-    "short_description": "G. tou idiou logou, kaiserl. Beamter",
+    "sort_key": "Gnomon 4",
+    "proof_read": 2,
+    "short_description": "Beamter zum Privateigentums des römischen Kaisers in Ägypten",
     "chapters": [
       {
         "start": 1502,
-        "author": "Schulthess"
+        "end": 1502,
+        "author": "Schultheß."
       }
     ]
   },
@@ -476,50 +484,60 @@
   {
     "lemma": "Gnosos",
     "previous": "Gnosis 2",
-    "next": "Gnoster",
-    "short_description": "Gnossos",
+    "next": "Γνωστήρ",
+    "sort_key": "Gnosos",
+    "proof_read": 2,
+    "short_description": "Gnossos s. Knosos",
     "chapters": [
       {
         "start": 1533,
-        "author": "Bürchner"
+        "end": 1533,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Gnoster",
+    "lemma": "Γνωστήρ",
     "previous": "Gnosos",
-    "next": "Gnoster amphodon",
-    "short_description": "Der (Identitäts-) Zeuge im röm. Aegypten",
+    "next": "Γνωστὴρ ἀμφόδων",
+    "sort_key": "Gnoster",
+    "proof_read": 2,
+    "short_description": "Gnoster, der ,Kenner‘ = (Identitäts-) Zeuge im römischen Ägypten",
     "chapters": [
       {
         "start": 1533,
-        "author": "Schulthess"
+        "end": 1533,
+        "author": "Schultheß."
       }
     ]
   },
   {
-    "lemma": "Gnoster amphodon",
-    "previous": "Gnoster",
+    "lemma": "Γνωστὴρ ἀμφόδων",
+    "previous": "Γνωστήρ",
     "next": "Gnostiker",
-    "short_description": "Die liturg. Amtsperson in Aegypten. Zeuge, Bürge, Sachverständiger",
+    "sort_key": "Gnosteramphodon",
+    "proof_read": 2,
+    "short_description": "Gnoster amphodon, liturg. Amtspersonen in Ägypten, Zeuge, Bürge",
     "chapters": [
       {
         "start": 1533,
         "end": 1534,
-        "author": "Schulthess"
+        "author": "Schultheß."
       }
     ]
   },
   {
     "lemma": "Gnostiker",
-    "previous": "Gnoster amphodon",
+    "previous": "Γνωστὴρ ἀμφόδων",
     "next": "Gnoteas 1",
-    "short_description": "Gruppen u. Kultvereine d. Bewegung d. Gnostizismus",
+    "sort_key": "Gnostiker",
+    "proof_read": 2,
+    "short_description": "Gruppen und Kultvereine der Bewegung des Gnostizismus",
     "chapters": [
       {
         "start": 1534,
         "end": 1547,
-        "author": "Bousset"
+        "author": "Bousset."
       }
     ]
   },
@@ -528,7 +546,7 @@
     "previous": "Gnostiker",
     "next": "Gnoteas 2",
     "proof_read": 2,
-    "short_description": "Sohn d. Glaukos aus Knidos",
+    "short_description": "Sohn des Glaukos aus Knidos an den Soterien in Delphoi",
     "chapters": [
       {
         "start": 1547,
@@ -542,7 +560,7 @@
     "previous": "Gnoteas 1",
     "next": "Goar",
     "proof_read": 2,
-    "short_description": "Sohn d. Glaukias aus Tenedos",
+    "short_description": "Sohn des Glaukias aus Tenedos an den Soterien in Delphoi",
     "chapters": [
       {
         "start": 1547,
@@ -555,10 +573,16 @@
     "lemma": "Goar",
     "previous": "Gnoteas 2",
     "next": "Goaria",
+    "sort_key": "Goar",
+    "proof_read": 2,
+    "short_description": "Alanenhäuptling, brach um 410 in Gallien ein",
+    "wp_link": "w:de:Goar (Alane)",
+    "wd_link": "d:Q1533440",
     "chapters": [
       {
         "start": 1547,
-        "author": "Seeck"
+        "end": 1547,
+        "author": "Seeck."
       }
     ]
   },
@@ -567,7 +591,7 @@
     "previous": "Goar",
     "next": "Goaris",
     "proof_read": 3,
-    "short_description": "(Ptolem. V 15, 24), Ort in Syrien in der Palmyrene; möglicherweise ist",
+    "short_description": "Ort in Syrien in der Palmyrene",
     "chapters": [
       {
         "start": 1547,
@@ -580,10 +604,14 @@
     "lemma": "Goaris",
     "previous": "Goaria",
     "next": "Gobaeum",
+    "sort_key": "Goaris",
+    "proof_read": 2,
+    "short_description": "Flußarm der Nanaguna an der Westküste Vorderindiens",
     "chapters": [
       {
         "start": 1547,
-        "author": "Kiessling, Max"
+        "end": 1548,
+        "author": "Kiessling."
       }
     ]
   },
@@ -605,7 +633,7 @@
     "previous": "Gobaeum",
     "next": "Gobannium",
     "proof_read": 2,
-    "short_description": "Arvener, Oheim des Vercingetorix, suchte 702 = 52 dessen Abfall von Rom",
+    "short_description": "Arvener, Oheim des Vercingetorix 52 v. Chr.",
     "chapters": [
       {
         "start": 1547,
@@ -618,10 +646,16 @@
     "lemma": "Gobannium",
     "previous": "Gobannitio",
     "next": "Gobazes",
+    "sort_key": "Gobannium",
+    "proof_read": 2,
+    "short_description": "Station im westlichen Britannien, heute Abergavenny",
+    "wp_link": "w:de:Abergavenny",
+    "wd_link": "d:Q609161",
     "chapters": [
       {
         "start": 1548,
-        "author": "Hübner"
+        "end": 1548,
+        "author": "Hübner."
       }
     ]
   },
@@ -629,10 +663,14 @@
     "lemma": "Gobazes",
     "previous": "Gobannium",
     "next": "Gobel",
+    "sort_key": "Gobazes",
+    "proof_read": 2,
+    "short_description": "König der Lazen um 456 n. Chr.",
     "chapters": [
       {
         "start": 1548,
-        "author": "Seeck"
+        "end": 1548,
+        "author": "Seeck."
       }
     ]
   },
@@ -668,11 +706,14 @@
     "lemma": "Gobryas",
     "previous": "Gobolitis",
     "next": "Gobryas 1",
-    "short_description": "Pers. Name",
+    "sort_key": "Gobryas",
+    "proof_read": 2,
+    "short_description": "persischer Name ,Rinderbesitzer, reich an Herden‘",
     "chapters": [
       {
         "start": 1548,
-        "author": "Swoboda, [Heinrich]"
+        "end": 1548,
+        "author": "Swoboda."
       }
     ]
   },
@@ -680,12 +721,16 @@
     "lemma": "Gobryas 1",
     "previous": "Gobryas",
     "next": "Gobryas 2",
-    "short_description": "Sohn d. Mardonios eroberte Babylon 538 v. Chr.",
+    "sort_key": "Gobryas 1",
+    "proof_read": 2,
+    "short_description": "Sohn des Mardonios, Statthalter von Gutium, mit Attentat auf Gaumāta",
+    "wp_link": "w:de:Gobryas (Vater des Mardonios)",
+    "wd_link": "d:Q454695",
     "chapters": [
       {
         "start": 1548,
         "end": 1550,
-        "author": "Swoboda, [Heinrich]"
+        "author": "Swoboda."
       }
     ]
   },
@@ -726,7 +771,7 @@
     "previous": "Gobryas 3",
     "next": "Gobryas 5",
     "proof_read": 2,
-    "short_description": "Magier",
+    "short_description": "ein Magier",
     "chapters": [
       {
         "start": 1551,
@@ -755,7 +800,7 @@
     "previous": "Gobryas 5",
     "next": "Godagis",
     "proof_read": 2,
-    "short_description": "Person in Anth.Pal.X",
+    "short_description": "Person in Anth. Pal.",
     "chapters": [
       {
         "start": 1551,
@@ -769,7 +814,7 @@
     "previous": "Gobryas 6",
     "next": "Godana",
     "proof_read": 3,
-    "short_description": "ältester Sohn des Gentunis, wurde von seinem Oheim, dem Vandalenkönig Hunericus",
+    "short_description": "ältester Sohn des Gentunis, verbannt von seinem Oheim, dem Vandalenkönig",
     "wp_link": "w:pt:Godago",
     "wd_link": "d:Q20048063",
     "chapters": [
@@ -897,7 +942,7 @@
     "previous": "Godomarus 1",
     "next": "Goeratha",
     "proof_read": 3,
-    "short_description": "Sohn d. Burgunderkönigs Gundiok",
+    "short_description": "Sohn des Burgunderkönigs Gundiok",
     "wp_link": "w:de:Godomar I.",
     "wd_link": "d:Q889858",
     "chapters": [
