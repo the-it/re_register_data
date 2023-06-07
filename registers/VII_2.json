@@ -4411,11 +4411,14 @@
     "lemma": "Granikos 1",
     "previous": "Granianus",
     "next": "Granikos 2",
-    "short_description": "Flußgott",
+    "sort_key": "Granikos 1",
+    "proof_read": 2,
+    "short_description": "Flußgott, Sohn des Okeanos und der Tethys",
     "chapters": [
       {
         "start": 1813,
-        "author": "Tümpel"
+        "end": 1813,
+        "author": "Tümpel."
       }
     ]
   },
@@ -6032,10 +6035,14 @@
     "lemma": "Grekea",
     "previous": "Gregorios 14",
     "next": "Grenikos",
+    "sort_key": "Grekea",
+    "proof_read": 2,
+    "short_description": "Ort im pisidisch-phrygischen Grenzgebiet",
     "chapters": [
       {
         "start": 1872,
-        "author": "Ruge"
+        "end": 1872,
+        "author": "Ruge."
       }
     ]
   },
@@ -6043,11 +6050,14 @@
     "lemma": "Grenikos",
     "previous": "Grekea",
     "next": "Greothingi",
+    "sort_key": "Grenikos",
+    "proof_read": 2,
     "short_description": "s. Granikos",
     "chapters": [
       {
         "start": 1872,
-        "author": "Bürchner"
+        "end": 1872,
+        "author": "Bürchner."
       }
     ]
   },
@@ -6068,46 +6078,59 @@
     "lemma": "Grepes",
     "previous": "Greothingi",
     "next": "Gresia",
+    "sort_key": "Grepes",
+    "proof_read": 2,
+    "short_description": "König der Heruler, trat in Konstantinopel zum Christentum über 527 n. Chr.",
     "chapters": [
       {
         "start": 1872,
-        "author": "Benjamin"
+        "end": 1872,
+        "author": "Benjamin."
       }
     ]
   },
   {
     "lemma": "Gresia",
     "previous": "Grepes",
-    "next": "Gresinos",
+    "next": "Gresinos, Gresine",
+    "sort_key": "Gresia",
+    "proof_read": 2,
     "short_description": "s. Grisia",
     "chapters": [
       {
         "start": 1872,
-        "author": "Patsch"
+        "end": 1872,
+        "author": "Patsch."
       }
     ]
   },
   {
-    "lemma": "Gresinos",
+    "lemma": "Gresinos, Gresine",
     "previous": "Gresia",
     "next": "Greuthungi",
+    "sort_key": "Gresinos",
+    "proof_read": 2,
+    "short_description": "Städtchen der thrakischen Chersonesos",
     "chapters": [
       {
         "start": 1872,
-        "author": "Bürchner"
+        "end": 1872,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Greuthungi",
-    "previous": "Gresinos",
+    "previous": "Gresinos, Gresine",
     "next": "Gribo",
-    "short_description": "Gotisches Volk",
+    "sort_key": "Greuthungi",
+    "proof_read": 2,
+    "short_description": "gotisches Volk",
     "chapters": [
       {
         "start": 1872,
         "end": 1873,
-        "author": "Ihm"
+        "author": "Ihm."
       }
     ]
   },
@@ -6115,10 +6138,14 @@
     "lemma": "Gribo",
     "previous": "Greuthungi",
     "next": "Griffel",
+    "sort_key": "Gribo",
+    "proof_read": 2,
+    "short_description": "obermoesisches Kastell, von Iustinian restauriert",
     "chapters": [
       {
         "start": 1873,
-        "author": "Patsch"
+        "end": 1873,
+        "author": "Patsch."
       }
     ]
   },
@@ -6126,12 +6153,16 @@
     "lemma": "Griffel",
     "previous": "Gribo",
     "next": "Grillius",
-    "short_description": "Schreibgerät",
+    "sort_key": "Griffel",
+    "proof_read": 2,
+    "short_description": "Schreibgerät, um Ritzungen auszuführen",
+    "wp_link": "w:de:Griffel",
+    "wd_link": "d:Q868239",
     "chapters": [
       {
         "start": 1873,
         "end": 1876,
-        "author": "Wünsch, [Richard]"
+        "author": "Wünsch."
       }
     ]
   },
@@ -6139,12 +6170,14 @@
     "lemma": "Grillius",
     "previous": "Griffel",
     "next": "Grimenothyrai",
-    "short_description": "Verf. einer nur auf Vergil bezogenen Akzentlehre",
+    "sort_key": "Grillius",
+    "proof_read": 2,
+    "short_description": "Verfasser einer nur auf Vergil bezogenen Akzentlehre",
     "chapters": [
       {
         "start": 1876,
         "end": 1879,
-        "author": "Münscher"
+        "author": "Münscher."
       }
     ]
   },
@@ -6152,12 +6185,14 @@
     "lemma": "Grimenothyrai",
     "previous": "Grillius",
     "next": "Grinaioi",
-    "short_description": "Ort unklarer Lage in W-Kleinasien",
+    "sort_key": "Grimenothyrai",
+    "proof_read": 2,
+    "short_description": "Ort unklarer Lage im Westen von Kleinasien",
     "chapters": [
       {
         "start": 1879,
         "end": 1880,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -6165,11 +6200,14 @@
     "lemma": "Grinaioi",
     "previous": "Grimenothyrai",
     "next": "Grinario",
-    "short_description": "Nomadisierender Stamm d. Saken",
+    "sort_key": "Grinaioi",
+    "proof_read": 2,
+    "short_description": "nomadisierender Stamm der Saken",
     "chapters": [
       {
         "start": 1880,
-        "author": "Kiessling, Max"
+        "end": 1880,
+        "author": "Kiessling."
       }
     ]
   },
@@ -6177,11 +6215,14 @@
     "lemma": "Grinario",
     "previous": "Grinaioi",
     "next": "Grinciapana",
-    "short_description": "Ort der Civitas Sumelocennensis vgl. Köngen",
+    "sort_key": "Grinario",
+    "proof_read": 2,
+    "short_description": "Ort der Civitas Sumelocennensis bei Köngen (Württemberg)",
     "chapters": [
       {
         "start": 1880,
-        "author": "Ihm"
+        "end": 1880,
+        "author": "Ihm."
       }
     ]
   },
@@ -6189,10 +6230,14 @@
     "lemma": "Grinciapana",
     "previous": "Grinario",
     "next": "Grinincenses",
+    "sort_key": "Grinciapana",
+    "proof_read": 2,
+    "short_description": "obermösisches Kastell im Gebiete von Remesiana",
     "chapters": [
       {
         "start": 1880,
-        "author": "Patsch"
+        "end": 1880,
+        "author": "Patsch."
       }
     ]
   },
@@ -6200,10 +6245,16 @@
     "lemma": "Grinincenses",
     "previous": "Grinciapana",
     "next": "Grinnes",
+    "sort_key": "Grinincenses",
+    "proof_read": 2,
+    "short_description": "Örtlichkeit",
+    "wp_link": "w:de:Sainte-Colombe (Rhône)",
+    "wd_link": "d:Q770710",
     "chapters": [
       {
         "start": 1880,
-        "author": "Ihm"
+        "end": 1881,
+        "author": "Ihm."
       }
     ]
   },
@@ -6211,10 +6262,14 @@
     "lemma": "Grinnes",
     "previous": "Grinincenses",
     "next": "Grion",
+    "sort_key": "Grinnes",
+    "proof_read": 2,
+    "short_description": "Ort im Land der Bataver bei Lugudunum (Leiden)",
     "chapters": [
       {
         "start": 1881,
-        "author": "Ihm"
+        "end": 1881,
+        "author": "Ihm."
       }
     ]
   },
@@ -6222,11 +6277,14 @@
     "lemma": "Grion",
     "previous": "Grinnes",
     "next": "Griphos",
-    "short_description": "Ion.-kar. Bergkette",
+    "sort_key": "Grion",
+    "proof_read": 2,
+    "short_description": "ionisch-karische Bergkette",
     "chapters": [
       {
         "start": 1881,
-        "author": "Kroll"
+        "end": 1881,
+        "author": "Kroll."
       }
     ]
   },
@@ -6247,10 +6305,14 @@
     "lemma": "Grippas",
     "previous": "Griphos",
     "next": "Griselicae",
+    "sort_key": "Grippas",
+    "proof_read": 2,
+    "short_description": "gotischer Anführer 535 n. Chr.",
     "chapters": [
       {
         "start": 1881,
-        "author": "Benjamin"
+        "end": 1881,
+        "author": "Benjamin."
       }
     ]
   },
@@ -6258,10 +6320,14 @@
     "lemma": "Griselicae",
     "previous": "Grippas",
     "next": "Grisia",
+    "sort_key": "Griselicae",
+    "proof_read": 2,
+    "short_description": "Beiname der Nymphen in den Bädern von Gréoulx (dép. Basses-Alpes)",
     "chapters": [
       {
         "start": 1881,
-        "author": "Ihm"
+        "end": 1881,
+        "author": "Ihm."
       }
     ]
   },
@@ -6269,10 +6335,16 @@
     "lemma": "Grisia",
     "previous": "Griselicae",
     "next": "Grod",
+    "sort_key": "Grisia",
+    "proof_read": 2,
+    "short_description": "Fluß in Dakien, der heutige Krisch",
+    "wp_link": "w:de:Körös",
+    "wd_link": "d:Q833573",
     "chapters": [
       {
         "start": 1881,
-        "author": "Patsch"
+        "end": 1881,
+        "author": "Patsch."
       }
     ]
   },
@@ -6280,10 +6352,14 @@
     "lemma": "Grod",
     "previous": "Grisia",
     "next": "Groffes",
+    "sort_key": "Grod",
+    "proof_read": 2,
+    "short_description": "König der bosporitischen Hunnen unter Iustinian, getauft 527 n. Chr.",
     "chapters": [
       {
         "start": 1881,
-        "author": "Benjamin"
+        "end": 1881,
+        "author": "Benjamin."
       }
     ]
   },
@@ -6291,10 +6367,14 @@
     "lemma": "Groffes",
     "previous": "Grod",
     "next": "Groma",
+    "sort_key": "Groffes",
+    "proof_read": 2,
+    "short_description": "obermoesisches Kastell von Iustinian im Gebiete von Naissus",
     "chapters": [
       {
         "start": 1881,
-        "author": "Patsch"
+        "end": 1881,
+        "author": "Patsch."
       }
     ]
   },
