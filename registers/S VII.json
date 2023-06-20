@@ -1884,17 +1884,19 @@
   {
     "lemma": "Hyparchos 2",
     "previous": "Hymnodoi",
-    "next": "Hypomnema",
-    "short_description": "Der Inhaber eines Unterkommandos",
+    "next": "Ὑπόμνημα",
+    "proof_read": 2,
+    "short_description": "der Inhaber eines Unterkommandos",
     "chapters": [
       {
         "start": 281,
-        "author": "Ziebarth"
+        "end": 281,
+        "author": "Ziebarth."
       }
     ]
   },
   {
-    "lemma": "Hypomnema",
+    "lemma": "Ὑπόμνημα",
     "previous": "Hyparchos 2",
     "next": "Ichthyas",
     "short_description": "Die Notiz, die Eingabe usw.",
@@ -1906,7 +1908,8 @@
     ]
   },
   {
-    "lemma": "Ichthyas"
+    "lemma": "Ichthyas",
+    "previous": "Ὑπόμνημα"
   },
   {
     "lemma": "Idus",
