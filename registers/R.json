@@ -81053,6 +81053,8 @@
     "proof_read": 3,
     "short_description": "Epichysis, Gefäßbezeichnung, Kanne zum Einschenken des Weines",
     "no_creative_height": true,
+    "wp_link": "w:de:Epichysis",
+    "wd_link": "d:Q1346946",
     "chapters": [
       {
         "start": 104,
@@ -88473,17 +88475,27 @@
   {
     "lemma": "Galbanum",
     "previous": "Galba 1",
-    "next": "Galeria 3",
+    "next": "Galeria 1",
+    "sort_key": "Galbanum",
+    "proof_read": 3,
+    "short_description": "das Mutterharz einer Dolde in Syrien, als Arznei und zur Räucherung",
+    "no_creative_height": true,
+    "wp_link": "w:de:Galbanharz",
+    "wd_link": "d:Q909191",
     "chapters": [
       {
         "start": 114,
+        "end": 114,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
+    "lemma": "Galeria 1",
+    "previous": "Galbanum"
+  },
+  {
     "lemma": "Galeria 3",
-    "previous": "Galbanum",
     "next": "Galerius 9a",
     "proof_read": 3,
     "short_description": "alter römischer Landtribus",
@@ -91837,6 +91849,7 @@
     "lemma": "Γραφεῖον",
     "previous": "Granius 19b",
     "next": "Graphikos",
+    "sort_key": "Grapheion",
     "proof_read": 3,
     "short_description": "private und auch öffentliche Schreibstube",
     "no_creative_height": true,
@@ -98189,7 +98202,7 @@
   {
     "lemma": "Hypometheus",
     "previous": "Hypokrites",
-    "next": "Hypomnema",
+    "next": "Ὑπόμνημα",
     "proof_read": 3,
     "short_description": "Namensverschreibung statt Epimetheus",
     "no_creative_height": true,
@@ -98202,19 +98215,26 @@
     ]
   },
   {
-    "lemma": "Hypomnema",
+    "lemma": "Ὑπόμνημα",
     "previous": "Hypometheus",
     "next": "Ὑπομνηματογράφος",
+    "sort_key": "Hypomnema",
+    "proof_read": 3,
+    "short_description": "Hypomnema, die Notiz, die Eingabe usw.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Hypomnema",
+    "wd_link": "d:Q1093652",
     "chapters": [
       {
         "start": 129,
+        "end": 129,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Ὑπομνηματογράφος",
-    "previous": "Hypomnema",
+    "previous": "Ὑπόμνημα",
     "next": "Hypospathismos",
     "sort_key": "Hypomnematographos",
     "proof_read": 3,
