@@ -1702,7 +1702,7 @@
   {
     "lemma": "Futius 3",
     "previous": "Futius 2",
-    "next": "Gallos 5c",
+    "next": "Gallus 5b",
     "short_description": "F. Secundus, Steuerpächter in Aegypten in den Jahren 120-124 n. Chr.",
     "chapters": [
       {
@@ -1712,9 +1712,21 @@
     ]
   },
   {
-    "lemma": "Gallos 5c",
+    "lemma": "Gallus 5b",
     "previous": "Futius 3",
-    "next": "Gallus 5b",
+    "next": "Gallos 5c",
+    "short_description": "Senator in der Provinz Baetica zu Ende des 1. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 108,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Gallos 5c",
+    "previous": "Gallus 5b",
+    "next": "Gargilius 4",
     "proof_read": 2,
     "short_description": "Freund des M. Vitorius (S IX 1744 Nr. 2) Marcellus.",
     "no_creative_height": true,
@@ -1727,20 +1739,11 @@
     ]
   },
   {
-    "lemma": "Gallus 5b",
-    "previous": "Gallos 5c",
-    "next": "Gargilius 7",
-    "short_description": "Senator in der Provinz Baetica zu Ende des 1. Jh. n. Chr.",
-    "chapters": [
-      {
-        "start": 108,
-        "author": "Eck"
-      }
-    ]
+    "lemma": "Gargilius 4"
   },
   {
     "lemma": "Gargilius 7",
-    "previous": "Gallus 5b",
+    "previous": "Gargilius 4",
     "next": "Gavinius(?)",
     "short_description": "Q. G. Macer Aufidianus , leg. Augg. der Provinz Hispania cit. um das J. 100 n.",
     "chapters": [
