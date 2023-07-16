@@ -1714,7 +1714,7 @@
   {
     "lemma": "Gallus 5b",
     "previous": "Futius 3",
-    "next": "Gallos 5c",
+    "next": "Gallus 5c",
     "short_description": "Senator in der Provinz Baetica zu Ende des 1. Jh. n. Chr.",
     "chapters": [
       {
@@ -1724,11 +1724,11 @@
     ]
   },
   {
-    "lemma": "Gallos 5c",
+    "lemma": "Gallus 5c",
     "previous": "Gallus 5b",
     "next": "Gargilius 4",
     "proof_read": 2,
-    "short_description": "Freund des M. Vitorius (S IX 1744 Nr. 2) Marcellus.",
+    "short_description": "Freund des M. Vitorius Nr. 2 Marcellus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1739,7 +1739,8 @@
     ]
   },
   {
-    "lemma": "Gargilius 4"
+    "lemma": "Gargilius 4",
+    "previous": "Gallus 5c"
   },
   {
     "lemma": "Gargilius 7",
@@ -1785,11 +1786,14 @@
     "lemma": "Gemina 3",
     "previous": "Gemina 2",
     "next": "Haterius 7",
-    "short_description": "Hörerin Plotins in Rom, Tochter der G. Nr. 2 (S XV 111).",
+    "proof_read": 3,
+    "short_description": "Hörerin Plotins in Rom, Tochter der G. Nr. 2",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 111,
-        "author": "Fischer"
+        "end": 111,
+        "author": "Eitel Fischer."
       }
     ]
   },
