@@ -3790,27 +3790,43 @@
     "lemma": "Felicius 1a",
     "previous": "Faustus 6",
     "next": "Fingerrechnen",
-    "short_description": "C. F. Torquatius, Legat der Provinz Numidia im J. 379/80 oder 380/81 n. Chr.",
+    "proof_read": 2,
+    "short_description": "C. F. Torquatius, Legat der Provinz Numidia um 380 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 118,
         "end": 119,
-        "author": "Eck"
+        "author": "Werner Eck."
       }
     ]
   },
   {
-    "lemma": "Fingerrechnen"
+    "lemma": "Fingerrechnen",
+    "previous": "Felicius 1a",
+    "next": "Firmius 3",
+    "redirect": "digitorum computus",
+    "proof_read": 2,
+    "short_description": "digitorum computus",
+    "chapters": [
+      {
+        "start": 119,
+        "end": 119
+      }
+    ]
   },
   {
     "lemma": "Firmius 3",
     "previous": "Fingerrechnen",
     "next": "Fisius 2",
-    "short_description": "M. F. Secu[ndus], Beamter (Provinzialquästor? Prokonsul?) auf Cypern im J. 38",
+    "proof_read": 2,
+    "short_description": "M. F. Secu[ndus], Beamter (Provinzialquästor?) auf Cypern 38 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 119,
-        "author": "Eck"
+        "end": 119,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3818,11 +3834,14 @@
     "lemma": "Fisius 2",
     "previous": "Firmius 3",
     "next": "Flaminius 8a",
-    "short_description": "C. F. Sabinus, cos. suff. (im J. 83 n. Chr.?).",
+    "proof_read": 2,
+    "short_description": "C. F. Sabinus, cos. suff. 83 n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 119,
-        "author": "Eck"
+        "end": 119,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3830,19 +3849,35 @@
     "lemma": "Flaminius 8a",
     "previous": "Fisius 2",
     "next": "Flavius 35",
-    "short_description": "[---] us F. Priscus, leg. iuridicus von Hispania Tarraconensis um das J. 282 n.",
+    "proof_read": 2,
+    "short_description": "[---]us F. Priscus, leg. iuridicus von Hispania Tarraconensis um 282 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 119,
-        "author": "Eck"
+        "end": 119,
+        "author": "Werner Eck."
       }
     ]
   },
   {
-    "lemma": "Flavius 35"
+    "lemma": "Flavius 35",
+    "previous": "Flaminius 8a",
+    "next": "Flavius 36"
   },
   {
-    "lemma": "Flavius 36"
+    "lemma": "Flavius 36",
+    "previous": "Flavius 35",
+    "next": "Flavius 44",
+    "sort_key": "Flavius 036",
+    "proof_read": 2,
+    "short_description": "M. F. Aper, cos. II ord. im J. 176 n. Chr.",
+    "chapters": [
+      {
+        "start": 119,
+        "end": 119
+      }
+    ]
   },
   {
     "lemma": "Flavius 44",
@@ -3860,11 +3895,14 @@
     "lemma": "Flavius 52a",
     "previous": "Flavius 44",
     "next": "Flavius 57a",
-    "short_description": "F. Callistus, kaiserl. Prokurator von Domänen (bei Thessalonike im 4. Jh. n.",
+    "proof_read": 2,
+    "short_description": "F. Callistus, kaiserl. Prokurator von Domänen in Thessalonike 4. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 120,
-        "author": "Eck"
+        "end": 120,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3872,11 +3910,14 @@
     "lemma": "Flavius 57a",
     "previous": "Flavius 52a",
     "next": "Flavius 57b",
-    "short_description": "F. Catulus Munatianus, c. p., Sohn des Claudius (III 2723. S XII 156 Nr. 162)",
+    "proof_read": 2,
+    "short_description": "F. Catulus Munatianus, c. p., Sohn des Claudius Nr. 162",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 120,
-        "author": "Eck"
+        "end": 120,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3884,35 +3925,78 @@
     "lemma": "Flavius 57b",
     "previous": "Flavius 57a",
     "next": "Flavius 91",
-    "short_description": "C. F. Celer, curator rei publicae Saepinatium.",
+    "proof_read": 2,
+    "short_description": "C. F. Celer, Ritter und curator rei publicae Saepinatium",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 120,
-        "author": "Eck"
+        "end": 120,
+        "author": "Werner Eck."
       }
     ]
   },
   {
-    "lemma": "Flavius 91"
+    "lemma": "Flavius 91",
+    "previous": "Flavius 57b",
+    "next": "Flavius 102",
+    "sort_key": "Flavius 091",
+    "redirect": "Flavianus 18",
+    "proof_read": 2,
+    "short_description": "F. Ranius Pollio Flavianus, Agonothet des Asklepios in Pergamon.",
+    "chapters": [
+      {
+        "start": 120,
+        "end": 120
+      }
+    ]
   },
   {
-    "lemma": "Flavius 102"
+    "lemma": "Flavius 102",
+    "previous": "Flavius 91",
+    "next": "Flavius 145",
+    "proof_read": 2,
+    "short_description": "F. Iulianus, Statthalter von Kilikien 217 und der Provinz Arabia 219 n. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 120,
+        "end": 121,
+        "author": "Werner Eck."
+      }
+    ]
   },
   {
-    "lemma": "Flavius 145"
+    "lemma": "Flavius 145",
+    "previous": "Flavius 102",
+    "next": "Flavius 149"
   },
   {
-    "lemma": "Flavius 149"
+    "lemma": "Flavius 149",
+    "previous": "Flavius 145",
+    "next": "Flavius 159a",
+    "proof_read": 2,
+    "short_description": "F. Pollio Flavianus, prokonsularer Legat der Provinz Asia",
+    "chapters": [
+      {
+        "start": 121,
+        "end": 121,
+        "author": "Werner Eck."
+      }
+    ]
   },
   {
     "lemma": "Flavius 159a",
     "previous": "Flavius 149",
     "next": "Flavius 179a",
+    "proof_read": 2,
     "short_description": "F. Ranius Pollio Flavianus, Agonothet des Asklepios in Pergamon, Sohn des F.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 121,
-        "author": "Eck"
+        "end": 121,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3920,29 +4004,37 @@
     "lemma": "Flavius 179a",
     "previous": "Flavius 159a",
     "next": "Flavius 181",
-    "short_description": "F. Severianus, Praeses von Isauria in den J. 305-311 n. Chr.",
+    "proof_read": 2,
+    "short_description": "F. Severianus, Praeses von Isauria 305-311 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 121,
-        "author": "Eck"
+        "end": 122,
+        "author": "Werner Eck."
       }
     ]
   },
   {
-    "lemma": "Flavius 181"
+    "lemma": "Flavius 181",
+    "previous": "Flavius 179a"
   },
   {
-    "lemma": "Flavius 185"
+    "lemma": "Flavius 185",
+    "next": "Flavius 221a"
   },
   {
     "lemma": "Flavius 221a",
     "previous": "Flavius 185",
     "next": "Flavius 239a",
-    "short_description": "Flavia Amphiclea, Gattin des T. F. Nr. 145 (VI 2608. S XIV 121) Philinus.",
+    "proof_read": 2,
+    "short_description": "Flavia Amphiclea aus Thespiae, Gattin des T. F. Nr. 145 Philinus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 122,
-        "author": "Eck"
+        "end": 122,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3950,12 +4042,14 @@
     "lemma": "Flavius 239a",
     "previous": "Flavius 221a",
     "next": "Flavius 245a",
-    "short_description": "Flavia Philina, Tochter des T. F. Nr. 145 (VI 2608. S XIV 121) Philinus, Gattin",
+    "proof_read": 3,
+    "short_description": "Flavia Philina, Tochter des T. F. Philinus, Gattin des M. Aurelius Olympiodorus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 122,
         "end": 123,
-        "author": "Eck"
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3963,11 +4057,14 @@
     "lemma": "Flavius 245a",
     "previous": "Flavius 239a",
     "next": "Flavius 247a",
-    "short_description": "Flavia Silva Prisca, c.f., Gattin des Claudius (III 2723. S XII 156 Nr. 162)",
+    "proof_read": 2,
+    "short_description": "Flavia Silva Prisca, c.f., Gattin des Claudius Nr. 162",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 123,
-        "author": "Eck"
+        "end": 123,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3975,11 +4072,14 @@
     "lemma": "Flavius 247a",
     "previous": "Flavius 245a",
     "next": "Flavus 6",
-    "short_description": "Flavia Tiberina, Gattin des Claudius (III 2871. S VI 24 Nr. 357) Stratonicus.",
+    "proof_read": 2,
+    "short_description": "Flavia Tiberina, Gattin des Claudius Nr. 357 Stratonicus.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 123,
-        "author": "Eck"
+        "end": 123,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3987,11 +4087,14 @@
     "lemma": "Flavus 6",
     "previous": "Flavius 247a",
     "next": "Floridius",
+    "proof_read": 2,
     "short_description": "[---] F., cos. suff. zwischen den J. 139 und 190 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 124,
-        "author": "Eck"
+        "end": 124,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -3999,11 +4102,15 @@
     "lemma": "Floridius",
     "previous": "Flavus 6",
     "next": "Fronto 4a",
+    "sort_key": "Floridius",
+    "proof_read": 2,
     "short_description": "T. F. Natalis, Legionscenturio im 3. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 124,
-        "author": "Eck"
+        "end": 124,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4011,11 +4118,14 @@
     "lemma": "Fronto 4a",
     "previous": "Floridius",
     "next": "Fronto 4b",
+    "proof_read": 2,
     "short_description": "Leg. Aug. pr. pr. der Provinz Galatia(?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 123,
-        "author": "Eck"
+        "end": 123,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4023,11 +4133,14 @@
     "lemma": "Fronto 4b",
     "previous": "Fronto 4a",
     "next": "Fronto 4c",
-    "short_description": "[---]us F., cos. suff. (im J. 165 n. Chr.?)",
+    "proof_read": 2,
+    "short_description": "[---]us F., cos. suff. 165 n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 123,
-        "author": "Eck"
+        "end": 123,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4035,11 +4148,14 @@
     "lemma": "Fronto 4c",
     "previous": "Fronto 4b",
     "next": "Frugi 3",
-    "short_description": "[---]rius F., leg. Aug. pr. pr. der Provinz Thracia im J. 135 n. Chr.",
+    "proof_read": 2,
+    "short_description": "[---]rius F., leg. Aug. pr. pr. der Provinz Thracia 135 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 123,
-        "author": "Eck"
+        "end": 123,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4060,10 +4176,17 @@
     "lemma": "Fulcinius 8",
     "previous": "Frugi 3",
     "next": "Fulvius 37a",
+    "sort_key": "Fulcinius 8",
+    "proof_read": 2,
+    "short_description": "L. F. Trio, cos. suff. 31 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Lucius Fulcinius Trio",
+    "wd_link": "d:Q673210",
     "chapters": [
       {
         "start": 124,
-        "author": "Eck"
+        "end": 124,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4071,11 +4194,14 @@
     "lemma": "Fulvius 37a",
     "previous": "Fulcinius 8",
     "next": "Fulvius 81a",
-    "short_description": "F. Arrianus, Senator, Vater des M. F. Nr. 81a (S XIV 124) Macer",
+    "proof_read": 2,
+    "short_description": "F. Arrianus, Senator, Vater des M. F. Nr. 81a Macer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 124,
-        "author": "Eck"
+        "end": 124,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4083,11 +4209,14 @@
     "lemma": "Fulvius 81a",
     "previous": "Fulvius 37a",
     "next": "Fulvius 109a",
-    "short_description": "M. F. Macer, c.v., Sohn des F. Nr. 37a (S XIV 124) Arrianus",
+    "proof_read": 2,
+    "short_description": "M. F. Macer, c.v., Sohn des F. Nr. 37a Arrianus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 124,
-        "author": "Eck"
+        "end": 124,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4095,11 +4224,14 @@
     "lemma": "Fulvius 109a",
     "previous": "Fulvius 81a",
     "next": "Furnius 5a",
-    "short_description": "F. Titianus, [pres]beutes Sebastu kai l[ogistes] (in der 1. H. des 2. Jh. n.",
+    "proof_read": 2,
+    "short_description": "F. Titianus, presbeutes Sebastu und logistes in Palmyra 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 124,
-        "author": "Eck"
+        "end": 124,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4107,11 +4239,14 @@
     "lemma": "Furnius 5a",
     "previous": "Fulvius 109a",
     "next": "Fuscus 2a",
-    "short_description": "Sex. F. Iulianus, leg. Aug. pr. pr. der Provinz Lusitania, Konsul = F. Nr. 5",
+    "proof_read": 2,
+    "short_description": "Sex. F. Iulianus, leg. Aug. pr. pr. der Provinz Lusitania, Konsul = F. Nr. 5?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 124,
-        "author": "Eck"
+        "end": 124,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4119,11 +4254,14 @@
     "lemma": "Fuscus 2a",
     "previous": "Furnius 5a",
     "next": "Gabinius 14b",
-    "short_description": "[---]ius F., cos. suff. (zu Ende des 2. Jh. n. Chr.?)",
+    "proof_read": 2,
+    "short_description": "[---]ius F., cos. suff. 2. Jh. n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 124,
-        "author": "Eck"
+        "end": 125,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4140,14 +4278,27 @@
     ]
   },
   {
-    "lemma": "Gabromagus"
+    "lemma": "Gabromagus",
+    "previous": "Gabinius 14b",
+    "next": "Gallonianus"
   },
   {
-    "lemma": "Gallonianus"
+    "lemma": "Gallonianus",
+    "previous": "Gabromagus",
+    "proof_read": 3,
+    "short_description": "Statthalter der Provinz Arabia 259/60 n. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 125,
+        "end": 125,
+        "author": "Werner Eck."
+      }
+    ]
   },
   {
     "lemma": "Gallus 5a",
-    "previous": "Gallonianus",
+    "previous": "Gabinius 14b",
     "next": "Gavius 7a",
     "proof_read": 2,
     "short_description": "[G]., cos. suff. im J. 84 n. Chr.",
@@ -4164,26 +4315,45 @@
     "lemma": "Gavius 7a",
     "previous": "Gallus 5a",
     "next": "Gavius 12",
-    "short_description": "L. G. Aelianus, Quästor (in der Provinz Lycia-Pamphylia?) etwa im J. 134/5 n.",
+    "proof_read": 2,
+    "short_description": "L. G. Aelianus, Quästor der Provinz Lycia-Pamphylia? 134 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 126,
-        "author": "Eck"
+        "end": 126,
+        "author": "Werner Eck."
       }
     ]
   },
   {
-    "lemma": "Gavius 12"
+    "lemma": "Gavius 12",
+    "previous": "Gavius 7a",
+    "next": "Gavius 17a",
+    "sort_key": "Gavius 12",
+    "proof_read": 2,
+    "short_description": "M. G. Bassus, praef. orae Ponticae maritimae um 112 n. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 126,
+        "end": 126,
+        "author": "Werner Eck."
+      }
+    ]
   },
   {
     "lemma": "Gavius 17a",
     "previous": "Gavius 12",
     "next": "Gemellus 5a",
-    "short_description": "C. G. Macer, leg. pr. pr. der Provinz Africa (aus der Mitte des 1. Jh. n. Chr.?)",
+    "proof_read": 2,
+    "short_description": "C. G. Macer, leg. pr. pr. der Provinz Africa 1. Jh. n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 126,
-        "author": "Eck"
+        "end": 126,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4191,11 +4361,14 @@
     "lemma": "Gemellus 5a",
     "previous": "Gavius 17a",
     "next": "Granius 11a",
-    "short_description": "Leg. Aug. in der Provinz Syria etwa unter Septimius Severus.",
+    "proof_read": 2,
+    "short_description": "Leg. Aug. in der Provinz Syria etwa unter Septimius Severus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 126,
-        "author": "Eck"
+        "end": 126,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4203,11 +4376,14 @@
     "lemma": "Granius 11a",
     "previous": "Gemellus 5a",
     "next": "Granius 15a",
+    "proof_read": 2,
     "short_description": "Q. G. Caelestinus (von Leptis Magna?), Senator",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 126,
-        "author": "Eck"
+        "end": 126,
+        "author": "Werner Eck."
       }
     ]
   },
@@ -4215,11 +4391,14 @@
     "lemma": "Granius 15a",
     "previous": "Granius 11a",
     "next": "Haterius 7",
-    "short_description": "G. Sabinus, leg. Aug. (iuridicus der Provinz Tarraconensis?) im 3. Jh. n. Chr.",
+    "proof_read": 2,
+    "short_description": "G. Sabinus, leg. Aug., iuridicus der Provinz Tarraconensis? 3. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 126,
-        "author": "Eck"
+        "end": 126,
+        "author": "Werner Eck."
       }
     ]
   },
