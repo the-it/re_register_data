@@ -1217,7 +1217,7 @@
   {
     "lemma": "Faustus 26",
     "previous": "Eurylochos 11",
-    "next": "Geilarith",
+    "next": "Felix 21c",
     "short_description": "Bischof von Buruni im Burunitanus (III 1071 ) saltus im 5. Jh. n. Chr.",
     "chapters": [
       {
@@ -1227,21 +1227,8 @@
     ]
   },
   {
-    "lemma": "Geilarith",
-    "previous": "Faustus 26",
-    "next": "Felix 21c",
-    "short_description": "Sohn des Gento (s. Gentunis [VII 1204]), Vater des Gelimer (VII 987)",
-    "chapters": [
-      {
-        "start": 671,
-        "end": 672,
-        "author": "Diesner"
-      }
-    ]
-  },
-  {
     "lemma": "Felix 21c",
-    "previous": "Geilarith",
+    "previous": "Faustus 26",
     "next": "Felix 21d",
     "short_description": "Bischof von Abbir in Africa proconsularis im 5. Jh. n. Chr.",
     "chapters": [
@@ -1254,7 +1241,7 @@
   {
     "lemma": "Felix 21d",
     "previous": "Felix 21c",
-    "next": "Florentianus 2",
+    "next": "Florentia 3",
     "proof_read": 2,
     "short_description": "Bischof von Hadrumetum im 5. Jh. n. Chr.",
     "no_creative_height": true,
@@ -1267,9 +1254,12 @@
     ]
   },
   {
+    "lemma": "Florentia 3"
+  },
+  {
     "lemma": "Florentianus 2",
-    "previous": "Felix 21d",
-    "next": "Gesationes",
+    "previous": "Florentia 3",
+    "next": "Geilarith",
     "short_description": "Bischof des numid. Midila im 5. Jh. n. Chr.",
     "chapters": [
       {
@@ -1279,9 +1269,22 @@
     ]
   },
   {
-    "lemma": "Gesationes",
+    "lemma": "Geilarith",
     "previous": "Florentianus 2",
-    "next": "Gunthimer",
+    "next": "Gesationes",
+    "short_description": "Sohn des Gento (s. Gentunis [VII 1204]), Vater des Gelimer (VII 987)",
+    "chapters": [
+      {
+        "start": 671,
+        "end": 672,
+        "author": "Diesner"
+      }
+    ]
+  },
+  {
+    "lemma": "Gesationes",
+    "previous": "Geilarith",
+    "next": "Glykon 2a",
     "short_description": "Gemeinde in Germania inf.",
     "chapters": [
       {
@@ -1292,8 +1295,11 @@
     ]
   },
   {
+    "lemma": "Glykon 2a"
+  },
+  {
     "lemma": "Gunthimer",
-    "previous": "Gesationes",
+    "previous": "Glykon 2a",
     "next": "Habetdeus",
     "proof_read": 2,
     "short_description": "Bruder des Vandalenkönigs Gelimer",
