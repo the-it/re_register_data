@@ -3668,11 +3668,12 @@
     "lemma": "Glauketas",
     "previous": "Giroverkehr",
     "next": "Glaukias 1a",
-    "short_description": "Militär. Beamter im Dienste des Antigonos I. Monophthalmos",
+    "short_description": "militärischer Beamter im Dienste des Antigonos I. Monophthalmos 315 v. Chr.",
     "chapters": [
       {
         "start": 709,
-        "author": "Schoch"
+        "end": 709,
+        "author": "Schoch."
       }
     ]
   },
@@ -3681,7 +3682,7 @@
     "previous": "Glauketas",
     "next": "Glaukippos 2aa",
     "proof_read": 2,
-    "short_description": "Leibwächter des maked. Königs Perseus",
+    "short_description": "Leibwächter des makedonischen Königs Perseus 170 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3695,11 +3696,14 @@
     "lemma": "Glaukippos 2aa",
     "previous": "Glaukias 1a",
     "next": "Glaukippos 2a",
-    "short_description": "[2 aa]) Grieche im Dienste des Demetrios I. Poliorketes, Sohn des Dionysios",
+    "proof_read": 2,
+    "short_description": "Grieche im Dienst des Demetrios I. Poliorketes um 302 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 709,
-        "author": "Schoch"
+        "end": 709,
+        "author": "Schoch."
       }
     ]
   },
@@ -3707,11 +3711,14 @@
     "lemma": "Glaukippos 2a",
     "previous": "Glaukippos 2aa",
     "next": "Glaukippos 3a",
-    "short_description": "Miles. Gesandter zu Alexander d. Gr. im J. 334 v. Chr.",
+    "proof_read": 2,
+    "short_description": "Milesier, Gesandter zu Alexander d. Gr. 334 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 709,
-        "author": "Berve"
+        "end": 710,
+        "author": "Berve."
       }
     ]
   },
@@ -3732,6 +3739,8 @@
   },
   {
     "lemma": "Glaukon 1",
+    "previous": "Glaukippos 3a",
+    "next": "Gobares",
     "chapters": [
       {
         "start": 710,
@@ -3758,11 +3767,14 @@
     "lemma": "Gorgatas",
     "previous": "Gobares",
     "next": "Gorgias 3a",
-    "short_description": "Vornehmer Makedone am Hof der Königin Olympias (XVIII 1. H. 177 Nr. 5)",
+    "proof_read": 2,
+    "short_description": "vornehmer Makedone am Hof der Königin Olympias Nr. 5 um 331 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 710,
-        "author": "Berve"
+        "end": 710,
+        "author": "Berve."
       }
     ]
   },
@@ -3770,26 +3782,51 @@
     "lemma": "Gorgias 3a",
     "previous": "Gorgatas",
     "next": "Gorgion 2",
-    "short_description": "Vornehmer Makedone am Hof der Königin Olympias (XVIII 1. H. 177 Nr. 5)",
+    "proof_read": 2,
+    "short_description": "vornehmer Makedone am Hof der Königin Olympias Nr. 5 um 331 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 710,
-        "author": "Berve"
+        "end": 710,
+        "author": "Berve."
       }
     ]
   },
   {
-    "lemma": "Gorgion 2"
+    "lemma": "Gorgion 1",
+    "next": "Gorgion 2"
+  },
+  {
+    "lemma": "Gorgion 2",
+    "previous": "Gorgion 1",
+    "next": "Gorgion 3",
+    "proof_read": 2,
+    "short_description": "Vater des Spartaners Damaratos Nr. 3 um 300 v. Chr., auf Delos verdient",
+    "chapters": [
+      {
+        "start": 710,
+        "end": 710,
+        "author": "Schoch."
+      }
+    ]
+  },
+  {
+    "lemma": "Gorgion 3",
+    "previous": "Gorgion 2"
   },
   {
     "lemma": "Gorgos 11a",
     "previous": "Gorgion 2",
     "next": "Gygaia 3",
-    "short_description": "Bergbautechniker im Gefolge Alexanders d.Gr.",
+    "proof_read": 2,
+    "short_description": "Bergbautechniker im Gefolge Alexanders d. Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 710,
-        "author": "Berve"
+        "end": 710,
+        "author": "Berve."
       }
     ]
   },
@@ -3826,11 +3863,14 @@
     "lemma": "Gyron",
     "previous": "Gyges 5",
     "next": "Habron 1c",
-    "short_description": "Aitol. Gebirge am Acheloos (I 213 Nr. 1)",
+    "proof_read": 2,
+    "short_description": "aitolisches Gebirge am Acheloos Nr. 1",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 711,
-        "author": "Geisau"
+        "end": 711,
+        "author": "v. Geisau."
       }
     ]
   },
