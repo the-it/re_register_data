@@ -2150,11 +2150,14 @@
     "lemma": "Κύρτος 2",
     "previous": "Κύρτος 1",
     "next": "Κύρου Πεδίον",
-    "short_description": "Arzt",
+    "sort_key": "Kyrtos 2",
+    "proof_read": 2,
+    "short_description": "Arzt, mit Zugpflaster bei Galen",
     "chapters": [
       {
         "start": 206,
-        "author": "Kind"
+        "end": 206,
+        "author": "Kind."
       }
     ]
   },
@@ -2221,34 +2224,42 @@
   {
     "lemma": "Kysis",
     "previous": "Κύσηρα",
-    "next": "Kysselis",
-    "short_description": "Ort",
+    "next": "Κύσσηλις",
+    "sort_key": "Kysis",
+    "short_description": "südlichster Ort der großen Oase Khârge, westlich des Niltales",
+    "wp_link": "w:de:Qasr Dusch",
+    "wd_link": "d:Q2121433",
     "chapters": [
       {
         "start": 207,
-        "author": "Kees"
+        "end": 207,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Kysselis",
+    "lemma": "Κύσσηλις",
     "previous": "Kysis",
     "next": "Κυσσοῦς",
-    "short_description": "Ort",
+    "sort_key": "Kysselis",
+    "proof_read": 2,
+    "short_description": "Kysselis, Ort im Latmosgebirge in Ionien, Kleinasien, mit Bimssteintuffen",
     "chapters": [
       {
         "start": 207,
-        "author": "Bürchner"
+        "end": 207,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Κυσσοῦς",
-    "previous": "Kysselis",
+    "previous": "Κύσσηλις",
     "next": "Kytaion",
     "sort_key": "Kyssus",
-    "redirect": "Livius 9",
+    "redirect": "Kissus",
     "proof_read": 2,
+    "short_description": "Cyssus",
     "chapters": [
       {
         "start": 207,
@@ -2260,11 +2271,14 @@
     "lemma": "Kytaion",
     "previous": "Κυσσοῦς",
     "next": "Kythera 1",
-    "short_description": "Ort",
+    "sort_key": "Kytaion",
+    "proof_read": 2,
+    "short_description": "Städtchen an der Nordwestküste Kretas",
     "chapters": [
       {
         "start": 207,
-        "author": "Bürchner"
+        "end": 207,
+        "author": "Bürchner."
       }
     ]
   },

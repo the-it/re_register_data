@@ -1043,7 +1043,7 @@
     "next": "Goldbrasse, -brachse",
     "sort_key": "Gold",
     "proof_read": 2,
-    "short_description": "Edelmetall = chrysos, aurum",
+    "short_description": "sehr wertvolles Edelmetall = chrysos, aurum",
     "wp_link": "w:de:Gold",
     "wd_link": "d:Q897",
     "chapters": [
@@ -1955,7 +1955,7 @@
     "lemma": "Γορδυηνή",
     "previous": "Γορδυαῖα ὄρη",
     "next": "Gordynia",
-    "sort_key": "Gorgyene",
+    "sort_key": "Gordyene",
     "proof_read": 2,
     "short_description": "Gordyene, Landschaft an der Grenze Armeniens östlich der Tigrisquellen",
     "wp_link": "w:de:Gordiene",
@@ -4390,7 +4390,7 @@
     "lemma": "Grani mons",
     "previous": "Grandimirum",
     "next": "Granianum promunturium",
-    "sort_key": "Granimons",
+    "sort_key": "Grani mons",
     "proof_read": 2,
     "short_description": "Station der Via Valeria bei Carsioli",
     "chapters": [
@@ -7591,9 +7591,9 @@
     "lemma": "Γουράνιοι",
     "previous": "Guraios",
     "next": "Guras",
-    "sort_key": "Gouranioi",
+    "sort_key": "Guranioi",
     "proof_read": 2,
-    "short_description": "Gouranioi",
+    "short_description": "Guranioi, Volksstamm nebst Medern und armenischen Saraparai",
     "chapters": [
       {
         "start": 1945,
@@ -7738,9 +7738,9 @@
     "lemma": "Γουριαύνα",
     "previous": "Guriane",
     "next": "Gurke",
-    "sort_key": "Gouriauna",
+    "sort_key": "Guriauna",
     "proof_read": 2,
-    "short_description": "Gouriauna",
+    "short_description": "Guriauna, Stadt in Medien",
     "chapters": [
       {
         "start": 1946,
@@ -8387,7 +8387,6 @@
     "lemma": "Gymnetes 3",
     "previous": "Gymnetes 2",
     "next": "Gymnias",
-    "sort_key": "Gymnetes",
     "proof_read": 2,
     "short_description": "Leichtbewaffnete in griechischen Heeren",
     "wp_link": "w:de:Gymneten",
@@ -9105,11 +9104,14 @@
     "lemma": "Habron 1",
     "previous": "Habromachos 3",
     "next": "Habron 2",
-    "short_description": "Athen. Archon 458/7 v. Chr.",
+    "sort_key": "Habron 1",
+    "proof_read": 2,
+    "short_description": "Archon in Athen 458 v. Chr.",
     "chapters": [
       {
         "start": 2155,
-        "author": "Kirchner"
+        "end": 2155,
+        "author": "Kirchner."
       }
     ]
   },
@@ -9117,11 +9119,14 @@
     "lemma": "Habron 2",
     "previous": "Habron 1",
     "next": "Habron 3",
-    "short_description": "Person im Sprichwort",
+    "sort_key": "Habron 2",
+    "proof_read": 2,
+    "short_description": "typische Figur für üppiges Leben im Sprichwort",
     "chapters": [
       {
         "start": 2155,
-        "author": "Hausrath"
+        "end": 2155,
+        "author": "Hausrath."
       }
     ]
   },
@@ -9129,11 +9134,15 @@
     "lemma": "Habron 3",
     "previous": "Habron 2",
     "next": "Habron 4",
-    "short_description": "Exeget u. Verf. eines Werkes über Feste u. Opfer",
+    "sort_key": "Habron 3",
+    "proof_read": 2,
+    "short_description": "Sohn des Kallias, Exeget, verfasst ein Werk über Feste und Opfer 338 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2155,
-        "author": "Jacoby, [Felix]"
+        "end": 2156,
+        "author": "Jacoby."
       }
     ]
   },
@@ -9154,12 +9163,14 @@
     "lemma": "Habron 5",
     "previous": "Habron 4",
     "next": "Habronichos",
-    "short_description": "Griech. Maler",
+    "sort_key": "Habron 5",
+    "proof_read": 2,
+    "short_description": "griechischer Maler 4. Jh. v. Chr.?",
     "chapters": [
       {
         "start": 2156,
         "end": 2157,
-        "author": "Pfuhl"
+        "author": "Pfuhl."
       }
     ]
   },
@@ -9167,10 +9178,14 @@
     "lemma": "Habronichos",
     "previous": "Habron 5",
     "next": "Habronides",
+    "sort_key": "Habronichos",
+    "proof_read": 2,
+    "short_description": "Sohn des Lysikles aus Athen, bei den Thermopylen 480 v. Chr.",
     "chapters": [
       {
         "start": 2157,
-        "author": "Swoboda, [Heinrich]"
+        "end": 2157,
+        "author": "Swoboda."
       }
     ]
   },
@@ -9178,10 +9193,15 @@
     "lemma": "Habronides",
     "previous": "Habronichos",
     "next": "Habryllos",
+    "sort_key": "Habronides",
+    "proof_read": 2,
+    "short_description": "Athener, Trierarch um 357 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2157,
-        "author": "Sundwall"
+        "end": 2157,
+        "author": "Sundwall."
       }
     ]
   },
@@ -9189,10 +9209,15 @@
     "lemma": "Habryllos",
     "previous": "Habronides",
     "next": "Hactara",
+    "sort_key": "Habryllos",
+    "proof_read": 2,
+    "short_description": "Sohn des Athenaios, Thessaler, Strateg der Magneten um 130 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2157,
-        "author": "Sundwall"
+        "end": 2157,
+        "author": "Sundwall."
       }
     ]
   },
@@ -9200,10 +9225,15 @@
     "lemma": "Hactara",
     "previous": "Habryllos",
     "next": "Hadad",
+    "sort_key": "Hactara",
+    "proof_read": 2,
+    "short_description": "Ort in Hispania Tarraconensis bei Acci (heute Guadix)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2157,
-        "author": "Schulten"
+        "end": 2157,
+        "author": "Schulten."
       }
     ]
   },
