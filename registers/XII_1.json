@@ -2313,7 +2313,7 @@
   {
     "lemma": "Kythereia",
     "previous": "Kythera 2",
-    "next": "Kytheria 1",
+    "next": "Κυθηρία 1",
     "short_description": "Epiklesis der Aphrodite",
     "chapters": [
       {
@@ -2323,38 +2323,50 @@
     ]
   },
   {
-    "lemma": "Kytheria 1",
+    "lemma": "Κυθηρία 1",
     "previous": "Kythereia",
-    "next": "Kytheria 2",
-    "short_description": "Insel s. Kythera",
+    "next": "Κυθηρία 2",
+    "sort_key": "Kytheria 1",
+    "proof_read": 2,
+    "short_description": "Kytheria, Insel s. Kythera",
     "chapters": [
       {
         "start": 218,
-        "author": "Bürchner"
+        "end": 218,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kytheria 2",
-    "previous": "Kytheria 1",
+    "lemma": "Κυθηρία 2",
+    "previous": "Κυθηρία 1",
     "next": "Kytherios, Kytheros",
+    "sort_key": "Kytheria 2",
+    "proof_read": 2,
     "short_description": "Umgebung der Insel Kythera",
     "chapters": [
       {
         "start": 218,
-        "author": "Bürchner"
+        "end": 218,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kytherios, Kytheros",
-    "previous": "Kytheria 2",
+    "previous": "Κυθηρία 2",
     "next": "Kytheris 1",
-    "short_description": "Nebenfluß des Alpheios",
+    "sort_key": "Kytherios,kytheros",
+    "proof_read": 2,
+    "short_description": "rechter Nebenfluß des Alpheios bei Olympia",
+    "no_creative_height": true,
+    "wp_link": "w:de:Kytheros (Fluss)",
+    "wd_link": "d:Q211852",
     "chapters": [
       {
         "start": 218,
-        "author": "Pieske"
+        "end": 218,
+        "author": "Pieske."
       }
     ]
   },
@@ -2411,11 +2423,13 @@
     "lemma": "Kytinion",
     "previous": "Kythnos 2",
     "next": "Kytonion",
-    "short_description": "Stadt der dor. Tripolis",
+    "sort_key": "Kytinion",
+    "short_description": "Stadt der dorischen Tripolis",
     "chapters": [
       {
         "start": 223,
-        "author": "Pieske"
+        "end": 223,
+        "author": "Pieske."
       }
     ]
   },
@@ -2423,41 +2437,50 @@
     "lemma": "Kytonion",
     "previous": "Kytinion",
     "next": "Kytoros",
-    "short_description": "Ort",
+    "sort_key": "Kytonion",
+    "proof_read": 2,
+    "short_description": "Stadt im kleinasiatischen Mysien, an der Grenze gegen Lydien",
     "chapters": [
       {
         "start": 223,
-        "author": "Bürchner"
+        "end": 224,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kytoros",
     "previous": "Kytonion",
-    "next": "Kyzikene",
-    "short_description": "Ort",
+    "next": "Κυζικηνή",
+    "sort_key": "Kytoros",
+    "proof_read": 2,
+    "short_description": "Stadt an der Küste von Paphlagonien bei Amastris",
     "chapters": [
       {
         "start": 224,
-        "author": "Ruge"
+        "end": 224,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Kyzikene",
+    "lemma": "Κυζικηνή",
     "previous": "Kytoros",
     "next": "Kyzikener",
-    "short_description": "Gebiet der Stadt Kyzikos in Mysien",
+    "sort_key": "Kyzikene",
+    "proof_read": 2,
+    "short_description": "Kyzikene, Gebiet, das der Stadt Kyzikos in Mysien gehört",
     "chapters": [
       {
         "start": 224,
-        "author": "Bürchner"
+        "end": 224,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kyzikener",
-    "previous": "Kyzikene",
+    "previous": "Κυζικηνή",
     "next": "Kyzikos",
     "short_description": "Münzen der Stadt Kyzikos",
     "chapters": [

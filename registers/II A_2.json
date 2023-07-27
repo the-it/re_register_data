@@ -596,11 +596,14 @@
     "lemma": "Selloi",
     "previous": "Sellium",
     "next": "Sellus 1",
-    "short_description": "Priester des Zeus in Dodona. = Helloi vgl. Hellopia",
+    "sort_key": "Selloi",
+    "proof_read": 2,
+    "short_description": "Priester des Zeus in Dodona = Helloi vgl. Hellopia",
     "chapters": [
       {
         "start": 1323,
-        "author": "Bürchner"
+        "end": 1323,
+        "author": "Bürchner."
       }
     ]
   },
@@ -608,11 +611,14 @@
     "lemma": "Sellus 1",
     "previous": "Selloi",
     "next": "Sellus 2",
-    "short_description": "Berg an d. hispan. Mittelmeerküste",
+    "sort_key": "Sellus 1",
+    "proof_read": 2,
+    "short_description": "Berg der spanischen Mittelmeerküste beim Ebro, heute Cap Salou",
     "chapters": [
       {
         "start": 1323,
-        "author": "Keune"
+        "end": 1323,
+        "author": "Keune."
       }
     ]
   },
@@ -633,10 +639,14 @@
     "lemma": "Selmea",
     "previous": "Sellus 2",
     "next": "Selmeenos",
+    "sort_key": "Selmea",
+    "proof_read": 2,
+    "short_description": "Ort dicht an der Straße Akschehir (Philomelion)-Angora",
     "chapters": [
       {
         "start": 1323,
-        "author": "Ruge"
+        "end": 1323,
+        "author": "Ruge."
       }
     ]
   },
@@ -654,34 +664,48 @@
   {
     "lemma": "Selongey",
     "previous": "Selmeenos",
-    "next": "Selour",
+    "next": "Σηλούρ",
+    "sort_key": "Selongey",
+    "proof_read": 2,
+    "short_description": "Ort im Départ. Côte d’Or, zwischen Dijon und Langres",
+    "wp_link": "w:de:Selongey",
+    "wd_link": "d:Q103457",
     "chapters": [
       {
         "start": 1323,
-        "author": "Keune"
+        "end": 1323,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Selour",
+    "lemma": "Σηλούρ",
     "previous": "Selongey",
     "next": "Selteri",
+    "sort_key": "Selour",
+    "proof_read": 2,
+    "short_description": "Selour, Stadt im Binnenland der Kareoi, an der Südspitze Vorderindiens",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1323,
-        "author": "Wecker"
+        "end": 1323,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Selteri",
-    "previous": "Selour",
+    "previous": "Σηλούρ",
     "next": "Seluros",
+    "sort_key": "Selteri",
+    "proof_read": 2,
     "short_description": "s. Suelteri",
     "chapters": [
       {
         "start": 1323,
-        "author": "Keune"
+        "end": 1323,
+        "author": "Keune."
       }
     ]
   },
@@ -689,11 +713,14 @@
     "lemma": "Seluros",
     "previous": "Selteri",
     "next": "Selvans",
+    "sort_key": "Seluros",
+    "proof_read": 2,
+    "short_description": "Räuberhauptmann aus dem Ätnagebiet, bei Gladiatorenkämpfen zerrissen",
     "chapters": [
       {
         "start": 1323,
         "end": 1324,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -701,11 +728,14 @@
     "lemma": "Selvans",
     "previous": "Seluros",
     "next": "Sely(m)bria",
-    "short_description": "Etr. Gott",
+    "sort_key": "Selvans",
+    "proof_read": 2,
+    "short_description": "etruskischer Gott in Inschriften",
     "chapters": [
       {
         "start": 1324,
-        "author": "Fiesel"
+        "end": 1324,
+        "author": "Fiesel."
       }
     ]
   },

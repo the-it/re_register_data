@@ -958,11 +958,14 @@
     "lemma": "Sperchios",
     "previous": "Spercheios",
     "next": "Sperchius",
-    "short_description": "Ort",
+    "sort_key": "Sperchios",
+    "proof_read": 2,
+    "short_description": "Ort, unter den Städten der Doris an erster Stelle",
     "chapters": [
       {
         "start": 1628,
-        "author": "Bölte"
+        "end": 1628,
+        "author": "Bölte."
       }
     ]
   },
@@ -970,11 +973,14 @@
     "lemma": "Sperchius",
     "previous": "Sperchios",
     "next": "Σπερέτιον",
-    "short_description": "Person",
+    "sort_key": "Sperchius",
+    "proof_read": 2,
+    "short_description": "Comes rerum privatarum um 379 n. Chr.",
     "chapters": [
       {
         "start": 1628,
-        "author": "Seeck"
+        "end": 1628,
+        "author": "Seeck."
       }
     ]
   },
@@ -1009,11 +1015,14 @@
     "lemma": "Spermatophagoi",
     "previous": "Sperling",
     "next": "Spermeios",
-    "short_description": "Aethiopisches Nomadenvolk",
+    "sort_key": "Spermatophagoi",
+    "proof_read": 2,
+    "short_description": "Spermatophagoi, äthiopisches Nomadenvolk südlich der Rhizophagen",
     "chapters": [
       {
         "start": 1632,
-        "author": "Schwabe"
+        "end": 1632,
+        "author": "Schwabe."
       }
     ]
   },
@@ -1021,11 +1030,14 @@
     "lemma": "Spermeios",
     "previous": "Spermatophagoi",
     "next": "Spermios",
-    "short_description": "Beiname des Apollon",
+    "sort_key": "Spermeios",
+    "proof_read": 2,
+    "short_description": "Beiname des Apollon, Förderer des Ackerbaues",
     "chapters": [
       {
         "start": 1632,
-        "author": "Türk"
+        "end": 1633,
+        "author": "Türk."
       }
     ]
   },
@@ -1033,11 +1045,14 @@
     "lemma": "Spermios",
     "previous": "Spermeios",
     "next": "Spermo",
-    "short_description": "Kalendermonat in Knossos auf Kreta",
+    "sort_key": "Spermios",
+    "proof_read": 2,
+    "short_description": "Kalendermonat in Knossos auf Kreta (Dez./Jan.?)",
     "chapters": [
       {
         "start": 1633,
-        "author": "Bischoff, [Ernst]"
+        "end": 1633,
+        "author": "Bischoff."
       }
     ]
   },
@@ -1045,11 +1060,14 @@
     "lemma": "Spermo",
     "previous": "Spermios",
     "next": "Spermos",
-    "short_description": "Tochter des Anios",
+    "sort_key": "Spermo",
+    "proof_read": 2,
+    "short_description": "Tochter des Anios für Getreide, neben der Elais (Öl) und Oino (Wein)",
     "chapters": [
       {
         "start": 1633,
-        "author": "Türk"
+        "end": 1633,
+        "author": "Türk."
       }
     ]
   },
@@ -1083,7 +1101,7 @@
     "previous": "Spernacus",
     "next": "Sperthias",
     "proof_read": 2,
-    "short_description": "Ort",
+    "short_description": "Ort bei Cahors (Cadurci)",
     "chapters": [
       {
         "start": 1634,
@@ -1201,11 +1219,14 @@
     "lemma": "Σφαγίτης",
     "previous": "Σφαγία, Σφαγίαι",
     "next": "Σφαῖρα",
-    "short_description": "Vorgebirge Skythiens",
+    "sort_key": "Sphagites",
+    "proof_read": 2,
+    "short_description": "Sphagites, Vorgebirge Skythiens, Kap der ,Schlachtopfer‘?",
     "chapters": [
       {
         "start": 1680,
-        "author": "Herrmann"
+        "end": 1680,
+        "author": "Herrmann."
       }
     ]
   },
@@ -1224,27 +1245,44 @@
     ]
   },
   {
-    "lemma": "Σφαιρία"
-  },
-  {
-    "lemma": "Sphairia 1",
-    "previous": "Σφαιρία",
-    "next": "Σφαιρία 2",
-    "short_description": "Inselchen an der Küste von Troizen",
+    "lemma": "Σφαιρία",
+    "previous": "Σφαῖρα",
+    "next": "Σφαιρία 1",
+    "sort_key": "Sphairia",
+    "proof_read": 2,
+    "short_description": "Name von Inseln im östlichen Mittelmeer nach der halbkugeligen Gestalt",
     "chapters": [
       {
         "start": 1680,
-        "author": "Bürchner"
+        "end": 1680,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Σφαιρία 1",
+    "previous": "Σφαιρία",
+    "next": "Σφαιρία 2",
+    "sort_key": "Sphairia 1",
+    "proof_read": 2,
+    "short_description": "Inselchen an der Küste von Troizen",
+    "wp_link": "w:de:Poros (Insel)",
+    "wd_link": "d:Q724394",
+    "chapters": [
+      {
+        "start": 1680,
+        "end": 1680,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Σφαιρία 2",
-    "previous": "Sphairia 1",
+    "previous": "Σφαιρία 1",
     "next": "Sphairisterion",
     "sort_key": "Sphairia 2",
     "proof_read": 2,
-    "short_description": "Inselchen gegenüber der Erythraia",
+    "short_description": "Inselchen gegenüber der Erythraia im kleinasiatischen Ionien",
     "chapters": [
       {
         "start": 1680,
