@@ -9415,10 +9415,14 @@
     "lemma": "Hadriani circus",
     "previous": "Hadrianeum 2",
     "next": "Hadrianion",
+    "sort_key": "Hadrianicircus",
+    "redirect": "Naumachie",
+    "proof_read": 2,
     "short_description": "s. Naumachia",
     "chapters": [
       {
-        "start": 2172
+        "start": 2172,
+        "end": 2172
       }
     ]
   },
@@ -9426,10 +9430,14 @@
     "lemma": "Hadrianion",
     "previous": "Hadriani circus",
     "next": "Hadrianis",
+    "sort_key": "Hadrianion",
+    "proof_read": 2,
+    "short_description": "Schaltmonat in Athen 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2172,
-        "author": "Bischoff, [Ernst]"
+        "end": 2172,
+        "author": "Bischoff."
       }
     ]
   },
@@ -9437,11 +9445,14 @@
     "lemma": "Hadrianis",
     "previous": "Hadrianion",
     "next": "Hadrianoi pros Olympon",
+    "sort_key": "Hadrianis",
+    "proof_read": 2,
+    "short_description": "Phyle in Antinoupolis in Ägypten",
     "chapters": [
       {
         "start": 2172,
         "end": 2173,
-        "author": "Otto, Walter"
+        "author": "Walter Otto."
       }
     ]
   },
@@ -9449,30 +9460,50 @@
     "lemma": "Hadrianoi pros Olympon",
     "previous": "Hadrianis",
     "next": "Hadrianopolis 1",
-    "short_description": "Städtchen im kleinasiat. Mysien",
+    "sort_key": "Hadrianoipros olympon",
+    "proof_read": 2,
+    "short_description": "Städtchen im kleinasiatischen Mysien",
     "chapters": [
       {
         "start": 2173,
-        "author": "Bürchner"
+        "end": 2173,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Hadrianopolis 1",
     "previous": "Hadrianoi pros Olympon",
-    "next": "Hadrianupolis 2",
-    "short_description": "Stadt im mys.-lyd. Grenzgebiet. = Stratonikeia (1244 ) Hadrianopolis",
+    "next": "Hadrianopolis 2",
+    "sort_key": "Hadrianopolis 1",
+    "proof_read": 2,
+    "short_description": "Stadt im mysisch-lydischen Grenzgebiet = Stratonikeia Hadrianopolis",
     "chapters": [
       {
         "start": 2173,
-        "author": "Bürchner"
+        "end": 2173,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Hadrianopolis 2",
+    "previous": "Hadrianopolis 1",
+    "next": "Hadrianopolis 3",
+    "sort_key": "Hadrianopolis 2",
+    "proof_read": 2,
+    "short_description": "Stadt in der epeirotischen Chaonia",
+    "chapters": [
+      {
+        "start": 2173,
+        "end": 2173,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Hadrianupolis 2",
-    "previous": "Hadrianopolis 1",
-    "next": "Hadrianupolis 3",
+    "next": "Hadrianopolis 3",
     "short_description": "Stadt in d. epeirotischen Chaonia",
     "chapters": [
       {
@@ -9482,27 +9513,32 @@
     ]
   },
   {
-    "lemma": "Hadrianupolis 3",
-    "previous": "Hadrianupolis 2",
+    "lemma": "Hadrianopolis 3",
+    "previous": "Hadrianopolis 2",
     "next": "Hadrianopolis 4",
-    "short_description": "Stadt in Karien",
+    "sort_key": "Hadrianupolis 3",
+    "proof_read": 2,
+    "short_description": "Stadt in Karien nach Neubegründung durch Kaiser Hadrian",
     "chapters": [
       {
         "start": 2173,
         "end": 2174,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Hadrianopolis 4",
-    "previous": "Hadrianupolis 3",
+    "previous": "Hadrianopolis 3",
     "next": "Hadrianopolis 5",
-    "short_description": "Stadt in Bithynien",
+    "sort_key": "Hadrianopolis 4",
+    "proof_read": 2,
+    "short_description": "Stadt in Bithynien, Gegend von Viranschehir",
     "chapters": [
       {
         "start": 2174,
-        "author": "Ruge"
+        "end": 2174,
+        "author": "Ruge."
       }
     ]
   },
@@ -9510,11 +9546,14 @@
     "lemma": "Hadrianopolis 5",
     "previous": "Hadrianopolis 4",
     "next": "Hadrianopolis 6",
-    "short_description": "Stadt in Pisidien",
+    "sort_key": "Hadrianopolis 5",
+    "proof_read": 2,
+    "short_description": "Stadt in Pisidien nordwestlich von Ikonion",
     "chapters": [
       {
         "start": 2174,
-        "author": "Ruge"
+        "end": 2174,
+        "author": "Ruge."
       }
     ]
   },
@@ -9550,11 +9589,14 @@
     "lemma": "Hadrianopolis 8",
     "previous": "Hadrianopolis 7",
     "next": "Hadrianopolis 9",
-    "short_description": "Stadt in d. keraunischen Bergen in Epeiros",
+    "sort_key": "Hadrianopolis 8",
+    "proof_read": 2,
+    "short_description": "Stadt in den keraunischen Bergen in Epeiros",
     "chapters": [
       {
         "start": 2174,
-        "author": "Oberhummer"
+        "end": 2174,
+        "author": "Oberhummer."
       }
     ]
   },
