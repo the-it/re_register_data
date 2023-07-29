@@ -1264,7 +1264,7 @@
   {
     "lemma": "Hydreia",
     "previous": "Hydree",
-    "next": "Hydrela 1",
+    "next": "Hydrela",
     "proof_read": 2,
     "short_description": "s. Hydrea",
     "chapters": [
@@ -1276,8 +1276,11 @@
     ]
   },
   {
+    "lemma": "Hydrela"
+  },
+  {
     "lemma": "Hydrela 1",
-    "previous": "Hydreia",
+    "previous": "Hydrela",
     "next": "Hydrela 2",
     "short_description": "Stadt und Gegend am Maiandros",
     "chapters": [
@@ -1315,7 +1318,7 @@
   {
     "lemma": "Hydreuma",
     "previous": "Hydrelitanus ager",
-    "next": "Hydriakos",
+    "next": "Hydria Tertulla",
     "short_description": "Wasserstationen an der Karawanenstraße Koptos - Berenike",
     "chapters": [
       {
@@ -1325,9 +1328,21 @@
     ]
   },
   {
-    "lemma": "Hydriakos",
+    "lemma": "Hydria Tertulla",
     "previous": "Hydreuma",
-    "next": "Hydria Tertulla",
+    "next": "Hydriakos",
+    "short_description": "Gattin des Terentius Musaeus",
+    "chapters": [
+      {
+        "start": 78,
+        "author": "Kadlec"
+      }
+    ]
+  },
+  {
+    "lemma": "Hydriakos",
+    "previous": "Hydria Tertulla",
+    "next": "Hydroessa, Hydrusa",
     "short_description": "Fluß in W-Gadrosien",
     "chapters": [
       {
@@ -1338,20 +1353,11 @@
     ]
   },
   {
-    "lemma": "Hydria Tertulla",
-    "previous": "Hydriakos",
-    "next": "Hydroessa, Hydrusa 1",
-    "short_description": "Gattin des Terentius Musaeus",
-    "chapters": [
-      {
-        "start": 78,
-        "author": "Kadlec"
-      }
-    ]
+    "lemma": "Hydroessa, Hydrusa"
   },
   {
     "lemma": "Hydroessa, Hydrusa 1",
-    "previous": "Hydria Tertulla",
+    "previous": "Hydroessa, Hydrusa",
     "next": "Hydroessa, Hydrusa 2",
     "short_description": "Name von Keos",
     "chapters": [
