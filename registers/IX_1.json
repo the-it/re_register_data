@@ -1276,18 +1276,32 @@
     ]
   },
   {
-    "lemma": "Hydrela"
+    "lemma": "Hydrela",
+    "previous": "Hydreia",
+    "next": "Hydrela 1",
+    "sort_key": "Hydrela",
+    "proof_read": 2,
+    "short_description": "Name einer Stadt und einer Gegend",
+    "chapters": [
+      {
+        "start": 77,
+        "end": 78,
+        "author": "Bürchner."
+      }
+    ]
   },
   {
     "lemma": "Hydrela 1",
     "previous": "Hydrela",
     "next": "Hydrela 2",
-    "short_description": "Stadt und Gegend am Maiandros",
+    "sort_key": "Hydrela 1",
+    "proof_read": 2,
+    "short_description": "Stadt und Gegend am Maiandros in Karien",
     "chapters": [
       {
         "start": 77,
         "end": 78,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -1295,11 +1309,14 @@
     "lemma": "Hydrela 2",
     "previous": "Hydrela 1",
     "next": "Hydrelitanus ager",
-    "short_description": "Gegend in O-Karien",
+    "sort_key": "Hydrela 2",
+    "proof_read": 2,
+    "short_description": "Gegend im östlichen Karien am oberen Maiandros",
     "chapters": [
       {
         "start": 78,
-        "author": "Bürchner"
+        "end": 78,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1307,11 +1324,14 @@
     "lemma": "Hydrelitanus ager",
     "previous": "Hydrela 2",
     "next": "Hydreuma",
-    "short_description": "Gebiet zu Hydrela Nr. 2",
+    "sort_key": "Hydrelitanusager",
+    "proof_read": 2,
+    "short_description": "Gebiet zur Stadt Hydrela Nr. 2 im kleinasiatischan Karien",
     "chapters": [
       {
         "start": 78,
-        "author": "Bürchner"
+        "end": 78,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1319,11 +1339,13 @@
     "lemma": "Hydreuma",
     "previous": "Hydrelitanus ager",
     "next": "Hydria Tertulla",
-    "short_description": "Wasserstationen an der Karawanenstraße Koptos - Berenike",
+    "sort_key": "Hydreuma",
+    "short_description": "Wasserstationen der Karawanenstraße Koptos–Berenike",
     "chapters": [
       {
         "start": 78,
-        "author": "Kees"
+        "end": 78,
+        "author": "Kees."
       }
     ]
   },
@@ -1331,11 +1353,15 @@
     "lemma": "Hydria Tertulla",
     "previous": "Hydreuma",
     "next": "Hydriakos",
-    "short_description": "Gattin des Terentius Musaeus",
+    "sort_key": "Hydria Tertulla",
+    "proof_read": 2,
+    "short_description": "Gattin des Terentius Musaeus, Christin in Arelate, Gallien 3. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 78,
-        "author": "Kadlec"
+        "end": 78,
+        "author": "Kadleč."
       }
     ]
   },
@@ -1343,27 +1369,44 @@
     "lemma": "Hydriakos",
     "previous": "Hydria Tertulla",
     "next": "Hydroessa, Hydrusa",
-    "short_description": "Fluß in W-Gadrosien",
+    "sort_key": "Hydriakos",
+    "proof_read": 2,
+    "short_description": "Fluß im westlichen Gadrosien beim Persischen Meerbusen",
     "chapters": [
       {
         "start": 78,
         "end": 79,
-        "author": "Kiessling, Max"
+        "author": "Kiessling."
       }
     ]
   },
   {
-    "lemma": "Hydroessa, Hydrusa"
+    "lemma": "Hydroessa, Hydrusa",
+    "previous": "Hydriakos",
+    "next": "Hydroessa, Hydrusa 1",
+    "sort_key": "Hydroessa,hydrusa",
+    "proof_read": 2,
+    "short_description": "die Wasserreiche, von viel Wasser Umgebene",
+    "chapters": [
+      {
+        "start": 79,
+        "end": 79,
+        "author": "Bürchner."
+      }
+    ]
   },
   {
     "lemma": "Hydroessa, Hydrusa 1",
     "previous": "Hydroessa, Hydrusa",
     "next": "Hydroessa, Hydrusa 2",
-    "short_description": "Name von Keos",
+    "sort_key": "Hydroessa,hydrusa 1",
+    "proof_read": 2,
+    "short_description": "Beiname der Kykladeninsel Keos",
     "chapters": [
       {
         "start": 79,
-        "author": "Bürchner"
+        "end": 79,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1372,7 +1415,7 @@
     "previous": "Hydroessa, Hydrusa 1",
     "next": "Hydroessa, Hydrusa 3",
     "proof_read": 2,
-    "short_description": "Name von Andros",
+    "short_description": "Beiname der Kykladeninsel Andros",
     "chapters": [
       {
         "start": 79,
@@ -1387,7 +1430,7 @@
     "next": "Hydroessa, Hydrusa 4",
     "sort_key": "Hydroessa,hydrusa 3",
     "proof_read": 2,
-    "short_description": "Beiname von Tenos",
+    "short_description": "dichterischer? Beiname der Kykladeninsel Tenos",
     "chapters": [
       {
         "start": 79,
@@ -1400,11 +1443,14 @@
     "lemma": "Hydroessa, Hydrusa 4",
     "previous": "Hydroessa, Hydrusa 3",
     "next": "Hydromanteia",
-    "short_description": "Insel vor Attika",
+    "sort_key": "Hydroessa,hydrusa 4",
+    "proof_read": 2,
+    "short_description": "elliptische Insel (SW–NO) vor Attika, 133 m hoch",
     "chapters": [
       {
         "start": 79,
-        "author": "Bürchner"
+        "end": 79,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1452,11 +1498,16 @@
     "lemma": "Hydruntum",
     "previous": "Hydros",
     "next": "Hydrusa",
-    "short_description": "Hafen an der kalabrischen Küste Otranto",
+    "sort_key": "Hydruntum",
+    "proof_read": 2,
+    "short_description": "Hafen an der kalabrischen Küste, heute Otranto",
+    "wp_link": "w:de:Otranto",
+    "wd_link": "d:Q52174",
     "chapters": [
       {
         "start": 87,
-        "author": "Weiss, J[akob]"
+        "end": 87,
+        "author": "Weiss."
       }
     ]
   },
@@ -3015,7 +3066,7 @@
     "previous": "Hypataios 1",
     "next": "Hypataios 3",
     "proof_read": 2,
-    "short_description": "Epiklesis des Asklepios",
+    "short_description": "Epiklesis des Asklepios auf Paros",
     "chapters": [
       {
         "start": 240,
@@ -3028,11 +3079,14 @@
     "lemma": "Hypataios 3",
     "previous": "Hypataios 2",
     "next": "Hypate 1",
-    "short_description": "Epiklesis der Theon megalon",
+    "sort_key": "Hypataios 3",
+    "proof_read": 2,
+    "short_description": "Epiklesis der Theon megalon in Thera",
     "chapters": [
       {
         "start": 241,
-        "author": "Jessen"
+        "end": 241,
+        "author": "Jessen."
       }
     ]
   },
@@ -3040,11 +3094,14 @@
     "lemma": "Hypate 1",
     "previous": "Hypataios 3",
     "next": "Hypate 2",
-    "short_description": "Epiklesis der Athena",
+    "sort_key": "Hypate 1",
+    "proof_read": 2,
+    "short_description": "Epiklesis der Athena in Epidauros, ,die höchste‘",
     "chapters": [
       {
         "start": 241,
-        "author": "Jessen"
+        "end": 241,
+        "author": "Jessen."
       }
     ]
   },
@@ -3052,11 +3109,14 @@
     "lemma": "Hypate 2",
     "previous": "Hypate 1",
     "next": "Hypates",
-    "short_description": "Musen von Delphi",
+    "sort_key": "Hypate 2",
+    "proof_read": 2,
+    "short_description": "Muse von Delphi neben Neate und Mese, übertragen von den drei Saiten",
     "chapters": [
       {
         "start": 241,
-        "author": "Jessen"
+        "end": 241,
+        "author": "Jessen."
       }
     ]
   },
@@ -3064,11 +3124,15 @@
     "lemma": "Hypates",
     "previous": "Hypate 2",
     "next": "Hypathius",
-    "short_description": "Person",
+    "sort_key": "Hypates",
+    "proof_read": 2,
+    "short_description": "Thebaner, unter den Führern der Oligarchen 379 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 241,
-        "author": "Sundwall"
+        "end": 241,
+        "author": "Sundwall."
       }
     ]
   },
@@ -3287,11 +3351,14 @@
     "lemma": "Hypatos 3",
     "previous": "Hypatos 2",
     "next": "Hypatos 4",
+    "sort_key": "Hypatos 3",
+    "proof_read": 2,
     "short_description": "Epiklesis verschiedener Götter",
     "chapters": [
       {
         "start": 251,
-        "author": "Jessen"
+        "end": 251,
+        "author": "Jessen."
       }
     ]
   },
@@ -3299,11 +3366,14 @@
     "lemma": "Hypatos 4",
     "previous": "Hypatos 3",
     "next": "Hypatos 5",
-    "short_description": "Selbständiger höchster Gott",
+    "sort_key": "Hypatos 4",
+    "proof_read": 2,
+    "short_description": "selbständiger höchster Gott in Paros",
     "chapters": [
       {
         "start": 251,
-        "author": "Jessen"
+        "end": 251,
+        "author": "Jessen."
       }
     ]
   },
@@ -3311,11 +3381,15 @@
     "lemma": "Hypatos 5",
     "previous": "Hypatos 4",
     "next": "Hypatos 6",
-    "short_description": "Thebaner",
+    "sort_key": "Hypatos 5",
+    "proof_read": 2,
+    "short_description": "Thebaner, Boiotarch 368 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 251,
-        "author": "Sundwall"
+        "end": 251,
+        "author": "Sundwall."
       }
     ]
   },
@@ -3337,11 +3411,14 @@
     "lemma": "Hypelaios",
     "previous": "Hypatos 6",
     "next": "Hypenos",
+    "sort_key": "Hypelaios",
+    "proof_read": 2,
     "short_description": "Quelle in Ephesos",
     "chapters": [
       {
         "start": 252,
-        "author": "Bürchner"
+        "end": 252,
+        "author": "Bürchner."
       }
     ]
   },
@@ -3350,7 +3427,7 @@
     "previous": "Hypelaios",
     "next": "Hypephebarchos",
     "proof_read": 2,
-    "short_description": "Person",
+    "short_description": "aus Pisa, siegt als erster zu Olympia im Doppellauf 720 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3378,7 +3455,7 @@
     "previous": "Hypephebarchos",
     "next": "Hyperbasas",
     "proof_read": 2,
-    "short_description": "Person",
+    "short_description": "Athener, Trierarch um 374/3 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3392,11 +3469,14 @@
     "lemma": "Hyperbasas",
     "previous": "Hyperanthes",
     "next": "Hyperbatas 1",
-    "short_description": "Person",
+    "sort_key": "Hyperbasas",
+    "proof_read": 2,
+    "short_description": "Führer im Zug des Königs Antiochos III. von Syrien nach Osten 209 v. Chr.",
     "chapters": [
       {
         "start": 252,
-        "author": "Otto, Walter"
+        "end": 252,
+        "author": "Walter Otto."
       }
     ]
   },
@@ -3404,11 +3484,15 @@
     "lemma": "Hyperbatas 1",
     "previous": "Hyperbasas",
     "next": "Hyperbatas 2",
-    "short_description": "Anhänger des Aratos",
+    "sort_key": "Hyperbatas 1",
+    "proof_read": 2,
+    "short_description": "Anhänger des Aratos, achäischer Strateg 226 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 252,
-        "author": "Sundwall"
+        "end": 252,
+        "author": "Sundwall."
       }
     ]
   },
@@ -3416,11 +3500,15 @@
     "lemma": "Hyperbatas 2",
     "previous": "Hyperbatas 1",
     "next": "Hyperbeletaios",
-    "short_description": "Achäischer Stratege",
+    "sort_key": "Hyperbatas 2",
+    "proof_read": 2,
+    "short_description": "achäischer Stratege 180 v. Chr., römerfreundlich",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 252,
-        "author": "Sundwall"
+        "end": 252,
+        "author": "Sundwall."
       }
     ]
   },
@@ -3429,7 +3517,7 @@
     "previous": "Hyperbatas 2",
     "next": "Hyperberetaios",
     "proof_read": 2,
-    "short_description": "Namensform von Hyperberetaios",
+    "short_description": "Form des makedonischen Monatsnamens Hyperberetaios",
     "chapters": [
       {
         "start": 252,

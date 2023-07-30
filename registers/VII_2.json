@@ -9943,37 +9943,45 @@
   {
     "lemma": "Hafer",
     "previous": "Hafa",
-    "next": "Hagamasha",
-    "short_description": "Getreideart",
+    "next": "Hagāmāsha",
+    "sort_key": "Hafer",
+    "proof_read": 2,
+    "short_description": "Getreideart, Futter für Zugtiere, Nahrung der geringeren Leute",
     "chapters": [
       {
         "start": 2182,
         "end": 2187,
-        "author": "Orth"
+        "author": "Orth."
       }
     ]
   },
   {
-    "lemma": "Hagamasha",
+    "lemma": "Hagāmāsha",
     "previous": "Hafer",
     "next": "Hagana",
-    "short_description": "Satrap v. Mathura",
+    "sort_key": "Hagamasha",
+    "proof_read": 2,
+    "short_description": "Hagamasha, Satrap von Mathura, am Nebenfluß des Ganges 2. Jh. v. Chr.",
     "chapters": [
       {
         "start": 2187,
         "end": 2188,
-        "author": "Otto, Walter"
+        "author": "Walter Otto."
       }
     ]
   },
   {
     "lemma": "Hagana",
-    "previous": "Hagamasha",
+    "previous": "Hagāmāsha",
     "next": "Hagarenoi",
+    "sort_key": "Hagana",
+    "proof_read": 2,
+    "short_description": "Satrap von Mathura in Indien 2. Jh. v. Chr.",
     "chapters": [
       {
         "start": 2188,
-        "author": "Otto, Walter"
+        "end": 2188,
+        "author": "Walter Otto."
       }
     ]
   },
@@ -9981,12 +9989,14 @@
     "lemma": "Hagarenoi",
     "previous": "Hagana",
     "next": "Hageladas",
-    "short_description": "Volk in Arabien",
+    "sort_key": "Hagarenoi",
+    "proof_read": 2,
+    "short_description": "Volk im nördlichen Arabien = Hagriim der Bibel = Agraioi",
     "chapters": [
       {
         "start": 2188,
         "end": 2189,
-        "author": "Tkáč"
+        "author": "Tkač."
       }
     ]
   },
