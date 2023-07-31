@@ -3970,6 +3970,7 @@
     "lemma": "Aelius 140aa",
     "previous": "Aelius 138",
     "next": "Aelius 140a",
+    "sort_key": "Aelius 140a1",
     "proof_read": 3,
     "short_description": "C. A. Sextillianus Ma[ximus?], cos. suff. 157 n. Chr.",
     "no_creative_height": true,
@@ -3985,6 +3986,7 @@
     "lemma": "Aelius 140a",
     "previous": "Aelius 140aa",
     "next": "Aelius 144",
+    "sort_key": "Aelius 140a2",
     "proof_read": 3,
     "short_description": "A. Socraticus, proc. Aug. (proc. usiacus) in Aegypten 152/3 n. Chr.",
     "no_creative_height": true,
@@ -23504,7 +23506,7 @@
     "lemma": "Anwen",
     "previous": "Ἀνουβιασταί",
     "next": "Anunus",
-    "sort_key": "Anwen",
+    "sort_key": "Anuz",
     "proof_read": 3,
     "short_description": "Nieder-Anwen, Anweiler Luxemburg. Ort = Andethanna",
     "no_creative_height": true,
@@ -32088,6 +32090,7 @@
     "lemma": "Arimoi",
     "previous": "Arimnestos 8",
     "next": "Arinates",
+    "sort_key": "Arimma",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -41612,9 +41615,8 @@
     "lemma": "Attius 6a",
     "previous": "Attissus",
     "next": "Attius 6b",
-    "sort_key": "Attius 06a",
     "proof_read": 3,
-    "short_description": "P. A., ital. Sigillatatöpfer in august. Zeit",
+    "short_description": "P. Attius, italischer Sigillatatöpfer augusteischer Zeit",
     "no_creative_height": true,
     "chapters": [
       {
@@ -41782,7 +41784,7 @@
     "previous": "Attius 27a",
     "next": "Attius 33a",
     "proof_read": 3,
-    "short_description": "Sex. A. Suburanus, cos. I suff. im J. 101, cos. II ord. im J. 104 n. Chr. (L?)",
+    "short_description": "Sex. A. Suburanus, cos. I suff. 101, cos. II ord. 104 n. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Sextus Attius Suburanus Aemilianus",
     "wd_link": "d:Q725714",
@@ -58390,8 +58392,9 @@
     "lemma": "Caninius a",
     "previous": "Caninius 1",
     "next": "Caninius 3",
+    "sort_key": "Caninius",
     "proof_read": 3,
-    "short_description": "C. C., praetor urbanus (zu Ende des 2. Jh. v. Chr.?).",
+    "short_description": "C. C., praetor urbanus 2. Jh. v. Chr.?",
     "no_creative_height": true,
     "chapters": [
       {
@@ -58643,7 +58646,7 @@
     "lemma": "ad Cantunas novas",
     "previous": "Cantherius",
     "next": "Cantus",
-    "sort_key": "Cantunas novas, ad",
+    "sort_key": "Cantuna",
     "proof_read": 3,
     "short_description": "f. l. statt ad Gantunas novas, Straße oder Stadtviertel von Colonia Agrippina",
     "no_creative_height": true,
@@ -60997,6 +61000,7 @@
     "lemma": "Caudalascus",
     "previous": "Cavaturini",
     "next": "Caularis",
+    "sort_key": "Cavdalascus",
     "proof_read": 3,
     "short_description": "Appenninus C., Abschnitt des Apennin bei Veleia Nr. 2",
     "no_creative_height": true,
@@ -83523,7 +83527,7 @@
     "lemma": "Εὐνούδας",
     "previous": "Eunuchen",
     "next": "Eunus 3",
-    "sort_key": "Eunudas",
+    "sort_key": "Eunodas",
     "proof_read": 3,
     "short_description": "Eunudas, bewaffneter Jüngling auf einem Mosaik in Messenien",
     "no_creative_height": true,
@@ -85167,9 +85171,40 @@
     "lemma": "Färbung",
     "previous": "Faenius a",
     "next": "Faesonia, Faesonius",
+    "sort_key": "Faerbung",
+    "proof_read": 3,
+    "short_description": "diese Kunst umfaßte eine Mannigfaltigkeit von Gegenständen",
+    "no_creative_height": true,
+    "wp_link": "w:de:Färben",
+    "ws_link": "s:de:Färben",
+    "wd_link": "d:Q1164991",
     "chapters": [
       {
         "start": 110,
+        "end": 110,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Faenius 1a",
+    "next": "Färbung"
+  },
+  {
+    "lemma": "Färbung",
+    "previous": "Faenius 1a",
+    "next": "Faesonia, Faesonius",
+    "sort_key": "Faerbung",
+    "proof_read": 3,
+    "short_description": "diese Kunst umfaßte eine Mannigfaltigkeit von Gegenständen",
+    "no_creative_height": true,
+    "wp_link": "w:de:Färben",
+    "ws_link": "s:de:Färben",
+    "wd_link": "d:Q1164991",
+    "chapters": [
+      {
+        "start": 110,
+        "end": 110,
         "author": "Hans Gärtner."
       }
     ]
@@ -90877,6 +90912,7 @@
     "lemma": "Glaukippos 2aa",
     "previous": "Glaukippos 2",
     "next": "Glaukippos 2a",
+    "sort_key": "Glaukippos 2a1",
     "proof_read": 3,
     "short_description": "Grieche im Dienst des Demetrios I. Poliorketes um 302 v. Chr.",
     "no_creative_height": true,
@@ -90892,6 +90928,7 @@
     "lemma": "Glaukippos 2a",
     "previous": "Glaukippos 2aa",
     "next": "Glaukippos 3",
+    "sort_key": "Glaukippos 2a2",
     "proof_read": 3,
     "short_description": "Milesier, Gesandter zu Alexander d. Gr. 334 v. Chr.",
     "no_creative_height": true,
@@ -146778,9 +146815,15 @@
     "previous": "Sophilos 2",
     "next": "Sophokles 1",
     "sort_key": "Sophistik",
+    "proof_read": 3,
+    "short_description": "Begriff der Philosophie",
+    "no_creative_height": true,
+    "wp_link": "w:de:Sophisten",
+    "wd_link": "d:Q3750514",
     "chapters": [
       {
         "start": 208,
+        "end": 208,
         "author": "Hans Gärtner."
       }
     ]
