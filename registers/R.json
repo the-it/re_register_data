@@ -56277,8 +56277,8 @@
     "proof_read": 3,
     "short_description": "Latinisierung des Gottes Uranos, auch Caelum",
     "no_creative_height": true,
-    "wp_link": "w:de:Caelum",
-    "wd_link": "d:Q19277008",
+    "wp_link": "w:en:Caelus",
+    "wd_link": "d:Q3360794",
     "chapters": [
       {
         "start": 73,
@@ -70138,6 +70138,9 @@
     "proof_read": 3,
     "short_description": "Cornelia, Tochter des P. Scipio Africanus, die Mutter der Gracchen",
     "no_creative_height": true,
+    "wp_link": "w:de:Cornelia (Mutter der Gracchen)",
+    "ws_link": "s:la:Scriptor:Cornelia",
+    "wd_link": "d:Q234533",
     "chapters": [
       {
         "start": 90,
@@ -88395,7 +88398,7 @@
   {
     "lemma": "Gabromagus",
     "previous": "Gabreta",
-    "next": "Gabrus 2",
+    "next": "Gabrus 1",
     "sort_key": "Gabromagus",
     "proof_read": 3,
     "short_description": "Straßenstation in Noricum, ,Geißfeld', heute Windischgarsten",
@@ -88411,8 +88414,13 @@
     ]
   },
   {
-    "lemma": "Gabrus 2",
+    "lemma": "Gabrus 1",
     "previous": "Gabromagus",
+    "next": "Gabrus 2"
+  },
+  {
+    "lemma": "Gabrus 2",
+    "previous": "Gabrus 1",
     "next": "Gadatas 1",
     "redirect": true,
     "proof_read": 3,
