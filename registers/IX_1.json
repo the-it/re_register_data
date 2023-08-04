@@ -13107,7 +13107,7 @@
   {
     "lemma": "Ilipa",
     "previous": "Ilioneus 2",
-    "next": "Ilipula 1",
+    "next": "Ilipa, Ilipula 1",
     "short_description": "Stadt in Hispania Baetica",
     "wp_link": "w:de:Alcalá del Río",
     "wd_link": "d:Q1386351",
@@ -13120,9 +13120,9 @@
     ]
   },
   {
-    "lemma": "Ilipula 1",
+    "lemma": "Ilipa, Ilipula 1",
     "previous": "Ilipa",
-    "next": "Ilipula 2",
+    "next": "Ilipa, Ilipula 2",
     "proof_read": 3,
     "short_description": "Magna, Stadt in Hispania Baetica",
     "no_creative_height": true,
@@ -13135,26 +13135,11 @@
     ]
   },
   {
-    "lemma": "Ilipula 2",
-    "previous": "Ilipula 1",
-    "next": "Ilipula 3",
+    "lemma": "Ilipa, Ilipula 2",
+    "previous": "Ilipa, Ilipula 1",
+    "next": "Ilipa, Ilipula 3",
     "proof_read": 3,
-    "short_description": "minor, Ort in Hispania Baetica Repla",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 1066,
-        "end": 1066,
-        "author": "Schulten."
-      }
-    ]
-  },
-  {
-    "lemma": "Ilipula 3",
-    "previous": "Ilipula 2",
-    "next": "Ilipula 4",
-    "proof_read": 3,
-    "short_description": "I. Magna oder I. Laus (Iulia?), Stadt in Hispania Baetica",
+    "short_description": "Stadt in Hispania Baetica",
     "no_creative_height": true,
     "wp_link": "w:de:Niebla",
     "wd_link": "d:Q828723",
@@ -13167,11 +13152,27 @@
     ]
   },
   {
-    "lemma": "Ilipula 4",
-    "previous": "Ilipula 3",
+    "lemma": "Ilipa, Ilipula 3",
+    "previous": "Ilipa, Ilipula 2",
+    "next": "Ilipa, Ilipula 4",
+    "proof_read": 3,
+    "short_description": "I. Magna oder I. Laus (Iulia?), Stadt in Hispania Baetica",
+    "no_creative_height": true,
+    "wp_link": "w:de:Niebla",
+    "chapters": [
+      {
+        "start": 1066,
+        "end": 1066,
+        "author": "Schulten."
+      }
+    ]
+  },
+  {
+    "lemma": "Ilipa, Ilipula 4",
+    "previous": "Ilipa, Ilipula 3",
     "next": "Ilischer Städtebund",
     "proof_read": 3,
-    "short_description": "Gebirge südl. des Baetis",
+    "short_description": "I. Minor, Stadt in Hispania Baetica",
     "no_creative_height": true,
     "chapters": [
       {
@@ -13183,7 +13184,7 @@
   },
   {
     "lemma": "Ilischer Städtebund",
-    "previous": "Ilipula 4",
+    "previous": "Ilipa, Ilipula 4",
     "next": "Ilisos",
     "proof_read": 3,
     "short_description": "s. Koinon",

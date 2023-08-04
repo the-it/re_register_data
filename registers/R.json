@@ -14023,6 +14023,8 @@
     "proof_read": 3,
     "short_description": "bei Thun in der Schweiz mit Resten eines Tempels, dem Iuppiter, Merkur, Neptun",
     "no_creative_height": true,
+    "wp_link": "w:de:Allmendingen bei Thun",
+    "wd_link": "d:Q2649326",
     "chapters": [
       {
         "start": 22,
@@ -33455,6 +33457,7 @@
     "next": "Aristokrates 7b",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "komischer Schauspieler, siegreich bei den Leneia",
     "chapters": [
       {
         "start": 44,
@@ -33466,12 +33469,14 @@
     "lemma": "Aristokrates 7b",
     "previous": "Aristokrates 7a",
     "next": "Aristokrates 21a",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "Schauspieler in Argos / Umgebung 97–75 v. Chr., Sohn des Dionysios aus Theben",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 44,
-        "end": 44
+        "end": 44,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -33493,7 +33498,7 @@
   {
     "lemma": "Aristokrates 24",
     "previous": "Aristokrates 21a",
-    "next": "Aristokrates 28",
+    "next": "Aristokritos 1",
     "proof_read": 3,
     "short_description": "A. von Theben, Kitharode bei der Hochzeitsfeier Alexanders d.Gr.",
     "no_creative_height": true,
@@ -33507,7 +33512,6 @@
   },
   {
     "lemma": "Aristokrates 28",
-    "previous": "Aristokrates 24",
     "next": "Aristokrates 29",
     "proof_read": 3,
     "short_description": "Kitharode",
@@ -46287,6 +46291,7 @@
     "next": "Baalram",
     "redirect": "Kition 1",
     "proof_read": 3,
+    "short_description": "König von Kition um 450 v. Chr.",
     "chapters": [
       {
         "start": 60,
@@ -48357,7 +48362,7 @@
     "previous": "Barga",
     "next": "Bariani",
     "proof_read": 3,
-    "short_description": "Sklave in der arretin. Sigillatatöpferei des M. Perennius Tigranus",
+    "short_description": "oder Bargathes, Sklave der arretinischen Sigillatatöpferei des M. Perennius",
     "no_creative_height": true,
     "chapters": [
       {
@@ -100713,7 +100718,6 @@
   {
     "lemma": "Ilipula 1",
     "previous": "Ilipula 1–4",
-    "next": "Ilipula 2",
     "proof_read": 3,
     "short_description": "Magna, Stadt in Hispania Baetica",
     "no_creative_height": true,
@@ -100726,11 +100730,15 @@
     ]
   },
   {
-    "lemma": "Ilipula 2",
-    "previous": "Ilipula 1",
-    "next": "Ilipula 3",
+    "lemma": "Ilipa, Ilipula",
+    "next": "Ilipa, Ilipula 1"
+  },
+  {
+    "lemma": "Ilipa, Ilipula 1",
+    "previous": "Ilipa, Ilipula",
+    "next": "Ilipa, Ilipula 2",
     "proof_read": 3,
-    "short_description": "minor, Ort in Hispania Baetica Repla",
+    "short_description": "Magna, Stadt in Hispania Baetica",
     "no_creative_height": true,
     "chapters": [
       {
@@ -100741,11 +100749,11 @@
     ]
   },
   {
-    "lemma": "Ilipula 3",
-    "previous": "Ilipula 2",
-    "next": "Ilipula 4",
+    "lemma": "Ilipa, Ilipula 2",
+    "previous": "Ilipa, Ilipula 1",
+    "next": "Ilipa, Ilipula 3",
     "proof_read": 3,
-    "short_description": "I. Magna oder I. Laus (Iulia?), Stadt in Hispania Baetica",
+    "short_description": "Stadt in Hispania Baetica",
     "no_creative_height": true,
     "wp_link": "w:de:Niebla",
     "wd_link": "d:Q828723",
@@ -100758,11 +100766,11 @@
     ]
   },
   {
-    "lemma": "Ilipula 4",
-    "previous": "Ilipula 3",
-    "next": "Ilipula 5",
+    "lemma": "Ilipa, Ilipula 3",
+    "previous": "Ilipa, Ilipula 2",
+    "next": "Ilipa, Ilipula 4",
     "proof_read": 3,
-    "short_description": "Gebirge südl. des Baetis",
+    "short_description": "I. Magna oder I. Laus (Iulia?), Stadt in Hispania Baetica",
     "no_creative_height": true,
     "chapters": [
       {
@@ -100773,19 +100781,38 @@
     ]
   },
   {
-    "lemma": "Ilipula 5",
-    "previous": "Ilipula 4",
-    "next": "Iliturgi",
+    "lemma": "Ilipa, Ilipula 4",
+    "previous": "Ilipa, Ilipula 3",
+    "next": "Ilipa, Ilipula 5",
+    "proof_read": 3,
+    "short_description": "I. Minor, Stadt in Hispania Baetica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 132,
+        "end": 132,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ilipa, Ilipula 5",
+    "previous": "Ilipa, Ilipula 4",
+    "next": "Iliturgi",
+    "proof_read": 3,
+    "short_description": "Hispanisches Gebirge südlich des Baetis",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 132,
+        "end": 132,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Iliturgi",
-    "previous": "Ilipula 5",
+    "previous": "Ilipa, Ilipula 5",
     "next": "Iliturgicola",
     "proof_read": 3,
     "short_description": "Stadt im südl. Hispanien = Iliturgis",
