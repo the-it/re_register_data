@@ -9628,7 +9628,6 @@
   {
     "lemma": "Terra Melia",
     "previous": "Terra Mater, Tellus",
-    "next": "Terracina",
     "short_description": "Mineral v. d. Insel Melos Farbe",
     "chapters": [
       {
@@ -9638,33 +9637,7 @@
     ]
   },
   {
-    "lemma": "Terracina",
-    "previous": "Terra Melia",
-    "next": "Terrakotten",
-    "redirect": "Tarracina",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 808,
-        "end": 808
-      }
-    ]
-  },
-  {
-    "lemma": "Terrakotten",
-    "previous": "Terracina",
-    "next": "Terra Samia",
-    "short_description": "Künstlerische Erzeugnisse aus Ton",
-    "chapters": [
-      {
-        "start": 808,
-        "author": "Heidenreich"
-      }
-    ]
-  },
-  {
     "lemma": "Terra Samia",
-    "previous": "Terrakotten",
     "next": "Terra Sinopensis",
     "redirect": "Samos 4",
     "proof_read": 2,
@@ -9678,7 +9651,6 @@
   {
     "lemma": "Terra Sinopensis",
     "previous": "Terra Samia",
-    "next": "Terrasidius, T.",
     "sort_key": "Terrasinopensis",
     "redirect": "Minium 1",
     "proof_read": 2,
@@ -9690,8 +9662,30 @@
     ]
   },
   {
+    "lemma": "Terracina",
+    "next": "Terrakotten",
+    "redirect": "Tarracina",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 808,
+        "end": 808
+      }
+    ]
+  },
+  {
+    "lemma": "Terrakotten",
+    "previous": "Terracina",
+    "short_description": "Künstlerische Erzeugnisse aus Ton",
+    "chapters": [
+      {
+        "start": 808,
+        "author": "Heidenreich"
+      }
+    ]
+  },
+  {
     "lemma": "Terrasidius, T.",
-    "previous": "Terra Sinopensis",
     "next": "Terrensis",
     "chapters": [
       {

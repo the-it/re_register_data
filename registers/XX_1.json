@@ -10985,7 +10985,6 @@
   {
     "lemma": "Pignoris capio",
     "previous": "Pigmentarii",
-    "next": "Pignus",
     "short_description": "Pfändung im römischen Recht",
     "chapters": [
       {
@@ -10995,21 +10994,7 @@
     ]
   },
   {
-    "lemma": "Pignus",
-    "previous": "Pignoris capio",
-    "next": "Topos Philota",
-    "short_description": "Pfand",
-    "chapters": [
-      {
-        "start": 1239,
-        "author": "Manigk"
-      }
-    ]
-  },
-  {
     "lemma": "Topos Philota",
-    "previous": "Pignus",
-    "next": "Philotera",
     "sort_key": "Philota",
     "chapters": [
       {
@@ -11019,8 +11004,17 @@
     ]
   },
   {
+    "lemma": "Pignus",
+    "short_description": "Pfand",
+    "chapters": [
+      {
+        "start": 1239,
+        "author": "Manigk"
+      }
+    ]
+  },
+  {
     "lemma": "Philotera",
-    "previous": "Topos Philota",
     "next": "Phineas",
     "short_description": "Aegypt. Prinzessin, Tochter des Ptolemaios I. (XXIII 1603 Nr. 18) Soter und der",
     "chapters": [
