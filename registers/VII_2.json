@@ -10260,7 +10260,7 @@
   {
     "lemma": "Hagnaios",
     "previous": "Hagnagora",
-    "next": "Hagnas krene",
+    "next": "Ἅγνας κρήνη",
     "sort_key": "Hagnaios",
     "proof_read": 2,
     "short_description": "Monat im Kalender von Halos und Pyrasos in der Phthiotis = Hagneïon",
@@ -10273,27 +10273,32 @@
     ]
   },
   {
-    "lemma": "Hagnas krene",
+    "lemma": "Ἅγνας κρήνη",
     "previous": "Hagnaios",
     "next": "Hagneion 1",
-    "short_description": "Brunnen im Hain Karne(i)asion bei Andania",
+    "sort_key": "Hagnaskrene",
+    "proof_read": 2,
+    "short_description": "Hagnas krene, Brunnen im Hain Karne(i)asion bei Andania",
     "chapters": [
       {
         "start": 2206,
         "end": 2207,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Hagneion 1",
-    "previous": "Hagnas krene",
+    "previous": "Ἅγνας κρήνη",
     "next": "Hagneion 2",
-    "short_description": "Seestation an d. NW-Küste Kretas",
+    "sort_key": "Hagneion 1",
+    "proof_read": 2,
+    "short_description": "Seestation an der NW-Küste Kretas",
     "chapters": [
       {
         "start": 2207,
-        "author": "Bürchner"
+        "end": 2207,
+        "author": "Bürchner."
       }
     ]
   },
@@ -10301,11 +10306,14 @@
     "lemma": "Hagneion 2",
     "previous": "Hagneion 1",
     "next": "Hagneon",
+    "sort_key": "Hagneion 2",
+    "proof_read": 2,
     "short_description": "Kalendermonat in Ephesos",
     "chapters": [
       {
         "start": 2207,
-        "author": "Bischoff, [Ernst]"
+        "end": 2207,
+        "author": "Bischoff."
       }
     ]
   },
@@ -10313,10 +10321,14 @@
     "lemma": "Hagneon",
     "previous": "Hagneion 2",
     "next": "Hagnias 1",
+    "sort_key": "Hagneon",
+    "proof_read": 2,
+    "short_description": "berüchtigte Örtlichkeit von Sardeis in Lydien",
     "chapters": [
       {
         "start": 2207,
-        "author": "Bürchner"
+        "end": 2207,
+        "author": "Bürchner."
       }
     ]
   },
@@ -10336,11 +10348,14 @@
     "lemma": "Hagnias 2",
     "previous": "Hagnias 1",
     "next": "Hagnias 3",
-    "short_description": "Athen. Archon Mitte 3. Jh. v. Chr.",
+    "sort_key": "Hagnias 2",
+    "proof_read": 2,
+    "short_description": "athenischer Archon 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 2207,
-        "author": "Kirchner"
+        "end": 2207,
+        "author": "Kirchner."
       }
     ]
   },
@@ -10348,11 +10363,15 @@
     "lemma": "Hagnias 3",
     "previous": "Hagnias 2",
     "next": "Hagnias 4",
-    "short_description": "Athen. Gesandter an d. Lakedaimonier",
+    "sort_key": "Hagnias 3",
+    "proof_read": 2,
+    "short_description": "Athener, als Gesandter von den Lakedaimoniern getötet 396 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2207,
-        "author": "Sundwall"
+        "end": 2207,
+        "author": "Sundwall."
       }
     ]
   },
@@ -10360,11 +10379,15 @@
     "lemma": "Hagnias 4",
     "previous": "Hagnias 3",
     "next": "Hagnias 5",
-    "short_description": "Athener aus Ikaria, mehrmals Trierarch",
+    "sort_key": "Hagnias 4",
+    "proof_read": 2,
+    "short_description": "Athener aus Ikaria, mehrmals Trierarch um 350 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2207,
-        "author": "Sundwall"
+        "end": 2207,
+        "author": "Sundwall."
       }
     ]
   },
@@ -10372,11 +10395,15 @@
     "lemma": "Hagnias 5",
     "previous": "Hagnias 4",
     "next": "Hagno",
+    "sort_key": "Hagnias 5",
+    "proof_read": 2,
     "short_description": "Athener, Trierarch um 326/5 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2207,
-        "author": "Sundwall"
+        "end": 2208,
+        "author": "Sundwall."
       }
     ]
   },
@@ -10397,10 +10424,15 @@
     "lemma": "Hagnodemos",
     "previous": "Hagno",
     "next": "Hagnodoros 1",
+    "sort_key": "Hagnodemos",
+    "proof_read": 2,
+    "short_description": "Athener, Trierarch um 356 und 334 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2208,
-        "author": "Sundwall"
+        "end": 2208,
+        "author": "Sundwall."
       }
     ]
   },
@@ -10408,11 +10440,15 @@
     "lemma": "Hagnodoros 1",
     "previous": "Hagnodemos",
     "next": "Hagnodoros 2",
-    "short_description": "Einer der dreißig Tyrannen",
+    "sort_key": "Hagnodoros 1",
+    "proof_read": 2,
+    "short_description": "Athener aus Amphitrope, verschwägert mit Kritias, einem der 30 Tyrannen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2208,
-        "author": "Sundwall"
+        "end": 2208,
+        "author": "Sundwall."
       }
     ]
   },
@@ -10420,11 +10456,15 @@
     "lemma": "Hagnodoros 2",
     "previous": "Hagnodoros 1",
     "next": "Hagnon 1",
-    "short_description": "Olympionike aus Kyzikos",
+    "sort_key": "Hagnodoros 2",
+    "proof_read": 2,
+    "short_description": "Olympionike aus Kyzikos 140 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2208,
-        "author": "Sundwall"
+        "end": 2208,
+        "author": "Sundwall."
       }
     ]
   },
@@ -10432,11 +10472,15 @@
     "lemma": "Hagnon 1",
     "previous": "Hagnodoros 2",
     "next": "Hagnon 2",
-    "short_description": "Olympionike aus Peparethos",
+    "sort_key": "Hagnon 1",
+    "proof_read": 2,
+    "short_description": "Olympionike im Lauf aus Peparethos 568 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2208,
-        "author": "Sundwall"
+        "end": 2209,
+        "author": "Sundwall."
       }
     ]
   },
@@ -10469,18 +10513,21 @@
     "lemma": "Hagnon 4",
     "previous": "Hagnon 3",
     "next": "Hagnonides",
-    "short_description": "Aus Tarsos, Neuakademiker",
+    "sort_key": "Hagnon 4",
+    "proof_read": 2,
+    "short_description": "aus Tarsos, Neuakademiker, Schüler des Karneades",
     "chapters": [
       {
         "start": 2209,
-        "author": "Arnim"
+        "end": 2209,
+        "author": "v. Arnim."
       }
     ]
   },
   {
     "lemma": "Hagnonides",
     "previous": "Hagnon 4",
-    "next": "Hagnotheos 1",
+    "next": "Hagnotheos",
     "short_description": "Angeklagter im Harpalischen Prozeß",
     "chapters": [
       {
@@ -10490,20 +10537,37 @@
     ]
   },
   {
-    "lemma": "Hagnotheos 1",
+    "lemma": "Hagnotheos",
     "previous": "Hagnonides",
-    "next": "Hagnous pege",
-    "short_description": "Athen. Archon 140/39 v. Chr.",
+    "next": "Ἁγνοῦς πηγή",
+    "sort_key": "Hagnotheos 1",
+    "proof_read": 2,
+    "short_description": "Athenischer Archon 140/39 v. Chr.",
     "chapters": [
       {
         "start": 2209,
-        "author": "Kirchner"
+        "end": 2210,
+        "author": "Kirchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἁγνοῦς πηγή",
+    "previous": "Hagnotheos",
+    "next": "Hagnu Keras",
+    "sort_key": "Hagnouspege",
+    "proof_read": 2,
+    "short_description": "Hagnous pege, Quelle im Lykaiongebirge von Arkadien mit Regenzauber",
+    "chapters": [
+      {
+        "start": 2210,
+        "end": 2210,
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Hagnous pege",
-    "previous": "Hagnotheos 1",
     "next": "Hagnu Keras",
     "short_description": "Quelle im Lykaiongebirge",
     "chapters": [
@@ -10515,13 +10579,16 @@
   },
   {
     "lemma": "Hagnu Keras",
-    "previous": "Hagnous pege",
+    "previous": "Ἁγνοῦς πηγή",
     "next": "Hagnus",
-    "short_description": "s. Knidos",
+    "sort_key": "Hagnukeras",
+    "proof_read": 2,
+    "short_description": "Vorgebirge bei Knidos auf der dorischen Chersoneses Knidia",
     "chapters": [
       {
         "start": 2210,
-        "author": "Bürchner"
+        "end": 2210,
+        "author": "Bürchner."
       }
     ]
   },
@@ -10529,11 +10596,14 @@
     "lemma": "Hagnus",
     "previous": "Hagnu Keras",
     "next": "Hagra",
-    "short_description": "Att. Demos",
+    "sort_key": "Hagnus",
+    "proof_read": 2,
+    "short_description": "mittelgroßer attischer Demos",
     "chapters": [
       {
         "start": 2210,
-        "author": "Kolbe"
+        "end": 2210,
+        "author": "Kolbe."
       }
     ]
   },
@@ -10541,10 +10611,14 @@
     "lemma": "Hagra",
     "previous": "Hagnus",
     "next": "Hahnenkämpfe",
-    "short_description": "s. Agra Egra Nr. 1",
+    "sort_key": "Hagra",
+    "redirect": "Agra 1",
+    "proof_read": 2,
+    "short_description": "s. Agra und Egra Nr. 1",
     "chapters": [
       {
-        "start": 2210
+        "start": 2210,
+        "end": 2210
       }
     ]
   },
@@ -10578,12 +10652,14 @@
     "lemma": "Haimatites",
     "previous": "Haifisch",
     "next": "Haimon 1",
-    "short_description": "Gesteinsart",
+    "sort_key": "Haimatites",
+    "proof_read": 2,
+    "short_description": "Gesteinsart, Hämatit oder Blutstein, Roteisenstein",
     "chapters": [
       {
         "start": 2215,
         "end": 2217,
-        "author": "Blümner"
+        "author": "Blümner."
       }
     ]
   },
@@ -10591,11 +10667,14 @@
     "lemma": "Haimon 1",
     "previous": "Haimatites",
     "next": "Haimon 2",
-    "short_description": "Eponym d. Haimones, Sohn d. Pelasgos",
+    "sort_key": "Haimon 1",
+    "proof_read": 2,
+    "short_description": "Eponym des Haimones, Sohn des Pelasgos, Vater des Thessalos",
     "chapters": [
       {
         "start": 2217,
-        "author": "Kern"
+        "end": 2217,
+        "author": "Kern."
       }
     ]
   },
@@ -10604,7 +10683,7 @@
     "previous": "Haimon 1",
     "next": "Haimon 3",
     "proof_read": 2,
-    "short_description": "Sohn d. Alektor",
+    "short_description": "Sohn des Alektor, Enkel des Magnes, Vater des Hyperochos",
     "chapters": [
       {
         "start": 2217,
@@ -10617,11 +10696,14 @@
     "lemma": "Haimon 3",
     "previous": "Haimon 2",
     "next": "Haimon 4",
-    "short_description": "Sohn d. Lykaon",
+    "sort_key": "Haimon 3",
+    "proof_read": 2,
+    "short_description": "Sohn des Lykaon, Gründer von Haimoniai in Arkadien",
     "chapters": [
       {
         "start": 2217,
-        "author": "Kern"
+        "end": 2217,
+        "author": "Kern."
       }
     ]
   },
@@ -10629,11 +10711,16 @@
     "lemma": "Haimon 4",
     "previous": "Haimon 3",
     "next": "Haimon 5",
-    "short_description": "Sohn d. Thoas, Vater d. oikistes v. Elis",
+    "sort_key": "Haimon 4",
+    "proof_read": 2,
+    "short_description": "Aitoler, Sohn des Thoas, Vater des oikistes von Elis",
+    "wp_link": "w:de:Haimon (Sohn des Thoas)",
+    "wd_link": "d:Q14565968",
     "chapters": [
       {
         "start": 2217,
-        "author": "Kern"
+        "end": 2217,
+        "author": "Kern."
       }
     ]
   },
@@ -10641,11 +10728,14 @@
     "lemma": "Haimon 5",
     "previous": "Haimon 4",
     "next": "Haimon 6",
-    "short_description": "Vater d. Iphitos",
+    "sort_key": "Haimon 5",
+    "proof_read": 2,
+    "short_description": "Vater des Iphitos",
     "chapters": [
       {
         "start": 2217,
-        "author": "Kern"
+        "end": 2217,
+        "author": "Kern."
       }
     ]
   },
@@ -10654,7 +10744,7 @@
     "previous": "Haimon 5",
     "next": "Haimon 7",
     "proof_read": 2,
-    "short_description": "Gefährte d. Nestor",
+    "short_description": "Gefährte des Nestor",
     "chapters": [
       {
         "start": 2217,
@@ -10667,12 +10757,14 @@
     "lemma": "Haimon 7",
     "previous": "Haimon 6",
     "next": "Haimon 8",
-    "short_description": "Sohn d. Polydoros",
+    "sort_key": "Haimon 7",
+    "proof_read": 2,
+    "short_description": "Sohn des Polydoros, Enkel des Kadinos",
     "chapters": [
       {
         "start": 2217,
         "end": 2218,
-        "author": "Kern"
+        "author": "Kern."
       }
     ]
   },
@@ -10681,7 +10773,7 @@
     "previous": "Haimon 7",
     "next": "Haimon 9",
     "proof_read": 2,
-    "short_description": "Thebaner, Vater d. Maion",
+    "short_description": "Thebaner, Vater des Maion",
     "chapters": [
       {
         "start": 2218,
@@ -10694,11 +10786,16 @@
     "lemma": "Haimon 9",
     "previous": "Haimon 8",
     "next": "Haimon 10",
-    "short_description": "Sohn d. Kreon",
+    "sort_key": "Haimon 9",
+    "proof_read": 2,
+    "short_description": "Sohn des Kreon",
+    "wp_link": "w:de:Haimon (Theben)",
+    "wd_link": "d:Q733985",
     "chapters": [
       {
         "start": 2218,
-        "author": "Kern"
+        "end": 2218,
+        "author": "Kern."
       }
     ]
   },
@@ -10707,7 +10804,7 @@
     "previous": "Haimon 9",
     "next": "Haimon 11",
     "proof_read": 2,
-    "short_description": "Vater d. Laerkes",
+    "short_description": "Vater des Laerkes",
     "chapters": [
       {
         "start": 2218,
@@ -10720,11 +10817,14 @@
     "lemma": "Haimon 11",
     "previous": "Haimon 10",
     "next": "Haimon 12",
-    "short_description": "Haemon Rutuler bei Verg.",
+    "sort_key": "Haimon 11",
+    "proof_read": 2,
+    "short_description": "Haemon, tapferer Rutuler bei Vergil",
     "chapters": [
       {
         "start": 2218,
-        "author": "Kern"
+        "end": 2218,
+        "author": "Kern."
       }
     ]
   },
@@ -10733,7 +10833,7 @@
     "previous": "Haimon 11",
     "next": "Haimon 13",
     "proof_read": 2,
-    "short_description": "Haemon Hund d. Aktaion",
+    "short_description": "Haemon, ein Hund des Aktaion",
     "chapters": [
       {
         "start": 2218,
@@ -10746,12 +10846,14 @@
     "lemma": "Haimon 13",
     "previous": "Haimon 12",
     "next": "Haimonia 1",
-    "short_description": "Haemon Bach östl. v. Chaironeia",
+    "sort_key": "Haimon 13",
+    "proof_read": 2,
+    "short_description": "Haemon, Bach östlich von Chaironeia",
     "chapters": [
       {
         "start": 2218,
         "end": 2219,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
