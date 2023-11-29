@@ -18274,20 +18274,8 @@
     ]
   },
   {
-    "lemma": "Messalinos 6",
-    "previous": "Messalina",
-    "next": "Messalinus 1",
-    "short_description": "Baumeister aus Ephesos",
-    "chapters": [
-      {
-        "start": 1166,
-        "author": "Fabricius"
-      }
-    ]
-  },
-  {
     "lemma": "Messalinus 1",
-    "previous": "Messalinos 6",
+    "previous": "Messalina",
     "next": "Messalinus 2",
     "short_description": "Bei Plin.nat. als consularis patricius bezeichnet",
     "chapters": [
@@ -18336,7 +18324,7 @@
   {
     "lemma": "Messalinus 5",
     "previous": "Messalinus 4",
-    "next": "Messalius",
+    "next": "Messalinus 6",
     "short_description": "Bischof v. Laodicea",
     "chapters": [
       {
@@ -18345,9 +18333,21 @@
       }
     ]
   },
-  {
-    "lemma": "Messalius",
+   {
+    "lemma": "Messalinus 6",
     "previous": "Messalinus 5",
+    "next": "Messalius",
+    "short_description": "Baumeister aus Ephesos",
+    "chapters": [
+      {
+        "start": 1166,
+        "author": "Fabricius"
+      }
+    ]
+  },
+ {
+    "lemma": "Messalius",
+    "previous": "Messalinus 6",
     "next": "Messalon",
     "redirect": "Messalinus 1",
     "proof_read": 2,
