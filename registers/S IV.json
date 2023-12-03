@@ -5870,6 +5870,8 @@
     "sort_key": "Kalliopios 1",
     "proof_read": 2,
     "short_description": "Konsular der Provinz Macedonia 362 n. Chr.",
+    "wp_link": "w:pt:Caliópio (governador da Macedônia)",
+    "wd_link": "d:Q25443649",
     "chapters": [
       {
         "start": 863,
@@ -5885,6 +5887,8 @@
     "sort_key": "Kalliopios 2",
     "proof_read": 2,
     "short_description": "Konsular der Provinz Bithynia 356/7 n. Chr., Sohn des Hesychios",
+    "wp_link": "w:pt:Caliópio (governador da Bitínia)",
+    "wd_link": "d:Q16657489",
     "chapters": [
       {
         "start": 863,
@@ -5913,6 +5917,8 @@
     "next": "Kalliopios 5",
     "proof_read": 3,
     "short_description": "Grammatiker in Antiocheia 4. Jh. n. Chr., Schüler des Rhetors Libanios",
+    "wp_link": "w:en:Calliopius of Antioch",
+    "wd_link": "d:Q5022231",
     "chapters": [
       {
         "start": 863,
@@ -5928,6 +5934,8 @@
     "sort_key": "Kalliopios 5",
     "proof_read": 2,
     "short_description": "Magister epistularum bei Theodosius I. 388 n. Chr., Schüler des Zenobios",
+    "wp_link": "w:pt:Caliópio (mestre das epístolas)",
+    "wd_link": "d:Q25443647",
     "chapters": [
       {
         "start": 863,
@@ -5997,9 +6005,25 @@
   {
     "lemma": "Kallistio",
     "previous": "Kallisthenes 5",
-    "next": "Kallistus 1",
+    "next": "Kallistos 4",
     "proof_read": 3,
-    "short_description": "Epischer Dichter im 4. Jh. n. Chr. = Kallistos Nr. 4 (?)",
+    "short_description": "epischer Dichter im 4. Jhdt. n. Chr. = Kallistos Nr. 4 (?)",
+    "wd_link": "d:Q116233937",
+    "chapters": [
+      {
+        "start": 864,
+        "end": 864,
+        "author": "Seeck."
+      }
+    ]
+  },
+  {
+    "lemma": "Kallistos 4",
+    "previous": "Kallistio",
+    "next": "Kallistos 5",
+    "redirect": "Iulianos 26",
+    "proof_read": 3,
+    "short_description": "epischer Dichter, vielleicht identisch mit Kallistio",
     "chapters": [
       {
         "start": 864,
@@ -6010,7 +6034,6 @@
   },
   {
     "lemma": "Kallistus 1",
-    "previous": "Kallistio",
     "next": "Kallistus 2",
     "redirect": "Kallistio",
     "proof_read": 3,
@@ -6025,7 +6048,6 @@
   {
     "lemma": "Kallistus 2",
     "previous": "Kallistus 1",
-    "next": "Kallixeine",
     "proof_read": 3,
     "short_description": "Praefectus Augustalis, ermordet 422 n. Chr.",
     "chapters": [
@@ -6037,8 +6059,22 @@
     ]
   },
   {
+    "lemma": "Kallistos 5",
+    "previous": "Kallistos 4",
+    "next": "Kallixeine",
+    "proof_read": 3,
+    "short_description": "praefectus Augustalis, ermordet 422 n. Chr.",
+    "chapters": [
+      {
+        "start": 864,
+        "end": 864,
+        "author": "Seeck."
+      }
+    ]
+  },
+  {
     "lemma": "Kallixeine",
-    "previous": "Kallistus 2",
+    "previous": "Kallistos 5",
     "next": "Καλοὶ κἀγαθοί",
     "proof_read": 3,
     "short_description": "Priesterin in Pessinus unter Kaiser Iulian",
