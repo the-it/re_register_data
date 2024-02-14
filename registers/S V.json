@@ -1985,9 +1985,9 @@
   {
     "lemma": "Leuke 4a",
     "previous": "Leuciana",
-    "next": "Leges Corneliae 2",
-    "proof_read": 2,
-    "short_description": "Felsen bei Masada (XIV 2056 )",
+    "next": "Leges Corneliae 2) 2.",
+    "proof_read": 3,
+    "short_description": "Felsen bei Masada",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1998,18 +1998,22 @@
     ]
   },
   {
-    "lemma": "Leges Corneliae 2",
+    "lemma": "Leges Corneliae 2) 2.",
     "previous": "Leuke 4a",
-    "short_description": "Gesetze d. Dictators L. Cornelius Sulla",
+    "next": "Lex Glitia",
+    "sort_key": "Lex Corneliae 2) 2.",
+    "short_description": "Gesetz des Dictators L. Cornelius Sulla zur Päderastie",
     "chapters": [
       {
         "start": 576,
-        "author": "Weiss, Egon"
+        "end": 577,
+        "author": "Egon Weiss."
       }
     ]
   },
   {
     "lemma": "Lex Glitia",
+    "previous": "Leges Corneliae 2) 2.",
     "next": "Lex Iunia Norbana",
     "short_description": "L. G. de querela inofficiosi",
     "chapters": [
@@ -2034,7 +2038,6 @@
   {
     "lemma": "Lex Licinia 10",
     "previous": "Lex Iunia Norbana",
-    "next": "Lex Plaetoria 2",
     "short_description": "L. L. sumptuaria",
     "chapters": [
       {
@@ -2044,12 +2047,20 @@
     ]
   },
   {
+    "lemma": "Lex Licinia",
+    "next": "Lex Plaetoria 2"
+  },
+  {
     "lemma": "Lex Plaetoria 2",
-    "short_description": "Das Gesetz über die Minderjährigen",
+    "previous": "Lex Licinia",
+    "next": "Lex Plaetoria 2",
+    "sort_key": "Lex Plaetoria 2",
+    "short_description": "das Gesetz über die Minderjährigen",
     "chapters": [
       {
         "start": 578,
-        "author": "Weiss, Egon"
+        "end": 582,
+        "author": "Egon Weiss."
       }
     ]
   },
