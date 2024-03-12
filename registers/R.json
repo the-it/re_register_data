@@ -27626,7 +27626,7 @@
     "previous": "Araske",
     "next": "Aratza",
     "proof_read": 3,
-    "short_description": "A. von Soloi, Dichter im 4./3. Jh. v. Chr. /",
+    "short_description": "A. von Soloi, Dichter im 4./3. Jh. v. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Aratos von Soloi",
     "ws_link": "s:de:Aratos von Soloi",
@@ -33070,7 +33070,7 @@
     "next": "Aristobulos 3a",
     "sort_key": "Aristobulos 03",
     "proof_read": 3,
-    "short_description": "Archon in Herakleia um das J. 156/5 v. Chr",
+    "short_description": "Archon in Herakleia um 156/5 v. Chr",
     "no_creative_height": true,
     "chapters": [
       {
@@ -93201,9 +93201,14 @@
     "lemma": "Hanhavaldus",
     "previous": "Hamster",
     "next": "Haren(e)i montes",
+    "sort_key": "Hanhavaldus",
+    "proof_read": 3,
+    "short_description": "(?) Vornehmer Burgunder, Vater des Hariulfus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 120,
+        "end": 120,
         "author": "Hans Gärtner."
       }
     ]
@@ -131357,6 +131362,8 @@
     "proof_read": 3,
     "short_description": "Landschaft und Volk im westlichen Arkadien",
     "no_creative_height": true,
+    "wp_link": "w:de:Parrhasia",
+    "wd_link": "d:Q7139774",
     "chapters": [
       {
         "start": 181,
@@ -146200,7 +146207,7 @@
   {
     "lemma": "Simakos",
     "previous": "Silzactae",
-    "next": "Simeonius (Symionius)",
+    "next": "Simeonius",
     "proof_read": 3,
     "short_description": "S. von Argos, Schauspieler bei den Soteria zu Delphi 270 v. Chr.",
     "no_creative_height": true,
@@ -146213,8 +146220,11 @@
     ]
   },
   {
+    "lemma": "Simeonius",
+    "previous": "Simakos"
+  },
+  {
     "lemma": "Simeonius (Symionius)",
-    "previous": "Simakos",
     "next": "Simermon",
     "chapters": [
       {
@@ -154139,7 +154149,7 @@
   {
     "lemma": "Vergilius 4a",
     "previous": "Vergilius 4aa",
-    "next": "Vergilius 9",
+    "next": "Vergilius 6a",
     "sort_key": "Vergilius 4a",
     "proof_read": 3,
     "short_description": "Vergilius Epaphroditus, Mime in der Kaiserzeit",
@@ -154153,8 +154163,11 @@
     ]
   },
   {
+    "lemma": "Vergilius 6a",
+    "previous": "Vergilius 4a"
+  },
+  {
     "lemma": "Vergilius 9",
-    "previous": "Vergilius 4a",
     "next": "Vergilius 10",
     "chapters": [
       {
