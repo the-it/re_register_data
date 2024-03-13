@@ -26961,7 +26961,7 @@
   {
     "lemma": "Hemiolion",
     "previous": "Ἡμιολία",
-    "next": "Hemiolios",
+    "next": "Ἠμιόλιος",
     "short_description": "Die Konventionalstrafe bei Verträgen",
     "chapters": [
       {
@@ -26972,18 +26972,22 @@
     ]
   },
   {
-    "lemma": "Hemiolios",
+    "lemma": "Ἠμιόλιος",
     "previous": "Hemiolion",
     "next": "Hephaistion",
+    "redirect": "Hemiolion",
+    "proof_read": 2,
+    "short_description": "Hemiolios, Konventionalstrafe bei Verträgen",
     "chapters": [
       {
-        "start": 906
+        "start": 906,
+        "end": 906
       }
     ]
   },
   {
     "lemma": "Hephaistion",
-    "previous": "Hemiolios",
+    "previous": "Ἠμιόλιος",
     "next": "Hera",
     "chapters": [
       {
@@ -27781,11 +27785,13 @@
     "lemma": "Horatia",
     "previous": "Honorius 4b",
     "next": "Hyaila",
-    "short_description": "Röm. Landtribus",
+    "proof_read": 2,
+    "short_description": "alter römischer Landtribus",
     "chapters": [
       {
         "start": 1160,
-        "author": "Rosenberg"
+        "end": 1160,
+        "author": "Rosenberg."
       }
     ]
   },
@@ -27818,9 +27824,13 @@
     "lemma": "Hylas",
     "previous": "Hydrea",
     "next": "Hyllis 1",
+    "redirect": "Firmii",
+    "proof_read": 2,
+    "short_description": "Glasfabrikant",
     "chapters": [
       {
-        "start": 1161
+        "start": 1161,
+        "end": 1161
       }
     ]
   },
