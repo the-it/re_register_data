@@ -109,11 +109,14 @@
     "lemma": "Olympias 1",
     "previous": "Olympianos 2",
     "next": "Olympias 2",
+    "sort_key": "Olympias 1",
+    "proof_read": 2,
     "short_description": "Kalter NW-Wind aus der Richtung von Thessalien",
     "chapters": [
       {
         "start": 175,
-        "author": "Oberhummer"
+        "end": 175,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -121,11 +124,14 @@
     "lemma": "Olympias 2",
     "previous": "Olympias 1",
     "next": "Olympias 3",
+    "sort_key": "Olympias 2",
+    "proof_read": 2,
     "short_description": "SO-Wind auf Lesbos, Scirocco",
     "chapters": [
       {
         "start": 175,
-        "author": "Oberhummer"
+        "end": 175,
+        "author": "Eugen Oberhummer."
       }
     ]
   },
@@ -662,11 +668,14 @@
     "lemma": "Olympion 2",
     "previous": "Olympion 1",
     "next": "Olympioniken",
+    "sort_key": "Olympion 2",
+    "proof_read": 2,
     "short_description": "Stadt, die Kyros dem Pythagoras schenkte",
     "chapters": [
       {
         "start": 232,
-        "author": "Ruge"
+        "end": 232,
+        "author": "W. Ruge."
       }
     ]
   },
@@ -12434,11 +12443,14 @@
     "lemma": "Oros 5",
     "previous": "Oros 4",
     "next": "Oros 6",
+    "sort_key": "Oros 5",
+    "proof_read": 2,
     "short_description": "Arzt aus Mende",
     "chapters": [
       {
         "start": 1183,
-        "author": "Kroll"
+        "end": 1183,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -12446,11 +12458,14 @@
     "lemma": "Oros 6",
     "previous": "Oros 5",
     "next": "Oros 7",
+    "sort_key": "Oros 6",
+    "proof_read": 2,
     "short_description": "Verfasser eines Traumbuches",
     "chapters": [
       {
         "start": 1183,
-        "author": "Kroll"
+        "end": 1183,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -12458,18 +12473,21 @@
     "lemma": "Oros 7",
     "previous": "Oros 6",
     "next": "Oros ton elaion",
+    "sort_key": "Oros 7",
+    "proof_read": 2,
     "short_description": "Erfinder eines Mittels gegen Trunkenheit",
     "chapters": [
       {
         "start": 1183,
-        "author": "Kroll"
+        "end": 1183,
+        "author": "W. Kroll."
       }
     ]
   },
   {
     "lemma": "Oros ton elaion",
     "previous": "Oros 7",
-    "next": "Orosana",
+    "next": "Ὀροσάνα",
     "short_description": "Oelberg im O. von Jerusalem",
     "chapters": [
       {
@@ -12479,38 +12497,47 @@
     ]
   },
   {
-    "lemma": "Orosana",
+    "lemma": "Ὀροσάνα",
     "previous": "Oros ton elaion",
-    "next": "Orosangai",
-    "short_description": "Ort",
+    "next": "Ὀροσάγγαι",
+    "sort_key": "Orosana",
+    "proof_read": 2,
+    "short_description": "Orosana, Ort der Tibetaner",
     "chapters": [
       {
         "start": 1185,
-        "author": "Herrmann"
+        "end": 1185,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Orosangai",
-    "previous": "Orosana",
+    "lemma": "Ὀροσάγγαι",
+    "previous": "Ὀροσάνα",
     "next": "Orosbios",
-    "short_description": "Persischer Ehrentitel",
+    "sort_key": "Orosangai",
+    "proof_read": 2,
+    "short_description": "Orosangai, persischer Ehrentitel",
     "chapters": [
       {
         "start": 1185,
-        "author": "Fiehn"
+        "end": 1185,
+        "author": "Fiehn."
       }
     ]
   },
   {
     "lemma": "Orosbios",
-    "previous": "Orosangai",
+    "previous": "Ὀροσάγγαι",
     "next": "Orosius",
-    "short_description": "Ergänzung eines Kentaurennamens auf einem Gefäß des Klitias und Ergotimos s.",
+    "sort_key": "Orosbios",
+    "proof_read": 2,
+    "short_description": "Kentaur?",
     "chapters": [
       {
         "start": 1185,
-        "author": "Türk"
+        "end": 1185,
+        "author": "G. Türk."
       }
     ]
   },
@@ -12530,11 +12557,14 @@
     "lemma": "Oroskopa",
     "previous": "Orosius",
     "next": "Orosologia",
-    "short_description": "Ort",
+    "sort_key": "Oroskopa",
+    "proof_read": 2,
+    "short_description": "libysche Stadt",
     "chapters": [
       {
         "start": 1195,
-        "author": "Kroll"
+        "end": 1196,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -12542,9 +12572,13 @@
     "lemma": "Orosologia",
     "previous": "Oroskopa",
     "next": "Orospeda",
+    "sort_key": "Orosologia",
+    "proof_read": 2,
+    "short_description": "s. Rosolociacum",
     "chapters": [
       {
         "start": 1196,
+        "end": 1197,
         "author": "W. Ruge."
       }
     ]
