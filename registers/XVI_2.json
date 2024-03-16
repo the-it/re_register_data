@@ -145,7 +145,7 @@
     "previous": "Mystiae",
     "next": "Mysticus",
     "proof_read": 3,
-    "short_description": "athenischer Archon im J. 386/5, IG II² 31. 1140. Diod. XV 2.",
+    "short_description": "athenischer Archon 386 v. Chr.",
     "chapters": [
       {
         "start": 1351,
@@ -159,7 +159,7 @@
     "previous": "Mystichides",
     "next": "Μυστικὴ",
     "proof_read": 3,
-    "short_description": "ein berühmt schöner Pantomime in der Zeit des Plinius (n. h. VII 184).",
+    "short_description": "Pantomime, Zeit des Plinius",
     "chapters": [
       {
         "start": 1351,
@@ -256,28 +256,36 @@
   {
     "lemma": "Mystos",
     "previous": "Mystis 3",
-    "next": "Mystron",
+    "next": "Μύστρον",
+    "sort_key": "Mystos",
+    "proof_read": 2,
+    "short_description": "Insel vor der Küste Aitoliens",
     "chapters": [
       {
         "start": 1352,
-        "author": "Herbst"
+        "end": 1352,
+        "author": "Rudolf Herbst."
       }
     ]
   },
   {
-    "lemma": "Mystron",
+    "lemma": "Μύστρον",
     "previous": "Mystos",
     "next": "Mythidike",
+    "sort_key": "Mystron",
+    "proof_read": 2,
+    "short_description": "Mystron, Löffel",
     "chapters": [
       {
         "start": 1352,
-        "author": "Becher"
+        "end": 1352,
+        "author": "Wilhelm Becher."
       }
     ]
   },
   {
     "lemma": "Mythidike",
-    "previous": "Mystron",
+    "previous": "Μύστρον",
     "next": "Mythographie",
     "chapters": [
       {
@@ -390,11 +398,14 @@
     "lemma": "Myus 1",
     "previous": "Myttones",
     "next": "Myus 2",
-    "short_description": "Ort an d. kilikischen Küste",
+    "sort_key": "Myus 1",
+    "proof_read": 2,
+    "short_description": "Ort der kilikischen Küste",
     "chapters": [
       {
         "start": 1430,
-        "author": "Ruge"
+        "end": 1430,
+        "author": "Ruge."
       }
     ]
   },
@@ -676,10 +687,14 @@
     "lemma": "Nabagath",
     "previous": "Nabaeus",
     "next": "Nabaiothes",
+    "sort_key": "Nabagath",
+    "proof_read": 2,
+    "short_description": "Nabagath, Station der parthischen Königstraße",
     "chapters": [
       {
         "start": 1450,
-        "author": "Weissbach"
+        "end": 1450,
+        "author": "F. H. Weissbach."
       }
     ]
   },
@@ -883,10 +898,14 @@
     "lemma": "Nabdalsa",
     "previous": "Nabau 2",
     "next": "Nabdates",
+    "sort_key": "Nabdalsa",
+    "proof_read": 2,
+    "short_description": "numidischer Häuptling und Feldherr Jugurthas 108 v. Chr.",
     "chapters": [
       {
         "start": 1469,
-        "author": "Münzer"
+        "end": 1469,
+        "author": "Münzer."
       }
     ]
   },
@@ -1262,7 +1281,7 @@
   {
     "lemma": "Nadiandos",
     "previous": "Nadel",
-    "next": "Nadios",
+    "next": "Νάδιος",
     "redirect": "Nazianzos",
     "proof_read": 2,
     "chapters": [
@@ -1273,20 +1292,23 @@
     ]
   },
   {
-    "lemma": "Nadios",
+    "lemma": "Νάδιος",
     "previous": "Nadiandos",
     "next": "Nados",
-    "short_description": "In d. babylon. Königsliste",
+    "sort_key": "Nadios",
+    "proof_read": 2,
+    "short_description": "Nadios, in der babylonischen Königsliste",
     "chapters": [
       {
         "start": 1556,
-        "author": "Weissbach"
+        "end": 1556,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Nados",
-    "previous": "Nadios",
+    "previous": "Νάδιος",
     "next": "Nadubandagar",
     "proof_read": 2,
     "short_description": "katholischer Bischof von Sabrata (s. u. Bd. I A S. 1608), nahm an dem",
@@ -1488,11 +1510,14 @@
     "lemma": "Naevius 1",
     "previous": "Naevius",
     "next": "Naevius 3",
-    "short_description": "Bei Horaz sat. I 1,101 u.a.",
+    "sort_key": "Naevius 1",
+    "proof_read": 2,
+    "short_description": "bei Horaz ein schlechter Hausvater",
     "chapters": [
       {
         "start": 1558,
-        "author": "Münzer"
+        "end": 1558,
+        "author": "Münzer."
       }
     ]
   },
@@ -1560,11 +1585,14 @@
     "lemma": "Naevius 8",
     "previous": "Naevius 7",
     "next": "Naevius 9",
+    "sort_key": "Naevius 8",
+    "proof_read": 2,
     "short_description": "Naevius Arpinianus, Klient des Rhetors Quintilian",
     "chapters": [
       {
         "start": 1562,
-        "author": "Stein, [Arthur]"
+        "end": 1562,
+        "author": "Stein."
       }
     ]
   },
@@ -1572,11 +1600,14 @@
     "lemma": "Naevius 9",
     "previous": "Naevius 8",
     "next": "Naevius 10",
-    "short_description": "Naevius Balbinus Aquilinus, Legat des procos. von Afrikas unter Kaiser Gallienus",
+    "sort_key": "Naevius 9",
+    "proof_read": 2,
+    "short_description": "Naevius Balbinus Aquilinus, Legat des procos. Afrika unter Kaiser Gallienus",
     "chapters": [
       {
         "start": 1562,
-        "author": "Fluss"
+        "end": 1562,
+        "author": "Max Fluss."
       }
     ]
   },
@@ -1620,11 +1651,14 @@
     "lemma": "Naevius 13",
     "previous": "Naevius 12",
     "next": "Naevius 14",
+    "sort_key": "Naevius 13",
+    "proof_read": 2,
     "short_description": "Naevius Censitus M.",
     "chapters": [
       {
         "start": 1563,
-        "author": "Stein, [Arthur]"
+        "end": 1563,
+        "author": "Stein."
       }
     ]
   },
