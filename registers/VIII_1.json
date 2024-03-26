@@ -870,11 +870,14 @@
     "lemma": "Helisson 5",
     "previous": "Helisson 4",
     "next": "Helissus",
+    "sort_key": "Helisson 5",
+    "proof_read": 2,
     "short_description": "Ort der Mainalier",
     "chapters": [
       {
         "start": 95,
-        "author": "Bölte"
+        "end": 96,
+        "author": "Bölte."
       }
     ]
   },
@@ -1000,11 +1003,14 @@
     "lemma": "Helkias 1",
     "previous": "Helkethion",
     "next": "Helkias 2",
+    "sort_key": "Helkias 1",
+    "proof_read": 2,
     "short_description": "Angehöriger zur Sippe des Herodes",
     "chapters": [
       {
         "start": 96,
-        "author": "Otto, Walter"
+        "end": 96,
+        "author": "Walter Otto."
       }
     ]
   },
@@ -1012,11 +1018,14 @@
     "lemma": "Helkias 2",
     "previous": "Helkias 1",
     "next": "Hella",
+    "sort_key": "Helkias 2",
+    "proof_read": 2,
     "short_description": "Oberschatzmeister in der Tempelverwaltung in Jerusalem",
     "chapters": [
       {
         "start": 96,
-        "author": "Otto, Walter"
+        "end": 96,
+        "author": "Walter Otto."
       }
     ]
   },
@@ -1619,7 +1628,7 @@
   {
     "lemma": "Helleni",
     "previous": "Hellen 2",
-    "next": "Hellenike thalatta",
+    "next": "Ἑλληνικὴ θάλαττα",
     "short_description": "Iberischer Stamm",
     "chapters": [
       {
@@ -1629,21 +1638,24 @@
     ]
   },
   {
-    "lemma": "Hellenike thalatta",
+    "lemma": "Ἑλληνικὴ θάλαττα",
     "previous": "Helleni",
     "next": "Hellenikon",
-    "short_description": "Aegaeis",
+    "sort_key": "Hellenikethalatta",
+    "proof_read": 2,
+    "short_description": "Hellenike thalatta, Ägäis",
     "chapters": [
       {
         "start": 173,
-        "author": "Bürchner"
+        "end": 173,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Hellenikon",
-    "previous": "Hellenike thalatta",
-    "next": "Hellenikos topos",
+    "previous": "Ἑλληνικὴ θάλαττα",
+    "next": "Ἑλληνικὸς τόπος",
     "redirect": "Hellenion 3",
     "proof_read": 2,
     "chapters": [
@@ -1654,9 +1666,23 @@
     ]
   },
   {
-    "lemma": "Hellenikos topos",
+    "lemma": "Ἑλληνικὸς τόπος",
     "previous": "Hellenikon",
-    "next": "Hellenioi theoi",
+    "next": "Ἑλλήνιοι θεοί",
+    "sort_key": "Hellenikostopos",
+    "proof_read": 2,
+    "short_description": "Hellenikos topos, Gebiet des eigentlichen Hellas",
+    "chapters": [
+      {
+        "start": 173,
+        "end": 173,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἑλληνικὸς τόπος",
+    "next": "Ἑλλήνιοι θεοί",
     "short_description": "Gebiet des eigentlichen Hellas",
     "chapters": [
       {
@@ -1666,27 +1692,32 @@
     ]
   },
   {
-    "lemma": "Hellenioi theoi",
-    "previous": "Hellenikos topos",
+    "lemma": "Ἑλλήνιοι θεοί",
+    "previous": "Ἑλληνικὸς τόπος",
     "next": "Hellenion 1",
-    "short_description": "Nationalgötter der Hellenen",
+    "sort_key": "Hellenioitheoi",
+    "proof_read": 2,
+    "short_description": "Hellenioi theoi, Nationalgötter der Hellenen",
     "chapters": [
       {
         "start": 173,
-        "author": "Bürchner"
+        "end": 173,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Hellenion 1",
-    "previous": "Hellenioi theoi",
+    "previous": "Ἑλλήνιοι θεοί",
     "next": "Hellenion 2",
+    "sort_key": "Hellenion 1",
+    "proof_read": 2,
     "short_description": "Platz in Sparta",
     "chapters": [
       {
         "start": 173,
         "end": 174,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
@@ -1694,11 +1725,14 @@
     "lemma": "Hellenion 2",
     "previous": "Hellenion 1",
     "next": "Hellenion 3",
-    "short_description": "Gebäude in Arsinoë im Faium",
+    "sort_key": "Hellenion 2",
+    "proof_read": 2,
+    "short_description": "Gebäude in Arsinoë im Faijûm",
     "chapters": [
       {
         "start": 174,
-        "author": "Plaumann"
+        "end": 174,
+        "author": "Plaumann."
       }
     ]
   },
@@ -1843,11 +1877,14 @@
     "lemma": "Hellespontias",
     "previous": "Hellespontia 2",
     "next": "Hellespontios",
+    "sort_key": "Hellespontias",
+    "proof_read": 2,
     "short_description": "Lokalname des Windes vom Hellespont",
     "chapters": [
       {
         "start": 181,
-        "author": "Rehm"
+        "end": 181,
+        "author": "Rehm."
       }
     ]
   },
@@ -1898,11 +1935,14 @@
     "lemma": "Hellespontos 2",
     "previous": "Hellespontos 1",
     "next": "Hellespontos 3",
-    "short_description": "Südlich des Hellespontos gelegener Teil Kleinasiens",
+    "sort_key": "Hellespontos 2",
+    "proof_read": 2,
+    "short_description": "südlich des Hellespontos gelegener Teil Kleinasiens",
     "chapters": [
       {
         "start": 193,
-        "author": "Bürchner"
+        "end": 193,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1910,11 +1950,14 @@
     "lemma": "Hellespontos 3",
     "previous": "Hellespontos 2",
     "next": "Hellespontos 4",
+    "sort_key": "Hellespontos 3",
+    "proof_read": 2,
     "short_description": "Provincia Hellespontus als Verwaltungsbezirk",
     "chapters": [
       {
         "start": 193,
-        "author": "Bürchner"
+        "end": 193,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1950,12 +1993,14 @@
     "lemma": "Hellestheaeus",
     "previous": "Hellespontos 5",
     "next": "Helliougmounis",
-    "short_description": "König der Aithiopier",
+    "sort_key": "Hellestheaeus",
+    "proof_read": 2,
+    "short_description": "König der Aithiopier 525 n. Chr.",
     "chapters": [
       {
         "start": 193,
         "end": 194,
-        "author": "Benjamin"
+        "author": "Benjamin."
       }
     ]
   },
@@ -2041,11 +2086,14 @@
     "lemma": "Hellopion",
     "previous": "Hellopia 3",
     "next": "Hellotia 1",
-    "short_description": "Ort",
+    "sort_key": "Hellopion",
+    "proof_read": 2,
+    "short_description": "Ort in Aitolien",
     "chapters": [
       {
         "start": 196,
-        "author": "Bölte"
+        "end": 196,
+        "author": "Bölte."
       }
     ]
   },
@@ -2120,11 +2168,14 @@
     "lemma": "Helmodenes",
     "previous": "Hellotis 2",
     "next": "Helnia",
-    "short_description": "Falsche Lesung für ein SW-arabisches Volk",
+    "sort_key": "Helmodenes",
+    "proof_read": 2,
+    "short_description": "falsche Lesung für ein arabisches Volk",
     "chapters": [
       {
         "start": 198,
-        "author": "Tkáč"
+        "end": 198,
+        "author": "Tkač."
       }
     ]
   },
@@ -2132,11 +2183,14 @@
     "lemma": "Helnia",
     "previous": "Helmodenes",
     "next": "Helo",
-    "short_description": "Ort",
+    "sort_key": "Helnia",
+    "proof_read": 2,
+    "short_description": "Ort in Galatien",
     "chapters": [
       {
         "start": 198,
-        "author": "Ruge"
+        "end": 198,
+        "author": "Ruge."
       }
     ]
   },
@@ -2200,11 +2254,14 @@
     "lemma": "Heloros 2",
     "previous": "Heloros 1",
     "next": "Heloros 3",
+    "sort_key": "Heloros 2",
+    "proof_read": 2,
     "short_description": "Sohn des Flußes Istros",
     "chapters": [
       {
         "start": 199,
-        "author": "Jessen"
+        "end": 199,
+        "author": "Jessen."
       }
     ]
   },
@@ -2237,11 +2294,14 @@
     "lemma": "Helos 1",
     "previous": "Heloros 4",
     "next": "Helos 2",
+    "sort_key": "Helos 1",
+    "proof_read": 2,
     "short_description": "Ort auf Samos",
     "chapters": [
       {
         "start": 200,
-        "author": "Bürchner"
+        "end": 200,
+        "author": "Bürchner."
       }
     ]
   },
@@ -2249,11 +2309,14 @@
     "lemma": "Helos 2",
     "previous": "Helos 1",
     "next": "Helos 3",
+    "sort_key": "Helos 2",
+    "proof_read": 2,
     "short_description": "Ort im Sipylosgebirge",
     "chapters": [
       {
         "start": 200,
-        "author": "Bürchner"
+        "end": 200,
+        "author": "Bürchner."
       }
     ]
   },
@@ -2301,11 +2364,14 @@
     "lemma": "Helos 6",
     "previous": "Helos 5",
     "next": "Heloten",
-    "short_description": "Boiotische Ortschaft",
+    "sort_key": "Helos 6",
+    "proof_read": 2,
+    "short_description": "boiotische Ortschaft",
     "chapters": [
       {
         "start": 203,
-        "author": "Bölte"
+        "end": 203,
+        "author": "Bölte."
       }
     ]
   },
@@ -2476,11 +2542,14 @@
     "lemma": "Helveconae",
     "previous": "Helpidius 10",
     "next": "Helvetii",
+    "sort_key": "Helveconae",
+    "proof_read": 2,
     "short_description": "Hauptstamm der Lugier",
     "chapters": [
       {
         "start": 209,
-        "author": "Rappaport"
+        "end": 209,
+        "author": "Rappaport."
       }
     ]
   },
