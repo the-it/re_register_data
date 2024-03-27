@@ -4369,7 +4369,7 @@
   {
     "lemma": "Heper",
     "previous": "Heorton",
-    "next": "Hephaestiades insulae",
+    "next": "Hephaesti insulae",
     "proof_read": 3,
     "short_description": "Comes, vir illustris, Diakon in Volsinii",
     "chapters": [
@@ -4381,21 +4381,9 @@
     ]
   },
   {
-    "lemma": "Hephaestiades insulae",
-    "previous": "Heper",
-    "next": "Hephaesti insulae",
-    "short_description": "Liparische Inseln s. Aiolou nesoi, Lipara",
-    "chapters": [
-      {
-        "start": 290,
-        "author": "Ziegler"
-      }
-    ]
-  },
-  {
     "lemma": "Hephaesti insulae",
-    "previous": "Hephaestiades insulae",
-    "next": "Hephaistia",
+    "previous": "Heper",
+    "next": "Hephaestiades insulae",
     "sort_key": "Hephaestiinsulae",
     "proof_read": 2,
     "short_description": "Inseln in Assyrien, im Tigris?",
@@ -4408,8 +4396,20 @@
     ]
   },
   {
-    "lemma": "Hephaistia",
+    "lemma": "Hephaestiades insulae",
     "previous": "Hephaesti insulae",
+    "next": "Hephaistia",
+    "short_description": "Liparische Inseln s. Aiolou nesoi, Lipara",
+    "chapters": [
+      {
+        "start": 290,
+        "author": "Ziegler"
+      }
+    ]
+  },
+  {
+    "lemma": "Hephaistia",
+    "previous": "Hephaestiades insulae",
     "next": "Hephaistiadai",
     "short_description": "Fest für Hephaistos",
     "chapters": [
