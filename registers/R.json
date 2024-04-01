@@ -59980,6 +59980,7 @@
     "short_description": "Longinus, C. der Caesarmörder",
     "no_creative_height": true,
     "wp_link": "w:de:Gaius Cassius Longinus (Verschwörer)",
+    "ws_link": "s:it:Autore:Gaio Cassio Longino",
     "wd_link": "d:Q207370",
     "chapters": [
       {
@@ -97894,7 +97895,7 @@
   {
     "lemma": "Ὁρκωμότης",
     "previous": "Horistai",
-    "next": "Hormophylakia",
+    "next": "Ὁρμοφυλακία",
     "sort_key": "Horkomotes",
     "proof_read": 3,
     "short_description": "Horkomotes, Beamter im ptolem. Aegypten",
@@ -97908,7 +97909,7 @@
     ]
   },
   {
-    "lemma": "Hormophylakia",
+    "lemma": "Ὁρμοφυλακία",
     "previous": "Ὁρκωμότης",
     "next": "Horreum 2",
     "sort_key": "Hormophylakia",
@@ -97925,7 +97926,7 @@
   },
   {
     "lemma": "Horreum 2",
-    "previous": "Hormophylakia",
+    "previous": "Ὁρμοφυλακία",
     "next": "Hosidius 6",
     "sort_key": "Horreum 2",
     "proof_read": 3,
@@ -111953,7 +111954,7 @@
   {
     "lemma": "Kypellon",
     "previous": "Kynuria 1",
-    "next": "Kyprides",
+    "next": "Κυπρίδης",
     "chapters": [
       {
         "start": 149,
@@ -111962,7 +111963,7 @@
     ]
   },
   {
-    "lemma": "Kyprides",
+    "lemma": "Κυπρίδης",
     "previous": "Kypellon",
     "next": "Kypros 1",
     "sort_key": "Kyprides",
@@ -111979,7 +111980,7 @@
   },
   {
     "lemma": "Kypros 1",
-    "previous": "Kyprides",
+    "previous": "Κυπρίδης",
     "next": "Kypsela 2",
     "proof_read": 3,
     "short_description": "Insel im östl. Mittelmeer. Kyprische Sprache",
@@ -139771,6 +139772,7 @@
     "lemma": "Prytanis, Prytaneia, Prytaneion",
     "previous": "Prymnessos",
     "next": "Psaios",
+    "sort_key": "Prytanis a",
     "proof_read": 3,
     "short_description": "Amt im antiken Griechenland, führende Mitglieder der Regierung einer polis",
     "no_creative_height": true,
@@ -155054,7 +155056,7 @@
   {
     "lemma": "Viae publicae Romanae",
     "previous": "Ugoroi",
-    "next": "Via 4",
+    "next": "Via 3ab",
     "proof_read": 3,
     "no_creative_height": true,
     "wp_link": "w:de:Römerstraße",
@@ -155066,6 +155068,10 @@
         "author": "Hans Gärtner."
       }
     ]
+  },
+  {
+    "lemma": "Via 3ab",
+    "previous": "Viae publicae Romanae"
   },
   {
     "lemma": "Via 4",
@@ -155476,10 +155482,16 @@
   },
   {
     "lemma": "Ad Vice(n)simum 6",
+    "previous": "Ad Vice(n)simum 5",
     "next": "Ad Vice(n)simum 7",
+    "sort_key": "Vicesimum 6, ad",
+    "proof_read": 3,
+    "short_description": "Etrur. Straßenstation an der Via Flaminia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 224,
+        "end": 224,
         "author": "Hans Gärtner."
       }
     ]
@@ -155488,9 +155500,14 @@
     "lemma": "Ad Vice(n)simum 7",
     "previous": "Ad Vice(n)simum 6",
     "next": "Ad Vice(n)simum 8",
+    "sort_key": "Vicesimum 7 ad",
+    "proof_read": 3,
+    "short_description": "Station an der Straße Trapezus - Satala. = Magnana",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 224,
+        "end": 224,
         "author": "Hans Gärtner."
       }
     ]
