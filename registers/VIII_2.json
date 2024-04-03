@@ -2616,10 +2616,14 @@
     "lemma": "Hieron 1",
     "previous": "Hieromnemones",
     "next": "Hieron 2",
-    "short_description": "s. Apollonos hieron Nr. 2",
+    "sort_key": "Hieron 1",
+    "proof_read": 2,
+    "short_description": "Name für Heiligtümer, Tempel, Vorgebirge, Städtchen",
     "chapters": [
       {
-        "start": 1496
+        "start": 1496,
+        "end": 1496,
+        "author": "Bürchner."
       }
     ]
   },
@@ -2627,11 +2631,14 @@
     "lemma": "Hieron 2",
     "previous": "Hieron 1",
     "next": "Hieron 3",
+    "sort_key": "Hieron 2",
+    "proof_read": 2,
     "short_description": "Bistum in Karien",
     "chapters": [
       {
         "start": 1496,
-        "author": "Bürchner"
+        "end": 1496,
+        "author": "Bürchner."
       }
     ]
   },
@@ -2766,11 +2773,14 @@
     "lemma": "Hieron 12",
     "previous": "Hieron 11",
     "next": "Hieron 13",
-    "short_description": "Spartiate",
+    "sort_key": "Hieron 12",
+    "proof_read": 2,
+    "short_description": "Spartiate, der bei Leuktra fiel",
     "chapters": [
       {
         "start": 1503,
-        "author": "Lenschau"
+        "end": 1503,
+        "author": "Lenschau."
       }
     ]
   },
@@ -2794,11 +2804,14 @@
     "lemma": "Hieron 14",
     "previous": "Hieron 13",
     "next": "Hieron 15",
-    "short_description": "Offizier oder Beamter des ptolemäischen Strategen Patroklos",
+    "sort_key": "Hieron 14",
+    "proof_read": 2,
+    "short_description": "Offizier oder Beamter des ptolemäischen Strategen Patroklos 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1512,
-        "author": "Otto, Walter"
+        "end": 1512,
+        "author": "Walter Otto."
       }
     ]
   },
@@ -2819,11 +2832,14 @@
     "lemma": "Hieron 16",
     "previous": "Hieron 15",
     "next": "Hieron 17",
-    "short_description": "Vermachte ein großes Vermögen an seine Vaterstadt Laodikeia in Phrygien",
+    "sort_key": "Hieron 16",
+    "proof_read": 2,
+    "short_description": "vermachte ein großes Vermögen an seine Vaterstadt Laodikeia in Phrygien",
     "chapters": [
       {
         "start": 1513,
-        "author": "Otto, Walter"
+        "end": 1513,
+        "author": "Walter Otto."
       }
     ]
   },
@@ -2844,11 +2860,14 @@
     "lemma": "Hieron 18",
     "previous": "Hieron 17",
     "next": "Hieron 19",
+    "sort_key": "Hieron 18",
+    "proof_read": 2,
     "short_description": "Helfershelfer des C. Verres",
     "chapters": [
       {
         "start": 1515,
-        "author": "Münzer"
+        "end": 1515,
+        "author": "Münzer."
       }
     ]
   },
@@ -2856,11 +2875,14 @@
     "lemma": "Hieron 19",
     "previous": "Hieron 18",
     "next": "Hieron 20",
+    "sort_key": "Hieron 19",
+    "proof_read": 2,
     "short_description": "Teilnehmer am illyrischen Feldzug Octavians",
     "chapters": [
       {
         "start": 1515,
-        "author": "Münzer"
+        "end": 1515,
+        "author": "Münzer."
       }
     ]
   },
@@ -2905,18 +2927,21 @@
     "lemma": "Hieron 24",
     "previous": "Hieron 23",
     "next": "Hieron akroterion",
-    "short_description": "Ort am asiatischen Ufer des Bosporos Nr. 92",
+    "sort_key": "Hieron 24",
+    "proof_read": 2,
+    "short_description": "Ort am asiatischen Ufer des Bosporos",
     "chapters": [
       {
         "start": 1530,
-        "author": "Oberhummer"
+        "end": 1530,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Hieron akroterion",
     "previous": "Hieron 24",
-    "next": "Hieron oros",
+    "next": "Ἱερὸν ὄρος",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -2927,9 +2952,23 @@
     ]
   },
   {
-    "lemma": "Hieron oros",
+    "lemma": "Ἱερὸν ὄρος",
     "previous": "Hieron akroterion",
-    "next": "Hieron oros 1",
+    "next": "Ἱερὸν ὄρος 1",
+    "sort_key": "Hieronoros",
+    "proof_read": 2,
+    "short_description": "Hieron oros, der geweihte Berg, häufiger Name",
+    "chapters": [
+      {
+        "start": 1530,
+        "end": 1530,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἱερὸν ὄρος",
+    "next": "Ἱερὸν ὄρος 1",
     "short_description": "Häufiger topograph. Name",
     "chapters": [
       {
@@ -2939,33 +2978,53 @@
     ]
   },
   {
-    "lemma": "Hieron oros 1",
-    "previous": "Hieron oros",
-    "next": "Hieron oros 2",
-    "short_description": "Gebirge auf Kreta",
+    "lemma": "Ἱερὸν ὄρος 1",
+    "previous": "Ἱερὸν ὄρος",
+    "next": "Ἱερὸν ὄρος 2",
+    "sort_key": "Hieronoros 1",
+    "proof_read": 2,
+    "short_description": "Hieron oros, Gebirge auf Kreta",
     "chapters": [
       {
         "start": 1530,
-        "author": "Bürchner"
+        "end": 1530,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Hieron oros 2",
-    "previous": "Hieron oros 1",
-    "next": "Hieron oros 3",
-    "short_description": "Berg u. befestigter Platz in Thrakien",
+    "lemma": "Ἱερὸν ὄρος 2",
+    "previous": "Ἱερὸν ὄρος 1",
+    "next": "Ἱερὸν ὄρος 3",
+    "sort_key": "Hieronoros 2",
+    "proof_read": 2,
+    "short_description": "Berg und befestigter Platz in Thrakien",
     "chapters": [
       {
         "start": 1530,
-        "author": "Oberhummer"
+        "end": 1530,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Hieron oros 3",
-    "previous": "Hieron oros 2",
-    "next": "Hieron pedion",
+    "lemma": "Ἱερὸν ὄρος 3",
+    "previous": "Ἱερὸν ὄρος 2",
+    "next": "Ἱερὸν πεδίον",
+    "sort_key": "Hieronoros 3",
+    "proof_read": 2,
+    "short_description": "Vorgebirge zwischen Kerassu und Trapezunt",
+    "chapters": [
+      {
+        "start": 1530,
+        "end": 1530,
+        "author": "Ruge."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἱερὸν ὄρος 3",
+    "next": "Ἱερὸν πεδίον",
     "short_description": "Vorgebirge zw. Kerassu u. Trapezunt",
     "chapters": [
       {
@@ -2975,19 +3034,23 @@
     ]
   },
   {
-    "lemma": "Hieron pedion",
-    "previous": "Hieron oros 3",
+    "lemma": "Ἱερὸν πεδίον",
+    "previous": "Ἱερὸν ὄρος 3",
     "next": "Hieron stoma 1",
+    "sort_key": "Hieronpedion",
+    "proof_read": 2,
+    "short_description": "Hieron pedion, geheiligte Niederung",
     "chapters": [
       {
         "start": 1530,
-        "author": "Bürchner"
+        "end": 1530,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Hieron stoma 1",
-    "previous": "Hieron pedion",
+    "previous": "Ἱερὸν πεδίον",
     "next": "Hieron stoma 2",
     "short_description": "Größte der 7 Donaumündungen",
     "chapters": [
