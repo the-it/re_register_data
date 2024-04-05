@@ -24895,7 +24895,6 @@
   {
     "lemma": "Germani 3",
     "previous": "Germani 1a",
-    "next": "Germania",
     "short_description": "= 1b. Die Germanen",
     "chapters": [
       {
@@ -24906,8 +24905,12 @@
     ]
   },
   {
+    "lemma": "Germani 2",
+    "next": "Germania"
+  },
+  {
     "lemma": "Germania",
-    "previous": "Germani 3",
+    "previous": "Germani 2",
     "next": "Germ(anicae?) figlinae",
     "short_description": "Germania, Stadt in Dacia Mediterranea",
     "chapters": [
@@ -25543,6 +25546,7 @@
     "lemma": "Glitius a",
     "previous": "Glitius 3",
     "next": "Glitius 1a",
+    "sort_key": "Glitius",
     "proof_read": 2,
     "short_description": "Senator in augusteischer Zeit, Gatte der Vistilia",
     "chapters": [
@@ -26466,7 +26470,6 @@
   {
     "lemma": "Hadrianis 2",
     "previous": "Hadrianeia 2",
-    "next": "Hagias 2a",
     "short_description": "Att. Phyle",
     "chapters": [
       {
@@ -26476,8 +26479,12 @@
     ]
   },
   {
+    "lemma": "Hadrianis a",
+    "next": "Hagias 2a"
+  },
+  {
     "lemma": "Hagias 2a",
-    "previous": "Hadrianis 2",
+    "previous": "Hadrianis a",
     "next": "Hagnon 2a",
     "proof_read": 3,
     "short_description": "H. von Messene, Bildhauer im 1. Jh. v. Chr. = Agias (Nr. 9)",
