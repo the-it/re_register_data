@@ -24881,7 +24881,7 @@
   {
     "lemma": "Germani 1a",
     "previous": "Germani 1",
-    "next": "Germani 3",
+    "next": "Germani 1b",
     "proof_read": 2,
     "short_description": "kleinere Stämme am Niederrhein",
     "chapters": [
@@ -24893,7 +24893,7 @@
     ]
   },
   {
-    "lemma": "Germani 3",
+    "lemma": "Germani 1b",
     "previous": "Germani 1a",
     "short_description": "= 1b. Die Germanen",
     "chapters": [
@@ -24905,12 +24905,8 @@
     ]
   },
   {
-    "lemma": "Germani 2",
-    "next": "Germania"
-  },
-  {
     "lemma": "Germania",
-    "previous": "Germani 2",
+    "previous": "Germani 1b",
     "next": "Germ(anicae?) figlinae",
     "short_description": "Germania, Stadt in Dacia Mediterranea",
     "chapters": [
@@ -26458,7 +26454,7 @@
   {
     "lemma": "Hadrianeia 2",
     "previous": "Hades",
-    "next": "Hadrianis 2",
+    "next": "Hadrianis a",
     "short_description": "Mys. Stadt",
     "chapters": [
       {
@@ -26468,8 +26464,9 @@
     ]
   },
   {
-    "lemma": "Hadrianis 2",
+    "lemma": "Hadrianis a",
     "previous": "Hadrianeia 2",
+    "next": "Hagias 2a",
     "short_description": "Att. Phyle",
     "chapters": [
       {
@@ -26477,10 +26474,6 @@
         "author": "Aly"
       }
     ]
-  },
-  {
-    "lemma": "Hadrianis a",
-    "next": "Hagias 2a"
   },
   {
     "lemma": "Hagias 2a",
