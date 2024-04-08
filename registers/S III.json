@@ -24895,6 +24895,7 @@
   {
     "lemma": "Germani 1b",
     "previous": "Germani 1a",
+    "next": "Germania",
     "short_description": "= 1b. Die Germanen",
     "chapters": [
       {
@@ -29392,7 +29393,6 @@
   {
     "lemma": "Iuba 1",
     "previous": "Itone",
-    "next": "Judenburg",
     "short_description": "Iuba I., Iuba II., numid. Könige",
     "chapters": [
       {
@@ -29403,8 +29403,12 @@
     ]
   },
   {
+    "lemma": "Iuba 1.2",
+    "next": "Judenburg"
+  },
+  {
     "lemma": "Judenburg",
-    "previous": "Iuba 1",
+    "previous": "Iuba 1.2",
     "next": "Jülich",
     "proof_read": 3,
     "short_description": "österr. Ort im Murtal",

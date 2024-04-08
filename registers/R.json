@@ -81579,7 +81579,7 @@
     "proof_read": 3,
     "short_description": "Übersicht. A. Allgemeines: 1. Der Privatbrief. 2. Der literarische Brief. 3.",
     "no_creative_height": true,
-    "wp_link": "w:es:Epistolografía",
+    "wp_link": "w:fr:Épistolographie",
     "wd_link": "d:Q3491641",
     "chapters": [
       {
@@ -90061,7 +90061,7 @@
   {
     "lemma": "Geographie",
     "previous": "Gentinos",
-    "next": "Γεωμετρία 2",
+    "next": "Geometria 2",
     "proof_read": 3,
     "short_description": "Spaltenangaben: 1439",
     "no_creative_height": true,
@@ -90074,7 +90074,7 @@
     ]
   },
   {
-    "lemma": "Γεωμετρία 2",
+    "lemma": "Geometria 2",
     "previous": "Geographie",
     "next": "Geophanion",
     "sort_key": "Geometria 2",
@@ -90091,7 +90091,7 @@
   },
   {
     "lemma": "Geophanion",
-    "previous": "Γεωμετρία 2",
+    "previous": "Geometria 2",
     "next": "Georgios 7",
     "proof_read": 3,
     "short_description": "Örtlichkeit auf Samos, wo Erde zutage tritt",
@@ -95064,7 +95064,7 @@
   {
     "lemma": "Heraion 1",
     "previous": "Heraia 1",
-    "next": "Heraios, Eraos 1",
+    "next": "Heraios 1",
     "proof_read": 3,
     "short_description": "westliches Kap der Halbinsel Perachora",
     "no_creative_height": true,
@@ -95078,8 +95078,6 @@
   },
   {
     "lemma": "Heraios, Eraos 1",
-    "previous": "Heraion 1",
-    "next": "Heraios, Eraos 1a",
     "chapters": [
       {
         "start": 123,
@@ -95088,8 +95086,12 @@
     ]
   },
   {
+    "lemma": "Heraios 1",
+    "next": "Heraios, Eraos 1a"
+  },
+  {
     "lemma": "Heraios, Eraos 1a",
-    "previous": "Heraios, Eraos 1",
+    "previous": "Heraios 1",
     "next": "Heraios, Eraos 1b",
     "proof_read": 3,
     "short_description": "Epiklese des Zeus",
@@ -95103,9 +95105,12 @@
     ]
   },
   {
+    "lemma": "Heraios 1a"
+  },
+  {
     "lemma": "Heraios, Eraos 1b",
     "previous": "Heraios, Eraos 1a",
-    "next": "Heraios, Eraos 2",
+    "next": "Heraios 2",
     "proof_read": 3,
     "short_description": "Epiklese des Herakles",
     "no_creative_height": true,
@@ -95118,9 +95123,11 @@
     ]
   },
   {
+    "lemma": "Heraios 2",
+    "previous": "Heraios, Eraos 1b"
+  },
+  {
     "lemma": "Heraios, Eraos 2",
-    "previous": "Heraios, Eraos 1b",
-    "next": "Herakleidas 5a",
     "chapters": [
       {
         "start": 123,
@@ -95130,7 +95137,7 @@
   },
   {
     "lemma": "Herakleidas 5a",
-    "previous": "Heraios, Eraos 2",
+    "previous": "Heraios 2",
     "next": "Herakleides 12a",
     "proof_read": 3,
     "short_description": "von Atrax, Bildhauer 4. Jh. v. Chr.",
@@ -96953,6 +96960,20 @@
   {
     "lemma": "Herpa...",
     "previous": "Herotimos",
+    "proof_read": 3,
+    "short_description": "Lokrischer Hieromnemon 274 v. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 125,
+        "end": 125,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Herpa…",
+    "previous": "Herotimos",
     "next": "Herpyllis",
     "proof_read": 3,
     "short_description": "Lokrischer Hieromnemon 274 v. Chr.",
@@ -96967,7 +96988,7 @@
   },
   {
     "lemma": "Herpyllis",
-    "previous": "Herpa...",
+    "previous": "Herpa…",
     "next": "Hertorius",
     "proof_read": 3,
     "short_description": "Konkubine des Aristoteles",
@@ -97324,7 +97345,7 @@
   {
     "lemma": "Hieron 21",
     "previous": "Hieron 17a",
-    "next": "Ἱερώνας",
+    "next": "Hieronas",
     "proof_read": 3,
     "short_description": "athenischer Schauspieler in Delphi 106 v. Chr.",
     "no_creative_height": true,
@@ -97337,7 +97358,7 @@
     ]
   },
   {
-    "lemma": "Ἱερώνας",
+    "lemma": "Hieronas",
     "previous": "Hieron 21",
     "next": "Hieronikai",
     "sort_key": "Hieronas",
@@ -97354,7 +97375,7 @@
   },
   {
     "lemma": "Hieronikai",
-    "previous": "Ἱερώνας",
+    "previous": "Hieronas",
     "next": "Hieronymos 8a",
     "proof_read": 3,
     "short_description": "Ehrentitel der kaiserzeitlichen Pantomimen",
@@ -97624,7 +97645,7 @@
   {
     "lemma": "Hippalos 3",
     "previous": "Himilkon 8",
-    "next": "Ἱππάρχης",
+    "next": "Hipparches",
     "proof_read": 3,
     "short_description": "griech. Seefahrer",
     "no_creative_height": true,
@@ -97639,7 +97660,7 @@
     ]
   },
   {
-    "lemma": "Ἱππάρχης",
+    "lemma": "Hipparches",
     "previous": "Hippalos 3",
     "next": "Hipparches 1",
     "sort_key": "Hipparches",
@@ -97656,7 +97677,7 @@
   },
   {
     "lemma": "Hipparches 1",
-    "previous": "Ἱππάρχης",
+    "previous": "Hipparches",
     "next": "Hipparches 2",
     "redirect": "Hipparchia 2",
     "proof_read": 3,
@@ -97728,7 +97749,7 @@
   {
     "lemma": "Hippasos",
     "previous": "Hippasini",
-    "next": "Ἱππεῖος",
+    "next": "Hippeios",
     "proof_read": 3,
     "short_description": "von Ambrakia, Schauspieler (?)",
     "no_creative_height": true,
@@ -97741,7 +97762,7 @@
     ]
   },
   {
-    "lemma": "Ἱππεῖος",
+    "lemma": "Hippeios",
     "previous": "Hippasos",
     "next": "Hippemolgoi",
     "sort_key": "Hippeios",
@@ -97758,7 +97779,7 @@
   },
   {
     "lemma": "Hippemolgoi",
-    "previous": "Ἱππεῖος",
+    "previous": "Hippeios",
     "next": "Hippias 4",
     "proof_read": 3,
     "short_description": "Skyth.(?) Volk bei Homer",
@@ -98678,7 +98699,7 @@
   {
     "lemma": "Horistai",
     "previous": "Horismos",
-    "next": "Ὁρκωμότης",
+    "next": "Horkomotes",
     "proof_read": 3,
     "short_description": "die griechischen Vermessungsbeamten",
     "no_creative_height": true,
@@ -98691,7 +98712,7 @@
     ]
   },
   {
-    "lemma": "Ὁρκωμότης",
+    "lemma": "Horkomotes",
     "previous": "Horistai",
     "next": "Ὁρμοφυλακία",
     "sort_key": "Horkomotes",
@@ -98708,7 +98729,7 @@
   },
   {
     "lemma": "Ὁρμοφυλακία",
-    "previous": "Ὁρκωμότης",
+    "previous": "Horkomotes",
     "next": "Horreum 2",
     "sort_key": "Hormophylakia",
     "proof_read": 3,
@@ -98910,7 +98931,7 @@
   {
     "lemma": "Hyakinthikon Oion",
     "previous": "Hyaioi",
-    "next": "Ύάμιον",
+    "next": "Hyamion",
     "proof_read": 3,
     "short_description": "Ort auf Tenos = Oion Nr. 5 Hiakinthikon s. Hyakinthis",
     "no_creative_height": true,
@@ -98923,7 +98944,7 @@
     ]
   },
   {
-    "lemma": "Ύάμιον",
+    "lemma": "Hyamion",
     "previous": "Hyakinthikon Oion",
     "next": "Hybadai",
     "sort_key": "Hyamion",
@@ -98940,7 +98961,7 @@
   },
   {
     "lemma": "Hybadai",
-    "previous": "Ύάμιον",
+    "previous": "Hyamion",
     "next": "Ὕβρεως γραφή",
     "proof_read": 3,
     "short_description": "attischer Demos",
@@ -99168,7 +99189,7 @@
   {
     "lemma": "Hydrophoros",
     "previous": "Hydria",
-    "next": "Ὑδροφύλαξ",
+    "next": "Hydrophylax",
     "proof_read": 3,
     "short_description": "das weibl. Priesteramt in Didyma und Patmos",
     "no_creative_height": true,
@@ -99181,7 +99202,7 @@
     ]
   },
   {
-    "lemma": "Ὑδροφύλαξ",
+    "lemma": "Hydrophylax",
     "previous": "Hydrophoros",
     "next": "Hyettos",
     "sort_key": "Hydrophylax",
@@ -99198,7 +99219,7 @@
   },
   {
     "lemma": "Hyettos",
-    "previous": "Ὑδροφύλαξ",
+    "previous": "Hydrophylax",
     "next": "Hygiainon 2",
     "proof_read": 3,
     "short_description": "Boiot. Stadt",
@@ -99645,7 +99666,7 @@
   {
     "lemma": "Hypnia",
     "previous": "Hyphanteion",
-    "next": "Ὑποβιβλιοφύλαξ",
+    "next": "Hypobibliophylax",
     "proof_read": 3,
     "short_description": "westlokrische Stadt",
     "no_creative_height": true,
@@ -99658,7 +99679,7 @@
     ]
   },
   {
-    "lemma": "Ὑποβιβλιοφύλαξ",
+    "lemma": "Hypobibliophylax",
     "previous": "Hypnia",
     "next": "Hypochalkis",
     "sort_key": "Hypobibliophylax",
@@ -99675,8 +99696,8 @@
   },
   {
     "lemma": "Hypochalkis",
-    "previous": "Ὑποβιβλιοφύλαξ",
-    "next": "Ὑποδιοικητής",
+    "previous": "Hypobibliophylax",
+    "next": "Hypodioiketes",
     "proof_read": 3,
     "short_description": "anderer Name des aitol. Chalkis Nr. 6",
     "no_creative_height": true,
@@ -99689,7 +99710,7 @@
     ]
   },
   {
-    "lemma": "Ὑποδιοικητής",
+    "lemma": "Hypodioiketes",
     "previous": "Hypochalkis",
     "next": "Hypokrites",
     "sort_key": "Hypodioiketes",
@@ -99706,7 +99727,7 @@
   },
   {
     "lemma": "Hypokrites",
-    "previous": "Ὑποδιοικητής",
+    "previous": "Hypodioiketes",
     "next": "Hypometheus",
     "proof_read": 3,
     "short_description": "Schauspieler",
@@ -100234,7 +100255,7 @@
   {
     "lemma": "Hythmitae",
     "previous": "Hystaspes 5",
-    "next": "Ἰαβαδίου νῆσος",
+    "next": "Iabadiu nesos",
     "proof_read": 3,
     "short_description": "illyrisches Volk",
     "no_creative_height": true,
@@ -100247,7 +100268,7 @@
     ]
   },
   {
-    "lemma": "Ἰαβαδίου νῆσος",
+    "lemma": "Iabadiu nesos",
     "previous": "Hythmitae",
     "next": "Iaca",
     "sort_key": "Iabadiu nesos",
@@ -100266,7 +100287,7 @@
   },
   {
     "lemma": "Iaca",
-    "previous": "Ἰαβαδίου νῆσος",
+    "previous": "Iabadiu nesos",
     "next": "Iac(c)etani",
     "proof_read": 3,
     "short_description": "Stadt im Gebiet der hispan. Vasconen",
@@ -100331,7 +100352,7 @@
   {
     "lemma": "Jahreszeiten",
     "previous": "Jagsthausen",
-    "next": "Ἰακχιασταί",
+    "next": "Iakchiastai",
     "proof_read": 3,
     "short_description": "die Beobachtung der Witterungsabwechslung",
     "no_creative_height": true,
@@ -100347,7 +100368,7 @@
     ]
   },
   {
-    "lemma": "Ἰακχιασταί",
+    "lemma": "Iakchiastai",
     "previous": "Jahreszeiten",
     "next": "Iakobos 2a",
     "sort_key": "Iakchiastai",
@@ -100364,7 +100385,7 @@
   },
   {
     "lemma": "Iakobos 2a",
-    "previous": "Ἰακχιασταί",
+    "previous": "Iakchiastai",
     "next": "Ialysos 1",
     "proof_read": 3,
     "short_description": "Magister equitum 401 n. Chr.",
@@ -102570,7 +102591,7 @@
   {
     "lemma": "Ilursenses",
     "previous": "Iluro 4",
-    "next": "Ἰμ(...)",
+    "next": "Im(...)",
     "proof_read": 3,
     "short_description": "Gemeinde in Hispania citerior",
     "no_creative_height": true,
@@ -102583,7 +102604,7 @@
     ]
   },
   {
-    "lemma": "Ἰμ(...)",
+    "lemma": "Im(...)",
     "previous": "Ilursenses",
     "next": "Imadochi",
     "sort_key": "Im",
@@ -102600,7 +102621,7 @@
   },
   {
     "lemma": "Imadochi",
-    "previous": "Ἰμ(...)",
+    "previous": "Im(...)",
     "next": "Imaginifer",
     "proof_read": 3,
     "short_description": "Imaduchi, Volk am Kaukasos = Modokai = Amadokoi",
@@ -104513,9 +104534,13 @@
     "lemma": "Isurgut(ana?)",
     "previous": "Istros 1a",
     "next": "Isylos",
+    "proof_read": 3,
+    "short_description": "Centuria der hispanischen Stadt Arva",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
+        "end": 135,
         "author": "Hans Gärtner."
       }
     ]
@@ -104707,7 +104732,7 @@
   {
     "lemma": "Iuavum",
     "previous": "Ivaunum",
-    "next": "Iuba 1",
+    "next": "Iuba 2",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -104719,8 +104744,23 @@
     ]
   },
   {
-    "lemma": "Iuba 1",
+    "lemma": "Iuba 2",
     "previous": "Iuavum",
+    "proof_read": 3,
+    "short_description": "II., Sohn v. Nr. 1, Schriftsteller",
+    "no_creative_height": true,
+    "wp_link": "w:de:Juba II.",
+    "wd_link": "d:Q315670",
+    "chapters": [
+      {
+        "start": 136,
+        "end": 136,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Iuba 1",
     "next": "Jublains",
     "proof_read": 3,
     "short_description": "I., König v. Numidien u. Gaetulien, geb. um 85 v. Chr.",
@@ -104802,19 +104842,22 @@
     "lemma": "Judas aa",
     "previous": "Iudaios 2",
     "next": "Judas a",
-    "redirect": "Jonathan 1",
+    "sort_key": "Iudas 1",
     "proof_read": 3,
+    "short_description": "Offizier des jüd. Hohepriesters Jonathan Nr. 1",
     "chapters": [
       {
         "start": 136,
-        "end": 136
+        "end": 136,
+        "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Judas a",
     "previous": "Judas aa",
-    "next": "Judas 1",
+    "next": "Judenburg",
+    "sort_key": "Iudas 2",
     "redirect": "Hasmonaeer",
     "proof_read": 3,
     "chapters": [
@@ -104826,8 +104869,6 @@
   },
   {
     "lemma": "Judas 1",
-    "previous": "Judas a",
-    "next": "Judenburg",
     "sort_key": "Iudas 1",
     "proof_read": 3,
     "short_description": "Offizier des jüd. Hohepriesters Jonathan Nr. 1",
@@ -104841,8 +104882,12 @@
     ]
   },
   {
+    "lemma": "Judas a",
+    "next": "Judenburg"
+  },
+  {
     "lemma": "Judenburg",
-    "previous": "Judas 1",
+    "previous": "Judas a",
     "next": "Iudex",
     "proof_read": 3,
     "short_description": "österr. Ort im Murtal",
@@ -107264,7 +107309,7 @@
   {
     "lemma": "Kabirichos",
     "previous": "Kabeirichos",
-    "next": "Καβούρη",
+    "next": "Kaboure",
     "proof_read": 3,
     "short_description": "Schauspieler bei den Charitesia zu Orchomenos",
     "no_creative_height": true,
@@ -107277,7 +107322,7 @@
     ]
   },
   {
-    "lemma": "Καβούρη",
+    "lemma": "Kaboure",
     "previous": "Kabirichos",
     "next": "Kadiskos",
     "sort_key": "Kaboure",
@@ -107294,7 +107339,7 @@
   },
   {
     "lemma": "Kadiskos",
-    "previous": "Καβούρη",
+    "previous": "Kaboure",
     "next": "Kadmos 4",
     "proof_read": 3,
     "short_description": "Gefäßbezeichnung",
@@ -107310,7 +107355,7 @@
   {
     "lemma": "Kadmos 4",
     "previous": "Kadiskos",
-    "next": "Κάδμου πούς",
+    "next": "Kadmu pus",
     "proof_read": 3,
     "short_description": "Gründer des boiotischen Theben, Sohn des Agenor",
     "no_creative_height": true,
@@ -107323,7 +107368,7 @@
     ]
   },
   {
-    "lemma": "Κάδμου πούς",
+    "lemma": "Kadmu pus",
     "previous": "Kadmos 4",
     "next": "Kados",
     "sort_key": "Kadmu pus",
@@ -107340,7 +107385,7 @@
   },
   {
     "lemma": "Kados",
-    "previous": "Κάδμου πούς",
+    "previous": "Kadmu pus",
     "next": "Kadusioi",
     "proof_read": 3,
     "short_description": "Gefäßbezeichnung",
@@ -107564,6 +107609,7 @@
   {
     "lemma": "Kalanos",
     "previous": "Kalamai",
+    "next": "Kalanos 2",
     "sort_key": "Kalanos 1",
     "proof_read": 3,
     "short_description": "brahmanischer Büßer am Hof Alexanders des Großen († 323 v. Chr.)",
@@ -107789,7 +107835,7 @@
   {
     "lemma": "Kalibios",
     "previous": "Kales dromos",
-    "next": "Καλικάντσαρος",
+    "next": "Kalikantsaros",
     "proof_read": 3,
     "short_description": "Curator von Aptunga 315 n. Chr.",
     "no_creative_height": true,
@@ -107802,7 +107848,7 @@
     ]
   },
   {
-    "lemma": "Καλικάντσαρος",
+    "lemma": "Kalikantsaros",
     "previous": "Kalibios",
     "next": "Kalindoia",
     "sort_key": "Kalikantsaros",
@@ -107819,7 +107865,7 @@
   },
   {
     "lemma": "Kalindoia",
-    "previous": "Καλικάντσαρος",
+    "previous": "Kalikantsaros",
     "next": "Kalis 2",
     "proof_read": 3,
     "short_description": "Stadt in der thrakischen Bottike",
@@ -107922,9 +107968,13 @@
     "lemma": "Kalliades 3a",
     "previous": "Kallia 2",
     "next": "Kalliades 5a",
+    "proof_read": 3,
+    "short_description": "einflußreicher Trachinier im Kriegsrat des Xerxes bei Thermopylai",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -107933,9 +107983,13 @@
     "lemma": "Kalliades 5a",
     "previous": "Kalliades 3a",
     "next": "Kalliai 1",
+    "proof_read": 3,
+    "short_description": "athen. Bildhauer 240 v. Chr., Sohn des Sthennis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -107944,9 +107998,13 @@
     "lemma": "Kalliai 1",
     "previous": "Kalliades 5a",
     "next": "Kalliai 2",
+    "proof_read": 3,
+    "short_description": "Stadt der sog. arkad. Tripolis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -107955,9 +108013,13 @@
     "lemma": "Kalliai 2",
     "previous": "Kalliai 1",
     "next": "Kalliai 3",
+    "proof_read": 3,
+    "short_description": "aitolischer Ort = Kallipolis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -107966,9 +108028,13 @@
     "lemma": "Kalliai 3",
     "previous": "Kalliai 2",
     "next": "Kallias 14a",
+    "proof_read": 3,
+    "short_description": "Ort in der Nähe von Tarentum",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -107977,9 +108043,13 @@
     "lemma": "Kallias 14a",
     "previous": "Kalliai 3",
     "next": "Kallias 14b",
+    "proof_read": 3,
+    "short_description": "Gesandter des maked. Königs Philippos V. nach Nisyros",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -107988,9 +108058,13 @@
     "lemma": "Kallias 14b",
     "previous": "Kallias 14a",
     "next": "Kallias 17a",
+    "proof_read": 3,
+    "short_description": "Grieche, vom maked. König Philippos V. im Rausch getötet",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108014,9 +108088,13 @@
     "lemma": "Kallias 20a",
     "previous": "Kallias 17a",
     "next": "Kallias 29",
+    "proof_read": 3,
+    "short_description": "mehrfach siegreicher Schauspieler 265 v. Chr. bei den Lenaia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108040,9 +108118,13 @@
     "lemma": "Kalliazein",
     "previous": "Kallias 29",
     "next": "Kallichoron 1",
+    "proof_read": 3,
+    "short_description": "die Ausübung einer unbestimmten (polit. ?) Funktion in Kyzikos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108051,9 +108133,13 @@
     "lemma": "Kallichoron 1",
     "previous": "Kalliazein",
     "next": "Kallidamos",
+    "proof_read": 3,
+    "short_description": "heiliger Brunnen in Eleusis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108062,9 +108148,13 @@
     "lemma": "Kallidamos",
     "previous": "Kallichoron 1",
     "next": "Kalligeitos",
+    "proof_read": 3,
+    "short_description": "ptolemäischer Beamter in Thera 265 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108073,9 +108163,13 @@
     "lemma": "Kalligeitos",
     "previous": "Kallidamos",
     "next": "Kalligeneia 2",
+    "proof_read": 3,
+    "short_description": "von Megara, persischer Gesandter nach Sparta 412 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108084,9 +108178,13 @@
     "lemma": "Kalligeneia 2",
     "previous": "Kalligeitos",
     "next": "Kalligenes",
+    "proof_read": 3,
+    "short_description": "der letzte Tag der attischen Thesmophoria",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108110,9 +108208,13 @@
     "lemma": "Kalligonos",
     "previous": "Kalligenes",
     "next": "Kallikinos",
+    "proof_read": 3,
+    "short_description": "Praepositus sacri cubiculi Valentinians II. 386 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108121,9 +108223,13 @@
     "lemma": "Kallikinos",
     "previous": "Kalligonos",
     "next": "Kallikles 3a",
+    "proof_read": 3,
+    "short_description": "thessalischer Hügel",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108132,9 +108238,13 @@
     "lemma": "Kallikles 3a",
     "previous": "Kallikinos",
     "next": "Kallikles 3b",
+    "proof_read": 3,
+    "short_description": "Didaskalos bei den Soteria zu Delphi 270 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108143,9 +108253,13 @@
     "lemma": "Kallikles 3b",
     "previous": "Kallikles 3a",
     "next": "Kallikles 6a",
+    "proof_read": 3,
+    "short_description": "dreifach siegreicher Schauspieler bei den Lenaia um 275 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108169,9 +108283,13 @@
     "lemma": "Kallikrates 7a",
     "previous": "Kallikles 6a",
     "next": "Kallikrates 7b",
+    "proof_read": 3,
+    "short_description": "Spartaner, gefallen bei Plataiai 479 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108180,9 +108298,13 @@
     "lemma": "Kallikrates 7b",
     "previous": "Kallikrates 7a",
     "next": "Kallikrates 7c",
+    "proof_read": 3,
+    "short_description": "Nachkomme des Lakoniers Antikrates, Zeitgenosse Plutarchs",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108191,9 +108313,13 @@
     "lemma": "Kallikrates 7c",
     "previous": "Kallikrates 7b",
     "next": "Kallikrates 7d",
+    "proof_read": 3,
+    "short_description": "Nauarch in Aegypten 3. Jh. v. Chr., Sohn des Boiskos aus Samos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108202,9 +108328,13 @@
     "lemma": "Kallikrates 7d",
     "previous": "Kallikrates 7c",
     "next": "Kallikrates 7e",
+    "proof_read": 3,
+    "short_description": "Philos des Ptolemaios Lagu 310 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108213,9 +108343,13 @@
     "lemma": "Kallikrates 7e",
     "previous": "Kallikrates 7d",
     "next": "Kallikrates 7f",
+    "proof_read": 3,
+    "short_description": "Proxenos und Euergetes im kretischen Olus, Sohn des Boiskos von Samos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108224,9 +108358,13 @@
     "lemma": "Kallikrates 7f",
     "previous": "Kallikrates 7e",
     "next": "Kallikrates 7g",
+    "proof_read": 3,
+    "short_description": "Schatzmeister Alexanders d. Gr. in Susa 331 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108235,9 +108373,13 @@
     "lemma": "Kallikrates 7g",
     "previous": "Kallikrates 7f",
     "next": "Kallikrates 7h",
+    "proof_read": 3,
+    "short_description": "römerfreundlicher Stratege des Achaischen Bundes 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108246,9 +108388,13 @@
     "lemma": "Kallikrates 7h",
     "previous": "Kallikrates 7g",
     "next": "Kallikrates 8a",
+    "proof_read": 3,
+    "short_description": "Praef. praet. Illyrici 469 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108257,9 +108403,13 @@
     "lemma": "Kallikrates 8a",
     "previous": "Kallikrates 7h",
     "next": "Kallikrates 8b",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Dionysia im J. 155 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108268,9 +108418,13 @@
     "lemma": "Kallikrates 8b",
     "previous": "Kallikrates 8a",
     "next": "Kallikratidas 1a",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Argos oder Umgebung 97–75 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108279,9 +108433,13 @@
     "lemma": "Kallikratidas 1a",
     "previous": "Kallikrates 8b",
     "next": "Kallikratidas 3",
+    "proof_read": 3,
+    "short_description": "spartanischer Gesandter zu Dareios III.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108306,9 +108464,13 @@
     "lemma": "Kallikritos 2",
     "previous": "Kallikratidas 3",
     "next": "Kallimache",
+    "proof_read": 3,
+    "short_description": "von Theben, boiotischer Gesandter nach Rom 173 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108316,21 +108478,28 @@
   {
     "lemma": "Kallimache",
     "previous": "Kallikritos 2",
-    "next": "Kallimachos 3a",
+    "next": "Kallimachos 9",
+    "proof_read": 3,
+    "short_description": "Örtlichkeit an der karischen Küste",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Kallimachos 3a",
-    "previous": "Kallimache",
     "next": "Kallimachos 3b",
+    "proof_read": 3,
+    "short_description": "Eideshelfer des Königs Perdikkas II. 423 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108339,10 +108508,13 @@
     "lemma": "Kallimachos 3b",
     "previous": "Kallimachos 3a",
     "next": "Kallimachos 5a",
-    "short_description": "K. von Parrhasia, Lochage im Heer Kyros, d.J. im J. 401 v. Chr.",
+    "proof_read": 3,
+    "short_description": "von Parrhasia, Lochage im Heer Kyros’ d. J. 401 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108414,10 +108586,13 @@
     "lemma": "Kallimandros",
     "previous": "Kallimachos 9",
     "next": "Kallimedon 2",
+    "proof_read": 3,
     "short_description": "Philos des Seleukidenkönigs Demetrios II. Nikator",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108425,21 +108600,32 @@
   {
     "lemma": "Kallimedon 2",
     "previous": "Kallimandros",
-    "next": "Kallines",
+    "next": "Kallimedon 2",
+    "proof_read": 3,
+    "short_description": "athen. Gesandter zu dem persischen Satrapen Tiribazos 392 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
+    "lemma": "Kallimedon 2a"
+  },
+  {
     "lemma": "Kallines",
     "previous": "Kallimedon 2",
     "next": "Kalliopios 1",
+    "proof_read": 3,
+    "short_description": "makedonischer Offizier im Heer Alexanders d. Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 140,
+        "end": 140,
         "author": "Hans Gärtner."
       }
     ]
@@ -108534,9 +108720,13 @@
     "lemma": "Kalliphaeia",
     "previous": "Kalliopios 5",
     "next": "Kallipolis 7a",
+    "proof_read": 3,
+    "short_description": "eleische Heilnymphe",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108573,9 +108763,13 @@
     "lemma": "Kallippides 2",
     "previous": "Kallipolis 7b",
     "next": "Kallippio",
+    "proof_read": 3,
+    "short_description": "Athener, mehrfach siegreicher Schauspieler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108599,10 +108793,13 @@
     "lemma": "Kallippos 12a",
     "previous": "Kallippio",
     "next": "Kallippos 12b",
-    "short_description": "Siegreicher Schauspieler bei den Lenaia um das J. 313, bei den Dionysia in den",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia 313 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108625,9 +108822,13 @@
     "lemma": "Kallippos 22",
     "previous": "Kallippos 12b",
     "next": "Kallirrhoë 14",
+    "proof_read": 3,
+    "short_description": "von Kyzikos, Astronom 4. Jh. v. Chr., Sohn des Euippos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108750,9 +108951,13 @@
     "lemma": "Kallistratos 36a",
     "previous": "Kallistratos 28",
     "next": "Kallistratos 37a",
+    "proof_read": 3,
+    "short_description": "attischer Tragödiendichter 5. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108806,9 +109011,13 @@
     "lemma": "Kallistratos 40a",
     "previous": "Kallistratos 37c",
     "next": "Kallistratos 42a",
+    "proof_read": 3,
+    "short_description": "Rhetor, Verfasser von Bildbeschreibungen 4. Jh. n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108817,9 +109026,13 @@
     "lemma": "Kallistratos 42a",
     "previous": "Kallistratos 40a",
     "next": "Kallixeine",
+    "proof_read": 3,
+    "short_description": "rhodischer Erzgießer 3. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108857,10 +109070,14 @@
   {
     "lemma": "Kallon",
     "previous": "Kallixenos 3",
-    "next": "Καλοὶ κἀγαθοί",
+    "next": "Kaloi kagathoi",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Delphi 97 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108883,11 +109100,15 @@
   },
   {
     "lemma": "Kaloikinoi",
-    "previous": "Καλοὶ κἀγαθοί",
+    "previous": "Kaloi kagathoi",
     "next": "Kalokairos 1",
+    "proof_read": 3,
+    "short_description": "illyrisches Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108913,9 +109134,13 @@
     "lemma": "Kalokairos 2",
     "previous": "Kalokairos 1",
     "next": "Kalykios",
+    "proof_read": 3,
+    "short_description": "häufiger inschriftlicher Name von Sklaven oder Freigelassenen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -108939,9 +109164,13 @@
     "lemma": "Kalynda 1.2",
     "previous": "Kalykios",
     "next": "Kalypso 1",
+    "proof_read": 3,
+    "short_description": "karische Stadt an der lykischen Grenze",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -147847,7 +148076,7 @@
   {
     "lemma": "Simakos",
     "previous": "Silzactae",
-    "next": "Simeonius (Symionius)",
+    "next": "Simeonius",
     "proof_read": 3,
     "short_description": "S. von Argos, Schauspieler bei den Soteria zu Delphi 270 v. Chr.",
     "no_creative_height": true,
@@ -147860,8 +148089,11 @@
     ]
   },
   {
+    "lemma": "Simeonius",
+    "previous": "Simakos"
+  },
+  {
     "lemma": "Simeonius (Symionius)",
-    "previous": "Simakos",
     "next": "Simermon",
     "chapters": [
       {
