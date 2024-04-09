@@ -81006,7 +81006,7 @@
     "previous": "Eparmostos",
     "next": "Eperunto",
     "proof_read": 3,
-    "short_description": "Epirus, griechische Landschaft, Fasten der röm. Zeit",
+    "short_description": "Epirus, griechische Landschaft",
     "no_creative_height": true,
     "wp_link": "w:de:Epirus (historische Region)",
     "wd_link": "d:Q565751",
@@ -89241,7 +89241,7 @@
   {
     "lemma": "Gartibulum",
     "previous": "Garizin",
-    "next": "Gastroptes",
+    "next": "Γαστρόπτης",
     "proof_read": 3,
     "short_description": "Tischart",
     "no_creative_height": true,
@@ -89254,7 +89254,7 @@
     ]
   },
   {
-    "lemma": "Gastroptes",
+    "lemma": "Γαστρόπτης",
     "previous": "Gartibulum",
     "next": "Gattula",
     "sort_key": "Gastroptes",
@@ -89271,7 +89271,7 @@
   },
   {
     "lemma": "Gattula",
-    "previous": "Gastroptes",
+    "previous": "Γαστρόπτης",
     "next": "Gaudentius 11",
     "proof_read": 3,
     "short_description": "Pantomimin 4. Jh. n. Chr.? von Luxorius verhöhnt",
@@ -90061,7 +90061,7 @@
   {
     "lemma": "Geographie",
     "previous": "Gentinos",
-    "next": "Geometria 2",
+    "next": "Γεωμετρία 2",
     "proof_read": 3,
     "short_description": "Spaltenangaben: 1439",
     "no_creative_height": true,
@@ -90074,7 +90074,7 @@
     ]
   },
   {
-    "lemma": "Geometria 2",
+    "lemma": "Γεωμετρία 2",
     "previous": "Geographie",
     "next": "Geophanion",
     "sort_key": "Geometria 2",
@@ -90091,7 +90091,7 @@
   },
   {
     "lemma": "Geophanion",
-    "previous": "Geometria 2",
+    "previous": "Γεωμετρία 2",
     "next": "Georgios 7",
     "proof_read": 3,
     "short_description": "Örtlichkeit auf Samos, wo Erde zutage tritt",
@@ -94885,7 +94885,7 @@
   {
     "lemma": "Hemiolion",
     "previous": "Ἡμιολία",
-    "next": "Hemiolios",
+    "next": "Ἠμιόλιος",
     "proof_read": 3,
     "short_description": "die Konventionalstrafe bei Verträgen",
     "no_creative_height": true,
@@ -94899,8 +94899,6 @@
   },
   {
     "lemma": "Hemiolios",
-    "previous": "Hemiolion",
-    "next": "Hemitomos",
     "sort_key": "Hemiolios",
     "proof_read": 3,
     "short_description": "Hemiolios, Konventionalstrafe bei Verträgen",
@@ -94914,8 +94912,12 @@
     ]
   },
   {
+    "lemma": "Ἠμιόλιος",
+    "next": "Hemitomos"
+  },
+  {
     "lemma": "Hemitomos",
-    "previous": "Hemiolios",
+    "previous": "Ἠμιόλιος",
     "next": "Hemona",
     "proof_read": 3,
     "short_description": "attische Gefäßbezeichnung",
@@ -95078,6 +95080,8 @@
   },
   {
     "lemma": "Heraios, Eraos 1",
+    "previous": "Heraion 1",
+    "next": "Heraios, Eraos 1a",
     "chapters": [
       {
         "start": 123,
@@ -95117,6 +95121,8 @@
   },
   {
     "lemma": "Heraios, Eraos 2",
+    "previous": "Heraios, Eraos 1b",
+    "next": "Herakleidas 5a",
     "chapters": [
       {
         "start": 123,
@@ -97320,7 +97326,7 @@
   {
     "lemma": "Hieron 21",
     "previous": "Hieron 17a",
-    "next": "Hieronas",
+    "next": "Ἱερώνας",
     "proof_read": 3,
     "short_description": "athenischer Schauspieler in Delphi 106 v. Chr.",
     "no_creative_height": true,
@@ -97333,7 +97339,7 @@
     ]
   },
   {
-    "lemma": "Hieronas",
+    "lemma": "Ἱερώνας",
     "previous": "Hieron 21",
     "next": "Hieronikai",
     "sort_key": "Hieronas",
@@ -97350,7 +97356,7 @@
   },
   {
     "lemma": "Hieronikai",
-    "previous": "Hieronas",
+    "previous": "Ἱερώνας",
     "next": "Hieronymos 8a",
     "proof_read": 3,
     "short_description": "Ehrentitel der kaiserzeitlichen Pantomimen",
@@ -97724,7 +97730,7 @@
   {
     "lemma": "Hippasos",
     "previous": "Hippasini",
-    "next": "Hippeios",
+    "next": "Ἱππεῖος",
     "proof_read": 3,
     "short_description": "von Ambrakia, Schauspieler (?)",
     "no_creative_height": true,
@@ -97737,7 +97743,7 @@
     ]
   },
   {
-    "lemma": "Hippeios",
+    "lemma": "Ἱππεῖος",
     "previous": "Hippasos",
     "next": "Hippemolgoi",
     "sort_key": "Hippeios",
@@ -97754,7 +97760,7 @@
   },
   {
     "lemma": "Hippemolgoi",
-    "previous": "Hippeios",
+    "previous": "Ἱππεῖος",
     "next": "Hippias 4",
     "proof_read": 3,
     "short_description": "Skyth.(?) Volk bei Homer",
@@ -98674,7 +98680,7 @@
   {
     "lemma": "Horistai",
     "previous": "Horismos",
-    "next": "Horkomotes",
+    "next": "Ὁρκωμότης",
     "proof_read": 3,
     "short_description": "die griechischen Vermessungsbeamten",
     "no_creative_height": true,
@@ -98687,7 +98693,7 @@
     ]
   },
   {
-    "lemma": "Horkomotes",
+    "lemma": "Ὁρκωμότης",
     "previous": "Horistai",
     "next": "Ὁρμοφυλακία",
     "sort_key": "Horkomotes",
@@ -98704,7 +98710,7 @@
   },
   {
     "lemma": "Ὁρμοφυλακία",
-    "previous": "Horkomotes",
+    "previous": "Ὁρκωμότης",
     "next": "Horreum 2",
     "sort_key": "Hormophylakia",
     "proof_read": 3,
@@ -98921,7 +98927,6 @@
   {
     "lemma": "Hyamion",
     "previous": "Hyakinthikon Oion",
-    "next": "Hybadai",
     "sort_key": "Hyamion",
     "proof_read": 3,
     "short_description": "Hyamion, Ort in der Troas",
@@ -98935,8 +98940,12 @@
     ]
   },
   {
+    "lemma": "Ύάμιον",
+    "next": "Hybadai"
+  },
+  {
     "lemma": "Hybadai",
-    "previous": "Hyamion",
+    "previous": "Ύάμιον",
     "next": "Ὕβρεως γραφή",
     "proof_read": 3,
     "short_description": "attischer Demos",
@@ -99164,7 +99173,7 @@
   {
     "lemma": "Hydrophoros",
     "previous": "Hydria",
-    "next": "Hydrophylax",
+    "next": "Ὑδροφύλαξ",
     "proof_read": 3,
     "short_description": "das weibl. Priesteramt in Didyma und Patmos",
     "no_creative_height": true,
@@ -99177,7 +99186,7 @@
     ]
   },
   {
-    "lemma": "Hydrophylax",
+    "lemma": "Ὑδροφύλαξ",
     "previous": "Hydrophoros",
     "next": "Hyettos",
     "sort_key": "Hydrophylax",
@@ -99194,10 +99203,10 @@
   },
   {
     "lemma": "Hyettos",
-    "previous": "Hydrophylax",
+    "previous": "Ὑδροφύλαξ",
     "next": "Hygiainon 2",
     "proof_read": 3,
-    "short_description": "Boiot. Stadt",
+    "short_description": "boiotische Stadt",
     "no_creative_height": true,
     "chapters": [
       {
@@ -99641,7 +99650,7 @@
   {
     "lemma": "Hypnia",
     "previous": "Hyphanteion",
-    "next": "Hypobibliophylax",
+    "next": "Ὑποβιβλιοφύλαξ",
     "proof_read": 3,
     "short_description": "westlokrische Stadt",
     "no_creative_height": true,
@@ -99654,7 +99663,7 @@
     ]
   },
   {
-    "lemma": "Hypobibliophylax",
+    "lemma": "Ὑποβιβλιοφύλαξ",
     "previous": "Hypnia",
     "next": "Hypochalkis",
     "sort_key": "Hypobibliophylax",
@@ -99671,8 +99680,8 @@
   },
   {
     "lemma": "Hypochalkis",
-    "previous": "Hypobibliophylax",
-    "next": "Hypodioiketes",
+    "previous": "Ὑποβιβλιοφύλαξ",
+    "next": "Ὑποδιοικητής",
     "proof_read": 3,
     "short_description": "anderer Name des aitol. Chalkis Nr. 6",
     "no_creative_height": true,
@@ -99685,7 +99694,7 @@
     ]
   },
   {
-    "lemma": "Hypodioiketes",
+    "lemma": "Ὑποδιοικητής",
     "previous": "Hypochalkis",
     "next": "Hypokrites",
     "sort_key": "Hypodioiketes",
@@ -99702,10 +99711,10 @@
   },
   {
     "lemma": "Hypokrites",
-    "previous": "Hypodioiketes",
+    "previous": "Ὑποδιοικητής",
     "next": "Hypometheus",
     "proof_read": 3,
-    "short_description": "Schauspieler",
+    "short_description": "der Schauspieler",
     "no_creative_height": true,
     "chapters": [
       {
@@ -102566,7 +102575,7 @@
   {
     "lemma": "Ilursenses",
     "previous": "Iluro 4",
-    "next": "Im(...)",
+    "next": "Ἰμ(...)",
     "proof_read": 3,
     "short_description": "Gemeinde in Hispania citerior",
     "no_creative_height": true,
@@ -102579,7 +102588,7 @@
     ]
   },
   {
-    "lemma": "Im(...)",
+    "lemma": "Ἰμ(...)",
     "previous": "Ilursenses",
     "next": "Imadochi",
     "sort_key": "Im",
@@ -102596,7 +102605,7 @@
   },
   {
     "lemma": "Imadochi",
-    "previous": "Im(...)",
+    "previous": "Ἰμ(...)",
     "next": "Imaginifer",
     "proof_read": 3,
     "short_description": "Imaduchi, Volk am Kaukasos = Modokai = Amadokoi",
@@ -104720,6 +104729,7 @@
   },
   {
     "lemma": "Iuba 1",
+    "previous": "Iuavum",
     "next": "Iuba 2",
     "proof_read": 3,
     "short_description": "I., König v. Numidien u. Gaetulien, geb. um 85 v. Chr.",
@@ -104737,6 +104747,7 @@
   {
     "lemma": "Iuba 2",
     "previous": "Iuba 1",
+    "next": "Jublains",
     "proof_read": 3,
     "short_description": "II., Sohn v. Nr. 1, Schriftsteller",
     "no_creative_height": true,
@@ -107312,7 +107323,7 @@
   {
     "lemma": "Kadmos 4",
     "previous": "Kadiskos",
-    "next": "Kadmu pus",
+    "next": "Κάδμου πούς",
     "proof_read": 3,
     "short_description": "Gründer des boiotischen Theben, Sohn des Agenor",
     "no_creative_height": true,
@@ -107325,7 +107336,7 @@
     ]
   },
   {
-    "lemma": "Kadmu pus",
+    "lemma": "Κάδμου πούς",
     "previous": "Kadmos 4",
     "next": "Kados",
     "sort_key": "Kadmu pus",
@@ -107342,7 +107353,7 @@
   },
   {
     "lemma": "Kados",
-    "previous": "Kadmu pus",
+    "previous": "Κάδμου πούς",
     "next": "Kadusioi",
     "proof_read": 3,
     "short_description": "Gefäßbezeichnung",
@@ -107601,7 +107612,7 @@
     "previous": "Kalanos 2",
     "next": "Kalas 3",
     "proof_read": 3,
-    "short_description": "maked. Offizier Alexanders d. Gr. vgl. Kalanos Nr. 2 und K. Nr. 4",
+    "short_description": "Maked. Offizier Alexanders d.Gr. vgl. Kalanos Nr. 2 (S IV 854). K. Nr. 4)",
     "no_creative_height": true,
     "chapters": [
       {
@@ -107616,7 +107627,7 @@
     "previous": "Kalas 2",
     "next": "Kalas 4",
     "proof_read": 3,
-    "short_description": "makedonischer Offizier Alexanders d. Gr.",
+    "short_description": "maked. Offizier Alexanders d. Gr. vgl. Kalanos Nr. 2 und K. Nr. 4",
     "no_creative_height": true,
     "chapters": [
       {
@@ -107792,7 +107803,7 @@
   {
     "lemma": "Kalibios",
     "previous": "Kales dromos",
-    "next": "Kalikantsaros",
+    "next": "Καλικάντσαρος",
     "proof_read": 3,
     "short_description": "Curator von Aptunga 315 n. Chr.",
     "no_creative_height": true,
@@ -107805,7 +107816,7 @@
     ]
   },
   {
-    "lemma": "Kalikantsaros",
+    "lemma": "Καλικάντσαρος",
     "previous": "Kalibios",
     "next": "Kalindoia",
     "sort_key": "Kalikantsaros",
@@ -107822,7 +107833,7 @@
   },
   {
     "lemma": "Kalindoia",
-    "previous": "Kalikantsaros",
+    "previous": "Καλικάντσαρος",
     "next": "Kalis 2",
     "proof_read": 3,
     "short_description": "Stadt in der thrakischen Bottike",
@@ -108074,7 +108085,7 @@
   {
     "lemma": "Kalliazein",
     "previous": "Kallias 29",
-    "next": "Kallichoron 1",
+    "next": "Kallichoron",
     "proof_read": 3,
     "short_description": "die Ausübung einer unbestimmten (polit. ?) Funktion in Kyzikos",
     "no_creative_height": true,
@@ -108087,9 +108098,8 @@
     ]
   },
   {
-    "lemma": "Kallichoron 1",
+    "lemma": "Kallichoron",
     "previous": "Kalliazein",
-    "next": "Kallidamos",
     "proof_read": 3,
     "short_description": "heiliger Brunnen in Eleusis",
     "no_creative_height": true,
@@ -108100,6 +108110,10 @@
         "author": "Hans Gärtner."
       }
     ]
+  },
+  {
+    "lemma": "Kallichoron 1",
+    "next": "Kallidamos"
   },
   {
     "lemma": "Kallidamos",
@@ -108435,7 +108449,6 @@
   {
     "lemma": "Kallimache",
     "previous": "Kallikritos 2",
-    "next": "Kallimachos 3a",
     "proof_read": 3,
     "short_description": "Örtlichkeit an der karischen Küste",
     "no_creative_height": true,
@@ -108449,6 +108462,7 @@
   },
   {
     "lemma": "Kallimachos 3a",
+    "previous": "Kallimachos 9",
     "next": "Kallimachos 3b",
     "proof_read": 3,
     "short_description": "Eideshelfer des Königs Perdikkas II. 423 v. Chr.",
@@ -108806,9 +108820,13 @@
     "lemma": "Kallistai",
     "previous": "Kallirrhoë 14",
     "next": "Kallisthenes 5",
+    "proof_read": 3,
+    "short_description": "arkadische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109130,12 +109148,20 @@
     ]
   },
   {
+    "lemma": "Kalynda 1",
+    "next": "Kalypso 1"
+  },
+  {
     "lemma": "Kalypso 1",
-    "previous": "Kalynda 1.2",
+    "previous": "Kalynda 1",
     "next": "Kalypso 3",
+    "proof_read": 3,
+    "short_description": "Nymphe, Tochter des Atlas",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109144,9 +109170,13 @@
     "lemma": "Kalypso 3",
     "previous": "Kalypso 1",
     "next": "Kamaritai",
+    "proof_read": 3,
+    "short_description": "Griechin im palaestinischen Marissa",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109155,9 +109185,13 @@
     "lemma": "Kamaritai",
     "previous": "Kalypso 3",
     "next": "Kamasarye",
+    "proof_read": 3,
+    "short_description": "Volk an der kaukasischen Küste des Pontos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109166,9 +109200,13 @@
     "lemma": "Kamasarye",
     "previous": "Kamaritai",
     "next": "Kambaioi",
+    "proof_read": 3,
+    "short_description": "Gattin des bosporanischen Königs Pairisades III.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109177,9 +109215,13 @@
     "lemma": "Kambaioi",
     "previous": "Kamasarye",
     "next": "Kambylos",
+    "proof_read": 3,
+    "short_description": "illyrisches Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109203,9 +109245,13 @@
     "lemma": "Kamelites",
     "previous": "Kambylos",
     "next": "Kamenios 1",
+    "proof_read": 3,
+    "short_description": "Besitzer eines Kamels",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109214,9 +109260,13 @@
     "lemma": "Kamenios 1",
     "previous": "Kamelites",
     "next": "Kamenios 2",
+    "proof_read": 3,
+    "short_description": "Ceionius Iulianus Camenius, praef. urbi 333/4 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109242,9 +109292,13 @@
     "lemma": "Kamiris",
     "previous": "Kamenios 2",
     "next": "Kamma",
+    "proof_read": 3,
+    "short_description": "Gebiet der rhodischen Stadt Kamiros",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109253,9 +109307,13 @@
     "lemma": "Kamma",
     "previous": "Kamiris",
     "next": "Kammania",
+    "proof_read": 3,
+    "short_description": "Priesterin der Artemis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109264,9 +109322,13 @@
     "lemma": "Kammania",
     "previous": "Kamma",
     "next": "Kamnagoras",
+    "proof_read": 3,
+    "short_description": "thesprotische Gegend",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109275,9 +109337,13 @@
     "lemma": "Kamnagoras",
     "previous": "Kammania",
     "next": "Kanai 1",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Heraia zu Samos 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109286,9 +109352,13 @@
     "lemma": "Kanai 1",
     "previous": "Kamnagoras",
     "next": "Kandanon",
+    "proof_read": 3,
+    "short_description": "aiolische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109297,9 +109367,13 @@
     "lemma": "Kandanon",
     "previous": "Kanai 1",
     "next": "Kandasa",
+    "proof_read": 3,
+    "short_description": "Ortschaft der Iazyges",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109308,9 +109382,13 @@
     "lemma": "Kandasa",
     "previous": "Kandanon",
     "next": "Kandiones",
+    "proof_read": 3,
+    "short_description": "karisches Kastell",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 141,
+        "end": 141,
         "author": "Hans Gärtner."
       }
     ]
@@ -109319,9 +109397,13 @@
     "lemma": "Kandiones",
     "previous": "Kandasa",
     "next": "Kandyba",
+    "proof_read": 3,
+    "short_description": "f. l. statt Pandiones (?), vorderindisches Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109330,9 +109412,13 @@
     "lemma": "Kandyba",
     "previous": "Kandiones",
     "next": "Kanobus 1",
+    "proof_read": 3,
+    "short_description": "Lykische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109341,9 +109427,13 @@
     "lemma": "Kanobus 1",
     "previous": "Kandyba",
     "next": "Kanobus 2",
+    "proof_read": 3,
+    "short_description": "ägyptischer Ort nahe der westlichsten Nilmündung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109352,9 +109442,13 @@
     "lemma": "Kanobus 2",
     "previous": "Kanobus 1",
     "next": "Kantharos 5",
+    "proof_read": 3,
+    "short_description": "Steuermann des Menelaos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109363,9 +109457,13 @@
     "lemma": "Kantharos 5",
     "previous": "Kanobus 2",
     "next": "Kanthonike",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109374,9 +109472,13 @@
     "lemma": "Kanthonike",
     "previous": "Kantharos 5",
     "next": "Kanun",
+    "proof_read": 3,
+    "short_description": "Bezirk der Landschaft Karmanien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109385,9 +109487,13 @@
     "lemma": "Kanun",
     "previous": "Kanthonike",
     "next": "Κάπαζα",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109412,9 +109518,13 @@
     "lemma": "Kaphisias 2",
     "previous": "Κάπαζα",
     "next": "Kaphisophon",
+    "proof_read": 3,
+    "short_description": "Flötenspieler am Hof Alexanders d. Gr. 324 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109423,9 +109533,13 @@
     "lemma": "Kaphisophon",
     "previous": "Kaphisias 2",
     "next": "Kappadokia",
+    "proof_read": 3,
+    "short_description": "von Kos, Theoros zu Ptolemaios II. Philadelphos nach Alexandreia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109434,9 +109548,13 @@
     "lemma": "Kappadokia",
     "previous": "Kaphisophon",
     "next": "Kaprion",
+    "proof_read": 3,
+    "short_description": "kleinasiatische Landschaft. Sprache und älteste Geschichte",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109445,9 +109563,13 @@
     "lemma": "Kaprion",
     "previous": "Kappadokia",
     "next": "Kapru sema",
+    "proof_read": 3,
+    "short_description": "etrurisches Kastell",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109456,9 +109578,13 @@
     "lemma": "Kapru sema",
     "previous": "Kaprion",
     "next": "Karanos 2",
+    "proof_read": 3,
+    "short_description": "messenische Örtlichkeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109467,9 +109593,13 @@
     "lemma": "Karanos 2",
     "previous": "Kapru sema",
     "next": "Karanos 3",
+    "proof_read": 3,
+    "short_description": "Reiteroffizier im Dienste Alexanders d.Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109493,9 +109623,13 @@
     "lemma": "Karchesion",
     "previous": "Karanos 3",
     "next": "Karika mele",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109504,9 +109638,13 @@
     "lemma": "Karika mele",
     "previous": "Karchesion",
     "next": "Karische Sprache",
+    "proof_read": 3,
+    "short_description": "choriambische Dichtungen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109515,9 +109653,12 @@
     "lemma": "Karische Sprache",
     "previous": "Karika mele",
     "next": "Karkabos",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109526,9 +109667,13 @@
     "lemma": "Karkabos",
     "previous": "Karische Sprache",
     "next": "Karkabos 2",
+    "proof_read": 3,
+    "short_description": "Sohn oder Enkel des Triopas",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109553,9 +109698,13 @@
     "lemma": "Karkesios",
     "previous": "Karkabos 2",
     "next": "Καρκῖνοι",
+    "proof_read": 3,
+    "short_description": "Eponymos von Minoa",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109580,9 +109729,13 @@
     "lemma": "Karkinos 5",
     "previous": "Καρκῖνοι",
     "next": "Karme",
+    "proof_read": 3,
+    "short_description": "attischer Tragiker um 380 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109591,9 +109744,13 @@
     "lemma": "Karme",
     "previous": "Karkinos 5",
     "next": "Karnabas",
+    "proof_read": 3,
+    "short_description": "Mutter der Britomartis, Tochter des Eubulos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109602,9 +109759,13 @@
     "lemma": "Karnabas",
     "previous": "Karme",
     "next": "Karneades 1",
+    "proof_read": 3,
+    "short_description": "Sohn oder Enkel des Triopas",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109613,9 +109774,13 @@
     "lemma": "Karneades 1",
     "previous": "Karnabas",
     "next": "Karos 2",
+    "proof_read": 3,
+    "short_description": "von Kyrene, akademischer Philosoph in Athen 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109624,9 +109789,13 @@
     "lemma": "Karos 2",
     "previous": "Karneades 1",
     "next": "Karpathos 1",
+    "proof_read": 3,
+    "short_description": "von Putea, Bildhauer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109635,9 +109804,13 @@
     "lemma": "Karpathos 1",
     "previous": "Karos 2",
     "next": "Karpologoi",
+    "proof_read": 3,
+    "short_description": "Insel der südlichen Aegaeis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109646,9 +109819,13 @@
     "lemma": "Karpologoi",
     "previous": "Karpathos 1",
     "next": "Karpos 5",
+    "proof_read": 3,
+    "short_description": "Zollbehörde in Thasos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109657,9 +109834,13 @@
     "lemma": "Karpos 5",
     "previous": "Karpologoi",
     "next": "Karrhotos",
+    "proof_read": 3,
+    "short_description": "schöner Jüngling, Freund des Kalamos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109668,9 +109849,13 @@
     "lemma": "Karrhotos",
     "previous": "Karpos 5",
     "next": "Karta",
+    "proof_read": 3,
+    "short_description": "Schwager des kyrenischen Königs Arkesilaos IV.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109693,9 +109878,13 @@
     "lemma": "Karthasis",
     "previous": "Karta",
     "next": "Karzenos",
+    "proof_read": 3,
+    "short_description": "skythischer Feldherr gegen Alexander d. Gr. 329 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109735,9 +109924,13 @@
     "lemma": "Kassandreia",
     "previous": "Κασεήρα",
     "next": "Kassandros 7a",
+    "proof_read": 3,
+    "short_description": "makedonische Stadt auf Pallene",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109746,9 +109939,13 @@
     "lemma": "Kassandros 7a",
     "previous": "Kassandreia",
     "next": "Kassanitai",
+    "proof_read": 3,
+    "short_description": "von Edessa, makedonischer Proxenos von Haliartos 4. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109770,9 +109967,13 @@
     "lemma": "Kassignatos",
     "previous": "Kassanitai",
     "next": "Kassiope 3",
+    "proof_read": 3,
+    "short_description": "galatischer Herrscher 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109781,9 +109982,13 @@
     "lemma": "Kassiope 3",
     "previous": "Kassignatos",
     "next": "Kassopa (K), Kassope, Kassopia",
+    "proof_read": 3,
+    "short_description": "epeirotische Hafenstadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109792,9 +109997,13 @@
     "lemma": "Kassopa (K), Kassope, Kassopia",
     "previous": "Kassiope 3",
     "next": "Kassopaioi",
+    "proof_read": 3,
+    "short_description": "epeirotische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109803,9 +110012,13 @@
     "lemma": "Kassopaioi",
     "previous": "Kassopa (K), Kassope, Kassopia",
     "next": "Kassopia",
+    "proof_read": 3,
+    "short_description": "Volk in der epeirotischen Landschaft Kassopia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109814,9 +110027,13 @@
     "lemma": "Kassopia",
     "previous": "Kassopaioi",
     "next": "Kastalios 2",
+    "proof_read": 3,
+    "short_description": "epeirotische Landschaft",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109838,9 +110055,13 @@
     "lemma": "Kastellos",
     "previous": "Kastalios 2",
     "next": "Kastorion",
+    "proof_read": 3,
+    "short_description": "epeirotisches Kastell",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109849,9 +110070,13 @@
     "lemma": "Kastorion",
     "previous": "Kastellos",
     "next": "Kastorios",
+    "proof_read": 3,
+    "short_description": "von Soloi, lyrischer Dichter 4. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109860,9 +110085,13 @@
     "lemma": "Kastorios",
     "previous": "Kastorion",
     "next": "Katanes",
+    "proof_read": 3,
+    "short_description": "Consularis Siciliae und vicarius Africae 4. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 142,
+        "end": 142,
         "author": "Hans Gärtner."
       }
     ]
@@ -109871,9 +110100,13 @@
     "lemma": "Katanes",
     "previous": "Kastorios",
     "next": "Katharsis",
+    "proof_read": 3,
+    "short_description": "Perser in der Umgebung des Bessos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -109882,9 +110115,13 @@
     "lemma": "Katharsis",
     "previous": "Katanes",
     "next": "Kattabier",
+    "proof_read": 3,
+    "short_description": "kultische Reinigungshandlungen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -109893,9 +110130,13 @@
     "lemma": "Kattabier",
     "previous": "Katharsis",
     "next": "Katudaioi",
+    "proof_read": 3,
+    "short_description": "Demos von Lindos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -109904,9 +110145,13 @@
     "lemma": "Katudaioi",
     "previous": "Kattabier",
     "next": "Kauaris",
+    "proof_read": 3,
+    "short_description": "Libysche Trogodytai",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -109915,9 +110160,13 @@
     "lemma": "Kauaris",
     "previous": "Katudaioi",
     "next": "Kauaroi",
+    "proof_read": 3,
+    "short_description": "ostiranische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -109941,9 +110190,13 @@
     "lemma": "Kauaros",
     "previous": "Kauaroi",
     "next": "Καυκάσιον",
+    "proof_read": 3,
+    "short_description": "König der tylenischen Galater 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -109968,9 +110221,13 @@
     "lemma": "Kaukion",
     "previous": "Καυκάσιον",
     "next": "Kauliakoio skopelos",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -109979,9 +110236,13 @@
     "lemma": "Kauliakoio skopelos",
     "previous": "Kaukion",
     "next": "Kaus",
+    "proof_read": 3,
+    "short_description": "mythischer Felsen an der Donau",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110005,9 +110266,13 @@
     "lemma": "Kekropis 2",
     "previous": "Kaus",
     "next": "Kekryphaleia",
+    "proof_read": 3,
+    "short_description": "attische Phyle",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110046,9 +110311,13 @@
     "lemma": "Kelaithra",
     "previous": "Keladone",
     "next": "Κελκέας",
+    "proof_read": 3,
+    "short_description": "Boiot. Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110088,9 +110357,13 @@
     "lemma": "Kephalon 2",
     "previous": "Kenchreis 2",
     "next": "Kephalos 3a",
+    "proof_read": 3,
+    "short_description": "Vertrauter des Strategen Aratos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110099,9 +110372,13 @@
     "lemma": "Kephalos 3a",
     "previous": "Kephalon 2",
     "next": "Kephisios 2",
+    "proof_read": 3,
+    "short_description": "von Epeiros, Freund des makedonischen Königshauses",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110125,9 +110402,13 @@
     "lemma": "Kephisodoros 4a",
     "previous": "Kephisios 2",
     "next": "Kephisodoros 5a",
+    "proof_read": 3,
+    "short_description": "Lochage im Heer Kyros’ d. J., Sohn des Kephisophon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110151,9 +110432,13 @@
     "lemma": "Kephisodoros 5b",
     "previous": "Kephisodoros 5a",
     "next": "Kephisokles",
+    "proof_read": 3,
+    "short_description": "Didaskalos bei den Soteria zu Delphi 272 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110177,9 +110462,13 @@
     "lemma": "Ker",
     "previous": "Kephisokles",
     "next": "Κεραμεία",
+    "proof_read": 3,
+    "short_description": "griechischer weiblicher Dämon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110204,9 +110493,13 @@
     "lemma": "Keras 5",
     "previous": "Κεραμεία",
     "next": "Keraton",
+    "proof_read": 3,
+    "short_description": "Sieger im Ringkampf zu Olympia 300 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110230,9 +110523,13 @@
     "lemma": "Kerausion",
     "previous": "Keraton",
     "next": "Kerax",
+    "proof_read": 3,
+    "short_description": "Berg im parrhasischen Lykaion",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110271,9 +110568,13 @@
     "lemma": "Kerketesion",
     "previous": "Kerdon 2",
     "next": "Kerketion 1",
+    "proof_read": 3,
+    "short_description": "makedonisches Gebirge",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110282,9 +110583,13 @@
     "lemma": "Kerketion 1",
     "previous": "Kerketesion",
     "next": "Kerketion 2",
+    "proof_read": 3,
+    "short_description": "thessalisch-epeirotisches Grenzgebirge",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110306,9 +110611,13 @@
     "lemma": "Kerkineus",
     "previous": "Kerketion 2",
     "next": "Kerkinion",
+    "proof_read": 3,
+    "short_description": "Bach beim thessalischen Melitaia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110317,9 +110626,13 @@
     "lemma": "Kerkinion",
     "previous": "Kerkineus",
     "next": "Kerkis 1",
+    "proof_read": 3,
+    "short_description": "thessalischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110328,9 +110641,13 @@
     "lemma": "Kerkis 1",
     "previous": "Kerkinion",
     "next": "Kerkis 2",
+    "proof_read": 3,
+    "short_description": "Segment des Zuschauerraumes im griechischen Theater",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110339,9 +110656,13 @@
     "lemma": "Kerkis 2",
     "previous": "Kerkis 1",
     "next": "Kerkis 3",
+    "proof_read": 3,
+    "short_description": "das halbe Giebelfeld des griechischen Tempels",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110411,9 +110732,13 @@
     "lemma": "Kerkops 2",
     "previous": "Κέρκωλα ὄρη",
     "next": "Keryneia 1",
+    "proof_read": 3,
+    "short_description": "von Milet, griechischer Epiker",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110422,9 +110747,13 @@
     "lemma": "Keryneia 1",
     "previous": "Kerkops 2",
     "next": "Kerynites",
+    "proof_read": 3,
+    "short_description": "achaische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110433,9 +110762,13 @@
     "lemma": "Kerynites",
     "previous": "Keryneia 1",
     "next": "Kestos",
+    "proof_read": 3,
+    "short_description": "achaischer Fluß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110444,9 +110777,13 @@
     "lemma": "Kestos",
     "previous": "Kerynites",
     "next": "Kestros 2",
+    "proof_read": 3,
+    "short_description": "der bestickte Gürtel (der Aphrodite)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110455,9 +110792,13 @@
     "lemma": "Kestros 2",
     "previous": "Kestos",
     "next": "Kettos",
+    "proof_read": 3,
+    "short_description": "hellenistischer (Wurf-) Pfeil, Wurfspieß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110466,9 +110807,13 @@
     "lemma": "Kettos",
     "previous": "Kestros 2",
     "next": "Kiborion",
+    "proof_read": 3,
+    "short_description": "attischer Demos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110477,9 +110822,13 @@
     "lemma": "Kiborion",
     "previous": "Kettos",
     "next": "Kildara",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 143,
+        "end": 143,
         "author": "Hans Gärtner."
       }
     ]
@@ -110488,9 +110837,13 @@
     "lemma": "Kildara",
     "previous": "Kiborion",
     "next": "Kilikarches",
+    "proof_read": 3,
+    "short_description": "karische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110499,9 +110852,13 @@
     "lemma": "Kilikarches",
     "previous": "Kildara",
     "next": "Κιλίκιαι πύλαι 1",
+    "proof_read": 3,
+    "short_description": "Praeses des kilikischen Koinon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110542,9 +110899,13 @@
     "lemma": "Killes",
     "previous": "Κιλίκιαι πύλαι 2",
     "next": "Kimissa",
+    "proof_read": 3,
+    "short_description": "makedonischer Feldherr des Ptolemaios Lagu in Syrien im J. 311 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110553,9 +110914,13 @@
     "lemma": "Kimissa",
     "previous": "Killes",
     "next": "Kinaidopolis",
+    "proof_read": 3,
+    "short_description": "sizilische Stadt (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110579,9 +110944,13 @@
     "lemma": "Kinambroi",
     "previous": "Kinaidopolis",
     "next": "Kinesias",
+    "proof_read": 3,
+    "short_description": "illyrisches Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110590,9 +110959,13 @@
     "lemma": "Kinesias",
     "previous": "Kinambroi",
     "next": "Kinyras 2",
+    "proof_read": 3,
+    "short_description": "attischer Dithyrambendichter 450–390 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110631,9 +111004,13 @@
     "lemma": "Kinyras 4",
     "previous": "Kinyras 3",
     "next": "Kissos 6",
+    "proof_read": 3,
+    "short_description": "Herrscher von Byblos 1. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110642,9 +111019,13 @@
     "lemma": "Kissos 6",
     "previous": "Kinyras 4",
     "next": "Kithairon 1",
+    "proof_read": 3,
+    "short_description": "Jüngling oder Satyr im Gefolge des Dionysos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110667,9 +111048,13 @@
     "lemma": "Kladaos",
     "previous": "Kithairon 1",
     "next": "Κλατίοι",
+    "proof_read": 3,
+    "short_description": "Nebenfluß des Alpheios",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110724,9 +111109,13 @@
     "lemma": "Kleainetos 1a",
     "previous": "Kleagoras 2",
     "next": "Kleainetos 1b",
+    "proof_read": 3,
+    "short_description": "Günstling des Demetrios I. Poliorketes, Sohn des Kleomedon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110750,9 +111139,13 @@
     "lemma": "Kleandros 6a",
     "previous": "Kleainetos 1b",
     "next": "Kleandros 6b",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Stücken des Aischylos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110761,9 +111154,13 @@
     "lemma": "Kleandros 6b",
     "previous": "Kleandros 6a",
     "next": "Kleandros 6c",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Dionysia 387 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110772,9 +111169,13 @@
     "lemma": "Kleandros 6c",
     "previous": "Kleandros 6b",
     "next": "Kleandros 8",
+    "proof_read": 3,
+    "short_description": "Schauspieler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110783,9 +111184,13 @@
     "lemma": "Kleandros 8",
     "previous": "Kleandros 6c",
     "next": "Kleanor",
+    "proof_read": 3,
+    "short_description": "von Mantineia, Erzieher des achaischen Staatsmannes Philopoimen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110811,9 +111216,13 @@
     "lemma": "Kleanthes 2",
     "previous": "Kleanor",
     "next": "Klearchos 6a",
+    "proof_read": 3,
+    "short_description": "von Assos, Stoiker 3. Jh. v. Chr., Schüler und Nachfolger des Zenon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110837,8 +111246,8 @@
     "lemma": "Klearchos 6b",
     "previous": "Klearchos 6a",
     "next": "Klearchos 6c",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "Truppenführer im Heer Alexanders d. Gr. im J. 331 v. Chr.",
     "chapters": [
       {
         "start": 144,
@@ -110850,8 +111259,8 @@
     "lemma": "Klearchos 6c",
     "previous": "Klearchos 6b",
     "next": "Klearetos",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "Empfänger des athen. Bürgerrechts um das J. 190 v. Chr.",
     "chapters": [
       {
         "start": 144,
@@ -110878,9 +111287,13 @@
     "lemma": "Kledonon hieron",
     "previous": "Klearetos",
     "next": "Kleidemides",
+    "proof_read": 3,
+    "short_description": "Heiligtum bei Smyrna",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110889,9 +111302,13 @@
     "lemma": "Kleidemides",
     "previous": "Kledonon hieron",
     "next": "Kleidemos 2",
+    "proof_read": 3,
+    "short_description": "Sohn oder Schauspieler des Sophokles",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110900,9 +111317,13 @@
     "lemma": "Kleidemos 2",
     "previous": "Kleidemides",
     "next": "Kleidemos 3",
+    "proof_read": 3,
+    "short_description": "Naturphilosoph 5. Jh. v. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110911,9 +111332,13 @@
     "lemma": "Kleidemos 3",
     "previous": "Kleidemos 2",
     "next": "Kleimakai",
+    "proof_read": 3,
+    "short_description": "Didaskalos eines Männerchores bei den Dionysia 364/3 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110922,9 +111347,13 @@
     "lemma": "Kleimakai",
     "previous": "Kleidemos 3",
     "next": "Kleinasiatische Ursprachen",
+    "proof_read": 3,
+    "short_description": "nordeuboischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110933,9 +111362,12 @@
     "lemma": "Kleinasiatische Ursprachen",
     "previous": "Kleimakai",
     "next": "Kleinias 8",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110944,9 +111376,13 @@
     "lemma": "Kleinias 8",
     "previous": "Kleinasiatische Ursprachen",
     "next": "Kleino",
+    "proof_read": 3,
+    "short_description": "Quellenautor bei Servius Aen.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -110972,9 +111408,13 @@
     "lemma": "Kleippides",
     "previous": "Kleino",
     "next": "Kleisas",
+    "proof_read": 3,
+    "short_description": "athen. Stratege 428 v. Chr., Sohn des Deinias",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -111013,9 +111453,13 @@
     "lemma": "Kleisthenes 3a",
     "previous": "Kleisophos 2",
     "next": "Kleitor 1",
+    "proof_read": 3,
+    "short_description": "siegreicher Choregos bei den Thargelia 5. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -111024,9 +111468,13 @@
     "lemma": "Kleitor 1",
     "previous": "Kleisthenes 3a",
     "next": "Kleitos 11a",
+    "proof_read": 3,
+    "short_description": "arkadische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 144,
+        "end": 144,
         "author": "Hans Gärtner."
       }
     ]
@@ -111125,9 +111573,13 @@
     "lemma": "Kleomedon 2",
     "previous": "Kleomachos 2a",
     "next": "Kleomedon 3",
+    "proof_read": 3,
+    "short_description": "Vater des Kleainetos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111136,9 +111588,13 @@
     "lemma": "Kleomedon 3",
     "previous": "Kleomedon 2",
     "next": "Kleomenes 15",
+    "proof_read": 3,
+    "short_description": "Gesandter des maked. Königs Philippos V. zum Achaischen Bund 198 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111147,9 +111603,13 @@
     "lemma": "Kleomenes 15",
     "previous": "Kleomedon 3",
     "next": "Kleomenes 15a",
+    "proof_read": 3,
+    "short_description": "athenischer Bildhauer in frühaugust. Zeit?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111158,9 +111618,13 @@
     "lemma": "Kleomenes 15a",
     "previous": "Kleomenes 15",
     "next": "Kleon 10a",
+    "proof_read": 3,
+    "short_description": "athenischer Bildhauer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111169,9 +111633,13 @@
     "lemma": "Kleon 10a",
     "previous": "Kleomenes 15a",
     "next": "Kleon 10b",
+    "proof_read": 3,
+    "short_description": "Chorodidaskalos bei der Pythias 138 v. Chr., Sohn des Eumelos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111195,9 +111663,13 @@
     "lemma": "Kleon 16",
     "previous": "Kleon 10b",
     "next": "Kleon 17",
+    "proof_read": 3,
+    "short_description": "Steinschneider in august. Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111206,9 +111678,13 @@
     "lemma": "Kleon 17",
     "previous": "Kleon 16",
     "next": "Kleonai 1",
+    "proof_read": 3,
+    "short_description": "Ingenieur und Baumeister unter Ptolemaios II. Philadelphos 258 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111217,9 +111693,13 @@
     "lemma": "Kleonai 1",
     "previous": "Kleon 17",
     "next": "Kleonikos 3",
+    "proof_read": 3,
+    "short_description": "peloponnesische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111258,9 +111738,13 @@
     "lemma": "Kleonymos 5",
     "previous": "Kleonymos 4a",
     "next": "Kleopatra 22a",
+    "proof_read": 3,
+    "short_description": "von Samos, Bildhauer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111284,9 +111768,13 @@
     "lemma": "Kleopatris 2",
     "previous": "Kleopatra 22a",
     "next": "Kleostratos 2a",
+    "proof_read": 3,
+    "short_description": "ägyptischer Ort im südlichen Nildelta",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111295,9 +111783,13 @@
     "lemma": "Kleostratos 2a",
     "previous": "Kleopatris 2",
     "next": "Kleostratos 6",
+    "proof_read": 3,
+    "short_description": "von Argos, Gesandter zu Dareios II. 408 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111334,9 +111826,13 @@
     "lemma": "Kleotimos 2",
     "previous": "Kleoteles",
     "next": "Kleoxenos 3",
+    "proof_read": 3,
+    "short_description": "Führer der nach Amphipolis eingewanderten Chalkidenser",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111375,9 +111871,13 @@
     "lemma": "Klepsydra 1a",
     "previous": "Kleoxenos 4",
     "next": "Kleroterion",
+    "proof_read": 3,
+    "short_description": "Quelle am NW-Abhang der Akropolis von Athen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111386,9 +111886,13 @@
     "lemma": "Kleroterion",
     "previous": "Klepsydra 1a",
     "next": "Klippschliefer",
+    "proof_read": 3,
+    "short_description": "Auslosungsmaschine",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111397,9 +111901,12 @@
     "lemma": "Klippschliefer",
     "previous": "Kleroterion",
     "next": "Klytos 9",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111408,9 +111915,13 @@
     "lemma": "Klytos 9",
     "previous": "Klippschliefer",
     "next": "Knakadion",
+    "proof_read": 3,
+    "short_description": "Stratege des akarnanischen Koinon 191 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111419,9 +111930,13 @@
     "lemma": "Knakadion",
     "previous": "Klytos 9",
     "next": "Knemades",
+    "proof_read": 3,
+    "short_description": "Lakonisches Gebirge",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111430,9 +111945,13 @@
     "lemma": "Knemades",
     "previous": "Knakadion",
     "next": "Knidos 5",
+    "proof_read": 3,
+    "short_description": "Geschlechtername in Kolophon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111441,9 +111960,13 @@
     "lemma": "Knidos 5",
     "previous": "Knemades",
     "next": "Knurrhahn",
+    "proof_read": 3,
+    "short_description": "südillyrische Örtlichkeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111451,16 +111974,20 @@
   {
     "lemma": "Knurrhahn",
     "previous": "Knidos 5",
-    "next": "Κοαῖοι",
+    "next": "Koaioi",
+    "proof_read": 3,
+    "short_description": "etwa 15 Arten von Meerestieren",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Κοαῖοι",
+    "lemma": "Koaioi",
     "previous": "Knurrhahn",
     "next": "Kochome",
     "sort_key": "Koaioi",
@@ -111477,11 +112004,15 @@
   },
   {
     "lemma": "Kochome",
-    "previous": "Κοαῖοι",
+    "previous": "Koaioi",
     "next": "Königsverzeichnisse",
+    "proof_read": 3,
+    "short_description": "ägyptischer Ort unbekannter Lage",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111490,9 +112021,12 @@
     "lemma": "Königsverzeichnisse",
     "previous": "Kochome",
     "next": "Koës",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111501,9 +112035,13 @@
     "lemma": "Koës",
     "previous": "Königsverzeichnisse",
     "next": "Koinon 1",
+    "proof_read": 3,
+    "short_description": "Führer im Heer Dareios’ I. 514 v. Chr., Sohn des Erxandros",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111527,9 +112065,13 @@
     "lemma": "Koinon 1a",
     "previous": "Koinon 1",
     "next": "Koinonia",
+    "proof_read": 3,
+    "short_description": "Koina, Zusammenschlüsse von karischen Dorfgemeinden",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111538,9 +112080,13 @@
     "lemma": "Koinonia",
     "previous": "Koinon 1a",
     "next": "Koinos 5",
+    "proof_read": 3,
+    "short_description": "Finanzgesellschaft",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111577,9 +112123,13 @@
     "lemma": "Koios 2",
     "previous": "Koïntos 3",
     "next": "Koiranos 3",
+    "proof_read": 3,
+    "short_description": "Titane",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111588,9 +112138,13 @@
     "lemma": "Koiranos 3",
     "previous": "Koios 2",
     "next": "Koiranos 8",
+    "proof_read": 3,
+    "short_description": "von Paros, von einem Delphin aus Seenot gerettet",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111599,9 +112153,13 @@
     "lemma": "Koiranos 8",
     "previous": "Koiranos 3",
     "next": "Koiranos 9",
+    "proof_read": 3,
+    "short_description": "Reiterführer Alexanders d. Gr. bei Gaugamela im J. 331 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111625,9 +112183,13 @@
     "lemma": "Koiranos 10",
     "previous": "Koiranos 9",
     "next": "Kokelonaioi",
+    "proof_read": 3,
+    "short_description": "Gesandter Smyrnas zu König Antiochos III.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111636,9 +112198,13 @@
     "lemma": "Kokelonaioi",
     "previous": "Koiranos 10",
     "next": "Kokkos a",
+    "proof_read": 3,
+    "short_description": "thrakisches Dorf",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111660,9 +112226,13 @@
     "lemma": "Kolaios",
     "previous": "Kokkos a",
     "next": "Kolchis 1",
+    "proof_read": 3,
+    "short_description": "von Samos, Kaufmann 7. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111671,9 +112241,13 @@
     "lemma": "Kolchis 1",
     "previous": "Kolaios",
     "next": "Kolia",
+    "proof_read": 3,
+    "short_description": "Landschaft im SO des Pontos Euxeinos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111682,9 +112256,13 @@
     "lemma": "Kolia",
     "previous": "Kolchis 1",
     "next": "Kolides",
+    "proof_read": 3,
+    "short_description": "Maßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 145,
+        "end": 145,
         "author": "Hans Gärtner."
       }
     ]
@@ -111693,9 +112271,13 @@
     "lemma": "Kolides",
     "previous": "Kolia",
     "next": "Kolymbethra",
+    "proof_read": 3,
+    "short_description": "Geschlechtername in Kolophon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111704,9 +112286,13 @@
     "lemma": "Kolymbethra",
     "previous": "Kolides",
     "next": "Komaieis",
+    "proof_read": 3,
+    "short_description": "Schwimmbassin",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111715,9 +112301,13 @@
     "lemma": "Komaieis",
     "previous": "Kolymbethra",
     "next": "Komaitho",
+    "proof_read": 3,
+    "short_description": "Demos des euboischen Eretria",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111726,9 +112316,13 @@
     "lemma": "Komaitho",
     "previous": "Komaieis",
     "next": "Komaitho 1",
+    "proof_read": 3,
+    "short_description": "allg. Vorbemerkung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111737,9 +112331,13 @@
     "lemma": "Komaitho 1",
     "previous": "Komaitho",
     "next": "Komaitho 2",
+    "proof_read": 3,
+    "short_description": "Tochter des mythischen Königs Pterelaos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111748,9 +112346,13 @@
     "lemma": "Komaitho 2",
     "previous": "Komaitho 1",
     "next": "Komaitho 3",
+    "proof_read": 3,
+    "short_description": "Priesterin der Artemis Triklaria von Patrai",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111789,9 +112391,13 @@
     "lemma": "Komana 3",
     "previous": "Komaitho 4",
     "next": "Komanos 1a",
+    "proof_read": 3,
+    "short_description": "pisidische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111800,9 +112406,13 @@
     "lemma": "Komanos 1a",
     "previous": "Komana 3",
     "next": "Komba",
+    "proof_read": 3,
+    "short_description": "Persönlichkeit am ägyptischen Hof unter Ptolemaios VI. Philometor",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111811,9 +112421,13 @@
     "lemma": "Komba",
     "previous": "Komanos 1a",
     "next": "Komboiomarus",
+    "proof_read": 3,
+    "short_description": "Lykische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111837,9 +112451,13 @@
     "lemma": "Kombutis",
     "previous": "Komboiomarus",
     "next": "Kome 1",
+    "proof_read": 3,
+    "short_description": "gallischer Truppenführer unter Brennos 279 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111862,9 +112480,13 @@
     "lemma": "Komedai",
     "previous": "Kome 1",
     "next": "Kommagene",
+    "proof_read": 3,
+    "short_description": "Volk der Sakai",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111873,9 +112495,13 @@
     "lemma": "Kommagene",
     "previous": "Komedai",
     "next": "Kompasi",
+    "proof_read": 3,
+    "short_description": "syrische Landschaft",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111884,9 +112510,13 @@
     "lemma": "Kompasi",
     "previous": "Kommagene",
     "next": "Konnakorix",
+    "proof_read": 3,
+    "short_description": "Station an der Wüstenstraße Koptos-Berenike am Arabischen Meerbusen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111910,9 +112540,13 @@
     "lemma": "Koptites",
     "previous": "Konnakorix",
     "next": "Koptos",
+    "proof_read": 3,
+    "short_description": "oberägyptischer Gau in der Thebais",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111921,9 +112555,13 @@
     "lemma": "Koptos",
     "previous": "Koptites",
     "next": "Korabos",
+    "proof_read": 3,
+    "short_description": "Hauptstadt des oberägyptischen Gaues Koptites",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111960,12 +112598,13 @@
     "lemma": "Korax 2b",
     "previous": "Korax 2a",
     "next": "Korax 2c",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "Berg im Kaukasos",
     "chapters": [
       {
         "start": 146,
-        "end": 146
+        "end": 146,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -111983,12 +112622,19 @@
     ]
   },
   {
+    "lemma": "Korax 5-7"
+  },
+  {
     "lemma": "Koraxikon teichos",
-    "previous": "Korax 2c",
+    "previous": "Korax 2b",
     "next": "Koraxische Berge",
+    "proof_read": 3,
+    "short_description": "Stadt am Kaukasos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -111997,9 +112643,13 @@
     "lemma": "Koraxische Berge",
     "previous": "Koraxikon teichos",
     "next": "Koraxoi",
+    "proof_read": 3,
+    "short_description": "kaukasischer Gebirgszug",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112008,9 +112658,13 @@
     "lemma": "Koraxoi",
     "previous": "Koraxische Berge",
     "next": "Kordaphos",
+    "proof_read": 3,
+    "short_description": "Volk am Kaukasos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112036,9 +112690,13 @@
     "lemma": "Koria",
     "previous": "Kordaphos",
     "next": "Korinthos 1",
+    "proof_read": 3,
+    "short_description": "Beiname der Artemis und der Athena",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112079,9 +112737,13 @@
     "lemma": "Kormos",
     "previous": "Korio...",
     "next": "Kornutos",
+    "proof_read": 3,
+    "short_description": "Lykische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112090,9 +112752,13 @@
     "lemma": "Kornutos",
     "previous": "Kormos",
     "next": "Korobios",
+    "proof_read": 3,
+    "short_description": "Grammatiker und Philosoph 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112101,9 +112767,13 @@
     "lemma": "Korobios",
     "previous": "Kornutos",
     "next": "Korone 4",
+    "proof_read": 3,
+    "short_description": "vom kretischen Itanos, mythischer (?) Purpurfischer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112142,9 +112812,13 @@
     "lemma": "Korrabos",
     "previous": "Korrabon",
     "next": "Korragos",
+    "proof_read": 3,
+    "short_description": "Sohn des Demetrios I. Poliorketes und der Eurydike",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112183,9 +112857,13 @@
     "lemma": "Korrantadas",
     "previous": "Korragys",
     "next": "Korratas",
+    "proof_read": 3,
+    "short_description": "führender Aristokrat in Theben 395 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112239,9 +112917,13 @@
     "lemma": "Korrhagos 2",
     "previous": "Korrhagos 1",
     "next": "Korrhagos 3",
+    "proof_read": 3,
+    "short_description": "angesehener Beamter eines hellenistischen Königs 3. Jh. v. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112250,9 +112932,13 @@
     "lemma": "Korrhagos 3",
     "previous": "Korrhagos 2",
     "next": "Korrhagos 4",
+    "proof_read": 3,
+    "short_description": "Militär im Dienste der pergamen. Könige 2. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112261,9 +112947,13 @@
     "lemma": "Korrhagos 4",
     "previous": "Korrhagos 3",
     "next": "Korrhagos 5",
+    "proof_read": 3,
+    "short_description": "Hetairos Alexanders d. Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 146,
+        "end": 146,
         "author": "Hans Gärtner."
       }
     ]
@@ -112328,9 +113018,13 @@
     "lemma": "Korylas",
     "previous": "Korydallos 4",
     "next": "Kos 3",
+    "proof_read": 3,
+    "short_description": "persischer Satrap in Paphlagonien 400 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112354,9 +113048,13 @@
     "lemma": "Kosingas",
     "previous": "Kos 3",
     "next": "Kostos",
+    "proof_read": 3,
+    "short_description": "thrakischer Fürst",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112365,9 +113063,13 @@
     "lemma": "Kostos",
     "previous": "Kosingas",
     "next": "Kothon 2",
+    "proof_read": 3,
+    "short_description": "Bischofssitz in der Diözese Alexandreia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112405,7 +113107,7 @@
   {
     "lemma": "Kotinna",
     "previous": "Kothon 4",
-    "next": "Κοτταεῖς",
+    "next": "Kottaeis",
     "proof_read": 3,
     "short_description": "berühmte spartanische Hetäre",
     "no_creative_height": true,
@@ -112418,7 +113120,7 @@
     ]
   },
   {
-    "lemma": "Κοτταεῖς",
+    "lemma": "Kottaeis",
     "previous": "Kotinna",
     "next": "Kottos",
     "sort_key": "Kottaeis",
@@ -112435,11 +113137,15 @@
   },
   {
     "lemma": "Kottos",
-    "previous": "Κοτταεῖς",
+    "previous": "Kottaeis",
     "next": "Κοτύλαιον 1",
+    "proof_read": 3,
+    "short_description": "Gigant, Sohn des Uranos und der Gaia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112464,9 +113170,13 @@
     "lemma": "Krabbatos",
     "previous": "Κοτύλαιον 1",
     "next": "Kranae 2",
+    "proof_read": 3,
+    "short_description": "Ruhebett",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112490,9 +113200,13 @@
     "lemma": "Kratanion",
     "previous": "Kranae 2",
     "next": "Kratennas",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112516,9 +113230,13 @@
     "lemma": "Krateros 1a",
     "previous": "Kratennas",
     "next": "Krates 4a",
+    "proof_read": 3,
+    "short_description": "General Alexanders d. Gr., Sohn des Alexandros",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112527,12 +113245,13 @@
     "lemma": "Krates 4a",
     "previous": "Krateros 1a",
     "next": "Kratesikleia 2",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia 188 und 183 v. Chr.",
     "chapters": [
       {
         "start": 147,
-        "end": 147
+        "end": 147,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -112725,9 +113444,13 @@
     "lemma": "Kreophagoi",
     "previous": "Kreon 4a",
     "next": "Κρήσιον ὄρος",
+    "proof_read": 3,
+    "short_description": "Volk am Arabischen Meerbusen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112752,9 +113475,13 @@
     "lemma": "Kreta",
     "previous": "Κρήσιον ὄρος",
     "next": "Kretheus 1a",
+    "proof_read": 3,
+    "short_description": "Sprache",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112778,9 +113505,13 @@
     "lemma": "Krexos",
     "previous": "Kretheus 1a",
     "next": "Kriegskunst",
+    "proof_read": 3,
+    "short_description": "Dithyrambendichter um 400 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112805,9 +113536,12 @@
     "lemma": "Kriegsrecht",
     "previous": "Kriegskunst",
     "next": "Krios 7a",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112816,9 +113550,13 @@
     "lemma": "Krios 7a",
     "previous": "Kriegsrecht",
     "next": "Krios 9",
+    "proof_read": 3,
+    "short_description": "von Aigina, Geisel in Athen 5. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112827,9 +113565,13 @@
     "lemma": "Krios 9",
     "previous": "Krios 7a",
     "next": "Krisa 2",
+    "proof_read": 3,
+    "short_description": "Der Widder oder Sturmbock",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112838,9 +113580,13 @@
     "lemma": "Krisa 2",
     "previous": "Krios 9",
     "next": "Krisa 3",
+    "proof_read": 3,
+    "short_description": "Stadt in der Troas",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112862,9 +113608,13 @@
     "lemma": "Krisaios Kolpos 1",
     "previous": "Krisa 3",
     "next": "Krisaios Kolpos 2",
+    "proof_read": 3,
+    "short_description": "Teil des Korinthischen Golfs beim phokischen Krisa",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112873,9 +113623,13 @@
     "lemma": "Krisaios Kolpos 2",
     "previous": "Krisaios Kolpos 1",
     "next": "Kritasiros",
+    "proof_read": 3,
+    "short_description": "Bezeichnung für den Korinthischen Golf",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112884,9 +113638,13 @@
     "lemma": "Kritasiros",
     "previous": "Krisaios Kolpos 2",
     "next": "Kritias 6",
+    "proof_read": 3,
+    "short_description": "boischer König in Noricum 60 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 147,
+        "end": 147,
         "author": "Hans Gärtner."
       }
     ]
@@ -112895,9 +113653,13 @@
     "lemma": "Kritias 6",
     "previous": "Kritasiros",
     "next": "Kritobulos 2",
+    "proof_read": 3,
+    "short_description": "Lieblingsname auf einer attischen Vase",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -112906,9 +113668,13 @@
     "lemma": "Kritobulos 2",
     "previous": "Kritias 6",
     "next": "Kritodamos 2a",
+    "proof_read": 3,
+    "short_description": "von Torone, übernahm von Artabazos I. 479 v. Chr. Olynthos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -112917,9 +113683,13 @@
     "lemma": "Kritodamos 2a",
     "previous": "Kritobulos 2",
     "next": "Kritodamos 2b",
+    "proof_read": 3,
+    "short_description": "von Alopeke, gegen die Spartaner 405 v. Chr. gefallen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -112928,9 +113698,13 @@
     "lemma": "Kritodamos 2b",
     "previous": "Kritodamos 2a",
     "next": "Kritodamos 5",
+    "proof_read": 3,
+    "short_description": "von Alopeke, Trierarch 356 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -112939,9 +113713,13 @@
     "lemma": "Kritodamos 5",
     "previous": "Kritodamos 2b",
     "next": "Kritolaidas",
+    "proof_read": 3,
+    "short_description": "Schauspieler 169 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -112950,9 +113728,13 @@
     "lemma": "Kritolaidas",
     "previous": "Kritodamos 5",
     "next": "Kriton 2a",
+    "proof_read": 3,
+    "short_description": "spartanischer Schiedsrichter zwischen Athen und Megara 508 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -112961,9 +113743,13 @@
     "lemma": "Kriton 2a",
     "previous": "Kritolaidas",
     "next": "Kriton 7",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Delphi 106 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113003,9 +113789,13 @@
     "lemma": "Kroisos",
     "previous": "Kriton 11a",
     "next": "Krokodile und Eidechsen",
+    "proof_read": 3,
+    "short_description": "Lydischer König 6. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113014,9 +113804,13 @@
     "lemma": "Krokodile und Eidechsen",
     "previous": "Kroisos",
     "next": "Krokyleia 2",
+    "proof_read": 3,
+    "short_description": "s. Saura Nr. 2",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113025,9 +113819,13 @@
     "lemma": "Krokyleia 2",
     "previous": "Krokodile und Eidechsen",
     "next": "Kromna 2",
+    "proof_read": 3,
+    "short_description": "aitolischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113036,9 +113834,13 @@
     "lemma": "Kromna 2",
     "previous": "Krokyleia 2",
     "next": "Kronion pelagos",
+    "proof_read": 3,
+    "short_description": "Dorf im Gebiet von Korinth",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113047,9 +113849,13 @@
     "lemma": "Kronion pelagos",
     "previous": "Kromna 2",
     "next": "Krossos",
+    "proof_read": 3,
+    "short_description": "das nördliche Eismeer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113058,9 +113864,13 @@
     "lemma": "Krossos",
     "previous": "Kronion pelagos",
     "next": "Kruneion",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113069,9 +113879,13 @@
     "lemma": "Kruneion",
     "previous": "Krossos",
     "next": "Ktesiphon 5",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113080,9 +113894,13 @@
     "lemma": "Ktesiphon 5",
     "previous": "Kruneion",
     "next": "Kümmel",
+    "proof_read": 3,
+    "short_description": "babylonische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113091,9 +113909,12 @@
     "lemma": "Kümmel",
     "previous": "Ktesiphon 5",
     "next": "Kultbild",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113102,9 +113923,12 @@
     "lemma": "Kultbild",
     "previous": "Kümmel",
     "next": "Kultschriftsteller",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113113,9 +113937,12 @@
     "lemma": "Kultschriftsteller",
     "previous": "Kultbild",
     "next": "Kuß",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113124,9 +113951,12 @@
     "lemma": "Kuß",
     "previous": "Kultschriftsteller",
     "next": "Kutriguroi",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113135,9 +113965,13 @@
     "lemma": "Kutriguroi",
     "previous": "Kuß",
     "next": "Kybernesia",
+    "proof_read": 3,
+    "short_description": "Nomadenvolk am Tanais",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113146,9 +113980,13 @@
     "lemma": "Kybernesia",
     "previous": "Kutriguroi",
     "next": "Kybernis",
+    "proof_read": 3,
+    "short_description": "Fest der Seefahrer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113157,9 +113995,13 @@
     "lemma": "Kybernis",
     "previous": "Kybernesia",
     "next": "Kybistra",
+    "proof_read": 3,
+    "short_description": "athenischer Proxenos von Delphi 277 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113168,9 +114010,13 @@
     "lemma": "Kybistra",
     "previous": "Kybernis",
     "next": "Kybos",
+    "proof_read": 3,
+    "short_description": "kappadokisch-kilikische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113192,9 +114038,13 @@
     "lemma": "Kydas 3",
     "previous": "Kybos",
     "next": "Kydias 2a",
+    "proof_read": 3,
+    "short_description": "Gesandter Eumenes’ II. Soter nach Makedonien 169 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113203,9 +114053,13 @@
     "lemma": "Kydias 2a",
     "previous": "Kydas 3",
     "next": "Kydias 2b",
+    "proof_read": 3,
+    "short_description": "Athener, gegen die Gallier 279 v. Chr. gefallen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113214,9 +114068,13 @@
     "lemma": "Kydias 2b",
     "previous": "Kydias 2a",
     "next": "Kydna",
+    "proof_read": 3,
+    "short_description": "Schauspieler in Argos oder Umgebung 97–75 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113238,9 +114096,13 @@
     "lemma": "Kydnos",
     "previous": "Kydna",
     "next": "Kydon 3",
+    "proof_read": 3,
+    "short_description": "kilikischer Fluß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113249,9 +114111,13 @@
     "lemma": "Kydon 3",
     "previous": "Kydnos",
     "next": "Kydrara",
+    "proof_read": 3,
+    "short_description": "Byzantier, Gesandter nach Athen 378 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113260,9 +114126,13 @@
     "lemma": "Kydrara",
     "previous": "Kydon 3",
     "next": "Kyinda",
+    "proof_read": 3,
+    "short_description": "phrygische Grenzstadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113271,9 +114141,13 @@
     "lemma": "Kyinda",
     "previous": "Kydrara",
     "next": "Kykladion",
+    "proof_read": 3,
+    "short_description": "kilikischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113282,9 +114156,13 @@
     "lemma": "Kykladion",
     "previous": "Kyinda",
     "next": "Kyklas",
+    "proof_read": 3,
+    "short_description": "Lykadion, Golf an der Ostküste des Bosporos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113293,9 +114171,13 @@
     "lemma": "Kyklas",
     "previous": "Kykladion",
     "next": "Κυλ...",
+    "proof_read": 3,
+    "short_description": "Gewandbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113320,9 +114202,13 @@
     "lemma": "Kylichnis",
     "previous": "Κυλ...",
     "next": "Kylikes",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113331,9 +114217,13 @@
     "lemma": "Kylikes",
     "previous": "Kylichnis",
     "next": "Kylix",
+    "proof_read": 3,
+    "short_description": "Grabstätte des Kadmos und der Harmonia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113342,9 +114232,13 @@
     "lemma": "Kylix",
     "previous": "Kylikes",
     "next": "Kyllene 3",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113353,9 +114247,13 @@
     "lemma": "Kyllene 3",
     "previous": "Kylix",
     "next": "Kymbion",
+    "proof_read": 3,
+    "short_description": "Hafen an der NW-Küste von Elis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113364,9 +114262,13 @@
     "lemma": "Kymbion",
     "previous": "Kyllene 3",
     "next": "Kynaitha 1",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113375,9 +114277,13 @@
     "lemma": "Kynaitha 1",
     "previous": "Kymbion",
     "next": "Kynanthropie",
+    "proof_read": 3,
+    "short_description": "nordarkadische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113386,9 +114292,13 @@
     "lemma": "Kynanthropie",
     "previous": "Kynaitha 1",
     "next": "Kynegeiros",
+    "proof_read": 3,
+    "short_description": "Krankheit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113397,9 +114307,13 @@
     "lemma": "Kynegeiros",
     "previous": "Kynanthropie",
     "next": "Kynna",
+    "proof_read": 3,
+    "short_description": "athenischer Kämpfer bei Marathon 490 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113408,9 +114322,13 @@
     "lemma": "Kynna",
     "previous": "Kynegeiros",
     "next": "Kynopolites 1",
+    "proof_read": 3,
+    "short_description": "Stiefschwester Alexanders d. Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113419,9 +114337,13 @@
     "lemma": "Kynopolites 1",
     "previous": "Kynna",
     "next": "Kynosarion",
+    "proof_read": 3,
+    "short_description": "oberägyptischer Gau",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 148,
+        "end": 148,
         "author": "Hans Gärtner."
       }
     ]
@@ -113447,9 +114369,13 @@
     "lemma": "Kynos Kephalai 2",
     "previous": "Kynosarion",
     "next": "Kynuria 1",
+    "proof_read": 3,
+    "short_description": "Anhöhe westlich von Theben",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113458,9 +114384,13 @@
     "lemma": "Kynuria 1",
     "previous": "Kynos Kephalai 2",
     "next": "Kypellon",
+    "proof_read": 3,
+    "short_description": "östl. Vorland des Parnon-Gebirges",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113469,9 +114399,13 @@
     "lemma": "Kypellon",
     "previous": "Kynuria 1",
     "next": "Κυπρίδης",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113513,9 +114447,13 @@
     "lemma": "Kypsela 2",
     "previous": "Kypros 1",
     "next": "Kypsele",
+    "proof_read": 3,
+    "short_description": "Grenzfeste der Mantineer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113524,9 +114462,13 @@
     "lemma": "Kypsele",
     "previous": "Kypsela 2",
     "next": "Κυρέσχατα",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113551,9 +114493,13 @@
     "lemma": "Kyrillos 8",
     "previous": "Κυρέσχατα",
     "next": "Kyrillos 9",
+    "proof_read": 3,
+    "short_description": "der Ältere, berühmter Lehrer an der Rechtsschule von Berytos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113562,9 +114508,13 @@
     "lemma": "Kyrillos 9",
     "previous": "Kyrillos 8",
     "next": "Κυρόπολις 1",
+    "proof_read": 3,
+    "short_description": "der Jüngere, Jurist 6. Jh. n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113699,9 +114649,13 @@
     "lemma": "Kyrsilida",
     "previous": "Kyros 7",
     "next": "Κυρσιλίς",
+    "proof_read": 3,
+    "short_description": "Grenzstadt der Landschaft Achaia Phthiotis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113742,9 +114696,13 @@
     "lemma": "Kytnoi",
     "previous": "Kytinion",
     "next": "Λαβασσοάρασκος",
+    "proof_read": 3,
+    "short_description": "Volk in Pannonia superior",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113753,9 +114711,13 @@
     "lemma": "Λαβασσοάρασκος",
     "previous": "Kytnoi",
     "next": "Labbana",
+    "proof_read": 3,
+    "short_description": "Labassoaraskos, babylonischer König 556 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113764,9 +114726,13 @@
     "lemma": "Labbana",
     "previous": "Λαβασσοάρασκος",
     "next": "Laberius 3",
+    "proof_read": 3,
+    "short_description": "mesopotamische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113775,9 +114741,13 @@
     "lemma": "Laberius 3",
     "previous": "Labbana",
     "next": "Laberius 9",
+    "proof_read": 3,
+    "short_description": "Mimendichter 1. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113802,9 +114772,13 @@
     "lemma": "Laberius 21a",
     "previous": "Laberius 9",
     "next": "Labio 1",
+    "proof_read": 3,
+    "short_description": "Laberia Marcia Hostilia, Gattin des C. Bruttius",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113813,9 +114787,13 @@
     "lemma": "Labio 1",
     "previous": "Laberius 21a",
     "next": "Lacerta 2",
+    "proof_read": 3,
+    "short_description": "südgallischer Sigillatatöpfer in La Graufesenque 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113824,9 +114802,13 @@
     "lemma": "Lacerta 2",
     "previous": "Labio 1",
     "next": "Lachmas",
+    "proof_read": 3,
+    "short_description": "kleiner Seefisch",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113850,9 +114832,13 @@
     "lemma": "Laconius",
     "previous": "Lachmas",
     "next": "Ladoineris",
+    "proof_read": 3,
+    "short_description": "Ratgeber des Burgunderkönigs Gundobad 500 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113861,9 +114847,13 @@
     "lemma": "Ladoineris",
     "previous": "Laconius",
     "next": "Laelianus 2a",
+    "proof_read": 3,
+    "short_description": "Ort in der Landschaft Melitene",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113872,9 +114862,13 @@
     "lemma": "Laelianus 2a",
     "previous": "Ladoineris",
     "next": "Laesora",
+    "proof_read": 3,
+    "short_description": "Antiochener im 4. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113883,9 +114877,13 @@
     "lemma": "Laesora",
     "previous": "Laelianus 2a",
     "next": "Laepia",
+    "proof_read": 3,
+    "short_description": "Berg im gall. Cebenna Mons",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113894,9 +114892,13 @@
     "lemma": "Laepia",
     "previous": "Laesora",
     "next": "Laetus 1a",
+    "proof_read": 3,
+    "short_description": "Stadt im hispanischen conventus Gaditanus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113905,9 +114907,13 @@
     "lemma": "Laetus 1a",
     "previous": "Laepia",
     "next": "Laetus 1b",
+    "proof_read": 3,
+    "short_description": "Spanier unter Theoderich d. Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113916,9 +114922,13 @@
     "lemma": "Laetus 1b",
     "previous": "Laetus 1a",
     "next": "Laetus 5a",
+    "proof_read": 3,
+    "short_description": "Bischof im byzacenischen Nepte, Märtyrer 484 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113927,9 +114937,13 @@
     "lemma": "Laetus 5a",
     "previous": "Laetus 1b",
     "next": "Lagynos",
+    "proof_read": 3,
+    "short_description": "Quintilius L., praef. urbi zwischen 395 und 408 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113938,9 +114952,13 @@
     "lemma": "Lagynos",
     "previous": "Laetus 5a",
     "next": "Laidas",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -113949,9 +114967,13 @@
     "lemma": "Laidas",
     "previous": "Lagynos",
     "next": "Lairbenos",
+    "proof_read": 3,
+    "short_description": "Hoplomachos in Gytheion, Sohn des Damippidas von Sparta",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 149,
+        "end": 149,
         "author": "Hans Gärtner."
       }
     ]
@@ -114007,9 +115029,13 @@
     "lemma": "Laistrygonen",
     "previous": "Laischa",
     "next": "Lakereia 2",
+    "proof_read": 3,
+    "short_description": "menschenfressende Riesen der Odyssee",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114018,9 +115044,13 @@
     "lemma": "Lakereia 2",
     "previous": "Laistrygonen",
     "next": "Lakkos Asphar",
+    "proof_read": 3,
+    "short_description": "früherer Name von Hermion(e), Stadt an der SO-Küste der Argolis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114029,9 +115059,13 @@
     "lemma": "Lakkos Asphar",
     "previous": "Lakereia 2",
     "next": "Lakkum",
+    "proof_read": 3,
+    "short_description": "Wasserstelle südlich von Jerusalem",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114055,9 +115089,13 @@
     "lemma": "Lakmon",
     "previous": "Lakkum",
     "next": "Lakonikos kolpos",
+    "proof_read": 3,
+    "short_description": "epeirotisches Gebirge",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114065,21 +115103,33 @@
   {
     "lemma": "Lakonikos kolpos",
     "previous": "Lakmon",
-    "next": "Lala 1a",
+    "next": "Lala 1",
+    "proof_read": 3,
+    "short_description": "Golf an der peloponnesischen Südküste",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
+    "lemma": "Lala 1",
+    "previous": "Lakonikos kolpos"
+  },
+  {
     "lemma": "Lala 1a",
     "previous": "Lakonikos kolpos",
     "next": "Lalaikos",
+    "proof_read": 3,
+    "short_description": "nordarmenischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114088,9 +115138,13 @@
     "lemma": "Lalaikos",
     "previous": "Lala 1a",
     "next": "Lampadius 11",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114099,9 +115153,13 @@
     "lemma": "Lampadius 11",
     "previous": "Lalaikos",
     "next": "Lampadius 12",
+    "proof_read": 3,
+    "short_description": "Konsul 530 n. Chr., Nachkomme des Postumius L.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114110,9 +115168,13 @@
     "lemma": "Lampadius 12",
     "previous": "Lampadius 11",
     "next": "Lampetius 1",
+    "proof_read": 3,
+    "short_description": "Bischof von Urbs Salvia 499 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114136,9 +115198,13 @@
     "lemma": "Lampetius 2",
     "previous": "Lampetius 1",
     "next": "Lampitos 2",
+    "proof_read": 3,
+    "short_description": "messalianischer Priester 5. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114162,9 +115228,13 @@
     "lemma": "Lampius",
     "previous": "Lampitos 2",
     "next": "Lamponianos",
+    "proof_read": 3,
+    "short_description": "Bischof von Barcino 394 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114173,9 +115243,13 @@
     "lemma": "Lamponianos",
     "previous": "Lampius",
     "next": "Lamprias 5",
+    "proof_read": 3,
+    "short_description": "Priester im libyschen Ptolemais 5. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114184,9 +115258,13 @@
     "lemma": "Lamprias 5",
     "previous": "Lamponianos",
     "next": "Lamprias 6",
+    "proof_read": 3,
+    "short_description": "Aulet 4. Jh. v. Chr., Sohn des Eucharides",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114240,9 +115318,13 @@
     "lemma": "Lamud...",
     "previous": "Lampsus 2",
     "next": "Lamynthios",
+    "proof_read": 3,
+    "short_description": "Ort in Moesia superior",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114251,9 +115333,13 @@
     "lemma": "Lamynthios",
     "previous": "Lamud...",
     "next": "Lanthacarius",
+    "proof_read": 3,
+    "short_description": "von Milet, Dichter",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114262,9 +115348,13 @@
     "lemma": "Lanthacarius",
     "previous": "Lamynthios",
     "next": "Lapithes 1",
+    "proof_read": 3,
+    "short_description": "Heerführer in Italien unter dem Frankenkönig Theodebert I.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114369,9 +115459,13 @@
     "lemma": "Lappius",
     "previous": "Lapithes 6",
     "next": "Largius 3a",
+    "proof_read": 3,
+    "short_description": "A. Bucius L. Maximus, cos. I suff. 86 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114395,9 +115489,13 @@
     "lemma": "Lartidius 1a",
     "previous": "Largius 3a",
     "next": "Lasa 2",
+    "proof_read": 3,
+    "short_description": "M. L., pr(aetor) (?), Sohn des Sex. L., Gatte der Varena",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114451,9 +115549,13 @@
     "lemma": "Latinus 8",
     "previous": "Latinilla",
     "next": "Latinus 9",
+    "proof_read": 3,
+    "short_description": "v. i. und Patricius, Gesandter nach Konstantinopel 476 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114462,9 +115564,13 @@
     "lemma": "Latinus 9",
     "previous": "Latinus 8",
     "next": "Latinus 10",
+    "proof_read": 3,
+    "short_description": "Bischof von Brixia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114486,9 +115592,13 @@
     "lemma": "Latos 1",
     "previous": "Latinus 10",
     "next": "Latronianus 2",
+    "proof_read": 3,
+    "short_description": "ostkretische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114497,9 +115607,13 @@
     "lemma": "Latronianus 2",
     "previous": "Latos 1",
     "next": "Lavatrae, Levatrae",
+    "proof_read": 3,
+    "short_description": "Laienanhänger des Priscillianus 385 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114508,9 +115622,13 @@
     "lemma": "Lavatrae, Levatrae",
     "previous": "Latronianus 2",
     "next": "Laudaricus",
+    "proof_read": 3,
+    "short_description": "römischer Ort in Britannien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114519,9 +115637,13 @@
     "lemma": "Laudaricus",
     "previous": "Lavatrae, Levatrae",
     "next": "Laugaricio",
+    "proof_read": 3,
+    "short_description": "Verwandter des Hunnenkönigs Attila",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114558,9 +115680,13 @@
     "lemma": "Laurentia 1",
     "previous": "Launio 2",
     "next": "Laurentia 2",
+    "proof_read": 3,
+    "short_description": "Mutter des Papstes Damasos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114569,9 +115695,13 @@
     "lemma": "Laurentia 2",
     "previous": "Laurentia 1",
     "next": "Laurentius 7",
+    "proof_read": 3,
+    "short_description": "f. s. im 5./6. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -114610,9 +115740,13 @@
     "lemma": "Laurentius 9",
     "previous": "Laurentius 8",
     "next": "Laurentius 10",
+    "proof_read": 3,
+    "short_description": "v. s. (?) im J. 452 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 150,
+        "end": 150,
         "author": "Hans Gärtner."
       }
     ]
@@ -130559,6 +131693,8 @@
     "proof_read": 3,
     "short_description": "C. O. Appius Suetrius Sabinus, cos. ord. 214 und 240 n. Chr.",
     "no_creative_height": true,
+    "wp_link": "w:de:Gaius Suetrius Sabinus",
+    "wd_link": "d:Q329566",
     "chapters": [
       {
         "start": 177,
@@ -147852,6 +148988,7 @@
   },
   {
     "lemma": "Simeonius (Symionius)",
+    "previous": "Simakos",
     "next": "Simermon",
     "chapters": [
       {
