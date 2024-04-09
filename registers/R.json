@@ -116943,17 +116943,6 @@
   {
     "lemma": "Leontion a",
     "previous": "Leonticus",
-    "next": "Leontion 4",
-    "chapters": [
-      {
-        "start": 152,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Leontion 4",
-    "previous": "Leontion a",
     "next": "Leontios 6",
     "chapters": [
       {
@@ -116964,7 +116953,7 @@
   },
   {
     "lemma": "Leontios 6",
-    "previous": "Leontion 4",
+    "previous": "Leontion a",
     "next": "Leontios 7",
     "chapters": [
       {
@@ -118329,7 +118318,7 @@
   {
     "lemma": "Lex Antistia",
     "previous": "Lex Antia",
-    "next": "Lex Antonia 1",
+    "next": "Lex Antonia 1.6",
     "chapters": [
       {
         "start": 154,
@@ -118338,8 +118327,19 @@
     ]
   },
   {
-    "lemma": "Lex Antonia 1",
+    "lemma": "Lex Antonia 1.6",
     "previous": "Lex Antistia",
+    "next": "Lex Antonia 1.7",
+    "chapters": [
+      {
+        "start": 154,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Antonia 1.7",
+    "previous": "Lex Antonia 1.6",
     "next": "Lex Antonia 3",
     "chapters": [
       {
@@ -118350,7 +118350,7 @@
   },
   {
     "lemma": "Lex Antonia 3",
-    "previous": "Lex Antonia 1",
+    "previous": "Lex Antonia 1.7",
     "next": "Lex Antonia 4",
     "sort_key": "Lex Antonia 3",
     "proof_read": 3,
@@ -118405,7 +118405,7 @@
   {
     "lemma": "Leges de bello indicendo",
     "previous": "Lex Baebia 2",
-    "next": "Lex Canuleia 1",
+    "next": "Lex Canuleia 1.2",
     "chapters": [
       {
         "start": 154,
@@ -118414,7 +118414,7 @@
     ]
   },
   {
-    "lemma": "Lex Canuleia 1",
+    "lemma": "Lex Canuleia 1.2",
     "previous": "Leges de bello indicendo",
     "next": "Lex Cicereia de sponsu",
     "chapters": [
@@ -118426,7 +118426,7 @@
   },
   {
     "lemma": "Lex Cicereia de sponsu",
-    "previous": "Lex Canuleia 1",
+    "previous": "Lex Canuleia 1.2",
     "next": "Lex de clavo pangendo",
     "sort_key": "Lex Cicereia de sponsu",
     "proof_read": 3,
@@ -119641,17 +119641,6 @@
   {
     "lemma": "Leges Semproniae 4",
     "previous": "Leges Semproniae 3",
-    "next": "Leges Semproniae 5",
-    "chapters": [
-      {
-        "start": 156,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Leges Semproniae 5",
-    "previous": "Leges Semproniae 4",
     "next": "Leges Serviliae 3",
     "chapters": [
       {
@@ -119662,7 +119651,7 @@
   },
   {
     "lemma": "Leges Serviliae 3",
-    "previous": "Leges Semproniae 5",
+    "previous": "Leges Semproniae 4",
     "next": "Leges Sulpiciae 1",
     "sort_key": "Lex Serviliae 3",
     "proof_read": 3,
