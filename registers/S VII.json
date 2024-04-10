@@ -3813,6 +3813,9 @@
     "lemma": "Lex Vibia 1",
     "previous": "Lex Vallia",
     "next": "Lex Vibia 2",
+    "proof_read": 2,
+    "short_description": "Gesetz über die Abschaffung der Diktatur",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 416,
@@ -3823,8 +3826,31 @@
   },
   {
     "lemma": "Lex Vibia 2",
-    "previous": "Lex Vibia 1",
+    "previous": "Lex Vibia 1"
+  },
+  {
+    "lemma": "Lex Vibia, Leges Vibiae",
+    "previous": "Lex Vallia",
     "next": "Libella 1",
+    "sort_key": "Lex vibia",
+    "proof_read": 2,
+    "short_description": "Gesetz über die Abschaffung der Diktatur",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 416,
+        "end": 416,
+        "author": "Adolf Berger."
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Vibia 2",
+    "next": "Libella 1",
+    "sort_key": "Lex vibia",
+    "proof_read": 2,
+    "short_description": "L. V. de coloniis deducendis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 416,
