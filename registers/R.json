@@ -2286,7 +2286,7 @@
   {
     "lemma": "Ad-",
     "previous": "Acutus 2",
-    "next": "Ad Malum",
+    "next": "Ad Vicesimum",
     "sort_key": "Ad",
     "proof_read": 3,
     "short_description": "Ortsbezeichnungen in den Kursbüchern (Itinerarien) unter die Hauptnamen",
@@ -2300,24 +2300,8 @@
     ]
   },
   {
-    "lemma": "Ad Malum",
-    "previous": "Ad-",
-    "next": "Ad Vicesimum",
-    "sort_key": "Admalum",
-    "proof_read": 3,
-    "short_description": "Station an der Militärstraße ab Aquileia per Liburniam Sisciam",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 8,
-        "end": 8,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Ad Vicesimum",
-    "previous": "Ad Malum",
+    "previous": "Ad-",
     "next": "Ada 2",
     "sort_key": "Vicesimum 0",
     "proof_read": 3,
@@ -123334,7 +123318,7 @@
   {
     "lemma": "Malla",
     "previous": "Malioi",
-    "next": "Malliator",
+    "next": "Ad Malum",
     "chapters": [
       {
         "start": 161,
@@ -123343,8 +123327,11 @@
     ]
   },
   {
+    "lemma": "Ad Malum"
+  },
+  {
     "lemma": "Malliator",
-    "previous": "Malla",
+    "previous": "Ad Malum",
     "next": "Mallius 11a",
     "chapters": [
       {
@@ -124257,7 +124244,7 @@
   {
     "lemma": "Martinianus 9",
     "previous": "Martiannius",
-    "next": "Martinianus 20",
+    "next": "Marullus 5",
     "proof_read": 3,
     "short_description": "Sklave (armifactor) eines vandal. millenarius 5. Jh. n. Chr. Märtyrer",
     "no_creative_height": true,
@@ -124270,19 +124257,8 @@
     ]
   },
   {
-    "lemma": "Martinianus 20",
-    "previous": "Martinianus 9",
-    "next": "Marullus 5",
-    "chapters": [
-      {
-        "start": 163,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Marullus 5",
-    "previous": "Martinianus 20",
+    "previous": "Martinianus 9",
     "next": "Masticius",
     "chapters": [
       {
@@ -127741,7 +127717,7 @@
   {
     "lemma": "Menedemos 13",
     "previous": "Menedemos 4b",
-    "next": "Menedemos 14",
+    "next": "Menekles 2a",
     "proof_read": 3,
     "short_description": "aus Alabanda, Offizier Antiochos’ des Großen im Vierten Syrischen Krieg",
     "no_creative_height": true,
@@ -127754,33 +127730,8 @@
     ]
   },
   {
-    "lemma": "Menedemos 14",
-    "previous": "Menedemos 13",
-    "next": "Menedemos 15",
-    "chapters": [
-      {
-        "start": 168,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Menedemos 15",
-    "previous": "Menedemos 14",
-    "next": "Menekles 2a",
-    "redirect": "Menedemos 13",
-    "proof_read": 3,
-    "short_description": "s. 13)",
-    "chapters": [
-      {
-        "start": 168,
-        "end": 168
-      }
-    ]
-  },
-  {
     "lemma": "Menekles 2a",
-    "previous": "Menedemos 15",
+    "previous": "Menedemos 13",
     "next": "Menekrates 19a",
     "chapters": [
       {
