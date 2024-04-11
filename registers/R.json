@@ -2286,7 +2286,7 @@
   {
     "lemma": "Ad-",
     "previous": "Acutus 2",
-    "next": "Ad Vicesimum",
+    "next": "Ad Malum",
     "sort_key": "Ad",
     "proof_read": 3,
     "short_description": "Ortsbezeichnungen in den Kursbüchern (Itinerarien) unter die Hauptnamen",
@@ -2300,8 +2300,22 @@
     ]
   },
   {
+    "lemma": "Ad Malum",
+    "sort_key": "Admalum",
+    "proof_read": 3,
+    "short_description": "Station an der Militärstraße ab Aquileia per Liburniam Sisciam",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 8,
+        "end": 8,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
     "lemma": "Ad Vicesimum",
-    "previous": "Ad-",
+    "previous": "Ad Malum",
     "next": "Ada 2",
     "sort_key": "Vicesimum 0",
     "proof_read": 3,
@@ -123500,23 +123514,9 @@
     ]
   },
   {
-    "lemma": "Ad Malum",
-    "sort_key": "Admalum",
-    "proof_read": 3,
-    "short_description": "Station an der Militärstraße ab Aquileia per Liburniam Sisciam",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 8,
-        "end": 8,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Malliator",
     "previous": "Malla",
-    "next": "Ad Malum",
+    "next": "Mallius 11a",
     "proof_read": 3,
     "short_description": "der Münzhandwerker",
     "no_creative_height": true,
@@ -123529,13 +123529,8 @@
     ]
   },
   {
-    "lemma": "Ad Malum",
-    "previous": "Malliator",
-    "next": "Mallius 11a"
-  },
-  {
     "lemma": "Mallius 11a",
-    "previous": "Ad Malum",
+    "previous": "Malliator",
     "next": "Mamali",
     "proof_read": 3,
     "short_description": "M. Crassus, Dioiket in Aegypten im J. 159 n. Chr.",
