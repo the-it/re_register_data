@@ -4628,7 +4628,7 @@
   {
     "lemma": "Neilon 2",
     "previous": "Neilon 1",
-    "next": "Neilos 1bis",
+    "next": "Neilos 3",
     "proof_read": 2,
     "short_description": "Briefadressat des Isidoros von Pelusion",
     "no_creative_height": true,
@@ -4641,9 +4641,9 @@
     ]
   },
   {
-    "lemma": "Neilos 1bis",
+    "lemma": "Neilos 3",
     "previous": "Neilon 2",
-    "next": "Neilos 2bis",
+    "next": "Neilos 4",
     "short_description": "Aegypt. Bischof und Märtyrer unter Galerius und Maximinus Daia",
     "chapters": [
       {
@@ -4653,9 +4653,9 @@
     ]
   },
   {
-    "lemma": "Neilos 2bis",
-    "previous": "Neilos 1bis",
-    "next": "Neilos 3",
+    "lemma": "Neilos 4",
+    "previous": "Neilos 3",
+    "next": "Neilos 3a",
     "short_description": "Aegypt. Bischof, Teilnehmer an der Synode von Serdica im J. 341 n. Chr.",
     "chapters": [
       {
@@ -4665,23 +4665,8 @@
     ]
   },
   {
-    "lemma": "Neilos 3",
-    "previous": "Neilos 2bis",
-    "next": "Neilos 3a",
-    "proof_read": 2,
-    "short_description": "Scholasticus, Briefadressat des Isidoros von Pelusion",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 561,
-        "end": 561,
-        "author": "W. Enßlin."
-      }
-    ]
-  },
-  {
     "lemma": "Neilos 3a",
-    "previous": "Neilos 3",
+    "previous": "Neilos 4",
     "next": "Neilos 3b",
     "proof_read": 2,
     "short_description": "Grammatiker, Briefadressat des Isidoros von Pelusion",
@@ -4742,7 +4727,7 @@
   {
     "lemma": "Nemea 5",
     "previous": "Neilos 3d",
-    "next": "Nemesius (K) 8",
+    "next": "Nemesius 8",
     "short_description": "Westlokr. Stadt(?)",
     "chapters": [
       {
@@ -4752,7 +4737,7 @@
     ]
   },
   {
-    "lemma": "Nemesius (K) 8",
+    "lemma": "Nemesius 8",
     "previous": "Nemea 5",
     "next": "Neokleides 2",
     "short_description": "Nemesios, Bischof von Emesa etwa um 400 n. Chr.",
@@ -4765,7 +4750,7 @@
   },
   {
     "lemma": "Neokleides 2",
-    "previous": "Nemesius (K) 8",
+    "previous": "Nemesius 8",
     "next": "Nesaie",
     "short_description": "Mathematiker um das J. 400 v. Chr.",
     "chapters": [
