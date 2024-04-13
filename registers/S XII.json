@@ -1320,7 +1320,7 @@
   {
     "lemma": "Arsinoë 15",
     "previous": "Arsinoë 12a",
-    "next": "Articuleius 3a",
+    "next": "Articuleius 2a",
     "proof_read": 3,
     "short_description": "die aitolische Stadt Konopa, nahe dem Acheloos 3. Jh. v. Chr.",
     "no_creative_height": true,
@@ -1334,6 +1334,21 @@
   },
   {
     "lemma": "Articuleius 3a",
+    "proof_read": 3,
+    "short_description": "cos. suff, 78 n. Chr. Q. A. Paetus, cos. suff. im J. 78 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Quintus Articuleius Paetus (Konsul 78)",
+    "wd_link": "d:Q82239067",
+    "chapters": [
+      {
+        "start": 99,
+        "end": 99,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Articuleius 2a",
     "previous": "Arsinoë 15",
     "next": "Artorius 7a",
     "proof_read": 3,
@@ -1351,7 +1366,7 @@
   },
   {
     "lemma": "Artorius 7a",
-    "previous": "Articuleius 3a",
+    "previous": "Articuleius 2a",
     "next": "Arulenus 1",
     "proof_read": 3,
     "short_description": "L. A. Pius Maximus, Stadtpräfekt 298 n. Chr., Statthalter von Asia",
@@ -1713,7 +1728,7 @@
   {
     "lemma": "Bappo 2",
     "previous": "Balchobaudes",
-    "next": "Barbius 1a",
+    "next": "Barbius a",
     "short_description": "Tribun der promoti im J. 355 n. Chr.",
     "chapters": [
       {
@@ -1725,8 +1740,24 @@
   },
   {
     "lemma": "Barbius 1a",
+    "proof_read": 3,
+    "short_description": "M. B. Aemilianus, cos. suff. 140 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Marcus Barbius Aemilianus",
+    "wd_link": "d:Q12286060",
+    "chapters": [
+      {
+        "start": 131,
+        "end": 131,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Barbius a",
     "previous": "Bappo 2",
     "next": "Bassa 2",
+    "sort_key": "Barbius 0",
     "proof_read": 3,
     "short_description": "M. B. Aemilianus, cos. suff. 140 n. Chr.",
     "no_creative_height": true,
@@ -1742,7 +1773,7 @@
   },
   {
     "lemma": "Bassa 2",
-    "previous": "Barbius 1a",
+    "previous": "Barbius a",
     "next": "Bassilla",
     "proof_read": 3,
     "short_description": "Gattin des Q. Vitellius",
@@ -3244,6 +3275,7 @@
     "lemma": "Dasumius aa",
     "previous": "Cutius 1a",
     "next": "Demokritos 6",
+    "sort_key": "Dasumius 00",
     "proof_read": 3,
     "short_description": "L. D. Hadrianus, cos. suff. 93 n. Chr., procos. Asiae",
     "no_creative_height": true,

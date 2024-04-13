@@ -7412,6 +7412,7 @@
     "lemma": "Alkippos",
     "previous": "Alkinoe 4",
     "next": "Alkithos",
+    "sort_key": "Alkippos 1",
     "proof_read": 3,
     "short_description": "von Paros, Bildhauer um 400 v. Chr.",
     "chapters": [
@@ -17331,8 +17332,10 @@
     "lemma": "Arkesos a",
     "previous": "Arkesine 1",
     "next": "Arkeuthoeis",
+    "sort_key": "Arkesos 0",
     "redirect": "Arkissos",
     "proof_read": 3,
+    "short_description": "spartlanischer Harmost 379 v. Chr.",
     "chapters": [
       {
         "start": 137,
@@ -18240,7 +18243,7 @@
   {
     "lemma": "Arthetauros",
     "previous": "Artemon 26a",
-    "next": "Articuleius 3",
+    "next": "Articuleius 2a",
     "proof_read": 3,
     "short_description": "Illyr. Fürst in der 1. H. des 2. Jh. v. Chr.",
     "chapters": [
@@ -18252,13 +18255,13 @@
     ]
   },
   {
-    "lemma": "Articuleius 3",
+    "lemma": "Articuleius 2a",
     "previous": "Arthetauros",
     "next": "Artio dea",
     "proof_read": 3,
-    "short_description": "Paetus, Q. cos. ord. 101 n. Chr.",
-    "wp_link": "w:de:Quintus Articuleius Paetus (Konsul 101)",
-    "wd_link": "d:Q82238997",
+    "short_description": "cos. suff, 78 n. Chr. Q. A. Paetus, cos. suff. im J. 78 n. Chr.",
+    "wp_link": "w:de:Quintus Articuleius Paetus (Konsul 78)",
+    "wd_link": "d:Q82239067",
     "chapters": [
       {
         "start": 145,
@@ -18269,7 +18272,7 @@
   },
   {
     "lemma": "Artio dea",
-    "previous": "Articuleius 3",
+    "previous": "Articuleius 2a",
     "next": "Ἀρτιστήρ",
     "proof_read": 3,
     "short_description": "kelt. Gottheit",
@@ -18543,7 +18546,7 @@
   {
     "lemma": "Arzanene",
     "previous": "Arzamon",
-    "next": "Arzygius",
+    "next": "Arzygius a",
     "proof_read": 3,
     "short_description": "Landschaft der Provinz Aghznig in Grossarmenien, jenseits des Tigris",
     "wp_link": "w:de:Arzanene",
@@ -18558,8 +18561,6 @@
   },
   {
     "lemma": "Arzygius",
-    "previous": "Arzanene",
-    "next": "As",
     "proof_read": 3,
     "short_description": "Betitius Perpetuus A., Consularis Tusciae et Umbriae nach 366 n. Chr.",
     "chapters": [
@@ -18571,8 +18572,23 @@
     ]
   },
   {
+    "lemma": "Arzygius a",
+    "previous": "Arzanene",
+    "next": "As",
+    "sort_key": "Arzygius 0",
+    "proof_read": 3,
+    "short_description": "Betitius Perpetuus A., Corrector der Provinz Sicilia 315–337 n. Chr",
+    "chapters": [
+      {
+        "start": 147,
+        "end": 148,
+        "author": "Wissowa."
+      }
+    ]
+  },
+  {
     "lemma": "As",
-    "previous": "Arzygius",
+    "previous": "Arzygius a",
     "next": "Asaak",
     "proof_read": 3,
     "short_description": "Röm. Münze",
@@ -21991,6 +22007,7 @@
     "lemma": "Autophradates a",
     "previous": "Autonomos",
     "next": "Autrigones",
+    "sort_key": "Autophradates 0",
     "proof_read": 3,
     "short_description": "Satrap von Lydien unter Artaxerxes II.",
     "wp_link": "w:de:Autophradates (Lydien)",
@@ -28207,6 +28224,7 @@
     "lemma": "Casus a",
     "previous": "Castus 4",
     "next": "Catabana",
+    "sort_key": "Casus 0",
     "redirect": "Kazanes",
     "proof_read": 3,
     "short_description": "Phryg. Fluß = Kazanes",
@@ -28220,7 +28238,7 @@
   {
     "lemma": "Catabana",
     "previous": "Casus a",
-    "next": "Catellius 1a",
+    "next": "Catellius a",
     "proof_read": 3,
     "short_description": "Ort in der Landschaft Kommagene",
     "chapters": [
@@ -28232,9 +28250,22 @@
     ]
   },
   {
-    "lemma": "Catellius 1a",
+    "lemma": "Catellius a",
     "previous": "Catabana",
     "next": "Catilius 3",
+    "sort_key": "Catellius 0",
+    "proof_read": 3,
+    "short_description": "Legat der Provinz Galatia im 1. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 279,
+        "end": 279,
+        "author": "Groag."
+      }
+    ]
+  },
+  {
+    "lemma": "Catellius 1a",
     "proof_read": 3,
     "short_description": "Legat der Provinz Galatia im 1. Jh. n. Chr.",
     "chapters": [
@@ -28247,7 +28278,7 @@
   },
   {
     "lemma": "Catilius 3",
-    "previous": "Catellius 1a",
+    "previous": "Catellius a",
     "next": "Catilius 4",
     "proof_read": 3,
     "short_description": "Cn. C. Severus, Mitglied im consilium des Severus Alexander",
@@ -31185,7 +31216,7 @@
   {
     "lemma": "Cornelius a",
     "previous": "Cornelianus 7",
-    "next": "Cornelius 10a",
+    "next": "Cornelius 10a-e",
     "sort_key": "Cornelius 000a",
     "proof_read": 3,
     "short_description": "Sanctus C., Bischofssitz der Eparchie Hellespontos, Skapsis ab 5. Jh. n. Chr.",
@@ -31198,8 +31229,36 @@
     ]
   },
   {
-    "lemma": "Cornelius 10a",
+    "lemma": "Cornelius 10a-e",
     "previous": "Cornelius a",
+    "next": "Cornelius 10f",
+    "proof_read": 3,
+    "short_description": "Name von fünf kalatores pontificum et flaminum in den J. 101 und 102 n. Chr.",
+    "chapters": [
+      {
+        "start": 328,
+        "end": 328,
+        "author": "Groag."
+      }
+    ]
+  },
+  {
+    "lemma": "Cornelius 10f",
+    "previous": "Cornelius 10a-e",
+    "next": "Cornelius 40",
+    "sort_key": "Cornelius 010f",
+    "proof_read": 3,
+    "short_description": "Cornelius von Aphrodisiai, Bildhauer der frühen Kaiserzeit",
+    "chapters": [
+      {
+        "start": 328,
+        "end": 328,
+        "author": "C. Robert."
+      }
+    ]
+  },
+  {
+    "lemma": "Cornelius 10a",
     "next": "Cornelius 10f",
     "proof_read": 3,
     "short_description": "Name von fünf kalatores pontificum et flaminum in den J. 101 und 102 n. Chr.",
@@ -31771,6 +31830,19 @@
   {
     "lemma": "Crispinus 15a",
     "previous": "Crispinus 7a",
+    "proof_read": 3,
+    "short_description": "[---]nius Gallus Vecilius C. Mansuanius Marcellinus, leg. Aug. pr. pr.",
+    "chapters": [
+      {
+        "start": 332,
+        "end": 332,
+        "author": "C. Robert."
+      }
+    ]
+  },
+  {
+    "lemma": "Crispinus 4a",
+    "previous": "Crispinus 7a",
     "next": "Crispus 7a",
     "proof_read": 3,
     "short_description": "[---]nius Gallus Vecilius C. Mansuanius Marcellinus, leg. Aug. pr. pr.",
@@ -31784,7 +31856,7 @@
   },
   {
     "lemma": "Crispus 7a",
-    "previous": "Crispinus 15a",
+    "previous": "Crispinus 4a",
     "next": "Crispus 7b",
     "sort_key": "Crispus 07a",
     "proof_read": 3,
@@ -31843,6 +31915,7 @@
     "lemma": "Culleolus a",
     "previous": "Cubi",
     "next": "Cura 4",
+    "sort_key": "Culleolus 0",
     "proof_read": 3,
     "short_description": "genannt bei Cicero ad. Att.",
     "chapters": [

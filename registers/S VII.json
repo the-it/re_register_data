@@ -903,7 +903,7 @@
   {
     "lemma": "Dasumius 1",
     "previous": "Daitos",
-    "next": "Dasumius 1a",
+    "next": "Dasumius a",
     "proof_read": 3,
     "short_description": "L. D. Tullius Tuscus, cos. suff. 152 n. Chr., Sohn des P. D. Nr. [a]",
     "wp_link": "w:de:Lucius Dasumius Tullius Tuscus",
@@ -917,12 +917,10 @@
     ]
   },
   {
-    "lemma": "Dasumius 1a",
+    "lemma": "Dasumius a",
     "previous": "Dasumius 1",
     "next": "Δεῖγμα",
-    "short_description": "P. D. Rusticus, cos. ord. 119 n. Chr.",
-    "wp_link": "w:de:Publius Dasumius Rusticus",
-    "wd_link": "d:Q11944275",
+    "short_description": "s. Dasumius 1a)",
     "chapters": [
       {
         "start": 115,
@@ -933,7 +931,7 @@
   },
   {
     "lemma": "Δεῖγμα",
-    "previous": "Dasumius 1a",
+    "previous": "Dasumius a",
     "next": "Δειγματοάρτης",
     "sort_key": "Deigma",
     "proof_read": 3,
@@ -1058,6 +1056,7 @@
     "lemma": "Diadochos a",
     "previous": "Derkylos 2",
     "next": "Diakrioi",
+    "sort_key": "Diadochos 0",
     "proof_read": 2,
     "short_description": "Angehöriger der untersten Rangklasse am Hof der Ptolemaier",
     "wp_link": "w:de:Diadochen",
@@ -2720,9 +2719,9 @@
     "lemma": "Leukos a",
     "previous": "Leukai Korai",
     "next": "Lex Acilia de intercalando",
-    "sort_key": "Leukosa",
+    "sort_key": "Leukos 0",
     "proof_read": 2,
-    "short_description": "Maked. Fluß",
+    "short_description": "makedonischer Fluß",
     "chapters": [
       {
         "start": 378,
@@ -3828,7 +3827,7 @@
     "lemma": "Lex Vibia 2",
     "previous": "Lex Vibia 1",
     "next": "Libella 1",
-    "sort_key": "Lex vibia",
+    "sort_key": "Lex vibia 2",
     "proof_read": 2,
     "short_description": "L. V. de coloniis deducendis",
     "no_creative_height": true,
@@ -5214,7 +5213,7 @@
   {
     "lemma": "Obrimos 3",
     "previous": "Obrimopatre",
-    "next": "Obrimos 4",
+    "next": "Obrimos a",
     "short_description": "Bischof von Korakesion",
     "chapters": [
       {
@@ -5224,9 +5223,10 @@
     ]
   },
   {
-    "lemma": "Obrimos 4",
+    "lemma": "Obrimos a",
     "previous": "Obrimos 3",
     "next": "Obrimothymos",
+    "sort_key": "Obrimos 0",
     "proof_read": 2,
     "short_description": "Epiklese des Ares und des Ammon",
     "no_creative_height": true,
@@ -5240,7 +5240,7 @@
   },
   {
     "lemma": "Obrimothymos",
-    "previous": "Obrimos 4",
+    "previous": "Obrimos a",
     "next": "Obrimotoxos",
     "proof_read": 2,
     "short_description": "Epiklese mehrerer Gottheiten",

@@ -955,7 +955,7 @@
   {
     "lemma": "Arsada",
     "previous": "Arruntius 16a",
-    "next": "Articuleius 4",
+    "next": "Articuleius a",
     "proof_read": 3,
     "short_description": "Stadt in Lykien, heute Arsa oberhalb des unteren Xanthosthales",
     "no_creative_height": true,
@@ -968,10 +968,11 @@
     ]
   },
   {
-    "lemma": "Articuleius 4",
+    "lemma": "Articuleius a",
     "previous": "Arsada",
     "next": "Arykanda",
-    "short_description": "Regulus, Q. Leg. Aug. zwischen 2 v. Chr. und 14 n. Chr.",
+    "sort_key": "Articuleius 0",
+    "short_description": "Q. Bartic[u]le[ius---], prätor. Legat der Provinz Lusitania in den J. 2 v.-14 n. Chr.",
     "wd_link": "d:Q84517094",
     "chapters": [
       {
@@ -983,7 +984,7 @@
   },
   {
     "lemma": "Arykanda",
-    "previous": "Articuleius 4",
+    "previous": "Articuleius a",
     "next": "Asinius 17b",
     "short_description": "Stadt in Lykien",
     "wp_link": "w:de:Arykanda",
@@ -2965,7 +2966,7 @@
   {
     "lemma": "Cominius 22",
     "previous": "Coelius 19",
-    "next": "Comius 2",
+    "next": "Comius a",
     "proof_read": 3,
     "short_description": "C. Secundus, Statthalter der Provinz Pannonia inferior 150 n. Chr.",
     "no_creative_height": true,
@@ -2981,8 +2982,22 @@
   },
   {
     "lemma": "Comius 2",
+    "proof_read": 3,
+    "short_description": "Q. C. Armiger Crescens, curul. Ädil der tribus Aniensis",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 106,
+        "end": 106,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Comius a",
     "previous": "Cominius 22",
     "next": "computus",
+    "sort_key": "Comius 0",
     "proof_read": 3,
     "short_description": "Q. C. Armiger Crescens, curul. Ädil der tribus Aniensis",
     "no_creative_height": true,
@@ -2996,7 +3011,7 @@
   },
   {
     "lemma": "computus",
-    "previous": "Comius 2",
+    "previous": "Comius a",
     "next": "Concors",
     "redirect": "digitorum computus",
     "proof_read": 3,

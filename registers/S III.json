@@ -705,6 +705,7 @@
     "lemma": "Adventus a",
     "previous": "Adria 2",
     "next": "Advocisus",
+    "sort_key": "Adventus 0",
     "short_description": "zweifelhafte römische Gottheit",
     "chapters": [
       {
@@ -7040,7 +7041,7 @@
   {
     "lemma": "Argentiolum",
     "previous": "Argenteus",
-    "next": "Argentius",
+    "next": "Argentius a",
     "proof_read": 3,
     "short_description": "Stadt in Asturien",
     "chapters": [
@@ -7052,10 +7053,12 @@
     ]
   },
   {
-    "lemma": "Argentius",
+    "lemma": "Argentius a",
     "previous": "Argentiolum",
     "next": "Argentoialum",
+    "sort_key": "Argentius 0",
     "proof_read": 3,
+    "short_description": "Fluß- und Ortsname",
     "chapters": [
       {
         "start": 155,
@@ -7065,7 +7068,7 @@
   },
   {
     "lemma": "Argentoialum",
-    "previous": "Argentius",
+    "previous": "Argentius a",
     "next": "Argentorate",
     "redirect": "Argenteuil",
     "proof_read": 3,
@@ -8223,6 +8226,7 @@
     "lemma": "Askos a",
     "previous": "Asklepios 2",
     "next": "Asmosata",
+    "sort_key": "Askos 0",
     "proof_read": 3,
     "short_description": "der Lederschlauch und seine Nachbildungen in Ton und Metall",
     "wp_link": "w:de:Askos",
@@ -10122,6 +10126,7 @@
     "lemma": "Autophradates a",
     "previous": "Autodoros",
     "next": "Autricum",
+    "sort_key": "Autophradates 0",
     "proof_read": 3,
     "short_description": "Satrap von Lydien unter Artaxerxes II.",
     "wp_link": "w:de:Autophradates (Lydien)",
@@ -12146,6 +12151,7 @@
     "lemma": "bona a",
     "previous": "Bombyle",
     "next": "Bonfeld",
+    "sort_key": "Bona 0",
     "proof_read": 3,
     "short_description": "keltisches Wort für ,Bau‘, ,Stadt‘",
     "chapters": [
@@ -12770,6 +12776,7 @@
     "lemma": "Bromias a",
     "previous": "Brohltal",
     "next": "Brumath",
+    "sort_key": "Bromias 0",
     "proof_read": 3,
     "short_description": "ziemlich großer Trinkbecher",
     "chapters": [
@@ -14039,7 +14046,7 @@
     "lemma": "Caninius a",
     "previous": "Caninianae figlinae",
     "next": "Caninius 4",
-    "sort_key": "Caninius",
+    "sort_key": "Caninius 0",
     "proof_read": 3,
     "short_description": "C. C., praetor urbanus 2. Jh. v. Chr.?",
     "chapters": [
@@ -14214,6 +14221,7 @@
     "lemma": "Caprius a",
     "previous": "Caprasius",
     "next": "Carantinus",
+    "sort_key": "Caprius 0",
     "proof_read": 3,
     "short_description": "Vater des Dionysos",
     "chapters": [
@@ -14312,6 +14320,7 @@
     "lemma": "Carisius a",
     "previous": "Caratacus 2",
     "next": "Carisso",
+    "sort_key": "Carisius 0",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer im elsäss. Heiligenberg und bayer. Westerndorf 2. Jh. n. Chr.",
     "chapters": [
@@ -14640,7 +14649,7 @@
   {
     "lemma": "Cataracta",
     "previous": "Castus 6",
-    "next": "Catius 8",
+    "next": "Catius a",
     "redirect": "Fallgatter",
     "proof_read": 3,
     "chapters": [
@@ -14651,8 +14660,23 @@
     ]
   },
   {
-    "lemma": "Catius 8",
+    "lemma": "Catius a",
     "previous": "Cataracta",
+    "next": "Catius 8",
+    "sort_key": "Catius 0",
+    "proof_read": 3,
+    "short_description": "Gentilnomen von Ziegeleibesitzern beim umbrischen Ameria",
+    "chapters": [
+      {
+        "start": 238,
+        "end": 238,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Catius 8",
+    "previous": "Catius a",
     "next": "Catius 8a",
     "sort_key": "Catius 08",
     "short_description": "C. Crispus, Rhetor zur Zeit Senecas d. Ä.",
@@ -14670,7 +14694,7 @@
     "next": "Catullus 6a",
     "sort_key": "Catius 08a",
     "proof_read": 3,
-    "short_description": "s. Bd III 238, L. C. Fidelis, Ziegeleibesitzer beim umbr. Ameria.",
+    "short_description": "L. C. Fidelis, Ziegeleibesitzer beim umbr. Ameria.",
     "chapters": [
       {
         "start": 238,
@@ -14725,6 +14749,7 @@
     "lemma": "Catus a",
     "previous": "Caturniacus 1",
     "next": "Catussa",
+    "sort_key": "Catus 0",
     "proof_read": 3,
     "short_description": "südgall. Sigillatatöpfer in La Graufesenque? 1. Jh. n. Chr.",
     "chapters": [
@@ -16014,6 +16039,7 @@
     "lemma": "Clonius a",
     "previous": "Clodius 55a",
     "next": "Cluentius 1",
+    "sort_key": "Clonius 0",
     "proof_read": 3,
     "short_description": "P. C., röm. Ritter 104 v. Chr., von seinen Sklaven erschlagen",
     "chapters": [
@@ -16928,7 +16954,7 @@
     "previous": "Cosconius 9",
     "next": "Cosius 2",
     "proof_read": 3,
-    "short_description": "L. C. Virilis, südgall. Sigillatatöpfer in La Graufesenque Mitte 1. Jh. n. Chr.",
+    "short_description": "C. Rufinus, mittelgall. Sigillatatöpfer Ende 1. Jh. n. Chr.?",
     "chapters": [
       {
         "start": 262,
@@ -16942,7 +16968,7 @@
     "previous": "Cosius 1",
     "next": "Cosius 3",
     "proof_read": 3,
-    "short_description": "C. Rufinus, mittelgall. Sigillatatöpfer Ende 1. Jh. n. Chr.?",
+    "short_description": "C. Rufus, ostgall. Sigillatatöpfer in Mandeure 2. Jh. n. Chr.?",
     "chapters": [
       {
         "start": 262,
@@ -16956,7 +16982,7 @@
     "previous": "Cosius 2",
     "next": "Cossutius 3a",
     "proof_read": 3,
-    "short_description": "C. Rufus, ostgall. Sigillatatöpfer in Mandeure 2. Jh. n. Chr.?",
+    "short_description": "L. C. Virilis, südgall. Sigillatatöpfer in La Graufesenque Mitte 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 262,
@@ -17339,6 +17365,7 @@
     "lemma": "Critonius a",
     "previous": "Cristinus",
     "next": "Crummus",
+    "sort_key": "Critonius 0",
     "proof_read": 3,
     "short_description": "Stifter eines Weihegeschenks auf Delos 152 v. Chr., Sohn des Q. C.",
     "chapters": [
@@ -18122,7 +18149,7 @@
   {
     "lemma": "Dassenus",
     "previous": "Darra",
-    "next": "Daunion 1",
+    "next": "Daunion a",
     "proof_read": 3,
     "short_description": "südgall. Sigillatatöpfer in La Graufesenque im 1. Jh. n. Chr.",
     "chapters": [
@@ -18134,9 +18161,22 @@
     ]
   },
   {
-    "lemma": "Daunion 1",
+    "lemma": "Daunion a",
     "previous": "Dassenus",
     "next": "Daurises",
+    "sort_key": "Daunion 0",
+    "proof_read": 2,
+    "short_description": "Daunion Teichos, Stadt in Thrakien, Mitglied des attischen Seebunds",
+    "chapters": [
+      {
+        "start": 327,
+        "end": 327,
+        "author": "Stähelin."
+      }
+    ]
+  },
+  {
+    "lemma": "Daunion 1",
     "proof_read": 2,
     "short_description": "Daunion Teichos, Stadt in Thrakien, Mitglied des attischen Seebunds",
     "wp_link": "w:en:Daminon Teichos",
@@ -18151,7 +18191,7 @@
   },
   {
     "lemma": "Daurises",
-    "previous": "Daunion 1",
+    "previous": "Daunion a",
     "next": "Debre",
     "proof_read": 2,
     "short_description": "persischer Feldherr, Schwiegersohn Dareios’ I. um 500 v. Chr.",
@@ -20179,6 +20219,7 @@
     "lemma": "Dunius a",
     "previous": "Dubitatus",
     "next": "Dunon",
+    "sort_key": "Dunius 0",
     "proof_read": 3,
     "short_description": "D. Paternus, IIvir in Aventicum = D. Paternus, Ziegeleibesitzer",
     "chapters": [
@@ -20497,8 +20538,9 @@
     "previous": "Εἰρηνάρχαι",
     "next": "Eirenis",
     "sort_key": "Eirenikoiandres",
-    "redirect": "Εἰρηνοφύλακες",
+    "redirect": "Ἐἰρηνοφύλακες",
     "proof_read": 3,
+    "short_description": "Eirenikoi andres, Schiedsrichter im römischen Ägypten",
     "no_creative_height": true,
     "chapters": [
       {
@@ -24108,6 +24150,7 @@
     "lemma": "Galba a",
     "previous": "Gala",
     "next": "Galeria 3",
+    "sort_key": "Galba 0",
     "proof_read": 2,
     "short_description": "keltischer Name des Stammesfürsten der Belger 57 v. Chr.",
     "chapters": [
@@ -24492,6 +24535,7 @@
     "lemma": "Gaulos a",
     "previous": "Gavius 13a",
     "next": "Gauros 2",
+    "sort_key": "Gaulos 0",
     "proof_read": 2,
     "short_description": "rundes Gefäß aus Holz, Melkeimer, Prunkgefäß aus Gold, Weinbehälter",
     "chapters": [
@@ -24658,6 +24702,7 @@
     "next": "Gemellus 10",
     "proof_read": 3,
     "short_description": "G. officina, ,Zwillingsbetrieb‘ römische Ziegelei bei Rom",
+    "wp_link": "w:de:Gemella 0",
     "chapters": [
       {
         "start": 542,
@@ -26742,6 +26787,7 @@
     "lemma": "Hegemon a",
     "previous": "Hedypotis",
     "next": "Hegesaretos",
+    "sort_key": "Hegemon 0",
     "proof_read": 2,
     "short_description": "Epiklese des Gottes Iakchos in Eleusis",
     "no_creative_height": true,
