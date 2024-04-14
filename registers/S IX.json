@@ -2475,7 +2475,6 @@
   {
     "lemma": "Palaimon 1",
     "previous": "Oxathres 4",
-    "next": "Palaimon 2",
     "proof_read": 2,
     "short_description": "Sohn des Herakles und der Autonoe oder Iphinoe",
     "no_creative_height": true,
@@ -2489,10 +2488,10 @@
   },
   {
     "lemma": "Palaimon 2",
-    "previous": "Palaimon 1",
-    "next": "Palaimon 3",
+    "previous": "Oxathres 4",
+    "next": "Palaimon 2",
     "proof_read": 2,
-    "short_description": "Sohn des Priamos",
+    "short_description": "Sohn des Herakles und der Autonoe oder Iphinoe",
     "no_creative_height": true,
     "chapters": [
       {
@@ -2504,8 +2503,6 @@
   },
   {
     "lemma": "Palaimon 3",
-    "previous": "Palaimon 2",
-    "next": "Palaimon 4",
     "short_description": "P. von Olenos, Argonaut, Sohn des Hephaistos (oder Aitolos)",
     "chapters": [
       {
@@ -2517,19 +2514,21 @@
   },
   {
     "lemma": "Palaimon 4",
-    "previous": "Palaimon 3",
-    "next": "Palaimon 5",
+    "previous": "Palaimon 1",
+    "next": "Palaimon 3",
+    "proof_read": 2,
+    "short_description": "Sohn des Priamos = Philaimon oder Pammon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 514,
-        "end": 516,
-        "author": "Geisau"
+        "end": 514,
+        "author": "H. v. Geisau."
       }
     ]
   },
   {
     "lemma": "Palaimon 5",
-    "previous": "Palaimon 4",
     "next": "Pambotis",
     "short_description": "s. am Ende des Bandes",
     "chapters": [
@@ -2602,7 +2601,6 @@
     "previous": "Parthenion 8",
     "next": "Parthenopaos",
     "proof_read": 2,
-    "short_description": "Heiligtum der Artemis Parthenos auf der Insel Leros",
     "no_creative_height": true,
     "chapters": [
       {

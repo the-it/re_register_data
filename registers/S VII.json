@@ -920,7 +920,8 @@
     "lemma": "Dasumius a",
     "previous": "Dasumius 1",
     "next": "Δεῖγμα",
-    "short_description": "s. Dasumius 1a)",
+    "sort_key": "Dasumius 0b",
+    "short_description": "P. D. Rusticus, cos. ord. 119 n. Chr.",
     "chapters": [
       {
         "start": 115,
@@ -4628,7 +4629,7 @@
   {
     "lemma": "Neilon 2",
     "previous": "Neilon 1",
-    "next": "Neilos 3",
+    "next": "Neilos 1",
     "proof_read": 2,
     "short_description": "Briefadressat des Isidoros von Pelusion",
     "no_creative_height": true,
@@ -4641,8 +4642,11 @@
     ]
   },
   {
+    "lemma": "Neilos 1",
+    "previous": "Neilon 2"
+  },
+  {
     "lemma": "Neilos 3",
-    "previous": "Neilon 2",
     "next": "Neilos 4",
     "short_description": "Aegypt. Bischof und Märtyrer unter Galerius und Maximinus Daia",
     "chapters": [
@@ -4665,7 +4669,19 @@
     ]
   },
   {
-    "lemma": "Neilos 5"
+    "lemma": "Neilos 5",
+    "previous": "Neilos 4",
+    "next": "Neilos 5a",
+    "proof_read": 2,
+    "short_description": "Scholasticus, Briefadressat des Isidoros von Pelusion",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 561,
+        "end": 561,
+        "author": "W. Enßlin."
+      }
+    ]
   },
   {
     "lemma": "Neilos 5a",
@@ -4715,7 +4731,7 @@
   {
     "lemma": "Neilos 5d",
     "previous": "Neilos 5c",
-    "next": "Nemea 5",
+    "next": "Nekron",
     "proof_read": 2,
     "short_description": "Briefadressat(en?) des Isidoros von Pelusion",
     "no_creative_height": true,
@@ -4728,8 +4744,11 @@
     ]
   },
   {
+    "lemma": "Nekron",
+    "previous": "Neilos 5d"
+  },
+  {
     "lemma": "Nemea 5",
-    "previous": "Neilos 5d",
     "next": "Nemesius 8",
     "short_description": "Westlokr. Stadt(?)",
     "chapters": [
@@ -5213,7 +5232,6 @@
   {
     "lemma": "Obrimos a",
     "previous": "Obrimos 3",
-    "next": "Obrimothymos",
     "sort_key": "Obrimos 0",
     "proof_read": 2,
     "short_description": "Epiklese des Ares und des Ammon",
@@ -5228,7 +5246,7 @@
   },
   {
     "lemma": "Obrimothymos",
-    "previous": "Obrimos a",
+    "previous": "Obrimos 3",
     "next": "Obrimotoxos",
     "proof_read": 2,
     "short_description": "Epiklese mehrerer Gottheiten",
