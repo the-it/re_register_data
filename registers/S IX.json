@@ -2177,7 +2177,7 @@
   {
     "lemma": "Menedemos 4b",
     "previous": "Menedemos 4a",
-    "next": "Menesthei Portus",
+    "next": "Menesthei portus",
     "short_description": "s. [4 b])",
     "chapters": [
       {
@@ -2187,7 +2187,7 @@
     ]
   },
   {
-    "lemma": "Menesthei Portus",
+    "lemma": "Menesthei portus",
     "previous": "Menedemos 4b",
     "next": "Menzalesee",
     "short_description": "Hispan. Hafenstadt",
@@ -2201,7 +2201,7 @@
   },
   {
     "lemma": "Menzalesee",
-    "previous": "Menesthei Portus",
+    "previous": "Menesthei portus",
     "next": "Ad Militare",
     "short_description": "Lagunensee im nordöstl. Nildelta",
     "chapters": [
@@ -2475,9 +2475,6 @@
   {
     "lemma": "Palaimon 1",
     "previous": "Oxathres 4",
-    "proof_read": 2,
-    "short_description": "Sohn des Herakles und der Autonoe oder Iphinoe",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 514,
@@ -2488,11 +2485,8 @@
   },
   {
     "lemma": "Palaimon 2",
-    "previous": "Oxathres 4",
-    "next": "Palaimon 2",
-    "proof_read": 2,
-    "short_description": "Sohn des Herakles und der Autonoe oder Iphinoe",
-    "no_creative_height": true,
+    "previous": "Palaimon 1",
+    "next": "Palaimon 3",
     "chapters": [
       {
         "start": 514,
@@ -2503,7 +2497,6 @@
   },
   {
     "lemma": "Palaimon 3",
-    "short_description": "P. von Olenos, Argonaut, Sohn des Hephaistos (oder Aitolos)",
     "chapters": [
       {
         "start": 514,
@@ -2514,8 +2507,8 @@
   },
   {
     "lemma": "Palaimon 4",
-    "previous": "Palaimon 1",
-    "next": "Palaimon 3",
+    "previous": "Palaimon 3",
+    "next": "Palaimon 5",
     "proof_read": 2,
     "short_description": "Sohn des Priamos = Philaimon oder Pammon",
     "no_creative_height": true,
