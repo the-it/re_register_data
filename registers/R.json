@@ -4502,6 +4502,7 @@
     "previous": "Aemilius 22a",
     "next": "Aemilius 23a",
     "proof_read": 3,
+    "short_description": "P. A. aus Delos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5165,6 +5166,7 @@
     "next": "Aenona",
     "redirect": "Anisatus, Aenisatus",
     "proof_read": 3,
+    "short_description": "Sigillatatöpfer im elsäss. Heiligenberg 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 11,
@@ -5537,6 +5539,7 @@
     "next": "Aëtos 4",
     "redirect": "Aetoma",
     "proof_read": 3,
+    "short_description": "der Giebel des griechischen Tempels",
     "chapters": [
       {
         "start": 11,
@@ -26196,6 +26199,7 @@
     "next": "Aprio 2",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr. und Lampentöpfer",
     "chapters": [
       {
         "start": 36,
@@ -26207,7 +26211,7 @@
     "lemma": "Aprio 2",
     "previous": "Aprio",
     "next": "Apronianus 3a",
-    "redirect": true,
+    "redirect": "Aprio",
     "proof_read": 3,
     "chapters": [
       {
@@ -31619,7 +31623,8 @@
     "chapters": [
       {
         "start": 42,
-        "end": 42
+        "end": 42,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -37379,6 +37384,7 @@
   {
     "lemma": "Arzbach",
     "previous": "Arzanene",
+    "next": "Arzygius a",
     "proof_read": 3,
     "short_description": "dt. Ort an der Stelle eines obergerm. Limeskastells",
     "no_creative_height": true,
@@ -37393,6 +37399,7 @@
   {
     "lemma": "Arzygius a",
     "previous": "Arzbach",
+    "next": "Arzygius 1",
     "sort_key": "Arzygius 0",
     "proof_read": 3,
     "short_description": "Betitius Perpetuus A., Corrector der Provinz Sicilia 315–337 n. Chr",
@@ -37422,6 +37429,7 @@
   },
   {
     "lemma": "As",
+    "previous": "Arzygius 1",
     "next": "Asaak",
     "proof_read": 3,
     "short_description": "Röm. Münze",
@@ -60562,6 +60570,7 @@
   {
     "lemma": "Castus 6",
     "previous": "Castus 5",
+    "next": "Casus a",
     "proof_read": 3,
     "short_description": "germ. Sigillatatöpfer in Rheinzabern aus der Mitte des 2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -65759,6 +65768,7 @@
     "next": "Claudius 186",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "Ti. Cl. Hymnus, Arzt der leg. XXI in Vindonissa J. 47–70 n. Chr.",
     "chapters": [
       {
         "start": 85,
@@ -68870,6 +68880,7 @@
   },
   {
     "lemma": "Cornelius 16",
+    "previous": "Cornelius 10f",
     "next": "Cornelius 22a",
     "sort_key": "Cornelius 016",
     "proof_read": 3,
@@ -80743,8 +80754,9 @@
     "lemma": "Ἐμπυρομάντεις",
     "previous": "Empusa 2",
     "next": "Ἔγγαιοι",
+    "sort_key": "Empyromanteis",
     "proof_read": 3,
-    "short_description": "der Wahrsager mit Hilfe von Feuer",
+    "short_description": "Empyromanteis, der Wahrsager mit Hilfe von Feuer",
     "no_creative_height": true,
     "chapters": [
       {
@@ -89799,7 +89811,7 @@
     "next": "Gemellus 5a",
     "sort_key": "Gemella 0",
     "proof_read": 3,
-    "short_description": "G. officina, ,Zwillingsbetrieb‘ römische Ziegelei bei Rom",
+    "short_description": "G. officina, ,Zwillingsbetrieb‘, römische Ziegelei bei Rom",
     "no_creative_height": true,
     "chapters": [
       {
@@ -132343,6 +132355,7 @@
   {
     "lemma": "Neilos 1",
     "previous": "Neilon 2",
+    "next": "Neilos 3",
     "chapters": [
       {
         "start": 173,
@@ -132548,11 +132561,12 @@
     "previous": "Nemesius 8",
     "next": "Neokles 5a",
     "proof_read": 3,
-    "short_description": "(K) Mathematiker um das J. 400 v. Chr. S VII.",
+    "short_description": "Mathematiker um 400 v. Chr.",
     "chapters": [
       {
         "start": 173,
-        "end": 173
+        "end": 173,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -135189,6 +135203,7 @@
   },
   {
     "lemma": "Octavius 90a",
+    "previous": "Octavius 75a",
     "next": "Octavius 98",
     "proof_read": 3,
     "short_description": "Flavius O. Victor, v. c., praef. ann. 4. Jh. n. Chr.?",
@@ -136616,6 +136631,7 @@
   {
     "lemma": "Ornea",
     "previous": "Orminion 1",
+    "next": "Orneai",
     "proof_read": 3,
     "short_description": "Eponyme des argiv. Orneai",
     "no_creative_height": true,
@@ -136634,7 +136650,7 @@
     "previous": "Ornea",
     "next": "Oromasdes",
     "proof_read": 3,
-    "short_description": "Eponyme des argivischen Orneai",
+    "short_description": "argivischer Ort",
     "no_creative_height": true,
     "chapters": [
       {
@@ -136646,6 +136662,7 @@
   },
   {
     "lemma": "Oromasdes",
+    "previous": "Orneai",
     "next": "Orothophanitae",
     "proof_read": 3,
     "short_description": "iranische Gottheit",
@@ -138945,6 +138962,7 @@
   {
     "lemma": "Pausanias 2",
     "previous": "Pausanias 1",
+    "next": "Pausanias 17",
     "proof_read": 3,
     "short_description": "spartanischer König 445–426 v. Chr. und 408-395 v. Chr., Sohn des Pleistoanax",
     "no_creative_height": true,
@@ -139351,9 +139369,13 @@
     "lemma": "Peducaeus 7a",
     "previous": "Pedo 2c",
     "next": "Peducaeus 7b",
+    "proof_read": 3,
+    "short_description": "T. P., cos. suff. J. 35 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139362,9 +139384,13 @@
     "lemma": "Peducaeus 7b",
     "previous": "Peducaeus 7a",
     "next": "Peducaeus 7c",
+    "proof_read": 3,
+    "short_description": "Präfekt von Aegypten um 70 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139388,9 +139414,13 @@
     "lemma": "Pegasos 4",
     "previous": "Peducaeus 7c",
     "next": "Peiales",
+    "proof_read": 3,
+    "short_description": "römischer Jurist in vespasianischer Zeit, cos. suff. 70 n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139399,9 +139429,13 @@
     "lemma": "Peiales",
     "previous": "Pegasos 4",
     "next": "Peiraios",
+    "proof_read": 3,
+    "short_description": "Teil des epeirotischen Volkes der Molosser",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139410,9 +139444,13 @@
     "lemma": "Peiraios",
     "previous": "Peiales",
     "next": "Peisis",
+    "proof_read": 3,
+    "short_description": "P. von Sikyon, Schauspieler in Argos oder Umgebung 97–75 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139467,9 +139505,13 @@
     "lemma": "Pelagius 18a",
     "previous": "Peithon 6",
     "next": "Pelikan",
+    "proof_read": 3,
+    "short_description": "P. I., Papst 556–561 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139478,9 +139520,12 @@
     "lemma": "Pelikan",
     "previous": "Pelagius 18a",
     "next": "Pelike",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139489,9 +139534,13 @@
     "lemma": "Pelike",
     "previous": "Pelikan",
     "next": "Pelkin",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139500,9 +139549,13 @@
     "lemma": "Pelkin",
     "previous": "Pelike",
     "next": "Pella 6a",
+    "proof_read": 3,
+    "short_description": "westkretische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139521,12 +139574,19 @@
     ]
   },
   {
+    "lemma": "Pella 8"
+  },
+  {
     "lemma": "Pellene 1",
     "previous": "Pella 6a",
     "next": "Peloponnesos",
+    "proof_read": 3,
+    "short_description": "achaiische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139535,9 +139595,13 @@
     "lemma": "Peloponnesos",
     "previous": "Pellene 1",
     "next": "Pelops",
+    "proof_read": 3,
+    "short_description": "die griechische Halbinsel",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139546,9 +139610,13 @@
     "lemma": "Pelops",
     "previous": "Peloponnesos",
     "next": "Pelops 1",
+    "proof_read": 3,
+    "short_description": "allg. Vorbemerkung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139572,9 +139640,13 @@
     "lemma": "Pelops 1a",
     "previous": "Pelops 1",
     "next": "Pelops 1b",
+    "proof_read": 3,
+    "short_description": "P. von Opus, einer der dreizehn von Oinomaos getöteten Freier",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139613,9 +139685,13 @@
     "lemma": "Pelops 3a",
     "previous": "Pelops 1c",
     "next": "Pelops 5",
+    "proof_read": 3,
+    "short_description": "makedonischer Stratege in Kypros nach 217 v. Chr., Gesandter zu Antiochos III.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139624,9 +139700,13 @@
     "lemma": "Pelops 5",
     "previous": "Pelops 3a",
     "next": "Pelso lacus",
+    "proof_read": 3,
+    "short_description": "Arzt, Schüler des Numisianos und des Quintus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139635,9 +139715,13 @@
     "lemma": "Pelso lacus",
     "previous": "Pelops 5",
     "next": "Pelva",
+    "proof_read": 3,
+    "short_description": "pannonischer See",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139646,9 +139730,13 @@
     "lemma": "Pelva",
     "previous": "Pelso lacus",
     "next": "Pemphōs",
+    "proof_read": 3,
+    "short_description": "Stadt der römischen Provinz Dalmatien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139672,9 +139760,13 @@
     "lemma": "Peneios 1",
     "previous": "Pemphōs",
     "next": "Penne loci",
+    "proof_read": 3,
+    "short_description": "elischer Fluß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139698,9 +139790,13 @@
     "lemma": "Pentathlos",
     "previous": "Penne loci",
     "next": "Penthesileia",
+    "proof_read": 3,
+    "short_description": "P. von Knidos, Führer von rhodischen und knidischen Kolonisten um 580 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139709,9 +139805,13 @@
     "lemma": "Penthesileia",
     "previous": "Pentathlos",
     "next": "Peraia 6a",
+    "proof_read": 3,
+    "short_description": "Amazonenkönigin",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139720,9 +139820,13 @@
     "lemma": "Peraia 6a",
     "previous": "Penthesileia",
     "next": "Peraia 8",
+    "proof_read": 3,
+    "short_description": "Die P. von Thasos an der thrak. Küste",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139730,21 +139834,32 @@
   {
     "lemma": "Peraia 8",
     "previous": "Peraia 6a",
-    "next": "Peregrinatio ad loca sancta",
+    "next": "Peraia 6a",
+    "proof_read": 3,
+    "short_description": "syrischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
+    "lemma": "Peraia 9"
+  },
+  {
     "lemma": "Peregrinatio ad loca sancta",
-    "previous": "Peraia 8",
+    "previous": "Peraia 6a",
     "next": "Pereia",
+    "proof_read": 3,
+    "short_description": "spätantike Beschreibung einer Pilgerreise",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139753,9 +139868,13 @@
     "lemma": "Pereia",
     "previous": "Peregrinatio ad loca sancta",
     "next": "Pergamon 3",
+    "proof_read": 3,
+    "short_description": "achaiische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139764,9 +139883,13 @@
     "lemma": "Pergamon 3",
     "previous": "Pereia",
     "next": "Perge 2",
+    "proof_read": 3,
+    "short_description": "mysische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139775,9 +139898,13 @@
     "lemma": "Perge 2",
     "previous": "Pergamon 3",
     "next": "Pergula",
+    "proof_read": 3,
+    "short_description": "pamphylische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139786,9 +139913,13 @@
     "lemma": "Pergula",
     "previous": "Perge 2",
     "next": "Pergusta",
+    "proof_read": 3,
+    "short_description": "Gebäude bzw. Gebäudeteil",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139812,9 +139943,13 @@
     "lemma": "Peridobonum",
     "previous": "Pergusta",
     "next": "Peridrome 1",
+    "proof_read": 3,
+    "short_description": "für Brivodurum, an der Straße Augustodunum - Lutecia Parisiorum",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139823,9 +139958,13 @@
     "lemma": "Peridrome 1",
     "previous": "Peridobonum",
     "next": "Peridrome 2",
+    "proof_read": 3,
+    "short_description": "das Ziehen eines magischen Kreises",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139834,9 +139973,13 @@
     "lemma": "Peridrome 2",
     "previous": "Peridrome 1",
     "next": "Perigenes 4a",
+    "proof_read": 3,
+    "short_description": "der zeremonielle Umzug, vgl. Decursio",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139845,9 +139988,13 @@
     "lemma": "Perigenes 4a",
     "previous": "Peridrome 2",
     "next": "Perigenes 6",
+    "proof_read": 3,
+    "short_description": "athenischer Bildhauer 3. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139856,9 +140003,13 @@
     "lemma": "Perigenes 6",
     "previous": "Perigenes 4a",
     "next": "Perigenes 7",
+    "proof_read": 3,
+    "short_description": "P. von Argos, Schauspieler in Argos oder Umgebung in den J. 97-75 v. Chr., Sohn",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139867,9 +140018,13 @@
     "lemma": "Perigenes 7",
     "previous": "Perigenes 6",
     "next": "Perikles 5a",
+    "proof_read": 3,
+    "short_description": "Arzt in hellenistischer Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139893,9 +140048,13 @@
     "lemma": "Perikles 5b",
     "previous": "Perikles 5a",
     "next": "Perikles 8",
+    "proof_read": 3,
+    "short_description": "Lykischer König etwa 380–360 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139904,9 +140063,13 @@
     "lemma": "Perikles 8",
     "previous": "Perikles 5b",
     "next": "Perioikoi 2",
+    "proof_read": 3,
+    "short_description": "Lydischer Neuplatoniker 5. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139915,9 +140078,13 @@
     "lemma": "Perioikoi 2",
     "previous": "Perikles 8",
     "next": "Peripatos",
+    "proof_read": 3,
+    "short_description": "die Umwohner, geographischer Begriff",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 183,
+        "end": 183,
         "author": "Hans Gärtner."
       }
     ]
@@ -139926,9 +140093,13 @@
     "lemma": "Peripatos",
     "previous": "Perioikoi 2",
     "next": "Periporphyros agon",
+    "proof_read": 3,
+    "short_description": "die Schule des Aristoteles",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -139937,9 +140108,13 @@
     "lemma": "Periporphyros agon",
     "previous": "Peripatos",
     "next": "Periskythismos",
+    "proof_read": 3,
+    "short_description": "sidonischer Wettkampf 218–265 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -139948,9 +140123,13 @@
     "lemma": "Periskythismos",
     "previous": "Periporphyros agon",
     "next": "Peristylium",
+    "proof_read": 3,
+    "short_description": "P. und Hypospathismos, Verfahren für Augen- und Hirnoperationen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -139959,9 +140138,13 @@
     "lemma": "Peristylium",
     "previous": "Periskythismos",
     "next": "Perseia",
+    "proof_read": 3,
+    "short_description": "der Säulenhof",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -139970,9 +140153,13 @@
     "lemma": "Perseia",
     "previous": "Peristylium",
     "next": "Persepolis",
+    "proof_read": 3,
+    "short_description": "mykenische Quelle",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -139981,9 +140168,13 @@
     "lemma": "Persepolis",
     "previous": "Perseia",
     "next": "Persis 1",
+    "proof_read": 3,
+    "short_description": "Ort in der Persis, Residenz der achaimenidischen Könige",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140025,9 +140216,13 @@
     "lemma": "Pescennius 1a",
     "previous": "Persius 5",
     "next": "Pescennius 2",
+    "proof_read": 3,
+    "short_description": "P. Iulianus, einer der Italiker, die Septimius Severus töten ließ (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140036,9 +140231,13 @@
     "lemma": "Pescennius 2",
     "previous": "Pescennius 1a",
     "next": "Peticius 2",
+    "proof_read": 3,
+    "short_description": "Imp. Caes. C. P. Niger Iustus Aug., Gegenkaiser des Septimius Severus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140047,9 +140246,13 @@
     "lemma": "Peticius 2",
     "previous": "Pescennius 2",
     "next": "Petra 7a",
+    "proof_read": 3,
+    "short_description": "L. P. Primus, scabillarius",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140073,9 +140276,13 @@
     "lemma": "Petra 8",
     "previous": "Petra 7a",
     "next": "Petra 8a",
+    "proof_read": 3,
+    "short_description": "arabischer Ort, Hauptstadt des Nabataierreichs",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140099,9 +140306,13 @@
     "lemma": "Petraeites",
     "previous": "Petra 8a",
     "next": "Petrocoricum",
+    "proof_read": 3,
+    "short_description": "Beiname des Men in Lydien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140125,9 +140336,13 @@
     "lemma": "Petronius 24",
     "previous": "Petrocoricum",
     "next": "Petronius 49a",
+    "proof_read": 3,
+    "short_description": "P. P., cos. suff. 19 n. Chr.; vgl. Vitellia Nr. 7q",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -144638,6 +144853,7 @@
   {
     "lemma": "Praesidia a",
     "previous": "Praeses",
+    "next": "Praesidium 9",
     "chapters": [
       {
         "start": 192,
@@ -158432,6 +158648,7 @@
     "lemma": "en Tyennesso",
     "previous": "Tychamenes",
     "next": "Tyindeis",
+    "sort_key": "Tyennesso",
     "redirect": "Iasos 15",
     "proof_read": 3,
     "chapters": [
