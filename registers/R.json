@@ -63194,7 +63194,7 @@
   {
     "lemma": "Χειρίς",
     "previous": "Χειριδωτὸς χιτών",
-    "next": "Cheirisophos 1a",
+    "next": "Cheirisophos 4",
     "sort_key": "Cheiris",
     "proof_read": 3,
     "short_description": "der Ärmel, im Ausnahmefall: der Handschuh",
@@ -63208,27 +63208,9 @@
     ]
   },
   {
-    "lemma": "Cheirisophos 1a",
-    "previous": "Χειρίς",
-    "next": "Cheirisophos 4",
-    "proof_read": 3,
-    "short_description": "Toreut zur Zeit des Augustus",
-    "no_creative_height": true,
-    "wp_link": "w:de:Cheirisophos (Toreut)",
-    "wd_link": "d:Q105945391",
-    "chapters": [
-      {
-        "start": 82,
-        "end": 82,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Cheirisophos 4",
-    "previous": "Cheirisophos 1a",
+    "previous": "Χειρίς",
     "next": "Χειριστής",
-    "redirect": "Cheirisophos 1a",
     "proof_read": 3,
     "short_description": "Toreut in august. Zeit",
     "chapters": [
@@ -64933,7 +64915,7 @@
   {
     "lemma": "Clarus 3a",
     "previous": "Clartius",
-    "next": "Clarus 6a",
+    "next": "Classicus 1a",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -64944,23 +64926,8 @@
     ]
   },
   {
-    "lemma": "Clarus 6a",
-    "previous": "Clarus 3a",
-    "next": "Classicus 1a",
-    "proof_read": 3,
-    "short_description": "Donatistischer Presbyter",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 84,
-        "end": 84,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Classicus 1a",
-    "previous": "Clarus 6a",
+    "previous": "Clarus 3a",
     "next": "Clavariatis",
     "proof_read": 3,
     "short_description": "P. Aelius C., Präsidialprokurator der Provinz Mauretania Caes.",
@@ -146939,17 +146906,6 @@
   {
     "lemma": "Ptolemaios 79a",
     "previous": "Ptolemaios 78b",
-    "next": "Ptolemaios 79b",
-    "chapters": [
-      {
-        "start": 196,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Ptolemaios 79b",
-    "previous": "Ptolemaios 79a",
     "next": "pubertas",
     "chapters": [
       {
@@ -146960,7 +146916,7 @@
   },
   {
     "lemma": "pubertas",
-    "previous": "Ptolemaios 79b",
+    "previous": "Ptolemaios 79a",
     "next": "publicani",
     "chapters": [
       {
@@ -152128,17 +152084,6 @@
   {
     "lemma": "Seppius a",
     "previous": "Sepiusa",
-    "next": "Seppius 1a",
-    "chapters": [
-      {
-        "start": 205,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Seppius 1a",
-    "previous": "Seppius a",
     "next": "Septicius 3a",
     "chapters": [
       {
@@ -152149,7 +152094,7 @@
   },
   {
     "lemma": "Septicius 3a",
-    "previous": "Seppius 1a",
+    "previous": "Seppius a",
     "next": "Septicius 4a",
     "chapters": [
       {
@@ -152345,28 +152290,6 @@
   {
     "lemma": "Sequani",
     "previous": "Sequana",
-    "next": "Serapion 7a",
-    "chapters": [
-      {
-        "start": 205,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Serapion 7a",
-    "previous": "Sequani",
-    "next": "Serapion 7b",
-    "chapters": [
-      {
-        "start": 205,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Serapion 7b",
-    "previous": "Serapion 7a",
     "next": "Serapion 8a",
     "chapters": [
       {
@@ -152377,7 +152300,7 @@
   },
   {
     "lemma": "Serapion 8a",
-    "previous": "Serapion 7b",
+    "previous": "Sequani",
     "next": "Serapion 10",
     "proof_read": 3,
     "short_description": "M. Rapilius Serapio, Name auf einem Grabstein in Rom",
@@ -153566,17 +153489,6 @@
   {
     "lemma": "Simmas",
     "previous": "Simias 4",
-    "next": "Simos 3a",
-    "chapters": [
-      {
-        "start": 207,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
-    "lemma": "Simos 3a",
-    "previous": "Simmas",
     "next": "Simos 8a",
     "chapters": [
       {
@@ -153587,7 +153499,7 @@
   },
   {
     "lemma": "Simos 8a",
-    "previous": "Simos 3a",
+    "previous": "Simmas",
     "next": "Simplicianus",
     "redirect": "Simylos 3",
     "proof_read": 3,
