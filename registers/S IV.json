@@ -5362,7 +5362,7 @@
   {
     "lemma": "Kalanos 2",
     "previous": "Kaiserkult",
-    "next": "Kalas 1",
+    "next": "Kalas 2",
     "proof_read": 3,
     "short_description": "maked. Offizier Alexanders d. Gr. 331 v. Chr. vgl. Kalas Nr. 3 und 4",
     "no_creative_height": true,
@@ -5375,29 +5375,14 @@
     ]
   },
   {
-    "lemma": "Kalas 1",
+    "lemma": "Kalas 2",
     "previous": "Kalanos 2",
-    "next": "Kalas 2",
+    "next": "Kalas 3",
     "short_description": "Satrap von Daskyleion und Paphlagonien in den J. 334-323 v. Chr., Sohn des",
     "chapters": [
       {
         "start": 854,
         "author": "Berve"
-      }
-    ]
-  },
-  {
-    "lemma": "Kalas 2",
-    "previous": "Kalas 1",
-    "next": "Kalas 3",
-    "proof_read": 2,
-    "short_description": "maked. Offizier Alexanders d. Gr. vgl. Kalanos Nr. 2 und K. Nr. 4",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 854,
-        "end": 854,
-        "author": "Berve."
       }
     ]
   },
@@ -5418,10 +5403,22 @@
   },
   {
     "lemma": "Kalas 4",
-    "previous": "Kalas 3"
+    "previous": "Kalas 3",
+    "next": "Kalathusa 2",
+    "proof_read": 2,
+    "short_description": "maked. Offizier Alexanders d. Gr. vgl. Kalanos Nr. 2 und K. Nr. 4",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 854,
+        "end": 854,
+        "author": "Berve."
+      }
+    ]
   },
   {
     "lemma": "Kalathusa 2",
+    "previous": "Kalas 4",
     "next": "Kalathusa 3",
     "short_description": "Hispan. Stadt = Calathe",
     "chapters": [
@@ -7596,7 +7593,7 @@
   {
     "lemma": "Krios 7a",
     "previous": "Kriegskunst",
-    "next": "Krisa 1",
+    "next": "Krisa 2",
     "short_description": "K. von Aigina, Geisel in Athen zu Anfang des 5. Jh. v. Chr., Sohn des",
     "chapters": [
       {
@@ -7606,9 +7603,9 @@
     ]
   },
   {
-    "lemma": "Krisa 1",
+    "lemma": "Krisa 2",
     "previous": "Krios 7a",
-    "next": "Krisa 2",
+    "next": "Krisa 3",
     "short_description": "Stadt in der Troas",
     "chapters": [
       {
@@ -7618,8 +7615,8 @@
     ]
   },
   {
-    "lemma": "Krisa 2",
-    "previous": "Krisa 1",
+    "lemma": "Krisa 3",
+    "previous": "Krisa 2",
     "next": "Krisaios Kolpos 1",
     "short_description": "Aiol. Stadt",
     "chapters": [
@@ -7631,7 +7628,7 @@
   },
   {
     "lemma": "Krisaios Kolpos 1",
-    "previous": "Krisa 2",
+    "previous": "Krisa 3",
     "next": "Krisaios Kolpos 2",
     "short_description": "Teil des Korinth. Golfs beim phok. Krisa (XI 1887 Nr. 1)",
     "chapters": [
