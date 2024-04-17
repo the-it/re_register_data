@@ -3280,7 +3280,7 @@
     "lemma": "Aelius 27aaa",
     "previous": "Aelius 27",
     "next": "Aelius 27aa",
-    "sort_key": "Aelius 027aaa",
+    "sort_key": "Aelius 027a0",
     "proof_read": 3,
     "short_description": "A. Aurelius Apolaustus, Pantomime 2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -3296,9 +3296,10 @@
     "lemma": "Aelius 27aa",
     "previous": "Aelius 27aaa",
     "next": "Aelius 27a",
-    "sort_key": "Aelius 027aa",
+    "sort_key": "Aelius 027a1",
     "redirect": "Aurelius 56a",
     "proof_read": 3,
+    "short_description": "L. A. Aurelius Apolaustus Memphius, Schauspieler im 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 9,
@@ -3310,7 +3311,7 @@
     "lemma": "Aelius 27a",
     "previous": "Aelius 27aa",
     "next": "Aelius 28a",
-    "sort_key": "Aelius 027a",
+    "sort_key": "Aelius 027a2",
     "proof_read": 3,
     "short_description": "M. A. Aurelius Caesar, s. M. Annius Verus",
     "no_creative_height": true,
@@ -6183,6 +6184,7 @@
     "next": "Agathinos 8",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "A. aus Epidauros, Bildhauer",
     "chapters": [
       {
         "start": 12,
@@ -6809,7 +6811,7 @@
   {
     "lemma": "Ἀγέλαστος πέτρα",
     "previous": "Agelaos 9",
-    "next": "Agemon 1",
+    "next": "Agemon 2",
     "sort_key": "Agelastos petra",
     "proof_read": 3,
     "short_description": "Kultplatz in Eleusis mit einer Sage von Demeter",
@@ -6824,8 +6826,6 @@
   },
   {
     "lemma": "Agemon 1",
-    "previous": "Ἀγέλαστος πέτρα",
-    "next": "Agemon 2",
     "proof_read": 3,
     "short_description": "Archon im westlokr. Buttos um 150 v. Chr.",
     "no_creative_height": true,
@@ -6839,14 +6839,16 @@
   },
   {
     "lemma": "Agemon 2",
-    "previous": "Agemon 1",
+    "previous": "Ἀγέλαστος πέτρα",
     "next": "Agemos",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "Archon im westlokr. Buttos um 150 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 13,
-        "end": 13
+        "end": 13,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -14596,6 +14598,7 @@
     "next": "Alponos 3",
     "redirect": "Alponos 3a",
     "proof_read": 3,
+    "short_description": "makedonische Stadt",
     "chapters": [
       {
         "start": 23,
@@ -14624,6 +14627,7 @@
     "next": "Alsietina aqua",
     "redirect": "Alponos 2a",
     "proof_read": 3,
+    "short_description": "thessalische Stadt",
     "chapters": [
       {
         "start": 23,
@@ -17911,20 +17915,6 @@
   {
     "lemma": "Ancharius 1a",
     "previous": "Ancamna",
-    "next": "Ancharius 6a",
-    "redirect": true,
-    "proof_read": 3,
-    "short_description": "Q. A., ital. Sigillatatöpfer (in Arretium?)",
-    "chapters": [
-      {
-        "start": 27,
-        "end": 27
-      }
-    ]
-  },
-  {
-    "lemma": "Ancharius 6a",
-    "previous": "Ancharius 1a",
     "next": "Anchasios",
     "proof_read": 3,
     "short_description": "Q. Ancharius, italischer Sigillatatöpfer",
@@ -17938,8 +17928,21 @@
     ]
   },
   {
+    "lemma": "Ancharius 6a",
+    "proof_read": 3,
+    "short_description": "Q. Ancharius, italischer Sigillatatöpfer",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 27,
+        "end": 27,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
     "lemma": "Anchasios",
-    "previous": "Ancharius 6a",
+    "previous": "Ancharius 1a",
     "next": "Anchialos 7",
     "proof_read": 3,
     "short_description": "Beiname des Trophonios",
@@ -18137,7 +18140,7 @@
   {
     "lemma": "Andautonia",
     "previous": "Andarta dea",
-    "next": "Andecavi (Andes)",
+    "next": "Andecavi",
     "proof_read": 3,
     "short_description": "Stadt in Pannonia superior",
     "no_creative_height": true,
@@ -18150,11 +18153,12 @@
     ]
   },
   {
-    "lemma": "Andecavi (Andes)",
+    "lemma": "Andecavi",
     "previous": "Andautonia",
     "next": "Andeda",
     "redirect": "Angers",
     "proof_read": 3,
+    "short_description": "Volk in Gallia Lugdunensis",
     "wp_link": "w:de:Andecaver",
     "wd_link": "d:Q749303",
     "chapters": [
@@ -18166,7 +18170,7 @@
   },
   {
     "lemma": "Andeda",
-    "previous": "Andecavi (Andes)",
+    "previous": "Andecavi",
     "next": "Andematunnum",
     "proof_read": 3,
     "short_description": "Stadt in Pisidien",
@@ -19571,6 +19575,7 @@
     "next": "Anio novus",
     "redirect": "Olybrius 8",
     "proof_read": 3,
+    "short_description": "Flavius A. Olybrius iunior, Konsul im J. 526 n. Chr.",
     "chapters": [
       {
         "start": 29,
@@ -19866,6 +19871,7 @@
     "sort_key": "Annius 009b",
     "redirect": "Annii",
     "proof_read": 3,
+    "short_description": "L. A., arretin. Sigillatatöpfer 1. Jh. v. Chr.",
     "chapters": [
       {
         "start": 29,
@@ -19880,6 +19886,7 @@
     "sort_key": "Annius 009c",
     "redirect": "Annii",
     "proof_read": 3,
+    "short_description": "Sex. A., arretin. Sigillatatöpfer 1. Jh. v. Chr.",
     "chapters": [
       {
         "start": 29,
@@ -22548,7 +22555,7 @@
     "lemma": "Antius 6aa",
     "previous": "Antium 1",
     "next": "Antius 6a",
-    "sort_key": "Antius 06aa",
+    "sort_key": "Antius 06a0",
     "proof_read": 3,
     "short_description": "Ti. A., cos. suff. (vor 62 n. Chr.?)",
     "no_creative_height": true,
@@ -22563,20 +22570,21 @@
   {
     "lemma": "Antius 6a",
     "previous": "Antius 6aa",
-    "next": "Antius 6b",
-    "redirect": true,
+    "next": "Antius 8",
+    "sort_key": "Antius 06a1",
     "proof_read": 3,
+    "short_description": "aus Alexandreia, siegte um 160 n. Chr. bei den Museia in Thespiai",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 32,
-        "end": 32
+        "end": 32,
+        "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Antius 6b",
-    "previous": "Antius 6a",
-    "next": "Antius 8",
     "sort_key": "Antius 06b",
     "proof_read": 3,
     "short_description": "aus Alexandreia, siegte um 160 n. Chr. bei den Museia in Thespiai",
@@ -22591,7 +22599,7 @@
   },
   {
     "lemma": "Antius 8",
-    "previous": "Antius 6b",
+    "previous": "Antius 6a",
     "next": "Antius 10",
     "sort_key": "Antius 08",
     "proof_read": 3,
@@ -23392,6 +23400,7 @@
     "next": "Antonius 126a",
     "redirect": "Leontis 2",
     "proof_read": 3,
+    "short_description": "Antonia Leontis, c. f., Gattin des Iulius Gurdabius",
     "chapters": [
       {
         "start": 33,
@@ -26213,6 +26222,7 @@
     "next": "Apronianus 3a",
     "redirect": "Aprio",
     "proof_read": 3,
+    "short_description": "Lampentöpfer",
     "chapters": [
       {
         "start": 36,
@@ -26259,19 +26269,22 @@
     "lemma": "Apronius 4a",
     "previous": "Apronius 4",
     "next": "Apronius 8a",
-    "redirect": true,
+    "sort_key": "Apronius 09a",
     "proof_read": 3,
+    "short_description": "L. A., südgall. Sigillatatöpfer in Montans am Tarn im 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 36,
-        "end": 36
+        "end": 36,
+        "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Apronius 8a",
     "previous": "Apronius 4a",
-    "next": "Apronius 9a",
+    "next": "Apronius 11",
     "sort_key": "Apronius 08a",
     "proof_read": 3,
     "short_description": "A. Primus, Prokonsul der Provinz Africa 426-429 n. Chr.(?)",
@@ -26286,8 +26299,6 @@
   },
   {
     "lemma": "Apronius 9a",
-    "previous": "Apronius 8a",
-    "next": "Apronius 11",
     "sort_key": "Apronius 09a",
     "proof_read": 3,
     "short_description": "L. A., südgall. Sigillatatöpfer in Montans am Tarn im 1. Jh. n. Chr.",
@@ -26302,7 +26313,7 @@
   },
   {
     "lemma": "Apronius 11",
-    "previous": "Apronius 9a",
+    "previous": "Apronius 8a",
     "next": "Apronius 12",
     "sort_key": "Apronius 11",
     "proof_read": 3,
@@ -27407,7 +27418,7 @@
   {
     "lemma": "Aradius 1a",
     "previous": "Aradius 1",
-    "next": "Aradius 3a",
+    "next": "Aradius 4a",
     "proof_read": 3,
     "short_description": "A. Paternus, leg. Aug. praeses der Provinz Cappadocia 231 n. Chr.",
     "wp_link": "w:de:Aradius Paternus",
@@ -27421,8 +27432,6 @@
   },
   {
     "lemma": "Aradius 3a",
-    "previous": "Aradius 1a",
-    "next": "Aradius 4a",
     "proof_read": 3,
     "short_description": "Q. A. Rufinus Optatus, leg. Aug. pr. pr. von Galatia, Phoenice und Syria",
     "no_creative_height": true,
@@ -27436,9 +27445,10 @@
   },
   {
     "lemma": "Aradius 4a",
-    "previous": "Aradius 3a",
+    "previous": "Aradius 1a",
     "next": "Aradius 4b",
     "proof_read": 3,
+    "short_description": "Q. A. Rufinus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -27453,6 +27463,7 @@
     "previous": "Aradius 4a",
     "next": "Aradum",
     "proof_read": 3,
+    "short_description": "Q. A. Rufinus Optatus, leg. Aug. pr. pr. von Galatia, Phoenice und Syria",
     "no_creative_height": true,
     "chapters": [
       {
@@ -33171,8 +33182,9 @@
     "lemma": "Aristodama 3",
     "previous": "Aristobulos 14a",
     "next": "Aristodemos 7a",
+    "sort_key": "Aristodeme 3",
     "proof_read": 3,
-    "short_description": "A. von Smyrna, Epikerin in der 2. H. des 3. Jh. v. Chr.",
+    "short_description": "A. von Smyrna, Epikerin 3. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -37943,8 +37955,9 @@
   {
     "lemma": "Asinius 17a",
     "previous": "Asinius 16a",
-    "next": "Asinius 17b",
+    "next": "Asinius 17aa",
     "proof_read": 3,
+    "short_description": "C. A. Lepidus Praetextatus, cos. ord. im J. 242 n. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Gaius Asinius Lepidus Praetextatus",
     "wd_link": "d:Q722606",
@@ -37957,7 +37970,7 @@
     ]
   },
   {
-    "lemma": "Asinius 17b",
+    "lemma": "Asinius 17aa",
     "previous": "Asinius 17a",
     "next": "Asinius 18",
     "proof_read": 3,
@@ -37975,7 +37988,7 @@
   },
   {
     "lemma": "Asinius 18",
-    "previous": "Asinius 17b",
+    "previous": "Asinius 17aa",
     "next": "Asinius 18a",
     "proof_read": 3,
     "short_description": "M. A. Marcellus, cos. ord. im J. 54 n. Chr. = [---]us Marcellus",
@@ -43281,8 +43294,10 @@
     "lemma": "Avillius 2aaaa",
     "previous": "Avillius 1",
     "next": "Avillius 2aaa",
+    "sort_key": "Avillius 2a0",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "A. A., arretin. Sigillatatöpfer in august. Zeit",
     "chapters": [
       {
         "start": 56,
@@ -43294,8 +43309,10 @@
     "lemma": "Avillius 2aaa",
     "previous": "Avillius 2aaaa",
     "next": "Avillius 2aa",
+    "sort_key": "Avillius 2a1",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "C. A.‚ arretin. Sigillatatöpfer in august. Zeit",
     "chapters": [
       {
         "start": 56,
@@ -43307,8 +43324,10 @@
     "lemma": "Avillius 2aa",
     "previous": "Avillius 2aaa",
     "next": "Avillius 2a",
+    "sort_key": "Avillius 2a2",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "L. A., arretin. Sigillatatöpfer in august. Zeit",
     "chapters": [
       {
         "start": 56,
@@ -43320,7 +43339,7 @@
     "lemma": "Avillius 2a",
     "previous": "Avillius 2aa",
     "next": "Avillius 2b",
-    "sort_key": "Auillius 2a",
+    "sort_key": "Auillius 2a3",
     "proof_read": 3,
     "short_description": "erg. zu 1, C. A., arretin. Sigillatatöpfer in august. Zt.",
     "no_creative_height": true,
@@ -43952,7 +43971,7 @@
     "next": "Aurelius 39a",
     "redirect": "Aurelius 37a",
     "proof_read": 3,
-    "short_description": "A. Antinous, Vizepräfekt von Aegypten im J. 215/6 n. Chr.",
+    "short_description": "M. Aurelius Amarantus, Prokonsul von Achaia",
     "chapters": [
       {
         "start": 57,
@@ -44664,7 +44683,7 @@
   {
     "lemma": "Aurelius 158a",
     "previous": "Aurelius 157a",
-    "next": "Aurelius 160aa",
+    "next": "Aurelius 159a",
     "proof_read": 3,
     "short_description": "A. Iustus, comes et praeses der Provinz Caria 355-359 n. Chr.(?)",
     "no_creative_height": true,
@@ -44677,7 +44696,7 @@
     ]
   },
   {
-    "lemma": "Aurelius 160aa",
+    "lemma": "Aurelius 159a",
     "previous": "Aurelius 158a",
     "next": "Aurelius 160a",
     "proof_read": 3,
@@ -44693,7 +44712,7 @@
   },
   {
     "lemma": "Aurelius 160a",
-    "previous": "Aurelius 160aa",
+    "previous": "Aurelius 159a",
     "next": "Aurelius 160b",
     "proof_read": 3,
     "short_description": "M. A. Lydius, proc. Augg. der Provinz Phrygia und anstoßende Provinzen",
@@ -45164,7 +45183,7 @@
   {
     "lemma": "Aurelius 225b",
     "previous": "Aurelius 225a",
-    "next": "Aurelius 227a",
+    "next": "Aurelius 226a",
     "proof_read": 3,
     "short_description": "A. Terpsilaus, proc. usiacus in Aegypten im J. 217 n. Chr.",
     "no_creative_height": true,
@@ -45177,7 +45196,7 @@
     ]
   },
   {
-    "lemma": "Aurelius 227a",
+    "lemma": "Aurelius 226a",
     "previous": "Aurelius 225b",
     "next": "Aurelius 229a",
     "proof_read": 3,
@@ -45193,7 +45212,7 @@
   },
   {
     "lemma": "Aurelius 229a",
-    "previous": "Aurelius 227a",
+    "previous": "Aurelius 226a",
     "next": "Aurelius 231",
     "proof_read": 3,
     "short_description": "A. Tiro, Epistratege der Heptanomis unter Gallienus 266 n. Chr.",
@@ -56998,7 +57017,7 @@
   {
     "lemma": "Calidius 4",
     "previous": "Caliadis",
-    "next": "Calidius 6a",
+    "next": "Calidius 5a",
     "proof_read": 3,
     "short_description": "M. C., attizist. röm. Redner 1. Jh. v. Chr.",
     "no_creative_height": true,
@@ -57013,7 +57032,7 @@
     ]
   },
   {
-    "lemma": "Calidius 6a",
+    "lemma": "Calidius 5a",
     "previous": "Calidius 4",
     "next": "Callicome",
     "proof_read": 3,
@@ -57029,7 +57048,7 @@
   },
   {
     "lemma": "Callicome",
-    "previous": "Calidius 6a",
+    "previous": "Calidius 5a",
     "next": "Callire Portus",
     "proof_read": 3,
     "short_description": "Ort in der syrischen Provinz Kyrrhestika",
@@ -61413,7 +61432,7 @@
   {
     "lemma": "Celsianus",
     "previous": "Celeros",
-    "next": "Celsinus 9",
+    "next": "Celsinus 7a",
     "proof_read": 3,
     "short_description": "C. aus Tarraco, proc. Aug.",
     "no_creative_height": true,
@@ -61426,7 +61445,7 @@
     ]
   },
   {
-    "lemma": "Celsinus 9",
+    "lemma": "Celsinus 7a",
     "previous": "Celsianus",
     "next": "Celsus 18a",
     "sort_key": "Celsinus 09",
@@ -61443,7 +61462,7 @@
   },
   {
     "lemma": "Celsus 18a",
-    "previous": "Celsinus 9",
+    "previous": "Celsinus 7a",
     "next": "Celsus 23a",
     "proof_read": 3,
     "short_description": "Dichter bei Philostratos Nr. 10",
@@ -62666,6 +62685,7 @@
     "previous": "Charikles 4",
     "next": "Charimortos",
     "proof_read": 3,
+    "short_description": "Ch. und Antiochos von Opus, Brüderpaar",
     "no_creative_height": true,
     "chapters": [
       {
@@ -63212,11 +63232,15 @@
     "previous": "Χειρίς",
     "next": "Χειριστής",
     "proof_read": 3,
-    "short_description": "Toreut in august. Zeit",
+    "short_description": "Toreut zur Zeit des Augustus",
+    "no_creative_height": true,
+    "wp_link": "w:de:Cheirisophos (Toreut)",
+    "wd_link": "d:Q105945391",
     "chapters": [
       {
         "start": 82,
-        "end": 82
+        "end": 82,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -64916,12 +64940,14 @@
     "lemma": "Clarus 3a",
     "previous": "Clartius",
     "next": "Classicus 1a",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "donatistischer Presbyter 4. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 84,
-        "end": 84
+        "end": 84,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -65134,8 +65160,10 @@
     "lemma": "Claudius 37a",
     "previous": "Claudius 32b",
     "next": "Claudius 38",
+    "sort_key": "Claudius 038",
     "redirect": "Marcius 34",
     "proof_read": 3,
+    "short_description": "leg. Aug. pr. pr. der Provinz Germania inferior im J. 217/8 n. Chr.",
     "chapters": [
       {
         "start": 84,
@@ -70339,7 +70367,7 @@
   {
     "lemma": "Cornuti",
     "previous": "Cornificius 7",
-    "next": "Cornutus 6",
+    "next": "Cornutus 4a",
     "proof_read": 3,
     "short_description": "germ. Auxiliartruppen in spätröm. Zeit",
     "no_creative_height": true,
@@ -70354,7 +70382,7 @@
     ]
   },
   {
-    "lemma": "Cornutus 6",
+    "lemma": "Cornutus 4a",
     "previous": "Cornuti",
     "next": "Corona 3",
     "proof_read": 3,
@@ -70370,7 +70398,7 @@
   },
   {
     "lemma": "Corona 3",
-    "previous": "Cornutus 6",
+    "previous": "Cornutus 4a",
     "next": "Dea Coryphea",
     "proof_read": 3,
     "short_description": "sub c. vendere, der öffentliche Verkauf von Kriegsgefangenen",
@@ -70511,7 +70539,7 @@
   {
     "lemma": "Cossinius 5",
     "previous": "Cosius 3",
-    "next": "Cos(s)inius 5a",
+    "next": "Cossinius 5a",
     "proof_read": 3,
     "short_description": "P. C. Felix, leg. Augg. pro praetore der Provinz Pannonia inferior 252 n. Chr.",
     "no_creative_height": true,
@@ -70526,7 +70554,7 @@
     ]
   },
   {
-    "lemma": "Cos(s)inius 5a",
+    "lemma": "Cossinius 5a",
     "previous": "Cossinius 5",
     "next": "Cossion",
     "sort_key": "Cossinius 5a",
@@ -70543,7 +70571,7 @@
   },
   {
     "lemma": "Cossion",
-    "previous": "Cos(s)inius 5a",
+    "previous": "Cossinius 5a",
     "next": "Cossonius 3",
     "proof_read": 3,
     "short_description": "Landschaft in Perien, das Gebiet der Kossaioi (?)",
@@ -70593,7 +70621,7 @@
   {
     "lemma": "Cossutianus 1",
     "previous": "Cossonius 3a",
-    "next": "Cossutius 3a",
+    "next": "Cossutius 2a",
     "proof_read": 3,
     "short_description": "C. Capito, leg. Aug. pr. pr. der Provinz Cilicia unter Nero",
     "no_creative_height": true,
@@ -70608,7 +70636,7 @@
     ]
   },
   {
-    "lemma": "Cossutius 3a",
+    "lemma": "Cossutius 2a",
     "previous": "Cossutianus 1",
     "next": "Costillus",
     "proof_read": 3,
@@ -70624,7 +70652,7 @@
   },
   {
     "lemma": "Costillus",
-    "previous": "Cossutius 3a",
+    "previous": "Cossutius 2a",
     "next": "Costio",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
@@ -72643,7 +72671,7 @@
   {
     "lemma": "Damocratia",
     "previous": "Damocharis 2",
-    "next": "Damokleidas 2a",
+    "next": "Damokleidas 3",
     "proof_read": 3,
     "short_description": "Angehörige des Senatorenstandes um 400 n. Chr.",
     "no_creative_height": true,
@@ -72656,7 +72684,7 @@
     ]
   },
   {
-    "lemma": "Damokleidas 2a",
+    "lemma": "Damokleidas 3",
     "previous": "Damocratia",
     "next": "Damokles 6a",
     "proof_read": 3,
@@ -72672,7 +72700,7 @@
   },
   {
     "lemma": "Damokles 6a",
-    "previous": "Damokleidas 2a",
+    "previous": "Damokleidas 3",
     "next": "Damokles 6b",
     "proof_read": 3,
     "short_description": "Spion bei den Römern 205/4 v. Chr., mit Pythion",
@@ -95259,12 +95287,13 @@
     "lemma": "Herakleides 65",
     "previous": "Herakleides 62a",
     "next": "Herakleides 66",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "Siegreicher Schauspieler bei den Lenaia um das J. 255 v. Chr.",
     "chapters": [
       {
         "start": 123,
-        "end": 123
+        "end": 123,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -95272,12 +95301,13 @@
     "lemma": "Herakleides 66",
     "previous": "Herakleides 65",
     "next": "Herakleides 67",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "Siegreicher Schauspieler bei den Dionysia in den Jahren 449-447 v. Chr.",
     "chapters": [
       {
         "start": 123,
-        "end": 123
+        "end": 123,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -107451,8 +107481,9 @@
     "lemma": "Καινοφρούριον",
     "previous": "Kaiechos",
     "next": "Kairos 1",
+    "sort_key": "Kainophrurion",
     "proof_read": 3,
-    "short_description": "thrakische Örtlichkeit",
+    "short_description": "Kainophrurion, thrakische Örtlichkeit",
     "no_creative_height": true,
     "chapters": [
       {
@@ -108487,7 +108518,6 @@
     "previous": "Kallimachos 3b",
     "next": "Kallimachos 6",
     "sort_key": "Kallimachos 5a",
-    "redirect": true,
     "proof_read": 3,
     "short_description": "Kallimachos von Kyrene, alexandrinischer Dichter",
     "wp_link": "w:de:Kallimachos",
@@ -108496,7 +108526,8 @@
     "chapters": [
       {
         "start": 140,
-        "end": 140
+        "end": 140,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -113777,6 +113808,7 @@
     "next": "Kroisos",
     "redirect": "Kriton 10",
     "proof_read": 3,
+    "short_description": "athen. Bildhauer in traianischer Zeit?",
     "chapters": [
       {
         "start": 148,
@@ -114712,6 +114744,7 @@
     "lemma": "Λαβασσοάρασκος",
     "previous": "Kytnoi",
     "next": "Labbana",
+    "sort_key": "Labassoaraskos",
     "proof_read": 3,
     "short_description": "Labassoaraskos, babylonischer König 556 v. Chr.",
     "no_creative_height": true,
@@ -121571,8 +121604,9 @@
     "lemma": "Λοιβάσιον",
     "previous": "Lochagos 2",
     "next": "Λοκρικὰ ᾄσματα",
+    "sort_key": "Loibasion",
     "proof_read": 3,
-    "short_description": "Gefäßbezeichnung, vgl. Trankopfer",
+    "short_description": "Loibasion, Gefäßbezeichnung, vgl. Trankopfer",
     "no_creative_height": true,
     "chapters": [
       {
@@ -139020,8 +139054,9 @@
     "lemma": "Παυσίκαι",
     "previous": "Pausanias 28",
     "next": "Pausippos",
+    "sort_key": "Pausikai",
     "proof_read": 3,
-    "short_description": "Volk an der Nordwestgrenze des persischen Reiches",
+    "short_description": "Pausikai, Volk an der Nordwestgrenze des persischen Reiches",
     "no_creative_height": true,
     "chapters": [
       {
@@ -140552,9 +140587,13 @@
     "lemma": "Pharnakeia 1",
     "previous": "Pharmakussai",
     "next": "Pharsalos",
+    "proof_read": 3,
+    "short_description": "Stadt an der Küste von Pontos Polemoniakos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140563,9 +140602,13 @@
     "lemma": "Pharsalos",
     "previous": "Pharnakeia 1",
     "next": "Phasael 1",
+    "proof_read": 3,
+    "short_description": "thessalische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140589,9 +140632,13 @@
     "lemma": "Phasael 2",
     "previous": "Phasael 1",
     "next": "Phasael 3",
+    "proof_read": 3,
+    "short_description": "Sohn des Antipatros, Bruder Herodes’ I.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140600,9 +140647,13 @@
     "lemma": "Phasael 3",
     "previous": "Phasael 2",
     "next": "Phea, Pheai",
+    "proof_read": 3,
+    "short_description": "Sohn des Phasael Nr. 2",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140611,9 +140662,13 @@
     "lemma": "Phea, Pheai",
     "previous": "Phasael 3",
     "next": "Phekidas 1",
+    "proof_read": 3,
+    "short_description": "Ort an der elischen Küste",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140637,9 +140692,13 @@
     "lemma": "Phekidas 2",
     "previous": "Phekidas 1",
     "next": "Phelloe",
+    "proof_read": 3,
+    "short_description": "Diakon, Unterzeichner des Schreibens des edessischen Klerus 449 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140648,9 +140707,13 @@
     "lemma": "Phelloe",
     "previous": "Phekidas 2",
     "next": "Pherai 5",
+    "proof_read": 3,
+    "short_description": "achaischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140659,9 +140722,13 @@
     "lemma": "Pherai 5",
     "previous": "Phelloe",
     "next": "Phiala, Phialus",
+    "proof_read": 3,
+    "short_description": "Stadt in der thessal. Landschaft Pelasgiotis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140670,9 +140737,13 @@
     "lemma": "Phiala, Phialus",
     "previous": "Pherai 5",
     "next": "Phiale 1",
+    "proof_read": 3,
+    "short_description": "ägyptischer Ort bei Memphis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140681,9 +140752,13 @@
     "lemma": "Phiale 1",
     "previous": "Phiala, Phialus",
     "next": "Phigaleia",
+    "proof_read": 3,
+    "short_description": "Gefäßbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140692,9 +140767,13 @@
     "lemma": "Phigaleia",
     "previous": "Phiale 1",
     "next": "Phigia",
+    "proof_read": 3,
+    "short_description": "arkadische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 184,
+        "end": 184,
         "author": "Hans Gärtner."
       }
     ]
@@ -140734,9 +140813,13 @@
     "lemma": "Philalethes",
     "previous": "Philagrios 1a",
     "next": "Philanthropon",
+    "proof_read": 3,
+    "short_description": "Beiname griechischer Ärzte aus der Schule des Zeuxis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140745,9 +140828,13 @@
     "lemma": "Philanthropon",
     "previous": "Philalethes",
     "next": "Philaporos",
+    "proof_read": 3,
+    "short_description": "der königliche Gnadenerlaß in hellenistischer Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140756,9 +140843,13 @@
     "lemma": "Philaporos",
     "previous": "Philanthropon",
     "next": "Phileis Meter",
+    "proof_read": 3,
+    "short_description": "erfundener Schauspielername bei Alkiphron",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140767,9 +140858,13 @@
     "lemma": "Phileis Meter",
     "previous": "Philaporos",
     "next": "Philemon 10",
+    "proof_read": 3,
+    "short_description": "Beiname der kleinasiatischen Muttergottheit im lydischen Koloë",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140778,9 +140873,13 @@
     "lemma": "Philemon 10",
     "previous": "Phileis Meter",
     "next": "Philemon 10a",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia um 370 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140789,9 +140888,13 @@
     "lemma": "Philemon 10a",
     "previous": "Philemon 10",
     "next": "Philemon 10b",
+    "proof_read": 3,
+    "short_description": "Schauspieler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140800,9 +140903,13 @@
     "lemma": "Philemon 10b",
     "previous": "Philemon 10a",
     "next": "Philemon 10c",
+    "proof_read": 3,
+    "short_description": "athenischer Schauspieler in Argos oder Umgebung 97–75 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140811,9 +140918,13 @@
     "lemma": "Philemon 10c",
     "previous": "Philemon 10b",
     "next": "Philesios 2a",
+    "proof_read": 3,
+    "short_description": "Schauspieler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140822,9 +140933,13 @@
     "lemma": "Philesios 2a",
     "previous": "Philemon 10c",
     "next": "Philikos",
+    "proof_read": 3,
+    "short_description": "boiotischer Schauspieler bei den Soteria zu Delphi 269 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140833,9 +140948,13 @@
     "lemma": "Philikos",
     "previous": "Philesios 2a",
     "next": "Philinos 4a",
+    "proof_read": 3,
+    "short_description": "von Korkyra, Tragiker der alexandrin. Pleias 3. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140844,9 +140963,13 @@
     "lemma": "Philinos 4a",
     "previous": "Philikos",
     "next": "Philinos 10",
+    "proof_read": 3,
+    "short_description": "Agonothet nach 316/5 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140855,9 +140978,13 @@
     "lemma": "Philinos 10",
     "previous": "Philinos 4a",
     "next": "Philion",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Museia zu Thespiai 161 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140866,9 +140993,13 @@
     "lemma": "Philion",
     "previous": "Philinos 10",
     "next": "Philippos 35a",
+    "proof_read": 3,
+    "short_description": "Schauspieler in der Amphiktyonenversammlung 130 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140877,9 +141008,13 @@
     "lemma": "Philippos 35a",
     "previous": "Philion",
     "next": "Philippos 35b",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia 398 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140888,9 +141023,13 @@
     "lemma": "Philippos 35b",
     "previous": "Philippos 35a",
     "next": "Philippos 54",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Dionysia 311 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140899,9 +141038,13 @@
     "lemma": "Philippos 54",
     "previous": "Philippos 35b",
     "next": "Philippos 55",
+    "proof_read": 3,
+    "short_description": "Beamter und Politiker in Epeiros 3. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140910,9 +141053,13 @@
     "lemma": "Philippos 55",
     "previous": "Philippos 54",
     "next": "Philippos 56",
+    "proof_read": 3,
+    "short_description": "Makedone, Offizier Alexanders d. Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140921,9 +141068,13 @@
     "lemma": "Philippos 56",
     "previous": "Philippos 55",
     "next": "Philippos 57",
+    "proof_read": 3,
+    "short_description": "Vornehmer Makedone, Satrap des Gandharagebietes seit 326 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140932,9 +141083,13 @@
     "lemma": "Philippos 57",
     "previous": "Philippos 56",
     "next": "Philippos 58",
+    "proof_read": 3,
+    "short_description": "Militäringenieur im Dienste Alexanders d. Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140943,9 +141098,13 @@
     "lemma": "Philippos 58",
     "previous": "Philippos 57",
     "next": "Philippos 59",
+    "proof_read": 3,
+    "short_description": "Makedone, Teilnehmer am Perserfeldzug Alexanders d. Gr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140954,9 +141113,13 @@
     "lemma": "Philippos 59",
     "previous": "Philippos 58",
     "next": "Philippos 60",
+    "proof_read": 3,
+    "short_description": "Offizier Alexanders d. Gr., Sohn des Amyntas",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140965,9 +141128,13 @@
     "lemma": "Philippos 60",
     "previous": "Philippos 59",
     "next": "Philippos 61",
+    "proof_read": 3,
+    "short_description": "Offizier Alexanders d. Gr., Sohn des Balakros",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140976,9 +141143,13 @@
     "lemma": "Philippos 61",
     "previous": "Philippos 60",
     "next": "Philippos 62",
+    "proof_read": 3,
+    "short_description": "Offizier Alexanders d. Gr., Sohn des Menelaos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140987,9 +141158,13 @@
     "lemma": "Philippos 62",
     "previous": "Philippos 61",
     "next": "Philippos 63",
+    "proof_read": 3,
+    "short_description": "Offizier Alexanders d. Gr., Satrap von Baktrien und Sogdiane 325 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -140998,9 +141173,13 @@
     "lemma": "Philippos 63",
     "previous": "Philippos 62",
     "next": "Philippos 64",
+    "proof_read": 3,
+    "short_description": "akarnanischer Leibarzt Alexanders d. Gr. seit der Jugendzeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141009,9 +141188,13 @@
     "lemma": "Philippos 64",
     "previous": "Philippos 63",
     "next": "Philippos 65",
+    "proof_read": 3,
+    "short_description": "von Akarnanien, Proxenos von Delphi 194/3 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141020,9 +141203,13 @@
     "lemma": "Philippos 65",
     "previous": "Philippos 64",
     "next": "Philippos 66",
+    "proof_read": 3,
+    "short_description": "von Phrygien, Kommandant Antiochos’ IV. Epiphanes in Jerusalem 167 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141031,9 +141218,13 @@
     "lemma": "Philippos 66",
     "previous": "Philippos 65",
     "next": "Philippos 67",
+    "proof_read": 3,
+    "short_description": "hoher Würdenträger unter Antiochos IV. Epiphanes J. 163 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141042,9 +141233,13 @@
     "lemma": "Philippos 67",
     "previous": "Philippos 66",
     "next": "Philippos 68",
+    "proof_read": 3,
+    "short_description": "Wahrsager am Hof Alexanders d. Gr. (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141053,9 +141248,13 @@
     "lemma": "Philippos 68",
     "previous": "Philippos 67",
     "next": "Philippos 69",
+    "proof_read": 3,
+    "short_description": "P. I. Epiphanes Philadelphos, syrischer König 1. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141064,9 +141263,13 @@
     "lemma": "Philippos 69",
     "previous": "Philippos 68",
     "next": "Philippos 70",
+    "proof_read": 3,
+    "short_description": "P. II., syr. König Mitte 1. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141075,9 +141278,13 @@
     "lemma": "Philippos 70",
     "previous": "Philippos 69",
     "next": "Philippos 71",
+    "proof_read": 3,
+    "short_description": "von Medma, naturwissenschaftlicher Schriftsteller 3. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141086,9 +141293,13 @@
     "lemma": "Philippos 71",
     "previous": "Philippos 70",
     "next": "Philiskos 4",
+    "proof_read": 3,
+    "short_description": "Astrologe in Delphi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141097,9 +141308,13 @@
     "lemma": "Philiskos 4",
     "previous": "Philippos 71",
     "next": "Philiskos 5a",
+    "proof_read": 3,
+    "short_description": "von Korkyra, Tragiker der alexandrinischen Pleias 3. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141108,9 +141323,13 @@
     "lemma": "Philiskos 5a",
     "previous": "Philiskos 4",
     "next": "Phillidas 2",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Soteria zu Delphi 272 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141119,9 +141338,13 @@
     "lemma": "Phillidas 2",
     "previous": "Philiskos 5a",
     "next": "Philodemos 2",
+    "proof_read": 3,
+    "short_description": "aitolischer Stratege 219/8 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141130,9 +141353,13 @@
     "lemma": "Philodemos 2",
     "previous": "Phillidas 2",
     "next": "Philogelos",
+    "proof_read": 3,
+    "short_description": "P. vom Demos Paiania, Sohn des Demokydes",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141141,9 +141368,13 @@
     "lemma": "Philogelos",
     "previous": "Philodemos 2",
     "next": "Philokleides",
+    "proof_read": 3,
+    "short_description": "griechisch-byzantische Witzsammlung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141152,9 +141383,13 @@
     "lemma": "Philokleides",
     "previous": "Philogelos",
     "next": "Philokles 8a",
+    "proof_read": 3,
+    "short_description": "von Chalkis, Schauspieler bei den Dionysia zu Delos 264 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141163,9 +141398,13 @@
     "lemma": "Philokles 8a",
     "previous": "Philokleides",
     "next": "Philokomos",
+    "proof_read": 3,
+    "short_description": "siegreicher Schauspieler bei den Lenaia etwa 288 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141189,9 +141428,13 @@
     "lemma": "Philokrates 7a",
     "previous": "Philokomos",
     "next": "Philokydes",
+    "proof_read": 3,
+    "short_description": "von Theben, siegreicher Schauspieler bei den Museia zu Thespiai 100–75 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141200,9 +141443,13 @@
     "lemma": "Philokydes",
     "previous": "Philokrates 7a",
     "next": "Philolaos 5",
+    "proof_read": 3,
+    "short_description": "athenischer Schauspieler bei den Soteria zu Delphi 271 und 270 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141211,9 +141458,13 @@
     "lemma": "Philolaos 5",
     "previous": "Philokydes",
     "next": "Philomelos 4a",
+    "proof_read": 3,
+    "short_description": "P. von Kroton oder Tarentum, Pythagoreer im 5. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 185,
+        "end": 185,
         "author": "Hans Gärtner."
       }
     ]
@@ -141222,9 +141473,13 @@
     "lemma": "Philomelos 4a",
     "previous": "Philolaos 5",
     "next": "Philomelos 8",
+    "proof_read": 3,
+    "short_description": "Archon in Salamis 4. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141233,9 +141488,13 @@
     "lemma": "Philomelos 8",
     "previous": "Philomelos 4a",
     "next": "Philon 33a",
+    "proof_read": 3,
+    "short_description": "Arzt (?) in vortraianischer Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141244,9 +141503,13 @@
     "lemma": "Philon 33a",
     "previous": "Philomelos 8",
     "next": "Philon 33b",
+    "proof_read": 3,
+    "short_description": "von Ambrakia, Schauspieler bei den Soteria zu Delphi 270 oder 254 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141270,9 +141533,13 @@
     "lemma": "Philon 33c",
     "previous": "Philon 33b",
     "next": "Philon 33d",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Dionysia um 140 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141281,9 +141548,13 @@
     "lemma": "Philon 33d",
     "previous": "Philon 33c",
     "next": "Philon 36a",
+    "proof_read": 3,
+    "short_description": "Athen. Schauspieler in Argos oder Umgebung J. 97–75 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141292,9 +141563,13 @@
     "lemma": "Philon 36a",
     "previous": "Philon 33d",
     "next": "Philon 62",
+    "proof_read": 3,
+    "short_description": "P. vom kilikischen Mopsuestia, Rhetor in Baeterrae 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141321,6 +141596,7 @@
     "next": "Philonikos 1a",
     "redirect": "Aristomachos 5",
     "proof_read": 3,
+    "short_description": "von Zakynthos, siegreicher Schauspieler bei den Dionysia 284 v. Chr.",
     "chapters": [
       {
         "start": 186,
@@ -141330,6 +141606,20 @@
   },
   {
     "lemma": "Philonikos 1a",
+    "previous": "Philonides 10",
+    "proof_read": 3,
+    "short_description": "athen. Schauspieler in Delphi um 97 v. Chr., Sohn des Hermon",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 186,
+        "end": 186,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Philophron 4",
     "previous": "Philonides 10",
     "next": "Philophron 4",
     "proof_read": 3,
@@ -141344,19 +141634,7 @@
     ]
   },
   {
-    "lemma": "Philophron 4",
-    "previous": "Philonikos 1a",
-    "next": "Philostephanos 6a",
-    "chapters": [
-      {
-        "start": 186,
-        "author": "Hans Gärtner."
-      }
-    ]
-  },
-  {
     "lemma": "Philostephanos 6a",
-    "previous": "Philophron 4",
     "next": "Philostratos 5a",
     "proof_read": 3,
     "short_description": "siegreicher Schauspieler bei den Lenaia um das J. 272 v. Chr.",
@@ -141388,9 +141666,14 @@
     "lemma": "Topos Philota",
     "previous": "Philostratos 5a",
     "next": "Philotas 15",
+    "sort_key": "Philota",
+    "proof_read": 3,
+    "short_description": "Örtlichkeit im karischen Magnesia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141414,9 +141697,13 @@
     "lemma": "Philotera",
     "previous": "Philotas 15",
     "next": "Philoxenos 5a",
+    "proof_read": 3,
+    "short_description": "ägyptische Prinzessin, Tochter des Ptolemaios I. Soter und der Berenike I.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141425,9 +141712,13 @@
     "lemma": "Philoxenos 5a",
     "previous": "Philotera",
     "next": "Phineas",
+    "proof_read": 3,
+    "short_description": "athen. Schauspieler in Delphi im J. 97 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141436,9 +141727,13 @@
     "lemma": "Phineas",
     "previous": "Philoxenos 5a",
     "next": "Phintias 6",
+    "proof_read": 3,
+    "short_description": "P. ben Samuel von Aphtha, jüdischer Hohepriester 67-70 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141462,9 +141757,13 @@
     "lemma": "Phistyon",
     "previous": "Phintias 6",
     "next": "Phleius",
+    "proof_read": 3,
+    "short_description": "aitolische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141473,9 +141772,13 @@
     "lemma": "Phleius",
     "previous": "Phistyon",
     "next": "Phlya",
+    "proof_read": 3,
+    "short_description": "Stadt und Ebene südwestlich von Korinth",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141484,9 +141787,13 @@
     "lemma": "Phlya",
     "previous": "Phleius",
     "next": "Phoebe 2",
+    "proof_read": 3,
+    "short_description": "attischer Demos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141510,9 +141817,13 @@
     "lemma": "Phoibammon 5",
     "previous": "Phoebe 2",
     "next": "Phoinike 8a",
+    "proof_read": 3,
+    "short_description": "von Ägypten (?), Name eines Sophisten spätantiker Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141521,9 +141832,13 @@
     "lemma": "Phoinike 8a",
     "previous": "Phoibammon 5",
     "next": "Phoinike 9",
+    "proof_read": 3,
+    "short_description": "Hauptstadt der epeirotischen Landschaft Chaonia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141546,9 +141861,13 @@
     "lemma": "Phoinikis",
     "previous": "Phoinike 9",
     "next": "Phoinix 3",
+    "proof_read": 3,
+    "short_description": "boiotische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141557,9 +141876,13 @@
     "lemma": "Phoinix 3",
     "previous": "Phoinikis",
     "next": "Phorkides",
+    "proof_read": 3,
+    "short_description": "Erzieher und Berater des Achilleus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141568,9 +141891,13 @@
     "lemma": "Phorkides",
     "previous": "Phoinix 3",
     "next": "Phormion 8a",
+    "proof_read": 3,
+    "short_description": "Töchter des Meergreises Phorkys und der Keto",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141590,12 +141917,19 @@
     ]
   },
   {
+    "lemma": "Phormion 9a"
+  },
+  {
     "lemma": "Photios 13",
     "previous": "Phormion 8a",
     "next": "Phrasilaos",
+    "proof_read": 3,
+    "short_description": "Patriarch von Konstantinopel 9. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141619,9 +141953,13 @@
     "lemma": "Phretarchos",
     "previous": "Phrasilaos",
     "next": "Phretrarchos",
+    "proof_read": 3,
+    "short_description": "Vorsteher einer Phratrie in Neapel aus der Kaiserzeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141644,9 +141982,13 @@
     "lemma": "Phuth",
     "previous": "Phretrarchos",
     "next": "Phylarchoi",
+    "proof_read": 3,
+    "short_description": "Fluß in Mauretania Tingit.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141655,9 +141997,13 @@
     "lemma": "Phylarchoi",
     "previous": "Phuth",
     "next": "Phylarchos 1",
+    "proof_read": 3,
+    "short_description": "die Phylen Vorsteher, s. Phylarchos Nr. 4",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141666,9 +142012,13 @@
     "lemma": "Phylarchos 1",
     "previous": "Phylarchoi",
     "next": "Phylarchos 4",
+    "proof_read": 3,
+    "short_description": "griechische Geschichtsschreiber 3. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141676,21 +142026,32 @@
   {
     "lemma": "Phylarchos 4",
     "previous": "Phylarchos 1",
-    "next": "Physkos 3",
+    "next": "Phylarchos 4",
+    "proof_read": 3,
+    "short_description": "als Amtsbezeichnung",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
+    "lemma": "Phylarchos 5"
+  },
+  {
     "lemma": "Physkos 3",
     "previous": "Phylarchos 4",
     "next": "Phytaion",
+    "proof_read": 3,
+    "short_description": "Ort und Demos der rhodischen Peraia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141699,19 +142060,27 @@
     "lemma": "Phytaion",
     "previous": "Physkos 3",
     "next": "Phytios 3",
+    "proof_read": 3,
+    "short_description": "aitolische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Phytios 3",
+    "previous": "Phytaion"
+  },
+  {
+    "lemma": "Phytios 1",
     "previous": "Phytaion",
     "next": "Piala",
     "proof_read": 3,
-    "short_description": "siegreicher Schauspieler bei den Lenaia um das J. 392 v. Chr.",
+    "short_description": "siegreicher Schauspieler bei den Lenaia um 392 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -141723,11 +142092,15 @@
   },
   {
     "lemma": "Piala",
-    "previous": "Phytios 3",
+    "previous": "Phytios 1",
     "next": "Pialai",
+    "proof_read": 3,
+    "short_description": "Ort in der Senke",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 186,
+        "end": 186,
         "author": "Hans Gärtner."
       }
     ]
@@ -141751,9 +142124,13 @@
     "lemma": "Pialeia",
     "previous": "Pialai",
     "next": "Piammon",
+    "proof_read": 3,
+    "short_description": "thessalische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 187,
+        "end": 187,
         "author": "Hans Gärtner."
       }
     ]
@@ -141777,9 +142154,13 @@
     "lemma": "Piarensioi",
     "previous": "Piammon",
     "next": "Piathris",
+    "proof_read": 3,
+    "short_description": "Bewohner der mittleren Landschaften von Moesia inferior",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 187,
+        "end": 187,
         "author": "Hans Gärtner."
       }
     ]
@@ -141788,9 +142169,13 @@
     "lemma": "Piathris",
     "previous": "Piarensioi",
     "next": "Pibechis",
+    "proof_read": 3,
+    "short_description": "astrologischer Begriff, der dritte Dekan der Fische",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 187,
+        "end": 187,
         "author": "Hans Gärtner."
       }
     ]
@@ -141799,9 +142184,13 @@
     "lemma": "Pibechis",
     "previous": "Piathris",
     "next": "Pica",
+    "proof_read": 3,
+    "short_description": "spätantiker ägyptischer Magier",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 187,
+        "end": 187,
         "author": "Hans Gärtner."
       }
     ]
@@ -147482,7 +147871,7 @@
     "previous": "Πυθὶς ἄκρα",
     "next": "Quartae",
     "proof_read": 3,
-    "short_description": "Q. Baebianus, Beamter in Rusicade.",
+    "short_description": "Q. Baebianus, Beamter in Rusicade",
     "no_creative_height": true,
     "chapters": [
       {
@@ -148044,7 +148433,7 @@
   {
     "lemma": "Rhapsos",
     "previous": "Rhapso",
-    "next": "Rhaukos",
+    "next": "Ῥαῦκος",
     "proof_read": 3,
     "short_description": "richtig: Rhapso (s. d.), griech. Schicksalsgottheit (?)",
     "no_creative_height": true,
@@ -148057,19 +148446,24 @@
     ]
   },
   {
-    "lemma": "Rhaukos",
+    "lemma": "Ῥαῦκος",
     "previous": "Rhapsos",
     "next": "Rhazunda",
+    "sort_key": "Rhaukos",
+    "proof_read": 3,
+    "short_description": "Rhaukos, mittelkretische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 198,
+        "end": 198,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Rhazunda",
-    "previous": "Rhaukos",
+    "previous": "Ῥαῦκος",
     "next": "Rhetorik",
     "proof_read": 3,
     "short_description": "medischer Ort",
@@ -148113,6 +148507,7 @@
   },
   {
     "lemma": "Rhipaia ore",
+    "previous": "Rhetorios",
     "next": "Rhizenia",
     "proof_read": 3,
     "short_description": "streichen",
@@ -148238,7 +148633,7 @@
     "next": "Ῥύπες",
     "sort_key": "Rhymmos",
     "proof_read": 3,
-    "short_description": "skythischer Fluß",
+    "short_description": "R(h)ymmos, skythischer Fluß",
     "no_creative_height": true,
     "chapters": [
       {
@@ -148254,7 +148649,7 @@
     "next": "Ῥύτιον",
     "sort_key": "Rhypes",
     "proof_read": 3,
-    "short_description": "achaische Stadt",
+    "short_description": "Rhypes, achaische Stadt",
     "no_creative_height": true,
     "chapters": [
       {
@@ -148270,7 +148665,7 @@
     "next": "Rhyton",
     "sort_key": "Rhytion",
     "proof_read": 3,
-    "short_description": "kretische Stadt",
+    "short_description": "Rhytion, kretische Stadt",
     "no_creative_height": true,
     "chapters": [
       {
@@ -148371,12 +148766,11 @@
     ]
   },
   {
-    "lemma": "Ris",
-    "next": "Rochen und Seedrachen"
+    "lemma": "Ris"
   },
   {
     "lemma": "Rochen und Seedrachen",
-    "previous": "Ris",
+    "previous": "Ris 1",
     "next": "Rocobae",
     "proof_read": 3,
     "short_description": "Tierart",
@@ -159593,6 +159987,7 @@
     "lemma": "Vallius a",
     "previous": "Valla",
     "next": "Vallius 4",
+    "sort_key": "Vallius 0",
     "redirect": true,
     "proof_read": 3,
     "short_description": "M. V., röm. Großkaufmann in Abdera im 2. Jh. v. Chr.",
