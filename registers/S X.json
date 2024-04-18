@@ -2214,6 +2214,7 @@
     "lemma": "Arruntius 17aa",
     "previous": "Armogast",
     "next": "Artemidoros 18a",
+    "sort_key": "Arruntius 17a0",
     "proof_read": 3,
     "short_description": "Filumenus, pantomimischer Schauspieler, ein sc(enicus) 212 n. Chr.",
     "no_creative_height": true,
@@ -2321,7 +2322,7 @@
     "previous": "Asinius 16a",
     "next": "Asklapon 2",
     "proof_read": 3,
-    "short_description": "A. Olympus, Tänzer in august. Zt.? starb im Alter von 11 Jahren",
+    "short_description": "A. Olympus, Tänzer in august. Zeit? starb im Alter von 11 Jahren",
     "no_creative_height": true,
     "chapters": [
       {
@@ -2625,7 +2626,6 @@
   {
     "lemma": "Aurelius 34a",
     "previous": "Aurelius 32",
-    "next": "Aurelius 37a",
     "sort_key": "Aurelius 036a",
     "proof_read": 3,
     "short_description": "A. Alexander, Schauspieler in sever. Zeit",
@@ -2639,8 +2639,12 @@
     ]
   },
   {
+    "lemma": "Aurelius 37aa",
+    "next": "Aurelius 37a"
+  },
+  {
     "lemma": "Aurelius 37a",
-    "previous": "Aurelius 34a",
+    "previous": "Aurelius 37aa",
     "next": "Aurelius 53a",
     "sort_key": "Aurelius 037a",
     "proof_read": 3,
@@ -2700,8 +2704,8 @@
     "lemma": "Aurelius 78a",
     "previous": "Aurelius 59a",
     "next": "Aurelius 127a",
-    "sort_key": "Aurelius 078c",
-    "short_description": "M. Aurelios Kastor, Schauspieler in der 2. H. des 2. Jh. n. Chr.",
+    "sort_key": "Aurelius 078a",
+    "short_description": "M. Aurelios Kastor, Schauspieler 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 93,
@@ -7376,7 +7380,7 @@
   {
     "lemma": "Menodotos 4a",
     "previous": "Menekrates 23d",
-    "next": "Menophilos 3a",
+    "next": "Menophilos 9",
     "short_description": "Athen. Schauspieler aus der Mitte des 2. Jh. v. Chr., Sohn des Hestiaios",
     "chapters": [
       {
@@ -7386,7 +7390,7 @@
     ]
   },
   {
-    "lemma": "Menophilos 3a",
+    "lemma": "Menophilos 9",
     "previous": "Menodotos 4a",
     "next": "Mentor 8a",
     "proof_read": 2,
@@ -7402,7 +7406,7 @@
   },
   {
     "lemma": "Mentor 8a",
-    "previous": "Menophilos 3a",
+    "previous": "Menophilos 9",
     "next": "Metrobios 3",
     "short_description": "Athen. Schauspieler im J. 106 v. Chr., Sohn des Protogenes",
     "chapters": [
@@ -8260,7 +8264,7 @@
   {
     "lemma": "Orakta",
     "previous": "Oppius 40",
-    "next": "Oineus 5",
+    "next": "Oineus 3a",
     "short_description": "Eine der Insulae exulum in der Straße von Ormus",
     "chapters": [
       {
@@ -8271,11 +8275,11 @@
     ]
   },
   {
-    "lemma": "Oineus 5",
+    "lemma": "Oineus 3a",
     "previous": "Orakta",
     "next": "Origo a",
     "proof_read": 2,
-    "short_description": "Tragischer Schauspieler und Haupt einer Korporation",
+    "short_description": "tragischer Schauspieler und Haupt einer Korporation zur Zeit Caracallas",
     "no_creative_height": true,
     "chapters": [
       {
@@ -8287,7 +8291,7 @@
   },
   {
     "lemma": "Origo a",
-    "previous": "Oineus 5",
+    "previous": "Oineus 3a",
     "next": "Orpheus 3",
     "short_description": "Als privatrechtlicher Begriff",
     "chapters": [

@@ -1324,6 +1324,8 @@
     "proof_read": 3,
     "short_description": "die aitolische Stadt Konopa, nahe dem Acheloos 3. Jh. v. Chr.",
     "no_creative_height": true,
+    "wp_link": "w:en:Conope",
+    "wd_link": "d:Q6429634",
     "chapters": [
       {
         "start": 99,
@@ -6233,7 +6235,6 @@
   {
     "lemma": "Kleanthes 2",
     "previous": "Iordanes 3",
-    "next": "Planta a",
     "chapters": [
       {
         "start": 1705,
@@ -6243,9 +6244,14 @@
     ]
   },
   {
+    "lemma": "Kleanthes",
+    "next": "Planta a"
+  },
+  {
     "lemma": "Planta a",
-    "previous": "Kleanthes 2",
+    "previous": "Kleanthes",
     "next": "Poreston",
+    "sort_key": "Planta 0",
     "redirect": "Carniola",
     "proof_read": 3,
     "short_description": "Ort im oberen Savetal? s. Carniola (Carneola)",
