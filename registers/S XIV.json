@@ -1001,6 +1001,7 @@
     "lemma": "Asinius 17aa",
     "previous": "Arykanda",
     "next": "Asinius 19a",
+    "sort_key": "Asinius 17a0",
     "proof_read": 3,
     "short_description": "A. Lepidus, cos. suff. vor 222 n. Chr. praeses provinciae Cappadociae",
     "no_creative_height": true,
@@ -1235,7 +1236,7 @@
   {
     "lemma": "Aurelius 37aa",
     "previous": "Aurelius 5a",
-    "next": "Aurelius 63aa",
+    "sort_key": "Aurelius 37a0",
     "proof_read": 3,
     "short_description": "M. Aurelius Amarantus, Prokonsul von Achaia",
     "no_creative_height": true,
@@ -1248,9 +1249,14 @@
     ]
   },
   {
+    "lemma": "Aurelius 37b",
+    "next": "Aurelius 63aa"
+  },
+  {
     "lemma": "Aurelius 63aa",
-    "previous": "Aurelius 37aa",
+    "previous": "Aurelius 37b",
     "next": "Aurelius 65a",
+    "sort_key": "Aurelius 63a0",
     "proof_read": 3,
     "short_description": "M. A. Attinas, Prokonsul der Provinz Macedonia, geehrt 230–250 n. Chr.(?)",
     "no_creative_height": true,
@@ -1380,6 +1386,7 @@
     "lemma": "Aurelius 232a",
     "previous": "Aurelius 221a",
     "next": "Aurelius 238a",
+    "sort_key": "Aurelius 232a1",
     "proof_read": 3,
     "short_description": "A. Valentinus, Tribun der Bataver, Statthalter Macedonia 268/9 n. Chr.",
     "no_creative_height": true,
@@ -8524,6 +8531,7 @@
     "lemma": "Terentius 102aa",
     "previous": "Terentius 68",
     "next": "Ad tertium",
+    "sort_key": "Terentius 102a0",
     "proof_read": 2,
     "short_description": "Terentia Hispulla, Mutter des L. Valerius Nr. 125 Catullus",
     "no_creative_height": true,
