@@ -2466,7 +2466,7 @@
   {
     "lemma": "Oxathres 4",
     "previous": "Osiris",
-    "next": "Palaimon 1",
+    "next": "Paion 1",
     "short_description": "Sohn Mithridates' VI. Eupator",
     "chapters": [
       {
@@ -2476,8 +2476,19 @@
     ]
   },
   {
-    "lemma": "Palaimon 1",
+    "lemma": "Paion 1",
     "previous": "Oxathres 4",
+    "next": "Palaimon 1",
+    "chapters": [
+      {
+        "start": 514,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Palaimon 1",
+    "previous": "Paion 1",
     "next": "Palaimon 2",
     "chapters": [
       {
@@ -2532,7 +2543,7 @@
   {
     "lemma": "Palaimon 5",
     "previous": "Palaimon 4",
-    "next": "Pambotis",
+    "next": "Palaimonios",
     "short_description": "s. am Ende des Bandes",
     "chapters": [
       {
@@ -2542,8 +2553,29 @@
     ]
   },
   {
-    "lemma": "Pambotis",
+    "lemma": "Palaimonios",
     "previous": "Palaimon 5",
+    "next": "Pallantion",
+    "chapters": [
+      {
+        "start": 516
+      }
+    ]
+  },
+  {
+    "lemma": "Pallantion",
+    "previous": "Palaimonios",
+    "next": "Pambotis",
+    "chapters": [
+      {
+        "start": 515,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Pambotis",
+    "previous": "Pallantion",
     "next": "Pannonia",
     "short_description": "Epeirot. See bei Dodona",
     "chapters": [
