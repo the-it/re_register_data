@@ -5502,7 +5502,7 @@
   {
     "lemma": "Minicius 19a",
     "previous": "Messius 11a",
-    "next": "Salvius 21a",
+    "next": "Minicius 19b",
     "short_description": "T. Salvius Rufinus M. Opimianus, cos. suff. im J. 123 n. Chr., Nachkomme des",
     "chapters": [
       {
@@ -5513,20 +5513,8 @@
     ]
   },
   {
-    "lemma": "Salvius 21a",
-    "previous": "Minicius 19a",
-    "next": "Minicius 19b",
-    "short_description": "T. S. Rufinus Minicius, cos. suff. im J. 123 n. Chr., Sohn des [Salv]ius",
-    "chapters": [
-      {
-        "start": 283,
-        "author": "Eck"
-      }
-    ]
-  },
-  {
     "lemma": "Minicius 19b",
-    "previous": "Salvius 21a",
+    "previous": "Minicius 19a",
     "next": "Minucius 50a",
     "short_description": "(M.?) Opimianus, Konsul im J. 155 n. Chr., Sohn des T. Salvius Rufinus M. Nr.",
     "chapters": [
@@ -5848,7 +5836,7 @@
   {
     "lemma": "Papius 13a",
     "previous": "Papirius 26a",
-    "next": "Paetus 4",
+    "next": "Pasidienus 2",
     "short_description": "Q. P. Ostlenus Celer, tribunus plebis vor dem J. 200 n. Chr.",
     "chapters": [
       {
@@ -5858,9 +5846,20 @@
     ]
   },
   {
-    "lemma": "Paetus 4",
+    "lemma": "Pasidienus 2",
     "previous": "Papius 13a",
-    "next": "Passer 2",
+    "next": "Paetus 4",
+    "chapters": [
+      {
+        "start": 367,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Paetus 4",
+    "previous": "Pasidienus 2",
+    "next": "Passala",
     "proof_read": 2,
     "short_description": "[---]enus P., pr(aetor) aer(arii) 27 n. Chr., Volusenus?",
     "no_creative_height": true,
@@ -5873,8 +5872,18 @@
     ]
   },
   {
-    "lemma": "Passer 2",
+    "lemma": "Passala",
     "previous": "Paetus 4",
+    "next": "Passer 2",
+    "chapters": [
+      {
+        "start": 368
+      }
+    ]
+  },
+  {
+    "lemma": "Passer 2",
+    "previous": "Passala",
     "next": "Paternus 1f",
     "short_description": "... C. f. Pol... P.(?), röm. Senator",
     "chapters": [
@@ -6539,7 +6548,7 @@
   {
     "lemma": "Porcius 38a",
     "previous": "Popillius 38b",
-    "next": "Poseidion 7",
+    "next": "Porcius 45",
     "short_description": "P. P. Optatus Flamma, Prätor, Statthalter der Provinz Raetia(?) in sever. Zt.,",
     "chapters": [
       {
@@ -6549,9 +6558,20 @@
     ]
   },
   {
-    "lemma": "Poseidion 7",
+    "lemma": "Porcius 45",
     "previous": "Porcius 38a",
-    "next": "Poseidion 11",
+    "next": "Poseidion 7",
+    "chapters": [
+      {
+        "start": 446,
+        "author": "Gerhard Winkler."
+      }
+    ]
+  },
+  {
+    "lemma": "Poseidion 7",
+    "previous": "Porcius 45",
+    "next": "Poseidion 8",
     "short_description": "SW-Kap der miles. Halbinsel",
     "chapters": [
       {
@@ -6561,8 +6581,19 @@
     ]
   },
   {
-    "lemma": "Poseidion 11",
+    "lemma": "Poseidion 8",
     "previous": "Poseidion 7",
+    "next": "Poseidion 11",
+    "chapters": [
+      {
+        "start": 446,
+        "author": "Meyer, Ernst"
+      }
+    ]
+  },
+  {
+    "lemma": "Poseidion 11",
+    "previous": "Poseidion 8",
     "next": "Poseidion 11a",
     "short_description": "W-Kap der Halbinsel Pallene der Chalkidike",
     "chapters": [
@@ -7029,7 +7060,7 @@
   {
     "lemma": "Ragonius 4b",
     "previous": "Ragonius 4a",
-    "next": "Romanus 16",
+    "next": "Ramista",
     "short_description": "L. R. Venustus, c.v., vollzog am 23. Mai 390 n. Chr. ein Taurobolium und",
     "chapters": [
       {
@@ -7039,8 +7070,20 @@
     ]
   },
   {
-    "lemma": "Romanus 16",
+    "lemma": "Ramista",
     "previous": "Ragonius 4b",
+    "next": "Romanus 16",
+    "chapters": [
+      {
+        "start": 587,
+        "end": 588,
+        "author": "Jaroslav Šašel."
+      }
+    ]
+  },
+  {
+    "lemma": "Romanus 16",
+    "previous": "Ramista",
     "next": "Romis",
     "short_description": "Romanos, Sohn des Odysseus und der Kirke, Gründer Roms(?)",
     "chapters": [
@@ -7200,7 +7243,7 @@
   {
     "lemma": "Rufus 6c",
     "previous": "Rufus 6b",
-    "next": "Rutilius 29a",
+    "next": "Rupilius 9",
     "short_description": "Iuridicus(?) in Spanien = Q. Pomponius (XXI 2347. S XIV 442 Nr. 68) R.(?).",
     "chapters": [
       {
@@ -7211,9 +7254,20 @@
     ]
   },
   {
-    "lemma": "Rutilius 29a",
+    "lemma": "Rupilius 9",
     "previous": "Rufus 6c",
-    "next": "Sabinianus 4a",
+    "next": "Rutilius 29a",
+    "chapters": [
+      {
+        "start": 590,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Rutilius 29a",
+    "previous": "Rupilius 9",
+    "next": "Rutilius 32",
     "proof_read": 2,
     "short_description": "R. Maximus, Jurist im 3. Jh. n. Chr.",
     "no_creative_height": true,
@@ -7226,8 +7280,19 @@
     ]
   },
   {
-    "lemma": "Sabinianus 4a",
+    "lemma": "Rutilius 32",
     "previous": "Rutilius 29a",
+    "next": "Sabinianus 4a",
+    "chapters": [
+      {
+        "start": 590,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
+    "lemma": "Sabinianus 4a",
+    "previous": "Rutilius 32",
     "next": "Sabinus 10a",
     "short_description": "Konsul (im J. 112 n. Chr.?)",
     "chapters": [
@@ -7386,7 +7451,7 @@
   {
     "lemma": "Salvius 12d",
     "previous": "Salvius 12b",
-    "next": "Salvius 23a",
+    "next": "Salvius 21a",
     "proof_read": 2,
     "short_description": "C. S. Domitius Rufinus, Sohn eines Senators im 2./3. Jh. n. Chr.",
     "no_creative_height": true,
@@ -7399,8 +7464,20 @@
     ]
   },
   {
-    "lemma": "Salvius 23a",
+    "lemma": "Salvius 21a",
     "previous": "Salvius 12d",
+    "next": "Salvius 23a",
+    "short_description": "T. S. Rufinus Minicius, cos. suff. im J. 123 n. Chr., Sohn des [Salv]ius",
+    "chapters": [
+      {
+        "start": 593,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Salvius 23a",
+    "previous": "Salvius 21a",
     "next": "Sariolenus",
     "short_description": "Salvia Luciola, Gattin des C. Valerius (S IX 1429 Nr. 333a) Sabinianus.",
     "chapters": [
@@ -7413,7 +7490,7 @@
   {
     "lemma": "Sariolenus",
     "previous": "Salvius 23a",
-    "next": "Sarp(...",
+    "next": "Sarmizegethusa",
     "short_description": "S. Vocula, Denunziant in der 2.H. des 1. Jh. n. Chr.",
     "chapters": [
       {
@@ -7423,8 +7500,31 @@
     ]
   },
   {
-    "lemma": "Sarp(...",
+    "lemma": "Sarmizegethusa",
     "previous": "Sariolenus",
+    "next": "Saros 3",
+    "chapters": [
+      {
+        "start": 599,
+        "end": 655,
+        "author": "C. Daicoviciu."
+      }
+    ]
+  },
+  {
+    "lemma": "Saros 3",
+    "previous": "Sarmizegethusa",
+    "next": "Sarp(...",
+    "chapters": [
+      {
+        "start": 656,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Sarp(...",
+    "previous": "Saros 3",
     "next": "Satrius 2a",
     "proof_read": 2,
     "short_description": "Örtlichkeit bei Phigaleia",
