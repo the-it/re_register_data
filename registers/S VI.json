@@ -453,7 +453,7 @@
   {
     "lemma": "Apollodoros 61",
     "previous": "Antonius 107a",
-    "next": "Aponius 8a",
+    "next": "Aponius 2",
     "proof_read": 3,
     "short_description": "von Athen, Grammatiker u. Schriftsteller im 2. Jh. v. Chr.",
     "wp_link": "w:de:Apollodor von Athen (Schriftsteller)",
@@ -469,8 +469,6 @@
   },
   {
     "lemma": "Aponius 8a",
-    "previous": "Apollodoros 61",
-    "next": "Appius 13a",
     "sort_key": "Aponius08a",
     "proof_read": 3,
     "short_description": "M. Aponius Saturninus, Grundbesitzer in Ägypten",
@@ -483,8 +481,23 @@
     ]
   },
   {
+    "lemma": "Aponius 2",
+    "previous": "Apollodoros 61",
+    "next": "Appius 13a",
+    "sort_key": "Aponius02",
+    "proof_read": 3,
+    "short_description": "M. A. Saturninus, Senator 41 n. Chr.",
+    "chapters": [
+      {
+        "start": 9,
+        "end": 9,
+        "author": "Groag."
+      }
+    ]
+  },
+  {
     "lemma": "Appius 13a",
-    "previous": "Aponius 8a",
+    "previous": "Aponius 2",
     "next": "Appuleius 16a",
     "sort_key": "Appius13a",
     "redirect": "Maximus 1",
