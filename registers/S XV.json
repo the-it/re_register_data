@@ -2946,7 +2946,7 @@
   {
     "lemma": "Philon 36a",
     "previous": "Philomelos 8",
-    "next": "Plautius 56a",
+    "next": "Pinarius 10a",
     "short_description": "P. vom kilik. Mopsuestia, Rhetor in Baeterrae im 2. Jh. n. Chr., Sohn des",
     "chapters": [
       {
@@ -2955,9 +2955,32 @@
       }
     ]
   },
+{
+  "lemma": "Pinarius 10a",
+  "previous": "Philon 36a",
+  "next": "Plancius 9",
+  "chapters": [
+    {
+      "start": 0,
+      "author": "Werner Eck."
+    }
+  ]
+},
+  {
+    "lemma": "Plancius 9",
+    "previous": "Pinarius 10a",
+    "next": "Plautius 56a",
+    "short_description": "Plancia Magna Aquillia, natürliche(?) Tochter des C. Iulius (X 811 Nr. 484)",
+    "chapters": [
+      {
+        "start": 310,
+        "author": "Eck"
+      }
+    ]
+  },
   {
     "lemma": "Plautius 56a",
-    "previous": "Philon 36a",
+    "previous": "Plancius 9",
     "next": "Plautius 64b",
     "short_description": "P. Italus, Dioiket(?) in Aegypten im J. 184 n. Chr. = L. P. Nr. 57 (XXI 45)",
     "chapters": [
@@ -2970,7 +2993,7 @@
   {
     "lemma": "Plautius 64b",
     "previous": "Plautius 56a",
-    "next": "Plancius 9",
+    "next": "Plotinos",
     "short_description": "Plautia, Tochter des A. P. Nr. 38 (XXI 26) oder des A. P. Nr. 39 (XXI 27),",
     "chapters": [
       {
@@ -2980,21 +3003,21 @@
       }
     ]
   },
-  {
-    "lemma": "Plancius 9",
-    "previous": "Plautius 64b",
-    "next": "Polemon 11a",
-    "short_description": "Plancia Magna Aquillia, natürliche(?) Tochter des C. Iulius (X 811 Nr. 484)",
-    "chapters": [
-      {
-        "start": 310,
-        "author": "Eck"
-      }
-    ]
-  },
+{
+  "lemma": "Plotinos",
+  "previous": "Plautius 64b",
+  "next": "Polemon 11a",
+  "chapters": [
+    {
+      "start": 310,
+      "end": 310,
+      "author": "Hans-Rudolf Schwyzer."
+    }
+  ]
+},
   {
     "lemma": "Polemon 11a",
-    "previous": "Plancius 9",
+    "previous": "Plotinos",
     "next": "Pompeianus 3a",
     "proof_read": 2,
     "short_description": "junger Mann im Hause Plotins in Rom = Potamon Nr. 3a (?)",
