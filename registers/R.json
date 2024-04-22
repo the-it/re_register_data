@@ -4444,7 +4444,7 @@
     "next": "Aemilius 15a",
     "sort_key": "Aemilius 014a",
     "proof_read": 3,
-    "short_description": "L. A. auf Inschriften aus Delos",
+    "short_description": "L. A. und P. A. auf Inschriften aus Delos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -10348,7 +10348,7 @@
     "next": "Ἄκορον",
     "sort_key": "Akoniton",
     "proof_read": 3,
-    "short_description": "Giftpflanze wie Eisenhut, Sturmhut, Mönchskappe und Gemswurz",
+    "short_description": "Akoniton: Giftpflanze wie Eisenhut, Sturmhut, Mönchskappe und Gemswurz",
     "no_creative_height": true,
     "wp_link": "w:de:Eisenhut",
     "wd_link": "d:Q155904",
@@ -10366,6 +10366,7 @@
     "next": "Akragas 1",
     "sort_key": "Akoron",
     "proof_read": 3,
+    "short_description": "Pflanze",
     "no_creative_height": true,
     "chapters": [
       {
@@ -17902,7 +17903,7 @@
   {
     "lemma": "Anchialos 7",
     "previous": "Anchasios",
-    "next": "Anchiroë 1",
+    "next": "Anchiroë 6",
     "proof_read": 3,
     "short_description": "Astronom",
     "no_creative_height": true,
@@ -17915,11 +17916,11 @@
     ]
   },
   {
-    "lemma": "Anchiroë 1",
+    "lemma": "Anchiroë 6",
     "previous": "Anchialos 7",
     "next": "Anchisaios",
     "proof_read": 3,
-    "short_description": "Tochter des Neilos",
+    "short_description": "Gattin des Penthilos, Mutter des Andropompos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -17931,7 +17932,7 @@
   },
   {
     "lemma": "Anchisaios",
-    "previous": "Anchiroë 1",
+    "previous": "Anchiroë 6",
     "next": "Anchoë",
     "proof_read": 3,
     "short_description": "Röm.-oriental. (syr.-maked.) Monatsname",
@@ -22830,7 +22831,7 @@
     "next": "Antonius 39",
     "sort_key": "Antonius 036",
     "proof_read": 3,
-    "short_description": "L. A. Albus, cos. suff. etwa 131 n. Chr., Sohn des L. A. Nr. 35a Albus",
+    "short_description": "L. A. Albus, cos. suff. um 131 n. Chr., Sohn des L. A. Nr. 35a Albus",
     "no_creative_height": true,
     "wp_link": "w:en:Lucius Antonius Albus (proconsul of Asia)",
     "wd_link": "d:Q12285152",
@@ -22898,7 +22899,7 @@
     "next": "Antonius 63",
     "sort_key": "Antonius 058a",
     "proof_read": 3,
-    "short_description": "Cn. A. Fuscus, cos. suff. 109 n. Chr. = Cn. A. Fuscus, Stifter eines Silvanusaltares",
+    "short_description": "Cn. A. Fuscus, cos. suff. 109 n. Chr. Stifter eines Silvanusaltares",
     "no_creative_height": true,
     "wp_link": "w:de:Gnaeus Antonius Fuscus",
     "wd_link": "d:Q12277033",
@@ -44870,12 +44871,14 @@
     "lemma": "Aurelius 217b",
     "previous": "Aurelius 217a",
     "next": "Aurelius 220a",
-    "redirect": true,
     "proof_read": 3,
+    "short_description": "A. Septimus Apollonius, Archiereus der Provinz Asia in Sardeis 3. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 58,
-        "end": 58
+        "end": 58,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -66576,13 +66579,14 @@
     "lemma": "Claudius 441a",
     "previous": "Claudius 437a",
     "next": "Claudius 451",
-    "redirect": "Claudius 412",
     "proof_read": 3,
-    "short_description": "Claudia Severa, Prytanin in Ephesos, Gattin eines Konsulars",
+    "short_description": "Cl(audia) Severa, Frau eines Konsulars",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 86,
-        "end": 86
+        "end": 86,
+        "author": "Hans Gärtner."
       }
     ]
   },
@@ -144497,6 +144501,8 @@
     "next": "Pontius 24a",
     "proof_read": 3,
     "no_creative_height": true,
+    "wp_link": "w:de:Pontifex",
+    "wd_link": "d:Q952844",
     "chapters": [
       {
         "start": 190,
