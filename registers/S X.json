@@ -4688,7 +4688,6 @@
     "chapters": [
       {
         "start": 187,
-        "end": 187,
         "author": "K. v. Fritz."
       }
     ]
@@ -4696,7 +4695,7 @@
   {
     "lemma": "Euagion",
     "previous": "Eryxo",
-    "next": "Eubotes",
+    "next": "Euarchides 2",
     "sort_key": "Euagion(?)",
     "proof_read": 2,
     "short_description": "Boioter, Schauspieler bei den amphiktyonischen Soteria 262 v. Chr.",
@@ -4710,9 +4709,31 @@
     ]
   },
   {
-    "lemma": "Eubotes",
+    "lemma": "Euarchides 2",
     "previous": "Euagion",
-    "next": "Eucharis",
+    "next": "Eubios 3",
+    "chapters": [
+      {
+        "start": 187,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Eubios 3",
+    "previous": "Euarchides 2",
+    "next": "Eubotes",
+    "chapters": [
+      {
+        "start": 187,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Eubotes",
+    "previous": "Eubios 3",
+    "next": "Eucharidas 2",
     "sort_key": "Eubotes",
     "proof_read": 2,
     "short_description": "Thebaner im Gefolge des Dionysos",
@@ -4726,8 +4747,19 @@
     ]
   },
   {
-    "lemma": "Eucharis",
+    "lemma": "Eucharidas 2",
     "previous": "Eubotes",
+    "next": "Eucharis",
+    "chapters": [
+      {
+        "start": 187,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Eucharis",
+    "previous": "Eucharidas 2",
     "next": "Eudaimon 3a",
     "sort_key": "Eucharis",
     "short_description": "Tänzerin und Mimin in der röm.-republikanischen Zeit",
@@ -5623,7 +5655,7 @@
   {
     "lemma": "Heretimos",
     "previous": "Herakleitos 23",
-    "next": "Hermodotos 2",
+    "next": "Hermippos 11",
     "short_description": "Schauspieler bei den Dionysia zu Delos im J. 263 v. Chr.",
     "chapters": [
       {
@@ -5633,8 +5665,19 @@
     ]
   },
   {
-    "lemma": "Hermodotos 2",
+    "lemma": "Hermippos 11",
     "previous": "Heretimos",
+    "next": "Hermodotos 2",
+    "chapters": [
+      {
+        "start": 321,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Hermodotos 2",
+    "previous": "Hermippos 11",
     "next": "Hermon 13",
     "short_description": "Schauspieler(?)",
     "chapters": [
@@ -5782,7 +5825,7 @@
   {
     "lemma": "Hieron 21",
     "previous": "Hieromnemon 1a",
-    "next": "Hieronymos 18",
+    "next": "Hieronikai",
     "short_description": "Athen. Schauspieler in Delphi im J. 106 v. Chr., Sohn des H.",
     "chapters": [
       {
@@ -5792,8 +5835,19 @@
     ]
   },
   {
-    "lemma": "Hieronymos 18",
+    "lemma": "Hieronikai",
     "previous": "Hieron 21",
+    "next": "Hieronymos 18",
+    "chapters": [
+      {
+        "start": 323,
+        "author": "Bonaria"
+      }
+    ]
+  },
+  {
+    "lemma": "Hieronymos 18",
+    "previous": "Hieronikai",
     "next": "Hierotimos",
     "short_description": "Siegreicher Schauspieler bei mehreren Lenaia um das J. 295 v. Chr.",
     "chapters": [
@@ -5830,7 +5884,7 @@
   {
     "lemma": "Hipparchos 12b",
     "previous": "Hipparchos 12a",
-    "next": "Hippasos",
+    "next": "Hippasos 17",
     "short_description": "H. von Athen, siegreicher Schauspieler bei mehreren Lenaia um das J. 370 v. Chr.",
     "chapters": [
       {
@@ -5840,7 +5894,7 @@
     ]
   },
   {
-    "lemma": "Hippasos",
+    "lemma": "Hippasos 17",
     "previous": "Hipparchos 12b",
     "next": "Hippius",
     "short_description": "H. von Ambrakia, Schauspieler(?)",
@@ -5853,7 +5907,7 @@
   },
   {
     "lemma": "Hippius",
-    "previous": "Hippasos",
+    "previous": "Hippasos 17",
     "next": "Hippokles 5",
     "short_description": "Q. H., Freund Ciceros, Vater des C. Valgius (VIII A 271 Nr. 6) Hippianus(?)",
     "chapters": [
@@ -5916,7 +5970,7 @@
   {
     "lemma": "Honorius 4c",
     "previous": "Hippotomadai",
-    "next": "Hybadai",
+    "next": "Horistai",
     "short_description": "Q. H. Anteros, kaiserzeitl.(?) scabillarius",
     "chapters": [
       {
@@ -5926,9 +5980,20 @@
     ]
   },
   {
-    "lemma": "Hybadai",
+    "lemma": "Horistai",
     "previous": "Honorius 4c",
-    "next": "Iason 12a",
+    "next": "Hybadai",
+    "chapters": [
+      {
+        "start": 327,
+        "author": "Bonaria"
+      }
+    ]
+  },
+  {
+    "lemma": "Hybadai",
+    "previous": "Horistai",
+    "next": "Hylas 3",
     "short_description": "Att. Demos",
     "chapters": [
       {
@@ -5938,8 +6003,20 @@
     ]
   },
   {
-    "lemma": "Iason 12a",
+    "lemma": "Hylas 3",
     "previous": "Hybadai",
+    "next": "Iason 12a",
+    "chapters": [
+      {
+        "start": 327,
+        "end": 328,
+        "author": "Bonaria"
+      }
+    ]
+  },
+  {
+    "lemma": "Iason 12a",
+    "previous": "Hylas 3",
     "next": "Iccius 3",
     "short_description": "s. [12 a]).",
     "chapters": [
@@ -6263,7 +6340,7 @@
   {
     "lemma": "Kabirichos",
     "previous": "Kabeirichos",
-    "next": "Kallias 20a",
+    "next": "Kadmos 4",
     "short_description": "Schauspieler bei den Charitesia zu Orchomenos in den J. 100-75 v. Chr., Sohn",
     "chapters": [
       {
@@ -6273,9 +6350,32 @@
     ]
   },
   {
-    "lemma": "Kallias 20a",
+    "lemma": "Kadmos 4",
     "previous": "Kabirichos",
-    "next": "Kallikles 3a",
+    "next": "Kaiadas, Keadas",
+    "chapters": [
+      {
+        "start": 343,
+        "end": 344,
+        "author": "Hans v. Geisau."
+      }
+    ]
+  },
+  {
+    "lemma": "Kaiadas, Keadas",
+    "previous": "Kadmos 4",
+    "next": "Kallias 20a",
+    "chapters": [
+      {
+        "start": 344,
+        "author": "Hans v. Geisau."
+      }
+    ]
+  },
+  {
+    "lemma": "Kallias 20a",
+    "previous": "Kaiadas, Keadas",
+    "next": "Kallichoron (phrear) 1",
     "short_description": "Mehrfach siegreicher Schauspieler in den J. 265, 262 (bei den Lenaia) und 255/4",
     "chapters": [
       {
@@ -6285,8 +6385,19 @@
     ]
   },
   {
-    "lemma": "Kallikles 3a",
+    "lemma": "Kallichoron (phrear) 1",
     "previous": "Kallias 20a",
+    "next": "Kallikles 3a",
+    "chapters": [
+      {
+        "start": 345,
+        "author": "Hans v. Geisau."
+      }
+    ]
+  },
+  {
+    "lemma": "Kallikles 3a",
+    "previous": "Kallichoron (phrear) 1",
     "next": "Kallikles 3b",
     "short_description": "Didaskalos bei den Soteria zu Delphi im J. 270 v. Chr.",
     "chapters": [
