@@ -21245,10 +21245,9 @@
     "previous": "Antimachos 17",
     "next": "Antimachos 26a",
     "proof_read": 3,
-    "short_description": "Vertrauter des Königs Perseus",
+    "short_description": "Vertrauter des Königs Perseus von Makedonien",
     "no_creative_height": true,
-    "wp_link": "w:de:Antimachos",
-    "wd_link": "d:Q577733",
+    "wd_link": "d:Q125606402",
     "chapters": [
       {
         "start": 31,
@@ -21262,10 +21261,9 @@
     "previous": "Antimachos 22a",
     "next": "Antimedes",
     "proof_read": 3,
-    "short_description": "Frühkaiserzeitl. Arzt",
+    "short_description": "frühkaiserzeitlicher Arzt",
     "no_creative_height": true,
-    "wp_link": "w:de:Antimachos",
-    "wd_link": "d:Q577733",
+    "wd_link": "d:Q125604880",
     "chapters": [
       {
         "start": 31,
@@ -90051,7 +90049,7 @@
   {
     "lemma": "Germani 1b",
     "previous": "Germani 1a",
-    "next": "Germania",
+    "next": "Germani2",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -90062,7 +90060,12 @@
     ]
   },
   {
+    "lemma": "Germani2",
+    "previous": "Germani 1b"
+  },
+  {
     "lemma": "Germani 2",
+    "next": "Germania",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -90075,7 +90078,7 @@
   },
   {
     "lemma": "Germania",
-    "previous": "Germani 1b",
+    "previous": "Germani 2",
     "next": "Germ(anicae?) figlinae",
     "proof_read": 3,
     "short_description": "Germania, Stadt in Dacia Mediterranea",
@@ -96520,7 +96523,6 @@
   {
     "lemma": "Herodoros 3a",
     "previous": "Herodikos a",
-    "next": "Herodotos 7",
     "proof_read": 3,
     "short_description": "einflußreicher Politiker am maked. Hof um 300 v. Chr.",
     "no_creative_height": true,
@@ -96534,7 +96536,7 @@
   },
   {
     "lemma": "Herodotos 7",
-    "previous": "Herodoros 3a",
+    "previous": "Herodotos 7",
     "next": "Herodotos 15",
     "proof_read": 3,
     "short_description": "von Halikarnassos, Historiker 5. Jh. v. Chr.",
@@ -145196,6 +145198,7 @@
   {
     "lemma": "Postumus 8a",
     "previous": "Postumus 8aa",
+    "next": "Postumus 8aa",
     "proof_read": 3,
     "short_description": "Postumus N. vom afrikanischen Mactar, praetor per Apuliam Calabriam?",
     "no_creative_height": true,
@@ -145209,7 +145212,6 @@
   },
   {
     "lemma": "Postumus 9a",
-    "previous": "Postumus 8aa",
     "next": "Potamios",
     "proof_read": 3,
     "short_description": "leg. Augg. pr. pr. der Provinz Belgica 202–209 n. Chr.",
