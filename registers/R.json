@@ -28256,7 +28256,6 @@
   {
     "lemma": "Archelas 3",
     "previous": "Archelas 2",
-    "next": "Archene",
     "proof_read": 3,
     "short_description": "Sohn des Praochos, Archon in Delphoi",
     "no_creative_height": true,
@@ -28270,7 +28269,7 @@
   },
   {
     "lemma": "Archene",
-    "previous": "Archelas 3",
+    "previous": "Archelas 2",
     "next": "Archenomos",
     "proof_read": 3,
     "short_description": "f. l. statt Arzanene, armen. Landschaft",
@@ -138686,7 +138685,6 @@
   {
     "lemma": "Paulinus 5a",
     "previous": "Pauliana actio",
-    "next": "Paulus 11",
     "proof_read": 3,
     "short_description": "P. von Skythopolis, Arzt, unbrauchbarer Schüler Plotins",
     "no_creative_height": true,
@@ -138699,8 +138697,12 @@
     ]
   },
   {
+    "lemma": "Paulus 9a",
+    "next": "Paulus 11"
+  },
+  {
     "lemma": "Paulus 11",
-    "previous": "Paulinus 5a",
+    "previous": "Paulus 9a",
     "next": "Paulus 25a",
     "proof_read": 3,
     "no_creative_height": true,
