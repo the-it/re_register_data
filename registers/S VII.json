@@ -905,7 +905,7 @@
   {
     "lemma": "Dasumius 1",
     "previous": "Daitos",
-    "next": "Dasumius a",
+    "next": "Dasumius 1a",
     "proof_read": 3,
     "short_description": "L. D. Tullius Tuscus, cos. suff. 152 n. Chr., Sohn des P. D. Nr. [a]",
     "wp_link": "w:de:Lucius Dasumius Tullius Tuscus",
@@ -919,8 +919,11 @@
     ]
   },
   {
+    "lemma": "Dasumius 1a",
+    "previous": "Dasumius 1"
+  },
+  {
     "lemma": "Dasumius a",
-    "previous": "Dasumius 1",
     "next": "Δεῖγμα",
     "sort_key": "Dasumius 0b",
     "short_description": "P. D. Rusticus, cos. ord. 119 n. Chr.",
@@ -3614,7 +3617,6 @@
   {
     "lemma": "Leges Semproniae 2.8",
     "previous": "Leges Semproniae 2.7",
-    "next": "Leges Semproniae 3",
     "sort_key": "Lex Semproniae 2.8",
     "short_description": "L. S. de abactis",
     "chapters": [
@@ -3625,15 +3627,22 @@
     ]
   },
   {
+    "lemma": "Leges Semproniae 2",
+    "next": "Leges Semproniae 3"
+  },
+  {
     "lemma": "Leges Semproniae 3",
-    "previous": "Leges Semproniae 2.8",
+    "previous": "Leges Semproniae 2",
     "next": "Leges Semproniae 4",
     "sort_key": "Lex Semproniae 3",
-    "short_description": "L. S. de pecunia credita oder de usuris",
+    "proof_read": 2,
+    "short_description": "L. S. militaris",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 412,
-        "author": "Berger"
+        "end": 412,
+        "author": "Adolf Berger."
       }
     ]
   },
@@ -6596,7 +6605,6 @@
   {
     "lemma": "Phigaleia",
     "previous": "Phiala, Phialus",
-    "next": "Phigia",
     "short_description": "Arkad. Stadt",
     "chapters": [
       {
@@ -6606,8 +6614,12 @@
     ]
   },
   {
+    "lemma": "Phigaleia (ON",
+    "next": "Phigia"
+  },
+  {
     "lemma": "Phigia",
-    "previous": "Phigaleia",
+    "previous": "Phigaleia (ON",
     "next": "Philanthropon",
     "proof_read": 2,
     "short_description": "Stadt in Arabia felix",
