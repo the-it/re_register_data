@@ -66862,7 +66862,7 @@
     "lemma": "Clodius 5a",
     "previous": "Clodius 5",
     "next": "Clodius 10a",
-    "sort_key": "Clodius 05",
+    "sort_key": "Clodius 05a",
     "redirect": true,
     "proof_read": 3,
     "short_description": "A. Clodii, auf Delos im letzten Jh. der Republik.",
@@ -73488,7 +73488,7 @@
   {
     "lemma": "Dasumius 1",
     "previous": "Dasumius a",
-    "next": "Dasumius 1a",
+    "next": "Dativa",
     "proof_read": 3,
     "short_description": "L. D. Tullius Tuscus, cos. suff. 152 n. Chr., Sohn des P. D. Nr. [a]",
     "no_creative_height": true,
@@ -73504,7 +73504,6 @@
   },
   {
     "lemma": "Dasumius 1a",
-    "previous": "Dasumius 1",
     "next": "Dativa",
     "proof_read": 3,
     "short_description": "P. D. Rusticus, cos. ord. 119 n. Chr.",
@@ -81083,7 +81082,6 @@
     "lemma": "Epikados 1",
     "previous": "Epigrammata Bobiensia",
     "next": "Epikados 2",
-    "sort_key": "Epigonos 10",
     "proof_read": 3,
     "short_description": "Freund des illyr. Prinzen Plator (Pleuratos Nr. 3)",
     "no_creative_height": true,
@@ -87511,6 +87509,7 @@
     "lemma": "Forum Romanum",
     "previous": "Forum Licini 3",
     "next": "Fragmenta iuris Vaticana",
+    "sort_key": "Forumromanum",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -100462,7 +100461,7 @@
     "next": "Iaso 4",
     "sort_key": "Iasii",
     "proof_read": 3,
-    "short_description": "pannon. Volk",
+    "short_description": "pannonisches Volk",
     "no_creative_height": true,
     "chapters": [
       {
@@ -103450,7 +103449,7 @@
     "previous": "Jonathan 3",
     "next": "Ionische Aufstandsmünze",
     "proof_read": 3,
-    "short_description": "Att. Demos",
+    "short_description": "attischer Demos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -116759,6 +116758,7 @@
     "lemma": "Leo 7i",
     "previous": "Leo 7h",
     "next": "Leo 7j",
+    "sort_key": "Leo 7i",
     "proof_read": 3,
     "short_description": "Bischof von Turiasso 5. Jh. n. Chr.",
     "no_creative_height": true,
@@ -135143,7 +135143,7 @@
     "lemma": "ad Octavum 2",
     "previous": "Octavius 98",
     "next": "ad Octavum 3",
-    "sort_key": "Octavum 3",
+    "sort_key": "Octavum 2",
     "proof_read": 3,
     "short_description": "Station an der via Flaminia",
     "no_creative_height": true,
@@ -138711,7 +138711,7 @@
     "lemma": "Paul(l)a 2",
     "previous": "Patronomos",
     "next": "Pauliana actio",
-    "sort_key": "RE:Paulla 2",
+    "sort_key": "Paula 2",
     "proof_read": 3,
     "short_description": "Paula, Freundin und Schülerin des Hieronymus 4. Jh. n. Chr.",
     "no_creative_height": true,
@@ -147531,8 +147531,8 @@
     "lemma": "Prosenes",
     "previous": "Proselyten",
     "next": "Proserius",
-    "sort_key": "Peripatetiker, Philosoph in Athen um 260 n. Chr.",
     "proof_read": 3,
+    "short_description": "Peripatetiker, Philosoph in Athen um 260 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -147905,6 +147905,8 @@
   },
   {
     "lemma": "Prytanis, Prytaneia, Prytaneion",
+    "previous": "Prymnessos",
+    "next": "Psaios",
     "sort_key": "Prytanis 0",
     "proof_read": 3,
     "short_description": "Amt im antiken Griechenland, führende Mitglieder der Regierung einer polis",
@@ -151504,7 +151506,7 @@
     "previous": "Salvitto 2",
     "next": "Salvius 6a",
     "proof_read": 3,
-    "short_description": "richtig für Silviae, Stadt in der röm. Provinz Dalmatia",
+    "short_description": "richtig für Silviae, Stadt in der römischen Provinz Dalmatia",
     "no_creative_height": true,
     "chapters": [
       {
@@ -151518,9 +151520,13 @@
     "lemma": "Salvius 6a",
     "previous": "Salvium",
     "next": "Salvius 12a",
+    "proof_read": 3,
+    "short_description": "Leg. Aug. pr. pr. der Provinz Aquitania in hadrianischer Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151529,9 +151535,13 @@
     "lemma": "Salvius 12a",
     "previous": "Salvius 6a",
     "next": "Salvius 12b",
+    "proof_read": 3,
+    "short_description": "C. S. Capito, cos. suff. 148 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151540,9 +151550,13 @@
     "lemma": "Salvius 12b",
     "previous": "Salvius 12a",
     "next": "Salvius 12c",
+    "proof_read": 3,
+    "short_description": "S. Carus, Prokonsul der Provinz Creta-Cyrenae 134 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151551,9 +151565,13 @@
     "lemma": "Salvius 12c",
     "previous": "Salvius 12b",
     "next": "Salvius 12d",
+    "proof_read": 3,
+    "short_description": "S. Cocceianus, Sohn des L. S. Nr. 19 Otho Titianus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151577,9 +151595,13 @@
     "lemma": "Salvius 13a",
     "previous": "Salvius 12d",
     "next": "Salvius 14a",
+    "proof_read": 3,
+    "short_description": "C. S. Gratus, Glasfabrikant",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151588,9 +151610,13 @@
     "lemma": "Salvius 14a",
     "previous": "Salvius 13a",
     "next": "Salvius 21a",
+    "proof_read": 3,
+    "short_description": "S. Iustus, stellvertretender Archiereus in Ägypten 164–166 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151599,9 +151625,13 @@
     "lemma": "Salvius 21a",
     "previous": "Salvius 14a",
     "next": "Salvius 23a",
+    "proof_read": 3,
+    "short_description": "T. S. Rufinus Minicius, cos. suff. 123 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151610,9 +151640,13 @@
     "lemma": "Salvius 23a",
     "previous": "Salvius 21a",
     "next": "Samarobriva",
+    "proof_read": 3,
+    "short_description": "Salvia Luciola, Gattin des C. Valerius Sabinianus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151621,9 +151655,13 @@
     "lemma": "Samarobriva",
     "previous": "Salvius 23a",
     "next": "Sambaktys",
+    "proof_read": 3,
+    "short_description": "Hauptstadt der gallischen Ambiani",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151632,9 +151670,13 @@
     "lemma": "Sambaktys",
     "previous": "Samarobriva",
     "next": "Sammius",
+    "proof_read": 3,
+    "short_description": "angeblicher Dynastenname im karischen oder ionischen Kleinasien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151658,9 +151700,13 @@
     "lemma": "Sammulla",
     "previous": "Sammius",
     "next": "Samos 5",
+    "proof_read": 3,
+    "short_description": "Sonst unbekannte Frau, die ein Alter von 110 Jahren erreicht haben soll",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151669,9 +151715,13 @@
     "lemma": "Samos 5",
     "previous": "Sammulla",
     "next": "Sanchuniathon",
+    "proof_read": 3,
+    "short_description": "häufiger Samikon, triphylische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151679,38 +151729,49 @@
   {
     "lemma": "Sanchuniathon",
     "previous": "Samos 5",
-    "next": "Sandanos",
+    "next": "Σάνδανος",
+    "proof_read": 3,
+    "short_description": "phoinikischer Schriftsteller um 9. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Sandanos",
+    "lemma": "Σάνδανος",
     "previous": "Sanchuniathon",
     "next": "Sanktionsklausel",
+    "proof_read": 3,
+    "short_description": "chalkidischer? Fluß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Sanktionsklausel",
-    "previous": "Sandanos",
-    "next": "Σαννάκρα",
+    "previous": "Σάνδανος",
+    "next": "Sannakra",
+    "proof_read": 3,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Σαννάκρα",
+    "lemma": "Sannakra",
     "previous": "Sanktionsklausel",
     "next": "Sannion",
     "sort_key": "Sannakra",
@@ -151727,7 +151788,7 @@
   },
   {
     "lemma": "Sannion",
-    "previous": "Σαννάκρα",
+    "previous": "Sannakra",
     "next": "Santoni, Santones",
     "proof_read": 3,
     "short_description": "Schauspieler bei den Dionysia zu Delos im J. 284 v. Chr.",
@@ -151744,9 +151805,13 @@
     "lemma": "Santoni, Santones",
     "previous": "Sannion",
     "next": "Saondas",
+    "proof_read": 3,
+    "short_description": "keltisches Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151785,9 +151850,13 @@
     "lemma": "Sapaioi",
     "previous": "Sapaei",
     "next": "Saphnioeis",
+    "proof_read": 3,
+    "short_description": "thrakisches Volk",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151796,9 +151865,13 @@
     "lemma": "Saphnioeis",
     "previous": "Sapaioi",
     "next": "Sappho",
+    "proof_read": 3,
+    "short_description": "mysischer Fluß oder Bach",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151807,9 +151880,13 @@
     "lemma": "Sappho",
     "previous": "Saphnioeis",
     "next": "Sarapion 1a",
+    "proof_read": 3,
+    "short_description": "griechische Dichterin im 7./6. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151832,7 +151909,6 @@
   {
     "lemma": "Sarapion 4",
     "previous": "Sarapion 1a",
-    "next": "Sardelle",
     "proof_read": 3,
     "short_description": "Aelius S. von Alexandreia, Rhetor im 2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -151845,12 +151921,20 @@
     ]
   },
   {
+    "lemma": "Sarapion 9",
+    "next": "Sardelle"
+  },
+  {
     "lemma": "Sardelle",
-    "previous": "Sarapion 4",
+    "previous": "Sarapion 9",
     "next": "Sariolenus",
+    "proof_read": 3,
+    "short_description": "Sardelle",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151859,9 +151943,13 @@
     "lemma": "Sariolenus",
     "previous": "Sardelle",
     "next": "Sarmatorum, strata",
+    "proof_read": 3,
+    "short_description": "S. Vocula, Denunziant 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151886,9 +151974,13 @@
     "lemma": "Sarmizegethusa",
     "previous": "Sarmatorum, strata",
     "next": "Sarmus",
+    "proof_read": 3,
+    "short_description": "dakische Stadt",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151924,7 +152016,7 @@
     "previous": "Saros 1",
     "next": "Sarp",
     "proof_read": 3,
-    "short_description": "Insel nördl. von Karpathos",
+    "short_description": "Insel nördlich von Karpathos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -151938,9 +152030,13 @@
     "lemma": "Sarp",
     "previous": "Saros 3",
     "next": "Sarpedon 2a",
+    "proof_read": 3,
+    "short_description": "Örtlichkeit bei Phigaleia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151949,9 +152045,13 @@
     "lemma": "Sarpedon 2a",
     "previous": "Sarp",
     "next": "Sarra 1",
+    "proof_read": 3,
+    "short_description": "Bürger von Akmonia und Ephesos, siegreicher Schauspieler bei den Artemisia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -151989,16 +152089,20 @@
   {
     "lemma": "Sarta",
     "previous": "Sarrum",
-    "next": "Σατίναι",
+    "next": "Satinai",
+    "proof_read": 3,
+    "short_description": "mittelgallischer Fluß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
-    "lemma": "Σατίναι",
+    "lemma": "Satinai",
     "previous": "Sarta",
     "next": "Satorquadrat",
     "sort_key": "Satinai",
@@ -152015,11 +152119,15 @@
   },
   {
     "lemma": "Satorquadrat",
-    "previous": "Σατίναι",
+    "previous": "Satinai",
     "next": "Satrap",
+    "proof_read": 3,
+    "short_description": "das magische Wortquadrat",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -152028,9 +152136,13 @@
     "lemma": "Satrap",
     "previous": "Satorquadrat",
     "next": "Satrienus 1a",
+    "proof_read": 3,
+    "short_description": "XV. Satrapes als Gottesname",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -152039,9 +152151,13 @@
     "lemma": "Satrienus 1a",
     "previous": "Satrap",
     "next": "Satrius 2a",
+    "proof_read": 3,
+    "short_description": "S. Iuvenalis, trib. militum der leg. XI Claudia pia fidelis 1. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -152050,9 +152166,13 @@
     "lemma": "Satrius 2a",
     "previous": "Satrienus 1a",
     "next": "Satrius 3a",
+    "proof_read": 3,
+    "short_description": "T. S. Decianus, curator tabulariorum publicorum 46 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -152061,9 +152181,13 @@
     "lemma": "Satrius 3a",
     "previous": "Satrius 2a",
     "next": "Satrius 4a",
+    "proof_read": 3,
+    "short_description": "praetor design.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -152072,9 +152196,13 @@
     "lemma": "Satrius 4a",
     "previous": "Satrius 3a",
     "next": "Sattel",
+    "proof_read": 3,
+    "short_description": "Legionstribun in traianischer Zeit?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -152083,9 +152211,13 @@
     "lemma": "Sattel",
     "previous": "Satrius 4a",
     "next": "Sattius",
+    "proof_read": 3,
+    "short_description": "Ephippion, Sagma, Sella equestris",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 201,
+        "end": 201,
         "author": "Hans Gärtner."
       }
     ]
@@ -152124,9 +152256,13 @@
     "lemma": "Saturius 5",
     "previous": "Saturianus",
     "next": "Saturninus 7a",
+    "proof_read": 3,
+    "short_description": "S. Firmus, cos. suff. 148 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152135,9 +152271,13 @@
     "lemma": "Saturninus 7a",
     "previous": "Saturius 5",
     "next": "Saturus",
+    "proof_read": 3,
+    "short_description": "Verwaltungsbeamter",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152146,9 +152286,13 @@
     "lemma": "Saturus",
     "previous": "Saturninus 7a",
     "next": "Satyros 7a",
+    "proof_read": 3,
+    "short_description": "katholischer procurator domus Hunerici 5. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152157,9 +152301,13 @@
     "lemma": "Satyros 7a",
     "previous": "Saturus",
     "next": "Satyros 10a",
+    "proof_read": 3,
+    "short_description": "von Elis, Sieger im Faustkampf zu Olympia 4. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152217,9 +152365,13 @@
     "lemma": "Satyros 13a",
     "previous": "Satyros 13",
     "next": "Satyros 13b",
+    "proof_read": 3,
+    "short_description": "von Marathon, Schauspieler, Sohn des Theogeiton",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152228,9 +152380,13 @@
     "lemma": "Satyros 13b",
     "previous": "Satyros 13a",
     "next": "Satyros 13c",
+    "proof_read": 3,
+    "short_description": "Schauspieler 3. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152269,9 +152425,13 @@
     "lemma": "Sauconna",
     "previous": "Satyros 13d",
     "next": "Saul 2",
+    "proof_read": 3,
+    "short_description": "späterer Name des Brigulus bzw. des Arar, Nebenfluß des Rhodanus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152280,9 +152440,13 @@
     "lemma": "Saul 2",
     "previous": "Sauconna",
     "next": "Saulakes",
+    "proof_read": 3,
+    "short_description": "Feldherr Theodosius’ I. 394 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152342,9 +152506,13 @@
     "lemma": "Saura 2",
     "previous": "Saumakos",
     "next": "Saura 3",
+    "proof_read": 3,
+    "short_description": "die Eidechse",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152353,9 +152521,13 @@
     "lemma": "Saura 3",
     "previous": "Saura 2",
     "next": "Saura 4",
+    "proof_read": 3,
+    "short_description": "kleiner Seefisch",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152364,9 +152536,13 @@
     "lemma": "Saura 4",
     "previous": "Saura 3",
     "next": "Sauria",
+    "proof_read": 3,
+    "short_description": "schlauch- oder röhrenförmiges Geflecht aus Palmenbast, medizinisches Gerät",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152375,9 +152551,13 @@
     "lemma": "Sauria",
     "previous": "Saura 4",
     "next": "Savo fluvio",
+    "proof_read": 3,
+    "short_description": "akarnanischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152386,9 +152566,13 @@
     "lemma": "Savo fluvio",
     "previous": "Sauria",
     "next": "Saxanus",
+    "proof_read": 3,
+    "short_description": "Poststation und Flußhafen an der Straße Emona - Celeia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152397,9 +152581,13 @@
     "lemma": "Saxanus",
     "previous": "Savo fluvio",
     "next": "Saxetum, Saxetanum",
+    "proof_read": 3,
+    "short_description": "Beiname des Hercules und des Silvanus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152408,9 +152596,13 @@
     "lemma": "Saxetum, Saxetanum",
     "previous": "Saxanus",
     "next": "Saxum ferreum",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Baetica",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152419,9 +152611,13 @@
     "lemma": "Saxum ferreum",
     "previous": "Saxetum, Saxetanum",
     "next": "Scabellum",
+    "proof_read": 3,
+    "short_description": "hispanischer Ort",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152430,9 +152626,13 @@
     "lemma": "Scabellum",
     "previous": "Saxum ferreum",
     "next": "Scalprum (scalper, scalprus)",
+    "proof_read": 3,
+    "short_description": "var. lect. für scabillum, die Fußbank bzw. das Orchesterinstrument",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152441,20 +152641,31 @@
     "lemma": "Scalprum (scalper, scalprus)",
     "previous": "Scabellum",
     "next": "Scalptor",
+    "proof_read": 3,
+    "short_description": "das Instrument zum Gravieren, Schneiden bzw. Meißeln",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
+    "lemma": "Scalprum"
+  },
+  {
     "lemma": "Scalptor",
     "previous": "Scalprum (scalper, scalprus)",
     "next": "Scamarae",
+    "proof_read": 3,
+    "short_description": "der Graveur",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152463,9 +152674,13 @@
     "lemma": "Scamarae",
     "previous": "Scalptor",
     "next": "Scantius 3",
+    "proof_read": 3,
+    "short_description": "Plünderer in den Donauprovinzen in spätantiker und byzantinischer Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152474,9 +152689,13 @@
     "lemma": "Scantius 3",
     "previous": "Scamarae",
     "next": "Scarniunga",
+    "proof_read": 3,
+    "short_description": "A. S. Larcianus, Präsidialprokurator der Provinz Mauretania Tingit. 2. Jh. n. Chr.?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152485,9 +152704,13 @@
     "lemma": "Scarniunga",
     "previous": "Scantius 3",
     "next": "Scelerata",
+    "proof_read": 3,
+    "short_description": "pannonischer Fluß",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152528,9 +152751,13 @@
     "lemma": "Schierling",
     "previous": "Schierenhof",
     "next": "Schraube",
+    "proof_read": 3,
+    "short_description": "Doldengewächs, Conium maculatum L.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152539,9 +152766,13 @@
     "lemma": "Schraube",
     "previous": "Schierling",
     "next": "Schwarzerden",
+    "proof_read": 3,
+    "short_description": "Schraube",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152550,9 +152781,13 @@
     "lemma": "Schwarzerden",
     "previous": "Schraube",
     "next": "Schwimmen",
+    "proof_read": 3,
+    "short_description": "deutsches Dorf in der Pfalz",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152561,9 +152796,13 @@
     "lemma": "Schwimmen",
     "previous": "Schwarzerden",
     "next": "Scoldium",
+    "proof_read": 3,
+    "short_description": "einschließlich Tauchen und Wasserspringen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152572,9 +152811,13 @@
     "lemma": "Scoldium",
     "previous": "Schwimmen",
     "next": "Scotinus",
+    "proof_read": 3,
+    "short_description": "Ort im oberen Savetal?, s. Carniola, Carneola",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152583,9 +152826,13 @@
     "lemma": "Scotinus",
     "previous": "Scoldium",
     "next": "Scottius",
+    "proof_read": 3,
+    "short_description": "wahrscheinlicher Name eines gallischen Sigillatatöpfers",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152594,9 +152841,13 @@
     "lemma": "Scottius",
     "previous": "Scotinus",
     "next": "Scribonianus 1",
+    "proof_read": 3,
+    "short_description": "südgallischer Sigillatatöpfer etwa 35–60 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152605,9 +152856,13 @@
     "lemma": "Scribonianus 1",
     "previous": "Scottius",
     "next": "Scribonianus 1a",
+    "proof_read": 3,
+    "short_description": "Konsul in hadrianisch-antoninischer Zeit?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152616,9 +152871,13 @@
     "lemma": "Scribonianus 1a",
     "previous": "Scribonianus 1",
     "next": "Scribonius 12a",
+    "proof_read": 3,
+    "short_description": "Prokurator der Provinz Cilicia unter Traian",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -152642,9 +152901,13 @@
     "lemma": "Scribonius 30a",
     "previous": "Scribonius 12a",
     "next": "Scrofulas",
+    "proof_read": 3,
+    "short_description": "inschriftlicher Name",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 202,
+        "end": 202,
         "author": "Hans Gärtner."
       }
     ]
@@ -155611,6 +155874,7 @@
   {
     "lemma": "Sodales Augustales",
     "previous": "societates publicanorum",
+    "next": "Sokrates 10a",
     "chapters": [
       {
         "start": 208,
@@ -155697,6 +155961,7 @@
   {
     "lemma": "Solygeia",
     "previous": "Solon 6a",
+    "next": "Sonikos 4",
     "chapters": [
       {
         "start": 208,
@@ -155710,6 +155975,7 @@
     "next": "Sophe",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "Schauspieler bei den Dionysia 169 v. Chr.",
     "chapters": [
       {
         "start": 208,
