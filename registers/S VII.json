@@ -4742,7 +4742,7 @@
   {
     "lemma": "Neilos 5d",
     "previous": "Neilos 5c",
-    "next": "Nekron",
+    "next": "Nemea 5",
     "proof_read": 2,
     "short_description": "Briefadressat(en?) des Isidoros von Pelusion",
     "no_creative_height": true,
@@ -4753,10 +4753,6 @@
         "author": "W. Enßlin."
       }
     ]
-  },
-  {
-    "lemma": "Nekron",
-    "previous": "Neilos 5d"
   },
   {
     "lemma": "Nemea 5",
@@ -6603,12 +6599,8 @@
     ]
   },
   {
-    "lemma": "Phigaleia (ON",
-    "next": "Phigia"
-  },
-  {
     "lemma": "Phigia",
-    "previous": "Phigaleia (ON",
+    "previous": "Phigaleia",
     "next": "Philanthropon",
     "proof_read": 2,
     "short_description": "Stadt in Arabia felix",
@@ -6810,7 +6802,7 @@
   {
     "lemma": "Rufus 8a",
     "previous": "Rufellius",
-    "next": "Ῥύμμοι",
+    "next": "Ῥυμμικὰ ὄρη",
     "proof_read": 2,
     "short_description": "procurator ad ripam Tiberis in hadrian. Zeit",
     "chapters": [
@@ -6822,9 +6814,26 @@
     ]
   },
   {
+    "lemma": "Ῥυμμικὰ ὄρη",
+    "sort_key": "Rhymmika ore",
+    "chapters": [
+      {
+        "start": 1198,
+        "author": "Kiessling, Max"
+      }
+    ]
+  },
+  {
     "lemma": "Ῥύμμοι",
-    "previous": "Rufus 8a",
-    "sort_key": "Rhymmoi"
+    "previous": "Ῥυμμικὰ ὄρη",
+    "sort_key": "Rhymmoi",
+    "chapters": [
+      {
+        "start": 1198,
+        "end": 1200,
+        "author": "Kiessling, Max"
+      }
+    ]
   },
   {
     "lemma": "Ῥυμμός",
