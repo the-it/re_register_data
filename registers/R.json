@@ -103326,6 +103326,7 @@
     "lemma": "Johannisbrot",
     "previous": "Ad Ioglandem",
     "next": "Iolaos 5a",
+    "sort_key": "Iohannisbrot",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -103633,7 +103634,7 @@
     "next": "Iovia 3",
     "sort_key": "Iouey",
     "proof_read": 3,
-    "short_description": "Frz. Ort",
+    "short_description": "französicher Ort",
     "no_creative_height": true,
     "chapters": [
       {
@@ -146731,7 +146732,7 @@
   {
     "lemma": "Privatus 7",
     "previous": "Privatianus 4",
-    "next": "probulos",
+    "next": "πρόβουλος",
     "proof_read": 3,
     "short_description": "P. aus Thabarca, Presbyter",
     "no_creative_height": true,
@@ -146744,11 +146745,12 @@
     ]
   },
   {
-    "lemma": "probulos",
+    "lemma": "πρόβουλος",
     "previous": "Privatus 7",
     "next": "Probus 25a",
+    "sort_key": "Probulos",
     "proof_read": 3,
-    "short_description": "Mitglied einer dem Rat übergeordneten Kommission in griechischen Oligarchien",
+    "short_description": "probulos in Oligarchien, Mitglied einer dem Rat übergeordneten Kommission",
     "no_creative_height": true,
     "chapters": [
       {
@@ -146760,7 +146762,7 @@
   },
   {
     "lemma": "Probus 25a",
-    "previous": "probulos",
+    "previous": "πρόβουλος",
     "next": "Probus 25b",
     "proof_read": 3,
     "short_description": "Praeses der Provinz Pannonia II im 3./4. Jh. n. Chr.",
@@ -147305,7 +147307,7 @@
   {
     "lemma": "Prometheus 5",
     "previous": "Prometheus 4",
-    "next": "prometretes",
+    "next": "προμετρητής",
     "proof_read": 3,
     "short_description": "von Teos, Beamter",
     "no_creative_height": true,
@@ -147318,11 +147320,12 @@
     ]
   },
   {
-    "lemma": "prometretes",
+    "lemma": "προμετρητής",
     "previous": "Prometheus 5",
     "next": "Promisthota",
+    "sort_key": "Prometretes",
     "proof_read": 3,
-    "short_description": "der Fachmann beim Getreideverkauf",
+    "short_description": "prometretes, Fachmann in Athen bei Verkauf und Zuteilung von Getreide",
     "no_creative_height": true,
     "chapters": [
       {
@@ -147334,7 +147337,7 @@
   },
   {
     "lemma": "Promisthota",
-    "previous": "prometretes",
+    "previous": "προμετρητής",
     "next": "promulgatio",
     "proof_read": 3,
     "short_description": "griechischer Ausdruck für den Locator scenicorum, der Schauspielimpresario",
@@ -151716,8 +151719,9 @@
     "lemma": "Σάνδανος",
     "previous": "Sanchuniathon",
     "next": "Sanktionsklausel",
+    "sort_key": "Sandanos",
     "proof_read": 3,
-    "short_description": "chalkidischer? Fluß",
+    "short_description": "Sandanos, chalkidischer? Fluß",
     "no_creative_height": true,
     "chapters": [
       {
@@ -151880,6 +151884,7 @@
   {
     "lemma": "Sarapion 4",
     "previous": "Sarapion 1a",
+    "next": "Sardelle",
     "proof_read": 3,
     "short_description": "Aelius S. von Alexandreia, Rhetor im 2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -152594,8 +152599,10 @@
     "previous": "Saxum ferreum",
     "next": "Scalprum (scalper, scalprus)",
     "proof_read": 3,
-    "short_description": "var. lect. für scabillum, die Fußbank bzw. das Orchesterinstrument",
+    "short_description": "Orchesterinstrument",
     "no_creative_height": true,
+    "wp_link": "w:de:Scabellum",
+    "wd_link": "d:Q2228699",
     "chapters": [
       {
         "start": 202,
@@ -160634,7 +160641,7 @@
   {
     "lemma": "Tychamenes",
     "previous": "Tycae",
-    "next": "en Tyennesso",
+    "next": "Τυεννεσσῷ",
     "chapters": [
       {
         "start": 217,
@@ -160643,12 +160650,13 @@
     ]
   },
   {
-    "lemma": "en Tyennesso",
+    "lemma": "Τυεννεσσῷ",
     "previous": "Tychamenes",
     "next": "Tyindeis",
     "sort_key": "Tyennesso",
     "redirect": "Iasos 15",
     "proof_read": 3,
+    "short_description": "en Tyennesso, Lage der Besitztümer zweier Männer von Iasos",
     "chapters": [
       {
         "start": 217,
@@ -160658,7 +160666,7 @@
   },
   {
     "lemma": "Tyindeis",
-    "previous": "en Tyennesso",
+    "previous": "Τυεννεσσῷ",
     "next": "Tyitenos",
     "chapters": [
       {
