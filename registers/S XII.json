@@ -4096,7 +4096,7 @@
   {
     "lemma": "Helvius 19b",
     "previous": "Helvius 19a",
-    "next": "Herennius 44a",
+    "next": "Hemikollion",
     "short_description": "Helvia, hypothetischer Name der Stiefschwester der Helvia Nr. [19a] (S XII 426)",
     "chapters": [
       {
@@ -4107,9 +4107,32 @@
     ]
   },
   {
-    "lemma": "Herennius 44a",
+    "lemma": "Hemikollion",
     "previous": "Helvius 19b",
-    "next": "Hermodotos 3",
+    "next": "Herennius 42",
+    "chapters": [
+      {
+        "start": 433,
+        "author": "H. Chantraine."
+      }
+    ]
+  },
+  {
+    "lemma": "Herennius 42",
+    "previous": "Hemikollion",
+    "next": "Herennius 44a",
+    "chapters": [
+      {
+        "start": 433,
+        "end": 434,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Herennius 44a",
+    "previous": "Herennius 42",
+    "next": "Hermetidius",
     "short_description": "H. Ser[---], iuridicus in Alexandreia und Aegypten",
     "chapters": [
       {
@@ -4119,9 +4142,20 @@
     ]
   },
   {
-    "lemma": "Hermodotos 3",
+    "lemma": "Hermetidius",
     "previous": "Herennius 44a",
-    "next": "Hyia",
+    "next": "Hermodotos 3",
+    "chapters": [
+      {
+        "start": 434,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Hermodotos 3",
+    "previous": "Hermetidius",
+    "next": "Hesiodos",
     "short_description": "Kyniker",
     "chapters": [
       {
@@ -4131,8 +4165,66 @@
     ]
   },
   {
-    "lemma": "Hyia",
+    "lemma": "Hesiodos",
     "previous": "Hermodotos 3",
+    "next": "Hippokrates 16",
+    "chapters": [
+      {
+        "start": 434,
+        "end": 486,
+        "author": "Hans Schwabl."
+      }
+    ]
+  },
+  {
+    "lemma": "Hippokrates 16",
+    "previous": "Hesiodos",
+    "next": "Holke",
+    "chapters": [
+      {
+        "start": 486,
+        "end": 496,
+        "author": "Markwart Michler."
+      }
+    ]
+  },
+  {
+    "lemma": "Holke",
+    "previous": "Hippokrates 16",
+    "next": "Hosidius 6",
+    "chapters": [
+      {
+        "start": 496,
+        "end": 498,
+        "author": "H. Chantraine."
+      }
+    ]
+  },
+  {
+    "lemma": "Hosidius 6",
+    "previous": "Holke",
+    "next": "Hyettos",
+    "chapters": [
+      {
+        "start": 498,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Hyettos",
+    "previous": "Hosidius 6",
+    "next": "Hyia",
+    "chapters": [
+      {
+        "start": 497,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Hyia",
+    "previous": "Hyettos",
     "next": "Hypnia",
     "short_description": "Pisid. Stadt",
     "chapters": [
