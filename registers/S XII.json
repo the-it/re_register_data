@@ -408,6 +408,8 @@
     "previous": "Agesilaos 7b",
     "next": "Aigosthena",
     "short_description": "Stadt in Noricum = Aguontum",
+    "wp_link": "w:de:Aguntum",
+    "wd_link": "d:Q398648",
     "chapters": [
       {
         "start": 4,
@@ -4058,19 +4060,24 @@
   {
     "lemma": "Hellenika Oxyrhynchia",
     "previous": "Hedius 1a",
-    "next": "Helvius 16a",
-    "short_description": "Historikerfragment aus dem 4. Jh. v. Chr.",
+    "next": "Helvius 15c",
+    "short_description": "Historikerfragment aus dem 4. Jhdt. v. Chr.",
+    "wp_link": "w:de:Hellenika Oxyrhynchia",
+    "wd_link": "d:Q552400",
     "chapters": [
       {
         "start": 383,
         "end": 426,
-        "author": "Breitenbach"
+        "author": "H. R. Breitenbach."
       }
     ]
   },
   {
+    "lemma": "Helvius 15c",
+    "previous": "Hellenika Oxyrhynchia"
+  },
+  {
     "lemma": "Helvius 16a",
-    "previous": "Hellenika Oxyrhynchia",
     "next": "Helvius 19a",
     "short_description": "M. H. Rufus Civica, Primipilus und Ritter in der 1. H. des 1. Jh. n. Chr.",
     "chapters": [
@@ -4096,7 +4103,7 @@
   {
     "lemma": "Helvius 19b",
     "previous": "Helvius 19a",
-    "next": "Hemikollion",
+    "next": "Ἡμικόλλιον",
     "short_description": "Helvia, hypothetischer Name der Stiefschwester der Helvia Nr. [19a] (S XII 426)",
     "chapters": [
       {
@@ -4107,20 +4114,28 @@
     ]
   },
   {
-    "lemma": "Hemikollion",
+    "lemma": "Ἡμικόλλιον",
     "previous": "Helvius 19b",
     "next": "Herennius 42",
+    "sort_key": "Hemikollion",
+    "short_description": "Hemikollion, Maßbezeichnung",
     "chapters": [
       {
         "start": 433,
+        "end": 433,
         "author": "H. Chantraine."
       }
     ]
   },
   {
     "lemma": "Herennius 42",
-    "previous": "Hemikollion",
+    "previous": "Ἡμικόλλιον",
     "next": "Herennius 44a",
+    "proof_read": 2,
+    "short_description": "L. H. Saturninus, cos. suff. 100 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Lucius Herennius Saturninus",
+    "wd_link": "d:Q1239840",
     "chapters": [
       {
         "start": 433,
@@ -4133,11 +4148,14 @@
     "lemma": "Herennius 44a",
     "previous": "Herennius 42",
     "next": "Hermetidius",
-    "short_description": "H. Ser[---], iuridicus in Alexandreia und Aegypten",
+    "proof_read": 2,
+    "short_description": "Herennius Ser[---], stadtrömischer Procurator und iuridicus in Alexandreia und Aegypten",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 434,
-        "author": "Winkler"
+        "end": 434,
+        "author": "Gerhard Winkler."
       }
     ]
   },
@@ -4145,9 +4163,16 @@
     "lemma": "Hermetidius",
     "previous": "Herennius 44a",
     "next": "Hermodotos 3",
+    "sort_key": "Hermetidius",
+    "proof_read": 2,
+    "short_description": "Sex. H. Campanus, leg. Aug. pr. pr. der Provinz Iudaea 93 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Sextus Hermentidius Campanus",
+    "wd_link": "d:Q49001621",
     "chapters": [
       {
         "start": 434,
+        "end": 434,
         "author": "Rudolf Hanslik."
       }
     ]
@@ -4156,11 +4181,14 @@
     "lemma": "Hermodotos 3",
     "previous": "Hermetidius",
     "next": "Hesiodos",
+    "proof_read": 2,
     "short_description": "Kyniker",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 434,
-        "author": "Gigante"
+        "end": 434,
+        "author": "Marcello Gigante."
       }
     ]
   },
@@ -4168,6 +4196,10 @@
     "lemma": "Hesiodos",
     "previous": "Hermodotos 3",
     "next": "Hippokrates 16",
+    "short_description": "Boiot. Epiker",
+    "wp_link": "w:de:Hesiod",
+    "ws_link": "s:de:Hesiod",
+    "wd_link": "d:Q44233",
     "chapters": [
       {
         "start": 434,
@@ -4180,6 +4212,10 @@
     "lemma": "Hippokrates 16",
     "previous": "Hesiodos",
     "next": "Holke",
+    "short_description": "H. von Kos, der Arzt, um 460 v. Chr.",
+    "wp_link": "w:de:Hippokrates von Kos",
+    "ws_link": "s:en:Author:Hippocrates",
+    "wd_link": "d:Q5264",
     "chapters": [
       {
         "start": 486,
@@ -4192,6 +4228,7 @@
     "lemma": "Holke",
     "previous": "Hippokrates 16",
     "next": "Hosidius 6",
+    "short_description": "Gewichtseinheit, synonym mit Drachme und Denar",
     "chapters": [
       {
         "start": 496,
@@ -4204,9 +4241,15 @@
     "lemma": "Hosidius 6",
     "previous": "Holke",
     "next": "Hyettos",
+    "proof_read": 2,
+    "short_description": "Cn. H. Geta, cos. suff. 45 n. Chr.",
+    "no_creative_height": true,
+    "wp_link": "w:de:Gnaeus Hosidius Geta",
+    "wd_link": "d:Q1223428",
     "chapters": [
       {
         "start": 498,
+        "end": 498,
         "author": "Rudolf Hanslik."
       }
     ]
@@ -4215,9 +4258,15 @@
     "lemma": "Hyettos",
     "previous": "Hosidius 6",
     "next": "Hyia",
+    "proof_read": 2,
+    "short_description": "boiotische Stadt",
+    "no_creative_height": true,
+    "wp_link": "w:en:Hyettus (Boeotia)",
+    "wd_link": "d:Q12872650",
     "chapters": [
       {
         "start": 497,
+        "end": 497,
         "author": "Ernst Meyer."
       }
     ]
@@ -4250,17 +4299,22 @@
   {
     "lemma": "Iakobos 2a",
     "previous": "Hypnia",
-    "next": "Iavolenus 2",
+    "next": "Octavius 59",
+    "short_description": "Magister militum 401 n. Chr.",
     "chapters": [
       {
         "start": 500,
+        "end": 500,
         "author": "Alexander Demandt."
       }
     ]
   },
   {
+    "lemma": "Octavius 59",
+    "previous": "Iakobos 2a"
+  },
+  {
     "lemma": "Iavolenus 2",
-    "previous": "Iakobos 2a",
     "next": "Ilunum 2",
     "short_description": "s. C. Octavius Tidius Tossianus L. I. Priscus, cos. suff. im J. 86 n. Chr.,",
     "chapters": [
