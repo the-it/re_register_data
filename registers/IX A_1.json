@@ -3595,7 +3595,7 @@
   {
     "lemma": "Vitellianus",
     "previous": "Vitellia 3",
-    "next": "Vitellius 7b",
+    "next": "Vitellius",
     "redirect": "Antonius 103",
     "proof_read": 2,
     "chapters": [
@@ -3620,7 +3620,7 @@
   {
     "lemma": "Vitellius 1",
     "previous": "Vitellius",
-    "next": "Vitellia 4",
+    "next": "Vitellius 2",
     "short_description": "Vitellii fratres, verbünden sich zum Sturz der jungen römischen Republik",
     "chapters": [
       {
@@ -3630,20 +3630,8 @@
     ]
   },
   {
-    "lemma": "Vitellia 4",
-    "previous": "Vitellius 1",
-    "next": "Vitellius 2",
-    "short_description": "Gattin des L. Iunius Brutus",
-    "chapters": [
-      {
-        "start": 385,
-        "author": "Gundel, Hans [Georg]"
-      }
-    ]
-  },
-  {
     "lemma": "Vitellius 2",
-    "previous": "Vitellia 4",
+    "previous": "Vitellius 1",
     "next": "Vitellius 3",
     "short_description": "A., Duovir in Ostia 46 v. Chr.",
     "chapters": [
@@ -3656,7 +3644,7 @@
   {
     "lemma": "Vitellius 3",
     "previous": "Vitellius 2",
-    "next": "Vitellius 5",
+    "next": "Vitellius 4",
     "short_description": "Q., Duovir in Ostia 47-45 v. Chr.",
     "chapters": [
       {
@@ -3666,8 +3654,20 @@
     ]
   },
   {
-    "lemma": "Vitellius 5",
+    "lemma": "Vitellius 4",
     "previous": "Vitellius 3",
+    "next": "Vitellius 5",
+    "short_description": "Gattin des L. Iunius Brutus",
+    "chapters": [
+      {
+        "start": 385,
+        "author": "Gundel, Hans [Georg]"
+      }
+    ]
+  },
+  {
+    "lemma": "Vitellius 5",
+    "previous": "Vitellius 4",
     "next": "Vitellius 6",
     "short_description": "P., Sohn des P. Vitellius Nr. 7",
     "chapters": [
