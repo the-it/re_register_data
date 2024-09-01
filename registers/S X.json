@@ -1370,7 +1370,7 @@
   {
     "lemma": "Aphras",
     "previous": "Apelles 8",
-    "next": "Apolaustus 3",
+    "next": "Apolaustus 1",
     "proof_read": 3,
     "short_description": "Gefährte des Herakles beim Raub der Rinder des Geryones, Eponymos Afrika",
     "no_creative_height": true,
@@ -1384,8 +1384,36 @@
     ]
   },
   {
-    "lemma": "Apolaustus 3",
+    "lemma": "Apolaustus 1",
     "previous": "Aphras",
+    "next": "Apolaustus 2",
+    "redirect": "Ulpius 3a",
+    "proof_read": 3,
+    "short_description": "M. Ulpius A., Pantomime in traianischer Zeit = M. Ulpius",
+    "chapters": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "lemma": "Apolaustus 2",
+    "previous": "Apolaustus 1",
+    "next": "Apolaustus 3",
+    "redirect": "Aurelius 53a",
+    "proof_read": 3,
+    "short_description": "L. Aelius Aurelius A. Memphius, richtig: L. Aurelius A. Memphius",
+    "chapters": [
+      {
+        "start": 23,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "lemma": "Apolaustus 3",
+    "previous": "Apolaustus 2",
     "next": "Apolaustus 4",
     "proof_read": 3,
     "short_description": "A. maior, Pantomime 2. Jh. n. Chr. auf Sarkophaginschrift",
@@ -1417,7 +1445,7 @@
     "lemma": "Apolaustus 5",
     "previous": "Apolaustus 4",
     "next": "Apolaustus 6",
-    "redirect": "Ulpius 3a",
+    "redirect": "Aelius 27aaa",
     "proof_read": 3,
     "chapters": [
       {
@@ -1429,19 +1457,18 @@
   {
     "lemma": "Apolaustus 6",
     "previous": "Apolaustus 5",
-    "next": "Apolaustus 7",
-    "redirect": "Aurelius 53a",
-    "proof_read": 3,
+    "next": "Apollas 1",
+    "redirect": "Severus 13",
     "chapters": [
       {
-        "start": 23,
-        "end": 23
+        "start": 24,
+        "end": 24,
+        "author": "Mario Bonaria."
       }
     ]
   },
   {
     "lemma": "Apolaustus 7",
-    "previous": "Apolaustus 6",
     "next": "Apolaustus 8",
     "redirect": "Aelius 27aaa",
     "proof_read": 3,
