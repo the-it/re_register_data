@@ -6661,7 +6661,7 @@
   {
     "lemma": "Archias 112",
     "previous": "Archias 111",
-    "next": "Archikrates 3a",
+    "next": "Archikles 3a",
     "proof_read": 3,
     "short_description": "A. (aus der taur. Chersonesos?), Christ",
     "chapters": [
@@ -6674,8 +6674,6 @@
   },
   {
     "lemma": "Archikrates 3a",
-    "previous": "Archias 112",
-    "next": "Ἀρχιμάχιμος",
     "proof_read": 3,
     "short_description": "S. 487, 9 zum Art. Archikrates: 3a) Archon zu Amphissa, aus dem 1. Jhdt. v.",
     "chapters": [
@@ -6687,12 +6685,26 @@
     ]
   },
   {
+    "lemma": "Archikles 3a",
+    "previous": "Archias 112",
+    "next": "Ἀρχιμάχιμος",
+    "proof_read": 3,
+    "short_description": "Archon in Amphissa (im 1. Jh. v. Chr.?), Sohn des Damophilos",
+    "chapters": [
+      {
+        "start": 144,
+        "end": 144,
+        "author": "Oldfather."
+      }
+    ]
+  },
+  {
     "lemma": "Ἀρχιμάχιμος",
-    "previous": "Archikrates 3a",
+    "previous": "Archikles 3a",
     "next": "Archimedes 3",
     "sort_key": "Archimachimos",
     "proof_read": 3,
-    "short_description": "Archimachimos, das Haupt der ägypt. Machimoi",
+    "short_description": "Archimachimos, das Haupt der ägyptischen Machimoi",
     "chapters": [
       {
         "start": 144,
@@ -7514,7 +7526,7 @@
   {
     "lemma": "Arius",
     "previous": "Ariukes",
-    "next": "Arkades, Arkadia",
+    "next": "Arkadia 2",
     "proof_read": 3,
     "short_description": "C. A., mittelgall. Töpfer in Lezoux im 3. Jh. n. Chr.",
     "chapters": [
@@ -7527,8 +7539,6 @@
   },
   {
     "lemma": "Arkades, Arkadia",
-    "previous": "Arius",
-    "next": "Arkadia 4a",
     "proof_read": 3,
     "short_description": "Xenion und Demetrios bei Steph. Byz. auf Krete",
     "chapters": [
@@ -7540,8 +7550,24 @@
     ]
   },
   {
+    "lemma": "Arkadia 2",
+    "previous": "Arius",
+    "next": "Arkadia 4a",
+    "proof_read": 3,
+    "short_description": "binnenländische Stadt auf Kreta",
+    "wp_link": "w:en:Arcades (Crete)",
+    "wd_link": "d:Q20013164",
+    "chapters": [
+      {
+        "start": 160,
+        "end": 160,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
     "lemma": "Arkadia 4a",
-    "previous": "Arkades, Arkadia",
+    "previous": "Arkadia 2",
     "next": "Arkison 2",
     "proof_read": 3,
     "short_description": "Kastell auf Zakynthos, angelegt 374 v. Chr.",
@@ -7965,7 +7991,7 @@
   {
     "lemma": "Arvernicus 2",
     "previous": "Arverni",
-    "next": "Arvius 2",
+    "next": "Arvius 1",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer in Rheinzabern in der 2. H. des 2. Jh. n. Chr.",
     "chapters": [
@@ -7977,11 +8003,11 @@
     ]
   },
   {
-    "lemma": "Arvius 2",
+    "lemma": "Arvius 1",
     "previous": "Arvernicus 2",
     "next": "Arura",
     "proof_read": 3,
-    "short_description": "Sigillatatöpfer in Arezzo, wahrscheinlich augusteischer Zeit",
+    "short_description": "C. A., arretin. Sigillatatöpfer in august. Zeit?",
     "chapters": [
       {
         "start": 163,
@@ -7992,7 +8018,7 @@
   },
   {
     "lemma": "Arura",
-    "previous": "Arvius 2",
+    "previous": "Arvius 1",
     "next": "Arxanes",
     "redirect": "Aare",
     "proof_read": 3,
@@ -8559,7 +8585,7 @@
   {
     "lemma": "Athanaios",
     "previous": "Athanadas 8",
-    "next": "Athenadas",
+    "next": "Athenadas 2",
     "proof_read": 3,
     "short_description": "aitolischer Monat in delphischen Inschriften",
     "chapters": [
@@ -8571,11 +8597,11 @@
     ]
   },
   {
-    "lemma": "Athenadas",
+    "lemma": "Athenadas 2",
     "previous": "Athanaios",
     "next": "Athenades",
     "proof_read": 3,
-    "short_description": "aus Sikyon, Lochage, wird bei der Belagerung von Kebren verwundet im J. 399,",
+    "short_description": "A. aus Thisbe",
     "chapters": [
       {
         "start": 176,
@@ -8586,7 +8612,7 @@
   },
   {
     "lemma": "Athenades",
-    "previous": "Athenadas",
+    "previous": "Athenadas 2",
     "next": "Athenades 1",
     "proof_read": 3,
     "short_description": "Person",
@@ -8968,7 +8994,7 @@
     "previous": "Atri",
     "next": "Attales",
     "proof_read": 3,
-    "short_description": "Töpfer von sog. belgischer Ware (in Trier?) in august. Zt.",
+    "short_description": "Töpfer von sog. belgischer Ware in Trier? in august. Zeit",
     "chapters": [
       {
         "start": 180,
@@ -10338,7 +10364,7 @@
   {
     "lemma": "Badenweiler",
     "previous": "Baden-Baden",
-    "next": "Baebius 51",
+    "next": "Baebius 5a",
     "proof_read": 3,
     "short_description": "dt. Badeort",
     "wp_link": "w:de:Badenweiler",
@@ -10353,8 +10379,11 @@
     ]
   },
   {
+    "lemma": "Baebius 5a",
+    "previous": "Badenweiler"
+  },
+  {
     "lemma": "Baebius 51",
-    "previous": "Badenweiler",
     "next": "Baebius 52",
     "proof_read": 3,
     "short_description": "wird in einem Codex als Verfasser einer Ilias Latina genannt, s. [5a])",
@@ -10387,7 +10416,6 @@
   {
     "lemma": "Baebius 53",
     "previous": "Baebius 52",
-    "next": "Bagacum",
     "proof_read": 3,
     "short_description": "s. 20a).",
     "chapters": [
@@ -10399,12 +10427,39 @@
     ]
   },
   {
+    "lemma": "Baebius 7a",
+    "next": "Baebius 20a",
+    "proof_read": 3,
+    "short_description": "Briefadressat des Hippiaters Apsyrtos Nr. 2",
+    "chapters": [
+      {
+        "start": 192,
+        "end": 192,
+        "author": "?"
+      }
+    ]
+  },
+  {
+    "lemma": "Baebius 20a",
+    "previous": "Baebius 7a",
+    "next": "Bagacum",
+    "proof_read": 3,
+    "short_description": "Q. B., Patron und Wohltäter der Stadt Tegea vor 146 v. Chr.",
+    "chapters": [
+      {
+        "start": 192,
+        "end": 192,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
     "lemma": "Bagacum",
-    "previous": "Baebius 53",
+    "previous": "Baebius 20a",
     "next": "Bagnères de Bigorre",
     "redirect": "Bavai, Bavay",
     "proof_read": 3,
-    "short_description": "Hauptstadt der gall. Nervier. = Bavai (Bavay)",
+    "short_description": "Hauptstadt der gallischen Nervier = Bavai (Bavay)",
     "wp_link": "w:de:Bavay",
     "wd_link": "d:Q477176",
     "chapters": [
@@ -11873,7 +11928,7 @@
     "lemma": "Blemyer",
     "previous": "Bitunus",
     "next": "Blondelia",
-    "short_description": "Aithiop. Nomadenvolk",
+    "short_description": "aithiopisches Nomadenvolk",
     "wp_link": "w:de:Blemmyer",
     "wd_link": "d:Q934374",
     "chapters": [
@@ -12066,7 +12121,7 @@
   {
     "lemma": "Boielis",
     "previous": "Boidas",
-    "next": "Boiskos 5",
+    "next": "Boiskos 1a",
     "proof_read": 3,
     "short_description": "Flurbezeichnung bei Veleia Nr. 2",
     "chapters": [
@@ -12079,6 +12134,18 @@
   },
   {
     "lemma": "Boiskos 5",
+    "proof_read": 3,
+    "short_description": "Lyriker",
+    "chapters": [
+      {
+        "start": 211,
+        "end": 211,
+        "author": "Kroll."
+      }
+    ]
+  },
+  {
+    "lemma": "Boiskos 1a",
     "previous": "Boielis",
     "next": "Bollendorf",
     "proof_read": 3,
@@ -12093,7 +12160,7 @@
   },
   {
     "lemma": "Bollendorf",
-    "previous": "Boiskos 5",
+    "previous": "Boiskos 1a",
     "next": "Bologna",
     "proof_read": 3,
     "short_description": "dt. Ort in der Eifel",
@@ -13894,8 +13961,9 @@
     "lemma": "Calus",
     "previous": "Calvisius 13",
     "next": "Calvus 4",
+    "sort_key": "Calvs",
     "proof_read": 3,
-    "short_description": "mittelgall. Sigillatatöpfer im 2. Jh. n. Chr.",
+    "short_description": "mittelgallischer Sigillatatöpfer 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 231,
@@ -14425,8 +14493,9 @@
     "lemma": "Caruces",
     "previous": "Cartoriana",
     "next": "Cascellius 1",
+    "sort_key": "Carvces",
     "proof_read": 3,
-    "short_description": "germ.(?) Volk, vgl. Finis Nr. 29",
+    "short_description": "germanisches? Volk",
     "chapters": [
       {
         "start": 236,
@@ -29511,7 +29580,7 @@
     "lemma": "Jülich",
     "previous": "Judenburg",
     "next": "Iuensianae figulinae",
-    "sort_key": "Iuelich",
+    "sort_key": "Iulich",
     "redirect": "Iuliacus",
     "proof_read": 3,
     "wp_link": "w:de:Jülich",
