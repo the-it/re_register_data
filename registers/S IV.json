@@ -2385,7 +2385,7 @@
   {
     "lemma": "Demophon 10",
     "previous": "Demonikos 2a",
-    "next": "Demosthenes 4a",
+    "next": "Demosthenes 3a",
     "proof_read": 3,
     "short_description": "Diener und Tafeldecker Alexanders d. Gr.",
     "no_creative_height": true,
@@ -2398,10 +2398,9 @@
     ]
   },
   {
-    "lemma": "Demosthenes 4a",
+    "lemma": "Demosthenes 3a",
     "previous": "Demophon 10",
     "next": "Denuntiatio",
-    "sort_key": "Demosthenes 04a",
     "proof_read": 3,
     "short_description": "Makedone, grammateus von Phillip V., verhandelt mit den Römern 198 v. Chr.",
     "no_creative_height": true,
@@ -2415,7 +2414,7 @@
   },
   {
     "lemma": "Denuntiatio",
-    "previous": "Demosthenes 4a",
+    "previous": "Demosthenes 3a",
     "next": "Derdas 4",
     "proof_read": 3,
     "short_description": "Juristisch: Mitteilung einer Tatsache, Absicht Drohung etc.",
@@ -4342,7 +4341,7 @@
   {
     "lemma": "Himeraios",
     "previous": "Hieronymos 8a",
-    "next": "Ἱππάρχης",
+    "next": "Hipparches 1",
     "short_description": "H. von Phaleron, Ankläger im Harpalos-Prozeß im J. 324 v. Chr., Sohn des",
     "chapters": [
       {
@@ -4352,12 +4351,11 @@
     ]
   },
   {
-    "lemma": "Ἱππάρχης",
+    "lemma": "Hipparches 1",
     "previous": "Himeraios",
     "next": "Ἱππεῖος",
-    "sort_key": "Hipparches",
     "proof_read": 2,
-    "short_description": "Eponymer Beamter in Kyzikos",
+    "short_description": "Hipparches, 1) Führer einer Hipparchia im ptolem. Aegypten, 2) Eponymer Beamte",
     "chapters": [
       {
         "start": 743,
@@ -4368,7 +4366,7 @@
   },
   {
     "lemma": "Ἱππεῖος",
-    "previous": "Ἱππάρχης",
+    "previous": "Hipparches 1",
     "next": "Hippias 4",
     "sort_key": "Hippeios",
     "proof_read": 3,
@@ -7642,6 +7640,7 @@
   {
     "lemma": "Κοτταεῖς",
     "previous": "Kotinna",
+    "next": "Κοτύλαιον 1",
     "sort_key": "Kottaeis",
     "proof_read": 2,
     "short_description": "Kottaeis, aitolischer Gau",
@@ -7656,6 +7655,8 @@
   },
   {
     "lemma": "Κοτύλαιον 1",
+    "previous": "Κοτταεῖς",
+    "next": "Kratennas",
     "chapters": [
       {
         "start": 1038,
@@ -7665,6 +7666,7 @@
   },
   {
     "lemma": "Kratennas",
+    "previous": "Κοτύλαιον 1",
     "next": "Krateros 1a",
     "proof_read": 3,
     "short_description": "vornehmer Makedone, Eidhelfer des Königs Perdikkas II. 423 v. Chr.",

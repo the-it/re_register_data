@@ -362,7 +362,7 @@
   {
     "lemma": "Afer a",
     "previous": "Aëtos 6",
-    "next": "Agatharchos 16",
+    "next": "Agatharchos 11a",
     "sort_key": "Afer 0a",
     "redirect": "Aphras",
     "proof_read": 3,
@@ -377,6 +377,21 @@
   },
   {
     "lemma": "Agatharchos 16",
+    "short_description": "Schauspieler, bekannt durch Inschrift aus Iasos 151 v. Chr.",
+    "chapters": [
+      {
+        "start": 6,
+        "end": 6,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Afer a",
+    "next": "Agatharchos 11a"
+  },
+  {
+    "lemma": "Agatharchos 11a",
     "previous": "Afer a",
     "next": "Agathemeros 1",
     "short_description": "Schauspieler, bekannt durch Inschrift aus Iasos 151 v. Chr.",
@@ -390,7 +405,7 @@
   },
   {
     "lemma": "Agathemeros 1",
-    "previous": "Agatharchos 16",
+    "previous": "Agatharchos 11a",
     "next": "Agathodoros 2",
     "proof_read": 3,
     "short_description": "Athener, Sohn des Pythokles, siegt als Schauspieler zu Thespiai 161 n. Chr.",
@@ -2706,7 +2721,7 @@
   {
     "lemma": "Aurelius 78a",
     "previous": "Aurelius 59a",
-    "next": "Aurelius 127a",
+    "next": "Aurelius 126a",
     "sort_key": "Aurelius 078a",
     "short_description": "M. Aurelios Kastor, Schauspieler 2. Jh. n. Chr.",
     "chapters": [
@@ -2718,7 +2733,7 @@
     ]
   },
   {
-    "lemma": "Aurelius 127a",
+    "lemma": "Aurelius 126a",
     "previous": "Aurelius 78a",
     "next": "Aurelius 183a",
     "proof_read": 3,
@@ -2734,7 +2749,7 @@
   },
   {
     "lemma": "Aurelius 183a",
-    "previous": "Aurelius 127a",
+    "previous": "Aurelius 126a",
     "next": "Aurelius 192aa",
     "proof_read": 3,
     "short_description": "L. A. Panniculus, Freigelassener des Pantomimus Apolaustus Memphius",
@@ -3175,7 +3190,7 @@
     "lemma": "Chirographum",
     "previous": "Charidemos 4a",
     "next": "Choraules",
-    "short_description": "Der eigenhändig ausgestellte Schuldschein.",
+    "short_description": "der eigenhändig ausgestellte Schuldschein",
     "chapters": [
       {
         "start": 126,
@@ -3502,10 +3517,10 @@
   {
     "lemma": "Damon 2a",
     "previous": "Damon 2",
-    "next": "Damon 3a",
+    "next": "Damon 2b",
     "sort_key": "Damon 02a",
     "proof_read": 3,
-    "short_description": "Schauspieler im 2. Jh. v. Chr., Sohn des Bion",
+    "short_description": "Schauspieler 2. Jh. v. Chr., Sohn des Bion",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3517,8 +3532,6 @@
   },
   {
     "lemma": "Damon 3a",
-    "previous": "Damon 2a",
-    "next": "Damon 11",
     "sort_key": "Damon 03a",
     "proof_read": 3,
     "short_description": "Athener 106 v. Chr., Sohn eines Eugeiton",
@@ -3532,11 +3545,27 @@
     ]
   },
   {
+    "lemma": "Damon 2b",
+    "previous": "Damon 2a",
+    "next": "Damon 11",
+    "sort_key": "Damon 03a",
+    "proof_read": 3,
+    "short_description": "Athener 106 v. Chr., Sohn des Eugeiton, Schauspieler in Argos / Umgebung",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 135,
+        "end": 135,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
     "lemma": "Damon 11",
-    "previous": "Damon 3a",
+    "previous": "Damon 2b",
     "next": "Damotimos 1",
     "proof_read": 3,
-    "short_description": "Schauspieler bei den Soteria zu Delphi im J. 256 v. Chr.",
+    "short_description": "Schauspieler bei den Soteria zu Delphi 256 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -3957,7 +3986,7 @@
   {
     "lemma": "Diodoros 23",
     "previous": "Diktys 5",
-    "next": "Diodoros 23b",
+    "next": "Diodoros 23a",
     "short_description": "Komödiendichter aus Sinope 286/5 v. Chr.",
     "wp_link": "w:it:Diodoro di Sinope",
     "wd_link": "d:Q11917227",
@@ -3970,9 +3999,22 @@
     ]
   },
   {
-    "lemma": "Diodoros 23b",
+    "lemma": "Diodoros 23a",
     "previous": "Diodoros 23",
     "next": "Diodoros 36",
+    "proof_read": 3,
+    "short_description": "Schauspieler bei den Dionysia zu Delos 284 v. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 139,
+        "end": 139,
+        "author": "Mario Bonaria."
+      }
+    ]
+  },
+  {
+    "lemma": "Diodoros 23b",
     "proof_read": 3,
     "short_description": "D. von Sinope, Komödiendichter im 3. Jh. v. Chr.",
     "no_creative_height": true,
@@ -3986,7 +4028,7 @@
   },
   {
     "lemma": "Diodoros 36",
-    "previous": "Diodoros 23b",
+    "previous": "Diodoros 23a",
     "next": "Diogeiton 2",
     "short_description": "Dichter der mittleren Komoedie an den Lenaeen 353 v. Chr.",
     "wp_link": "w:it:Diodoro di Sinope",
@@ -6472,7 +6514,7 @@
     "previous": "Kallimachos 9",
     "next": "Kallippos 12a",
     "proof_read": 2,
-    "short_description": "Berühmt-berüchtigter Schauspieler in Athen",
+    "short_description": "Athener, mehrfach siegreicher Schauspieler, berühmt und berüchtigt",
     "no_creative_height": true,
     "wp_link": "w:ca:Cal·lípides",
     "wd_link": "d:Q11910970",

@@ -8561,7 +8561,7 @@
   {
     "lemma": "Athanaios",
     "previous": "Athanadas 8",
-    "next": "Athenadas 2",
+    "next": "Athenadas 1",
     "proof_read": 3,
     "short_description": "aitolischer Monat in delphischen Inschriften",
     "chapters": [
@@ -8571,6 +8571,10 @@
         "author": "Oldfather."
       }
     ]
+  },
+  {
+    "lemma": "Athenadas 1",
+    "previous": "Athanaios"
   },
   {
     "lemma": "Athenadas 2",
@@ -10356,7 +10360,18 @@
   },
   {
     "lemma": "Baebius 5a",
-    "previous": "Badenweiler"
+    "previous": "Badenweiler",
+    "next": "Baebius 7a",
+    "proof_read": 3,
+    "short_description": "als Verfasser einer Ilias Latina genannt",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 192,
+        "end": 192,
+        "author": "Stähelin."
+      }
+    ]
   },
   {
     "lemma": "Baebius 51",
@@ -10404,6 +10419,7 @@
   },
   {
     "lemma": "Baebius 7a",
+    "previous": "Baebius 5a",
     "next": "Baebius 20a",
     "proof_read": 3,
     "short_description": "Briefadressat des Hippiaters Apsyrtos Nr. 2",
@@ -18761,7 +18777,7 @@
   {
     "lemma": "Demosion",
     "previous": "Demosiates",
-    "next": "Demosthenes 1a",
+    "next": "Demosthenes 4a",
     "proof_read": 3,
     "short_description": "Staatsgrundstück bei Smyrna, durchflossen vom Demosiates",
     "chapters": [
@@ -18774,6 +18790,19 @@
   },
   {
     "lemma": "Demosthenes 1a",
+    "sort_key": "Demosthenes 01a",
+    "proof_read": 3,
+    "short_description": "Priester des Asklepios zu Amphissa im 1. Jh. v. Chr.",
+    "chapters": [
+      {
+        "start": 333,
+        "end": 333,
+        "author": "Oldfather."
+      }
+    ]
+  },
+  {
+    "lemma": "Demosthenes 4a",
     "previous": "Demosion",
     "next": "Demosthenes 3a",
     "sort_key": "Demosthenes 01a",
@@ -18789,11 +18818,10 @@
   },
   {
     "lemma": "Demosthenes 3a",
-    "previous": "Demosthenes 1a",
+    "previous": "Demosthenes 4a",
     "next": "Demostratos 15",
-    "sort_key": "Demosthenes 03a",
     "proof_read": 3,
-    "short_description": "Grammateus Philippos’ V.",
+    "short_description": "Makedone, grammateus von Phillip V., verhandelt mit den Römern 198 v. Chr.",
     "chapters": [
       {
         "start": 333,
@@ -18937,6 +18965,7 @@
     "lemma": "Deuterius 2",
     "previous": "Detalla",
     "next": "Dexitheos 2",
+    "sort_key": "Devterius 2",
     "proof_read": 3,
     "short_description": "Grammatik- und Rhetoriklehrer in Mailand 498 n. Chr.",
     "chapters": [

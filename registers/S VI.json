@@ -236,7 +236,7 @@
   {
     "lemma": "Anaxilaos 5",
     "previous": "Alexandros 90a",
-    "next": "Androtion",
+    "next": "Androtion 2",
     "proof_read": 3,
     "short_description": "aus Larissa, Naturforscher und Pythagoreer 1. Jh. v. Chr.",
     "wp_link": "w:en:Anaxilaus",
@@ -251,8 +251,6 @@
   },
   {
     "lemma": "Androtion",
-    "previous": "Anaxilaos 5",
-    "next": "Anisa",
     "proof_read": 3,
     "short_description": "Sohn des Andron",
     "wp_link": "w:de:Androtion",
@@ -266,8 +264,22 @@
     ]
   },
   {
+    "lemma": "Androtion 2",
+    "previous": "Anaxilaos 5",
+    "next": "Anisa",
+    "proof_read": 3,
+    "short_description": "Landwirtschaftsschriftsteller im 4. Jh. v. Chr.",
+    "chapters": [
+      {
+        "start": 7,
+        "end": 7,
+        "author": "W. Kroll."
+      }
+    ]
+  },
+  {
     "lemma": "Anisa",
-    "previous": "Androtion",
+    "previous": "Androtion 2",
     "next": "Annius 26a",
     "proof_read": 3,
     "short_description": "Stadt von Kappadokien",
@@ -730,7 +742,7 @@
   {
     "lemma": "Atilius 45a",
     "previous": "Atidius 3",
-    "next": "Atilius 54a",
+    "next": "Atilius 54",
     "proof_read": 3,
     "short_description": "M. A. Postumus Bradua, Prokonsul der Provinz Asia unter Domitian",
     "chapters": [
@@ -742,11 +754,13 @@
     ]
   },
   {
-    "lemma": "Atilius 54a",
+    "lemma": "Atilius 54",
     "previous": "Atilius 45a",
     "next": "Aufidius 41",
     "proof_read": 3,
-    "short_description": "T. Atilius Rufus, Legat von Syrien",
+    "short_description": "Rufus, T. Statthalter von Pannonien 80 n. Chr., Legat von Syrien",
+    "wp_link": "w:de:Titus Atilius Rufus",
+    "wd_link": "d:Q19997995",
     "chapters": [
       {
         "start": 17,
@@ -757,7 +771,7 @@
   },
   {
     "lemma": "Aufidius 41",
-    "previous": "Atilius 54a",
+    "previous": "Atilius 54",
     "next": "Aufidius 44a",
     "proof_read": 3,
     "short_description": "Victorinus, C. cos. II ord. 183 n. Chr.",
@@ -803,7 +817,7 @@
   {
     "lemma": "Avidius 6",
     "previous": "Avidius 5",
-    "next": "Avidius 7a",
+    "next": "Avidius 7",
     "sort_key": "Avidius 06",
     "proof_read": 3,
     "short_description": "Nigrinus, C. Leg. aug. pr. pr. von Dacia oder Moesia superior",
@@ -818,8 +832,24 @@
     ]
   },
   {
-    "lemma": "Avidius 7a",
+    "lemma": "Avidius 7",
     "previous": "Avidius 6",
+    "next": "Aurelius 110",
+    "sort_key": "Avidius 07",
+    "proof_read": 3,
+    "short_description": "Quietus Proc. von Asia 125-126 n. Chr.",
+    "wp_link": "w:de:Titus Avidius Quietus (Konsul 111)",
+    "wd_link": "d:Q12296373",
+    "chapters": [
+      {
+        "start": 18,
+        "end": 18,
+        "author": "Groag."
+      }
+    ]
+  },
+  {
+    "lemma": "Avidius 7a",
     "next": "Aurelius 111a",
     "sort_key": "Avidius 07a",
     "proof_read": 3,
@@ -835,7 +865,6 @@
   {
     "lemma": "Aurelius 111a",
     "previous": "Avidius 7a",
-    "next": "Aurelius 140a",
     "proof_read": 3,
     "short_description": "M. Aurelius Cotta Maximus Messallinus, Proconsul von Asia",
     "chapters": [
@@ -847,8 +876,23 @@
     ]
   },
   {
+    "lemma": "Aurelius 110",
+    "next": "Aurelius 140a",
+    "proof_read": 3,
+    "short_description": "Cotta, M. cos. ord. 20 n. Chr.",
+    "wp_link": "w:en:Marcus Aurelius Cotta Maximus Messalinus",
+    "wd_link": "d:Q1216093",
+    "chapters": [
+      {
+        "start": 18,
+        "end": 18,
+        "author": "Groag."
+      }
+    ]
+  },
+  {
     "lemma": "Aurelius 140a",
-    "previous": "Aurelius 111a",
+    "previous": "Aurelius 110",
     "next": "Baebius 36",
     "proof_read": 3,
     "short_description": "L. A. Gallus, cos. ord. im J. 198 n. Chr.",
@@ -865,9 +909,9 @@
   {
     "lemma": "Baebius 36",
     "previous": "Aurelius 140a",
-    "next": "Bruttius 5a",
+    "next": "Bruttius 5",
     "proof_read": 3,
-    "short_description": "Baebius Marcellinus, Vater des Baebius Marcellinus",
+    "short_description": "Marcellinus Aedilis, 203 n. Chr. hingerichtet",
     "wp_link": "w:ca:Bebi Marcel·lí",
     "wd_link": "d:Q11908897",
     "chapters": [
@@ -879,12 +923,14 @@
     ]
   },
   {
-    "lemma": "Bruttius 5a",
+    "lemma": "Bruttius 5",
     "previous": "Baebius 36",
     "next": "Brutus 3",
-    "sort_key": "Bruttius 05a",
+    "sort_key": "Bruttius 05",
     "proof_read": 3,
-    "short_description": "C. Bruttius Praesens",
+    "short_description": "C. B. Praesens, cos. I suff. 119?, cos. II ord. 139 n. Chr.",
+    "wp_link": "w:de:Gaius Bruttius Praesens (Konsul 139)",
+    "wd_link": "d:Q1229431",
     "chapters": [
       {
         "start": 17,
@@ -895,10 +941,10 @@
   },
   {
     "lemma": "Brutus 3",
-    "previous": "Bruttius 5a",
+    "previous": "Bruttius 5",
     "next": "Butra",
     "proof_read": 3,
-    "short_description": "Ort in Moesia inf. = Abrytus",
+    "short_description": "Ort in Moesia inferior = Abrytus",
     "chapters": [
       {
         "start": 17,
@@ -1569,6 +1615,7 @@
     "lemma": "Cavaturini",
     "previous": "Caudalascus",
     "next": "Celelates",
+    "sort_key": "Cauaturini",
     "proof_read": 3,
     "short_description": "Dorf bei Genua",
     "no_creative_height": true,
@@ -1961,7 +2008,7 @@
   {
     "lemma": "Curtius 18",
     "previous": "Cossonius 3a",
-    "next": "Cuspius 3",
+    "next": "Cuspius 3.4",
     "proof_read": 3,
     "short_description": "C. C. Iustus, cos. suff. 156 n. Chr.?",
     "wp_link": "w:de:Gaius Curtius Iustus",
@@ -1975,11 +2022,13 @@
     ]
   },
   {
-    "lemma": "Cuspius 3",
+    "lemma": "Cuspius 3.4",
     "previous": "Curtius 18",
     "next": "Dardanos 11",
     "proof_read": 3,
-    "short_description": "Pactumeius Rufinus, L. aus Pergamon, hypatos",
+    "short_description": "L. (C.?) C. Pactumeius Rufinus, cos. ord. 142 n. Chr.",
+    "wp_link": "w:de:Lucius Cuspius Pactumeius Rufinus",
+    "wd_link": "d:Q643645",
     "chapters": [
       {
         "start": 25,
@@ -1990,7 +2039,7 @@
   },
   {
     "lemma": "Dardanos 11",
-    "previous": "Cuspius 3",
+    "previous": "Cuspius 3.4",
     "next": "Dasumius 1a",
     "proof_read": 2,
     "short_description": "Begründer der samothrak. Mysterien und der Magie = D. Nr. 3",

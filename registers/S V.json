@@ -746,7 +746,7 @@
   {
     "lemma": "Eukleides 8",
     "previous": "Epyaxa",
-    "next": "Eumenia",
+    "next": "Eumeneia 2",
     "sort_key": "Eukleides 8",
     "short_description": "Bildhauer in Athen, für Achaia tätig, 4. Jh. v. Chr.",
     "chapters": [
@@ -759,8 +759,6 @@
   },
   {
     "lemma": "Eumenia",
-    "previous": "Eukleides 8",
-    "next": "Eusebios 30a",
     "proof_read": 2,
     "short_description": "Stadt in Moesia inferior",
     "chapters": [
@@ -772,8 +770,23 @@
     ]
   },
   {
+    "lemma": "Eumeneia 2",
+    "previous": "Eukleides 8",
+    "next": "Eusebios 30a",
+    "sort_key": "Eumeneia 2",
+    "proof_read": 2,
+    "short_description": "Stadt an der Westküste des Pontos Euxeinos, heute Kastell von Dišpudak",
+    "chapters": [
+      {
+        "start": 221,
+        "end": 221,
+        "author": "Fluss."
+      }
+    ]
+  },
+  {
     "lemma": "Eusebios 30a",
-    "previous": "Eumenia",
+    "previous": "Eumeneia 2",
     "next": "Eusthenes",
     "sort_key": "Eusebios 30a",
     "short_description": "ionisierender Historiker Ende 3. Jh. n. Chr.",
@@ -806,7 +819,7 @@
   {
     "lemma": "Eutyches 7a",
     "previous": "Eusthenes",
-    "next": "Fabius 83a",
+    "next": "Flavius 83a",
     "sort_key": "Eutyches 7a",
     "proof_read": 2,
     "short_description": "griech. Bildhauer im 2. Jh. n. Chr.",
@@ -820,8 +833,25 @@
     ]
   },
   {
-    "lemma": "Fabius 83a",
+    "lemma": "Flavius 83a",
     "previous": "Eutyches 7a",
+    "next": "Forum Licini 1",
+    "proof_read": 2,
+    "short_description": "Lehrer in Nicomedien mit Lactantius zusammen, verfasst de medicinalibus",
+    "chapters": [
+      {
+        "start": 224,
+        "end": 224,
+        "author": "Hosius."
+      }
+    ]
+  },
+  {
+    "lemma": "Forum Licini 1",
+    "previous": "Flavius 83a"
+  },
+  {
+    "lemma": "Fabius 83a",
     "next": "Forum Licini 1",
     "proof_read": 2,
     "short_description": "Lehrer in Nicomedien mit Lactantius zusammen, verfasst de medicinalibus",
@@ -1398,10 +1428,10 @@
   {
     "lemma": "Kallikratidas 3",
     "previous": "Kallikles 6a",
-    "next": "Kallimachos 6",
+    "next": "Kallimachos 5a",
     "sort_key": "Kallikratidas 3",
     "proof_read": 2,
-    "short_description": "von Kyrene, erobert Magnesia am Sipylos mit Kriegslist im 3. Jh. v. Chr.",
+    "short_description": "von Kyrene, erobert Magnesia am Sipylos mit Kriegslist 3. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1412,8 +1442,25 @@
     ]
   },
   {
-    "lemma": "Kallimachos 6",
+    "lemma": "Kallimachos 5a",
     "previous": "Kallikratidas 3",
+    "next": "Kambaioi",
+    "proof_read": 2,
+    "short_description": "Kallimachos der Jüngere von Kyrene, alexandrinischer Dichter",
+    "no_creative_height": true,
+    "wp_link": "w:de:Kallimachos",
+    "ws_link": "s:en:Author:Callimachus",
+    "wd_link": "d:Q192417",
+    "chapters": [
+      {
+        "start": 386,
+        "end": 386,
+        "author": "H. Herter."
+      }
+    ]
+  },
+  {
+    "lemma": "Kallimachos 6",
     "next": "Kambaioi",
     "sort_key": "Kallimachos 6",
     "proof_read": 2,

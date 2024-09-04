@@ -982,6 +982,7 @@
     "lemma": "Cavarillus",
     "previous": "Casticus",
     "next": "Ceionius 30a",
+    "sort_key": "Cauarillus",
     "short_description": "vornehmer Aeduer, 52 v. Chr. gefangen und zu Caesar gebracht",
     "chapters": [
       {
@@ -994,7 +995,7 @@
   {
     "lemma": "Ceionius 30a",
     "previous": "Cavarillus",
-    "next": "Celsianus (inschr.",
+    "next": "Celsianus",
     "short_description": "Publilius C. Caecina Verus, curator alvei Tiberis et cloacarum 317-324 n. Chr.",
     "chapters": [
       {
@@ -1006,8 +1007,6 @@
   },
   {
     "lemma": "Celsianus (inschr.",
-    "previous": "Ceionius 30a",
-    "next": "Centaretus",
     "proof_read": 3,
     "short_description": "[---]Ilius C. aus Tarraco, proc. Aug",
     "no_creative_height": true,
@@ -1020,8 +1019,23 @@
     ]
   },
   {
+    "lemma": "Celsianus",
+    "previous": "Ceionius 30a",
+    "next": "Centaretus",
+    "proof_read": 3,
+    "short_description": "C. aus Tarraco, proc. Aug.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 88,
+        "end": 88,
+        "author": "Werner Eck."
+      }
+    ]
+  },
+  {
     "lemma": "Centaretus",
-    "previous": "Celsianus (inschr.",
+    "previous": "Celsianus",
     "next": "Chione 10",
     "proof_read": 3,
     "short_description": "Galater 3. Jh. v. Chr. mit dem Pferd des gefallenen Antiochos I. Soter",

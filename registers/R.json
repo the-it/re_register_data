@@ -6038,7 +6038,7 @@
     "previous": "Agatharchides 3",
     "next": "Agatharchos 14a",
     "proof_read": 3,
-    "short_description": "Schauspieler um 250 v. Chr.",
+    "short_description": "Schauspieler, bekannt durch Inschrift aus Iasos 151 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -6066,7 +6066,7 @@
   {
     "lemma": "Agatharchos 14b",
     "previous": "Agatharchos 14a",
-    "next": "Agatharchos 16",
+    "next": "Agathemeros 1",
     "proof_read": 3,
     "short_description": "Erzgießer, bekannt aus Statuen in Ephesos",
     "no_creative_height": true,
@@ -6080,8 +6080,6 @@
   },
   {
     "lemma": "Agatharchos 16",
-    "previous": "Agatharchos 14b",
-    "next": "Agathemeros 1",
     "proof_read": 3,
     "short_description": "Schauspieler, bekannt durch Inschrift aus Iasos 151 v. Chr.",
     "no_creative_height": true,
@@ -6095,7 +6093,7 @@
   },
   {
     "lemma": "Agathemeros 1",
-    "previous": "Agatharchos 16",
+    "previous": "Agatharchos 14b",
     "next": "Agathenor",
     "proof_read": 3,
     "short_description": "Athener, Sohn des Pythokles, siegt als Schauspieler zu Thespiai 161 n. Chr.",
@@ -40698,9 +40696,9 @@
   {
     "lemma": "Atilius 54",
     "previous": "Atilius 45a",
-    "next": "Atilius 54a",
+    "next": "Atilius 54",
     "proof_read": 3,
-    "short_description": "Rufus, T. Statthalter von Pannonien 80 n. Chr.",
+    "short_description": "Rufus, T. Statthalter von Pannonien 80 n. Chr., Legat von Syrien",
     "no_creative_height": true,
     "wp_link": "w:de:Titus Atilius Rufus",
     "wd_link": "d:Q19997995",
@@ -40714,8 +40712,6 @@
   },
   {
     "lemma": "Atilius 54a",
-    "previous": "Atilius 54",
-    "next": "Atilius 74",
     "proof_read": 3,
     "short_description": "T. Atilius Rufus, Legat von Syrien",
     "no_creative_height": true,
@@ -40729,7 +40725,7 @@
   },
   {
     "lemma": "Atilius 74",
-    "previous": "Atilius 54a",
+    "previous": "Atilius 54",
     "next": "Atima",
     "proof_read": 3,
     "short_description": "Severus, M. cos. suff. 182-183 n. Chr.",
@@ -43003,7 +42999,7 @@
   {
     "lemma": "Avidius 7",
     "previous": "Avidius 6",
-    "next": "Avidius 7a",
+    "next": "Avidius 8",
     "sort_key": "Avidius 07",
     "proof_read": 3,
     "short_description": "Quietus Proc. von Asia 125-126 n. Chr.",
@@ -43020,8 +43016,6 @@
   },
   {
     "lemma": "Avidius 7a",
-    "previous": "Avidius 7",
-    "next": "Avidius 8",
     "sort_key": "Avidius 07a",
     "proof_read": 3,
     "short_description": "T. Avidius Quietus, Consul suffectus 111 n. Chr.",
@@ -43036,7 +43030,7 @@
   },
   {
     "lemma": "Avidius 8",
-    "previous": "Avidius 7a",
+    "previous": "Avidius 7",
     "next": "Avidius 9a",
     "sort_key": "Avidius 08",
     "proof_read": 3,
@@ -44166,7 +44160,7 @@
   {
     "lemma": "Aurelius 110",
     "previous": "Aurelius 107",
-    "next": "Aurelius 123a",
+    "next": "Aurelius 123",
     "proof_read": 3,
     "short_description": "Cotta, M. cos. ord. 20 n. Chr.",
     "no_creative_height": true,
@@ -44179,6 +44173,10 @@
         "author": "Hans Gärtner."
       }
     ]
+  },
+  {
+    "lemma": "Aurelius 123",
+    "previous": "Aurelius 110"
   },
   {
     "lemma": "Aurelius 123a",
@@ -44201,6 +44199,7 @@
     "next": "Aurelius 127a",
     "redirect": "Aemilius 164a",
     "proof_read": 3,
+    "short_description": "Eutyches A., Schauspieler, Gatte der Aemilia Nr. 164a Irene",
     "chapters": [
       {
         "start": 57,
@@ -44214,7 +44213,6 @@
     "next": "Aurelius 127b",
     "redirect": "Aurelius 145a",
     "proof_read": 3,
-    "short_description": "Eutyches A., Schauspieler, Gatte der Aemilia Nr. 164a Irene",
     "chapters": [
       {
         "start": 57,
@@ -45009,8 +45007,9 @@
     "previous": "Aurelius 231",
     "next": "Aurelius 232a",
     "sort_key": "Aurelius 232a0",
-    "redirect": true,
+    "redirect": "Aurelius 231",
     "proof_read": 3,
+    "short_description": "A. Valentinus, v. e.",
     "chapters": [
       {
         "start": 58,
@@ -53761,10 +53760,10 @@
   {
     "lemma": "Bruttius 5",
     "previous": "Bruttius 4a",
-    "next": "Bruttius 5a",
+    "next": "Bruttius 5",
     "sort_key": "Bruttius 05",
     "proof_read": 3,
-    "short_description": "C. B. Praesens, cos. I suff. (im J. 119?), cos. II ord. im J. 139 n. Chr.",
+    "short_description": "C. B. Praesens, cos. I suff. 119?, cos. II ord. 139 n. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Gaius Bruttius Praesens (Konsul 139)",
     "wd_link": "d:Q1229431",
@@ -53778,8 +53777,6 @@
   },
   {
     "lemma": "Bruttius 5a",
-    "previous": "Bruttius 5",
-    "next": "Bruttius 6",
     "sort_key": "Bruttius 05a",
     "proof_read": 3,
     "short_description": "C. Bruttius Praesens",
@@ -53794,11 +53791,11 @@
   },
   {
     "lemma": "Bruttius 6",
-    "previous": "Bruttius 5a",
+    "previous": "Bruttius 5",
     "next": "Bruttius 7",
     "sort_key": "Bruttius 06",
     "proof_read": 3,
-    "short_description": "C. B. Praesens, cos. I ord. im J. 153, cos. II ord. im J. 180 n. Chr.",
+    "short_description": "C. B. Praesens, cos. I ord. 153, cos. II ord. 180 n. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Gaius Bruttius Praesens (Konsul 153)",
     "wd_link": "d:Q709817",
@@ -53865,7 +53862,7 @@
     "previous": "Bruttius 11",
     "next": "Bruv....",
     "proof_read": 3,
-    "short_description": "Ort in Moesia inf. = Abrytus",
+    "short_description": "Ort in Moesia inferior = Abrytus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -60809,6 +60806,7 @@
     "lemma": "Cavarillus",
     "previous": "Catussus",
     "next": "Cavaturini",
+    "sort_key": "Cauarillus",
     "proof_read": 3,
     "short_description": "vornehmer Aeduer, 52 v. Chr. gefangen und zu Caesar gebracht",
     "no_creative_height": true,
@@ -60824,6 +60822,7 @@
     "lemma": "Cavaturini",
     "previous": "Cavarillus",
     "next": "Caudalascus",
+    "sort_key": "Cauaturini",
     "proof_read": 3,
     "short_description": "Dorf bei Genua",
     "no_creative_height": true,
@@ -63001,7 +63000,7 @@
   {
     "lemma": "Cheirogastores",
     "previous": "Χειριστής",
-    "next": "Cheirographon",
+    "next": "Chirographum",
     "proof_read": 3,
     "short_description": "myth. Wesen",
     "no_creative_height": true,
@@ -63015,8 +63014,6 @@
   },
   {
     "lemma": "Cheirographon",
-    "previous": "Cheirogastores",
-    "next": "Χειροτέχνιον",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -63028,12 +63025,27 @@
     ]
   },
   {
-    "lemma": "Χειροτέχνιον",
-    "previous": "Cheirographon",
-    "next": "Chelidon 2",
-    "sort_key": "Cheirotechnion, die Gewerbesteuer (?)",
+    "lemma": "Chirographum",
+    "previous": "Cheirogastores",
+    "next": "Χειροτέχνιον",
     "proof_read": 3,
-    "short_description": "Cheirotechnion",
+    "short_description": "der eigenhändig ausgestellte Schuldschein",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 82,
+        "end": 82,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Χειροτέχνιον",
+    "previous": "Chirographum",
+    "next": "Chelidon 2",
+    "sort_key": "Cheirotechnion",
+    "proof_read": 3,
+    "short_description": "Cheirotechnion, die Gewerbesteuer?",
     "no_creative_height": true,
     "chapters": [
       {
@@ -66207,7 +66219,7 @@
   {
     "lemma": "Claudius 353",
     "previous": "Claudius 350",
-    "next": "Claudius 354",
+    "next": "Claudius 354a",
     "proof_read": 3,
     "short_description": "Cl. Sollemnius Pacatianus, leg. Aug. pr. pr. der Provinz Arabia",
     "no_creative_height": true,
@@ -66221,8 +66233,6 @@
   },
   {
     "lemma": "Claudius 354",
-    "previous": "Claudius 353",
-    "next": "Claudius 357",
     "proof_read": 3,
     "short_description": "Sospis, Tib. s. Sospis",
     "no_creative_height": true,
@@ -66235,8 +66245,25 @@
     ]
   },
   {
+    "lemma": "Claudius 354a",
+    "previous": "Claudius 353",
+    "next": "Claudius 357",
+    "proof_read": 3,
+    "short_description": "Tiberius Claudius Soter, römischer Maler",
+    "no_creative_height": true,
+    "wp_link": "w:de:Tiberius Claudius Soter",
+    "wd_link": "d:Q11929397",
+    "chapters": [
+      {
+        "start": 86,
+        "end": 86,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
     "lemma": "Claudius 357",
-    "previous": "Claudius 354",
+    "previous": "Claudius 354a",
     "next": "Claudius 369a",
     "proof_read": 3,
     "short_description": "Cl. Stratonicus, cos. (suff.) unter Septimius Severus?",
@@ -67909,7 +67936,7 @@
   {
     "lemma": "Cominius 22",
     "previous": "Cominius 10",
-    "next": "Cominius 26",
+    "next": "Cominius 2b",
     "proof_read": 3,
     "short_description": "C. Secundus, Statthalter der Provinz Pannonia inferior 150 n. Chr.",
     "no_creative_height": true,
@@ -67925,8 +67952,6 @@
   },
   {
     "lemma": "Cominius 26",
-    "previous": "Cominius 22",
-    "next": "Comisillus",
     "proof_read": 3,
     "short_description": "Cominia L. fil. Vipsania Dignitas",
     "no_creative_height": true,
@@ -67939,8 +67964,23 @@
     ]
   },
   {
+    "lemma": "Cominius 2b",
+    "previous": "Cominius 22",
+    "next": "Comisillus",
+    "proof_read": 3,
+    "short_description": "Cos. suff. unter Vespasian",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 88,
+        "end": 88,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
     "lemma": "Comisillus",
-    "previous": "Cominius 26",
+    "previous": "Cominius 2b",
     "next": "Comitialis",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer in Trier 2. Jh. n. Chr.",
@@ -71508,7 +71548,9 @@
     "next": "Custidius",
     "redirect": true,
     "proof_read": 3,
-    "short_description": "L. (C.?) C. Pactumeius Rufinus, cos. ord. im J. 142 n. Chr.",
+    "short_description": "L. (C.?) C. Pactumeius Rufinus, cos. ord. 142 n. Chr.",
+    "wp_link": "w:de:Lucius Cuspius Pactumeius Rufinus",
+    "wd_link": "d:Q643645",
     "chapters": [
       {
         "start": 92,
@@ -72561,7 +72603,7 @@
     "next": "Damon 2b",
     "sort_key": "Damon 02a",
     "proof_read": 3,
-    "short_description": "Schauspieler im 2. Jh. v. Chr., Sohn des Bion",
+    "short_description": "Schauspieler 2. Jh. v. Chr., Sohn des Bion",
     "no_creative_height": true,
     "chapters": [
       {
@@ -72575,8 +72617,10 @@
     "lemma": "Damon 2b",
     "previous": "Damon 2a",
     "next": "Damon 2c",
+    "sort_key": "Damon 03a",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "Athener 106 v. Chr., Sohn des Eugeiton, Schauspieler in Argos / Umgebung",
     "chapters": [
       {
         "start": 94,
@@ -72587,7 +72631,7 @@
   {
     "lemma": "Damon 2c",
     "previous": "Damon 2b",
-    "next": "Damon 3a",
+    "next": "Damon 7",
     "proof_read": 3,
     "short_description": "Priester des Asklepios zu Amphissa 143/2 v. Chr.",
     "no_creative_height": true,
@@ -72601,8 +72645,6 @@
   },
   {
     "lemma": "Damon 3a",
-    "previous": "Damon 2c",
-    "next": "Damon 7",
     "sort_key": "Damon 03a",
     "proof_read": 3,
     "short_description": "Athener 106 v. Chr., Sohn eines Eugeiton",
@@ -72617,11 +72659,11 @@
   },
   {
     "lemma": "Damon 7",
-    "previous": "Damon 3a",
+    "previous": "Damon 2b",
     "next": "Damon 8",
     "sort_key": "Damon 07",
     "proof_read": 3,
-    "short_description": "Delph. Priester 56-50 v. Chr., Sohn des Agathon",
+    "short_description": "delphischer Priester 56-50 v. Chr., Sohn des Agathon",
     "no_creative_height": true,
     "chapters": [
       {
@@ -72700,7 +72742,7 @@
     "previous": "Damon 9",
     "next": "Damon 15a",
     "proof_read": 3,
-    "short_description": "Schauspieler bei den Soteria zu Delphi im J. 256 v. Chr.",
+    "short_description": "Schauspieler bei den Soteria zu Delphi 256 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -75174,7 +75216,7 @@
   {
     "lemma": "δημοσίωσις",
     "previous": "Demosion",
-    "next": "Demosthenes 1a",
+    "next": "Demosthenes 4a",
     "sort_key": "demosiosis",
     "proof_read": 3,
     "short_description": "Demosiosis, die Verlautbarung, vgl. Cheirographon",
@@ -75189,8 +75231,6 @@
   },
   {
     "lemma": "Demosthenes 1a",
-    "previous": "δημοσίωσις",
-    "next": "Demosthenes 3a",
     "sort_key": "Demosthenes 01a",
     "proof_read": 3,
     "short_description": "Priester des Asklepios zu Amphissa im 1. Jh. v. Chr.",
@@ -75205,11 +75245,10 @@
   },
   {
     "lemma": "Demosthenes 3a",
-    "previous": "Demosthenes 1a",
+    "previous": "Demosthenes 4a",
     "next": "Demosthenes 4a",
-    "sort_key": "Demosthenes 03a",
     "proof_read": 3,
-    "short_description": "Grammateus Philippos’ V.",
+    "short_description": "Makedone, grammateus von Phillip V., verhandelt mit den Römern 198 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -75223,9 +75262,9 @@
     "lemma": "Demosthenes 4a",
     "previous": "Demosthenes 3a",
     "next": "Demosthenes 16",
-    "sort_key": "Demosthenes 04a",
+    "sort_key": "Demosthenes 01a",
     "proof_read": 3,
-    "short_description": "Makedone, grammateus von Phillip V., verhandelt mit den Römern 198 v. Chr.",
+    "short_description": "Priester des Asklepios zu Amphissa im 1. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -75344,7 +75383,7 @@
   {
     "lemma": "Dento 2",
     "previous": "Dento 1",
-    "next": "Denuntiato",
+    "next": "Denuntiatio",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -75356,8 +75395,6 @@
   },
   {
     "lemma": "Denuntiato",
-    "previous": "Dento 2",
-    "next": "Deobrigula",
     "redirect": "Litis denuntiatio",
     "proof_read": 3,
     "chapters": [
@@ -75368,8 +75405,22 @@
     ]
   },
   {
+    "lemma": "Denuntiatio",
+    "previous": "Dento 2",
+    "next": "Deobrigula",
+    "redirect": "Litis denuntiatio",
+    "proof_read": 3,
+    "short_description": "Juristisch: Mitteilung einer Tatsache, Absicht Drohung etc.",
+    "chapters": [
+      {
+        "start": 97,
+        "end": 97
+      }
+    ]
+  },
+  {
     "lemma": "Deobrigula",
-    "previous": "Denuntiato",
+    "previous": "Denuntiatio",
     "next": "Deraia",
     "proof_read": 3,
     "short_description": "Station an der Straße Asturica - Tarraco",
@@ -75569,6 +75620,7 @@
     "lemma": "Deuterius 2",
     "previous": "Detalla",
     "next": "Dexandros 2",
+    "sort_key": "Devterius 2",
     "proof_read": 3,
     "short_description": "Grammatik- und Rhetoriklehrer in Mailand 498 n. Chr.",
     "no_creative_height": true,
@@ -76412,7 +76464,7 @@
   {
     "lemma": "Diodoros 23a",
     "previous": "Diodoros 23",
-    "next": "Diodoros 23b",
+    "next": "Diodoros 36",
     "redirect": true,
     "proof_read": 3,
     "short_description": "Schauspieler bei den Dionysia zu Delos 284 v. Chr.",
@@ -76425,8 +76477,6 @@
   },
   {
     "lemma": "Diodoros 23b",
-    "previous": "Diodoros 23a",
-    "next": "Diodoros 36",
     "proof_read": 3,
     "short_description": "D. von Sinope, Komödiendichter im 3. Jh. v. Chr.",
     "no_creative_height": true,
@@ -76440,7 +76490,7 @@
   },
   {
     "lemma": "Diodoros 36",
-    "previous": "Diodoros 23b",
+    "previous": "Diodoros 23a",
     "next": "Diodoros 38",
     "proof_read": 3,
     "short_description": "Dichter der mittleren Komoedie an den Lenaeen 353 v. Chr.",
@@ -86462,7 +86512,7 @@
     "previous": "Flavius 82",
     "next": "Flavius 83b",
     "proof_read": 3,
-    "short_description": "Verfasser eines medizinischen Lehrgedichts",
+    "short_description": "Lehrer in Nicomedien mit Lactantius zusammen, verfasst de medicinalibus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -97394,7 +97444,7 @@
   {
     "lemma": "Hippalos 3",
     "previous": "Himilkon 8",
-    "next": "Ἱππάρχης",
+    "next": "Hipparches 1",
     "proof_read": 3,
     "short_description": "griech. Seefahrer",
     "no_creative_height": true,
@@ -97410,7 +97460,6 @@
   },
   {
     "lemma": "Ἱππάρχης",
-    "previous": "Hippalos 3",
     "next": "Hipparches 1",
     "sort_key": "Hipparches",
     "proof_read": 3,
@@ -97430,6 +97479,7 @@
     "next": "Hipparches 2",
     "redirect": "Hipparchia 2",
     "proof_read": 3,
+    "short_description": "Hipparches, 1) Führer einer Hipparchia im ptolem. Aegypten, 2) Eponymer Beamte",
     "chapters": [
       {
         "start": 126,
@@ -97441,7 +97491,7 @@
     "lemma": "Hipparches 2",
     "previous": "Hipparches 1",
     "next": "Hipparchos 12a",
-    "redirect": "Ἱππάρχης",
+    "redirect": "Hipparches 1",
     "proof_read": 3,
     "chapters": [
       {
@@ -99344,7 +99394,7 @@
     "previous": "Hyperanthes 2",
     "next": "Hyperbolos 2",
     "proof_read": 3,
-    "short_description": "Athen. Demagoge in der 2. H. des 5. Jh. v. Chr s. 2)",
+    "short_description": "athen. Demagoge 5. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -104238,6 +104288,7 @@
     "next": "Isthmos 1",
     "redirect": "Issa 3",
     "proof_read": 3,
+    "short_description": "Stadt auf Issa Nr. 3",
     "chapters": [
       {
         "start": 135,
@@ -108261,7 +108312,7 @@
     "next": "Kallikritos 2",
     "sort_key": "Kallikratidas 3",
     "proof_read": 3,
-    "short_description": "von Kyrene, erobert Magnesia am Sipylos mit Kriegslist im 3. Jh. v. Chr.",
+    "short_description": "von Kyrene, erobert Magnesia am Sipylos mit Kriegslist 3. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -108335,9 +108386,8 @@
     "lemma": "Kallimachos 5a",
     "previous": "Kallimachos 3b",
     "next": "Kallimachos 6",
-    "sort_key": "Kallimachos 5a",
     "proof_read": 3,
-    "short_description": "Kallimachos von Kyrene, alexandrinischer Dichter",
+    "short_description": "Kallimachos der Jüngere von Kyrene, alexandrinischer Dichter",
     "no_creative_height": true,
     "wp_link": "w:de:Kallimachos",
     "ws_link": "s:en:Author:Callimachus",
@@ -108354,9 +108404,7 @@
     "lemma": "Kallimachos 6",
     "previous": "Kallimachos 5a",
     "next": "Kallimachos 7a",
-    "sort_key": "Kallimachos 6",
     "proof_read": 3,
-    "short_description": "Kallimachos der Jüngere von Kyrene, Dichter",
     "no_creative_height": true,
     "chapters": [
       {
@@ -108559,7 +108607,7 @@
   {
     "lemma": "Kallipolis 7b",
     "previous": "Kallipolis 7a",
-    "next": "Kallippides 2",
+    "next": "Kallipides 2",
     "redirect": "Pontos Euxeinos",
     "proof_read": 3,
     "chapters": [
@@ -108570,9 +108618,24 @@
     ]
   },
   {
-    "lemma": "Kallippides 2",
+    "lemma": "Kallipides 2",
     "previous": "Kallipolis 7b",
     "next": "Kallippio",
+    "proof_read": 3,
+    "short_description": "Athener, mehrfach siegreicher Schauspieler, berühmt und berüchtigt",
+    "no_creative_height": true,
+    "wp_link": "w:ca:Cal·lípides",
+    "wd_link": "d:Q11910970",
+    "chapters": [
+      {
+        "start": 141,
+        "end": 141,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Kallippides 2",
     "proof_read": 3,
     "short_description": "Athener, mehrfach siegreicher Schauspieler",
     "no_creative_height": true,
@@ -108586,7 +108649,7 @@
   },
   {
     "lemma": "Kallippio",
-    "previous": "Kallippides 2",
+    "previous": "Kallipides 2",
     "next": "Kallippos 12a",
     "proof_read": 3,
     "short_description": "Iulius Callippio, Onkel des Dichters Ausonius",
@@ -141526,7 +141589,7 @@
     "previous": "Philonikos 1a",
     "next": "Philostephanos 6a",
     "proof_read": 3,
-    "short_description": "athen. Schauspieler in Delphi um 97 v. Chr., Sohn des Hermon",
+    "short_description": "Dichter 4. Jh. v. Chr., Sohn des Philokrates",
     "no_creative_height": true,
     "chapters": [
       {
@@ -150968,7 +151031,7 @@
     "previous": "Sadduzäer",
     "next": "Saenianae",
     "proof_read": 3,
-    "short_description": "keltisches Volk in Spanien",
+    "short_description": "Sefes, ein keltischer Stamm in Spanien",
     "no_creative_height": true,
     "chapters": [
       {
@@ -152166,7 +152229,7 @@
     "previous": "Satorquadrat",
     "next": "Satrienus 1a",
     "proof_read": 3,
-    "short_description": "XV. Satrapes als Gottesname",
+    "short_description": "und Satrapie: Statthalter bzw. Verwaltungsbezirk im Persischen Reich",
     "no_creative_height": true,
     "chapters": [
       {
@@ -152595,8 +152658,9 @@
     "lemma": "Savo fluvio",
     "previous": "Sauria",
     "next": "Saxanus",
+    "sort_key": "Sauo fluvio",
     "proof_read": 3,
-    "short_description": "Poststation und Flußhafen an der Straße Emona - Celeia",
+    "short_description": "Poststation und Flußhafen an der Straße Emona – Celeia",
     "no_creative_height": true,
     "chapters": [
       {
@@ -168897,6 +168961,7 @@
     "next": "Uliades 3",
     "sort_key": "Vliades 02",
     "proof_read": 3,
+    "short_description": "genannt im 5. Brief des Ps.-Aischines",
     "no_creative_height": true,
     "chapters": [
       {
@@ -172531,9 +172596,13 @@
     "lemma": "Volusius 19",
     "previous": "Volusius 18",
     "next": "Volusius 20",
+    "proof_read": 3,
+    "short_description": "L. V. Saturninus, cos. ord. 87 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172542,9 +172611,13 @@
     "lemma": "Volusius 20",
     "previous": "Volusius 19",
     "next": "Volusius 21",
+    "proof_read": 3,
+    "short_description": "Q. V. Saturninus, cos. ord. 56 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172553,9 +172626,13 @@
     "lemma": "Volusius 21",
     "previous": "Volusius 20",
     "next": "Volusius 21a",
+    "proof_read": 3,
+    "short_description": "Q. V. Saturninus, cos. ord. im J. 92 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172579,9 +172656,13 @@
     "lemma": "Volusius 22",
     "previous": "Volusius 21a",
     "next": "Volusius 23",
+    "proof_read": 3,
+    "short_description": "(L.) V. Torquatus, cos. suff. in hadrian. Zeit, Nachkomme des Q. V. Nr. 20",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172601,9 +172682,13 @@
     "lemma": "Volusius 24",
     "previous": "Volusius 23",
     "next": "Volusius 25",
+    "proof_read": 3,
+    "short_description": "Volussia Laodice, Gattin des Q. Tineius Sacerdos Clemens",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172612,9 +172697,13 @@
     "lemma": "Volusius 25",
     "previous": "Volusius 24",
     "next": "Volusius 26",
+    "proof_read": 3,
+    "short_description": "Aurelia Volussia Quirinia Atossa, aus senatorischem Geschlecht",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172623,9 +172712,13 @@
     "lemma": "Volusius 26",
     "previous": "Volusius 25",
     "next": "Volusius 27",
+    "proof_read": 3,
+    "short_description": "Volussia Torquata, Tochter des Q. V. Nr. 20 Saturninus?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172634,9 +172727,13 @@
     "lemma": "Volusius 27",
     "previous": "Volusius 26",
     "next": "Vomanius",
+    "proof_read": 3,
+    "short_description": "Licinia Cornelia Volusia Torquata, Gattin des L. V. Torquatus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172750,9 +172847,14 @@
     "lemma": "Uranios 1a",
     "previous": "votum",
     "next": "Uranios 1b",
+    "sort_key": "Vranios 1a",
+    "proof_read": 3,
+    "short_description": "Uranius Antoninus, Fürst von Emesa, Gegenkaiser des Elagabal",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172761,9 +172863,14 @@
     "lemma": "Uranios 1b",
     "previous": "Uranios 1a",
     "next": "Uranios 4",
+    "sort_key": "Vranios 1b",
+    "proof_read": 3,
+    "short_description": "L. Iulius Aurelius Sulpicius Uranius Antoninus, Fürst von Emesa",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172771,17 +172878,21 @@
   {
     "lemma": "Uranios 4",
     "previous": "Uranios 1b",
-    "next": "Urbanae cohortes",
+    "next": "Uranios 1a",
+    "sort_key": "Vranios 4",
+    "proof_read": 3,
+    "short_description": "Geograph, Schriftsteller um die Zeitenwende?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Urbanae cohortes",
-    "previous": "Uranios 4",
     "next": "Urbinius 2",
     "sort_key": "Vrbanae cohortes",
     "proof_read": 3,
@@ -172861,9 +172972,14 @@
     "lemma": "Ursicinus 6",
     "previous": "Urin",
     "next": "Ursicinus 7",
+    "sort_key": "Vrsicinus 6",
+    "proof_read": 3,
+    "short_description": "Vicarius urbis Romae 4. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172872,9 +172988,14 @@
     "lemma": "Ursicinus 7",
     "previous": "Ursicinus 6",
     "next": "Ursicinus 8",
+    "sort_key": "Vrsicinus 7",
+    "proof_read": 3,
+    "short_description": "Comes rerum privatarum 405 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172883,9 +173004,14 @@
     "lemma": "Ursicinus 8",
     "previous": "Ursicinus 7",
     "next": "Ursicinus 9",
+    "sort_key": "Vrsicinus 8",
+    "proof_read": 3,
+    "short_description": "U. von Sibentum, Märtyrer in diokletian. Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172910,9 +173036,14 @@
     "lemma": "Ursicinus 10",
     "previous": "Ursicinus 9",
     "next": "Ursicinus 11",
+    "sort_key": "Vrsicinus 10",
+    "proof_read": 3,
+    "short_description": "Bischof von Pavia 5. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172921,9 +173052,14 @@
     "lemma": "Ursicinus 11",
     "previous": "Ursicinus 10",
     "next": "Ursidius",
+    "sort_key": "Vrsicinus 11",
+    "proof_read": 3,
+    "short_description": "Erzbischof von Ravenna 533–536 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172980,9 +173116,14 @@
     "lemma": "Ursus 1a",
     "previous": "Ursulus 2",
     "next": "Ursus 1b",
+    "sort_key": "Vrsus 1a",
+    "proof_read": 3,
+    "short_description": "Pantomimus ›togatus‹ 2. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -172991,9 +173132,14 @@
     "lemma": "Ursus 1b",
     "previous": "Ursus 1a",
     "next": "Ursus 3",
+    "sort_key": "Vrsus 1b",
+    "proof_read": 3,
+    "short_description": "U. aus Cirta, kaiserzeitlicher Schauspieler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -173002,9 +173148,14 @@
     "lemma": "Ursus 3",
     "previous": "Ursus 1b",
     "next": "Ursus 4",
+    "sort_key": "Vrsus 3",
+    "proof_read": 3,
+    "short_description": "L. Iulius U., cos. I suff. 84, cos. II. suff. 98, cos. III suff. 100 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -173013,9 +173164,14 @@
     "lemma": "Ursus 4",
     "previous": "Ursus 3",
     "next": "Ursus 5",
+    "sort_key": "Vrsus 4",
+    "proof_read": 3,
+    "short_description": "Rationalis unter Constantin I., vicarius 314, 315 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -173024,9 +173180,14 @@
     "lemma": "Ursus 5",
     "previous": "Ursus 4",
     "next": "Ursus 6",
+    "sort_key": "Vrsus 5",
+    "proof_read": 3,
+    "short_description": "Konsul 338 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -173035,9 +173196,14 @@
     "lemma": "Ursus 6",
     "previous": "Ursus 5",
     "next": "Ursus 7",
+    "sort_key": "Vrsus 6",
+    "proof_read": 3,
+    "short_description": "Praef. urbi Constantinopoli 415/6 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173046,9 +173212,14 @@
     "lemma": "Ursus 7",
     "previous": "Ursus 6",
     "next": "Ursus 8",
+    "sort_key": "Vrsus 7",
+    "proof_read": 3,
+    "short_description": "Proc. regiae domus unter Constantius III.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173057,9 +173228,14 @@
     "lemma": "Ursus 8",
     "previous": "Ursus 7",
     "next": "Ursus 9",
+    "sort_key": "Vrsus 8",
+    "proof_read": 3,
+    "short_description": "röm. Soldat, Leibwächter? tötete 455 n. Chr. Kaiser Petronius Maximus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173068,9 +173244,14 @@
     "lemma": "Ursus 9",
     "previous": "Ursus 8",
     "next": "Ursus 10",
+    "sort_key": "Vrsus 9",
+    "proof_read": 3,
+    "short_description": "Statthalter der Provinz Noricum mediterraneum um 500 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173079,9 +173260,14 @@
     "lemma": "Ursus 10",
     "previous": "Ursus 9",
     "next": "Ursus 11",
+    "sort_key": "Vrsus 10",
+    "proof_read": 3,
+    "short_description": "Bischof von Ravenna 4. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173090,9 +173276,14 @@
     "lemma": "Ursus 11",
     "previous": "Ursus 10",
     "next": "Ursus 12",
+    "sort_key": "Vrsus 11",
+    "proof_read": 3,
+    "short_description": "Bischof von Nomentum 5. Jh. n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173101,9 +173292,14 @@
     "lemma": "Ursus 12",
     "previous": "Ursus 11",
     "next": "Uruca",
+    "sort_key": "Vrsus 11",
+    "proof_read": 3,
+    "short_description": "gallischer Bischof um 417 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173192,9 +173388,14 @@
     "lemma": "utric(u)larius 1",
     "previous": "Utis",
     "next": "utric(u)larius 2",
+    "sort_key": "vtric(u)larius 1",
+    "proof_read": 3,
+    "short_description": "ver Sackpfeifer, eine Art Dudelsackbläser?",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173203,9 +173404,14 @@
     "lemma": "utric(u)larius 2",
     "previous": "utric(u)larius 1",
     "next": "Uttedius 1",
+    "sort_key": "vtric(u)larius 2",
+    "proof_read": 3,
+    "short_description": "der Schlauchflößer",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173214,9 +173420,14 @@
     "lemma": "Uttedius 1",
     "previous": "utric(u)larius 2",
     "next": "Uttedius 2",
+    "sort_key": "Vttedius 1",
+    "proof_read": 3,
+    "short_description": "U. Honoratus, v. c., Sonderstatthalter der mauretan. Provinzen? 144 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173225,9 +173436,14 @@
     "lemma": "Uttedius 2",
     "previous": "Uttedius 1",
     "next": "Uttiedius a",
+    "sort_key": "Vttedius 2",
+    "proof_read": 3,
+    "short_description": "U. Marcellus, Legat des Prokonsuls der Provinz Africa 163/4 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173236,9 +173452,14 @@
     "lemma": "Uttiedius a",
     "previous": "Uttedius 2",
     "next": "Uttiedius 1",
+    "sort_key": "Vttiedius a",
+    "proof_read": 3,
+    "short_description": "U. Afer aus Tibur, cos. design.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
@@ -173246,17 +173467,21 @@
   {
     "lemma": "Uttiedius 1",
     "previous": "Uttiedius a",
-    "next": "Xenarchos 3",
+    "next": "Uttiedius a",
+    "sort_key": "Vttiedius 1",
+    "proof_read": 3,
+    "short_description": "T. U. Venerianus, kaiserzeitlicher Schauspieler, Gatte der Alfena Saturnina",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 233,
+        "end": 233,
         "author": "Hans Gärtner."
       }
     ]
   },
   {
     "lemma": "Xenarchos 3",
-    "previous": "Uttiedius 1",
     "next": "Xenokrates 7",
     "proof_read": 3,
     "short_description": "Mimendichter 5./4. Jh. v. Chr., Sohn des Sophron",
