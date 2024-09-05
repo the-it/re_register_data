@@ -807,15 +807,29 @@
   {
     "lemma": "Eutyches 7a",
     "previous": "Eusthenes",
+    "next": "Flavius 83a",
     "sort_key": "Eutyches 7a",
     "proof_read": 2,
-    "short_description": "griech. Bildhauer im 2. Jh. n. Chr.",
+    "short_description": "griechischer Bildhauer 2. Jh. n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
         "start": 223,
         "end": 224,
         "author": "Lippold."
+      }
+    ]
+  },
+  {
+    "lemma": "Flavius 83a",
+    "previous": "Eutyches 7a",
+    "proof_read": 2,
+    "short_description": "Lehrer in Nicomedien mit Lactantius zusammen, verfasst de medicinalibus",
+    "chapters": [
+      {
+        "start": 224,
+        "end": 224,
+        "author": "Hosius."
       }
     ]
   },
@@ -1430,6 +1444,7 @@
   },
   {
     "lemma": "Kambaioi",
+    "previous": "Kallimachos 5a",
     "next": "Κελκέας",
     "short_description": "Illyr. Volk = Kauioi = Grabaei",
     "chapters": [

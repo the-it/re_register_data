@@ -66149,7 +66149,7 @@
   {
     "lemma": "Claudius 353",
     "previous": "Claudius 350",
-    "next": "Claudius 354",
+    "next": "Claudius 354a",
     "proof_read": 3,
     "short_description": "Cl. Sollemnius Pacatianus, leg. Aug. pr. pr. der Provinz Arabia",
     "no_creative_height": true,
@@ -66162,10 +66162,14 @@
     ]
   },
   {
-    "lemma": "Claudius 354",
+    "lemma": "Claudius 354a",
+    "previous": "Claudius 353",
+    "next": "Claudius 357",
     "proof_read": 3,
-    "short_description": "Sospis, Tib. s. Sospis",
+    "short_description": "Tiberius Claudius Soter, römischer Maler",
     "no_creative_height": true,
+    "wp_link": "w:de:Tiberius Claudius Soter",
+    "wd_link": "d:Q11929397",
     "chapters": [
       {
         "start": 86,
@@ -66176,7 +66180,7 @@
   },
   {
     "lemma": "Claudius 357",
-    "previous": "Claudius 354",
+    "previous": "Claudius 354a",
     "next": "Claudius 369a",
     "proof_read": 3,
     "short_description": "Cl. Stratonicus, cos. (suff.) unter Septimius Severus?",
@@ -67849,7 +67853,7 @@
   {
     "lemma": "Cominius 22",
     "previous": "Cominius 10",
-    "next": "Cominius 26",
+    "next": "Cominius 2b",
     "proof_read": 3,
     "short_description": "C. Secundus, Statthalter der Provinz Pannonia inferior 150 n. Chr.",
     "no_creative_height": true,
@@ -67864,9 +67868,11 @@
     ]
   },
   {
-    "lemma": "Cominius 26",
+    "lemma": "Cominius 2b",
+    "previous": "Cominius 22",
+    "next": "Comisillus",
     "proof_read": 3,
-    "short_description": "Cominia L. fil. Vipsania Dignitas",
+    "short_description": "Cos. suff. unter Vespasian",
     "no_creative_height": true,
     "chapters": [
       {
@@ -67878,7 +67884,7 @@
   },
   {
     "lemma": "Comisillus",
-    "previous": "Cominius 26",
+    "previous": "Cominius 2b",
     "next": "Comitialis",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer in Trier 2. Jh. n. Chr.",
@@ -83994,7 +84000,7 @@
     "next": "Eutyches 7b",
     "sort_key": "Eutyches 7a",
     "proof_read": 3,
-    "short_description": "griech. Bildhauer im 2. Jh. n. Chr.",
+    "short_description": "griechischer Bildhauer 2. Jh. n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -172695,6 +172701,8 @@
   },
   {
     "lemma": "Uranios 4",
+    "previous": "Uranios 1b",
+    "next": "Urbanae cohortes",
     "sort_key": "Vranios 4",
     "proof_read": 3,
     "short_description": "Geograph, Schriftsteller um die Zeitenwende?",
@@ -172709,6 +172717,7 @@
   },
   {
     "lemma": "Urbanae cohortes",
+    "previous": "Uranios 4",
     "next": "Urbinius 2",
     "sort_key": "Vrbanae cohortes",
     "proof_read": 3,
@@ -173298,6 +173307,7 @@
   },
   {
     "lemma": "Xenarchos 3",
+    "previous": "Uttiedius 1",
     "next": "Xenokrates 7",
     "proof_read": 3,
     "short_description": "Mimendichter 5./4. Jh. v. Chr., Sohn des Sophron",
