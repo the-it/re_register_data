@@ -4731,7 +4731,7 @@
   {
     "lemma": "Aemilius 62a",
     "previous": "Aemilius 54b",
-    "next": "Aemilius 63a",
+    "next": "Aemilius 15c",
     "sort_key": "Aemilius 062a",
     "proof_read": 3,
     "short_description": "M'. A. Lepidus, Proquästor von Achaia zwischen 48 und 42 v. Chr.",
@@ -4745,9 +4745,9 @@
     ]
   },
   {
-    "lemma": "Aemilius 63a",
+    "lemma": "Aemilius 15c",
     "previous": "Aemilius 62a",
-    "next": "Aemilius 63b",
+    "next": "Aemilius 46a",
     "sort_key": "Aemilius 063a",
     "proof_read": 3,
     "short_description": "M. A., arretin. Sigillatatöpfer in august. Zeit",
@@ -4761,9 +4761,9 @@
     ]
   },
   {
-    "lemma": "Aemilius 63b",
-    "previous": "Aemilius 63a",
-    "next": "Aemilius 63c",
+    "lemma": "Aemilius 46a",
+    "previous": "Aemilius 15c",
+    "next": "Aemilius 3a",
     "sort_key": "Aemilius 063b",
     "proof_read": 3,
     "short_description": "L. A. Fortis, Lampen- und Vasentöpfer in Modena.",
@@ -4777,8 +4777,8 @@
     ]
   },
   {
-    "lemma": "Aemilius 63c",
-    "previous": "Aemilius 63b",
+    "lemma": "Aemilius 3a",
+    "previous": "Aemilius 46a",
     "next": "Aemilius 68",
     "sort_key": "Aemilius 063c",
     "proof_read": 3,
@@ -4794,7 +4794,7 @@
   },
   {
     "lemma": "Aemilius 68",
-    "previous": "Aemilius 63c",
+    "previous": "Aemilius 3a",
     "next": "Aemilius 75",
     "sort_key": "Aemilius 068",
     "proof_read": 3,
@@ -39846,6 +39846,7 @@
   {
     "lemma": "Athenadas 2",
     "previous": "Athenadas 1",
+    "next": "Athenades",
     "redirect": true,
     "proof_read": 3,
     "short_description": "A. aus Thisbe",
@@ -39857,7 +39858,22 @@
     ]
   },
   {
+    "lemma": "Athenades",
+    "previous": "Athenadas 2",
+    "next": "Athenades 1",
+    "redirect": "Athenades 2",
+    "proof_read": 3,
+    "short_description": "Sohn des Nikomachos aus Theben",
+    "chapters": [
+      {
+        "start": 52,
+        "end": 52
+      }
+    ]
+  },
+  {
     "lemma": "Athenades 1",
+    "previous": "Athenades",
     "next": "Athenades 2",
     "sort_key": "Athenades 01",
     "proof_read": 3,
@@ -60764,7 +60780,6 @@
     "lemma": "Caudalascus",
     "previous": "Cavaturini",
     "next": "Caularis",
-    "sort_key": "Cavdalascus",
     "proof_read": 3,
     "short_description": "Appenninus C., Abschnitt des Apennin bei Veleia Nr. 2",
     "no_creative_height": true,
@@ -66163,8 +66178,12 @@
     ]
   },
   {
+    "lemma": "Claudius 354",
+    "next": "Claudius 357"
+  },
+  {
     "lemma": "Claudius 357",
-    "previous": "Claudius 354a",
+    "previous": "Claudius 354",
     "next": "Claudius 369a",
     "proof_read": 3,
     "short_description": "Cl. Stratonicus, cos. (suff.) unter Septimius Severus?",
@@ -67867,8 +67886,12 @@
     ]
   },
   {
+    "lemma": "Cominius 26",
+    "next": "Comisillus"
+  },
+  {
     "lemma": "Comisillus",
-    "previous": "Cominius 2b",
+    "previous": "Cominius 26",
     "next": "Comitialis",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer in Trier 2. Jh. n. Chr.",
@@ -172479,9 +172502,13 @@
     "lemma": "Volusius 23",
     "previous": "Volusius 22",
     "next": "Volusius 24",
+    "proof_read": 3,
+    "short_description": "Volusia Cornelia, Tochter des Q. V. Nr. 21 Saturninus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 232,
+        "end": 232,
         "author": "Hans Gärtner."
       }
     ]
@@ -173197,7 +173224,7 @@
     "lemma": "utric(u)larius 1",
     "previous": "Utis",
     "next": "utric(u)larius 2",
-    "sort_key": "vtric(u)larius 1",
+    "sort_key": "vtricularius 1",
     "proof_read": 3,
     "short_description": "ver Sackpfeifer, eine Art Dudelsackbläser?",
     "no_creative_height": true,
@@ -173213,7 +173240,7 @@
     "lemma": "utric(u)larius 2",
     "previous": "utric(u)larius 1",
     "next": "Uttedius 1",
-    "sort_key": "vtric(u)larius 2",
+    "sort_key": "vtricularius 2",
     "proof_read": 3,
     "short_description": "der Schlauchflößer",
     "no_creative_height": true,

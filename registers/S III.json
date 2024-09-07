@@ -764,7 +764,7 @@
   {
     "lemma": "Aemilianus 1",
     "previous": "Aegyptiaci",
-    "next": "Aemilius 63a",
+    "next": "Aemilius 15a",
     "sort_key": "Aemilianus 01",
     "short_description": "Griech. Rhetor im 1. Jh. n. Chr., Sohn des Epitherses",
     "wp_link": "w:ca:Emilià de Nicea",
@@ -778,9 +778,13 @@
     ]
   },
   {
-    "lemma": "Aemilius 63a",
+    "lemma": "Aemilius 15a",
+    "previous": "Aemilianus 1"
+  },
+  {
+    "lemma": "Aemilius 15c",
     "previous": "Aemilianus 1",
-    "next": "Aemilius 63b",
+    "next": "Aemilius 46a",
     "sort_key": "Aemilius 063a",
     "proof_read": 3,
     "short_description": "M. A., arretin. Sigillatatöpfer in august. Zeit",
@@ -793,9 +797,9 @@
     ]
   },
   {
-    "lemma": "Aemilius 63b",
-    "previous": "Aemilius 63a",
-    "next": "Aemilius 63c",
+    "lemma": "Aemilius 46a",
+    "previous": "Aemilius 15c",
+    "next": "Aemilius 3a",
     "sort_key": "Aemilius 063b",
     "proof_read": 3,
     "short_description": "L. A. Fortis, Lampen- und Vasentöpfer in Modena.",
@@ -808,8 +812,40 @@
     ]
   },
   {
+    "lemma": "Aemilius 3a",
+    "previous": "Aemilius 46a",
+    "next": "Aenus",
+    "sort_key": "Aemilius 063c",
+    "proof_read": 3,
+    "short_description": "gallischer Sigillatatöpfer im 2. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 24,
+        "end": 24,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
     "lemma": "Aemilius 63c",
-    "previous": "Aemilius 63b",
+    "sort_key": "Aemilius 063c",
+    "proof_read": 3,
+    "short_description": "gallischer Sigillatatöpfer im 2. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 24,
+        "end": 24,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
+    "lemma": "Aemilius 46a",
+    "next": "Aemilius 3a"
+  },
+  {
+    "lemma": "Aemilius 3a",
+    "previous": "Aemilius 46a",
     "next": "Aenus",
     "sort_key": "Aemilius 063c",
     "proof_read": 3,
@@ -824,7 +860,7 @@
   },
   {
     "lemma": "Aenus",
-    "previous": "Aemilius 63c",
+    "previous": "Aemilius 3a",
     "next": "Aenus 2",
     "proof_read": 3,
     "short_description": "Grenzfluss zwischen Rätien und Noricum, jetzt der Inn",
@@ -8591,7 +8627,7 @@
     "previous": "Athenadas 2",
     "next": "Athenades 1",
     "proof_read": 3,
-    "short_description": "Person",
+    "short_description": "Sohn des Nikomachos aus Theben",
     "chapters": [
       {
         "start": 176,
