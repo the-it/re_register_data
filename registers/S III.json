@@ -764,8 +764,6 @@
   {
     "lemma": "Aemilianus 1",
     "previous": "Aegyptiaci",
-    "next": "Aemilius 15a",
-    "sort_key": "Aemilianus 01",
     "short_description": "Griech. Rhetor im 1. Jh. n. Chr., Sohn des Epitherses",
     "wp_link": "w:ca:Emilià de Nicea",
     "wd_link": "d:Q19999161",
@@ -778,14 +776,20 @@
     ]
   },
   {
-    "lemma": "Aemilius 15a",
-    "previous": "Aemilianus 1"
+    "lemma": "Aemilius 3a",
+    "proof_read": 3,
+    "short_description": "gallischer Sigillatatöpfer im 2. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 24,
+        "end": 24,
+        "author": "Hähnle."
+      }
+    ]
   },
   {
-    "lemma": "Aemilius 15c",
-    "previous": "Aemilianus 1",
+    "lemma": "Aemilius 15a",
     "next": "Aemilius 46a",
-    "sort_key": "Aemilius 063a",
     "proof_read": 3,
     "short_description": "M. A., arretin. Sigillatatöpfer in august. Zeit",
     "chapters": [
@@ -798,9 +802,6 @@
   },
   {
     "lemma": "Aemilius 46a",
-    "previous": "Aemilius 15c",
-    "next": "Aemilius 3a",
-    "sort_key": "Aemilius 063b",
     "proof_read": 3,
     "short_description": "L. A. Fortis, Lampen- und Vasentöpfer in Modena.",
     "chapters": [
@@ -812,55 +813,7 @@
     ]
   },
   {
-    "lemma": "Aemilius 3a",
-    "previous": "Aemilius 46a",
-    "next": "Aenus",
-    "sort_key": "Aemilius 063c",
-    "proof_read": 3,
-    "short_description": "gallischer Sigillatatöpfer im 2. Jh. n. Chr.",
-    "chapters": [
-      {
-        "start": 24,
-        "end": 24,
-        "author": "Hähnle."
-      }
-    ]
-  },
-  {
-    "lemma": "Aemilius 63c",
-    "sort_key": "Aemilius 063c",
-    "proof_read": 3,
-    "short_description": "gallischer Sigillatatöpfer im 2. Jh. n. Chr.",
-    "chapters": [
-      {
-        "start": 24,
-        "end": 24,
-        "author": "Hähnle."
-      }
-    ]
-  },
-  {
-    "lemma": "Aemilius 46a",
-    "next": "Aemilius 3a"
-  },
-  {
-    "lemma": "Aemilius 3a",
-    "previous": "Aemilius 46a",
-    "next": "Aenus",
-    "sort_key": "Aemilius 063c",
-    "proof_read": 3,
-    "short_description": "gallischer Sigillatatöpfer im 2. Jh. n. Chr.",
-    "chapters": [
-      {
-        "start": 24,
-        "end": 24,
-        "author": "Hähnle."
-      }
-    ]
-  },
-  {
     "lemma": "Aenus",
-    "previous": "Aemilius 3a",
     "next": "Aenus 2",
     "proof_read": 3,
     "short_description": "Grenzfluss zwischen Rätien und Noricum, jetzt der Inn",
