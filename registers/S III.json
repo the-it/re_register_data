@@ -764,6 +764,8 @@
   {
     "lemma": "Aemilianus 1",
     "previous": "Aegyptiaci",
+    "next": "Aemilius 3a",
+    "sort_key": "Aemilianus 01",
     "short_description": "Griech. Rhetor im 1. Jh. n. Chr., Sohn des Epitherses",
     "wp_link": "w:ca:Emilià de Nicea",
     "wd_link": "d:Q19999161",
@@ -777,6 +779,8 @@
   },
   {
     "lemma": "Aemilius 3a",
+    "previous": "Aemilianus 1",
+    "next": "Aemilius 15a",
     "proof_read": 3,
     "short_description": "gallischer Sigillatatöpfer im 2. Jh. n. Chr.",
     "chapters": [
@@ -789,9 +793,10 @@
   },
   {
     "lemma": "Aemilius 15a",
-    "next": "Aemilius 46a",
+    "previous": "Aemilius 3a",
+    "next": "Aemilius 15c",
     "proof_read": 3,
-    "short_description": "M. A., arretin. Sigillatatöpfer in august. Zeit",
+    "short_description": "L. Aemilius, arretinischer Sigillatatöpfer in august. Zeit",
     "chapters": [
       {
         "start": 24,
@@ -801,7 +806,14 @@
     ]
   },
   {
+    "lemma": "Aemilius 15c",
+    "previous": "Aemilius 15a",
+    "next": "Aemilius 46a"
+  },
+  {
     "lemma": "Aemilius 46a",
+    "previous": "Aemilius 15c",
+    "next": "Aenus",
     "proof_read": 3,
     "short_description": "L. A. Fortis, Lampen- und Vasentöpfer in Modena.",
     "chapters": [
@@ -814,6 +826,7 @@
   },
   {
     "lemma": "Aenus",
+    "previous": "Aemilius 46a",
     "next": "Aenus 2",
     "proof_read": 3,
     "short_description": "Grenzfluss zwischen Rätien und Noricum, jetzt der Inn",
@@ -1020,7 +1033,7 @@
   {
     "lemma": "Agatharchos 14b",
     "previous": "Agatharchos 14a",
-    "next": "Agathias 3",
+    "next": "Agathias 1a",
     "proof_read": 3,
     "short_description": "Erzgießer, bekannt aus Statuen in Ephesos",
     "no_creative_height": true,
@@ -1033,11 +1046,11 @@
     ]
   },
   {
-    "lemma": "Agathias 3",
+    "lemma": "Agathias 1a",
     "previous": "Agatharchos 14b",
     "next": "Agathinos 8",
     "proof_read": 3,
-    "short_description": "A., aulodos aus Opus, siegt in Spielen zu Thespiai 1. Jh. v. Chr.",
+    "short_description": "Sohn des Harmodios, Opuntier, siegt an Museien in Thespiai 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 37,
@@ -1048,7 +1061,7 @@
   },
   {
     "lemma": "Agathinos 8",
-    "previous": "Agathias 3",
+    "previous": "Agathias 1a",
     "next": "Agathinos 5",
     "sort_key": "Agathinos 08",
     "proof_read": 3,
@@ -2211,7 +2224,7 @@
   {
     "lemma": "Alkaie",
     "previous": "Aliso 1",
-    "next": "Alkamenes 6",
+    "next": "Alkamenes 4b",
     "proof_read": 3,
     "short_description": "Name einer Amazone auf einer Hydria",
     "chapters": [
@@ -2223,11 +2236,11 @@
     ]
   },
   {
-    "lemma": "Alkamenes 6",
+    "lemma": "Alkamenes 4b",
     "previous": "Alkaie",
     "next": "Alkiadas",
     "proof_read": 3,
-    "short_description": "s. 4b) von Abydos, alter knidischer Arzt",
+    "short_description": "Arzt der knidischen Schule 5. Jh. v. Chr., Schüler des Euryphon von Knidos?",
     "chapters": [
       {
         "start": 82,
@@ -2238,7 +2251,7 @@
   },
   {
     "lemma": "Alkiadas",
-    "previous": "Alkamenes 6",
+    "previous": "Alkamenes 4b",
     "next": "Alkimache 2",
     "proof_read": 3,
     "short_description": "Archon im westlokr. Buttos um 150 v. Chr., Sohn des Neos (Nios) (?)",
@@ -9777,9 +9790,9 @@
     "lemma": "Avillius 2a",
     "previous": "Avignon",
     "next": "Avitianae figlinae",
-    "sort_key": "Avillius 2a3",
+    "sort_key": "Auillius 2a",
     "proof_read": 3,
-    "short_description": "erg. zu 1, C. A., arretin. Sigillatatöpfer in august. Zt.",
+    "short_description": "Sex. A., arretin. Sigillatatöpfer in august. Zeit",
     "chapters": [
       {
         "start": 187,
@@ -14171,7 +14184,7 @@
   {
     "lemma": "Capienacus oder Capionacus",
     "previous": "Cantus",
-    "next": "Capitolium vetus",
+    "next": "Capitolium 2",
     "proof_read": 3,
     "short_description": "Ziegelfabrikant im Moselgebiet im 4. Jh. n. Chr.",
     "chapters": [
@@ -14183,13 +14196,13 @@
     ]
   },
   {
-    "lemma": "Capitolium vetus",
+    "lemma": "Capitolium 2",
     "previous": "Capienacus oder Capionacus",
     "next": "Capitolinus 8",
     "proof_read": 3,
-    "short_description": "Ort auf dem Quirinal",
-    "wp_link": "w:en:Capitolium Vetus",
-    "wd_link": "d:Q2937495",
+    "short_description": "Nachahmungen des stadtröm. C. in anderen Städten des weström. Reiches",
+    "wp_link": "w:de:Kapitol (Römisches Reich)",
+    "wd_link": "d:Q1728609",
     "chapters": [
       {
         "start": 234,
@@ -14200,7 +14213,7 @@
   },
   {
     "lemma": "Capitolinus 8",
-    "previous": "Capitolium vetus",
+    "previous": "Capitolium 2",
     "next": "Caprasius",
     "proof_read": 3,
     "short_description": "germ. Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
@@ -14857,7 +14870,7 @@
   {
     "lemma": "Celsinus 7a",
     "previous": "Celer 15",
-    "next": "Celsus 25",
+    "next": "Celsus 23a",
     "sort_key": "Celsinus 09",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer 2. Jh. n. Chr. in Ittenweiler im Elsaß",
@@ -14870,8 +14883,21 @@
     ]
   },
   {
-    "lemma": "Celsus 25",
+    "lemma": "Celsus 23a",
     "previous": "Celsinus 7a",
+    "next": "Celsus 23b",
+    "proof_read": 3,
+    "short_description": "südgallischer Sigillatatöpfer 1. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 240,
+        "end": 240,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
+    "lemma": "Celsus 25",
     "next": "Celsus 26",
     "proof_read": 3,
     "short_description": "= 23a (K) Südgall. Sigillatatöpfer im 1. Jh. n. Chr.",
@@ -14886,7 +14912,6 @@
   {
     "lemma": "Celsus 26",
     "previous": "Celsus 25",
-    "next": "Celtillus",
     "proof_read": 3,
     "short_description": "(K) Sigillatatöpfer im elsäss. Heiligenberg aus der Mitte des 2. Jh. n. Chr.",
     "chapters": [
@@ -14898,8 +14923,22 @@
     ]
   },
   {
+    "lemma": "Celsus 23b",
+    "previous": "Celsus 23a",
+    "next": "Celtillus",
+    "proof_read": 3,
+    "short_description": "Sigillatatöpfer im elsäss. Heiligenberg 2. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 240,
+        "end": 240,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
     "lemma": "Celtillus",
-    "previous": "Celsus 26",
+    "previous": "Celsus 23b",
     "next": "Cenno",
     "proof_read": 3,
     "short_description": "Vater des Vercingetorix",
@@ -15936,7 +15975,7 @@
   {
     "lemma": "Claudius 298",
     "previous": "Claudius 295",
-    "next": "Claudius 381",
+    "next": "Claudius 180a",
     "proof_read": 3,
     "short_description": "Ap. Cl. Pulcher, Konsul 38 v. Chr. Kläger im Prozeß des Milo",
     "wp_link": "w:de:Appius Claudius Pulcher (Konsul 38 v. Chr.)",
@@ -15950,11 +15989,11 @@
     ]
   },
   {
-    "lemma": "Claudius 381",
+    "lemma": "Claudius 180a",
     "previous": "Claudius 298",
     "next": "Clemens 11",
     "proof_read": 3,
-    "short_description": "Cl(audius) Zoilus, Tib. In einer Ehreninschrift aus Sardes",
+    "short_description": "Ti. Cl. Hymnus, Arzt der leg. XXI in Vindonissa J. 47–70 n. Chr.",
     "chapters": [
       {
         "start": 254,
@@ -15965,7 +16004,7 @@
   },
   {
     "lemma": "Clemens 11",
-    "previous": "Claudius 381",
+    "previous": "Claudius 180a",
     "next": "Cleppius",
     "proof_read": 3,
     "short_description": "Germ. Sigillatatöpfer in Rheinzabern in der 2. H. des 2. Jh. n. Chr.",
@@ -17081,7 +17120,7 @@
   {
     "lemma": "Cotulo",
     "previous": "Cotto",
-    "next": "Cotus 1",
+    "next": "Cotus 2",
     "proof_read": 3,
     "short_description": "südgall. Sigillatatöpfer im 1. Jh. n. Chr.",
     "chapters": [
@@ -17093,11 +17132,11 @@
     ]
   },
   {
-    "lemma": "Cotus 1",
+    "lemma": "Cotus 2",
     "previous": "Cotulo",
     "next": "Cr....",
     "proof_read": 3,
-    "short_description": "Südgall. Sigillatatöpfer im 1. Jh. n. Chr.",
+    "short_description": "südgallischer Sigillatatöpfer 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 262,
@@ -17108,7 +17147,7 @@
   },
   {
     "lemma": "Cr....",
-    "previous": "Cotus 1",
+    "previous": "Cotus 2",
     "next": "Cracuna",
     "sort_key": "Cr",
     "proof_read": 3,
@@ -17224,7 +17263,7 @@
   {
     "lemma": "Cremona",
     "previous": "Cremera",
-    "next": "Crescens 8a",
+    "next": "Crescens 8",
     "proof_read": 3,
     "short_description": "röm. Kolonie in Oberitalien am linken Ufer des Po",
     "wp_link": "w:de:Cremona",
@@ -17238,8 +17277,21 @@
     ]
   },
   {
-    "lemma": "Crescens 8a",
+    "lemma": "Crescens 8",
     "previous": "Cremona",
+    "next": "Crescens 9",
+    "proof_read": 3,
+    "short_description": "Sklave in der arretin. Sigillatatöpferei des M. Perennius 1. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 263,
+        "end": 263,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
+    "lemma": "Crescens 8a",
     "next": "Crescens 8b",
     "proof_read": 3,
     "short_description": "Sklave der arretinischen Sigillatatöpferei des M. Perennius",
@@ -17254,7 +17306,6 @@
   {
     "lemma": "Crescens 8b",
     "previous": "Crescens 8a",
-    "next": "Cresconius 4",
     "proof_read": 3,
     "short_description": "Späte lokale Töpferei in Pettau (Österreich)",
     "chapters": [
@@ -17266,8 +17317,22 @@
     ]
   },
   {
+    "lemma": "Crescens 9",
+    "previous": "Crescens 8",
+    "next": "Cresconius 4",
+    "proof_read": 3,
+    "short_description": "späte lokale Töpferei in Pettau (Österreich)",
+    "chapters": [
+      {
+        "start": 263,
+        "end": 263,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
     "lemma": "Cresconius 4",
-    "previous": "Crescens 8b",
+    "previous": "Crescens 9",
     "next": "Crestio",
     "proof_read": 3,
     "short_description": "christl. Dichter = Dracontius Nr. 4 (?)",
@@ -17858,9 +17923,26 @@
   {
     "lemma": "Damasalkida(?)",
     "previous": "Damalis 1a",
-    "next": "Damasippe 2",
+    "next": "Damasippe",
     "proof_read": 3,
-    "short_description": "Angebliche Tochter des ind. Königs Oxyalkos bei Ps.-Plutarch",
+    "short_description": "angebliche Tochter des indischen Königs Oxyalkos bei Ps.-Plutarch",
+    "chapters": [
+      {
+        "start": 323,
+        "end": 323,
+        "author": "Knaack."
+      }
+    ]
+  },
+  {
+    "lemma": "Damasippe",
+    "previous": "Damasalkida(?)",
+    "next": "Dameas 3a",
+    "redirect": "Atrax 4",
+    "proof_read": 3,
+    "short_description": "angebliche Tochter des Atrax Nr. 4 und Gemahlin des thrak. Königs Kasandros",
+    "wp_link": "w:el:Δαμασίππη",
+    "wd_link": "d:Q12875835",
     "chapters": [
       {
         "start": 323,
@@ -17871,8 +17953,6 @@
   },
   {
     "lemma": "Damasippe 2",
-    "previous": "Damasalkida(?)",
-    "next": "Dameas 3a",
     "proof_read": 3,
     "short_description": "S. 2038, 26 zum Art. Damasippe: 2) Angebliche Tochter des Atrax, Gemahlin des",
     "chapters": [
@@ -17885,7 +17965,7 @@
   },
   {
     "lemma": "Dameas 3a",
-    "previous": "Damasippe 2",
+    "previous": "Damasippe",
     "next": "Daminus",
     "proof_read": 3,
     "short_description": "Archon zu Buttos im westlichen Lokris 2. Jh. v. Chr.",
@@ -18776,7 +18856,7 @@
   {
     "lemma": "Denizos",
     "previous": "Demostratos 15",
-    "next": "Dento 1",
+    "next": "Dento 2",
     "proof_read": 3,
     "short_description": "Kastell in Thrakien",
     "no_creative_height": true,
@@ -18789,7 +18869,7 @@
     ]
   },
   {
-    "lemma": "Dento 1",
+    "lemma": "Dento 2",
     "previous": "Denizos",
     "next": "Deras",
     "proof_read": 3,
@@ -18804,7 +18884,7 @@
   },
   {
     "lemma": "Deras",
-    "previous": "Dento 1",
+    "previous": "Dento 2",
     "next": "Derbera",
     "proof_read": 3,
     "short_description": "Flurname auf Kreta",
@@ -19196,7 +19276,7 @@
   {
     "lemma": "Diocletianopolis 4",
     "previous": "Dingion",
-    "next": "Diodoros 40a",
+    "next": "Diodoros 38",
     "proof_read": 3,
     "short_description": "Ort in der Eparchie Thracia",
     "no_creative_height": true,
@@ -19209,9 +19289,24 @@
     ]
   },
   {
-    "lemma": "Diodoros 40a",
+    "lemma": "Diodoros 38",
     "previous": "Diocletianopolis 4",
     "next": "Diogenes 22a",
+    "proof_read": 3,
+    "short_description": "D. von Agyrion, Historiker im 1. Jh. v. Chr. Verfasser einer Weltgeschichte",
+    "wp_link": "w:de:Diodor",
+    "ws_link": "s:de:Diodor",
+    "wd_link": "d:Q171241",
+    "chapters": [
+      {
+        "start": 336,
+        "end": 337,
+        "author": "Knaack."
+      }
+    ]
+  },
+  {
+    "lemma": "Diodoros 40a",
     "proof_read": 3,
     "short_description": "als Diodorfragment zu streichen",
     "chapters": [
@@ -19224,7 +19319,7 @@
   },
   {
     "lemma": "Diogenes 22a",
-    "previous": "Diodoros 40a",
+    "previous": "Diodoros 38",
     "next": "Diomedes 17",
     "proof_read": 2,
     "short_description": "Sohn des Epikles, Polizeikommandant in Philetaira im 2. Jh. v. Chr.",
@@ -19532,7 +19627,7 @@
   {
     "lemma": "Diverus",
     "previous": "Διθυράμβιος",
-    "next": "Divicatus 1",
+    "next": "Divicatus",
     "proof_read": 3,
     "short_description": "Töpfer in Gallia Belgica in august. Zeit",
     "chapters": [
@@ -19545,8 +19640,6 @@
   },
   {
     "lemma": "Divicatus 1",
-    "previous": "Diverus",
-    "next": "Divicus",
     "proof_read": 3,
     "short_description": "S. 1234 zum Art. Divicatus: 1) Mittelgallischer Sigillatatöpfer, der wohl im 2.",
     "chapters": [
@@ -19558,8 +19651,22 @@
     ]
   },
   {
+    "lemma": "Divicatus",
+    "previous": "Diverus",
+    "next": "Divicus",
+    "proof_read": 3,
+    "short_description": "mittelgallischer Sigillatatöpfer in Vichy 2. Jh. n. Chr.?",
+    "chapters": [
+      {
+        "start": 341,
+        "end": 341,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
     "lemma": "Divicus",
-    "previous": "Divicatus 1",
+    "previous": "Divicatus",
     "next": "Divixtus",
     "proof_read": 3,
     "short_description": "gallischer Sigillatatöpfer 2. Jh. n. Chr.",
@@ -20091,7 +20198,7 @@
   {
     "lemma": "Draponus",
     "previous": "Drakon 18",
-    "next": "Drappus 1",
+    "next": "Drappus",
     "proof_read": 3,
     "short_description": "belgischer Töpfer 1. Jh. n. Chr., Ware in Gallien und Germanien",
     "chapters": [
@@ -20103,11 +20210,11 @@
     ]
   },
   {
-    "lemma": "Drappus 1",
+    "lemma": "Drappus",
     "previous": "Draponus",
     "next": "Drasdea",
     "proof_read": 3,
-    "short_description": "Ergänzung zum Art. Drappus: Sigillatatöpfer aus der Mitte des 2. Jhdts. n. Chr.",
+    "short_description": "Sigillatatöpfer in Trier aus der Mitte des 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 414,
@@ -20118,7 +20225,7 @@
   },
   {
     "lemma": "Drasdea",
-    "previous": "Drappus 1",
+    "previous": "Drappus",
     "next": "Dreiheiligen",
     "proof_read": 3,
     "short_description": "Thrakisches Kastell",
