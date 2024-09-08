@@ -1918,7 +1918,6 @@
   {
     "lemma": "Municipium 2a",
     "previous": "Minicius 12",
-    "next": "Municipium 5",
     "short_description": "M. Iasorum, Stadt in Pannonia sup. = Aquae (II 296 Nr. 18) Balissae = Homonnr.",
     "chapters": [
       {
@@ -1929,9 +1928,17 @@
     ]
   },
   {
+    "lemma": "Municipium 4",
+    "chapters": [
+      {
+        "start": 1004,
+        "end": 1009,
+        "author": "Alföldy"
+      }
+    ]
+  },
+  {
     "lemma": "Municipium 5",
-    "previous": "Municipium 2a",
-    "next": "Novae 4",
     "short_description": "M. S(iculotarum?), dalmat. Stadt = Homonnr. 6)",
     "chapters": [
       {
@@ -1942,21 +1949,7 @@
     ]
   },
   {
-    "lemma": "Novae 4",
-    "previous": "Municipium 5",
-    "next": "Municipium 6",
-    "short_description": "Dalmat. Stadt",
-    "chapters": [
-      {
-        "start": 1015,
-        "end": 1018,
-        "author": "Alföldy"
-      }
-    ]
-  },
-  {
     "lemma": "Municipium 6",
-    "previous": "Novae 4",
     "next": "ad Mures",
     "short_description": "M. Volg ..., pannon.(?) Stadt = Homonnr. 7)",
     "chapters": [
@@ -1969,7 +1962,6 @@
   {
     "lemma": "ad Mures",
     "previous": "Municipium 6",
-    "next": "Numerianus 1a",
     "short_description": "Straßenstation in Pannonia sup.",
     "chapters": [
       {
@@ -1979,8 +1971,27 @@
     ]
   },
   {
+    "lemma": "Myrai",
+    "chapters": [
+      {
+        "start": 1016,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Novae 4",
+    "short_description": "Dalmat. Stadt",
+    "chapters": [
+      {
+        "start": 1015,
+        "end": 1018,
+        "author": "Alföldy"
+      }
+    ]
+  },
+  {
     "lemma": "Numerianus 1a",
-    "previous": "ad Mures",
     "next": "Nymphodoros 7",
     "short_description": "M. Aurelius (Numerius) N., röm. Kaiser in den J. 282-284 n. Chr. = M. Aurelius",
     "chapters": [
