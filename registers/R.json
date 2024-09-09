@@ -4380,6 +4380,7 @@
   {
     "lemma": "Aemilia via 2",
     "previous": "Aemilia via 1",
+    "next": "Aemilius 3a",
     "sort_key": "Aemiliavia 2",
     "proof_read": 3,
     "short_description": "Oberital. Straße, angelegt von M. Aemilius Scaurus 109 v. Chr.",
@@ -4397,6 +4398,7 @@
   {
     "lemma": "Aemilius 3a",
     "previous": "Aemilia via 2",
+    "next": "Aemilius 4",
     "proof_read": 3,
     "short_description": "gallischer Sigillatatöpfer im 2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -4410,6 +4412,7 @@
   },
   {
     "lemma": "Aemilius 4",
+    "previous": "Aemilius 3a",
     "next": "Aemilius 10a",
     "sort_key": "Aemilius 004",
     "proof_read": 3,
@@ -4503,6 +4506,7 @@
   },
   {
     "lemma": "Aemilius 15c",
+    "previous": "Aemilius 15b",
     "next": "Aemilius 22a",
     "proof_read": 3,
     "no_creative_height": true,
@@ -4516,6 +4520,7 @@
   },
   {
     "lemma": "Aemilius 22a",
+    "previous": "Aemilius 15c",
     "next": "Aemilius 22b",
     "sort_key": "Aemilius 022a",
     "proof_read": 3,
@@ -4661,6 +4666,8 @@
   },
   {
     "lemma": "Aemilius 46a",
+    "previous": "Aemilius 43",
+    "next": "Aemilius 48a",
     "proof_read": 3,
     "short_description": "L. A. Fortis, Lampen- und Vasentöpfer in Modena.",
     "no_creative_height": true,
@@ -4674,6 +4681,7 @@
   },
   {
     "lemma": "Aemilius 48a",
+    "previous": "Aemilius 46a",
     "next": "Aemilius 49",
     "sort_key": "Aemilius 048a",
     "proof_read": 3,
@@ -4765,6 +4773,24 @@
   },
   {
     "lemma": "Aemilius 62a",
+    "previous": "Aemilius 54b",
+    "next": "Aemilius 68",
+    "sort_key": "Aemilius 062a",
+    "proof_read": 3,
+    "short_description": "M'. A. Lepidus, Proquästor von Achaia zwischen 48 und 42 v. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 10,
+        "end": 10,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Aemilius 68",
+    "previous": "Aemilius 62a",
+    "next": "Aemilius 75",
     "sort_key": "Aemilius 068",
     "proof_read": 3,
     "short_description": "Aimilius M. f. M. n. Lepidus, M., Tutor Regis, sechsmal Princeps senatus",
@@ -4781,6 +4807,7 @@
   },
   {
     "lemma": "Aemilius 75",
+    "previous": "Aemilius 68",
     "next": "Aemilius 79",
     "sort_key": "Aemilius 075",
     "proof_read": 3,
@@ -6095,6 +6122,7 @@
   },
   {
     "lemma": "Agathinos 5",
+    "previous": "Agathias 1a",
     "next": "Agathinos 5a",
     "sort_key": "Agathinos 05",
     "proof_read": 3,
@@ -66117,8 +66145,12 @@
     ]
   },
   {
+    "lemma": "Claudius 354",
+    "next": "Claudius 357"
+  },
+  {
     "lemma": "Claudius 357",
-    "previous": "Claudius 354a",
+    "previous": "Claudius 354",
     "next": "Claudius 369a",
     "proof_read": 3,
     "short_description": "Cl. Stratonicus, cos. (suff.) unter Septimius Severus?",
@@ -66179,6 +66211,7 @@
   {
     "lemma": "Claudius 380a",
     "previous": "Claudius 376",
+    "next": "Claudius 381",
     "proof_read": 3,
     "short_description": "Cl. Zenobius, proc. Aug. von Asturia und Gallaecia 3. Jh. n. Chr.?",
     "no_creative_height": true,
@@ -66192,6 +66225,8 @@
   },
   {
     "lemma": "Claudius 381",
+    "previous": "Claudius 380a",
+    "next": "Claudius 393",
     "proof_read": 3,
     "short_description": "Cl(audius) Zoilus, Tib. In einer Ehreninschrift aus Sardes",
     "no_creative_height": true,
@@ -66205,6 +66240,7 @@
   },
   {
     "lemma": "Claudius 393",
+    "previous": "Claudius 381",
     "next": "Claudius 399a",
     "proof_read": 3,
     "short_description": "Claudia Augusta, Tochter Neros und der Poppaea Sabina",
@@ -67817,8 +67853,12 @@
     ]
   },
   {
+    "lemma": "Cominius 26",
+    "next": "Comisillus"
+  },
+  {
     "lemma": "Comisillus",
-    "previous": "Cominius 2b",
+    "previous": "Cominius 26",
     "next": "Comitialis",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer in Trier 2. Jh. n. Chr.",
@@ -70307,7 +70347,7 @@
   {
     "lemma": "Cotulo",
     "previous": "Cotto",
-    "next": "Cotus 1",
+    "next": "Cotus 2",
     "proof_read": 3,
     "short_description": "südgall. Sigillatatöpfer im 1. Jh. n. Chr.",
     "no_creative_height": true,
@@ -70321,7 +70361,6 @@
   },
   {
     "lemma": "Cotus 1",
-    "previous": "Cotulo",
     "proof_read": 3,
     "short_description": "Südgall. Sigillatatöpfer im 1. Jh. n. Chr.",
     "no_creative_height": true,
@@ -97193,7 +97232,7 @@
     "previous": "Himilkon 8",
     "next": "Hipparches 1",
     "proof_read": 3,
-    "short_description": "griech. Seefahrer",
+    "short_description": "1. Südwestmonsun, 2. Name des Steuermanns als Entdecker",
     "no_creative_height": true,
     "wp_link": "w:de:Hippalos",
     "wd_link": "d:Q1388785",
@@ -99858,7 +99897,7 @@
     "previous": "Ἰαβαδίου νῆσος",
     "next": "Iac(c)etani",
     "proof_read": 3,
-    "short_description": "Stadt im Gebiet der hispan. Vasconen",
+    "short_description": "Stadt im Gebiet der hispanischen Vasconen",
     "no_creative_height": true,
     "wp_link": "w:es:Iaca",
     "wd_link": "d:Q11926303",
@@ -100131,7 +100170,7 @@
     "previous": "Iao",
     "next": "Iapygia",
     "proof_read": 3,
-    "short_description": "Illyr. Volk",
+    "short_description": "illyrisches Volk",
     "no_creative_height": true,
     "wp_link": "w:de:Japoden",
     "wd_link": "d:Q1266928",
@@ -100196,8 +100235,9 @@
     "lemma": "Iaso 4",
     "previous": "Ias(s)ii",
     "next": "Iason 1a",
+    "redirect": true,
     "proof_read": 3,
-    "short_description": "Kelt. Männername vgl. Iasos Nr. 20",
+    "short_description": "keltischer Männername",
     "no_creative_height": true,
     "chapters": [
       {
@@ -100257,7 +100297,7 @@
     "previous": "Iason 12a",
     "next": "Iasos 20",
     "proof_read": 3,
-    "short_description": "I., Iaso, griech. Männername in lat. Inschriften",
+    "short_description": "I., Iaso, griechischer Männername in lat. Inschriften",
     "no_creative_height": true,
     "chapters": [
       {
@@ -100272,7 +100312,7 @@
     "previous": "Iason 14",
     "next": "Iastai",
     "proof_read": 3,
-    "short_description": "Kelt. Männername vgl. Iaso Nr. 4",
+    "short_description": "keltischer Männername vgl. Iaso Nr. 4",
     "no_creative_height": true,
     "chapters": [
       {

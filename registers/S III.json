@@ -27535,7 +27535,6 @@
     "chapters": [
       {
         "start": 1149,
-        "wbs": 1150,
         "author": "Keune."
       }
     ]
@@ -27700,6 +27699,7 @@
   {
     "lemma": "Himerios 7",
     "previous": "Himerios 6",
+    "next": "Hippalos 3",
     "proof_read": 2,
     "short_description": "Briefadressat des Kaisers Iulian",
     "chapters": [
@@ -27715,7 +27715,10 @@
     "previous": "Himerios 7",
     "next": "Hippemolgoi",
     "proof_read": 2,
+    "short_description": "1. Südwestmonsun, 2. Name des Steuermanns als Entdecker",
     "no_creative_height": true,
+    "wp_link": "w:de:Hippalos",
+    "wd_link": "d:Q1388785",
     "chapters": [
       {
         "start": 1153,
@@ -27726,6 +27729,7 @@
   },
   {
     "lemma": "Hippemolgoi",
+    "previous": "Hippalos 3",
     "next": "Hippodromios",
     "proof_read": 3,
     "short_description": "Skyth.(?) Volk bei Homer",
@@ -28130,7 +28134,7 @@
   {
     "lemma": "Ὕψισται πύλαι",
     "previous": "Hypometheus",
-    "next": "Iabadiu",
+    "next": "Ἰαβαδίου νῆσος",
     "sort_key": "Hypsistaipylai",
     "proof_read": 2,
     "short_description": "Hypsistai pylai, eins der Tore Thebens",
@@ -28143,9 +28147,23 @@
     ]
   },
   {
-    "lemma": "Iabadiu",
+    "lemma": "Ἰαβαδίου νῆσος",
     "previous": "Ὕψισται πύλαι",
     "next": "Iaca",
+    "sort_key": "Iabadiu nesos",
+    "short_description": "Iabadiu nesos, wahrscheinlich Java, Insel im indonesischen Archipel",
+    "wp_link": "w:de:Java (Insel)",
+    "wd_link": "d:Q3757",
+    "chapters": [
+      {
+        "start": 1161,
+        "end": 1161,
+        "author": "Wecker."
+      }
+    ]
+  },
+  {
+    "lemma": "Iabadiu",
     "short_description": "Insel im indonesischen, wahrscheinlich Java",
     "wp_link": "w:de:Java (Insel)",
     "wd_link": "d:Q3757",
@@ -28159,10 +28177,10 @@
   },
   {
     "lemma": "Iaca",
-    "previous": "Iabadiu",
+    "previous": "Ἰαβαδίου νῆσος",
     "next": "Jagsthausen",
     "proof_read": 3,
-    "short_description": "Stadt im Gebiet der hispan. Vasconen",
+    "short_description": "Stadt im Gebiet der hispanischen Vasconen",
     "no_creative_height": true,
     "wp_link": "w:es:Iaca",
     "wd_link": "d:Q11926303",
@@ -28243,9 +28261,9 @@
   {
     "lemma": "Iapodes",
     "previous": "Iao",
-    "next": "Iaso 1",
+    "next": "Iaso 4",
     "proof_read": 2,
-    "short_description": "Illyr. Volk",
+    "short_description": "illyrisches Volk",
     "wp_link": "w:de:Japoden",
     "wd_link": "d:Q1266928",
     "chapters": [
@@ -28257,11 +28275,11 @@
     ]
   },
   {
-    "lemma": "Iaso 1",
+    "lemma": "Iaso 4",
     "previous": "Iapodes",
     "next": "Iasos 3",
     "proof_read": 2,
-    "short_description": "Heilgöttin, zum Kultkreis des Asklepios gehörig",
+    "short_description": "keltischer Männername",
     "chapters": [
       {
         "start": 1192,
@@ -28272,7 +28290,7 @@
   },
   {
     "lemma": "Iasos 3",
-    "previous": "Iaso 1",
+    "previous": "Iaso 4",
     "next": "Iatinon",
     "sort_key": "Iasos 03",
     "proof_read": 2,
