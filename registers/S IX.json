@@ -2524,7 +2524,6 @@
   },
   {
     "lemma": "Munda a",
-    "next": "Nauplia 1",
     "sort_key": "Munda 0",
     "short_description": "Hispan. Fluß vgl. Aeminium",
     "chapters": [
@@ -2535,9 +2534,17 @@
     ]
   },
   {
+    "lemma": "Naucellius",
+    "chapters": [
+      {
+        "start": 411,
+        "end": 415,
+        "author": "Sc. Mariotti."
+      }
+    ]
+  },
+  {
     "lemma": "Nauplia 1",
-    "previous": "Munda a",
-    "next": "Neratius 15a",
     "short_description": "Argiv. Hafenstadt",
     "chapters": [
       {
@@ -2547,9 +2554,26 @@
     ]
   },
   {
+    "lemma": "Neleia 2",
+    "chapters": [
+      {
+        "start": 415,
+        "end": 416,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Nemea 2",
+    "chapters": [
+      {
+        "start": 416,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
     "lemma": "Neratius 15a",
-    "previous": "Nauplia 1",
-    "next": "Nerion",
     "proof_read": 2,
     "short_description": "Pu[...] N. [...] Probus, Prokurator der Provinz Mauretania Caes.(?)",
     "no_creative_height": true,
@@ -2563,7 +2587,6 @@
   },
   {
     "lemma": "Nerion",
-    "previous": "Neratius 15a",
     "next": "νεῦσις",
     "proof_read": 3,
     "short_description": "Iber. Kap, s. Nerium promunturium, Arrotrebarum promunturium",
@@ -2579,7 +2602,6 @@
   {
     "lemma": "νεῦσις",
     "previous": "Nerion",
-    "next": "Nikochis",
     "sort_key": "neusis",
     "short_description": "neusis, geometrische Operation",
     "chapters": [
@@ -2592,8 +2614,6 @@
   },
   {
     "lemma": "Nikochis",
-    "previous": "νεῦσις",
-    "next": "Ninon",
     "proof_read": 3,
     "short_description": "Ort im Nildelta",
     "no_creative_height": true,
@@ -2608,7 +2628,6 @@
   {
     "lemma": "Ninon",
     "previous": "Nikochis",
-    "next": "Nonius 17a",
     "short_description": "N. von Kroton, Demagoge und Anti-Pythagoreer im 5. Jh. v. Chr.",
     "chapters": [
       {
@@ -2619,9 +2638,16 @@
     ]
   },
   {
+    "lemma": "Nomia 1",
+    "chapters": [
+      {
+        "start": 462,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
     "lemma": "Nonius 17a",
-    "previous": "Ninon",
-    "next": "Suetrius",
     "short_description": "L. N. Asprenas, Prokonsul der Provinz Africa im J. 83 n. Chr., Sohn des L. N.",
     "chapters": [
       {
@@ -2631,9 +2657,7 @@
     ]
   },
   {
-    "lemma": "Suetrius",
-    "previous": "Nonius 17a",
-    "next": "Odyrmos",
+    "lemma": "Octavius 40",
     "short_description": "cos. ord. in den J. 214 und 240 n. Chr. = C. Octavius Nr. 40 ) Appius S.",
     "chapters": [
       {
@@ -2645,7 +2669,6 @@
   },
   {
     "lemma": "Odyrmos",
-    "previous": "Suetrius",
     "next": "Oinis a",
     "proof_read": 2,
     "short_description": "die Personifikation des Wehklagens",
@@ -2661,7 +2684,6 @@
   {
     "lemma": "Oinis a",
     "previous": "Odyrmos",
-    "next": "Ornea",
     "sort_key": "Oinisa",
     "proof_read": 2,
     "short_description": "Sohn des ägyptischen Königs Menes",
@@ -2675,9 +2697,70 @@
     ]
   },
   {
+    "lemma": "Oinoë 7",
+    "chapters": [
+      {
+        "start": 466,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Oinoë 8",
+    "chapters": [
+      {
+        "start": 466,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Oinus 2",
+    "chapters": [
+      {
+        "start": 466,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Olenos 4",
+    "chapters": [
+      {
+        "start": 466,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Onkai 2",
+    "chapters": [
+      {
+        "start": 465,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Orchomenos 4",
+    "chapters": [
+      {
+        "start": 465,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Orminion 1",
+    "chapters": [
+      {
+        "start": 465,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
     "lemma": "Ornea",
-    "previous": "Oinis a",
-    "next": "Oromasdes",
     "proof_read": 2,
     "short_description": "Eponyme des argiv. Orneai",
     "no_creative_height": true,
@@ -2692,8 +2775,16 @@
     ]
   },
   {
+    "lemma": "Orneai",
+    "chapters": [
+      {
+        "start": 465,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
     "lemma": "Oromasdes",
-    "previous": "Ornea",
     "next": "Orsabaris",
     "short_description": "Iran. Gottheit",
     "chapters": [
@@ -3039,7 +3130,6 @@
   {
     "lemma": "Pautalia",
     "previous": "Pasikrates 7",
-    "next": "Pemphōs",
     "short_description": "s. d. Suppl",
     "chapters": [
       {
@@ -3050,9 +3140,16 @@
     ]
   },
   {
+    "lemma": "Pellene 1",
+    "chapters": [
+      {
+        "start": 825,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
     "lemma": "Pemphōs",
-    "previous": "Pautalia",
-    "next": "Phileis Meter",
     "proof_read": 2,
     "short_description": "König der ersten ägypt. Dynastie = Semempses Manethos",
     "no_creative_height": true,
@@ -3065,9 +3162,44 @@
     ]
   },
   {
+    "lemma": "Pharaia 1",
+    "chapters": [
+      {
+        "start": 825,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Pharnakeia 1",
+    "chapters": [
+      {
+        "start": 825,
+        "end": 826,
+        "author": "Chr. M. Danoff."
+      }
+    ]
+  },
+  {
+    "lemma": "Phea, Pheai",
+    "chapters": [
+      {
+        "start": 826,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Phelloe",
+    "chapters": [
+      {
+        "start": 826,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
     "lemma": "Phileis Meter",
-    "previous": "Pemphōs",
-    "next": "Phorkides",
     "short_description": "Beiname der kleinasiat. Muttergottheit im lyd. Koloë",
     "chapters": [
       {
@@ -3077,8 +3209,16 @@
     ]
   },
   {
+    "lemma": "Phleius",
+    "chapters": [
+      {
+        "start": 827,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
     "lemma": "Phorkides",
-    "previous": "Phileis Meter",
     "next": "Pithos 1",
     "short_description": "Die Töchter des Meergreises Phorkys und der Keto",
     "chapters": [
