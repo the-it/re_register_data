@@ -36825,6 +36825,7 @@
     "lemma": "Arverni",
     "previous": "Artynes",
     "next": "Arvernicus",
+    "sort_key": "Aruerni",
     "proof_read": 3,
     "short_description": "gallisches Volk in Aquitanien am Cevennagebirge, der jetzigen Auvergne",
     "no_creative_height": true,
@@ -36842,7 +36843,7 @@
     "lemma": "Arvernicus",
     "previous": "Arverni",
     "next": "Arvernicus 2",
-    "sort_key": "Arvernicus 1",
+    "sort_key": "Aruernicus 1",
     "proof_read": 3,
     "short_description": "gallischer Vasenfabrikant",
     "no_creative_height": true,
@@ -36858,6 +36859,7 @@
     "lemma": "Arvernicus 2",
     "previous": "Arvernicus",
     "next": "Arvius 1",
+    "sort_key": "Aruernicus 2",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer in Rheinzabern in der 2. H. des 2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -36873,6 +36875,7 @@
     "lemma": "Arvius 1",
     "previous": "Arvernicus 2",
     "next": "Arvius 2",
+    "sort_key": "Aruius 1",
     "proof_read": 3,
     "short_description": "C. A., arretin. Sigillatatöpfer in august. Zeit?",
     "no_creative_height": true,
@@ -36888,8 +36891,9 @@
     "lemma": "Arvius 2",
     "previous": "Arvius 1",
     "next": "Arvius 3",
+    "sort_key": "Aruius 2",
     "proof_read": 3,
-    "short_description": "L. A., arretin. Sigillatatöpfer in august. Zeit?",
+    "short_description": "L. A., arretinischer Sigillatatöpfer in august. Zeit?",
     "no_creative_height": true,
     "chapters": [
       {
@@ -36903,8 +36907,9 @@
     "lemma": "Arvius 3",
     "previous": "Arvius 2",
     "next": "Arvius 4",
+    "sort_key": "Aruius 3",
     "proof_read": 3,
-    "short_description": "M. A., arretin. Sigillatatöpfer in august. Zeit?",
+    "short_description": "M. A., arretinischer Sigillatatöpfer in august. Zeit?",
     "no_creative_height": true,
     "chapters": [
       {
@@ -36918,6 +36923,7 @@
     "lemma": "Arvius 4",
     "previous": "Arvius 3",
     "next": "Arvius 5",
+    "sort_key": "Aruius 4",
     "proof_read": 3,
     "short_description": "Q. A., arretinischer Sigillatatöpfer in august. Zeit?",
     "no_creative_height": true,
@@ -36933,6 +36939,7 @@
     "lemma": "Arvius 5",
     "previous": "Arvius 4",
     "next": "Arula",
+    "sort_key": "Aruius 5",
     "proof_read": 3,
     "short_description": "Sex. A., arretinischer Sigillatatöpfer in august. Zeit?",
     "no_creative_height": true,
@@ -67834,7 +67841,19 @@
     ]
   },
   {
-    "lemma": "Cominius 2b"
+    "lemma": "Cominius 2b",
+    "previous": "Cominius 22",
+    "next": "Comisillus",
+    "proof_read": 3,
+    "short_description": "Cos. suff. unter Vespasian",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 88,
+        "end": 88,
+        "author": "Hans Gärtner."
+      }
+    ]
   },
   {
     "lemma": "Comisillus",
@@ -70341,6 +70360,7 @@
   },
   {
     "lemma": "Cotus 2",
+    "previous": "Cotulo",
     "next": "Cr....",
     "redirect": true,
     "proof_read": 3,
@@ -85064,6 +85084,7 @@
     "lemma": "Favorinus",
     "previous": "Favorianae figlinae",
     "next": "Faurianae figlinae",
+    "sort_key": "Fauorinus",
     "proof_read": 3,
     "short_description": "Favorinus aus Arelate, Sophist im 1./2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -85263,6 +85284,7 @@
     "lemma": "Favvo",
     "previous": "Faustus 26",
     "next": "Felicio 5",
+    "sort_key": "Fauuo",
     "proof_read": 3,
     "short_description": "germanischer Sigillatatöpfer in Rheinzabern 2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -139240,7 +139262,7 @@
   {
     "lemma": "Pella 6a",
     "previous": "Pelkin",
-    "next": "Pellene 1",
+    "next": "Pellene, Pallene 1",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -139251,7 +139273,7 @@
     ]
   },
   {
-    "lemma": "Pellene 1",
+    "lemma": "Pellene, Pallene 1",
     "previous": "Pella 6a",
     "next": "Peloponnesos",
     "proof_read": 3,
@@ -139266,8 +139288,21 @@
     ]
   },
   {
+    "lemma": "Pellene 1",
+    "proof_read": 3,
+    "short_description": "achaiische Stadt",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 183,
+        "end": 183,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
     "lemma": "Peloponnesos",
-    "previous": "Pellene 1",
+    "previous": "Pellene, Pallene 1",
     "next": "Pelops",
     "proof_read": 3,
     "short_description": "die griechische Halbinsel",
