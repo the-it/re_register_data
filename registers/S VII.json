@@ -1701,17 +1701,26 @@
   {
     "lemma": "Gezeiten",
     "previous": "Gesta",
-    "next": "Glossokomon",
     "chapters": [
       {
         "start": 208,
+        "end": 220,
         "author": "Capelle"
       }
     ]
   },
   {
+    "lemma": "Gigantensäulen",
+    "chapters": [
+      {
+        "start": 220,
+        "end": 220,
+        "author": "Fritz Heichelheim."
+      }
+    ]
+  },
+  {
     "lemma": "Glossokomon",
-    "previous": "Gezeiten",
     "next": "Goaxis",
     "short_description": "Das Aulosfutteral",
     "chapters": [
@@ -2396,7 +2405,6 @@
   {
     "lemma": "Kilikarches",
     "previous": "Kildara",
-    "next": "Kaphisophon",
     "short_description": "Praeses des kilik. Koinon",
     "chapters": [
       {
@@ -2406,8 +2414,16 @@
     ]
   },
   {
+    "lemma": "Kleidemos 2",
+    "chapters": [
+      {
+        "start": 321,
+        "author": "W. Kroll."
+      }
+    ]
+  },
+  {
     "lemma": "Kaphisophon",
-    "previous": "Kilikarches",
     "next": "Karpologoi",
     "short_description": "K. von Kos, Theoros zu Ptolemaios II. Philadelphos nach Alexandreia",
     "chapters": [
@@ -2603,7 +2619,6 @@
   {
     "lemma": "Latinus 10",
     "previous": "Lamud...",
-    "next": "Leontios 7",
     "short_description": "L. Largus, Schüler des Juristen Iulius Paulus",
     "chapters": [
       {
@@ -2613,20 +2628,17 @@
     ]
   },
   {
-    "lemma": "Leontios 7",
-    "previous": "Latinus 10",
-    "next": "Lausus 5",
-    "short_description": "Lehrer an der Rechtsschule von Berytos(?) um 500 n. Chr., Sohn des Patrikios",
+    "lemma": "Latos 1",
     "chapters": [
       {
-        "start": 357,
-        "author": "Berger"
+        "start": 342,
+        "end": 365,
+        "author": "Ernst Kirsten."
       }
     ]
   },
   {
     "lemma": "Lausus 5",
-    "previous": "Leontios 7",
     "next": "Leben(a)",
     "short_description": "Lausos, Kämmerer am oström. Hof in der 1. H. des 5. Jh. n. Chr.",
     "chapters": [
@@ -2663,7 +2675,6 @@
   {
     "lemma": "Leontios 6",
     "previous": "Leodamas 3",
-    "next": "Leontios 8",
     "short_description": "Lehrer an der Rechtsschule von Berytos in der 2. H. des 5. Jh. n. Chr., Sohn",
     "chapters": [
       {
@@ -2673,8 +2684,17 @@
     ]
   },
   {
+    "lemma": "Leontios 7",
+    "short_description": "Lehrer an der Rechtsschule von Berytos(?) um 500 n. Chr., Sohn des Patrikios",
+    "chapters": [
+      {
+        "start": 375,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
     "lemma": "Leontios 8",
-    "previous": "Leontios 6",
     "next": "Leontios 9",
     "short_description": "Rechtsanwalt unter Iustinian I., Mitarbeiter des Tribonianus (VI A 2419 Nr. 1)",
     "chapters": [
@@ -2935,7 +2955,6 @@
   {
     "lemma": "Lex de clavo pangendo",
     "previous": "Lex Clodia de victoriato",
-    "next": "Leges Corneliae 4",
     "short_description": "Vgl. Clavus Nr. 1",
     "chapters": [
       {
@@ -2945,8 +2964,17 @@
     ]
   },
   {
+    "lemma": "Leges Corneliae 3",
+    "chapters": [
+      {
+        "start": 384,
+        "end": 384,
+        "author": "Adolf Berger."
+      }
+    ]
+  },
+  {
     "lemma": "Leges Corneliae 4",
-    "previous": "Lex de clavo pangendo",
     "next": "Leges Corneliae Pompeiae 1",
     "sort_key": "Lex Corneliae 4",
     "proof_read": 2,
@@ -3192,7 +3220,6 @@
   {
     "lemma": "Lex Iunia 7",
     "previous": "Lex Iunia 6",
-    "next": "Lex Lucretia de agro Campano",
     "sort_key": "Lex Iunia 7",
     "proof_read": 2,
     "short_description": "L. I. militaris",
@@ -3206,8 +3233,53 @@
     ]
   },
   {
+    "lemma": "Lex Laetoria",
+    "chapters": [
+      {
+        "start": 399,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Licinia 3",
+    "chapters": [
+      {
+        "start": 398,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Licinia 4",
+    "chapters": [
+      {
+        "start": 398,
+        "end": 399,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Licinia 9",
+    "chapters": [
+      {
+        "start": 399,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Licinia 10",
+    "chapters": [
+      {
+        "start": 399,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
     "lemma": "Lex Lucretia de agro Campano",
-    "previous": "Lex Iunia 7",
     "next": "Lex Lutatia de vi",
     "sort_key": "Lex Lucretia de agro campano",
     "proof_read": 2,
@@ -3357,7 +3429,15 @@
   {
     "lemma": "Lex Papia de Vestalium lectione",
     "previous": "Lex Ovinia",
-    "next": "Lex Petillia",
+    "chapters": [
+      {
+        "start": 402,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Papiria 2",
     "chapters": [
       {
         "start": 402,
@@ -3367,7 +3447,6 @@
   },
   {
     "lemma": "Lex Petillia",
-    "previous": "Lex Papia de Vestalium lectione",
     "next": "Lex Pinaria Furia de intercalando",
     "short_description": "L. P. de pecunia regis Antiochi",
     "chapters": [
@@ -3508,7 +3587,6 @@
   {
     "lemma": "Lex Publicia 2",
     "previous": "Lex Pompeia Licinia 2",
-    "next": "Lex Roscia 1",
     "short_description": "L. P. de cereis",
     "chapters": [
       {
@@ -3518,8 +3596,34 @@
     ]
   },
   {
+    "lemma": "Lex Publilia 1",
+    "chapters": [
+      {
+        "start": 411,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Publilia 2",
+    "chapters": [
+      {
+        "start": 411,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Publilia 3",
+    "chapters": [
+      {
+        "start": 411,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
     "lemma": "Lex Roscia 1",
-    "previous": "Lex Publicia 2",
     "next": "Lex Roscia 2",
     "short_description": "L. R. theatralis",
     "chapters": [
@@ -3592,7 +3696,6 @@
   {
     "lemma": "Leges Semproniae 2",
     "previous": "Leges Semproniae 1a",
-    "next": "Leges Semproniae 2.7",
     "sort_key": "Lex Semproniae 2",
     "short_description": "des C. Sempronius Gracchus",
     "chapters": [
@@ -3603,8 +3706,17 @@
     ]
   },
   {
+    "lemma": "Leges Semproniae 2.4",
+    "sort_key": "Lex Semproniae 2.4",
+    "chapters": [
+      {
+        "start": 412,
+        "author": "Berger"
+      }
+    ]
+  },
+  {
     "lemma": "Leges Semproniae 2.7",
-    "previous": "Leges Semproniae 2",
     "next": "Leges Semproniae 2.8",
     "sort_key": "Lex Semproniae 2.7",
     "short_description": "L. S. militaris",
