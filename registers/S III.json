@@ -9793,9 +9793,9 @@
     "lemma": "Avillius 2a",
     "previous": "Avignon",
     "next": "Avitianae figlinae",
-    "sort_key": "Auillius 2a",
+    "sort_key": "Avillius 2a3",
     "proof_read": 3,
-    "short_description": "Sex. A., arretin. Sigillatatöpfer in august. Zeit",
+    "short_description": "Sex. A., arretinischer Sigillatatöpfer in august. Zeit",
     "chapters": [
       {
         "start": 187,
@@ -14173,7 +14173,7 @@
   {
     "lemma": "Cantus",
     "previous": "ad Cantunas novas",
-    "next": "Capienacus oder Capionacus",
+    "next": "Capienacus, Capionacus",
     "proof_read": 3,
     "short_description": "südgall. Sigillatatöpfer in La Graufesenque im 1. Jh. n. Chr.",
     "chapters": [
@@ -14185,9 +14185,25 @@
     ]
   },
   {
-    "lemma": "Capienacus oder Capionacus",
+    "lemma": "Capienacus, Capionacus",
     "previous": "Cantus",
-    "next": "Capitolium 2",
+    "next": "Capitolium vetus",
+    "proof_read": 3,
+    "short_description": "Ziegelfabrikant im Moselgebiet im 4. Jh. n. Chr.",
+    "chapters": [
+      {
+        "start": 233,
+        "end": 233,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Capitolium vetus",
+    "previous": "Capienacus, Capionacus"
+  },
+  {
+    "lemma": "Capienacus oder Capionacus",
     "proof_read": 3,
     "short_description": "Ziegelfabrikant im Moselgebiet im 4. Jh. n. Chr.",
     "chapters": [
@@ -14200,7 +14216,7 @@
   },
   {
     "lemma": "Capitolium 2",
-    "previous": "Capienacus oder Capionacus",
+    "previous": "Capienacus, Capionacus",
     "next": "Capitolinus 8",
     "proof_read": 3,
     "short_description": "Nachahmungen des stadtröm. C. in anderen Städten des weström. Reiches",
@@ -22823,6 +22839,7 @@
     "lemma": "Faventinus 3",
     "previous": "Fato",
     "next": "Faveria",
+    "sort_key": "Fauentinus 3",
     "proof_read": 2,
     "short_description": "Sigillatatöpfer in (Gallien und?) Rheinzabern im 2. Jh. n. Chr.",
     "chapters": [
@@ -22837,6 +22854,7 @@
     "lemma": "Faveria",
     "previous": "Faventinus 3",
     "next": "Faviana officina",
+    "sort_key": "Faueria",
     "proof_read": 2,
     "short_description": "Stadt in Istrien",
     "no_creative_height": true,
@@ -22865,7 +22883,6 @@
     "lemma": "Faunianae figlinae",
     "previous": "Faviana officina",
     "next": "Favorianae figlinae",
-    "sort_key": "Favnianae figlinae",
     "proof_read": 2,
     "short_description": "stadtrömische Ziegelei auf einem Gut der Kaiserin Faustina",
     "chapters": [
@@ -22880,6 +22897,7 @@
     "lemma": "Favorianae figlinae",
     "previous": "Faunianae figlinae",
     "next": "Faurianae figlinae",
+    "sort_key": "Fauorianae figlinae",
     "proof_read": 2,
     "short_description": "stadtrömische Ziegelei, persönliches Eigentum der Kaiser",
     "chapters": [
@@ -22894,7 +22912,6 @@
     "lemma": "Faurianae figlinae",
     "previous": "Favorianae figlinae",
     "next": "Faustinianus ager",
-    "sort_key": "Favrianaefiglinae",
     "redirect": "Favorianae figlinae",
     "proof_read": 2,
     "chapters": [
@@ -26142,7 +26159,7 @@
   {
     "lemma": "Γραμμή",
     "previous": "Graia II.2",
-    "next": "Grand oder Gran",
+    "next": "Grand, Gran",
     "sort_key": "Gramme",
     "proof_read": 2,
     "short_description": "Gramme, die Start- und Ziellinie der Rennbahn, oft eine Steinschwelle",
@@ -26157,7 +26174,7 @@
     ]
   },
   {
-    "lemma": "Grand oder Gran",
+    "lemma": "Grand, Gran",
     "previous": "Γραμμή",
     "next": "Granianus 2",
     "proof_read": 2,
@@ -26172,7 +26189,7 @@
   },
   {
     "lemma": "Granianus 2",
-    "previous": "Grand oder Gran",
+    "previous": "Grand, Gran",
     "next": "Granius",
     "proof_read": 3,
     "short_description": "mittelgall. Sigillatatöpfer (in Vichy?) im 2. Jh. n. Chr.",
@@ -26619,8 +26636,9 @@
     ]
   },
   {
-    "lemma": "Haisto oder Aisto",
+    "lemma": "Haisto, Aisto",
     "previous": "Haimon a",
+    "next": "Halius",
     "sort_key": "Haistooder aisto",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer (in Rheinzabern?) im 2. Jh. n. Chr.",
