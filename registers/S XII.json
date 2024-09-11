@@ -1722,10 +1722,10 @@
     "lemma": "Bappo 2",
     "previous": "Balchobaudes",
     "next": "Barbius a",
-    "short_description": "Tribun der promoti 355 n. Chr.",
+    "short_description": "Tribun der promoti im J. 355 n. Chr.",
     "chapters": [
       {
-        "start": 132,
+        "start": 131,
         "end": 132,
         "author": "Alexander Demandt."
       }
@@ -3169,7 +3169,7 @@
   {
     "lemma": "Crepereius 5a",
     "previous": "Cossonius 3a",
-    "next": "Crispinus 15a",
+    "next": "Crispinus 5a",
     "short_description": "L. C. Paulus, Prokurator der pannon. Silberbergwerke in hadrian.-antonin. Zeit",
     "chapters": [
       {
@@ -3181,6 +3181,8 @@
   },
   {
     "lemma": "Crispinus 5a",
+    "previous": "Crepereius 5a",
+    "next": "Cupressenus",
     "short_description": "Crispinus Gallus = [...]nius Gallus Vecilius Crispinus",
     "chapters": [
       {
@@ -3191,21 +3193,8 @@
     ]
   },
   {
-    "lemma": "Crispinus 15a",
-    "previous": "Crepereius 5a",
-    "next": "Cupressenus",
-    "short_description": "Crispinus Gallus, leg. Aug. pr. pr. von Galatia, Pisidia und Paphlagonia",
-    "chapters": [
-      {
-        "start": 190,
-        "end": 191,
-        "author": "Rudolf Hanslik."
-      }
-    ]
-  },
-  {
     "lemma": "Cupressenus",
-    "previous": "Crispinus 15a",
+    "previous": "Crispinus 5a",
     "next": "Curtius 37a",
     "proof_read": 3,
     "short_description": "C. Gallus, cos. suff. 147 n. Chr.",
@@ -5972,8 +5961,7 @@
         "author": "Franz Stoessl."
       }
     ]
-  },
-  {
+  },  {
     "lemma": "Nonius 56",
     "next": "Nummius 13a",
     "short_description": "N. Victor Olympius, c.v. und pater patrum im J. 357 n. Chr. = N. Victor",
@@ -6026,8 +6014,7 @@
         "author": "Rudolf Hanslik."
       }
     ]
-  },
-  {
+  },  {
     "lemma": "Ogdoa",
     "short_description": "Maßbezeichnung",
     "chapters": [
@@ -6402,8 +6389,7 @@
         "author": "Ernst Meyer."
       }
     ]
-  },
-  {
+  },  {
     "lemma": "Pescennius 1a",
     "next": "Pharsalos",
     "short_description": "P. Iulianus, einer der Italiker, die Septimius Severus töten ließ(?)",
