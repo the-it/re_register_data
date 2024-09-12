@@ -5918,7 +5918,6 @@
   {
     "lemma": "Octavianus 3a",
     "previous": "Oppius 32a",
-    "next": "Orchomenos 1",
     "proof_read": 2,
     "short_description": "Octabianus, Statthalter der Provinz Sardinia 235 n. Chr.",
     "no_creative_height": true,
@@ -5931,8 +5930,25 @@
     ]
   },
   {
+    "lemma": "Octavius 40",
+    "chapters": [
+      {
+        "start": 290,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Opimianus 2",
+    "chapters": [
+      {
+        "start": 289,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
     "lemma": "Orchomenos 1",
-    "previous": "Octavianus 3a",
     "next": "Ostorius 1a",
     "short_description": "Boiot. Stadt",
     "chapters": [
@@ -5988,7 +6004,6 @@
   {
     "lemma": "Ovilatus",
     "previous": "Otacilius 10a",
-    "next": "Ovinius 1a",
     "short_description": "F. l. statt Ovilavis (XVIII 1.H. 1986. S XIV 356 ), Stadt im Nordwesten der",
     "chapters": [
       {
@@ -5999,8 +6014,17 @@
     ]
   },
   {
+    "lemma": "Ovilavis",
+    "chapters": [
+      {
+        "start": 356,
+        "end": 366,
+        "author": "Gerhard Winkler."
+      }
+    ]
+  },
+  {
     "lemma": "Ovinius 1a",
-    "previous": "Ovilatus",
     "next": "Pacatus 8",
     "proof_read": 2,
     "short_description": "O., curator viae Flaminiae = L. O. Nr. 9 Rusticus Cornelianus (?)",
@@ -6016,7 +6040,6 @@
   {
     "lemma": "Pacatus 8",
     "previous": "Ovinius 1a",
-    "next": "Pacilaeus",
     "proof_read": 2,
     "short_description": "[---]nia Pacata, Mädchen senator. Standes an Säkularspielen 204 n. Chr.",
     "no_creative_height": true,
@@ -6029,8 +6052,16 @@
     ]
   },
   {
+    "lemma": "Paccius 11",
+    "chapters": [
+      {
+        "start": 366,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
     "lemma": "Pacilaeus",
-    "previous": "Pacatus 8",
     "next": "Papias 7",
     "short_description": "[---]ius M. f. P., leg. pr. pr. der Senatsprovinz Creta-Cyrenae in august. Zt.",
     "chapters": [
@@ -6193,7 +6224,6 @@
   {
     "lemma": "Pedius 3a",
     "previous": "Pausanias 28",
-    "next": "Petronius 49a",
     "short_description": "P. Blaesus, Prokonsul der Provinz Creta-Cyrenae im 1. Jh. n. Chr.",
     "chapters": [
       {
@@ -6203,9 +6233,25 @@
     ]
   },
   {
+    "lemma": "Pegasos 4",
+    "chapters": [
+      {
+        "start": 375,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Perge 2",
+    "chapters": [
+      {
+        "start": 375,
+        "end": 383,
+        "author": "Shelagh Jameson."
+      }
+    ]
+  },  {
     "lemma": "Petronius 49a",
-    "previous": "Pedius 3a",
-    "next": "Phintias 6",
     "short_description": "T. P. Niger, cos. suff. etwa im J. 62 n. Chr.",
     "chapters": [
       {
@@ -6215,9 +6261,26 @@
     ]
   },
   {
+    "lemma": "Petronius 80",
+    "chapters": [
+      {
+        "start": 383,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Phigaleia",
+    "chapters": [
+      {
+        "start": 383,
+        "end": 384,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
     "lemma": "Phintias 6",
-    "previous": "Petronius 49a",
-    "next": "Pinarius 10a",
     "proof_read": 2,
     "short_description": "att. Töpfer in spätklass. Zeit",
     "no_creative_height": true,
@@ -6230,14 +6293,51 @@
     ]
   },
   {
+    "lemma": "Phytaion",
+    "chapters": [
+      {
+        "start": 383,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Pinarius 9",
+    "chapters": [
+      {
+        "start": 383,
+        "end": 384,
+        "author": "Eck"
+      }
+    ]
+  },
+  {
+    "lemma": "Pinarius 10",
+    "chapters": [
+      {
+        "start": 384,
+        "author": "Hanslik"
+      }
+    ]
+  },
+  {
     "lemma": "Pinarius 10a",
-    "previous": "Phintias 6",
     "short_description": "Cn. Pinarius Cornelius Clemens, cos. suff. unter Vespasian, Sohn des Lucius,",
     "chapters": [
       {
         "start": 384,
         "end": 385,
         "author": "Hanslik"
+      }
+    ]
+  },
+  {
+    "lemma": "Plancius 5",
+    "chapters": [
+      {
+        "start": 385,
+        "end": 386,
+        "author": "Eck"
       }
     ]
   },
