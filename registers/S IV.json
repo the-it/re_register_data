@@ -4713,6 +4713,7 @@
   {
     "lemma": "Hyperanthes 2",
     "previous": "Ὑπασχολούμενος",
+    "next": "Hyperbolos 1",
     "proof_read": 3,
     "short_description": "Sohn von Dareios I. und Phratagune, fiel bei den Thermopylen 480 v. Chr.",
     "no_creative_height": true,
@@ -4726,8 +4727,6 @@
   },
   {
     "lemma": "Hyperbolos 2",
-    "previous": "Hyperanthes 2",
-    "next": "Ὑπηρέτης",
     "short_description": "Athen. Demagoge in der 2. H. des 5. Jh. v. Chr s. 2)",
     "chapters": [
       {
@@ -4738,7 +4737,12 @@
     ]
   },
   {
+    "lemma": "Hyperbolos 1",
+    "next": "Ὑπηρέτης"
+  },
+  {
     "lemma": "Ὑπηρέτης",
+    "previous": "Hyperbolos 1",
     "next": "Ὑποβιβλιοφύλαξ",
     "sort_key": "Hyperetes",
     "proof_read": 2,
@@ -5890,6 +5894,7 @@
   },
   {
     "lemma": "Kallimachos 9",
+    "previous": "Kallimachos 3b",
     "next": "Kallimedon 2",
     "redirect": true,
     "proof_read": 3,

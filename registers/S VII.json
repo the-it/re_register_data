@@ -1062,7 +1062,7 @@
   {
     "lemma": "Diadochos a",
     "previous": "Derkylos 2",
-    "next": "Diakrioi",
+    "next": "Diakrier 1",
     "sort_key": "Diadochos 0",
     "proof_read": 2,
     "short_description": "Angehöriger der untersten Rangklasse am Hof der Ptolemaier",
@@ -1078,8 +1078,6 @@
   },
   {
     "lemma": "Diakrioi",
-    "previous": "Diadochos a",
-    "next": "Didius 9",
     "proof_read": 2,
     "short_description": "nur aus den attischen Tributlisten",
     "chapters": [
@@ -1091,8 +1089,21 @@
     ]
   },
   {
+    "lemma": "Diakrier 1",
+    "next": "Didius 9",
+    "proof_read": 2,
+    "short_description": "rhodischer Abgabenbezirk",
+    "chapters": [
+      {
+        "start": 126,
+        "end": 127,
+        "author": "Hiller v. Gaertringen."
+      }
+    ]
+  },
+  {
     "lemma": "Didius 9",
-    "previous": "Diakrioi",
+    "previous": "Diakrier 1",
     "next": "διεραματίτης",
     "sort_key": "Didius 09",
     "proof_read": 2,
@@ -2063,7 +2074,7 @@
   {
     "lemma": "Iulius 83",
     "previous": "Iulius 80",
-    "next": "Iulius 86a",
+    "next": "Iulius 87a",
     "sort_key": "Iulius 083",
     "proof_read": 3,
     "short_description": "Ti. I. Aquila Polemaeanus, cos. suff. im J. 110 n. Chr.",
@@ -2078,7 +2089,7 @@
     ]
   },
   {
-    "lemma": "Iulius 86a",
+    "lemma": "Iulius 87a",
     "previous": "Iulius 83",
     "next": "Iulius 118",
     "sort_key": "Iulius 086a",
@@ -2094,7 +2105,7 @@
   },
   {
     "lemma": "Iulius 118",
-    "previous": "Iulius 86a",
+    "previous": "Iulius 87a",
     "next": "Iulius 348",
     "redirect": "Iulius 425a",
     "proof_read": 3,
@@ -2155,7 +2166,7 @@
   {
     "lemma": "Iulius 418",
     "previous": "Iulius 357",
-    "next": "Iulius 422a",
+    "next": "Iulius 416a",
     "proof_read": 3,
     "short_description": "C. I. Proculus, cos. suff. 109 n. Chr.",
     "wp_link": "w:de:Gaius Iulius Proculus",
@@ -2169,7 +2180,7 @@
     ]
   },
   {
-    "lemma": "Iulius 422a",
+    "lemma": "Iulius 416a",
     "previous": "Iulius 418",
     "next": "Iulius 425a",
     "proof_read": 3,
@@ -2184,7 +2195,7 @@
   },
   {
     "lemma": "Iulius 425a",
-    "previous": "Iulius 422a",
+    "previous": "Iulius 416a",
     "next": "Iulius 462",
     "proof_read": 2,
     "short_description": "C. I. Quadratus Bassus, cos. suff. 105 n. Chr.",
@@ -7470,7 +7481,7 @@
   {
     "lemma": "Statius 4a",
     "previous": "Spithame",
-    "next": "Stiela oder Stiala",
+    "next": "Stiela, Stiala",
     "proof_read": 2,
     "short_description": "L. S. Aquila, cos. suff. 116 n. Chr., Vater des L. S. Nr. 21",
     "chapters": [
@@ -7482,8 +7493,11 @@
     ]
   },
   {
+    "lemma": "Stiela, Stiala",
+    "previous": "Statius 4a"
+  },
+  {
     "lemma": "Stiela oder Stiala",
-    "previous": "Statius 4a",
     "next": "Stiftungen",
     "short_description": "Sizil. Stadt. vgl. Hybla Nr. 2",
     "chapters": [
