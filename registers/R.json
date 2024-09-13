@@ -2311,6 +2311,7 @@
   {
     "lemma": "Ad Malum",
     "previous": "Ad-",
+    "next": "Ada 2",
     "sort_key": "Admalum",
     "proof_read": 3,
     "short_description": "Station an der Militärstraße ab Aquileia per Liburniam Sisciam",
@@ -2325,6 +2326,7 @@
   },
   {
     "lemma": "Ada 2",
+    "previous": "Ad Malum",
     "next": "Adaba",
     "proof_read": 3,
     "short_description": "Tochter des Pixodaros, Gattin des Orontobates",
@@ -5283,6 +5285,7 @@
     "proof_read": 3,
     "short_description": "Personifikation der Luft, in Kömodie und Mithrasmysterien",
     "no_creative_height": true,
+    "wp_link": "w:es:Aer (mitología)",
     "wd_link": "d:Q12720057",
     "chapters": [
       {
@@ -70676,8 +70679,9 @@
   {
     "lemma": "Crispinus 4a",
     "previous": "Criciro 2",
+    "next": "Crispinus 7a",
     "proof_read": 3,
-    "short_description": "[---]nius Gallus Vecilius C. Mansuanius Marcellinus, leg. Aug. pr. pr.",
+    "short_description": "arretinischer Vasenfabrikant",
     "no_creative_height": true,
     "chapters": [
       {
@@ -70689,6 +70693,7 @@
   },
   {
     "lemma": "Crispinus 7a",
+    "previous": "Crispinus 4a",
     "next": "Crispinus 15a",
     "sort_key": "Crispinus 07a",
     "proof_read": 3,
@@ -79902,7 +79907,7 @@
   {
     "lemma": "Elis 4a",
     "previous": "Elenius, Helenius",
-    "next": "Elius oder Helius",
+    "next": "Elius, Helius",
     "proof_read": 3,
     "short_description": "getische Stadt an der unteren Donau",
     "no_creative_height": true,
@@ -79915,7 +79920,7 @@
     ]
   },
   {
-    "lemma": "Elius oder Helius",
+    "lemma": "Elius, Helius",
     "previous": "Elis 4a",
     "next": "Elpidephoros",
     "sort_key": "Eliusoder helius",
@@ -79932,7 +79937,7 @@
   },
   {
     "lemma": "Elpidephoros",
-    "previous": "Elius oder Helius",
+    "previous": "Elius, Helius",
     "next": "Elpidoforus",
     "proof_read": 3,
     "short_description": "Schauspieler aus Byzanz im 3. Jhdt. n. Chr.",
@@ -92648,7 +92653,9 @@
   },
   {
     "lemma": "Haisto, Aisto",
-    "sort_key": "Haistooder aisto",
+    "previous": "Haimon a",
+    "next": "Halai 1",
+    "sort_key": "Haisto aisto",
     "proof_read": 3,
     "short_description": "Sigillatatöpfer (in Rheinzabern?) im 2. Jh. n. Chr.",
     "no_creative_height": true,
@@ -104849,6 +104856,7 @@
   {
     "lemma": "Iulius 83",
     "previous": "Iulius 80",
+    "next": "Iulius 87a",
     "sort_key": "Iulius 083",
     "proof_read": 3,
     "short_description": "Ti. I. Aquila Polemaeanus, cos. suff. im J. 110 n. Chr.",
@@ -104865,7 +104873,6 @@
   },
   {
     "lemma": "Iulius 86a",
-    "next": "Iulius 87a",
     "sort_key": "Iulius 086a",
     "proof_read": 3,
     "short_description": "Ti. I. Aquilinus Castricius Saturnin[us] Claudius Livianus, praef. praet.",
@@ -104880,7 +104887,11 @@
   },
   {
     "lemma": "Iulius 87a",
-    "previous": "Iulius 86a",
+    "next": "Iulius 87a"
+  },
+  {
+    "lemma": "Iulius 87a",
+    "previous": "Iulius 87a",
     "next": "Iulius 105a",
     "sort_key": "Iulius 086a",
     "redirect": "Claudius 207",
@@ -105755,7 +105766,7 @@
   {
     "lemma": "Iulius 420a",
     "previous": "Iulius 420aa",
-    "next": "Iulius 422a",
+    "next": "Iulius 416a",
     "proof_read": 3,
     "short_description": "P. Iul[ius] Procul[us Cel]sinus, cos. design.",
     "no_creative_height": true,
@@ -105769,8 +105780,6 @@
   },
   {
     "lemma": "Iulius 422a",
-    "previous": "Iulius 420a",
-    "next": "Iulius 425",
     "proof_read": 3,
     "short_description": "Iul(ius) Proculus, Prokurator und Archiereus der Provinz Asia 276 n. Chr.",
     "no_creative_height": true,
@@ -105784,7 +105793,7 @@
   },
   {
     "lemma": "Iulius 425",
-    "previous": "Iulius 422a",
+    "previous": "Iulius 416a",
     "next": "Iulius 425a",
     "proof_read": 3,
     "short_description": "C. Antius A. I. Quadratus, cos. I suff., cos. II ord. 105 n. Chr.",
@@ -108157,7 +108166,6 @@
     "previous": "Kallimachos 7a",
     "next": "Kallimandros",
     "proof_read": 3,
-    "short_description": "aus Sikyon, tragischer oder komischer Schauspieler, Sohn des Menophilos",
     "chapters": [
       {
         "start": 140,
@@ -122485,7 +122493,7 @@
     "next": "Macares",
     "sort_key": "Lyttos",
     "proof_read": 3,
-    "short_description": "Lyttos, Stadt östl. v. Knossos auf Kreta = Karnessopolis",
+    "short_description": "Lyttos, Stadt östlich von Knossos auf Kreta = Karnessopolis",
     "no_creative_height": true,
     "chapters": [
       {
@@ -133414,7 +133422,7 @@
     "previous": "Nonius 56",
     "next": "Nonum, ad 5",
     "proof_read": 3,
-    "short_description": "C. N. Var. Proculus, cos. suff. etwa in der 1. H. des 2. Jh. n. Chr.",
+    "short_description": "C. N. Var. Proculus, cos. suff. etwa 2. Jh. n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -152117,7 +152125,7 @@
   {
     "lemma": "Satyros 10a",
     "previous": "Satyros 7a",
-    "next": "Satyros 12",
+    "next": "Satyros 12a",
     "proof_read": 3,
     "short_description": "S. von Antiocheia Nr. 17? Bildhauer 1. Jh. v. Chr.",
     "no_creative_height": true,
@@ -152131,8 +152139,6 @@
   },
   {
     "lemma": "Satyros 12",
-    "previous": "Satyros 10a",
-    "next": "Satyros 13",
     "proof_read": 3,
     "short_description": "aus Faros, Bildhauer und Architekt etwa im 4. Jh. v. Chr., u. a. tätig in Delphi",
     "no_creative_height": true,
@@ -152147,8 +152153,23 @@
     ]
   },
   {
+    "lemma": "Satyros 12a",
+    "previous": "Satyros 10a",
+    "next": "Satyros 13",
+    "proof_read": 3,
+    "short_description": "Architekt unter Ptolemaios II. Philadelphios in Ägypten",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 202,
+        "end": 202,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
     "lemma": "Satyros 13",
-    "previous": "Satyros 12",
+    "previous": "Satyros 12a",
     "next": "Satyros 13a",
     "proof_read": 3,
     "short_description": "Schauspieler aus Olynth, 4. Jhdt. v. Chr.",
@@ -156930,7 +156951,7 @@
     "previous": "Sosylos 2",
     "next": "Soteles 2",
     "proof_read": 3,
-    "short_description": "Hafen am Arab. Meerbusen",
+    "short_description": "Hafen am Arabischen Meerbusen",
     "no_creative_height": true,
     "chapters": [
       {
@@ -160962,7 +160983,7 @@
   {
     "lemma": "Thymoteles",
     "previous": "Thymiaterion 2",
-    "next": "Thyne",
+    "next": "Thyne 2",
     "proof_read": 3,
     "short_description": "T. von Athen, Tragiker in Delphi 138 v. Chr., Sohn des Philokles",
     "no_creative_height": true,
@@ -160976,8 +160997,6 @@
   },
   {
     "lemma": "Thyne",
-    "previous": "Thymoteles",
-    "next": "Thyraia",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -160989,8 +161008,24 @@
     ]
   },
   {
+    "lemma": "Thyne 2",
+    "previous": "Thymoteles",
+    "next": "Thyraia",
+    "sort_key": "Thyne 2",
+    "proof_read": 3,
+    "short_description": "afrikanische Örtlichkeit",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 215,
+        "end": 215,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
     "lemma": "Thyraia",
-    "previous": "Thyne",
+    "previous": "Thyne 2",
     "next": "Thyrsos 4",
     "proof_read": 3,
     "short_description": "Stadt in der byzantinischen Provinz Asia",
@@ -166752,7 +166787,7 @@
     "lemma": "Ad Vice(n)simum 8",
     "previous": "Ad Vice(n)simum 7",
     "next": "vici magister",
-    "sort_key": "Vicesimum 8 ad",
+    "sort_key": "Vicesimum 0",
     "proof_read": 3,
     "short_description": "Straßenstation in Pannonia superior",
     "no_creative_height": true,

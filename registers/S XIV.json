@@ -5345,6 +5345,7 @@
   },
   {
     "lemma": "Maecius 19",
+    "next": "Mamilius 17",
     "chapters": [
       {
         "start": 273,
@@ -5354,6 +5355,7 @@
   },
   {
     "lemma": "Mamilius 17",
+    "previous": "Maecius 19",
     "next": "Manilius 24a",
     "proof_read": 2,
     "short_description": "Quinta Mamilia Titiana aus Rom, c. m. f. 4. Jh. n. Chr.?",
@@ -5368,6 +5370,8 @@
   },
   {
     "lemma": "Manilius 24a",
+    "previous": "Mamilius 17",
+    "next": "Manilius 25",
     "proof_read": 2,
     "short_description": "M. Fuscus, Sohn des Ti. M. Nr. 25 Fuscus",
     "no_creative_height": true,
@@ -5381,6 +5385,7 @@
   },
   {
     "lemma": "Manilius 25",
+    "previous": "Manilius 24a",
     "chapters": [
       {
         "start": 273,
@@ -5708,6 +5713,7 @@
   {
     "lemma": "Modius 11a",
     "previous": "Minucius 50a",
+    "next": "Neratius 10",
     "proof_read": 2,
     "short_description": "C. M. Laetus Rufinianus, curator rei publicae unter Marc Aurel und Verus",
     "no_creative_height": true,
@@ -5721,6 +5727,7 @@
   },
   {
     "lemma": "Neratius 10",
+    "previous": "Modius 11a",
     "chapters": [
       {
         "start": 283,
@@ -5789,6 +5796,7 @@
   },
   {
     "lemma": "Nonius 46",
+    "next": "Nonius 57a",
     "chapters": [
       {
         "start": 286,
@@ -5798,9 +5806,10 @@
   },
   {
     "lemma": "Nonius 57a",
+    "previous": "Nonius 46",
     "next": "Norbanus 1a",
     "proof_read": 2,
-    "short_description": "C. N. Var. Proculus, cos. suff. etwa in der 1. H. des 2. Jh. n. Chr.",
+    "short_description": "C. N. Var. Proculus, cos. suff. etwa 2. Jh. n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5846,6 +5855,7 @@
   {
     "lemma": "Numisius 13a",
     "previous": "Numisius 4a",
+    "next": "Nummius 18",
     "proof_read": 2,
     "short_description": "Numisia Fonteia Vera",
     "no_creative_height": true,
@@ -5859,6 +5869,7 @@
   },
   {
     "lemma": "Nummius 18",
+    "previous": "Numisius 13a",
     "chapters": [
       {
         "start": 288,
@@ -6250,7 +6261,8 @@
         "author": "Shelagh Jameson."
       }
     ]
-  },  {
+  },
+  {
     "lemma": "Petronius 49a",
     "short_description": "T. P. Niger, cos. suff. etwa im J. 62 n. Chr.",
     "chapters": [
