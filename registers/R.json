@@ -145653,7 +145653,6 @@
   {
     "lemma": "pragmaticus",
     "previous": "pragmatica sanctio",
-    "next": "Praisos",
     "proof_read": 3,
     "short_description": "allg. Vorbemerkung",
     "no_creative_height": true,
@@ -145666,8 +145665,31 @@
     ]
   },
   {
-    "lemma": "Praisos",
+    "lemma": "pragmaticus A.",
     "previous": "pragmaticus",
+    "next": "pragmaticus B.",
+    "short_description": "Als Angehöriger des Juristenstandes",
+    "chapters": [
+      {
+        "start": 192,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "pragmaticus B.",
+    "previous": "pragmaticus A.",
+    "short_description": "Als Beamter",
+    "chapters": [
+      {
+        "start": 192,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Praisos",
+    "previous": "pragmaticus B.",
     "next": "Prakes",
     "proof_read": 3,
     "short_description": "ostkretische Stadt",
