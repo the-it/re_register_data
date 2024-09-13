@@ -10222,7 +10222,6 @@
   {
     "lemma": "Veturius 31",
     "previous": "Vettulenus 8",
-    "next": "Ugoroi (Ogor, Urogoi",
     "short_description": "V. Paccianus, prätor. Prokonsul der Provinz Creta-Cyrenae im 2. Jh. n. Chr.",
     "chapters": [
       {
@@ -10232,7 +10231,7 @@
     ]
   },
   {
-    "lemma": "Ugoroi (Ogor, Urogoi",
+    "lemma": "Ugoroi",
     "previous": "Veturius 31",
     "next": "Via 4",
     "short_description": "Skyth. Volk",
@@ -10246,7 +10245,6 @@
   },
   {
     "lemma": "Via 4",
-    "previous": "Ugoroi (Ogor, Urogoi",
     "next": "Via 5",
     "chapters": [
       {
@@ -10695,6 +10693,7 @@
     "lemma": "Uliades",
     "previous": "Vitulasius 2",
     "next": "Uliades 1",
+    "sort_key": "Vliades 0b",
     "short_description": "Allgem.",
     "chapters": [
       {
@@ -10707,7 +10706,7 @@
   {
     "lemma": "Uliades 1",
     "previous": "Uliades",
-    "next": "Uliades 3",
+    "sort_key": "Vliades 01",
     "short_description": "Samischer. Flottenkommandant im J. 477 v. Chr.",
     "chapters": [
       {
@@ -10717,9 +10716,18 @@
     ]
   },
   {
+    "lemma": "Uliades 2",
+    "sort_key": "Vliades 02",
+    "short_description": "(Iuliades) genannt im 5. Brief des Ps.-Aischines",
+    "chapters": [
+      {
+        "start": 913,
+        "author": "Benedum"
+      }
+    ]
+  },
+  {
     "lemma": "Uliades 3",
-    "previous": "Uliades 1",
-    "next": "Uliades I. 2",
     "sort_key": "Vliades 03",
     "proof_read": 2,
     "short_description": "Knabenname in drei Epigrammen des Meleagros Nr. 7",
@@ -10733,21 +10741,9 @@
     ]
   },
   {
-    "lemma": "Uliades I. 2",
-    "previous": "Uliades 3",
-    "next": "Uliades II.",
-    "short_description": "(Iuliades) genannt im 5. Brief des Ps.-Aischines",
-    "chapters": [
-      {
-        "start": 913,
-        "author": "Benedum"
-      }
-    ]
-  },
-  {
     "lemma": "Uliades II.",
-    "previous": "Uliades I. 2",
     "next": "Uliades II. 1",
+    "sort_key": "Vliades 3-2",
     "short_description": "Numismatische Zeugnisse",
     "chapters": [
       {
@@ -10760,6 +10756,7 @@
     "lemma": "Uliades II. 1",
     "previous": "Uliades II.",
     "next": "Uliades II. 2",
+    "sort_key": "Vliades 3-2-1",
     "short_description": "Archaische Münzaufschrift, Name einer einflußreichen Persönlichkeit in Milet im",
     "chapters": [
       {
@@ -10771,8 +10768,7 @@
   {
     "lemma": "Uliades II. 2",
     "previous": "Uliades II. 1",
-    "next": "Uliades 4",
-    "sort_key": "Vliadesii 2",
+    "sort_key": "Vliades 3-2-2",
     "proof_read": 2,
     "short_description": "U. aus Athen, Beamter im 2. Jh. v. Chr.",
     "no_creative_height": true,
@@ -10785,8 +10781,75 @@
     ]
   },
   {
+    "lemma": "Uliades II. 3",
+    "next": "Uliades III.",
+    "sort_key": "Vliades 3-2-3",
+    "short_description": "M. U., Archon von Alinda unter Caracalla, Sohn des U.",
+    "chapters": [
+      {
+        "start": 915,
+        "author": "Benedum"
+      }
+    ]
+  },
+  {
+    "lemma": "Uliades III.",
+    "previous": "Uliades II. 3",
+    "next": "Uliades III. 1",
+    "sort_key": "Vliades 3-3",
+    "redirect": true,
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 915,
+        "end": 915
+      }
+    ]
+  },
+  {
+    "lemma": "Uliades III. 1",
+    "previous": "Uliades III.",
+    "next": "Uliades III. 2",
+    "sort_key": "Vliades 3-3-1",
+    "short_description": "U. aus Hippokome, um 100 v. Chr., Sohn des Leontiskos",
+    "chapters": [
+      {
+        "start": 915,
+        "author": "Benedum"
+      }
+    ]
+  },
+  {
+    "lemma": "Uliades III. 2",
+    "previous": "Uliades III. 1",
+    "next": "Uliades III. 3",
+    "sort_key": "Vliades 3-3-2",
+    "redirect": true,
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 915,
+        "end": 915
+      }
+    ]
+  },
+  {
+    "lemma": "Uliades III. 3",
+    "previous": "Uliades III. 2",
+    "sort_key": "Vliades 3-3-3",
+    "proof_read": 2,
+    "short_description": "Kaiserzeitl. Priester der Hekate in Lagina",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 915,
+        "end": 915,
+        "author": "Jost Benedum."
+      }
+    ]
+  },
+  {
     "lemma": "Uliades 4",
-    "previous": "Uliades II. 2",
     "next": "Uliades 5",
     "sort_key": "Vliades 04",
     "proof_read": 2,
@@ -10815,7 +10878,6 @@
   {
     "lemma": "Uliades 6",
     "previous": "Uliades 5",
-    "next": "Uliades II. 3",
     "sort_key": "Vliades 06",
     "proof_read": 2,
     "short_description": "U. von Alabanda, Vater der Glykinna",
@@ -10829,76 +10891,7 @@
     ]
   },
   {
-    "lemma": "Uliades II. 3",
-    "previous": "Uliades 6",
-    "next": "Uliades III.",
-    "short_description": "M. U., Archon von Alinda unter Caracalla, Sohn des U.",
-    "chapters": [
-      {
-        "start": 915,
-        "author": "Benedum"
-      }
-    ]
-  },
-  {
-    "lemma": "Uliades III.",
-    "previous": "Uliades II. 3",
-    "next": "Uliades III. 1",
-    "sort_key": "Vliadesiii.",
-    "redirect": true,
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 915,
-        "end": 915
-      }
-    ]
-  },
-  {
-    "lemma": "Uliades III. 1",
-    "previous": "Uliades III.",
-    "next": "Uliades III. 2",
-    "short_description": "U. aus Hippokome, um 100 v. Chr., Sohn des Leontiskos",
-    "chapters": [
-      {
-        "start": 915,
-        "author": "Benedum"
-      }
-    ]
-  },
-  {
-    "lemma": "Uliades III. 2",
-    "previous": "Uliades III. 1",
-    "next": "Uliades III. 3",
-    "sort_key": "Vliadesiii. 2",
-    "redirect": true,
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 915,
-        "end": 915
-      }
-    ]
-  },
-  {
-    "lemma": "Uliades III. 3",
-    "previous": "Uliades III. 2",
-    "next": "Uliades 7",
-    "sort_key": "Vliadesiii. 3",
-    "proof_read": 2,
-    "short_description": "Kaiserzeitl. Priester der Hekate in Lagina",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 915,
-        "end": 915,
-        "author": "Jost Benedum."
-      }
-    ]
-  },
-  {
     "lemma": "Uliades 7",
-    "previous": "Uliades III. 3",
     "next": "Uliades 8",
     "short_description": "Beamter in Tralleis im 2. Jh. v. Chr.",
     "chapters": [
@@ -11639,7 +11632,8 @@
     "lemma": "Uliades IV.",
     "previous": "Uliades 63",
     "next": "Ulias 3",
-    "short_description": "Gentilname",
+    "sort_key": "Vliades 70",
+    "short_description": "Zusammenfassung.",
     "chapters": [
       {
         "start": 929,
