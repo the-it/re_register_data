@@ -4653,7 +4653,7 @@
     "previous": "Aemilius 43",
     "next": "Aemilius 48a",
     "proof_read": 3,
-    "short_description": "L. A. Fortis, Lampen- und Vasentöpfer in Modena.",
+    "short_description": "L. A. Fortis, Lampen- und Vasentöpfer in Modena",
     "no_creative_height": true,
     "chapters": [
       {
@@ -43017,7 +43017,7 @@
     "sort_key": "Avillius 2a0",
     "redirect": "Avillius 2a",
     "proof_read": 3,
-    "short_description": "A. A., arretin. Sigillatatöpfer in august. Zeit",
+    "short_description": "A. A., arretinischer Sigillatatöpfer in august. Zeit",
     "chapters": [
       {
         "start": 56,
@@ -94062,7 +94062,7 @@
     "lemma": "Helius 2",
     "previous": "Heliupolis a",
     "next": "Helix",
-    "redirect": "Elius oder Helius",
+    "redirect": "Elius, Helius",
     "proof_read": 3,
     "chapters": [
       {
@@ -104873,6 +104873,7 @@
   },
   {
     "lemma": "Iulius 87a",
+    "previous": "Iulius 83",
     "next": "Iulius 105a",
     "sort_key": "Iulius 086a",
     "redirect": "Claudius 207",
@@ -105747,6 +105748,7 @@
   {
     "lemma": "Iulius 420a",
     "previous": "Iulius 420aa",
+    "next": "Iulius 425",
     "proof_read": 3,
     "short_description": "P. Iul[ius] Procul[us Cel]sinus, cos. design.",
     "no_creative_height": true,
@@ -105760,6 +105762,7 @@
   },
   {
     "lemma": "Iulius 425",
+    "previous": "Iulius 420a",
     "next": "Iulius 425a",
     "proof_read": 3,
     "short_description": "C. Antius A. I. Quadratus, cos. I suff., cos. II ord. 105 n. Chr.",
@@ -145653,6 +145656,7 @@
   {
     "lemma": "pragmaticus",
     "previous": "pragmatica sanctio",
+    "next": "pragmaticus A.",
     "proof_read": 3,
     "short_description": "allg. Vorbemerkung",
     "no_creative_height": true,
@@ -145668,10 +145672,13 @@
     "lemma": "pragmaticus A.",
     "previous": "pragmaticus",
     "next": "pragmaticus B.",
-    "short_description": "Als Angehöriger des Juristenstandes",
+    "proof_read": 3,
+    "short_description": "Angehöriger des Juristenstandes",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 192,
+        "end": 192,
         "author": "Hans Gärtner."
       }
     ]
@@ -145679,10 +145686,14 @@
   {
     "lemma": "pragmaticus B.",
     "previous": "pragmaticus A.",
-    "short_description": "Als Beamter",
+    "next": "Praisos",
+    "proof_read": 3,
+    "short_description": "Angehöriger des Juristenstandes",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 192,
+        "end": 192,
         "author": "Hans Gärtner."
       }
     ]
@@ -149391,7 +149402,7 @@
     "lemma": "Ῥαῦκος",
     "previous": "Rhapsos",
     "next": "Rhazunda",
-    "sort_key": "Rhaukos",
+    "sort_key": "Raukos",
     "proof_read": 3,
     "short_description": "Rhaukos, mittelkretische Stadt",
     "no_creative_height": true,
@@ -155401,6 +155412,7 @@
   {
     "lemma": "Sigismer 2",
     "previous": "Side 3",
+    "next": "Signa 2o",
     "proof_read": 3,
     "short_description": "Überbringer eines Schreibens des Ostgotenkönigs Athalarich in Rom",
     "no_creative_height": true,
@@ -155414,6 +155426,7 @@
   },
   {
     "lemma": "Signa 2o",
+    "previous": "Sigismer 2",
     "next": "Signum 3",
     "proof_read": 3,
     "short_description": "die Verehrung der römischen Feldzeichen",
@@ -157863,6 +157876,7 @@
   {
     "lemma": "Suidas 1",
     "previous": "Sufeten",
+    "next": "Sulpicius 73",
     "proof_read": 3,
     "short_description": "byzantinischer Lexikograph",
     "no_creative_height": true,
@@ -157879,6 +157893,7 @@
   },
   {
     "lemma": "Sulpicius 73",
+    "previous": "Suidas 1",
     "next": "Sulpicius 80a",
     "proof_read": 3,
     "short_description": "C. S. Iustus, Prokonsul der Provinz Lycia-Pamphylia in sever. Zeit",
@@ -162159,7 +162174,7 @@
   {
     "lemma": "Turnkunst",
     "previous": "Turius 3a",
-    "next": "Turranius 1",
+    "next": "Turranius 11a",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -162172,8 +162187,6 @@
   },
   {
     "lemma": "Turranius 1",
-    "previous": "Turnkunst",
-    "next": "Tuscus Vicus 1",
     "sort_key": "Turranius 1",
     "proof_read": 3,
     "short_description": "Überbringer von Briefen Ciceros nach Kilikien",
@@ -162187,8 +162200,22 @@
     ]
   },
   {
+    "lemma": "Turranius 11a",
+    "previous": "Turnkunst",
+    "next": "Tuscus Vicus 1",
+    "proof_read": 3,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 217,
+        "end": 217,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
     "lemma": "Tuscus Vicus 1",
-    "previous": "Turranius 1",
+    "previous": "Turranius 11a",
     "next": "Tusidius",
     "proof_read": 3,
     "short_description": "Straße in Rom zwischen dem Forum Romanum und dem Forum Boarium",
@@ -168608,7 +168635,7 @@
     "lemma": "Uliades",
     "previous": "Ulbius",
     "next": "Uliades 1",
-    "sort_key": "Vliades",
+    "sort_key": "Vliades 0b",
     "proof_read": 3,
     "short_description": "allgemeine Vorbemerkung",
     "no_creative_height": true,
@@ -168655,6 +168682,7 @@
   {
     "lemma": "Uliades 3",
     "previous": "Uliades 2",
+    "next": "Uliades II.",
     "sort_key": "Vliades 03",
     "proof_read": 3,
     "short_description": "Knabenname in drei Epigrammen des Meleagros Nr. 7",
@@ -168669,6 +168697,7 @@
   },
   {
     "lemma": "Uliades II.",
+    "previous": "Uliades 3",
     "next": "Uliades II. 1",
     "sort_key": "Vliades 3-2",
     "short_description": "Numismatische Zeugnisse",
@@ -168762,6 +168791,7 @@
   {
     "lemma": "Uliades III. 3",
     "previous": "Uliades III. 2",
+    "next": "Uliades 4",
     "sort_key": "Vliades 3-3-3",
     "proof_read": 2,
     "short_description": "Kaiserzeitl. Priester der Hekate in Lagina",
@@ -168775,6 +168805,7 @@
   },
   {
     "lemma": "Uliades 4",
+    "previous": "Uliades III. 3",
     "next": "Uliades 5",
     "sort_key": "Vliades 04",
     "proof_read": 3,
@@ -169146,7 +169177,7 @@
     "next": "Uliades 27a",
     "sort_key": "Vliades 27",
     "proof_read": 3,
-    "short_description": "U. aus Olymos, im 1. Jh. v. Chr., Vater des Melas",
+    "short_description": "U. aus Olymos 1. Jh. v. Chr., Vater des Melas",
     "no_creative_height": true,
     "chapters": [
       {
@@ -169831,6 +169862,7 @@
   {
     "lemma": "Uliades 64",
     "previous": "Uliades 63",
+    "next": "Ulias 3",
     "sort_key": "Vliades 64",
     "proof_read": 3,
     "short_description": "U. von Milet, Schauspieler der Soteria zu Delphi 272 / 271 oder 255 v. Chr.",
@@ -169855,6 +169887,7 @@
   },
   {
     "lemma": "Ulias 3",
+    "previous": "Uliades 64",
     "next": "Ulias 3a",
     "sort_key": "Vlias 3",
     "proof_read": 3,

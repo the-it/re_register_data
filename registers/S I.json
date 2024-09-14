@@ -19517,7 +19517,6 @@
   {
     "lemma": "Astrolabium 2",
     "previous": "Astrampsychos",
-    "next": "Astrologie",
     "proof_read": 3,
     "short_description": "Planisphaerium",
     "chapters": [
@@ -19529,8 +19528,12 @@
     ]
   },
   {
+    "lemma": "Astrolabium",
+    "next": "Astrologie"
+  },
+  {
     "lemma": "Astrologie",
-    "previous": "Astrolabium 2",
+    "previous": "Astrolabium",
     "next": "Astronomie",
     "proof_read": 3,
     "short_description": "Sterndeutung",
@@ -21146,7 +21149,7 @@
     "next": "Avillius 2b",
     "sort_key": "Avillius 2a0",
     "proof_read": 3,
-    "short_description": "A. A., arretin. Sigillatatöpfer in august. Zeit",
+    "short_description": "A. A., arretinischer Sigillatatöpfer in august. Zeit",
     "chapters": [
       {
         "start": 228,
