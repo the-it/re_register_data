@@ -2517,7 +2517,7 @@
     "previous": "Alphabet",
     "next": "Alpinius 1a",
     "sort_key": "Alphitomanteia",
-    "short_description": "die Weissagung mit Gerstenmehl",
+    "short_description": "Alphitomanteia, die Weissagung mit Gerstenmehl",
     "chapters": [
       {
         "start": 86,
@@ -6733,10 +6733,10 @@
   {
     "lemma": "Ἀρχιπαραφύλαξ",
     "previous": "Ἀρχινυκτοφύλακες",
-    "next": "Ἀρχιφυλακίτης a",
+    "next": "Ἀρχιφυλακίτης",
     "sort_key": "Archiparaphylax",
     "proof_read": 3,
-    "short_description": "Archiparaphylax, kleinasiat. Polizeibeamter",
+    "short_description": "Archiparaphylax, kleinasiatischer Polizeibeamter",
     "chapters": [
       {
         "start": 152,
@@ -6747,8 +6747,6 @@
   },
   {
     "lemma": "Ἀρχιφυλακίτης a",
-    "previous": "Ἀρχιπαραφύλαξ",
-    "next": "Ἀρχιφύλαξ",
     "sort_key": "Archiphylakites a",
     "proof_read": 3,
     "short_description": "Archiphylakites, ägypt. Polizeioffizier",
@@ -6761,11 +6759,26 @@
     ]
   },
   {
+    "lemma": "Ἀρχιφυλακίτης",
+    "previous": "Ἀρχιπαραφύλαξ",
+    "next": "Ἀρχιφύλαξ",
+    "sort_key": "Archiphylakites",
+    "proof_read": 3,
+    "short_description": "Archiphylakites, ägyptischer Polizeioffizier",
+    "chapters": [
+      {
+        "start": 152,
+        "end": 153,
+        "author": "Schultheß."
+      }
+    ]
+  },
+  {
     "lemma": "Ἀρχιφύλαξ",
-    "previous": "Ἀρχιφυλακίτης a",
+    "previous": "Ἀρχιφυλακίτης",
     "next": "Archytas 6",
     "sort_key": "Archiphylax",
-    "redirect": "Ἀρχιφυλακίτης a",
+    "redirect": "Ἀρχιφυλακίτης",
     "proof_read": 3,
     "short_description": "Archiphylax, Beamter des lykischen Bundes",
     "chapters": [
@@ -28671,7 +28684,7 @@
     "proof_read": 2,
     "short_description": "Stadt in Hispania Tarraconensis",
     "wp_link": "w:ca:Ildum",
-    "wd_link": "d:Q107533457",
+    "wd_link": "d:Q64861333",
     "chapters": [
       {
         "start": 1206,
