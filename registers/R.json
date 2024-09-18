@@ -115,7 +115,7 @@
   {
     "lemma": "Aba 1a",
     "previous": "Aare",
-    "next": "Abacus 3",
+    "next": "Abacus",
     "proof_read": 3,
     "short_description": "Niederlassung im kleinasiatischen Lydien, Ruinenstätte bei Dawaslý",
     "no_creative_height": true,
@@ -128,8 +128,23 @@
     ]
   },
   {
-    "lemma": "Abacus 3",
+    "lemma": "Abacus",
     "previous": "Aba 1a",
+    "next": "Abacus 3",
+    "proof_read": 3,
+    "short_description": "Rechenbrett, Spieltafel, Backtrog, Prunk- und Ziertisch, Mosaiksteinchen",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 5,
+        "end": 5,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Abacus 3",
+    "previous": "Abacus",
     "next": "Abacus 4",
     "proof_read": 3,
     "short_description": "Backtrog",
@@ -25932,10 +25947,10 @@
   {
     "lemma": "Appuleius 13",
     "previous": "Appius 13a",
-    "next": "Appuleius 16a",
+    "next": "Appuleius 14",
     "sort_key": "Appuleius13",
     "proof_read": 3,
-    "short_description": "M., Augur 45 v. Chr. cos. ord. 20 v. Chr.",
+    "short_description": "M., Augur 45 v. Chr., cos. ord. 20 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -25946,8 +25961,13 @@
     ]
   },
   {
-    "lemma": "Appuleius 16a",
+    "lemma": "Appuleius 14",
     "previous": "Appuleius 13",
+    "next": "Appuleius 16a"
+  },
+  {
+    "lemma": "Appuleius 16a",
+    "previous": "Appuleius 14",
     "next": "Appuleius 17a",
     "sort_key": "Appuleius16a",
     "proof_read": 3,
@@ -27922,7 +27942,7 @@
   {
     "lemma": "Archedemos 5",
     "previous": "Archedamos 2",
-    "next": "Archedemos 6a",
+    "next": "Archedemos 6",
     "proof_read": 3,
     "short_description": "von Tarsos, Stoiker und Rhetor 2. Jh. v. Chr.",
     "no_creative_height": true,
@@ -27937,11 +27957,26 @@
     ]
   },
   {
-    "lemma": "Archedemos 6a",
+    "lemma": "Archedemos 6",
     "previous": "Archedemos 5",
+    "next": "Archedemos 6a",
+    "proof_read": 3,
+    "short_description": "Rhetor, lebte nach Aristoteles im 2. Jh. v. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 39,
+        "end": 39,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Archedemos 6a",
+    "previous": "Archedemos 6",
     "next": "Archedemos 8",
     "proof_read": 3,
-    "short_description": "A. (Archidemos), Pferdezüchter in nachchristl. Zeit",
+    "short_description": "A. (Archidemos), Pferdezüchter in nachchristlicher Zeit",
     "no_creative_height": true,
     "chapters": [
       {
@@ -30208,7 +30243,7 @@
   {
     "lemma": "Ἀρχιφυλακίτης",
     "previous": "Ἀρχιπαραφύλαξ",
-    "next": "Archiphylax 2",
+    "next": "Ἀρχιφύλαξ",
     "sort_key": "Archiphylakites",
     "proof_read": 3,
     "short_description": "Archiphylakites, ägyptischer Polizeioffizier",
@@ -30222,8 +30257,24 @@
     ]
   },
   {
-    "lemma": "Archiphylax 2",
+    "lemma": "Ἀρχιφύλαξ",
     "previous": "Ἀρχιφυλακίτης",
+    "next": "Archiphylax 2",
+    "sort_key": "Archiphylax",
+    "proof_read": 3,
+    "short_description": "Archiphylax, Beamter des lykischen Bundes",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 40,
+        "end": 40,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Archiphylax 2",
+    "previous": "Ἀρχιφύλαξ",
     "next": "Archippos 1a",
     "redirect": "Ἀρχιφυλακίτης",
     "proof_read": 3,
@@ -48153,7 +48204,7 @@
     "previous": "Baris 5b",
     "next": "Barium",
     "proof_read": 3,
-    "short_description": "Aegypt. Nilfahrzeug",
+    "short_description": "ägyptisches Nilfahrzeug",
     "no_creative_height": true,
     "wp_link": "w:de:Baris (Schiffstyp)",
     "wd_link": "d:Q62091210",
@@ -50926,7 +50977,7 @@
     "previous": "Bienenzucht",
     "next": "Bienus",
     "proof_read": 3,
-    "short_description": "Ostkret. Stadt",
+    "short_description": "ostkretische Stadt",
     "no_creative_height": true,
     "chapters": [
       {
@@ -55686,7 +55737,7 @@
     "previous": "Caecina 22",
     "next": "Caecina 24",
     "proof_read": 3,
-    "short_description": "C. C. Paetus, cos. suff. im J. 70 n. Chr.",
+    "short_description": "C. C. Paetus, cos. suff. 70 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -55937,7 +55988,7 @@
     "next": "Caelius 38",
     "sort_key": "Caelius 35",
     "proof_read": 3,
-    "short_description": "M. C. Rufus, Schüler Ciceros, befreundet mit Clodia (IV 105 Nr. 66). (L).",
+    "short_description": "M. C. Rufus, Schüler Ciceros, befreundet mit Clodia Nr. 66",
     "no_creative_height": true,
     "wp_link": "w:de:Marcus Caelius Rufus",
     "wd_link": "d:Q779217",
@@ -57547,7 +57598,7 @@
     "previous": "Calvisius 9",
     "next": "Calvisius 19",
     "proof_read": 3,
-    "short_description": "C. C. Sabinus, Eroberer von Aitolien im J. 48, Konsul 39 v. Chr.",
+    "short_description": "C. C. Sabinus, Eroberer von Aitolien 48 v. Chr., Konsul 39 v. Chr.",
     "no_creative_height": true,
     "wp_link": "w:de:Gaius Calvisius Sabinus (Konsul 39 v. Chr.)",
     "wd_link": "d:Q538539",
