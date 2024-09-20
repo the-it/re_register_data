@@ -39638,9 +39638,9 @@
   {
     "lemma": "Athambos 3",
     "previous": "Athambos 2",
-    "next": "Athanadas 2",
+    "next": "Athanadas",
     "proof_read": 3,
-    "short_description": "Delph. Priester in den J. 198-181 und 180-171 v. Chr., Sohn des Agathon",
+    "short_description": "delphischer Priester 198-181 und 180-171 v. Chr., Sohn des Agathon",
     "no_creative_height": true,
     "chapters": [
       {
@@ -39651,8 +39651,25 @@
     ]
   },
   {
-    "lemma": "Athanadas 2",
+    "lemma": "Athanadas",
     "previous": "Athambos 3",
+    "next": "Athanadas 2",
+    "proof_read": 3,
+    "short_description": "Verfasser einer Lokalgeschichte Ambrakias",
+    "no_creative_height": true,
+    "wp_link": "w:en:Athanadas",
+    "wd_link": "d:Q16172174",
+    "chapters": [
+      {
+        "start": 52,
+        "end": 52,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Athanadas 2",
+    "previous": "Athanadas",
     "next": "Athanadas 3",
     "proof_read": 3,
     "short_description": "Archon in Hypata",
@@ -41554,7 +41571,7 @@
     "previous": "Attius 11a",
     "next": "Attius 22a",
     "proof_read": 3,
-    "short_description": "A. Celer, f. l. statt L. Catius Celer, cos. suff. um das J. 240/1 n. Chr.",
+    "short_description": "A. Celer, f. l. statt L. Catius Celer, cos. suff. um 240/1 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -42708,7 +42725,7 @@
   {
     "lemma": "Augustobriga 1",
     "previous": "Augustobona",
-    "next": "Augustodunum",
+    "next": "Augustobriga 2",
     "proof_read": 3,
     "short_description": "Stadt in Lusitanien",
     "no_creative_height": true,
@@ -42723,8 +42740,25 @@
     ]
   },
   {
-    "lemma": "Augustodunum",
+    "lemma": "Augustobriga 2",
     "previous": "Augustobriga 1",
+    "next": "Augustodunum",
+    "proof_read": 3,
+    "short_description": "Stadt in Hispania Tarraconensis",
+    "no_creative_height": true,
+    "wp_link": "w:de:Ágreda",
+    "wd_link": "d:Q39856",
+    "chapters": [
+      {
+        "start": 55,
+        "end": 55,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Augustodunum",
+    "previous": "Augustobriga 2",
     "next": "Augustodurum",
     "proof_read": 3,
     "short_description": "Hauptstadt der gallischen Aeduer, heute Autun",
@@ -48594,7 +48628,7 @@
   {
     "lemma": "Basileus 2",
     "previous": "Basileus 1",
-    "next": "Basilia 1",
+    "next": "Basilia",
     "proof_read": 3,
     "short_description": "das Götterbeiwort: Zeus, Poseidon, Apollon, Hades, Dionysos, Asklepios",
     "no_creative_height": true,
@@ -48607,12 +48641,15 @@
     ]
   },
   {
-    "lemma": "Basilia 1",
+    "lemma": "Basilia",
     "previous": "Basileus 2",
     "next": "Basilia 2",
     "redirect": "Basileia 3",
     "proof_read": 3,
     "short_description": "Hauptstadt der Rauricer",
+    "wp_link": "w:de:Basel",
+    "ws_link": "s:de:Basel",
+    "wd_link": "d:Q78",
     "chapters": [
       {
         "start": 63,
@@ -48622,7 +48659,7 @@
   },
   {
     "lemma": "Basilia 2",
-    "previous": "Basilia 1",
+    "previous": "Basilia",
     "next": "Basilica",
     "redirect": "Basileia 4",
     "proof_read": 3,
