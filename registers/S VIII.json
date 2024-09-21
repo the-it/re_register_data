@@ -5257,7 +5257,7 @@
   {
     "lemma": "Leo 7lβ",
     "previous": "Leo 7lα",
-    "next": "Leo 7lδ",
+    "next": "Leo 7lγ",
     "sort_key": "Leo 7lb",
     "proof_read": 2,
     "short_description": "Presbyter",
@@ -5271,8 +5271,24 @@
     ]
   },
   {
-    "lemma": "Leo 7lδ",
+    "lemma": "Leo 7lγ",
     "previous": "Leo 7lβ",
+    "next": "Leo 7lδ",
+    "sort_key": "Leo 7lc",
+    "proof_read": 2,
+    "short_description": "römischer Presbyter",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 933,
+        "end": 933,
+        "author": "Wilh. Enßlin."
+      }
+    ]
+  },
+  {
+    "lemma": "Leo 7lδ",
+    "previous": "Leo 7lγ",
     "next": "Leo 7lε",
     "sort_key": "Leo 7ld",
     "proof_read": 2,
@@ -5289,7 +5305,7 @@
   {
     "lemma": "Leo 7lε",
     "previous": "Leo 7lδ",
-    "next": "Leo 7lγ",
+    "next": "Leo 7lζ",
     "sort_key": "Leo 7le",
     "proof_read": 2,
     "short_description": "L. von Capua, Presbyter",
@@ -5303,9 +5319,11 @@
     ]
   },
   {
+    "lemma": "Leo 7lζ",
+    "previous": "Leo 7lε"
+  },
+  {
     "lemma": "Leo 7lγ",
-    "previous": "Leo 7lε",
-    "next": "Leo 7lζ",
     "sort_key": "Leo 7lc",
     "proof_read": 2,
     "short_description": "römischer Presbyter",
@@ -5320,9 +5338,9 @@
   },
   {
     "lemma": "Leo 7lζ",
-    "previous": "Leo 7lγ",
+    "previous": "Leo 7lε",
     "next": "Leo 7m",
-    "sort_key": "Leo 7ld2",
+    "sort_key": "Leo 7lf",
     "proof_read": 2,
     "short_description": "L. von Nola, Presbyter",
     "no_creative_height": true,

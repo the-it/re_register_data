@@ -145,7 +145,7 @@
     "next": "Abdera 1",
     "redirect": "Avella",
     "proof_read": 3,
-    "short_description": "Stadt in Kampanien, von König Muranus gegründet, im Besitz der Samniten",
+    "short_description": "Stadt in Kampanien, gegründet von Muranus, im Besitz der Samniten",
     "wp_link": "w:de:Abella",
     "wd_link": "d:Q318659",
     "chapters": [
@@ -3325,7 +3325,7 @@
     "previous": "Anar",
     "next": "Anathyrosis",
     "proof_read": 3,
-    "short_description": "‚Die am Sumpfbach‘, vom keltischen Fluß Anara",
+    "short_description": "‚die am Sumpfbach‘, vom keltischen Fluß Anara",
     "chapters": [
       {
         "start": 96,
@@ -9341,6 +9341,7 @@
     "previous": "Aude",
     "next": "Avenches",
     "proof_read": 3,
+    "short_description": "kampanische Stadt",
     "wp_link": "w:de:Abella",
     "wd_link": "d:Q318659",
     "chapters": [
@@ -11239,6 +11240,7 @@
   },
   {
     "lemma": "Bellos",
+    "previous": "Bellienus 3",
     "next": "Bellovaci",
     "proof_read": 3,
     "short_description": "Illyrer im Dienste des Königs Genthios",
@@ -13213,7 +13215,6 @@
   {
     "lemma": "Caecilius 76",
     "previous": "Caecilius 73",
-    "next": "Caecilius 82",
     "sort_key": "Caecilius 076",
     "proof_read": 3,
     "short_description": "Metellus, M. Praetor urbanus und peregrinus 206 v. Chr.",
@@ -13229,7 +13230,7 @@
   },
   {
     "lemma": "Caecilius 82",
-    "previous": "Caecilius 76",
+    "previous": "Caecilius 73",
     "next": "Caecilius 83",
     "sort_key": "Caecilius 082",
     "proof_read": 3,
@@ -27410,7 +27411,13 @@
     ]
   },
   {
+    "lemma": "Hermokritos 2",
+    "next": "Hermolaos 5"
+  },
+  {
     "lemma": "Hermolaos 5",
+    "previous": "Hermokritos 2",
+    "next": "Herodes 7a",
     "proof_read": 2,
     "short_description": "Arzt",
     "chapters": [
@@ -27420,6 +27427,10 @@
         "author": "Kroll."
       }
     ]
+  },
+  {
+    "lemma": "Herodes 7a",
+    "previous": "Hermolaos 5"
   },
   {
     "lemma": "Herodes 3",
