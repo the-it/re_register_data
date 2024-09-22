@@ -116690,6 +116690,7 @@
   {
     "lemma": "Leo 7lα",
     "previous": "Leo 7k",
+    "next": "Leo 7lβ",
     "sort_key": "Leo 7la",
     "proof_read": 3,
     "short_description": "römischer Presbyter",
@@ -116704,22 +116705,71 @@
   },
   {
     "lemma": "Leo 7lβ",
-    "sort_key": "Leo 7lb"
+    "previous": "Leo 7lα",
+    "next": "Leo 7lγ",
+    "sort_key": "Leo 7lb",
+    "proof_read": 3,
+    "short_description": "Presbyter",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 152,
+        "end": 152,
+        "author": "Hans Gärtner."
+      }
+    ]
   },
   {
     "lemma": "Leo 7lγ",
-    "sort_key": "Leo 7lc"
+    "previous": "Leo 7lβ",
+    "next": "Leo 7lδ",
+    "sort_key": "Leo 7lc",
+    "proof_read": 3,
+    "short_description": "römischer Presbyter",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 152,
+        "end": 152,
+        "author": "Hans Gärtner."
+      }
+    ]
   },
   {
     "lemma": "Leo 7lδ",
-    "sort_key": "Leo 7ld"
+    "previous": "Leo 7lγ",
+    "next": "Leo 7lε",
+    "sort_key": "Leo 7ld",
+    "proof_read": 3,
+    "short_description": "ein verheirateter römischer Presbyter",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 152,
+        "end": 152,
+        "author": "Hans Gärtner."
+      }
+    ]
   },
   {
     "lemma": "Leo 7lε",
-    "sort_key": "Leo 7le"
+    "previous": "Leo 7lδ",
+    "next": "Leo 7lζ",
+    "sort_key": "Leo 7le",
+    "proof_read": 3,
+    "short_description": "L. von Capua, Presbyter",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 152,
+        "end": 152,
+        "author": "Hans Gärtner."
+      }
+    ]
   },
   {
     "lemma": "Leo 7lζ",
+    "previous": "Leo 7lε",
     "next": "Leo 7m",
     "sort_key": "Leo 7lf",
     "proof_read": 3,
@@ -155458,7 +155508,7 @@
   {
     "lemma": "Seuthopolis",
     "previous": "Sevius 2",
-    "next": "Seution",
+    "next": "Sikyon, Sikyonia",
     "sort_key": "Sevthopolis",
     "proof_read": 3,
     "short_description": "thrakische Stadt",
@@ -155473,7 +155523,6 @@
   },
   {
     "lemma": "Seution",
-    "previous": "Seuthopolis",
     "next": "Sexi",
     "sort_key": "Sevtion",
     "proof_read": 3,
