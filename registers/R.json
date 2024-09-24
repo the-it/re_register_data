@@ -4508,6 +4508,7 @@
     "previous": "Aemilius 15b",
     "next": "Aemilius 22a",
     "proof_read": 3,
+    "short_description": "M. A., arretinischer Sigillatatöpfer in august. Zeit",
     "no_creative_height": true,
     "chapters": [
       {
@@ -23810,7 +23811,7 @@
   {
     "lemma": "Apaturios 5",
     "previous": "Apaturia 2",
-    "next": "Apellas 8a",
+    "next": "Apaturius",
     "proof_read": 3,
     "short_description": "griechischer Deklamator aus der Zeit des Kaisers Augustus",
     "no_creative_height": true,
@@ -23823,8 +23824,23 @@
     ]
   },
   {
-    "lemma": "Apellas 8a",
+    "lemma": "Apaturius",
     "previous": "Apaturios 5",
+    "next": "Apellas 8a",
+    "proof_read": 3,
+    "short_description": "Deklamator in august. Zeit",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 34,
+        "end": 34,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Apellas 8a",
+    "previous": "Apaturius",
     "next": "Apellas 9",
     "proof_read": 3,
     "short_description": "Hippiater zur Zeit Constantins d. Gr.",
@@ -25960,7 +25976,7 @@
   {
     "lemma": "Appuleius 13",
     "previous": "Appius 13a",
-    "next": "Appuleius 14",
+    "next": "Appuleius 16a",
     "sort_key": "Appuleius13",
     "proof_read": 3,
     "short_description": "M., Augur 45 v. Chr., cos. ord. 20 v. Chr.",
@@ -25974,8 +25990,27 @@
     ]
   },
   {
-    "lemma": "Appuleius 14",
+    "lemma": "Appuleius 16a",
     "previous": "Appuleius 13",
+    "next": "Appuleius 17a",
+    "sort_key": "Appuleius16a",
+    "proof_read": 3,
+    "short_description": "Sex. A., praetor urbanus, Gatte der Octavia maior",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 36,
+        "end": 36,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Appuleius 17a",
+    "previous": "Appuleius 16a"
+  },
+  {
+    "lemma": "Appuleius 14",
     "next": "Appuleius 16a",
     "sort_key": "Appuleius14",
     "proof_read": 3,
@@ -33927,9 +33962,39 @@
   {
     "lemma": "Aristonidas 1",
     "previous": "Ariston 63a",
+    "next": "Aristonidas 2",
+    "proof_read": 3,
+    "short_description": "Erzgießer aus Rhodos 3. Jh. v. Chr., Vater des Mnasitimos",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 45,
+        "end": 45,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Aristonidas 2",
+    "previous": "Aristonidas 1",
+    "next": "Aristonidas 3",
+    "proof_read": 3,
+    "short_description": "Bildhauer in Rhodos 3. Jh. v. Chr., Sohn des Mnasitimos",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 45,
+        "end": 45,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Aristonidas 3",
+    "previous": "Aristonidas 2",
     "next": "Aristonidas 4",
     "proof_read": 3,
-    "short_description": "Rhod. Bildhauer im 3. Jh. v. Chr., Sohn des Mnasitimos",
+    "short_description": "Vater des Ophelion 1. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -33941,7 +34006,7 @@
   },
   {
     "lemma": "Aristonidas 4",
-    "previous": "Aristonidas 1",
+    "previous": "Aristonidas 3",
     "next": "Aristonikos 18",
     "proof_read": 3,
     "short_description": "A. von Selge, Bildhauer",
@@ -38548,6 +38613,7 @@
     "previous": "Aspendos",
     "next": "Aspera",
     "proof_read": 3,
+    "short_description": "Prokonsul der Provinz Asia",
     "no_creative_height": true,
     "chapters": [
       {
@@ -40225,7 +40291,7 @@
   {
     "lemma": "Athenai 1",
     "previous": "Athenagoras 12",
-    "next": "Athenaia",
+    "next": "Athenai 1a",
     "proof_read": 3,
     "short_description": "Hauptstadt Attikas; Name, Geographie, Topographie, Geschichte",
     "no_creative_height": true,
@@ -40241,8 +40307,47 @@
     ]
   },
   {
-    "lemma": "Athenaia",
+    "lemma": "Athenai 1a",
     "previous": "Athenai 1",
+    "proof_read": 3,
+    "short_description": "Hauptstadt Attikas: Name, Lage, Klima, Karten und Pläne",
+    "no_creative_height": true,
+    "wp_link": "w:de:Athen",
+    "ws_link": "s:de:Athen",
+    "wd_link": "d:Q1524",
+    "chapters": [
+      {
+        "start": 52,
+        "end": 52,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Athenai 1b",
+    "next": "Athenai 1c"
+  },
+  {
+    "lemma": "Athenai 1c",
+    "previous": "Athenai 1b",
+    "next": "Athenaia",
+    "proof_read": 3,
+    "short_description": "B. Topographie",
+    "no_creative_height": true,
+    "wp_link": "w:de:Athen",
+    "ws_link": "s:de:Athen",
+    "wd_link": "d:Q1524",
+    "chapters": [
+      {
+        "start": 52,
+        "end": 52,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Athenaia",
+    "previous": "Athenai 1c",
     "next": "Athenaios 7",
     "proof_read": 3,
     "short_description": "die Feste zu Ehren Athenas",
@@ -41974,9 +42079,9 @@
   {
     "lemma": "Auch",
     "previous": "Aucella",
-    "next": "Aucissa",
+    "next": "Ausci 2",
     "proof_read": 3,
-    "short_description": "Frz. Stadt = Elimberrum = Iliberri Nr. 4 = Augusta Nr. 3 (?)",
+    "short_description": "frz. Stadt = Elimberrum = Iliberri Nr. 4 = Augusta Nr. 3 (?)",
     "no_creative_height": true,
     "wp_link": "w:de:Auch",
     "wd_link": "d:Q181725",
@@ -41989,8 +42094,22 @@
     ]
   },
   {
-    "lemma": "Aucissa",
+    "lemma": "Ausci 2",
     "previous": "Auch",
+    "next": "Aucissa",
+    "proof_read": 3,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 54,
+        "end": 54,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Aucissa",
+    "previous": "Ausci 2",
     "next": "Aucissa 2",
     "proof_read": 3,
     "short_description": "gallischer Hersteller von Gewandnadeln 1. Jh. n. Chr.",
@@ -48004,9 +48123,9 @@
   {
     "lemma": "Bappo",
     "previous": "Banuus",
-    "next": "Bappo 1",
+    "next": "Bappo 2",
     "proof_read": 3,
-    "short_description": "Praefectus urbis Romae",
+    "short_description": "Praefectus urbis Romae 372 n. Chr.",
     "wd_link": "d:Q4077528",
     "chapters": [
       {
@@ -48017,8 +48136,6 @@
   },
   {
     "lemma": "Bappo 1",
-    "previous": "Bappo",
-    "next": "Bappo 2",
     "redirect": "Bappo 2",
     "proof_read": 3,
     "no_creative_height": true,
@@ -48032,7 +48149,7 @@
   },
   {
     "lemma": "Bappo 2",
-    "previous": "Bappo 1",
+    "previous": "Bappo",
     "next": "Barba 2a",
     "redirect": true,
     "proof_read": 3,
@@ -49404,7 +49521,7 @@
     "previous": "Beaune",
     "next": "Bechuni",
     "proof_read": 3,
-    "short_description": "Frz. Stadt = Caesaromagus vgl. Bellovaci",
+    "short_description": "frz. Stadt = Caesaromagus vgl. Bellovaci",
     "no_creative_height": true,
     "wp_link": "w:de:Beauvais",
     "wd_link": "d:Q174257",
@@ -62295,6 +62412,7 @@
     "previous": "Charadros 3",
     "next": "Charax",
     "proof_read": 3,
+    "short_description": "mystisch-symbolische Zeichen in der Zauberei",
     "no_creative_height": true,
     "chapters": [
       {
@@ -65827,7 +65945,7 @@
   {
     "lemma": "Claudius 251",
     "previous": "Claudius 246",
-    "next": "Claudius 259a",
+    "next": "Claudius 252",
     "proof_read": 3,
     "short_description": "Ti. Cl. Nero, Prätor 178 v. Chr. der Provinz Sicilia",
     "no_creative_height": true,
@@ -65842,8 +65960,23 @@
     ]
   },
   {
-    "lemma": "Claudius 259a",
+    "lemma": "Claudius 252",
     "previous": "Claudius 251",
+    "next": "Claudius 259a",
+    "proof_read": 3,
+    "short_description": "Nero, Ti. Praetor und Statthalter von Sizilien 167 v. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 85,
+        "end": 85,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Claudius 259a",
+    "previous": "Claudius 252",
     "next": "Claudius 262",
     "proof_read": 3,
     "short_description": "Pardalas, Stratege von Pergamon unter Antoninus Pius 151/152 n. Chr.",
@@ -68248,7 +68381,7 @@
   {
     "lemma": "Contrebia 1",
     "previous": "Contouca",
-    "next": "Contrectare, contrectatio",
+    "next": "Contrebia 2",
     "proof_read": 3,
     "short_description": "keltiberischer Hauptstamm",
     "no_creative_height": true,
@@ -68261,8 +68394,23 @@
     ]
   },
   {
-    "lemma": "Contrectare, contrectatio",
+    "lemma": "Contrebia 2",
     "previous": "Contrebia 1",
+    "next": "Contrectare, contrectatio",
+    "proof_read": 3,
+    "short_description": "keltiberischer Stamm der Leucada",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 88,
+        "end": 88,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Contrectare, contrectatio",
+    "previous": "Contrebia 2",
     "next": "Contributio 2",
     "proof_read": 3,
     "short_description": "die Berührung, die Entwendung",
@@ -69018,6 +69166,7 @@
     "next": "Cornelius 177",
     "redirect": "Cornelius 171",
     "proof_read": 3,
+    "short_description": "L. C. Latinianus, leg. Aug. pr. pr. von Pannonia inferior 134–136 n. Chr.",
     "wp_link": "w:de:Lucius Cornelius Latinianus (Sohn)",
     "wd_link": "d:Q1661623",
     "chapters": [
@@ -73940,6 +74089,7 @@
     "previous": "Deire 1",
     "next": "Dekaineos",
     "proof_read": 3,
+    "short_description": "Ort am Arabischen Meerbusen",
     "no_creative_height": true,
     "chapters": [
       {
@@ -74989,6 +75139,7 @@
     "previous": "Demokrates 15",
     "next": "Demokritos 3a",
     "proof_read": 3,
+    "short_description": "die Volksherrschaft",
     "no_creative_height": true,
     "wp_link": "w:de:Demokratie",
     "ws_link": "s:de:Demokratie",
@@ -79689,6 +79840,7 @@
     "next": "Egrilius 3",
     "sort_key": "Egrilius 2a",
     "proof_read": 3,
+    "short_description": "A. E. Plarianus, cos. suff. 128 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -80761,7 +80913,7 @@
   {
     "lemma": "Epicharmos 3",
     "previous": "Epicharinos",
-    "next": "Ἐπίχυσις",
+    "next": "Epicharmos 4",
     "proof_read": 3,
     "short_description": "Bildhauer auf Rhodos 2. Jh. v. Chr., Vater von Nr. 4",
     "no_creative_height": true,
@@ -80774,8 +80926,23 @@
     ]
   },
   {
-    "lemma": "Ἐπίχυσις",
+    "lemma": "Epicharmos 4",
     "previous": "Epicharmos 3",
+    "next": "Ἐπίχυσις",
+    "proof_read": 3,
+    "short_description": "Bildhauer aus Rhodos, Sohn von Nr. 3",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 104,
+        "end": 104,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἐπίχυσις",
+    "previous": "Epicharmos 4",
     "next": "Ἐπίδαμιοργός",
     "sort_key": "Epichysis",
     "proof_read": 3,
@@ -88393,7 +88560,6 @@
     "next": "Galba a",
     "redirect": "Gaia 4",
     "proof_read": 3,
-    "short_description": "Korruptele für Gaia, König der ostnumidischen Massylier 3. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -100495,7 +100661,7 @@
     "previous": "Iasulones",
     "next": "Iatrine",
     "proof_read": 3,
-    "short_description": "Hauptstadt der gall. Meldi = Fixtinnum",
+    "short_description": "Hauptstadt der gallischen Meldi = Fixtinnum",
     "no_creative_height": true,
     "chapters": [
       {
@@ -102164,7 +102330,7 @@
   {
     "lemma": "Ilunnis",
     "previous": "Ilumber",
-    "next": "Ilunum 1",
+    "next": "Ilunum",
     "proof_read": 3,
     "short_description": "Ilunis, Ilunnus, pyren. Gottheit",
     "no_creative_height": true,
@@ -102177,11 +102343,12 @@
     ]
   },
   {
-    "lemma": "Ilunum 1",
+    "lemma": "Ilunum",
     "previous": "Ilunnis",
     "next": "Ilunum 2",
     "redirect": "Ilugo",
     "proof_read": 3,
+    "short_description": "Stadt der iberischen Bastetani",
     "chapters": [
       {
         "start": 132,
@@ -102191,7 +102358,7 @@
   },
   {
     "lemma": "Ilunum 2",
-    "previous": "Ilunum 1",
+    "previous": "Ilunum",
     "next": "Ilurbida",
     "proof_read": 3,
     "short_description": "Stadt (in Noricum mediterraneum?)",
@@ -155523,6 +155690,7 @@
   },
   {
     "lemma": "Seution",
+    "previous": "Seuthopolis",
     "next": "Sexi",
     "sort_key": "Sevtion",
     "proof_read": 3,
@@ -162453,6 +162621,7 @@
     "previous": "Turnkunst",
     "next": "Tuscus Vicus 1",
     "proof_read": 3,
+    "short_description": "prätorischer Legat des Prokonsuls der Provinz Macedonia",
     "no_creative_height": true,
     "chapters": [
       {
@@ -164994,6 +165163,7 @@
     "next": "Weltbild",
     "sort_key": "Veltalter",
     "proof_read": 3,
+    "short_description": "die antiken Vorstellungen über die Weltalter",
     "no_creative_height": true,
     "wp_link": "w:de:Weltalter der Antike",
     "wd_link": "d:Q1525748",
@@ -166475,6 +166645,7 @@
     "previous": "Vibenna",
     "next": "Vibenna 2",
     "proof_read": 3,
+    "short_description": "Aulus V., etruskischer Verbündeter des Romulus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -166489,6 +166660,7 @@
     "previous": "Vibenna 1",
     "next": "Vibennius 2",
     "proof_read": 3,
+    "short_description": "Caelius V., etruskischer Verbündeter des Romulus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -167154,6 +167326,7 @@
     "previous": "Victor 1",
     "next": "Victores",
     "proof_read": 3,
+    "short_description": "das Corpus Aurelianum und S. Aurelius Victor",
     "no_creative_height": true,
     "wp_link": "w:de:Aurelius Victor",
     "ws_link": "s:de:Aurelius Victor",
