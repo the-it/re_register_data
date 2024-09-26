@@ -25991,6 +25991,7 @@
   },
   {
     "lemma": "Appuleius 16a",
+    "previous": "Appuleius 13",
     "next": "Appuleius 17a",
     "sort_key": "Appuleius16a",
     "proof_read": 3,
@@ -40273,6 +40274,7 @@
   {
     "lemma": "Athenai 1a",
     "previous": "Athenai 1",
+    "next": "Athenai 1b",
     "proof_read": 3,
     "short_description": "Hauptstadt Attikas: Name, Lage, Klima, Karten und Pläne",
     "no_creative_height": true,
@@ -40289,7 +40291,21 @@
   },
   {
     "lemma": "Athenai 1b",
-    "next": "Athenai 1c"
+    "previous": "Athenai 1a",
+    "next": "Athenai 1c",
+    "proof_read": 3,
+    "short_description": "A. Geschichte",
+    "no_creative_height": true,
+    "wp_link": "w:de:Athen",
+    "ws_link": "s:de:Athen",
+    "wd_link": "d:Q1524",
+    "chapters": [
+      {
+        "start": 52,
+        "end": 52,
+        "author": "Hans Gärtner."
+      }
+    ]
   },
   {
     "lemma": "Athenai 1c",
