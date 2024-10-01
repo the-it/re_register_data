@@ -15919,6 +15919,7 @@
   {
     "lemma": "Claudius 298",
     "previous": "Claudius 295",
+    "next": "Claudius 180a",
     "proof_read": 3,
     "short_description": "Ap. Cl. Pulcher, Konsul 38 v. Chr. Kläger im Prozeß des Milo",
     "wp_link": "w:de:Appius Claudius Pulcher (Konsul 38 v. Chr.)",
@@ -15933,6 +15934,8 @@
   },
   {
     "lemma": "Claudius 180a",
+    "previous": "Claudius 298",
+    "next": "Clemens 11",
     "proof_read": 3,
     "short_description": "Ti. Cl. Hymnus, Arzt der leg. XXI in Vindonissa J. 47–70 n. Chr.",
     "chapters": [
@@ -15945,9 +15948,10 @@
   },
   {
     "lemma": "Clemens 11",
+    "previous": "Claudius 180a",
     "next": "Cleppius",
     "proof_read": 3,
-    "short_description": "Germ. Sigillatatöpfer in Rheinzabern in der 2. H. des 2. Jh. n. Chr.",
+    "short_description": "germanischer Sigillatatöpfer in Rheinzabern 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 253,
@@ -19874,7 +19878,7 @@
   {
     "lemma": "Domnos",
     "previous": "Domitus",
-    "next": "Donatus 11",
+    "next": "Donatus 10",
     "proof_read": 3,
     "short_description": "Vater des Sophisten Iulianos Nr. 3",
     "no_creative_height": true,
@@ -19887,11 +19891,25 @@
     ]
   },
   {
-    "lemma": "Donatus 11",
+    "lemma": "Donatus 10",
     "previous": "Domnos",
-    "next": "Donatus 12",
+    "next": "Donatus 11",
     "proof_read": 3,
-    "short_description": "südgallischer Sigillatatöpfer Mitte 1. Jhdts. n. Chr.",
+    "short_description": "römischer Töpfer des 2. Jhdts. n. Chr. in Gallien",
+    "chapters": [
+      {
+        "start": 411,
+        "end": 411,
+        "author": "Hähnle."
+      }
+    ]
+  },
+  {
+    "lemma": "Donatus 11",
+    "previous": "Donatus 10",
+    "next": "Donax 1a",
+    "proof_read": 3,
+    "short_description": "germanischer Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 411,
@@ -19902,8 +19920,6 @@
   },
   {
     "lemma": "Donatus 12",
-    "previous": "Donatus 11",
-    "next": "Donax 1a",
     "proof_read": 3,
     "short_description": "Germ. Sigillatatöpfer in Rheinzabern im 2. Jh. n. Chr.",
     "chapters": [
@@ -19916,10 +19932,10 @@
   },
   {
     "lemma": "Donax 1a",
-    "previous": "Donatus 12",
+    "previous": "Donatus 11",
     "next": "Donicatus",
     "proof_read": 3,
-    "short_description": "Sklave in der Sigillatatöpferei des Maecius in Puteoli.",
+    "short_description": "Sklave in der Sigillatatöpferei des Maecius in Puteoli",
     "chapters": [
       {
         "start": 411,
@@ -26652,6 +26668,7 @@
   },
   {
     "lemma": "Halos 3",
+    "next": "Haltern",
     "chapters": [
       {
         "start": 883,
@@ -26661,6 +26678,7 @@
   },
   {
     "lemma": "Haltern",
+    "previous": "Halos 3",
     "next": "Hamster",
     "sort_key": "Haltern",
     "proof_read": 3,
@@ -26678,6 +26696,7 @@
   {
     "lemma": "Hamster",
     "previous": "Haltern",
+    "next": "Hanhavaldus",
     "sort_key": "Hamster",
     "proof_read": 2,
     "short_description": "Siebenschläfer",
@@ -26693,6 +26712,7 @@
   },
   {
     "lemma": "Hanhavaldus",
+    "previous": "Hamster",
     "chapters": [
       {
         "start": 886,
@@ -27385,6 +27405,7 @@
   },
   {
     "lemma": "Hermokritos",
+    "next": "Hermolaos 5",
     "chapters": [
       {
         "start": 1130,
@@ -27394,6 +27415,7 @@
   },
   {
     "lemma": "Hermolaos 5",
+    "previous": "Hermokritos",
     "next": "Herodes 7a",
     "proof_read": 2,
     "short_description": "Arzt",
@@ -27518,6 +27540,7 @@
   },
   {
     "lemma": "Hierarchos",
+    "previous": "Hibernalis",
     "next": "Hierasimos, -semos",
     "proof_read": 2,
     "short_description": "Verfertiger eines dem Asklepios geweihten Brunnens im 4. Jh. v. Chr.",
@@ -28056,6 +28079,7 @@
   {
     "lemma": "Hydrea",
     "previous": "Hyaila",
+    "next": "Hylas 4b",
     "short_description": "Insel südöstl. der Argolis",
     "chapters": [
       {

@@ -5382,9 +5382,10 @@
   {
     "lemma": "Κάδμου πούς",
     "previous": "Kadiskos",
+    "next": "Kados",
     "sort_key": "Kadmu pus",
     "proof_read": 2,
-    "short_description": "Kadmu pus, alter Name des Ismeno, boiot. Fluß",
+    "short_description": "Kadmu pus, alter Name des Ismeno, boiotischer Fluß",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5396,6 +5397,7 @@
   },
   {
     "lemma": "Kados",
+    "previous": "Κάδμου πούς",
     "chapters": [
       {
         "start": 803,
@@ -6028,8 +6030,9 @@
   {
     "lemma": "Kallipolis 7a",
     "previous": "Kallippio",
+    "next": "Kallipolis 7b",
     "proof_read": 3,
-    "short_description": "Achai. Ort",
+    "short_description": "achaischer Ort",
     "no_creative_height": true,
     "chapters": [
       {
@@ -6041,6 +6044,8 @@
   },
   {
     "lemma": "Kallipolis 7b",
+    "previous": "Kallipolis 7a",
+    "next": "Kallirrhoë 14",
     "chapters": [
       {
         "start": 864,
@@ -6050,9 +6055,10 @@
   },
   {
     "lemma": "Kallirrhoë 14",
+    "previous": "Kallipolis 7b",
     "next": "Kallisthenes 5",
     "proof_read": 3,
-    "short_description": "Quelle bei der aitol. Stadt Kalydon",
+    "short_description": "Quelle bei der aitolischen Stadt Kalydon",
     "no_creative_height": true,
     "chapters": [
       {
@@ -6937,6 +6943,7 @@
   {
     "lemma": "Kleino",
     "previous": "Kleinias 8",
+    "next": "Kleippides",
     "proof_read": 2,
     "short_description": "Hetäre am Hof Ptolemaios' II. Philadelphos",
     "no_creative_height": true,
@@ -6952,6 +6959,8 @@
   },
   {
     "lemma": "Kleippides",
+    "previous": "Kleino",
+    "next": "Kleisophos 2",
     "chapters": [
       {
         "start": 908,
@@ -6961,9 +6970,10 @@
   },
   {
     "lemma": "Kleisophos 2",
+    "previous": "Kleippides",
     "next": "Kleomachos 1a",
     "proof_read": 2,
-    "short_description": "Athen. Kolax am maked. Hof",
+    "short_description": "Athen. Kolax am makedonischen Hof",
     "no_creative_height": true,
     "chapters": [
       {
@@ -7027,6 +7037,7 @@
   {
     "lemma": "Kleopatra 22a",
     "previous": "Kleon 17",
+    "next": "Kleopatris 2",
     "proof_read": 2,
     "short_description": "Gattin des Partherkönigs Phraates IV",
     "chapters": [
@@ -7039,6 +7050,7 @@
   },
   {
     "lemma": "Kleopatris 2",
+    "previous": "Kleopatra 22a",
     "chapters": [
       {
         "start": 912,
@@ -7255,6 +7267,7 @@
   },
   {
     "lemma": "Komaitho 4",
+    "next": "Komboiomarus",
     "chapters": [
       {
         "start": 949,
@@ -7264,9 +7277,10 @@
   },
   {
     "lemma": "Komboiomarus",
+    "previous": "Komaitho 4",
     "next": "Kombutis",
     "proof_read": 2,
-    "short_description": "Fürst der galat. Tektosagen im J. 189 v. Chr.",
+    "short_description": "Fürst der galat. Tektosagen 189 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -7353,6 +7367,7 @@
   },
   {
     "lemma": "Koptos",
+    "next": "Korabos",
     "chapters": [
       {
         "start": 991,
@@ -7362,6 +7377,7 @@
   },
   {
     "lemma": "Korabos",
+    "previous": "Koptos",
     "next": "Korinthos 1",
     "proof_read": 2,
     "short_description": "K. von Lebedos, Beamter 189 v. Chr.?",
@@ -8112,6 +8128,7 @@
   },
   {
     "lemma": "Kynopolites 1",
+    "next": "Kynosarion",
     "chapters": [
       {
         "start": 1127,
@@ -8121,6 +8138,7 @@
   },
   {
     "lemma": "Kynosarion",
+    "previous": "Kynopolites 1",
     "next": "Κυρέσχατα",
     "proof_read": 2,
     "short_description": "Ort an der pamphylischen Küste zwischen Eurymedon und Kestros",
