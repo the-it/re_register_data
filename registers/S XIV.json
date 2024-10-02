@@ -5929,6 +5929,7 @@
   {
     "lemma": "Octavianus 3a",
     "previous": "Oppius 32a",
+    "next": "Orchomenos 1",
     "proof_read": 2,
     "short_description": "Octabianus, Statthalter der Provinz Sardinia 235 n. Chr.",
     "no_creative_height": true,
@@ -6036,6 +6037,7 @@
   },
   {
     "lemma": "Ovinius 1a",
+    "previous": "Ovilatus",
     "next": "Pacatus 8",
     "proof_read": 2,
     "short_description": "O., curator viae Flaminiae = L. O. Nr. 9 Rusticus Cornelianus (?)",
@@ -6051,6 +6053,7 @@
   {
     "lemma": "Pacatus 8",
     "previous": "Ovinius 1a",
+    "next": "Pacilaeus",
     "proof_read": 2,
     "short_description": "[---]nia Pacata, Mädchen senator. Standes an Säkularspielen 204 n. Chr.",
     "no_creative_height": true,
@@ -6293,6 +6296,8 @@
   },
   {
     "lemma": "Phintias 6",
+    "previous": "Petronius 49a",
+    "next": "Pinarius 10a",
     "proof_read": 2,
     "short_description": "att. Töpfer in spätklass. Zeit",
     "no_creative_height": true,
@@ -6796,6 +6801,7 @@
   {
     "lemma": "Pomponius 60b",
     "previous": "Pomponius 60a",
+    "next": "Pomponius 72a",
     "proof_read": 2,
     "short_description": "C. P. P[---]tus, leg. pr. pr. der Provinz Africa im J. 112/3 n. Chr.",
     "no_creative_height": true,
@@ -6827,6 +6833,7 @@
   },
   {
     "lemma": "Pomponius 72a",
+    "previous": "Pomponius 60b",
     "next": "Pomponius 103",
     "proof_read": 2,
     "short_description": "L. P. Silvanus, cos. suff. 121 n. Chr., Vater des L. P. Nr. 59a",
@@ -7295,7 +7302,6 @@
   {
     "lemma": "Propinquus 1",
     "previous": "Prokonnesos",
-    "next": "Protarchos 9",
     "chapters": [
       {
         "start": 561,
@@ -7305,7 +7311,12 @@
     ]
   },
   {
+    "lemma": "Propinquus",
+    "next": "Protarchos 9"
+  },
+  {
     "lemma": "Protarchos 9",
+    "previous": "Propinquus",
     "next": "Prote 3",
     "proof_read": 2,
     "short_description": "von Theben, siegreicher Tragiker bei den Amphiaraia und Rhomaia",
@@ -7814,6 +7825,7 @@
   },
   {
     "lemma": "Saloca",
+    "previous": "Salienus",
     "next": "Salvidenus 1",
     "proof_read": 2,
     "short_description": "Station an der Straße Virunum - Aquileia",

@@ -2498,6 +2498,8 @@
   },
   {
     "lemma": "Mnaseas 9",
+    "previous": "Monsunschiffahrt nach Indien",
+    "next": "Munda a",
     "redirect": true,
     "proof_read": 2,
     "short_description": "M. von Berytos, Verfasser rhetor. Schriften 1./2. Jh. n. Chr.",
@@ -2509,6 +2511,10 @@
         "end": 404
       }
     ]
+  },
+  {
+    "lemma": "Munda a",
+    "previous": "Mnaseas 9"
   },
   {
     "lemma": "Monsunschiffahrt nach Indien",
@@ -2572,6 +2578,7 @@
   },
   {
     "lemma": "Neratius 15a",
+    "previous": "Nauplia 1",
     "next": "Nerion",
     "proof_read": 2,
     "short_description": "Pu[...] N. [...] Probus, Prokurator der Provinz Mauretania Caes.(?)",
@@ -2602,6 +2609,7 @@
   {
     "lemma": "νεῦσις",
     "previous": "Nerion",
+    "next": "Nikochis",
     "sort_key": "neusis",
     "short_description": "neusis, geometrische Operation",
     "chapters": [
@@ -2614,6 +2622,8 @@
   },
   {
     "lemma": "Nikochis",
+    "previous": "νεῦσις",
+    "next": "Ninon",
     "proof_read": 3,
     "short_description": "Ort im Nildelta",
     "no_creative_height": true,
@@ -2668,7 +2678,12 @@
     ]
   },
   {
+    "lemma": "Suetrius",
+    "next": "Odyrmos"
+  },
+  {
     "lemma": "Odyrmos",
+    "previous": "Suetrius",
     "next": "Oinis a",
     "proof_read": 2,
     "short_description": "die Personifikation des Wehklagens",
@@ -2762,7 +2777,13 @@
     ]
   },
   {
+    "lemma": "Oinis a",
+    "next": "Ornea"
+  },
+  {
     "lemma": "Ornea",
+    "previous": "Oinis a",
+    "next": "Oromasdes",
     "proof_read": 2,
     "short_description": "Eponyme des argiv. Orneai",
     "no_creative_height": true,
@@ -3152,6 +3173,8 @@
   },
   {
     "lemma": "Pemphōs",
+    "previous": "Pautalia",
+    "next": "Phileis Meter",
     "proof_read": 2,
     "short_description": "König der ersten ägypt. Dynastie = Semempses Manethos",
     "no_creative_height": true,
