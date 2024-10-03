@@ -5929,6 +5929,7 @@
   {
     "lemma": "Octavianus 3a",
     "previous": "Oppius 32a",
+    "next": "Octavius 40",
     "proof_read": 2,
     "short_description": "Octabianus, Statthalter der Provinz Sardinia 235 n. Chr.",
     "no_creative_height": true,
@@ -5942,6 +5943,7 @@
   },
   {
     "lemma": "Octavius 40",
+    "previous": "Octavianus 3a",
     "chapters": [
       {
         "start": 290,
@@ -6026,6 +6028,7 @@
   },
   {
     "lemma": "Ovilavis",
+    "next": "Ovinius 1a",
     "chapters": [
       {
         "start": 356,
@@ -6036,6 +6039,7 @@
   },
   {
     "lemma": "Ovinius 1a",
+    "previous": "Ovilavis",
     "next": "Pacatus 8",
     "proof_read": 2,
     "short_description": "O., curator viae Flaminiae = L. O. Nr. 9 Rusticus Cornelianus (?)",
@@ -6051,6 +6055,7 @@
   {
     "lemma": "Pacatus 8",
     "previous": "Ovinius 1a",
+    "next": "Paccius 11",
     "proof_read": 2,
     "short_description": "[---]nia Pacata, Mädchen senator. Standes an Säkularspielen 204 n. Chr.",
     "no_creative_height": true,
@@ -6064,6 +6069,7 @@
   },
   {
     "lemma": "Paccius 11",
+    "previous": "Pacatus 8",
     "chapters": [
       {
         "start": 366,
@@ -6283,6 +6289,7 @@
   },
   {
     "lemma": "Phigaleia",
+    "next": "Phintias 6",
     "chapters": [
       {
         "start": 383,
@@ -6293,8 +6300,10 @@
   },
   {
     "lemma": "Phintias 6",
+    "previous": "Phigaleia",
+    "next": "Phytaion",
     "proof_read": 2,
-    "short_description": "att. Töpfer in spätklass. Zeit",
+    "short_description": "attischer Töpfer in spätklassischer Zeit",
     "no_creative_height": true,
     "chapters": [
       {
@@ -6306,6 +6315,7 @@
   },
   {
     "lemma": "Phytaion",
+    "previous": "Phintias 6",
     "chapters": [
       {
         "start": 383,
@@ -6796,8 +6806,9 @@
   {
     "lemma": "Pomponius 60b",
     "previous": "Pomponius 60a",
+    "next": "Pomponius 68",
     "proof_read": 2,
-    "short_description": "C. P. P[---]tus, leg. pr. pr. der Provinz Africa im J. 112/3 n. Chr.",
+    "short_description": "C. P. P[---]tus, leg. pr. pr. der Provinz Africa 112/3 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -6809,6 +6820,7 @@
   },
   {
     "lemma": "Pomponius 68",
+    "previous": "Pomponius 60b",
     "chapters": [
       {
         "start": 442,
@@ -6818,6 +6830,7 @@
   },
   {
     "lemma": "Pomponius 70",
+    "next": "Pomponius 72a",
     "chapters": [
       {
         "start": 442,
@@ -6827,6 +6840,7 @@
   },
   {
     "lemma": "Pomponius 72a",
+    "previous": "Pomponius 70",
     "next": "Pomponius 103",
     "proof_read": 2,
     "short_description": "L. P. Silvanus, cos. suff. 121 n. Chr., Vater des L. P. Nr. 59a",
@@ -7809,6 +7823,7 @@
   },
   {
     "lemma": "Saloato",
+    "next": "Saloca",
     "chapters": [
       {
         "start": 592,
@@ -7818,6 +7833,7 @@
   },
   {
     "lemma": "Saloca",
+    "previous": "Saloato",
     "next": "Salvidenus 1",
     "proof_read": 2,
     "short_description": "Station an der Straße Virunum - Aquileia",
