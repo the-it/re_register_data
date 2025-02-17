@@ -45598,6 +45598,7 @@
     "sort_key": "Aktor 04",
     "proof_read": 3,
     "short_description": "Vater der Alope, Eponymin thessalischen Stadt",
+    "wd_link": "d:Q126902900",
     "chapters": [
       {
         "start": 1216,
@@ -49317,7 +49318,7 @@
   {
     "lemma": "Albis 2",
     "previous": "Albis 1",
-    "next": "Albius 1",
+    "next": "Albius",
     "proof_read": 3,
     "short_description": "Fluß in Gallien, heute Aube, Nebenfluss der Seine",
     "chapters": [
@@ -49329,8 +49330,23 @@
     ]
   },
   {
-    "lemma": "Albius 1",
+    "lemma": "Albius",
     "previous": "Albis 2",
+    "next": "Albius 1",
+    "sort_key": "Albius 00",
+    "proof_read": 3,
+    "short_description": "römischer Geschlechtsname",
+    "chapters": [
+      {
+        "start": 1317,
+        "end": 1317,
+        "author": "Klebs."
+      }
+    ]
+  },
+  {
+    "lemma": "Albius 1",
+    "previous": "Albius",
     "next": "Albius 2",
     "sort_key": "Albius 01",
     "proof_read": 3,
