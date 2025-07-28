@@ -4450,7 +4450,6 @@
     "next": "Lacharides 2",
     "proof_read": 2,
     "short_description": "Trierarch 342/41 v. Chr.",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 334,
@@ -4465,7 +4464,6 @@
     "next": "Lachartos",
     "proof_read": 2,
     "short_description": "Eleusinier",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 334,
@@ -9773,11 +9771,15 @@
     "lemma": "Lamischer Krieg",
     "previous": "Lamisa",
     "next": "Lamiskos",
-    "short_description": "Befreiungskrieg der Athener von der Herrschaft Makedoniens 323/22 v. Chr.",
+    "proof_read": 2,
+    "short_description": "Befreiungskrieg der Athener von der Herrschaft Makedoniens 323/2 v. Chr.",
+    "wp_link": "w:de:Lamischer Krieg",
+    "wd_link": "d:Q28365",
     "chapters": [
       {
         "start": 562,
-        "author": "Stähelin"
+        "end": 564,
+        "author": "Stähelin."
       }
     ]
   },
@@ -10805,7 +10807,7 @@
   {
     "lemma": "Lampra",
     "previous": "Lampos 13",
-    "next": "Lamprias 1",
+    "next": "Λαμπρίας 1",
     "redirect": "Lamptrai",
     "proof_read": 2,
     "chapters": [
@@ -10816,62 +10818,76 @@
     ]
   },
   {
-    "lemma": "Lamprias 1",
+    "lemma": "Λαμπρίας 1",
     "previous": "Lampra",
-    "next": "Lamprias 2",
-    "short_description": "Person",
+    "next": "Λαμπρίας 2",
+    "sort_key": "Lamprias 1",
+    "proof_read": 2,
+    "short_description": "Epistates in Eleusis 333/2 v. Chr.",
     "chapters": [
       {
         "start": 586,
-        "author": "Obst"
+        "end": 586,
+        "author": "Obst."
       }
     ]
   },
   {
-    "lemma": "Lamprias 2",
-    "previous": "Lamprias 1",
-    "next": "Lamprias 3",
+    "lemma": "Λαμπρίας 2",
+    "previous": "Λαμπρίας 1",
+    "next": "Λαμπρίας 3",
+    "sort_key": "Lamprias 2",
+    "proof_read": 2,
     "short_description": "Archon in Amphissa 200/199 v. Chr.",
     "chapters": [
       {
         "start": 586,
-        "author": "Oldfather"
+        "end": 586,
+        "author": "Oldfather."
       }
     ]
   },
   {
-    "lemma": "Lamprias 3",
-    "previous": "Lamprias 2",
-    "next": "Lamprias 4",
+    "lemma": "Λαμπρίας 3",
+    "previous": "Λαμπρίας 2",
+    "next": "Λαμπρίας 4",
+    "sort_key": "Lamprias 3",
+    "proof_read": 2,
     "short_description": "Großvater Plutarchs",
     "chapters": [
       {
         "start": 586,
-        "author": "Stein, [Arthur]"
+        "end": 586,
+        "author": "Stein."
       }
     ]
   },
   {
-    "lemma": "Lamprias 4",
-    "previous": "Lamprias 3",
+    "lemma": "Λαμπρίας 4",
+    "previous": "Λαμπρίας 3",
     "next": "Lampridius 1",
+    "sort_key": "Lamprias 4",
+    "proof_read": 2,
     "short_description": "Bruder Plutarchs",
     "chapters": [
       {
         "start": 586,
-        "author": "Stein, [Arthur]"
+        "end": 586,
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Lampridius 1",
-    "previous": "Lamprias 4",
+    "previous": "Λαμπρίας 4",
     "next": "Lampridius 2",
-    "short_description": "Vater des Vipsanius",
+    "proof_read": 2,
+    "short_description": "Senator, Vater des Vipsanianus",
     "chapters": [
       {
         "start": 586,
-        "author": "Seeck"
+        "end": 586,
+        "author": "Seeck."
       }
     ]
   },
@@ -10879,11 +10895,13 @@
     "lemma": "Lampridius 2",
     "previous": "Lampridius 1",
     "next": "Lampridius 3",
-    "short_description": "Redner und Dichter",
+    "proof_read": 2,
+    "short_description": "Redner und Dichter, Lehrer der Rhetorik in Burdigala",
     "chapters": [
       {
         "start": 586,
-        "author": "Seeck"
+        "end": 586,
+        "author": "Seeck."
       }
     ]
   },
@@ -10891,11 +10909,16 @@
     "lemma": "Lampridius 3",
     "previous": "Lampridius 2",
     "next": "Lampridius 4",
-    "short_description": "Aelius, fingierter Name des Fälschers der Historia Augusta?",
+    "proof_read": 2,
+    "short_description": "Fingierter Name des Fälschers der Historia Augusta",
+    "wp_link": "w:de:Aelius Lampridius",
+    "ws_link": "s:it:Autore:Elio Lampridio",
+    "wd_link": "d:Q833542",
     "chapters": [
       {
         "start": 586,
-        "author": "Seeck"
+        "end": 586,
+        "author": "Seeck."
       }
     ]
   },
@@ -10903,11 +10926,13 @@
     "lemma": "Lampridius 4",
     "previous": "Lampridius 3",
     "next": "Lamprokles 1",
-    "short_description": "Lampridia, Mutter des Pescennius Niger",
+    "proof_read": 2,
+    "short_description": "Lampridia, Mutter des Pescennius Niger nach der Historia Augusta",
     "chapters": [
       {
         "start": 586,
-        "author": "Stein, [Arthur]"
+        "end": 586,
+        "author": "Stein."
       }
     ]
   },
@@ -10978,11 +11003,13 @@
     "lemma": "Lampromachos",
     "previous": "Lamprokles 5",
     "next": "Lampros 1",
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "Athlet, Freund und Verwandter des Epharmostos aus Opus",
     "chapters": [
       {
         "start": 587,
-        "author": "Oldfather"
+        "end": 587,
+        "author": "Oldfather."
       }
     ]
   },
@@ -11017,41 +11044,48 @@
     "lemma": "Lampros 3",
     "previous": "Lampros 2",
     "next": "Lamprotera",
+    "proof_read": 2,
     "short_description": "Griechischer Grammatiker",
     "chapters": [
       {
         "start": 587,
-        "author": "Gudeman"
+        "end": 588,
+        "author": "Gudeman."
       }
     ]
   },
   {
     "lemma": "Lamprotera",
     "previous": "Lampros 3",
-    "next": "Lampsa",
+    "next": "Λάμψα",
+    "proof_read": 2,
     "short_description": "Angebl. lakonischer Tanz",
     "chapters": [
       {
         "start": 588,
-        "author": "Kroll"
+        "end": 588,
+        "author": "W. Kroll."
       }
     ]
   },
   {
-    "lemma": "Lampsa",
+    "lemma": "Λάμψα",
     "previous": "Lamprotera",
     "next": "Lampsake",
+    "sort_key": "Lampsa",
+    "proof_read": 2,
     "short_description": "Inselchen im keramischen Golf",
     "chapters": [
       {
         "start": 588,
-        "author": "Bürchner"
+        "end": 588,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Lampsake",
-    "previous": "Lampsa",
+    "previous": "Λάμψα",
     "next": "Lampsakene",
     "short_description": "Eponyme der Stadt Lampsakos",
     "chapters": [
@@ -16763,11 +16797,13 @@
     "lemma": "Lasthenes 3",
     "previous": "Lasthenes 2",
     "next": "Lasthenes 4",
-    "short_description": "Thebanischer Athlet",
+    "proof_read": 2,
+    "short_description": "Thebanischer Athlet, 403 v. Chr.",
     "chapters": [
       {
         "start": 890,
-        "author": "Obst"
+        "end": 890,
+        "author": "Obst."
       }
     ]
   },
