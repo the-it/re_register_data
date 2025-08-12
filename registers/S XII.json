@@ -6655,7 +6655,7 @@
   {
     "lemma": "Iordanes 3",
     "previous": "Inobindus",
-    "next": "Kleanthes",
+    "next": "Kleanthes 2",
     "short_description": "Magister militum unter Kaiser Arkadios",
     "wp_link": "w:de:Iordanes (Heermeister)",
     "wd_link": "d:Q123523128",
@@ -6668,12 +6668,16 @@
     ]
   },
   {
-    "lemma": "Kleanthes",
-    "previous": "Iordanes 3"
+    "lemma": "Kleanthes"
   },
   {
     "lemma": "Kleanthes 2",
-    "next": "Planta a",
+    "previous": "Iordanes 3",
+    "next": "Kleanthes 2",
+    "short_description": "von Assos, Stoiker 3. Jh. v. Chr., Schüler und Nachfolger des Zenon",
+    "wp_link": "w:de:Kleanthes",
+    "ws_link": "s:en:Author:Cleanthes of Assos",
+    "wd_link": "d:Q310149",
     "chapters": [
       {
         "start": 1705,
@@ -6684,7 +6688,6 @@
   },
   {
     "lemma": "Planta a",
-    "previous": "Kleanthes 2",
     "next": "Poreston",
     "sort_key": "Planta 0",
     "redirect": "Carniola",

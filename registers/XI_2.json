@@ -4315,7 +4315,7 @@
   {
     "lemma": "Kosa",
     "previous": "Kos 4",
-    "next": "Kosa(m)ba",
+    "next": "Κώσα(μ)βα",
     "chapters": [
       {
         "start": 1480,
@@ -4324,7 +4324,7 @@
     ]
   },
   {
-    "lemma": "Kosa(m)ba",
+    "lemma": "Κώσα(μ)βα",
     "previous": "Kosa",
     "next": "Kosingas",
     "chapters": [
@@ -4337,13 +4337,15 @@
   },
   {
     "lemma": "Kosingas",
-    "previous": "Kosa(m)ba",
+    "previous": "Κώσα(μ)βα",
     "next": "Kosintos",
-    "short_description": "Thrak. Fürst",
+    "proof_read": 2,
+    "short_description": "thrakischer Fürst und Priester der Hera",
     "chapters": [
       {
         "start": 1481,
-        "author": "Miller"
+        "end": 1481,
+        "author": "J. Miller."
       }
     ]
   },
@@ -8230,11 +8232,15 @@
     "lemma": "Kritias 2",
     "previous": "Kritias 1",
     "next": "Kritias 3",
-    "short_description": "Enkel v. Nr. 1, Großvater d. Charmides u. d. Tyrannen K.",
+    "proof_read": 2,
+    "short_description": "Großvater des Charmides und des Tyrannen Kritias",
+    "wp_link": "w:de:Kritias (Sohn des Leaides)",
+    "wd_link": "d:Q1376898",
     "chapters": [
       {
         "start": 1901,
-        "author": "Miller"
+        "end": 1901,
+        "author": "J. Miller."
       }
     ]
   },
@@ -8242,11 +8248,15 @@
     "lemma": "Kritias 3",
     "previous": "Kritias 2",
     "next": "Kritias 4",
-    "short_description": "Athen. Archon zw. 604/3 u. 591/0 v. Chr.",
+    "proof_read": 2,
+    "short_description": "athenischer Archon zwischen 604/3 und 591/0 v. Chr.",
+    "wp_link": "w:de:Kritias (Archon)",
+    "wd_link": "d:Q1789459",
     "chapters": [
       {
         "start": 1901,
-        "author": "Kirchner"
+        "end": 1901,
+        "author": "Kirchner."
       }
     ]
   },
@@ -9905,11 +9915,15 @@
     "lemma": "Ktesiphon 2",
     "previous": "Ktesiphon 1",
     "next": "Ktesiphon 3",
+    "proof_read": 2,
     "short_description": "Beantragte d. Bekränzung d. Demosthenes",
+    "wp_link": "w:en:Ctesiphon (orator)",
+    "wd_link": "d:Q3006635",
     "chapters": [
       {
         "start": 2079,
-        "author": "Honigmann"
+        "end": 2079,
+        "author": "Honigmann."
       }
     ]
   },
@@ -9928,7 +9942,7 @@
   {
     "lemma": "Ktesiphon 4",
     "previous": "Ktesiphon 3",
-    "next": "Ktesippos 1",
+    "next": "Ktesiphon 5",
     "short_description": "Arzt, Erfinder d. Wachssalbe",
     "chapters": [
       {
@@ -9939,8 +9953,24 @@
     ]
   },
   {
-    "lemma": "Ktesippos 1",
+    "lemma": "Ktesiphon 5",
     "previous": "Ktesiphon 4",
+    "next": "Ktesippos 1",
+    "redirect": true,
+    "proof_read": 2,
+    "short_description": "babylonische Stadt",
+    "wp_link": "w:de:Seleukeia-Ktesiphon",
+    "wd_link": "d:Q192541",
+    "chapters": [
+      {
+        "start": 2080,
+        "end": 2080
+      }
+    ]
+  },
+  {
+    "lemma": "Ktesippos 1",
+    "previous": "Ktesiphon 5",
     "next": "Ktesippos 2",
     "short_description": "Söhne von Herakles",
     "chapters": [
@@ -12626,11 +12656,15 @@
     "lemma": "Kynaigeiros",
     "previous": "Kymopoleia",
     "next": "Kynaion",
-    "short_description": "Bruder d. Aischylos",
+    "proof_read": 2,
+    "short_description": "Sohn des Euphorion, Bruder des Aischylos",
+    "wp_link": "w:de:Kynaigeiros",
+    "wd_link": "d:Q3008829",
     "chapters": [
       {
         "start": 2479,
-        "author": "Miller"
+        "end": 2479,
+        "author": "J. Miller."
       }
     ]
   },
