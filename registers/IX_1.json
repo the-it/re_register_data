@@ -9308,10 +9308,17 @@
     "lemma": "Iaxartes",
     "previous": "Iavolenus 2",
     "next": "Iazer",
-    "proof_read": 2,
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "Fluß im westlichen Zentralasien",
     "wp_link": "w:de:Syrdarja",
-    "wd_link": "d:Q483159"
+    "wd_link": "d:Q483159",
+    "chapters": [
+      {
+        "start": 806,
+        "end": 806
+      }
+    ]
   },
   {
     "lemma": "Iazer",
@@ -9328,10 +9335,19 @@
   },
   {
     "lemma": "Iazyges",
-    "proof_read": 2,
+    "previous": "Iazer",
+    "next": "Ibe",
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "sarmatisches Volk",
     "wp_link": "w:de:Jazygen",
-    "wd_link": "d:Q837791"
+    "wd_link": "d:Q837791",
+    "chapters": [
+      {
+        "start": 806,
+        "end": 806
+      }
+    ]
   },
   {
     "lemma": "Ibe",
@@ -14881,19 +14897,34 @@
   {
     "lemma": "Iaxartes",
     "previous": "Iaxartae",
-    "redirect": true,
-    "proof_read": 3,
+    "next": "Iazyges",
+    "proof_read": 2,
     "short_description": "Fluß im westlichen Zentralasien",
     "wp_link": "w:de:Syrdarja",
-    "wd_link": "d:Q483159"
+    "wd_link": "d:Q483159",
+    "chapters": [
+      {
+        "start": 1181,
+        "end": 1189,
+        "author": "Herrmann."
+      }
+    ]
   },
   {
     "lemma": "Iazyges",
-    "redirect": true,
-    "proof_read": 3,
+    "previous": "Iaxartes",
+    "next": "Ibis",
+    "proof_read": 2,
     "short_description": "sarmatisches Volk",
     "wp_link": "w:de:Jazygen",
-    "wd_link": "d:Q837791"
+    "wd_link": "d:Q837791",
+    "chapters": [
+      {
+        "start": 1189,
+        "end": 1191,
+        "author": "Vulić."
+      }
+    ]
   },
   {
     "lemma": "Ibis",
