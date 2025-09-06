@@ -157,6 +157,7 @@
     "previous": "Πικενδάκα",
     "next": "Πικραὶ λίμναι",
     "sort_key": "Pikensioi",
+    "proof_read": 0,
     "short_description": "Volksstamm in Obermoesien",
     "chapters": [
       {
@@ -169,7 +170,7 @@
   {
     "lemma": "Πικραὶ λίμναι",
     "previous": "Πικήνσιοι",
-    "next": "Pikron hydor",
+    "next": "Πικρὸν ὕδωρ",
     "short_description": "Mehrere Seen am Kanal zwischen Bubastischem Nilarm und rotem Meer",
     "chapters": [
       {
@@ -179,20 +180,23 @@
     ]
   },
   {
-    "lemma": "Pikron hydor",
+    "lemma": "Πικρὸν ὕδωρ",
     "previous": "Πικραὶ λίμναι",
     "next": "Pila 1",
-    "short_description": "Fluß mit Quelle in der korykischen Grotte in Kilikien",
+    "sort_key": "Pikronhydor",
+    "proof_read": 2,
+    "short_description": "Fluß mit Quelle in der Korykischen Grotte in Kilikien",
     "chapters": [
       {
         "start": 1317,
-        "author": "Ruge"
+        "end": 1318,
+        "author": "W. Ruge."
       }
     ]
   },
   {
     "lemma": "Pila 1",
-    "previous": "Pikron hydor",
+    "previous": "Πικρὸν ὕδωρ",
     "next": "Pila 2",
     "short_description": "Mörser zum Brechen und Mahlen von Getreide",
     "chapters": [
@@ -324,6 +328,7 @@
     "lemma": "Pilatus",
     "previous": "Pilas",
     "next": "Pilatusakten",
+    "proof_read": 0,
     "short_description": "Pontius, römischer Prokurator in Iudaea 26-36 n. Chr., Richter Jesu",
     "wp_link": "w:de:Pontius Pilatus",
     "ws_link": "s:en:Author:Pontius Pilate",
@@ -1355,6 +1360,7 @@
     "lemma": "Pindicitora",
     "previous": "Pindenissum",
     "next": "Pindis",
+    "proof_read": 0,
     "short_description": "Ort in Aithiopien am Westufer des Nils",
     "chapters": [
       {
