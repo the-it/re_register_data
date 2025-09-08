@@ -608,6 +608,7 @@
     "lemma": "Aretalogoi",
     "previous": "Aresaces",
     "next": "Arinistae",
+    "proof_read": 0,
     "short_description": "ursprünglich Personal des Isiskultes, später verächtlich 'Tugendschwätzer'",
     "wp_link": "w:de:Aretalogie (Religion)",
     "wd_link": "d:Q643148",
@@ -2404,6 +2405,7 @@
     "previous": "Grabaei",
     "next": "Harpokration 3",
     "sort_key": "Haartracht",
+    "proof_read": 0,
     "short_description": "die Frisuren der Männer und Frauen in Griechenland und Rom",
     "wp_link": "w:de:Frisur",
     "wd_link": "d:Q327496",
@@ -3738,6 +3740,7 @@
     "lemma": "Lex Puteolana parieti faciendo",
     "previous": "Lex Papia Poppaea",
     "next": "Linguarum",
+    "proof_read": 0,
     "short_description": "Vergabe- und Haftungsvertrag, 105 v. Chr.",
     "wp_link": "w:de:Lex Puteolana parieti faciendo",
     "wd_link": "d:Q131863335",
@@ -4004,7 +4007,7 @@
   {
     "lemma": "Marcus 27",
     "previous": "Marcus 17",
-    "next": "Μαθαλίς",
+    "next": "Marius 14",
     "sort_key": "Marcus 27",
     "proof_read": 2,
     "short_description": "Marcus Diaconus, schrieb eine Vita des Bischofs Porphyrius von Gaza",
@@ -4019,8 +4022,24 @@
     ]
   },
   {
-    "lemma": "Μαθαλίς",
+    "lemma": "Marius 14",
     "previous": "Marcus 27",
+    "next": "Μαθαλίς",
+    "redirect": true,
+    "proof_read": 3,
+    "short_description": "C. M., der römische Feldherr und siebenmalige Konsul 107 n. Chr.",
+    "wp_link": "w:de:Gaius Marius",
+    "wd_link": "d:Q177975",
+    "chapters": [
+      {
+        "start": 283,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "lemma": "Μαθαλίς",
+    "previous": "Marius 14",
     "next": "Matisa(?), Matisona(?), Matrona(?)",
     "sort_key": "Mathalis",
     "proof_read": 3,
@@ -5013,6 +5032,7 @@
     "lemma": "Rhyton",
     "previous": "Rhamnusium",
     "next": "Rinubio",
+    "proof_read": 0,
     "short_description": "Bezeichnung für ein Trinkgefäß",
     "wp_link": "w:de:Rhyton",
     "wd_link": "d:Q828450",
@@ -6145,6 +6165,7 @@
   {
     "lemma": "Manichäismus",
     "previous": "Maia 7",
+    "next": "Marius 14",
     "short_description": "Religion der 'dualistischen Gnosis'",
     "chapters": [
       {
@@ -6155,22 +6176,23 @@
   },
   {
     "lemma": "Marius 14",
-    "previous": "Marcus 27",
-    "next": "Μαθαλίς",
-    "redirect": true,
-    "proof_read": 3,
+    "previous": "Manichäismus",
+    "next": "Neapolis 18",
+    "proof_read": 2,
     "short_description": "C. M., der römische Feldherr und siebenmalige Konsul 107 n. Chr.",
     "wp_link": "w:de:Gaius Marius",
     "wd_link": "d:Q177975",
     "chapters": [
       {
-        "start": 283,
-        "end": 283
+        "start": 1363,
+        "end": 1425,
+        "author": "Weynand."
       }
     ]
   },
   {
     "lemma": "Neapolis 18",
+    "previous": "Marius 14",
     "next": "Regina castra",
     "short_description": "Residenz des skyth. Königs Skiluros (III A 526. S VI 892)",
     "chapters": [

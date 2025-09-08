@@ -3857,16 +3857,15 @@
   },
   {
     "lemma": "publicatio bonorum",
-    "previous": "Ptolemaios 66",
+    "previous": "Publicanos",
     "next": "Publicius",
+    "redirect": true,
     "proof_read": 2,
     "short_description": "die Vermögenseinziehung des römischen Strafrechts",
-    "no_creative_height": true,
     "chapters": [
       {
-        "start": 2484,
-        "end": 2515,
-        "author": "Manfred Fuhrmann."
+        "start": 1895,
+        "end": 1895
       }
     ]
   },
@@ -4213,11 +4212,18 @@
     "lemma": "Publicius 21",
     "previous": "Publicius 20",
     "next": "Publicius 22",
-    "short_description": "Malleolus, L. Fälschlich als Mitglied der Dreimännergesandtschaft nach Asien",
+    "proof_read": 0,
+    "short_description": "Malleolus, fälschlich als Mitglied der Dreimännergesandtschaft nach Asien",
     "chapters": [
       {
         "start": 1900,
-        "author": "Münzer"
+        "end": 1900,
+        "author": "F. Münzer."
+      },
+      {
+        "start": 1900,
+        "end": 1900,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -9011,13 +9017,14 @@
     "lemma": "publicatio bonorum",
     "previous": "Ptolemaios 66",
     "next": "pugillares",
-    "redirect": true,
     "proof_read": 2,
     "short_description": "die Vermögenseinziehung des römischen Strafrechts",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 1895,
-        "end": 1895
+        "start": 2484,
+        "end": 2515,
+        "author": "Manfred Fuhrmann."
       }
     ]
   },
