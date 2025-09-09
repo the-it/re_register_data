@@ -844,16 +844,17 @@
   },
   {
     "lemma": "Verisa",
-    "previous": "Vergilius 4aa",
-    "next": "Verolamium",
+    "previous": "Verinus 3",
+    "next": "Verissimus 1",
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "Stadt im nordöstlichen Kappadokien",
     "wp_link": "w:de:Titularbistum Berissa",
     "wd_link": "d:Q820689",
     "chapters": [
       {
-        "start": 2423,
-        "end": 2425,
-        "author": "Ernst Kirsten."
+        "start": 1550,
+        "end": 1550
       }
     ]
   },
@@ -1084,14 +1085,15 @@
     "lemma": "Verolamium",
     "previous": "Verofabula",
     "next": "Veromandui",
+    "redirect": true,
+    "proof_read": 2,
     "short_description": "Hauptstadt der britannischen Catuvellauni",
     "wp_link": "w:de:Verulamium",
     "wd_link": "d:Q19861",
     "chapters": [
       {
-        "start": 2425,
-        "end": 2426,
-        "author": "Ian A. Richmond."
+        "start": 1559,
+        "end": 1559
       }
     ]
   },
@@ -2008,17 +2010,16 @@
   },
   {
     "lemma": "Οὐεσκεθήρ",
-    "previous": "Vesentini",
-    "next": "Vestina 3",
+    "previous": "Vescellium",
+    "next": "Vesci",
     "sort_key": "Vescether",
+    "redirect": true,
     "proof_read": 3,
     "short_description": "Uescether, Ort in Mauretania Caesariensis (Ptolemaios)",
-    "no_creative_height": true,
     "chapters": [
       {
-        "start": 2434,
-        "end": 2434,
-        "author": "M. Leglay."
+        "start": 1692,
+        "end": 1692
       }
     ]
   },
@@ -2834,12 +2835,13 @@
     "lemma": "Vetis",
     "previous": "Vetilius 2",
     "next": "Vetissos",
+    "redirect": true,
+    "proof_read": 2,
     "short_description": "etruskische Gottheit",
     "chapters": [
       {
-        "start": 2437,
-        "end": 2437,
-        "author": "Gerhard Radke."
+        "start": 1836,
+        "end": 1836
       }
     ]
   },
@@ -5763,6 +5765,7 @@
     "lemma": "Vibius 33",
     "previous": "Vibius 32",
     "next": "Vibius 34",
+    "proof_read": 0,
     "short_description": "Sextus Vibius Gallus, Praefectus castrorum der legio XIII Gemina",
     "wp_link": "w:de:Sextus Vibius Gallus",
     "wd_link": "d:Q114092978",
@@ -5803,6 +5806,7 @@
     "previous": "Vibius 35",
     "next": "Vibius 37",
     "sort_key": "Vibius 36",
+    "proof_read": 0,
     "short_description": "Lentulus, L. Procurator in Dalmatien, Pannonien und Asia um 100 n. Chr.",
     "wp_link": "w:de:Lucius Vibius Lentulus",
     "wd_link": "d:Q116958312",
@@ -5844,6 +5848,7 @@
     "previous": "Vibius 37a",
     "next": "Vibius 39",
     "sort_key": "Vibius 38",
+    "proof_read": 0,
     "short_description": "Marianus, P. Ritter aus Dertona in Ligurien 3. Jhdt. n. Chr.",
     "wp_link": "w:de:Publius Vibius Marianus",
     "wd_link": "d:Q21636541",
@@ -6622,14 +6627,15 @@
     "lemma": "Vicesima 1",
     "previous": "Vicellinus",
     "next": "Vicesima 2",
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "die Erbschaftssteuer",
     "wp_link": "w:de:Geschichte der Erbschaftsteuer",
     "wd_link": "d:Q1516736",
     "chapters": [
       {
-        "start": 2471,
-        "end": 2477,
-        "author": "Gunter Wesener."
+        "start": 2053,
+        "end": 2053
       }
     ]
   },
@@ -6762,17 +6768,18 @@
   },
   {
     "lemma": "vici magister",
-    "previous": "Ad Vice(n)simum 7",
-    "next": "victimarius",
+    "previous": "Viciesis",
+    "next": "Vicinas",
     "sort_key": "Vicimagister",
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "Vorsteher der Straßenbezirke der Stadt Rom",
     "wp_link": "w:de:Vici magister",
     "wd_link": "d:Q23297731",
     "chapters": [
       {
-        "start": 2480,
-        "end": 2483,
-        "author": "J. Bleicken."
+        "start": 2055,
+        "end": 2055
       }
     ]
   },
@@ -6865,7 +6872,6 @@
   {
     "lemma": "Victa",
     "previous": "Vicres",
-    "next": "victimarius",
     "redirect": "Vica Pota",
     "proof_read": 3,
     "chapters": [
@@ -6876,8 +6882,24 @@
     ]
   },
   {
+    "lemma": "vici magister",
+    "next": "victimarius",
+    "sort_key": "Vicimagister",
+    "proof_read": 0,
+    "short_description": "Vorsteher der Straßenbezirke der Stadt Rom",
+    "wp_link": "w:de:Vici magister",
+    "wd_link": "d:Q23297731",
+    "chapters": [
+      {
+        "start": 2480,
+        "end": 2483,
+        "author": "J. Bleicken."
+      }
+    ]
+  },
+  {
     "lemma": "victimarius",
-    "previous": "Victa",
+    "previous": "vici magister",
     "next": "Victium",
     "redirect": true,
     "proof_read": 3,
@@ -11015,6 +11037,7 @@
     "lemma": "Venox",
     "previous": "Venno",
     "next": "Venonae",
+    "proof_read": 0,
     "short_description": "Cognomen der gens Plautia, var. lect. für Venno",
     "chapters": [
       {
@@ -11231,32 +11254,32 @@
   {
     "lemma": "Verisa",
     "previous": "Vergilius 4aa",
-    "next": "Verissimus 1",
-    "redirect": true,
-    "proof_read": 3,
+    "next": "Verolamium",
+    "proof_read": 0,
     "short_description": "Stadt im nordöstlichen Kappadokien",
     "wp_link": "w:de:Titularbistum Berissa",
     "wd_link": "d:Q820689",
     "chapters": [
       {
-        "start": 1550,
-        "end": 1550
+        "start": 2423,
+        "end": 2425,
+        "author": "Ernst Kirsten."
       }
     ]
   },
   {
     "lemma": "Verolamium",
-    "previous": "Verofabula",
-    "next": "Veromandui",
-    "redirect": true,
-    "proof_read": 2,
+    "previous": "Verisa",
+    "next": "Verona",
+    "proof_read": 0,
     "short_description": "Hauptstadt der britannischen Catuvellauni",
     "wp_link": "w:de:Verulamium",
     "wd_link": "d:Q19861",
     "chapters": [
       {
-        "start": 1559,
-        "end": 1559
+        "start": 2425,
+        "end": 2426,
+        "author": "Ian A. Richmond."
       }
     ]
   },
@@ -11320,16 +11343,17 @@
   },
   {
     "lemma": "Οὐεσκεθήρ",
-    "previous": "Vescellium",
+    "previous": "Vesentini",
     "next": "Vestina 3",
     "sort_key": "Vescether",
-    "redirect": true,
     "proof_read": 3,
     "short_description": "Uescether, Ort in Mauretania Caesariensis (Ptolemaios)",
+    "no_creative_height": true,
     "chapters": [
       {
-        "start": 1692,
-        "end": 1692
+        "start": 2434,
+        "end": 2434,
+        "author": "M. Leglay."
       }
     ]
   },
@@ -11390,13 +11414,13 @@
     "lemma": "Vetis",
     "previous": "Vesuvius",
     "next": "Vetissos",
-    "redirect": true,
-    "proof_read": 2,
+    "proof_read": 0,
     "short_description": "etruskische Gottheit",
     "chapters": [
       {
-        "start": 1836,
-        "end": 1836
+        "start": 2437,
+        "end": 2437,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -11664,7 +11688,7 @@
   {
     "lemma": "Vibullius 13",
     "previous": "Vibullius 12",
-    "next": "vicesima hereditatium",
+    "next": "Vicesima 1",
     "short_description": "Vibullia Athenais, Tochter des L. V. Nr. 6 (VIII A 2464) Hipparchus",
     "chapters": [
       {
@@ -11674,20 +11698,24 @@
     ]
   },
   {
-    "lemma": "vicesima hereditatium",
+    "lemma": "Vicesima 1",
     "previous": "Vibullius 13",
     "next": "vicesima manumissionum",
-    "short_description": "V. hereditatium, die Erbschaftssteuer (Z.43 lies: #.:S.2053 zum Art.#.,)",
+    "proof_read": 0,
+    "short_description": "die Erbschaftssteuer",
+    "wp_link": "w:de:Geschichte der Erbschaftsteuer",
+    "wd_link": "d:Q1516736",
     "chapters": [
       {
         "start": 2471,
-        "author": "Wesener"
+        "end": 2477,
+        "author": "Gunter Wesener."
       }
     ]
   },
   {
     "lemma": "vicesima manumissionum",
-    "previous": "vicesima hereditatium",
+    "previous": "Vicesima 1",
     "next": "Ad Vice(n)simum 5",
     "short_description": "V. manumissionum (v. libertatis), die 5Ñ-Steuer vom Wert des freizulassenden",
     "chapters": [
@@ -11718,6 +11746,7 @@
     "previous": "Ad Vice(n)simum 5",
     "next": "Ad Vice(n)simum 7",
     "sort_key": "Vicesimum 6, ad",
+    "proof_read": 0,
     "short_description": "Etrur. Straßenstation an der Via Flaminia",
     "chapters": [
       {
@@ -11732,6 +11761,7 @@
     "previous": "Ad Vice(n)simum 6",
     "next": "vici magister",
     "sort_key": "Vicesimum 7 ad",
+    "proof_read": 0,
     "short_description": "Station an der Straße Trapezus - Satala. = Magnana",
     "chapters": [
       {

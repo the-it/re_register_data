@@ -643,12 +643,14 @@
     "next": "Hetairion",
     "sort_key": "Hetairia",
     "proof_read": 0,
-    "short_description": "Freundschaftl. organisierte Vereinigung",
+    "short_description": "Freundschaftliche organisierte Vereinigung",
+    "wp_link": "w:de:Hetärie",
+    "wd_link": "d:Q1088789",
     "chapters": [
       {
         "start": 1373,
         "end": 1374,
-        "author": "Erich Ziebarth"
+        "author": "Ziebarth."
       }
     ]
   },
@@ -679,7 +681,7 @@
       {
         "start": 1374,
         "end": 1380,
-        "author": "Gerhard Plaumann"
+        "author": "Plaumann."
       }
     ]
   },
@@ -1387,7 +1389,7 @@
   {
     "lemma": "Hiera nesos, Hieronesos",
     "previous": "Ἱερὰ γερουσία",
-    "next": "Hiera hodos",
+    "next": "Ἱερὰ ὁδός",
     "short_description": "Westlichste der Aegatischen Inseln",
     "chapters": [
       {
@@ -1398,23 +1400,25 @@
     ]
   },
   {
-    "lemma": "Hiera hodos",
+    "lemma": "Ἱερὰ ὁδός",
     "previous": "Hiera nesos, Hieronesos",
     "next": "Hierakion",
     "sort_key": "Hierahodos",
     "proof_read": 0,
-    "short_description": "Straße Athen - Eleusis",
+    "short_description": "Straße von Athen nach Eleusis",
+    "wp_link": "w:de:Hiera Hodos",
+    "wd_link": "d:Q3737100",
     "chapters": [
       {
         "start": 1400,
         "end": 1400,
-        "author": "Felix Bölte"
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Hierakion",
-    "previous": "Hiera hodos",
+    "previous": "Ἱερὰ ὁδός",
     "next": "Hiera Kome, Hierokaisareia",
     "sort_key": "Hierakion",
     "proof_read": 2,
@@ -1430,15 +1434,15 @@
   {
     "lemma": "Hiera Kome, Hierokaisareia",
     "previous": "Hierakion",
-    "next": "Hierakon kome",
+    "next": "Ἱερὰ πύλη",
     "sort_key": "Hierakome, hierokaisareia",
     "proof_read": 0,
-    "short_description": "Ortschaft am Hyllos",
+    "short_description": "Ortschaft am Hyllos, in Lydien",
     "chapters": [
       {
         "start": 1401,
         "end": 1402,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -1460,7 +1464,7 @@
   {
     "lemma": "Hiera pyle",
     "previous": "Hierakon kome",
-    "next": "Hierakon nesos",
+    "next": "Ἱεράκων νῆσος",
     "sort_key": "Hierapyle",
     "proof_read": 0,
     "short_description": "Tor von Sikyon",
@@ -1473,8 +1477,8 @@
     ]
   },
   {
-    "lemma": "Hierakon nesos",
-    "previous": "Hiera pyle",
+    "lemma": "Ἱεράκων νῆσος",
+    "previous": "Ἱερὰ πύλη",
     "next": "Hierakonpolis",
     "sort_key": "Hierakonnesos",
     "proof_read": 0,
@@ -1483,13 +1487,13 @@
       {
         "start": 1403,
         "end": 1403,
-        "author": "Jaroslav Tkáč"
+        "author": "Tkač."
       }
     ]
   },
   {
     "lemma": "Hierakonpolis",
-    "previous": "Hierakon nesos",
+    "previous": "Ἱεράκων νῆσος",
     "next": "Hieramai",
     "sort_key": "Hierakonpolis",
     "proof_read": 2,
@@ -1533,12 +1537,13 @@
     "lemma": "Hierapeteia",
     "previous": "Hieramenes",
     "next": "Hierapetra",
+    "proof_read": 0,
     "short_description": "Örtlichkeit nahe Delphi",
     "chapters": [
       {
         "start": 1403,
         "end": 1404,
-        "author": "Bölte"
+        "author": "Felix Bölte"
       }
     ]
   },
@@ -1589,12 +1594,14 @@
     "lemma": "Hierapolis, Hieropolis 3",
     "previous": "Hierapolis, Hieropolis 2",
     "next": "Hierapytna",
+    "sort_key": "Hierapolis,hieropolis 3",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygien",
     "chapters": [
       {
         "start": 1404,
         "end": 1405,
-        "author": "Ruge"
+        "author": "Walther Ruge"
       }
     ]
   },
@@ -1602,12 +1609,13 @@
     "lemma": "Hierapytna",
     "previous": "Hierapolis, Hieropolis 3",
     "next": "Hieras",
+    "proof_read": 0,
     "short_description": "Stadt auf Kreta am Libyschen Meer",
     "chapters": [
       {
         "start": 1405,
         "end": 1407,
-        "author": "Bürchner"
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -1888,12 +1896,13 @@
     "lemma": "Hiereis",
     "previous": "Hierax 14",
     "next": "Ἱερῆς",
+    "proof_read": 0,
     "short_description": "Priester, zuständig für regelmäßige Besorgung d. Kultes u. für Pflege d.",
     "chapters": [
       {
         "start": 1411,
         "end": 1457,
-        "author": "Ziehen"
+        "author": "Ludwig Ziehen"
       }
     ]
   },
@@ -2178,6 +2187,7 @@
     "lemma": "Hieroduloi",
     "previous": "Hierocharax",
     "next": "Hieroglyphen",
+    "proof_read": 0,
     "short_description": "Tempelsklaven",
     "wp_link": "w:de:Hierodule",
     "wd_link": "d:Q1617492",
@@ -2193,12 +2203,13 @@
     "lemma": "Hieroglyphen",
     "previous": "Hieroduloi",
     "next": "Hieroi",
+    "proof_read": 0,
     "short_description": "Bilderschrift d. alten Ägypter",
     "chapters": [
       {
         "start": 1468,
         "end": 1471,
-        "author": "Burchardt"
+        "author": "Max Burchardt"
       }
     ]
   },
@@ -2421,11 +2432,13 @@
     "lemma": "Hierokles 13",
     "previous": "Hierokles 12",
     "next": "Hierokles 14",
+    "proof_read": 0,
     "short_description": "Sossianus, Statthalter v. Bithynien, Zeitgenosse d. Laktanz",
     "chapters": [
       {
         "start": 1477,
-        "author": "Seeck"
+        "end": 1477,
+        "author": "Otto Seeck"
       }
     ]
   },
@@ -2433,12 +2446,13 @@
     "lemma": "Hierokles 14",
     "previous": "Hierokles 13",
     "next": "Hierokles 15",
+    "proof_read": 0,
     "short_description": "Kilikier aus Tarsos, Advokat",
     "chapters": [
       {
         "start": 1477,
         "end": 1478,
-        "author": "Seeck"
+        "author": "Otto Seeck"
       }
     ]
   },
@@ -2474,11 +2488,13 @@
     "lemma": "Hierokles 17",
     "previous": "Hierokles 16",
     "next": "Hierokles 18",
+    "proof_read": 0,
     "short_description": "Stoiker d. hadrianischen Zt.",
     "chapters": [
       {
         "start": 1479,
-        "author": "Arnim"
+        "end": 1479,
+        "author": "Hans von Arnim"
       }
     ]
   },
@@ -2486,12 +2502,13 @@
     "lemma": "Hierokles 18",
     "previous": "Hierokles 17",
     "next": "Hierokles 19",
+    "proof_read": 0,
     "short_description": "Neuplatoniker",
     "chapters": [
       {
         "start": 1479,
         "end": 1487,
-        "author": "Praechter"
+        "author": "Karl Praechter"
       }
     ]
   },
@@ -2499,11 +2516,13 @@
     "lemma": "Hierokles 19",
     "previous": "Hierokles 18",
     "next": "Hierokles 20",
+    "proof_read": 0,
     "short_description": "Aus Alabanda/Karien, Hauptvertreter d. Asianismus",
     "chapters": [
       {
         "start": 1487,
-        "author": "Radermacher"
+        "end": 1487,
+        "author": "Ludwig Radermacher"
       }
     ]
   },
@@ -2511,12 +2530,13 @@
     "lemma": "Hierokles 20",
     "previous": "Hierokles 19",
     "next": "Hierokles 21",
+    "proof_read": 0,
     "short_description": "Stellte unter Iustinian ein Verzeichnis der oström. Provinzen (Synekdemos)",
     "chapters": [
       {
         "start": 1487,
         "end": 1489,
-        "author": "Kiessling, Max"
+        "author": "Max Kiessling"
       }
     ]
   },
@@ -2540,11 +2560,13 @@
     "lemma": "Hierokome",
     "previous": "Hierokles 21",
     "next": "Hierokome 1",
+    "proof_read": 0,
     "short_description": "Mehrere Ort in W-Kleinasien",
     "chapters": [
       {
         "start": 1489,
-        "author": "Bürchner"
+        "end": 1489,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -2552,11 +2574,13 @@
     "lemma": "Hierokome 1",
     "previous": "Hierokome",
     "next": "Hierokome 2",
+    "proof_read": 0,
     "short_description": "Örtlichkeit im kleinasiat. Teuthranien",
     "chapters": [
       {
         "start": 1489,
-        "author": "Bürchner"
+        "end": 1489,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -2564,11 +2588,13 @@
     "lemma": "Hierokome 2",
     "previous": "Hierokome 1",
     "next": "Hierolophos",
+    "proof_read": 0,
     "short_description": "Örtlichkeit nahe Tralleis in Lydien",
     "chapters": [
       {
         "start": 1489,
-        "author": "Bürchner"
+        "end": 1489,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -2576,10 +2602,12 @@
     "lemma": "Hierolophos",
     "previous": "Hierokome 2",
     "next": "Hieromenia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1489,
-        "author": "Bürchner"
+        "end": 1489,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -2587,12 +2615,13 @@
     "lemma": "Hieromenia",
     "previous": "Hierolophos",
     "next": "Hieromnemon 1",
+    "proof_read": 0,
     "short_description": "Festzeit",
     "chapters": [
       {
         "start": 1489,
         "end": 1490,
-        "author": "Stengel"
+        "author": "Paul Stengel"
       }
     ]
   },
@@ -2790,12 +2819,13 @@
     "lemma": "Hieron 11",
     "previous": "Hieron 10",
     "next": "Hieron 12",
+    "proof_read": 0,
     "short_description": "I., König von Syrakus 477-466 v. Chr.",
     "chapters": [
       {
         "start": 1496,
         "end": 1503,
-        "author": "Lenschau"
+        "author": "Thomas Lenschau"
       }
     ]
   },
@@ -2849,12 +2879,13 @@
     "lemma": "Hieron 15",
     "previous": "Hieron 14",
     "next": "Hieron 16",
+    "proof_read": 0,
     "short_description": "Epitropeusas ton teknon des Ptolemaios IX Euergetes II in Kos",
     "chapters": [
       {
         "start": 1512,
         "end": 1513,
-        "author": "Otto, Walter"
+        "author": "Walter Otto"
       }
     ]
   },
@@ -2879,12 +2910,13 @@
     "lemma": "Hieron 17",
     "previous": "Hieron 16",
     "next": "Hieron 18",
+    "proof_read": 0,
     "short_description": "Tyrann von Priene um 300-297 v. Chr.",
     "chapters": [
       {
         "start": 1513,
         "end": 1515,
-        "author": "Otto, Walter"
+        "author": "Walter Otto"
       }
     ]
   },
@@ -3064,12 +3096,14 @@
     "lemma": "Hieron stoma 1",
     "previous": "Ἱερὸν πεδίον",
     "next": "Hieron stoma 2",
+    "sort_key": "Hieronstoma 1",
+    "proof_read": 0,
     "short_description": "Größte der 7 Donaumündungen",
     "chapters": [
       {
         "start": 1530,
         "end": 1535,
-        "author": "Kiessling, Max"
+        "author": "Max Kiessling"
       }
     ]
   },
@@ -3118,10 +3152,12 @@
     "lemma": "Hieronides",
     "previous": "Hieronesos",
     "next": "Hieronikai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1535,
-        "author": "Otto, Walter"
+        "end": 1535,
+        "author": "Walter Otto"
       }
     ]
   },
@@ -3155,10 +3191,12 @@
     "lemma": "Hieronpotamon",
     "previous": "Hieronnesos",
     "next": "Hieronymos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1536,
-        "author": "Ruge"
+        "end": 1536,
+        "author": "Walther Ruge"
       }
     ]
   },
@@ -3326,12 +3364,13 @@
     "lemma": "Hieronymos 12",
     "previous": "Hieronymos 11",
     "next": "Hieronymos 13",
+    "proof_read": 0,
     "short_description": "Von Rhodos, Peripatetiker u. Literarhistoriker",
     "chapters": [
       {
         "start": 1561,
         "end": 1564,
-        "author": "Daebritz"
+        "author": "Rudolf Daebritz"
       }
     ]
   },
@@ -3339,11 +3378,13 @@
     "lemma": "Hieronymos 13",
     "previous": "Hieronymos 12",
     "next": "Hieronymos 14",
+    "proof_read": 0,
     "short_description": "Verf. einer Orphike theologia",
     "chapters": [
       {
         "start": 1564,
-        "author": "Gudeman"
+        "end": 1564,
+        "author": "Alfred Gudeman"
       }
     ]
   },
@@ -3364,11 +3405,13 @@
     "lemma": "Hieronymos 15",
     "previous": "Hieronymos 14",
     "next": "Hieronymos 16",
+    "proof_read": 0,
     "short_description": "Adressat mehrerer Briefe d. Prokopios v. Gaza",
     "chapters": [
       {
         "start": 1565,
-        "author": "Münscher"
+        "end": 1565,
+        "author": "Karl Münscher"
       }
     ]
   },
@@ -3405,12 +3448,13 @@
     "lemma": "Hierophantes",
     "previous": "Hieronymos 17",
     "next": "Hierophilos",
+    "proof_read": 0,
     "short_description": "Kultbeamter im eleusinischen Gottesdienst",
     "chapters": [
       {
         "start": 1581,
         "end": 1583,
-        "author": "Stengel"
+        "author": "Paul Stengel"
       }
     ]
   },
@@ -3418,11 +3462,13 @@
     "lemma": "Hierophilos",
     "previous": "Hierophantes",
     "next": "Hierophon 1",
+    "proof_read": 0,
     "short_description": "s. Herophilos",
     "chapters": [
       {
         "start": 1583,
-        "author": "Gossen"
+        "end": 1583,
+        "author": "Hans Gossen"
       }
     ]
   },
@@ -3454,12 +3500,13 @@
     "lemma": "Hieropoioi",
     "previous": "Hierophon 2",
     "next": "Hieropolis 1",
+    "proof_read": 0,
     "short_description": "Opferbesorger, Kultbeamte",
     "chapters": [
       {
         "start": 1583,
         "end": 1588,
-        "author": "Oehler, J[ohann]"
+        "author": "Johann Oehler"
       }
     ]
   },
@@ -3467,11 +3514,13 @@
     "lemma": "Hieropolis 1",
     "previous": "Hieropoioi",
     "next": "Hieropolis 2",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygien",
     "chapters": [
       {
         "start": 1588,
-        "author": "Ruge"
+        "end": 1588,
+        "author": "Walther Ruge"
       }
     ]
   },
@@ -3518,11 +3567,13 @@
     "lemma": "Hieros 1",
     "previous": "Hierorenses",
     "next": "Hieros 2",
+    "proof_read": 0,
     "short_description": "Monat d. delischen Kalenders",
     "chapters": [
       {
         "start": 1588,
-        "author": "Bischoff, [Ernst]"
+        "end": 1588,
+        "author": "Ernst Bischoff"
       }
     ]
   },
@@ -3530,11 +3581,13 @@
     "lemma": "Hieros 2",
     "previous": "Hieros 1",
     "next": "Hieros 3",
+    "proof_read": 0,
     "short_description": "Flüßchen in d. kleinasiat. Aiolis",
     "chapters": [
       {
         "start": 1588,
-        "author": "Bürchner"
+        "end": 1588,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -3555,11 +3608,14 @@
     "lemma": "Hieros limen 1",
     "previous": "Hieros 3",
     "next": "Hieros limen 2",
+    "sort_key": "Hieroslimen 1",
+    "proof_read": 0,
     "short_description": "Hafen an d. W-Küste von Delos",
     "chapters": [
       {
         "start": 1588,
-        "author": "Bürchner"
+        "end": 1588,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -3567,11 +3623,14 @@
     "lemma": "Hieros limen 2",
     "previous": "Hieros limen 1",
     "next": "Hieros limen 3",
+    "sort_key": "Hieroslimen 2",
+    "proof_read": 0,
     "short_description": "Hafen auf Keos",
     "chapters": [
       {
         "start": 1588,
-        "author": "Bürchner"
+        "end": 1588,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -3579,12 +3638,14 @@
     "lemma": "Hieros limen 3",
     "previous": "Hieros limen 2",
     "next": "Hierosebastos",
+    "sort_key": "Hieroslimen 3",
+    "proof_read": 0,
     "short_description": "Ort an d. Zemesbucht",
     "chapters": [
       {
         "start": 1588,
         "end": 1589,
-        "author": "Kiessling, Max"
+        "author": "Max Kiessling"
       }
     ]
   },
@@ -3592,10 +3653,12 @@
     "lemma": "Hierosebastos",
     "previous": "Hieros limen 3",
     "next": "Hieros flumen",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1589,
-        "author": "Bischoff, [Ernst]"
+        "end": 1589,
+        "author": "Ernst Bischoff"
       }
     ]
   },
@@ -3603,10 +3666,13 @@
     "lemma": "Hieros flumen",
     "previous": "Hierosebastos",
     "next": "Hierosolyma",
+    "sort_key": "Hierosflumen",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1589,
-        "author": "Ruge"
+        "end": 1589,
+        "author": "Walther Ruge"
       }
     ]
   },
@@ -3627,12 +3693,14 @@
     "lemma": "Hierosylias graphe",
     "previous": "Hierosolyma",
     "next": "Hierothesion",
+    "sort_key": "Hierosyliasgraphe",
+    "proof_read": 0,
     "short_description": "Öffentl. Klage wegen Tempelraums in Athen",
     "chapters": [
       {
         "start": 1589,
         "end": 1590,
-        "author": "Thalheim"
+        "author": "Theodor Franz Arthur Thalheim"
       }
     ]
   },
@@ -3640,10 +3708,12 @@
     "lemma": "Hierothesion",
     "previous": "Hierosylias graphe",
     "next": "Hierothysion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1590,
-        "author": "Bölte"
+        "end": 1590,
+        "author": "Felix Bölte"
       }
     ]
   },
@@ -3664,12 +3734,13 @@
     "lemma": "Hierothytes",
     "previous": "Hierothysion",
     "next": "Hierus",
+    "proof_read": 0,
     "short_description": "Titel von Kultbeamten",
     "chapters": [
       {
         "start": 1590,
         "end": 1591,
-        "author": "Stengel"
+        "author": "Paul Stengel"
       }
     ]
   },
@@ -3677,10 +3748,12 @@
     "lemma": "Hierus",
     "previous": "Hierothytes",
     "next": "Hiheraiae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1591,
-        "author": "Stein, [Arthur]"
+        "end": 1591,
+        "author": "Arthur Stein"
       }
     ]
   },
@@ -3688,11 +3761,12 @@
     "lemma": "Hiheraiae",
     "previous": "Hierus",
     "next": "Hiherap(i)ae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1591,
         "end": 1592,
-        "author": "Keune"
+        "author": "Johann Baptist Keune"
       }
     ]
   },
@@ -3735,12 +3809,13 @@
     "lemma": "Hikesios 1",
     "previous": "Hikesia",
     "next": "Hikesios 2",
+    "proof_read": 0,
     "short_description": "oder Hikesia Beiname von Gottheiten",
     "chapters": [
       {
         "start": 1592,
         "end": 1593,
-        "author": "Jessen"
+        "author": "Otto Jessen"
       }
     ]
   },
@@ -3760,11 +3835,13 @@
     "lemma": "Hikesios 3",
     "previous": "Hikesios 2",
     "next": "Hikesios 4",
+    "proof_read": 0,
     "short_description": "Aus Milet, gesandt an Antiochos Epiphanes",
     "chapters": [
       {
         "start": 1593,
-        "author": "Otto, Walter"
+        "end": 1593,
+        "author": "Walter Otto"
       }
     ]
   },
@@ -3772,11 +3849,13 @@
     "lemma": "Hikesios 4",
     "previous": "Hikesios 3",
     "next": "Hikesios 5",
+    "proof_read": 0,
     "short_description": "Verf. einer Schrift über Mysterien",
     "chapters": [
       {
         "start": 1593,
-        "author": "Kern"
+        "end": 1593,
+        "author": "Otto Kern"
       }
     ]
   },
@@ -3784,12 +3863,13 @@
     "lemma": "Hikesios 5",
     "previous": "Hikesios 4",
     "next": "Hiketas 1",
+    "proof_read": 0,
     "short_description": "Berühmter Arzt",
     "chapters": [
       {
         "start": 1593,
         "end": 1594,
-        "author": "Gossen"
+        "author": "Hans Gossen"
       }
     ]
   },
@@ -3797,11 +3877,13 @@
     "lemma": "Hiketas 1",
     "previous": "Hikesios 5",
     "next": "Hiketas 2",
+    "proof_read": 0,
     "short_description": "Epikleisis d. Zeus",
     "chapters": [
       {
         "start": 1594,
-        "author": "Jessen"
+        "end": 1594,
+        "author": "Otto Jessen"
       }
     ]
   },
@@ -3809,12 +3891,13 @@
     "lemma": "Hiketas 2",
     "previous": "Hiketas 1",
     "next": "Hiketas 3",
+    "proof_read": 0,
     "short_description": "Vornehmer Syrakusaner, Freund Dions",
     "chapters": [
       {
         "start": 1594,
         "end": 1596,
-        "author": "Lenschau"
+        "author": "Thomas Lenschau"
       }
     ]
   },
@@ -3822,12 +3905,13 @@
     "lemma": "Hiketas 3",
     "previous": "Hiketas 2",
     "next": "Hiketas 4",
+    "proof_read": 0,
     "short_description": "H. der jüngere, eine Zeitlang Beherrscher v. Syrakus",
     "chapters": [
       {
         "start": 1596,
         "end": 1597,
-        "author": "Lenschau"
+        "author": "Thomas Lenschau"
       }
     ]
   },
@@ -3835,11 +3919,13 @@
     "lemma": "Hiketas 4",
     "previous": "Hiketas 3",
     "next": "Hiketes",
+    "proof_read": 0,
     "short_description": "Aus Syrakus, Pythagoreer",
     "chapters": [
       {
         "start": 1597,
-        "author": "Wellmann, E[duard]"
+        "end": 1597,
+        "author": "Eduard Wellmann"
       }
     ]
   },
@@ -3990,10 +4076,12 @@
     "lemma": "Hilario",
     "previous": "Hilarianus 6",
     "next": "Hilarios 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1599,
-        "author": "Stein, [Arthur]"
+        "end": 1599,
+        "author": "Arthur Stein"
       }
     ]
   },
@@ -12181,6 +12269,7 @@
     "lemma": "Horatius 10",
     "previous": "Horatius 9",
     "next": "Horatius 11",
+    "proof_read": 0,
     "short_description": "Flaccus, Qu. Bedeutender röm. Dichter ars poet. , carm, epist., epodi, saturae",
     "wp_link": "w:de:Horaz",
     "ws_link": "s:de:Horaz",

@@ -4749,6 +4749,7 @@
     "previous": "Senter",
     "next": "Sentiacus",
     "sort_key": "Sentia",
+    "proof_read": 0,
     "short_description": "römische Sondergottheit",
     "chapters": [
       {
@@ -4780,6 +4781,7 @@
     "previous": "Sentiacus",
     "next": "Sentice",
     "sort_key": "Sentianum",
+    "proof_read": 0,
     "short_description": "Station in Apulien zwischen Aequum Tuticum und Venusia",
     "chapters": [
       {
@@ -4841,6 +4843,7 @@
     "previous": "Sentii",
     "next": "Sentinus",
     "sort_key": "Sentinum",
+    "proof_read": 0,
     "short_description": "Ort in Umbrien",
     "wp_link": "w:de:Sassoferrato (Marken)",
     "wd_link": "d:Q124886",
@@ -19768,7 +19771,7 @@
   {
     "lemma": "Σίγλος",
     "previous": "Sigliniacus",
-    "next": "Sigma",
+    "next": "Sigma 1",
     "short_description": "siklos, gräzisierte Bezeichnung eines oriental. Verkehrs- u. Münzgewichtes",
     "chapters": [
       {
@@ -19779,11 +19782,11 @@
     ]
   },
   {
-    "lemma": "Sigma",
+    "lemma": "Sigma 1",
     "previous": "Σίγλος",
-    "next": "Sigman",
+    "next": "Sigma 2",
     "proof_read": 3,
-    "short_description": "1. halbkreisförmige röm. Speiselager, 2. halbkreisförmige Bauteile",
+    "short_description": "halbkreisförmige röm. Speiselager",
     "chapters": [
       {
         "start": 2323,
@@ -19793,8 +19796,50 @@
     ]
   },
   {
+    "lemma": "Sigma 2",
+    "previous": "Sigma 1",
+    "next": "Sigma 3",
+    "proof_read": 3,
+    "short_description": "halbkreisförmige Bauteile",
+    "chapters": [
+      {
+        "start": 2324,
+        "end": 2324,
+        "author": "Rodenwaldt."
+      }
+    ]
+  },
+  {
+    "lemma": "Sigma 3",
+    "previous": "Sigma 2",
+    "next": "Sigma 4",
+    "proof_read": 3,
+    "short_description": "sichelförmiger Tisch",
+    "chapters": [
+      {
+        "start": 2324,
+        "end": 2324,
+        "author": "Rodenwaldt."
+      }
+    ]
+  },
+  {
+    "lemma": "Sigma 4",
+    "previous": "Sigma 3",
+    "next": "Sigman",
+    "proof_read": 3,
+    "short_description": "halbkreisförmiges Badebecken",
+    "chapters": [
+      {
+        "start": 2324,
+        "end": 2324,
+        "author": "Rodenwaldt."
+      }
+    ]
+  },
+  {
     "lemma": "Sigman",
-    "previous": "Sigma",
+    "previous": "Sigma 4",
     "next": "Sigmatis",
     "redirect": "Sigmatis",
     "proof_read": 3,

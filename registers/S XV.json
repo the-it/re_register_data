@@ -1505,6 +1505,7 @@
     "lemma": "Fabricius 13a",
     "previous": "Fabius 76b",
     "next": "Favonius 1b",
+    "proof_read": 0,
     "short_description": "C. F. Tuscus, praef. equitum alae praetoriae (des Germanicus?).",
     "wp_link": "w:de:Gaius Fabricius Tuscus",
     "wd_link": "d:Q62083664",
@@ -1635,6 +1636,7 @@
     "lemma": "Flavius 147a",
     "previous": "Flavius 117a",
     "next": "Flavius 159aa",
+    "proof_read": 0,
     "short_description": "T. F. Piso, Mitglied des kaiserlichen Consiliums",
     "wp_link": "w:de:Titus Flavius Piso",
     "wd_link": "d:Q96191613",
@@ -2681,6 +2683,7 @@
     "lemma": "Octavius 40a",
     "previous": "Numidius 5",
     "next": "Octavius 54a",
+    "proof_read": 0,
     "short_description": "L. O. Aur. Didasius, v. c., Patron von Ureu in Africa proconsularis",
     "chapters": [
       {
@@ -4176,7 +4179,9 @@
   {
     "lemma": "Weltalter",
     "previous": "Vellocasses",
+    "next": "Weltbild",
     "sort_key": "Veltalter",
+    "proof_read": 0,
     "short_description": "die antiken Vorstellungen über die Weltalter",
     "wp_link": "w:de:Weltalter der Antike",
     "wd_link": "d:Q1525748",
@@ -4190,17 +4195,18 @@
   },
   {
     "lemma": "Weltbild",
-    "previous": "Zopyros 19a",
+    "previous": "Weltalter",
     "next": "Veneliocassi",
     "sort_key": "Veltbild",
+    "redirect": true,
+    "proof_read": 2,
     "short_description": "Begriff",
     "wp_link": "w:de:Weltbild",
     "wd_link": "d:Q2030462",
     "chapters": [
       {
-        "start": 1557,
-        "end": 1583,
-        "author": "Herbert Bannert."
+        "start": 850,
+        "end": 850
       }
     ]
   },
@@ -4221,6 +4227,7 @@
     "lemma": "Venelli",
     "previous": "Veneliocassi",
     "next": "Veneti 1",
+    "proof_read": 0,
     "short_description": "keltisches Volk im Nordwesten der Normandie",
     "wp_link": "w:de:Veneller",
     "wd_link": "d:Q733283",
@@ -4775,6 +4782,7 @@
     "lemma": "Zeuxis 1",
     "previous": "Zeus",
     "next": "Ziegelstempel von Rom und Umgebung",
+    "proof_read": 0,
     "short_description": "vom lukanischen? Heraclea, Maler um 435–390 v. Chr.",
     "wp_link": "w:de:Zeuxis (Bildhauer)",
     "wd_link": "d:Q197035",
@@ -4844,15 +4852,15 @@
     "previous": "Zopyros 19a",
     "next": "Victor 69",
     "sort_key": "Veltbild",
-    "redirect": true,
-    "proof_read": 2,
+    "proof_read": 0,
     "short_description": "Begriff",
     "wp_link": "w:de:Weltbild",
     "wd_link": "d:Q2030462",
     "chapters": [
       {
-        "start": 850,
-        "end": 850
+        "start": 1557,
+        "end": 1583,
+        "author": "Herbert Bannert."
       }
     ]
   },
