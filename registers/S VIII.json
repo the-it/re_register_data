@@ -1349,6 +1349,7 @@
   {
     "lemma": "Hippothontis",
     "previous": "Hilaon",
+    "next": "Ὁμόλη 1",
     "short_description": "Att. Phyle/ Spaltenangaben: 922",
     "chapters": [
       {
@@ -1359,12 +1360,16 @@
     ]
   },
   {
-    "lemma": "Homole 1",
+    "lemma": "Ὁμόλη 1",
+    "previous": "Hippothontis",
+    "next": "Ὁμόλη 2",
+    "proof_read": 0,
+    "short_description": "Berg im thessalischen Magnesia",
     "chapters": [
       {
         "start": 186,
         "end": 188,
-        "author": "Gisinger"
+        "author": "Friedrich Gisinger."
       }
     ]
   },
@@ -1395,7 +1400,6 @@
   {
     "lemma": "Homole 3",
     "previous": "Hypokrites",
-    "next": "Homolion",
     "short_description": "Thrak. Ort(?) = Homolion (S VIII 188)(?).",
     "chapters": [
       {
@@ -1405,20 +1409,41 @@
     ]
   },
   {
-    "lemma": "Homolion",
-    "previous": "Homole 3",
-    "next": "Ichneumon",
-    "short_description": "Stadt im thessal. Magnesia = Homole (VIII 2260 Nr. 2 )(?). = Homole (S VIII 188",
+    "lemma": "Ὁμόλη 2",
+    "previous": "Ὁμόλη 1",
+    "next": "Ὁμόλιον",
+    "sort_key": "Homole 2",
+    "proof_read": 0,
+    "short_description": "Stadt am gleichnamigen Berg Nr. 1",
     "chapters": [
       {
         "start": 188,
-        "author": "Gisinger"
+        "end": 188,
+        "author": "Friedrich Gisinger."
       }
     ]
   },
   {
+    "lemma": "Ὁμόλιον",
+    "previous": "Ὁμόλη 2",
+    "next": "Hymenaios",
+    "sort_key": "Homolion",
+    "proof_read": 0,
+    "short_description": "Ort am Südufer des unteren Peneios",
+    "chapters": [
+      {
+        "start": 188,
+        "end": 188,
+        "author": "Friedrich Gisinger."
+      }
+    ]
+  },
+  {
+    "lemma": "Hymenaios",
+    "previous": "Ὁμόλιον"
+  },
+  {
     "lemma": "Ichneumon",
-    "previous": "Homolion",
     "next": "Johannisbrot",
     "short_description": "Das Raubtier",
     "chapters": [
