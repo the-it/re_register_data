@@ -98734,7 +98734,7 @@
   {
     "lemma": "Horismos",
     "previous": "Ὁριοδείκτης",
-    "next": "Horistai",
+    "next": "Ὁρισταί",
     "proof_read": 3,
     "short_description": "Grieche am Hof des Demetrios I. Poliorketes, Sohn des Damasistratos",
     "no_creative_height": true,
@@ -98747,11 +98747,12 @@
     ]
   },
   {
-    "lemma": "Horistai",
+    "lemma": "Ὁρισταί",
     "previous": "Horismos",
     "next": "Ὁρκωμότης",
+    "sort_key": "Horistai",
     "proof_read": 3,
-    "short_description": "die griechischen Vermessungsbeamten",
+    "short_description": "Grenzsteinsetzer und -wächter",
     "no_creative_height": true,
     "chapters": [
       {
@@ -98763,7 +98764,7 @@
   },
   {
     "lemma": "Ὁρκωμότης",
-    "previous": "Horistai",
+    "previous": "Ὁρισταί",
     "next": "Ὁρμοφυλακία",
     "sort_key": "Horkomotes",
     "proof_read": 3,
@@ -171934,7 +171935,7 @@
   {
     "lemma": "Umbonius 2",
     "previous": "Umbonius 1a",
-    "next": "Umbria",
+    "next": "Umbri, Umbria",
     "sort_key": "Vmbonius 2",
     "proof_read": 3,
     "short_description": "U. Silo, Prokonsul der Provinz Hispania Baetica 1. Jh. n. Chr.",
@@ -171949,6 +171950,8 @@
   },
   {
     "lemma": "Umbri, Umbria",
+    "previous": "Umbonius 2",
+    "next": "Umbria",
     "sort_key": "Vmbri",
     "proof_read": 3,
     "no_creative_height": true,
@@ -171962,7 +171965,7 @@
   },
   {
     "lemma": "Umbria",
-    "previous": "Umbonius 2",
+    "previous": "Umbri, Umbria",
     "next": "Umbricius 4a",
     "sort_key": "Vmbria",
     "redirect": "Umbri, Umbria",

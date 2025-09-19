@@ -3513,7 +3513,7 @@
   {
     "lemma": "creditum",
     "previous": "Uttiedius 1",
-    "next": "intercisi dies",
+    "next": "Daduchos 3",
     "proof_read": 0,
     "short_description": "das Darlehen",
     "wp_link": "w:en:Loan",
@@ -3528,6 +3528,7 @@
   },
   {
     "lemma": "Daduchos 3",
+    "previous": "creditum",
     "next": "Damatros",
     "proof_read": 3,
     "short_description": "Schauspieler vornehmlich in Delphi im 2. Jh. n. Chr.",
@@ -5949,7 +5950,7 @@
   {
     "lemma": "Ἱερονῖκαι",
     "previous": "Hieron 21",
-    "next": "Hieronymos 6a",
+    "next": "Hieronymos 18",
     "sort_key": "Hieronikai",
     "proof_read": 0,
     "short_description": "Ehrentitel der kaiserzeitlichen Pantomimen",
@@ -5962,8 +5963,7 @@
     ]
   },
   {
-    "lemma": "Hieronymos 6a",
-    "previous": "Ἱερονῖκαι"
+    "lemma": "Hieronymos 6a"
   },
   {
     "lemma": "Hieronymos 18",
@@ -6089,7 +6089,7 @@
   {
     "lemma": "Honorius 4c",
     "previous": "Hippotomadai",
-    "next": "Horistai",
+    "next": "Ὁρισταί",
     "short_description": "Q. H. Anteros, kaiserzeitl.(?) scabillarius",
     "chapters": [
       {
@@ -6099,19 +6099,23 @@
     ]
   },
   {
-    "lemma": "Horistai",
+    "lemma": "Ὁρισταί",
     "previous": "Honorius 4c",
     "next": "Hybadai",
+    "sort_key": "Horistai",
+    "proof_read": 0,
+    "short_description": "Grenzsteinsetzer und -wächter",
     "chapters": [
       {
-        "start": 327,
-        "author": "Bonaria"
+        "start": 326,
+        "end": 326,
+        "author": "Erich Berneker."
       }
     ]
   },
   {
     "lemma": "Hybadai",
-    "previous": "Horistai",
+    "previous": "Ὁρισταί",
     "next": "Hylas 3",
     "short_description": "Att. Demos",
     "chapters": [
