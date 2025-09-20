@@ -1468,11 +1468,13 @@
     "next": "Ὑδροφόρια",
     "proof_read": 0,
     "short_description": "Weissagung durch Wasser",
+    "wp_link": "w:de:Hydroskopie",
+    "wd_link": "d:Q951800",
     "chapters": [
       {
         "start": 79,
         "end": 86,
-        "author": "Fritz Böhm"
+        "author": "Boehm."
       }
     ]
   },
@@ -1614,7 +1616,7 @@
       {
         "start": 88,
         "end": 89,
-        "author": "Otto Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -1622,7 +1624,7 @@
     "lemma": "Hyes 2",
     "previous": "Hyes 1",
     "next": "Hyetios",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
@@ -1638,11 +1640,12 @@
     "next": "Hyetis",
     "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
+    "wd_link": "d:Q107246891",
     "chapters": [
       {
         "start": 89,
         "end": 90,
-        "author": "Otto Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -1890,32 +1893,48 @@
     "previous": "Hykkara",
     "next": "Hyktanis",
     "proof_read": 0,
-    "short_description": "Volk, das im 18. Jh. v. Chr. Aegypten eroberte",
+    "short_description": "Volk, das im 18. Jhdt. v. Chr. Aegypten eroberte",
+    "wp_link": "w:de:Hyksos",
+    "wd_link": "d:Q192319",
     "chapters": [
       {
         "start": 98,
         "end": 101,
-        "author": "Max Burchardt"
+        "author": "Burchardt."
       }
     ]
   },
   {
     "lemma": "Hyktanis",
     "previous": "Hyksos",
-    "next": "Hyla 1",
+    "next": "Hyla",
     "proof_read": 0,
     "short_description": "Fluß Karmaniens",
     "chapters": [
       {
         "start": 101,
         "end": 106,
-        "author": "Max Kiessling"
+        "author": "Kiessling."
+      }
+    ]
+  },
+  {
+    "lemma": "Hyla",
+    "previous": "Hyksos",
+    "next": "Hyla 1",
+    "proof_read": 0,
+    "short_description": "Name",
+    "chapters": [
+      {
+        "start": 106,
+        "end": 106,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Hyla 1",
-    "previous": "Hyktanis",
+    "previous": "Hyla",
     "next": "Hyla 2",
     "proof_read": 0,
     "short_description": "Ort bei Magnesia am Lethaios",
@@ -1923,7 +1942,7 @@
       {
         "start": 106,
         "end": 107,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -1960,7 +1979,7 @@
     "previous": "Hyla 3",
     "next": "Hylaia",
     "redirect": "Hyla 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 107,
@@ -1978,7 +1997,7 @@
       {
         "start": 107,
         "end": 109,
-        "author": "Max Kiessling"
+        "author": "Kiessling."
       }
     ]
   },
@@ -2183,12 +2202,14 @@
     "previous": "Hylas 7",
     "next": "Hyle 1",
     "proof_read": 0,
-    "short_description": "Epiklesis des Apollon",
+    "short_description": "Epiklesis des Apollon auf Kypros",
+    "wp_link": "w:de:Hylates",
+    "wd_link": "d:Q1640518",
     "chapters": [
       {
         "start": 116,
         "end": 117,
-        "author": "Otto Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -2198,11 +2219,13 @@
     "next": "Hyle 2",
     "proof_read": 0,
     "short_description": "Ort in Boiotien",
+    "wp_link": "w:de:en:Hyle (Boeotia)",
+    "wd_link": "d:Q11925635",
     "chapters": [
       {
         "start": 117,
         "end": 119,
-        "author": "Felix Bölte"
+        "author": "Bölte."
       }
     ]
   },
@@ -2402,17 +2425,31 @@
       {
         "start": 120,
         "end": 122,
-        "author": "Felix Bölte"
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Ὑλλικὸς λιμήν",
     "previous": "Hyllikos",
-    "next": "Hyllos 1",
+    "next": "Hyllos",
     "sort_key": "Hyllikos limen",
     "redirect": "Ὑλλαϊκὸς λιμήν",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 122,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "lemma": "Hyllos",
+    "previous": "Ὑλλικὸς λιμήν",
+    "next": "Hyllos 1",
+    "redirect": true,
     "proof_read": 2,
+    "short_description": "Name",
     "chapters": [
       {
         "start": 122,
@@ -2422,7 +2459,7 @@
   },
   {
     "lemma": "Hyllos 1",
-    "previous": "Ὑλλικὸς λιμήν",
+    "previous": "Hyllos",
     "next": "Hyllos 2",
     "proof_read": 0,
     "short_description": "Nebenfluß des Hermos",
@@ -2430,7 +2467,7 @@
       {
         "start": 122,
         "end": 122,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -2538,7 +2575,7 @@
       {
         "start": 125,
         "end": 126,
-        "author": "Johannes Sieveking"
+        "author": "Sieveking."
       }
     ]
   },
@@ -2994,7 +3031,7 @@
       {
         "start": 210,
         "end": 222,
-        "author": "Max Kiessling"
+        "author": "Kiessling."
       }
     ]
   },
@@ -3008,7 +3045,7 @@
       {
         "start": 222,
         "end": 230,
-        "author": "Max Kiessling"
+        "author": "Kiessling."
       }
     ]
   },
@@ -3017,7 +3054,7 @@
     "previous": "Hypanis 2",
     "next": "Hypanis 4",
     "redirect": "Hypasis",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 230,
@@ -3028,9 +3065,9 @@
   {
     "lemma": "Hypanis 4",
     "previous": "Hypanis 3",
-    "next": "Hyparchos",
+    "next": "Ὑπαρνά",
     "redirect": "Hydaspes 2",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 230,
@@ -3041,10 +3078,10 @@
   },
   {
     "lemma": "Hyparchos",
-    "previous": "Hypanis 4",
-    "next": "Ὑπαρνά",
+    "previous": "Ὑπαρνά",
+    "next": "Hypasioi",
     "redirect": "Hypobaros",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 230,
@@ -3054,11 +3091,11 @@
   },
   {
     "lemma": "Ὑπαρνά",
-    "previous": "Hyparchos",
-    "next": "Hypasioi",
+    "previous": "Hypanis 4",
+    "next": "Hyparchos",
     "sort_key": "Hyparna",
-    "proof_read": 2,
-    "short_description": "Ortsname",
+    "proof_read": 3,
+    "short_description": "Platz im kleinasiatischen Karien",
     "chapters": [
       {
         "start": 230,
@@ -3069,10 +3106,10 @@
   },
   {
     "lemma": "Hypasioi",
-    "previous": "Ὑπαρνά",
+    "previous": "Hyparchos",
     "next": "Hypasis",
     "proof_read": 2,
-    "short_description": "Bergstamm beim heutigen Kabul",
+    "short_description": "Bergstamm im Norden der Kophes (beim heutigen Kabul)",
     "chapters": [
       {
         "start": 230,
@@ -4487,12 +4524,12 @@
     "previous": "Hypnus",
     "next": "Ὑποβολῆς γραφή",
     "proof_read": 0,
-    "short_description": "Indischer Fluß Ganges?",
+    "short_description": "Indischer Fluß Ganges (?)",
     "chapters": [
       {
         "start": 329,
         "end": 332,
-        "author": "Max Kiessling"
+        "author": "Kiessling."
       }
     ]
   },
@@ -4645,9 +4682,9 @@
     "lemma": "Ὑπωμοσία",
     "previous": "Hypomelathra",
     "next": "Hypopaidotribai",
+    "sort_key": "Hypomosia",
     "proof_read": 0,
     "short_description": "Begründetes Fristgesuch im attischen Prozess",
-    "wp_link": "w:de:Hypomosia",
     "chapters": [
       {
         "start": 337,
@@ -4925,8 +4962,10 @@
     "lemma": "Hypsikles 1",
     "previous": "Hypsichides",
     "next": "Hypsikles 2",
-    "proof_read": 2,
-    "short_description": "Aus Sikyon",
+    "proof_read": 3,
+    "short_description": "Aus Sikyon, Olympiasieger, 72 v. Chr.",
+    "wp_link": "w:de:el:Υψικλής ο Σικυώνιος",
+    "wd_link": "d:Q23043015",
     "no_creative_height": true,
     "chapters": [
       {
@@ -4942,11 +4981,14 @@
     "next": "Hypsikles 3",
     "proof_read": 0,
     "short_description": "Griechischer Mathematiker",
+    "wp_link": "w:de:Hypsikles",
+    "ws_link": "s:en:Author:Hypsicles of Alexandria",
+    "wd_link": "d:Q929483",
     "chapters": [
       {
         "start": 427,
         "end": 433,
-        "author": "Axel Anthon Bjørnbo"
+        "author": "Björnbo."
       }
     ]
   },
@@ -5008,11 +5050,13 @@
     "next": "Hypsipyle 2",
     "proof_read": 0,
     "short_description": "Tochter des Königs Thoas von Lemnos",
+    "wp_link": "w:de:Hypsipyle",
+    "wd_link": "d:Q775296",
     "chapters": [
       {
         "start": 436,
         "end": 443,
-        "author": "Otto Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -5026,7 +5070,7 @@
       {
         "start": 443,
         "end": 444,
-        "author": "Otto Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -5077,7 +5121,7 @@
     "lemma": "Hypsipylos",
     "previous": "Hypsipyle 5",
     "next": "Hypsirisma",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Bruder des Helikaon",
     "chapters": [
       {
@@ -5090,42 +5134,45 @@
   {
     "lemma": "Hypsirisma",
     "previous": "Hypsipylos",
-    "next": "Hypsistos",
+    "next": "Ὕψιστος",
     "proof_read": 0,
     "short_description": "Inselchen an der Küste Kleinasiens",
     "chapters": [
       {
         "start": 444,
         "end": 444,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Hypsistos",
+    "lemma": "Ὕψιστος",
     "previous": "Hypsirisma",
     "next": "Hypso 1",
+    "sort_key": "Hypsistos",
     "proof_read": 0,
     "short_description": "Beiname des Zeus",
     "chapters": [
       {
         "start": 444,
         "end": 450,
-        "author": "Franz Cumont"
+        "author": "Cumont."
       }
     ]
   },
   {
     "lemma": "Hypso 1",
-    "previous": "Hypsistos",
+    "previous": "Ὕψιστος",
     "next": "Hypso 2",
     "proof_read": 0,
     "short_description": "Mutter der Argonauten Deukalion und Amphion",
+    "wp_link": "w:de:en:Hypso",
+    "wd_link": "d:Q105704132",
     "chapters": [
       {
         "start": 450,
         "end": 450,
-        "author": "Otto Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -5139,7 +5186,7 @@
       {
         "start": 450,
         "end": 450,
-        "author": "Otto Jessen"
+        "author": "Jessen."
       }
     ]
   },
@@ -5147,8 +5194,8 @@
     "lemma": "Hypsokles",
     "previous": "Hypso 2",
     "next": "Hyrakia",
-    "proof_read": 2,
-    "short_description": "Person",
+    "proof_read": 3,
+    "short_description": "Archon auf Delos, um 279 v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5162,7 +5209,7 @@
     "lemma": "Hyrakia",
     "previous": "Hypsokles",
     "next": "Hyrgaleis",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Stadt der mythischen Insel Panchaia",
     "chapters": [
       {
@@ -5182,7 +5229,7 @@
       {
         "start": 450,
         "end": 450,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -5212,7 +5259,7 @@
       {
         "start": 451,
         "end": 453,
-        "author": "Max Kiessling"
+        "author": "Kiessling."
       }
     ]
   },
@@ -5221,7 +5268,7 @@
     "previous": "Hyrgis, Syrgis",
     "next": "Hyria 2",
     "redirect": "Nola",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 453,
@@ -5312,7 +5359,7 @@
       {
         "start": 453,
         "end": 453,
-        "author": "Walther Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -5326,7 +5373,7 @@
       {
         "start": 453,
         "end": 454,
-        "author": "Jakob Weiss"
+        "author": "Weiss."
       }
     ]
   },
@@ -5336,11 +5383,13 @@
     "next": "Hyrkanion Pedion",
     "proof_read": 0,
     "short_description": "Gebiet im zentraliranischen Hochplateau",
+    "wp_link": "w:de:Hyrkanien",
+    "wd_link": "d:Q48726",
     "chapters": [
       {
         "start": 454,
         "end": 526,
-        "author": "Max Kiessling"
+        "author": "Kiessling."
       }
     ]
   },
@@ -5475,7 +5524,7 @@
       {
         "start": 534,
         "end": 535,
-        "author": "Walter Otto"
+        "author": "Walter Otto."
       }
     ]
   },
@@ -5514,7 +5563,7 @@
       {
         "start": 536,
         "end": 538,
-        "author": "Walter Otto"
+        "author": "Walter Otto."
       }
     ]
   },
@@ -5538,11 +5587,13 @@
     "next": "Hyrtakomis",
     "proof_read": 0,
     "short_description": "Städtchen auf Kreta",
+    "wp_link": "w:de:Hyrtakina",
+    "wd_link": "d:Q8059667",
     "chapters": [
       {
         "start": 538,
         "end": 539,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
