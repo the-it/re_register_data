@@ -2870,6 +2870,7 @@
     "lemma": "Ioannes 18",
     "previous": "Ioannes 17",
     "next": "Ioannes 19",
+    "redirect": true,
     "proof_read": 2,
     "short_description": "I. Stobaios, griech. Kompilator (im 5. Jh. n. Chr.?)",
     "wp_link": "w:de:Johann Stobäus",
@@ -3994,18 +3995,19 @@
     "previous": "Ioleisitai",
     "next": "Iolkios",
     "proof_read": 0,
+    "short_description": "Epiklesis der Artemis",
     "chapters": [
       {
         "start": 1850,
         "end": 1850,
-        "author": "Ada Adler"
+        "author": "Adler."
       }
     ]
   },
   {
     "lemma": "Iolkios",
     "previous": "Iolkia",
-    "next": "Iolkos, Ialkos",
+    "next": "Ἰωλκός, Ἰαολκός",
     "chapters": [
       {
         "start": 1850,
@@ -4014,26 +4016,28 @@
     ]
   },
   {
-    "lemma": "Iolkos, Ialkos",
+    "lemma": "Ἰωλκός, Ἰαολκός",
     "previous": "Iolkios",
     "next": "Iollas 1",
-    "sort_key": "Iolkos,ialkos",
+    "sort_key": "Iolkos,iaolkos",
     "proof_read": 0,
     "short_description": "Stadt in Magnesia",
+    "wp_link": "w:de:Iolkos",
+    "wd_link": "d:Q662613",
     "chapters": [
       {
         "start": 1850,
         "end": 1855,
-        "author": "Friedrich Stählin"
+        "author": "Stählin."
       }
     ]
   },
   {
     "lemma": "Iollas 1",
-    "previous": "Iolkos, Ialkos",
+    "previous": "Ἰωλκός, Ἰαολκός",
     "next": "Iollas 2",
     "redirect": "Valerius 233",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1855,
@@ -4045,46 +4049,50 @@
     "lemma": "Iollas 2",
     "previous": "Iollas 1",
     "next": "Iollas 3",
-    "proof_read": 0,
-    "short_description": "Bithynischer Arzt",
+    "proof_read": 2,
+    "short_description": "Bithynischer Arzt, Mitte des 3. Jhdts. v. Chr.",
+    "wp_link": "w:de:ca:Iol·les de Bitínia",
+    "wd_link": "d:Q20003258",
     "chapters": [
       {
         "start": 1855,
         "end": 1855,
-        "author": "Hans Gossen"
+        "author": "Gossen."
       }
     ]
   },
   {
     "lemma": "Iollas 3",
     "previous": "Iollas 2",
-    "next": "Iolon",
-    "proof_read": 0,
+    "next": "Ἴωλον",
+    "proof_read": 2,
     "short_description": "Augenarzt",
     "chapters": [
       {
         "start": 1855,
         "end": 1855,
-        "author": "Hans Gossen"
+        "author": "Gossen."
       }
     ]
   },
   {
-    "lemma": "Iolon",
+    "lemma": "Ἴωλον",
     "previous": "Iollas 3",
     "next": "Iomanes",
-    "proof_read": 0,
+    "sort_key": "Iolon",
+    "proof_read": 2,
+    "short_description": "Berg in Perrhaibia",
     "chapters": [
       {
         "start": 1856,
         "end": 1856,
-        "author": "Friedrich Stählin"
+        "author": "Stählin."
       }
     ]
   },
   {
     "lemma": "Iomanes",
-    "previous": "Iolon",
+    "previous": "Ἴωλον",
     "next": "Iomnium",
     "chapters": [
       {
@@ -4098,11 +4106,14 @@
     "previous": "Iomanes",
     "next": "Iomusa",
     "proof_read": 0,
+    "short_description": "Municipium an der mauretanischen Küste",
+    "wp_link": "w:de:en:Iomnium",
+    "wd_link": "d:Q113827285",
     "chapters": [
       {
         "start": 1856,
         "end": 1856,
-        "author": "Hermann Dessau"
+        "author": "Dessau."
       }
     ]
   },
@@ -4121,13 +4132,14 @@
     "lemma": "Ion 1",
     "previous": "Iomusa",
     "next": "Ion 2",
+    "sort_key": "Ion 01",
     "proof_read": 0,
-    "short_description": "Nebenfluß d. Peneios",
+    "short_description": "Nebenfluß des Peneios",
     "chapters": [
       {
         "start": 1856,
         "end": 1856,
-        "author": "Friedrich Stählin"
+        "author": "Stählin."
       }
     ]
   },
@@ -4135,13 +4147,14 @@
     "lemma": "Ion 2",
     "previous": "Ion 1",
     "next": "Ion 3",
-    "proof_read": 0,
+    "sort_key": "Ion 02",
+    "proof_read": 2,
     "short_description": "Äthiopisches Gebirge",
     "chapters": [
       {
         "start": 1856,
-        "end": 1858,
-        "author": "Curt Theodor Fischer"
+        "end": 1856,
+        "author": "Fischer."
       }
     ]
   },
@@ -4151,7 +4164,7 @@
     "next": "Ion 4",
     "sort_key": "Ion 03",
     "proof_read": 0,
-    "short_description": "Stammvater d. Ionier u. ihr mythischer Vertreter",
+    "short_description": "Stammvater der Ionier und ihr mythischer Vertreter",
     "wp_link": "w:de:Ion (Stammvater)",
     "wd_link": "d:Q853462",
     "chapters": [
@@ -4259,13 +4272,13 @@
     "lemma": "Ion 10",
     "previous": "Ion 9",
     "next": "Ion 11",
-    "proof_read": 0,
-    "short_description": "Procurator tractus 126 n. Chr.",
+    "proof_read": 2,
+    "short_description": "Procurator tractus, 126 n. Chr.",
     "chapters": [
       {
         "start": 1860,
         "end": 1861,
-        "author": "Arthur Stein"
+        "author": "Stein."
       }
     ]
   },
@@ -4436,12 +4449,14 @@
     "previous": "Ionda",
     "next": "Ionia 1",
     "proof_read": 0,
-    "short_description": "Einer der vier gr. Hauptstämme",
+    "short_description": "Einer der vier griechischen Hauptstämme",
+    "wp_link": "w:de:Ionier",
+    "wd_link": "d:Q465331",
     "chapters": [
       {
         "start": 1869,
         "end": 1893,
-        "author": "Thomas Lenschau"
+        "author": "Lenschau."
       }
     ]
   },
@@ -6285,11 +6300,13 @@
     "lemma": "Iphion",
     "previous": "Iphinoe 7",
     "next": "Iphis 1",
+    "proof_read": 0,
     "short_description": "Korinthier, Maler",
     "chapters": [
       {
         "start": 2023,
-        "author": "Lippold, Georg"
+        "end": 2023,
+        "author": "Lippold."
       }
     ]
   },
@@ -6303,7 +6320,7 @@
       {
         "start": 2023,
         "end": 2024,
-        "author": "Georg Weicker"
+        "author": "Weicker."
       }
     ]
   },
@@ -6325,11 +6342,14 @@
     "lemma": "Iphis 3",
     "previous": "Iphis 2",
     "next": "Iphistiadai",
-    "short_description": "Person auf Vase",
+    "proof_read": 2,
+    "short_description": "weiblicher Lieblingsname auf einer nolanischen Amphora",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2025,
-        "author": "Leonard"
+        "end": 2025,
+        "author": "Leonard."
       }
     ]
   },
@@ -6338,12 +6358,14 @@
     "previous": "Iphis 3",
     "next": "Iphitheos",
     "proof_read": 0,
-    "short_description": "Demos d. Phyle Akamantis",
+    "short_description": "Demos der Phyle Akamantis",
+    "wp_link": "w:de:en:Iphistiadae",
+    "wd_link": "d:Q13445937",
     "chapters": [
       {
         "start": 2025,
         "end": 2025,
-        "author": "Walther Kolbe"
+        "author": "Kolbe."
       }
     ]
   },
@@ -6351,12 +6373,13 @@
     "lemma": "Iphitheos",
     "previous": "Iphistiadai",
     "next": "Iphitos 1",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Name eines Troers auf der Timonidasflasche",
     "chapters": [
       {
         "start": 2025,
         "end": 2025,
-        "author": "Georg Weicker"
+        "author": "Weicker."
       }
     ]
   },
@@ -6365,12 +6388,14 @@
     "previous": "Iphitheos",
     "next": "Iphitos 2",
     "proof_read": 0,
-    "short_description": "Sohn d. Eurytos v. Oichalia",
+    "short_description": "Sohn des Eurytos von Oichalia",
+    "wp_link": "w:de:Iphitos (Sohn des Eurytos)",
+    "wd_link": "d:Q1672196",
     "chapters": [
       {
         "start": 2026,
         "end": 2027,
-        "author": "Wilhelm Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -6379,12 +6404,14 @@
     "previous": "Iphitos 1",
     "next": "Iphitos 3",
     "proof_read": 0,
-    "short_description": "Alter elischer Heros, viell. identisch mit Nr. 1",
+    "short_description": "Alter elischer Heros, vielleicht identisch mit Nr. 1",
+    "wp_link": "w:de:Iphitos von Elis",
+    "wd_link": "d:Q2298655",
     "chapters": [
       {
         "start": 2027,
         "end": 2028,
-        "author": "Wilhelm Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -6393,12 +6420,14 @@
     "previous": "Iphitos 2",
     "next": "Iphitos 4",
     "proof_read": 0,
-    "short_description": "Herrscher in Phokis",
+    "short_description": "Sohn des Naubolos, Herrscher in Phokis",
+    "wp_link": "w:de:Iphitos (Sohn des Naubolos)",
+    "wd_link": "d:Q2731769",
     "chapters": [
       {
         "start": 2028,
         "end": 2029,
-        "author": "Wilhelm Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -6612,12 +6641,13 @@
     "lemma": "Ipsicuri",
     "previous": "Ipsca",
     "next": "Ipsos",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "ligurischer Stamm",
     "chapters": [
       {
         "start": 2031,
         "end": 2031,
-        "author": "Ferdinand Haug"
+        "author": "Haug."
       }
     ]
   },
@@ -6626,11 +6656,14 @@
     "previous": "Ipsicuri",
     "next": "Iptuci",
     "proof_read": 0,
+    "short_description": "Städtchen des Phrygien",
+    "wp_link": "w:de:en:Ipsus",
+    "wd_link": "d:Q2732880",
     "chapters": [
       {
         "start": 2031,
         "end": 2031,
-        "author": "Walther Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -6639,12 +6672,12 @@
     "previous": "Ipsos",
     "next": "Ira 1",
     "proof_read": 0,
-    "short_description": "Viell. Ort an d. Straße Ilipa - Italica",
+    "short_description": "Vielleicht Ort an der Straße Ilipa - Italica",
     "chapters": [
       {
         "start": 2031,
         "end": 2032,
-        "author": "Emil Hübner"
+        "author": "Hübner."
       }
     ]
   },
@@ -6677,13 +6710,13 @@
     "lemma": "Ira 3",
     "previous": "Ira 2",
     "next": "Irada",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Stadt auf Lesbos",
     "chapters": [
       {
         "start": 2032,
         "end": 2032,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -6701,7 +6734,7 @@
   {
     "lemma": "Irala",
     "previous": "Irada",
-    "next": "Irath",
+    "next": "Ἰράθ",
     "redirect": "Irada",
     "proof_read": 2,
     "chapters": [
@@ -6712,28 +6745,31 @@
     ]
   },
   {
-    "lemma": "Irath",
+    "lemma": "Ἰράθ",
     "previous": "Irala",
     "next": "Ircavium",
-    "proof_read": 0,
+    "sort_key": "Irath",
+    "proof_read": 2,
+    "short_description": "Stadt in Mauretania",
     "chapters": [
       {
         "start": 2032,
         "end": 2032,
-        "author": "Curt Theodor Fischer"
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Ircavium",
-    "previous": "Irath",
+    "previous": "Ἰράθ",
     "next": "Ire",
     "proof_read": 0,
+    "short_description": "Kastell, wohl in Rätien",
     "chapters": [
       {
         "start": 2032,
         "end": 2032,
-        "author": "Ferdinand Haug"
+        "author": "Haug."
       }
     ]
   },
@@ -6742,7 +6778,7 @@
     "previous": "Ircavium",
     "next": "Irenaeus 1",
     "redirect": "Hire 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2032,
@@ -6754,13 +6790,13 @@
     "lemma": "Irenaeus 1",
     "previous": "Ire",
     "next": "Irenaeus 2",
-    "proof_read": 0,
-    "short_description": "Gr. Rhetor",
+    "proof_read": 2,
+    "short_description": "griechischer Rhetor",
     "chapters": [
       {
         "start": 2032,
         "end": 2032,
-        "author": "Arthur Stein"
+        "author": "Stein."
       }
     ]
   },
@@ -6769,7 +6805,7 @@
     "previous": "Irenaeus 1",
     "next": "Irenaeus 3",
     "redirect": "Eirenaios 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2032,
@@ -6781,13 +6817,13 @@
     "lemma": "Irenaeus 3",
     "previous": "Irenaeus 2",
     "next": "Irenarcha",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Arzt",
     "chapters": [
       {
         "start": 2032,
         "end": 2032,
-        "author": "Hans Gossen"
+        "author": "Gossen."
       }
     ]
   },
@@ -6796,12 +6832,14 @@
     "previous": "Irenaeus 3",
     "next": "Irenopolis",
     "proof_read": 0,
-    "short_description": "Polizieibeamter für größere Distrikte in d. Provinzen",
+    "short_description": "Polizieibeamter für größere Distrikte in den Provinzen",
+    "wp_link": "w:de:es:Irenarca",
+    "wd_link": "d:Q5790519",
     "chapters": [
       {
         "start": 2032,
         "end": 2035,
-        "author": "Ivo Pfaff"
+        "author": "Pfaff."
       }
     ]
   },
@@ -6810,7 +6848,7 @@
     "previous": "Irenarcha",
     "next": "Iresiae",
     "redirect": "Eirenopolis 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2035,
@@ -6860,12 +6898,12 @@
     "previous": "Iria 2",
     "next": "Irieus",
     "proof_read": 0,
-    "short_description": "Dorf nahe d. Euphratmündung",
+    "short_description": "Dorf an oder unweit der Mündung des Euphrat",
     "chapters": [
       {
         "start": 2035,
         "end": 2036,
-        "author": "Franz Heinrich Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
@@ -6874,7 +6912,7 @@
     "previous": "Iridotis",
     "next": "Irini",
     "redirect": "Malier",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2036,
@@ -8461,11 +8499,13 @@
     "lemma": "Isidotos 2",
     "previous": "Isidotos 1",
     "next": "Isidotos 3",
+    "proof_read": 0,
     "short_description": "Erzgießer",
     "chapters": [
       {
         "start": 2082,
-        "author": "Lippold, Georg"
+        "end": 2082,
+        "author": "Georg Lippold"
       }
     ]
   },
@@ -8473,11 +8513,13 @@
     "lemma": "Isidotos 3",
     "previous": "Isidotos 2",
     "next": "Isigonos 1",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 2082,
-        "author": "Lippold, Georg"
+        "end": 2082,
+        "author": "Georg Lippold"
       }
     ]
   },
@@ -8499,12 +8541,13 @@
     "lemma": "Isigonos 2",
     "previous": "Isigonos 1",
     "next": "Isinda 1",
+    "proof_read": 0,
     "short_description": "Erzgießer",
     "chapters": [
       {
         "start": 2082,
         "end": 2083,
-        "author": "Lippold, Georg"
+        "author": "Georg Lippold"
       }
     ]
   },
@@ -8554,12 +8597,13 @@
     "lemma": "Ision",
     "previous": "Isinda 3",
     "next": "Isios",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Ort an der Südküste Lykiens",
     "chapters": [
       {
         "start": 2083,
         "end": 2083,
-        "author": "Walther Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -8568,11 +8612,12 @@
     "previous": "Ision",
     "next": "Isis 1",
     "proof_read": 0,
+    "short_description": "Ethnikon einer sonst unbekannten Ortschaft in Aitolien oder West-Lokris",
     "chapters": [
       {
         "start": 2083,
         "end": 2084,
-        "author": "William Abbott Oldfather"
+        "author": "Oldfather."
       }
     ]
   },
@@ -8651,7 +8696,7 @@
   {
     "lemma": "Isius mons",
     "previous": "Isiu 2",
-    "next": "Iskina",
+    "next": "Ἴσκινα",
     "chapters": [
       {
         "start": 2133,
@@ -8660,28 +8705,31 @@
     ]
   },
   {
-    "lemma": "Iskina",
+    "lemma": "Ἴσκινα",
     "previous": "Isius mons",
     "next": "Iskome",
+    "sort_key": "Iskina",
     "proof_read": 0,
+    "short_description": "Ort in Innerlybien",
     "chapters": [
       {
         "start": 2133,
         "end": 2133,
-        "author": "Curt Theodor Fischer"
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Iskome",
-    "previous": "Iskina",
+    "previous": "Ἴσκινα",
     "next": "Ἴσκος",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Ort in Phrygien",
     "chapters": [
       {
         "start": 2133,
         "end": 2133,
-        "author": "Walther Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -8717,11 +8765,13 @@
     "next": "Ismara 2",
     "proof_read": 0,
     "short_description": "Stadt in Thrakien",
+    "wp_link": "w:de:en:Ismarus (Thrace)",
+    "wd_link": "d:Q2317888",
     "chapters": [
       {
         "start": 2134,
         "end": 2134,
-        "author": "Nikola Vulić"
+        "author": "Vulić."
       }
     ]
   },
@@ -8729,13 +8779,13 @@
     "lemma": "Ismara 2",
     "previous": "Ismara 1",
     "next": "Ismaris",
-    "proof_read": 0,
-    "short_description": "Stadt in Kleinarmenien",
+    "proof_read": 2,
+    "short_description": "Stadt in Kleinarmenien am Euphrat",
     "chapters": [
       {
         "start": 2134,
         "end": 2134,
-        "author": "Adolf Baumgartner"
+        "author": "Baumgartner."
       }
     ]
   },
@@ -8744,11 +8794,12 @@
     "previous": "Ismara 2",
     "next": "Ismaros 1",
     "proof_read": 0,
+    "short_description": "Strandsee an der Küste von Thrakien",
     "chapters": [
       {
         "start": 2134,
         "end": 2134,
-        "author": "Eugen Oberhummer"
+        "author": "Oberhummer."
       }
     ]
   },
@@ -8962,11 +9013,13 @@
     "lemma": "Ismenias 7",
     "previous": "Ismenias 6",
     "next": "Ismenion",
+    "proof_read": 0,
     "short_description": "Maler v. Chalkis",
     "chapters": [
       {
         "start": 2141,
-        "author": "Lippold, Georg"
+        "end": 2141,
+        "author": "Georg Lippold"
       }
     ]
   },
@@ -9040,11 +9093,14 @@
     "lemma": "Ismenos 3",
     "previous": "Ismenos 2",
     "next": "Ismuc",
-    "short_description": "Sohn d. Aithra",
+    "proof_read": 2,
+    "short_description": "Sohn der Aithra",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2145,
-        "author": "Eitrem"
+        "end": 2145,
+        "author": "Eitrem."
       }
     ]
   },
@@ -9052,12 +9108,13 @@
     "lemma": "Ismuc",
     "previous": "Ismenos 3",
     "next": "Isodaites",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Stadt, 20 Millien von Zama Regia",
     "chapters": [
       {
         "start": 2145,
         "end": 2145,
-        "author": "Hermann Dessau"
+        "author": "Dessau."
       }
     ]
   },
@@ -9067,11 +9124,13 @@
     "next": "Isodike",
     "proof_read": 0,
     "short_description": "Epitheton mehrerer Gottheiten",
+    "wp_link": "w:de:el:Ισοδαίτης",
+    "wd_link": "d:Q12878203",
     "chapters": [
       {
         "start": 2145,
         "end": 2146,
-        "author": "Ada Adler"
+        "author": "Adler."
       }
     ]
   },
@@ -9090,12 +9149,13 @@
     "lemma": "Isodrome",
     "previous": "Isodike",
     "next": "Isokasios",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Epiklesis der Meter",
     "chapters": [
       {
         "start": 2146,
         "end": 2146,
-        "author": "Ada Adler"
+        "author": "Adler."
       }
     ]
   },
@@ -9103,13 +9163,13 @@
     "lemma": "Isokasios",
     "previous": "Isodrome",
     "next": "Isokrates 1",
-    "proof_read": 0,
-    "short_description": "Sophist im 5. Jh.",
+    "proof_read": 2,
+    "short_description": "Sophist, 5. Jhdt. n. Chr.",
     "chapters": [
       {
         "start": 2146,
         "end": 2146,
-        "author": "Otto Seeck"
+        "author": "Seeck."
       }
     ]
   },
@@ -9117,11 +9177,14 @@
     "lemma": "Isokrates 1",
     "previous": "Isokasios",
     "next": "Isokrates 2",
-    "short_description": "Heerführer der Korinther",
+    "proof_read": 2,
+    "short_description": "Heerführer der Korinthier bei Naupaktos, 429 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2146,
-        "author": "Sundwall"
+        "end": 2146,
+        "author": "Sundwall."
       }
     ]
   },
@@ -9130,12 +9193,15 @@
     "previous": "Isokrates 1",
     "next": "Isomantos",
     "proof_read": 0,
-    "short_description": "Aus Athen, der Redner",
+    "short_description": "aus Athen, Redner",
+    "wp_link": "w:de:Isokrates",
+    "ws_link": "s:de:Isokrates",
+    "wd_link": "d:Q221182",
     "chapters": [
       {
         "start": 2146,
         "end": 2227,
-        "author": "Karl Münscher"
+        "author": "Münscher."
       }
     ]
   },
@@ -9144,7 +9210,7 @@
     "previous": "Isokrates 2",
     "next": "Ison",
     "redirect": "Hoplias",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2227,
@@ -9156,10 +9222,14 @@
     "lemma": "Ison",
     "previous": "Isomantos",
     "next": "Isondai",
+    "proof_read": 2,
+    "short_description": "Archon in Delphoi, um 295/4 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2227,
-        "author": "Sundwall"
+        "end": 2227,
+        "author": "Sundwall."
       }
     ]
   },
@@ -9167,12 +9237,13 @@
     "lemma": "Isondai",
     "previous": "Ison",
     "next": "Isonomos",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Volksstamm zwischen dem Kaukasus und dem Kaspischen Meer",
     "chapters": [
       {
         "start": 2227,
         "end": 2227,
-        "author": "Albert Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
@@ -9180,10 +9251,14 @@
     "lemma": "Isonomos",
     "previous": "Isondai",
     "next": "Isophilos",
+    "proof_read": 2,
+    "short_description": "Athener, einer der angezeigten Mysterienfrevler und Hermenverstümmler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2227,
-        "author": "Sundwall"
+        "end": 2227,
+        "author": "Sundwall."
       }
     ]
   },
@@ -9191,10 +9266,14 @@
     "lemma": "Isophilos",
     "previous": "Isonomos",
     "next": "Isopoliteia",
+    "proof_read": 2,
+    "short_description": "Athener, Thesmothet, 227/6 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2227,
-        "author": "Sundwall"
+        "end": 2227,
+        "author": "Sundwall."
       }
     ]
   },
@@ -9203,12 +9282,14 @@
     "previous": "Isophilos",
     "next": "Isos 1",
     "proof_read": 0,
-    "short_description": "Bürgerrecht, Staatsvertrag zur Gewährung d. Bürgerrechtes",
+    "short_description": "Bürgerrecht, Staatsvertrag zur Gewährung des Bürgerrechtes",
+    "wp_link": "w:de:Isopolitie",
+    "wd_link": "d:Q27749081",
     "chapters": [
       {
         "start": 2227,
         "end": 2231,
-        "author": "Johann Oehler"
+        "author": "J. Oehler."
       }
     ]
   },
@@ -9251,7 +9332,7 @@
       {
         "start": 2231,
         "end": 2233,
-        "author": "Theodor Franz Arthur Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
@@ -9271,11 +9352,12 @@
     "previous": "Isotimides",
     "next": "Ispa 1",
     "proof_read": 0,
+    "short_description": "Epiklesis des Apollo in Alabanda",
     "chapters": [
       {
         "start": 2233,
         "end": 2233,
-        "author": "Ada Adler"
+        "author": "Adler."
       }
     ]
   },
@@ -9422,7 +9504,7 @@
     "lemma": "Ἴσσα, ἡ 1",
     "previous": "Israel 5",
     "next": "Ἴσσα, ἡ 2",
-    "sort_key": "Issa 1",
+    "sort_key": "Issa,he1",
     "proof_read": 2,
     "short_description": "Issa, früherer Name der Insel Lesbos an der kleinasiatischen Westküste",
     "wp_link": "w:de:Lesbos",
@@ -9439,11 +9521,15 @@
     "lemma": "Ἴσσα, ἡ 2",
     "previous": "Ἴσσα, ἡ 1",
     "next": "Issatis",
+    "sort_key": "Issa,he2",
+    "proof_read": 2,
     "short_description": "Inselstadt im Sabinerland",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2234,
-        "author": "Philipp"
+        "end": 2234,
+        "author": "Philipp."
       }
     ]
   },
@@ -9451,12 +9537,13 @@
     "lemma": "Issatis",
     "previous": "Ἴσσα, ἡ 2",
     "next": "Isse 1",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Stadt auf einem Felsen in der parthischen Landschaft Choara",
     "chapters": [
       {
         "start": 2234,
         "end": 2234,
-        "author": "Franz Heinrich Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
@@ -9908,12 +9995,13 @@
     "lemma": "Istlada",
     "previous": "Isthmos 7",
     "next": "Istoi",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Stadt an der südöstlichen Küste Lykiens",
     "chapters": [
       {
         "start": 2266,
         "end": 2266,
-        "author": "Walther Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -9922,7 +10010,7 @@
     "previous": "Istlada",
     "next": "Istone",
     "redirect": "Histoi",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2266,
@@ -9934,12 +10022,13 @@
     "lemma": "Istone",
     "previous": "Istoi",
     "next": "Istonium",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Berg auf der Insel Kerkyra",
     "chapters": [
       {
         "start": 2266,
         "end": 2266,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -9963,7 +10052,7 @@
     "previous": "Istonium",
     "next": "Istria",
     "redirect": "Histria",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2266,
@@ -9975,12 +10064,13 @@
     "lemma": "Istria",
     "previous": "Istri",
     "next": "Istriana",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "vielleicht Epiklesis der Artemis",
     "chapters": [
       {
         "start": 2266,
         "end": 2267,
-        "author": "Ada Adler"
+        "author": "Adler."
       }
     ]
   },
@@ -10000,13 +10090,13 @@
     "previous": "Istriana",
     "next": "Istriopolis, Istropolis",
     "sort_key": "Istrianonlimen",
-    "proof_read": 0,
-    "short_description": "Istrianon limen",
+    "proof_read": 2,
+    "short_description": "Örtlichkeit nicht weit von Olbia",
     "chapters": [
       {
         "start": 2267,
         "end": 2267,
-        "author": "Nikola Vulić"
+        "author": "Vulić."
       }
     ]
   },
@@ -10042,13 +10132,13 @@
     "lemma": "Istros",
     "previous": "Istron",
     "next": "Istros 1",
-    "proof_read": 0,
-    "short_description": "Allgem.",
+    "proof_read": 2,
+    "short_description": "Name für Insel, Fluß und Stadt",
     "chapters": [
       {
         "start": 2267,
         "end": 2267,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -10062,7 +10152,7 @@
       {
         "start": 2268,
         "end": 2268,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -10119,7 +10209,7 @@
       {
         "start": 2268,
         "end": 2269,
-        "author": "Nikola Vulić"
+        "author": "Vulić."
       }
     ]
   },
@@ -10127,13 +10217,13 @@
     "lemma": "Istros 6",
     "previous": "Istros 5",
     "next": "Istros 7",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Flußgott",
     "chapters": [
       {
         "start": 2269,
         "end": 2269,
-        "author": "Wilhelm Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -10141,8 +10231,8 @@
     "lemma": "Istros 7",
     "previous": "Istros 6",
     "next": "Istros 8",
-    "proof_read": 2,
-    "short_description": "Sohn d. Aigyptos",
+    "proof_read": 3,
+    "short_description": "Sohn des Aigyptos",
     "chapters": [
       {
         "start": 2269,
@@ -10684,12 +10774,13 @@
     "lemma": "Ithomatas",
     "previous": "Ithobalos 3",
     "next": "Ithome 1",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Zeus",
     "chapters": [
       {
         "start": 2304,
         "end": 2305,
-        "author": "Adler"
+        "author": "Ada Adler"
       }
     ]
   },
@@ -10697,12 +10788,13 @@
     "lemma": "Ithome 1",
     "previous": "Ithomatas",
     "next": "Ithome 2",
+    "proof_read": 0,
     "short_description": "Berg in Messenien",
     "chapters": [
       {
         "start": 2305,
         "end": 2307,
-        "author": "Fimmen"
+        "author": "Diedrich Fimmen"
       }
     ]
   },
@@ -10710,11 +10802,13 @@
     "lemma": "Ithome 2",
     "previous": "Ithome 1",
     "next": "Ithoria",
+    "proof_read": 0,
     "short_description": "Stadt in Thessalia Hestiaiotis",
     "chapters": [
       {
         "start": 2307,
-        "author": "Stählin"
+        "end": 2307,
+        "author": "Friedrich Stählin"
       }
     ]
   },
@@ -10722,10 +10816,12 @@
     "lemma": "Ithoria",
     "previous": "Ithome 2",
     "next": "Ithynterios daimon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2307,
-        "author": "Fimmen"
+        "end": 2307,
+        "author": "Diedrich Fimmen"
       }
     ]
   },
@@ -10733,11 +10829,13 @@
     "lemma": "Ithynterios daimon",
     "previous": "Ithoria",
     "next": "Itiberciacus, -um",
+    "sort_key": "Ithynteriosdaimon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2307,
         "end": 2308,
-        "author": "Kern"
+        "author": "Otto Kern"
       }
     ]
   },
@@ -10760,12 +10858,13 @@
     "lemma": "Itinerarien",
     "previous": "Itiberciacus, -um",
     "next": "Itinerarium Alexandri",
+    "proof_read": 0,
     "short_description": "Reiseplan, Reiseerinnerungen",
     "chapters": [
       {
         "start": 2308,
         "end": 2363,
-        "author": "Kubitschek"
+        "author": "Wilhelm Kubitschek"
       }
     ]
   },
@@ -10773,12 +10872,14 @@
     "lemma": "Itinerarium Alexandri",
     "previous": "Itinerarien",
     "next": "Itis",
+    "sort_key": "Itinerariumalexandri",
+    "proof_read": 0,
     "short_description": "Dem Kaiser Constantius II. gewidmete Schrift",
     "chapters": [
       {
         "start": 2363,
         "end": 2366,
-        "author": "Kubitschek"
+        "author": "Wilhelm Kubitschek"
       }
     ]
   },
@@ -10801,11 +10902,13 @@
     "lemma": "Itium",
     "previous": "Itis",
     "next": "Itius?",
+    "proof_read": 0,
     "short_description": "Vorgebirge u. Hafen im Gebiet d.Morini in Gallia Belgica",
     "chapters": [
       {
         "start": 2367,
-        "author": "Keune"
+        "end": 2367,
+        "author": "Johann Baptist Keune"
       }
     ]
   },
@@ -10829,11 +10932,13 @@
     "lemma": "Itius portus",
     "previous": "Itius?",
     "next": "Itoana",
+    "sort_key": "Itiusportus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2368,
         "end": 2370,
-        "author": "Haverfield"
+        "author": "Francis John Haverfield"
       }
     ]
   },
@@ -10841,10 +10946,12 @@
     "lemma": "Itoana",
     "previous": "Itius portus",
     "next": "Iton, Itonos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2370,
-        "author": "Bürchner"
+        "end": 2370,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -10852,12 +10959,14 @@
     "lemma": "Iton, Itonos 1",
     "previous": "Itoana",
     "next": "Iton, Itonos 2",
+    "sort_key": "Iton,itonos 1",
+    "proof_read": 0,
     "short_description": "Stadt mit Athenatempel in Achaia Phthiotis",
     "chapters": [
       {
         "start": 2371,
         "end": 2373,
-        "author": "Stählin"
+        "author": "Friedrich Stählin"
       }
     ]
   },
@@ -10880,11 +10989,13 @@
     "lemma": "Itone 1",
     "previous": "Iton, Itonos 2",
     "next": "Itone 2",
+    "proof_read": 0,
     "short_description": "Itone, Gattin d. Minos",
     "chapters": [
       {
         "start": 2374,
-        "author": "Gunning"
+        "end": 2374,
+        "author": "Jan Gunning"
       }
     ]
   },
@@ -10920,12 +11031,13 @@
     "lemma": "Itonia",
     "previous": "Itone 3",
     "next": "Itonios",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Athene",
     "chapters": [
       {
         "start": 2374,
         "end": 2376,
-        "author": "Adler"
+        "author": "Ada Adler"
       }
     ]
   },
@@ -10933,11 +11045,13 @@
     "lemma": "Itonios",
     "previous": "Itonia",
     "next": "Itonos 1",
+    "proof_read": 0,
     "short_description": "Gr. Kalendermonat",
     "chapters": [
       {
         "start": 2376,
-        "author": "Bischoff, [Ernst]"
+        "end": 2376,
+        "author": "Ernst Bischoff"
       }
     ]
   },
@@ -10945,12 +11059,13 @@
     "lemma": "Itonos 1",
     "previous": "Itonios",
     "next": "Itonos 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Amphiktyon, thessal. Heros",
     "chapters": [
       {
         "start": 2376,
         "end": 2377,
-        "author": "Weicker"
+        "author": "Georg Weicker"
       }
     ]
   },
@@ -10971,11 +11086,13 @@
     "lemma": "Itta",
     "previous": "Itonos 2",
     "next": "Itucci",
+    "proof_read": 0,
     "short_description": "Kelt. o. vorkelt. Flußname",
     "chapters": [
       {
         "start": 2377,
-        "author": "Keune"
+        "end": 2377,
+        "author": "Johann Baptist Keune"
       }
     ]
   },
