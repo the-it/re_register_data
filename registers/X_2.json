@@ -1654,7 +1654,7 @@
     "next": "Iuventius 11",
     "proof_read": 2,
     "short_description": "T., angesehener Anwalt in Sullanischer Zeit",
-    "wp_link": "w:de:en:Titus Juventius (jurist)",
+    "wp_link": "w:en:Titus Juventius (jurist)",
     "wd_link": "d:Q11951978",
     "chapters": [
       {
@@ -3008,40 +3008,42 @@
   {
     "lemma": "Kablieses",
     "previous": "Καβιριάρχη",
-    "next": "Kabos",
+    "next": "Κάβος",
     "proof_read": 0,
     "chapters": [
       {
         "start": 1451,
         "end": 1451,
-        "author": "Johann Baptist Keune"
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Kabos",
+    "lemma": "Κάβος",
     "previous": "Kablieses",
     "next": "Kabubathra",
+    "sort_key": "Kabos",
     "proof_read": 0,
     "short_description": "Hebräisches Hohlmaß",
     "chapters": [
       {
         "start": 1451,
         "end": 1452,
-        "author": "Oskar Viedebantt"
+        "author": "Viedebantt."
       }
     ]
   },
   {
     "lemma": "Kabubathra",
-    "previous": "Kabos",
+    "previous": "Κάβος",
     "next": "Kabura",
     "proof_read": 0,
+    "short_description": "Berg an der Küste des Erythräischen Meeres",
     "chapters": [
       {
         "start": 1452,
         "end": 1452,
-        "author": "Bernhard Moritz"
+        "author": "Moritz."
       }
     ]
   },
@@ -3055,7 +3057,7 @@
       {
         "start": 1452,
         "end": 1453,
-        "author": "Albert Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
@@ -3093,11 +3095,12 @@
     "previous": "Kabyle",
     "next": "Kachales",
     "proof_read": 0,
+    "short_description": "skythisches Volk",
     "chapters": [
       {
         "start": 1456,
         "end": 1456,
-        "author": "Albert Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
@@ -3587,11 +3590,14 @@
     "previous": "Kaeira",
     "next": "Käse",
     "proof_read": 0,
+    "short_description": "Ort in Baden, Amt Morsbach",
+    "wp_link": "w:de:Kälbertshausen",
+    "wd_link": "d:Q1795317",
     "chapters": [
       {
         "start": 1489,
         "end": 1489,
-        "author": "Johann Baptist Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -3601,11 +3607,13 @@
     "next": "Kästrich",
     "proof_read": 0,
     "short_description": "Nahrungsmittel",
+    "wp_link": "w:de:Käse",
+    "wd_link": "d:Q10943",
     "chapters": [
       {
         "start": 1489,
         "end": 1496,
-        "author": "Wilhelm Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -3613,12 +3621,15 @@
     "lemma": "Kästrich",
     "previous": "Käse",
     "next": "Kagyetta",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "das die Stadt Mainz überragende Gelände",
+    "wp_link": "w:de:Kästrich",
+    "wd_link": "d:Q1262559",
     "chapters": [
       {
         "start": 1496,
         "end": 1496,
-        "author": "Johann Baptist Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -3919,7 +3930,7 @@
   {
     "lemma": "Kaimis",
     "previous": "Kaimaron",
-    "next": "Kainai",
+    "next": "Καιναί",
     "chapters": [
       {
         "start": 1503,
@@ -3929,24 +3940,26 @@
     ]
   },
   {
-    "lemma": "Kainai",
+    "lemma": "Καιναί",
     "previous": "Kaimis",
     "next": "Kainas 1",
+    "sort_key": "Kainai",
     "proof_read": 0,
+    "short_description": "Stadt am Westufer des Tigris",
     "chapters": [
       {
         "start": 1504,
         "end": 1504,
-        "author": "Franz Heinrich Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Kainas 1",
-    "previous": "Kainai",
+    "previous": "Καιναί",
     "next": "Kainas 2",
-    "redirect": "Kaine",
-    "proof_read": 2,
+    "redirect": "Καινή",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1504,
@@ -3957,37 +3970,38 @@
   {
     "lemma": "Kainas 2",
     "previous": "Kainas 1",
-    "next": "Kaine",
-    "proof_read": 0,
-    "short_description": "Nebenfluß d. Ganges",
-    "chapters": [
-      {
-        "start": 1504,
-        "end": 1504,
-        "author": "Albert Herrmann"
-      }
-    ]
-  },
-  {
-    "lemma": "Kaine",
-    "previous": "Kainas 2",
-    "next": "Καινὴ 1",
-    "proof_read": 0,
-    "short_description": "Allgem.",
-    "chapters": [
-      {
-        "start": 1504,
-        "end": 1504,
-        "author": "Ludwig Bürchner"
-      }
-    ]
-  },
-  {
-    "lemma": "Καινὴ 1",
-    "previous": "Kaine",
-    "next": "Καινὴ 2",
-    "sort_key": "Kaine 1",
+    "next": "Καινή",
     "proof_read": 2,
+    "short_description": "schiffbarer Nebenfluß des Ganges",
+    "chapters": [
+      {
+        "start": 1504,
+        "end": 1504,
+        "author": "Herrmann."
+      }
+    ]
+  },
+  {
+    "lemma": "Καινή",
+    "previous": "Kainas 2",
+    "next": "Καινή 1",
+    "sort_key": "Kaine",
+    "proof_read": 2,
+    "short_description": "Name (= Neu)",
+    "chapters": [
+      {
+        "start": 1504,
+        "end": 1504,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Καινή 1",
+    "previous": "Καινή",
+    "next": "Καινή 2",
+    "sort_key": "Καινή 1",
+    "proof_read": 3,
     "short_description": "s. Kane",
     "chapters": [
       {
@@ -3998,12 +4012,12 @@
     ]
   },
   {
-    "lemma": "Καινὴ 2",
-    "previous": "Καινὴ 1",
+    "lemma": "Καινή 2",
+    "previous": "Καινή 1",
     "next": "Kaineiton",
     "sort_key": "Kaine 2",
-    "proof_read": 2,
-    "short_description": "s. Pergamon",
+    "proof_read": 3,
+    "short_description": "Landschaft bei Pergamon",
     "chapters": [
       {
         "start": 1504,
@@ -4014,14 +4028,16 @@
   },
   {
     "lemma": "Kaineiton",
-    "previous": "Καινὴ 2",
+    "previous": "Καινή 2",
     "next": "Kaineus",
+    "sort_key": "Kaineiton",
     "proof_read": 0,
+    "short_description": "Insel in der Gegend des Chersonesos, an der Westküste Vorderindiens",
     "chapters": [
       {
         "start": 1504,
         "end": 1504,
-        "author": "Albert Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
@@ -4031,11 +4047,13 @@
     "next": "Kaino, Kano",
     "proof_read": 0,
     "short_description": "Lapithe",
+    "wp_link": "w:de:Kaineus",
+    "wd_link": "d:Q1132772",
     "chapters": [
       {
         "start": 1504,
         "end": 1505,
-        "author": "Josef Heckenbach"
+        "author": "Heckenbach."
       }
     ]
   },
@@ -4083,9 +4101,9 @@
   {
     "lemma": "Kainon 2",
     "previous": "Kainon 1",
-    "next": "Kainon chorion",
-    "redirect": "Kaine",
-    "proof_read": 2,
+    "next": "Καινὸν χωρίον",
+    "redirect": "Καινή",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1506,
@@ -4094,7 +4112,7 @@
     ]
   },
   {
-    "lemma": "Kainon chorion",
+    "lemma": "Καινὸν χωρίον",
     "previous": "Kainon 2",
     "next": "Kainon Hydreuma",
     "sort_key": "Kainonchorion",
@@ -4104,13 +4122,13 @@
       {
         "start": 1506,
         "end": 1506,
-        "author": "Walther Ruge"
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Kainon Hydreuma",
-    "previous": "Kainon chorion",
+    "previous": "Καινὸν χωρίον",
     "next": "Kainopolis 1",
     "chapters": [
       {
@@ -4215,12 +4233,13 @@
     "lemma": "Kaire",
     "previous": "Kairatos 2",
     "next": "Kairener",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "makedonische Militärstation in Lydien",
     "chapters": [
       {
         "start": 1507,
         "end": 1507,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -4478,7 +4497,7 @@
     "previous": "Kaisareia 7",
     "next": "Kaisareios",
     "redirect": "Caesarea",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1523,
@@ -4491,7 +4510,7 @@
     "previous": "Kaisareia 8",
     "next": "Kaisareon",
     "redirect": "Kaisarios",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1523,
@@ -4504,7 +4523,7 @@
     "previous": "Kaisareios",
     "next": "Kaisarios",
     "redirect": "Kaisarios",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1523,
@@ -4517,19 +4536,19 @@
     "previous": "Kaisareon",
     "next": "Kaiser-Augst",
     "proof_read": 0,
-    "short_description": "Gr. Monatsname aus röm. Zeit",
+    "short_description": "griechischer Monatsname aus römischer Zeit",
     "chapters": [
       {
         "start": 1523,
         "end": 1524,
-        "author": "Ernst Bischoff"
+        "author": "Bischoff."
       }
     ]
   },
   {
     "lemma": "Kaiser-Augst",
     "previous": "Kaisarios",
-    "next": "Kakasbos",
+    "next": "Kaiserkult",
     "proof_read": 2,
     "short_description": "Dorf im schweizerischen Kanton Aargau, das römische Castrum Rauracense",
     "wp_link": "w:de:Kaiseraugst",
@@ -4543,20 +4562,37 @@
     ]
   },
   {
-    "lemma": "Kakasbos",
+    "lemma": "Kaiserkult",
     "previous": "Kaiser-Augst",
-    "next": "Kakegorias dike",
-    "proof_read": 0,
+    "next": "Kakasbos",
+    "redirect": true,
+    "proof_read": 2,
+    "short_description": "göttliche Verehrung der römischen Kaiser",
+    "wp_link": "w:de:Kaiserkult",
+    "wd_link": "d:Q1235185",
     "chapters": [
       {
         "start": 1524,
-        "end": 1524,
-        "author": "William Abbott Oldfather"
+        "end": 1524
       }
     ]
   },
   {
-    "lemma": "Kakegorias dike",
+    "lemma": "Kakasbos",
+    "previous": "Kaiserkult",
+    "next": "Κακηγορίας δίκη",
+    "proof_read": 0,
+    "short_description": "kleinasiatischer Reitergott",
+    "chapters": [
+      {
+        "start": 1524,
+        "end": 1524,
+        "author": "Oldfather."
+      }
+    ]
+  },
+  {
+    "lemma": "Κακηγορίας δίκη",
     "previous": "Kakasbos",
     "next": "Kakios",
     "sort_key": "Kakegoriasdike",
@@ -4566,13 +4602,13 @@
       {
         "start": 1524,
         "end": 1525,
-        "author": "Theodor Franz Arthur Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Kakios",
-    "previous": "Kakegorias dike",
+    "previous": "Κακηγορίας δίκη",
     "next": "Kakkabas",
     "short_description": "K. und Pinarios",
     "chapters": [
@@ -4585,9 +4621,9 @@
   {
     "lemma": "Kakkabas",
     "previous": "Kakios",
-    "next": "Kakkabe",
+    "next": "Κακκάβη",
     "redirect": "Kakkabokome",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1526,
@@ -4596,86 +4632,95 @@
     ]
   },
   {
-    "lemma": "Kakkabe",
+    "lemma": "Κακκάβη",
     "previous": "Kakkabas",
     "next": "Kakkabokome",
+    "sort_key": "Kakkabe",
     "proof_read": 0,
+    "short_description": "Pfanne mit drei Füßen",
     "chapters": [
       {
         "start": 1526,
         "end": 1526,
-        "author": "August Hug"
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Kakkabokome",
-    "previous": "Kakkabe",
+    "previous": "Κακκάβη",
     "next": "Kakoensioi",
     "proof_read": 0,
+    "short_description": "Ort im nordöstlichen Phrygien",
     "chapters": [
       {
         "start": 1526,
         "end": 1526,
-        "author": "Walther Ruge"
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Kakoensioi",
     "previous": "Kakkabokome",
-    "next": "Kakogamiu graphe",
-    "chapters": [
-      {
-        "start": 1526,
-        "author": "Lackeit"
-      }
-    ]
-  },
-  {
-    "lemma": "Kakogamiu graphe",
-    "previous": "Kakoensioi",
-    "next": "Kakoïlion",
-    "sort_key": "Kakogamiugraphe",
-    "proof_read": 0,
+    "next": "Κακογαμίου γραφή",
+    "proof_read": 2,
+    "short_description": "Völkerschaft in Dacia Apulensis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1526,
         "end": 1526,
-        "author": "Theodor Franz Arthur Thalheim"
+        "author": "Lackeit."
+      }
+    ]
+  },
+  {
+    "lemma": "Κακογαμίου γραφή",
+    "previous": "Kakoensioi",
+    "next": "Kakoïlion",
+    "sort_key": "Kakogamiugraphe",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 1526,
+        "end": 1526,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Kakoïlion",
-    "previous": "Kakogamiu graphe",
-    "next": "Kakosis",
-    "proof_read": 0,
+    "previous": "Κακογαμίου γραφή",
+    "next": "Κάκωσις",
+    "proof_read": 2,
+    "short_description": "wird Ilion oder Troia genannt",
     "chapters": [
       {
         "start": 1526,
         "end": 1526,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kakosis",
+    "lemma": "Κάκωσις",
     "previous": "Kakoïlion",
-    "next": "Kakotechnion dike",
+    "next": "Κακοτεχνιῶν δίκη",
+    "sort_key": "Kakosis",
     "proof_read": 0,
-    "short_description": "Schlechte Behandlung einer Person, Mißachtung d. Fürsorgepflicht",
+    "short_description": "Schlechte Behandlung einer Person, Mißachtung der Fürsorgepflicht",
     "chapters": [
       {
         "start": 1526,
         "end": 1528,
-        "author": "Theodor Franz Arthur Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
-    "lemma": "Kakotechnion dike",
-    "previous": "Kakosis",
+    "lemma": "Κακοτεχνιῶν δίκη",
+    "previous": "Κάκωσις",
     "next": "Kakoza",
     "sort_key": "Kakotechniondike",
     "proof_read": 0,
@@ -4684,13 +4729,13 @@
       {
         "start": 1528,
         "end": 1529,
-        "author": "Theodor Franz Arthur Thalheim"
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Kakoza",
-    "previous": "Kakotechnion dike",
+    "previous": "Κακοτεχνιῶν δίκη",
     "next": "Kakra",
     "proof_read": 2,
     "short_description": "Ort in Phrygien oder Pisidien",
@@ -4735,7 +4780,7 @@
   {
     "lemma": "Kakyparis",
     "previous": "Κακοῦργοι",
-    "next": "Kal(...",
+    "next": "Καλ(...)",
     "chapters": [
       {
         "start": 1529,
@@ -4744,28 +4789,33 @@
     ]
   },
   {
-    "lemma": "Kal(...",
+    "lemma": "Καλ(...)",
     "previous": "Kakyparis",
     "next": "Kalabatia",
-    "proof_read": 0,
+    "sort_key": "Kal(...)",
+    "proof_read": 2,
+    "short_description": "Münzstempelschneider in Tarent, Herakleia, Metapont, 4. Jhdt. v. Chr.",
     "chapters": [
       {
         "start": 1529,
         "end": 1529,
-        "author": "Kurt Regling"
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Kalabatia",
-    "previous": "Kal(...",
+    "previous": "Καλ(...)",
     "next": "Kalabros 1",
     "proof_read": 0,
+    "short_description": "Ort an der Westküste von Lykien",
+    "wp_link": "w:en:Kalabantia",
+    "wd_link": "d:Q65067934",
     "chapters": [
       {
         "start": 1529,
         "end": 1529,
-        "author": "Walther Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -4784,50 +4834,53 @@
   {
     "lemma": "Kalabros 2",
     "previous": "Kalabros 1",
-    "next": "Kalachene, he",
+    "next": "Καλαχηνή, ἡ",
     "proof_read": 0,
     "short_description": "Fluß in Italien",
     "chapters": [
       {
         "start": 1530,
         "end": 1530,
-        "author": "William Abbott Oldfather"
+        "author": "Oldfather."
       }
     ]
   },
   {
-    "lemma": "Kalachene, he",
+    "lemma": "Καλαχηνή, ἡ",
     "previous": "Kalabros 2",
-    "next": "Kalaigia",
+    "next": "Καλαιγία",
     "sort_key": "Kalachene,he",
     "proof_read": 0,
+    "short_description": "Landschaft in Assyrien, oberhalb von Adiabene",
     "chapters": [
       {
         "start": 1530,
         "end": 1530,
-        "author": "Franz Heinrich Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Kalaigia",
-    "previous": "Kalachene, he",
+    "lemma": "Καλαιγία",
+    "previous": "Καλαχηνή, ἡ",
     "next": "Kalais",
+    "sort_key": "Kalaigia",
     "proof_read": 0,
+    "short_description": "Stadt von Groß-Germanien, s. Galaegia",
     "chapters": [
       {
         "start": 1530,
         "end": 1530,
-        "author": "Johann Baptist Keune"
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Kalais",
-    "previous": "Kalaigia",
+    "previous": "Καλαιγία",
     "next": "Kalakagathios",
     "redirect": "Boreas 2",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1530,
@@ -4838,9 +4891,9 @@
   {
     "lemma": "Kalakagathios",
     "previous": "Kalais",
-    "next": "Καλάκτα, Καλάκτη, Κᾱλή Ἀκτή",
+    "next": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή",
     "redirect": "Kallokagathios",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1530,
@@ -4849,8 +4902,22 @@
     ]
   },
   {
-    "lemma": "Καλάκτα, Καλάκτη, Κᾱλή Ἀκτή",
+    "lemma": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή",
     "previous": "Kalakagathios",
+    "next": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή 1",
+    "sort_key": "Kalakta, Kalakte,kale akte 0",
+    "proof_read": 3,
+    "short_description": "Name von Örtlichkeiten auf Sikelien und auf der Insel Kreta",
+    "chapters": [
+      {
+        "start": 1530,
+        "end": 1530,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Καλάκτα, Καλάκτη, Κᾱλή Ἀκτή",
     "next": "Kalakta, Kalakte, Kale Akte",
     "sort_key": "Kalakta, Kalakte, kale akte 0",
     "proof_read": 2,
@@ -4911,7 +4978,6 @@
   {
     "lemma": "Καλάκτα, Καλάκτη, Κᾱλή Ἀκτή 3",
     "previous": "Kalakta, Kalakte, Kale Akte 2",
-    "next": "Kalama",
     "sort_key": "Kalakta,kalakte, kale akte 3",
     "redirect": "Kale 2",
     "proof_read": 2,
@@ -4923,15 +4989,30 @@
     ]
   },
   {
+    "lemma": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή 3",
+    "previous": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή 2",
+    "next": "Kalama",
+    "sort_key": "Kalakta,kalakte,kale akte 3",
+    "redirect": "Kale 2",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 1531,
+        "end": 1531
+      }
+    ]
+  },
+  {
     "lemma": "Kalama",
-    "previous": "Καλάκτα, Καλάκτη, Κᾱλή Ἀκτή 3",
+    "previous": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή 3",
     "next": "Kalamai",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Ort an der Küste Gadrosiens, heute Kulmut",
     "chapters": [
       {
         "start": 1531,
         "end": 1531,
-        "author": "Albert Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
@@ -4958,7 +5039,7 @@
       {
         "start": 1532,
         "end": 1532,
-        "author": "Ernst Bischoff"
+        "author": "Bischoff."
       }
     ]
   },
@@ -4967,7 +5048,7 @@
     "previous": "Kalamaion",
     "next": "Kalamine, Kalaminai",
     "redirect": "Kalamine, Kalaminai",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1532,
@@ -4986,7 +5067,7 @@
       {
         "start": 1532,
         "end": 1532,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -5037,12 +5118,12 @@
     "previous": "Kalamis 3",
     "next": "Kalamisos",
     "proof_read": 0,
-    "short_description": "Gebiet auf d. Sporadeninsel Samos",
+    "short_description": "Gebiet auf der Sporadeninsel Samos",
     "chapters": [
       {
         "start": 1536,
         "end": 1536,
-        "author": "Ludwig Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -5050,11 +5131,12 @@
     "lemma": "Kalamisos",
     "previous": "Kalamisa",
     "next": "Kalamites",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1536,
         "end": 1537,
-        "author": "Oldfather"
+        "author": "William Abbott Oldfather"
       }
     ]
   },
@@ -5074,12 +5156,13 @@
     "lemma": "Kalamoi 1",
     "previous": "Kalamites",
     "next": "Kalamoi 2",
+    "proof_read": 0,
     "short_description": "Gebiet auf d. Sporadeninsel Samos",
     "chapters": [
       {
         "start": 1537,
         "end": 1538,
-        "author": "Bürchner"
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -5087,11 +5170,13 @@
     "lemma": "Kalamoi 2",
     "previous": "Kalamoi 1",
     "next": "Kalamon",
+    "proof_read": 0,
     "short_description": "Späterer Name d. Bistums Stratonikeia in Lydien",
     "chapters": [
       {
         "start": 1538,
-        "author": "Bürchner"
+        "end": 1538,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -5155,12 +5240,13 @@
     "lemma": "Kalamos 4",
     "previous": "Kalamos 3",
     "next": "Kalamos 4bis",
+    "proof_read": 0,
     "short_description": "Rohr, Schilf (Pflanzenarten)",
     "chapters": [
       {
         "start": 1538,
         "end": 1543,
-        "author": "Stadler"
+        "author": "Hermann Stadler"
       }
     ]
   },
@@ -5346,11 +5432,12 @@
     "lemma": "Kalas",
     "previous": "Καλαρζηνή",
     "next": "Kalasarna",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1546,
         "end": 1547,
-        "author": "Lippold, Georg"
+        "author": "Georg Lippold"
       }
     ]
   },
@@ -5405,10 +5492,12 @@
     "lemma": "Kalates",
     "previous": "Kalate",
     "next": "Kalathana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1547,
-        "author": "Lippold, Georg"
+        "end": 1547,
+        "author": "Georg Lippold"
       }
     ]
   },
@@ -5416,10 +5505,12 @@
     "lemma": "Kalathana",
     "previous": "Kalates",
     "next": "Kalathassa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1547,
-        "author": "Bölte"
+        "end": 1547,
+        "author": "Felix Bölte"
       }
     ]
   },
@@ -5456,12 +5547,13 @@
     "lemma": "Kalathos 1",
     "previous": "Kalathion",
     "next": "Kalathos 2",
+    "proof_read": 0,
     "short_description": "Korb d. Spinnerinnen",
     "chapters": [
       {
         "start": 1548,
         "end": 1549,
-        "author": "Hug"
+        "author": "August Hug"
       }
     ]
   },
@@ -5469,11 +5561,13 @@
     "lemma": "Kalathos 2",
     "previous": "Kalathos 1",
     "next": "Καλάθουσα",
+    "proof_read": 0,
     "short_description": "Kopfbedeckung verschied. Götter",
     "chapters": [
       {
         "start": 1549,
-        "author": "Hug"
+        "end": 1549,
+        "author": "August Hug"
       }
     ]
   },
@@ -5522,11 +5616,13 @@
     "lemma": "Kalaureates",
     "previous": "Kalatiai",
     "next": "Kalaureia 1",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Poseidon",
     "chapters": [
       {
         "start": 1550,
-        "author": "Adler"
+        "end": 1550,
+        "author": "Ada Adler"
       }
     ]
   },
@@ -5592,10 +5688,12 @@
     "lemma": "Kalbis",
     "previous": "Kalauros 2",
     "next": "Kalchas",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1552,
-        "author": "Bürchner"
+        "end": 1552,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -5619,12 +5717,13 @@
     "lemma": "Kalchedon 1",
     "previous": "Kalchas",
     "next": "Kalchedon 2",
+    "proof_read": 0,
     "short_description": "Stadt in Bithynien",
     "chapters": [
       {
         "start": 1555,
         "end": 1559,
-        "author": "Ruge"
+        "author": "Walther Ruge"
       }
     ]
   },
@@ -5632,11 +5731,13 @@
     "lemma": "Kalchedon 2",
     "previous": "Kalchedon 1",
     "next": "Kalchedonia",
+    "proof_read": 0,
     "short_description": "Fluß bei d. gleichnamigen Stadt Nr. 1",
     "chapters": [
       {
         "start": 1559,
-        "author": "Oberhummer"
+        "end": 1559,
+        "author": "Eugen Oberhummer"
       }
     ]
   },
@@ -5677,11 +5778,13 @@
     "lemma": "Kale 1",
     "previous": "Kalchos",
     "next": "Kale 2",
+    "proof_read": 0,
     "short_description": "In einer Inschr. auf Thera, Göttin?",
     "chapters": [
       {
         "start": 1559,
-        "author": "Adler"
+        "end": 1559,
+        "author": "Ada Adler"
       }
     ]
   },
@@ -5689,11 +5792,13 @@
     "lemma": "Kale 2",
     "previous": "Kale 1",
     "next": "Kale Akte, Kalakte 1",
+    "proof_read": 0,
     "short_description": "Insel zw. Thrakien u. Kreta",
     "chapters": [
       {
         "start": 1559,
-        "author": "Bürchner"
+        "end": 1559,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -5728,12 +5833,13 @@
     "lemma": "Kalendae",
     "previous": "Kale Akte, Kalakte 2",
     "next": "Καλὴ παρεμβολή",
+    "proof_read": 0,
     "short_description": "Röm. Name d. ersten Monatstages",
     "chapters": [
       {
         "start": 1560,
         "end": 1562,
-        "author": "Wissowa"
+        "author": "Georg Wissowa"
       }
     ]
   },
@@ -5755,10 +5861,13 @@
     "lemma": "Kale Peuke",
     "previous": "Καλὴ παρεμβολή",
     "next": "Kalendae Ianuariae, Kalendenfest",
+    "sort_key": "Kalepeuke",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1560,
-        "author": "Bürchner"
+        "end": 1562,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -5779,12 +5888,13 @@
     "lemma": "Kalendarium 1",
     "previous": "Kalendae Ianuariae, Kalendenfest",
     "next": "Kalendarium 2",
+    "proof_read": 0,
     "short_description": "Zinsdarlehensbuch städtisches Zinsbuch",
     "chapters": [
       {
         "start": 1564,
         "end": 1567,
-        "author": "Oehler, J[ohann]"
+        "author": "Johann Oehler"
       }
     ]
   },
@@ -5792,12 +5902,13 @@
     "lemma": "Kalendarium 2",
     "previous": "Kalendarium 1",
     "next": "Kalender",
+    "proof_read": 0,
     "short_description": "Sc. collegium, CIL II 4468",
     "chapters": [
       {
         "start": 1567,
         "end": 1568,
-        "author": "Oehler, J[ohann]"
+        "author": "Johann Oehler"
       }
     ]
   },
@@ -5805,12 +5916,13 @@
     "lemma": "Kalender",
     "previous": "Kalendarium 2",
     "next": "Kalendio",
+    "proof_read": 0,
     "short_description": "Griechisch",
     "chapters": [
       {
         "start": 1568,
         "end": 1602,
-        "author": "Bischoff, [Ernst]"
+        "author": "Ernst Bischoff"
       }
     ]
   },
@@ -5843,11 +5955,14 @@
     "lemma": "Kaleos, Kallos 1",
     "previous": "Kaleon",
     "next": "Kaleos, Kallos 2",
+    "sort_key": "Kaleos,kallos 1",
+    "proof_read": 0,
     "short_description": "Flußgott auf Münzen",
     "chapters": [
       {
         "start": 1603,
-        "author": "Bürchner"
+        "end": 1603,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -5870,11 +5985,13 @@
     "lemma": "Kales",
     "previous": "Kaleos, Kallos 2",
     "next": "Kalesios",
+    "proof_read": 0,
     "short_description": "Fluß u. Hafenplatz in Bithynien",
     "chapters": [
       {
         "start": 1603,
-        "author": "Ruge"
+        "end": 1603,
+        "author": "Walther Ruge"
       }
     ]
   },
@@ -5882,10 +5999,12 @@
     "lemma": "Kalesios",
     "previous": "Kales",
     "next": "Kaletor 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1603,
-        "author": "Heckenbach"
+        "end": 1603,
+        "author": "Josef Heckenbach"
       }
     ]
   },
@@ -5924,11 +6043,12 @@
     "lemma": "Kalhausen",
     "previous": "Kaletor 2",
     "next": "Kaliadne",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1603,
         "end": 1604,
-        "author": "Keune"
+        "author": "Johann Baptist Keune"
       }
     ]
   },
@@ -5936,10 +6056,12 @@
     "lemma": "Kaliadne",
     "previous": "Kalhausen",
     "next": "Kaliande",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1604,
-        "author": "Waser"
+        "end": 1604,
+        "author": "Otto Waser"
       }
     ]
   },
@@ -5960,11 +6082,13 @@
     "lemma": "Kalias 1",
     "previous": "Kaliande",
     "next": "Kalias 2",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Aphrodite",
     "chapters": [
       {
         "start": 1604,
-        "author": "Adler"
+        "end": 1604,
+        "author": "Ada Adler"
       }
     ]
   },
@@ -5972,11 +6096,13 @@
     "lemma": "Kalias 2",
     "previous": "Kalias 1",
     "next": "Kalingai",
+    "proof_read": 0,
     "short_description": "In d. Hermeninschr. v. Trochanes",
     "chapters": [
       {
         "start": 1604,
-        "author": "Lippold, Georg"
+        "end": 1604,
+        "author": "Georg Lippold"
       }
     ]
   },
@@ -5984,12 +6110,13 @@
     "lemma": "Kalingai",
     "previous": "Kalias 2",
     "next": "Kalippoi",
+    "proof_read": 0,
     "short_description": "Volk in Vorderindien",
     "chapters": [
       {
         "start": 1604,
         "end": 1605,
-        "author": "Herrmann"
+        "author": "Albert Herrmann"
       }
     ]
   },
@@ -6039,12 +6166,13 @@
     "lemma": "Kalk",
     "previous": "Kaliur",
     "next": "Kallaischros 1",
+    "proof_read": 0,
     "short_description": "Gesteinsart, mit Verwendung in d. Baukunst u. Landwirtschaft",
     "chapters": [
       {
         "start": 1605,
         "end": 1609,
-        "author": "Blümner"
+        "author": "Hugo Blümner"
       }
     ]
   },
@@ -6066,11 +6194,13 @@
     "lemma": "Kallaischros 2",
     "previous": "Kallaischros 1",
     "next": "Kallaneus",
+    "proof_read": 0,
     "short_description": "Vater d. berühmten Kritias",
     "chapters": [
       {
         "start": 1609,
-        "author": "Kroll"
+        "end": 1609,
+        "author": "Wilhelm Kroll"
       }
     ]
   },
@@ -6104,10 +6234,12 @@
     "lemma": "Kallatebos",
     "previous": "Kallas",
     "next": "Kallatiai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1610,
-        "author": "Bürchner"
+        "end": 1610,
+        "author": "Ludwig Bürchner"
       }
     ]
   },
@@ -6115,10 +6247,12 @@
     "lemma": "Kallatiai",
     "previous": "Kallatebos",
     "next": "Kallatis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1610,
-        "author": "Herrmann"
+        "end": 1610,
+        "author": "Albert Herrmann"
       }
     ]
   },
@@ -6195,12 +6329,13 @@
     "lemma": "Kalliades 4",
     "previous": "Kalliades 3",
     "next": "Kalliades 5",
+    "proof_read": 0,
     "short_description": "Dichter d. neuen att. Komödie",
     "chapters": [
       {
         "start": 1612,
         "end": 1613,
-        "author": "Körte"
+        "author": "Alfred Körte"
       }
     ]
   },
@@ -6208,11 +6343,13 @@
     "lemma": "Kalliades 5",
     "previous": "Kalliades 4",
     "next": "Kalliades 6",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 1613,
-        "author": "Lippold, Georg"
+        "end": 1613,
+        "author": "Georg Lippold"
       }
     ]
   },
@@ -6220,11 +6357,13 @@
     "lemma": "Kalliades 6",
     "previous": "Kalliades 5",
     "next": "Kallianax",
+    "proof_read": 0,
     "short_description": "Töpfer d. Durisschale",
     "chapters": [
       {
         "start": 1613,
-        "author": "Kroll"
+        "end": 1613,
+        "author": "Wilhelm Kroll"
       }
     ]
   },
@@ -6232,10 +6371,12 @@
     "lemma": "Kallianax",
     "previous": "Kalliades 6",
     "next": "Kalliara",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1613,
-        "author": "Gossen"
+        "end": 1613,
+        "author": "Hans Gossen"
       }
     ]
   },
@@ -6282,11 +6423,13 @@
     "lemma": "Kalliaros 1",
     "previous": "Kalliareus",
     "next": "Kalliaros 2",
+    "proof_read": 0,
     "short_description": "Eponym d. gleichnamigen Stadt Nr. 2",
     "chapters": [
       {
         "start": 1613,
-        "author": "Oldfather"
+        "end": 1613,
+        "author": "William Abbott Oldfather"
       }
     ]
   },
@@ -6294,12 +6437,13 @@
     "lemma": "Kalliaros 2",
     "previous": "Kalliaros 1",
     "next": "Kallias",
+    "proof_read": 0,
     "short_description": "Stadt d. opuntischen Lokrer",
     "chapters": [
       {
         "start": 1613,
         "end": 1615,
-        "author": "Oldfather"
+        "author": "William Abbott Oldfather"
       }
     ]
   },
@@ -14099,10 +14243,14 @@
     "lemma": "Kargiana",
     "previous": "Karer",
     "next": "Karia",
+    "proof_read": 2,
+    "short_description": "Ort in Dakien, heute Körjen (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1943,
-        "author": "Lackeit"
+        "end": 1943,
+        "author": "Lackeit."
       }
     ]
   },

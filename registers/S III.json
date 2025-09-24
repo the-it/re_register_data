@@ -29469,6 +29469,7 @@
   {
     "lemma": "Joyeuse",
     "previous": "Jouy-aux-Arches",
+    "next": "Ipsch",
     "short_description": "Frz. Ort",
     "chapters": [
       {
@@ -29479,9 +29480,28 @@
   },
   {
     "lemma": "Ipsch",
+    "previous": "Joyeuse",
+    "next": "Iresia",
+    "redirect": "Ivoy, Ivois, Yvois",
+    "proof_read": 2,
     "chapters": [
       {
-        "start": 1243
+        "start": 1243,
+        "end": 1243
+      }
+    ]
+  },
+  {
+    "lemma": "Iresia",
+    "previous": "Ipsch",
+    "next": "Isarcus",
+    "proof_read": 2,
+    "short_description": "Insel vor dem Thermaischen Golf",
+    "chapters": [
+      {
+        "start": 1243,
+        "end": 1243,
+        "author": "Bürchner."
       }
     ]
   },
