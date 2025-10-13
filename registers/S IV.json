@@ -6437,18 +6437,38 @@
   {
     "lemma": "Karchesion",
     "previous": "Karanos 2",
-    "next": "Karika mele",
-    "short_description": "Gefäßbezeichnung",
+    "next": "Καρικὰ μέλη",
+    "proof_read": 0,
+    "short_description": "Trinkgefäß",
     "chapters": [
       {
         "start": 876,
-        "author": "Frankenstein"
+        "end": 876,
+        "author": "Frankenstein."
       }
     ]
   },
   {
-    "lemma": "Karika mele",
+    "lemma": "Καρικὰ μέλη",
     "previous": "Karchesion",
+    "next": "Katharsis",
+    "sort_key": "Karikamele",
+    "proof_read": 0,
+    "short_description": "choriambische Dichtungen",
+    "chapters": [
+      {
+        "start": 876,
+        "end": 876,
+        "author": "W. Kroll."
+      }
+    ]
+  },
+  {
+    "lemma": "Katharsis",
+    "previous": "Καρικὰ μέλη"
+  },
+  {
+    "lemma": "Karika mele",
     "next": "Karthasis",
     "short_description": "Choriamb. Dichtungen",
     "chapters": [
@@ -6503,11 +6523,16 @@
     "lemma": "Kassandreia",
     "previous": "Κασεήρα",
     "next": "Kassandros 7a",
-    "short_description": "Maked. Stadt auf Pallene = Poteidaia (S X 616)",
+    "redirect": true,
+    "proof_read": 0,
+    "short_description": "die von Kassandros an Stelle des zerstörten Potidaia neu gegründete Stadt",
+    "wp_link": "w:en:Cassandreia",
+    "wd_link": "d:Q81248",
     "chapters": [
       {
         "start": 877,
-        "author": "Oberhummer"
+        "end": 878,
+        "author": "Oberhummer."
       }
     ]
   },
