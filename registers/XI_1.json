@@ -651,6 +651,7 @@
   {
     "lemma": "Καυνίων Πάνορμος",
     "previous": "Kaunias",
+    "next": "Kaunos",
     "sort_key": "Kaunion",
     "proof_read": 3,
     "short_description": "Hafenbucht von Kaunos",
@@ -2200,7 +2201,7 @@
   {
     "lemma": "Keles",
     "previous": "Keleris",
-    "next": "Κελεσίνη",
+    "next": "Κελέτρα",
     "proof_read": 0,
     "short_description": "Dämon",
     "chapters": [
@@ -2652,13 +2653,27 @@
   {
     "lemma": "Kenaios 1",
     "previous": "Kenaion",
-    "next": "Kenchramos",
+    "next": "Kenaios 2",
     "proof_read": 2,
     "short_description": "Eponym des Vorgebirges Kenaion auf Euböa",
     "chapters": [
       {
         "start": 164,
         "end": 164,
+        "author": "Adler."
+      }
+    ]
+  },
+  {
+    "lemma": "Kenaios 2",
+    "previous": "Kenaios 1",
+    "next": "Kenchramos",
+    "proof_read": 0,
+    "short_description": "Epiklesis des Zeus",
+    "chapters": [
+      {
+        "start": 164,
+        "end": 165,
         "author": "Adler."
       }
     ]
@@ -2849,7 +2864,7 @@
   {
     "lemma": "Kennatis",
     "previous": "Kendrisos",
-    "next": "Κενοτάφιον",
+    "next": "Κενοτάφιον 1",
     "proof_read": 0,
     "short_description": "Landschaft in Kilikien",
     "chapters": [
@@ -2861,9 +2876,9 @@
     ]
   },
   {
-    "lemma": "Κενοτάφιον",
+    "lemma": "Κενοτάφιον 1",
     "previous": "Kennatis",
-    "next": "Kentauren",
+    "next": "Κενοτάφιον 2",
     "proof_read": 0,
     "short_description": "Leeres Grab oder Bildnis des Toten",
     "chapters": [
@@ -2875,8 +2890,22 @@
     ]
   },
   {
+    "lemma": "Κενοτάφιον 2",
+    "previous": "Κενοτάφιον 1",
+    "next": "Kentauren",
+    "proof_read": 0,
+    "short_description": "Bildnis des Toten",
+    "chapters": [
+      {
+        "start": 172,
+        "end": 172,
+        "author": "Hug."
+      }
+    ]
+  },
+  {
     "lemma": "Kentauren",
-    "previous": "Κενοτάφιον",
+    "previous": "Κενοτάφιον 2",
     "next": "Kentauropolis",
     "proof_read": 0,
     "short_description": "Mischwesen aus Mensch und Pferd",
@@ -2962,7 +2991,7 @@
   {
     "lemma": "Kentriadai",
     "previous": "Kentoripa",
-    "next": "Kentrites",
+    "next": "Κεντρίτης",
     "short_description": "Kultbeamte an den Dipolien in Athen",
     "chapters": [
       {
@@ -2972,20 +3001,22 @@
     ]
   },
   {
-    "lemma": "Kentrites",
+    "lemma": "Κεντρίτης",
     "previous": "Kentriadai",
     "next": "Κεῶνδαι",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Tigris",
     "chapters": [
       {
         "start": 181,
-        "author": "Weissbach"
+        "end": 181,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Κεῶνδαι",
-    "previous": "Kentrites",
+    "previous": "Κεντρίτης",
     "next": "Keos 1",
     "sort_key": "Keondai",
     "proof_read": 2,
@@ -3003,12 +3034,13 @@
     "lemma": "Keos 1",
     "previous": "Κεῶνδαι",
     "next": "Keos 2",
+    "proof_read": 0,
     "short_description": "Ortschaft südöstl. von Theben",
     "chapters": [
       {
         "start": 181,
         "end": 182,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
@@ -3016,12 +3048,13 @@
     "lemma": "Keos 2",
     "previous": "Keos 1",
     "next": "Keos 3",
+    "proof_read": 0,
     "short_description": "Insel der Kykladen",
     "chapters": [
       {
         "start": 182,
         "end": 189,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -3029,12 +3062,13 @@
     "lemma": "Keos 3",
     "previous": "Keos 2",
     "next": "Kephalai",
+    "proof_read": 0,
     "short_description": "Aufstellungsort der Schiffe in der Schlacht bei Salamis",
     "chapters": [
       {
         "start": 189,
         "end": 190,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -3054,11 +3088,13 @@
     "lemma": "Kephale 1",
     "previous": "Kephalai",
     "next": "Kephale 2",
+    "proof_read": 0,
     "short_description": "Attischer Demos",
     "chapters": [
       {
         "start": 190,
-        "author": "Kroll"
+        "end": 190,
+        "author": "Kroll."
       }
     ]
   },
@@ -3094,11 +3130,13 @@
     "lemma": "Kephalion 1",
     "previous": "Kephalen",
     "next": "Kephalion 2",
+    "proof_read": 0,
     "short_description": "Sohn des Amphithemis",
     "chapters": [
       {
         "start": 190,
-        "author": "Scherling"
+        "end": 190,
+        "author": "Scherling."
       }
     ]
   },
@@ -3120,11 +3158,13 @@
     "lemma": "Kephalion 3",
     "previous": "Kephalion 2",
     "next": "Kephalion 4",
+    "proof_read": 0,
     "short_description": "Sklave Ciceros",
     "chapters": [
       {
         "start": 191,
-        "author": "Münzer"
+        "end": 191,
+        "author": "Münzer."
       }
     ]
   },
@@ -3147,19 +3187,34 @@
   {
     "lemma": "Kephallan",
     "previous": "Kephalion 4",
-    "next": "Kephallenia 1",
+    "next": "Kephallenia",
+    "proof_read": 0,
     "short_description": "Untertanen des Odysseus Bewohner von Kephallenia",
     "chapters": [
       {
         "start": 192,
         "end": 193,
-        "author": "Bürchner"
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Kephallenia",
+    "previous": "Kephallan",
+    "next": "Kephallenia 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 193,
+        "end": 193,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kephallenia 1",
-    "previous": "Kephallan",
+    "previous": "Kephallenia",
     "next": "Kephallenia 2",
     "proof_read": 0,
     "short_description": "Ionische Insel",
@@ -3261,11 +3316,13 @@
     "lemma": "Kephalonesos",
     "previous": "Kephalon",
     "next": "Kephalos 1",
+    "proof_read": 0,
     "short_description": "Insel im Sinus Carcinites",
     "chapters": [
       {
         "start": 217,
-        "author": "Mittelhaus"
+        "end": 217,
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -3586,11 +3643,13 @@
     "lemma": "Kephisodotos 1",
     "previous": "Kephisodoros 10",
     "next": "Kephisodotos 2",
+    "proof_read": 0,
     "short_description": "Stratege von Athen",
     "chapters": [
       {
         "start": 230,
-        "author": "Mittelhaus"
+        "end": 230,
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -3598,12 +3657,13 @@
     "lemma": "Kephisodotos 2",
     "previous": "Kephisodotos 1",
     "next": "Kephisodotos 3",
+    "proof_read": 0,
     "short_description": "Athenischer Stratege 360/59",
     "chapters": [
       {
         "start": 230,
         "end": 231,
-        "author": "Mittelhaus"
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -3611,11 +3671,13 @@
     "lemma": "Kephisodotos 3",
     "previous": "Kephisodotos 2",
     "next": "Kephisodotos 4",
+    "proof_read": 0,
     "short_description": "Athenischer Archont 358/57",
     "chapters": [
       {
         "start": 231,
-        "author": "Mittelhaus"
+        "end": 231,
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -3623,11 +3685,13 @@
     "lemma": "Kephisodotos 4",
     "previous": "Kephisodotos 3",
     "next": "Kephisodotos 5",
+    "proof_read": 0,
     "short_description": "Athenischer Kitharist",
     "chapters": [
       {
         "start": 231,
-        "author": "Mittelhaus"
+        "end": 231,
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -3635,11 +3699,13 @@
     "lemma": "Kephisodotos 5",
     "previous": "Kephisodotos 4",
     "next": "Kephisodotos 6",
+    "proof_read": 0,
     "short_description": "Sohn des Euarchides",
     "chapters": [
       {
         "start": 231,
-        "author": "Mittelhaus"
+        "end": 231,
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -3647,12 +3713,13 @@
     "lemma": "Kephisodotos 6",
     "previous": "Kephisodotos 5",
     "next": "Kephisodotos 7",
+    "proof_read": 0,
     "short_description": "Athenischer Politiker",
     "chapters": [
       {
         "start": 231,
         "end": 232,
-        "author": "Mittelhaus"
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -3675,12 +3742,13 @@
     "lemma": "Kephisodotos 8",
     "previous": "Kephisodotos 7",
     "next": "Kephisodotos 9",
+    "proof_read": 0,
     "short_description": "Athenischer Bildhauer",
     "chapters": [
       {
         "start": 232,
         "end": 235,
-        "author": "Lippold, Georg"
+        "author": "Lippold."
       }
     ]
   },
@@ -3688,12 +3756,13 @@
     "lemma": "Kephisodotos 9",
     "previous": "Kephisodotos 8",
     "next": "Kephisodotos 10",
+    "proof_read": 0,
     "short_description": "Sohn des Praxiteles",
     "chapters": [
       {
         "start": 235,
         "end": 240,
-        "author": "Lippold, Georg"
+        "author": "Lippold."
       }
     ]
   },
@@ -3701,11 +3770,13 @@
     "lemma": "Kephisodotos 10",
     "previous": "Kephisodotos 9",
     "next": "Kephisophon 1",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 240,
-        "author": "Lippold, Georg"
+        "end": 240,
+        "author": "Lippold."
       }
     ]
   },
@@ -3727,11 +3798,13 @@
     "lemma": "Kephisophon 2",
     "previous": "Kephisophon 1",
     "next": "Kephisophon 3",
+    "proof_read": 0,
     "short_description": "Sohn des Kephalion lebte um 340 v. Chr.",
     "chapters": [
       {
         "start": 240,
-        "author": "Kroll"
+        "end": 240,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -3739,11 +3812,13 @@
     "lemma": "Kephisophon 3",
     "previous": "Kephisophon 2",
     "next": "Kephisophon 4",
+    "proof_read": 0,
     "short_description": "Paianieus, Ratsschreiber 405-402 v. Chr.",
     "chapters": [
       {
         "start": 240,
-        "author": "Kroll"
+        "end": 240,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -3751,11 +3826,13 @@
     "lemma": "Kephisophon 4",
     "previous": "Kephisophon 3",
     "next": "Kephisophon 5",
+    "proof_read": 0,
     "short_description": "Paianieus, Sohn des Kallibios aktiv um 340 v. Chr.",
     "chapters": [
       {
         "start": 240,
-        "author": "Kroll"
+        "end": 240,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -3763,37 +3840,55 @@
     "lemma": "Kephisophon 5",
     "previous": "Kephisophon 4",
     "next": "Kephisos",
+    "proof_read": 0,
     "short_description": "Helfer des Euripides",
     "chapters": [
       {
         "start": 240,
         "end": 241,
-        "author": "Kroll"
+        "author": "W. Kroll."
       }
     ]
   },
   {
     "lemma": "Kephisos",
     "previous": "Kephisophon 5",
+    "next": "Kephisos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 241,
+        "end": 241,
+        "author": "Bölte."
+      }
+    ]
+  },
+  {
+    "lemma": "Kephisos 1",
+    "previous": "Kephisos",
     "next": "Kephisos 2",
+    "proof_read": 0,
     "short_description": "Fluß durch Phokis und Boiotien",
     "chapters": [
       {
         "start": 241,
         "end": 244,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Kephisos 2",
-    "previous": "Kephisos",
+    "previous": "Kephisos 1",
     "next": "Kephisos 3",
+    "proof_read": 0,
     "short_description": "Fluß in Phokis",
     "chapters": [
       {
         "start": 244,
-        "author": "Bölte"
+        "end": 244,
+        "author": "Bölte."
       }
     ]
   },
@@ -3801,12 +3896,13 @@
     "lemma": "Kephisos 3",
     "previous": "Kephisos 2",
     "next": "Kephisos 4",
+    "proof_read": 0,
     "short_description": "Fluß in Attika",
     "chapters": [
       {
         "start": 244,
         "end": 247,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
@@ -3814,12 +3910,13 @@
     "lemma": "Kephisos 4",
     "previous": "Kephisos 3",
     "next": "Kephisos 5",
+    "proof_read": 0,
     "short_description": "Fluß von Eleusis",
     "chapters": [
       {
         "start": 247,
         "end": 248,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
@@ -3827,11 +3924,13 @@
     "lemma": "Kephisos 5",
     "previous": "Kephisos 4",
     "next": "Kephisos 6",
+    "proof_read": 0,
     "short_description": "Fluß auf Salamis",
     "chapters": [
       {
         "start": 248,
-        "author": "Bölte"
+        "end": 248,
+        "author": "Bölte."
       }
     ]
   },
@@ -3839,11 +3938,13 @@
     "lemma": "Kephisos 6",
     "previous": "Kephisos 5",
     "next": "Kephisos 7",
+    "proof_read": 0,
     "short_description": "Fluß auf Skyros",
     "chapters": [
       {
         "start": 248,
-        "author": "Bölte"
+        "end": 248,
+        "author": "Bölte."
       }
     ]
   },
@@ -3865,11 +3966,13 @@
     "lemma": "Kephisos 8",
     "previous": "Kephisos 7",
     "next": "Kephisos 9",
+    "proof_read": 0,
     "short_description": "Quelle bei Epidauros",
     "chapters": [
       {
         "start": 248,
-        "author": "Bölte"
+        "end": 248,
+        "author": "Bölte."
       }
     ]
   },
@@ -3877,12 +3980,13 @@
     "lemma": "Kephisos 9",
     "previous": "Kephisos 8",
     "next": "Kephisos 10",
+    "proof_read": 0,
     "short_description": "Fluß in Argos",
     "chapters": [
       {
         "start": 248,
         "end": 250,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
@@ -3925,56 +4029,77 @@
   {
     "lemma": "Kephisso",
     "previous": "Kephisos 12",
-    "next": "Kepion",
+    "next": "Κηπίον",
+    "proof_read": 0,
     "short_description": "Musenname",
     "chapters": [
       {
         "start": 250,
         "end": 251,
-        "author": "Gunning"
+        "author": "Gunning."
       }
     ]
   },
   {
-    "lemma": "Kepion",
+    "lemma": "Κηπίον",
     "previous": "Kephisso",
     "next": "Kepis",
+    "proof_read": 0,
     "short_description": "Parzellen von Gärten",
     "chapters": [
       {
         "start": 251,
-        "author": "Bürchner"
+        "end": 251,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kepis",
-    "previous": "Kepion",
-    "next": "Kepoi 1",
+    "previous": "Κηπίον",
+    "next": "Κῆποι",
+    "proof_read": 0,
     "short_description": "Erzgießer",
     "chapters": [
       {
         "start": 251,
-        "author": "Lippold, Georg"
+        "end": 251,
+        "author": "Lippold."
       }
     ]
   },
   {
-    "lemma": "Kepoi 1",
+    "lemma": "Κῆποι",
     "previous": "Kepis",
-    "next": "Kepoi 2",
+    "next": "Κῆποι 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 251,
+        "end": 251,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Κῆποι 1",
+    "previous": "Κῆποι",
+    "next": "Κῆποι 2",
+    "proof_read": 0,
     "short_description": "Ort auf einer Inschrift aus Tralleis",
     "chapters": [
       {
         "start": 251,
-        "author": "Bürchner"
+        "end": 251,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kepoi 2",
-    "previous": "Kepoi 1",
-    "next": "Kepoi 3",
+    "lemma": "Κῆποι 2",
+    "previous": "Κῆποι 1",
+    "next": "Κῆποι 3",
     "proof_read": 2,
     "short_description": "Ort auf Kreta",
     "chapters": [
@@ -3986,22 +4111,23 @@
     ]
   },
   {
-    "lemma": "Kepoi 3",
-    "previous": "Kepoi 2",
+    "lemma": "Κῆποι 3",
+    "previous": "Κῆποι 2",
     "next": "Κῆπος",
+    "proof_read": 0,
     "short_description": "Kolonie an der N-Küste des Pontus",
     "chapters": [
       {
         "start": 251,
         "end": 252,
-        "author": "Mittelhaus"
+        "author": "Mittelhaus."
       }
     ]
   },
   {
     "lemma": "Κῆπος",
-    "previous": "Kepoi 3",
-    "next": "Kepouroi",
+    "previous": "Κῆποι 3",
+    "next": "Κηπουροί",
     "sort_key": "Kepos",
     "redirect": true,
     "proof_read": 2,
@@ -4013,20 +4139,23 @@
     ]
   },
   {
-    "lemma": "Kepouroi",
+    "lemma": "Κηπουροί",
     "previous": "Κῆπος",
     "next": "Κεπρανός",
+    "sort_key": "Kepuroi",
+    "proof_read": 0,
     "short_description": "Gärtner",
     "chapters": [
       {
         "start": 252,
-        "author": "Ziebarth"
+        "end": 252,
+        "author": "Ziebarth."
       }
     ]
   },
   {
     "lemma": "Κεπρανός",
-    "previous": "Kepouroi",
+    "previous": "Κηπουροί",
     "next": "Κεπρήλων Νέων",
     "sort_key": "Kepranos",
     "proof_read": 2,
@@ -4056,24 +4185,42 @@
   {
     "lemma": "Keraeitai",
     "previous": "Κεπρήλων Νέων",
-    "next": "Keraia, Kerea, Kereai, Kereia 1",
+    "next": "Keraia, Kerea, Kereai, Kereia",
+    "proof_read": 0,
     "short_description": "Ethnikon auf Münzen",
     "chapters": [
       {
         "start": 252,
-        "author": "Ruge"
+        "end": 252,
+        "author": "Ruge."
+      }
+    ]
+  },
+  {
+    "lemma": "Keraia, Kerea, Kereai, Kereia",
+    "previous": "Keraeitai",
+    "next": "Keraia, Kerea, Kereai, Kereia 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 252,
+        "end": 252,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Keraia, Kerea, Kereai, Kereia 1",
-    "previous": "Keraeitai",
+    "previous": "Keraia, Kerea, Kereai, Kereia",
     "next": "Keraia, Kerea, Kereai, Kereia 2",
+    "proof_read": 0,
     "short_description": "Stadt auf Kreta",
     "chapters": [
       {
         "start": 252,
-        "author": "Bürchner"
+        "end": 252,
+        "author": "Bürchner."
       }
     ]
   },
@@ -4096,7 +4243,7 @@
   {
     "lemma": "Keraïnes",
     "previous": "Keraia, Kerea, Kereai, Kereia 2",
-    "next": "Keraites",
+    "next": "Κεραΐτης",
     "proof_read": 3,
     "short_description": "Völkerschaft in Epeiros",
     "chapters": [
@@ -4108,57 +4255,65 @@
     ]
   },
   {
-    "lemma": "Keraites",
+    "lemma": "Κεραΐτης",
     "previous": "Keraïnes",
     "next": "Kerambos",
+    "sort_key": "Keraites",
+    "proof_read": 0,
     "short_description": "Ort in Miletos",
     "chapters": [
       {
         "start": 253,
-        "author": "Bürchner"
+        "end": 253,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kerambos",
-    "previous": "Keraites",
+    "previous": "Κεραΐτης",
     "next": "Keramea",
+    "proof_read": 0,
     "short_description": "Sohn des Euseiros",
     "chapters": [
       {
         "start": 253,
         "end": 254,
-        "author": "Scherling"
+        "author": "Scherling."
       }
     ]
   },
   {
     "lemma": "Keramea",
     "previous": "Kerambos",
-    "next": "Kerameios",
+    "next": "Κεράμειος",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 254,
-        "author": "Oberhummer"
+        "end": 254,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Kerameios",
+    "lemma": "Κεράμειος",
     "previous": "Keramea",
     "next": "Kerameis 1",
+    "proof_read": 0,
     "short_description": "ho kolpos, Bucht bei der Stadt Keramos Golf von Gjóvata",
     "chapters": [
       {
         "start": 254,
-        "author": "Bürchner"
+        "end": 254,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kerameis 1",
-    "previous": "Kerameios",
+    "previous": "Κεράμειος",
     "next": "Kerameis 2",
     "redirect": "Δῆμοι",
     "proof_read": 2,
@@ -4172,31 +4327,36 @@
   {
     "lemma": "Kerameis 2",
     "previous": "Kerameis 1",
-    "next": "Keramidas",
+    "next": "Κεραμιδᾶς",
+    "proof_read": 0,
     "short_description": "Töpfer",
     "chapters": [
       {
         "start": 254,
-        "author": "Ziebarth"
+        "end": 254,
+        "author": "Ziebarth."
       }
     ]
   },
   {
-    "lemma": "Keramidas",
+    "lemma": "Κεραμιδᾶς",
     "previous": "Kerameis 2",
     "next": "Keramik",
+    "sort_key": "Keramidas",
+    "proof_read": 2,
     "short_description": "Kastell in Mysien",
     "chapters": [
       {
         "start": 254,
-        "author": "Bürchner"
+        "end": 254,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Keramik",
-    "previous": "Keramidas",
-    "next": "Keramion",
+    "previous": "Κεραμιδᾶς",
+    "next": "Κεράμιον",
     "redirect": "Terrakotten",
     "proof_read": 2,
     "chapters": [
@@ -4207,39 +4367,59 @@
     ]
   },
   {
-    "lemma": "Keramion",
+    "lemma": "Κεράμιον",
     "previous": "Keramik",
-    "next": "Keramon agora",
+    "next": "Κεράμων ἀγορά",
+    "proof_read": 0,
     "short_description": "Fassähnliches Weingefäß",
     "chapters": [
       {
         "start": 254,
-        "author": "Viedebantt"
+        "end": 254,
+        "author": "Viedebantt."
       }
     ]
   },
   {
-    "lemma": "Keramon agora",
-    "previous": "Keramion",
-    "next": "Keramos 1",
+    "lemma": "Κεράμων ἀγορά",
+    "previous": "Κεράμιον",
+    "next": "Keramos",
+    "sort_key": "Keramon agora",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygien",
     "chapters": [
       {
         "start": 254,
         "end": 255,
-        "author": "Ruge"
+        "author": "Ruge."
+      }
+    ]
+  },
+  {
+    "lemma": "Keramos",
+    "previous": "Κεράμων ἀγορά",
+    "next": "Keramos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 255,
+        "end": 255,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Keramos 1",
-    "previous": "Keramon agora",
+    "previous": "Keramos",
     "next": "Keramos 2",
+    "proof_read": 0,
     "short_description": "Seestädtchen in Karien",
     "chapters": [
       {
         "start": 255,
-        "author": "Bürchner"
+        "end": 255,
+        "author": "Bürchner."
       }
     ]
   },
@@ -4247,11 +4427,13 @@
     "lemma": "Keramos 2",
     "previous": "Keramos 1",
     "next": "Keramos 3",
+    "proof_read": 0,
     "short_description": "Irrtüml. Stadt auf Arkonnesos bei Halikarnassos. Entspricht Nr. 1",
     "chapters": [
       {
         "start": 255,
-        "author": "Bürchner"
+        "end": 255,
+        "author": "Bürchner."
       }
     ]
   },
@@ -4259,12 +4441,13 @@
     "lemma": "Keramos 3",
     "previous": "Keramos 2",
     "next": "Keramyntes",
+    "proof_read": 0,
     "short_description": "Attischer Heros Eponymos der Töpfer und des Demos Kerameis",
     "chapters": [
       {
         "start": 255,
         "end": 256,
-        "author": "Scherling"
+        "author": "Scherling."
       }
     ]
   },
@@ -4286,12 +4469,13 @@
     "lemma": "Keraon",
     "previous": "Keramyntes",
     "next": "Keras 1",
+    "proof_read": 0,
     "short_description": "Spartanischer Heros des Weinmischens",
     "chapters": [
       {
         "start": 256,
         "end": 257,
-        "author": "Kroll"
+        "author": "Kroll-Wernicke."
       }
     ]
   },
@@ -4299,12 +4483,13 @@
     "lemma": "Keras 1",
     "previous": "Keraon",
     "next": "Keras 2",
+    "proof_read": 0,
     "short_description": "Hafenbucht von Konstantinopel",
     "chapters": [
       {
         "start": 257,
         "end": 262,
-        "author": "Oberhummer"
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4312,12 +4497,13 @@
     "lemma": "Keras 2",
     "previous": "Keras 1",
     "next": "Keras 3",
+    "proof_read": 0,
     "short_description": "Blasinstrument",
     "chapters": [
       {
         "start": 262,
         "end": 263,
-        "author": "Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -4325,19 +4511,20 @@
     "lemma": "Keras 3",
     "previous": "Keras 2",
     "next": "Keras 4",
+    "proof_read": 0,
     "short_description": "Trinkhorn",
     "chapters": [
       {
         "start": 263,
         "end": 264,
-        "author": "Frankenstein"
+        "author": "Frankenstein."
       }
     ]
   },
   {
     "lemma": "Keras 4",
     "previous": "Keras 3",
-    "next": "Kerasa",
+    "next": "Κέρασα",
     "redirect": "Kotyle 2",
     "proof_read": 2,
     "chapters": [
@@ -4348,26 +4535,31 @@
     ]
   },
   {
-    "lemma": "Kerasa",
+    "lemma": "Κέρασα",
     "previous": "Keras 4",
     "next": "Kerasia",
-    "short_description": "Ort",
+    "sort_key": "Kerasa",
+    "proof_read": 0,
+    "short_description": "Städtchen in Lydien",
     "chapters": [
       {
         "start": 264,
-        "author": "Bürchner"
+        "end": 264,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kerasia",
-    "previous": "Kerasa",
+    "previous": "Κέρασα",
     "next": "Kerasos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 264,
-        "author": "Ruge"
+        "end": 264,
+        "author": "Ruge."
       }
     ]
   },
@@ -4418,12 +4610,13 @@
     "lemma": "Kerasus 2",
     "previous": "Kerasus 1",
     "next": "Kerasus 3",
+    "proof_read": 0,
     "short_description": "Kolonie von Sinope",
     "chapters": [
       {
         "start": 264,
         "end": 265,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -4431,42 +4624,47 @@
     "lemma": "Kerasus 3",
     "previous": "Kerasus 2",
     "next": "Kerata",
+    "proof_read": 0,
     "short_description": "Früherer Name von Pharnakeia",
     "chapters": [
       {
         "start": 265,
-        "author": "Ruge"
+        "end": 265,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Kerata",
     "previous": "Kerasus 3",
-    "next": "Keration",
+    "next": "Κεράτιον",
+    "proof_read": 0,
     "short_description": "Zwei Berge an der Küste gegenüber Salamis",
     "chapters": [
       {
         "start": 265,
         "end": 266,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
   {
-    "lemma": "Keration",
+    "lemma": "Κεράτιον",
     "previous": "Kerata",
     "next": "Kerauge",
+    "proof_read": 0,
     "short_description": "Same des Johannisbrotbaums kleinste Gewichtseinheit seit konstantinischer Zeit",
     "chapters": [
       {
         "start": 266,
-        "author": "Regling"
+        "end": 266,
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Kerauge",
-    "previous": "Keration",
+    "previous": "Κεράτιον",
     "next": "Keraunia 1",
     "proof_read": 2,
     "short_description": "Ort",
@@ -4584,11 +4782,13 @@
     "lemma": "Keraunios",
     "previous": "Κεραύνιον ὄρος",
     "next": "Κεραύνιος λόφος",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
         "start": 267,
-        "author": "Adler"
+        "end": 267,
+        "author": "Adler."
       }
     ]
   },
@@ -4611,12 +4811,13 @@
     "lemma": "Keraunische Berge 1",
     "previous": "Κεραύνιος λόφος",
     "next": "Keraunische Berge 2",
+    "proof_read": 0,
     "short_description": "Gebirge in NW-Epeiros",
     "chapters": [
       {
         "start": 268,
         "end": 269,
-        "author": "Oberhummer"
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4624,11 +4825,14 @@
     "lemma": "Keraunische Berge 2",
     "previous": "Keraunische Berge 1",
     "next": "Keraunische Berge 3",
+    "sort_key": "Keraunischeberge 2",
+    "proof_read": 0,
     "short_description": "Teil des Kaukasus bei Albanien",
     "chapters": [
       {
         "start": 269,
-        "author": "Mittelhaus"
+        "end": 269,
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -4651,11 +4855,13 @@
     "lemma": "Keraunobolos",
     "previous": "Keraunische Berge 3",
     "next": "Keraunos",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
         "start": 269,
-        "author": "Adler"
+        "end": 269,
+        "author": "Adler."
       }
     ]
   },
@@ -4750,11 +4956,13 @@
     "lemma": "Kerbes",
     "previous": "Kerberos 3",
     "next": "Kerbesier",
+    "proof_read": 0,
     "short_description": "Flüßchen auf Euboia s. Kereus Keron",
     "chapters": [
       {
         "start": 284,
-        "author": "Bürchner"
+        "end": 284,
+        "author": "Bürchner."
       }
     ]
   },
@@ -4776,11 +4984,13 @@
     "lemma": "Kerbonios",
     "previous": "Kerbesier",
     "next": "Kerchneia",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 284,
-        "author": "Seeck"
+        "end": 284,
+        "author": "Seeck."
       }
     ]
   },
@@ -4856,12 +5066,13 @@
     "lemma": "Kerdo",
     "previous": "Kerdie",
     "next": "Kerdon",
+    "proof_read": 0,
     "short_description": "Gattin des Heros Phoroneus",
     "chapters": [
       {
         "start": 284,
         "end": 285,
-        "author": "Gunning"
+        "author": "Gunning."
       }
     ]
   },
@@ -4869,11 +5080,13 @@
     "lemma": "Kerdon",
     "previous": "Kerdo",
     "next": "Kerdoos",
+    "proof_read": 2,
     "short_description": "Steinschneider",
     "chapters": [
       {
         "start": 285,
-        "author": "Sieveking"
+        "end": 285,
+        "author": "Sieveking."
       }
     ]
   },
@@ -4881,11 +5094,13 @@
     "lemma": "Kerdoos",
     "previous": "Kerdon",
     "next": "Kerdylas",
+    "proof_read": 0,
     "short_description": "Epiklesis von Apollon und Hermes",
     "chapters": [
       {
         "start": 285,
-        "author": "Adler"
+        "end": 285,
+        "author": "Adler."
       }
     ]
   },
@@ -4893,7 +5108,7 @@
     "lemma": "Kerdylas",
     "previous": "Kerdoos",
     "next": "Kerdylion",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
@@ -4907,11 +5122,13 @@
     "lemma": "Kerdylion",
     "previous": "Kerdylas",
     "next": "Kereatas",
+    "proof_read": 0,
     "short_description": "Anhöhe am unteren Strymon",
     "chapters": [
       {
         "start": 285,
-        "author": "Oberhummer"
+        "end": 285,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4919,11 +5136,13 @@
     "lemma": "Kereatas",
     "previous": "Kerdylion",
     "next": "Kerebia",
+    "proof_read": 2,
     "short_description": "Epiklesis des Apollon",
     "chapters": [
       {
         "start": 285,
-        "author": "Adler"
+        "end": 285,
+        "author": "Adler."
       }
     ]
   },
@@ -4931,11 +5150,15 @@
     "lemma": "Kerebia",
     "previous": "Kereatas",
     "next": "Keressos",
+    "proof_read": 0,
     "short_description": "Gattin Poseidons",
+    "wp_link": "w:en:Cerebia",
+    "wd_link": "d:Q3665076",
     "chapters": [
       {
         "start": 286,
-        "author": "Gunning"
+        "end": 286,
+        "author": "Gunning."
       }
     ]
   },
@@ -4943,12 +5166,13 @@
     "lemma": "Keressos",
     "previous": "Kerebia",
     "next": "Keretapa",
+    "proof_read": 0,
     "short_description": "Ort im Gebiet von Thespiai",
     "chapters": [
       {
         "start": 286,
         "end": 287,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
@@ -4956,12 +5180,13 @@
     "lemma": "Keretapa",
     "previous": "Keressos",
     "next": "Kereura",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygien",
     "chapters": [
       {
         "start": 287,
         "end": 288,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -4983,11 +5208,14 @@
     "lemma": "Kereus, Keron",
     "previous": "Kereura",
     "next": "Kerinthos 1",
+    "sort_key": "Kereus,keron",
+    "proof_read": 0,
     "short_description": "Flüßchen in Thessalien",
     "chapters": [
       {
         "start": 288,
-        "author": "Bürchner"
+        "end": 288,
+        "author": "Bürchner."
       }
     ]
   },
@@ -5007,19 +5235,21 @@
   {
     "lemma": "Kerinthos 2",
     "previous": "Kerinthos 1",
-    "next": "Kerkaphides",
+    "next": "Κερκαφίδες",
+    "proof_read": 0,
     "short_description": "Sklavenname",
     "chapters": [
       {
         "start": 289,
-        "author": "Kroll"
+        "end": 289,
+        "author": "Kroll."
       }
     ]
   },
   {
-    "lemma": "Kerkaphides",
+    "lemma": "Κερκαφίδες",
     "previous": "Kerinthos 2",
-    "next": "Kerkaphos 1",
+    "next": "Kerkaphos",
     "short_description": "Beiname der Rhodierinnen",
     "chapters": [
       {
@@ -5029,14 +5259,30 @@
     ]
   },
   {
+    "lemma": "Kerkaphos",
+    "previous": "Κερκαφίδες",
+    "next": "Kerkaphos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 289,
+        "end": 289,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
     "lemma": "Kerkaphos 1",
-    "previous": "Kerkaphides",
+    "previous": "Kerkaphos",
     "next": "Kerkaphos 2",
+    "proof_read": 0,
     "short_description": "Berg bei Kolophon",
     "chapters": [
       {
         "start": 289,
-        "author": "Bürchner"
+        "end": 289,
+        "author": "Bürchner."
       }
     ]
   },
@@ -5087,11 +5333,13 @@
     "lemma": "Kerkas",
     "previous": "Kerkaphos 4",
     "next": "Kerkasoros",
+    "proof_read": 0,
     "short_description": "Stadt bei Aulis",
     "chapters": [
       {
         "start": 290,
-        "author": "Bölte"
+        "end": 290,
+        "author": "Bölte."
       }
     ]
   },
@@ -5136,12 +5384,13 @@
     "lemma": "Kerketai",
     "previous": "Kerkeosiris",
     "next": "Kerketes",
+    "proof_read": 0,
     "short_description": "Volk an der N-Küste des Pontos",
     "chapters": [
       {
         "start": 291,
         "end": 292,
-        "author": "Kroll"
+        "author": "W. Kroll."
       }
     ]
   },
@@ -5175,7 +5424,7 @@
   {
     "lemma": "Kerkiai",
     "previous": "Kerketeus, Kerketes",
-    "next": "Kerkidas 1",
+    "next": "Kerkidas",
     "proof_read": 2,
     "short_description": "Insel bei Ephesos",
     "chapters": [
@@ -5187,37 +5436,79 @@
     ]
   },
   {
-    "lemma": "Kerkidas 1",
+    "lemma": "Kerkidas",
     "previous": "Kerkiai",
-    "next": "Kerkidas 2",
-    "short_description": "Politiker aus Arkadien",
+    "next": "Kerkidas 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
     "chapters": [
       {
         "start": 292,
+        "end": 293,
+        "author": "W. Kroll."
+      }
+    ]
+  },
+  {
+    "lemma": "Kerkidas 1",
+    "previous": "Kerkidas",
+    "next": "Kerkidas 2",
+    "proof_read": 0,
+    "short_description": "Politiker aus Arkadien",
+    "chapters": [
+      {
+        "start": 293,
         "end": 294,
-        "author": "Gerhard"
+        "author": "W. Kroll."
       }
     ]
   },
   {
     "lemma": "Kerkidas 2",
     "previous": "Kerkidas 1",
-    "next": "Kerkides",
+    "next": "Kerkidas 3",
+    "proof_read": 0,
     "short_description": "Politiker und Philosoph aus Megalopolis",
     "chapters": [
       {
         "start": 294,
         "end": 308,
-        "author": "Gerhard"
+        "author": "W. Kroll."
+      }
+    ]
+  },
+  {
+    "lemma": "Kerkidas 3",
+    "previous": "Kerkidas 2",
+    "next": "Kerkidas 4",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 308,
+        "end": 308,
+        "author": "Gerhard."
+      }
+    ]
+  },
+  {
+    "lemma": "Kerkidas 4",
+    "previous": "Kerkidas 3",
+    "next": "Kerkides",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 308,
+        "end": 309,
+        "author": "Gerhard."
       }
     ]
   },
   {
     "lemma": "Kerkides",
-    "previous": "Kerkidas 2",
+    "previous": "Kerkidas 4",
     "next": "Kerkinas",
     "redirect": "Theatron 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 309,
@@ -5229,8 +5520,8 @@
     "lemma": "Kerkinas",
     "previous": "Kerkides",
     "next": "Kerkine",
-    "redirect": true,
-    "proof_read": 2,
+    "redirect": "Cercina",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 309,
@@ -5242,11 +5533,13 @@
     "lemma": "Kerkine",
     "previous": "Kerkinas",
     "next": "Kerkinitis",
+    "proof_read": 0,
     "short_description": "Gebirge in Makedonien",
     "chapters": [
       {
         "start": 309,
-        "author": "Oberhummer"
+        "end": 309,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5254,11 +5547,13 @@
     "lemma": "Kerkinitis",
     "previous": "Kerkine",
     "next": "Kerkopen",
-    "short_description": "See am unteren Strymon",
+    "proof_read": 0,
+    "short_description": "großer See am unteren Strymon",
     "chapters": [
       {
         "start": 309,
-        "author": "Oberhummer"
+        "end": 309,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5266,12 +5561,15 @@
     "lemma": "Kerkopen",
     "previous": "Kerkinitis",
     "next": "Kerkopia",
+    "proof_read": 0,
     "short_description": "Mythische Kobolde",
+    "wp_link": "w:de:Kerkopen",
+    "wd_link": "d:Q1504253",
     "chapters": [
       {
         "start": 309,
         "end": 313,
-        "author": "Adler"
+        "author": "Adler."
       }
     ]
   },
@@ -5279,54 +5577,63 @@
     "lemma": "Kerkopia",
     "previous": "Kerkopen",
     "next": "Kerkopithekos",
-    "short_description": "Ort",
+    "proof_read": 0,
+    "short_description": "Ort in Phrygien",
     "chapters": [
       {
         "start": 313,
-        "author": "Ruge"
+        "end": 313,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Kerkopithekos",
     "previous": "Kerkopia",
-    "next": "Kerkopon agora",
-    "short_description": "Person",
+    "next": "Κερκώπων ἀγορά",
+    "proof_read": 2,
+    "short_description": "Paneros, ein reich gewordener Wucherer und Güterspekulant",
     "chapters": [
       {
         "start": 313,
-        "author": "Stein, [Arthur]"
+        "end": 313,
+        "author": "Stein."
       }
     ]
   },
   {
-    "lemma": "Kerkopon agora",
+    "lemma": "Κερκώπων ἀγορά",
     "previous": "Kerkopithekos",
-    "next": "Kerkopon hedrai",
+    "next": "Κερκώπων ἕδραι",
+    "sort_key": "Kerkoponagora",
+    "proof_read": 0,
     "short_description": "Hehlermarkt in Athen",
     "chapters": [
       {
         "start": 313,
         "end": 314,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
   {
-    "lemma": "Kerkopon hedrai",
-    "previous": "Kerkopon agora",
+    "lemma": "Κερκώπων ἕδραι",
+    "previous": "Κερκώπων ἀγορά",
     "next": "Kerkops",
+    "sort_key": "Kerkoponhedrai",
+    "proof_read": 0,
     "short_description": "Hindernis im Osttor der Thermopylen",
     "chapters": [
       {
         "start": 314,
-        "author": "Bölte"
+        "end": 314,
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Kerkops",
-    "previous": "Kerkopon hedrai",
+    "previous": "Κερκώπων ἕδραι",
     "next": "Kerkuros",
     "sort_key": "Kerkops",
     "proof_read": 2,
@@ -5381,13 +5688,15 @@
   },
   {
     "lemma": "Kerkyoneus",
-    "previous": "Kerkyon 2",
+    "previous": "Kerkyon",
     "next": "Kerkyra 1",
+    "proof_read": 0,
     "short_description": "Epiklesis des Apollon",
     "chapters": [
       {
         "start": 315,
-        "author": "Adler"
+        "end": 315,
+        "author": "Adler."
       }
     ]
   },
@@ -5406,43 +5715,50 @@
   {
     "lemma": "Kerkyra 2",
     "previous": "Kerkyra 1",
-    "next": "Kerma",
+    "next": "Κέρμα, κερμάτιον",
+    "proof_read": 0,
     "short_description": "Ionische Insel und Stadt darauf",
     "chapters": [
       {
         "start": 315,
-        "author": "Bürchner"
+        "end": 315,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kerma",
+    "lemma": "Κέρμα, κερμάτιον",
     "previous": "Kerkyra 2",
-    "next": "Kerne nesos",
+    "next": "Κέρνη νῆσος",
+    "sort_key": "Kerma,kermation",
+    "proof_read": 0,
     "short_description": "Teilmünze",
     "chapters": [
       {
         "start": 315,
-        "author": "Regling"
+        "end": 315,
+        "author": "Regling."
       }
     ]
   },
   {
-    "lemma": "Kerne nesos",
-    "previous": "Kerma",
+    "lemma": "Κέρνη νῆσος",
+    "previous": "Κέρμα, κερμάτιον",
     "next": "Kernophoros",
+    "sort_key": "Kernenesos",
+    "proof_read": 0,
     "short_description": "Insel vor der libyschen Westküste",
     "chapters": [
       {
         "start": 315,
         "end": 316,
-        "author": "Fischer"
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Kernophoros",
-    "previous": "Kerne nesos",
+    "previous": "Κέρνη νῆσος",
     "next": "Kernos",
     "redirect": "Kernos",
     "proof_read": 2,
@@ -5482,7 +5798,7 @@
     "lemma": "Keroessa",
     "previous": "Kerobotras",
     "next": "Κήρωμα",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Tochter der Io, Mutter des Byzas",
     "wp_link": "w:en:Ceroessa",
     "wd_link": "d:Q2723170",
@@ -5498,12 +5814,14 @@
     "lemma": "Κήρωμα",
     "previous": "Keroessa",
     "next": "Keron 1",
+    "sort_key": "Keroma",
+    "proof_read": 0,
     "short_description": "Salbe, Salbung",
     "chapters": [
       {
         "start": 326,
         "end": 328,
-        "author": "Jüthner"
+        "author": "Jüthner."
       }
     ]
   },
@@ -5549,17 +5867,19 @@
   {
     "lemma": "Kerossos",
     "previous": "Keros",
-    "next": "Kersa",
+    "next": "Κέρσα",
+    "proof_read": 0,
     "short_description": "Insel im ionischen Meer",
     "chapters": [
       {
         "start": 328,
-        "author": "Bürchner"
+        "end": 328,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kersa",
+    "lemma": "Κέρσα",
     "previous": "Kerossos",
     "next": "Κερσαῖον",
     "short_description": "Münzname bei Hesych",
@@ -5572,7 +5892,7 @@
   },
   {
     "lemma": "Κερσαῖον",
-    "previous": "Kersa",
+    "previous": "Κέρσα",
     "next": "Kersobleptes",
     "sort_key": "Kersaion",
     "redirect": "Kersa",
@@ -5614,11 +5934,13 @@
     "lemma": "Kersullos",
     "previous": "Kersos",
     "next": "Kerthe",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
         "start": 330,
-        "author": "Adler"
+        "end": 330,
+        "author": "Adler."
       }
     ]
   },
@@ -5626,11 +5948,15 @@
     "lemma": "Kerthe",
     "previous": "Kersullos",
     "next": "Kertonon, Kertonos",
+    "proof_read": 0,
     "short_description": "Tochter des Thespios",
+    "wp_link": "w:en:Certhe",
+    "wd_link": "d:Q12878574",
     "chapters": [
       {
         "start": 330,
-        "author": "Gunning"
+        "end": 330,
+        "author": "Gunning."
       }
     ]
   },
@@ -5638,11 +5964,14 @@
     "lemma": "Kertonon, Kertonos",
     "previous": "Kerthe",
     "next": "Kerykeion 1",
-    "short_description": "s. Kytonion",
+    "sort_key": "Kertonon,kertonos",
+    "proof_read": 2,
+    "short_description": "frühere Lesart, s. Kytonion",
     "chapters": [
       {
         "start": 330,
-        "author": "Bürchner"
+        "end": 330,
+        "author": "Bürchner."
       }
     ]
   },
@@ -5663,11 +5992,13 @@
     "lemma": "Kerykeion 2",
     "previous": "Kerykeion 1",
     "next": "Kerykeios",
+    "proof_read": 0,
     "short_description": "Höhe bei Ephesos",
     "chapters": [
       {
         "start": 342,
-        "author": "Bürchner"
+        "end": 342,
+        "author": "Bürchner."
       }
     ]
   },
@@ -5675,11 +6006,13 @@
     "lemma": "Kerykeios",
     "previous": "Kerykeion 2",
     "next": "Kerykion",
+    "proof_read": 0,
     "short_description": "Epiklesis des Apollon",
     "chapters": [
       {
         "start": 342,
-        "author": "Adler"
+        "end": 342,
+        "author": "Adler."
       }
     ]
   },
@@ -5687,11 +6020,13 @@
     "lemma": "Kerykion",
     "previous": "Kerykeios",
     "next": "Kerykte",
+    "proof_read": 0,
     "short_description": "Berg im Gebiet von Tanagra",
     "chapters": [
       {
         "start": 342,
-        "author": "Bölte"
+        "end": 342,
+        "author": "Bölte."
       }
     ]
   },
@@ -6045,25 +6380,42 @@
   {
     "lemma": "Keteioi",
     "previous": "Ketaria",
-    "next": "Keteios 1",
-    "short_description": "Volk in Westkleinasien",
+    "next": "Keteios",
+    "proof_read": 0,
+    "short_description": "Volk in Teuthranien",
     "chapters": [
       {
         "start": 360,
-        "author": "Bürchner"
+        "end": 360,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Keteios",
+    "previous": "Keteioi",
+    "next": "Keteios 1",
+    "proof_read": 2,
+    "short_description": "Name von Gießbächen im westlichen Kleinasien",
+    "chapters": [
+      {
+        "start": 360,
+        "end": 360,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Keteios 1",
-    "previous": "Keteioi",
+    "previous": "Keteios",
     "next": "Keteios 2",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Kaïkos in Teuthranien",
     "chapters": [
       {
         "start": 360,
         "end": 361,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -6071,11 +6423,13 @@
     "lemma": "Keteios 2",
     "previous": "Keteios 1",
     "next": "Keteus 1",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Kaïkos in der Elaïtis",
     "chapters": [
       {
         "start": 361,
-        "author": "Bürchner"
+        "end": 361,
+        "author": "Bürchner."
       }
     ]
   },
@@ -6587,7 +6941,7 @@
   {
     "lemma": "Kidaria",
     "previous": "Kidame",
-    "next": "Kidaris",
+    "next": "Κίδαρις",
     "short_description": "Epiklesis der Demeter",
     "chapters": [
       {
@@ -6597,9 +6951,9 @@
     ]
   },
   {
-    "lemma": "Kidaris",
+    "lemma": "Κίδαρις",
     "previous": "Kidaria",
-    "next": "Kidenas",
+    "next": "Κιδήνας",
     "short_description": "Kopfschmuck der persischen Könige und jüdischen Hohenpriester",
     "chapters": [
       {
@@ -6610,24 +6964,30 @@
     ]
   },
   {
-    "lemma": "Kidenas",
-    "previous": "Kidaris",
+    "lemma": "Κιδήνας",
+    "previous": "Κίδαρις",
     "next": "Kidramos",
-    "short_description": "Chaldäischer Mathematiker und Astronom",
+    "sort_key": "Kidenas",
+    "proof_read": 0,
+    "short_description": "chaldäischer Mathematiker und Astronom, 2 Jdht. v. Chr.",
+    "wp_link": "w:de:Kidinnu",
+    "wd_link": "d:Q741999",
     "chapters": [
       {
         "start": 379,
-        "author": "Kroll"
+        "end": 379,
+        "author": "Weissbach."
       },
       {
         "start": 379,
-        "author": "Weissbach"
+        "end": 379,
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Kidramos",
-    "previous": "Kidenas",
+    "previous": "Κιδήνας",
     "next": "Kidyessos",
     "short_description": "Ort",
     "chapters": [
@@ -6691,12 +7051,13 @@
     "lemma": "K(i)etis",
     "previous": "Kieros",
     "next": "Κιγβίνα",
+    "proof_read": 0,
     "short_description": "Landschaft in Kilikien",
     "chapters": [
       {
         "start": 380,
         "end": 381,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -6705,8 +7066,8 @@
     "previous": "K(i)etis",
     "next": "Kikellia",
     "sort_key": "Kigbina",
-    "proof_read": 2,
-    "short_description": "Ortsname",
+    "proof_read": 3,
+    "short_description": "Stadt in Medien",
     "chapters": [
       {
         "start": 381,
@@ -6810,11 +7171,13 @@
     "lemma": "Kikynethos",
     "previous": "Kikonion",
     "next": "Kikynna",
-    "short_description": "Insel im pagasetischen Golf",
+    "proof_read": 0,
+    "short_description": "Inselchen im pagasetischen Golf vor Thessalien",
     "chapters": [
       {
         "start": 382,
-        "author": "Bürchner"
+        "end": 382,
+        "author": "Bürchner."
       }
     ]
   },
@@ -7046,12 +7409,14 @@
   {
     "lemma": "Kilistra",
     "previous": "Κιλίκων νῆσος",
-    "next": "Kilix 2",
-    "short_description": "Ort",
+    "next": "Kilix 1",
+    "proof_read": 0,
+    "short_description": "Ort südwestlich von Ikonion",
     "chapters": [
       {
         "start": 390,
-        "author": "Ruge"
+        "end": 390,
+        "author": "Ruge."
       }
     ]
   },
@@ -8510,11 +8875,13 @@
     "lemma": "Kirchenrechtliche Sammlungen",
     "previous": "Kirchenordnungen",
     "next": "Kirchnaumen",
+    "sort_key": "Kirchenrechtlichesammlungen",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 488,
         "end": 501,
-        "author": "Lietzmann"
+        "author": "Lietzmann."
       }
     ]
   },
