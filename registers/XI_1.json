@@ -2201,7 +2201,7 @@
   {
     "lemma": "Keles",
     "previous": "Keleris",
-    "next": "Κελέτρα",
+    "next": "Κελεσίνη",
     "proof_read": 0,
     "short_description": "Dämon",
     "chapters": [
@@ -8840,7 +8840,7 @@
     "lemma": "Kinnamomon",
     "previous": "Kin(n)abora",
     "next": "Κινναμωφόρος χώρα",
-    "redirect": true,
+    "redirect": "Zimt",
     "proof_read": 3,
     "chapters": [
       {
@@ -9281,7 +9281,7 @@
     "lemma": "Kisamos",
     "previous": "Kisalaudenos",
     "next": "Kisamos 1",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Name",
     "chapters": [
       {
@@ -9446,30 +9446,35 @@
   {
     "lemma": "Kissaia",
     "previous": "Kissa 7",
-    "next": "Kissare",
+    "next": "Κισσαρή",
+    "proof_read": 2,
     "short_description": "Epiklesis der Athena",
     "chapters": [
       {
         "start": 517,
-        "author": "Adler"
+        "end": 517,
+        "author": "Adler."
       }
     ]
   },
   {
-    "lemma": "Kissare",
+    "lemma": "Κισσαρή",
     "previous": "Kissaia",
     "next": "Kisseis 1",
-    "short_description": "Sohn von Moumis und Kosmos in der babylonischen Kosmogonie",
+    "sort_key": "Kissare",
+    "proof_read": 0,
+    "short_description": "Sohn von Moumis in der babylonischen Kosmogonie",
     "chapters": [
       {
         "start": 517,
-        "author": "Weissbach"
+        "end": 517,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Kisseis 1",
-    "previous": "Kissare",
+    "previous": "Κισσαρή",
     "next": "Kisseis 2",
     "short_description": "Hekabe",
     "chapters": [
@@ -9507,7 +9512,7 @@
   {
     "lemma": "Kisseis 4",
     "previous": "Kisseis 3",
-    "next": "Kisserussa",
+    "next": "Κισσηροῦσσα",
     "proof_read": 2,
     "short_description": "Nymphe",
     "no_creative_height": true,
@@ -9520,26 +9525,33 @@
     ]
   },
   {
-    "lemma": "Kisserussa",
+    "lemma": "Κισσηροῦσσα",
     "previous": "Kisseis 4",
     "next": "Kisses",
+    "sort_key": "Kisserussa",
+    "proof_read": 2,
     "short_description": "Inselchen bei Knidos",
     "chapters": [
       {
         "start": 518,
-        "author": "Bürchner"
+        "end": 518,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kisses",
-    "previous": "Kisserussa",
+    "previous": "Κισσηροῦσσα",
     "next": "Kisseus 1",
+    "proof_read": 0,
     "short_description": "Vater der Theano",
+    "wp_link": "w:de:Kisses",
+    "wd_link": "d:Q2259929",
     "chapters": [
       {
         "start": 518,
-        "author": "Scherling"
+        "end": 518,
+        "author": "Scherling."
       }
     ]
   },
@@ -9547,11 +9559,13 @@
     "lemma": "Kisseus 1",
     "previous": "Kisses",
     "next": "Kisseus 2",
+    "proof_read": 2,
     "short_description": "Epiklesis von Apollon und Dionysos",
     "chapters": [
       {
         "start": 518,
-        "author": "Adler"
+        "end": 518,
+        "author": "Adler."
       }
     ]
   },
@@ -9559,7 +9573,7 @@
     "lemma": "Kisseus 2",
     "previous": "Kisseus 1",
     "next": "Kisseus 3",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Sohn des Aigyptos",
     "no_creative_height": true,
     "chapters": [
@@ -9622,7 +9636,7 @@
   {
     "lemma": "Kisseus 7",
     "previous": "Kisseus 6",
-    "next": "Kissia",
+    "next": "Κισσία, ἡ",
     "proof_read": 2,
     "short_description": "Krieger des Turnus",
     "no_creative_height": true,
@@ -9635,9 +9649,23 @@
     ]
   },
   {
-    "lemma": "Kissia",
+    "lemma": "Κισσία, ἡ",
     "previous": "Kisseus 7",
-    "next": "Kissiai pylai",
+    "next": "Κίσσιαι πύλαι",
+    "sort_key": "Kissia, he",
+    "proof_read": 0,
+    "short_description": "Benennung von Elam bei Herodot",
+    "chapters": [
+      {
+        "start": 519,
+        "end": 521,
+        "author": "Weissbach."
+      }
+    ]
+  },
+  {
+    "lemma": "Kissia",
+    "next": "Κίσσιαι πύλαι",
     "short_description": "Benennung von Elam bei Herodot",
     "chapters": [
       {
@@ -9648,26 +9676,31 @@
     ]
   },
   {
-    "lemma": "Kissiai pylai",
-    "previous": "Kissia",
+    "lemma": "Κίσσιαι πύλαι",
+    "previous": "Κισσία, ἡ",
     "next": "Kissidai",
+    "sort_key": "Kissiaipylai",
+    "proof_read": 0,
     "short_description": "Stadttor in Babylon",
     "chapters": [
       {
         "start": 521,
-        "author": "Weissbach"
+        "end": 521,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Kissidai",
-    "previous": "Kissiai pylai",
+    "previous": "Κίσσιαι πύλαι",
     "next": "Kissioi",
-    "short_description": "Ort",
+    "proof_read": 0,
+    "short_description": "Ort an der Westküste Lydiens",
     "chapters": [
       {
         "start": 521,
-        "author": "Ruge"
+        "end": 521,
+        "author": "Ruge."
       }
     ]
   },
@@ -9675,47 +9708,56 @@
     "lemma": "Kissioi",
     "previous": "Kissidai",
     "next": "Kissios",
-    "short_description": "Volk am Schwarzen Meer",
+    "proof_read": 2,
+    "short_description": "Volk an der Ostküste des Schwarzen Meeres",
     "chapters": [
       {
         "start": 521,
-        "author": "Ruge"
+        "end": 521,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Kissios",
     "previous": "Kissioi",
-    "next": "Kissoetioi",
+    "next": "Κισσοέτιοι",
+    "proof_read": 0,
     "short_description": "Epiklesis des Apollon",
     "chapters": [
       {
         "start": 521,
-        "author": "Adler"
+        "end": 521,
+        "author": "Adler."
       }
     ]
   },
   {
-    "lemma": "Kissoetioi",
+    "lemma": "Κισσοέτιοι",
     "previous": "Kissios",
     "next": "Kissokomas",
-    "short_description": "Zweifelhafte Lesart für die Knosier s. Knosos",
+    "sort_key": "Kissoetioi",
+    "proof_read": 2,
+    "short_description": "zweifelhafte Lesart für die Knosier, s. Knosos",
     "chapters": [
       {
         "start": 522,
-        "author": "Bürchner"
+        "end": 522,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kissokomas",
-    "previous": "Kissoetioi",
+    "previous": "Κισσοέτιοι",
     "next": "Kissos 1",
+    "proof_read": 2,
     "short_description": "Epiklesis des Dionysos",
     "chapters": [
       {
         "start": 522,
-        "author": "Adler"
+        "end": 522,
+        "author": "Adler."
       }
     ]
   },
@@ -9723,11 +9765,13 @@
     "lemma": "Kissos 1",
     "previous": "Kissokomas",
     "next": "Kissos 2",
+    "proof_read": 0,
     "short_description": "Kultname des Dionysos Melpomenos in Acharnai",
     "chapters": [
       {
         "start": 522,
-        "author": "Adler"
+        "end": 522,
+        "author": "Adler."
       }
     ]
   },
@@ -9735,11 +9779,13 @@
     "lemma": "Kissos 2",
     "previous": "Kissos 1",
     "next": "Kissos 3",
-    "short_description": "Gebirge östl. von Thessalonike",
+    "proof_read": 0,
+    "short_description": "Gebirge östlich von Thessalonike",
     "chapters": [
       {
         "start": 522,
-        "author": "Oberhummer"
+        "end": 522,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9747,11 +9793,13 @@
     "lemma": "Kissos 3",
     "previous": "Kissos 2",
     "next": "Kissos 4",
+    "proof_read": 2,
     "short_description": "Stadt bei Nr. 2",
     "chapters": [
       {
         "start": 522,
-        "author": "Oberhummer"
+        "end": 522,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9759,28 +9807,32 @@
     "lemma": "Kissos 4",
     "previous": "Kissos 3",
     "next": "Kissos 5",
-    "short_description": "Phrourion Thrakes",
+    "proof_read": 2,
+    "short_description": "Festung in Thrakien",
     "chapters": [
       {
         "start": 522,
-        "author": "Bürchner"
+        "end": 522,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kissos 5",
     "previous": "Kissos 4",
-    "next": "Kissotomoi",
-    "short_description": "Flüßchen bei Tomaris",
+    "next": "Κισσοτόμοι",
+    "proof_read": 0,
+    "short_description": "Flüßchen bei Tomaris, nordwestlich von Thyateira",
     "chapters": [
       {
         "start": 522,
-        "author": "Bürchner"
+        "end": 522,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kissotomoi",
+    "lemma": "Κισσοτόμοι",
     "previous": "Kissos 5",
     "next": "Kissus",
     "short_description": "Fest in Phlius",
@@ -9793,13 +9845,15 @@
   },
   {
     "lemma": "Kissus",
-    "previous": "Kissotomoi",
+    "previous": "Κισσοτόμοι",
     "next": "Kissusa",
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Hafenort im Ionien",
     "chapters": [
       {
         "start": 522,
-        "author": "Bürchner"
+        "end": 522,
+        "author": "Bürchner."
       }
     ]
   },
@@ -9807,49 +9861,70 @@
     "lemma": "Kissusa",
     "previous": "Kissus",
     "next": "Kissybion",
+    "proof_read": 0,
     "short_description": "Quelle bei Haliartos",
     "chapters": [
       {
         "start": 522,
         "end": 523,
-        "author": "Bölte"
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Kissybion",
     "previous": "Kissusa",
-    "next": "Kisthaion",
+    "next": "Κισθαῖον",
+    "proof_read": 0,
     "short_description": "Name eines Trinkbechers",
     "chapters": [
       {
         "start": 523,
-        "author": "Frankenstein"
+        "end": 523,
+        "author": "Frankenstein."
       }
     ]
   },
   {
-    "lemma": "Kisthaion",
+    "lemma": "Κισθαῖον",
     "previous": "Kissybion",
-    "next": "Kisthene 1",
+    "next": "Kisthene",
+    "sort_key": "Kisthaion, to",
+    "proof_read": 2,
     "short_description": "Flur der Stadt Karthaia auf Keos",
     "chapters": [
       {
         "start": 523,
-        "author": "Bürchner"
+        "end": 523,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Kisthene",
+    "previous": "Κισθαῖον",
+    "next": "Kisthene 1",
+    "proof_read": 0,
+    "short_description": "Name",
+    "chapters": [
+      {
+        "start": 523,
+        "end": 524,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kisthene 1",
-    "previous": "Kisthaion",
+    "previous": "Kisthene",
     "next": "Kisthene 2",
+    "proof_read": 0,
     "short_description": "Städtchen in Mysien",
     "chapters": [
       {
-        "start": 523,
+        "start": 524,
         "end": 524,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -9857,65 +9932,78 @@
     "lemma": "Kisthene 2",
     "previous": "Kisthene 1",
     "next": "Kisthene 3",
-    "short_description": "Aischyl. Prom. 792",
+    "proof_read": 0,
+    "short_description": "Wohnsitze der Gorgonen nach Aischylos",
     "chapters": [
       {
         "start": 524,
-        "author": "Fischer"
+        "end": 524,
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Kisthene 3",
     "previous": "Kisthene 2",
-    "next": "Kistidizos",
+    "next": "Κιστίδιζος",
+    "proof_read": 0,
     "short_description": "Insel an der lykischen Küste",
     "chapters": [
       {
         "start": 524,
-        "author": "Ruge"
+        "end": 524,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Kistidizos",
+    "lemma": "Κιστίδιζος",
     "previous": "Kisthene 3",
     "next": "Kistobokoi",
+    "sort_key": "Kistidizos",
+    "proof_read": 2,
     "short_description": "Kastell in Moesia inferior",
     "chapters": [
       {
         "start": 524,
-        "author": "Fluss"
+        "end": 524,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Kistobokoi",
-    "previous": "Kistidizos",
+    "previous": "Κιστίδιζος",
     "next": "Kistophoren",
-    "short_description": "Völkerschaft im Norden Dakiens",
+    "proof_read": 2,
+    "short_description": "Völkerschaft",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 524,
-        "author": "Lackeit"
+        "end": 524,
+        "author": "Lackeit."
       }
     ]
   },
   {
     "lemma": "Kistophoren",
     "previous": "Kistobokoi",
-    "next": "Kitamon",
+    "next": "Κίταμον",
+    "proof_read": 0,
     "short_description": "Silbermünzen",
+    "wp_link": "w:de:Cistophor",
+    "wd_link": "d:Q747909",
     "chapters": [
       {
         "start": 524,
         "end": 526,
-        "author": "Schmidt, Max C[arl] P[aul]"
+        "author": "M. C. P. Schmidt."
       }
     ]
   },
   {
-    "lemma": "Kitamon",
+    "lemma": "Κίταμον",
     "previous": "Kistophoren",
     "next": "Kithai",
     "short_description": "Ort",
@@ -9928,13 +10016,15 @@
   },
   {
     "lemma": "Kithai",
-    "previous": "Kitamon",
+    "previous": "Κίταμον",
     "next": "Kithairon 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 526,
-        "author": "Oberhummer"
+        "end": 526,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9968,11 +10058,13 @@
     "lemma": "Kithaironia",
     "previous": "Kithairon 2",
     "next": "Kithaironios",
+    "proof_read": 0,
     "short_description": "Epiklesis der Hera",
     "chapters": [
       {
         "start": 527,
-        "author": "Adler"
+        "end": 527,
+        "author": "Adler."
       }
     ]
   },
@@ -9980,11 +10072,13 @@
     "lemma": "Kithaironios",
     "previous": "Kithaironia",
     "next": "Kithara 1",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
         "start": 527,
-        "author": "Adler"
+        "end": 527,
+        "author": "Adler."
       }
     ]
   },
@@ -10007,12 +10101,13 @@
     "lemma": "Kithara 2",
     "previous": "Kithara 1",
     "next": "Κιθαρηφόροι",
+    "proof_read": 0,
     "short_description": "Sternbild",
     "chapters": [
       {
         "start": 527,
         "end": 528,
-        "author": "Gundel, Wilhelm"
+        "author": "Gundel."
       }
     ]
   },
@@ -10051,11 +10146,14 @@
     "lemma": "Κιθαρίζων",
     "previous": "Kitharistes",
     "next": "Κιθαρῳδία",
+    "sort_key": "Kitharizon",
+    "proof_read": 0,
     "short_description": "Bergige Gegend der armenischen Landschaft Asthianene",
     "chapters": [
       {
         "start": 530,
-        "author": "Weissbach"
+        "end": 530,
+        "author": "Weissbach."
       }
     ]
   },
@@ -10080,12 +10178,13 @@
     "lemma": "Kithibanitai",
     "previous": "Κιθαρῳδία",
     "next": "Κιθινάς",
+    "proof_read": 0,
     "short_description": "Bewohner des Landes Kitibaina am persischen Golf",
     "chapters": [
       {
         "start": 534,
         "end": 535,
-        "author": "Moritz, [Bernhard]"
+        "author": "Moritz."
       }
     ]
   },
@@ -10107,7 +10206,7 @@
   {
     "lemma": "Kithonea",
     "previous": "Κιθινάς",
-    "next": "Kithos",
+    "next": "Κίθος",
     "proof_read": 2,
     "short_description": "Epiklesis der Artemis",
     "chapters": [
@@ -10119,27 +10218,32 @@
     ]
   },
   {
-    "lemma": "Kithos",
+    "lemma": "Κίθος",
     "previous": "Kithonea",
     "next": "Kition 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 535,
-        "author": "Bürchner"
+        "end": 535,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kition 1",
-    "previous": "Kithos",
+    "previous": "Κίθος",
     "next": "Kition 2",
+    "proof_read": 0,
     "short_description": "Stadt auf Zypern",
+    "wp_link": "w:de:Kition (Königreich)",
+    "wd_link": "d:Q1743884",
     "chapters": [
       {
         "start": 535,
         "end": 545,
-        "author": "Bürchner"
+        "author": "Oberhummer."
       }
     ]
   },
@@ -10147,11 +10251,13 @@
     "lemma": "Kition 2",
     "previous": "Kition 1",
     "next": "Κιτών",
+    "proof_read": 0,
     "short_description": "Stadt in Makedonien",
     "chapters": [
       {
         "start": 545,
-        "author": "Oberhummer"
+        "end": 545,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -10160,7 +10266,7 @@
     "previous": "Kition 2",
     "next": "Kittos",
     "sort_key": "Kiton",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Flüßchen bei Milet",
     "chapters": [
       {
@@ -10271,18 +10377,20 @@
     "lemma": "Klaikophoros",
     "previous": "Klaia",
     "next": "Klaion",
+    "proof_read": 0,
     "short_description": "Heros der Tempelbedienten",
     "chapters": [
       {
         "start": 546,
-        "author": "Adler"
+        "end": 546,
+        "author": "Adler."
       }
     ]
   },
   {
     "lemma": "Klaion",
     "previous": "Klaikophoros",
-    "next": "Klamadon",
+    "next": "Κλαμαδόν",
     "proof_read": 2,
     "short_description": "Quelle bei Apameia in Phrygien",
     "chapters": [
@@ -10294,26 +10402,32 @@
     ]
   },
   {
-    "lemma": "Klamadon",
+    "lemma": "Κλαμαδόν",
     "previous": "Klaion",
     "next": "Klaneos",
+    "proof_read": 2,
     "short_description": "Flur des Kleomedes auf Samos",
     "chapters": [
       {
         "start": 547,
-        "author": "Bürchner"
+        "end": 547,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Klaneos",
-    "previous": "Klamadon",
+    "previous": "Κλαμαδόν",
     "next": "Klanudda",
+    "proof_read": 0,
     "short_description": "Bischofssitz in Galatia Salutaris",
+    "wp_link": "w:de:Klaneos",
+    "wd_link": "d:Q125992985",
     "chapters": [
       {
         "start": 547,
-        "author": "Ruge"
+        "end": 547,
+        "author": "Ruge."
       }
     ]
   },
@@ -10321,11 +10435,13 @@
     "lemma": "Klanudda",
     "previous": "Klaneos",
     "next": "Klaria",
-    "short_description": "Ort",
+    "proof_read": 0,
+    "short_description": "Ort in Lydien",
     "chapters": [
       {
         "start": 547,
-        "author": "Bürchner"
+        "end": 547,
+        "author": "Bürchner."
       }
     ]
   },
@@ -10333,11 +10449,13 @@
     "lemma": "Klaria",
     "previous": "Klanudda",
     "next": "Klarion 1",
+    "proof_read": 0,
     "short_description": "Epiklesis der Artemis",
     "chapters": [
       {
         "start": 547,
-        "author": "Adler"
+        "end": 547,
+        "author": "Adler."
       }
     ]
   },
@@ -10345,12 +10463,13 @@
     "lemma": "Klarion 1",
     "previous": "Klaria",
     "next": "Klarion 2",
+    "proof_read": 0,
     "short_description": "Kalendermonat in Ephesos",
     "chapters": [
       {
         "start": 547,
         "end": 548,
-        "author": "Bischoff, [Ernst]"
+        "author": "Bischoff."
       }
     ]
   },
@@ -10358,11 +10477,13 @@
     "lemma": "Klarion 2",
     "previous": "Klarion 1",
     "next": "Klarios 1",
+    "proof_read": 2,
     "short_description": "Orakeltempel des Apollon bei Klaros in Ionien",
     "chapters": [
       {
         "start": 548,
-        "author": "Bürchner"
+        "end": 548,
+        "author": "Bürchner."
       }
     ]
   },
@@ -10370,12 +10491,13 @@
     "lemma": "Klarios 1",
     "previous": "Klarion 2",
     "next": "Klarios 2",
+    "proof_read": 0,
     "short_description": "Epiklesis des Apollon",
     "chapters": [
       {
         "start": 548,
         "end": 552,
-        "author": "Adler"
+        "author": "Adler."
       }
     ]
   },
@@ -10383,45 +10505,51 @@
     "lemma": "Klarios 2",
     "previous": "Klarios 1",
     "next": "Klaros",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
         "start": 552,
-        "author": "Adler"
+        "end": 552,
+        "author": "Adler."
       }
     ]
   },
   {
     "lemma": "Klaros",
     "previous": "Klarios 2",
-    "next": "Klarotai",
+    "next": "Κλαρῶται",
+    "proof_read": 0,
     "short_description": "Siedlung mit Orakelstätte des Apollon bei Kolophon",
     "chapters": [
       {
         "start": 552,
         "end": 553,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Klarotai",
+    "lemma": "Κλαρῶται",
     "previous": "Klaros",
     "next": "Κλάσα",
+    "sort_key": "Klarotai",
+    "proof_read": 0,
     "short_description": "Hörige der kretischen Herren",
     "chapters": [
       {
         "start": 553,
-        "author": "Oehler, J[ohann]"
+        "end": 553,
+        "author": "J. Oehler."
       }
     ]
   },
   {
     "lemma": "Κλάσα",
-    "previous": "Klarotai",
+    "previous": "Κλαρῶται",
     "next": "Klaseas",
     "sort_key": "Klasa",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Demos der Stadt Lindos",
     "chapters": [
       {
@@ -10435,7 +10563,7 @@
     "lemma": "Klaseas",
     "previous": "Κλάσα",
     "next": "Κλαστάνις",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Bach durch Ephesos",
     "chapters": [
       {
@@ -10448,10 +10576,10 @@
   {
     "lemma": "Κλαστάνις",
     "previous": "Klaseas",
-    "next": "Klauda",
+    "next": "Κλαῦδα",
     "sort_key": "Klastanis",
-    "proof_read": 2,
-    "short_description": "Ortsname",
+    "proof_read": 3,
+    "short_description": "Dorf bei Tralleis in Lydien",
     "chapters": [
       {
         "start": 553,
@@ -10461,27 +10589,31 @@
     ]
   },
   {
-    "lemma": "Klauda",
+    "lemma": "Κλαῦδα",
     "previous": "Κλαστάνις",
     "next": "Klaudianos",
-    "short_description": "Inselchen südl. von Kreta",
+    "sort_key": "Klauda",
+    "proof_read": 0,
+    "short_description": "Inselchen südlich von Kreta",
     "chapters": [
       {
         "start": 553,
         "end": 554,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Klaudianos",
-    "previous": "Klauda",
+    "previous": "Κλαῦδα",
     "next": "Klaudieos",
+    "proof_read": 0,
     "short_description": "Neuplatonischer Philosoph",
     "chapters": [
       {
         "start": 554,
-        "author": "Praechter"
+        "end": 554,
+        "author": "Praechter."
       }
     ]
   },
@@ -10489,7 +10621,7 @@
     "lemma": "Klaudieos",
     "previous": "Klaudianos",
     "next": "Klaudios 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Monatsname im Kalender von Aphrodisias",
     "chapters": [
       {
@@ -10571,43 +10703,52 @@
   {
     "lemma": "Klazomenai",
     "previous": "Κλαυνδῆς",
-    "next": "Klazomenia he chora",
+    "next": "Κλαζομενία ἡ χώρα",
+    "proof_read": 0,
     "short_description": "Stadt im kleinasiatischen Ionien",
+    "wp_link": "w:de:Klazomenai",
+    "wd_link": "d:Q536598",
     "chapters": [
       {
         "start": 554,
         "end": 556,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Klazomenia he chora",
+    "lemma": "Κλαζομενία ἡ χώρα",
     "previous": "Klazomenai",
-    "next": "Kle(...)",
+    "next": "Κλη(...)",
+    "sort_key": "Klazomeniahechora",
+    "proof_read": 0,
     "short_description": "Gebiet von Klazomenai",
     "chapters": [
       {
         "start": 556,
-        "author": "Bürchner"
+        "end": 556,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kle(...)",
-    "previous": "Klazomenia he chora",
+    "lemma": "Κλη(...)",
+    "previous": "Κλαζομενία ἡ χώρα",
     "next": "Kleagoras",
-    "short_description": "Person",
+    "sort_key": "Kle(...)",
+    "proof_read": 2,
+    "short_description": "Münzstempelschneider in Thermai",
     "chapters": [
       {
         "start": 556,
-        "author": "Regling"
+        "end": 556,
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Kleagoras",
-    "previous": "Kle(...)",
+    "previous": "Κλη(...)",
     "next": "Kleainetos 1",
     "short_description": "Vater des Sehers Eukleides von Phlius",
     "chapters": [
@@ -11252,12 +11393,13 @@
     "lemma": "Kleinias 1",
     "previous": "Kleinias",
     "next": "Kleinias 2",
+    "proof_read": 0,
     "short_description": "Freund Solons",
     "chapters": [
       {
         "start": 615,
         "end": 616,
-        "author": "Swoboda, [Heinrich]"
+        "author": "Swoboda."
       }
     ]
   },
@@ -13127,7 +13269,7 @@
   },
   {
     "lemma": "Kleomedon",
-    "previous": "Kleomedes von Astypalaia 4",
+    "previous": "Kleomedes 4",
     "next": "Kleomelos",
     "proof_read": 2,
     "short_description": "Person",
