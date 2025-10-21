@@ -651,7 +651,7 @@
   {
     "lemma": "Καυνίων Πάνορμος",
     "previous": "Kaunias",
-    "next": "Kaunos",
+    "next": "Kaunos 1",
     "sort_key": "Kaunion",
     "proof_read": 3,
     "short_description": "Hafenbucht von Kaunos",
@@ -778,7 +778,7 @@
   {
     "lemma": "Kausatha",
     "previous": "Kausantha",
-    "next": "Καυσία",
+    "next": "Kausia",
     "proof_read": 0,
     "short_description": "Teich oder See in Tyros?",
     "chapters": [
@@ -790,7 +790,7 @@
     ]
   },
   {
-    "lemma": "Καυσία",
+    "lemma": "Kausia",
     "previous": "Kausatha",
     "next": "Kausios",
     "short_description": "Breiter Filzhut",
@@ -804,7 +804,7 @@
   },
   {
     "lemma": "Kausios",
-    "previous": "Καυσία",
+    "previous": "Kausia",
     "next": "Kaustis",
     "proof_read": 2,
     "short_description": "Epiklesis des Asklepios",
@@ -3499,7 +3499,7 @@
   },
   {
     "lemma": "Kephisodoros 1",
-    "previous": "Κηφισὶς λίμνη",
+    "previous": "Kephisis limen",
     "next": "Kephisodoros 2",
     "proof_read": 2,
     "short_description": "Athenischer Archon 366/365 v. Chr.",
@@ -4127,7 +4127,7 @@
   {
     "lemma": "Κῆπος",
     "previous": "Κῆποι 3",
-    "next": "Κεπουροί",
+    "next": "Κηπουροί",
     "sort_key": "Kepos",
     "redirect": true,
     "proof_read": 2,
@@ -4139,7 +4139,7 @@
     ]
   },
   {
-    "lemma": "Κεπουροί",
+    "lemma": "Κηπουροί",
     "previous": "Κῆπος",
     "next": "Κεπρανός",
     "sort_key": "Kepuroi",
@@ -4155,7 +4155,7 @@
   },
   {
     "lemma": "Κεπρανός",
-    "previous": "Κεπουροί",
+    "previous": "Κηπουροί",
     "next": "Κεπρήλων Νέων",
     "sort_key": "Kepranos",
     "proof_read": 2,
@@ -9989,7 +9989,7 @@
   {
     "lemma": "Kistophoren",
     "previous": "Kistobokoi",
-    "next": "Κίταμον",
+    "next": "Kistos",
     "proof_read": 0,
     "short_description": "Silbermünzen",
     "wp_link": "w:de:Cistophor",
@@ -9997,6 +9997,19 @@
     "chapters": [
       {
         "start": 524,
+        "end": 525,
+        "author": "M. C. P. Schmidt."
+      }
+    ]
+  },
+  {
+    "lemma": "Kistos",
+    "previous": "Kistophoren",
+    "next": "Κίταμον",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 525,
         "end": 526,
         "author": "M. C. P. Schmidt."
       }
@@ -10004,13 +10017,16 @@
   },
   {
     "lemma": "Κίταμον",
-    "previous": "Kistophoren",
+    "previous": "Kistos",
     "next": "Kithai",
+    "sort_key": "Kitamon",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 526,
-        "author": "Weissbach"
+        "end": 526,
+        "author": "Weissbach."
       }
     ]
   },
@@ -10972,11 +10988,13 @@
     "lemma": "Kleanthes 3",
     "previous": "Kleanthes 2",
     "next": "Kleanthes 4",
-    "short_description": "von Tarent Spaßmacher",
+    "proof_read": 0,
+    "short_description": "von Tarent, Spaßmacher",
     "chapters": [
       {
         "start": 574,
-        "author": "Warnecke"
+        "end": 574,
+        "author": "Warnecke."
       }
     ]
   },
@@ -10984,12 +11002,13 @@
     "lemma": "Kleanthes 4",
     "previous": "Kleanthes 3",
     "next": "Klearchos 1",
-    "short_description": "von Korinth Maler",
+    "proof_read": 0,
+    "short_description": "von Korinth, Maler",
     "chapters": [
       {
         "start": 574,
         "end": 575,
-        "author": "Lippold, Georg"
+        "author": "Lippold."
       }
     ]
   },
@@ -10997,11 +11016,13 @@
     "lemma": "Klearchos 1",
     "previous": "Kleanthes 4",
     "next": "Klearchos 2",
+    "proof_read": 0,
     "short_description": "Athenischer Archon 301/300 v. Chr.",
     "chapters": [
       {
         "start": 575,
-        "author": "Kirchner"
+        "end": 575,
+        "author": "Kirchner."
       }
     ]
   },
