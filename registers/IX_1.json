@@ -1918,7 +1918,6 @@
   },
   {
     "lemma": "Hyktanis",
-    "previous": "Hyksos",
     "next": "Hyla",
     "proof_read": 0,
     "short_description": "Fluß Karmaniens",
@@ -1932,7 +1931,6 @@
   },
   {
     "lemma": "Hyla",
-    "previous": "Hyksos",
     "next": "Hyla 1",
     "proof_read": 2,
     "short_description": "Name für Städte, Örtlichkeiten, Quellen in verschiedenen Gegenden der Ägäis",
@@ -3093,20 +3091,7 @@
       }
     ]
   },
-  {
-    "lemma": "Hyparchos",
-    "previous": "Ὑπαρνά",
-    "next": "Hypasioi",
-    "redirect": "Hypobaros",
-    "proof_read": 3,
-    "chapters": [
-      {
-        "start": 230,
-        "end": 230
-      }
-    ]
-  },
-  {
+    {
     "lemma": "Ὑπαρνά",
     "previous": "Hypanis 4",
     "next": "Hyparchos",
@@ -3118,6 +3103,19 @@
         "start": 230,
         "end": 230,
         "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Hyparchos",
+    "previous": "Ὑπαρνά",
+    "next": "Hypasioi",
+    "redirect": "Hypobaros",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 230,
+        "end": 230
       }
     ]
   },
