@@ -509,6 +509,9 @@
     ]
   },
   {
+        "lemma": "Kaukon"
+  },
+  {
     "lemma": "Kaukon 1",
     "previous": "Kaukon",
     "next": "Kaukon 2",
@@ -4208,7 +4211,6 @@
   {
     "lemma": "Κεπρήλων Νέων",
     "previous": "Κεπρανός",
-    "next": "Keraeitai",
     "sort_key": "Keprelon Neon",
     "redirect": "Kestroi",
     "proof_read": 2,
@@ -4218,6 +4220,9 @@
         "end": 252
       }
     ]
+  },
+  {
+    "lemma": "Ker"
   },
   {
     "lemma": "Keraeitai",
@@ -7533,20 +7538,6 @@
     ]
   },
   {
-    "lemma": "Kilix 1",
-    "previous": "Kilistra",
-    "next": "Kilix 2",
-    "proof_read": 0,
-    "short_description": "Eponymos der Kilikier",
-    "chapters": [
-      {
-        "start": 390,
-        "end": 391,
-        "author": "v. Geisau."
-      }
-    ]
-  },
-  {
     "lemma": "Κιλίκιος Αὐλών",
     "previous": "Κιλίκιαι πύλαι 2",
     "next": "Κιλίκων νῆσος",
@@ -7589,6 +7580,9 @@
         "author": "Ruge."
       }
     ]
+  },
+  {
+    "lemma": "Kilix 1"
   },
   {
     "lemma": "Kilix 2",
@@ -9766,18 +9760,6 @@
         "start": 519,
         "end": 521,
         "author": "Weissbach."
-      }
-    ]
-  },
-  {
-    "lemma": "Kissia",
-    "next": "Κίσσιαι πύλαι",
-    "short_description": "Benennung von Elam bei Herodot",
-    "chapters": [
-      {
-        "start": 519,
-        "end": 521,
-        "author": "Weissbach"
       }
     ]
   },
@@ -15178,18 +15160,6 @@
     ]
   },
   {
-    "lemma": "Kleoxenos aus Alexandreia 1",
-    "previous": "Kleoxenos 2",
-    "next": "Klepsydra 1",
-    "short_description": "Olympionike",
-    "chapters": [
-      {
-        "start": 807,
-        "author": "Honigmann"
-      }
-    ]
-  },
-  {
     "lemma": "Klepsydra 1",
     "previous": "Kleoxenos 2",
     "next": "Klepsydra 2",
@@ -15594,7 +15564,6 @@
   {
     "lemma": "Kleudoros",
     "previous": "Kleuas",
-    "next": "Klaumachos",
     "proof_read": 0,
     "short_description": "Person",
     "chapters": [
@@ -15606,22 +15575,7 @@
     ]
   },
   {
-    "lemma": "Klevicha",
-    "previous": "Kleustia",
-    "next": "Klibanos",
-    "proof_read": 0,
-    "short_description": "Weiblicher Lieblingsname auf einem schwarzfig. böotischen Skyphos in Athen",
-    "chapters": [
-      {
-        "start": 837,
-        "end": 838,
-        "author": "Leonard."
-      }
-    ]
-  },
-  {
     "lemma": "Kleumachos",
-    "previous": "Klevicha",
     "next": "Kleustia",
     "proof_read": 2,
     "short_description": "Person",
@@ -15636,7 +15590,6 @@
   {
     "lemma": "Kleustia",
     "previous": "Kleumachos",
-    "next": "Klibanos",
     "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
@@ -15647,9 +15600,22 @@
       }
     ]
   },
+    {
+    "lemma": "Klevicha",
+    "previous": "Kleustia",
+    "next": "Klibanos",
+    "proof_read": 0,
+    "short_description": "Weiblicher Lieblingsname auf einem schwarzfig. böotischen Skyphos in Athen",
+    "chapters": [
+      {
+        "start": 837,
+        "end": 838,
+        "author": "Leonard."
+      }
+    ]
+  },
   {
     "lemma": "Klibanos",
-    "previous": "Kleustia",
     "next": "Klicherios",
     "redirect": "Bäckerei",
     "proof_read": 2,
