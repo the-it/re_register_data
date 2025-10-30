@@ -509,7 +509,19 @@
     ]
   },
   {
-        "lemma": "Kaukon"
+    "lemma": "Kaukon",
+    "previous": "Καύκασος 4",
+    "next": "Kaukon 1",
+    "sort_key": "Kaukasos 4",
+    "proof_read": 3,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 63,
+        "end": 63,
+        "author": "Bölte."
+      }
+    ]
   },
   {
     "lemma": "Kaukon 1",
@@ -4211,6 +4223,7 @@
   {
     "lemma": "Κεπρήλων Νέων",
     "previous": "Κεπρανός",
+    "next": "Ker",
     "sort_key": "Keprelon Neon",
     "redirect": "Kestroi",
     "proof_read": 2,
@@ -4222,7 +4235,8 @@
     ]
   },
   {
-    "lemma": "Ker"
+    "lemma": "Ker",
+    "previous": "Κεπρήλων Νέων"
   },
   {
     "lemma": "Keraeitai",
@@ -7582,7 +7596,18 @@
     ]
   },
   {
-    "lemma": "Kilix 1"
+    "lemma": "Kilix 1",
+    "previous": "Kilistra",
+    "next": "Kilix 2",
+    "proof_read": 0,
+    "short_description": "Eponymos der Kilikier",
+    "chapters": [
+      {
+        "start": 390,
+        "end": 391,
+        "author": "v. Geisau."
+      }
+    ]
   },
   {
     "lemma": "Kilix 2",
@@ -15306,7 +15331,7 @@
     "previous": "Κληρωτοὶ Πυθαϊσταί",
     "next": "Κληροῦν",
     "proof_read": 0,
-    "short_description": "Athenische Kolonisten, die ein Stück Land durch Los erhielten",
+    "short_description": "Athenische Kolonisten mit Landstück, aus Los erhalten",
     "chapters": [
       {
         "start": 814,
@@ -15564,6 +15589,7 @@
   {
     "lemma": "Kleudoros",
     "previous": "Kleuas",
+    "next": "Kleumachos",
     "proof_read": 0,
     "short_description": "Person",
     "chapters": [
@@ -15576,6 +15602,7 @@
   },
   {
     "lemma": "Kleumachos",
+    "previous": "Kleudoros",
     "next": "Kleustia",
     "proof_read": 2,
     "short_description": "Person",
@@ -15590,6 +15617,7 @@
   {
     "lemma": "Kleustia",
     "previous": "Kleumachos",
+    "next": "Klevicha",
     "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
@@ -15600,7 +15628,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Klevicha",
     "previous": "Kleustia",
     "next": "Klibanos",
@@ -15616,6 +15644,7 @@
   },
   {
     "lemma": "Klibanos",
+    "previous": "Klevicha",
     "next": "Klicherios",
     "redirect": "Bäckerei",
     "proof_read": 2,
@@ -16438,11 +16467,13 @@
     "lemma": "Klymenos 2",
     "previous": "Klymenos 1",
     "next": "Klymenos 3",
+    "proof_read": 0,
     "short_description": "Sohn des Teleos",
     "chapters": [
       {
         "start": 880,
-        "author": "Latte"
+        "end": 880,
+        "author": "Latte."
       }
     ]
   },
@@ -16450,12 +16481,13 @@
     "lemma": "Klymenos 3",
     "previous": "Klymenos 2",
     "next": "Klymenos 4",
+    "proof_read": 0,
     "short_description": "Sohn des Presbon",
     "chapters": [
       {
         "start": 880,
         "end": 881,
-        "author": "Latte"
+        "author": "Latte."
       }
     ]
   },
@@ -16559,11 +16591,13 @@
     "lemma": "Klymenos 10",
     "previous": "Klymenos 9",
     "next": "Klymenos 11",
+    "proof_read": 0,
     "short_description": "Freier der Penelope",
     "chapters": [
       {
         "start": 881,
-        "author": "Latte"
+        "end": 881,
+        "author": "Latte."
       }
     ]
   },
@@ -16625,7 +16659,7 @@
   {
     "lemma": "Klytaimestra",
     "previous": "Κλυστήρ",
-    "next": "Klytia, Klytie",
+    "next": "Klytia, Klytie 1",
     "proof_read": 0,
     "short_description": "Gattin des Agamemnon",
     "chapters": [
@@ -16652,12 +16686,14 @@
     "lemma": "Klytia, Klytie 2",
     "previous": "Klytia, Klytie 1",
     "next": "Klytia, Klytie 3",
+    "sort_key": "Klytia,klytie 2",
+    "proof_read": 0,
     "short_description": "Geliebte des Helios-Apollon",
     "chapters": [
       {
         "start": 893,
         "end": 894,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -16665,11 +16701,14 @@
     "lemma": "Klytia, Klytie 3",
     "previous": "Klytia, Klytie 2",
     "next": "Klytia, Klytie 4",
+    "sort_key": "Klytia,klytie 3",
+    "proof_read": 0,
     "short_description": "Tochter des Pandareos",
     "chapters": [
       {
         "start": 894,
-        "author": "Geisau"
+        "end": 894,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -16677,11 +16716,14 @@
     "lemma": "Klytia, Klytie 4",
     "previous": "Klytia, Klytie 3",
     "next": "Klytia, Klytie 5",
+    "sort_key": "Klytia,klytie 4",
+    "proof_read": 0,
     "short_description": "Tochter des Merops",
     "chapters": [
       {
         "start": 894,
-        "author": "Geisau"
+        "end": 894,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -16689,11 +16731,14 @@
     "lemma": "Klytia, Klytie 5",
     "previous": "Klytia, Klytie 4",
     "next": "Klytia, Klytie 6",
+    "sort_key": "Klytia,klytie 5",
+    "proof_read": 0,
     "short_description": "Tochter des Amphidamas",
     "chapters": [
       {
         "start": 894,
-        "author": "Geisau"
+        "end": 894,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -16859,11 +16904,13 @@
     "lemma": "Klytios 2",
     "previous": "Klytios 1",
     "next": "Klytios 3",
+    "proof_read": 0,
     "short_description": "Bruder des Priamos",
     "chapters": [
       {
         "start": 895,
-        "author": "Geisau"
+        "end": 895,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -16966,11 +17013,13 @@
     "lemma": "Klytios 9",
     "previous": "Klytios 8",
     "next": "Klytios 10",
+    "proof_read": 0,
     "short_description": "Triphyle, identifiziert mit dem Ahnherrn des olympischen Sehergeschlechts der",
     "chapters": [
       {
         "start": 895,
-        "author": "Geisau"
+        "end": 895,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -16994,11 +17043,13 @@
     "lemma": "Klytios 11",
     "previous": "Klytios 10",
     "next": "Klytios 12",
+    "proof_read": 0,
     "short_description": "Argonaut, Sohn des Eurytos von Oichalia und der Antiope",
     "chapters": [
       {
         "start": 895,
-        "author": "Geisau"
+        "end": 895,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -17006,11 +17057,13 @@
     "lemma": "Klytios 12",
     "previous": "Klytios 11",
     "next": "Klytios 13",
+    "proof_read": 0,
     "short_description": "Fiel im Kampf des Eumolpos gegen Eleusis",
     "chapters": [
       {
         "start": 895,
-        "author": "Geisau"
+        "end": 895,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -17018,11 +17071,13 @@
     "lemma": "Klytios 13",
     "previous": "Klytios 12",
     "next": "Klytios 14",
+    "proof_read": 0,
     "short_description": "Tötete mit seinem Bruder Polymedes die neue phrygische Gemahlin des Pinheus",
     "chapters": [
       {
         "start": 895,
-        "author": "Geisau"
+        "end": 895,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -17046,12 +17101,13 @@
     "lemma": "Klytios 15",
     "previous": "Klytios 14",
     "next": "Klytios 16",
+    "proof_read": 0,
     "short_description": "Sohn des Naubolos, Vater des Nauplios von Argos",
     "chapters": [
       {
         "start": 895,
         "end": 896,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -17294,11 +17350,13 @@
     "lemma": "Klytos 1",
     "previous": "Klytonymos",
     "next": "Klytos 2",
+    "proof_read": 0,
     "short_description": "Sohn des Aigyptos",
     "chapters": [
       {
         "start": 896,
-        "author": "Geisau"
+        "end": 896,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -17336,11 +17394,13 @@
     "lemma": "Klytos 4",
     "previous": "Klytos 3",
     "next": "Klytos 5",
+    "proof_read": 0,
     "short_description": "Sohn des Atheners Pallas",
     "chapters": [
       {
         "start": 897,
-        "author": "Geisau"
+        "end": 897,
+        "author": "H. v. Geisau."
       }
     ]
   },
@@ -17348,11 +17408,13 @@
     "lemma": "Klytos 5",
     "previous": "Klytos 4",
     "next": "Klytos 6",
+    "proof_read": 0,
     "short_description": "Troer",
     "chapters": [
       {
         "start": 897,
-        "author": "Geisau"
+        "end": 897,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -17389,11 +17451,13 @@
     "lemma": "Klytos 8",
     "previous": "Klytos 7",
     "next": "Knabenliebe",
+    "proof_read": 0,
     "short_description": "von Milet, Schüler des Aristoteles",
     "chapters": [
       {
         "start": 897,
-        "author": "Jacoby, [Felix]"
+        "end": 897,
+        "author": "F. Jacoby."
       }
     ]
   },
@@ -17762,11 +17826,13 @@
     "lemma": "Knopias",
     "previous": "Knopia",
     "next": "Knopos",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 921,
-        "author": "Schoch"
+        "end": 921,
+        "author": "Schoch."
       }
     ]
   },
@@ -17845,11 +17911,13 @@
     "lemma": "Knossos",
     "previous": "Knosos",
     "next": "Knuteina",
+    "proof_read": 0,
     "short_description": "Verfasser einer Geographie Asiens",
     "chapters": [
       {
         "start": 929,
-        "author": "Jacoby, [Felix]"
+        "end": 929,
+        "author": "F. Jacoby."
       }
     ]
   },
@@ -19026,12 +19094,13 @@
     "lemma": "Koios 3",
     "previous": "Koios 2",
     "next": "Κοιράνειος ὁ Χῶρος",
+    "proof_read": 0,
     "short_description": "Verfertiger eines Bronzegefäßes",
     "chapters": [
       {
         "start": 1059,
         "end": 1060,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
@@ -19053,7 +19122,7 @@
   {
     "lemma": "Koiraniden",
     "previous": "Κοιράνειος ὁ Χῶρος",
-    "next": "Koiranos 1",
+    "next": "Koiranos",
     "redirect": "Kyraniden",
     "proof_read": 2,
     "chapters": [
@@ -19064,14 +19133,30 @@
     ]
   },
   {
-    "lemma": "Koiranos 1",
+    "lemma": "Koiranos",
     "previous": "Koiraniden",
+    "next": "Koiranos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1060,
+        "end": 1060,
+        "author": "Eitrem."
+      }
+    ]
+  },
+  {
+    "lemma": "Koiranos 1",
+    "previous": "Koiranos",
     "next": "Koiranos 2",
+    "proof_read": 0,
     "short_description": "Vater des Polyeidos",
     "chapters": [
       {
         "start": 1060,
-        "author": "Eitrem"
+        "end": 1060,
+        "author": "Eitrem."
       }
     ]
   },
@@ -19125,11 +19210,13 @@
     "lemma": "Koiranos 5",
     "previous": "Koiranos 4",
     "next": "Koiranos 6",
+    "proof_read": 0,
     "short_description": "Von Odysseus vor Troia getötet",
     "chapters": [
       {
         "start": 1061,
-        "author": "Eitrem"
+        "end": 1061,
+        "author": "Eitrem."
       }
     ]
   },
@@ -19249,11 +19336,13 @@
     "lemma": "Kokalos",
     "previous": "Kokalia",
     "next": "Κοκκολόγος",
+    "proof_read": 0,
     "short_description": "Mythischer König von Sizilien",
     "chapters": [
       {
         "start": 1062,
-        "author": "Quandt"
+        "end": 1062,
+        "author": "Quandt."
       }
     ]
   },
@@ -19360,11 +19449,13 @@
     "lemma": "Kokondrios",
     "previous": "Kokkygion",
     "next": "Kokkynos",
+    "proof_read": 0,
     "short_description": "Griechischer Rhetor",
     "chapters": [
       {
         "start": 1064,
-        "author": "Gerth"
+        "end": 1064,
+        "author": "Gerth."
       }
     ]
   },
@@ -19483,11 +19574,13 @@
     "lemma": "Kolainos",
     "previous": "Kolainis",
     "next": "Kolaka",
+    "proof_read": 0,
     "short_description": "Vorkekropischer König in Attika",
     "chapters": [
       {
         "start": 1067,
-        "author": "Kern"
+        "end": 1067,
+        "author": "Kern."
       }
     ]
   },
@@ -19546,12 +19639,13 @@
     "lemma": "Kolax",
     "previous": "Kolarina",
     "next": "Kolbasa",
+    "proof_read": 0,
     "short_description": "Spione des Königs",
     "chapters": [
       {
         "start": 1069,
         "end": 1070,
-        "author": "Kroll"
+        "author": "W. Kroll."
       }
     ]
   },
@@ -19621,18 +19715,19 @@
   {
     "lemma": "Kolchos",
     "previous": "Kolchoi",
-    "next": "Kolea",
+    "next": "Κολέα",
+    "proof_read": 0,
     "short_description": "Attischer Vasentöpfer",
     "chapters": [
       {
         "start": 1071,
         "end": 1073,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
   {
-    "lemma": "Kolea",
+    "lemma": "Κολέα",
     "previous": "Kolchos",
     "next": "Koletianoi",
     "short_description": "Ackergewanne bei Tralleis in Lydien",
@@ -19645,7 +19740,7 @@
   },
   {
     "lemma": "Koletianoi",
-    "previous": "Kolea",
+    "previous": "Κολέα",
     "next": "Koli",
     "short_description": "Gemeinde in Pannonia superior",
     "chapters": [
@@ -20430,12 +20525,13 @@
     "lemma": "Kolotes 1",
     "previous": "Kolosseros",
     "next": "Kolotes 2",
+    "proof_read": 0,
     "short_description": "von Lampsakos, Schüler Epikurs",
     "chapters": [
       {
         "start": 1120,
         "end": 1122,
-        "author": "Arnim"
+        "author": "v. Arnim."
       }
     ]
   },
@@ -20443,12 +20539,13 @@
     "lemma": "Kolotes 2",
     "previous": "Kolotes 1",
     "next": "Kolotes 3",
+    "proof_read": 0,
     "short_description": "Bildhauer aus Herakleia",
     "chapters": [
       {
         "start": 1122,
         "end": 1123,
-        "author": "Lippold, Georg"
+        "author": "Lippold."
       }
     ]
   },
@@ -20456,12 +20553,13 @@
     "lemma": "Kolotes 3",
     "previous": "Kolotes 2",
     "next": "Kolotes 4",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 1123,
         "end": 1124,
-        "author": "Lippold, Georg"
+        "author": "Lippold."
       }
     ]
   },
@@ -20469,11 +20567,13 @@
     "lemma": "Kolotes 4",
     "previous": "Kolotes 3",
     "next": "Kolpe",
+    "proof_read": 0,
     "short_description": "aus Teos, Maler",
     "chapters": [
       {
         "start": 1124,
-        "author": "Lippold, Georg"
+        "end": 1124,
+        "author": "Lippold."
       }
     ]
   },
@@ -20570,7 +20670,7 @@
   {
     "lemma": "Kolybrassos",
     "previous": "Kolussa",
-    "next": "Kolyergia",
+    "next": "Κωλυεργία",
     "short_description": "Ort",
     "chapters": [
       {
@@ -20581,7 +20681,7 @@
     ]
   },
   {
-    "lemma": "Kolyergia",
+    "lemma": "Κωλυεργία",
     "previous": "Kolybrassos",
     "next": "Kolymbas",
     "short_description": "Vorgebirge in Argolis",
@@ -20594,18 +20694,20 @@
   },
   {
     "lemma": "Kolymbas",
-    "previous": "Kolyergia",
-    "next": "Komaios",
+    "previous": "Κωλυεργία",
+    "next": "Κωμαῖος",
+    "proof_read": 0,
     "short_description": "Tochter des Pieros",
     "chapters": [
       {
         "start": 1125,
-        "author": "Scherling"
+        "end": 1125,
+        "author": "Scherling."
       }
     ]
   },
   {
-    "lemma": "Komaios",
+    "lemma": "Κωμαῖος",
     "previous": "Kolymbas",
     "next": "Komaitho 1",
     "short_description": "Beiname des Apollon",
@@ -20618,7 +20720,7 @@
   },
   {
     "lemma": "Komaitho 1",
-    "previous": "Komaios",
+    "previous": "Κωμαῖος",
     "next": "Komaitho 2",
     "short_description": "Tochter des myth. Königs Pterelaos",
     "chapters": [
@@ -20748,11 +20850,13 @@
     "lemma": "Komanos 1",
     "previous": "Komanon",
     "next": "Komanos 2",
+    "proof_read": 0,
     "short_description": "Führer im sizilischen Sklavenkrieg",
     "chapters": [
       {
         "start": 1128,
-        "author": "Münzer"
+        "end": 1128,
+        "author": "Münzer."
       }
     ]
   },
@@ -20760,12 +20864,13 @@
     "lemma": "Komanos 2",
     "previous": "Komanos 1",
     "next": "Komar",
+    "proof_read": 0,
     "short_description": "Griechischer Grammatiker",
     "chapters": [
       {
         "start": 1128,
         "end": 1129,
-        "author": "Gudeman"
+        "author": "Gudeman."
       }
     ]
   },
@@ -20799,11 +20904,13 @@
     "lemma": "Komarchos",
     "previous": "Komarches",
     "next": "Komarei",
+    "proof_read": 0,
     "short_description": "Griechischer Historiker",
     "chapters": [
       {
         "start": 1131,
-        "author": "Gudeman"
+        "end": 1131,
+        "author": "Gudeman."
       }
     ]
   },
@@ -20917,19 +21024,20 @@
     "lemma": "Kombabos 1",
     "previous": "Komba",
     "next": "Kombabos 2",
+    "proof_read": 0,
     "short_description": "Erbauer eines Heratempels in Byblos",
     "chapters": [
       {
         "start": 1132,
         "end": 1139,
-        "author": "Ganschinietz"
+        "author": "Ganschinietz."
       }
     ]
   },
   {
     "lemma": "Kombabos 2",
     "previous": "Kombabos 1",
-    "next": "Kombaphis",
+    "next": "Κομβαφις",
     "short_description": "Gattungsname der Gallen, s. Nr. 1",
     "chapters": [
       {
@@ -20939,20 +21047,22 @@
     ]
   },
   {
-    "lemma": "Kombaphis",
+    "lemma": "Κομβαφις",
     "previous": "Kombabos 2",
     "next": "Kombe 1",
+    "proof_read": 0,
     "short_description": "Eunuch des ägyptischen Königs Amyrtaios",
     "chapters": [
       {
         "start": 1139,
-        "author": "Weissbach"
+        "end": 1139,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Kombe 1",
-    "previous": "Kombaphis",
+    "previous": "Κομβαφις",
     "next": "Kombe 2",
     "short_description": "Tochter des Flußgottes Asopos",
     "chapters": [
@@ -21055,17 +21165,19 @@
   {
     "lemma": "Komeas",
     "previous": "Kome Philadelpheon",
-    "next": "Komenioi",
+    "next": "Κομένιοι",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1142,
-        "author": "Kirchner"
+        "end": 1142,
+        "author": "Kirchner."
       }
     ]
   },
   {
-    "lemma": "Komenioi",
+    "lemma": "Κομένιοι",
     "previous": "Komeas",
     "next": "Κόμενοι",
     "short_description": "Melcomannen",
@@ -21078,7 +21190,7 @@
   },
   {
     "lemma": "Κόμενοι",
-    "previous": "Komenioi",
+    "previous": "Κομένιοι",
     "next": "Kometas",
     "sort_key": "Komenoi",
     "redirect": "Komenioi",
@@ -21094,12 +21206,13 @@
     "lemma": "Kometas",
     "previous": "Κόμενοι",
     "next": "Kometen",
+    "proof_read": 0,
     "short_description": "Dichter",
     "chapters": [
       {
         "start": 1142,
         "end": 1143,
-        "author": "Geffcken"
+        "author": "Geffcken."
       }
     ]
   },
@@ -21120,11 +21233,13 @@
     "lemma": "Kometes 1",
     "previous": "Kometen",
     "next": "Kometes 2",
+    "proof_read": 0,
     "short_description": "Vater des Asterion",
     "chapters": [
       {
         "start": 1193,
-        "author": "Latte"
+        "end": 1193,
+        "author": "Latte."
       }
     ]
   },
@@ -21132,12 +21247,13 @@
     "lemma": "Kometes 2",
     "previous": "Kometes 1",
     "next": "Kometes 3",
+    "proof_read": 0,
     "short_description": "Sohn des Sthenelos",
     "chapters": [
       {
         "start": 1193,
         "end": 1194,
-        "author": "Latte"
+        "author": "Latte."
       }
     ]
   },
@@ -21145,11 +21261,13 @@
     "lemma": "Kometes 3",
     "previous": "Kometes 2",
     "next": "Kometes 4",
+    "proof_read": 0,
     "short_description": "Sohn des Thestios",
     "chapters": [
       {
         "start": 1194,
-        "author": "Latte"
+        "end": 1194,
+        "author": "Latte."
       }
     ]
   },
@@ -21157,28 +21275,33 @@
     "lemma": "Kometes 4",
     "previous": "Kometes 3",
     "next": "Kometes 5",
+    "proof_read": 0,
     "short_description": "Sohn des Teisamenos",
     "chapters": [
       {
         "start": 1194,
-        "author": "Latte"
+        "end": 1194,
+        "author": "Latte."
       }
     ]
   },
   {
     "lemma": "Kometes 5",
     "previous": "Kometes 4",
-    "next": "Komiku",
+    "next": "Κωμικοῦ",
+    "proof_read": 0,
     "short_description": "Lapithe",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1194,
-        "author": "Latte"
+        "end": 1194,
+        "author": "Latte."
       }
     ]
   },
   {
-    "lemma": "Komiku",
+    "lemma": "Κωμικοῦ",
     "previous": "Kometes 5",
     "next": "Κομίοι",
     "short_description": "Gewannename von Kydonia",
@@ -21191,7 +21314,7 @@
   },
   {
     "lemma": "Κομίοι",
-    "previous": "Komiku",
+    "previous": "Κωμικοῦ",
     "next": "Komisene",
     "sort_key": "Komioi",
     "redirect": "Komenioi",
@@ -21266,17 +21389,19 @@
   {
     "lemma": "Kommiades",
     "previous": "Kommenases",
-    "next": "Kommisimbela",
+    "next": "Κομμισίμβηλα",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1194,
-        "author": "Kroll"
+        "end": 1194,
+        "author": "Kroll."
       }
     ]
   },
   {
-    "lemma": "Kommisimbela",
+    "lemma": "Κομμισίμβηλα",
     "previous": "Kommiades",
     "next": "Kommoi",
     "short_description": "Festung an der parthischen Königsstraße",
@@ -21290,7 +21415,7 @@
   },
   {
     "lemma": "Kommoi",
-    "previous": "Kommisimbela",
+    "previous": "Κομμισίμβηλα",
     "next": "Kommone",
     "short_description": "Sonderlieder der Tragödie",
     "chapters": [

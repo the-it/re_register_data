@@ -4957,7 +4957,7 @@
   {
     "lemma": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή 1"
   },
-    {
+  {
     "lemma": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή 2"
   },
   {
@@ -5816,6 +5816,7 @@
   {
     "lemma": "Kale Akte, Kalakte 2",
     "previous": "Kale Akte, Kalakte 1",
+    "next": "Καλὴ παρεμβολή",
     "sort_key": "Kaleakte, kalakte 2",
     "redirect": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή",
     "proof_read": 2,
@@ -5828,6 +5829,7 @@
   },
   {
     "lemma": "Καλὴ παρεμβολή",
+    "previous": "Kale Akte, Kalakte 2",
     "next": "Καλὴ Πεύκη",
     "sort_key": "Kale parembole",
     "redirect": "Καγὸς ποταμός",
@@ -9231,6 +9233,7 @@
   {
     "lemma": "Kallisthenes 4",
     "previous": "Kallisthenes 3",
+    "next": "Kallisto 1",
     "proof_read": 2,
     "short_description": "Von Sphettos, Bildhauer, etwa des 3. Jhdts. n. Chr.",
     "wd_link": "d:Q60687897",
@@ -11650,7 +11653,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Καμβύσου ταμεῖα",
     "chapters": [
       {
@@ -12574,7 +12577,7 @@
     "lemma": "Kanatha",
     "previous": "Kanastraios",
     "next": "Kanatha 1",
-    "proof_read": 0,
+    "proof_read": 3,
     "short_description": "zum Namen",
     "chapters": [
       {
@@ -12586,6 +12589,7 @@
   },
   {
     "lemma": "Kanatha 1",
+    "previous": "Kanatha",
     "next": "Kanatha 2",
     "proof_read": 3,
     "short_description": "Stadt in der Landschaft Ḥaurân südöstlich von Damaskus",
@@ -12638,7 +12642,10 @@
       }
     ]
   },
-  {"lemma": "Κάναθρον"},
+  {
+    "lemma": "Κάναθρον",
+    "next": "Kanauna"
+  },
   {
     "lemma": "Kanauna",
     "previous": "Κάναθρον",
@@ -13441,6 +13448,7 @@
   },
   {
     "lemma": "Kanthi",
+    "previous": "Kantharos 5",
     "next": "Kanthos 1",
     "proof_read": 2,
     "short_description": "Κάνθι ὁ κόλπος nennt Ptolem. VII 1, 2. 55. 94 einen Golf und Hafenplatz in",
@@ -15610,6 +15618,7 @@
   {
     "lemma": "Καρκίνου ποιήματα",
     "previous": "Καρκίνος 7",
+    "next": "Καρκινούαιοι",
     "sort_key": "Karkinupoiemata",
     "redirect": "Karkinos 5",
     "proof_read": 2,
@@ -16402,7 +16411,8 @@
     ]
   },
   {
-    "lemma": "Karpaia"
+    "lemma": "Karpaia",
+    "next": "Karpasia"
   },
   {
     "lemma": "Karpasia",
@@ -16819,7 +16829,8 @@
     ]
   },
   {
-    "lemma": "Καρποῦ δίκη"
+    "lemma": "Καρποῦ δίκη",
+    "next": "Karpudaimon"
   },
   {
     "lemma": "Karpudaimon",
@@ -16837,14 +16848,18 @@
   },
   {
     "lemma": "Κάρραι",
+    "previous": "Karpudaimon",
     "next": "Karrhotos",
+    "sort_key": "Karrai",
     "proof_read": 0,
-    "short_description": "Charran, Carr(h)ae, ..Harr-an, Stadt in Mesopotamien",
+    "short_description": "Stadt in Mesopotamien",
+    "wp_link": "w:en:Harran (biblical place)",
+    "wd_link": "d:Q3660711",
     "chapters": [
       {
         "start": 2009,
         "end": 2021,
-        "author": "Franz Heinrich Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
@@ -20742,6 +20757,7 @@
   },
   {
     "lemma": "Kathestamenoi",
+    "previous": "Kathereus",
     "next": "Καθοδος",
     "proof_read": 0,
     "short_description": "hoi -, Beamte v. Thuria in Messenien",

@@ -1931,6 +1931,7 @@
   },
   {
     "lemma": "Hyla",
+    "previous": "Hyktanis",
     "next": "Hyla 1",
     "proof_read": 2,
     "short_description": "Name für Städte, Örtlichkeiten, Quellen in verschiedenen Gegenden der Ägäis",
@@ -3091,7 +3092,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Ὑπαρνά",
     "previous": "Hypanis 4",
     "next": "Hyparchos",
@@ -4340,7 +4341,7 @@
   {
     "lemma": "Hypermenides",
     "previous": "Hypermenes 2",
-    "next": "Hypermestra 1",
+    "next": "Hypermestra",
     "proof_read": 2,
     "short_description": "Person",
     "wd_link": "d:Q122965797",
@@ -4354,8 +4355,24 @@
     ]
   },
   {
-    "lemma": "Hypermestra 1",
+    "lemma": "Hypermestra",
     "previous": "Hypermenides",
+    "next": "Hypermestra 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "wp_link": "w:de:Hypermestra",
+    "wd_link": "d:Q472784",
+    "chapters": [
+      {
+        "start": 289,
+        "end": 292,
+        "author": "Jessen."
+      }
+    ]
+  },
+  {
+    "lemma": "Hypermestra 1",
+    "previous": "Hypermestra",
     "next": "Hypermestra 2",
     "proof_read": 0,
     "short_description": "Tochter des Danaos",
