@@ -1464,20 +1464,33 @@
   },
   {
     "lemma": "Ἱερὰ πύλη",
-    "sort_key": "Hierapyle",
+    "previous": "Hiera Kome, Hierokaisareia",
+    "next": "Ἱεράκων κώμη",
+    "sort_key": "Hiera pyle",
     "proof_read": 0,
-    "short_description": "Tor von Sikyon",
+    "short_description": "Hiera pyle, Tor von Sikyon",
     "chapters": [
       {
         "start": 1402,
         "end": 1402,
-        "author": "Felix Bölte"
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Ἱεράκων κώμη",
-    "next": "Ἱεράκων νῆσος"
+    "previous": "Ἱερὰ πύλη",
+    "next": "Ἱεράκων νῆσος",
+    "sort_key": "Hierakonkome",
+    "proof_read": 0,
+    "short_description": "Hierakon kome, Ortschaft im Innern Arabiens",
+    "chapters": [
+      {
+        "start": 1402,
+        "end": 1403,
+        "author": "Tkač."
+      }
+    ]
   },
   {
     "lemma": "Ἱεράκων νῆσος",
@@ -5739,6 +5752,8 @@
     "next": "Hippasos",
     "proof_read": 3,
     "short_description": "Tierarzt",
+    "wp_link": "w:ca:Hipasi",
+    "wd_link": "d:Q11925679",
     "chapters": [
       {
         "start": 1686,
@@ -6796,7 +6811,7 @@
   {
     "lemma": "Hippobotos",
     "previous": "Ἱππόβοτοι",
-    "next": "Hippodamas",
+    "next": "Hippodamas 1",
     "proof_read": 0,
     "short_description": "Schriftsteller über Philosophiegeschichte",
     "wp_link": "w:en:Hippobotus",
@@ -10103,6 +10118,7 @@
   },
   {
     "lemma": "Hippotrophia",
+    "next": "Hippoxenos",
     "redirect": "Pferdezucht",
     "proof_read": 2,
     "chapters": [
