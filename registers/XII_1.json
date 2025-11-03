@@ -3491,11 +3491,13 @@
     "lemma": "Labes",
     "previous": "Laberus",
     "next": "Labicanus ager",
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "aus Phrearrioi",
     "chapters": [
       {
         "start": 255,
-        "author": "Obst"
+        "end": 255,
+        "author": "Obst."
       }
     ]
   },
@@ -3900,11 +3902,13 @@
     "lemma": "Labreas",
     "previous": "Labrax",
     "next": "Labriacus",
-    "short_description": "Bildhauer von Argos",
+    "proof_read": 0,
+    "short_description": "aus Argos, Bildhauer",
     "chapters": [
       {
         "start": 283,
-        "author": "Lippold, Georg"
+        "end": 283,
+        "author": "Lippold."
       }
     ]
   },
@@ -4127,30 +4131,35 @@
   {
     "lemma": "Labycas",
     "previous": "Labyadai",
-    "next": "Labyntos",
-    "short_description": "Historischer? Name bei Mart. VII 87,9",
+    "next": "Λαβύνητος",
+    "proof_read": 2,
+    "short_description": "falsche Lesart für Labyrtas",
     "chapters": [
       {
         "start": 311,
-        "author": "Lieben"
+        "end": 311,
+        "author": "Lieben."
       }
     ]
   },
   {
-    "lemma": "Labyntos",
+    "lemma": "Λαβύνητος",
     "previous": "Labycas",
     "next": "Labyrinthos 1",
+    "sort_key": "Labynetos",
+    "proof_read": 0,
     "short_description": "Name zweier babylonischer Könige",
     "chapters": [
       {
         "start": 311,
-        "author": "Weidner"
+        "end": 312,
+        "author": "Weidner."
       }
     ]
   },
   {
     "lemma": "Labyrinthos 1",
-    "previous": "Labyntos",
+    "previous": "Λαβύνητος",
     "next": "Labyrinthos 2",
     "short_description": "Mythisches Labyrinth auf Kreta",
     "chapters": [
@@ -4516,17 +4525,19 @@
   {
     "lemma": "Lachartos",
     "previous": "Lacharides 2",
-    "next": "Lache, Lachos",
-    "short_description": "Person",
+    "next": "Λάχη, Λάχος",
+    "proof_read": 2,
+    "short_description": "Korinther, Zeitgenosse von Cimon",
     "chapters": [
       {
         "start": 334,
-        "author": "Obst"
+        "end": 334,
+        "author": "Obst."
       }
     ]
   },
   {
-    "lemma": "Lache, Lachos",
+    "lemma": "Λάχη, Λάχος",
     "previous": "Lachartos",
     "next": "Lacheas",
     "short_description": "Älteste Göttergeneration in der babylonischen Theogonie",
@@ -4539,13 +4550,15 @@
   },
   {
     "lemma": "Lacheas",
-    "previous": "Lache, Lachos",
+    "previous": "Λάχη, Λάχος",
     "next": "Lachere",
-    "short_description": "Lieblingsname auf einem rotfig.-Kelchkrater aus Canino",
+    "proof_read": 0,
+    "short_description": "Lieblingsname auf einem Kelchkrater aus Canino",
     "chapters": [
       {
         "start": 335,
-        "author": "Leonard"
+        "end": 336,
+        "author": "Leonard."
       }
     ]
   },
@@ -5294,11 +5307,13 @@
     "lemma": "Lada 1",
     "previous": "Lacydon",
     "next": "Lada 2",
+    "proof_read": 2,
     "short_description": "Sigillatatöpfer",
     "chapters": [
       {
         "start": 378,
-        "author": "Keune"
+        "end": 378,
+        "author": "Keune."
       }
     ]
   },
@@ -5306,11 +5321,13 @@
     "lemma": "Lada 2",
     "previous": "Lada 1",
     "next": "Ladamas 1",
-    "short_description": "Name auf einem Ziegelstempel",
+    "proof_read": 2,
+    "short_description": "Name auf einem Ziegelstempel im Osten des Römerreiches",
     "chapters": [
       {
         "start": 378,
-        "author": "Keune"
+        "end": 379,
+        "author": "Keune."
       }
     ]
   },
@@ -5318,11 +5335,13 @@
     "lemma": "Ladamas 1",
     "previous": "Lada 2",
     "next": "Ladamas 2",
-    "short_description": "Bildhauer",
+    "proof_read": 2,
+    "short_description": "falsche Lesart für Adamas",
     "chapters": [
       {
         "start": 379,
-        "author": "Lippold, Georg"
+        "end": 379,
+        "author": "Lippold."
       }
     ]
   },
@@ -5330,18 +5349,20 @@
     "lemma": "Ladamas 2",
     "previous": "Ladamas 1",
     "next": "Ladanum",
+    "proof_read": 0,
     "short_description": "Lieblingsname auf einer rotfig.-Bauchamphora in London",
     "chapters": [
       {
         "start": 379,
-        "author": "Leonard"
+        "end": 379,
+        "author": "Leonard."
       }
     ]
   },
   {
     "lemma": "Ladanum",
     "previous": "Ladamas 2",
-    "next": "Ladarma",
+    "next": "Λάδαρμα",
     "short_description": "Nervenstärkendes Heilmittel",
     "chapters": [
       {
@@ -5351,7 +5372,7 @@
     ]
   },
   {
-    "lemma": "Ladarma",
+    "lemma": "Λάδαρμα",
     "previous": "Ladanum",
     "next": "Ladas 1",
     "short_description": "Demos auf Rhodos",
@@ -5364,13 +5385,15 @@
   },
   {
     "lemma": "Ladas 1",
-    "previous": "Ladarma",
+    "previous": "Λάδαρμα",
     "next": "Ladas 2",
-    "short_description": "Berühmter Läufer",
+    "proof_read": 2,
+    "short_description": "Läufer, Olympiasieger",
     "chapters": [
       {
         "start": 380,
-        "author": "Lenschau"
+        "end": 380,
+        "author": "Lenschau."
       }
     ]
   },
@@ -5378,11 +5401,15 @@
     "lemma": "Ladas 2",
     "previous": "Ladas 1",
     "next": "Ladas 3",
-    "short_description": "Aus Sparta",
+    "proof_read": 2,
+    "short_description": "aus Sparta, Olympiasieger",
+    "wp_link": "w:ca:Lades",
+    "wd_link": "d:Q11931075",
     "chapters": [
       {
         "start": 380,
-        "author": "Obst"
+        "end": 381,
+        "author": "Obst."
       }
     ]
   },
@@ -5390,11 +5417,13 @@
     "lemma": "Ladas 3",
     "previous": "Ladas 2",
     "next": "Lade",
-    "short_description": "Sprichwörtlicher Name für einen Läufer bei Martial",
+    "proof_read": 2,
+    "short_description": "sprichwörtlicher Name für einen Läufer bei Martial",
     "chapters": [
       {
         "start": 381,
-        "author": "Lieben"
+        "end": 381,
+        "author": "Lieben."
       }
     ]
   },
@@ -5415,7 +5444,7 @@
     "previous": "Lade",
     "next": "Lades",
     "redirect": "Lopodunum",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 381,
@@ -5426,34 +5455,39 @@
   {
     "lemma": "Lades",
     "previous": "Ladenburg",
-    "next": "Ladesta",
+    "next": "Λάδεστα",
+    "proof_read": 2,
     "short_description": "Sohn des Imbrasos",
     "chapters": [
       {
         "start": 381,
-        "author": "Scherling"
+        "end": 381,
+        "author": "Scherling."
       }
     ]
   },
   {
-    "lemma": "Ladesta",
+    "lemma": "Λάδεστα",
     "previous": "Lades",
     "next": "Λαδεστανός",
-    "short_description": "Liburnische Insel Lagosta",
+    "sort_key": "Ladesta",
+    "proof_read": 2,
+    "short_description": "eine der liburnischen Inseln, jetzt Lagosta",
     "chapters": [
       {
         "start": 381,
-        "author": "Fluss"
+        "end": 381,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Λαδεστανός",
-    "previous": "Ladesta",
+    "previous": "Λάδεστα",
     "next": "Λάδεστον",
     "sort_key": "Ladestanos",
-    "redirect": "Ladesta",
-    "proof_read": 2,
+    "redirect": "Λάδεστα",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 381,
@@ -5466,8 +5500,8 @@
     "previous": "Λαδεστανός",
     "next": "Ladicus",
     "sort_key": "Ladeston",
-    "redirect": "Ladesta",
-    "proof_read": 2,
+    "redirect": "Λάδεστα",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 381,
@@ -5491,11 +5525,13 @@
     "lemma": "Ladikos 1",
     "previous": "Ladicus",
     "next": "Ladikos 2",
+    "proof_read": 2,
     "short_description": "Sunier",
     "chapters": [
       {
         "start": 382,
-        "author": "Obst"
+        "end": 382,
+        "author": "Obst."
       }
     ]
   },
@@ -5503,11 +5539,14 @@
     "lemma": "Ladikos 2",
     "previous": "Ladikos 1",
     "next": "Ladikos 3",
-    "short_description": "Epimeletes Philipps V. 219/18 v. Chr.",
+    "proof_read": 2,
+    "short_description": "aus Akarnanien, Epimeletes Philipps V. 219/8 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 382,
-        "author": "Schoch"
+        "end": 382,
+        "author": "Schoch."
       }
     ]
   },
@@ -5515,11 +5554,13 @@
     "lemma": "Ladikos 3",
     "previous": "Ladikos 2",
     "next": "Ladios",
-    "short_description": "Aetolischer Strategos zum 2. Mal 152/51 v. Chr.",
+    "proof_read": 2,
+    "short_description": "aus Arsinoë, ätolischer Strategos, zum 2. Mal 152/1 v. Chr.",
     "chapters": [
       {
         "start": 382,
-        "author": "Oldfather"
+        "end": 382,
+        "author": "Oldfather."
       }
     ]
   },
@@ -5527,11 +5568,13 @@
     "lemma": "Ladios",
     "previous": "Ladikos 3",
     "next": "Ladokos",
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Ort an der Straße Narona–Servitium",
     "chapters": [
       {
         "start": 382,
-        "author": "Fluss"
+        "end": 382,
+        "author": "Fluss."
       }
     ]
   },
@@ -6663,11 +6706,13 @@
     "lemma": "Laeponii",
     "previous": "Laenius 3",
     "next": "Lärche",
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "Ziegler in Gallia Transpadana in der Gegend von Patavium",
     "chapters": [
       {
         "start": 422,
-        "author": "Keune"
+        "end": 422,
+        "author": "Keune."
       }
     ]
   },
@@ -6732,11 +6777,13 @@
     "lemma": "Laertas 1",
     "previous": "Laeros",
     "next": "Laertas 2",
-    "short_description": "Vater des Odysseus s. Laertes Nr. 2",
+    "proof_read": 2,
+    "short_description": "Vater des Odysseus, s. Laertes Nr. 2",
     "chapters": [
       {
         "start": 423,
-        "author": "Lamer"
+        "end": 423,
+        "author": "Lamer."
       }
     ]
   },
@@ -6744,11 +6791,13 @@
     "lemma": "Laertas 2",
     "previous": "Laertas 1",
     "next": "Laertas 3",
-    "short_description": "Gigant",
+    "proof_read": 2,
+    "short_description": "Gigant im Nordfriese des Knidier-Schatzhauses in Delphoi",
     "chapters": [
       {
         "start": 423,
-        "author": "Lamer"
+        "end": 424,
+        "author": "Lamer."
       }
     ]
   },
@@ -6756,7 +6805,7 @@
     "lemma": "Laertas 3",
     "previous": "Laertas 2",
     "next": "Laertas 4",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Beamter auf einer koischen Münze",
     "chapters": [
       {
@@ -6770,8 +6819,8 @@
     "lemma": "Laertas 4",
     "previous": "Laertas 3",
     "next": "Laertes 1",
-    "proof_read": 2,
-    "short_description": "Vater des milesischen Laodemos um 230 v. Chr.",
+    "proof_read": 3,
+    "short_description": "Vater des milesischen synedros Laodemos, um 230 v. Chr.",
     "chapters": [
       {
         "start": 424,
@@ -6833,11 +6882,14 @@
     "lemma": "Laestrygoni campi",
     "previous": "Laesora",
     "next": "Laethusa",
+    "proof_read": 2,
     "short_description": "Ebene von Leontinoi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 445,
-        "author": "Ziegler"
+        "end": 445,
+        "author": "Ziegler."
       }
     ]
   },
@@ -6845,11 +6897,13 @@
     "lemma": "Laethusa",
     "previous": "Laestrygoni campi",
     "next": "Laeti",
+    "proof_read": 0,
     "short_description": "Gattin des Königs Lynkeus",
     "chapters": [
       {
         "start": 445,
-        "author": "Ganschinietz"
+        "end": 445,
+        "author": "Ganschinietz."
       }
     ]
   },
@@ -6918,11 +6972,13 @@
     "lemma": "Laetinus",
     "previous": "Laetilius 2",
     "next": "Laetitia",
-    "short_description": "Erfundener Name bei Mart. III 43",
+    "proof_read": 2,
+    "short_description": "alter Mann der seine Haare färbt bei Martial",
     "chapters": [
       {
         "start": 448,
-        "author": "Lieben"
+        "end": 448,
+        "author": "Lieben."
       }
     ]
   },
@@ -8312,8 +8368,8 @@
     "lemma": "Laistrygones",
     "previous": "Laispodias",
     "next": "Laitilo",
-    "redirect": true,
-    "proof_read": 2,
+    "redirect": "Laistrygonen",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 517,
