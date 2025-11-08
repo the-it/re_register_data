@@ -3689,7 +3689,7 @@
     "previous": "Kaiadas, Keadas",
     "next": "Καίδουον",
     "sort_key": "Kaibokometai",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Bewohner eines Dorfes in Lydien",
     "chapters": [
       {
@@ -9247,7 +9247,7 @@
     "previous": "Kallisthenes 1",
     "next": "Kallisthenes 3",
     "proof_read": 0,
-    "short_description": "Von Olynth, Verwandter des Aristoteles, Alexanderhistoriker, Philosoph",
+    "short_description": "von Olynth, Verwandter des Aristoteles, Alexanderhistoriker, Philosoph",
     "chapters": [
       {
         "start": 1674,
@@ -10593,7 +10593,7 @@
   {
     "lemma": "Καλὸς ἀγρός",
     "previous": "Kalos",
-    "next": "Καγὸς ποταμός",
+    "next": "Καλὸς ποταμός",
     "sort_key": "Kalos agros",
     "proof_read": 0,
     "chapters": [
@@ -10605,11 +10605,12 @@
     ]
   },
   {
-    "lemma": "Καγὸς ποταμός",
+    "lemma": "Καλὸς ποταμός",
     "previous": "Καλὸς ἀγρός",
     "next": "Kalpas 1",
     "sort_key": "Kalos potamos",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Fluß östlich von Trapezunt",
     "chapters": [
       {
         "start": 1759,
@@ -10620,7 +10621,7 @@
   },
   {
     "lemma": "Kalpas 1",
-    "previous": "Καγὸς ποταμός",
+    "previous": "Καλὸς ποταμός",
     "next": "Kalpas 2",
     "proof_read": 0,
     "short_description": "Fluß in Bithynien",
@@ -12730,7 +12731,7 @@
   {
     "lemma": "Kandaios",
     "previous": "Δήμου Κάναυρα",
-    "next": "Kandake",
+    "next": "Kandake 1",
     "proof_read": 3,
     "short_description": "Epiklesis des Ares",
     "chapters": [
@@ -13984,7 +13985,9 @@
     "lemma": "Καπίθη",
     "previous": "Kapitalismus",
     "next": "Kapiton",
-    "proof_read": 0,
+    "sort_key": "Kapithe",
+    "proof_read": 2,
+    "short_description": "kleinasiatisches Hohlmaß für Trockenes",
     "chapters": [
       {
         "start": 1909,
@@ -15549,7 +15552,9 @@
     "lemma": "Καρκινάρ",
     "previous": "Karkesia",
     "next": "Karkinon",
-    "proof_read": 0,
+    "sort_key": "Karkinar",
+    "proof_read": 2,
+    "short_description": "Gespenst erwähnt in einer Neapler griechischen Handschrift",
     "chapters": [
       {
         "start": 1951,
@@ -15575,7 +15580,8 @@
     "lemma": "Καρκίνος 1",
     "previous": "Karkinon",
     "next": "Καρκίνος 2",
-    "proof_read": 0,
+    "sort_key": "Karkinos 1",
+    "proof_read": 2,
     "short_description": "Dämon",
     "chapters": [
       {
@@ -15612,7 +15618,7 @@
   {
     "lemma": "Καρκίνος 4",
     "previous": "Καρκίνος 3",
-    "next": "Karkinos 5",
+    "next": "Καρκίνος 5",
     "proof_read": 0,
     "short_description": "Stratege Anf. d. Peloponnesischen Krieges, tragischer Dichter bei Aristoph.",
     "chapters": [
@@ -15624,7 +15630,7 @@
     ]
   },
   {
-    "lemma": "Karkinos 5",
+    "lemma": "Καρκίνος 5",
     "previous": "Καρκίνος 4",
     "next": "Καρκίνος 6",
     "short_description": "Att. Tragiker um 380 v. Chr",
@@ -15638,7 +15644,7 @@
   },
   {
     "lemma": "Καρκίνος 6",
-    "previous": "Karkinos 5",
+    "previous": "Καρκίνος 5",
     "next": "Καρκίνος 7",
     "sort_key": "Karkinos 6",
     "redirect": "Naupaktia epe",
@@ -16873,6 +16879,7 @@
   {
     "lemma": "Karposis",
     "previous": "Karpos 4",
+    "next": "Καρποῦ δίκη",
     "short_description": "Form d. Opfers",
     "chapters": [
       {
@@ -16883,7 +16890,18 @@
   },
   {
     "lemma": "Καρποῦ δίκη",
-    "next": "Karpudaimon"
+    "previous": "Karposis",
+    "next": "Karpudaimon",
+    "sort_key": "Karpudike",
+    "proof_read": 2,
+    "short_description": "Besitzklage, wenn man ein Grundstück beanspruchte",
+    "chapters": [
+      {
+        "start": 2009,
+        "end": 2009,
+        "author": "Thalheim."
+      }
+    ]
   },
   {
     "lemma": "Karpudaimon",
@@ -17601,7 +17619,8 @@
     "previous": "Karykta",
     "next": "Karyneia",
     "sort_key": "Karymai",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Örtlichkeit im Gebiet des kretischen Itanos",
     "chapters": [
       {
         "start": 2253,
@@ -19237,8 +19256,9 @@
     "lemma": "Καστωλοῦ Πέδιον",
     "previous": "Kastollos",
     "next": "Kastor 1",
-    "sort_key": "Kastolu pedion",
-    "proof_read": 0,
+    "sort_key": "Kastolupedion",
+    "proof_read": 2,
+    "short_description": "Fläche in Lydien",
     "chapters": [
       {
         "start": 2346,
