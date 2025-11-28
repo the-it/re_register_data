@@ -96,10 +96,12 @@
     "lemma": "Molensis",
     "previous": "Moleia",
     "next": "Moles",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2,
-        "author": "Enßlin"
+        "end": 2,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -147,11 +149,14 @@
     "lemma": "Molione, Molionidai 1",
     "previous": "Molindae",
     "next": "Molione, Molionidai 2",
+    "sort_key": "Molione,molionidai 1",
+    "proof_read": 0,
     "short_description": "Eleisches Zwillingspaar",
     "chapters": [
       {
         "start": 3,
-        "author": "Weinreich"
+        "end": 7,
+        "author": "Weinreich."
       }
     ]
   },
@@ -264,7 +269,7 @@
   {
     "lemma": "Moloeis",
     "previous": "Μωλώη",
-    "next": "Mologenoi",
+    "next": "Μολογηνοί",
     "chapters": [
       {
         "start": 9,
@@ -273,9 +278,9 @@
     ]
   },
   {
-    "lemma": "Mologenoi",
+    "lemma": "Μολογηνοί",
     "previous": "Moloeis",
-    "next": "Molon 1",
+    "next": "Molon",
     "chapters": [
       {
         "start": 9,
@@ -284,14 +289,30 @@
     ]
   },
   {
+    "lemma": "Molon",
+    "previous": "Μολογηνοί",
+    "next": "Molon 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 9,
+        "end": 9,
+        "author": "Scherling."
+      }
+    ]
+  },
+  {
     "lemma": "Molon 1",
-    "previous": "Mologenoi",
+    "previous": "Molon",
     "next": "Molon 2",
+    "proof_read": 0,
     "short_description": "Abant auf Kos",
     "chapters": [
       {
         "start": 9,
-        "author": "Scherling"
+        "end": 9,
+        "author": "Scherling."
       }
     ]
   },
@@ -387,11 +408,13 @@
     "lemma": "Molon 8",
     "previous": "Molon 7",
     "next": "Molorchia",
+    "proof_read": 0,
     "short_description": "ho paroimiographos, evtl. = Lehrer Ciceros",
     "chapters": [
       {
         "start": 12,
-        "author": "Rupprecht"
+        "end": 12,
+        "author": "Karl Rupprecht."
       }
     ]
   },
@@ -409,78 +432,90 @@
   {
     "lemma": "Molorchos",
     "previous": "Molorchia",
-    "next": "Molos 1",
+    "next": "Μόλος 1",
+    "proof_read": 0,
     "short_description": "Bewirtet Herakles auf d. Jagd nach d. nemeischen Löwen",
     "chapters": [
       {
         "start": 13,
-        "author": "Pley"
+        "end": 14,
+        "author": "J. Pley."
       }
     ]
   },
   {
-    "lemma": "Molos 1",
+    "lemma": "Μόλος 1",
     "previous": "Molorchos",
-    "next": "Molos 2",
+    "next": "Μόλος 2",
+    "proof_read": 0,
     "short_description": "Gestalt d. kretischen Sage",
     "chapters": [
       {
         "start": 14,
-        "author": "Treidler"
+        "end": 14,
+        "author": "Hans Treidler."
       }
     ]
   },
   {
-    "lemma": "Molos 2",
-    "previous": "Molos 1",
-    "next": "Molos 3",
+    "lemma": "Μόλος 2",
+    "previous": "Μόλος 1",
+    "next": "Μόλος 3",
+    "proof_read": 0,
     "short_description": "Vater d. Molione",
     "chapters": [
       {
         "start": 14,
-        "author": "Treidler"
+        "end": 14,
+        "author": "Hans Treidler."
       }
     ]
   },
   {
-    "lemma": "Molos 3",
-    "previous": "Molos 2",
-    "next": "Molos 4",
+    "lemma": "Μόλος 3",
+    "previous": "Μόλος 2",
+    "next": "Μόλος 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Ares u. d. Demonike",
     "chapters": [
       {
         "start": 14,
-        "author": "Treidler"
+        "end": 15,
+        "author": "Hans Treidler."
       }
     ]
   },
   {
-    "lemma": "Molos 4",
-    "previous": "Molos 3",
-    "next": "Molos 5",
+    "lemma": "Μόλος 4",
+    "previous": "Μόλος 3",
+    "next": "Μόλος 5",
+    "proof_read": 0,
     "short_description": "Grieche im troianischen Krieg",
     "chapters": [
       {
         "start": 15,
-        "author": "Treidler"
+        "end": 15,
+        "author": "Hans Treidler."
       }
     ]
   },
   {
-    "lemma": "Molos 5",
-    "previous": "Molos 4",
-    "next": "Molos 6",
+    "lemma": "Μόλος 5",
+    "previous": "Μόλος 4",
+    "next": "Μόλος 6",
+    "proof_read": 0,
     "short_description": "Gestalt d. achaiischen Sage, Sohn d. Endymion",
     "chapters": [
       {
         "start": 15,
-        "author": "Treidler"
+        "end": 15,
+        "author": "Hans Treidler."
       }
     ]
   },
   {
-    "lemma": "Molos 6",
-    "previous": "Molos 5",
+    "lemma": "Μόλος 6",
+    "previous": "Μόλος 5",
     "next": "Molos 7",
     "proof_read": 2,
     "short_description": "s. Tmolos",
@@ -495,7 +530,7 @@
   },
   {
     "lemma": "Molos 7",
-    "previous": "Molos 6",
+    "previous": "Μόλος 6",
     "next": "Molos 8",
     "short_description": "Bach bei Chaironeia",
     "chapters": [
@@ -623,11 +658,13 @@
     "lemma": "Molpadia 1",
     "previous": "Molossos 5",
     "next": "Molpadia 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Staphylos u. d. Chrysothemis",
     "chapters": [
       {
         "start": 26,
-        "author": "Scherling"
+        "end": 26,
+        "author": "Scherling."
       }
     ]
   },
@@ -635,11 +672,13 @@
     "lemma": "Molpadia 2",
     "previous": "Molpadia 1",
     "next": "Μολπαγόρας, -ου 1",
+    "proof_read": 0,
     "short_description": "Amazone",
     "chapters": [
       {
         "start": 26,
-        "author": "Scherling"
+        "end": 26,
+        "author": "Scherling."
       }
     ]
   },
@@ -730,10 +769,12 @@
     "lemma": "Molpeus",
     "previous": "Molpe 2",
     "next": "Molpis 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 27,
-        "author": "Scherling"
+        "end": 27,
+        "author": "Scherling."
       }
     ]
   },
@@ -741,11 +782,13 @@
     "lemma": "Molpis 1",
     "previous": "Molpeus",
     "next": "Molpis 2",
+    "proof_read": 0,
     "short_description": "Vornehmer junger Eleier",
     "chapters": [
       {
         "start": 27,
-        "author": "Kolf"
+        "end": 28,
+        "author": "van der Kolf."
       }
     ]
   },
@@ -753,11 +796,13 @@
     "lemma": "Molpis 2",
     "previous": "Molpis 1",
     "next": "Molpis 3",
+    "proof_read": 0,
     "short_description": "Historisch-antiquarischer Forscher",
     "chapters": [
       {
         "start": 28,
-        "author": "Bux"
+        "end": 28,
+        "author": "E. Bux."
       }
     ]
   },
@@ -765,11 +810,13 @@
     "lemma": "Molpis 3",
     "previous": "Molpis 2",
     "next": "Μολποί",
+    "proof_read": 0,
     "short_description": "Hellenist. Chirurg",
     "chapters": [
       {
         "start": 28,
-        "author": "Deichgräber"
+        "end": 28,
+        "author": "Deichgräber."
       }
     ]
   },
@@ -792,11 +839,13 @@
     "lemma": "Molpos 1",
     "previous": "Μολποί",
     "next": "Molpos 2",
+    "proof_read": 0,
     "short_description": "Flötenspieler",
     "chapters": [
       {
         "start": 28,
-        "author": "Kruse"
+        "end": 28,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -854,11 +903,13 @@
     "lemma": "Moluros",
     "previous": "Moluris",
     "next": "Moly",
+    "proof_read": 0,
     "short_description": "Sohn d. Arisbas",
     "chapters": [
       {
         "start": 29,
-        "author": "Pley"
+        "end": 29,
+        "author": "J. Pley."
       }
     ]
   },
@@ -893,10 +944,12 @@
     "lemma": "Molykos",
     "previous": "Molybdine",
     "next": "Molykria",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 34,
-        "author": "Schoch"
+        "end": 34,
+        "author": "Paul Schoch."
       }
     ]
   },
@@ -983,10 +1036,12 @@
     "lemma": "Momoseiros",
     "previous": "Momos",
     "next": "Mona 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 42,
-        "author": "Enßlin"
+        "end": 42,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -1231,11 +1286,13 @@
     "lemma": "Monaxius",
     "previous": "Monaulos",
     "next": "Mond",
+    "proof_read": 0,
     "short_description": "Flavius, Praef. urb. in Constantinopel unter Kaiser Arcadius u. Theodosius II.",
     "chapters": [
       {
         "start": 75,
-        "author": "Enßlin"
+        "end": 76,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -1476,11 +1533,13 @@
     "lemma": "Monimos 2",
     "previous": "Monimos 1",
     "next": "Monimos 3",
+    "proof_read": 0,
     "short_description": "Spartan. Gesandter bei Dareios",
     "chapters": [
       {
         "start": 125,
-        "author": "Berve"
+        "end": 126,
+        "author": "Berve."
       }
     ]
   },
@@ -1488,11 +1547,13 @@
     "lemma": "Monimos 3",
     "previous": "Monimos 2",
     "next": "Monimos 4",
+    "proof_read": 0,
     "short_description": "Befehlshaber v. Pella 316 v. Chr.",
     "chapters": [
       {
         "start": 126,
-        "author": "Kroll"
+        "end": 126,
+        "author": "Kroll."
       }
     ]
   },
@@ -1560,11 +1621,13 @@
     "lemma": "Monimos 8",
     "previous": "Monimos 7",
     "next": "Monimos 9",
+    "proof_read": 0,
     "short_description": "Diakon u. Mönch aus d. Syria Secunda",
     "chapters": [
       {
         "start": 126,
-        "author": "Enßlin"
+        "end": 126,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -1572,11 +1635,13 @@
     "lemma": "Monimos 9",
     "previous": "Monimos 8",
     "next": "Monimos 10",
+    "proof_read": 0,
     "short_description": "Schriftsteller unbekannter Zt.",
     "chapters": [
       {
         "start": 126,
-        "author": "Bux"
+        "end": 126,
+        "author": "E. Bux."
       }
     ]
   },
@@ -1584,11 +1649,13 @@
     "lemma": "Monimos 10",
     "previous": "Monimos 9",
     "next": "Moninas",
+    "proof_read": 0,
     "short_description": "Kyniker aus Syrakus",
     "chapters": [
       {
         "start": 126,
-        "author": "Fritz"
+        "end": 127,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -1676,11 +1743,13 @@
     "lemma": "Monnus",
     "previous": "Monnulus",
     "next": "Monobazos 1",
+    "proof_read": 0,
     "short_description": "Mosaikarbeiter d. röm. Kaiserzeit",
     "chapters": [
       {
         "start": 128,
-        "author": "Lorentz"
+        "end": 128,
+        "author": "F. v. Lorentz."
       }
     ]
   },
@@ -2245,10 +2314,12 @@
     "lemma": "Montanarius",
     "previous": "Montanae",
     "next": "Montaneses",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 201,
-        "author": "Enßlin"
+        "end": 201,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2291,10 +2362,13 @@
     "lemma": "Montanius Atticinus",
     "previous": "Montani 2",
     "next": "Montanus 1",
+    "sort_key": "Montaniusatticinus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 204,
-        "author": "Stein, [Arthur]"
+        "end": 204,
+        "author": "Stein."
       }
     ]
   },
@@ -2328,11 +2402,13 @@
     "lemma": "Montanus 3",
     "previous": "Montanus 2",
     "next": "Montanus 4",
+    "proof_read": 0,
     "short_description": "L. Proc. v. Bithynien",
     "chapters": [
       {
         "start": 204,
-        "author": "Groag"
+        "end": 204,
+        "author": "Edmund Groag."
       }
     ]
   },
@@ -2354,11 +2430,13 @@
     "lemma": "Montanus 5",
     "previous": "Montanus 4",
     "next": "Montanus 6",
+    "proof_read": 0,
     "short_description": "Freund d. Kaisers Domitian",
     "chapters": [
       {
         "start": 204,
-        "author": "Fluss"
+        "end": 205,
+        "author": "Max Fluss."
       }
     ]
   },
@@ -2394,11 +2472,13 @@
     "lemma": "Montanus 8",
     "previous": "Montanus 7",
     "next": "Montanus 9",
+    "proof_read": 0,
     "short_description": "M. palatinus, Gesandter an Bischof Athanasius v. Alexandria",
     "chapters": [
       {
         "start": 205,
-        "author": "Enßlin"
+        "end": 205,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2406,11 +2486,13 @@
     "lemma": "Montanus 9",
     "previous": "Montanus 8",
     "next": "Montanus 10",
+    "proof_read": 0,
     "short_description": "c. v. am Hof d. Gotenkönigs Witiges",
     "chapters": [
       {
         "start": 205,
-        "author": "Enßlin"
+        "end": 205,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2448,11 +2530,13 @@
     "lemma": "Montanus 12",
     "previous": "Montanus 11",
     "next": "Montanus 13",
+    "proof_read": 0,
     "short_description": "Kathol. Bischof Auguritanorum",
     "chapters": [
       {
         "start": 205,
-        "author": "Enßlin"
+        "end": 205,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2460,11 +2544,13 @@
     "lemma": "Montanus 13",
     "previous": "Montanus 12",
     "next": "Montanus 14",
+    "proof_read": 0,
     "short_description": "Donatist. Bischof aus Zama",
     "chapters": [
       {
         "start": 205,
-        "author": "Enßlin"
+        "end": 205,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2472,11 +2558,13 @@
     "lemma": "Montanus 14",
     "previous": "Montanus 13",
     "next": "Montanus 15",
+    "proof_read": 0,
     "short_description": "Gall. Bischof",
     "chapters": [
       {
         "start": 205,
-        "author": "Enßlin"
+        "end": 205,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2499,11 +2587,13 @@
     "lemma": "Montanus 16",
     "previous": "Montanus 15",
     "next": "Montanus 17",
+    "proof_read": 0,
     "short_description": "Episcopus Cedamusensis z. Zt. d. Vandalenkönigs Hunerich",
     "chapters": [
       {
         "start": 205,
-        "author": "Enßlin"
+        "end": 206,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2623,11 +2713,14 @@
     "lemma": "Montius Magnus 1",
     "previous": "Montinus",
     "next": "Montius Magnus 2",
+    "sort_key": "Montiusmagnus 1",
+    "proof_read": 0,
     "short_description": "Afrikaner, um 350 n. Chr. proc. v. Constantinopel",
     "chapters": [
       {
         "start": 211,
-        "author": "Enßlin"
+        "end": 211,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2635,11 +2728,14 @@
     "lemma": "Montius Magnus 2",
     "previous": "Montius Magnus 1",
     "next": "Montius Magnus 3",
+    "sort_key": "Montiusmagnus 2",
+    "proof_read": 0,
     "short_description": "Adressat d. Johannes Chrysostomos",
     "chapters": [
       {
         "start": 211,
-        "author": "Enßlin"
+        "end": 211,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2647,11 +2743,14 @@
     "lemma": "Montius Magnus 3",
     "previous": "Montius Magnus 2",
     "next": "Montobriga",
+    "sort_key": "Montiusmagnus 3",
+    "proof_read": 0,
     "short_description": "Korrespondent d. Sidonius Apollinaris",
     "chapters": [
       {
         "start": 211,
-        "author": "Enßlin"
+        "end": 211,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2745,11 +2844,13 @@
     "lemma": "Monunios",
     "previous": "Monumentum Hannibal(is)",
     "next": "Monuste",
+    "proof_read": 0,
     "short_description": "Illyrischer Königsname",
     "chapters": [
       {
         "start": 231,
-        "author": "Schaefer"
+        "end": 232,
+        "author": "Hans Schaefer."
       }
     ]
   },
@@ -2757,10 +2858,12 @@
     "lemma": "Monuste",
     "previous": "Monunios",
     "next": "Monychos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 232,
-        "author": "Treidler"
+        "end": 232,
+        "author": "Hans Treidler."
       }
     ]
   },
@@ -2911,24 +3014,42 @@
   {
     "lemma": "Mopsopos",
     "previous": "Mopsopia 2",
-    "next": "Mopsos 1",
+    "next": "Mopsos",
+    "proof_read": 0,
     "short_description": "Name eines att. Königs o. Heros",
     "chapters": [
       {
         "start": 240,
-        "author": "Pley"
+        "end": 240,
+        "author": "J. Pley."
+      }
+    ]
+  },
+  {
+    "lemma": "Mopsos",
+    "previous": "Mopsopos",
+    "next": "Mopsos 1",
+    "proof_read": 0,
+    "short_description": "Lapithe, Eponymos d. am W-Hang d. Ossa gelegenen Mopsion",
+    "chapters": [
+      {
+        "start": 241,
+        "end": 241,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Mopsos 1",
-    "previous": "Mopsopos",
+    "previous": "Mopsos",
     "next": "Mopsos 2",
+    "proof_read": 0,
     "short_description": "Lapithe, Eponymos d. am W-Hang d. Ossa gelegenen Mopsion",
     "chapters": [
       {
         "start": 241,
-        "author": "Kruse"
+        "end": 242,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -2936,11 +3057,13 @@
     "lemma": "Mopsos 2",
     "previous": "Mopsos 1",
     "next": "Mopsos 3",
+    "proof_read": 0,
     "short_description": "Sohn der Manto, der Tochter d. Teiresias",
     "chapters": [
       {
         "start": 242,
-        "author": "Kruse"
+        "end": 243,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -2948,11 +3071,13 @@
     "lemma": "Mopsos 3",
     "previous": "Mopsos 2",
     "next": "Mopsos 4",
+    "proof_read": 0,
     "short_description": "Aus Kolophon, angebl. Bundesgenosse d. Priamos",
     "chapters": [
       {
         "start": 243,
-        "author": "Kruse"
+        "end": 243,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -2960,11 +3085,13 @@
     "lemma": "Mopsos 4",
     "previous": "Mopsos 3",
     "next": "Mopsos 5",
+    "proof_read": 0,
     "short_description": "Thraker, vertrieben v. König Lykurgos",
     "chapters": [
       {
         "start": 243,
-        "author": "Kruse"
+        "end": 243,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -2972,11 +3099,13 @@
     "lemma": "Mopsos 5",
     "previous": "Mopsos 4",
     "next": "Mopsu(h)estia",
+    "proof_read": 0,
     "short_description": "Sohn d. Oinoe",
     "chapters": [
       {
         "start": 243,
-        "author": "Kruse"
+        "end": 243,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -3012,7 +3141,7 @@
   {
     "lemma": "Mopta",
     "previous": "Mopsukrene",
-    "next": "Mora 1",
+    "next": "Μόρα 1",
     "sort_key": "Mopta",
     "proof_read": 2,
     "chapters": [
@@ -3024,21 +3153,23 @@
     ]
   },
   {
-    "lemma": "Mora 1",
+    "lemma": "Μόρα 1",
     "previous": "Mopta",
-    "next": "Mora 2",
+    "next": "Μόρα 2",
+    "proof_read": 0,
     "short_description": "Spartan. Heeresabteilung",
     "chapters": [
       {
         "start": 251,
-        "author": "Lammert, Friedrich"
+        "end": 251,
+        "author": "Friedrich Lammert."
       }
     ]
   },
   {
-    "lemma": "Mora 2",
-    "previous": "Mora 1",
-    "next": "Mora 3",
+    "lemma": "Μόρα 2",
+    "previous": "Μόρα 1",
+    "next": "Μόρα 3",
     "sort_key": "Mora 2",
     "proof_read": 0,
     "short_description": "Stadt auf Corsica, Bastia (ville di Mori) oder Capo di Muro",
@@ -3051,9 +3182,9 @@
     ]
   },
   {
-    "lemma": "Mora 3",
-    "previous": "Mora 2",
-    "next": "Mora 4",
+    "lemma": "Μόρα 3",
+    "previous": "Μόρα 2",
+    "next": "Μόρα 4",
     "sort_key": "Mora 3",
     "proof_read": 2,
     "short_description": "Ort im Innern von Corsica",
@@ -3066,20 +3197,22 @@
     ]
   },
   {
-    "lemma": "Mora 4",
-    "previous": "Mora 3",
+    "lemma": "Μόρα 4",
+    "previous": "Μόρα 3",
     "next": "Moragocome",
+    "proof_read": 0,
     "short_description": "Verzögerung, Aufschub, Verzug, als jurist. t.t.",
     "chapters": [
       {
         "start": 252,
-        "author": "Kaser"
+        "end": 277,
+        "author": "Max Kaser."
       }
     ]
   },
   {
     "lemma": "Moragocome",
-    "previous": "Mora 4",
+    "previous": "Μόρα 4",
     "next": "Moras",
     "chapters": [
       {
@@ -3092,10 +3225,12 @@
     "lemma": "Moras",
     "previous": "Moragocome",
     "next": "Μωραθεί",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 277,
-        "author": "Enßlin"
+        "end": 277,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3298,11 +3433,13 @@
     "lemma": "Morges 1",
     "previous": "Μοργέντιον",
     "next": "Morges 2",
+    "proof_read": 0,
     "short_description": "Gründer d. sizilischen Stadt Galarina",
     "chapters": [
       {
         "start": 301,
-        "author": "Pley"
+        "end": 301,
+        "author": "J. Pley."
       }
     ]
   },
@@ -3567,11 +3704,13 @@
     "lemma": "Moritasgus 2",
     "previous": "Moritasgus 1",
     "next": "Morkos",
+    "proof_read": 0,
     "short_description": "Mit Königswürde bei d. Senonen in Mittelgallien",
     "chapters": [
       {
         "start": 309,
-        "author": "Münzer"
+        "end": 309,
+        "author": "F. Münzer."
       }
     ]
   },
@@ -3579,11 +3718,13 @@
     "lemma": "Morkos",
     "previous": "Moritasgus 2",
     "next": "Mormo",
+    "proof_read": 0,
     "short_description": "Illyrier, 169/8 v. Chr. Gesandter nach Makedonien",
     "chapters": [
       {
         "start": 309,
-        "author": "Geyer"
+        "end": 309,
+        "author": "Fritz Geyer."
       }
     ]
   },
@@ -3744,11 +3885,13 @@
     "lemma": "Morraphios",
     "previous": "Morphos",
     "next": "Morrius",
+    "proof_read": 0,
     "short_description": "Sohn d. Menelaos u. d. Helena",
     "chapters": [
       {
         "start": 313,
-        "author": "Hanslik"
+        "end": 314,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
@@ -3756,10 +3899,12 @@
     "lemma": "Morrius",
     "previous": "Morraphios",
     "next": "Mors",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 314,
-        "author": "Schur"
+        "end": 314,
+        "author": "W. Schur."
       }
     ]
   },
@@ -3805,11 +3950,13 @@
     "lemma": "Morsimos",
     "previous": "Morsa",
     "next": "Morsynos",
+    "proof_read": 0,
     "short_description": "Aus Athen, Großneffe d. Aischylos",
     "chapters": [
       {
         "start": 318,
-        "author": "Diehl, Ernst"
+        "end": 319,
+        "author": "E. Diehl."
       }
     ]
   },
@@ -3986,11 +4133,13 @@
     "lemma": "Morychos 2",
     "previous": "Morychos 1",
     "next": "Moryllos",
+    "proof_read": 0,
     "short_description": "Aus Athen, Tragiker",
     "chapters": [
       {
         "start": 326,
-        "author": "Diehl, Ernst"
+        "end": 326,
+        "author": "E. Diehl."
       }
     ]
   },
@@ -4151,16 +4300,18 @@
   {
     "lemma": "Moschianus",
     "previous": "Moscharus",
-    "next": "Moschika ore",
+    "next": "Μοσχικὰ ὄρη",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 344,
-        "author": "Enßlin"
+        "end": 344,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
-    "lemma": "Moschika ore",
+    "lemma": "Μοσχικὰ ὄρη",
     "previous": "Moschianus",
     "next": "Moschine",
     "chapters": [
@@ -4172,12 +4323,14 @@
   },
   {
     "lemma": "Moschine",
-    "previous": "Moschika ore",
+    "previous": "Μοσχικὰ ὄρη",
     "next": "Moschion 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 344,
-        "author": "Maas"
+        "end": 344,
+        "author": "Paul Maas."
       }
     ]
   },
@@ -4185,11 +4338,13 @@
     "lemma": "Moschion 1",
     "previous": "Moschine",
     "next": "Moschion 2",
+    "proof_read": 0,
     "short_description": "Aus Elis, Teilnehmer am asiat. Feldzug Alexanders",
     "chapters": [
       {
         "start": 344,
-        "author": "Berve"
+        "end": 344,
+        "author": "Berve."
       }
     ]
   },
@@ -4213,11 +4368,13 @@
     "lemma": "Moschion 3",
     "previous": "Moschion 2",
     "next": "Moschion 4",
+    "proof_read": 0,
     "short_description": "Jüngerer Tragiker",
     "chapters": [
       {
         "start": 345,
-        "author": "Diehl, Ernst"
+        "end": 347,
+        "author": "E. Diehl."
       }
     ]
   },
@@ -4225,11 +4382,13 @@
     "lemma": "Moschion 4",
     "previous": "Moschion 3",
     "next": "Moschion 5",
+    "proof_read": 0,
     "short_description": "Komödiendichter",
     "chapters": [
       {
         "start": 347,
-        "author": "Körte"
+        "end": 348,
+        "author": "A. Koerte."
       }
     ]
   },
@@ -4237,11 +4396,13 @@
     "lemma": "Moschion 5",
     "previous": "Moschion 4",
     "next": "Moschion 6",
+    "proof_read": 0,
     "short_description": "Verf. eines syngramma über d. Schiff d. Hieron",
     "chapters": [
       {
         "start": 348,
-        "author": "Bux"
+        "end": 348,
+        "author": "E. Bux."
       }
     ]
   },
@@ -4249,11 +4410,13 @@
     "lemma": "Moschion 6",
     "previous": "Moschion 5",
     "next": "Moschion 7",
+    "proof_read": 0,
     "short_description": "Person in einem Bericht über d. Tafelluxus d. Demetrios v. Phaleron",
     "chapters": [
       {
         "start": 348,
-        "author": "Bux"
+        "end": 348,
+        "author": "E. Bux."
       }
     ]
   },
@@ -4261,11 +4424,13 @@
     "lemma": "Moschion 7",
     "previous": "Moschion 6",
     "next": "Moschion 8",
+    "proof_read": 0,
     "short_description": "Aus Mallos, Philosoph d. mittleren Akademie",
     "chapters": [
       {
         "start": 348,
-        "author": "Fritz"
+        "end": 348,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -4273,11 +4438,13 @@
     "lemma": "Moschion 8",
     "previous": "Moschion 7",
     "next": "Moschion 9",
+    "proof_read": 0,
     "short_description": "Angebl. Verf. einer Sprüchesammlung unter d. Titel Moschionos gnonai",
     "chapters": [
       {
         "start": 348,
-        "author": "Fritz"
+        "end": 349,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -4285,11 +4452,13 @@
     "lemma": "Moschion 9",
     "previous": "Moschion 8",
     "next": "Moschion 10",
+    "proof_read": 0,
     "short_description": "Gr. Arzt erste Hälfte 1. Jh. v. Chr.",
     "chapters": [
       {
         "start": 349,
-        "author": "Deichgräber"
+        "end": 350,
+        "author": "Deichgräber."
       }
     ]
   },
@@ -4297,11 +4466,13 @@
     "lemma": "Moschion 10",
     "previous": "Moschion 9",
     "next": "Moschis",
+    "proof_read": 0,
     "short_description": "Sohn d. Adamas aus Athen, Bildhauer",
     "chapters": [
       {
         "start": 350,
-        "author": "Lippold, Georg"
+        "end": 350,
+        "author": "G. Lippold."
       }
     ]
   },
@@ -4372,11 +4543,13 @@
     "lemma": "Moschos 2",
     "previous": "Moschos 1",
     "next": "Moschos 3",
+    "proof_read": 0,
     "short_description": "Bukolischer Dichter zw. Theokritos u. Bion",
     "chapters": [
       {
         "start": 355,
-        "author": "Maas"
+        "end": 356,
+        "author": "Paul Maas."
       }
     ]
   },
@@ -4384,11 +4557,13 @@
     "lemma": "Moschos 3",
     "previous": "Moschos 2",
     "next": "Moschos 4",
+    "proof_read": 0,
     "short_description": "Aus Elis, Philosoph",
     "chapters": [
       {
         "start": 356,
-        "author": "Fritz"
+        "end": 356,
+        "author": "K. v. Fritz."
       }
     ]
   },
