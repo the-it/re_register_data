@@ -21,7 +21,7 @@ else:
 subprocess.run([global_binary, "-m", "pip", "install", "virtualenv"])  # nosec
 subprocess.run([global_binary, "-m", "venv", str(venv_path)])  # nosec
 if not os.path.exists(repo_path):
-    subprocess.run(["git", "clone", "https://github.com:the-it/WS_THEbotIT.git"], cwd=root_path)  # nosec
+    subprocess.run(["git", "clone", "https://github.com/the-it/WS_THEbotIT.git"], cwd=root_path)  # nosec
 else:
     subprocess.run(["git", "pull"], cwd=repo_path)  # nosec
 subprocess.run([local_binary, "-m", "pip", "install",
