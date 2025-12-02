@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure SSH (for cloning WS_THEbotIT via setup.py)
+        if: ${{ secrets.SSH_PRIVATE_KEY != '' }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run setup.py
+        run: |
+          python3 setup.py
+
+      - name: Run test.py
+        env:
+          # test.py configures these itself, but you can override if needed
+          WS_REAL_DATA: "1"
+          REGISTER_DATA_PATH: ${{ github.workspace }}
+        run: |
+          python3 test.py
