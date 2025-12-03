@@ -2236,7 +2236,7 @@
   {
     "lemma": "Hieroglyphen",
     "previous": "Hieroduloi",
-    "next": "Hieroi",
+    "next": "Ἱεροί",
     "proof_read": 0,
     "short_description": "Bilderschrift des alten Ägypter",
     "wp_link": "w:de:Ägyptische Hieroglyphen",
@@ -2250,9 +2250,9 @@
     ]
   },
   {
-    "lemma": "Hieroi",
+    "lemma": "Ἱεροί",
     "previous": "Hieroglyphen",
-    "next": "Hierokaisareia 1",
+    "next": "Hierokaisareia",
     "short_description": "Titel zur Bezeichnung einer äußeren Stellung",
     "chapters": [
       {
@@ -2262,24 +2262,10 @@
       }
     ]
   },
+  {"lemma": "Hierokaisareia"},
   {
     "lemma": "Hierokaisareia 1",
     "previous": "Hierokaisareia",
-    "next": "Hierokles 1",
-    "proof_read": 2,
-    "short_description": "in Lydien s. Hiera Kome, Hierokaisareia",
-    "chapters": [
-      {
-        "start": 1476,
-        "end": 1476,
-        "author": "Bürchner."
-      }
-    ]
-  },
-  {
-    "lemma": "Hierokaisareia 2",
-    "previous": "Hierokaisareia 1",
-    "next": "Hierokles 1",
     "proof_read": 2,
     "short_description": "in Lydien s. Hiera Kome, Hierokaisareia",
     "chapters": [
@@ -2292,7 +2278,6 @@
   },
   {
     "lemma": "Hierokles 1",
-    "previous": "Hierokaisareia 2",
     "next": "Hierokles 2",
     "short_description": "Kar. Garnisonskommandant im Peiraieus etwa um 280/70 v. Chr.",
     "chapters": [
@@ -2723,6 +2708,7 @@
       }
     ]
   },
+  {"lemma": "Hieron"},
   {
     "lemma": "Hieron 1",
     "previous": "Hieron",
@@ -3910,80 +3896,7 @@
     ]
   },
   {
-    "lemma": "Hikesios 1",
-    "previous": "Hikesia",
-    "next": "Hikesios 2",
-    "proof_read": 0,
-    "short_description": "oder Hikesia, Beiname von Gottheiten",
-    "wd_link": "d:Q106522431",
-    "chapters": [
-      {
-        "start": 1592,
-        "end": 1593,
-        "author": "Jessen."
-      }
-    ]
-  },
-  {
-    "lemma": "Hikesios 2",
-    "previous": "Hikesios 1",
-    "next": "Hikesios 3",
-    "proof_read": 2,
-    "short_description": "Aus Chios, Flottenbefehlshaber",
-    "wd_link": "d:Q91121876",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 1593,
-        "end": 1593,
-        "author": "Sundwall."
-      }
-    ]
-  },
-  {
-    "lemma": "Hikesios 3",
-    "previous": "Hikesios 2",
-    "next": "Hikesios 4",
-    "proof_read": 0,
-    "short_description": "aus Milet, gesandt an Antiochos Epiphanes",
-    "chapters": [
-      {
-        "start": 1593,
-        "end": 1593,
-        "author": "Walter Otto."
-      }
-    ]
-  },
-  {
-    "lemma": "Hikesios 4",
-    "previous": "Hikesios 3",
-    "next": "Hikesios 5",
-    "proof_read": 2,
-    "short_description": "Verfasser einer Schrift über Mysterien",
-    "wp_link": "w:ca:Hicesi (escriptor)",
-    "wd_link": "d:Q20003047",
-    "chapters": [
-      {
-        "start": 1593,
-        "end": 1593,
-        "author": "Kern."
-      }
-    ]
-  },
-  {
-    "lemma": "Hikesios 5",
-    "previous": "Hikesios 4",
-    "proof_read": 0,
-    "short_description": "Berühmter Arzt",
-    "wp_link": "w:en:Hicesius",
-    "wd_link": "d:Q531475",
-    "chapters": [
-      {
-        "start": 1593,
-        "end": 1594,
-        "author": "Gossen."
-      }
-    ]
+    "lemma": "Hikesios, Hikesia 1"
   },
   {
     "lemma": "Hikesios, Hikesia 2",
@@ -8372,20 +8285,6 @@
     ]
   },
   {
-    "lemma": "Hippolyte",
-    "previous": "Hippolochos 11",
-    "next": "Hippolyte 1",
-    "proof_read": 0,
-    "short_description": "zum Namen",
-    "chapters": [
-      {
-        "start": 1863,
-        "end": 1863,
-        "author": "Eitrem."
-      }
-    ]
-  },
-  {
     "lemma": "Hippolochos 11",
     "previous": "Hippolochos 10",
     "next": "Hippolyte",
@@ -8396,6 +8295,20 @@
         "start": 1863,
         "end": 1863,
         "author": "Leonard."
+      }
+    ]
+  },
+  {
+    "lemma": "Hippolyte",
+    "previous": "Hippolochos 11",
+    "next": "Hippolyte 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1863,
+        "end": 1863,
+        "author": "Eitrem."
       }
     ]
   },
