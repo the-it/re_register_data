@@ -1166,11 +1166,13 @@
     "previous": "Hibiscus",
     "next": "Hiempsal",
     "sort_key": "Hidrysis",
+    "proof_read": 0,
     "short_description": "Gründung, Errichtung bes. von Heiligtümern",
     "chapters": [
       {
         "start": 1393,
-        "author": "Link"
+        "end": 1393,
+        "author": "Link."
       }
     ]
   },
@@ -1407,12 +1409,14 @@
     "lemma": "Hiera nesos, Hieronesos",
     "previous": "Ἱερὰ γερουσία",
     "next": "Ἱερὰ ὁδός",
+    "sort_key": "Hieranesos, hieronesos",
+    "proof_read": 0,
     "short_description": "Westlichste der Aegatischen Inseln",
     "chapters": [
       {
         "start": 1399,
         "end": 1400,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -2260,11 +2264,10 @@
   },
   {
     "lemma": "Hierokaisareia 1",
-    "previous": "Hieroi",
-    "next": "Hierokaisareia 2",
-    "sort_key": "Hierokaisareia 1",
+    "previous": "Hierokaisareia",
+    "next": "Hierokles 1",
     "proof_read": 2,
-    "short_description": "Name zweier kleinasiatischer Städte",
+    "short_description": "in Lydien s. Hiera Kome, Hierokaisareia",
     "chapters": [
       {
         "start": 1476,
@@ -2709,19 +2712,20 @@
   {
     "lemma": "Hieromnemones",
     "previous": "Hieromnemon 2",
-    "next": "Hieron 1",
+    "next": "Hieron",
+    "proof_read": 0,
     "short_description": "Sakralbeamte",
     "chapters": [
       {
         "start": 1490,
         "end": 1496,
-        "author": "Hepding"
+        "author": "Hepding."
       }
     ]
   },
   {
     "lemma": "Hieron 1",
-    "previous": "Hieromnemones",
+    "previous": "Hieron",
     "next": "Hieron 2",
     "sort_key": "Hieron 1",
     "proof_read": 2,
@@ -3895,11 +3899,13 @@
   {
     "lemma": "Hikesia",
     "previous": "Hikanos",
-    "next": "Hikesios 1",
+    "next": "Hikesios, Hikesia 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1592,
-        "author": "Ziegler"
+        "end": 1592,
+        "author": "Ziegler."
       }
     ]
   },
@@ -3967,6 +3973,67 @@
   {
     "lemma": "Hikesios 5",
     "previous": "Hikesios 4",
+    "proof_read": 0,
+    "short_description": "Berühmter Arzt",
+    "wp_link": "w:en:Hicesius",
+    "wd_link": "d:Q531475",
+    "chapters": [
+      {
+        "start": 1593,
+        "end": 1594,
+        "author": "Gossen."
+      }
+    ]
+  },
+  {
+    "lemma": "Hikesios, Hikesia 2",
+    "previous": "Hikesios, Hikesia 1",
+    "next": "Hikesios, Hikesia 3",
+    "proof_read": 2,
+    "short_description": "Aus Chios, Flottenbefehlshaber",
+    "wd_link": "d:Q91121876",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 1593,
+        "end": 1593,
+        "author": "Sundwall."
+      }
+    ]
+  },
+  {
+    "lemma": "Hikesios, Hikesia 3",
+    "previous": "Hikesios, Hikesia 2",
+    "next": "Hikesios, Hikesia 4",
+    "proof_read": 0,
+    "short_description": "aus Milet, gesandt an Antiochos Epiphanes",
+    "chapters": [
+      {
+        "start": 1593,
+        "end": 1593,
+        "author": "Walter Otto."
+      }
+    ]
+  },
+  {
+    "lemma": "Hikesios, Hikesia 4",
+    "previous": "Hikesios, Hikesia 3",
+    "next": "Hikesios, Hikesia 5",
+    "proof_read": 2,
+    "short_description": "Verfasser einer Schrift über Mysterien",
+    "wp_link": "w:ca:Hicesi (escriptor)",
+    "wd_link": "d:Q20003047",
+    "chapters": [
+      {
+        "start": 1593,
+        "end": 1593,
+        "author": "Kern."
+      }
+    ]
+  },
+  {
+    "lemma": "Hikesios, Hikesia 5",
+    "previous": "Hikesios, Hikesia 4",
     "next": "Hiketas 1",
     "proof_read": 0,
     "short_description": "Berühmter Arzt",
@@ -3982,7 +4049,7 @@
   },
   {
     "lemma": "Hiketas 1",
-    "previous": "Hikesios 5",
+    "previous": "Hikesios, Hikesia 5",
     "next": "Hiketas 2",
     "proof_read": 2,
     "short_description": "Epiklesis des Zeus",
@@ -4060,7 +4127,7 @@
     "lemma": "Hiketesios",
     "previous": "Hiketes",
     "next": "Hilaria",
-    "redirect": "Hikesios 1",
+    "redirect": "Hikesios, Hikesia 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -4730,12 +4797,13 @@
     "lemma": "Himera",
     "previous": "Himella",
     "next": "Himeras",
+    "proof_read": 0,
     "short_description": "Gr. Stadt an d. N-Küste Siziliens",
     "chapters": [
       {
         "start": 1613,
         "end": 1620,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -4743,12 +4811,13 @@
     "lemma": "Himeras",
     "previous": "Himera",
     "next": "Himerios 1",
+    "proof_read": 0,
     "short_description": "Name zweier Flüsse Siziliens",
     "chapters": [
       {
         "start": 1620,
         "end": 1621,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -4799,12 +4868,13 @@
     "lemma": "Himeros 1",
     "previous": "Himerios 3",
     "next": "Himeros 2",
+    "proof_read": 0,
     "short_description": "Göttl. Gestalt im Kreis d. Eros u. d. Aphrodite",
     "chapters": [
       {
         "start": 1635,
         "end": 1638,
-        "author": "Sittig"
+        "author": "Sittig."
       }
     ]
   },

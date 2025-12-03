@@ -584,11 +584,13 @@
     "lemma": "Heliogabalium 1",
     "previous": "Heliodoros 22",
     "next": "Heliogabalium 2",
+    "proof_read": 0,
     "short_description": "Vorstadt Roms am Esquilin",
     "chapters": [
       {
         "start": 44,
-        "author": "Gall"
+        "end": 44,
+        "author": "Gall."
       }
     ]
   },
@@ -596,11 +598,13 @@
     "lemma": "Heliogabalium 2",
     "previous": "Heliogabalium 1",
     "next": "Heliogabalus",
+    "proof_read": 0,
     "short_description": "Heiligtum in Rom beim Palast Elagabals",
     "chapters": [
       {
         "start": 44,
-        "author": "Gall"
+        "end": 44,
+        "author": "Gall."
       }
     ]
   },
@@ -743,19 +747,34 @@
   {
     "lemma": "Heliopolitanus",
     "previous": "Heliopolis 3",
-    "next": "Helios 1",
+    "next": "Helios",
+    "proof_read": 0,
     "short_description": "Griechischer Name des Gottes von Ba'albek",
     "chapters": [
       {
         "start": 50,
         "end": 57,
-        "author": "Dussaud"
+        "author": "Dussaud."
+      }
+    ]
+  },
+  {
+    "lemma": "Helios",
+    "previous": "Heliopolitanus",
+    "next": "Helios 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 58,
+        "end": 58,
+        "author": "Jessen."
       }
     ]
   },
   {
     "lemma": "Helios 1",
-    "previous": "Heliopolitanus",
+    "previous": "Helios",
     "next": "Helios 2",
     "proof_read": 0,
     "short_description": "Indogermanische Bezeichnung der Sonne, Sonnengott",
@@ -1015,11 +1034,13 @@
     "lemma": "Helkethion",
     "previous": "Helixos 2",
     "next": "Helkias 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 96,
-        "author": "Ziegler"
+        "end": 96,
+        "author": "Ziegler."
       }
     ]
   },
@@ -1682,11 +1703,13 @@
     "lemma": "Helleni",
     "previous": "Hellen 2",
     "next": "Ἑλληνικὴ θάλαττα",
+    "proof_read": 0,
     "short_description": "Iberischer Stamm",
     "chapters": [
       {
         "start": 173,
-        "author": "Schulten"
+        "end": 173,
+        "author": "Schulten."
       }
     ]
   },
@@ -2364,30 +2387,47 @@
     "lemma": "Heloros 3",
     "previous": "Heloros 2",
     "next": "Heloros 4",
+    "proof_read": 0,
     "short_description": "Fluß auf Sizilien",
     "chapters": [
       {
         "start": 199,
-        "author": "Ziegler"
+        "end": 199,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Heloros 4",
     "previous": "Heloros 3",
-    "next": "Helos 1",
+    "next": "Helos",
+    "proof_read": 0,
     "short_description": "Stadt auf Sizilien?",
     "chapters": [
       {
         "start": 199,
         "end": 200,
-        "author": "Ziegler"
+        "author": "Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Helos",
+    "previous": "Heloros 4",
+    "next": "Helos 1",
+    "proof_read": 2,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 200,
+        "end": 200,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Helos 1",
-    "previous": "Heloros 4",
+    "previous": "Helos",
     "next": "Helos 2",
     "sort_key": "Helos 1",
     "proof_read": 2,
@@ -3418,7 +3458,7 @@
   {
     "lemma": "Ἡμίχρυσος",
     "previous": "Ἡμιχόριον",
-    "next": "Hemichrysos",
+    "next": "Ἡμίχρυσος",
     "sort_key": "Hemichryso",
     "proof_read": 3,
     "short_description": "Der halbe Goldstater",
@@ -3431,9 +3471,9 @@
     ]
   },
   {
-    "lemma": "Hemichrysos",
+    "lemma": "Ἡμίχρυσος",
     "previous": "Ἡμίχρυσος",
-    "next": "Hemicyclicum 1",
+    "next": "Hemicyclicum",
     "redirect": "Ἡμίχρυσος",
     "proof_read": 2,
     "chapters": [
@@ -3445,14 +3485,30 @@
     ]
   },
   {
+    "lemma": "Hemicyclicum",
+    "previous": "Ἡμίχρυσος",
+    "next": "Hemicyclicum 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 243,
+        "end": 243,
+        "author": "K. Schneider."
+      }
+    ]
+  },
+  {
     "lemma": "Hemicyclicum 1",
-    "previous": "Hemichrysos",
+    "previous": "Hemicyclicum",
     "next": "Hemicyclicum 2",
+    "proof_read": 0,
     "short_description": "Halbkreisförmige Bank",
     "chapters": [
       {
         "start": 243,
-        "author": "Schneider, K[arl]"
+        "end": 243,
+        "author": "K. Schneider."
       }
     ]
   },
@@ -3475,11 +3531,13 @@
     "lemma": "Hemicyclicum 3",
     "previous": "Hemicyclicum 2",
     "next": "Hemidanakion",
+    "proof_read": 0,
     "short_description": "Sonnenuhr",
     "chapters": [
       {
         "start": 243,
-        "author": "Schneider, K[arl]"
+        "end": 243,
+        "author": "K. Schneider."
       }
     ]
   },
@@ -4114,12 +4172,13 @@
     "lemma": "Hemithea 1",
     "previous": "Ἡμιτάλαντον",
     "next": "Hemithea 2",
+    "proof_read": 0,
     "short_description": "Göttin mit Heiligtum in Kastabos",
     "chapters": [
       {
         "start": 254,
         "end": 255,
-        "author": "Friedländer"
+        "author": "P. Friedländer."
       }
     ]
   },
@@ -4460,12 +4519,13 @@
     "lemma": "Henna",
     "previous": "Ἡνίοχος ἄλλος",
     "next": "Hennetoi",
+    "proof_read": 0,
     "short_description": "Stadt auf Sizilien Castro Giovanni",
     "chapters": [
       {
         "start": 284,
         "end": 287,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -4847,31 +4907,35 @@
   {
     "lemma": "Hephaistos",
     "previous": "Hephaistios 2",
-    "next": "Hephaistu nesos 1",
+    "next": "Ἡφαίστου νῆσος 1",
+    "proof_read": 0,
     "short_description": "Griechischer Gott",
     "chapters": [
       {
         "start": 311,
         "end": 366,
-        "author": "Malten"
+        "author": "Malten."
       }
     ]
   },
   {
-    "lemma": "Hephaistu nesos 1",
+    "lemma": "Ἡφαίστου νῆσος 1",
     "previous": "Hephaistos",
     "next": "Ἡφαίστου νῆσος 2",
+    "sort_key": "Hephaistunesos 1",
+    "proof_read": 0,
     "short_description": "Liparische Insel, s. Volcano",
     "chapters": [
       {
         "start": 366,
-        "author": "Ziegler"
+        "end": 366,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Ἡφαίστου νῆσος 2",
-    "previous": "Hephaistu nesos 1",
+    "previous": "Ἡφαίστου νῆσος 1",
     "next": "Heplenta",
     "sort_key": "Hephaistu nesos 2",
     "redirect": "Hephaesti insulae",
@@ -5511,19 +5575,33 @@
   {
     "lemma": "Heraia 3",
     "previous": "Heraia 2",
-    "next": "Heraieis",
+    "next": "Ἡραῖα ὄρη",
+    "proof_read": 0,
     "short_description": "Feste für Hera",
     "chapters": [
       {
         "start": 416,
         "end": 418,
-        "author": "Ziegler"
+        "author": "Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Ἡραῖα ὄρη",
+    "previous": "Heraia 3",
+    "next": "Heraieis",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 418,
+        "end": 418,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Heraieis",
-    "previous": "Heraia 3",
+    "previous": "Ἡραῖα ὄρη",
     "next": "Heraion 1",
     "redirect": "Heraia 1",
     "proof_read": 2,
@@ -6117,12 +6195,13 @@
     "lemma": "Herakleia 28",
     "previous": "Herakleia 27",
     "next": "Herakleia 29",
+    "proof_read": 0,
     "short_description": "Stadt auf Sizilien",
     "chapters": [
       {
         "start": 436,
         "end": 439,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -6130,11 +6209,13 @@
     "lemma": "Herakleia 29",
     "previous": "Herakleia 28",
     "next": "Herakleia 30",
+    "proof_read": 0,
     "short_description": "Insel der liparischen Gruppe",
     "chapters": [
       {
         "start": 439,
-        "author": "Ziegler"
+        "end": 439,
+        "author": "Ziegler."
       }
     ]
   },
@@ -6201,17 +6282,18 @@
     "lemma": "Herakleidai 1",
     "previous": "Herakleia 32",
     "next": "Herakleidai 2",
-    "short_description": "Nachkommen des Herakles",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 440,
         "end": 446,
-        "author": "Tambornino"
+        "author": "Tambornino."
       },
       {
-        "start": 446,
+        "start": 447,
         "end": 457,
-        "author": "Pley"
+        "author": "Pley."
       }
     ]
   },
@@ -8141,11 +8223,13 @@
     "lemma": "Herakleopolis 3",
     "previous": "Herakleopolis 2",
     "next": "Herakleopolis 4",
+    "proof_read": 0,
     "short_description": "Magna Stadt in Mittelägypten",
     "chapters": [
       {
         "start": 515,
-        "author": "Grapow"
+        "end": 515,
+        "author": "Grapow."
       }
     ]
   },
@@ -8533,7 +8617,7 @@
   {
     "lemma": "Herbelloni",
     "previous": "Herbanum",
-    "next": "Herbessos 1",
+    "next": "Herbessos",
     "redirect": "Helvillum vicus",
     "proof_read": 3,
     "chapters": [
@@ -8544,14 +8628,30 @@
     ]
   },
   {
-    "lemma": "Herbessos 1",
+    "lemma": "Herbessos",
     "previous": "Herbelloni",
+    "next": "Herbessos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 530,
+        "end": 530,
+        "author": "Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Herbessos 1",
+    "previous": "Herbessos",
     "next": "Herbessos 2",
+    "proof_read": 0,
     "short_description": "Stadt bei Akragas",
     "chapters": [
       {
         "start": 530,
-        "author": "Ziegler"
+        "end": 530,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8559,12 +8659,13 @@
     "lemma": "Herbessos 2",
     "previous": "Herbessos 1",
     "next": "Herbita",
+    "proof_read": 0,
     "short_description": "Sikelerstadt",
     "chapters": [
       {
         "start": 530,
         "end": 531,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -8572,12 +8673,13 @@
     "lemma": "Herbita",
     "previous": "Herbessos 2",
     "next": "Hercl(anenses?)",
+    "proof_read": 0,
     "short_description": "Sikelerstadt",
     "chapters": [
       {
         "start": 531,
         "end": 532,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -8626,12 +8728,13 @@
     "lemma": "Herculaneum 2",
     "previous": "Herculaneum 1",
     "next": "Herculaneus pagus 1",
+    "proof_read": 0,
     "short_description": "Vesuvstadt in Kampanien",
     "chapters": [
       {
         "start": 532,
         "end": 548,
-        "author": "Gall"
+        "author": "Gall."
       }
     ]
   },
@@ -8684,11 +8787,14 @@
     "lemma": "Herculaneus rivus 1",
     "previous": "Herculaneus pagus 3",
     "next": "Herculaneus rivus 2",
+    "sort_key": "Herculaneusrivus 1",
+    "proof_read": 0,
     "short_description": "Nebenarm der Aqua Marcia",
     "chapters": [
       {
         "start": 549,
-        "author": "Gall"
+        "end": 549,
+        "author": "Gall."
       }
     ]
   },
@@ -10439,11 +10545,14 @@
     "lemma": "Heres Martia",
     "previous": "Heres",
     "next": "Hergates",
+    "sort_key": "Heresmartia",
+    "proof_read": 0,
     "short_description": "Göttin des Marskreises",
     "chapters": [
       {
         "start": 682,
-        "author": "Otto, W[alter] F[riedrich]"
+        "end": 682,
+        "author": "W. F. Otto."
       }
     ]
   },
@@ -10467,12 +10576,14 @@
     "lemma": "Heries Iunonis",
     "previous": "Hergates",
     "next": "Herila",
+    "sort_key": "Heriesiunonis",
+    "proof_read": 0,
     "short_description": "Göttin, zum Kreis der Iuno gehörig",
     "chapters": [
       {
         "start": 682,
         "end": 683,
-        "author": "Otto, W[alter] F[riedrich]"
+        "author": "W. F. Otto."
       }
     ]
   },
@@ -10899,12 +11010,13 @@
     "lemma": "Hermai",
     "previous": "Hermagoras 8",
     "next": "Ἑρμαῖα",
+    "proof_read": 0,
     "short_description": "Pfeilerförmige Steine mit Porträt- oder Götterkopf",
     "chapters": [
       {
         "start": 696,
         "end": 708,
-        "author": "Eitrem"
+        "author": "Eitrem."
       }
     ]
   },
@@ -10972,11 +11084,13 @@
     "lemma": "Hermaion 1",
     "previous": "Hermaieus 2",
     "next": "Hermaion 2",
+    "proof_read": 0,
     "short_description": "Steinhaufen an Wegen und auf Bergen",
     "chapters": [
       {
         "start": 709,
-        "author": "Eitrem"
+        "end": 709,
+        "author": "Eitrem."
       }
     ]
   },
@@ -10984,12 +11098,13 @@
     "lemma": "Hermaion 2",
     "previous": "Hermaion 1",
     "next": "Hermaion 3",
+    "proof_read": 0,
     "short_description": "Glücksfund",
     "chapters": [
       {
         "start": 709,
         "end": 710,
-        "author": "Eitrem"
+        "author": "Eitrem."
       }
     ]
   },
@@ -12434,11 +12549,13 @@
     "lemma": "Hermione 5",
     "previous": "Hermione 4",
     "next": "Hermione 6",
+    "proof_read": 0,
     "short_description": "Beiname von Demeter und Persephone",
     "chapters": [
       {
         "start": 843,
-        "author": "Zwicker"
+        "end": 843,
+        "author": "Zwicker."
       }
     ]
   },
@@ -14242,12 +14359,13 @@
     "lemma": "Hermonthis",
     "previous": "Hermonossa",
     "next": "Hermonthites",
+    "proof_read": 0,
     "short_description": "Stadt in Oberägypten",
     "chapters": [
       {
         "start": 901,
         "end": 902,
-        "author": "Grapow"
+        "author": "Grapow."
       }
     ]
   },
@@ -14556,11 +14674,13 @@
     "lemma": "Hermotybier",
     "previous": "Hermotos",
     "next": "Hermuli",
+    "proof_read": 0,
     "short_description": "Klasse der ägyptischen Soldatenkaste",
     "chapters": [
       {
         "start": 905,
-        "author": "Grapow"
+        "end": 905,
+        "author": "Grapow."
       }
     ]
   },
@@ -15869,12 +15989,13 @@
     "lemma": "Heros",
     "previous": "Heropythos",
     "next": "Heroskamandros",
+    "proof_read": 0,
     "short_description": "Halbgott",
     "chapters": [
       {
         "start": 1111,
         "end": 1145,
-        "author": "Eitrem"
+        "author": "Eitrem."
       }
     ]
   },
@@ -16301,12 +16422,13 @@
     "lemma": "Hesperiden",
     "previous": "Hesperia",
     "next": "Hesperidum insulae",
+    "proof_read": 0,
     "short_description": "Töchter der Nacht",
     "chapters": [
       {
         "start": 1243,
         "end": 1248,
-        "author": "Sittig"
+        "author": "Sittig."
       }
     ]
   },
@@ -16493,13 +16615,14 @@
   {
     "lemma": "Hestia",
     "previous": "Hessos",
-    "next": "Harpyien 1",
+    "next": "Haemona",
+    "proof_read": 0,
     "short_description": "Göttin des Hauses und des Herdes",
     "chapters": [
       {
         "start": 1257,
         "end": 1304,
-        "author": "Süß"
+        "author": "Süß."
       }
     ]
   },
