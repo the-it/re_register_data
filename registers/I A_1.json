@@ -3896,7 +3896,7 @@
   {
     "lemma": "Re",
     "previous": "Ῥαξοῦνδα",
-    "next": "Rea 1",
+    "next": "Ῥέα",
     "short_description": "Ägypt. Sonnengott",
     "chapters": [
       {
@@ -3907,15 +3907,17 @@
     ]
   },
   {
-    "lemma": "Rea 1",
+    "lemma": "Ῥέα",
     "previous": "Re",
     "next": "Ῥῆα",
-    "short_description": "Gr. Göttin",
+    "sort_key": "Rea 1",
+    "proof_read": 0,
+    "short_description": "Rea, griechische Göttin",
     "chapters": [
       {
         "start": 339,
         "end": 341,
-        "author": "Heckenbach"
+        "author": "Heckenbach."
       }
     ]
   },
@@ -3923,7 +3925,7 @@
     "lemma": "Ῥῆα",
     "previous": "Ῥέα",
     "next": "Rea Silvia",
-    "sort_key": "Rea",
+    "sort_key": "Rea 2",
     "proof_read": 2,
     "short_description": "Rea, Stadt der Landschaft Margiana",
     "chapters": [
@@ -8620,7 +8622,7 @@
   {
     "lemma": "Ῥία",
     "previous": "Rhythmica",
-    "next": "Rianos",
+    "next": "Ῥιανός",
     "sort_key": "Ria",
     "redirect": "Rieia",
     "proof_read": 2,
@@ -8632,7 +8634,7 @@
     ]
   },
   {
-    "lemma": "Rianos",
+    "lemma": "Ῥιανός",
     "previous": "Ῥία",
     "next": "Ῥίβιοι",
     "short_description": "Gr. Dichter, 3. Jh. v. Chr.",
@@ -8646,7 +8648,7 @@
   },
   {
     "lemma": "Ῥίβιοι",
-    "previous": "Rianos",
+    "previous": "Ῥιανός",
     "next": "Ribla 1",
     "sort_key": "Rhibioi",
     "proof_read": 0,
@@ -11632,7 +11634,7 @@
   {
     "lemma": "Ῥοίτειον 1",
     "previous": "Ῥοίτειον",
-    "next": "Ῥοίτειον 2",
+    "next": "Ῥοίτειον  2",
     "sort_key": "Roiteion 1",
     "proof_read": 0,
     "short_description": "Randgebirge westl. v. Nr. 3",
@@ -12188,6 +12190,7 @@
   },
   {
     "lemma": "Ῥομβίτης μέγας, ἐλάσσων",
+    "previous": "Romatius",
     "next": "Ῥομβοειδές",
     "short_description": "Zwei Küstenflüsse, münden in d. Maiotis",
     "chapters": [

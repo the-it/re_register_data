@@ -4876,7 +4876,7 @@
   {
     "lemma": "Luduin",
     "previous": "Ludor",
-    "next": "Ludus Troiae",
+    "next": "Λουειθά",
     "proof_read": 0,
     "chapters": [
       {
@@ -12735,6 +12735,7 @@
     "lemma": "Lysidike",
     "previous": "Lyside",
     "next": "Lysidike 1–5",
+    "sort_key": "Lysidike 0a",
     "proof_read": 0,
     "short_description": "Form und Bedeutung des Namens",
     "chapters": [
@@ -12747,11 +12748,16 @@
   },
   {
     "lemma": "Lysidike 1–5",
-    "short_description": "Mytholog. Trägerinnen d. Namens",
+    "previous": "Lysidike",
+    "next": "Lysidike 1",
+    "sort_key": "Lysidike 0b",
+    "proof_read": 2,
+    "short_description": "mythologische Trägerinnen des Namens",
     "chapters": [
       {
         "start": 2544,
-        "author": "Lamer"
+        "end": 2544,
+        "author": "Lamer."
       }
     ]
   },

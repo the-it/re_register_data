@@ -2253,19 +2253,35 @@
     "lemma": "Ἱεροί",
     "previous": "Hieroglyphen",
     "next": "Hierokaisareia",
+    "proof_read": 0,
     "short_description": "Titel zur Bezeichnung einer äußeren Stellung",
     "chapters": [
       {
         "start": 1471,
         "end": 1476,
-        "author": "Link"
+        "author": "Link."
       }
     ]
   },
-  {"lemma": "Hierokaisareia"},
+  {
+    "lemma": "Hierokaisareia",
+    "previous": "Ἱεροί",
+    "next": "Hierokaisareia 1",
+    "sort_key": "Hierokaisareia 1",
+    "proof_read": 2,
+    "short_description": "Name zweier kleinasiatischer Städte",
+    "chapters": [
+      {
+        "start": 1476,
+        "end": 1476,
+        "author": "Bürchner."
+      }
+    ]
+  },
   {
     "lemma": "Hierokaisareia 1",
     "previous": "Hierokaisareia",
+    "next": "Hierokles 1",
     "proof_read": 2,
     "short_description": "in Lydien s. Hiera Kome, Hierokaisareia",
     "chapters": [
@@ -2278,6 +2294,7 @@
   },
   {
     "lemma": "Hierokles 1",
+    "previous": "Hierokaisareia 1",
     "next": "Hierokles 2",
     "short_description": "Kar. Garnisonskommandant im Peiraieus etwa um 280/70 v. Chr.",
     "chapters": [
@@ -2708,7 +2725,21 @@
       }
     ]
   },
-  {"lemma": "Hieron"},
+  {
+    "lemma": "Hieron",
+    "previous": "Hieromnemones",
+    "next": "Hieron 1",
+    "sort_key": "Hieron 1",
+    "proof_read": 2,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1496,
+        "end": 1496,
+        "author": "Bürchner."
+      }
+    ]
+  },
   {
     "lemma": "Hieron 1",
     "previous": "Hieron",
@@ -3896,7 +3927,19 @@
     ]
   },
   {
-    "lemma": "Hikesios, Hikesia 1"
+    "lemma": "Hikesios, Hikesia 1",
+    "previous": "Hikesia",
+    "next": "Hikesios, Hikesia 2",
+    "proof_read": 0,
+    "short_description": "oder Hikesia, Beiname von Gottheiten",
+    "wd_link": "d:Q106522431",
+    "chapters": [
+      {
+        "start": 1592,
+        "end": 1593,
+        "author": "Jessen."
+      }
+    ]
   },
   {
     "lemma": "Hikesios, Hikesia 2",
@@ -4810,11 +4853,13 @@
     "lemma": "Himeros 3",
     "previous": "Himeros 2",
     "next": "Himeros 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Nymphe Taygete",
     "chapters": [
       {
         "start": 1638,
-        "author": "Sittig"
+        "end": 1638,
+        "author": "Sittig."
       }
     ]
   },
@@ -5276,32 +5321,37 @@
   {
     "lemma": "Hippana",
     "previous": "Hippalos 3",
-    "next": "Hipparches 1",
-    "short_description": "Stadt Siziliens",
+    "next": "Ἱππάρχης",
+    "proof_read": 0,
+    "short_description": "Stadt auf Sizilien",
     "chapters": [
       {
         "start": 1662,
-        "author": "Ziegler"
+        "end": 1662,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Hipparches 1",
+    "lemma": "Ἱππάρχης",
     "previous": "Hippana",
     "next": "Hipparchia 1",
-    "short_description": "Eponymer Beamter in Kyzikos",
+    "sort_key": "Hipparches",
+    "redirect": "Hipparchos 20",
+    "proof_read": 3,
     "chapters": [
       {
-        "start": 1662
+        "start": 1662,
+        "end": 1662
       }
     ]
   },
   {
     "lemma": "Hipparchia 1",
-    "previous": "Hipparches 1",
+    "previous": "Ἱππάρχης",
     "next": "Hipparchia 2",
     "proof_read": 3,
-    "short_description": "Aus Maroneia/Thrakien, Schwester d. Kynikers Metrokles",
+    "short_description": "aus Maroneia in Thrakien, Schwester des Kynikers Metrokles",
     "wp_link": "w:de:Hipparchia",
     "wd_link": "d:Q235494",
     "chapters": [
@@ -6631,7 +6681,7 @@
   {
     "lemma": "Hippitas",
     "previous": "Hippios 5",
-    "next": "Hippo 1",
+    "next": "Hippo",
     "proof_read": 2,
     "short_description": "wohl Spataner, Freund Königs Kleomenes III",
     "chapters": [
@@ -6643,14 +6693,30 @@
     ]
   },
   {
-    "lemma": "Hippo 1",
+    "lemma": "Hippo",
     "previous": "Hippitas",
+    "next": "Hippo 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1720,
+        "end": 1720,
+        "author": "Hepding."
+      }
+    ]
+  },
+  {
+    "lemma": "Hippo 1",
+    "previous": "Hippo",
     "next": "Hippo 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Okeanos",
     "chapters": [
       {
         "start": 1720,
-        "author": "Hepding"
+        "end": 1720,
+        "author": "Hepding."
       }
     ]
   },
@@ -6727,20 +6793,36 @@
   {
     "lemma": "Hippo 7",
     "previous": "Hippo 6",
-    "next": "Hippo 9",
+    "next": "Hippo 8",
+    "proof_read": 0,
     "short_description": "Stadt in Hispania Tarraconensis",
     "chapters": [
       {
         "start": 1720,
         "end": 1721,
-        "author": "Schulten"
+        "author": "Schulten."
+      }
+    ]
+  },
+  {
+    "lemma": "Hippo 8",
+    "previous": "Hippo 7",
+    "next": "Hippo 9",
+    "sort_key": "Hipponova 8",
+    "proof_read": 0,
+    "short_description": "Stadt in Hispania Baetica",
+    "chapters": [
+      {
+        "start": 1721,
+        "end": 1721,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Hippo 9",
-    "previous": "Hippo 7",
-    "next": "Hippo nova 8",
+    "previous": "Hippo 8",
+    "next": "Ἱπποβόται",
     "proof_read": 0,
     "short_description": "Hippo Diarrhytus, Stadt der afrikanischen Küste",
     "chapters": [
@@ -7223,12 +7305,13 @@
     "lemma": "Hippodromos 2",
     "previous": "Hippodromos 1",
     "next": "Hippodromos 3",
+    "proof_read": 0,
     "short_description": "Bahn für Pferde- u. Wagenrennen bei d. Griechen",
     "chapters": [
       {
         "start": 1735,
         "end": 1745,
-        "author": "Schneider, K[arl]"
+        "author": "K. Schneider."
       }
     ]
   },
@@ -7236,11 +7319,13 @@
     "lemma": "Hippodromos 3",
     "previous": "Hippodromos 2",
     "next": "Hippodromos 4",
+    "proof_read": 0,
     "short_description": "Eine Art von Gartenanlagen bei d. Römern",
     "chapters": [
       {
         "start": 1745,
-        "author": "Schneider, K[arl]"
+        "end": 1745,
+        "author": "K. Schneider."
       }
     ]
   },
@@ -8002,11 +8087,13 @@
     "lemma": "Hippokrene",
     "previous": "Hippokrates 24",
     "next": "Hippokrene 1",
+    "proof_read": 0,
     "short_description": "Zum Namen",
     "chapters": [
       {
         "start": 1853,
-        "author": "Sittig"
+        "end": 1853,
+        "author": "Sittig."
       }
     ]
   },
@@ -8014,12 +8101,13 @@
     "lemma": "Hippokrene 1",
     "previous": "Hippokrene",
     "next": "Hippokrene 2",
+    "proof_read": 0,
     "short_description": "Quelle unterhalb des Helikon-Gipfels",
     "chapters": [
       {
         "start": 1853,
         "end": 1857,
-        "author": "Sittig"
+        "author": "Sittig."
       }
     ]
   },
@@ -8446,11 +8534,13 @@
     "lemma": "Hippolytos 5",
     "previous": "Hippolytos 4",
     "next": "Hippolytos 6",
+    "proof_read": 0,
     "short_description": "Gigant",
     "chapters": [
       {
         "start": 1873,
-        "author": "Eitrem"
+        "end": 1873,
+        "author": "Eitrem."
       }
     ]
   },
@@ -9178,11 +9268,13 @@
     "lemma": "Hipponon",
     "previous": "Hipponome",
     "next": "Hipponoos",
+    "proof_read": 0,
     "short_description": "Hauptort d. 18. oberägypt. Gaues Sepa",
     "chapters": [
       {
         "start": 1912,
-        "author": "Kees"
+        "end": 1912,
+        "author": "Kees."
       }
     ]
   },
@@ -9336,11 +9428,13 @@
     "lemma": "Hippos 3",
     "previous": "Hippos 2",
     "next": "Hippos 4",
+    "proof_read": 0,
     "short_description": "Hippos nesos Erythraias, vgl. Nr. 1",
     "chapters": [
       {
         "start": 1913,
-        "author": "Hepding"
+        "end": 1913,
+        "author": "Hepding."
       }
     ]
   },
@@ -9410,12 +9504,13 @@
     "lemma": "Hippos 8",
     "previous": "Hippos 7",
     "next": "Hippos 9",
+    "proof_read": 0,
     "short_description": "Name eines Silens",
     "chapters": [
       {
         "start": 1918,
         "end": 1919,
-        "author": "Hepding"
+        "author": "Hepding."
       }
     ]
   },
@@ -9423,11 +9518,13 @@
     "lemma": "Hippos 9",
     "previous": "Hippos 8",
     "next": "Hippos 10",
+    "proof_read": 0,
     "short_description": "Als Beamtentitel in Kultgenossenschaften",
     "chapters": [
       {
         "start": 1919,
-        "author": "Hepding"
+        "end": 1919,
+        "author": "Hepding."
       }
     ]
   },
@@ -10426,12 +10523,14 @@
     "lemma": "Hirpi Sorani",
     "previous": "Hiroae",
     "next": "Hirpini",
+    "sort_key": "Hirpisorani",
+    "proof_read": 0,
     "short_description": "Opferfest am Soracte",
     "chapters": [
       {
         "start": 1933,
         "end": 1935,
-        "author": "Otto, W[alter] F[riedrich]"
+        "author": "W. F. Otto."
       }
     ]
   },
@@ -10727,10 +10826,12 @@
     "lemma": "Hisopis",
     "previous": "Hismenos",
     "next": "Hispa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1963,
-        "author": "Kees"
+        "end": 1963,
+        "author": "Kees."
       }
     ]
   },
@@ -10752,12 +10853,13 @@
     "lemma": "Hispalis",
     "previous": "Hispa",
     "next": "Hispania",
+    "proof_read": 0,
     "short_description": "Stadt in Spanien, heute Sevilla",
     "chapters": [
       {
         "start": 1963,
         "end": 1965,
-        "author": "Schulten"
+        "author": "Schulten."
       }
     ]
   },
@@ -10765,12 +10867,13 @@
     "lemma": "Hispania",
     "previous": "Hispalis",
     "next": "Hispanus 1",
+    "proof_read": 0,
     "short_description": "Die spanische Halbinsel",
     "chapters": [
       {
         "start": 1965,
         "end": 2046,
-        "author": "Schulten"
+        "author": "Schulten."
       }
     ]
   },
@@ -11399,12 +11502,14 @@
     "lemma": "Holitorium Forum",
     "previous": "Hoenius 4",
     "next": "Holke",
+    "sort_key": "Holitoriumforum",
+    "proof_read": 0,
     "short_description": "Der Gemüsemarkt in Rom",
     "chapters": [
       {
         "start": 2135,
         "end": 2136,
-        "author": "Gall"
+        "author": "Gall."
       }
     ]
   },
@@ -11544,10 +11649,12 @@
     "lemma": "Holovitreum",
     "previous": "Holophernes",
     "next": "Holunder",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2140,
-        "author": "Gall"
+        "end": 2140,
+        "author": "Gall."
       }
     ]
   },
@@ -12133,12 +12240,13 @@
     "lemma": "Homonoia 1",
     "previous": "Homonada",
     "next": "Homonoia 2",
+    "proof_read": 0,
     "short_description": "Personifikation d. Eintracht",
     "chapters": [
       {
         "start": 2265,
         "end": 2268,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
@@ -12146,12 +12254,13 @@
     "lemma": "Homonoia 2",
     "previous": "Homonoia 1",
     "next": "Homonoia 3",
+    "proof_read": 0,
     "short_description": "Beiname d. Artemis",
     "chapters": [
       {
         "start": 2268,
         "end": 2269,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
@@ -12159,11 +12268,13 @@
     "lemma": "Homonoia 3",
     "previous": "Homonoia 2",
     "next": "Homonoia 4",
+    "proof_read": 0,
     "short_description": "Schiffsname",
     "chapters": [
       {
         "start": 2269,
-        "author": "Zwicker"
+        "end": 2269,
+        "author": "Zwicker."
       }
     ]
   },
@@ -12171,11 +12282,13 @@
     "lemma": "Homonoia 4",
     "previous": "Homonoia 3",
     "next": "Homonoia 5",
+    "proof_read": 0,
     "short_description": "Pflanzenname",
     "chapters": [
       {
         "start": 2269,
-        "author": "Zwicker"
+        "end": 2269,
+        "author": "Zwicker."
       }
     ]
   },
@@ -12197,11 +12310,13 @@
     "lemma": "Homonoia 6",
     "previous": "Homonoia 5",
     "next": "Homonoia 7",
+    "proof_read": 0,
     "short_description": "Ort in Galiläa",
     "chapters": [
       {
         "start": 2269,
-        "author": "Zwicker"
+        "end": 2269,
+        "author": "Zwicker."
       }
     ]
   },
@@ -12209,11 +12324,13 @@
     "lemma": "Homonoia 7",
     "previous": "Homonoia 6",
     "next": "Homonoos",
+    "proof_read": 0,
     "short_description": "Kirche in Konstantinopel",
     "chapters": [
       {
         "start": 2269,
-        "author": "Zwicker"
+        "end": 2269,
+        "author": "Zwicker."
       }
     ]
   },
@@ -13568,11 +13685,13 @@
     "lemma": "Horme 1",
     "previous": "Ὁρκωταί",
     "next": "Horme 2",
+    "proof_read": 0,
     "short_description": "Personifikation d. Antriebs, Eifers",
     "chapters": [
       {
         "start": 2409,
-        "author": "Zwicker"
+        "end": 2409,
+        "author": "Zwicker."
       }
     ]
   },
@@ -13580,11 +13699,13 @@
     "lemma": "Horme 2",
     "previous": "Horme 1",
     "next": "Hormidae",
+    "proof_read": 0,
     "short_description": "Hundename",
     "chapters": [
       {
         "start": 2409,
-        "author": "Zwicker"
+        "end": 2409,
+        "author": "Zwicker."
       }
     ]
   },
@@ -14370,12 +14491,13 @@
     "lemma": "Horti",
     "previous": "Hortensius 17",
     "next": "Horticulanus pagus",
+    "proof_read": 0,
     "short_description": "Gärten u. Parkanlagen d. Stadt Rom u. Umgebung",
     "chapters": [
       {
         "start": 2482,
         "end": 2488,
-        "author": "Gall"
+        "author": "Gall."
       }
     ]
   },
@@ -14428,10 +14550,13 @@
     "lemma": "Hortulorum collis",
     "previous": "Hortorum collis",
     "next": "Horus",
+    "sort_key": "Hortulorumcollis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2489,
-        "author": "Gall"
+        "end": 2489,
+        "author": "Gall."
       }
     ]
   },
@@ -14608,11 +14733,13 @@
     "lemma": "Hosioi 1",
     "previous": "Hosidius 10",
     "next": "Hosioi 2",
+    "proof_read": 0,
     "short_description": "Fünf Priester im delphischen Kultpersonal",
     "chapters": [
       {
         "start": 2492,
-        "author": "Malten"
+        "end": 2492,
+        "author": "Malten."
       }
     ]
   },
@@ -14620,11 +14747,13 @@
     "lemma": "Hosioi 2",
     "previous": "Hosioi 1",
     "next": "Hosioi 3",
+    "proof_read": 0,
     "short_description": "Bezeichnung von Mysten",
     "chapters": [
       {
         "start": 2492,
-        "author": "Malten"
+        "end": 2492,
+        "author": "Malten."
       }
     ]
   },
@@ -14632,11 +14761,13 @@
     "lemma": "Hosioi 3",
     "previous": "Hosioi 2",
     "next": "Hosioi 4",
+    "proof_read": 0,
     "short_description": "Name eines göttlichen Gattungsbegriffs",
     "chapters": [
       {
         "start": 2492,
-        "author": "Malten"
+        "end": 2492,
+        "author": "Malten."
       }
     ]
   },
@@ -14798,6 +14929,7 @@
     "sort_key": "Hostilianus 1",
     "proof_read": 2,
     "short_description": "von Vespasian verbannter Philosoph",
+    "wd_link": "d:Q136902797",
     "chapters": [
       {
         "start": 2501,
@@ -14813,6 +14945,7 @@
     "sort_key": "Hostilianus 2",
     "proof_read": 2,
     "short_description": "angeblich kurzzeitig Kaiser nach Gordian III.",
+    "wd_link": "d:Q136907631",
     "chapters": [
       {
         "start": 2501,
@@ -15295,12 +15428,13 @@
     "lemma": "Hostis",
     "previous": "Hostilius 27",
     "next": "Hostius",
+    "proof_read": 0,
     "short_description": "Landfremder, äußerer Feind",
     "chapters": [
       {
         "start": 2515,
         "end": 2516,
-        "author": "Schulten"
+        "author": "Schulten."
       }
     ]
   },
