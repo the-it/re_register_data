@@ -2,12 +2,13 @@
   {
     "lemma": "Katoikoi",
     "next": "Κατωνακοφόροι",
+    "proof_read": 0,
     "short_description": "Bewohner einer Stadt oder eines Landes",
     "chapters": [
       {
         "start": 1,
         "end": 26,
-        "author": "Oertel"
+        "author": "Oertel."
       }
     ]
   },
@@ -45,18 +46,20 @@
     "lemma": "Katopterios",
     "previous": "Κατόπται",
     "next": "Katoptis",
-    "short_description": "Der südl. Rand des Parnassosgebirges",
+    "proof_read": 0,
+    "short_description": "der südliche Rand des Parnassosgebirges",
     "chapters": [
       {
         "start": 27,
-        "author": "Geisau"
+        "end": 27,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Katoptis",
     "previous": "Katopterios",
-    "next": "Katoptromanteia",
+    "next": "Κατοπτρομαντεία",
     "sort_key": "Katoptis",
     "proof_read": 3,
     "short_description": "Epiklesis der Isis",
@@ -69,28 +72,32 @@
     ]
   },
   {
-    "lemma": "Katoptromanteia",
+    "lemma": "Κατοπτρομαντεία",
     "previous": "Katoptis",
     "next": "Κάτοπτρον",
-    "short_description": "Spiegelzauber",
+    "sort_key": "Katoptromanteia",
+    "proof_read": 0,
+    "short_description": "Katoptromanteia, Spiegelzauber",
     "chapters": [
       {
         "start": 27,
         "end": 29,
-        "author": "Ganschinietz"
+        "author": "Ganschinietz."
       }
     ]
   },
   {
     "lemma": "Κάτοπτρον",
-    "previous": "Katoptromanteia",
+    "previous": "Κατοπτρομαντεία",
     "next": "Κατράσεμα",
-    "short_description": "Spiegel",
+    "sort_key": "Katoptron",
+    "proof_read": 0,
+    "short_description": "Katoptron, der Spiegel",
     "chapters": [
       {
         "start": 29,
         "end": 45,
-        "author": "Netoliczka"
+        "author": "v. Netoliczka."
       }
     ]
   },
@@ -381,11 +388,13 @@
     "lemma": "Kaukana",
     "previous": "Kaukalos",
     "next": "Kaukasa",
-    "short_description": "Ort",
+    "proof_read": 0,
+    "short_description": "Hafenplatz auf Sizilien bei Capo Scalambri",
     "chapters": [
       {
         "start": 58,
-        "author": "Ziegler"
+        "end": 58,
+        "author": "Ziegler."
       }
     ]
   },
@@ -798,7 +807,7 @@
   {
     "lemma": "Kausatha",
     "previous": "Kausantha",
-    "next": "Kausia",
+    "next": "Καυσία",
     "proof_read": 0,
     "short_description": "Teich oder See in Tyros?",
     "chapters": [
@@ -810,21 +819,22 @@
     ]
   },
   {
-    "lemma": "Kausia",
+    "lemma": "Καυσία",
     "previous": "Kausatha",
     "next": "Kausios",
-    "short_description": "Breiter Filzhut",
+    "proof_read": 0,
+    "short_description": "Kausia, breiter Filzhut",
     "chapters": [
       {
         "start": 89,
         "end": 93,
-        "author": "Netoliczka"
+        "author": "v. Netoliczka."
       }
     ]
   },
   {
     "lemma": "Kausios",
-    "previous": "Kausia",
+    "previous": "Καυσία",
     "next": "Kaustis",
     "proof_read": 2,
     "short_description": "Epiklesis des Asklepios",
@@ -896,11 +906,13 @@
     "lemma": "Kaynis",
     "previous": "Kaykos",
     "next": "Kaysterros",
+    "proof_read": 0,
     "short_description": "Landspitze im Gebiet von Rhegion",
     "chapters": [
       {
         "start": 99,
-        "author": "Philipp"
+        "end": 99,
+        "author": "Philipp."
       }
     ]
   },
@@ -1573,11 +1585,13 @@
     "lemma": "Kekeis",
     "previous": "Kekeides",
     "next": "Κεκλιμένη",
-    "short_description": "Nebenfluß des Zadadres Sohan",
+    "proof_read": 0,
+    "short_description": "Nebenfluß des Zadadres, heute Sohan",
     "chapters": [
       {
         "start": 117,
-        "author": "Wecker"
+        "end": 117,
+        "author": "Wecker."
       }
     ]
   },
@@ -1712,12 +1726,13 @@
     "lemma": "Kekrops",
     "previous": "Kekropis",
     "next": "Kekryphaleia",
-    "short_description": "Attischer Stammheros und erster mythischer König",
+    "proof_read": 0,
+    "short_description": "attischer Stammheros, erster mythischer König",
     "chapters": [
       {
-        "start": 118,
+        "start": 119,
         "end": 125,
-        "author": "Eitrem"
+        "author": "Eitrem."
       }
     ]
   },
@@ -1741,12 +1756,13 @@
     "lemma": "Kekryphalos",
     "previous": "Kekryphaleia",
     "next": "Kekypos(i)os",
-    "short_description": "Weibliche Kopftracht",
+    "proof_read": 0,
+    "short_description": "weibliche Kopftracht",
     "chapters": [
       {
         "start": 126,
         "end": 131,
-        "author": "Netoliczka"
+        "author": "v. Netoliczka."
       }
     ]
   },
@@ -1995,12 +2011,13 @@
     "lemma": "Kelaino 2",
     "previous": "Kelaino 1",
     "next": "Kelaino 3",
-    "short_description": "Pleiade, Tochter des Atlas",
+    "proof_read": 0,
+    "short_description": "Pleiade, Tochter des Atlas, eine der sieben",
     "chapters": [
       {
         "start": 134,
         "end": 135,
-        "author": "Capelle"
+        "author": "Capelle."
       }
     ]
   },
@@ -2038,11 +2055,13 @@
     "lemma": "Kelaino 5",
     "previous": "Kelaino 4",
     "next": "Kelainos 1",
-    "short_description": "Harpyie",
+    "proof_read": 0,
+    "short_description": "eine Harpyie",
     "chapters": [
       {
         "start": 135,
-        "author": "Capelle"
+        "end": 135,
+        "author": "Capelle."
       }
     ]
   },
@@ -2104,11 +2123,13 @@
     "lemma": "Kelathara",
     "previous": "Kelaithra",
     "next": "Kelbianon",
-    "short_description": "Ort",
+    "proof_read": 0,
+    "short_description": "Dorf der Thessaliotis",
     "chapters": [
       {
         "start": 136,
-        "author": "Geisau"
+        "end": 136,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -2503,12 +2524,15 @@
     "lemma": "Keltiberer",
     "previous": "Kelsinos",
     "next": "Keltine",
-    "short_description": "Iberische Stämme des Hochlandes in Hispanien",
+    "proof_read": 0,
+    "short_description": "iberische Stämme des Hochlandes in Hispanien",
+    "wp_link": "w:de:Keltiberer",
+    "wd_link": "d:Q5011445",
     "chapters": [
       {
         "start": 150,
         "end": 156,
-        "author": "Schulten"
+        "author": "Schulten."
       }
     ]
   },
@@ -2684,13 +2708,14 @@
   {
     "lemma": "Kenaion",
     "previous": "Kenaboria",
-    "next": "Kenaios 1",
-    "short_description": "Halbinsel auf Euböa",
+    "next": "Kenaios",
+    "proof_read": 0,
+    "short_description": "felsige kahle Kalkhalbinsel im Nordwesten Euboias",
     "chapters": [
       {
         "start": 163,
         "end": 164,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -2924,8 +2949,11 @@
     "lemma": "Κενοτάφιον 1",
     "previous": "Kennatis",
     "next": "Κενοτάφιον 2",
+    "sort_key": "Kenotaphion 1",
     "proof_read": 0,
-    "short_description": "Leeres Grab oder Bildnis des Toten",
+    "short_description": "leeres Grab",
+    "wp_link": "w:de:Kenotaph",
+    "wd_link": "d:Q321053",
     "chapters": [
       {
         "start": 171,
@@ -2938,7 +2966,8 @@
     "lemma": "Κενοτάφιον 2",
     "previous": "Κενοτάφιον 1",
     "next": "Kentauren",
-    "proof_read": 0,
+    "sort_key": "Kenotaphion 2",
+    "proof_read": 2,
     "short_description": "Bildnis des Toten",
     "chapters": [
       {
@@ -3024,12 +3053,13 @@
     "lemma": "Kentoripa",
     "previous": "Κεντηνάριον 2",
     "next": "Kentriadai",
-    "short_description": "Stadt auf Sizilien Centuripe",
+    "proof_read": 0,
+    "short_description": "Stadt auf Sizilien südöstlich des Ätna, heute Centuripe",
     "chapters": [
       {
         "start": 179,
         "end": 181,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -3037,11 +3067,13 @@
     "lemma": "Kentriadai",
     "previous": "Kentoripa",
     "next": "Κεντρίτης",
-    "short_description": "Kultbeamte an den Dipolien in Athen",
+    "proof_read": 0,
+    "short_description": "Kultbeamte an den Dipolien in Athen, zur Buphonie",
     "chapters": [
       {
         "start": 181,
-        "author": "Prehn"
+        "end": 181,
+        "author": "Prehn."
       }
     ]
   },
@@ -3122,11 +3154,13 @@
     "lemma": "Kephalai",
     "previous": "Keos 3",
     "next": "Kephale 1",
+    "proof_read": 0,
     "short_description": "Vorgebirge am Anfang der großen Syrte",
     "chapters": [
       {
         "start": 190,
-        "author": "Kees"
+        "end": 190,
+        "author": "Kees."
       }
     ]
   },
@@ -3336,12 +3370,13 @@
     "lemma": "Kephaloidion",
     "previous": "Κεφαλληνιακὸς Πορθμός",
     "next": "Kephalon",
+    "proof_read": 0,
     "short_description": "Stadt auf Sizilien",
     "chapters": [
       {
         "start": 216,
         "end": 217,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -3436,11 +3471,13 @@
     "lemma": "Kephenes",
     "previous": "Kephalos 4",
     "next": "Kepheus 1",
+    "proof_read": 0,
     "short_description": "Mythisches Volk",
     "chapters": [
       {
         "start": 222,
-        "author": "Latte"
+        "end": 222,
+        "author": "Latte."
       }
     ]
   },
@@ -4048,11 +4085,13 @@
     "lemma": "Kephisos 10",
     "previous": "Kephisos 9",
     "next": "Kephisos 11",
+    "proof_read": 0,
     "short_description": "Attischer Flußgott",
     "chapters": [
       {
         "start": 250,
-        "author": "Latte"
+        "end": 250,
+        "author": "Latte."
       }
     ]
   },
@@ -4060,11 +4099,13 @@
     "lemma": "Kephisos 11",
     "previous": "Kephisos 10",
     "next": "Kephisos 12",
+    "proof_read": 0,
     "short_description": "Flußgott von Argos",
     "chapters": [
       {
         "start": 250,
-        "author": "Latte"
+        "end": 250,
+        "author": "Latte."
       }
     ]
   },
@@ -4072,11 +4113,13 @@
     "lemma": "Kephisos 12",
     "previous": "Kephisos 11",
     "next": "Kephisso",
+    "proof_read": 0,
     "short_description": "Boiotisch-phokischer Flußgott",
     "chapters": [
       {
         "start": 250,
-        "author": "Latte"
+        "end": 250,
+        "author": "Latte."
       }
     ]
   },
@@ -4802,12 +4845,13 @@
     "lemma": "Keraunilia",
     "previous": "Κεραυνίη Ἅλς",
     "next": "Keraunioi",
+    "proof_read": 0,
     "short_description": "Stadt in Apulien",
     "chapters": [
       {
         "start": 266,
         "end": 267,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -4931,12 +4975,13 @@
     "lemma": "Keraunos",
     "previous": "Keraunobolos",
     "next": "Keraunoskopeion",
+    "proof_read": 0,
     "short_description": "Einschlagender Blitzstrahl",
     "chapters": [
       {
         "start": 269,
         "end": 270,
-        "author": "Prehn"
+        "author": "Prehn."
       }
     ]
   },
@@ -4944,12 +4989,13 @@
     "lemma": "Keraunoskopeion",
     "previous": "Keraunos",
     "next": "Kerausion",
+    "proof_read": 0,
     "short_description": "Blitzmaschine im griechischen Theater",
     "chapters": [
       {
         "start": 270,
         "end": 271,
-        "author": "Schneider, K[arl]"
+        "author": "K. Schneider."
       }
     ]
   },
@@ -4969,11 +5015,13 @@
     "lemma": "Kerbalus",
     "previous": "Kerausion",
     "next": "Kerberos 1",
+    "proof_read": 0,
     "short_description": "Flüßchen an der apulischen Grenze",
     "chapters": [
       {
         "start": 271,
-        "author": "Philipp"
+        "end": 271,
+        "author": "Philipp."
       }
     ]
   },
@@ -4981,12 +5029,13 @@
     "lemma": "Kerberos 1",
     "previous": "Kerbalus",
     "next": "Kerberos 2",
+    "proof_read": 0,
     "short_description": "Höllenhund",
     "chapters": [
       {
         "start": 271,
         "end": 284,
-        "author": "Eitrem"
+        "author": "Eitrem."
       }
     ]
   },
@@ -5291,12 +5340,13 @@
     "lemma": "Kerinthos 1",
     "previous": "Kereus, Keron",
     "next": "Kerinthos 2",
+    "proof_read": 0,
     "short_description": "Stadt an der O-Küste Euboias",
     "chapters": [
       {
         "start": 288,
         "end": 289,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -5416,12 +5466,13 @@
     "lemma": "Kerkasoros",
     "previous": "Kerkas",
     "next": "Kerkeis",
+    "proof_read": 0,
     "short_description": "Stadt in Unterägypten",
     "chapters": [
       {
         "start": 290,
         "end": 291,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
@@ -5429,11 +5480,13 @@
     "lemma": "Kerkeis",
     "previous": "Kerkasoros",
     "next": "Kerkeosiris",
+    "proof_read": 0,
     "short_description": "Tochter des Okeanos",
     "chapters": [
       {
         "start": 291,
-        "author": "Meyer, Herbert"
+        "end": 291,
+        "author": "H. Meyer."
       }
     ]
   },
@@ -5441,11 +5494,13 @@
     "lemma": "Kerkeosiris",
     "previous": "Kerkeis",
     "next": "Kerketai",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 291,
-        "author": "Kees"
+        "end": 291,
+        "author": "Kees."
       }
     ]
   },
@@ -5851,12 +5906,13 @@
     "lemma": "Kernos",
     "previous": "Kernophoros",
     "next": "Kerobotras",
+    "proof_read": 0,
     "short_description": "Kultgefäß",
     "chapters": [
       {
         "start": 316,
         "end": 326,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
@@ -5909,11 +5965,13 @@
     "lemma": "Keron 1",
     "previous": "Κήρωμα",
     "next": "Keron 2",
+    "proof_read": 0,
     "short_description": "Fluß Euboias",
     "chapters": [
       {
         "start": 328,
-        "author": "Geisau"
+        "end": 328,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -6065,12 +6123,13 @@
     "lemma": "Kerykeion 1",
     "previous": "Kertonon, Kertonos",
     "next": "Kerykeion 2",
-    "short_description": "Heroldsstab",
+    "proof_read": 0,
+    "short_description": "Heroldsstab, Stab des Götterboten Hermes",
     "chapters": [
       {
         "start": 330,
         "end": 342,
-        "author": "Boetzkes"
+        "author": "Boetzkes."
       }
     ]
   },
@@ -6499,11 +6558,13 @@
     "lemma": "Ketaria",
     "previous": "Κέταμβα",
     "next": "Keteioi",
+    "proof_read": 0,
     "short_description": "Küstenort auf Sizilien",
     "chapters": [
       {
         "start": 360,
-        "author": "Ziegler"
+        "end": 360,
+        "author": "Ziegler."
       }
     ]
   },
@@ -6680,11 +6741,13 @@
     "lemma": "Keto 1",
     "previous": "Ketis",
     "next": "Keto 2",
+    "proof_read": 0,
     "short_description": "Tochter des Pontos",
     "chapters": [
       {
         "start": 364,
-        "author": "Latte"
+        "end": 364,
+        "author": "Latte."
       }
     ]
   },
@@ -7794,11 +7857,13 @@
     "lemma": "Killuta",
     "previous": "Κιλλικύριοι",
     "next": "Κίμαιον",
+    "proof_read": 0,
     "short_description": "Insel an der Indusmündung",
     "chapters": [
       {
         "start": 396,
-        "author": "Wecker"
+        "end": 396,
+        "author": "Wecker."
       }
     ]
   },
@@ -9318,11 +9383,13 @@
     "lemma": "Kirrha",
     "previous": "Κιῤῥάδαι",
     "next": "Kirrodeeis",
+    "proof_read": 0,
     "short_description": "Eponyme Nymphe von Kirrha in Phokis",
     "chapters": [
       {
         "start": 508,
-        "author": "Geisau"
+        "end": 508,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -9358,7 +9425,7 @@
     "previous": "Kirschbaum",
     "next": "Kisalaudenos",
     "sort_key": "Kisalaudena (?)",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Ort nicht weit von Smyrna",
     "chapters": [
       {
@@ -9556,11 +9623,13 @@
     "lemma": "Kissa 7",
     "previous": "Kissa 6",
     "next": "Kissaia",
+    "proof_read": 0,
     "short_description": "Stadt in Hispania citerior",
     "chapters": [
       {
         "start": 517,
-        "author": "Capelle"
+        "end": 517,
+        "author": "Capelle."
       }
     ]
   },
@@ -9639,11 +9708,13 @@
     "lemma": "Kisseis 3",
     "previous": "Kisseis 2",
     "next": "Kisseis 4",
+    "proof_read": 0,
     "short_description": "Okeanide",
     "chapters": [
       {
         "start": 518,
-        "author": "Capelle"
+        "end": 518,
+        "author": "Capelle."
       }
     ]
   },
@@ -9754,11 +9825,13 @@
     "lemma": "Kisseus 5",
     "previous": "Kisseus 4",
     "next": "Kisseus 6",
+    "proof_read": 0,
     "short_description": "Beiname des Dionysos auf einem Stein aus Tanagra",
     "chapters": [
       {
         "start": 519,
-        "author": "Capelle"
+        "end": 519,
+        "author": "Capelle."
       }
     ]
   },
@@ -9766,11 +9839,13 @@
     "lemma": "Kisseus 6",
     "previous": "Kisseus 5",
     "next": "Kisseus 7",
+    "proof_read": 0,
     "short_description": "Name eines [mythischen] Flußes",
     "chapters": [
       {
         "start": 519,
-        "author": "Capelle"
+        "end": 519,
+        "author": "Capelle."
       }
     ]
   },
@@ -11804,11 +11879,13 @@
     "lemma": "Kleisobora",
     "previous": "Kleisithera",
     "next": "Kleisonymos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 618,
-        "author": "Wecker"
+        "end": 618,
+        "author": "Wecker."
       }
     ]
   },
@@ -12240,19 +12317,48 @@
   {
     "lemma": "Kleitor 2",
     "previous": "Kleitor 1",
-    "next": "Kleitos 1",
+    "next": "Kleitor 3",
+    "proof_read": 0,
     "short_description": "Fluß in Arkadien",
     "chapters": [
       {
         "start": 664,
         "end": 665,
-        "author": "Geisau"
+        "author": "Geiger."
+      }
+    ]
+  },
+  {
+    "lemma": "Kleitor 3",
+    "previous": "Kleitor 2",
+    "next": "Kleitos",
+    "proof_read": 0,
+    "short_description": "Sohn des Azan",
+    "chapters": [
+      {
+        "start": 665,
+        "end": 665,
+        "author": "v. Geisau."
+      }
+    ]
+  },
+  {
+    "lemma": "Kleitos",
+    "previous": "Kleitor 3",
+    "next": "Kleitos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 665,
+        "end": 665,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Kleitos 1",
-    "previous": "Kleitor 2",
+    "previous": "Kleitos",
     "next": "Kleitos 2",
     "proof_read": 0,
     "short_description": "Sohn des Aigyptos",
@@ -14129,11 +14235,13 @@
     "lemma": "Kleone 2",
     "previous": "Kleone 1",
     "next": "Kleoneides",
+    "proof_read": 0,
     "short_description": "Insel",
     "chapters": [
       {
         "start": 729,
-        "author": "Hepding"
+        "end": 729,
+        "author": "Hepding."
       }
     ]
   },
@@ -14759,11 +14867,13 @@
     "lemma": "Kleopatris 1",
     "previous": "Kleopatra 33",
     "next": "Kleopatris 2",
+    "proof_read": 0,
     "short_description": "Hafenort am arabischen Meerbusen",
     "chapters": [
       {
         "start": 789,
-        "author": "Kees"
+        "end": 789,
+        "author": "Kees."
       }
     ]
   },
@@ -14783,11 +14893,13 @@
     "lemma": "Kleopatris 3",
     "previous": "Kleopatris 2",
     "next": "Kleopatros 1",
+    "proof_read": 0,
     "short_description": "Bezeichnung der Stadt Eschmûn s. Hermopolis magna",
     "chapters": [
       {
         "start": 789,
-        "author": "Kees"
+        "end": 789,
+        "author": "Kees."
       }
     ]
   },
@@ -15761,11 +15873,13 @@
     "lemma": "Klimax 1",
     "previous": "Kliman",
     "next": "Klimax 2",
+    "proof_read": 0,
     "short_description": "Ansiedlung im westl. Aegypten",
     "chapters": [
       {
         "start": 845,
-        "author": "Kees"
+        "end": 845,
+        "author": "Kees."
       }
     ]
   },
@@ -15953,7 +16067,7 @@
   },
   {
     "lemma": "Klitai 1",
-    "previous": "Klithos",
+    "previous": "Klistier",
     "next": "Klitai 2",
     "proof_read": 0,
     "short_description": "Ort auf Pallene",
@@ -16223,11 +16337,13 @@
     "lemma": "Klotho",
     "previous": "Klossama",
     "next": "Κλουάκα",
+    "proof_read": 0,
     "short_description": "Moire",
     "chapters": [
       {
         "start": 878,
-        "author": "Eitrem"
+        "end": 878,
+        "author": "Eitrem."
       }
     ]
   },
@@ -16307,12 +16423,13 @@
     "lemma": "Klymene 1",
     "previous": "Κλυδρός",
     "next": "Klymene 2",
+    "proof_read": 0,
     "short_description": "Okeanide",
     "chapters": [
       {
         "start": 878,
         "end": 879,
-        "author": "Latte"
+        "author": "Latte."
       }
     ]
   },
@@ -19146,7 +19263,7 @@
   {
     "lemma": "Koiraniden",
     "previous": "Κοιράνειος ὁ Χῶρος",
-    "next": "Koiranos",
+    "next": "Koiranos 1",
     "redirect": "Kyraniden",
     "proof_read": 2,
     "chapters": [
@@ -19725,7 +19842,7 @@
   {
     "lemma": "Kolchos",
     "previous": "Kolchoi",
-    "next": "Κολέα",
+    "next": "Kolea",
     "proof_read": 0,
     "short_description": "Attischer Vasentöpfer",
     "chapters": [
@@ -19737,7 +19854,7 @@
     ]
   },
   {
-    "lemma": "Κολέα",
+    "lemma": "Kolea",
     "previous": "Kolchos",
     "next": "Koletianoi",
     "short_description": "Ackergewanne bei Tralleis in Lydien",
@@ -19750,13 +19867,15 @@
   },
   {
     "lemma": "Koletianoi",
-    "previous": "Κολέα",
+    "previous": "Kolea",
     "next": "Koli",
+    "proof_read": 0,
     "short_description": "Gemeinde in Pannonia superior",
     "chapters": [
       {
         "start": 1073,
-        "author": "Lackeit"
+        "end": 1073,
+        "author": "Lackeit."
       }
     ]
   },
