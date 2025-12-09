@@ -2476,7 +2476,7 @@
     "previous": "Kabales",
     "next": "Kabalis",
     "proof_read": 3,
-    "short_description": "Landschaft im Grenzgebiet v. Phrygien",
+    "short_description": "Landschaft im Grenzgebiet von Phrygien",
     "chapters": [
       {
         "start": 1394,
@@ -9337,6 +9337,9 @@
     "next": "Kallisthenes 3",
     "proof_read": 0,
     "short_description": "von Olynth, Verwandter des Aristoteles, Alexanderhistoriker, Philosoph",
+    "wp_link": "w:de:Kallisthenes von Olynth",
+    "ws_link": "s:en:Author:Callisthenes of Olynthus",
+    "wd_link": "d:Q82793",
     "chapters": [
       {
         "start": 1674,
@@ -18197,7 +18200,7 @@
   {
     "lemma": "Kasion 1",
     "previous": "Κασιβόνων",
-    "next": "Kasion 2",
+    "next": "Kasion 2a",
     "proof_read": 0,
     "short_description": "Sieben der Insel Kasos vorgelagerte Eilande",
     "chapters": [
@@ -18209,11 +18212,11 @@
     ]
   },
   {
-    "lemma": "Kasion 2",
+    "lemma": "Kasion 2a",
     "previous": "Kasion 1",
-    "next": "Kasios",
+    "next": "Kasion 2b",
     "proof_read": 0,
-    "short_description": "a) Berg über Seleucia Pieria, b) Hügel an d. Grenze Arabien-Ägypten, c) angebl.",
+    "short_description": "Berg über Seleucia Pieria",
     "chapters": [
       {
         "start": 2263,
@@ -18223,8 +18226,36 @@
     ]
   },
   {
+    "lemma": "Kasion 2b",
+    "previous": "Kasion 2a",
+    "next": "Kasion 2c",
+    "proof_read": 0,
+    "short_description": "Hügel an der Grenze Arabien–Ägypten",
+    "chapters": [
+      {
+        "start": 2264,
+        "end": 2264,
+        "author": "Steuernagel Kees."
+      }
+    ]
+  },
+  {
+    "lemma": "Kasion 2c",
+    "previous": "Kasion 2b",
+    "next": "Kasios",
+    "proof_read": 0,
+    "short_description": "angeblicher Berg beim Euphrat",
+    "chapters": [
+      {
+        "start": 2264,
+        "end": 2264,
+        "author": "Steuernagel Kees."
+      }
+    ]
+  },
+  {
     "lemma": "Kasios",
-    "previous": "Kasion 2",
+    "previous": "Kasion 2c",
     "next": "Kasios 1",
     "proof_read": 0,
     "short_description": "zum Namen",
@@ -20838,7 +20869,7 @@
   {
     "lemma": "Κατάστασις 1",
     "previous": "Κατασσοῦ",
-    "next": "Katastasis 2",
+    "next": "Κατάστασις 2",
     "proof_read": 0,
     "short_description": "Ausrüstungsgeld d. att. zum Reiterdienst verpflichteten Bürger",
     "chapters": [
@@ -20850,7 +20881,7 @@
     ]
   },
   {
-    "lemma": "Katastasis 2",
+    "lemma": "Κατάστασις 2",
     "previous": "Κατάστασις 1",
     "next": "Kataster",
     "proof_read": 0,
@@ -20865,7 +20896,7 @@
   },
   {
     "lemma": "Kataster",
-    "previous": "Katastasis 2",
+    "previous": "Κατάστασις 2",
     "next": "Κατατομή",
     "proof_read": 0,
     "short_description": "Sytematische Aufzeichnung über Grund u. Boden zu Steuerzwecken o. anderen",
