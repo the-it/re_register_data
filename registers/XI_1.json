@@ -2708,6 +2708,7 @@
   {
     "lemma": "Kenaion",
     "previous": "Kenaboria",
+    "next": "Kenaios 1",
     "proof_read": 0,
     "short_description": "felsige kahle Kalkhalbinsel im Nordwesten Euboias",
     "chapters": [
@@ -9649,6 +9650,7 @@
   {
     "lemma": "Κισσαρή",
     "previous": "Kissaia",
+    "next": "Kisseis",
     "sort_key": "Kissare",
     "proof_read": 0,
     "short_description": "Sohn von Moumis in der babylonischen Kosmogonie",
@@ -14335,6 +14337,7 @@
   {
     "lemma": "Kleonymos 4",
     "previous": "Kleonymos 3",
+    "next": "Kleopatra",
     "proof_read": 0,
     "short_description": "Tyrann von Phleius",
     "chapters": [
@@ -16053,6 +16056,8 @@
   },
   {
     "lemma": "Klistier",
+    "previous": "Klisia",
+    "next": "Klithos",
     "redirect": "Κλυστήρ",
     "proof_read": 2,
     "chapters": [
@@ -16064,6 +16069,8 @@
   },
   {
     "lemma": "Klithos",
+    "previous": "Klistier",
+    "next": "Klitai 1",
     "proof_read": 2,
     "short_description": "Person",
     "chapters": [
@@ -16076,6 +16083,8 @@
   },
   {
     "lemma": "Klitai 1",
+    "previous": "Klithos",
+    "next": "Klitai 2",
     "proof_read": 0,
     "short_description": "Ort auf Pallene",
     "chapters": [
@@ -16088,6 +16097,8 @@
   },
   {
     "lemma": "Klitai 2",
+    "previous": "Klitai 1",
+    "next": "Klitianos",
     "proof_read": 2,
     "short_description": "Ort in O-Bithynien",
     "wp_link": "w:en:Clitae (Bithynia)",
@@ -16102,6 +16113,7 @@
   },
   {
     "lemma": "Klitianos",
+    "previous": "Klitai 2",
     "redirect": "Claudius 116",
     "proof_read": 2,
     "chapters": [
@@ -19278,6 +19290,7 @@
   {
     "lemma": "Koiraniden",
     "previous": "Κοιράνειος ὁ Χῶρος",
+    "next": "Koiranos",
     "redirect": "Kyraniden",
     "proof_read": 2,
     "chapters": [
@@ -19875,7 +19888,7 @@
   {
     "lemma": "Kolchos",
     "previous": "Kolchoi",
-    "next": "Kolea",
+    "next": "Κολέα",
     "proof_read": 0,
     "short_description": "Attischer Vasentöpfer",
     "chapters": [
@@ -19887,20 +19900,22 @@
     ]
   },
   {
-    "lemma": "Kolea",
+    "lemma": "Κολέα",
     "previous": "Kolchos",
     "next": "Koletianoi",
+    "proof_read": 0,
     "short_description": "Ackergewanne bei Tralleis in Lydien",
     "chapters": [
       {
         "start": 1073,
-        "author": "Bürchner"
+        "end": 1073,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Koletianoi",
-    "previous": "Kolea",
+    "previous": "Κολέα",
     "next": "Koli",
     "proof_read": 0,
     "short_description": "Gemeinde in Pannonia superior",
@@ -21499,7 +21514,7 @@
   {
     "lemma": "Komeas",
     "previous": "Κώμη Φιλαδελφέων",
-    "next": "Κομένιοι",
+    "next": "Komenioi",
     "proof_read": 0,
     "short_description": "Person",
     "chapters": [
@@ -21511,7 +21526,7 @@
     ]
   },
   {
-    "lemma": "Κομένιοι",
+    "lemma": "Komenioi",
     "previous": "Komeas",
     "next": "Κόμενοι",
     "short_description": "Melcomannen",
@@ -21524,7 +21539,7 @@
   },
   {
     "lemma": "Κόμενοι",
-    "previous": "Κομένιοι",
+    "previous": "Komenioi",
     "next": "Kometas",
     "sort_key": "Komenoi",
     "redirect": "Komenioi",
@@ -21623,7 +21638,7 @@
   {
     "lemma": "Kometes 5",
     "previous": "Kometes 4",
-    "next": "Κωμικοῦ",
+    "next": "Komiku",
     "proof_read": 0,
     "short_description": "Lapithe",
     "no_creative_height": true,
@@ -21636,7 +21651,7 @@
     ]
   },
   {
-    "lemma": "Κωμικοῦ",
+    "lemma": "Komiku",
     "previous": "Kometes 5",
     "next": "Κομίοι",
     "short_description": "Gewannename von Kydonia",
@@ -21649,7 +21664,7 @@
   },
   {
     "lemma": "Κομίοι",
-    "previous": "Κωμικοῦ",
+    "previous": "Komiku",
     "next": "Komisene",
     "sort_key": "Komioi",
     "redirect": "Komenioi",
@@ -21704,7 +21719,9 @@
     ]
   },
   {
-    "lemma": "Kommagene"
+    "lemma": "Kommagene",
+    "previous": "Komma",
+    "next": "Κόμμη"
   },
   {
     "lemma": "Κόμμη",
@@ -21833,7 +21850,7 @@
   {
     "lemma": "Komödie",
     "previous": "Komnokarios",
-    "next": "Keras 5",
+    "next": "Ker",
     "proof_read": 0,
     "short_description": "Lustspiel",
     "chapters": [

@@ -10682,6 +10682,7 @@
   {
     "lemma": "Καλὸς ἀγρός",
     "previous": "Kalos",
+    "next": "Καλὸς ποταμός",
     "sort_key": "Kalos agros",
     "proof_read": 0,
     "chapters": [
@@ -10709,6 +10710,7 @@
   },
   {
     "lemma": "Kalpas 1",
+    "previous": "Καλὸς ποταμός",
     "next": "Kalpas 2",
     "proof_read": 0,
     "short_description": "Fluß in Bithynien",
@@ -12842,6 +12844,7 @@
   {
     "lemma": "Kandaios",
     "previous": "Δήμου Κάναυρα",
+    "next": "Kandake",
     "proof_read": 3,
     "short_description": "Epiklesis des Ares",
     "chapters": [
@@ -18317,10 +18320,21 @@
   },
   {
     "lemma": "Kasiotis",
-    "previous": "Kasios 4"
+    "previous": "Kasios 4",
+    "next": "Kasiotis 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2267,
+        "end": 2267,
+        "author": "Kees."
+      }
+    ]
   },
   {
     "lemma": "Kasiotis 1",
+    "previous": "Kasiotis",
     "next": "Kasiotis 2",
     "proof_read": 0,
     "short_description": "Landstrich um d. Serbonischen See",
@@ -18336,7 +18350,7 @@
     "lemma": "Kasiotis 2",
     "previous": "Kasiotis 1",
     "next": "Kasmenai",
-    "redirect": "Kasion 2",
+    "redirect": "Kasion 2a",
     "proof_read": 2,
     "chapters": [
       {
