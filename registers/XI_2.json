@@ -3640,18 +3640,20 @@
   {
     "lemma": "Κορσικαί",
     "previous": "Korseia",
-    "next": "Korsion",
+    "next": "Κόρσιον",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1439,
-        "author": "Bürchner"
+        "end": 1439,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Korsion",
+    "lemma": "Κόρσιον",
     "previous": "Κορσικαί",
-    "next": "Korsote",
+    "next": "Κορσωτή",
     "sort_key": "Korsion",
     "redirect": "Κέρσα",
     "proof_read": 2,
@@ -3663,26 +3665,29 @@
     ]
   },
   {
-    "lemma": "Korsote",
-    "previous": "Korsion",
+    "lemma": "Κορσωτή",
+    "previous": "Κόρσιον",
     "next": "Korta",
+    "proof_read": 0,
     "short_description": "Große, von Fluß Maskas umflossene Stadt",
     "chapters": [
       {
         "start": 1439,
         "end": 1440,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Korta",
-    "previous": "Korsote",
+    "previous": "Κορσωτή",
     "next": "Korte",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1440,
-        "author": "Ruge"
+        "end": 1440,
+        "author": "Ruge."
       }
     ]
   },
@@ -3690,18 +3695,20 @@
     "lemma": "Korte",
     "previous": "Korta",
     "next": "Korthiatas",
+    "proof_read": 0,
     "short_description": "Ort in Dodekaschoinos/Unternubien",
     "chapters": [
       {
         "start": 1440,
-        "author": "Kees"
+        "end": 1440,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Korthiatas",
     "previous": "Korte",
-    "next": "Korunkala",
+    "next": "Κόρου πεδίον, τό",
     "proof_read": 2,
     "short_description": "(Κορθιάτας), Epiklesis des Pan auf einer alten Felseninschrift bei Pherai in",
     "chapters": [
@@ -3713,8 +3720,23 @@
     ]
   },
   {
-    "lemma": "Korunkala",
+    "lemma": "Κόρου πεδίον, τό",
     "previous": "Korthiatas",
+    "next": "Korunkala",
+    "sort_key": "Korupedion",
+    "proof_read": 0,
+    "short_description": "to -",
+    "chapters": [
+      {
+        "start": 1440,
+        "end": 1440,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Korunkala",
+    "previous": "Κόρου πεδίον, τό",
     "next": "Koru pedion",
     "proof_read": 2,
     "short_description": "(Κορούγκαλα), nach Ptolem. VII 1, 93 Stadt im Binnenlande von Maisolia in",
@@ -3741,13 +3763,14 @@
   },
   {
     "lemma": "Kory",
-    "previous": "Koru pedion",
+    "previous": "Korunkala",
     "next": "Korybanten",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1440,
         "end": 1441,
-        "author": "Wecker"
+        "author": "Wecker."
       }
     ]
   },
@@ -3755,12 +3778,13 @@
     "lemma": "Korybanten",
     "previous": "Kory",
     "next": "Korybas",
+    "proof_read": 0,
     "short_description": "In d. Mythologie u. im Kult",
     "chapters": [
       {
         "start": 1441,
         "end": 1446,
-        "author": "Schwenn"
+        "author": "Schwenn."
       }
     ]
   },
@@ -3781,48 +3805,56 @@
     "lemma": "Korybissa",
     "previous": "Korybas",
     "next": "Korydalla",
+    "sort_key": "Korybissa",
+    "proof_read": 0,
     "short_description": "he -",
     "chapters": [
       {
         "start": 1446,
-        "author": "Bürchner"
+        "end": 1446,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Korydalla",
     "previous": "Korybissa",
-    "next": "Korybanteion",
+    "next": "Κορυβαντεῖον",
+    "proof_read": 0,
     "short_description": "Stadt in SO-Lykien",
     "chapters": [
       {
         "start": 1446,
         "end": 1447,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Korybanteion",
+    "lemma": "Κορυβαντεῖον",
     "previous": "Korydalla",
     "next": "Korydallos 1",
+    "proof_read": 0,
     "short_description": "to -",
     "chapters": [
       {
         "start": 1447,
-        "author": "Bürchner"
+        "end": 1447,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Korydallos 1",
-    "previous": "Korybanteion",
+    "previous": "Κορυβαντεῖον",
     "next": "Korydallos 2",
+    "proof_read": 0,
     "short_description": "Gebirge Attikas",
     "chapters": [
       {
         "start": 1447,
-        "author": "Honigmann"
+        "end": 1447,
+        "author": "Honigmann."
       }
     ]
   },
@@ -3830,11 +3862,13 @@
     "lemma": "Korydallos 2",
     "previous": "Korydallos 1",
     "next": "Korydallos 3",
+    "proof_read": 0,
     "short_description": "Att. Demos d. Phyle Hippothontis",
     "chapters": [
       {
         "start": 1447,
-        "author": "Honigmann"
+        "end": 1447,
+        "author": "Honigmann."
       }
     ]
   },
@@ -3854,97 +3888,126 @@
   {
     "lemma": "Korydios",
     "previous": "Korydallos 3",
-    "next": "Korykai",
+    "next": "Κορυκαί",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1447,
-        "author": "Bischoff, [Ernst]"
+        "end": 1447,
+        "author": "Bischoff."
       }
     ]
   },
   {
-    "lemma": "Korykai",
+    "lemma": "Κορυκαί",
     "previous": "Korydios",
-    "next": "Korykeion 1",
+    "next": "Korykeion",
+    "proof_read": 0,
     "short_description": "hai -",
     "chapters": [
       {
         "start": 1448,
-        "author": "Bürchner"
+        "end": 1448,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Korykeion",
+    "previous": "Κορυκαί",
+    "next": "Korykeion 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1448,
+        "end": 1448,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Korykeion 1",
-    "previous": "Korykai",
+    "previous": "Korykeion",
     "next": "Korykeion 2",
+    "proof_read": 0,
     "short_description": "Endspitze d. Korykosbergzuges auf d. Erythraia in Ionien",
     "chapters": [
       {
         "start": 1448,
-        "author": "Bürchner"
+        "end": 1448,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Korykeion 2",
     "previous": "Korykeion 1",
-    "next": "Korykia",
+    "next": "Κωρυκία",
+    "proof_read": 0,
     "short_description": "Raum d. Gymnasiums u. d. Palästra",
     "chapters": [
       {
         "start": 1448,
-        "author": "Schneider, K[arl]"
+        "end": 1448,
+        "author": "K. Schneider."
       }
     ]
   },
   {
-    "lemma": "Korykia",
+    "lemma": "Κωρυκία",
     "previous": "Korykeion 2",
-    "next": "Korykion antron",
+    "next": "Κωρύκιον ἄντρον",
+    "proof_read": 0,
     "short_description": "he - s. Korykos Nr. 2",
     "chapters": [
       {
         "start": 1448,
-        "author": "Bürchner"
+        "end": 1448,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Korykion antron",
-    "previous": "Korykia",
-    "next": "Korykomachia",
+    "lemma": "Κωρύκιον ἄντρον",
+    "previous": "Κωρυκία",
+    "next": "Κωρυκομαχία",
+    "sort_key": "Korykionantron",
+    "proof_read": 0,
     "short_description": "to -, Grotte am Parnassos",
     "chapters": [
       {
         "start": 1448,
         "end": 1450,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
   {
-    "lemma": "Korykomachia",
-    "previous": "Korykion antron",
+    "lemma": "Κωρυκομαχία",
+    "previous": "Κωρύκιον ἄντρον",
     "next": "Korykos 1",
+    "proof_read": 0,
     "short_description": "Übung am Ledersack d. Faustkämpfer",
     "chapters": [
       {
         "start": 1450,
         "end": 1451,
-        "author": "Jüthner"
+        "author": "Jüthner."
       }
     ]
   },
   {
     "lemma": "Korykos 1",
-    "previous": "Korykomachia",
+    "previous": "Κωρυκομαχία",
     "next": "Korykos 2",
+    "proof_read": 0,
     "short_description": "Berg im S-Teil d. Erythraia in Ionien",
     "chapters": [
       {
         "start": 1451,
-        "author": "Bürchner"
+        "end": 1451,
+        "author": "Bürchner."
       }
     ]
   },
@@ -3952,11 +4015,13 @@
     "lemma": "Korykos 2",
     "previous": "Korykos 1",
     "next": "Korykos 3",
+    "proof_read": 0,
     "short_description": "Westl. Vorgebirge d. Insel Kreta",
     "chapters": [
       {
         "start": 1451,
-        "author": "Bürchner"
+        "end": 1451,
+        "author": "Bürchner."
       }
     ]
   },
@@ -3964,12 +4029,13 @@
     "lemma": "Korykos 3",
     "previous": "Korykos 2",
     "next": "Korykos 4",
+    "proof_read": 0,
     "short_description": "Stadt an d. Küste v. Lykien",
     "chapters": [
       {
         "start": 1451,
         "end": 1452,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -3977,11 +4043,13 @@
     "lemma": "Korykos 4",
     "previous": "Korykos 3",
     "next": "Korykos 5",
+    "proof_read": 0,
     "short_description": "Stadt an d. kilik. Küste",
     "chapters": [
       {
         "start": 1452,
-        "author": "Ruge"
+        "end": 1452,
+        "author": "Ruge."
       }
     ]
   },
@@ -3989,12 +4057,13 @@
     "lemma": "Korykos 5",
     "previous": "Korykos 4",
     "next": "Korylenos",
+    "proof_read": 0,
     "short_description": "Ledersack d. Faustkämpfer u. Pankratiasten",
     "chapters": [
       {
         "start": 1452,
         "end": 1453,
-        "author": "Jüthner"
+        "author": "Jüthner."
       }
     ]
   },
@@ -4028,30 +4097,33 @@
   {
     "lemma": "Korymbe",
     "previous": "Koryllos",
-    "next": "Korymbia",
+    "next": "Κορυμβία",
+    "proof_read": 0,
     "short_description": "ta korymba, ho korymbos, Knauf, Kuppe Fruchtbüschel d. Efeus",
     "chapters": [
       {
         "start": 1453,
         "end": 1459,
-        "author": "Bieber"
+        "author": "Bieber."
       }
     ]
   },
   {
-    "lemma": "Korymbia",
+    "lemma": "Κορυμβία",
     "previous": "Korymbe",
     "next": "Korymbos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1459,
-        "author": "Bürchner"
+        "end": 1459,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Korymbos",
-    "previous": "Korymbia",
+    "previous": "Κορυμβία",
     "next": "Korymbos 1",
     "proof_read": 2,
     "short_description": "zum Namen",
@@ -4107,7 +4179,7 @@
   {
     "lemma": "Korrynephoroi",
     "previous": "Κορύνα",
-    "next": "Korynaion",
+    "next": "Κορυναῖον",
     "chapters": [
       {
         "start": 1460,
@@ -4116,67 +4188,107 @@
     ]
   },
   {
-    "lemma": "Korynaion",
-    "previous": "Korrynephoroi",
+    "lemma": "Κορυναῖον",
+    "previous": "Κορύνα",
     "next": "Koryne 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1460,
-        "author": "Bürchner"
+        "end": 1460,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Koryne 1",
-    "previous": "Korynaion",
+    "previous": "Κορυναῖον",
     "next": "Koryne 2",
+    "proof_read": 0,
     "short_description": "Binnenstadt in Elis",
     "chapters": [
       {
         "start": 1460,
-        "author": "Oberhummer"
+        "end": 1460,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Koryne 2",
     "previous": "Koryne 1",
-    "next": "Koryphaion (oros) 1",
+    "next": "Κορυνηφόροι",
+    "proof_read": 0,
     "short_description": "Coryna, Stadt u. Vorgebirge auf d. erythäischen Halbinsel",
     "chapters": [
       {
         "start": 1460,
-        "author": "Oberhummer"
+        "end": 1460,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Koryphaion (oros) 1",
+    "lemma": "Κορυνηφόροι",
     "previous": "Koryne 2",
-    "next": "Koryphaion (oros) 2",
+    "next": "Κορυφαῖον (ὄρος)",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 1460,
+        "end": 1460,
+        "author": "J. Oehler."
+      }
+    ]
+  },
+  {
+    "lemma": "Κορυφαῖον (ὄρος)",
+    "previous": "Κορυνηφόροι",
+    "next": "Κορυφαῖον (ὄρος) 1",
+    "sort_key": "Koryphaion(oros) 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1460,
+        "end": 1460,
+        "author": "Geiger."
+      }
+    ]
+  },
+  {
+    "lemma": "Κορυφαῖον (ὄρος) 1",
+    "previous": "Κορυφαῖον (ὄρος)",
+    "next": "Κορυφαῖον (ὄρος) 2",
+    "sort_key": "Koryphaion(oros) 1",
+    "proof_read": 0,
     "short_description": "Gebirgszug in d. Epidauria in Argolis",
     "chapters": [
       {
         "start": 1460,
-        "author": "Geiger"
+        "end": 1460,
+        "author": "Geiger."
       }
     ]
   },
   {
-    "lemma": "Koryphaion (oros) 2",
-    "previous": "Koryphaion (oros) 1",
+    "lemma": "Κορυφαῖον (ὄρος) 2",
+    "previous": "Κορυφαῖον (ὄρος) 1",
     "next": "Koryphaios",
+    "sort_key": "Koryphaion(oros) 2",
+    "proof_read": 0,
     "short_description": "Berg bei Seuleukai Pieria in N-Syrien",
     "chapters": [
       {
         "start": 1460,
-        "author": "Honigmann"
+        "end": 1461,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Koryphaios",
-    "previous": "Koryphaion (oros) 2",
+    "previous": "Κορυφαῖον (ὄρος) 2",
     "next": "Koryphantis",
     "proof_read": 2,
     "short_description": "Bezeichnung d. Chorführers",
@@ -4219,25 +4331,42 @@
   {
     "lemma": "Koryphasia",
     "previous": "Koryphas",
-    "next": "Koryphasion 1",
+    "next": "Koryphasion",
+    "proof_read": 0,
     "short_description": "Beiname der Athena",
     "chapters": [
       {
         "start": 1462,
-        "author": "Pieske"
+        "end": 1462,
+        "author": "Pieske."
+      }
+    ]
+  },
+  {
+    "lemma": "Koryphasion",
+    "previous": "Koryphasia",
+    "next": "Koryphasion 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1462,
+        "end": 1462,
+        "author": "Pieske."
       }
     ]
   },
   {
     "lemma": "Koryphasion 1",
-    "previous": "Koryphasia",
+    "previous": "Koryphasion",
     "next": "Koryphasion 2",
+    "proof_read": 0,
     "short_description": "Vorgebirge an d. W-Küste Messeniens",
     "chapters": [
       {
         "start": 1462,
         "end": 1464,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
@@ -4245,11 +4374,13 @@
     "lemma": "Koryphasion 2",
     "previous": "Koryphasion 1",
     "next": "Koryphe 1",
+    "proof_read": 0,
     "short_description": "Coryphasium angebl. Stadt in Argolis",
     "chapters": [
       {
         "start": 1464,
-        "author": "Pieske"
+        "end": 1464,
+        "author": "Pieske."
       }
     ]
   },
@@ -4257,11 +4388,13 @@
     "lemma": "Koryphe 1",
     "previous": "Koryphasion 2",
     "next": "Koryphe 2",
+    "proof_read": 0,
     "short_description": "Okeanide, Mutter d. Athena Hippia",
     "chapters": [
       {
         "start": 1464,
-        "author": "Latte"
+        "end": 1464,
+        "author": "Latte."
       }
     ]
   },
@@ -4269,45 +4402,50 @@
     "lemma": "Koryphe 2",
     "previous": "Koryphe 1",
     "next": "Koryphe 3",
+    "proof_read": 0,
     "short_description": "Berg in N-Syrien",
     "chapters": [
       {
         "start": 1464,
-        "author": "Honigmann"
+        "end": 1464,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Koryphe 3",
     "previous": "Koryphe 2",
-    "next": "Korypho",
+    "next": "Κώρνφο",
+    "proof_read": 0,
     "short_description": "Berg bei Smyrna im kleinasiat. Ionien",
     "chapters": [
       {
         "start": 1464,
         "end": 1465,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Korypho",
+    "lemma": "Κώρνφο",
     "previous": "Koryphe 3",
-    "next": "Koryphon",
+    "next": "Κόρυφον",
+    "proof_read": 0,
     "short_description": "he -",
     "chapters": [
       {
         "start": 1465,
-        "author": "Bürchner"
+        "end": 1465,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Koryphon",
-    "previous": "Korypho",
-    "next": "Korythale",
+    "lemma": "Κόρυφον",
+    "previous": "Κώρνφο",
+    "next": "Κορυθάλη",
     "sort_key": "Koryphon",
-    "redirect": "Koryphaion (oros) 1",
+    "redirect": "Κορυφαῖον (ὄρος) 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -4317,26 +4455,30 @@
     ]
   },
   {
-    "lemma": "Korythale",
-    "previous": "Koryphon",
+    "lemma": "Κορυθάλη",
+    "previous": "Κόρυφον",
     "next": "Korythalia",
+    "proof_read": 0,
     "short_description": "Ein mit Binden geschmückter Lorbeerzweig",
     "chapters": [
       {
         "start": 1465,
-        "author": "Nilsson"
+        "end": 1465,
+        "author": "Nilsson."
       }
     ]
   },
   {
     "lemma": "Korythalia",
-    "previous": "Korythale",
+    "previous": "Κορυθάλη",
     "next": "Κορυθεῖς",
+    "proof_read": 0,
     "short_description": "Beiname der Artemis",
     "chapters": [
       {
         "start": 1465,
-        "author": "Kroll"
+        "end": 1465,
+        "author": "Kroll."
       }
     ]
   },
@@ -4454,11 +4596,13 @@
     "lemma": "Kos",
     "previous": "Korythos 7",
     "next": "Kos 1",
+    "proof_read": 0,
     "short_description": "Zum Namen",
     "chapters": [
       {
         "start": 1467,
-        "author": "Bürchner"
+        "end": 1467,
+        "author": "Bürchner."
       }
     ]
   },
@@ -4466,12 +4610,13 @@
     "lemma": "Kos 1",
     "previous": "Kos",
     "next": "Kos 2",
+    "proof_read": 0,
     "short_description": "Sporadeninsel",
     "chapters": [
       {
         "start": 1467,
         "end": 1480,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -4523,10 +4668,12 @@
     "lemma": "Kosa",
     "previous": "Kos 4",
     "next": "Κώσα(μ)βα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1480,
-        "author": "Wecker"
+        "end": 1480,
+        "author": "Wecker."
       }
     ]
   },
@@ -4534,11 +4681,13 @@
     "lemma": "Κώσα(μ)βα",
     "previous": "Kosa",
     "next": "Kosingas",
+    "sort_key": "Kosamba",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1480,
         "end": 1481,
-        "author": "Wecker"
+        "author": "Wecker."
       }
     ]
   },
@@ -4560,10 +4709,12 @@
     "lemma": "Kosintos",
     "previous": "Kosingas",
     "next": "Kosis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1481,
-        "author": "Oberhummer"
+        "end": 1481,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4597,39 +4748,42 @@
   {
     "lemma": "Koskinomanteia",
     "previous": "Koskinia",
-    "next": "Koskinon",
+    "next": "Κόσκινον",
+    "proof_read": 0,
     "short_description": "Form d. Divination mittels eines Siebes",
     "chapters": [
       {
         "start": 1481,
         "end": 1483,
-        "author": "Ganschinietz"
+        "author": "Ganschinietz."
       }
     ]
   },
   {
-    "lemma": "Koskinon",
+    "lemma": "Κόσκινον",
     "previous": "Koskinomanteia",
     "next": "Kosko",
+    "proof_read": 0,
     "short_description": "Sieb",
     "chapters": [
       {
         "start": 1483,
         "end": 1484,
-        "author": "Hug"
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Kosko",
-    "previous": "Koskinon",
+    "previous": "Κόσκινον",
     "next": "Κόσκυνθος",
+    "proof_read": 0,
     "short_description": "Theban. Maenade aus d. Geschlecht Ino, Stifterin eines bakchischen Kultvereins",
     "chapters": [
       {
         "start": 1484,
         "end": 1486,
-        "author": "Gunning"
+        "author": "Gunning."
       }
     ]
   },
@@ -4691,7 +4845,7 @@
   {
     "lemma": "Κοσμήτειρα",
     "previous": "Kosmas 3",
-    "next": "Kosmetes",
+    "next": "Κοσμητής",
     "chapters": [
       {
         "start": 1490,
@@ -4700,21 +4854,23 @@
     ]
   },
   {
-    "lemma": "Kosmetes",
+    "lemma": "Κοσμητής",
     "previous": "Κοσμήτειρα",
     "next": "Kosmogonie",
+    "sort_key": "Kosmetes",
+    "proof_read": 0,
     "short_description": "Ordner, Ordungswart Beamtentitel",
     "chapters": [
       {
         "start": 1490,
         "end": 1495,
-        "author": "Preisigke"
+        "author": "Preisigke."
       }
     ]
   },
   {
     "lemma": "Kosmogonie",
-    "previous": "Kosmetes",
+    "previous": "Κοσμητής",
     "next": "Kosmoi",
     "redirect": true,
     "proof_read": 2,
