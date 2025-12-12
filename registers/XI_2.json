@@ -4072,7 +4072,7 @@
     "previous": "Korykos 5",
     "next": "Koryllos",
     "proof_read": 2,
-    "short_description": "(Liv. XXXVII 21 Corylenus), Örtchen (Kastell) der Peraia der Insel Lesbos in",
+    "short_description": "Örtchen (Kastell) der Peraia der Insel Lesbos in Aiolis",
     "chapters": [
       {
         "start": 1453,
@@ -4885,12 +4885,13 @@
     "lemma": "Kosmoi",
     "previous": "Kosmogonie",
     "next": "Kosmos 1",
+    "proof_read": 0,
     "short_description": "Ordner, höchste Regierungsbehörde auf Kreta",
     "chapters": [
       {
         "start": 1495,
         "end": 1498,
-        "author": "Oehler, J[ohann]"
+        "author": "Oehler."
       }
     ]
   },
@@ -4966,7 +4967,7 @@
   {
     "lemma": "Κοσσαία",
     "previous": "Koson",
-    "next": "Kossaioi",
+    "next": "Κοσσαῖοι",
     "chapters": [
       {
         "start": 1499,
@@ -4975,32 +4976,35 @@
     ]
   },
   {
-    "lemma": "Kossaioi",
+    "lemma": "Κοσσαῖοι",
     "previous": "Κοσσαία",
-    "next": "Kossaios",
+    "next": "Κοσσαῖος",
+    "proof_read": 0,
     "short_description": "Bewohner d. Landschaft Kossaia",
     "chapters": [
       {
         "start": 1499,
         "end": 1503,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Kossaios",
-    "previous": "Kossaioi",
+    "lemma": "Κοσσαῖος",
+    "previous": "Κοσσαῖοι",
     "next": "Kosseinios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1503,
-        "author": "Weissbach"
+        "end": 1503,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Kosseinios",
-    "previous": "Kossaios",
+    "previous": "Κοσσαῖος",
     "next": "Kossinites",
     "proof_read": 2,
     "short_description": "Bassos, Stadtarzt zu Kos, im Alter von 21 Jahren gestorben, 2. Jhdt. n. Chr.",
@@ -5016,17 +5020,19 @@
     "lemma": "Kossinites",
     "previous": "Kosseinios",
     "next": "Kossinoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1503,
-        "author": "Oberhummer"
+        "end": 1503,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Kossinoi",
     "previous": "Kossinites",
-    "next": "Kossoanos",
+    "next": "Κοσσόανος",
     "redirect": "Oestrymnides",
     "proof_read": 2,
     "chapters": [
@@ -5037,33 +5043,38 @@
     ]
   },
   {
-    "lemma": "Kossoanos",
+    "lemma": "Κοσσόανος",
     "previous": "Kossinoi",
-    "next": "Kossura, Kossuros",
+    "next": "Kossura",
+    "sort_key": "Kossoanos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1503,
-        "author": "Wecker"
+        "end": 1503,
+        "author": "Wecker."
       }
     ]
   },
   {
-    "lemma": "Kossura, Kossuros",
-    "previous": "Kossoanos",
+    "lemma": "Kossura",
+    "previous": "Κοσσόανος",
     "next": "Kossutios",
+    "sort_key": "Kossura,kossuros",
+    "proof_read": 0,
     "short_description": "Kleine Insel mit gleichnamiger Stadt zw. Sizilien u. Afrika",
     "chapters": [
       {
         "start": 1503,
         "end": 1504,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Kossutios",
-    "previous": "Kossura, Kossuros",
-    "next": "Kossyllites",
+    "previous": "Kossura",
+    "next": "Κοσσυλλίτης",
     "proof_read": 2,
     "short_description": "s. 4, 1674 Nr. 3 u. 4",
     "chapters": [
@@ -5075,39 +5086,46 @@
     ]
   },
   {
-    "lemma": "Kossyllites",
+    "lemma": "Κοσσυλλίτης",
     "previous": "Kossutios",
-    "next": "Kostobalon",
+    "next": "Κωστόβαλον",
+    "sort_key": "Kossyllites",
+    "proof_read": 0,
     "short_description": "ho -",
     "chapters": [
       {
         "start": 1504,
-        "author": "Bürchner"
+        "end": 1504,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kostobalon",
-    "previous": "Kossyllites",
+    "lemma": "Κωστόβαλον",
+    "previous": "Κοσσυλλίτης",
     "next": "Kostoboken",
+    "sort_key": "Kostobalon",
+    "proof_read": 0,
     "short_description": "(?)",
     "chapters": [
       {
         "start": 1504,
-        "author": "Bürchner"
+        "end": 1504,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kostoboken",
-    "previous": "Kostobalon",
+    "previous": "Κωστόβαλον",
     "next": "Kostos",
+    "proof_read": 0,
     "short_description": "Völkerschaft wahrscheinl. nordöstl. von röm. Dakien",
     "chapters": [
       {
         "start": 1504,
         "end": 1507,
-        "author": "Premerstein"
+        "author": "A. v. Premerstein."
       }
     ]
   },
@@ -5127,12 +5145,13 @@
     "lemma": "Kosymbe",
     "previous": "Kostos",
     "next": "Κότα",
+    "proof_read": 0,
     "short_description": "Fransen an Gewändern Gewand",
     "chapters": [
       {
         "start": 1507,
         "end": 1514,
-        "author": "Bieber"
+        "author": "Bieber."
       }
     ]
   },
@@ -5198,28 +5217,33 @@
   {
     "lemma": "Kotenna",
     "previous": "Κοτάρδης",
-    "next": "Kotes akron",
+    "next": "Κώτης ἄκρον",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1516,
-        "author": "Ruge"
+        "end": 1516,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Kotes akron",
+    "lemma": "Κώτης ἄκρον",
     "previous": "Kotenna",
     "next": "Kothelas",
+    "sort_key": "Kotesakron",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1516,
-        "author": "Fischer"
+        "end": 1516,
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Kothelas",
-    "previous": "Kotes akron",
+    "previous": "Κώτης ἄκρον",
     "next": "Kothokidai",
     "proof_read": 2,
     "short_description": "Getenkönig",
@@ -5235,11 +5259,13 @@
     "lemma": "Kothokidai",
     "previous": "Kothelas",
     "next": "Kothon 1",
+    "proof_read": 0,
     "short_description": "Att. Demos d. Paralia(?)",
     "chapters": [
       {
         "start": 1516,
-        "author": "Honigmann"
+        "end": 1516,
+        "author": "Honigmann."
       }
     ]
   },
@@ -5247,12 +5273,13 @@
     "lemma": "Kothon 1",
     "previous": "Kothokidai",
     "next": "Kothon 2",
+    "proof_read": 0,
     "short_description": "Künstlicher Binnenhafen v. Karthago",
     "chapters": [
       {
         "start": 1516,
         "end": 1517,
-        "author": "Oehler, J[ohann]"
+        "author": "Oehler."
       }
     ]
   },
@@ -5274,11 +5301,13 @@
     "lemma": "Kothon 3",
     "previous": "Kothon 2",
     "next": "Kothon 4",
+    "proof_read": 0,
     "short_description": "Inselchen im lakonischen Meerbusen",
     "chapters": [
       {
         "start": 1517,
-        "author": "Geiger"
+        "end": 1517,
+        "author": "Geiger-Bürchner."
       }
     ]
   },
@@ -5314,11 +5343,13 @@
     "lemma": "Kothon 6",
     "previous": "Kothon 5",
     "next": "Kothurn",
+    "proof_read": 0,
     "short_description": "Feldflasche d. Soldaten Hohlmaß",
     "chapters": [
       {
         "start": 1520,
-        "author": "Viedebantt"
+        "end": 1520,
+        "author": "Viedebantt."
       }
     ]
   },
@@ -5326,12 +5357,13 @@
     "lemma": "Kothurn",
     "previous": "Kothon 6",
     "next": "Kotiaeion",
+    "proof_read": 0,
     "short_description": "1. hoher weicher geschlossener Schaftstiefel, 2. Theaterschuh",
     "chapters": [
       {
         "start": 1520,
         "end": 1526,
-        "author": "Bieber"
+        "author": "Bieber."
       }
     ]
   },
@@ -5339,12 +5371,13 @@
     "lemma": "Kotiaeion",
     "previous": "Kothurn",
     "next": "Kotileo",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygia Epiketos am Thymbris",
     "chapters": [
       {
         "start": 1526,
         "end": 1527,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -5352,10 +5385,13 @@
     "lemma": "Kotileo",
     "previous": "Kotiaeion",
     "next": "Kotilion",
+    "proof_read": 0,
+    "short_description": "Epiklesis der Artemis in Phigalia",
     "chapters": [
       {
         "start": 1527,
-        "author": "Adler"
+        "end": 1527,
+        "author": "Adler."
       }
     ]
   },
@@ -5363,12 +5399,13 @@
     "lemma": "Kotilion",
     "previous": "Kotileo",
     "next": "Kotilon",
-    "short_description": "Berg v. Dhragoi nordöstl. v. Phigalia",
+    "proof_read": 0,
+    "short_description": "Berg von Dhragoi, nordöstlich von Phigalia",
     "chapters": [
       {
         "start": 1527,
         "end": 1528,
-        "author": "Geiger"
+        "author": "Geiger."
       }
     ]
   },
@@ -5376,19 +5413,22 @@
     "lemma": "Kotilon",
     "previous": "Kotilion",
     "next": "Kotilos",
+    "proof_read": 0,
+    "short_description": "Heiligtum auf dem Kotilion",
     "chapters": [
       {
         "start": 1528,
-        "author": "Geiger"
+        "end": 1528,
+        "author": "Geiger."
       }
     ]
   },
   {
     "lemma": "Kotilos",
     "previous": "Kotilon",
-    "next": "Kotinoussa",
+    "next": "Κοτινοῦσσα",
     "proof_read": 2,
-    "short_description": "Martial wählt diesen Namen einmal (II 70) für einen unzüchtigen Menschen, ein",
+    "short_description": "bei Martial: unzüchtiger Mensch sowie Müßiggänger",
     "chapters": [
       {
         "start": 1528,
@@ -5398,8 +5438,23 @@
     ]
   },
   {
-    "lemma": "Kotinoussa",
+    "lemma": "Κοτινοῦσσα",
     "previous": "Kotilos",
+    "next": "Κότοι",
+    "proof_read": 0,
+    "short_description": "Kotinoussa, griechischer Name für Gades = Cadiz",
+    "wp_link": "w:de:Cádiz",
+    "wd_link": "d:Q15682",
+    "chapters": [
+      {
+        "start": 1528,
+        "end": 1528,
+        "author": "Schulten."
+      }
+    ]
+  },
+  {
+    "lemma": "Kotinoussa",
     "next": "Kotoi, hoi",
     "chapters": [
       {
@@ -5423,7 +5478,6 @@
   {
     "lemma": "Kotonis",
     "previous": "Kotoi, hoi",
-    "next": "Kottabos",
     "chapters": [
       {
         "start": 1528,
@@ -5432,11 +5486,39 @@
     ]
   },
   {
+    "lemma": "Kotonis 1",
+    "previous": "Κότοι",
+    "next": "Kotonis 2",
+    "proof_read": 2,
+    "short_description": "Inselchen vor Aitolien",
+    "chapters": [
+      {
+        "start": 1528,
+        "end": 1528,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Kotonis 2",
+    "previous": "Kotonis 1",
+    "next": "Kottabos",
+    "proof_read": 2,
+    "short_description": "echinadische Insel, Aitolien vorgelagert",
+    "chapters": [
+      {
+        "start": 1528,
+        "end": 1528,
+        "author": "Geiger."
+      }
+    ]
+  },
+  {
     "lemma": "Kottabos",
-    "previous": "Kotonis",
+    "previous": "Kotonis 2",
     "next": "Kottas",
     "proof_read": 0,
-    "short_description": "Gesellschaftsspiel d. Griechen",
+    "short_description": "Gesellschaftsspiel der Griechen",
     "chapters": [
       {
         "start": 1528,
@@ -5448,7 +5530,7 @@
   {
     "lemma": "Kottas",
     "previous": "Kottabos",
-    "next": "Κοττιάρα",
+    "next": "Kottiara",
     "proof_read": 0,
     "chapters": [
       {
@@ -5459,7 +5541,7 @@
     ]
   },
   {
-    "lemma": "Κοττιάρα",
+    "lemma": "Kottiara",
     "previous": "Kottas",
     "next": "Kottiaris",
     "chapters": [
@@ -5472,62 +5554,82 @@
   },
   {
     "lemma": "Kottiaris",
-    "previous": "Κοττιάρα",
-    "next": "Kottis",
+    "previous": "Kottiara",
+    "next": "Κόττις",
+    "proof_read": 0,
+    "short_description": "Fluß im Lande der Sinai, heute Mekhong",
     "chapters": [
       {
         "start": 1542,
-        "author": "Herrmann"
+        "end": 1542,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Kottis",
+    "lemma": "Κόττις",
     "previous": "Kottiaris",
-    "next": "Kottobara",
+    "next": "Κοττόβαρα",
+    "sort_key": "Kottis",
+    "proof_read": 0,
+    "short_description": "Kottis, Stadt der Arvarner in Vorderindien = Bapatla",
+    "wp_link": "w:de:Bapatla",
+    "wd_link": "d:Q633274",
     "chapters": [
       {
         "start": 1542,
-        "author": "Wecker"
+        "end": 1542,
+        "author": "Wecker."
       }
     ]
   },
   {
-    "lemma": "Kottobara",
-    "previous": "Kottis",
+    "lemma": "Κοττόβαρα",
+    "previous": "Κόττις",
     "next": "Kotton",
+    "sort_key": "Kottobara",
+    "proof_read": 0,
+    "short_description": "Kottobara, Stadt in Maisolia, Indien",
     "chapters": [
       {
         "start": 1542,
-        "author": "Wecker"
+        "end": 1542,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Kotton",
-    "previous": "Kottobara",
-    "next": "Kottonarike",
+    "previous": "Κοττόβαρα",
+    "next": "Κοττοναρική",
+    "proof_read": 2,
+    "short_description": "Örtchen (Kastell?) der Peraia von Mytilene in Aiolis",
     "chapters": [
       {
         "start": 1542,
-        "author": "Bürchner"
+        "end": 1542,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kottonarike",
+    "lemma": "Κοττοναρική",
     "previous": "Kotton",
     "next": "Κωτουάντιοι",
+    "sort_key": "Kottonarike",
+    "proof_read": 0,
+    "short_description": "Kottonarike, Gebiet der Stadt Cottonara, hat Pfeffer",
     "chapters": [
       {
         "start": 1542,
-        "author": "Wecker"
+        "end": 1542,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Κωτουάντιοι",
-    "previous": "Kottonarike",
+    "previous": "Κοττοναρική",
     "next": "Κοτύλαιον 1",
     "sort_key": "Kotuantioi",
     "redirect": "Cosuanetes",
@@ -5573,12 +5675,13 @@
     "lemma": "Kotyle 1",
     "previous": "Κοτύλαιον 2",
     "next": "Kotyle 2",
+    "proof_read": 0,
     "short_description": "Trinkgefäß, Gefäß zum Schöpfen Maßeinheit",
     "chapters": [
       {
         "start": 1542,
         "end": 1546,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
@@ -5586,46 +5689,54 @@
     "lemma": "Kotyle 2",
     "previous": "Kotyle 1",
     "next": "Kotyleus",
+    "proof_read": 0,
     "short_description": "Gr. Hohlmaß",
     "chapters": [
       {
         "start": 1546,
         "end": 1548,
-        "author": "Viedebantt"
+        "author": "Viedebantt."
       }
     ]
   },
   {
     "lemma": "Kotyleus",
     "previous": "Kotyle 2",
-    "next": "Kotylos",
+    "next": "Κότυλος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1548,
-        "author": "Kroll"
+        "end": 1548,
+        "author": "Kroll."
       }
     ]
   },
   {
-    "lemma": "Kotylos",
+    "lemma": "Κότυλος",
     "previous": "Kotyleus",
     "next": "Kotyora",
+    "sort_key": "Kotylos",
+    "proof_read": 0,
     "short_description": "ho?",
     "chapters": [
       {
         "start": 1548,
-        "author": "Bürchner"
+        "end": 1548,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kotyora",
-    "previous": "Kotylos",
+    "previous": "Κότυλος",
     "next": "Kotyrta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1549,
-        "author": "Ruge"
+        "end": 1549,
+        "author": "Ruge."
       }
     ]
   },
@@ -5633,11 +5744,13 @@
     "lemma": "Kotyrta",
     "previous": "Kotyora",
     "next": "Kotys 1",
+    "proof_read": 0,
     "short_description": "Ortschaft auf d. östl. Halbinsel Lakoniens",
     "chapters": [
       {
         "start": 1549,
-        "author": "Pieske"
+        "end": 1549,
+        "author": "Pieske."
       }
     ]
   },
@@ -5645,12 +5758,13 @@
     "lemma": "Kotys 1",
     "previous": "Kotyrta",
     "next": "Kotys 2",
+    "proof_read": 0,
     "short_description": "Thrak. Gottheit",
     "chapters": [
       {
         "start": 1549,
         "end": 1551,
-        "author": "Schwenn"
+        "author": "Schwenn."
       }
     ]
   },
@@ -5671,7 +5785,7 @@
   {
     "lemma": "Kotytto",
     "previous": "Kotys 2",
-    "next": "Kozanata",
+    "next": "Κοζάνατα",
     "redirect": "Kotys 2",
     "proof_read": 2,
     "chapters": [
@@ -5682,53 +5796,65 @@
     ]
   },
   {
-    "lemma": "Kozanata",
+    "lemma": "Κοζάνατα",
     "previous": "Kotytto",
-    "next": "Koze",
+    "next": "Κοζέ",
+    "sort_key": "Kozanata",
+    "proof_read": 0,
+    "short_description": "Kozanata, im Gebiet der Stadt Tralleis in Lydien",
     "chapters": [
       {
         "start": 1555,
-        "author": "Bürchner"
+        "end": 1555,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Koze",
-    "previous": "Kozanata",
+    "lemma": "Κοζέ",
+    "previous": "Κοζάνατα",
     "next": "Kozynthion",
+    "proof_read": 0,
+    "short_description": "Koze, Gottheit der Idumäer",
     "chapters": [
       {
         "start": 1555,
-        "author": "Steuernagel"
+        "end": 1555,
+        "author": "Steuernagel."
       }
     ]
   },
   {
     "lemma": "Kozynthion",
-    "previous": "Koze",
-    "next": "Krade 1",
+    "previous": "Κοζέ",
+    "next": "Κράδη 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1555,
-        "author": "Kees"
+        "end": 1555,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Krade 1",
+    "lemma": "Κράδη 1",
     "previous": "Kozynthion",
     "next": "Κράδη 2",
+    "sort_key": "Krade 1",
+    "proof_read": 0,
     "short_description": "he -, Stadt in Karien",
     "chapters": [
       {
         "start": 1555,
-        "author": "Bürchner"
+        "end": 1555,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Κράδη 2",
-    "previous": "Krade 1",
+    "previous": "Κράδη 1",
     "next": "Κραδεύας",
     "short_description": "he, t.t. des Theaterwesens",
     "chapters": [
@@ -5756,11 +5882,13 @@
     "lemma": "Kradra",
     "previous": "Κραδεύας",
     "next": "Krähe",
+    "proof_read": 0,
     "short_description": "(?)",
     "chapters": [
       {
         "start": 1555,
-        "author": "Ruge"
+        "end": 1555,
+        "author": "Ruge."
       }
     ]
   },
@@ -5768,12 +5896,14 @@
     "lemma": "Krähe",
     "previous": "Kradra",
     "next": "Kragaleus",
+    "sort_key": "Krahe",
+    "proof_read": 0,
     "short_description": "Vogelart",
     "chapters": [
       {
         "start": 1556,
         "end": 1566,
-        "author": "Gossen"
+        "author": "Gossen-Steier."
       }
     ]
   },
@@ -5795,11 +5925,13 @@
     "lemma": "Kragos 1",
     "previous": "Kragaleus",
     "next": "Kragos 2",
+    "proof_read": 0,
     "short_description": "Gebirge in Lykien",
     "chapters": [
       {
         "start": 1567,
-        "author": "Ruge"
+        "end": 1567,
+        "author": "Ruge."
       }
     ]
   },
@@ -5807,11 +5939,13 @@
     "lemma": "Kragos 2",
     "previous": "Kragos 1",
     "next": "Kragos 3",
+    "proof_read": 0,
     "short_description": "Stadt, evtl. identisch mit Sidyma",
     "chapters": [
       {
         "start": 1567,
-        "author": "Ruge"
+        "end": 1567,
+        "author": "Ruge."
       }
     ]
   },
@@ -5819,12 +5953,13 @@
     "lemma": "Kragos 3",
     "previous": "Kragos 2",
     "next": "Κράμβις",
+    "proof_read": 0,
     "short_description": "Steilabstürzender Fels an d. Küste Kilikiens",
     "chapters": [
       {
         "start": 1567,
         "end": 1568,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -5849,11 +5984,13 @@
     "lemma": "Krambusa 1",
     "previous": "Κράμβις",
     "next": "Krambusa 2",
+    "proof_read": 0,
     "short_description": "Ort an d. O-Küste Lykiens",
     "chapters": [
       {
         "start": 1568,
-        "author": "Ruge"
+        "end": 1568,
+        "author": "Ruge."
       }
     ]
   },
