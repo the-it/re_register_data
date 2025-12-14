@@ -1593,7 +1593,9 @@
     "lemma": "Κοραδέα",
     "previous": "Kora",
     "next": "Koragia",
-    "proof_read": 0,
+    "sort_key": "Koradea",
+    "proof_read": 2,
+    "short_description": "Bischofsstadt der Diözese von Damaskos",
     "chapters": [
       {
         "start": 1369,
@@ -3536,7 +3538,7 @@
   {
     "lemma": "Korphiatas",
     "previous": "Koros 2",
-    "next": "Korphiloi",
+    "next": "Korpiloi",
     "redirect": "Korthiatas",
     "proof_read": 2,
     "chapters": [
@@ -3547,10 +3549,11 @@
     ]
   },
   {
-    "lemma": "Korphiloi",
+    "lemma": "Korpiloi",
     "previous": "Korphiatas",
     "next": "Κόρρα",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Volkstamm in Thrakien",
     "chapters": [
       {
         "start": 1438,
@@ -3561,9 +3564,11 @@
   },
   {
     "lemma": "Κόρρα",
-    "previous": "Korphiloi",
+    "previous": "Korpiloi",
     "next": "Κοῤῥόδουνον",
-    "proof_read": 0,
+    "sort_key": "Korra",
+    "proof_read": 2,
+    "short_description": "Stadt im südlichen Teile Groß-Armeniens",
     "chapters": [
       {
         "start": 1438,
@@ -3590,7 +3595,8 @@
     "lemma": "Korsagaina",
     "previous": "Κοῤῥόδουνον",
     "next": "Κορσέα",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Ort in Pontos",
     "chapters": [
       {
         "start": 1438,
@@ -3603,7 +3609,9 @@
     "lemma": "Κορσέα",
     "previous": "Korsagaina",
     "next": "Κόρσεαι",
-    "proof_read": 0,
+    "sort_key": "Korsea",
+    "proof_read": 2,
+    "short_description": "Name für Orthe in Perrhaebien",
     "chapters": [
       {
         "start": 1438,
@@ -3616,7 +3624,9 @@
     "lemma": "Κόρσεαι",
     "previous": "Κορσέα",
     "next": "Korseia",
-    "proof_read": 0,
+    "sort_key": "Korseai",
+    "proof_read": 2,
+    "short_description": "Name der Inseln Korassiai",
     "chapters": [
       {
         "start": 1438,
@@ -3737,7 +3747,7 @@
   },
   {
     "lemma": "Korunkala",
-    "previous": "Κόρου πεδίον, τό",
+    "previous": "Korthiatas",
     "next": "Κόρου πεδίον, τό",
     "proof_read": 2,
     "short_description": "(Κορούγκαλα), nach Ptolem. VII 1, 93 Stadt im Binnenlande von Maisolia in",
@@ -4416,7 +4426,7 @@
   {
     "lemma": "Koryphe 3",
     "previous": "Koryphe 2",
-    "next": "Κώρυφο",
+    "next": "Κώρνφο",
     "proof_read": 0,
     "short_description": "Berg bei Smyrna im kleinasiat. Ionien",
     "chapters": [
@@ -4444,7 +4454,7 @@
   },
   {
     "lemma": "Κόρυφον",
-    "previous": "Κώρυφο",
+    "previous": "Κώρνφο",
     "next": "Κορυθάλη",
     "sort_key": "Koryphon",
     "redirect": "Κορυφαῖον (ὄρος) 1",
@@ -5532,7 +5542,7 @@
   {
     "lemma": "Kottas",
     "previous": "Kottabos",
-    "next": "Kottiara",
+    "next": "Κοττιάρα",
     "proof_read": 0,
     "chapters": [
       {
@@ -5543,20 +5553,21 @@
     ]
   },
   {
-    "lemma": "Kottiara",
+    "lemma": "Κοττιάρα",
     "previous": "Kottas",
     "next": "Kottiaris",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1541,
         "end": 1542,
-        "author": "Wecker"
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Kottiaris",
-    "previous": "Kottiara",
+    "previous": "Κοττιάρα",
     "next": "Κόττις",
     "proof_read": 0,
     "short_description": "Fluß im Lande der Sinai, heute Mekhong",
@@ -5844,8 +5855,8 @@
     "previous": "Kozynthion",
     "next": "Κράδη 2",
     "sort_key": "Krade 1",
-    "proof_read": 0,
-    "short_description": "he -, Stadt in Karien",
+    "proof_read": 2,
+    "short_description": "Stadt in Karien",
     "chapters": [
       {
         "start": 1555,
@@ -5986,8 +5997,8 @@
     "lemma": "Krambusa 1",
     "previous": "Κράμβις",
     "next": "Krambusa 2",
-    "proof_read": 0,
-    "short_description": "Ort an d. O-Küste Lykiens",
+    "proof_read": 2,
+    "short_description": "Ort an der Ostküste Lykiens",
     "chapters": [
       {
         "start": 1568,
@@ -6000,8 +6011,8 @@
     "lemma": "Krambusa 2",
     "previous": "Krambusa 1",
     "next": "Krambusa 3",
-    "proof_read": 2,
-    "short_description": "Insel an d. Küste Kilikiens",
+    "proof_read": 3,
+    "short_description": "Insel an der Küste Kilikiens",
     "chapters": [
       {
         "start": 1568,
@@ -6013,9 +6024,9 @@
   {
     "lemma": "Krambusa 3",
     "previous": "Krambusa 2",
-    "next": "Κρᾰνᾰη",
-    "proof_read": 2,
-    "short_description": "Insel an d. Küste von Kilikien",
+    "next": "Κρανάη",
+    "proof_read": 3,
+    "short_description": "Insel an der Küste von Kilikien",
     "chapters": [
       {
         "start": 1568,
@@ -6025,7 +6036,7 @@
     ]
   },
   {
-    "lemma": "Κρᾰνᾰη",
+    "lemma": "Κρανάη",
     "previous": "Krambusa 3",
     "next": "Kranaia",
     "proof_read": 2,
@@ -6040,7 +6051,7 @@
   },
   {
     "lemma": "Kranaia",
-    "previous": "Κρᾰνᾰη",
+    "previous": "Κρανάη",
     "next": "Kranaoi",
     "proof_read": 0,
     "short_description": "Epiklesis d. Athene in Phokis",
@@ -7485,7 +7496,7 @@
   {
     "lemma": "Kreisel",
     "previous": "Kr(e)ios",
-    "next": "Κρεμαστή 1",
+    "next": "Κρεμαστή",
     "redirect": "Turbo 1",
     "proof_read": 2,
     "chapters": [
@@ -7669,7 +7680,8 @@
     "lemma": "Krenides",
     "previous": "Κρηναῖαι πύλαι",
     "next": "Kreon 1",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Ort an der Küste Bithyniens",
     "chapters": [
       {
         "start": 1709,
@@ -7909,7 +7921,8 @@
     "lemma": "Κρῆσσα 2",
     "previous": "Κρῆσσα 1",
     "next": "Kressidas",
-    "proof_read": 0,
+    "sort_key": "Kressa 2",
+    "proof_read": 2,
     "short_description": "Paphlagonische Stadt",
     "chapters": [
       {
@@ -7996,7 +8009,7 @@
   {
     "lemma": "Krete",
     "previous": "Κρηταιέων Κοινόν",
-    "next": "Κρητέα",
+    "next": "Kretea",
     "proof_read": 0,
     "short_description": "Eponyme der Insel Kreta",
     "chapters": [
@@ -8008,7 +8021,7 @@
     ]
   },
   {
-    "lemma": "Κρητέα",
+    "lemma": "Kretea",
     "previous": "Krete",
     "next": "Κρητηνία",
     "chapters": [
@@ -8020,7 +8033,7 @@
   },
   {
     "lemma": "Κρητηνία",
-    "previous": "Κρητέα",
+    "previous": "Kretea",
     "next": "Kretheus 1",
     "sort_key": "Kretenia",
     "proof_read": 2,
@@ -8081,8 +8094,8 @@
     "previous": "Kretia",
     "next": "Kretischer Kalender",
     "sort_key": "Kretinaion",
-    "proof_read": 0,
-    "short_description": "to",
+    "proof_read": 2,
+    "short_description": "Flecken bei Ephesos in Ionien",
     "chapters": [
       {
         "start": 1823,
@@ -8123,7 +8136,8 @@
     "lemma": "Kretopolis",
     "previous": "Kretisches Meer",
     "next": "Kreugas",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Stadt in der Landschaft Kabalia",
     "chapters": [
       {
         "start": 1824,
@@ -8195,11 +8209,14 @@
     "lemma": "Kreusa, Kreusis 2",
     "previous": "Kreusa, Kreusis 2–6",
     "next": "Kreusa, Kreusis 3",
+    "sort_key": "Kreusa,kreusis 2",
+    "proof_read": 0,
     "short_description": "Thessal. Naiade, Tochter d. Ge",
     "chapters": [
       {
         "start": 1825,
-        "author": "Kock"
+        "end": 1825,
+        "author": "Kock."
       }
     ]
   },
@@ -8282,12 +8299,13 @@
     "lemma": "Kreuznach",
     "previous": "Kreusa, Kreusis 7",
     "next": "Krialon",
+    "proof_read": 0,
     "short_description": "Vörröm. Siedlung, später röm. Kastell",
     "chapters": [
       {
         "start": 1826,
         "end": 1827,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -8295,10 +8313,12 @@
     "lemma": "Krialon",
     "previous": "Kreuznach",
     "next": "Kriannios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1827,
-        "author": "Kees"
+        "end": 1827,
+        "author": "Kees."
       }
     ]
   },
@@ -8353,7 +8373,7 @@
   {
     "lemma": "Kriegskunst",
     "previous": "Kriasos",
-    "next": "Krima",
+    "next": "Κρῖμα",
     "sort_key": "Kriegskunst",
     "proof_read": 0,
     "short_description": "griechische Kriegskunst",
@@ -8366,27 +8386,30 @@
     ]
   },
   {
-    "lemma": "Krima",
+    "lemma": "Κρῖμα",
     "previous": "Kriegskunst",
     "next": "Krimis(s)a",
+    "proof_read": 0,
     "short_description": "gaikon Stratiku teleos",
     "chapters": [
       {
         "start": 1858,
-        "author": "Schulthess"
+        "end": 1858,
+        "author": "Schulthess."
       }
     ]
   },
   {
     "lemma": "Krimis(s)a",
-    "previous": "Krima",
+    "previous": "Κρῖμα",
     "next": "Krimisos",
+    "proof_read": 0,
     "short_description": "Vorgebirge u. Stadt im Gebiet v. Kroton",
     "chapters": [
       {
         "start": 1858,
         "end": 1859,
-        "author": "Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -8394,11 +8417,13 @@
     "lemma": "Krimisos",
     "previous": "Krimis(s)a",
     "next": "Krinagoras",
+    "proof_read": 0,
     "short_description": "Sizilischer Fluß",
     "chapters": [
       {
         "start": 1859,
-        "author": "Ziegler"
+        "end": 1859,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8530,11 +8555,13 @@
     "lemma": "Krioa",
     "previous": "Krinon",
     "next": "Krioi",
+    "proof_read": 0,
     "short_description": "Demos d. Phyle Antiochis",
     "chapters": [
       {
         "start": 1866,
-        "author": "Honigmann"
+        "end": 1866,
+        "author": "Honigmann."
       }
     ]
   },
@@ -8542,10 +8569,12 @@
     "lemma": "Krioi",
     "previous": "Krioa",
     "next": "Kriophoros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1866,
-        "author": "Pieske"
+        "end": 1866,
+        "author": "Pieske."
       }
     ]
   },
@@ -8553,11 +8582,13 @@
     "lemma": "Kriophoros",
     "previous": "Krioi",
     "next": "Krios 1",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Hermes",
     "chapters": [
       {
         "start": 1866,
-        "author": "Prehn"
+        "end": 1866,
+        "author": "Prehn."
       }
     ]
   },
@@ -8565,12 +8596,13 @@
     "lemma": "Krios 1",
     "previous": "Kriophoros",
     "next": "Krios 2",
+    "proof_read": 0,
     "short_description": "Flüßchen in Achaia",
     "chapters": [
       {
         "start": 1866,
         "end": 1867,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
@@ -8578,11 +8610,13 @@
     "lemma": "Krios 2",
     "previous": "Krios 1",
     "next": "Krios 3–7",
+    "proof_read": 0,
     "short_description": "Fluß im kleinasiat. Ionien",
     "chapters": [
       {
         "start": 1867,
-        "author": "Bürchner"
+        "end": 1867,
+        "author": "Bürchner."
       }
     ]
   },
@@ -8605,11 +8639,13 @@
     "lemma": "Krios 3",
     "previous": "Krios 3–7",
     "next": "Krios 4",
+    "proof_read": 0,
     "short_description": "Ehemal. vordorischer Gott",
     "chapters": [
       {
         "start": 1867,
-        "author": "Scherling"
+        "end": 1867,
+        "author": "Scherling."
       }
     ]
   },
@@ -8673,12 +8709,13 @@
     "lemma": "Krios 8",
     "previous": "Krios 7",
     "next": "Krisa, Kirrha",
+    "proof_read": 0,
     "short_description": "Sternbild u. Sternzeichen",
     "chapters": [
       {
         "start": 1869,
         "end": 1886,
-        "author": "Gundel, Wilhelm"
+        "author": "Gundel."
       }
     ]
   },
@@ -8686,12 +8723,14 @@
     "lemma": "Krisa, Kirrha",
     "previous": "Krios 8",
     "next": "Krisamis",
+    "sort_key": "Krisa,kirrha",
+    "proof_read": 0,
     "short_description": "Ort in SW-Phokis",
     "chapters": [
       {
         "start": 1887,
         "end": 1892,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
@@ -8909,48 +8948,54 @@
     "lemma": "Kriterion 1",
     "previous": "Kritalla",
     "next": "Kriterion 2",
+    "proof_read": 0,
     "short_description": "Öffentl. Richtstätte in Argos",
     "chapters": [
       {
         "start": 1896,
         "end": 1897,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
   {
     "lemma": "Kriterion 2",
     "previous": "Kriterion 1",
-    "next": "Krites",
+    "next": "Κριτής",
+    "proof_read": 0,
     "short_description": "Allgem. Bezeichnung d. Geichtshofs im ptolemäischen Ägypten",
     "chapters": [
       {
         "start": 1897,
-        "author": "Preisigke"
+        "end": 1897,
+        "author": "Preisigke."
       }
     ]
   },
   {
-    "lemma": "Krites",
+    "lemma": "Κριτής",
     "previous": "Kriterion 2",
     "next": "Krithea",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1897,
         "end": 1898,
-        "author": "Preisigke"
+        "author": "Preisigke."
       }
     ]
   },
   {
     "lemma": "Krithea",
-    "previous": "Krites",
+    "previous": "Κριτής",
     "next": "Kritheis",
+    "proof_read": 0,
     "short_description": "Binnenstadt d. thrak. Chersones",
     "chapters": [
       {
         "start": 1898,
-        "author": "Oberhummer"
+        "end": 1898,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -8972,10 +9017,12 @@
     "lemma": "Krithine",
     "previous": "Kritheis",
     "next": "Krithomanteia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1900,
-        "author": "Ruge"
+        "end": 1900,
+        "author": "Ruge."
       }
     ]
   },
@@ -8983,11 +9030,13 @@
     "lemma": "Krithomanteia",
     "previous": "Krithine",
     "next": "Krithote",
+    "proof_read": 0,
     "short_description": "Kultischer Brauch",
     "chapters": [
       {
         "start": 1900,
-        "author": "Ganschinietz"
+        "end": 1900,
+        "author": "Ganschinietz."
       }
     ]
   },
@@ -8995,12 +9044,13 @@
     "lemma": "Krithote",
     "previous": "Krithomanteia",
     "next": "Kritias 1",
+    "proof_read": 0,
     "short_description": "Kleine Stadt im thrak. Chersones",
     "chapters": [
       {
         "start": 1900,
         "end": 1901,
-        "author": "Oberhummer"
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9067,7 +9117,7 @@
   {
     "lemma": "Kritias 5",
     "previous": "Kritias 4",
-    "next": "Kritikos",
+    "next": "Κριτικός",
     "proof_read": 2,
     "short_description": "athenischer Politiker und Philosoph (460–403 v. Chr.)",
     "wp_link": "w:de:Kritias",
@@ -9082,21 +9132,22 @@
     ]
   },
   {
-    "lemma": "Kritikos",
+    "lemma": "Κριτικός",
     "previous": "Kritias 5",
     "next": "Kritios",
+    "proof_read": 0,
     "short_description": "Bezeichnung für d. Tätigkeit als Philologe",
     "chapters": [
       {
         "start": 1912,
         "end": 1915,
-        "author": "Gudeman"
+        "author": "Gudeman."
       }
     ]
   },
   {
     "lemma": "Kritios",
-    "previous": "Kritikos",
+    "previous": "Κριτικός",
     "next": "Kritische Zeichen",
     "proof_read": 0,
     "short_description": "Athen. Erzgießer, auch Kritias gen.",
@@ -9112,12 +9163,14 @@
     "lemma": "Kritische Zeichen",
     "previous": "Kritios",
     "next": "Kritobulos",
+    "sort_key": "Kritischezeichen",
+    "proof_read": 0,
     "short_description": "In d. antiken Editionstechnik gebräuchliche Zeichen",
     "chapters": [
       {
         "start": 1916,
         "end": 1927,
-        "author": "Gudeman"
+        "author": "Gudeman."
       }
     ]
   },
@@ -9469,20 +9522,38 @@
     ]
   },
   {
-    "lemma": "Kriu Metopon 1",
+    "lemma": "Κριοῦ Μέτωπον",
     "previous": "Kritonides",
+    "next": "Κριοῦ Μέτωπον 1",
+    "sort_key": "Kriumetopon 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1940,
+        "end": 1940,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Κριοῦ Μέτωπον 1",
+    "previous": "Κριοῦ Μέτωπον",
     "next": "Κριοῦ Μέτωπον 2",
+    "sort_key": "Kriumetopon 1",
+    "proof_read": 0,
     "short_description": "Küstenvorsprung in Kreta",
     "chapters": [
       {
         "start": 1940,
-        "author": "Bürchner"
+        "end": 1940,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Κριοῦ Μέτωπον 2",
-    "previous": "Kriu Metopon 1",
+    "previous": "Κριοῦ Μέτωπον 1",
     "next": "Krixos",
     "short_description": "Vorgebirge an d. S-Spitze d. taurischen Chersones",
     "chapters": [
@@ -9495,7 +9566,7 @@
   {
     "lemma": "Krixos",
     "previous": "Κριοῦ Μέτωπον 2",
-    "next": "Krobiolos",
+    "next": "Krobialos",
     "proof_read": 0,
     "chapters": [
       {
@@ -9506,20 +9577,22 @@
     ]
   },
   {
-    "lemma": "Krobiolos",
+    "lemma": "Krobialos",
     "previous": "Krixos",
     "next": "Krobylos 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1940,
-        "author": "Ruge"
+        "end": 1940,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Krobylos 1",
-    "previous": "Krobiolos",
+    "previous": "Krobialos",
     "next": "Krobylos 2",
     "redirect": "Haartracht, Haarschmuck",
     "proof_read": 2,
@@ -9673,11 +9746,14 @@
     "lemma": "Κρόκιον",
     "previous": "Krokinas",
     "next": "Krokodeilon 1",
-    "short_description": "Ebene vom Halmyros in d. Phthiotis",
+    "sort_key": "Krokion",
+    "proof_read": 2,
+    "short_description": "Ebene vom Halmyros in der Phthiotis",
     "chapters": [
       {
         "start": 1943,
-        "author": "Stählin"
+        "end": 1943,
+        "author": "Stählin."
       }
     ]
   },
@@ -9870,7 +9946,7 @@
   {
     "lemma": "Κροκωτόν",
     "previous": "Krokos 2",
-    "next": "Krokyleia, Krokyleion, Krokyle",
+    "next": "Κροκύλεια, Κροκύλειον, Κροκύλη",
     "sort_key": "Krokoton",
     "redirect": "Κρόκιον",
     "proof_read": 3,
@@ -9882,20 +9958,23 @@
     ]
   },
   {
-    "lemma": "Krokyleia, Krokyleion, Krokyle",
+    "lemma": "Κροκύλεια, Κροκύλειον, Κροκύλη",
     "previous": "Κροκωτόν",
     "next": "Krom(m)yon, Kremmyon",
-    "short_description": "ta -",
+    "sort_key": "Krokyleia,krokyleion,krokyle",
+    "proof_read": 2,
+    "short_description": "Name eines Inselchens und eines Städtchens",
     "chapters": [
       {
         "start": 1973,
-        "author": "Bürchner"
+        "end": 1973,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Krom(m)yon, Kremmyon",
-    "previous": "Krokyleia, Krokyleion, Krokyle",
+    "previous": "Κροκύλεια, Κροκύλειον, Κροκύλη",
     "next": "Krom(m)yon, Kremmyon 1",
     "short_description": "Zum Namen",
     "chapters": [
@@ -9922,8 +10001,8 @@
     "lemma": "Krom(m)yon, Kremmyon 2",
     "previous": "Krom(m)yon, Kremmyon 1",
     "next": "Krommyonesos",
-    "redirect": "Krommyu akra",
-    "proof_read": 2,
+    "redirect": "Κρομμύου ἄκρα",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1974,
@@ -9934,28 +10013,35 @@
   {
     "lemma": "Krommyonesos",
     "previous": "Krom(m)yon, Kremmyon 2",
-    "next": "Krommyu akra",
+    "next": "Κρομμύου ἄκρα",
+    "proof_read": 2,
+    "short_description": "Inselchen vor Smyrna",
     "chapters": [
       {
         "start": 1974,
-        "author": "Bürchner"
+        "end": 1974,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Krommyu akra",
+    "lemma": "Κρομμύου ἄκρα",
     "previous": "Krommyonesos",
     "next": "Kromna",
+    "sort_key": "Krommyuakra",
+    "proof_read": 2,
+    "short_description": "Landspitze von Kypros",
     "chapters": [
       {
         "start": 1974,
-        "author": "Oberhummer"
+        "end": 1974,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Kromna",
-    "previous": "Krommyu akra",
+    "previous": "Κρομμύου ἄκρα",
     "next": "Kromnos",
     "short_description": "Stadt u. Kastell an d. Küste v. Paphlagonien",
     "chapters": [
@@ -11427,17 +11513,19 @@
   {
     "lemma": "Kuralios 3",
     "previous": "Kuralios 2",
-    "next": "Kuraporeina",
-    "short_description": "Kalendermonat in Kophoi am Othrys u. in Pyrasos",
+    "next": "Κουραπόρεινα",
+    "proof_read": 2,
+    "short_description": "Kalendermonat in Kophoi am Othrys und in Pyrasos",
     "chapters": [
       {
         "start": 2201,
-        "author": "Bischoff, [Ernst]"
+        "end": 2201,
+        "author": "Bischoff."
       }
     ]
   },
   {
-    "lemma": "Kuraporeina",
+    "lemma": "Κουραπόρεινα",
     "previous": "Kuralios 3",
     "next": "Kurba",
     "chapters": [
@@ -11449,7 +11537,7 @@
   },
   {
     "lemma": "Kurba",
-    "previous": "Kuraporeina",
+    "previous": "Κουραπόρεινα",
     "next": "Kureïon",
     "short_description": "ta -",
     "chapters": [
@@ -12490,7 +12578,7 @@
   {
     "lemma": "Kychreus",
     "previous": "Κυχρεῖος Πάγος",
-    "next": "Κυδαντίδαι",
+    "next": "Kydantidai",
     "proof_read": 0,
     "short_description": "Salaminischer Ortsheros in Schlangengestalt, Sohn des Poseidon",
     "wp_link": "w:de:Kychreus",
@@ -12504,7 +12592,7 @@
     ]
   },
   {
-    "lemma": "Κυδαντίδαι",
+    "lemma": "Kydantidai",
     "previous": "Kychreus",
     "next": "Kydas 1",
     "short_description": "kl. att. Demos",
@@ -12517,7 +12605,7 @@
   },
   {
     "lemma": "Kydas 1",
-    "previous": "Κυδαντίδαι",
+    "previous": "Kydantidai",
     "next": "Kydas 2",
     "proof_read": 2,
     "short_description": "Röm. Bürger aus Gortyn",
