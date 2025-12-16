@@ -8030,10 +8030,12 @@
     "lemma": "Κρητέα",
     "previous": "Krete",
     "next": "Κρητηνία",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1822,
-        "author": "Honigmann"
+        "end": 1822,
+        "author": "Honigmann."
       }
     ]
   },
@@ -9641,7 +9643,7 @@
   {
     "lemma": "Kröte",
     "previous": "Krobyzoi",
-    "next": "Kroiseios stater",
+    "next": "Κροίσειος στατήρ",
     "sort_key": "Kroete",
     "redirect": "Frosch",
     "proof_read": 2,
@@ -9653,13 +9655,16 @@
     ]
   },
   {
-    "lemma": "Kroiseios stater",
+    "lemma": "Κροίσειος στατήρ",
     "previous": "Kröte",
+    "next": "Κροκαῖοι",
+    "sort_key": "Kroiseiosstater",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1941,
         "end": 1942,
-        "author": "Regling"
+        "author": "Regling."
       }
     ]
   },
@@ -10378,7 +10383,7 @@
   {
     "lemma": "Krothiatas",
     "previous": "Κροτανοί",
-    "next": "Kroton",
+    "next": "Kroton 1",
     "redirect": "Korthiatas",
     "proof_read": 3,
     "chapters": [
@@ -11399,12 +11404,13 @@
     "lemma": "Kürbis",
     "previous": "Künzing",
     "next": "Κούηστρις",
+    "proof_read": 0,
     "short_description": "Pflanzenart",
     "chapters": [
       {
         "start": 2104,
         "end": 2105,
-        "author": "Orth"
+        "author": "Orth."
       }
     ]
   },
@@ -11587,7 +11593,7 @@
   {
     "lemma": "Kupfer",
     "previous": "Κοῦνι",
-    "next": "Kuphe",
+    "next": "Κούφη",
     "proof_read": 0,
     "short_description": "Metallart",
     "chapters": [
@@ -11599,25 +11605,29 @@
     ]
   },
   {
-    "lemma": "Kuphe",
+    "lemma": "Κούφη",
     "previous": "Kupfer",
     "next": "Kuphos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2200,
-        "author": "Fischer"
+        "end": 2200,
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Kuphos",
-    "previous": "Kuphe",
+    "previous": "Κούφη",
     "next": "Kupus",
+    "proof_read": 0,
     "short_description": "Fluß in Phrygien",
     "chapters": [
       {
         "start": 2201,
-        "author": "Ruge"
+        "end": 2201,
+        "author": "Ruge."
       }
     ]
   },
@@ -11638,11 +11648,13 @@
     "lemma": "Kuralios 1",
     "previous": "Kupus",
     "next": "Kuralios 2",
+    "proof_read": 0,
     "short_description": "Fluß in d. Ebene v. Koroneia in Boiotien",
     "chapters": [
       {
         "start": 2201,
-        "author": "Pieske"
+        "end": 2201,
+        "author": "Pieske."
       }
     ]
   },
@@ -11676,7 +11688,7 @@
   {
     "lemma": "Κουραπόρεινα",
     "previous": "Kuralios 3",
-    "next": "Kurba",
+    "next": "Κοῦρβα",
     "sort_key": "Kuraporeina",
     "proof_read": 2,
     "short_description": "Stadt in Vorderindien",
@@ -11690,46 +11702,51 @@
     ]
   },
   {
-    "lemma": "Kurba",
+    "lemma": "Κοῦρβα",
     "previous": "Κουραπόρεινα",
-    "next": "Kureïon",
+    "next": "Kureion",
+    "proof_read": 0,
     "short_description": "ta -",
     "chapters": [
       {
         "start": 2201,
-        "author": "Bürchner"
+        "end": 2201,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kureïon",
-    "previous": "Kurba",
+    "lemma": "Kureion",
+    "previous": "Κοῦρβα",
     "next": "Kureion 1",
-    "short_description": "Kalendermonat in Magnesia/Mäander",
+    "proof_read": 0,
+    "short_description": "zum Namen",
     "chapters": [
       {
         "start": 2201,
-        "end": 2202,
-        "author": "Bischoff, [Ernst]"
+        "end": 2201,
+        "author": "Pieske."
       }
     ]
   },
   {
     "lemma": "Kureion 1",
-    "previous": "Kureïon",
+    "previous": "Kureion",
     "next": "Kureion 2",
+    "proof_read": 0,
     "short_description": "Name eines Heiligtums, wo sich Orest d. Haar geschoren haben soll",
     "chapters": [
       {
         "start": 2201,
-        "author": "Pieske"
+        "end": 2201,
+        "author": "Pieske."
       }
     ]
   },
   {
     "lemma": "Kureion 2",
     "previous": "Kureion 1",
-    "next": "Kureis",
+    "next": "Κουρεῖς",
     "redirect": "Barbier",
     "proof_read": 2,
     "chapters": [
@@ -11740,107 +11757,123 @@
     ]
   },
   {
-    "lemma": "Kureis",
-    "previous": "Kureion 2",
-    "next": "Kurellur",
+    "lemma": "Κουρεῖς",
+    "previous": "Kureïon",
+    "next": "Κουρελλούρ",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2202,
-        "author": "Ziebarth"
+        "end": 2202,
+        "author": "Ziebarth."
       }
     ]
   },
   {
-    "lemma": "Kurellur",
-    "previous": "Kureis",
+    "lemma": "Κουρελλούρ",
+    "previous": "Κουρεῖς",
     "next": "Kureten",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2202,
-        "author": "Wecker"
+        "end": 2202,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Kureten",
-    "previous": "Kurellur",
+    "previous": "Κουρελλούρ",
     "next": "Kuretis",
+    "proof_read": 0,
     "short_description": "Volksstamm in Akarnanien o. Aitolien dämonische Gestalten in Kult u. Mythos",
     "chapters": [
       {
         "start": 2202,
         "end": 2209,
-        "author": "Schwenn"
+        "author": "Schwenn."
       }
     ]
   },
   {
     "lemma": "Kuretis",
     "previous": "Kureten",
-    "next": "Kuriakon",
+    "next": "Κονριακόν",
+    "proof_read": 0,
     "short_description": "s. Kureten",
     "chapters": [
       {
         "start": 2209,
-        "author": "Bürchner"
+        "end": 2209,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kuriakon",
+    "lemma": "Κονριακόν",
     "previous": "Kuretis",
     "next": "Kuriandra",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2209,
-        "author": "Oberhummer"
+        "end": 2209,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Kuriandra",
-    "previous": "Kuriakon",
-    "next": "Kurias",
+    "previous": "Κονριακόν",
+    "next": "Κονρίάς",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2209,
         "end": 2210,
-        "author": "Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Kurias",
+    "lemma": "Κονρίάς",
     "previous": "Kuriandra",
-    "next": "Kurikton",
+    "next": "Κούρικτον",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2210,
-        "author": "Oberhummer"
+        "end": 2210,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Kurikton",
-    "previous": "Kurias",
+    "lemma": "Κούρικτον",
+    "previous": "Κονρίάς",
     "next": "Kurion 1",
+    "proof_read": 0,
     "short_description": "s. Curictae",
     "chapters": [
       {
         "start": 2210,
-        "author": "Fluss"
+        "end": 2210,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Kurion 1",
-    "previous": "Kurikton",
+    "previous": "Κούρικτον",
     "next": "Kurion 2",
+    "proof_read": 0,
     "short_description": "Berg in Aitolien",
     "chapters": [
       {
         "start": 2210,
-        "author": "Pieske"
+        "end": 2210,
+        "author": "Pieske."
       }
     ]
   },
@@ -11848,12 +11881,13 @@
     "lemma": "Kurion 2",
     "previous": "Kurion 1",
     "next": "Κούρισκα",
+    "proof_read": 0,
     "short_description": "Curium, Gr. Stadt an d. S-Küste v. Kypros",
     "chapters": [
       {
         "start": 2210,
         "end": 2214,
-        "author": "Oberhummer"
+        "author": "Oberhummer."
       }
     ]
   },
@@ -11888,29 +11922,33 @@
   {
     "lemma": "Kurnaëtos",
     "previous": "Κοῦρκτρα",
-    "next": "Kuropolis",
+    "next": "Κουρόπολις",
+    "proof_read": 0,
     "short_description": "(?)",
     "chapters": [
       {
         "start": 2214,
-        "author": "Ruge"
+        "end": 2214,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Kuropolis",
+    "lemma": "Κουρόπολις",
     "previous": "Kurnaëtos",
     "next": "Kuropos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2214,
-        "author": "Bürchner"
+        "end": 2214,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kuropos",
-    "previous": "Kuropolis",
+    "previous": "Κουρόπολις",
     "next": "Kurotrophos",
     "redirect": "Kurotropos",
     "proof_read": 2,
@@ -11925,12 +11963,13 @@
     "lemma": "Kurotrophos",
     "previous": "Kuropos",
     "next": "Kurotropos",
+    "proof_read": 0,
     "short_description": "Urspr. selbständige Gottheit, später Epiklesis der 1. Ge, 2. Demeter, 3.",
     "chapters": [
       {
         "start": 2215,
         "end": 2216,
-        "author": "Prehn"
+        "author": "Prehn."
       }
     ]
   },
@@ -11938,18 +11977,20 @@
     "lemma": "Kurotropos",
     "previous": "Kurotrophos",
     "next": "Κούρτα",
+    "proof_read": 0,
     "short_description": "Monat d. akarnanischen Bundeskalenders",
     "chapters": [
       {
         "start": 2216,
-        "author": "Bischoff, [Ernst]"
+        "end": 2216,
+        "author": "Bischoff."
       }
     ]
   },
   {
     "lemma": "Κούρτα",
     "previous": "Kurotropos",
-    "next": "Kurula polis",
+    "next": "Κούρονλα πόλις",
     "sort_key": "Kurta",
     "redirect": "Crumerum",
     "proof_read": 2,
@@ -11961,57 +12002,64 @@
     ]
   },
   {
-    "lemma": "Kurula polis",
+    "lemma": "Κούρονλα πόλις",
     "previous": "Κούρτα",
     "next": "Kurzschrift",
+    "sort_key": "Kurulapolis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2216,
-        "author": "Wecker"
+        "end": 2216,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Kurzschrift",
-    "previous": "Kurula polis",
+    "previous": "Κούρονλα πόλις",
     "next": "Kusae",
+    "proof_read": 0,
     "short_description": "Schnellschrift- u. Abkürzungssystem",
     "chapters": [
       {
         "start": 2217,
         "end": 2231,
-        "author": "Weinberger"
+        "author": "Weinberger."
       }
     ]
   },
   {
     "lemma": "Kusae",
     "previous": "Kurzschrift",
-    "next": "Kusas",
+    "next": "Κούσας",
+    "proof_read": 0,
     "short_description": "Ort in d. ägypt. Thebais",
     "chapters": [
       {
         "start": 2231,
         "end": 2232,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Kusas",
+    "lemma": "Κούσας",
     "previous": "Kusae",
     "next": "Kusea",
+    "proof_read": 0,
     "short_description": "potamos",
     "chapters": [
       {
         "start": 2232,
-        "author": "Fischer"
+        "end": 2232,
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Kusea",
-    "previous": "Kusas",
+    "previous": "Κούσας",
     "next": "Κουσινᾶς",
     "proof_read": 2,
     "short_description": "Ort im phrygisch-pisidischen Grenzgebiet, der nur durch das Ethnikon Κουσεανός",
@@ -12099,10 +12147,12 @@
     "lemma": "Kyadra",
     "previous": "Kuslanki",
     "next": "Κύαλος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2233,
-        "author": "Ruge"
+        "end": 2233,
+        "author": "Ruge."
       }
     ]
   },
@@ -12140,7 +12190,7 @@
   {
     "lemma": "Κύαμον",
     "previous": "Kyamites",
-    "next": "Kyamos",
+    "next": "Κύαμος",
     "short_description": "Akron, to, Lesart statt Kisamon",
     "chapters": [
       {
@@ -12150,39 +12200,58 @@
     ]
   },
   {
-    "lemma": "Kyamos",
+    "lemma": "Κύαμος",
     "previous": "Κύαμον",
     "next": "Kyamosoros",
+    "proof_read": 0,
     "short_description": "Bohne, ihre staatsrechtl. Bedeutung",
     "chapters": [
       {
         "start": 2233,
         "end": 2234,
-        "author": "Oehler, J[ohann]"
+        "author": "J. Oehler."
       }
     ]
   },
   {
     "lemma": "Kyamosoros",
-    "previous": "Kyamos",
-    "next": "Kyane 1",
+    "previous": "Κύαμος",
+    "next": "Kyane",
+    "proof_read": 0,
     "short_description": "Fuß in Sizilien",
     "chapters": [
       {
         "start": 2234,
-        "author": "Ziegler"
+        "end": 2234,
+        "author": "Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Kyane",
+    "previous": "Kyamosoros",
+    "next": "Kyane 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2234,
+        "end": 2234,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Kyane 1",
-    "previous": "Kyamosoros",
+    "previous": "Kyane",
     "next": "Kyane 2",
+    "proof_read": 0,
     "short_description": "Berühmte Quelle mit Flüßchen bei Syrakus",
     "chapters": [
       {
         "start": 2234,
-        "author": "Ziegler"
+        "end": 2234,
+        "author": "Ziegler."
       }
     ]
   },
@@ -12190,12 +12259,13 @@
     "lemma": "Kyane 2",
     "previous": "Kyane 1",
     "next": "Kyane 3",
+    "proof_read": 0,
     "short_description": "Quellnymphe d. gleichnamigen Quelle Nr. 1",
     "chapters": [
       {
         "start": 2234,
         "end": 2235,
-        "author": "Lackeit"
+        "author": "Lackeit."
       }
     ]
   },
@@ -12277,7 +12347,7 @@
   {
     "lemma": "Kyane 8",
     "previous": "Kyane 7",
-    "next": "Kyaneai 1",
+    "next": "Kyaneai",
     "proof_read": 2,
     "short_description": "See in Armenien",
     "no_creative_height": true,
@@ -12290,14 +12360,30 @@
     ]
   },
   {
-    "lemma": "Kyaneai 1",
+    "lemma": "Kyaneai",
     "previous": "Kyane 8",
+    "next": "Kyaneai 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2235,
+        "end": 2236,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Kyaneai 1",
+    "previous": "Kyaneai",
     "next": "Kyaneai 2",
+    "proof_read": 0,
     "short_description": "Dorf auf Astypalaia",
     "chapters": [
       {
         "start": 2235,
-        "author": "Bürchner"
+        "end": 2236,
+        "author": "Bürchner."
       }
     ]
   },
@@ -12305,11 +12391,13 @@
     "lemma": "Kyaneai 2",
     "previous": "Kyaneai 1",
     "next": "Kyaneai 3",
+    "proof_read": 0,
     "short_description": "Stadt in Lykien",
     "chapters": [
       {
         "start": 2236,
-        "author": "Ruge"
+        "end": 2236,
+        "author": "Ruge."
       }
     ]
   },
@@ -12317,11 +12405,13 @@
     "lemma": "Kyaneai 3",
     "previous": "Kyaneai 2",
     "next": "Κυάνεος",
+    "proof_read": 0,
     "short_description": "Zwei kleine Felseninseln in d. Mündung d. thrak. Bosporos",
     "chapters": [
       {
         "start": 2236,
-        "author": "Ruge"
+        "end": 2236,
+        "author": "Ruge."
       }
     ]
   },
@@ -12403,12 +12493,13 @@
     "lemma": "Kyanos",
     "previous": "Kyanopsion",
     "next": "Κύαρδα",
+    "proof_read": 0,
     "short_description": "Blauer Lasurstein, Lapislazuli",
     "chapters": [
       {
         "start": 2238,
         "end": 2242,
-        "author": "Blümner"
+        "author": "Blümner."
       }
     ]
   },
@@ -12430,10 +12521,12 @@
     "lemma": "Kyathis",
     "previous": "Κύαρδα",
     "next": "Kyathos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2242,
-        "author": "Bürchner"
+        "end": 2242,
+        "author": "Bürchner."
       }
     ]
   },
@@ -12441,12 +12534,13 @@
     "lemma": "Kyathos 1",
     "previous": "Kyathis",
     "next": "Kyathos 2",
+    "proof_read": 0,
     "short_description": "Gefäß, z. B. in d. Medizin u. im Kult",
     "chapters": [
       {
         "start": 2242,
         "end": 2245,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
@@ -12454,11 +12548,13 @@
     "lemma": "Kyathos 2",
     "previous": "Kyathos 1",
     "next": "Kyathos 3",
+    "proof_read": 0,
     "short_description": "Hohlmaß",
     "chapters": [
       {
         "start": 2245,
-        "author": "Viedebantt"
+        "end": 2245,
+        "author": "Viedebantt."
       }
     ]
   },
@@ -12482,11 +12578,13 @@
     "lemma": "Kyathos 4",
     "previous": "Kyathos 3",
     "next": "Κυαξάρης",
+    "proof_read": 0,
     "short_description": "Fluß bei d. Stadt Arsinoe in Aitolien",
     "chapters": [
       {
         "start": 2246,
-        "author": "Pieske"
+        "end": 2246,
+        "author": "Pieske."
       }
     ]
   },
@@ -12567,12 +12665,13 @@
     "lemma": "Kybele 1",
     "previous": "Kybeia",
     "next": "Kybele 2",
+    "proof_read": 0,
     "short_description": "Göttin",
     "chapters": [
       {
         "start": 2250,
         "end": 2298,
-        "author": "Schwenn"
+        "author": "Schwenn."
       }
     ]
   },
@@ -12580,87 +12679,101 @@
     "lemma": "Kybele 2",
     "previous": "Kybele 1",
     "next": "Kybele 3",
+    "proof_read": 0,
     "short_description": "Gebirge in Phrygien",
     "chapters": [
       {
         "start": 2298,
-        "author": "Ruge"
+        "end": 2298,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Kybele 3",
     "previous": "Kybele 2",
-    "next": "Kybeleia",
+    "next": "Κυβέλεια",
+    "proof_read": 0,
     "short_description": "Stadt in Phoinikien",
     "chapters": [
       {
         "start": 2298,
-        "author": "Honigmann"
+        "end": 2298,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Kybeleia",
+    "lemma": "Κυβέλεια",
     "previous": "Kybele 3",
     "next": "Kybera",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2298,
-        "author": "Bürchner"
+        "end": 2298,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kybera",
-    "previous": "Kybeleia",
-    "next": "Kybernetai",
+    "previous": "Κυβέλεια",
+    "next": "Κυβερνῆται",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2298,
-        "author": "Ruge"
+        "end": 2298,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Kybernetai",
+    "lemma": "Κυβερνῆται",
     "previous": "Kybera",
-    "next": "Kyberses",
+    "next": "Κυβέρσης",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2298,
-        "author": "Ziebarth"
+        "end": 2298,
+        "author": "Ziebarth."
       }
     ]
   },
   {
-    "lemma": "Kyberses",
-    "previous": "Kybernetai",
-    "next": "Kybima",
+    "lemma": "Κυβέρσης",
+    "previous": "Κυβερνῆται",
+    "next": "Κύβιμα",
+    "proof_read": 0,
     "short_description": "ho -",
     "chapters": [
       {
         "start": 2298,
-        "author": "Bürchner"
+        "end": 2298,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kybima",
-    "previous": "Kyberses",
+    "lemma": "Κύβιμα",
+    "previous": "Κυβέρσης",
     "next": "Kybiosaktes",
+    "proof_read": 0,
     "short_description": "ta -",
     "chapters": [
       {
         "start": 2298,
-        "author": "Bürchner"
+        "end": 2298,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kybiosaktes",
-    "previous": "Kybima",
+    "previous": "Κύβιμα",
     "next": "Κυβιστητήρ",
     "proof_read": 2,
     "short_description": "Spottname des Kaisers Vespasian",
@@ -12692,7 +12805,7 @@
   {
     "lemma": "Kybomanteia",
     "previous": "Κυβιστητήρ",
-    "next": "Kychreia",
+    "next": "Κύχρεια",
     "redirect": "Astragalomanteia",
     "proof_read": 3,
     "chapters": [
@@ -12703,19 +12816,21 @@
     ]
   },
   {
-    "lemma": "Kychreia",
+    "lemma": "Κύχρεια",
     "previous": "Kybomanteia",
     "next": "Κυχρεῖος Πάγος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2301,
-        "author": "Honigmann"
+        "end": 2301,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Κυχρεῖος Πάγος",
-    "previous": "Kychreia",
+    "previous": "Κύχρεια",
     "next": "Kychreus",
     "sort_key": "Kychreiospagos",
     "proof_read": 3,
@@ -12859,12 +12974,13 @@
     "lemma": "Kydoimos",
     "previous": "Kydippos",
     "next": "Kydon 1",
+    "proof_read": 0,
     "short_description": "Personifikation d. Schlachtenlärms",
     "chapters": [
       {
         "start": 2303,
         "end": 2304,
-        "author": "Scherling"
+        "author": "Scherling."
       }
     ]
   },
@@ -12901,28 +13017,31 @@
     ]
   },
   {
-    "lemma": "Kydones, hoi",
+    "lemma": "Κύδωνες",
     "previous": "Kydon 2",
     "next": "Kydonia 1",
+    "sort_key": "Kydones,hoi",
+    "proof_read": 0,
     "short_description": "Bewohner von Kreta",
     "chapters": [
       {
         "start": 2305,
         "end": 2306,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kydonia 1",
-    "previous": "Kydones, hoi",
+    "previous": "Κύδωνες",
     "next": "Kydonia 2",
+    "proof_read": 0,
     "short_description": "Bedeutende Stadt auf Kreta",
     "chapters": [
       {
         "start": 2306,
         "end": 2307,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -12930,52 +13049,60 @@
     "lemma": "Kydonia 2",
     "previous": "Kydonia 1",
     "next": "Kydonia 3",
+    "proof_read": 0,
     "short_description": "Inselchen vor Lesbos",
     "chapters": [
       {
         "start": 2307,
         "end": 2308,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kydonia 3",
     "previous": "Kydonia 2",
-    "next": "Kydrai, Kydriai",
+    "next": "Κύδραι, Κύδριαι",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Athene",
     "chapters": [
       {
         "start": 2308,
-        "author": "Prehn"
+        "end": 2308,
+        "author": "Prehn."
       }
     ]
   },
   {
-    "lemma": "Kydrai, Kydriai",
+    "lemma": "Κύδραι, Κύδριαι",
     "previous": "Kydonia 3",
-    "next": "Kyeneion",
+    "next": "Κυηνεῖον",
+    "sort_key": "Kydrai,kydriai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2308,
-        "author": "Bürchner"
+        "end": 2308,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kyeneion",
-    "previous": "Kydrai, Kydriai",
+    "lemma": "Κυηνεῖον",
+    "previous": "Κύδραι, Κύδριαι",
     "next": "Κυίντου",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2308,
-        "author": "Fischer"
+        "end": 2308,
+        "author": "Fischer."
       }
     ]
   },
   {
     "lemma": "Κυίντου",
-    "previous": "Kyeneion",
+    "previous": "Κυηνεῖον",
     "next": "Kyiza",
     "sort_key": "Kyintu",
     "proof_read": 2,
@@ -12991,7 +13118,7 @@
   {
     "lemma": "Kyiza",
     "previous": "Κυίντου",
-    "next": "Kykala",
+    "next": "Κύκαλα",
     "proof_read": 2,
     "short_description": "(Κύιζα), Hafen an der Küste der Ichthyophagen in Gedrosien; Nearchos bei",
     "chapters": [
@@ -13003,27 +13130,44 @@
     ]
   },
   {
-    "lemma": "Kykala",
+    "lemma": "Κύκαλα",
     "previous": "Kyiza",
-    "next": "Kykladen 1",
+    "next": "Kykladen",
+    "proof_read": 0,
     "short_description": "Kleiner att. Demos d. Phyle Aiantis",
     "chapters": [
       {
         "start": 2308,
-        "author": "Honigmann"
+        "end": 2308,
+        "author": "Honigmann."
+      }
+    ]
+  },
+  {
+    "lemma": "Kykladen",
+    "previous": "Κύκαλα",
+    "next": "Kykladen 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2308,
+        "end": 2309,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kykladen 1",
-    "previous": "Kykala",
+    "previous": "Kykladen",
     "next": "Kykladen 2",
+    "proof_read": 0,
     "short_description": "Inselgruppe im SW der Ägäis",
     "chapters": [
       {
-        "start": 2308,
+        "start": 2309,
         "end": 2320,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -13073,7 +13217,7 @@
   {
     "lemma": "Kykliadas",
     "previous": "Kykleion",
-    "next": "Kyklios, Kykleion",
+    "next": "Kyklios",
     "proof_read": 0,
     "short_description": "aus Achaia, achäischer Bundesstratege 209 v. Chr.",
     "wp_link": "w:en:Cycliadas",
@@ -13087,27 +13231,31 @@
     ]
   },
   {
-    "lemma": "Kyklios, Kykleion",
+    "lemma": "Kyklios",
     "previous": "Kykliadas",
     "next": "Kykloi",
+    "sort_key": "Kyklios,kykleion",
+    "proof_read": 0,
     "short_description": "Kalendermonat von Epidaurus",
     "chapters": [
       {
         "start": 2321,
-        "author": "Bischoff, [Ernst]"
+        "end": 2321,
+        "author": "Bischoff."
       }
     ]
   },
   {
     "lemma": "Kykloi",
-    "previous": "Kyklios, Kykleion",
+    "previous": "Kyklios",
     "next": "Κυκλώπειον",
+    "proof_read": 0,
     "short_description": "Himmelskreise",
     "chapters": [
       {
         "start": 2321,
         "end": 2328,
-        "author": "Rehm"
+        "author": "Rehm."
       }
     ]
   },
@@ -13130,12 +13278,13 @@
     "lemma": "Kyklopen",
     "previous": "Κυκλώπειον",
     "next": "Kyklopenfelsen",
+    "proof_read": 0,
     "short_description": "Gestalten d. gr. Mythos",
     "chapters": [
       {
         "start": 2328,
         "end": 2347,
-        "author": "Eitrem"
+        "author": "Eitrem."
       }
     ]
   },
@@ -13173,12 +13322,13 @@
     "lemma": "Kyklos",
     "previous": "Κυκλωπίς",
     "next": "Kyknos 1",
+    "proof_read": 0,
     "short_description": "Literar. t.t.",
     "chapters": [
       {
         "start": 2347,
         "end": 2435,
-        "author": "Rzach"
+        "author": "Rzach."
       }
     ]
   },
@@ -13320,12 +13470,13 @@
     "lemma": "Kyknos 9",
     "previous": "Kyknos 8",
     "next": "Kylakes",
+    "proof_read": 0,
     "short_description": "Sternbild d. nördl. Himmels",
     "chapters": [
       {
         "start": 2442,
         "end": 2451,
-        "author": "Gundel, Wilhelm"
+        "author": "Gundel."
       }
     ]
   },
@@ -13348,44 +13499,48 @@
   {
     "lemma": "Kylarabis",
     "previous": "Kylakes",
-    "next": "Kylikranes",
+    "next": "Κυλικρᾶνες",
+    "proof_read": 0,
     "short_description": "Berühmtes Gymnasion v. Argos",
     "chapters": [
       {
         "start": 2451,
         "end": 2452,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
   {
-    "lemma": "Kylikranes",
+    "lemma": "Κυλικρᾶνες",
     "previous": "Kylarabis",
-    "next": "Kylindrine",
+    "next": "Κυλινδρίνη",
+    "proof_read": 0,
     "short_description": "Urbevölkerung bei Trachis, dem späteren Herakleia",
     "chapters": [
       {
         "start": 2452,
         "end": 2453,
-        "author": "Stählin"
+        "author": "Stählin."
       }
     ]
   },
   {
-    "lemma": "Kylindrine",
-    "previous": "Kylikranes",
+    "lemma": "Κυλινδρίνη",
+    "previous": "Κυλικρᾶνες",
     "next": "Κύλισις",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2453,
-        "author": "Wecker"
+        "end": 2453,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Κύλισις",
-    "previous": "Kylindrine",
-    "next": "Kyllandia",
+    "previous": "Κυλινδρίνη",
+    "next": "Κυλλανδία",
     "sort_key": "Kylisis",
     "redirect": "Pale 1",
     "proof_read": 2,
@@ -13397,25 +13552,29 @@
     ]
   },
   {
-    "lemma": "Kyllandia",
+    "lemma": "Κυλλανδία",
     "previous": "Κύλισις",
     "next": "Kyllandos",
+    "proof_read": 0,
     "short_description": "ha",
     "chapters": [
       {
         "start": 2453,
-        "author": "Bürchner"
+        "end": 2453,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Kyllandos",
-    "previous": "Kyllandia",
+    "previous": "Κυλλανδία",
     "next": "Kyllaros 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2453,
-        "author": "Bürchner"
+        "end": 2453,
+        "author": "Bürchner."
       }
     ]
   },
@@ -13423,11 +13582,13 @@
     "lemma": "Kyllaros 1",
     "previous": "Kyllandos",
     "next": "Kyllaros 2",
+    "proof_read": 0,
     "short_description": "Roß d. Kastor",
     "chapters": [
       {
         "start": 2454,
-        "author": "Latte"
+        "end": 2454,
+        "author": "Latte."
       }
     ]
   },
@@ -13466,11 +13627,13 @@
     "lemma": "Kyllene 1",
     "previous": "Kyllen",
     "next": "Kyllene 2",
+    "proof_read": 0,
     "short_description": "Nymphe, Eponyme d. arkadischen Gebirges Nr. 2",
     "chapters": [
       {
         "start": 2454,
-        "author": "Latte"
+        "end": 2454,
+        "author": "Latte."
       }
     ]
   },
@@ -13478,12 +13641,13 @@
     "lemma": "Kyllene 2",
     "previous": "Kyllene 1",
     "next": "Kyllene 3",
+    "proof_read": 0,
     "short_description": "Gebirge in NO-Arkadien",
     "chapters": [
       {
         "start": 2454,
         "end": 2457,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
@@ -13504,11 +13668,13 @@
     "lemma": "Kyllene 4",
     "previous": "Kyllene 3",
     "next": "Kyllenios",
+    "proof_read": 0,
     "short_description": "Stadt in d. kleinasiat. Aiolis",
     "chapters": [
       {
         "start": 2458,
-        "author": "Bürchner"
+        "end": 2458,
+        "author": "Bürchner."
       }
     ]
   },
@@ -13531,11 +13697,13 @@
     "lemma": "Kyllenios 1",
     "previous": "Kyllenios",
     "next": "Kyllenios 2",
+    "proof_read": 0,
     "short_description": "Beiname d. Hermes",
     "chapters": [
       {
         "start": 2459,
-        "author": "Pieske"
+        "end": 2459,
+        "author": "Pieske."
       }
     ]
   },
@@ -13683,7 +13851,7 @@
   {
     "lemma": "Κυμαία 1",
     "previous": "Kyma",
-    "next": "Kymaia 2",
+    "next": "Κυμαία 2",
     "short_description": "he -, das Gebiet von Kyme in d. kleinasiat. Aiolis",
     "chapters": [
       {
@@ -13693,20 +13861,22 @@
     ]
   },
   {
-    "lemma": "Kymaia 2",
+    "lemma": "Κυμαία 2",
     "previous": "Κυμαία 1",
-    "next": "Kymaios",
+    "next": "Κυμαῖος",
+    "proof_read": 0,
     "short_description": "Das Gebiet von Cumae in Kampanien",
     "chapters": [
       {
         "start": 2461,
-        "author": "Bürchner"
+        "end": 2461,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Kymaios",
-    "previous": "Kymaia 2",
+    "lemma": "Κυμαῖος",
+    "previous": "Κυμαία 2",
     "next": "Kymaios kolpos 1",
     "short_description": "ho -",
     "chapters": [
@@ -13719,7 +13889,7 @@
   },
   {
     "lemma": "Kymaios kolpos 1",
-    "previous": "Kymaios",
+    "previous": "Κυμαῖος",
     "next": "Kymaios kolpos 2",
     "short_description": "Golf an d. W-Küste Kampaniens",
     "chapters": [
