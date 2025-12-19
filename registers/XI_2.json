@@ -3527,8 +3527,8 @@
     "lemma": "Koros 2",
     "previous": "Koros 1",
     "next": "Korphiatas",
-    "proof_read": 0,
-    "short_description": "Hebr. u. phöniz. Hohlmaß",
+    "proof_read": 2,
+    "short_description": "hebräisches und phönizisches Hohlmaß",
     "chapters": [
       {
         "start": 1438,
@@ -11583,7 +11583,9 @@
     "lemma": "Κοῦνι",
     "previous": "Κούνεοι",
     "next": "Kupfer",
-    "proof_read": 0,
+    "sort_key": "Kuni",
+    "proof_read": 2,
+    "short_description": "Ort in Gedrosien",
     "chapters": [
       {
         "start": 2194,
@@ -11610,7 +11612,9 @@
     "lemma": "Κούφη",
     "previous": "Kupfer",
     "next": "Kuphos",
-    "proof_read": 0,
+    "sort_key": "Kufe",
+    "proof_read": 2,
+    "short_description": "Stadt in Innerlibyen am Nordufer des Nigirflusses",
     "chapters": [
       {
         "start": 2200,
@@ -11748,9 +11752,9 @@
   {
     "lemma": "Kureion 2",
     "previous": "Kureion 1",
-    "next": "Κουρεῖς",
+    "next": "Kureïon",
     "redirect": "Barbier",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2201,
@@ -11760,9 +11764,11 @@
   },
   {
     "lemma": "Κουρεῖς",
-    "previous": "Kureion 2",
+    "previous": "Kureïon",
     "next": "Κουρελλούρ",
-    "proof_read": 0,
+    "sort_key": "Kureis",
+    "proof_read": 2,
+    "short_description": "Barbiere, als Zunft organisiert in der Gegend von Rodosto",
     "chapters": [
       {
         "start": 2202,
@@ -11775,7 +11781,10 @@
     "lemma": "Κουρελλούρ",
     "previous": "Κουρεῖς",
     "next": "Kureten",
-    "proof_read": 0,
+    "sort_key": "Kurellur",
+    "proof_read": 2,
+    "short_description": "Stadt in der Landschaft Limyrike in Vorderindien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2202,
@@ -12488,7 +12497,7 @@
   {
     "lemma": "Kyanopsion",
     "previous": "Kyanippos 3",
-    "next": "Kyanos",
+    "next": "Κύανος",
     "redirect": "Pyanopsion",
     "proof_read": 3,
     "chapters": [
@@ -12499,7 +12508,7 @@
     ]
   },
   {
-    "lemma": "Kyanos",
+    "lemma": "Κύανος",
     "previous": "Kyanopsion",
     "next": "Κύαρδα",
     "proof_read": 0,
@@ -12514,7 +12523,7 @@
   },
   {
     "lemma": "Κύαρδα",
-    "previous": "Kyanos",
+    "previous": "Κύανος",
     "next": "Kyathis",
     "sort_key": "Kyarda",
     "redirect": "Stephanos 12",
@@ -12872,7 +12881,7 @@
   {
     "lemma": "Κυδαντίδαι",
     "previous": "Kychreus",
-    "next": "Kydas 1",
+    "next": "Κυδαθηναιείς",
     "proof_read": 0,
     "short_description": "kl. att. Demos",
     "chapters": [
@@ -13563,10 +13572,11 @@
   },
   {
     "lemma": "Κυλλανδία",
-    "previous": "Κύλισις",
+    "previous": "Kylix",
     "next": "Kyllandos",
-    "proof_read": 0,
-    "short_description": "ha",
+    "sort_key": "Kyllandia",
+    "proof_read": 2,
+    "short_description": "Landstrich im kleinasiatischen Karien",
     "chapters": [
       {
         "start": 2453,
@@ -13863,11 +13873,14 @@
     "lemma": "Κυμαία 1",
     "previous": "Kyma",
     "next": "Κυμαία 2",
-    "short_description": "he -, das Gebiet von Kyme in d. kleinasiat. Aiolis",
+    "sort_key": "Kymaia 1",
+    "proof_read": 2,
+    "short_description": "das Gebiet von Kyme in der kleinasiatischen Aiolis",
     "chapters": [
       {
         "start": 2461,
-        "author": "Bürchner"
+        "end": 2461,
+        "author": "Bürchner."
       }
     ]
   },
@@ -13875,7 +13888,8 @@
     "lemma": "Κυμαία 2",
     "previous": "Κυμαία 1",
     "next": "Κυμαῖος",
-    "proof_read": 0,
+    "sort_key": "Kymaia 2",
+    "proof_read": 2,
     "short_description": "Das Gebiet von Cumae in Kampanien",
     "chapters": [
       {
