@@ -11029,7 +11029,7 @@
   {
     "lemma": "Kalydnios",
     "previous": "Kalydnion",
-    "next": "Kalydnos 1",
+    "next": "Kalydnos",
     "redirect": "Kalydneus",
     "proof_read": 2,
     "chapters": [
@@ -16640,7 +16640,15 @@
   {
     "lemma": "Karpaia",
     "previous": "Karou",
-    "next": "Karpasia"
+    "next": "Karpasia",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 1996,
+        "end": 1996,
+        "author": "Kroll."
+      }
+    ]
   },
   {
     "lemma": "Karpasia",
@@ -21101,18 +21109,21 @@
   {
     "lemma": "Kathereus",
     "previous": "Kathegemon",
-    "next": "Kathestamenoi",
+    "next": "Καθεσταμένοι",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2521,
-        "author": "Geisau"
+        "end": 2521,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Kathestamenoi",
+    "lemma": "Καθεσταμένοι",
     "previous": "Kathereus",
     "next": "Καθοδος",
+    "sort_key": "Kathestamenoi",
     "proof_read": 0,
     "short_description": "hoi -, Beamte v. Thuria in Messenien",
     "chapters": [
@@ -21125,7 +21136,7 @@
   },
   {
     "lemma": "Καθοδος",
-    "previous": "Kathestamenoi",
+    "previous": "Καθεσταμένοι",
     "next": "Katholikos",
     "short_description": "(mod.) Begriff im Kult d. Kore u. d. Dionysos",
     "chapters": [
