@@ -3749,8 +3749,6 @@
   },
   {
     "lemma": "Korunkala",
-    "previous": "Korthiatas",
-    "next": "Κόρου πεδίον, τό",
     "proof_read": 2,
     "short_description": "(Κορούγκαλα), nach Ptolem. VII 1, 93 Stadt im Binnenlande von Maisolia in",
     "no_creative_height": true,
@@ -3759,18 +3757,6 @@
         "start": 1440,
         "end": 1440,
         "author": "Wecker."
-      }
-    ]
-  },
-  {
-    "lemma": "Koru pedion",
-    "previous": "Korunkala",
-    "next": "Kory",
-    "short_description": "to -",
-    "chapters": [
-      {
-        "start": 1440,
-        "author": "Bürchner"
       }
     ]
   },
@@ -4179,24 +4165,12 @@
   {
     "lemma": "Κορύνα",
     "previous": "Korymbos 2",
-    "next": "Korrynephoroi",
     "short_description": "he -",
     "chapters": [
       {
         "start": 1459,
         "end": 1460,
         "author": "Bürchner"
-      }
-    ]
-  },
-  {
-    "lemma": "Korrynephoroi",
-    "previous": "Κορύνα",
-    "next": "Κορυναῖον",
-    "chapters": [
-      {
-        "start": 1460,
-        "author": "Oehler, J[ohann]"
       }
     ]
   },
@@ -5468,38 +5442,7 @@
       }
     ]
   },
-  {
-    "lemma": "Kotinoussa",
-    "next": "Kotoi, hoi",
-    "chapters": [
-      {
-        "start": 1528,
-        "author": "Schulten"
-      }
-    ]
-  },
-  {
-    "lemma": "Kotoi, hoi",
-    "previous": "Kotinoussa",
-    "next": "Kotonis",
-    "short_description": "Ort",
-    "chapters": [
-      {
-        "start": 1528,
-        "author": "Bürchner"
-      }
-    ]
-  },
-  {
-    "lemma": "Kotonis",
-    "previous": "Kotoi, hoi",
-    "chapters": [
-      {
-        "start": 1528,
-        "author": "Geiger"
-      }
-    ]
-  },
+  {"lemma": "Κότοι"},
   {
     "lemma": "Kotonis 1",
     "previous": "Κότοι",
@@ -9669,20 +9612,6 @@
     ]
   },
   {
-    "lemma": "Κροίσειος στατήρ",
-    "previous": "Kröte",
-    "next": "Κροκαῖοι",
-    "sort_key": "Kroiseiosstater",
-    "proof_read": 0,
-    "chapters": [
-      {
-        "start": 1941,
-        "end": 1942,
-        "author": "Regling."
-      }
-    ]
-  },
-  {
     "lemma": "Κροκαῖοι",
     "previous": "Κροίσειος στατήρ",
     "next": "Κρώκαλα",
@@ -10134,9 +10063,9 @@
       }
     ]
   },
+  {"lemma": "Kromus 2"},
   {
     "lemma": "Kronien",
-    "previous": "Kromus 1",
     "next": "Kronion",
     "proof_read": 0,
     "short_description": "Fest d. Kronos",
@@ -11762,6 +11691,7 @@
       }
     ]
   },
+  {"lemma": "Kureïon"},
   {
     "lemma": "Κουρεῖς",
     "previous": "Kureïon",
@@ -12365,7 +12295,6 @@
   {
     "lemma": "Kyane 8",
     "previous": "Kyane 7",
-    "next": "Kyaneai 1",
     "proof_read": 2,
     "short_description": "See in Armenien",
     "no_creative_height": true,
@@ -12892,9 +12821,9 @@
       }
     ]
   },
+  {"lemma": "Κυδαθηναιείς"},
   {
     "lemma": "Kydas 1",
-    "previous": "Κυδαντίδαι",
     "next": "Kydas 2",
     "proof_read": 2,
     "short_description": "Röm. Bürger aus Gortyn",
@@ -13366,6 +13295,20 @@
     ]
   },
   {
+    "lemma": "Kyknos 2ff.",
+    "previous": "Kyknos 1",
+    "next": "Kyknos 2",
+    "proof_read": 2,
+    "short_description": "Name mehrerer griechische Sagenhelden",
+    "chapters": [
+      {
+        "start": 2435,
+        "end": 2435,
+        "author": "Adler."
+      }
+    ]
+  },
+  {
     "lemma": "Kyknos 2",
     "previous": "Kyknos 2ff.",
     "next": "Kyknos 3",
@@ -13382,22 +13325,7 @@
     ]
   },
   {
-    "lemma": "Kyknos 2ff.",
-    "previous": "Kyknos 1",
-    "next": "Kyknos 2",
-    "proof_read": 2,
-    "short_description": "Name mehrerer griechische Sagenhelden",
-    "chapters": [
-      {
-        "start": 2435,
-        "end": 2435,
-        "author": "Adler."
-      }
-    ]
-  },
-  {
     "lemma": "Kyknos 3",
-    "previous": "Kyknos 2ff.",
     "next": "Kyknos 4",
     "proof_read": 0,
     "short_description": "Sohn des Poseidon",
@@ -13559,7 +13487,6 @@
   {
     "lemma": "Κύλισις",
     "previous": "Κυλινδρίνη",
-    "next": "Κυλλανδία",
     "sort_key": "Kylisis",
     "redirect": "Pale 1",
     "proof_read": 2,
@@ -13570,6 +13497,7 @@
       }
     ]
   },
+  {"lemma":  "Kylix"},
   {
     "lemma": "Κυλλανδία",
     "previous": "Kylix",
