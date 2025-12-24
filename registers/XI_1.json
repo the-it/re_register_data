@@ -2055,8 +2055,9 @@
     "lemma": "Kelaino 5",
     "previous": "Kelaino 4",
     "next": "Kelainos 1",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "eine Harpyie",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 135,
@@ -5368,11 +5369,13 @@
     "lemma": "Κερκαφίδες",
     "previous": "Kerinthos 2",
     "next": "Kerkaphos",
+    "proof_read": 0,
     "short_description": "Beiname der Rhodierinnen",
     "chapters": [
       {
         "start": 289,
-        "author": "Capelle"
+        "end": 289,
+        "author": "Capelle."
       }
     ]
   },
@@ -7181,12 +7184,14 @@
     "lemma": "Κίδαρις",
     "previous": "Kidaria",
     "next": "Κιδήνας",
-    "short_description": "Kopfschmuck der persischen Könige und jüdischen Hohenpriester",
+    "sort_key": "Kidaris",
+    "proof_read": 0,
+    "short_description": "Kidaris, Kopfschmuck der persischen Könige",
     "chapters": [
       {
         "start": 378,
         "end": 379,
-        "author": "Netoliczka"
+        "author": "Netoliczka."
       }
     ]
   },
@@ -10041,11 +10046,13 @@
     "lemma": "Κισσοτόμοι",
     "previous": "Kissos 5",
     "next": "Kissus",
+    "proof_read": 0,
     "short_description": "Fest in Phlius",
     "chapters": [
       {
         "start": 522,
-        "author": "Nilsson"
+        "end": 522,
+        "author": "Nilsson."
       }
     ]
   },
@@ -11478,11 +11485,14 @@
     "lemma": "Κληδόνων ἱερόν",
     "previous": "Kledonios 3",
     "next": "Klee",
+    "sort_key": "Kledononhieron",
+    "proof_read": 2,
     "short_description": "Heiligtum der Göttinnen des Gerüchts bei Smyrna",
     "chapters": [
       {
         "start": 585,
-        "author": "Bürchner"
+        "end": 585,
+        "author": "Bürchner."
       }
     ]
   },
@@ -11840,6 +11850,7 @@
   {
     "lemma": "Kleippides",
     "previous": "Kleinomachos 2",
+    "next": "Κλείς",
     "short_description": "Athen. Stratege im J. 428 v. Chr., Sohn des Deinias",
     "chapters": [
       {
@@ -11850,7 +11861,17 @@
   },
   {
     "lemma": "Κλείς",
-    "next": "Kleisidike"
+    "previous": "Kleippides",
+    "next": "Kleisidike",
+    "sort_key": "Kleis",
+    "redirect": true,
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 618,
+        "end": 618
+      }
+    ]
   },
   {
     "lemma": "Kleisidike",
@@ -15894,8 +15915,8 @@
     "lemma": "Klimax 2",
     "previous": "Klimax 1",
     "next": "Klimax 3",
-    "proof_read": 0,
-    "short_description": "Bergweg Argos - Mantineia",
+    "proof_read": 2,
+    "short_description": "Bergweg von Argos nach Mantineia",
     "chapters": [
       {
         "start": 845,
@@ -16800,7 +16821,7 @@
   {
     "lemma": "Klytaimestra",
     "previous": "Κλυστήρ",
-    "next": "Klytia, Klytie 1",
+    "next": "Klytia, Klytie",
     "proof_read": 0,
     "short_description": "Gattin des Agamemnon",
     "chapters": [
@@ -18920,11 +18941,13 @@
     "lemma": "Κοίλη Ἦλις",
     "previous": "Koile 3",
     "next": "Κοίλη Περσίς",
+    "proof_read": 0,
     "short_description": "Küstenebene im Norden des Peneios",
     "chapters": [
       {
         "start": 1050,
-        "author": "Pieske"
+        "end": 1050,
+        "author": "Pieske."
       }
     ]
   },
@@ -19551,7 +19574,7 @@
     "lemma": "Kokkonagara 1",
     "previous": "Kokkonagai",
     "next": "Kokkonagara 2",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Stadt in India extra Gangem auf der Halbinsel Chryse",
     "chapters": [
       {
@@ -19565,7 +19588,7 @@
     "lemma": "Kokkonagara 2",
     "previous": "Kokkonagara 1",
     "next": "Kokkonatu",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Stadt am Unterlauf des Kotiaris",
     "chapters": [
       {
@@ -19579,7 +19602,7 @@
     "lemma": "Kokkonatu",
     "previous": "Kokkonagara 2",
     "next": "Kokkos",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Inselgruppe im erythräischen Meer",
     "chapters": [
       {
@@ -19919,7 +19942,8 @@
     "lemma": "Κολέα",
     "previous": "Kolchos",
     "next": "Koletianoi",
-    "proof_read": 0,
+    "sort_key": "Kolea",
+    "proof_read": 2,
     "short_description": "Ackergewanne bei Tralleis in Lydien",
     "chapters": [
       {
@@ -19933,8 +19957,9 @@
     "lemma": "Koletianoi",
     "previous": "Κολέα",
     "next": "Koli",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Gemeinde in Pannonia superior",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1073,
@@ -19961,8 +19986,9 @@
     "lemma": "Κολιάδαι",
     "previous": "Koli",
     "next": "Koliakoi",
-    "proof_read": 0,
-    "short_description": "Sippe auf Ithaka",
+    "sort_key": "Koliadai",
+    "proof_read": 2,
+    "short_description": "Sippe auf Ithake",
     "chapters": [
       {
         "start": 1074,
@@ -20148,6 +20174,7 @@
   {
     "lemma": "Kollybos",
     "previous": "Κολλυβιστής",
+    "next": "Κολλύριον",
     "proof_read": 0,
     "short_description": "Gewichtsstufe Kleinste Münze",
     "chapters": [
@@ -21023,11 +21050,13 @@
     "lemma": "Κωλυεργία",
     "previous": "Kolybrassos",
     "next": "Kolymbas",
+    "proof_read": 0,
     "short_description": "Vorgebirge in Argolis",
     "chapters": [
       {
         "start": 1125,
-        "author": "Geiger"
+        "end": 1125,
+        "author": "Geiger."
       }
     ]
   },
@@ -21050,11 +21079,13 @@
     "lemma": "Κωμαῖος",
     "previous": "Kolymbas",
     "next": "Komaitho 1",
+    "proof_read": 0,
     "short_description": "Beiname des Apollon",
     "chapters": [
       {
         "start": 1125,
-        "author": "Tambornino"
+        "end": 1125,
+        "author": "Tambornino."
       }
     ]
   },
@@ -21239,12 +21270,13 @@
     "lemma": "Κωμάρχης",
     "previous": "Komar",
     "next": "Komarchos",
+    "proof_read": 0,
     "short_description": "Aegyptischer Dorfbeamter ab ptolemäischer Zeit",
     "chapters": [
       {
         "start": 1129,
         "end": 1131,
-        "author": "Preisigke"
+        "author": "Preisigke."
       }
     ]
   },
@@ -21518,12 +21550,13 @@
     "lemma": "Κώμη Φιλαδελφέων",
     "previous": "Κώμη Ἰλιέων",
     "next": "Komeas",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1141,
         "end": 1142,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -21789,12 +21822,13 @@
     "lemma": "Κομμισίμβηλα",
     "previous": "Kommiades",
     "next": "Κομμοί",
+    "proof_read": 0,
     "short_description": "Festung an der parthischen Königsstraße",
     "chapters": [
       {
         "start": 1194,
         "end": 1195,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
@@ -21886,7 +21920,9 @@
       }
     ]
   },
-  {"lemma": "Ker"},
+  {
+    "lemma": "Ker"
+  },
   {
     "lemma": "Keras 5",
     "next": "Keraton",

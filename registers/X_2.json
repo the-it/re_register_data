@@ -10895,11 +10895,13 @@
     "lemma": "Καλύβη 2",
     "previous": "Καλύβη 1",
     "next": "Καλύβη 3",
+    "proof_read": 0,
     "short_description": "Nymphe",
     "chapters": [
       {
         "start": 1761,
-        "author": "Eitrem"
+        "end": 1761,
+        "author": "Eitrem."
       }
     ]
   },
@@ -10907,11 +10909,13 @@
     "lemma": "Καλύβη 3",
     "previous": "Καλύβη 2",
     "next": "Kalydna",
+    "proof_read": 0,
     "short_description": "Priesterin d. Iuno",
     "chapters": [
       {
         "start": 1761,
-        "author": "Eitrem"
+        "end": 1761,
+        "author": "Eitrem."
       }
     ]
   },
@@ -11195,7 +11199,6 @@
   {
     "lemma": "Καλυδώνιος ποδθμός",
     "previous": "Καλυδώνιος κόλπος",
-    "next": "Kalykadnon",
     "chapters": [
       {
         "start": 1766,
@@ -11205,8 +11208,23 @@
     ]
   },
   {
+    "lemma": "Καλυδώνιος πορθμός",
+    "next": "Kalykadnon",
+    "sort_key": "Kalydoniosporthmos",
+    "proof_read": 2,
+    "short_description": "Meerenge zwischen Rhion und Antirrhion",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 1766,
+        "end": 1767,
+        "author": "v. Geisau."
+      }
+    ]
+  },
+  {
     "lemma": "Kalykadnon",
-    "previous": "Καλυδώνιος ποδθμός",
+    "previous": "Καλυδώνιος πορθμός",
     "next": "Kalykadnos",
     "proof_read": 0,
     "chapters": [
@@ -11471,10 +11489,17 @@
     "lemma": "Καλυψοῦς νῆσος",
     "previous": "Kalypso 2",
     "next": "Κάμαχα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1799,
-        "author": "Geisau"
+        "end": 1799,
+        "author": "v. Geisau."
+      },
+      {
+        "start": 1799,
+        "end": 1799,
+        "author": "Bürchner."
       }
     ]
   },
@@ -11717,12 +11742,14 @@
     "lemma": "Καμβούνια",
     "previous": "Kambre",
     "next": "Καμβυσηνή",
-    "short_description": "Bergland westl. des Olympos",
+    "sort_key": "Kambunia",
+    "proof_read": 0,
+    "short_description": "Kambunia, Bergland westlich des Olympos",
     "chapters": [
       {
         "start": 1808,
         "end": 1809,
-        "author": "Geisau"
+        "author": "v. Geisau-Oberhummer."
       }
     ]
   },
@@ -11800,10 +11827,12 @@
     "lemma": "Καμβύσου ταμεῖα",
     "previous": "Kambyson",
     "next": "Kambysu",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1823,
-        "author": "Kees"
+        "end": 1823,
+        "author": "Kees."
       }
     ]
   },
@@ -12305,12 +12334,14 @@
     "lemma": "Καμπύλη",
     "previous": "Κάμπτρα",
     "next": "Kampylos",
-    "short_description": "Handstock mit gebogenem Griff",
+    "sort_key": "Kampyle",
+    "proof_read": 0,
+    "short_description": "Kampyle, Handstock mit gebogenem Griff",
     "chapters": [
       {
         "start": 1843,
         "end": 1844,
-        "author": "Schneider, K[arl]"
+        "author": "K. Schneider."
       }
     ]
   },
@@ -15738,11 +15769,13 @@
     "lemma": "Καρκίνος 2",
     "previous": "Καρκίνος 1",
     "next": "Καρκίνος 3",
+    "proof_read": 0,
     "short_description": "Fluß in Bruttium",
     "chapters": [
       {
         "start": 1951,
-        "author": "Geisau"
+        "end": 1951,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -15750,11 +15783,13 @@
     "lemma": "Καρκίνος 3",
     "previous": "Καρκίνος 2",
     "next": "Καρκίνος 4",
+    "proof_read": 0,
     "short_description": "Stadt in Bruttium",
     "chapters": [
       {
         "start": 1951,
-        "author": "Geisau"
+        "end": 1951,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -15835,10 +15870,12 @@
     "lemma": "Καρκινούσιοι",
     "previous": "Καρκίνου ποιήματα",
     "next": "Karko",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1954,
-        "author": "Geisau"
+        "end": 1954,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -17706,10 +17743,12 @@
     "lemma": "Καρυᾶται",
     "previous": "Karyanda 2",
     "next": "Karyateia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2247,
-        "author": "Geisau"
+        "end": 2247,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -18413,10 +18452,12 @@
     "lemma": "Κασωλῖνος",
     "previous": "Kasolaba",
     "next": "Kasonia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2268,
-        "author": "Geisau"
+        "end": 2268,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -20747,7 +20788,7 @@
     "previous": "Katarakta",
     "next": "Καταρχαί",
     "sort_key": "Katarbates",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Fluß an der Grenze Liburniens",
     "chapters": [
       {
@@ -21122,7 +21163,7 @@
   {
     "lemma": "Καθεσταμένοι",
     "previous": "Kathereus",
-    "next": "Καθοδος",
+    "next": "Κάθοδος",
     "sort_key": "Kathestamenoi",
     "proof_read": 0,
     "short_description": "hoi -, Beamte v. Thuria in Messenien",
@@ -21135,24 +21176,27 @@
     ]
   },
   {
-    "lemma": "Καθοδος",
+    "lemma": "Κάθοδος",
     "previous": "Καθεσταμένοι",
-    "next": "Katholikos",
-    "short_description": "(mod.) Begriff im Kult d. Kore u. d. Dionysos",
+    "next": "Καθολικός",
+    "sort_key": "Kathodos",
+    "proof_read": 0,
+    "short_description": "Begriff im Kult der Kore und des Dionysos",
     "chapters": [
       {
         "start": 2521,
         "end": 2522,
-        "author": "Nilsson"
+        "author": "Nilsson."
       }
     ]
   },
   {
-    "lemma": "Katholikos",
-    "previous": "Καθοδος",
+    "lemma": "Καθολικός",
+    "previous": "Κάθοδος",
     "next": "Καθῦλκα",
+    "sort_key": "Katholikos",
     "proof_read": 0,
-    "short_description": "Ägypt. Finanzbeamter in röm. u. byzantin. Zt.",
+    "short_description": "ägyptischer Finanzbeamter in römischen und byzantinischen Zeit",
     "chapters": [
       {
         "start": 2522,
@@ -21163,7 +21207,7 @@
   },
   {
     "lemma": "Καθῦλκα",
-    "previous": "Katholikos",
+    "previous": "Καθολικός",
     "next": "Καθυφέσεως δίκη",
     "sort_key": "Kathylka",
     "redirect": "Calucones 1",
