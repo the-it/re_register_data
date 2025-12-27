@@ -8165,8 +8165,9 @@
     "lemma": "Λαγινάπυτον",
     "previous": "Lagina",
     "next": "Lagis",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "sort_key": "Laginapyton",
+    "proof_read": 2,
+    "short_description": "Ort auf Kreta",
     "chapters": [
       {
         "start": 456,
@@ -9043,7 +9044,8 @@
     "lemma": "Λαισμαγόρεια",
     "previous": "Laisch",
     "next": "Laispodias",
-    "proof_read": 0,
+    "sort_key": "Laismagoreia",
+    "proof_read": 2,
     "short_description": "Höhe im Gebiet, um das sich Priene und Samos stritten",
     "chapters": [
       {
@@ -9904,8 +9906,8 @@
     "previous": "Lalasis",
     "next": "Laliacus, Lalliacus",
     "sort_key": "lali#ad",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Station zwischen Mascula und Diana",
     "chapters": [
       {
         "start": 535,
@@ -11664,7 +11666,7 @@
   {
     "lemma": "Lamponeia 2",
     "previous": "Lamponeia 1",
-    "next": "Λαμπονίου",
+    "next": "Λαμπωνίου",
     "proof_read": 0,
     "short_description": "Städtchen der Aiolis",
     "chapters": [
@@ -11676,10 +11678,11 @@
     ]
   },
   {
-    "lemma": "Λαμπονίου",
+    "lemma": "Λαμπωνίου",
     "previous": "Lamponeia 2",
     "next": "Lamponius",
-    "proof_read": 0,
+    "sort_key": "Lamponiou",
+    "proof_read": 2,
     "short_description": "Kloster auf der Spitze des Latmosgebirges",
     "chapters": [
       {
@@ -11691,7 +11694,7 @@
   },
   {
     "lemma": "Lamponius",
-    "previous": "Λαμπονίου",
+    "previous": "Λαμπωνίου",
     "next": "Lampos",
     "proof_read": 0,
     "short_description": "M., lucanischer Führer im Bundesgenossenkrieg",
@@ -15919,8 +15922,8 @@
     "previous": "Lapidatio",
     "next": "Lapideus Campus, Lapidei Campi",
     "sort_key": "Lapidem baium#ad",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Station zwischen Thibilis und Gadiaufala",
     "chapters": [
       {
         "start": 776,
@@ -20564,8 +20567,8 @@
     "lemma": "Latusates",
     "previous": "Latus clavus",
     "next": "Λατύια",
-    "proof_read": 0,
-    "short_description": "Iberische Völkerschaft in Aquitania propria",
+    "proof_read": 2,
+    "short_description": "iberische Völkerschaft in Aquitania propria",
     "chapters": [
       {
         "start": 985,
@@ -20577,7 +20580,6 @@
   {
     "lemma": "Latus clavus",
     "previous": "Laturus",
-    "next": "Latusates",
     "sort_key": "Latusclavus",
     "redirect": "Hula",
     "proof_read": 0,
@@ -20590,11 +20592,27 @@
     ]
   },
   {
+    "lemma": "Λατύια",
+    "previous": "Λατύια",
+    "next": "Λάτυμνον",
+    "sort_key": "Latyia",
+    "proof_read": 2,
+    "short_description": "Stadt",
+    "chapters": [
+      {
+        "start": 986,
+        "end": 986,
+        "author": "Stählin."
+      }
+    ]
+  },
+  {
     "lemma": "Λάτυμνον",
     "previous": "Λατύια",
     "next": "Latymnum",
-    "proof_read": 0,
-    "short_description": "Berg in Lakonien(?)",
+    "sort_key": "Latymnon",
+    "proof_read": 2,
+    "short_description": "Berg in Lakonien (?)",
     "chapters": [
       {
         "start": 986,
@@ -20607,8 +20625,9 @@
     "lemma": "Latymnum",
     "previous": "Λάτυμνον",
     "next": "Latymnus",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Berg bei Kroton",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 986,
@@ -20621,8 +20640,9 @@
     "lemma": "Latymnus",
     "previous": "Latymnum",
     "next": "Latyrion",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Berg bei Kroton",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 986,
@@ -20927,8 +20947,9 @@
     "lemma": "Lavernium",
     "previous": "Lavernae",
     "next": "Laugasa",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Ort in der Gegend von Formiae-Gaeta",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 999,
@@ -21614,8 +21635,8 @@
     "lemma": "Lauretanus",
     "previous": "Laureolus",
     "next": "Lauri",
-    "proof_read": 2,
-    "short_description": "Ort",
+    "proof_read": 3,
+    "short_description": "Hafen in Etrurien",
     "no_creative_height": true,
     "chapters": [
       {
@@ -21630,7 +21651,7 @@
     "previous": "Lauretanus",
     "next": "Lauriacum 1",
     "redirect": "Laurum",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1017,
@@ -22282,8 +22303,9 @@
     "lemma": "Lea",
     "previous": "Lazichos",
     "next": "Leades",
-    "proof_read": 0,
-    "short_description": "Ort?",
+    "proof_read": 2,
+    "short_description": "Ort im Nilgebiet (?)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1043,
@@ -22770,8 +22792,9 @@
     "lemma": "Lebontia",
     "previous": "Lebona 2",
     "next": "Leboriae",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Station im Gebiet von Oxilla",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1055,
@@ -22826,7 +22849,7 @@
     "lemma": "Lecanius",
     "previous": "Leburini",
     "next": "Lecha",
-    "redirect": "Lekanios Areios",
+    "redirect": "Lekanios",
     "proof_read": 3,
     "chapters": [
       {

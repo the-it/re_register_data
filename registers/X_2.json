@@ -3563,7 +3563,7 @@
     "previous": "Kadyanda",
     "next": "Kadytis",
     "sort_key": "Kadyiekome",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Dorf bei Magnesia am Maiandros in Karien",
     "chapters": [
       {
@@ -5889,17 +5889,21 @@
   {
     "lemma": "Kale Akte 1",
     "previous": "Kale Akte",
+    "next": "Kale Akte 2",
+    "sort_key": "Kaleakte 1",
+    "proof_read": 0,
     "short_description": "Sizilische Stadt",
     "chapters": [
       {
         "start": 1559,
         "end": 1560,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Kale Akte 2",
+    "previous": "Kale Akte 1",
     "next": "Καλὴ παρεμβολή",
     "sort_key": "Kaleakte, kalakte 2",
     "redirect": "Καλάκτα, Καλάκτη, Κᾱλὴ Ἀκτή",
@@ -20927,7 +20931,7 @@
   {
     "lemma": "Κατάστασις 1",
     "previous": "Κατασσοῦ",
-    "next": "Katastasis 2",
+    "next": "Κατάστασις 2",
     "proof_read": 0,
     "short_description": "Ausrüstungsgeld d. att. zum Reiterdienst verpflichteten Bürger",
     "chapters": [
@@ -20939,7 +20943,7 @@
     ]
   },
   {
-    "lemma": "Katastasis 2",
+    "lemma": "Κατάστασις 2",
     "previous": "Κατάστασις 1",
     "next": "Kataster",
     "proof_read": 0,
@@ -20954,7 +20958,7 @@
   },
   {
     "lemma": "Kataster",
-    "previous": "Katastasis 2",
+    "previous": "Κατάστασις 2",
     "next": "Κατατομή",
     "proof_read": 0,
     "short_description": "Sytematische Aufzeichnung über Grund u. Boden zu Steuerzwecken o. anderen",
