@@ -5770,7 +5770,7 @@
   },
   {
     "lemma": "Leucosia",
-    "previous": "Leucos Tunes",
+    "previous": "Leuconum",
     "next": "Leucotheae",
     "proof_read": 0,
     "chapters": [
@@ -6159,8 +6159,8 @@
   },
   {
     "lemma": "Leukaios",
-    "previous": "Λευχαὶ Νάπαι",
-    "next": "Λευκαὶ Στῆλαι",
+    "previous": "Λευκαὶ Στῆλαι",
+    "next": "Leukaithiopes",
     "proof_read": 0,
     "chapters": [
       {
@@ -6187,7 +6187,7 @@
   },
   {
     "lemma": "Leukaithiopes",
-    "previous": "Λευκαὶ Στῆλαι",
+    "previous": "Leukaios",
     "next": "Leukane",
     "proof_read": 0,
     "short_description": "Afrikan. Volk",
@@ -7500,7 +7500,7 @@
   },
   {
     "lemma": "Leukopeus",
-    "previous": "Leukopetra 2",
+    "previous": "Λευκόπετρα 2",
     "next": "Leukophanes",
     "proof_read": 2,
     "short_description": "Sohn Porthaon und der Euryte, Bruder des Oineus. Apollod. I 63.",
@@ -8319,11 +8319,14 @@
     "lemma": "Lex Aelia Sentia",
     "previous": "Lex Aelia 2",
     "next": "Lex Aemilia 1",
-    "short_description": "Gesetz bzgl. des Rechtes d. Freigelassenen, 757 a.u.c.",
+    "sort_key": "Lexaelia sentia",
+    "proof_read": 0,
+    "short_description": "Gesetz zum Recht der Freigelassenen 4 n. Chr.",
     "chapters": [
       {
         "start": 2321,
-        "author": "Leonhard"
+        "end": 2322,
+        "author": "R. Leonhard."
       }
     ]
   },
@@ -8503,11 +8506,14 @@
     "lemma": "Lex Aquilia",
     "previous": "Lex Appuleia de maiestate minuta",
     "next": "Lex Asinia Antistia",
-    "short_description": "Gesetz bzgl. Sachbeschädigung, unbek. J.",
+    "sort_key": "Lexaquilia",
+    "proof_read": 0,
+    "short_description": "Gesetz Sachbeschädigung, unbekanntes Jahr",
     "chapters": [
       {
         "start": 2325,
-        "author": "Taubenschlag"
+        "end": 2330,
+        "author": "Taubenschlag."
       }
     ]
   },
@@ -8539,11 +8545,14 @@
     "lemma": "Lex Atilia 1",
     "previous": "Lex Atia",
     "next": "Lex Atilia 2",
-    "short_description": "Bestimmung bzgl. der Vormundschaft, unbek. J.",
+    "sort_key": "Lexatilia 1",
+    "proof_read": 0,
+    "short_description": "zur Vormundschaft, unbekanntes Jahr",
     "chapters": [
       {
         "start": 2330,
-        "author": "Taubenschlag"
+        "end": 2330,
+        "author": "Taubenschlag."
       }
     ]
   },
@@ -9017,11 +9026,14 @@
     "lemma": "Lex Claudia 5",
     "previous": "Lex Claudia 4",
     "next": "Leges Clodiae 1",
-    "short_description": "Gesetz d. Kaisers Claudius bzgl. der Vormundschaft",
+    "sort_key": "Lexclaudia 5",
+    "proof_read": 0,
+    "short_description": "Gesetz des Kaisers Claudius bzgl. der Vormundschaft",
     "chapters": [
       {
         "start": 2340,
-        "author": "Taubenschlag"
+        "end": 2341,
+        "author": "Taubenschlag."
       }
     ]
   },
@@ -9714,24 +9726,30 @@
   },
   {
     "lemma": "Lex Iulia et Plautia",
-    "previous": "Lex Iulia de pecuniis repetundis",
+    "previous": "Lex Iulia Papiria",
     "next": "Lex Iulia et Titia",
+    "sort_key": "Lexiulia et plautia",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 2392,
-        "author": "Weiss, Egon"
+        "end": 2392,
+        "author": "E. Weiss."
       }
     ]
   },
   {
     "lemma": "Lex Iulia et Titia",
     "previous": "Lex Iulia et Plautia",
-    "next": "Lex Iulia Papiria",
+    "next": "Lex Iunia 1",
+    "sort_key": "Lexiulia et titia",
+    "proof_read": 0,
     "short_description": "Evtl. 32 v. Chr.(?)",
     "chapters": [
       {
         "start": 2392,
-        "author": "Taubenschlag"
+        "end": 2393,
+        "author": "Taubenschlag."
       }
     ]
   },
