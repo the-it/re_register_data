@@ -808,7 +808,6 @@
     "next": "Libnath",
     "proof_read": 2,
     "short_description": "Angebl. Lagerstätte d. Israeliten während d. Wüstenwanderung",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 115,
@@ -6783,11 +6782,14 @@
     "lemma": "Λίνδος 1",
     "previous": "Lindinus",
     "next": "Λίνδος 2",
-    "short_description": "ho -, Fluß in SW-Kleinasien",
+    "sort_key": "Lindos 1",
+    "proof_read": 2,
+    "short_description": "Lindos, Fluß bei Karien und Lydien in Kleinasien",
     "chapters": [
       {
         "start": 713,
-        "author": "Bürchner"
+        "end": 713,
+        "author": "Bürchner."
       }
     ]
   },
@@ -6795,11 +6797,14 @@
     "lemma": "Λίνδος 2",
     "previous": "Λίνδος 1",
     "next": "Λίνδος 3",
-    "short_description": "Inselchen an d. W-Küste Kytheras",
+    "sort_key": "Lindos 2",
+    "proof_read": 2,
+    "short_description": "Lindos, Inselchen an der Westküste Kytheras",
     "chapters": [
       {
         "start": 713,
-        "author": "Bürchner"
+        "end": 713,
+        "author": "Bürchner."
       }
     ]
   },
@@ -7155,59 +7160,72 @@
   {
     "lemma": "Lipaxos",
     "previous": "Liparis",
-    "next": "Lipomartyriu",
+    "next": "Λιπομαρτυρίου",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 722,
-        "author": "Oberhummer"
+        "end": 722,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Lipomartyriu",
+    "lemma": "Λιπομαρτυρίου",
     "previous": "Lipaxos",
-    "next": "Liponautiu",
-    "short_description": "- dike, t.t. im gr. Recht",
+    "next": "Λιποναυτίου",
+    "sort_key": "Lipomartyriu",
+    "proof_read": 0,
+    "short_description": "Lipomartyriu dike, t.t. im griechischen Recht",
     "chapters": [
       {
         "start": 722,
-        "author": "Thalheim"
+        "end": 722,
+        "author": "Thalheim."
       }
     ]
   },
   {
-    "lemma": "Liponautiu",
-    "previous": "Lipomartyriu",
-    "next": "Lipotaxiu",
-    "short_description": "- graphe, Lipostratiou graphe",
+    "lemma": "Λιποναυτίου",
+    "previous": "Λιπομαρτυρίου",
+    "next": "Λιποταξίου",
+    "sort_key": "Liponautiu",
+    "proof_read": 0,
+    "short_description": "Liponautiu graphe, attisches Strafgesetz bei Klagen",
     "chapters": [
       {
         "start": 722,
-        "author": "Thalheim"
+        "end": 723,
+        "author": "Thalheim."
       }
     ]
   },
   {
-    "lemma": "Lipotaxiu",
-    "previous": "Liponautiu",
+    "lemma": "Λιποταξίου",
+    "previous": "Λιποναυτίου",
     "next": "Lippitudo",
-    "short_description": "- graphe, t.t. im gr. Militärstrafrecht",
+    "sort_key": "Lipotaxiu",
+    "proof_read": 0,
+    "short_description": "Lipotaxiu graphe, t.t. im griech. Militärstrafrecht",
     "chapters": [
       {
         "start": 723,
-        "author": "Thalheim"
+        "end": 723,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Lippitudo",
-    "previous": "Lipotaxiu",
+    "previous": "Λιποταξίου",
     "next": "Liquentia 1",
+    "proof_read": 0,
     "short_description": "Augenkrankheit",
     "chapters": [
       {
         "start": 723,
-        "author": "Kind"
+        "end": 726,
+        "author": "Kind."
       }
     ]
   },
@@ -7239,11 +7257,13 @@
     "lemma": "Liquet",
     "previous": "Liquentia 2",
     "next": "Lirenates",
-    "short_description": "t.t. der röm. Rechtssprache",
+    "proof_read": 0,
+    "short_description": "t.t. der röm. Rechtssprache im Zivilprozeß",
     "chapters": [
       {
         "start": 726,
-        "author": "Leonhard"
+        "end": 727,
+        "author": "Leonhard-Weiss."
       }
     ]
   },
