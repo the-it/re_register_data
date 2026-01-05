@@ -4011,11 +4011,14 @@
     "lemma": "Lucrativarum causarum concursus",
     "previous": "Lucotion",
     "next": "Lucretiae deae",
-    "short_description": "Jurist. t.t.",
+    "sort_key": "Lucrativarumcausarum concursus",
+    "proof_read": 0,
+    "short_description": "Jurist. t.t., Regel zur Tilgung von Schulden",
     "chapters": [
       {
         "start": 1653,
-        "author": "Leonhard"
+        "end": 1656,
+        "author": "Leonhard-Weiss."
       }
     ]
   },
@@ -5007,7 +5010,7 @@
   {
     "lemma": "Luduin",
     "previous": "Ludor",
-    "next": "Ludus Troiae",
+    "next": "Λουειθά",
     "proof_read": 0,
     "chapters": [
       {
@@ -5020,11 +5023,11 @@
   {
     "lemma": "Λουειθά",
     "previous": "Luduin",
-    "next": "Luentium",
+    "next": "Luentinum",
     "sort_key": "Lueitha",
     "redirect": "Luchith",
     "proof_read": 2,
-    "short_description": "Luitha",
+    "short_description": "Lueitha, Luitha",
     "chapters": [
       {
         "start": 1712,
@@ -5033,35 +5036,46 @@
     ]
   },
   {
-    "lemma": "Luentium",
+    "lemma": "Luentinum",
     "previous": "Λουειθά",
-    "next": "Luerchos",
+    "next": "Λούερχος",
+    "proof_read": 2,
+    "short_description": "Stadt der Demetae im westlichen Albion",
     "chapters": [
       {
         "start": 1712,
-        "author": "MacDonald"
+        "end": 1712,
+        "author": "Macdonald."
       }
     ]
   },
   {
-    "lemma": "Luerchos",
-    "previous": "Luentium",
+    "lemma": "Λούερχος",
+    "previous": "Luentinum",
     "next": "Lueria",
+    "sort_key": "Luerchos",
+    "proof_read": 2,
+    "short_description": "Luerchos, Name eines Flusses?",
     "chapters": [
       {
         "start": 1712,
-        "author": "Stählin"
+        "end": 1712,
+        "author": "Stählin."
       }
     ]
   },
   {
     "lemma": "Lueria",
-    "previous": "Luerchos",
+    "previous": "Λούερχος",
     "next": "Luftgöttin",
+    "proof_read": 2,
+    "short_description": "Stadt in Ligurien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1712,
-        "author": "Philipp"
+        "end": 1712,
+        "author": "Philipp."
       }
     ]
   },
@@ -5069,11 +5083,13 @@
     "lemma": "Luftgöttin",
     "previous": "Lueria",
     "next": "Lugana",
-    "short_description": "Die Aurai als Gottheiten",
+    "proof_read": 0,
+    "short_description": "die Aurai als Gottheiten",
     "chapters": [
       {
         "start": 1712,
-        "author": "Schmidt, Joh[annes]"
+        "end": 1714,
+        "author": "Joh. Schmidt."
       }
     ]
   },
@@ -5081,10 +5097,12 @@
     "lemma": "Lugana",
     "previous": "Luftgöttin",
     "next": "Lugdunum",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 1714,
-        "author": "Moritz, [Bernhard]"
+        "end": 1714,
+        "author": "Moritz."
       }
     ]
   },
@@ -5105,11 +5123,14 @@
     "lemma": "Lugeus lacus",
     "previous": "Lugdunum",
     "next": "Lugi",
-    "short_description": "See im Land d. Iapuden in Illyrien",
+    "sort_key": "Lugeuslacus",
+    "proof_read": 0,
+    "short_description": "See im Land der Iapuden in Illyrien",
     "chapters": [
       {
         "start": 1714,
-        "author": "Fluss"
+        "end": 1715,
+        "author": "Fluss."
       }
     ]
   },
@@ -5117,10 +5138,13 @@
     "lemma": "Lugi",
     "previous": "Lugeus lacus",
     "next": "Lugidunum",
+    "proof_read": 2,
+    "short_description": "Völkerschaft nördlich von Albion",
     "chapters": [
       {
         "start": 1715,
-        "author": "MacDonald"
+        "end": 1715,
+        "author": "Macdonald."
       }
     ]
   },
@@ -5128,11 +5152,15 @@
     "lemma": "Lugidunum",
     "previous": "Lugi",
     "next": "Lugii",
-    "short_description": "Stadt in Germania magna",
+    "proof_read": 2,
+    "short_description": "Stadt in Germania magna = Liegnitz?",
+    "wp_link": "w:de:Legnica",
+    "wd_link": "d:Q106274",
     "chapters": [
       {
         "start": 1715,
-        "author": "Franke"
+        "end": 1715,
+        "author": "Franke."
       }
     ]
   },
@@ -5140,11 +5168,13 @@
     "lemma": "Lugii",
     "previous": "Lugidunum",
     "next": "Lugius",
-    "short_description": "Kultgemeinschaft mehrerer ostgerman. Völker",
+    "proof_read": 0,
+    "short_description": "Kultgemeinschaft mehrerer ostgermanischer Völker",
     "chapters": [
       {
         "start": 1715,
-        "author": "Schönfeld"
+        "end": 1717,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -5276,10 +5306,13 @@
     "lemma": "Luguido",
     "previous": "Lugudunum 4",
     "next": "Luguidonis Portus",
+    "proof_read": 0,
+    "short_description": "Ortschaft im Innern Sardiniens",
     "chapters": [
       {
         "start": 1724,
-        "author": "Ziegler"
+        "end": 1724,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5287,10 +5320,14 @@
     "lemma": "Luguidonis Portus",
     "previous": "Luguido",
     "next": "Lugundino",
+    "sort_key": "Luguidonisportus",
+    "proof_read": 0,
+    "short_description": "Station der Straße Tibula–Caralis auf Sardinien",
     "chapters": [
       {
         "start": 1724,
-        "author": "Ziegler"
+        "end": 1724,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5312,10 +5349,15 @@
     "lemma": "Luguvall(i)um",
     "previous": "Lugundino",
     "next": "Luii",
+    "proof_read": 2,
+    "short_description": "Stadt in Britannien, beim Hadrianischen Wall",
+    "wp_link": "w:de:Carlisle",
+    "wd_link": "d:Q192896",
     "chapters": [
       {
         "start": 1725,
-        "author": "MacDonald"
+        "end": 1725,
+        "author": "Macdonald."
       }
     ]
   },
@@ -5520,10 +5562,13 @@
     "lemma": "Luma",
     "previous": "Lullia",
     "next": "Lumbion",
+    "proof_read": 2,
+    "short_description": "Ort in Arabia deserta",
     "chapters": [
       {
         "start": 1803,
-        "author": "Moritz, [Bernhard]"
+        "end": 1803,
+        "author": "Moritz."
       }
     ]
   },
@@ -5531,10 +5576,13 @@
     "lemma": "Lumbion",
     "previous": "Luma",
     "next": "Lumennones",
+    "proof_read": 2,
+    "short_description": "Ort bei Tempe zwischen Thessalonike und Larisa",
     "chapters": [
       {
         "start": 1803,
-        "author": "Stählin"
+        "end": 1803,
+        "author": "Stählin."
       }
     ]
   },
@@ -5542,10 +5590,13 @@
     "lemma": "Lumennones",
     "previous": "Lumbion",
     "next": "Lumiae",
+    "proof_read": 0,
+    "short_description": "Bewohner von Romeno im Nonsberg",
     "chapters": [
       {
         "start": 1803,
-        "author": "Philipp"
+        "end": 1803,
+        "author": "Philipp."
       }
     ]
   },
@@ -5553,10 +5604,13 @@
     "lemma": "Lumiae",
     "previous": "Lumennones",
     "next": "Luminum servitus",
+    "proof_read": 2,
+    "short_description": "Name von Göttinnen in Hispania citerior",
     "chapters": [
       {
         "start": 1804,
-        "author": "Cramer"
+        "end": 1804,
+        "author": "Cramer."
       }
     ]
   },
@@ -5577,10 +5631,16 @@
     "lemma": "Lumone",
     "previous": "Luminum servitus",
     "next": "Λούμπος",
+    "proof_read": 2,
+    "short_description": "Station an der Riviera, heute Lumone",
+    "wp_link": "w:fr:Mausolée de Lumone",
+    "wd_link": "d:Q15952739",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1804,
-        "author": "Philipp"
+        "end": 1804,
+        "author": "Philipp."
       }
     ]
   },
@@ -5602,29 +5662,48 @@
     "lemma": "Luna 1",
     "previous": "Λούμπος",
     "next": "Luna 2",
-    "short_description": "Municipium an d. Grenze Ligurien - Etrurien, heute Luni",
+    "proof_read": 0,
+    "short_description": "Municipium an Grenze Ligurien–Etrurien = Luni",
+    "wp_link": "w:de:Luni (Ligurien)",
+    "wd_link": "d:Q270220",
     "chapters": [
       {
         "start": 1804,
-        "author": "Philipp"
+        "end": 1808,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Luna 2",
     "previous": "Luna 1",
-    "next": "Luna 3",
-    "short_description": "Röm. Mondgöttin",
+    "next": "Luna 3a",
+    "proof_read": 0,
+    "short_description": "römische Mondgöttin",
     "chapters": [
       {
         "start": 1808,
-        "author": "Wissowa"
+        "end": 1811,
+        "author": "Wissowa."
+      }
+    ]
+  },
+  {
+    "lemma": "Luna 3a",
+    "previous": "Luna 2",
+    "next": "Luna 3b",
+    "proof_read": 0,
+    "short_description": "halbmondförmige Agraffe am calceus patricius",
+    "chapters": [
+      {
+        "start": 1811,
+        "end": 1811,
+        "author": "Wickert."
       }
     ]
   },
   {
     "lemma": "Luna 3",
-    "previous": "Luna 2",
     "next": "Luna II 3",
     "short_description": "I, halbmondförmige Agraffe am calceus patricius",
     "chapters": [
@@ -5648,8 +5727,8 @@
   },
   {
     "lemma": "Luna 4",
-    "previous": "Luna II 3",
-    "next": "Luna hyle",
+    "previous": "Luna 3b",
+    "next": "Λούνα ὕλή",
     "redirect": "Mond",
     "proof_read": 2,
     "chapters": [
@@ -5660,20 +5739,23 @@
     ]
   },
   {
-    "lemma": "Luna hyle",
+    "lemma": "Λούνα ὕλή",
     "previous": "Luna 4",
     "next": "Lunae portus",
-    "short_description": "Gebirge im SO der Germania magna",
+    "sort_key": "Lunahyle",
+    "proof_read": 0,
+    "short_description": "Luna hyle, Gebirge der Germania magna",
     "chapters": [
       {
         "start": 1812,
-        "author": "Franke"
+        "end": 1813,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Lunae portus",
-    "previous": "Luna hyle",
+    "previous": "Λούνα ὕλή",
     "next": "Lunae promunturium",
     "redirect": "Luna 1",
     "proof_read": 2,
@@ -5701,11 +5783,14 @@
     "lemma": "Lunarium promunturium 1",
     "previous": "Lunae promunturium",
     "next": "Lunarium promunturium 2",
-    "short_description": "Vorgebirge an d. O-Küste von Hispania Tarraconensis",
+    "sort_key": "Lunariumpromunturium 1",
+    "proof_read": 0,
+    "short_description": "Vorgebirge an der Ostküste von Hispania Tarraconensis",
     "chapters": [
       {
         "start": 1813,
-        "author": "Schulten"
+        "end": 1813,
+        "author": "Schulten."
       }
     ]
   },
@@ -5713,11 +5798,14 @@
     "lemma": "Lunarium promunturium 2",
     "previous": "Lunarium promunturium 1",
     "next": "Lunda",
-    "short_description": "Vorgebirge an d. W-Spitze Lusitaniens",
+    "sort_key": "Lunariumpromunturium 2",
+    "proof_read": 0,
+    "short_description": "Vorgebirge an der Westspitze Lusitaniens",
     "chapters": [
       {
         "start": 1813,
-        "author": "Schulten"
+        "end": 1813,
+        "author": "Schulten."
       }
     ]
   },
@@ -5725,10 +5813,12 @@
     "lemma": "Lunda",
     "previous": "Lunarium promunturium 2",
     "next": "Lungones",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 1813,
-        "author": "Ruge"
+        "end": 1813,
+        "author": "Ruge."
       }
     ]
   },
@@ -5736,10 +5826,14 @@
     "lemma": "Lungones",
     "previous": "Lunda",
     "next": "*lunsa",
+    "proof_read": 2,
+    "short_description": "Zweig der Asturer mit der Stadt Pelontium",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1813,
-        "author": "Schulten"
+        "end": 1813,
+        "author": "Schulten."
       }
     ]
   },
@@ -5788,11 +5882,13 @@
     "lemma": "Lupa",
     "previous": "Lunus",
     "next": "Lupatum",
-    "short_description": "Wölfin d. Romulus-Legende",
+    "proof_read": 0,
+    "short_description": "Wölfin der Romulus-Legende",
     "chapters": [
       {
         "start": 1814,
-        "author": "Kock"
+        "end": 1815,
+        "author": "Kock."
       }
     ]
   },
@@ -5800,11 +5896,13 @@
     "lemma": "Lupatum",
     "previous": "Lupa",
     "next": "Lupenii",
-    "short_description": "Pferdezaum",
+    "proof_read": 0,
+    "short_description": "Pferdezaum mit eisernen Stacheln",
     "chapters": [
       {
         "start": 1815,
-        "author": "Hug"
+        "end": 1815,
+        "author": "Hug."
       }
     ]
   },
@@ -5812,10 +5910,13 @@
     "lemma": "Lupenii",
     "previous": "Lupatum",
     "next": "Lupercal",
+    "proof_read": 2,
+    "short_description": "Volksstamm an der Mündung des Kyros, Albanien",
     "chapters": [
       {
         "start": 1815,
-        "author": "Herrmann"
+        "end": 1815,
+        "author": "Herrmann."
       }
     ]
   },
@@ -5823,11 +5924,13 @@
     "lemma": "Lupercal",
     "previous": "Lupenii",
     "next": "Lupercalia",
-    "short_description": "Grotte am Fuß d. Palatins in Rom",
+    "proof_read": 0,
+    "short_description": "Grotte am Fuß des Palatins in Rom",
     "chapters": [
       {
         "start": 1815,
-        "author": "Marbach"
+        "end": 1816,
+        "author": "Marbach."
       }
     ]
   },
@@ -5835,11 +5938,13 @@
     "lemma": "Lupercalia",
     "previous": "Lupercal",
     "next": "Luperci",
-    "short_description": "Altröm. Fest, gefeiert am 15.Febr.",
+    "proof_read": 0,
+    "short_description": "atrömisches Fest, gefeiert am 15. Februar",
     "chapters": [
       {
         "start": 1816,
-        "author": "Marbach"
+        "end": 1830,
+        "author": "Marbach."
       }
     ]
   },
@@ -12650,7 +12755,6 @@
     "next": "Lysias 3",
     "proof_read": 2,
     "short_description": "Oppidum Cariae",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 2530,
