@@ -3914,8 +3914,6 @@
   },
   {
     "lemma": "Licinius 129ff.",
-    "previous": "Licinius 129",
-    "next": "Licinius 130",
     "proof_read": 0,
     "short_description": "Licinii Nervae, Praescriptio cognomen Nerva: kommt in der republikan. Zeit nur",
     "chapters": [
@@ -4392,8 +4390,6 @@
   },
   {
     "lemma": "Licinius 161ff.",
-    "previous": "Licinius 161",
-    "next": "Licinius 162",
     "proof_read": 0,
     "short_description": "Licinii Stolones",
     "chapters": [
@@ -5192,6 +5188,7 @@
       }
     ]
   },
+  {"lemma": "Lictia"},
   {
     "lemma": "Lictor",
     "previous": "Lictia",
@@ -6181,6 +6178,19 @@
     ]
   },
   {
+    "lemma": "Limi dii",
+    "previous": "Limes",
+    "sort_key": "Limidii",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 671,
+        "end": 671,
+        "author": "Schur."
+      }
+    ]
+  },
+  {
     "lemma": "Limia",
     "previous": "Limi dii",
     "next": "Limici",
@@ -6204,20 +6214,6 @@
         "start": 671,
         "end": 671,
         "author": "Schulten."
-      }
-    ]
-  },
-  {
-    "lemma": "Limi dii",
-    "previous": "Limes",
-    "next": "Limici",
-    "sort_key": "Limidii",
-    "proof_read": 0,
-    "chapters": [
-      {
-        "start": 671,
-        "end": 671,
-        "author": "Schur."
       }
     ]
   },
@@ -7602,18 +7598,6 @@
     ]
   },
   {
-    "lemma": "Lissen",
-    "previous": "Lissae",
-    "next": "Λισσεύς",
-    "short_description": "ho -",
-    "chapters": [
-      {
-        "start": 731,
-        "author": "Bürchner"
-      }
-    ]
-  },
-  {
     "lemma": "Λισσεύς",
     "previous": "Lissae",
     "next": "Λισσήν",
@@ -7624,6 +7608,16 @@
       {
         "start": 731,
         "end": 731
+      }
+    ]
+  },
+  {
+    "lemma": "Λισσήν",
+    "short_description": "ho -",
+    "chapters": [
+      {
+        "start": 731,
+        "author": "Bürchner"
       }
     ]
   },
@@ -8466,7 +8460,6 @@
   {
     "lemma": "Liviada",
     "previous": "Lityerses 2",
-    "next": "Liviana 1",
     "redirect": "Libias",
     "proof_read": 3,
     "chapters": [
@@ -8492,7 +8485,6 @@
   },
   {
     "lemma": "Liviana 1",
-    "previous": "Liviada",
     "next": "Liviana 2",
     "proof_read": 2,
     "short_description": "Ort der Volcae Tectosages in Gallia Narbonensis",
