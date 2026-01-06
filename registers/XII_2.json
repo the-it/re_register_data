@@ -3034,6 +3034,7 @@
   {
     "lemma": "Leontichos 2",
     "previous": "Leontichos 1",
+    "next": "Leontidas",
     "proof_read": 2,
     "short_description": "athenischer Befehlshaber zur See 387 v. Chr.",
     "wp_link": "w:en:Leontichus",
@@ -3091,6 +3092,7 @@
   },
   {
     "lemma": "Leontion 1",
+    "previous": "Leontinoi",
     "next": "Leontion 2",
     "proof_read": 2,
     "short_description": "Hetaire in Athen, Geliebte d. Epikur",
@@ -5356,7 +5358,10 @@
       }
     ]
   },
-  {"lemma": "Leto"},
+  {
+    "lemma": "Leto",
+    "previous": "Letinno"
+  },
   {
     "lemma": "Letoa 1",
     "previous": "Leto",
@@ -5761,6 +5766,7 @@
   {
     "lemma": "Leuconum",
     "previous": "Leucomelius",
+    "next": "Leucos Tunes",
     "proof_read": 2,
     "short_description": "(Itin. Ant. 260), Ort in Pannonia inferior an der Straße von Aemona nach",
     "chapters": [
@@ -5773,6 +5779,8 @@
   },
   {
     "lemma": "Leucos Tunes",
+    "previous": "Leuconum",
+    "next": "Leucosia",
     "redirect": "Tunes",
     "proof_read": 2,
     "chapters": [
@@ -6155,6 +6163,7 @@
   {
     "lemma": "Λευχαὶ Νάπαι",
     "previous": "Λευκαὶ Κάμινοι",
+    "next": "Λευκαὶ Στῆλαι",
     "sort_key": "Leukai Napai",
     "proof_read": 2,
     "short_description": "Ortschaft im Binnenland der Marmarica, Ptol. IV 5, 13. Unbekannt.",
@@ -6168,6 +6177,8 @@
   },
   {
     "lemma": "Λευκαὶ Στῆλαι",
+    "previous": "Λευχαὶ Νάπαι",
+    "next": "Leukaios",
     "sort_key": "Leukaistelai",
     "proof_read": 2,
     "short_description": "αἱ (Herodot. V 118), vermutlich zwei weiße Felsen in der Nähe des Oberlaufs des",
@@ -6181,6 +6192,7 @@
   },
   {
     "lemma": "Leukaios",
+    "previous": "Λευκαὶ Στῆλαι",
     "next": "Leukaithiopes",
     "proof_read": 0,
     "chapters": [
@@ -7785,6 +7797,7 @@
   },
   {
     "lemma": "Leukosia 1",
+    "next": "Leukosia 2",
     "proof_read": 0,
     "short_description": "Eine d. 3 nachhomerischen Sirenen",
     "chapters": [
@@ -7797,6 +7810,7 @@
   },
   {
     "lemma": "Leukosia 2",
+    "previous": "Leukosia 1",
     "next": "Leukosyroi",
     "redirect": "Leucasia",
     "proof_read": 2,
@@ -8339,7 +8353,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Lex Acilia Minucia",
     "previous": "Lex Acilia repetundarum",
     "next": "Lex Aebutia 1",
@@ -8644,6 +8658,7 @@
   {
     "lemma": "Lex Asinia Antistia",
     "previous": "Lex Aquilia",
+    "next": "Lex Aternia Tarpeia",
     "redirect": "Lex de flaminica diali",
     "proof_read": 2,
     "chapters": [
@@ -8653,7 +8668,10 @@
       }
     ]
   },
-  {"lemma": "Lex Aternia Tarpeia"},
+  {
+    "lemma": "Lex Aternia Tarpeia",
+    "previous": "Lex Asinia Antistia"
+  },
   {
     "lemma": "Lex Atia",
     "previous": "Lex Aternia Tarpeia",
@@ -9474,7 +9492,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Lex Cornelia de ambitu",
     "previous": "Lex Cornelia 3",
     "next": "Lex Cornelia Baebia de ambitu",
