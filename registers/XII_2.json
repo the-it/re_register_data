@@ -9537,9 +9537,9 @@
       }
     ]
   },
+  {"lemma": "Lex Curiata"},
   {
     "lemma": "Lex data",
-    "previous": "Lex Cornelia Fulvia de ambitu",
     "next": "Lex Decia",
     "redirect": "Lex",
     "proof_read": 2,
@@ -9630,9 +9630,9 @@
       }
     ]
   },
+  {"lemma": "Lex duodecim tabularum"},
   {
     "lemma": "Lex emptionis",
-    "previous": "Lex Duilia Maenia",
     "next": "Lex Fabia",
     "redirect": "Lex",
     "proof_read": 2,
@@ -9672,6 +9672,16 @@
       }
     ]
   },
+    {
+    "lemma": "Lex Fannia",
+    "short_description": "L. F. sumptuaria",
+    "chapters": [
+      {
+        "start": 2353,
+        "author": "Weiss, Egon"
+      }
+    ]
+  },
   {
     "lemma": "Lex de flaminica diali",
     "previous": "Lex Fannia",
@@ -9688,20 +9698,7 @@
     ]
   },
   {
-    "lemma": "Lex Fannia",
-    "previous": "Lex de flaminica diali",
-    "next": "Lex Fufia 1",
-    "short_description": "L. F. sumptuaria",
-    "chapters": [
-      {
-        "start": 2353,
-        "author": "Weiss, Egon"
-      }
-    ]
-  },
-  {
     "lemma": "Lex Fufia 1",
-    "previous": "Lex Fannia",
     "next": "Lex Fufia 2",
     "redirect": "Lex Aelia 2",
     "proof_read": 2,
@@ -9790,53 +9787,7 @@
     ]
   },
   {
-    "lemma": "Leges Iciliae 1",
-    "previous": "Lex Hostilia",
-    "next": "Leges Iciliae 2",
-    "sort_key": "Legesiciliae 1",
-    "proof_read": 0,
-    "short_description": "Lex de Aventino publicando",
-    "chapters": [
-      {
-        "start": 2361,
-        "end": 2361,
-        "author": "E. Weiss."
-      }
-    ]
-  },
-  {
-    "lemma": "Leges Iciliae 2",
-    "previous": "Leges Iciliae 1",
-    "next": "Leges Iciliae 3",
-    "sort_key": "Legesiciliae 2",
-    "proof_read": 0,
-    "short_description": "Bei Liv. zum J. 446 v. Chr.",
-    "chapters": [
-      {
-        "start": 2361,
-        "end": 2361,
-        "author": "E. Weiss."
-      }
-    ]
-  },
-  {
-    "lemma": "Leges Iciliae 3",
-    "previous": "Leges Iciliae 2",
-    "next": "Lex Icilia",
-    "sort_key": "Legesiciliae 3",
-    "proof_read": 0,
-    "short_description": "BeLiv. zum J. 446 v. Chr.",
-    "chapters": [
-      {
-        "start": 2361,
-        "end": 2361,
-        "author": "E. Weiss."
-      }
-    ]
-  },
-  {
     "lemma": "Lex de Gallia Cisalpina",
-    "previous": "Leges Iciliae 3",
     "next": "Lex Gellia",
     "sort_key": "Lex Gallia Cisalpina",
     "redirect": "Lex Rubria 1",
@@ -9925,6 +9876,51 @@
         "start": 2361,
         "end": 2361,
         "author": "Weiss."
+      }
+    ]
+  },
+  {
+    "lemma": "Leges Iciliae 1",
+    "previous": "Lex Hostilia",
+    "next": "Leges Iciliae 2",
+    "sort_key": "Legesiciliae 1",
+    "proof_read": 0,
+    "short_description": "Lex de Aventino publicando",
+    "chapters": [
+      {
+        "start": 2361,
+        "end": 2361,
+        "author": "E. Weiss."
+      }
+    ]
+  },
+  {
+    "lemma": "Leges Iciliae 2",
+    "previous": "Leges Iciliae 1",
+    "next": "Leges Iciliae 3",
+    "sort_key": "Legesiciliae 2",
+    "proof_read": 0,
+    "short_description": "Bei Liv. zum J. 446 v. Chr.",
+    "chapters": [
+      {
+        "start": 2361,
+        "end": 2361,
+        "author": "E. Weiss."
+      }
+    ]
+  },
+  {
+    "lemma": "Leges Iciliae 3",
+    "previous": "Leges Iciliae 2",
+    "next": "Lex Icilia",
+    "sort_key": "Legesiciliae 3",
+    "proof_read": 0,
+    "short_description": "BeLiv. zum J. 446 v. Chr.",
+    "chapters": [
+      {
+        "start": 2361,
+        "end": 2361,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -10046,6 +10042,19 @@
     ]
   },
   {
+    "lemma": "Lex Iulia Papiria",
+    "previous": "Lex Iulia de pecuniis repetundis",
+    "next": "Lex Iulia et Plautia",
+    "redirect": "Multa",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 2392,
+        "end": 2392
+      }
+    ]
+  },
+  {
     "lemma": "Lex Iulia et Plautia",
     "previous": "Lex Iulia Papiria",
     "next": "Lex Iulia et Titia",
@@ -10071,19 +10080,6 @@
         "start": 2392,
         "end": 2393,
         "author": "Taubenschlag."
-      }
-    ]
-  },
-  {
-    "lemma": "Lex Iulia Papiria",
-    "previous": "Lex Iulia de pecuniis repetundis",
-    "next": "Lex Iulia et Plautia",
-    "redirect": "Multa",
-    "proof_read": 3,
-    "chapters": [
-      {
-        "start": 2392,
-        "end": 2392
       }
     ]
   },
@@ -10186,6 +10182,7 @@
       }
     ]
   },
+  {"lemma": "Lex Laetoria"},
   {
     "lemma": "Lex Licinia 1",
     "previous": "Lex Laetoria",
@@ -10411,19 +10408,6 @@
     ]
   },
   {
-    "lemma": "Leges Maniliae",
-    "previous": "Lex Mamilia",
-    "next": "Lex Mamilia Roscia Peducaea Alliena Fabia",
-    "sort_key": "Lex Maniliae",
-    "short_description": "Lex Manilia de libertinorum suffragiis und Lex Manilia de imperio Cn. Pompei",
-    "chapters": [
-      {
-        "start": 2397,
-        "author": "Weiss, Egon"
-      }
-    ]
-  },
-  {
     "lemma": "Lex Mamilia Roscia Peducaea Alliena Fabia",
     "previous": "Lex Mamilia",
     "next": "Leges Maniliae",
@@ -10439,9 +10423,18 @@
     ]
   },
   {
-    "lemma": "Leges Manilianiae",
-    "previous": "Lex Mamilia Roscia Peducaea Alliena Fabia",
-    "next": "Lex Manlia",
+    "lemma": "Leges Maniliae",
+    "sort_key": "Lex Maniliae",
+    "short_description": "Lex Manilia de libertinorum suffragiis und Lex Manilia de imperio Cn. Pompei",
+    "chapters": [
+      {
+        "start": 2397,
+        "author": "Weiss, Egon"
+      }
+    ]
+  },
+  {
+    "lemma": "Leges Manilianae",
     "sort_key": "Lex Manilaniae",
     "redirect": "Mancipatio, mancipium",
     "proof_read": 2,
@@ -10454,7 +10447,7 @@
   },
   {
     "lemma": "Lex Manlia",
-    "previous": "Leges Manilianiae",
+    "previous": "Leges Manilianae",
     "next": "Lex Marcia 1",
     "sort_key": "Lexmanlia",
     "proof_read": 0,
@@ -11206,23 +11199,7 @@
     ]
   },
   {
-    "lemma": "Leges Porciae",
-    "previous": "Lex Pompeia 2",
-    "next": "Lex Pompeia 3",
-    "sort_key": "Lex Porciae",
-    "redirect": "Provocatio",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 2404,
-        "end": 2404
-      }
-    ]
-  },
-  {
     "lemma": "Lex Pompeia 3",
-    "previous": "Leges Porciae",
-    "next": "Lex Porcia",
     "sort_key": "Lex Pompeia 3",
     "redirect": "Culleus 3",
     "proof_read": 2,
@@ -11235,8 +11212,6 @@
   },
   {
     "lemma": "Lex Porcia",
-    "previous": "Lex Pompeia 3",
-    "next": "Leges Porciae",
     "sort_key": "Lexporcia",
     "proof_read": 0,
     "chapters": [
@@ -11248,9 +11223,19 @@
     ]
   },
   {
+    "lemma": "Leges Porciae",
+    "sort_key": "Lex Porciae",
+    "redirect": "Provocatio",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 2404,
+        "end": 2404
+      }
+    ]
+  },
+  {
     "lemma": "Lex praediatoria",
-    "previous": "Lex Porcia",
-    "next": "Lex publica",
     "sort_key": "Lex Praediatoria",
     "redirect": "Lex",
     "proof_read": 2,
@@ -11454,9 +11439,18 @@
     ]
   },
   {
+    "lemma": "Lex Romana Utinensis",
+    "redirect": "Lex Romana Raetica Curiensis",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 2407,
+        "end": 2407
+      }
+    ]
+  },
+  {
     "lemma": "Lex Romana Wisigotorum",
-    "previous": "Lex Romana Utinensis",
-    "next": "Lex Romana Utinensis",
     "sort_key": "Lexromana wisigotorum",
     "proof_read": 0,
     "short_description": "Gesetzbuch d. röm. Untertanen im westgotischen Reich, 506 n. Chr.",
@@ -11469,21 +11463,7 @@
     ]
   },
   {
-    "lemma": "Lex Romana Utinensis",
-    "previous": "Lex Romana Wisigotorum",
-    "next": "Lex Roscia",
-    "redirect": "Lex Romana Raetica Curiensis",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 2407,
-        "end": 2407
-      }
-    ]
-  },
-  {
     "lemma": "Lex Roscia",
-    "previous": "Lex Romana Utinensis",
     "next": "Lex Rubria 1",
     "redirect": "Roscius 22",
     "proof_read": 2,
@@ -12201,7 +12181,6 @@
   {
     "lemma": "Lex Voconia",
     "previous": "Lex Visellia 2",
-    "next": "Ληξιαρχικὸν γραμματεῖαν",
     "sort_key": "Lexvoconia",
     "proof_read": 0,
     "short_description": "Erbrechtl. Gesetz",
@@ -12210,17 +12189,6 @@
         "start": 2418,
         "end": 2430,
         "author": "Steinwenter."
-      }
-    ]
-  },
-  {
-    "lemma": "Lexiarchikon grammateion",
-    "previous": "Lex Voconia",
-    "short_description": "Bürgerliste d. athen. Demen",
-    "chapters": [
-      {
-        "start": 2430,
-        "author": "Kahrstedt"
       }
     ]
   },
