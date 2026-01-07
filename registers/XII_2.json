@@ -9537,9 +9537,13 @@
       }
     ]
   },
-  {"lemma": "Lex Curiata"},
+  {
+    "lemma": "Lex Curiata",
+    "next": "Lex data"
+  },
   {
     "lemma": "Lex data",
+    "previous": "Lex Curiata",
     "next": "Lex Decia",
     "redirect": "Lex",
     "proof_read": 2,
@@ -9630,9 +9634,13 @@
       }
     ]
   },
-  {"lemma": "Lex duodecim tabularum"},
+  {
+    "lemma": "Lex duodecim tabularum",
+    "next": "Lex emptionis"
+  },
   {
     "lemma": "Lex emptionis",
+    "previous": "Lex duodecim tabularum",
     "next": "Lex Fabia",
     "redirect": "Lex",
     "proof_read": 2,
@@ -9672,7 +9680,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Lex Fannia",
     "short_description": "L. F. sumptuaria",
     "chapters": [
@@ -9699,6 +9707,7 @@
   },
   {
     "lemma": "Lex Fufia 1",
+    "previous": "Lex de flaminica diali",
     "next": "Lex Fufia 2",
     "redirect": "Lex Aelia 2",
     "proof_read": 2,
@@ -9788,6 +9797,7 @@
   },
   {
     "lemma": "Lex de Gallia Cisalpina",
+    "previous": "Lex Gabinia",
     "next": "Lex Gellia",
     "sort_key": "Lex Gallia Cisalpina",
     "redirect": "Lex Rubria 1",
@@ -10182,7 +10192,9 @@
       }
     ]
   },
-  {"lemma": "Lex Laetoria"},
+  {
+    "lemma": "Lex Laetoria"
+  },
   {
     "lemma": "Lex Licinia 1",
     "previous": "Lex Laetoria",
@@ -10435,6 +10447,8 @@
   },
   {
     "lemma": "Leges Manilianae",
+    "previous": "Lex Mamilia Roscia Peducaea Alliena Fabia",
+    "next": "Lex Manlia",
     "sort_key": "Lex Manilaniae",
     "redirect": "Mancipatio, mancipium",
     "proof_read": 2,
@@ -11200,6 +11214,8 @@
   },
   {
     "lemma": "Lex Pompeia 3",
+    "previous": "Lex Pompeia 2",
+    "next": "Lex Porcia",
     "sort_key": "Lex Pompeia 3",
     "redirect": "Culleus 3",
     "proof_read": 2,
@@ -11224,6 +11240,8 @@
   },
   {
     "lemma": "Leges Porciae",
+    "previous": "Lex Porcia",
+    "next": "Lex praediatoria",
     "sort_key": "Lex Porciae",
     "redirect": "Provocatio",
     "proof_read": 2,
@@ -11236,6 +11254,8 @@
   },
   {
     "lemma": "Lex praediatoria",
+    "previous": "Leges Porciae",
+    "next": "Lex publica",
     "sort_key": "Lex Praediatoria",
     "redirect": "Lex",
     "proof_read": 2,
@@ -11440,6 +11460,8 @@
   },
   {
     "lemma": "Lex Romana Utinensis",
+    "previous": "Lex Romana Raetica Curiensis",
+    "next": "Lex Romana Wisigotorum",
     "redirect": "Lex Romana Raetica Curiensis",
     "proof_read": 2,
     "chapters": [
@@ -11464,6 +11486,7 @@
   },
   {
     "lemma": "Lex Roscia",
+    "previous": "Lex Romana Wisigotorum",
     "next": "Lex Rubria 1",
     "redirect": "Roscius 22",
     "proof_read": 2,
@@ -12181,6 +12204,7 @@
   {
     "lemma": "Lex Voconia",
     "previous": "Lex Visellia 2",
+    "next": "Ληξιαρχικὸν γραμματεῖον",
     "sort_key": "Lexvoconia",
     "proof_read": 0,
     "short_description": "Erbrechtl. Gesetz",
