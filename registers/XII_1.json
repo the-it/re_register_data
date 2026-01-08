@@ -3026,7 +3026,17 @@
   {
     "lemma": "Λάβαρα 1",
     "previous": "Λάβαρα",
-    "next": "Λάβαρα 2"
+    "next": "Λάβαρα 2",
+    "sort_key": "Labara",
+    "proof_read": 2,
+    "short_description": "Labara, Städtchen im kleinasiatischen Karien",
+    "chapters": [
+      {
+        "start": 240,
+        "end": 240,
+        "author": "Bürchner."
+      }
+    ]
   },
   {
     "lemma": "Λάβαρα 2",
@@ -4689,8 +4699,9 @@
     "lemma": "Λαχανίς (?) ἡ",
     "previous": "Lacetani",
     "next": "Lachanius",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "sort_key": "Lachanis",
+    "proof_read": 2,
+    "short_description": "Dorf, das zur Stadt Kydonia gehörte",
     "chapters": [
       {
         "start": 331,
@@ -5140,7 +5151,7 @@
   {
     "lemma": "Laci-murga",
     "previous": "Lacilbula",
-    "next": "Lacinia",
+    "next": "Lacini",
     "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
@@ -5666,7 +5677,7 @@
     "lemma": "Lacydon",
     "previous": "Lacus Umber",
     "next": "Lada 1",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Hafen von Massalia",
     "chapters": [
       {
@@ -10070,11 +10081,14 @@
     "lemma": "(L)amatini",
     "previous": "Lamasba",
     "next": "Lamatutus",
+    "sort_key": "Lamatini",
+    "proof_read": 2,
     "short_description": "Ethnikon von Lamatis",
     "chapters": [
       {
         "start": 538,
-        "author": "Fluss"
+        "end": 538,
+        "author": "Fluss."
       }
     ]
   },
@@ -11660,7 +11674,7 @@
   {
     "lemma": "Lamponeia 2",
     "previous": "Lamponeia 1",
-    "next": "Λαμπωνίου",
+    "next": "Λαμπονίου",
     "proof_read": 0,
     "short_description": "Städtchen der Aiolis",
     "chapters": [
@@ -11672,7 +11686,7 @@
     ]
   },
   {
-    "lemma": "Λαμπωνίου",
+    "lemma": "Λαμπονίου",
     "previous": "Lamponeia 2",
     "next": "Lamponius",
     "sort_key": "Lamponiu",
@@ -11688,7 +11702,7 @@
   },
   {
     "lemma": "Lamponius",
-    "previous": "Λαμπωνίου",
+    "previous": "Λαμπονίου",
     "next": "Lampos",
     "proof_read": 0,
     "short_description": "M., lucanischer Führer im Bundesgenossenkrieg",
@@ -13031,8 +13045,8 @@
     "lemma": "Laniacus",
     "previous": "Languvilla",
     "next": "Laniarium",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Ortschaft im Gebiet der Andecavi",
     "chapters": [
       {
         "start": 687,
@@ -14567,11 +14581,14 @@
     "lemma": "La(o)dokeia",
     "previous": "Laodikos 5",
     "next": "Laodokos",
+    "sort_key": "Laodokeia",
+    "proof_read": 2,
     "short_description": "Vorort von Megalopolis",
     "chapters": [
       {
         "start": 726,
-        "author": "Geiger"
+        "end": 726,
+        "author": "Geiger."
       }
     ]
   },
@@ -14591,6 +14608,8 @@
   },
   {
     "lemma": "Laodokos 1–9",
+    "previous": "Laodokos",
+    "next": "Laodokos 1",
     "short_description": "Mythologische Träger",
     "chapters": [
       {
