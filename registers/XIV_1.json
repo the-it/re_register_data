@@ -2060,8 +2060,9 @@
     "lemma": "Macedonius 5",
     "previous": "Macedonius 4",
     "next": "Macedonius 6",
-    "proof_read": 0,
-    "short_description": "Sohn d. Pelagius, Schüler d. Libanius",
+    "proof_read": 2,
+    "short_description": "Schüler des Libanius 365 n. Chr., danach Philosoph in Kyros",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 128,
@@ -2074,8 +2075,9 @@
     "lemma": "Macedonius 6",
     "previous": "Macedonius 5",
     "next": "Macedonius 7",
-    "proof_read": 0,
-    "short_description": "Weitere Macedonii in Briefen d. Libanius",
+    "proof_read": 2,
+    "short_description": "weitere Macedonii in Briefen des Libanios, 359–365 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 128,
@@ -2088,8 +2090,9 @@
     "lemma": "Macedonius 7",
     "previous": "Macedonius 6",
     "next": "Macedonius 8",
-    "proof_read": 0,
-    "short_description": "Adressat v. Symm. ep.VII",
+    "proof_read": 2,
+    "short_description": "Verwandter des Priscus Attalus, Adressat des Q. A. Symmachus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 128,
@@ -5650,11 +5653,13 @@
     "lemma": "Magab...",
     "previous": "Maforte",
     "next": "Magaba",
-    "short_description": "Inschriftl. gen. Ort",
+    "proof_read": 0,
+    "short_description": "Ort des inneren Dalmatiens",
     "chapters": [
       {
         "start": 287,
-        "author": "Fluss"
+        "end": 287,
+        "author": "Fluss."
       }
     ]
   },
@@ -5662,10 +5667,13 @@
     "lemma": "Magaba",
     "previous": "Magab...",
     "next": "Magabula",
+    "proof_read": 2,
+    "short_description": "Berg in Galatien",
     "chapters": [
       {
         "start": 287,
-        "author": "Ruge"
+        "end": 287,
+        "author": "Ruge."
       }
     ]
   },
@@ -5673,10 +5681,12 @@
     "lemma": "Magabula",
     "previous": "Magaba",
     "next": "Magada",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 287,
-        "author": "Ruge"
+        "end": 287,
+        "author": "Ruge."
       }
     ]
   },
@@ -5684,10 +5694,13 @@
     "lemma": "Magada",
     "previous": "Magabula",
     "next": "Magadan",
+    "proof_read": 2,
+    "short_description": "Stadt in Äthiopien östlich vom Nil",
     "chapters": [
       {
         "start": 287,
-        "author": "Schwabe"
+        "end": 287,
+        "author": "Schwabe."
       }
     ]
   },
@@ -5708,11 +5721,13 @@
     "lemma": "Magadis",
     "previous": "Magadan",
     "next": "Magaia",
-    "short_description": "Dreieckiges, harfenartiges gr. Saiteninstrument",
+    "proof_read": 0,
+    "short_description": "dreieckiges, harfenartiges Saiteninstrument",
     "chapters": [
       {
         "start": 288,
-        "author": "Vetter, Walther"
+        "end": 291,
+        "author": "Walter Vetter."
       }
     ]
   },
@@ -5746,10 +5761,13 @@
     "lemma": "Magalassos",
     "previous": "Magaios",
     "next": "Magalia, -ium 1",
+    "proof_read": 2,
+    "short_description": "Ort an der Straße Mazaka Kaisareia–Sebastsia",
     "chapters": [
       {
         "start": 291,
-        "author": "Ruge"
+        "end": 291,
+        "author": "Ruge."
       }
     ]
   },
@@ -5757,11 +5775,15 @@
     "lemma": "Magalia, -ium 1",
     "previous": "Magalassos",
     "next": "Magalia, -ium 2",
+    "sort_key": "Magalia,-ium 1",
+    "proof_read": 2,
     "short_description": "Hütten, Zelte",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 291,
-        "author": "Ebert"
+        "end": 291,
+        "author": "Ebert."
       }
     ]
   },
@@ -5769,11 +5791,15 @@
     "lemma": "Magalia, -ium 2",
     "previous": "Magalia, -ium 1",
     "next": "Magalona",
-    "short_description": "Vorstadt v. Karthago",
+    "sort_key": "Magalia,-ium 2",
+    "proof_read": 2,
+    "short_description": "Vorstadt von Karthago",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 291,
-        "author": "Ebert"
+        "end": 291,
+        "author": "Ebert."
       }
     ]
   },
@@ -5781,16 +5807,22 @@
     "lemma": "Magalona",
     "previous": "Magalia, -ium 2",
     "next": "Magalus",
+    "proof_read": 2,
+    "short_description": "Stadt in Gallia Narbonensis auf vorgelagerter Insel",
+    "wp_link": "w:de:Villeneuve-lès-Maguelone",
+    "wd_link": "d:Q681620",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 291,
-        "author": "Wackernagel"
+        "end": 291,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
   {
     "lemma": "Magalus",
-    "previous": "Magalassos",
+    "previous": "Magalona",
     "next": "Magantia",
     "proof_read": 0,
     "short_description": "Magilus",
@@ -5806,17 +5838,19 @@
     "lemma": "Magantia",
     "previous": "Magalus",
     "next": "Magara",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 291,
-        "author": "MacDonald"
+        "end": 291,
+        "author": "Macdonald."
       }
     ]
   },
   {
     "lemma": "Magara",
     "previous": "Magantia",
-    "next": "Magaratarichon kome",
+    "next": "Μαγαραταρίχων κώμη",
     "redirect": "Karthago",
     "proof_read": 2,
     "chapters": [
@@ -5827,47 +5861,60 @@
     ]
   },
   {
-    "lemma": "Magaratarichon kome",
+    "lemma": "Μαγαραταρίχων κώμη",
     "previous": "Magara",
-    "next": "Magaris",
+    "next": "Μάγαρις",
+    "sort_key": "Magaratarichonkome",
+    "proof_read": 0,
+    "short_description": "Magaratarichon kome, Dorf in Nordsyrien",
     "chapters": [
       {
         "start": 291,
-        "author": "Honigmann"
+        "end": 291,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Magaris",
-    "previous": "Magaratarichon kome",
+    "lemma": "Μάγαρις",
+    "previous": "Μαγαραταρίχων κώμη",
     "next": "Magarsa",
+    "sort_key": "Magaris",
+    "proof_read": 2,
+    "short_description": "Magaris, Stadt der Salakenoi in Orissa, India intra Gangem",
     "chapters": [
       {
         "start": 291,
-        "author": "Herrmann"
+        "end": 291,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Magarsa",
-    "previous": "Magaris",
+    "previous": "Μάγαρις",
     "next": "Magarsis",
-    "short_description": "Ort an d. Mündung d. Pyramos",
+    "proof_read": 0,
+    "short_description": "Ort an der Mündung des Pyramos",
     "chapters": [
       {
         "start": 292,
-        "author": "Ruge"
+        "end": 292,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Magarsis",
     "previous": "Magarsa",
-    "next": "Magas",
+    "next": "Magas 1",
+    "proof_read": 0,
+    "short_description": "Epiklesis der Athena nach der kilikischen Stadt",
     "chapters": [
       {
         "start": 292,
-        "author": "Kruse"
+        "end": 292,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -5944,10 +5991,13 @@
     "lemma": "Magasnei",
     "previous": "Magase",
     "next": "Magassa",
+    "proof_read": 2,
+    "short_description": "Ort in Äthiopien, östlich vom Nil",
     "chapters": [
       {
         "start": 297,
-        "author": "Schwabe"
+        "end": 297,
+        "author": "Schwabe."
       }
     ]
   },
@@ -5955,10 +6005,13 @@
     "lemma": "Magassa",
     "previous": "Magasnei",
     "next": "Magdal Thawatha",
+    "proof_read": 2,
+    "short_description": "Ort in Äthiopien, westlich vom Nil",
     "chapters": [
       {
         "start": 297,
-        "author": "Schwabe"
+        "end": 297,
+        "author": "Schwabe."
       }
     ]
   },
@@ -5966,46 +6019,56 @@
     "lemma": "Magdal Thawatha",
     "previous": "Magassa",
     "next": "Magdala",
-    "short_description": "Dorf südl. v. Gaza",
+    "proof_read": 0,
+    "short_description": "Dorf südlich von Gaza",
     "chapters": [
       {
         "start": 297,
-        "author": "Hölscher"
+        "end": 298,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Magdala",
     "previous": "Magdal Thawatha",
-    "next": "Magdalathon",
-    "short_description": "Ort im NT",
+    "next": "Μαγδαλαθών",
+    "proof_read": 0,
+    "short_description": "Ort im Neuen Testament",
     "chapters": [
       {
         "start": 298,
-        "author": "Hölscher"
+        "end": 298,
+        "author": "Hölscher."
       }
     ]
   },
   {
-    "lemma": "Magdalathon",
+    "lemma": "Μαγδαλαθών",
     "previous": "Magdala",
     "next": "Magdalsenna",
-    "short_description": "to -",
+    "sort_key": "Magdalathon",
+    "proof_read": 2,
+    "short_description": "Magdalathon, befestigter Platz bei Theodosiupolis",
     "chapters": [
       {
         "start": 298,
-        "author": "Weissbach"
+        "end": 298,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Magdalsenna",
-    "previous": "Magdalathon",
+    "previous": "Μαγδαλαθών",
     "next": "Magdalses",
+    "proof_read": 2,
+    "short_description": "‚Turm‘, Dorf nördlich von Jericho",
     "chapters": [
       {
         "start": 298,
-        "author": "Hölscher"
+        "end": 298,
+        "author": "Hölscher."
       }
     ]
   },
@@ -6026,11 +6089,13 @@
     "lemma": "Magdiel 1",
     "previous": "Magdalses",
     "next": "Magdiel 2",
-    "short_description": "Dorf nördl. v. Dora an d. Straße nach Ptolemais",
+    "proof_read": 0,
+    "short_description": "Dorf nördlich von Dora an der Straße nach Ptolemais",
     "chapters": [
       {
         "start": 298,
-        "author": "Hölscher"
+        "end": 299,
+        "author": "Hölscher."
       }
     ]
   },
@@ -6038,11 +6103,13 @@
     "lemma": "Magdiel 2",
     "previous": "Magdiel 1",
     "next": "Magdolon, Magdolos",
+    "proof_read": 2,
     "short_description": "Ort in Edom",
     "chapters": [
       {
         "start": 299,
-        "author": "Hölscher"
+        "end": 299,
+        "author": "Hölscher."
       }
     ]
   },
@@ -6050,11 +6117,14 @@
     "lemma": "Magdolon, Magdolos",
     "previous": "Magdiel 2",
     "next": "Magdophylax",
-    "short_description": "Ort, bes. für Stationen d. ägypt. NO-Grenze",
+    "sort_key": "Magdolon,magdolos",
+    "proof_read": 0,
+    "short_description": "Ortsname für Stationen der ägyptischen Nordgrenze",
     "chapters": [
       {
         "start": 299,
-        "author": "Kees"
+        "end": 300,
+        "author": "Kees."
       }
     ]
   },
@@ -6062,40 +6132,49 @@
     "lemma": "Magdophylax",
     "previous": "Magdolon, Magdolos",
     "next": "Magea",
-    "short_description": "Wächter d. Magdolon",
+    "proof_read": 0,
+    "short_description": "Wächter des Magdolon (=Turm)",
     "chapters": [
       {
         "start": 300,
-        "author": "Kießling, Emil"
+        "end": 300,
+        "author": "E. Kießling."
       }
     ]
   },
   {
     "lemma": "Magea",
     "previous": "Magdophylax",
-    "next": "Magedane",
+    "next": "Μαγεδανή",
+    "proof_read": 2,
+    "short_description": "Quelle in Syracusano agro",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 301,
-        "author": "Ziegler"
+        "end": 301,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Magedane",
+    "lemma": "Μαγεδανή",
     "previous": "Magea",
     "next": "Mageddo",
+    "proof_read": 2,
+    "short_description": "Ort im Ostjordanland",
     "chapters": [
       {
         "start": 301,
-        "author": "Hölscher"
+        "end": 301,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Mageddo",
-    "previous": "Magedane",
-    "next": "Mageia 1",
+    "previous": "Μαγεδανή",
+    "next": "Μαγεία 1",
     "redirect": "Megiddo",
     "proof_read": 2,
     "chapters": [
@@ -6106,21 +6185,25 @@
     ]
   },
   {
-    "lemma": "Mageia 1",
+    "lemma": "Μαγεία 1",
     "previous": "Mageddo",
-    "next": "Mageia 2",
-    "short_description": "Zauberei",
+    "next": "Μαγεία 2",
+    "sort_key": "Mageia 1",
+    "proof_read": 0,
+    "short_description": "Mageia, Zauberei",
     "chapters": [
       {
         "start": 301,
-        "author": "Hopfner, Th[eodor]"
+        "end": 393,
+        "author": "Th. Hopfner."
       }
     ]
   },
   {
-    "lemma": "Mageia 2",
-    "previous": "Mageia 1",
-    "next": "Mageiros",
+    "lemma": "Μαγεία 2",
+    "previous": "Μαγεία 1",
+    "next": "Μάγειρος",
+    "sort_key": "Mageia 2",
     "redirect": "Magia 1",
     "proof_read": 2,
     "chapters": [
@@ -6131,20 +6214,23 @@
     ]
   },
   {
-    "lemma": "Mageiros",
-    "previous": "Mageia 2",
+    "lemma": "Μάγειρος",
+    "previous": "Μαγεία 2",
     "next": "Magelli",
-    "short_description": "Mit Schlachtung u. Zubereitung v. Tieren betraute Person",
+    "sort_key": "Mageiros",
+    "proof_read": 0,
+    "short_description": "Mageiros, Person zur Schlachtung von Tieren",
     "chapters": [
       {
         "start": 393,
-        "author": "Latte"
+        "end": 395,
+        "author": "Latte."
       }
     ]
   },
   {
     "lemma": "Magelli",
-    "previous": "Mageiros",
+    "previous": "Μάγειρος",
     "next": "Magellini",
     "redirect": "Maielli",
     "proof_read": 2,
@@ -6172,10 +6258,13 @@
     "lemma": "Magesa",
     "previous": "Magellini",
     "next": "Mageth",
+    "proof_read": 0,
+    "short_description": "Flußname der Transpadana",
     "chapters": [
       {
         "start": 396,
-        "author": "Philipp"
+        "end": 396,
+        "author": "Philipp."
       }
     ]
   },
@@ -6209,11 +6298,13 @@
     "lemma": "Magi",
     "previous": "Magetobriga",
     "next": "Magia 1",
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Ort in Britannien",
     "chapters": [
       {
         "start": 396,
-        "author": "MacDonald"
+        "end": 396,
+        "author": "Macdonald."
       }
     ]
   },
@@ -6221,11 +6312,13 @@
     "lemma": "Magia 1",
     "previous": "Magi",
     "next": "Magia 2",
+    "proof_read": 0,
     "short_description": "Magie als crimen",
     "chapters": [
       {
         "start": 396,
-        "author": "Kleinfeller"
+        "end": 398,
+        "author": "Kleinfeller."
       }
     ]
   },
@@ -6233,11 +6326,13 @@
     "lemma": "Magia 2",
     "previous": "Magia 1",
     "next": "Magia 3",
-    "short_description": "Magia, Siedlung Illyriens",
+    "proof_read": 2,
+    "short_description": "Magia, Siedlung in Illyrien",
     "chapters": [
       {
         "start": 398,
-        "author": "Fluss"
+        "end": 398,
+        "author": "Fluss."
       }
     ]
   },
@@ -6245,11 +6340,13 @@
     "lemma": "Magia 3",
     "previous": "Magia 2",
     "next": "Magia 4",
-    "short_description": "Ort in Rätien",
+    "proof_read": 0,
+    "short_description": "Ort in Rätien an der Straße Curia–Brigantium",
     "chapters": [
       {
         "start": 398,
-        "author": "Fluss"
+        "end": 398,
+        "author": "Fluss."
       }
     ]
   },
@@ -6257,11 +6354,13 @@
     "lemma": "Magia 4",
     "previous": "Magia 3",
     "next": "Magia 5",
+    "proof_read": 2,
     "short_description": "Magia kome, Dorf nahe Antiocheia in Syrien",
     "chapters": [
       {
         "start": 398,
-        "author": "Honigmann"
+        "end": 398,
+        "author": "Honigmann."
       }
     ]
   },
@@ -6308,11 +6407,13 @@
     "lemma": "Magidia",
     "previous": "Magiates",
     "next": "Magifa 1",
+    "proof_read": 2,
     "short_description": "s. Sattai",
     "chapters": [
       {
         "start": 398,
-        "author": "Ruge"
+        "end": 398,
+        "author": "Ruge."
       }
     ]
   },
@@ -6320,11 +6421,13 @@
     "lemma": "Magifa 1",
     "previous": "Magidia",
     "next": "Magifa 2",
+    "proof_read": 2,
     "short_description": "Örtlichkeit in Numidien",
     "chapters": [
       {
         "start": 398,
-        "author": "Dessau"
+        "end": 398,
+        "author": "Dessau."
       }
     ]
   },
@@ -6332,11 +6435,13 @@
     "lemma": "Magifa 2",
     "previous": "Magifa 1",
     "next": "Magilius",
+    "proof_read": 0,
     "short_description": "Ort in Africa Proconsularis",
     "chapters": [
       {
         "start": 398,
-        "author": "Ganschinietz"
+        "end": 398,
+        "author": "Ganschinietz."
       }
     ]
   },
@@ -6370,10 +6475,13 @@
     "lemma": "Magimias",
     "previous": "Magilos",
     "next": "Magindanata",
+    "proof_read": 2,
+    "short_description": "Kastell in Dardanien von Kaiser Iustinian I.",
     "chapters": [
       {
         "start": 399,
-        "author": "Fluss"
+        "end": 399,
+        "author": "Fluss."
       }
     ]
   },
@@ -6381,11 +6489,13 @@
     "lemma": "Magindanata",
     "previous": "Magimias",
     "next": "Magiovinium, Magiovintum",
-    "short_description": "Ortschaft im Gerhäergebiet am Pers. Golf",
+    "proof_read": 0,
+    "short_description": "Ortschaft im Gerhäergebiet am Persischen Golf",
     "chapters": [
       {
         "start": 399,
-        "author": "Grohmann"
+        "end": 399,
+        "author": "Grohmann."
       }
     ]
   },
@@ -6393,10 +6503,14 @@
     "lemma": "Magiovinium, Magiovintum",
     "previous": "Magindanata",
     "next": "Magirios",
+    "sort_key": "Magiovinium,magiovintum",
+    "proof_read": 2,
+    "short_description": "Ort in Britannien, Grafschaft Buckingham",
     "chapters": [
       {
         "start": 399,
-        "author": "MacDonald"
+        "end": 399,
+        "author": "Macdonald."
       }
     ]
   },
@@ -6404,10 +6518,13 @@
     "lemma": "Magirios",
     "previous": "Magiovinium, Magiovintum",
     "next": "Magister 1",
+    "proof_read": 0,
+    "short_description": "Epiklesis des Apollon in Zypern",
     "chapters": [
       {
         "start": 399,
-        "author": "Kruse"
+        "end": 399,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -6523,11 +6640,13 @@
     "lemma": "Magistratus",
     "previous": "Magistor",
     "next": "Magistrice",
-    "short_description": "Das vom Volk durch Wahl verliehene Amt der Träger dieses Amtes",
+    "proof_read": 0,
+    "short_description": "Träger des vom Volk durch Wahl verliehenen Amtes",
     "chapters": [
       {
         "start": 400,
-        "author": "Kübler, B[ernhard]"
+        "end": 437,
+        "author": "Kübler."
       }
     ]
   },
@@ -6535,10 +6654,13 @@
     "lemma": "Magistrice",
     "previous": "Magistratus",
     "next": "Magistrices",
+    "proof_read": 2,
+    "short_description": "Gebiet der Taurisker am Fuße der Alpen",
     "chapters": [
       {
         "start": 437,
-        "author": "Fluss"
+        "end": 437,
+        "author": "Fluss."
       }
     ]
   },
@@ -6559,10 +6681,13 @@
     "lemma": "Magium",
     "previous": "Magistrices",
     "next": "Magius",
+    "proof_read": 2,
+    "short_description": "Ort in Äthiopien",
     "chapters": [
       {
         "start": 437,
-        "author": "Schwabe"
+        "end": 437,
+        "author": "Schwabe."
       }
     ]
   },
@@ -6890,11 +7015,13 @@
     "lemma": "Maglomatonius",
     "previous": "Magla",
     "next": "Maglulon klima",
-    "short_description": "Maglus Matonius",
+    "proof_read": 0,
+    "short_description": "Maglus Matonius, keltischer männlicher Gott",
     "chapters": [
       {
         "start": 442,
-        "author": "Heichelheim"
+        "end": 443,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -6912,7 +7039,7 @@
   },
   {
     "lemma": "Magna",
-    "previous": "Μαγλούλων",
+    "previous": "Maglulon klima",
     "next": "Magna Mater",
     "proof_read": 0,
     "chapters": [

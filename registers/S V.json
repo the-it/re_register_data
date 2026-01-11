@@ -295,7 +295,6 @@
     "next": "Asklepiades 51",
     "proof_read": 3,
     "short_description": "andere Namensform für Alsadamos, Gebirge des Ostjordanlandes",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 46,
@@ -1994,7 +1993,6 @@
     "next": "Leges Corneliae 2) 2.",
     "proof_read": 3,
     "short_description": "Felsen bei Masada",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 576,
@@ -2051,12 +2049,15 @@
   },
   {
     "lemma": "Lex Licinia 10",
+    "previous": "Lex Iunia Norbana",
     "next": "Lex Plaetoria 2",
+    "proof_read": 2,
     "short_description": "L. L. sumptuaria",
     "chapters": [
       {
-        "start": 578,
-        "author": "Kroll"
+        "start": 577,
+        "end": 578,
+        "author": "W. Kroll."
       }
     ]
   },
