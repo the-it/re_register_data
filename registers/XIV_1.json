@@ -2018,7 +2018,7 @@
     "previous": "Macedonius 1",
     "next": "Macedonius 3",
     "proof_read": 0,
-    "short_description": "Rhetor u. Advokat in Tarsos",
+    "short_description": "Rhetor, Advokat und Richter in Tarsos um 363 n. Chr.",
     "chapters": [
       {
         "start": 128,
@@ -2031,8 +2031,8 @@
     "lemma": "Macedonius 3",
     "previous": "Macedonius 2",
     "next": "Macedonius 4",
-    "proof_read": 2,
-    "short_description": "christlicher Eiferer unter Iulian aus Phrygien, nach Folterqualen verbrannt",
+    "proof_read": 3,
+    "short_description": "christlicher Eiferer aus Phrygien, nach Folterqualen verbrannt unter Julian (360–363 n. Chr.)",
     "no_creative_height": true,
     "chapters": [
       {
@@ -7950,11 +7950,14 @@
     "lemma": "Magnus portus 1",
     "previous": "Magnus 34",
     "next": "Magnus portus 2",
-    "short_description": "Megas limen südl. der Mündung d. Wadi Draa",
+    "sort_key": "Magnusportus 1",
+    "proof_read": 0,
+    "short_description": "Megas limen südlich der Mündung des Wadi Draa",
     "chapters": [
       {
         "start": 494,
-        "author": "Schwabe"
+        "end": 494,
+        "author": "Schwabe."
       }
     ]
   },
@@ -7962,11 +7965,14 @@
     "lemma": "Magnus portus 2",
     "previous": "Magnus portus 1",
     "next": "Magnus portus 3",
+    "sort_key": "Magnusportus 2",
+    "proof_read": 2,
     "short_description": "Portos Magnos in Mauretania Caesariensis",
     "chapters": [
       {
         "start": 494,
-        "author": "Schwabe"
+        "end": 494,
+        "author": "Schwabe."
       }
     ]
   },
@@ -8282,7 +8288,7 @@
     "previous": "Μάγοι",
     "next": "Magon kolpos",
     "proof_read": 2,
-    "short_description": "(Μάγων, Arrian. Ind. 4, 4), nach Megasthenes ein Nebenfluß des Ganges, entweder",
+    "short_description": "Nebenfluß des Ganges",
     "chapters": [
       {
         "start": 518,
@@ -8294,31 +8300,39 @@
   {
     "lemma": "Magon kolpos",
     "previous": "Magon",
-    "next": "Magon nesos",
+    "next": "Μάγων νῆσος",
+    "sort_key": "Magonkolpos",
+    "proof_read": 0,
+    "short_description": "Bucht im Persischen Golf, bei Insel BūʽAlī",
     "chapters": [
       {
         "start": 518,
-        "author": "Grohmann"
+        "end": 519,
+        "author": "Grohmann."
       }
     ]
   },
   {
-    "lemma": "Magon nesos",
+    "lemma": "Μάγων νῆσος",
     "previous": "Magon kolpos",
     "next": "Magonos",
+    "sort_key": "Magonnesos",
+    "proof_read": 2,
+    "short_description": "Magon nesos, Insel an der äthiopischen Küste",
     "chapters": [
       {
         "start": 519,
-        "author": "Schwabe"
+        "end": 519,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Magonos",
-    "previous": "Μάγων",
+    "previous": "Μάγων νῆσος",
     "next": "Magontiacum",
     "proof_read": 0,
-    "short_description": "Karthager, Eidesleister im Vertag zw. Hannibal u. Philipp 215 v. Chr.",
+    "short_description": "Karthager, im Vertrag Hannibal–Philipp 215 v. Chr.",
     "chapters": [
       {
         "start": 519,
