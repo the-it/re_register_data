@@ -7014,7 +7014,7 @@
   {
     "lemma": "Maglomatonius",
     "previous": "Magla",
-    "next": "Maglulon klima",
+    "next": "Μαγλούλων",
     "proof_read": 0,
     "short_description": "Maglus Matonius, keltischer männlicher Gott",
     "chapters": [
@@ -7026,21 +7026,24 @@
     ]
   },
   {
-    "lemma": "Maglulon klima",
+    "lemma": "Μαγλούλων",
     "previous": "Maglomatonius",
     "next": "Magna",
-    "short_description": "Verwaltungsbezirk in Phoinike Libanesia",
+    "sort_key": "Maglulonklima",
+    "proof_read": 0,
+    "short_description": "Maglulon klima, Bezirk in Phoinike Libanesia",
     "chapters": [
       {
         "start": 443,
-        "author": "Honigmann"
+        "end": 444,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Magna",
-    "previous": "Maglulon klima",
-    "next": "Magna Mater",
+    "previous": "Μαγλούλων",
+    "next": "Magna(e), Magni",
     "proof_read": 0,
     "chapters": [
       {
@@ -7054,11 +7057,14 @@
     "lemma": "Magna(e), Magni",
     "previous": "Magna",
     "next": "Magna(e), Magni 1",
-    "short_description": "Britann. Ort",
+    "sort_key": "Magnae magni",
+    "proof_read": 2,
+    "short_description": "britannischer Ortsname",
     "chapters": [
       {
         "start": 444,
-        "author": "MacDonald"
+        "end": 444,
+        "author": "Macdonald."
       }
     ]
   },
@@ -7066,11 +7072,14 @@
     "lemma": "Magna(e), Magni 1",
     "previous": "Magna(e), Magni",
     "next": "Magna(e), Magni 2",
-    "short_description": "Röm. Kastell am Hadrianswall",
+    "sort_key": "Magnae magni 1",
+    "proof_read": 0,
+    "short_description": "römisches Kastell am Hadrianswall",
     "chapters": [
       {
         "start": 444,
-        "author": "MacDonald"
+        "end": 444,
+        "author": "Macdonald."
       }
     ]
   },
@@ -7078,11 +7087,14 @@
     "lemma": "Magna(e), Magni 2",
     "previous": "Magna(e), Magni 1",
     "next": "Magna(e), Magni 3",
-    "short_description": "Röm.-britann. Städtchen an d. Straße MAridunum - Viroconium",
+    "sort_key": "Magnae magni 2",
+    "proof_read": 0,
+    "short_description": "röm.-britann. Städtchen bei Maridunum–Viroconium",
     "chapters": [
       {
         "start": 444,
-        "author": "MacDonald"
+        "end": 444,
+        "author": "Macdonald."
       }
     ]
   },
@@ -7090,11 +7102,14 @@
     "lemma": "Magna(e), Magni 3",
     "previous": "Magna(e), Magni 2",
     "next": "Magnalianus, Magnilianus",
+    "sort_key": "Magnae magni 3",
+    "proof_read": 0,
     "short_description": "Magnis als verstümmelte Form von Mais?",
     "chapters": [
       {
         "start": 444,
-        "author": "MacDonald"
+        "end": 444,
+        "author": "Macdonald."
       }
     ]
   },
@@ -7104,6 +7119,7 @@
     "next": "Magnana",
     "sort_key": "Magnalianus,magnilianus",
     "proof_read": 0,
+    "short_description": "Curator in Thibiuca gegen Bischof Felix 303 n. Chr.",
     "chapters": [
       {
         "start": 444,
@@ -7114,8 +7130,8 @@
   },
   {
     "lemma": "Magna Mater",
-    "previous": "Magnalianus, Magnilianus",
-    "next": "Magnana",
+    "previous": "Magna",
+    "next": "Magna(e), Magni",
     "redirect": "Mater magna",
     "proof_read": 2,
     "chapters": [
@@ -7127,12 +7143,14 @@
   },
   {
     "lemma": "Magnana",
-    "previous": "Magna Mater",
+    "previous": "Magnalianus, Magnilianus",
     "next": "Magnata",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 444,
-        "author": "Ruge"
+        "end": 444,
+        "author": "Ruge."
       }
     ]
   },
@@ -7140,10 +7158,13 @@
     "lemma": "Magnata",
     "previous": "Magnana",
     "next": "Magnatae",
+    "proof_read": 0,
+    "short_description": "Stadt in Hibernien",
     "chapters": [
       {
         "start": 444,
-        "author": "MacDonald"
+        "end": 445,
+        "author": "Macdonald."
       }
     ]
   },
@@ -7151,10 +7172,13 @@
     "lemma": "Magnatae",
     "previous": "Magnata",
     "next": "Magnentius 1",
+    "proof_read": 2,
+    "short_description": "hibernische Völkerschaft an der Westseite der Insel",
     "chapters": [
       {
         "start": 445,
-        "author": "MacDonald"
+        "end": 445,
+        "author": "Macdonald."
       }
     ]
   },
@@ -8372,9 +8396,9 @@
   {
     "lemma": "Magrada",
     "previous": "Magoras",
-    "next": "Magru",
+    "next": "Μαγροῦ",
     "proof_read": 2,
-    "short_description": "von Mela III 15 als östlichster Fluß der kantabrischen Küste genannt, also wohl",
+    "short_description": "östlichster Fluß der kantabrischen Küste",
     "no_creative_height": true,
     "chapters": [
       {
@@ -8385,25 +8409,32 @@
     ]
   },
   {
-    "lemma": "Magru",
+    "lemma": "Μαγροῦ",
     "previous": "Magrada",
     "next": "Μάγουδα",
-    "short_description": "topos",
+    "sort_key": "Magru",
+    "proof_read": 0,
+    "short_description": "Magru topos, Kome in Marmarica, Oase Maragh?",
     "chapters": [
       {
         "start": 519,
-        "author": "Schwabe"
+        "end": 519,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Μάγουδα",
-    "previous": "Magru",
+    "previous": "Μαγροῦ",
     "next": "Magudulsa",
+    "sort_key": "Maguda",
+    "proof_read": 2,
+    "short_description": "Maguda, Stadt am Euphrat bei Chabora",
     "chapters": [
       {
         "start": 519,
-        "author": "Weissbach"
+        "end": 520,
+        "author": "Weissbach."
       }
     ]
   },
@@ -8475,28 +8506,35 @@
   {
     "lemma": "Magur",
     "previous": "Magum",
-    "next": "Magura",
+    "next": "Μάγουρα",
+    "proof_read": 0,
+    "short_description": "Stadt der Soringai in India intra Gangem",
     "chapters": [
       {
         "start": 520,
-        "author": "Herrmann"
+        "end": 521,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Magura",
+    "lemma": "Μάγουρα",
     "previous": "Magur",
     "next": "Magusanus",
+    "sort_key": "Magura",
+    "proof_read": 2,
+    "short_description": "Magura, Stadt in Libya interior = Amagor",
     "chapters": [
       {
         "start": 521,
-        "author": "Schwabe"
+        "end": 521,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Magusanus",
-    "previous": "Magura",
+    "previous": "Μάγουρα",
     "next": "Magusum",
     "proof_read": 2,
     "short_description": "s. Hercules",
@@ -8747,23 +8785,43 @@
   {
     "lemma": "Maia 6",
     "previous": "Maia 5",
-    "next": "Maiadeus",
+    "next": "Μαΐα νῆσος",
+    "proof_read": 0,
     "short_description": "Ortschaft in Britannien",
     "chapters": [
       {
         "start": 533,
-        "author": "MacDonald"
+        "end": 533,
+        "author": "Macdonald."
+      }
+    ]
+  },
+  {
+    "lemma": "Μαΐα νῆσος",
+    "previous": "Maia 6",
+    "next": "Maiadeus",
+    "sort_key": "Maianesos",
+    "proof_read": 0,
+    "short_description": "Maia nesos, Insel an der Nordküste Afrikas",
+    "chapters": [
+      {
+        "start": 533,
+        "end": 533,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Maiadeus",
-    "previous": "Maia 6",
-    "next": "Maia nesos",
+    "previous": "Μαΐα νῆσος",
+    "next": "Maiae",
+    "proof_read": 0,
+    "short_description": "Epiklesis des Hermes als des Sohnes der Maia",
     "chapters": [
       {
         "start": 533,
-        "author": "Kruse"
+        "end": 534,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -8780,29 +8838,36 @@
   },
   {
     "lemma": "Maiae",
-    "previous": "Maia nesos",
-    "next": "Μαιανδρίδης",
+    "previous": "Maiadeus",
+    "next": "Maiandrides",
+    "proof_read": 0,
+    "short_description": "Dreiheit keltischer Göttinnen",
     "chapters": [
       {
         "start": 534,
-        "author": "Heichelheim"
+        "end": 534,
+        "author": "Heichelheim."
       }
     ]
   },
   {
-    "lemma": "Μαιανδρίδης",
+    "lemma": "Maiandrides",
     "previous": "Maiae",
     "next": "Maiandrios 1",
+    "sort_key": "Maiandrides",
+    "proof_read": 2,
+    "short_description": "Maiandrides, Angehöriger einer Summoria von Teos",
     "chapters": [
       {
         "start": 534,
-        "author": "Ruge"
+        "end": 534,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Maiandrios 1",
-    "previous": "Μαιανδρίδης",
+    "previous": "Maiandrides",
     "next": "Maiandrios 2",
     "proof_read": 0,
     "short_description": "Tyrann v. Samos, Sekretär d. Polykrates",
@@ -8894,10 +8959,14 @@
     "lemma": "Μαιανδρούπολις",
     "previous": "Maiandru Pedion",
     "next": "Maianius",
+    "sort_key": "Maiandrupolis",
+    "proof_read": 0,
+    "short_description": "Maiandrupolis, Städtchen zu Magnesia am Maiandros",
     "chapters": [
       {
         "start": 540,
-        "author": "Bürchner"
+        "end": 540,
+        "author": "Bürchner."
       }
     ]
   },
@@ -9694,10 +9763,14 @@
     "lemma": "Μαίρας χορός",
     "previous": "Maira 7",
     "next": "Mairo",
+    "sort_key": "Mairas choros",
+    "proof_read": 0,
+    "short_description": "Mairas choros, Tanzplatz der Maira östlich Mantineas",
     "chapters": [
       {
         "start": 606,
-        "author": "Meyer, Ernst"
+        "end": 606,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -10002,11 +10075,13 @@
     "lemma": "Makai 2",
     "previous": "Makai 1",
     "next": "Makar",
-    "short_description": "Nomadisierendes Hirtenvolk an d. großen Syrte",
+    "proof_read": 0,
+    "short_description": "nomadisierendes Hirtenvolk an der großen Syrte",
     "chapters": [
       {
         "start": 615,
-        "author": "Schwabe"
+        "end": 616,
+        "author": "Schwabe."
       }
     ]
   },
@@ -10222,11 +10297,13 @@
     "lemma": "Makaria 9",
     "previous": "Makaria 8",
     "next": "Makarios 1",
-    "short_description": "M. nesos, Insel an d. äthiop. Küste",
+    "proof_read": 2,
+    "short_description": "Insel an der äthiopischen Küste",
     "chapters": [
       {
         "start": 625,
-        "author": "Schwabe"
+        "end": 625,
+        "author": "Schwabe."
       }
     ]
   },
@@ -10290,11 +10367,14 @@
     "lemma": "Μακάρων νῆσοι",
     "previous": "Makarios 4",
     "next": "Makaronnesos",
-    "short_description": "Inseln d. Seligen, Elysion",
+    "sort_key": "Makaron nesoi",
+    "proof_read": 0,
+    "short_description": "Makaron nesoi, Inseln der Seligen, Elysion",
     "chapters": [
       {
         "start": 628,
-        "author": "Schulten"
+        "end": 632,
+        "author": "Schulten."
       }
     ]
   },
