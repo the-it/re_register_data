@@ -5626,7 +5626,7 @@
     "lemma": "Mafa",
     "previous": "Maezei",
     "next": "Maforte",
-    "redirect": "Maipha metropolis",
+    "redirect": "Maipha",
     "proof_read": 3,
     "chapters": [
       {
@@ -7733,7 +7733,7 @@
   {
     "lemma": "Magnus 16",
     "previous": "Magnus 15",
-    "next": "Magnus 17",
+    "next": "Magnus 16",
     "redirect": "Ausonius 3",
     "proof_read": 2,
     "chapters": [
@@ -8415,7 +8415,6 @@
     "next": "Magrada",
     "proof_read": 3,
     "short_description": "Flüßchen in Phoinike",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 519,
@@ -9890,7 +9889,7 @@
   {
     "lemma": "Maira 7",
     "previous": "Maira 6",
-    "next": "Μαίρας χορός",
+    "next": "Mairas choros",
     "proof_read": 0,
     "short_description": "Dorf im Gebiet v. Mantineia",
     "chapters": [
@@ -9902,7 +9901,7 @@
     ]
   },
   {
-    "lemma": "Μαίρας χορός",
+    "lemma": "Mairas choros",
     "previous": "Maira 7",
     "next": "Mairo",
     "sort_key": "Mairas choros",
@@ -9918,7 +9917,7 @@
   },
   {
     "lemma": "Mairo",
-    "previous": "Μαίρας χορός",
+    "previous": "Mairas choros",
     "next": "Mais",
     "proof_read": 0,
     "short_description": "?",
@@ -10041,7 +10040,7 @@
   },
   {
     "lemma": "Maison",
-    "previous": "Maioudos",
+    "previous": "Μαιοῦδος",
     "next": "Maithat",
     "proof_read": 0,
     "short_description": "Typ. Figur d. alten dor. Komödie",
@@ -11342,11 +11341,13 @@
     "lemma": "Makra 2",
     "previous": "Makra 1",
     "next": "Makra 3",
+    "proof_read": 0,
     "short_description": "Insel an d. lykischen Küste",
     "chapters": [
       {
         "start": 808,
-        "author": "Ruge"
+        "end": 808,
+        "author": "Ruge."
       }
     ]
   },
@@ -11354,18 +11355,20 @@
     "lemma": "Makra 3",
     "previous": "Makra 2",
     "next": "Makra 4",
+    "proof_read": 0,
     "short_description": "Macra, Name d. Insel Euboia",
     "chapters": [
       {
         "start": 808,
-        "author": "Bürchner"
+        "end": 808,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Makra 4",
     "previous": "Makra 3",
-    "next": "Makra kome 1",
+    "next": "Μακρὰ κώμη 1",
     "redirect": "Macra",
     "proof_read": 2,
     "chapters": [
@@ -11376,61 +11379,75 @@
     ]
   },
   {
-    "lemma": "Makra kome 1",
+    "lemma": "Μακρὰ κώμη 1",
     "previous": "Makra 4",
-    "next": "Makra kome 2",
+    "next": "Μακρὰ κώμη 2",
+    "sort_key": "Makrakome 1",
+    "proof_read": 0,
     "short_description": "Dorf wohl im oberen Spercheiostal",
     "chapters": [
       {
         "start": 808,
-        "author": "Oldfather"
+        "end": 808,
+        "author": "Oldfather."
       }
     ]
   },
   {
-    "lemma": "Makra kome 2",
-    "previous": "Makra kome 1",
-    "next": "Makra nesos",
+    "lemma": "Μακρὰ κώμη 2",
+    "previous": "Μακρὰ κώμη 1",
+    "next": "Μακρὰ νῆσος",
+    "sort_key": "Makrakome 2",
+    "proof_read": 0,
     "short_description": "Dolopischer (makedon.) Ort in d. oberen Ebene d. Spercheios, vgl. Nr. 1",
     "chapters": [
       {
         "start": 808,
-        "author": "Stählin"
+        "end": 809,
+        "author": "Stählin."
       }
     ]
   },
   {
-    "lemma": "Makra nesos",
-    "previous": "Makra kome 2",
-    "next": "Makras, Makra",
+    "lemma": "Μακρὰ νῆσος",
+    "previous": "Μακρὰ κώμη 2",
+    "next": "Μάκρας, Μάκρα",
+    "sort_key": "Makranesos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 809,
-        "author": "Honigmann"
+        "end": 809,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Makras, Makra",
-    "previous": "Makra nesos",
+    "lemma": "Μάκρας, Μάκρα",
+    "previous": "Μακρὰ νῆσος",
     "next": "Makrele",
+    "sort_key": "Makras,makra",
+    "proof_read": 0,
     "short_description": "Makra pedion, Ebene in Mittelsyrien",
     "chapters": [
       {
         "start": 809,
-        "author": "Honigmann"
+        "end": 810,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Makrele",
-    "previous": "Makras, Makra",
+    "previous": "Μάκρας, Μάκρα",
     "next": "Makria akra",
+    "proof_read": 0,
     "short_description": "Fischart",
     "chapters": [
       {
         "start": 810,
-        "author": "Steier"
+        "end": 813,
+        "author": "Steier."
       }
     ]
   },
@@ -11438,17 +11455,20 @@
     "lemma": "Makria akra",
     "previous": "Makrele",
     "next": "Μακρινοί",
+    "sort_key": "Makriaakra",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 814,
-        "author": "Ruge"
+        "end": 814,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Μακρινοί",
     "previous": "Makria akra",
-    "next": "Makris",
+    "next": "Μάκρις",
     "sort_key": "Makrinoi",
     "redirect": "Mariane polis",
     "proof_read": 2,
@@ -11460,26 +11480,30 @@
     ]
   },
   {
-    "lemma": "Makris",
+    "lemma": "Μάκρις",
     "previous": "Μακρινοί",
     "next": "Makrobioi 1",
+    "proof_read": 0,
     "short_description": "he -, Name mehrerer Inseln",
     "chapters": [
       {
         "start": 814,
-        "author": "Bürchner"
+        "end": 814,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Makrobioi 1",
-    "previous": "Makris",
+    "previous": "Μάκρις",
     "next": "Makrobioi 2",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Nymphen",
     "chapters": [
       {
         "start": 814,
-        "author": "Kruse"
+        "end": 814,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -11487,11 +11511,13 @@
     "lemma": "Makrobioi 2",
     "previous": "Makrobioi 1",
     "next": "Makrobioi 3",
+    "proof_read": 0,
     "short_description": "Bewohner d. Athos",
     "chapters": [
       {
         "start": 814,
-        "author": "Lenk"
+        "end": 814,
+        "author": "Lenk."
       }
     ]
   },
@@ -11512,19 +11538,21 @@
   {
     "lemma": "Makrokephaloi",
     "previous": "Makrobioi 3",
-    "next": "Μακροκρήμνια ὄρη",
+    "next": "Μακροκρήμνια",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 815,
-        "author": "Herrmann"
+        "end": 815,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Μακροκρήμνια ὄρη",
+    "lemma": "Μακροκρήμνια",
     "previous": "Makrokephaloi",
     "next": "Makrones",
-    "sort_key": "Makrokremnia ore",
+    "sort_key": "Makrokremnia",
     "redirect": "Macrocremnii montes",
     "proof_read": 2,
     "chapters": [
@@ -11536,7 +11564,7 @@
   },
   {
     "lemma": "Makrones",
-    "previous": "Μακροκρήμνια ὄρη",
+    "previous": "Μακροκρήμνια",
     "next": "Makropedion",
     "short_description": "Volk im Nordosten des Pontos Euxeinos",
     "chapters": [
@@ -11550,10 +11578,12 @@
     "lemma": "Makropedion",
     "previous": "Makrones",
     "next": "Makropogones",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 815,
-        "author": "Ruge"
+        "end": 815,
+        "author": "Ruge."
       }
     ]
   },
@@ -11561,39 +11591,46 @@
     "lemma": "Makropogones",
     "previous": "Makropedion",
     "next": "Maktorion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 815,
-        "author": "Herrmann"
+        "end": 815,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Maktorion",
     "previous": "Makropogones",
-    "next": "Maktrismos",
+    "next": "Μακτρισμός",
+    "proof_read": 0,
     "short_description": "Stadt Siziliens",
     "chapters": [
       {
         "start": 815,
-        "author": "Ziegler"
+        "end": 816,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Maktrismos",
+    "lemma": "Μακτρισμός",
     "previous": "Maktorion",
     "next": "Μακουνίαι",
+    "sort_key": "Maktrismos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 816,
-        "author": "Körte"
+        "end": 816,
+        "author": "A. Körte."
       }
     ]
   },
   {
     "lemma": "Μακουνίαι",
-    "previous": "Maktrismos",
+    "previous": "Μακτρισμός",
     "next": "Makynia",
     "sort_key": "Makuniai",
     "proof_read": 2,
@@ -11609,29 +11646,33 @@
   {
     "lemma": "Makynia",
     "previous": "Μακουνίαι",
-    "next": "Makyrion",
+    "next": "Μακύριον",
+    "proof_read": 0,
     "short_description": "Westlichste Stadt d. Westlokrer",
     "chapters": [
       {
         "start": 816,
-        "author": "Stählin"
+        "end": 818,
+        "author": "Stählin."
       }
     ]
   },
   {
-    "lemma": "Makyrion",
+    "lemma": "Μακύριον",
     "previous": "Makynia",
     "next": "Makyron",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 818,
-        "author": "Stählin"
+        "end": 818,
+        "author": "Stählin."
       }
     ]
   },
   {
     "lemma": "Makyron",
-    "previous": "Makyrion",
+    "previous": "Μακύριον",
     "next": "Mal...",
     "redirect": "Kakyron",
     "proof_read": 2,
@@ -11646,11 +11687,13 @@
     "lemma": "Mal...",
     "previous": "Makyron",
     "next": "Malabathron",
+    "proof_read": 0,
     "short_description": "Name eines Municipiums in Dalmatien",
     "chapters": [
       {
         "start": 818,
-        "author": "Fluss"
+        "end": 818,
+        "author": "Fluss."
       }
     ]
   },
@@ -11658,11 +11701,13 @@
     "lemma": "Malabathron",
     "previous": "Mal...",
     "next": "Malaca 1",
+    "proof_read": 0,
     "short_description": "Pflanzenart",
     "chapters": [
       {
         "start": 818,
-        "author": "Steier"
+        "end": 823,
+        "author": "Steier."
       }
     ]
   },
@@ -11670,11 +11715,13 @@
     "lemma": "Malaca 1",
     "previous": "Malabathron",
     "next": "Malaca 2",
+    "proof_read": 0,
     "short_description": "Bedeutende Stadt der von d. Tyriern an d. S-Küste von Spanien angelegten",
     "chapters": [
       {
         "start": 823,
-        "author": "Schulten"
+        "end": 824,
+        "author": "Schulten."
       }
     ]
   },
@@ -11724,7 +11771,7 @@
   {
     "lemma": "Malache",
     "previous": "Malachbelos",
-    "next": "Malaia",
+    "next": "Μαλαία",
     "redirect": "Lamache",
     "proof_read": 2,
     "chapters": [
@@ -11735,30 +11782,34 @@
     ]
   },
   {
-    "lemma": "Malaia",
+    "lemma": "Μαλαία",
     "previous": "Malache",
-    "next": "Malaios",
+    "next": "Μαλαῖος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 828,
+        "end": 828,
         "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Malaios",
-    "previous": "Malaia",
+    "lemma": "Μαλαῖος",
+    "previous": "Μαλαία",
     "next": "Malaita",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 828,
-        "author": "MacDonald"
+        "end": 828,
+        "author": "MacDonald."
       }
     ]
   },
   {
     "lemma": "Malaita",
-    "previous": "Malaios",
+    "previous": "Μαλαῖος",
     "next": "Malaiu",
     "proof_read": 2,
     "short_description": "(Μαλαίτα), nach Ptolem. geogr. VII 1, 70 Ortschaft bei den Poruaroi in India",
@@ -11830,10 +11881,12 @@
     "lemma": "Malamantos",
     "previous": "Malalas",
     "next": "Malana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 828,
-        "author": "Herrmann"
+        "end": 828,
+        "author": "Herrmann."
       }
     ]
   },
@@ -11855,10 +11908,12 @@
     "lemma": "Malandara",
     "previous": "Malana",
     "next": "Malanga",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 828,
-        "author": "Ruge"
+        "end": 828,
+        "author": "Ruge."
       }
     ]
   },
@@ -11880,11 +11935,13 @@
     "lemma": "Malangitai",
     "previous": "Malanga",
     "next": "Μαλάνιος",
+    "proof_read": 0,
     "short_description": "Volk in O-Arabien",
     "chapters": [
       {
         "start": 828,
-        "author": "Grohmann"
+        "end": 829,
+        "author": "Grohmann."
       }
     ]
   },
@@ -11922,11 +11979,13 @@
     "lemma": "Malaria",
     "previous": "Μαλαώ",
     "next": "Malas",
+    "proof_read": 0,
     "short_description": "Krankheit",
     "chapters": [
       {
         "start": 830,
-        "author": "Kind"
+        "end": 846,
+        "author": "Kind."
       }
     ]
   },
@@ -11963,11 +12022,13 @@
     "lemma": "Malatha",
     "previous": "Malassas",
     "next": "Malatis",
+    "proof_read": 0,
     "short_description": "kome in Idumaia",
     "chapters": [
       {
         "start": 846,
-        "author": "Hölscher"
+        "end": 847,
+        "author": "Hölscher."
       }
     ]
   },
@@ -11989,10 +12050,12 @@
     "lemma": "Malavico",
     "previous": "Malatis",
     "next": "Malavis(χ)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 847,
-        "author": "Fluss"
+        "end": 847,
+        "author": "Fluss."
       }
     ]
   },
@@ -12014,10 +12077,12 @@
     "lemma": "Malchija",
     "previous": "Malavis(χ)",
     "next": "Malchio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 849,
-        "author": "Hölscher"
+        "end": 849,
+        "author": "Hölscher."
       }
     ]
   },
@@ -12083,7 +12148,7 @@
   {
     "lemma": "Malchos 4",
     "previous": "Malchos 3",
-    "next": "Μαλχούβιοι",
+    "next": "Malchu nesos",
     "proof_read": 0,
     "short_description": "II. König d. Nabatäer, ca.48-71 n. Chr.",
     "chapters": [
@@ -12096,8 +12161,8 @@
   },
   {
     "lemma": "Malchu nesos",
-    "previous": "Μαλχούβιοι",
-    "next": "Maldra",
+    "previous": "Malchos 4",
+    "next": "Μαλχούβιοι",
     "redirect": "Malchus",
     "proof_read": 2,
     "chapters": [
@@ -12109,8 +12174,8 @@
   },
   {
     "lemma": "Μαλχούβιοι",
-    "previous": "Malchos 4",
-    "next": "Malchu nesos",
+    "previous": "Malchu nesos",
+    "next": "Maldra",
     "sort_key": "Malchubioi",
     "redirect": "Marchubi",
     "proof_read": 2,
@@ -12123,13 +12188,15 @@
   },
   {
     "lemma": "Maldra",
-    "previous": "Malchu nesos",
+    "previous": "Μαλχούβιοι",
     "next": "Male",
+    "proof_read": 0,
     "short_description": "König d. Sueben 456-460 n. Chr.",
     "chapters": [
       {
         "start": 858,
-        "author": "Enßlin"
+        "end": 859,
+        "author": "Enßlin."
       }
     ]
   },
@@ -12151,11 +12218,13 @@
     "lemma": "Malea 1",
     "previous": "Male",
     "next": "Malea 2",
+    "proof_read": 0,
     "short_description": "Das lakonische Vorgebirge",
     "chapters": [
       {
         "start": 859,
-        "author": "Bölte"
+        "end": 865,
+        "author": "Bölte."
       }
     ]
   },
@@ -12163,11 +12232,13 @@
     "lemma": "Malea 2",
     "previous": "Malea 1",
     "next": "Malea 3",
+    "proof_read": 0,
     "short_description": "Andere Örtlichkeiten in Lakonien",
     "chapters": [
       {
         "start": 865,
-        "author": "Bölte"
+        "end": 866,
+        "author": "Bölte."
       }
     ]
   },
@@ -12175,11 +12246,13 @@
     "lemma": "Malea 3",
     "previous": "Malea 2",
     "next": "Malea 4",
+    "proof_read": 0,
     "short_description": "Berg in NW-Arkadien bei Psophis",
     "chapters": [
       {
         "start": 867,
-        "author": "Bölte"
+        "end": 867,
+        "author": "Bölte."
       }
     ]
   },
@@ -12187,11 +12260,13 @@
     "lemma": "Malea 4",
     "previous": "Malea 3",
     "next": "Maleatas",
+    "proof_read": 0,
     "short_description": "Ortschaft in SW-Arkadien",
     "chapters": [
       {
         "start": 867,
-        "author": "Bölte"
+        "end": 869,
+        "author": "Bölte."
       }
     ]
   },
@@ -12199,11 +12274,13 @@
     "lemma": "Maleatas",
     "previous": "Malea 4",
     "next": "Malececa",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Apollon, 2. d. Pan",
     "chapters": [
       {
         "start": 869,
-        "author": "Kruse"
+        "end": 870,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -12254,11 +12331,13 @@
     "lemma": "Maleficium",
     "previous": "Μαληδομνεί",
     "next": "Maleiba",
+    "proof_read": 0,
     "short_description": "Übeltat, jurist. t.t.",
     "chapters": [
       {
         "start": 870,
-        "author": "Taubenschlag"
+        "end": 875,
+        "author": "Taubenschlag."
       }
     ]
   },
@@ -12280,10 +12359,12 @@
     "lemma": "Malene",
     "previous": "Maleiba",
     "next": "Malennius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 875,
-        "author": "Ruge"
+        "end": 875,
+        "author": "Ruge."
       }
     ]
   },
@@ -12305,11 +12386,13 @@
     "lemma": "Maleos 1",
     "previous": "Malennius",
     "next": "Maleos 2",
+    "proof_read": 0,
     "short_description": "Urspr. Meerdämon",
     "chapters": [
       {
         "start": 875,
-        "author": "Burckhardt"
+        "end": 881,
+        "author": "Burckhardt."
       }
     ]
   },
@@ -12356,11 +12439,13 @@
     "lemma": "Malerei",
     "previous": "Maleotes",
     "next": "Maleros",
+    "proof_read": 0,
     "short_description": "Bildende Kunst in d. Antike",
     "chapters": [
       {
         "start": 881,
-        "author": "Lippold, Georg"
+        "end": 898,
+        "author": "Lippold."
       }
     ]
   },
@@ -13146,11 +13231,13 @@
     "lemma": "Mal(l)oia",
     "previous": "Malloi",
     "next": "Mallonia",
+    "proof_read": 0,
     "short_description": "Stadt in Parrhäbien im Tal d. Titaresios",
     "chapters": [
       {
         "start": 913,
-        "author": "Stählin"
+        "end": 916,
+        "author": "Stählin."
       }
     ]
   },
@@ -18521,7 +18608,6 @@
     "next": "Mannaritium",
     "proof_read": 3,
     "short_description": "Stadt in Arabien",
-    "no_creative_height": true,
     "chapters": [
       {
         "start": 1227,
