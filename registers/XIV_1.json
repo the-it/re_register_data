@@ -1765,7 +1765,7 @@
   {
     "lemma": "Macar(i)us 12",
     "previous": "Macar(i)us 11",
-    "next": "Macarius 13",
+    "next": "Macar(i)us 13",
     "proof_read": 2,
     "short_description": "vir clarissimus mit Asterius, cos. 494 n. Chr. beteiligt an Vergilemendation",
     "no_creative_height": true,
@@ -1778,7 +1778,7 @@
     ]
   },
   {
-    "lemma": "Macarius 13",
+    "lemma": "Macar(i)us 13",
     "previous": "Macar(i)us 12",
     "next": "Macatus",
     "proof_read": 0,
@@ -1793,7 +1793,7 @@
   },
   {
     "lemma": "Macatus",
-    "previous": "Macarius 13",
+    "previous": "Macar(i)us 13",
     "next": "Macatutae",
     "redirect": "Livius 24",
     "proof_read": 2,
@@ -2416,7 +2416,7 @@
   {
     "lemma": "Machairion",
     "previous": "Machaireus",
-    "next": "Μαχαιροφόροι 1",
+    "next": "Μαχαιροφόραι 1",
     "proof_read": 0,
     "short_description": "Krieger, der Epameinondas bei Mantineia (362 v. Chr.) tödlich verwundete",
     "chapters": [
@@ -5822,8 +5822,8 @@
   },
   {
     "lemma": "Magalus",
-    "previous": "Magalona",
-    "next": "Magantia",
+    "previous": "Magalassos",
+    "next": "Magalia, -ium 1",
     "proof_read": 0,
     "short_description": "Magilus",
     "chapters": [
@@ -5907,7 +5907,7 @@
   {
     "lemma": "Magarsis",
     "previous": "Magarsa",
-    "next": "Magas 1",
+    "next": "Magas",
     "proof_read": 0,
     "short_description": "Epiklesis der Athena nach der kilikischen Stadt",
     "chapters": [
@@ -10124,7 +10124,7 @@
     "lemma": "Maiuma",
     "previous": "Μαιοῦδος",
     "next": "Maiuma 1",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "zum Namen",
     "chapters": [
       {
@@ -11591,7 +11591,8 @@
     "lemma": "Makropogones",
     "previous": "Makropedion",
     "next": "Maktorion",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Volkerschaft im Steppenland östlich von Maiotis",
     "chapters": [
       {
         "start": 815,
@@ -11661,12 +11662,14 @@
     "lemma": "Μακύριον",
     "previous": "Makynia",
     "next": "Makyron",
-    "proof_read": 0,
+    "sort_key": "Makyrion",
+    "proof_read": 2,
+    "short_description": "Bergrücken an der Grenze von Meliteia und Chalai",
     "chapters": [
       {
         "start": 818,
         "end": 818,
-        "author": "Stählin."
+        "author": "F. Stählin."
       }
     ]
   },
@@ -11675,7 +11678,7 @@
     "previous": "Μακύριον",
     "next": "Mal...",
     "redirect": "Kakyron",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 818,
@@ -12400,7 +12403,7 @@
     "lemma": "Maleos 2",
     "previous": "Maleos 1",
     "next": "Maleos 3",
-    "redirect": "Malaios",
+    "redirect": "Μαλαῖος",
     "proof_read": 2,
     "chapters": [
       {
@@ -12452,11 +12455,13 @@
   {
     "lemma": "Maleros",
     "previous": "Malerei",
-    "next": "Maleventum",
+    "next": "Μαλέου κῶλον",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 898,
-        "author": "Kruse"
+        "end": 898,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -12530,10 +12535,12 @@
     "lemma": "Malia",
     "previous": "Mali",
     "next": "Maliaca",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 898,
-        "author": "Schulten"
+        "end": 898,
+        "author": "Schulten."
       }
     ]
   },
@@ -12555,29 +12562,34 @@
   {
     "lemma": "Maliades",
     "previous": "Maliaca",
-    "next": "Maliakos kolpos",
+    "next": "Μαλιακὸς κόλπος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 898,
-        "author": "Tambornino"
+        "end": 899,
+        "author": "Tambornino."
       }
     ]
   },
   {
-    "lemma": "Maliakos kolpos",
+    "lemma": "Μαλιακὸς κόλπος",
     "previous": "Maliades",
     "next": "Malianda",
+    "sort_key": "Maliakoskolpos",
+    "proof_read": 0,
     "short_description": "Vgl. Malischer Busen",
     "chapters": [
       {
         "start": 899,
-        "author": "Bürchner"
+        "end": 899,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Malianda",
-    "previous": "Maliakos kolpos",
+    "previous": "Μαλιακὸς κόλπος",
     "next": "Maliarpha",
     "proof_read": 2,
     "short_description": "ein alter Name für Bithynien, Plin. n. h. V 143, vgl. o. Bd. III S. 511, 5.",
@@ -12593,10 +12605,12 @@
     "lemma": "Maliarpha",
     "previous": "Malianda",
     "next": "Maliattha",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 899,
-        "author": "Herrmann"
+        "end": 899,
+        "author": "Herrmann."
       }
     ]
   },
@@ -12630,11 +12644,13 @@
     "lemma": "Malichai",
     "previous": "Maliba",
     "next": "Malichas",
+    "proof_read": 0,
     "short_description": "Stamm in Arabia Felix",
     "chapters": [
       {
         "start": 899,
-        "author": "Grohmann"
+        "end": 899,
+        "author": "Grohmann."
       }
     ]
   },
@@ -12655,10 +12671,12 @@
     "lemma": "Malichath",
     "previous": "Malichas",
     "next": "Malichu insula",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 899,
-        "author": "Ganschinietz"
+        "end": 899,
+        "author": "Ganschinietz."
       }
     ]
   },
@@ -12666,11 +12684,14 @@
     "lemma": "Malichu insula",
     "previous": "Malichath",
     "next": "Malichus",
+    "sort_key": "Malichuinsula",
+    "proof_read": 0,
     "short_description": "Eiland im Roten Meer",
     "chapters": [
       {
         "start": 899,
-        "author": "Grohmann"
+        "end": 900,
+        "author": "Grohmann."
       }
     ]
   },
@@ -12704,11 +12725,13 @@
     "lemma": "Malier",
     "previous": "Malides",
     "next": "Malis 1",
+    "proof_read": 0,
     "short_description": "Volksstamm in S-Thessalien",
     "chapters": [
       {
         "start": 900,
-        "author": "Stählin"
+        "end": 905,
+        "author": "Stählin."
       }
     ]
   },
@@ -12748,11 +12771,14 @@
     "lemma": "Malischer Busen",
     "previous": "Malis 2",
     "next": "Malisianus",
+    "sort_key": "Malischerbusen",
+    "proof_read": 0,
     "short_description": "Die östl. Fortsetzung d. Spercheiosgrabens",
     "chapters": [
       {
         "start": 905,
-        "author": "Stählin"
+        "end": 907,
+        "author": "Stählin."
       }
     ]
   },
@@ -12772,34 +12798,42 @@
   {
     "lemma": "Malitiosa silva",
     "previous": "Malisianus",
-    "next": "Maliu pyrgos",
+    "next": "Μαλίον πύργος",
+    "sort_key": "Malitiosasilva",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 907,
-        "author": "Philipp"
+        "end": 907,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Maliu pyrgos",
+    "lemma": "Μαλίον πύργος",
     "previous": "Malitiosa silva",
     "next": "Malix",
+    "sort_key": "Maliupyrgos",
+    "proof_read": 0,
     "short_description": "ho -",
     "chapters": [
       {
         "start": 907,
-        "author": "Ruge"
+        "end": 907,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Malix",
-    "previous": "Maliu pyrgos",
+    "previous": "Μαλίον πύργος",
     "next": "Malkitas",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 907,
-        "author": "Kruse"
+        "end": 907,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -12820,16 +12854,19 @@
   {
     "lemma": "Μαλκόαι",
     "previous": "Malkitas",
-    "next": "Malla",
+    "next": "Μάλλα",
+    "sort_key": "Malkoai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 907,
-        "author": "Schwabe"
+        "end": 907,
+        "author": "Schwabe."
       }
     ]
   },
   {
-    "lemma": "Malla",
+    "lemma": "Μάλλα",
     "previous": "Μαλκόαι",
     "next": "Mallaba",
     "short_description": "Kret. Stadt",
@@ -12842,7 +12879,7 @@
   },
   {
     "lemma": "Mallaba",
-    "previous": "Malla",
+    "previous": "Μάλλα",
     "next": "Mallada",
     "redirect": "Mallada",
     "proof_read": 2,
@@ -12857,10 +12894,12 @@
     "lemma": "Mallada",
     "previous": "Mallaba",
     "next": "Malleolus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 908,
-        "author": "Grohmann"
+        "end": 908,
+        "author": "Grohmann."
       }
     ]
   },
@@ -12868,11 +12907,13 @@
     "lemma": "Malleolus 1",
     "previous": "Mallada",
     "next": "Malleolus 2",
+    "proof_read": 0,
     "short_description": "Brandpfeil d. Römer im Festungs- u. Seekrieg",
     "chapters": [
       {
         "start": 908,
-        "author": "Lammert, Friedrich"
+        "end": 909,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -12894,11 +12935,13 @@
     "lemma": "Malleus",
     "previous": "Malleolus 2",
     "next": "Malli",
+    "proof_read": 0,
     "short_description": "Hammer",
     "chapters": [
       {
         "start": 909,
-        "author": "Kroll"
+        "end": 909,
+        "author": "Kroll."
       }
     ]
   },
@@ -12906,10 +12949,12 @@
     "lemma": "Malli",
     "previous": "Malleus",
     "next": "Mallias",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 909,
-        "author": "Schwabe"
+        "end": 909,
+        "author": "Schwabe."
       }
     ]
   },
@@ -12917,11 +12962,13 @@
     "lemma": "Mallias",
     "previous": "Malli",
     "next": "Mallius",
+    "proof_read": 0,
     "short_description": "ad -",
     "chapters": [
       {
         "start": 909,
-        "author": "Philipp"
+        "end": 909,
+        "author": "Philipp."
       }
     ]
   },
@@ -12929,11 +12976,13 @@
     "lemma": "Mallius",
     "previous": "Mallias",
     "next": "Mallius 1",
+    "proof_read": 0,
     "short_description": "Röm. Gentilname",
     "chapters": [
       {
         "start": 909,
-        "author": "Münzer"
+        "end": 910,
+        "author": "Münzer."
       }
     ]
   },
@@ -13258,10 +13307,12 @@
     "lemma": "Mallonus",
     "previous": "Mallonia",
     "next": "Mallos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 916,
-        "author": "Enßlin"
+        "end": 916,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -13269,11 +13320,13 @@
     "lemma": "Mallos 1",
     "previous": "Mallonus",
     "next": "Mallos 2",
+    "proof_read": 0,
     "short_description": "Alte Stadt in Kilikien",
     "chapters": [
       {
         "start": 916,
-        "author": "Ruge"
+        "end": 917,
+        "author": "Ruge."
       }
     ]
   },
@@ -13281,11 +13334,13 @@
     "lemma": "Mallos 2",
     "previous": "Mallos 1",
     "next": "Mallovendus",
+    "proof_read": 0,
     "short_description": "Berg im Land d. Malli",
     "chapters": [
       {
         "start": 917,
-        "author": "Herrmann"
+        "end": 917,
+        "author": "Herrmann."
       }
     ]
   },
@@ -13320,10 +13375,12 @@
     "lemma": "Malodes",
     "previous": "Mallus",
     "next": "Maloeis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 917,
-        "author": "Schulten"
+        "end": 917,
+        "author": "Schulten."
       }
     ]
   },
@@ -13344,11 +13401,13 @@
     "lemma": "Maloitas",
     "previous": "Maloeis",
     "next": "Maloleius",
+    "proof_read": 0,
     "short_description": "Methydrion umfließender Bach",
     "chapters": [
       {
         "start": 917,
-        "author": "Bölte"
+        "end": 918,
+        "author": "Bölte."
       }
     ]
   },
@@ -13370,11 +13429,13 @@
     "lemma": "Malophorios",
     "previous": "Maloleius",
     "next": "Malophoros",
+    "proof_read": 0,
     "short_description": "Monatsname",
     "chapters": [
       {
         "start": 918,
-        "author": "Sontheimer"
+        "end": 919,
+        "author": "Walther Sontheimer."
       }
     ]
   },
@@ -13382,11 +13443,13 @@
     "lemma": "Malophoros",
     "previous": "Malophorios",
     "next": "Malorix",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Demeter",
     "chapters": [
       {
         "start": 919,
-        "author": "Kruse"
+        "end": 919,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -13421,11 +13484,13 @@
     "lemma": "Malos 2",
     "previous": "Malos 1",
     "next": "Malos 3",
+    "proof_read": 0,
     "short_description": "Ort in Pisidien",
     "chapters": [
       {
         "start": 920,
-        "author": "Ruge"
+        "end": 920,
+        "author": "Ruge."
       }
     ]
   },
@@ -13433,11 +13498,13 @@
     "lemma": "Malos 3",
     "previous": "Malos 2",
     "next": "Malothas",
+    "proof_read": 0,
     "short_description": "Ort in Galatien",
     "chapters": [
       {
         "start": 920,
-        "author": "Ruge"
+        "end": 920,
+        "author": "Ruge."
       }
     ]
   },
@@ -13445,11 +13512,13 @@
     "lemma": "Malothas",
     "previous": "Malos 3",
     "next": "Malsane",
+    "proof_read": 0,
     "short_description": "Ortschaft in Arabia Felix",
     "chapters": [
       {
         "start": 920,
-        "author": "Grohmann"
+        "end": 921,
+        "author": "Grohmann."
       }
     ]
   },
@@ -13457,10 +13526,12 @@
     "lemma": "Malsane",
     "previous": "Malothas",
     "next": "Malsonus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 921,
-        "author": "Grohmann"
+        "end": 921,
+        "author": "Grohmann."
       }
     ]
   },
@@ -13576,23 +13647,27 @@
   {
     "lemma": "Maltitae",
     "previous": "Malthura",
-    "next": "Malve",
+    "next": "Maluginensis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 921,
-        "author": "Schwabe"
+        "end": 922,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Malve",
-    "previous": "Maltitae",
-    "next": "Maluginensis",
+    "previous": "Maluginensis",
+    "next": "Maluese",
+    "proof_read": 0,
     "short_description": "Pflanzenart",
     "chapters": [
       {
         "start": 922,
-        "author": "Steier"
+        "end": 927,
+        "author": "Steier."
       }
     ]
   },
@@ -13611,13 +13686,15 @@
   },
   {
     "lemma": "Maluese",
-    "previous": "Maluginensis",
+    "previous": "Malve",
     "next": "Malvisae",
+    "proof_read": 0,
     "short_description": "Siedlung viell. in SO-Dalmatien",
     "chapters": [
       {
         "start": 927,
-        "author": "Fluss"
+        "end": 927,
+        "author": "Fluss."
       }
     ]
   },
@@ -13625,11 +13702,13 @@
     "lemma": "Malvisae",
     "previous": "Maluese",
     "next": "Malum",
+    "proof_read": 0,
     "short_description": "Weibl. epichorische Gottheiten",
     "chapters": [
       {
         "start": 927,
-        "author": "Heichelheim"
+        "end": 928,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -13652,11 +13731,14 @@
     "lemma": "Malum Punicum",
     "previous": "Malum",
     "next": "Malus 1",
+    "sort_key": "Malumpunicum",
+    "proof_read": 0,
     "short_description": "Granatapfelbaum (Pflanzenart)",
     "chapters": [
       {
         "start": 928,
-        "author": "Steier"
+        "end": 942,
+        "author": "Steier."
       }
     ]
   },
@@ -13664,11 +13746,13 @@
     "lemma": "Malus 1",
     "previous": "Malum Punicum",
     "next": "Malus 2",
+    "proof_read": 0,
     "short_description": "Dem Alpheios zufließender Bach",
     "chapters": [
       {
         "start": 942,
-        "author": "Bölte"
+        "end": 947,
+        "author": "Bölte."
       }
     ]
   },
@@ -13676,11 +13760,13 @@
     "lemma": "Malus 2",
     "previous": "Malus 1",
     "next": "Malyeie",
+    "proof_read": 0,
     "short_description": "topos zw. Palaiskepsis u. Achaiion",
     "chapters": [
       {
         "start": 947,
-        "author": "Ruge"
+        "end": 947,
+        "author": "Ruge."
       }
     ]
   },
@@ -13715,11 +13801,13 @@
     "lemma": "Mamala",
     "previous": "Mama",
     "next": "Mamali",
+    "proof_read": 0,
     "short_description": "Flecken d. Kassanitai an d. W-Küste von Arabia Felix",
     "chapters": [
       {
         "start": 947,
-        "author": "Grohmann"
+        "end": 948,
+        "author": "Grohmann."
       }
     ]
   },
@@ -13752,7 +13840,7 @@
   {
     "lemma": "Μαμάντιος",
     "previous": "Μαμαγκία",
-    "next": "Mamarkina",
+    "next": "Μαμάρκινα",
     "sort_key": "Mamantios",
     "redirect": "Mamas 2",
     "proof_read": 2,
@@ -13764,20 +13852,22 @@
     ]
   },
   {
-    "lemma": "Mamarkina",
+    "lemma": "Μαμάρκινα",
     "previous": "Μαμάντιος",
     "next": "Mamas 1",
+    "proof_read": 0,
     "short_description": "polis Ausonike s. Marcina",
     "chapters": [
       {
         "start": 949,
-        "author": "Philipp"
+        "end": 949,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Mamas 1",
-    "previous": "Mamarkina",
+    "previous": "Μαμάρκινα",
     "next": "Mamas 2",
     "proof_read": 0,
     "short_description": "Comes et proximus scrinii libellorum et sacrarum cognitionum",
@@ -13866,7 +13956,7 @@
   {
     "lemma": "Mambre",
     "previous": "Mambli",
-    "next": "Mambri",
+    "next": "Μαμβρί",
     "redirect": "Mamre",
     "proof_read": 2,
     "chapters": [
@@ -13877,35 +13967,41 @@
     ]
   },
   {
-    "lemma": "Mambri",
+    "lemma": "Μαμβρί",
     "previous": "Mambre",
-    "next": "Mambuta",
+    "next": "Μάμβουτα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 949,
-        "author": "Weissbach"
+        "end": 950,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Mambuta",
-    "previous": "Mambri",
+    "lemma": "Μάμβουτα",
+    "previous": "Μαμβρί",
     "next": "Mamdica",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 950,
-        "author": "Weissbach"
+        "end": 950,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Mamdica",
-    "previous": "Mambuta",
+    "previous": "Μάμβουτα",
     "next": "Mamechia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 950,
-        "author": "Heichelheim"
+        "end": 950,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -14008,10 +14104,12 @@
     "lemma": "Mamersa",
     "previous": "Mamers",
     "next": "Mamersides",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 951,
-        "author": "Kruse"
+        "end": 951,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -14098,10 +14196,12 @@
     "lemma": "Mamertion",
     "previous": "Mamertinus 3",
     "next": "Mamertium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 952,
-        "author": "Oldfather"
+        "end": 952,
+        "author": "Oldfather."
       }
     ]
   },
@@ -14109,10 +14209,12 @@
     "lemma": "Mamertium",
     "previous": "Mamertion",
     "next": "Mamertus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 952,
-        "author": "Ziegler"
+        "end": 952,
+        "author": "Ziegler."
       }
     ]
   },
@@ -14160,10 +14262,13 @@
     "lemma": "Mamilia turris",
     "previous": "Mamile",
     "next": "Mamilianus 1",
+    "sort_key": "Mamiliaturris",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 953,
-        "author": "Kroll"
+        "end": 953,
+        "author": "Kroll."
       }
     ]
   },
@@ -14546,10 +14651,12 @@
     "lemma": "Μαμμίδα",
     "previous": "Mammianus",
     "next": "Mammillare, -is",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 959,
-        "author": "Weissbach"
+        "end": 959,
+        "author": "Weissbach."
       }
     ]
   },
@@ -14557,11 +14664,14 @@
     "lemma": "Mammillare, -is",
     "previous": "Μαμμίδα",
     "next": "Mammisea tetrarchia",
+    "sort_key": "Mammillare,-is",
+    "proof_read": 0,
     "short_description": "Stütze d. weibl. Brust, wenn sie zu voll entwickelt war",
     "chapters": [
       {
         "start": 959,
-        "author": "Schuppe"
+        "end": 960,
+        "author": "E. Schuppe."
       }
     ]
   },
@@ -14569,10 +14679,13 @@
     "lemma": "Mammisea tetrarchia",
     "previous": "Mammillare, -is",
     "next": "Mammius 1",
+    "sort_key": "Mammiseatetrarchia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 960,
-        "author": "Honigmann"
+        "end": 960,
+        "author": "Honigmann."
       }
     ]
   },
@@ -14634,11 +14747,13 @@
     "lemma": "Μαμωλίς",
     "previous": "Mammula",
     "next": "Mamopsora",
+    "proof_read": 0,
     "short_description": "(?)",
     "chapters": [
       {
         "start": 961,
-        "author": "Ruge"
+        "end": 961,
+        "author": "Ruge."
       }
     ]
   },
@@ -14646,17 +14761,19 @@
     "lemma": "Mamopsora",
     "previous": "Μαμωλίς",
     "next": "Mamortha",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 961,
-        "author": "Hölscher"
+        "end": 962,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Mamortha",
     "previous": "Mamopsora",
-    "next": "Mampsaroi",
+    "next": "Μάμψαροι",
     "redirect": "Mabartha",
     "proof_read": 2,
     "chapters": [
@@ -14667,25 +14784,30 @@
     ]
   },
   {
-    "lemma": "Mampsaroi",
+    "lemma": "Μάμψαροι",
     "previous": "Mamortha",
     "next": "Mampsis",
+    "sort_key": "Mampsaroi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 962,
-        "author": "Schwabe"
+        "end": 962,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Mampsis",
-    "previous": "Mampsaroi",
+    "previous": "Μάμψαροι",
     "next": "Mamre",
+    "proof_read": 0,
     "short_description": "Ort in Palaestina Syria bzw. Tertia",
     "chapters": [
       {
         "start": 962,
-        "author": "Hölscher"
+        "end": 962,
+        "author": "Hölscher."
       }
     ]
   },
@@ -14693,11 +14815,13 @@
     "lemma": "Mamre",
     "previous": "Mampsis",
     "next": "Mamucium, Mancunium",
+    "proof_read": 0,
     "short_description": "Ortsangabe in Gen.13",
     "chapters": [
       {
         "start": 962,
-        "author": "Hölscher"
+        "end": 965,
+        "author": "Hölscher."
       }
     ]
   },
@@ -14705,39 +14829,46 @@
     "lemma": "Mamucium, Mancunium",
     "previous": "Mamre",
     "next": "Mamuda",
+    "sort_key": "Mamucium,mancunium",
+    "proof_read": 0,
     "short_description": "Ortschaft im röm. Britannien",
     "chapters": [
       {
         "start": 965,
-        "author": "MacDonald"
+        "end": 966,
+        "author": "MacDonald."
       }
     ]
   },
   {
     "lemma": "Mamuda",
     "previous": "Mamucium, Mancunium",
-    "next": "Mamuga",
+    "next": "Μαμούγα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 966,
-        "author": "Schwabe"
+        "end": 966,
+        "author": "Schwabe."
       }
     ]
   },
   {
-    "lemma": "Mamuga",
+    "lemma": "Μαμούγα",
     "previous": "Mamuda",
     "next": "Mamuralia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 966,
-        "author": "Honigmann"
+        "end": 966,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Mamuralia",
-    "previous": "Mamuga",
+    "previous": "Μαμούγα",
     "next": "Mamurianus",
     "redirect": "Mars 1",
     "proof_read": 2,
@@ -14805,12 +14936,14 @@
   },
   {
     "lemma": "Mamuta",
-    "previous": "Mamurra 2",
+    "previous": "Mamurra 1",
     "next": "Mamuza",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 967,
-        "author": "Ruge"
+        "end": 967,
+        "author": "Ruge."
       }
     ]
   },
@@ -14818,11 +14951,13 @@
     "lemma": "Mamuza",
     "previous": "Mamuta",
     "next": "Mamzija",
+    "proof_read": 0,
     "short_description": "(?)",
     "chapters": [
       {
         "start": 967,
-        "author": "Ruge"
+        "end": 967,
+        "author": "Ruge."
       }
     ]
   },
@@ -14830,10 +14965,12 @@
     "lemma": "Mamzija",
     "previous": "Mamuza",
     "next": "Mana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 967,
-        "author": "Hölscher"
+        "end": 967,
+        "author": "Hölscher."
       }
     ]
   },
@@ -14855,10 +14992,12 @@
     "lemma": "Manada",
     "previous": "Mana",
     "next": "Manadus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 968,
-        "author": "Herrmann"
+        "end": 968,
+        "author": "Herrmann."
       }
     ]
   },
@@ -14949,10 +15088,12 @@
     "lemma": "Manain",
     "previous": "Manaichmos",
     "next": "Manalis lapis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 969,
-        "author": "Herrmann"
+        "end": 969,
+        "author": "Herrmann."
       }
     ]
   },
@@ -14960,11 +15101,14 @@
     "lemma": "Manalis lapis",
     "previous": "Manain",
     "next": "Μάναλιν",
+    "sort_key": "Manalislapis",
+    "proof_read": 0,
     "short_description": "Stein für Regenzauber",
     "chapters": [
       {
         "start": 969,
-        "author": "Kroll"
+        "end": 971,
+        "author": "Kroll."
       }
     ]
   },
@@ -14986,18 +15130,20 @@
     "lemma": "Manalphus",
     "previous": "Μάναλιν",
     "next": "Manambis",
+    "proof_read": 0,
     "short_description": "Arabisch-nabatäischer Gott",
     "chapters": [
       {
         "start": 971,
-        "author": "Preisendanz"
+        "end": 971,
+        "author": "Preisendanz."
       }
     ]
   },
   {
     "lemma": "Manambis",
     "previous": "Manalphus",
-    "next": "Mananalis",
+    "next": "Μανανάλις",
     "redirect": "Menambis",
     "proof_read": 2,
     "chapters": [
@@ -15008,43 +15154,52 @@
     ]
   },
   {
-    "lemma": "Mananalis",
+    "lemma": "Μανανάλις",
     "previous": "Manambis",
-    "next": "Manapia",
+    "next": "Μαναπία",
+    "sort_key": "Mananalis",
+    "proof_read": 0,
     "short_description": "Dorf in Armenien",
     "chapters": [
       {
         "start": 971,
-        "author": "Honigmann"
+        "end": 972,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Manapia",
-    "previous": "Mananalis",
-    "next": "Manapioi",
+    "lemma": "Μαναπία",
+    "previous": "Μανανάλις",
+    "next": "Μανάπιοι",
+    "sort_key": "Manapia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 972,
-        "author": "MacDonald"
+        "end": 972,
+        "author": "MacDonald."
       }
     ]
   },
   {
-    "lemma": "Manapioi",
-    "previous": "Manapia",
+    "lemma": "Μανάπιοι",
+    "previous": "Μαναπία",
     "next": "Manarmanis portus",
+    "sort_key": "Manapioi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 972,
-        "author": "MacDonald"
+        "end": 972,
+        "author": "MacDonald."
       }
     ]
   },
   {
     "lemma": "Manarmanis portus",
-    "previous": "Manapioi",
-    "next": "Manasse 1",
+    "previous": "Μανάπιοι",
+    "next": "Manasse",
     "redirect": "Mararmanis portus",
     "proof_read": 2,
     "chapters": [
@@ -15055,14 +15210,30 @@
     ]
   },
   {
-    "lemma": "Manasse 1",
+    "lemma": "Manasse",
     "previous": "Manarmanis portus",
+    "next": "Manasse 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 972,
+        "end": 972,
+        "author": "Hölscher."
+      }
+    ]
+  },
+  {
+    "lemma": "Manasse 1",
+    "previous": "Manasse",
     "next": "Manasse 2",
+    "proof_read": 0,
     "short_description": "Name eines israelit. Stammes",
     "chapters": [
       {
         "start": 972,
-        "author": "Hölscher"
+        "end": 984,
+        "author": "Hölscher."
       }
     ]
   },
@@ -15128,11 +15299,13 @@
     "lemma": "Manates",
     "previous": "Manasse 5",
     "next": "Manavat",
+    "proof_read": 0,
     "short_description": "Im Verzeichnis untergegangener Latinerstädten (Plin. nat.), = Sanates",
     "chapters": [
       {
         "start": 985,
-        "author": "Philipp"
+        "end": 987,
+        "author": "Philipp."
       }
     ]
   },
@@ -15140,11 +15313,13 @@
     "lemma": "Manavat",
     "previous": "Manates",
     "next": "Manavi",
+    "proof_read": 0,
     "short_description": "Deus patrius in Palmyra",
     "chapters": [
       {
         "start": 987,
-        "author": "Preisendanz"
+        "end": 987,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -15152,10 +15327,12 @@
     "lemma": "Manavi",
     "previous": "Manavat",
     "next": "Manavia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 987,
-        "author": "MacDonald"
+        "end": 987,
+        "author": "MacDonald."
       }
     ]
   },
@@ -15176,11 +15353,13 @@
     "lemma": "Manceps",
     "previous": "Manavia",
     "next": "Mancia",
+    "proof_read": 0,
     "short_description": "Pächter v. Staatseinnahmen, öffentlicher Arbeiten, Naturalien o.ä.",
     "chapters": [
       {
         "start": 987,
-        "author": "Weissbach"
+        "end": 998,
+        "author": "Weissbach."
       }
     ]
   },
@@ -15224,25 +15403,29 @@
   },
   {
     "lemma": "Mancipium",
-    "previous": "Mancipatio, mancipium",
-    "next": "Mancipatus",
+    "previous": "Mancipatus",
+    "next": "Mancunium",
+    "proof_read": 0,
     "short_description": "1. = mancipatio, 2. Hörigkeitsverhältnis eines röm./latin. Bürgers (Bürgerin)",
     "chapters": [
       {
-        "start": 1009,
-        "author": "Steinwenter"
+        "start": 1010,
+        "end": 1014,
+        "author": "Steinwenter."
       }
     ]
   },
   {
     "lemma": "Mancipatus",
-    "previous": "Mancipium",
-    "next": "Mancunium",
+    "previous": "Mancipatio",
+    "next": "Mancipium",
+    "proof_read": 0,
     "short_description": "Das munus eines manceps",
     "chapters": [
       {
         "start": 1010,
-        "author": "Steinwenter"
+        "end": 1010,
+        "author": "Steinwenter."
       }
     ]
   },
@@ -15263,10 +15446,12 @@
     "lemma": "Mandaei",
     "previous": "Mancunium",
     "next": "Mandaeth",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1014,
-        "author": "Herrmann"
+        "end": 1014,
+        "author": "Herrmann."
       }
     ]
   },
@@ -15287,40 +15472,47 @@
     "lemma": "Mandagara 1",
     "previous": "Mandaeth",
     "next": "Mandagara 2",
+    "proof_read": 0,
     "short_description": "Stadt an d. W-Küste Vorderindiens",
     "chapters": [
       {
         "start": 1014,
-        "author": "Herrmann"
+        "end": 1014,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Mandagara 2",
     "previous": "Mandagara 1",
-    "next": "Mandagarsis",
+    "next": "Μανδαγαρσίς",
+    "proof_read": 0,
     "short_description": "Stadt im inneren Medien",
     "chapters": [
       {
         "start": 1014,
-        "author": "Weissbach"
+        "end": 1014,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Mandagarsis",
+    "lemma": "Μανδαγαρσίς",
     "previous": "Mandagara 2",
     "next": "Mandaith",
+    "sort_key": "Mandagarsis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1014,
-        "author": "Weissbach"
+        "end": 1014,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Mandaith",
-    "previous": "Mandagarsis",
+    "previous": "Μανδαγαρσίς",
     "next": "Mandakanda",
     "chapters": [
       {
