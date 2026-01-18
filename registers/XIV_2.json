@@ -1140,7 +1140,7 @@
   {
     "lemma": "Maraba Metropolis",
     "previous": "Marabadus",
-    "next": "Marabina",
+    "next": "Μαράβινα",
     "redirect": "Mara 2",
     "proof_read": 2,
     "chapters": [
@@ -1151,20 +1151,23 @@
     ]
   },
   {
-    "lemma": "Marabina",
+    "lemma": "Μαράβινα",
     "previous": "Maraba Metropolis",
     "next": "Marabios",
-    "short_description": "Ort",
+    "sort_key": "Marabina",
+    "proof_read": 2,
+    "short_description": "Marabina, Stadt in dem Innern Cyrenaikas",
     "chapters": [
       {
         "start": 1421,
-        "author": "Schwabe"
+        "end": 1421,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Marabios",
-    "previous": "Marabina",
+    "previous": "Μαράβινα",
     "next": "Maraccas",
     "redirect": "Marubios",
     "proof_read": 2,
@@ -1219,11 +1222,14 @@
     "lemma": "Maraeu insulae",
     "previous": "Maracinus",
     "next": "Maraeus",
+    "sort_key": "Maraeuinsulae",
+    "proof_read": 2,
     "short_description": "Inselgruppe im arabischen Golf",
     "chapters": [
       {
         "start": 1421,
-        "author": "Schwabe"
+        "end": 1421,
+        "author": "Schwabe."
       }
     ]
   },
@@ -1389,48 +1395,59 @@
   {
     "lemma": "Maranitani",
     "previous": "Marane",
-    "next": "Maranthis",
-    "short_description": "Arabischer Stamm an der W-Küste von Arabia Felix",
+    "next": "Μαρανθίς",
+    "proof_read": 0,
+    "short_description": "arabischer Stamm an der Westküste von Arabia Felix",
     "chapters": [
       {
         "start": 1423,
-        "author": "Grohmann"
+        "end": 1424,
+        "author": "Grohmann."
       }
     ]
   },
   {
-    "lemma": "Maranthis",
+    "lemma": "Μαρανθίς",
     "previous": "Maranitani",
-    "next": "Maraotaton kome",
-    "short_description": "Ort",
+    "next": "Μαραωτάτων κώμη",
+    "sort_key": "Maranthis",
+    "proof_read": 2,
+    "short_description": "Maranthis, Ort im inneren Cyrenaika",
     "chapters": [
       {
         "start": 1424,
-        "author": "Schwabe"
+        "end": 1424,
+        "author": "Schwabe."
       }
     ]
   },
   {
-    "lemma": "Maraotaton kome",
-    "previous": "Maranthis",
+    "lemma": "Μαραωτάτων κώμη",
+    "previous": "Μαρανθίς",
     "next": "Μαράφιοι",
-    "short_description": "Ort",
+    "sort_key": "Maraotatonkome",
+    "proof_read": 0,
+    "short_description": "Maraotaton kome, Dorf in Syria II",
     "chapters": [
       {
         "start": 1424,
-        "author": "Honigmann"
+        "end": 1424,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Μαράφιοι",
-    "previous": "Maraotaton kome",
+    "previous": "Μαραωτάτων κώμη",
     "next": "Maraphios",
-    "short_description": "Stamm der Perser",
+    "sort_key": "Maraphioi",
+    "proof_read": 0,
+    "short_description": "Maraphioi, Stamm der Perser",
     "chapters": [
       {
         "start": 1424,
-        "author": "Weissbach"
+        "end": 1425,
+        "author": "Weissbach."
       }
     ]
   },
@@ -1687,11 +1704,13 @@
     "lemma": "Marazanae",
     "previous": "Μάρατον Ζαβδάλης",
     "next": "Marbathimas",
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Stadt in Byzacium, an der Straße Sufes–Hadrumetum",
     "chapters": [
       {
         "start": 1436,
-        "author": "Schwabe"
+        "end": 1436,
+        "author": "Schwabe."
       }
     ]
   },
@@ -3655,11 +3674,13 @@
     "lemma": "Marchubi",
     "previous": "Marcheschet",
     "next": "Marci",
+    "proof_read": 2,
     "short_description": "Volk in der Provincia Africa",
     "chapters": [
       {
         "start": 1503,
-        "author": "Schwabe"
+        "end": 1503,
+        "author": "Schwabe."
       }
     ]
   },
@@ -7636,11 +7657,14 @@
     "lemma": "Μάρδοι",
     "previous": "Mardocha",
     "next": "Μαρδοκέμπαδος",
-    "short_description": "Verschiedene Volksstäme in Vorderasien",
+    "sort_key": "Mardoi",
+    "proof_read": 0,
+    "short_description": "Mardoi, verschiedene Volksstäme in Vorderasien",
     "chapters": [
       {
         "start": 1648,
-        "author": "Weissbach"
+        "end": 1651,
+        "author": "Weissbach."
       }
     ]
   },
@@ -7743,7 +7767,7 @@
   {
     "lemma": "Mardontes",
     "previous": "Mardonios 3",
-    "next": "Μάρδου λιμήν",
+    "next": "Mardou limen",
     "proof_read": 0,
     "short_description": "Person",
     "chapters": [
@@ -7770,11 +7794,13 @@
     "lemma": "Marduk",
     "previous": "Mardou limen",
     "next": "Μαρδουλάμνη",
+    "proof_read": 0,
     "short_description": "Hauptgott von Babylonien",
     "chapters": [
       {
         "start": 1658,
-        "author": "Ebeling"
+        "end": 1672,
+        "author": "Ebeling."
       }
     ]
   },
@@ -16735,7 +16761,7 @@
   },
   {
     "lemma": "Masunas",
-    "previous": "Μασουχίς",
+    "previous": "Mastya Milesiorum",
     "next": "Masuonum",
     "proof_read": 0,
     "short_description": "Maurischer König",
@@ -17014,7 +17040,7 @@
   },
   {
     "lemma": "Maternianus 1",
-    "previous": "Materna",
+    "previous": "Materina plaga",
     "next": "Maternianus 2",
     "proof_read": 0,
     "short_description": "Gezeius Largus, Legatus procos. Africae",
@@ -17420,7 +17446,7 @@
   {
     "lemma": "Ματιηνοί 1",
     "previous": "Matidianus",
-    "next": "Ματιηνοί 2",
+    "next": "Matienoi 2",
     "sort_key": "Matienoi 1",
     "redirect": "Matiane",
     "proof_read": 2,
@@ -17432,7 +17458,7 @@
     ]
   },
   {
-    "lemma": "Ματιηνοί 2",
+    "lemma": "Matienoi 2",
     "previous": "Ματιηνοί 1",
     "next": "Matienus 1",
     "short_description": "Volk am rechten Ufer des oberen Halys",
@@ -17445,7 +17471,7 @@
   },
   {
     "lemma": "Matienus 1",
-    "previous": "Ματιηνοί 2",
+    "previous": "Matienoi 2",
     "next": "Matienus 2",
     "proof_read": 0,
     "short_description": "Auf Münzen 196-173 v. Chr. belegt",

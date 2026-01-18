@@ -1765,7 +1765,7 @@
   {
     "lemma": "Macar(i)us 12",
     "previous": "Macar(i)us 11",
-    "next": "Macar(i)us 13",
+    "next": "Macarius 13",
     "proof_read": 2,
     "short_description": "vir clarissimus mit Asterius, cos. 494 n. Chr. beteiligt an Vergilemendation",
     "no_creative_height": true,
@@ -1778,7 +1778,7 @@
     ]
   },
   {
-    "lemma": "Macar(i)us 13",
+    "lemma": "Macarius 13",
     "previous": "Macar(i)us 12",
     "next": "Macatus",
     "proof_read": 0,
@@ -1793,7 +1793,7 @@
   },
   {
     "lemma": "Macatus",
-    "previous": "Macar(i)us 13",
+    "previous": "Macarius 13",
     "next": "Macatutae",
     "redirect": "Livius 24",
     "proof_read": 2,
@@ -3529,8 +3529,10 @@
     "lemma": "Macrobius 5a",
     "previous": "Macrobius 4a",
     "next": "Macrobius 4b",
+    "sort_key": "Macrobius 4aa",
     "redirect": "Longinianus 2",
     "proof_read": 0,
+    "short_description": "Fl. Macrobius Longinianus",
     "chapters": [
       {
         "start": 169,
@@ -3544,7 +3546,8 @@
     "previous": "Macrobius 4b",
     "next": "Macrobius 6",
     "redirect": "Maximianus 8",
-    "proof_read": 0,
+    "proof_read": 2,
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 170,
@@ -7043,7 +7046,7 @@
   {
     "lemma": "Magna",
     "previous": "Μαγλούλων",
-    "next": "Magna(e), Magni",
+    "next": "Magna Mater",
     "proof_read": 0,
     "chapters": [
       {
@@ -7733,7 +7736,7 @@
   {
     "lemma": "Magnus 16",
     "previous": "Magnus 15",
-    "next": "Magnus 16",
+    "next": "Magnus 17",
     "redirect": "Ausonius 3",
     "proof_read": 2,
     "chapters": [
@@ -8900,7 +8903,7 @@
   {
     "lemma": "Maiae",
     "previous": "Maiadeus",
-    "next": "Maiandrides",
+    "next": "Μαιανδρίδης",
     "proof_read": 0,
     "short_description": "Dreiheit keltischer Göttinnen",
     "chapters": [
@@ -8912,7 +8915,7 @@
     ]
   },
   {
-    "lemma": "Maiandrides",
+    "lemma": "Μαιανδρίδης",
     "previous": "Maiae",
     "next": "Maiandrios 1",
     "sort_key": "Maiandrides",
@@ -8928,7 +8931,7 @@
   },
   {
     "lemma": "Maiandrios 1",
-    "previous": "Maiandrides",
+    "previous": "Μαιανδρίδης",
     "next": "Maiandrios 2",
     "proof_read": 0,
     "short_description": "Tyrann v. Samos, Sekretär d. Polykrates",
@@ -12455,8 +12458,9 @@
   {
     "lemma": "Maleros",
     "previous": "Malerei",
-    "next": "Μαλέου κῶλον",
+    "next": "Maleventum",
     "proof_read": 0,
+    "short_description": "Epiklesis des Hephaistos",
     "chapters": [
       {
         "start": 898,
@@ -12468,7 +12472,7 @@
   {
     "lemma": "Maleventum",
     "previous": "Maleros",
-    "next": "Maleu kolon",
+    "next": "Μαλέου κῶλον",
     "sort_key": "Maleuentum",
     "redirect": "Beneventum 2",
     "proof_read": 2,
@@ -12480,23 +12484,26 @@
     ]
   },
   {
-    "lemma": "Maleu kolon",
-    "previous": "Maleventum",
+    "lemma": "Μαλέου κῶλον",
+    "previous": "Maleros",
     "next": "Maleus",
-    "short_description": "akra",
+    "sort_key": "Maleukolon",
+    "proof_read": 0,
+    "short_description": "Maleu kolon, Vorgebirge in India extra Gangem",
     "chapters": [
       {
         "start": 898,
-        "author": "Herrmann"
+        "end": 898,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Maleus",
-    "previous": "Maleu kolon",
+    "previous": "Μαλέου κῶλον",
     "next": "Malgis",
     "proof_read": 2,
-    "short_description": "ein Gebirge im südlichsten Teil Vorderindiens, wo im Sommer der Schatten gegen",
+    "short_description": "Gebirge im südlichsten Teil Vorderindiens",
     "chapters": [
       {
         "start": 898,
@@ -15499,9 +15506,10 @@
   {
     "lemma": "Μανδαγαρσίς",
     "previous": "Mandagara 2",
-    "next": "Mandaith",
+    "next": "Μανδαΐθ",
     "sort_key": "Mandagarsis",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Mandagarsis, medische Stadt, Südküste Kaspi-See",
     "chapters": [
       {
         "start": 1014,
@@ -15511,24 +15519,31 @@
     ]
   },
   {
-    "lemma": "Mandaith",
+    "lemma": "Μανδαΐθ",
     "previous": "Μανδαγαρσίς",
     "next": "Mandakanda",
+    "sort_key": "Mandaith",
+    "proof_read": 0,
+    "short_description": "Mandaith, Stadt an der Ostküste von Aethiopia infra Aegyptum",
     "chapters": [
       {
         "start": 1014,
-        "author": "Schwabe"
+        "end": 1014,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Mandakanda",
-    "previous": "Mandaith",
+    "previous": "Μανδαΐθ",
     "next": "Mandalai",
+    "proof_read": 0,
+    "short_description": "Ort in Mysien",
     "chapters": [
       {
         "start": 1014,
-        "author": "Ruge"
+        "end": 1014,
+        "author": "Ruge."
       }
     ]
   },
@@ -15536,10 +15551,12 @@
     "lemma": "Mandalai",
     "previous": "Mandakanda",
     "next": "Mandalum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1014,
-        "author": "Herrmann"
+        "end": 1014,
+        "author": "Herrmann."
       }
     ]
   },
@@ -15547,10 +15564,13 @@
     "lemma": "Mandalum",
     "previous": "Mandalai",
     "next": "Mandane 1",
+    "proof_read": 2,
+    "short_description": "See an der äthiopischen Ostküste",
     "chapters": [
       {
         "start": 1014,
-        "author": "Schwabe"
+        "end": 1015,
+        "author": "Schwabe."
       }
     ]
   },
@@ -15572,11 +15592,13 @@
     "lemma": "Mandane 2",
     "previous": "Mandane 1",
     "next": "Mandanis",
+    "proof_read": 0,
     "short_description": "Ort an d. kilikischen Küste",
     "chapters": [
       {
         "start": 1015,
-        "author": "Ruge"
+        "end": 1015,
+        "author": "Ruge."
       }
     ]
   },
@@ -15611,11 +15633,13 @@
     "lemma": "Mandatum",
     "previous": "Mandarei",
     "next": "Mandei",
+    "proof_read": 0,
     "short_description": "Willenserklärung als privatrechtl. t.t. Übertragung amtl. Befugnisse",
     "chapters": [
       {
         "start": 1015,
-        "author": "Kreller"
+        "end": 1025,
+        "author": "Kreller."
       }
     ]
   },
@@ -15637,10 +15661,12 @@
     "lemma": "Mandela",
     "previous": "Mandei",
     "next": "Mandelbaum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1025,
-        "author": "Philipp"
+        "end": 1025,
+        "author": "Philipp."
       }
     ]
   },
@@ -15689,10 +15715,14 @@
     "lemma": "Μάνδοροι",
     "previous": "Mandonius",
     "next": "Mandra 1",
+    "sort_key": "Mandoroi",
+    "proof_read": 0,
+    "short_description": "Mandoroi, unbekannter Volksstamm in Libya interior",
     "chapters": [
       {
         "start": 1026,
-        "author": "Schwabe"
+        "end": 1026,
+        "author": "Schwabe."
       }
     ]
   },
@@ -15700,11 +15730,13 @@
     "lemma": "Mandra 1",
     "previous": "Μάνδοροι",
     "next": "Mandra 2",
-    "short_description": "Eingeschlossener Raum, bes. Hürde für Vieh, Stall",
+    "proof_read": 0,
+    "short_description": "eingeschlossener Raum, Hürde für Vieh, Stall",
     "chapters": [
       {
         "start": 1026,
-        "author": "Schuster"
+        "end": 1027,
+        "author": "Maur. Schuster."
       }
     ]
   },
@@ -15712,11 +15744,13 @@
     "lemma": "Mandra 2",
     "previous": "Mandra 1",
     "next": "Mandrabulos",
+    "proof_read": 0,
     "short_description": "Ort in d. Nähe v. Bethlehem",
     "chapters": [
       {
         "start": 1028,
-        "author": "Hölscher"
+        "end": 1028,
+        "author": "Hölscher."
       }
     ]
   },
@@ -15751,11 +15785,13 @@
     "lemma": "Mandragoras 1",
     "previous": "Mandragaeum",
     "next": "Mandragoras 2",
+    "proof_read": 0,
     "short_description": "Pflanzenart mit aphrodisischer u. narkotischer Wirkung",
     "chapters": [
       {
         "start": 1028,
-        "author": "Steier"
+        "end": 1037,
+        "author": "Steier."
       }
     ]
   },
@@ -15763,11 +15799,13 @@
     "lemma": "Mandragoras 2",
     "previous": "Mandragoras 1",
     "next": "Mandragoritis",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Zeus",
     "chapters": [
       {
         "start": 1038,
-        "author": "Kruse"
+        "end": 1038,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -15788,11 +15826,13 @@
     "lemma": "Mandrai",
     "previous": "Mandragoritis",
     "next": "Mandrakion",
+    "proof_read": 0,
     "short_description": "Bistum in d. eparchia Hellespontou",
     "chapters": [
       {
         "start": 1038,
-        "author": "Ruge"
+        "end": 1038,
+        "author": "Ruge."
       }
     ]
   },
@@ -15814,10 +15854,13 @@
     "lemma": "Mandre (-os?)",
     "previous": "Mandrakion",
     "next": "Mandres",
+    "sort_key": "Mandre(-os?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1038,
-        "author": "Ruge"
+        "end": 1039,
+        "author": "Ruge."
       }
     ]
   },
@@ -15838,10 +15881,13 @@
     "lemma": "Mandri fons",
     "previous": "Mandres",
     "next": "Mandrobulos",
+    "sort_key": "Mandrifons",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1039,
-        "author": "Ruge"
+        "end": 1039,
+        "author": "Ruge."
       }
     ]
   },
@@ -16019,10 +16065,12 @@
     "lemma": "Mandropolis",
     "previous": "Μάνδρον 3",
     "next": "Mandros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1042,
-        "author": "Ruge"
+        "end": 1042,
+        "author": "Ruge."
       }
     ]
   },
@@ -16030,11 +16078,13 @@
     "lemma": "Mandros",
     "previous": "Mandropolis",
     "next": "Mandruani",
+    "proof_read": 0,
     "short_description": "Vorderasiat. Gottheit",
     "chapters": [
       {
         "start": 1042,
-        "author": "Burckhardt"
+        "end": 1043,
+        "author": "Burckhardt."
       }
     ]
   },
@@ -16058,11 +16108,13 @@
     "lemma": "Mandubii",
     "previous": "Mandruani",
     "next": "Mandubracius",
+    "proof_read": 0,
     "short_description": "Kleine gall. Völkerschaft mit Alesia als Hauptstadt",
     "chapters": [
       {
         "start": 1043,
-        "author": "Wackernagel"
+        "end": 1044,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -16083,34 +16135,40 @@
     "lemma": "Manducus",
     "previous": "Mandubracius",
     "next": "Manduessedum",
+    "proof_read": 0,
     "short_description": "Gestalt bei röm. Umzügen",
     "chapters": [
       {
         "start": 1044,
-        "author": "Diehl, Ernst"
+        "end": 1046,
+        "author": "Diehl."
       }
     ]
   },
   {
     "lemma": "Manduessedum",
     "previous": "Manducus",
-    "next": "Manduria",
+    "next": "Mandulis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1046,
-        "author": "MacDonald"
+        "end": 1046,
+        "author": "Macdonald."
       }
     ]
   },
   {
     "lemma": "Manduria",
-    "previous": "Manduessedum",
+    "previous": "Mandulis",
     "next": "Mandyas",
+    "proof_read": 0,
     "short_description": "Straßenstation 25 mp. von Tarent",
     "chapters": [
       {
         "start": 1046,
-        "author": "Philipp"
+        "end": 1046,
+        "author": "Philipp."
       }
     ]
   },
@@ -16118,11 +16176,13 @@
     "lemma": "Mandyas",
     "previous": "Manduria",
     "next": "Mandylas",
+    "proof_read": 0,
     "short_description": "Eine Art Mantel o. Überwurf gg. schlechtes Wetter",
     "chapters": [
       {
         "start": 1046,
-        "author": "Schuppe"
+        "end": 1047,
+        "author": "E. Schuppe."
       }
     ]
   },
@@ -16144,10 +16204,13 @@
     "lemma": "Manegordos (-on?)",
     "previous": "Mandylas",
     "next": "Manen(sis)",
+    "sort_key": "Manegordos(-on?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1048,
-        "author": "Ruge"
+        "end": 1048,
+        "author": "Ruge."
       }
     ]
   },
@@ -16170,11 +16233,13 @@
     "lemma": "Maneros",
     "previous": "Manen(sis)",
     "next": "Manes 1",
+    "proof_read": 0,
     "short_description": "Bezeichnung eines Liedes bei d. Ägyptern",
     "chapters": [
       {
         "start": 1048,
-        "author": "Rusch"
+        "end": 1050,
+        "author": "Rusch."
       }
     ]
   },
@@ -17024,10 +17089,13 @@
     "lemma": "Manimi",
     "previous": "Manimazos",
     "next": "Μανιόλαι νῆσοι",
+    "proof_read": 0,
+    "short_description": "ein Lugiervolk",
     "chapters": [
       {
         "start": 1145,
-        "author": "Schönfeld"
+        "end": 1145,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -17035,11 +17103,14 @@
     "lemma": "Μανιόλαι νῆσοι",
     "previous": "Manimi",
     "next": "Manippos",
-    "short_description": "Inselgruppe südl. v. Sinus Gangeticus",
+    "sort_key": "Maniolai nesoi",
+    "proof_read": 0,
+    "short_description": "Maniolai nesoi, Inselgruppe südl. vom Sinus Gangeticus",
     "chapters": [
       {
         "start": 1145,
-        "author": "Herrmann"
+        "end": 1146,
+        "author": "Herrmann."
       }
     ]
   },
@@ -17793,7 +17864,7 @@
   {
     "lemma": "Manlius 43",
     "previous": "Manlius 42",
-    "next": "Manlius 44",
+    "next": "Manlius 43ff.",
     "proof_read": 0,
     "short_description": "Acidinus Consularischer Kriegstribun 171 v. Chr. unter dem Consul P. Licinius",
     "chapters": [
@@ -18921,11 +18992,13 @@
     "lemma": "Mannus",
     "previous": "Mannucius",
     "next": "Manocho",
+    "proof_read": 0,
     "short_description": "mannulus, kleine Pferdeart",
     "chapters": [
       {
         "start": 1228,
-        "author": "Schuster"
+        "end": 1231,
+        "author": "Maur. Schuster."
       }
     ]
   },
@@ -18967,35 +19040,44 @@
   {
     "lemma": "Μάνραλοι 1",
     "previous": "Manos",
-    "next": "Manraloi 2",
-    "short_description": "Volk im Innern v. Kolchis",
+    "next": "Μάνραλοι 2",
+    "sort_key": "Manraloi 1",
+    "proof_read": 0,
+    "short_description": "Manraloi, unbekanntes Volk in Libyen",
     "chapters": [
       {
         "start": 1231,
-        "author": "Herrmann"
+        "end": 1231,
+        "author": "Schwabe."
       }
     ]
   },
   {
-    "lemma": "Manraloi 2",
+    "lemma": "Μάνραλοι 2",
     "previous": "Μάνραλοι 1",
     "next": "Manroballe",
-    "short_description": "(Mauraloi) Unbekanntes Volk in Libyen",
+    "sort_key": "Manraloi 2",
+    "proof_read": 2,
+    "short_description": "Manraloi, Volk im Innern von Kolchis, heute Mingrelien",
     "chapters": [
       {
         "start": 1231,
-        "author": "Schwabe"
+        "end": 1231,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Manroballe",
-    "previous": "Manraloi 2",
+    "previous": "Μάνραλοι 2",
     "next": "Mansa",
+    "proof_read": 2,
+    "short_description": "Kastell in Mösien an der Donau",
     "chapters": [
       {
         "start": 1231,
-        "author": "Fluss"
+        "end": 1231,
+        "author": "Fluss."
       }
     ]
   },
@@ -19278,11 +19360,14 @@
     "lemma": "Μαντιανὴ λίμνη",
     "previous": "Manthyrea",
     "next": "Mantias 1",
-    "short_description": "he -, s. Kapauta Matianoi",
+    "sort_key": "Matiane limne",
+    "proof_read": 2,
+    "short_description": "Matiane limne, s. Kapauta und Matianoi",
     "chapters": [
       {
         "start": 1256,
-        "author": "Weissbach"
+        "end": 1256,
+        "author": "Weissbach."
       }
     ]
   },
