@@ -1,7 +1,7 @@
 [
   {
     "lemma": "Mantikles",
-    "previous": "Mantike",
+    "previous": "Μαντική",
     "next": "Mantiklos 1",
     "proof_read": 2,
     "short_description": "Sohn des Sosikrates, Steinmetz in Sparta 1. Jhdt. v. Chr.",
@@ -1826,7 +1826,7 @@
   },
   {
     "lemma": "Μάρατον Ζαβδάλης",
-    "previous": "Marato kome",
+    "previous": "Μαρατὼ",
     "next": "Marazanae",
     "sort_key": "Maraton Zabdales",
     "proof_read": 2,
@@ -3883,7 +3883,7 @@
   },
   {
     "lemma": "Marcia aqua",
-    "previous": "Marci",
+    "previous": "Marcia",
     "next": "Marciana 1",
     "sort_key": "Marciaaqua",
     "proof_read": 0,
@@ -8039,7 +8039,7 @@
   {
     "lemma": "Μαρδουλάμνη",
     "previous": "Marduk",
-    "next": "Mardyene",
+    "next": "Μαρδυηνή",
     "sort_key": "Mardulamne",
     "redirect": "Μάρδου λιμήν",
     "proof_read": 2,
@@ -8051,32 +8051,37 @@
     ]
   },
   {
-    "lemma": "Mardyene",
+    "lemma": "Μαρδυηνή",
     "previous": "Μαρδουλάμνη",
-    "next": "Mardyenoi",
+    "next": "Μαρδυηνοί",
+    "sort_key": "Mardyene",
+    "proof_read": 0,
     "short_description": "Landschaft in Persien",
     "chapters": [
       {
         "start": 1672,
-        "author": "Weissbach"
+        "end": 1672,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Mardyenoi",
-    "previous": "Mardyene",
-    "next": "Mare adrianum",
+    "lemma": "Μαρδυηνοί",
+    "previous": "Μαρδυηνή",
+    "next": "Mare Adrianum",
+    "proof_read": 0,
     "short_description": "Volksstamm in Sogdiana",
     "chapters": [
       {
         "start": 1672,
-        "author": "Weissbach"
+        "end": 1672,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Mare adrianum",
-    "previous": "Mardyenoi",
+    "lemma": "Mare Adrianum",
+    "previous": "Μαρδυηνοί",
     "next": "Mare Adriaticum",
     "redirect": "Mare Superum",
     "proof_read": 2,
@@ -8089,8 +8094,8 @@
   },
   {
     "lemma": "Mare Adriaticum",
-    "previous": "Mare adrianum",
-    "next": "Mare Atlanticum",
+    "previous": "Mare Adrianum",
+    "next": "Mare Ausonium",
     "redirect": "Mare Superum",
     "proof_read": 2,
     "chapters": [
@@ -8102,8 +8107,8 @@
   },
   {
     "lemma": "Mare Atlanticum",
-    "previous": "Mare Adriaticum",
-    "next": "Mare Ausonium",
+    "previous": "Mare Ausonium",
+    "next": "Mare Etruscum",
     "redirect": "Mare nostrum",
     "proof_read": 2,
     "chapters": [
@@ -8115,8 +8120,8 @@
   },
   {
     "lemma": "Mare Ausonium",
-    "previous": "Mare Atlanticum",
-    "next": "Mare Etruscum",
+    "previous": "Mare Adriaticum",
+    "next": "Mare Atlanticum",
     "redirect": "Mare Superum",
     "proof_read": 2,
     "chapters": [
@@ -8128,8 +8133,8 @@
   },
   {
     "lemma": "Mare Etruscum",
-    "previous": "Mare Ausonium",
-    "next": "Mare inferum",
+    "previous": "Mare Atlanticum",
+    "next": "Mare Inferum",
     "redirect": "Mare Superum",
     "proof_read": 2,
     "chapters": [
@@ -8140,7 +8145,7 @@
     ]
   },
   {
-    "lemma": "Mare inferum",
+    "lemma": "Mare Inferum",
     "previous": "Mare Etruscum",
     "next": "Mare internum",
     "redirect": "Mare Superum",
@@ -8154,7 +8159,7 @@
   },
   {
     "lemma": "Mare internum",
-    "previous": "Mare inferum",
+    "previous": "Mare Inferum",
     "next": "Mare intestinum",
     "redirect": "Mare nostrum",
     "proof_read": 2,
@@ -8195,11 +8200,14 @@
     "lemma": "Mare nostrum",
     "previous": "Mare mediterraneum",
     "next": "Mare Siculum",
+    "sort_key": "Marenostrum",
+    "proof_read": 0,
     "short_description": "Mittelmeer",
     "chapters": [
       {
         "start": 1672,
-        "author": "Philipp"
+        "end": 1673,
+        "author": "Philipp."
       }
     ]
   },
@@ -8219,30 +8227,36 @@
   {
     "lemma": "Mare Superum",
     "previous": "Mare Siculum",
-    "next": "Marea, Mareotis",
+    "next": "Mare Tuscum",
+    "sort_key": "Maresuperum",
+    "proof_read": 0,
     "short_description": "Die beiden Meere, die Italien umgeben",
     "chapters": [
       {
         "start": 1673,
-        "author": "Philipp"
+        "end": 1676,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Marea, Mareotis",
-    "previous": "Mare Superum",
+    "previous": "Mare Tyrrenum",
     "next": "Mare Tuscum",
+    "sort_key": "Marea,mareotis",
+    "proof_read": 0,
     "short_description": "Ort im NW von Unterägypten",
     "chapters": [
       {
         "start": 1676,
-        "author": "Kees"
+        "end": 1678,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Mare Tuscum",
-    "previous": "Marea, Mareotis",
+    "previous": "Mare Superum",
     "next": "Mare Tyrrenum",
     "redirect": "Mare Superum",
     "proof_read": 2,
@@ -8256,7 +8270,7 @@
   {
     "lemma": "Mare Tyrrenum",
     "previous": "Mare Tuscum",
-    "next": "Mareades 1",
+    "next": "Marea, Mareotis",
     "redirect": "Mare Superum",
     "proof_read": 2,
     "chapters": [
@@ -8297,11 +8311,13 @@
     "lemma": "Mareala",
     "previous": "Mareades 2",
     "next": "Mareas 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1678,
-        "author": "Hölscher"
+        "end": 1678,
+        "author": "Hölscher."
       }
     ]
   },
@@ -8351,11 +8367,13 @@
     "lemma": "Mareburgu",
     "previous": "Mareas 3",
     "next": "Mareïtha",
+    "proof_read": 0,
     "short_description": "Kastell an der Donau",
     "chapters": [
       {
         "start": 1678,
-        "author": "Fluss"
+        "end": 1679,
+        "author": "Fluss."
       }
     ]
   },
@@ -8363,11 +8381,13 @@
     "lemma": "Mareïtha",
     "previous": "Mareburgu",
     "next": "Marelibata",
+    "proof_read": 0,
     "short_description": "Gebirge in Mittelarabien und Arabia Felix",
     "chapters": [
       {
         "start": 1679,
-        "author": "Grohmann"
+        "end": 1680,
+        "author": "Grohmann."
       }
     ]
   },
@@ -8375,11 +8395,13 @@
     "lemma": "Marelibata",
     "previous": "Mareïtha",
     "next": "Mareotis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1680,
-        "author": "Grohmann"
+        "end": 1680,
+        "author": "Grohmann."
       }
     ]
   },
@@ -8547,11 +8569,13 @@
     "lemma": "Marganeis",
     "previous": "Margana 2",
     "next": "Margara",
+    "proof_read": 0,
     "short_description": "Gemeinde am rechten Alpheiosufer",
     "chapters": [
       {
         "start": 1680,
-        "author": "Bölte"
+        "end": 1682,
+        "author": "Bölte."
       }
     ]
   },
@@ -8559,11 +8583,13 @@
     "lemma": "Margara",
     "previous": "Marganeis",
     "next": "Margaris",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1682,
-        "author": "Herrmann"
+        "end": 1682,
+        "author": "Herrmann."
       }
     ]
   },
@@ -8598,36 +8624,42 @@
   {
     "lemma": "Margarita 2",
     "previous": "Margarita 1",
-    "next": "Margaritai",
+    "next": "Μαργαρῖται",
+    "proof_read": 0,
     "short_description": "Hundename",
     "chapters": [
       {
         "start": 1682,
-        "author": "Rommel"
+        "end": 1682,
+        "author": "Rommel."
       }
     ]
   },
   {
-    "lemma": "Margaritai",
+    "lemma": "Μαργαρῖται",
     "previous": "Margarita 2",
     "next": "Margaritarius",
+    "proof_read": 0,
     "short_description": "Hauptname der echten Perlen",
     "chapters": [
       {
         "start": 1682,
-        "author": "Rommel"
+        "end": 1702,
+        "author": "Rommel."
       }
     ]
   },
   {
     "lemma": "Margaritarius",
-    "previous": "Margaritai",
+    "previous": "Μαργαρῖται",
     "next": "Μαργαρίτης 1",
+    "proof_read": 0,
     "short_description": "Perlenhändler",
     "chapters": [
       {
         "start": 1702,
-        "author": "Rommel"
+        "end": 1702,
+        "author": "Rommel."
       }
     ]
   },
@@ -8675,13 +8707,15 @@
   },
   {
     "lemma": "Margaron",
-    "previous": "Margarito",
-    "next": "Margarus",
+    "previous": "Margarus",
+    "next": "Μάργασοι",
+    "proof_read": 0,
     "short_description": "Siedlung Nordafrikas",
     "chapters": [
       {
         "start": 1702,
-        "author": "Treidler"
+        "end": 1703,
+        "author": "Treidler."
       }
     ]
   },
@@ -8702,7 +8736,7 @@
   {
     "lemma": "Margaroi",
     "previous": "Margarus",
-    "next": "Margastana",
+    "next": "Μαργάστανα",
     "short_description": "Volksstamm in Medien",
     "chapters": [
       {
@@ -8712,26 +8746,30 @@
     ]
   },
   {
-    "lemma": "Margastana",
-    "previous": "Margaroi",
+    "lemma": "Μαργάστανα",
+    "previous": "Μάργασοι",
     "next": "Margiana",
+    "proof_read": 0,
     "short_description": "Insel vor der Küste der Susiana",
     "chapters": [
       {
         "start": 1703,
-        "author": "Weissbach"
+        "end": 1703,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Margiana",
-    "previous": "Margastana",
+    "previous": "Μαργάστανα",
     "next": "Margidunum",
+    "proof_read": 0,
     "short_description": "Oestl. Landschaft des Achämenidenreiches",
     "chapters": [
       {
         "start": 1703,
-        "author": "Weissbach"
+        "end": 1704,
+        "author": "Weissbach."
       }
     ]
   },
@@ -8739,11 +8777,13 @@
     "lemma": "Margidunum",
     "previous": "Margiana",
     "next": "Margion",
+    "proof_read": 0,
     "short_description": "Ortschaft im römischen Britannien",
     "chapters": [
       {
         "start": 1704,
-        "author": "MacDonald"
+        "end": 1704,
+        "author": "MacDonald."
       }
     ]
   },
@@ -8751,11 +8791,13 @@
     "lemma": "Margion",
     "previous": "Margidunum",
     "next": "Margis",
+    "proof_read": 0,
     "short_description": "Früherer Name von Apollonia in Phrygien",
     "chapters": [
       {
         "start": 1704,
-        "author": "Ruge"
+        "end": 1704,
+        "author": "Ruge."
       }
     ]
   },
@@ -8776,11 +8818,13 @@
     "lemma": "Margites",
     "previous": "Margis",
     "next": "Margos 1",
+    "proof_read": 0,
     "short_description": "Komisches Epos",
     "chapters": [
       {
         "start": 1705,
-        "author": "Radermacher"
+        "end": 1708,
+        "author": "Radermacher."
       }
     ]
   },
@@ -8802,11 +8846,13 @@
     "lemma": "Margos 2",
     "previous": "Margos 1",
     "next": "Margum",
+    "proof_read": 0,
     "short_description": "Fluß in der Landschaft Margiana",
     "chapters": [
       {
         "start": 1709,
-        "author": "Weissbach"
+        "end": 1709,
+        "author": "Weissbach."
       }
     ]
   },
@@ -8827,11 +8873,13 @@
     "lemma": "Margus 1",
     "previous": "Margum",
     "next": "Margus 2",
+    "proof_read": 0,
     "short_description": "Befestigter Ort in Moesia superior",
     "chapters": [
       {
         "start": 1709,
-        "author": "Fluss"
+        "end": 1710,
+        "author": "Fluss."
       }
     ]
   },
@@ -8839,11 +8887,13 @@
     "lemma": "Margus 2",
     "previous": "Margus 1",
     "next": "Mari, Mares 1",
+    "proof_read": 0,
     "short_description": "Hauptfluß von Moesia superior",
     "chapters": [
       {
         "start": 1711,
-        "author": "Fluss"
+        "end": 1711,
+        "author": "Fluss."
       }
     ]
   },
@@ -8911,11 +8961,13 @@
     "lemma": "Maria 1",
     "previous": "Mari, Mares 4",
     "next": "Maria 2",
+    "proof_read": 0,
     "short_description": "Insel an der afrikanischen Küste des roten Meeres",
     "chapters": [
       {
         "start": 1712,
-        "author": "Grohmann"
+        "end": 1712,
+        "author": "Grohmann."
       }
     ]
   },
@@ -9014,11 +9066,13 @@
     "lemma": "Mariaba",
     "previous": "Maria 7",
     "next": "Mariades",
+    "proof_read": 0,
     "short_description": "Hauptstadt der Sabäer in Arabia Felix",
     "chapters": [
       {
         "start": 1713,
-        "author": "Grohmann"
+        "end": 1744,
+        "author": "Grohmann."
       }
     ]
   },
@@ -9040,11 +9094,13 @@
     "lemma": "Mariame 1",
     "previous": "Mariades",
     "next": "Mariame 2",
+    "proof_read": 0,
     "short_description": "Turm am Palast des Herodes in Jerusalem",
     "chapters": [
       {
         "start": 1745,
-        "author": "Hölscher"
+        "end": 1745,
+        "author": "Hölscher."
       }
     ]
   },
@@ -9065,11 +9121,13 @@
     "lemma": "Mariame 3",
     "previous": "Mariame 2",
     "next": "Mariame 4",
+    "proof_read": 0,
     "short_description": "Stadt in Syrien",
     "chapters": [
       {
         "start": 1745,
-        "author": "Honigmann"
+        "end": 1746,
+        "author": "Honigmann."
       }
     ]
   },
@@ -9077,11 +9135,13 @@
     "lemma": "Mariame 4",
     "previous": "Mariame 3",
     "next": "Mariana 1",
+    "proof_read": 0,
     "short_description": "Kome in Phoinike Libanesia",
     "chapters": [
       {
         "start": 1746,
-        "author": "Honigmann"
+        "end": 1746,
+        "author": "Honigmann."
       }
     ]
   },
@@ -9102,11 +9162,13 @@
     "lemma": "Mariana 2",
     "previous": "Mariana 1",
     "next": "Mariana 3",
+    "proof_read": 0,
     "short_description": "Ort im östl. Teil der Sierra Morena",
     "chapters": [
       {
         "start": 1746,
-        "author": "Schulten"
+        "end": 1747,
+        "author": "Schulten."
       }
     ]
   },
@@ -9141,18 +9203,20 @@
     "lemma": "Mariandynoi",
     "previous": "Mariana fossae",
     "next": "Mariandynos",
+    "proof_read": 0,
     "short_description": "Stamm in NW-Kleinasien",
     "chapters": [
       {
         "start": 1747,
-        "author": "Ruge"
+        "end": 1749,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Mariandynos",
     "previous": "Mariandynoi",
-    "next": "Mariane polis",
+    "next": "Μαριανὴ",
     "proof_read": 0,
     "short_description": "Heros Eponymos der Mariandyner in Bithynien",
     "chapters": [
@@ -9164,20 +9228,23 @@
     ]
   },
   {
-    "lemma": "Mariane polis",
+    "lemma": "Μαριανὴ",
     "previous": "Mariandynos",
     "next": "Μαριανόν ἄκρον",
+    "sort_key": "Marianepolis",
+    "proof_read": 0,
     "short_description": "Stadt auf Corsica",
     "chapters": [
       {
         "start": 1749,
-        "author": "Philipp"
+        "end": 1750,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Μαριανόν ἄκρον",
-    "previous": "Mariane polis",
+    "previous": "Μαριανὴ",
     "next": "Marianos",
     "sort_key": "Marianon akron",
     "proof_read": 0,
@@ -9570,11 +9637,14 @@
     "lemma": "Maribba Palmalacum",
     "previous": "Marianus mons",
     "next": "Μαριβώθ",
+    "sort_key": "Maribbapalmalacum",
+    "proof_read": 0,
     "short_description": "Stadt in Arabia Felix",
     "chapters": [
       {
         "start": 1753,
-        "author": "Grohmann"
+        "end": 1754,
+        "author": "Grohmann."
       }
     ]
   },
@@ -9596,11 +9666,13 @@
     "lemma": "Marica",
     "previous": "Μαριβώθ",
     "next": "Mariccus",
+    "proof_read": 0,
     "short_description": "Göttin, an der Lirismündung bei Minturnae verehrt",
     "chapters": [
       {
         "start": 1754,
-        "author": "Kroll"
+        "end": 1755,
+        "author": "Kroll."
       }
     ]
   },
@@ -9635,11 +9707,13 @@
     "lemma": "Maricla",
     "previous": "Marici",
     "next": "Maridius",
+    "proof_read": 0,
     "short_description": "Fluß, mündet bei Ariminum",
     "chapters": [
       {
         "start": 1756,
-        "author": "Philipp"
+        "end": 1756,
+        "author": "Philipp."
       }
     ]
   },
@@ -9661,11 +9735,13 @@
     "lemma": "Maridunum",
     "previous": "Maridius",
     "next": "Marienquelle",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1756,
-        "author": "MacDonald"
+        "end": 1756,
+        "author": "MacDonald."
       }
     ]
   },
@@ -9673,11 +9749,13 @@
     "lemma": "Marienquelle",
     "previous": "Maridunum",
     "next": "Marigarri",
+    "proof_read": 0,
     "short_description": "Quelle in Jerusalem",
     "chapters": [
       {
         "start": 1756,
-        "author": "Hölscher"
+        "end": 1756,
+        "author": "Hölscher."
       }
     ]
   },
@@ -10143,11 +10221,13 @@
     "lemma": "Marinus 13",
     "previous": "Marinus 12",
     "next": "Marinus 14",
+    "proof_read": 0,
     "short_description": "Praef. praet. II 519 n. Chr.",
     "chapters": [
       {
         "start": 1798,
-        "author": "Enßlin"
+        "end": 1800,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10490,11 +10570,13 @@
     "lemma": "Marion 1",
     "previous": "Mario",
     "next": "Marion 2",
+    "proof_read": 0,
     "short_description": "Stadt an der NW-Küste von Kypros",
     "chapters": [
       {
         "start": 1802,
-        "author": "Oberhummer"
+        "end": 1803,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -10530,7 +10612,7 @@
   {
     "lemma": "Marion 4",
     "previous": "Marion 3",
-    "next": "Marionis",
+    "next": "Μαριωνίς",
     "proof_read": 2,
     "short_description": "Episcopus von Kynopolis in Aegypten",
     "no_creative_height": true,
@@ -10543,26 +10625,30 @@
     ]
   },
   {
-    "lemma": "Marionis",
+    "lemma": "Μαριωνίς",
     "previous": "Marion 4",
     "next": "Marios",
+    "proof_read": 0,
     "short_description": "Stadt in Germanien",
     "chapters": [
       {
         "start": 1804,
-        "author": "Franke"
+        "end": 1804,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Marios",
-    "previous": "Marionis",
+    "previous": "Μαριωνίς",
     "next": "Maris 1",
+    "proof_read": 0,
     "short_description": "Eine der 18 eleutherolakonischen Städte",
     "chapters": [
       {
         "start": 1804,
-        "author": "Bölte"
+        "end": 1804,
+        "author": "Bölte."
       }
     ]
   },
@@ -10584,44 +10670,48 @@
     "lemma": "Maris 2",
     "previous": "Maris 1",
     "next": "Maris 3",
+    "proof_read": 0,
     "short_description": "Etruskischer Gott",
     "chapters": [
       {
         "start": 1805,
-        "author": "Fiesel"
+        "end": 1807,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Maris 3",
     "previous": "Maris 2",
-    "next": "Maris 4",
+    "next": "Maris 5",
+    "proof_read": 0,
     "short_description": "Fluß in Dakien",
     "chapters": [
       {
         "start": 1807,
-        "author": "Fluss"
+        "end": 1807,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Maris 4",
     "previous": "Maris 5",
-    "next": "Maris 5",
+    "next": "Mariscianus",
     "proof_read": 0,
     "short_description": "Bischof von Chalkedon",
     "chapters": [
       {
         "start": 1807,
-        "end": 1807,
+        "end": 1808,
         "author": "Enßlin."
       }
     ]
   },
   {
     "lemma": "Maris 5",
-    "previous": "Maris 4",
-    "next": "Mariscianus",
+    "previous": "Maris 3",
+    "next": "Maris 4",
     "proof_read": 2,
     "short_description": "Bischof von Doliche in der Euphratesia [sic]",
     "no_creative_height": true,
@@ -10679,11 +10769,13 @@
     "lemma": "Maris(s)a",
     "previous": "Marisia",
     "next": "Marisus",
+    "proof_read": 0,
     "short_description": "Ort in Palästina",
     "chapters": [
       {
         "start": 1808,
-        "author": "Hölscher"
+        "end": 1809,
+        "author": "Hölscher."
       }
     ]
   },
@@ -10719,11 +10811,13 @@
     "lemma": "Maritima 1",
     "previous": "Maritaios",
     "next": "Maritima 2",
+    "proof_read": 0,
     "short_description": "Stadt in Gallia Narbonensis",
     "chapters": [
       {
         "start": 1809,
-        "author": "Wackernagel"
+        "end": 1809,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -11981,11 +12075,13 @@
     "lemma": "Markod",
     "previous": "Markion",
     "next": "Markos 1",
+    "proof_read": 0,
     "short_description": "Beiname des Baal",
     "chapters": [
       {
         "start": 1852,
-        "author": "Ganschinietz"
+        "end": 1853,
+        "author": "Ganschinietz."
       }
     ]
   },
@@ -12082,7 +12178,7 @@
   {
     "lemma": "Marktanlagen",
     "previous": "Markos 6",
-    "next": "Markupolis 1",
+    "next": "Μαρκούπολις 1",
     "proof_read": 0,
     "short_description": "A. Griechische, B. Römische",
     "chapters": [
@@ -12094,20 +12190,22 @@
     ]
   },
   {
-    "lemma": "Markupolis 1",
+    "lemma": "Μαρκούπολις 1",
     "previous": "Marktanlagen",
     "next": "Μαρκούπολις 2",
+    "proof_read": 0,
     "short_description": "Bistum in Osrhoëne",
     "chapters": [
       {
         "start": 1880,
-        "author": "Honigmann"
+        "end": 1880,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Μαρκούπολις 2",
-    "previous": "Markupolis 1",
+    "previous": "Μαρκούπολις 1",
     "next": "Marma",
     "sort_key": "Markupolis 2",
     "redirect": "Maurikopolis",
@@ -12125,11 +12223,13 @@
     "lemma": "Marma",
     "previous": "Μαρκούπολις 2",
     "next": "Marmakes",
+    "proof_read": 0,
     "short_description": "Sabäische Küstenstadt in Arabia Felix",
     "chapters": [
       {
         "start": 1880,
-        "author": "Grohmann"
+        "end": 1880,
+        "author": "Grohmann."
       }
     ]
   },
@@ -12181,11 +12281,13 @@
     "lemma": "Marmara 2",
     "previous": "Marmara 1",
     "next": "Marmaraoth",
+    "proof_read": 0,
     "short_description": "Auf einer Inschrift aus Menje",
     "chapters": [
       {
         "start": 1881,
-        "author": "Ruge"
+        "end": 1881,
+        "author": "Ruge."
       }
     ]
   },
@@ -12193,11 +12295,13 @@
     "lemma": "Marmaraoth",
     "previous": "Marmara 2",
     "next": "Marmarica",
+    "proof_read": 0,
     "short_description": "Aramäischer Gott",
     "chapters": [
       {
         "start": 1881,
-        "author": "Preisendanz"
+        "end": 1881,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -12205,11 +12309,13 @@
     "lemma": "Marmarica",
     "previous": "Marmaraoth",
     "next": "Marmarinos",
+    "proof_read": 0,
     "short_description": "Gebiet an der N-Küste Afrikas",
     "chapters": [
       {
         "start": 1881,
-        "author": "Kees"
+        "end": 1883,
+        "author": "Kees."
       }
     ]
   },
@@ -12233,11 +12339,13 @@
     "lemma": "Marmarion",
     "previous": "Marmarinos",
     "next": "Marmax",
+    "proof_read": 0,
     "short_description": "Hafen auf Euboia",
     "chapters": [
       {
         "start": 1883,
-        "author": "Geyer"
+        "end": 1884,
+        "author": "Geyer."
       }
     ]
   },
@@ -12301,11 +12409,13 @@
     "lemma": "Marmogius",
     "previous": "Marmis",
     "next": "Marmolitis",
+    "proof_read": 0,
     "short_description": "Pannonische und norische Gottheit",
     "chapters": [
       {
         "start": 1885,
-        "author": "Heichelheim"
+        "end": 1885,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -12340,11 +12450,14 @@
     "lemma": "Marmor Parium",
     "previous": "Marmor",
     "next": "Marmorarius 1",
+    "sort_key": "Marmorparium",
+    "proof_read": 0,
     "short_description": "Chronologische Zusammenstellung wichtiger Ereignisse der Geschichte auf einer",
     "chapters": [
       {
         "start": 1885,
-        "author": "Laqueur"
+        "end": 1897,
+        "author": "Laqueur."
       }
     ]
   },
@@ -12407,11 +12520,14 @@
     "lemma": "Marna, Marnas",
     "previous": "Marmyssos",
     "next": "Marnas 1",
+    "sort_key": "Marna,marnas",
+    "proof_read": 0,
     "short_description": "Hauptgott von Gaza",
     "chapters": [
       {
         "start": 1899,
-        "author": "Preisendanz"
+        "end": 1906,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -12419,11 +12535,13 @@
     "lemma": "Marnas 1",
     "previous": "Marna, Marnas",
     "next": "Marnas 2",
+    "proof_read": 0,
     "short_description": "Ephesischer Flußgott",
     "chapters": [
       {
         "start": 1906,
-        "author": "Preisendanz"
+        "end": 1907,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -12575,11 +12693,13 @@
     "lemma": "Maron 1",
     "previous": "Maromago",
     "next": "Maron 2",
+    "proof_read": 0,
     "short_description": "Kanaanäische Stadt",
     "chapters": [
       {
         "start": 1910,
-        "author": "Hölscher"
+        "end": 1911,
+        "author": "Hölscher."
       }
     ]
   },
@@ -12629,11 +12749,13 @@
     "lemma": "Maronea",
     "previous": "Maron 3",
     "next": "Maroneia 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1912,
-        "author": "Philipp"
+        "end": 1912,
+        "author": "Philipp."
       }
     ]
   },
@@ -12641,11 +12763,13 @@
     "lemma": "Maroneia 1",
     "previous": "Maronea",
     "next": "Maroneia 2",
+    "proof_read": 0,
     "short_description": "Stadt in Thrakien",
     "chapters": [
       {
         "start": 1912,
-        "author": "Oberhummer"
+        "end": 1913,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -12686,11 +12810,14 @@
     "lemma": "Μαρωνιάς",
     "previous": "Maroneus",
     "next": "Maronilla",
+    "sort_key": "Maronias",
+    "proof_read": 0,
     "short_description": "Stadt der syrischen Landschaft Chalkidike",
     "chapters": [
       {
         "start": 1914,
-        "author": "Honigmann"
+        "end": 1914,
+        "author": "Honigmann."
       }
     ]
   },
@@ -12711,7 +12838,7 @@
   {
     "lemma": "Μάρωνσα",
     "previous": "Maronilla",
-    "next": "Maronupolis",
+    "next": "Μαρονούπολις",
     "sort_key": "Maronsa",
     "proof_read": 2,
     "short_description": "Maronsa, Dorf östlich vom Tigris, Ktesiphon–Samarra",
@@ -12724,26 +12851,30 @@
     ]
   },
   {
-    "lemma": "Maronupolis",
+    "lemma": "Μαρονούπολις",
     "previous": "Μάρωνσα",
     "next": "Marosallum",
+    "proof_read": 0,
     "short_description": "Bistum in S-Armenien",
     "chapters": [
       {
         "start": 1914,
-        "author": "Honigmann"
+        "end": 1916,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Marosallum",
-    "previous": "Maronupolis",
+    "previous": "Μαρονούπολις",
     "next": "Maroth",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1916,
-        "author": "Wackernagel"
+        "end": 1916,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -12751,11 +12882,13 @@
     "lemma": "Maroth",
     "previous": "Marosallum",
     "next": "Marotiani",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1916,
-        "author": "Hölscher"
+        "end": 1916,
+        "author": "Hölscher."
       }
     ]
   },
@@ -12763,41 +12896,47 @@
     "lemma": "Marotiani",
     "previous": "Maroth",
     "next": "Marpessa",
+    "proof_read": 0,
     "short_description": "Nordiranisches Randvolk",
     "chapters": [
       {
         "start": 1916,
-        "author": "Weissbach"
+        "end": 1916,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Marpessa",
     "previous": "Marotiani",
-    "next": "Marpessos",
+    "next": "Μάρπησσος",
+    "proof_read": 0,
     "short_description": "Tochter des aetolischen Flußgottes Euenos",
     "chapters": [
       {
         "start": 1916,
-        "author": "Tambornino"
+        "end": 1917,
+        "author": "Tambornino."
       }
     ]
   },
   {
-    "lemma": "Marpessos",
+    "lemma": "Μάρπησσος",
     "previous": "Marpessa",
     "next": "Marpsias",
+    "proof_read": 0,
     "short_description": "Ort in der Troas",
     "chapters": [
       {
         "start": 1918,
-        "author": "Ruge"
+        "end": 1918,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Marpsias",
-    "previous": "Marpessos",
+    "previous": "Μάρπησσος",
     "next": "Μαρράσιον",
     "proof_read": 0,
     "short_description": "Beliebiger Name bei Aristophanes",
@@ -12812,7 +12951,7 @@
   {
     "lemma": "Μαρράσιον",
     "previous": "Marpsias",
-    "next": "Marriche",
+    "next": "Μαρρίχη",
     "sort_key": "Marrasion",
     "proof_read": 2,
     "short_description": "Marrasion, Ort im Nordosten der Persis",
@@ -12825,20 +12964,22 @@
     ]
   },
   {
-    "lemma": "Marriche",
+    "lemma": "Μαρρίχη",
     "previous": "Μαρράσιον",
     "next": "Marriga",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1918,
-        "author": "Weissbach"
+        "end": 1918,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Marriga",
-    "previous": "Marriche",
+    "previous": "Μαρρίχη",
     "next": "Marrinia",
     "redirect": "Riga",
     "proof_read": 2,
@@ -12867,11 +13008,13 @@
     "lemma": "Marruca",
     "previous": "Marrinia",
     "next": "Marrucini",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1918,
-        "author": "Schulten"
+        "end": 1918,
+        "author": "Schulten."
       }
     ]
   },
@@ -12879,11 +13022,13 @@
     "lemma": "Marrucini",
     "previous": "Marruca",
     "next": "Marruvium",
+    "proof_read": 0,
     "short_description": "Italische Völkerschaft des Hochappenin",
     "chapters": [
       {
         "start": 1918,
-        "author": "Philipp"
+        "end": 1919,
+        "author": "Philipp."
       }
     ]
   },
@@ -12918,11 +13063,13 @@
     "lemma": "Mars 2",
     "previous": "Mars 1",
     "next": "Mars 3",
+    "proof_read": 0,
     "short_description": "Keltischer Mars",
     "chapters": [
       {
         "start": 1937,
-        "author": "Wackernagel"
+        "end": 1963,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -12930,17 +13077,19 @@
     "lemma": "Mars 3",
     "previous": "Mars 2",
     "next": "Marsaeus",
+    "proof_read": 0,
     "short_description": "Germanischer Mars",
     "chapters": [
       {
         "start": 1963,
-        "author": "Wackernagel"
+        "end": 1965,
+        "author": "H. A. Wackernagel."
       }
     ]
   },
   {
     "lemma": "Marsaeus",
-    "previous": "Marsaci, Marsacii",
+    "previous": "Mars 3",
     "next": "Marsch",
     "proof_read": 0,
     "short_description": "Person",
@@ -12956,11 +13105,13 @@
     "lemma": "Marsch",
     "previous": "Marsaeus",
     "next": "Marse",
+    "proof_read": 0,
     "short_description": "Taktische Bewegung",
     "chapters": [
       {
         "start": 1965,
-        "author": "Lammert, Friedrich"
+        "end": 1977,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -12982,78 +13133,92 @@
     "lemma": "Marsi 1",
     "previous": "Marse",
     "next": "Marsi 2",
+    "proof_read": 0,
     "short_description": "Italischer Abruzzenstamm",
     "chapters": [
       {
         "start": 1977,
-        "author": "Philipp"
+        "end": 1979,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Marsi 2",
     "previous": "Marsi 1",
-    "next": "Marsia",
+    "next": "Marsi Antinum",
+    "proof_read": 0,
     "short_description": "Hauptvolk der Germanen",
     "chapters": [
       {
         "start": 1979,
-        "author": "Schönfeld"
+        "end": 1980,
+        "author": "Schönfeld."
       }
     ]
   },
   {
     "lemma": "Marsia",
-    "previous": "Marsi 2",
-    "next": "Marsi Antinum",
+    "previous": "Marsi Marruvini",
+    "next": "Marsigni",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1980,
-        "author": "Ruge"
+        "end": 1981,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Marsi Antinum",
-    "previous": "Marsia",
+    "previous": "Marsi 2",
     "next": "Marsi Marruvini",
+    "sort_key": "Marsiantinum",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1980,
-        "author": "Philipp"
+        "end": 1980,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Marsi Marruvini",
     "previous": "Marsi Antinum",
-    "next": "Marsigni",
+    "next": "Marsia",
+    "sort_key": "Marsimarruvini",
+    "proof_read": 0,
     "short_description": "Unterstamm der Marser",
     "chapters": [
       {
         "start": 1980,
-        "author": "Philipp"
+        "end": 1980,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Marsigni",
-    "previous": "Marsi Marruvini",
+    "previous": "Marsia",
     "next": "Marsilla",
+    "proof_read": 0,
     "short_description": "Volk nördl. der Marcomannen",
     "chapters": [
       {
         "start": 1981,
-        "author": "Schönfeld"
+        "end": 1981,
+        "author": "Schönfeld."
       }
     ]
   },
   {
     "lemma": "Marsilla",
     "previous": "Marsigni",
-    "next": "Marsippos 1",
+    "next": "Μάρσιππος 1",
     "redirect": "Kallistratia",
     "proof_read": 2,
     "chapters": [
@@ -13064,20 +13229,22 @@
     ]
   },
   {
-    "lemma": "Marsippos 1",
+    "lemma": "Μάρσιππος 1",
     "previous": "Marsilla",
-    "next": "Marsippos 2",
+    "next": "Μάρσιππος 2",
+    "proof_read": 0,
     "short_description": "Stadt in Phoinikien",
     "chapters": [
       {
         "start": 1981,
-        "author": "Honigmann"
+        "end": 1981,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Marsippos 2",
-    "previous": "Marsippos 1",
+    "lemma": "Μάρσιππος 2",
+    "previous": "Μάρσιππος 1",
     "next": "Marsonia",
     "redirect": "Manippos",
     "proof_read": 2,
@@ -13090,13 +13257,15 @@
   },
   {
     "lemma": "Marsonia",
-    "previous": "Marsippos 2",
+    "previous": "Μάρσιππος 2",
     "next": "Marsonie",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1981,
-        "author": "Fluss"
+        "end": 1981,
+        "author": "Fluss."
       }
     ]
   },
@@ -13116,7 +13285,7 @@
   {
     "lemma": "Marsos",
     "previous": "Marsonie",
-    "next": "Marsu kome",
+    "next": "Μάρσον κώμη",
     "redirect": "Marianus 8",
     "proof_read": 2,
     "chapters": [
@@ -13127,26 +13296,31 @@
     ]
   },
   {
-    "lemma": "Marsu kome",
+    "lemma": "Μάρσον κώμη",
     "previous": "Marsos",
     "next": "Marsupium",
+    "sort_key": "Marsukome",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1981,
-        "author": "Honigmann"
+        "end": 1981,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Marsupium",
-    "previous": "Marsu kome",
+    "previous": "Μάρσον κώμη",
     "next": "Marsus 1",
+    "proof_read": 0,
     "short_description": "Geldbeutel",
     "chapters": [
       {
         "start": 1981,
-        "author": "Hug"
+        "end": 1983,
+        "author": "Hug."
       }
     ]
   },
@@ -13182,11 +13356,13 @@
     "lemma": "Marsyaba",
     "previous": "Marsus 2",
     "next": "Marsyas 1",
+    "proof_read": 0,
     "short_description": "Stadt in Arabia Felix",
     "chapters": [
       {
         "start": 1983,
-        "author": "Grohmann"
+        "end": 1985,
+        "author": "Grohmann."
       }
     ]
   },
@@ -13194,11 +13370,13 @@
     "lemma": "Marsyas 1",
     "previous": "Marsyaba",
     "next": "Marsyas 2",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Maiandros in Kelainai-Apameia s. Maiandros",
     "chapters": [
       {
         "start": 1985,
-        "author": "Ruge"
+        "end": 1985,
+        "author": "Ruge."
       }
     ]
   },
@@ -13206,11 +13384,13 @@
     "lemma": "Marsyas 2",
     "previous": "Marsyas 1",
     "next": "Marsyas 3",
+    "proof_read": 0,
     "short_description": "Linker Nebenfluß des Maiandros im Hochland von Karien",
     "chapters": [
       {
         "start": 1985,
-        "author": "Ruge"
+        "end": 1985,
+        "author": "Ruge."
       }
     ]
   },
@@ -13218,11 +13398,13 @@
     "lemma": "Marsyas 3",
     "previous": "Marsyas 2",
     "next": "Marsyas 4",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Orontes",
     "chapters": [
       {
         "start": 1985,
-        "author": "Honigmann"
+        "end": 1986,
+        "author": "Honigmann."
       }
     ]
   },
@@ -13230,11 +13412,13 @@
     "lemma": "Marsyas 4",
     "previous": "Marsyas 3",
     "next": "Marsyas 5",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Euphrat",
     "chapters": [
       {
         "start": 1986,
-        "author": "Honigmann"
+        "end": 1986,
+        "author": "Honigmann."
       }
     ]
   },
@@ -13242,11 +13426,13 @@
     "lemma": "Marsyas 5",
     "previous": "Marsyas 4",
     "next": "Marsyas 6",
+    "proof_read": 0,
     "short_description": "Ebene zwischen Libanon und Antilibanos",
     "chapters": [
       {
         "start": 1986,
-        "author": "Hölscher"
+        "end": 1986,
+        "author": "Hölscher."
       }
     ]
   },
@@ -13317,11 +13503,13 @@
     "lemma": "Marta",
     "previous": "Marsyas 9",
     "next": "Martanum",
+    "proof_read": 0,
     "short_description": "Abfluß des Bolsenasees in Etrurien",
     "chapters": [
       {
         "start": 1999,
-        "author": "Philipp"
+        "end": 2000,
+        "author": "Philipp."
       }
     ]
   },
@@ -13342,11 +13530,13 @@
     "lemma": "Martenoi",
     "previous": "Martanum",
     "next": "Martenses",
+    "proof_read": 0,
     "short_description": "Nomadenstamm in Arabia Deserta",
     "chapters": [
       {
         "start": 2000,
-        "author": "Grohmann"
+        "end": 2000,
+        "author": "Grohmann."
       }
     ]
   },
@@ -13354,11 +13544,13 @@
     "lemma": "Martenses",
     "previous": "Martenoi",
     "next": "Martha 1",
+    "proof_read": 0,
     "short_description": "Kollegium an verschiedenen Orten",
     "chapters": [
       {
         "start": 2000,
-        "author": "Kroll"
+        "end": 2001,
+        "author": "Kroll."
       }
     ]
   },
@@ -13420,7 +13612,7 @@
   {
     "lemma": "Marthanes",
     "previous": "Martha 4",
-    "next": "Marthucle",
+    "next": "Marθucle (?)",
     "proof_read": 0,
     "short_description": "Person",
     "chapters": [
@@ -13432,20 +13624,22 @@
     ]
   },
   {
-    "lemma": "Marthucle",
+    "lemma": "Marθucle (?)",
     "previous": "Marthanes",
     "next": "Marthula",
-    "short_description": "Kriegergestalt auf einem Wandbild der Tomba François in Vulci",
+    "proof_read": 0,
+    "short_description": "Kriegergestalt auf etrusk. Wandbild in Vulci",
     "chapters": [
       {
         "start": 2001,
-        "author": "Fiesel"
+        "end": 2002,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Marthula",
-    "previous": "Marthucle",
+    "previous": "Marθucle (?)",
     "next": "Martiales",
     "redirect": "Morthula",
     "proof_read": 2,
@@ -13460,11 +13654,13 @@
     "lemma": "Martiales",
     "previous": "Marthula",
     "next": "Martialis 1",
+    "proof_read": 0,
     "short_description": "Ministri publici martis in Larinum",
     "chapters": [
       {
         "start": 2002,
-        "author": "Kroll"
+        "end": 2002,
+        "author": "Kroll."
       }
     ]
   },
@@ -13472,11 +13668,13 @@
     "lemma": "Martialis 1",
     "previous": "Martiales",
     "next": "Martialis 2",
+    "proof_read": 0,
     "short_description": "Ligurischer Pagus bei Benevent",
     "chapters": [
       {
         "start": 2002,
-        "author": "Philipp"
+        "end": 2002,
+        "author": "Philipp."
       }
     ]
   },
@@ -13484,10 +13682,13 @@
     "lemma": "Martialis 2",
     "previous": "Martialis 1",
     "next": "Martialis 3",
+    "redirect": "Sacilis",
+    "proof_read": 0,
     "short_description": "Kognomen der Stadt Sacilis Martialium s. Sacilis",
     "chapters": [
       {
-        "start": 2002
+        "start": 2002,
+        "end": 2002
       }
     ]
   },
@@ -14312,11 +14513,14 @@
     "lemma": "ad Martis 1",
     "previous": "Martinus 19",
     "next": "ad Martis 2",
+    "sort_key": "martis 1#ad",
+    "proof_read": 0,
     "short_description": "Station der Straße der cottischen Alpen",
     "chapters": [
       {
         "start": 2023,
-        "author": "Philipp"
+        "end": 2023,
+        "author": "Philipp."
       }
     ]
   },
@@ -14324,11 +14528,14 @@
     "lemma": "ad Martis 2",
     "previous": "ad Martis 1",
     "next": "ad Martis 3",
+    "sort_key": "martis 2#ad",
+    "proof_read": 0,
     "short_description": "Station an der längeren Straße Pisa - Florenz",
     "chapters": [
       {
         "start": 2023,
-        "author": "Philipp"
+        "end": 2023,
+        "author": "Philipp."
       }
     ]
   },
@@ -14336,11 +14543,14 @@
     "lemma": "ad Martis 3",
     "previous": "ad Martis 2",
     "next": "Martius 1",
+    "sort_key": "martis 3#ad",
+    "proof_read": 0,
     "short_description": "Station der Via Salaria in Picenum",
     "chapters": [
       {
         "start": 2023,
-        "author": "Philipp"
+        "end": 2023,
+        "author": "Philipp."
       }
     ]
   },
@@ -14444,17 +14654,20 @@
   {
     "lemma": "Martius ager, campus",
     "previous": "Martius 7",
-    "next": "Martius pagus",
+    "next": "Martius",
+    "sort_key": "Martiusager, campus",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in Rom",
     "chapters": [
       {
         "start": 2025,
-        "author": "Kubitschek"
+        "end": 2032,
+        "author": "Kubitschek."
       }
     ]
   },
   {
-    "lemma": "Martius pagus",
+    "lemma": "Martius",
     "previous": "Martius ager, campus",
     "next": "Marturius",
     "sort_key": "Martiuspagus",
@@ -14471,7 +14684,7 @@
   },
   {
     "lemma": "Marturius",
-    "previous": "Martius pagus",
+    "previous": "Martius",
     "next": "Martyria",
     "redirect": "Martyrios 1",
     "proof_read": 2,
@@ -14486,11 +14699,13 @@
     "lemma": "Martyria",
     "previous": "Marturius",
     "next": "Martyrios 1",
+    "proof_read": 0,
     "short_description": "Zeugen",
     "chapters": [
       {
         "start": 2032,
-        "author": "Latte"
+        "end": 2039,
+        "author": "Latte."
       }
     ]
   },
@@ -14832,11 +15047,13 @@
     "lemma": "Martyropolis",
     "previous": "Martyrios 23",
     "next": "Martys",
+    "proof_read": 0,
     "short_description": "Stadt in Sophanene",
     "chapters": [
       {
         "start": 2043,
-        "author": "Weissbach"
+        "end": 2044,
+        "author": "Weissbach."
       }
     ]
   },
@@ -14844,11 +15061,13 @@
     "lemma": "Martys",
     "previous": "Martyropolis",
     "next": "Maru",
+    "proof_read": 0,
     "short_description": "Märtyrer",
     "chapters": [
       {
         "start": 2044,
-        "author": "Lietzmann"
+        "end": 2052,
+        "author": "Lietzmann."
       }
     ]
   },
@@ -14871,41 +15090,47 @@
     "lemma": "Marubios",
     "previous": "Maru",
     "next": "Marvingi",
+    "proof_read": 0,
     "short_description": "Zufluß der Maiotis zwischen Rhombites und Tanais",
     "chapters": [
       {
         "start": 2052,
-        "author": "Herrmann"
+        "end": 2052,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Marvingi",
     "previous": "Marubios",
-    "next": "Maruka",
+    "next": "Μαροῦκα",
+    "proof_read": 0,
     "short_description": "Stamm südöstl. des abnobäischen Gebirges (Schwarzwald)",
     "chapters": [
       {
         "start": 2052,
-        "author": "Schönfeld"
+        "end": 2053,
+        "author": "Schönfeld."
       }
     ]
   },
   {
-    "lemma": "Maruka",
+    "lemma": "Μαροῦκα",
     "previous": "Marvingi",
     "next": "Marulla",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2053,
-        "author": "Weissbach"
+        "end": 2053,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Marulla",
-    "previous": "Maruka",
+    "previous": "Μαροῦκα",
     "next": "Marullinus",
     "proof_read": 2,
     "short_description": "unzüchtiges Weib bei Martial",
@@ -15003,11 +15228,13 @@
     "lemma": "Marundai 1",
     "previous": "Marullus 5",
     "next": "Marundai 2",
+    "proof_read": 0,
     "short_description": "Volk im westl. Teil von India intra Gangem",
     "chapters": [
       {
         "start": 2053,
-        "author": "Herrmann"
+        "end": 2054,
+        "author": "Herrmann."
       }
     ]
   },
@@ -15015,11 +15242,13 @@
     "lemma": "Marundai 2",
     "previous": "Marundai 1",
     "next": "Maruragene",
+    "proof_read": 0,
     "short_description": "Volksstamm Mediens",
     "chapters": [
       {
         "start": 2054,
-        "author": "Weissbach"
+        "end": 2054,
+        "author": "Weissbach."
       }
     ]
   },
@@ -15041,11 +15270,13 @@
     "lemma": "Marus 1",
     "previous": "Maruragene",
     "next": "Marus 2",
+    "proof_read": 0,
     "short_description": "Nebenfluß der Donau",
     "chapters": [
       {
         "start": 2054,
-        "author": "Fluss"
+        "end": 2054,
+        "author": "Fluss."
       }
     ]
   },
@@ -15053,11 +15284,13 @@
     "lemma": "Marus 2",
     "previous": "Marus 1",
     "next": "Marusio",
+    "proof_read": 0,
     "short_description": "s. Marom Merrous",
     "chapters": [
       {
         "start": 2054,
-        "author": "Hölscher"
+        "end": 2054,
+        "author": "Hölscher."
       }
     ]
   },
@@ -15106,11 +15339,13 @@
     "lemma": "Maruvium",
     "previous": "Maruthas",
     "next": "Mas",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2056,
-        "author": "Philipp"
+        "end": 2056,
+        "author": "Philipp."
       }
     ]
   },
@@ -15118,11 +15353,13 @@
     "lemma": "Mas",
     "previous": "Maruvium",
     "next": "Masa",
+    "proof_read": 0,
     "short_description": "Gebirgsland im Gilgameschepos",
     "chapters": [
       {
         "start": 2056,
-        "author": "Hölscher"
+        "end": 2056,
+        "author": "Hölscher."
       }
     ]
   },
@@ -15130,47 +15367,59 @@
     "lemma": "Masa",
     "previous": "Mas",
     "next": "Masada",
+    "proof_read": 0,
     "short_description": "Nordarabischer Stamm",
     "chapters": [
       {
         "start": 2056,
-        "author": "Hölscher"
+        "end": 2056,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Masada",
     "previous": "Masa",
-    "next": "Masadalis",
-    "short_description": "Burg des Herodes in Palästina",
+    "next": "Μασαδαλίς",
+    "proof_read": 0,
+    "short_description": "‚Bergfeste‘, Burg des Herodes in Palästina",
+    "wp_link": "w:de:Masada",
+    "ws_link": "s:en:The War of the Jews/Book VII",
+    "wd_link": "d:Q186312",
     "chapters": [
       {
         "start": 2056,
-        "author": "Hölscher"
+        "end": 2057,
+        "author": "Hölscher."
       }
     ]
   },
   {
-    "lemma": "Masadalis",
+    "lemma": "Μασαδαλίς",
     "previous": "Masada",
     "next": "Masaesyli",
-    "short_description": "Ort",
+    "sort_key": "Masadalis",
+    "proof_read": 2,
+    "short_description": "Masadalis, Ort in Marmarica",
     "chapters": [
       {
         "start": 2057,
-        "author": "Schwabe"
+        "end": 2057,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Masaesyli",
-    "previous": "Masadalis",
+    "previous": "Μασαδαλίς",
     "next": "Masal",
-    "short_description": "Libyscher Volksstamm",
+    "proof_read": 1,
+    "short_description": "Libyscher Volksstamm in Mauretania Caesariensis",
     "chapters": [
       {
         "start": 2057,
-        "author": "Schwabe"
+        "end": 2057,
+        "author": "Schwabe."
       }
     ]
   },
@@ -15243,12 +15492,14 @@
   {
     "lemma": "Masanoi",
     "previous": "Masanae",
-    "next": "Mascaldel",
+    "next": "Masanorada",
+    "proof_read": 0,
     "short_description": "Nomadenstamm in Arabia Deserta",
     "chapters": [
       {
         "start": 2057,
-        "author": "Grohmann"
+        "end": 2057,
+        "author": "Grohmann."
       }
     ]
   },
@@ -15298,11 +15549,13 @@
     "lemma": "Masaris",
     "previous": "Μασαφθά",
     "next": "Masatat",
+    "proof_read": 0,
     "short_description": "Epiklesis des Dionysos",
     "chapters": [
       {
         "start": 2058,
-        "author": "Kruse"
+        "end": 2058,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -15336,12 +15589,14 @@
   {
     "lemma": "Μασβάκ",
     "previous": "Masaucio",
-    "next": "Mascas",
+    "next": "Mascaldel",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2058,
-        "author": "Hölscher"
+        "end": 2058,
+        "author": "Hölscher."
       }
     ]
   },
@@ -15390,71 +15645,90 @@
   {
     "lemma": "Μασχαλᾶς",
     "previous": "Mascezel",
-    "next": "Maschale",
+    "next": "Μασχάλη",
+    "proof_read": 0,
     "short_description": "Ort in Nordsyrien",
     "chapters": [
       {
         "start": 2059,
-        "author": "Honigmann"
+        "end": 2060,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Maschale",
+    "lemma": "Μασχάλη",
     "previous": "Μασχαλᾶς",
-    "next": "Maschalismos",
+    "next": "Μασχαλισμός",
+    "sort_key": "Maschale",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2060,
-        "author": "Obst"
+        "end": 2060,
+        "author": "Obst."
       }
     ]
   },
   {
-    "lemma": "Maschalismos",
-    "previous": "Maschale",
+    "lemma": "Μασχαλισμός",
+    "previous": "Μασχάλη",
     "next": "Maschana",
+    "sort_key": "Maschalismos",
+    "proof_read": 0,
     "short_description": "Verstümmelung von Leichen",
     "chapters": [
       {
         "start": 2060,
-        "author": "Boehm"
+        "end": 2062,
+        "author": "Boehm."
       }
     ]
   },
   {
     "lemma": "Maschana",
-    "previous": "Maschalismos",
-    "next": "Maschane",
+    "previous": "Μασχαλισμός",
+    "next": "Μασχάνη",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2062,
-        "author": "Hölscher"
+        "end": 2063,
+        "author": "Hölscher."
       }
     ]
   },
   {
-    "lemma": "Maschane",
+    "lemma": "Μασχάνη",
     "previous": "Maschana",
     "next": "Masciaco",
+    "proof_read": 0,
     "short_description": "Stadt in Babylonien?",
     "chapters": [
       {
         "start": 2063,
-        "author": "Honigmann"
+        "end": 2063,
+        "author": "Honigmann."
+      },
+      {
+        "start": 2063,
+        "end": 2063,
+        "author": "Grohmann."
       }
     ]
   },
   {
     "lemma": "Masciaco",
-    "previous": "Maschane",
+    "previous": "Μασχάνη",
     "next": "Mascizel",
+    "proof_read": 0,
     "short_description": "Station an der Straße Brigantio - Juvavum",
     "chapters": [
       {
         "start": 2063,
-        "author": "Fluss"
+        "end": 2064,
+        "author": "Fluss."
       }
     ]
   },
@@ -15475,11 +15749,13 @@
     "lemma": "Masclianae",
     "previous": "Mascizel",
     "next": "Masclianis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2064,
-        "author": "Dessau"
+        "end": 2064,
+        "author": "Dessau."
       }
     ]
   },
@@ -15487,11 +15763,13 @@
     "lemma": "Masclianis",
     "previous": "Masclianae",
     "next": "Masclinius",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2064,
-        "author": "Fluss"
+        "end": 2064,
+        "author": "Fluss."
       }
     ]
   },
@@ -15541,11 +15819,13 @@
     "lemma": "Mascula 1",
     "previous": "Masclunis",
     "next": "Mascula 2",
+    "proof_read": 0,
     "short_description": "Afrikanische Ortschaft",
     "chapters": [
       {
         "start": 2064,
-        "author": "Dessau"
+        "end": 2064,
+        "author": "Dessau."
       }
     ]
   },
@@ -15581,11 +15861,13 @@
     "lemma": "Masculula",
     "previous": "Masculinus",
     "next": "Masdoranoi",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2064,
-        "author": "Dessau"
+        "end": 2065,
+        "author": "Dessau."
       }
     ]
   },
@@ -15593,11 +15875,14 @@
     "lemma": "Masdoranoi",
     "previous": "Masculula",
     "next": "Masdras",
+    "sort_key": "Masdoranoi",
+    "proof_read": 0,
     "short_description": "Volksstamm in Areia",
     "chapters": [
       {
         "start": 2065,
-        "author": "Weissbach"
+        "end": 2065,
+        "author": "Weissbach."
       }
     ]
   },
@@ -15618,11 +15903,13 @@
     "lemma": "Masdye",
     "previous": "Masdras",
     "next": "Μασερέθ",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2065,
-        "author": "Ruge"
+        "end": 2065,
+        "author": "Ruge."
       }
     ]
   },
