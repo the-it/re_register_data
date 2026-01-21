@@ -5066,9 +5066,13 @@
       }
     ]
   },
-  {"lemma": "Ludus Troiae"},
+  {
+    "lemma": "Ludus Troiae",
+    "next": "Λουειθά"
+  },
   {
     "lemma": "Λουειθά",
+    "previous": "Ludus Troiae",
     "next": "Luentinum",
     "sort_key": "Lueitha",
     "redirect": "Luchith",
