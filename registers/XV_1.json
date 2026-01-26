@@ -4631,11 +4631,13 @@
     "lemma": "Μεῖζον 2",
     "previous": "Μεῖζον 1",
     "next": "Mekastos",
+    "proof_read": 0,
     "short_description": "Bezeichnung für eine Dorfbehörde",
     "chapters": [
       {
         "start": 362,
-        "author": "Kroll"
+        "end": 363,
+        "author": "Kroll."
       }
     ]
   },
@@ -4696,10 +4698,12 @@
     "lemma": "Μήκιστον",
     "previous": "Mekisteus 2",
     "next": "Mekon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 363,
-        "author": "Meyer, Ernst"
+        "end": 363,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -4720,10 +4724,12 @@
     "lemma": "Μηκώνη",
     "previous": "Mekon",
     "next": "Mel",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 364,
-        "author": "Meyer, Ernst"
+        "end": 364,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -5038,10 +5044,14 @@
     "lemma": "Μελάμβωλος",
     "previous": "Melambrion",
     "next": "Μελαμνίδας",
+    "sort_key": "Melambolos",
+    "proof_read": 0,
+    "short_description": "Bezeichnung für Ägypten",
     "chapters": [
       {
         "start": 391,
-        "author": "Kees"
+        "end": 391,
+        "author": "Kees."
       }
     ]
   },
@@ -5312,19 +5322,31 @@
   {
     "lemma": "Melampygos",
     "previous": "Melampus 11",
-    "next": "Melanaigis",
+    "next": "Μέλανα ὄρη 1",
+    "proof_read": 0,
     "short_description": "Beiname d. Herakles u. Name eines Steines in d. Thermopylen",
     "chapters": [
       {
         "start": 405,
-        "author": "Kruse"
+        "end": 405,
+        "author": "gr. Kruse."
+      },
+      {
+        "start": 405,
+        "end": 405,
+        "author": "F. Stählin."
+      },
+      {
+        "start": 405,
+        "end": 406,
+        "author": "Oldfather."
       }
     ]
   },
   {
     "lemma": "Melanaigis",
     "previous": "Melampygos",
-    "next": "Melana ore 1",
+    "next": "Μέλανα ὄρη 1",
     "redirect": "Melaina 1",
     "proof_read": 2,
     "chapters": [
@@ -5335,20 +5357,37 @@
     ]
   },
   {
-    "lemma": "Melana ore 1",
-    "previous": "Melanaigis",
-    "next": "Melana ore 2",
+    "lemma": "Μέλανα ὄρη 1",
+    "previous": "Melampygos",
+    "next": "Μέλανα ὄρη 2",
+    "sort_key": "Melanaore 1",
+    "proof_read": 0,
     "short_description": "Gebirge d. südl. Sinaihalbinsel",
     "chapters": [
       {
         "start": 406,
-        "author": "Hölscher"
+        "end": 406,
+        "author": "Hölscher."
+      }
+    ]
+  },
+  {
+    "lemma": "Μέλανα ὄρη 2",
+    "previous": "Μέλανα ὄρη 1",
+    "next": "Μέλανα ὄρη 3",
+    "sort_key": "Melanaore 2",
+    "proof_read": 0,
+    "short_description": "Gebirge in Arabia felix",
+    "chapters": [
+      {
+        "start": 406,
+        "end": 406,
+        "author": "Grohmann."
       }
     ]
   },
   {
     "lemma": "Melana ore 2",
-    "previous": "Melana ore 1",
     "next": "Melan oros 3",
     "short_description": "Gebirge in Arabia felix",
     "chapters": [
@@ -5372,13 +5411,15 @@
   },
   {
     "lemma": "Melanchlainoi",
-    "previous": "Melan oros 3",
+    "previous": "Melanaigis",
     "next": "Melanchros 1",
+    "proof_read": 0,
     "short_description": "Nach seiner dunklen Bekleidung benanntes finnisches Volk",
     "chapters": [
       {
         "start": 407,
-        "author": "Herrmann"
+        "end": 407,
+        "author": "Herrmann."
       }
     ]
   },
@@ -5425,10 +5466,12 @@
     "lemma": "Melanditai",
     "previous": "Μελανδία",
     "next": "Melane",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 407,
-        "author": "Oberhummer"
+        "end": 407,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5451,11 +5494,13 @@
     "lemma": "Melanephoroi",
     "previous": "Melane",
     "next": "Melaneus 1",
+    "proof_read": 0,
     "short_description": "Verehrer ägypt. Gottheiten in Delos, Eretria u. Rom",
     "chapters": [
       {
         "start": 408,
-        "author": "Poland"
+        "end": 414,
+        "author": "Poland."
       }
     ]
   },
@@ -5554,7 +5599,7 @@
   {
     "lemma": "Melaneus 7",
     "previous": "Melaneus 6",
-    "next": "Melange",
+    "next": "Μελαγγή",
     "proof_read": 2,
     "short_description": "bei Ovid einer der Hunde, die Aktaion zerrissen",
     "wd_link": "d:Q115794276",
@@ -5568,25 +5613,29 @@
     ]
   },
   {
-    "lemma": "Melange",
+    "lemma": "Μελαγγή",
     "previous": "Melaneus 7",
     "next": "Melangeia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 414,
-        "author": "Herrmann"
+        "end": 415,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Melangeia",
-    "previous": "Melange",
+    "previous": "Μελαγγή",
     "next": "Melangitai",
+    "proof_read": 0,
     "short_description": "Platz am Klimaxweg von Argos nach Mantineia",
     "chapters": [
       {
         "start": 415,
-        "author": "Meyer, Ernst"
+        "end": 415,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -5732,23 +5781,27 @@
     "lemma": "Melanippe 5",
     "previous": "Melanippe 4",
     "next": "Melanippe 6",
+    "proof_read": 0,
     "short_description": "Ort an d. Küste Lykiens",
     "chapters": [
       {
         "start": 422,
-        "author": "Ruge"
+        "end": 422,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Melanippe 6",
     "previous": "Melanippe 5",
-    "next": "Melanippides 1",
+    "next": "Melanippeia",
+    "proof_read": 0,
     "short_description": "Eine d. chelidon. Inseln",
     "chapters": [
       {
         "start": 422,
-        "author": "Ruge"
+        "end": 422,
+        "author": "Ruge."
       }
     ]
   },
@@ -5868,10 +5921,12 @@
     "lemma": "Melanogaetuli",
     "previous": "Melano",
     "next": "Melanopos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 424,
-        "author": "Schwabe"
+        "end": 424,
+        "author": "Schwabe."
       }
     ]
   },
@@ -5936,11 +5991,13 @@
     "lemma": "Melanos 2",
     "previous": "Melanos 1",
     "next": "Melantas 1",
+    "proof_read": 0,
     "short_description": "lithu oros Nur bei Ptolem. genannter Gebirgszug in d. arab. Wüste",
     "chapters": [
       {
         "start": 425,
-        "author": "Kees"
+        "end": 425,
+        "author": "Kees."
       }
     ]
   },
@@ -6087,11 +6144,13 @@
     "lemma": "Melanthios 1",
     "previous": "Melanthides",
     "next": "Melanthios 2",
+    "proof_read": 0,
     "short_description": "Fluß, der an d. Küste von Pontos mündet",
     "chapters": [
       {
         "start": 427,
-        "author": "Ruge"
+        "end": 427,
+        "author": "Ruge."
       }
     ]
   },
@@ -6099,11 +6158,13 @@
     "lemma": "Melanthios 2",
     "previous": "Melanthios 1",
     "next": "Melanthios 3",
+    "proof_read": 0,
     "short_description": "Melanthius Nach Plin. nat. Fluß Kappadokiens",
     "chapters": [
       {
         "start": 427,
-        "author": "Herrmann"
+        "end": 427,
+        "author": "Herrmann."
       }
     ]
   },
@@ -6111,11 +6172,13 @@
     "lemma": "Melanthios 3",
     "previous": "Melanthios 2",
     "next": "Melanthios 4",
+    "proof_read": 0,
     "short_description": "Epiklesis",
     "chapters": [
       {
         "start": 427,
-        "author": "Kruse"
+        "end": 428,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -6285,10 +6348,12 @@
     "lemma": "Melanthis",
     "previous": "Melanthios 14",
     "next": "Melantho",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 432,
-        "author": "Meyer, Ernst"
+        "end": 432,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -6613,11 +6678,13 @@
     "lemma": "Melas 11",
     "previous": "Melas 10",
     "next": "Melas 12",
+    "proof_read": 0,
     "short_description": "Flußgott in Pamphylia",
     "chapters": [
       {
         "start": 438,
-        "author": "Kolf"
+        "end": 438,
+        "author": "Kolf."
       }
     ]
   },
@@ -6639,11 +6706,13 @@
     "lemma": "Melas 13",
     "previous": "Melas 12",
     "next": "Melas 14",
+    "proof_read": 0,
     "short_description": "Fluß in Arkadien",
     "chapters": [
       {
         "start": 438,
-        "author": "Meyer, Ernst"
+        "end": 439,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -6651,11 +6720,13 @@
     "lemma": "Melas 14",
     "previous": "Melas 13",
     "next": "Melas 15",
+    "proof_read": 0,
     "short_description": "Fluß in d. unteren Spercheiosebene",
     "chapters": [
       {
         "start": 439,
-        "author": "Stählin"
+        "end": 439,
+        "author": "Stählin."
       }
     ]
   },
@@ -6663,11 +6734,13 @@
     "lemma": "Melas 15",
     "previous": "Melas 14",
     "next": "Melas 16",
+    "proof_read": 0,
     "short_description": "Flüßchen in Sizilien",
     "chapters": [
       {
         "start": 439,
-        "author": "Ziegler"
+        "end": 439,
+        "author": "Ziegler."
       }
     ]
   },
@@ -6675,11 +6748,13 @@
     "lemma": "Melas 16",
     "previous": "Melas 15",
     "next": "Melas 17",
+    "proof_read": 0,
     "short_description": "Fluß in Thrakien",
     "chapters": [
       {
         "start": 439,
-        "author": "Oberhummer"
+        "end": 439,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6687,11 +6762,13 @@
     "lemma": "Melas 17",
     "previous": "Melas 16",
     "next": "Melas 18",
+    "proof_read": 0,
     "short_description": "Bach auf d. Halbinsel v. Konstantinopel",
     "chapters": [
       {
         "start": 439,
-        "author": "Oberhummer"
+        "end": 439,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6699,11 +6776,13 @@
     "lemma": "Melas 18",
     "previous": "Melas 17",
     "next": "Melas 19",
+    "proof_read": 0,
     "short_description": "kolpos Golf zwischen d. thrak. Chersonnes u. d. Festland v. Thrakien",
     "chapters": [
       {
         "start": 439,
-        "author": "Oberhummer"
+        "end": 440,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6711,11 +6790,13 @@
     "lemma": "Melas 19",
     "previous": "Melas 18",
     "next": "Melas 20",
+    "proof_read": 0,
     "short_description": "Fluß in Bithynien",
     "chapters": [
       {
         "start": 440,
-        "author": "Ruge"
+        "end": 440,
+        "author": "Ruge."
       }
     ]
   },
@@ -6723,11 +6804,13 @@
     "lemma": "Melas 20",
     "previous": "Melas 19",
     "next": "Melas 21",
+    "proof_read": 0,
     "short_description": "Fluß in Kappadokien",
     "chapters": [
       {
         "start": 440,
-        "author": "Ruge"
+        "end": 440,
+        "author": "Ruge."
       }
     ]
   },
@@ -6735,11 +6818,13 @@
     "lemma": "Melas 21",
     "previous": "Melas 20",
     "next": "Melas 22",
+    "proof_read": 0,
     "short_description": "Fluß in Kilikien",
     "chapters": [
       {
         "start": 440,
-        "author": "Ruge"
+        "end": 440,
+        "author": "Ruge."
       }
     ]
   },
@@ -6747,11 +6832,13 @@
     "lemma": "Melas 22",
     "previous": "Melas 21",
     "next": "Melas 23",
+    "proof_read": 0,
     "short_description": "Fluß an d. Grenze zwischen Kilikien u. Pamphylien",
     "chapters": [
       {
         "start": 440,
-        "author": "Ruge"
+        "end": 440,
+        "author": "Ruge."
       }
     ]
   },
@@ -6759,11 +6846,13 @@
     "lemma": "Melas 23",
     "previous": "Melas 22",
     "next": "Melas 24",
+    "proof_read": 0,
     "short_description": "Fluß in Pontos",
     "chapters": [
       {
         "start": 440,
-        "author": "Ruge"
+        "end": 440,
+        "author": "Ruge."
       }
     ]
   },
@@ -15948,6 +16037,7 @@
     "sort_key": "Menon 17",
     "proof_read": 0,
     "short_description": "Schüler des Aristoteles mit Übersicht zur älteren griechischen Medizin",
+    "wd_link": "d:Q89407534",
     "chapters": [
       {
         "start": 927,
