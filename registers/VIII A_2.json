@@ -1197,7 +1197,7 @@
     "lemma": "Veronius",
     "previous": "Veronicianus 3",
     "next": "Vero...rtitianus vicus",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "falsche Lesart, s. Duranius",
     "no_creative_height": true,
     "chapters": [
@@ -1247,7 +1247,7 @@
   {
     "lemma": "Verovesca",
     "previous": "Ueros",
-    "next": "Verpantus",
+    "next": "Verpant(us)",
     "redirect": "Virovesca",
     "proof_read": 2,
     "chapters": [
@@ -1258,7 +1258,7 @@
     ]
   },
   {
-    "lemma": "Verpantus",
+    "lemma": "Verpant(us)",
     "previous": "Verovesca",
     "next": "Verres 1",
     "short_description": "CIL XIII 1180",
@@ -1271,13 +1271,17 @@
   },
   {
     "lemma": "Verres 1",
-    "previous": "Verpantus",
+    "previous": "Verpant(us)",
     "next": "Verres 2",
-    "short_description": "C., Sizilischer Statthalter",
+    "proof_read": 0,
+    "short_description": "Gaius Verres, korrupter sizilischer Statthalter",
+    "wp_link": "w:de:Gaius Verres",
+    "wd_link": "d:Q368219",
     "chapters": [
       {
         "start": 1561,
-        "author": "Habermehl"
+        "end": 1633,
+        "author": "Habermehl."
       }
     ]
   },
