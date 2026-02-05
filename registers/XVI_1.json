@@ -169,6 +169,7 @@
   {
     "lemma": "Molione, Molionidai 2",
     "previous": "Molione, Molionidai 1",
+    "next": "Molis",
     "sort_key": "Molione,molionidai 2",
     "proof_read": 2,
     "short_description": "Moline, Mutter v. Nr. 1",
@@ -1389,10 +1390,12 @@
     "lemma": "Monda",
     "previous": "Mond",
     "next": "Μονδαία",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 105,
-        "author": "Schulten"
+        "end": 106,
+        "author": "Schulten."
       }
     ]
   },
@@ -1612,11 +1615,18 @@
     "lemma": "Monimos 1",
     "previous": "Monime",
     "next": "Monimos 2",
+    "proof_read": 0,
     "short_description": "Angebl. Begleiter d. Sonnengottes, verglichen mit Hermes",
     "chapters": [
       {
         "start": 125,
-        "author": "Ganschinietz"
+        "end": 125,
+        "author": "Ganschinietz."
+      },
+      {
+        "start": 125,
+        "end": 125,
+        "author": "J. Pley."
       }
     ]
   },
@@ -1754,10 +1764,12 @@
     "lemma": "Moninas",
     "previous": "Monimos 10",
     "next": "Monitorium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 127,
-        "author": "Philipp"
+        "end": 127,
+        "author": "Philipp."
       }
     ]
   },
@@ -1792,19 +1804,22 @@
   {
     "lemma": "Monnitios",
     "previous": "Μόνναρα",
-    "next": "Monnius",
+    "next": "Q. Monnius",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Zeus",
     "chapters": [
       {
         "start": 127,
-        "author": "Kruse"
+        "end": 128,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
-    "lemma": "Monnius",
+    "lemma": "Q. Monnius",
     "previous": "Monnitios",
     "next": "Monnulus",
+    "sort_key": "Monnius",
     "proof_read": 2,
     "short_description": "Q.",
     "chapters": [
@@ -1817,7 +1832,7 @@
   },
   {
     "lemma": "Monnulus",
-    "previous": "Monnius",
+    "previous": "Q. Monnius",
     "next": "Monnus",
     "proof_read": 2,
     "short_description": "von Girba zu Cyprians Zeit nach Augustin. de Bapt. VI 17, 28 CSEL LI 315, 15.",
@@ -1920,18 +1935,20 @@
     "lemma": "Monochromata",
     "previous": "Monocaleni",
     "next": "Monocreses",
+    "proof_read": 0,
     "short_description": "t.t. der Malerei",
     "chapters": [
       {
         "start": 130,
-        "author": "Lippold, Georg"
+        "end": 131,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Monocreses",
     "previous": "Monochromata",
-    "next": "Monodaktylon oros",
+    "next": "Μονοδάκτυλον ὄρος",
     "redirect": "Monoecus",
     "proof_read": 2,
     "chapters": [
@@ -1942,49 +1959,58 @@
     ]
   },
   {
-    "lemma": "Monodaktylon oros",
+    "lemma": "Μονοδάκτυλον ὄρος",
     "previous": "Monocreses",
-    "next": "Monodia",
+    "next": "Μονῳδία",
+    "sort_key": "Monodaktylonoros",
+    "proof_read": 0,
     "short_description": "Gebirge an d. W-Küste d. Roten Meeres",
     "chapters": [
       {
         "start": 131,
-        "author": "Treidler"
+        "end": 131,
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Monodia",
-    "previous": "Monodaktylon oros",
+    "lemma": "Μονῳδία",
+    "previous": "Μονοδάκτυλον ὄρος",
     "next": "Monoecus",
+    "proof_read": 0,
     "short_description": "Schauspielergesang in d. Tragödie",
     "chapters": [
       {
         "start": 131,
-        "author": "Maas"
+        "end": 132,
+        "author": "Paul Maas."
       }
     ]
   },
   {
     "lemma": "Monoecus",
-    "previous": "Monodia",
-    "next": "Monogisene",
+    "previous": "Μονῳδία",
+    "next": "Μονόγισ(σ)α",
+    "proof_read": 0,
     "short_description": "Stadt in Ligurien, heute Monaco",
     "chapters": [
       {
         "start": 132,
-        "author": "Philipp"
+        "end": 133,
+        "author": "Hans Philipp."
       }
     ]
   },
   {
     "lemma": "Monogisene",
-    "previous": "Monoecus",
-    "next": "Μονόγισ(σ)α",
+    "previous": "Μονόγισ(σ)α",
+    "next": "Μονογλῶσσον",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 133,
-        "author": "Kruse"
+        "end": 133,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -2021,36 +2047,42 @@
   {
     "lemma": "Monogramm",
     "previous": "Μονογλῶσσον",
-    "next": "Monographos",
+    "next": "Μονόγραφος",
+    "proof_read": 0,
     "short_description": "Wortbild einer graphischen u. begrifflichen Einheit",
     "chapters": [
       {
         "start": 133,
-        "author": "Gardthausen"
+        "end": 143,
+        "author": "Gardthausen."
       }
     ]
   },
   {
-    "lemma": "Monographos",
+    "lemma": "Μονόγραφος",
     "previous": "Monogramm",
     "next": "Monoikos 1",
+    "proof_read": 0,
     "short_description": "Nationalägypt. Tempelnotar",
     "chapters": [
       {
         "start": 143,
-        "author": "Kießling, Emil"
+        "end": 144,
+        "author": "E. Kießling."
       }
     ]
   },
   {
     "lemma": "Monoikos 1",
-    "previous": "Monographos",
+    "previous": "Μονόγραφος",
     "next": "Monoikos 2",
+    "proof_read": 0,
     "short_description": "Beinamen d. Herakles",
     "chapters": [
       {
         "start": 144,
-        "author": "Kruse"
+        "end": 144,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -2072,10 +2104,12 @@
     "lemma": "Monokaminon",
     "previous": "Monoikos 2",
     "next": "Monokarton",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 144,
-        "author": "Kees"
+        "end": 144,
+        "author": "Kees."
       }
     ]
   },
@@ -2083,10 +2117,12 @@
     "lemma": "Monokarton",
     "previous": "Monokaminon",
     "next": "Monokeros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 144,
-        "author": "Weissbach"
+        "end": 145,
+        "author": "Weissbach."
       }
     ]
   },
@@ -2107,10 +2143,12 @@
     "lemma": "Monokleros",
     "previous": "Monokeros",
     "next": "Monokoloi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 145,
-        "author": "Ruge"
+        "end": 145,
+        "author": "Ruge."
       }
     ]
   },
@@ -2132,11 +2170,14 @@
     "lemma": "Monoleus lacus",
     "previous": "Monokoloi",
     "next": "Monolykos",
+    "sort_key": "Monoleuslacus",
+    "proof_read": 0,
     "short_description": "See in NO-Afrika",
     "chapters": [
       {
         "start": 145,
-        "author": "Treidler"
+        "end": 145,
+        "author": "Treidler."
       }
     ]
   },
@@ -2144,10 +2185,12 @@
     "lemma": "Monolykos",
     "previous": "Monoleus lacus",
     "next": "Monophilus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 145,
-        "author": "Ruge"
+        "end": 145,
+        "author": "Ruge."
       }
     ]
   },
@@ -2184,10 +2227,12 @@
     "lemma": "Monopodaria",
     "previous": "Monophthalmoi",
     "next": "Monopodia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 145,
-        "author": "Preisendanz"
+        "end": 145,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -2195,11 +2240,13 @@
     "lemma": "Monopodia",
     "previous": "Monopodaria",
     "next": "Monopole",
+    "proof_read": 0,
     "short_description": "Kleine Tische mit einem Fuß, Säulentisch",
     "chapters": [
       {
         "start": 145,
-        "author": "Hug"
+        "end": 146,
+        "author": "Hug."
       }
     ]
   },
@@ -2207,11 +2254,13 @@
     "lemma": "Monopole",
     "previous": "Monopodia",
     "next": "Monopteros",
+    "proof_read": 0,
     "short_description": "Ökonom. t.t.",
     "chapters": [
       {
         "start": 147,
-        "author": "Heichelheim"
+        "end": 199,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -2219,10 +2268,12 @@
     "lemma": "Monopteros",
     "previous": "Monopole",
     "next": "Mons",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 199,
-        "author": "Ebert"
+        "end": 199,
+        "author": "Ebert."
       }
     ]
   },
@@ -2281,10 +2332,13 @@
     "lemma": "Mons Feretrus",
     "previous": "Mons Feretratus",
     "next": "Mons gaudii",
+    "sort_key": "Monsferetrus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 199,
-        "author": "Philipp"
+        "end": 200,
+        "author": "Philipp."
       }
     ]
   },
@@ -2292,10 +2346,13 @@
     "lemma": "Mons gaudii",
     "previous": "Mons Feretrus",
     "next": "Mons Iovis",
+    "sort_key": "Monsgaudii",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 200,
-        "author": "Hölscher"
+        "end": 200,
+        "author": "Hölscher."
       }
     ]
   },
@@ -2319,10 +2376,13 @@
     "lemma": "Mons Mariorum",
     "previous": "Mons Iovis",
     "next": "Mons Pinguis",
+    "sort_key": "Monsmariorum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 200,
-        "author": "Schulten"
+        "end": 200,
+        "author": "Schulten."
       }
     ]
   },
@@ -2345,10 +2405,13 @@
     "lemma": "Mons sacer",
     "previous": "Mons Pinguis",
     "next": "Mons Seleucus",
+    "sort_key": "Monssacer",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 200,
-        "author": "Weiss, J[akob]"
+        "end": 200,
+        "author": "Weiss."
       }
     ]
   },
@@ -2369,11 +2432,14 @@
     "lemma": "Mons Silicis",
     "previous": "Mons Seleucus",
     "next": "Montana",
+    "sort_key": "Monssilicis",
+    "proof_read": 0,
     "short_description": "Kastell in Venetia",
     "chapters": [
       {
         "start": 200,
-        "author": "Philipp"
+        "end": 201,
+        "author": "Philipp."
       }
     ]
   },
@@ -2381,11 +2447,13 @@
     "lemma": "Montana",
     "previous": "Mons Silicis",
     "next": "Montanae",
+    "proof_read": 0,
     "short_description": "Name eines Lagerortes in Moesia inferior",
     "chapters": [
       {
         "start": 201,
-        "author": "Fluss"
+        "end": 201,
+        "author": "Fluss."
       }
     ]
   },
@@ -2393,11 +2461,13 @@
     "lemma": "Montanae",
     "previous": "Montana",
     "next": "Montanarius",
+    "proof_read": 0,
     "short_description": "vgl. Matres Nr. 346 u. Suleviae Nr. 15. 34",
     "chapters": [
       {
         "start": 201,
-        "author": "Heichelheim"
+        "end": 201,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -2418,10 +2488,12 @@
     "lemma": "Montaneses",
     "previous": "Montanarius",
     "next": "Montani 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 201,
-        "author": "Fluss"
+        "end": 201,
+        "author": "Fluss."
       }
     ]
   },
@@ -2429,11 +2501,13 @@
     "lemma": "Montani 1",
     "previous": "Montaneses",
     "next": "Montani 2",
+    "proof_read": 0,
     "short_description": "Bewohner d. röm. montes im Gegensatz zu d. pagani",
     "chapters": [
       {
         "start": 201,
-        "author": "Schur"
+        "end": 203,
+        "author": "Schur."
       }
     ]
   },
@@ -2441,11 +2515,13 @@
     "lemma": "Montani 2",
     "previous": "Montani 1",
     "next": "Montanius Atticinus",
+    "proof_read": 0,
     "short_description": "In d. Kaiserzeit offizielle Bezeichnung d. Gebirgsbewohner d. ligurischen Küste",
     "chapters": [
       {
         "start": 203,
-        "author": "Philipp"
+        "end": 204,
+        "author": "Philipp."
       }
     ]
   },
@@ -2468,11 +2544,13 @@
     "lemma": "Montanus 1",
     "previous": "Montanius Atticinus",
     "next": "Montanus 2",
+    "proof_read": 0,
     "short_description": "Pagus d. Stadt Rom",
     "chapters": [
       {
         "start": 204,
-        "author": "Philipp"
+        "end": 204,
+        "author": "Philipp."
       }
     ]
   },
@@ -2794,10 +2872,12 @@
     "lemma": "Montinus",
     "previous": "Montes insani",
     "next": "Montius Magnus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 210,
-        "author": "Marbach"
+        "end": 211,
+        "author": "Marbach."
       }
     ]
   },
@@ -2850,10 +2930,12 @@
     "lemma": "Montobriga",
     "previous": "Montius Magnus 3",
     "next": "Montunates",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 211,
-        "author": "Schulten"
+        "end": 211,
+        "author": "Schulten."
       }
     ]
   },
@@ -2861,10 +2943,12 @@
     "lemma": "Montunates",
     "previous": "Montobriga",
     "next": "Monumenta regum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 211,
-        "author": "Philipp"
+        "end": 211,
+        "author": "Philipp."
       }
     ]
   },
@@ -2872,10 +2956,13 @@
     "lemma": "Monumenta regum",
     "previous": "Montunates",
     "next": "Monumentum Ancyranum",
+    "sort_key": "Monumentaregum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 211,
-        "author": "Sturm"
+        "end": 211,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -2883,11 +2970,14 @@
     "lemma": "Monumentum Ancyranum",
     "previous": "Monumenta regum",
     "next": "Monumentum Antiochenum",
+    "sort_key": "Monumentumancyranum",
+    "proof_read": 0,
     "short_description": "Tatenbericht d. Kaisers Augustus",
     "chapters": [
       {
         "start": 211,
-        "author": "Kornemann"
+        "end": 231,
+        "author": "Kornemann."
       }
     ]
   },
@@ -2978,11 +3068,13 @@
     "lemma": "Monychos 2",
     "previous": "Monychos 1",
     "next": "Moose",
+    "proof_read": 0,
     "short_description": "Kentaur in d. röm. Literatur d. Kaiserzeit",
     "chapters": [
       {
         "start": 232,
-        "author": "Treidler"
+        "end": 232,
+        "author": "Treidler."
       }
     ]
   },
@@ -2990,11 +3082,13 @@
     "lemma": "Moose",
     "previous": "Monychos 2",
     "next": "Mopates",
+    "proof_read": 0,
     "short_description": "Pflanzengattung",
     "chapters": [
       {
         "start": 232,
-        "author": "Steier"
+        "end": 236,
+        "author": "Steier."
       }
     ]
   },
@@ -3014,23 +3108,23 @@
   {
     "lemma": "Mophi",
     "previous": "Mopates",
-    "next": "Μῶφις 1",
+    "next": "Μῶφις",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 236,
-        "author": "Kees"
+        "end": 236,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Μῶφις 1",
+    "lemma": "Μῶφις",
     "previous": "Mophi",
-    "next": "Μῶφις 2",
+    "next": "Μῶφις 1",
     "sort_key": "Mophis",
     "proof_read": 3,
-    "short_description": "Mophis, Fluss Indiens, heute Mahi",
-    "wp_link": "w:de:Mahi (Fluss)",
-    "wd_link": "d:Q542539",
+    "short_description": "zum Namen",
     "chapters": [
       {
         "start": 236,
@@ -3041,8 +3135,8 @@
   },
   {
     "lemma": "Μῶφις 2",
-    "previous": "Μῶφις 1",
-    "next": "Mopsion 1",
+    "previous": "Μῶφις",
+    "next": "Μόψιον 1",
     "sort_key": "Mophis 2",
     "redirect": "Taxiles",
     "proof_read": 3,
@@ -3054,38 +3148,44 @@
     ]
   },
   {
-    "lemma": "Mopsion 1",
+    "lemma": "Μόψιον 1",
     "previous": "Μῶφις 2",
-    "next": "Mopsion 2",
+    "next": "Μόψιον 2",
+    "proof_read": 0,
     "short_description": "Stadt in Thessalia Pelasgiotis",
     "chapters": [
       {
         "start": 236,
-        "author": "Stählin"
+        "end": 240,
+        "author": "Stählin."
       }
     ]
   },
   {
-    "lemma": "Mopsion 2",
-    "previous": "Mopsion 1",
+    "lemma": "Μόψιον 2",
+    "previous": "Μόψιον 1",
     "next": "Mopsopia 1",
+    "proof_read": 0,
     "short_description": "Berg am Rand d. pelasgischen Ebene",
     "chapters": [
       {
         "start": 240,
-        "author": "Stählin"
+        "end": 240,
+        "author": "Stählin."
       }
     ]
   },
   {
     "lemma": "Mopsopia 1",
-    "previous": "Mopsion 2",
+    "previous": "Μόψιον 2",
     "next": "Mopsopia 2",
+    "proof_read": 0,
     "short_description": "Alter Name für Attika",
     "chapters": [
       {
         "start": 240,
-        "author": "Wrede"
+        "end": 240,
+        "author": "Wrede."
       }
     ]
   },
@@ -3205,11 +3305,13 @@
     "lemma": "Mopsu(h)estia",
     "previous": "Mopsos 5",
     "next": "Mopsukrene",
+    "proof_read": 0,
     "short_description": "Stadt in Kilikien",
     "chapters": [
       {
         "start": 243,
-        "author": "Ruge"
+        "end": 250,
+        "author": "Ruge."
       }
     ]
   },
@@ -3306,10 +3408,12 @@
     "lemma": "Moragocome",
     "previous": "Μόρα 4",
     "next": "Moras",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 277,
-        "author": "Ruge"
+        "end": 277,
+        "author": "Ruge."
       }
     ]
   },
@@ -3344,10 +3448,12 @@
     "lemma": "Morbium",
     "previous": "Μωραθεί",
     "next": "Morbus comitialis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 277,
-        "author": "MacDonald"
+        "end": 277,
+        "author": "MacDonald."
       }
     ]
   },
@@ -3355,11 +3461,14 @@
     "lemma": "Morbus comitialis",
     "previous": "Morbium",
     "next": "Morcanaxia",
+    "sort_key": "Morbuscomitialis",
+    "proof_read": 0,
     "short_description": "Epilepsie",
     "chapters": [
       {
         "start": 277,
-        "author": "Seidl"
+        "end": 278,
+        "author": "Seidl."
       }
     ]
   },
@@ -3367,10 +3476,12 @@
     "lemma": "Morcanaxia",
     "previous": "Morbus comitialis",
     "next": "Mord 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 278,
-        "author": "Sturm"
+        "end": 278,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -3378,11 +3489,13 @@
     "lemma": "Mord 1",
     "previous": "Morcanaxia",
     "next": "Mord 2",
+    "proof_read": 0,
     "short_description": "Im gr. Recht",
     "chapters": [
       {
         "start": 278,
-        "author": "Latte"
+        "end": 289,
+        "author": "Latte."
       }
     ]
   },
@@ -3402,39 +3515,45 @@
   {
     "lemma": "Mordiaïon",
     "previous": "Mord 2",
-    "next": "Morduloi",
+    "next": "Μόρδουλοι",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 289,
-        "author": "Ruge"
+        "end": 290,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Morduloi",
+    "lemma": "Μόρδουλοι",
     "previous": "Mordiaïon",
-    "next": "Moreanoi",
+    "next": "Μωρεανοί",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 290,
-        "author": "Herrmann"
+        "end": 290,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Moreanoi",
-    "previous": "Morduloi",
+    "lemma": "Μωρεανοί",
+    "previous": "Μόρδουλοι",
     "next": "Μωρηνή, ἡ",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 290,
-        "author": "Kroll"
+        "end": 290,
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Μωρηνή, ἡ",
-    "previous": "Moreanoi",
+    "previous": "Μωρεανοί",
     "next": "Mores",
     "sort_key": "MoreneHe",
     "proof_read": 2,
@@ -3451,11 +3570,13 @@
     "lemma": "Mores",
     "previous": "Μωρηνή, ἡ",
     "next": "Morescheth",
+    "proof_read": 0,
     "short_description": "Im röm. Recht 1. Gewohnheit, Gewohnheitsrecht, 2. sittl. Verhalten,",
     "chapters": [
       {
         "start": 290,
-        "author": "Steinwenter"
+        "end": 298,
+        "author": "Steinwenter."
       }
     ]
   },
@@ -3463,10 +3584,12 @@
     "lemma": "Morescheth",
     "previous": "Mores",
     "next": "Moreses",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 298,
-        "author": "Hölscher"
+        "end": 298,
+        "author": "Hölscher."
       }
     ]
   },
@@ -3474,10 +3597,12 @@
     "lemma": "Moreses",
     "previous": "Morescheth",
     "next": "Moretum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 298,
-        "author": "Fluss"
+        "end": 298,
+        "author": "Fluss."
       }
     ]
   },
@@ -3485,11 +3610,13 @@
     "lemma": "Moretum",
     "previous": "Moreses",
     "next": "Morgantina",
+    "proof_read": 0,
     "short_description": "Gedicht in 124 Hexametern in d. Appendix Vergiliana",
     "chapters": [
       {
         "start": 298,
-        "author": "Kroll"
+        "end": 299,
+        "author": "Kroll."
       }
     ]
   },
@@ -3497,11 +3624,13 @@
     "lemma": "Morgantina",
     "previous": "Moretum",
     "next": "Μοργέντιον",
+    "proof_read": 0,
     "short_description": "Sikelerstadt",
     "chapters": [
       {
         "start": 299,
-        "author": "Ziegler"
+        "end": 301,
+        "author": "Ziegler."
       }
     ]
   },
@@ -3539,11 +3668,13 @@
     "lemma": "Morges 2",
     "previous": "Morges 1",
     "next": "Morgetes",
+    "proof_read": 0,
     "short_description": "Ein Daktylos am Ida",
     "chapters": [
       {
         "start": 301,
-        "author": "Pley"
+        "end": 301,
+        "author": "Pley."
       }
     ]
   },
@@ -3563,10 +3694,12 @@
     "lemma": "Morginum",
     "previous": "Morgetes",
     "next": "Morgos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 301,
-        "author": "Besnier"
+        "end": 301,
+        "author": "M. Besnier."
       }
     ]
   },
@@ -3586,7 +3719,7 @@
   {
     "lemma": "Morgyna",
     "previous": "Morgos",
-    "next": "Moria 1",
+    "next": "Μόρια",
     "proof_read": 2,
     "short_description": "Μόργυνα, πόλις Σικελῶν. Φίλιστος δευτέρῳ (= FHG I 186). τὸ ἐθνικὸν Μοργυναῖος",
     "no_creative_height": true,
@@ -3599,20 +3732,38 @@
     ]
   },
   {
-    "lemma": "Moria 1",
+    "lemma": "Μόρια",
     "previous": "Morgyna",
-    "next": "Moria 2",
-    "short_description": "Att. Bezeichnung d. heiligen Ölbäume",
+    "next": "Μόρια 1",
+    "sort_key": "Moria",
+    "proof_read": 0,
+    "short_description": "Moria, zum Namen",
     "chapters": [
       {
         "start": 302,
-        "author": "Latte"
+        "end": 302,
+        "author": "Latte."
       }
     ]
   },
   {
-    "lemma": "Moria 2",
-    "previous": "Moria 1",
+    "lemma": "Μόρια 1",
+    "previous": "Μόρια",
+    "next": "Μόρια 2",
+    "sort_key": "Moria 1",
+    "proof_read": 0,
+    "short_description": "Att. Bezeichnung d. heiligen Ölbäume",
+    "chapters": [
+      {
+        "start": 302,
+        "end": 303,
+        "author": "Latte."
+      }
+    ]
+  },
+  {
+    "lemma": "Μόρια 2",
+    "previous": "Μόρια 1",
     "next": "Moriath",
     "short_description": "Der Tempelberg Salomons",
     "chapters": [
@@ -3624,12 +3775,14 @@
   },
   {
     "lemma": "Moriath",
-    "previous": "Moria 2",
+    "previous": "Μόρια 2",
     "next": "Moridunum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 303,
-        "author": "Preisendanz"
+        "end": 303,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -3637,10 +3790,12 @@
     "lemma": "Moridunum",
     "previous": "Moriath",
     "next": "Μοριεῖς",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 303,
-        "author": "MacDonald"
+        "end": 303,
+        "author": "MacDonald."
       }
     ]
   },
@@ -3663,68 +3818,82 @@
     "lemma": "Moriêl",
     "previous": "Μοριεῖς",
     "next": "Morifanum",
+    "proof_read": 0,
     "short_description": "Dämon in d. Hygromantia Salomonis",
     "chapters": [
       {
         "start": 303,
-        "author": "Preisendanz"
+        "end": 304,
+        "author": "Preisendanz."
       }
     ]
   },
   {
     "lemma": "Morifanum",
     "previous": "Moriêl",
-    "next": "Morikambe",
+    "next": "Μοριχάμβη",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 304,
-        "author": "Heichelheim"
+        "end": 304,
+        "author": "Heichelheim."
       }
     ]
   },
   {
-    "lemma": "Morikambe",
+    "lemma": "Μοριχάμβη",
     "previous": "Morifanum",
     "next": "Morimarusa",
+    "sort_key": "Morikambe",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 304,
-        "author": "MacDonald"
+        "end": 304,
+        "author": "MacDonald."
       }
     ]
   },
   {
     "lemma": "Morimarusa",
-    "previous": "Morikambe",
-    "next": "Morimene",
+    "previous": "Μοριχάμβη",
+    "next": "Μοριμηνή",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 304,
-        "author": "Besnier"
+        "end": 304,
+        "author": "M. Besnier."
       }
     ]
   },
   {
-    "lemma": "Morimene",
+    "lemma": "Μοριμηνή",
     "previous": "Morimarusa",
     "next": "Morini",
+    "sort_key": "Morimene",
+    "proof_read": 0,
     "short_description": "Eine Strategia Kappadokiens",
     "chapters": [
       {
         "start": 304,
-        "author": "Ruge"
+        "end": 305,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Morini",
-    "previous": "Morimene",
+    "previous": "Μοριμηνή",
     "next": "Morionio",
+    "proof_read": 0,
     "short_description": "Volk in Gallia Belgica",
     "chapters": [
       {
         "start": 305,
-        "author": "Besnier"
+        "end": 307,
+        "author": "M. Besnier."
       }
     ]
   },
@@ -3746,11 +3915,13 @@
     "lemma": "Morios 1",
     "previous": "Morionio",
     "next": "Morios 2",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Athene, 2. d. Zeus",
     "chapters": [
       {
         "start": 307,
-        "author": "Kruse"
+        "end": 307,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -3758,11 +3929,13 @@
     "lemma": "Morios 2",
     "previous": "Morios 1",
     "next": "Moriseni",
+    "proof_read": 0,
     "short_description": "ein rheuma bei Chaironeia",
     "chapters": [
       {
         "start": 308,
-        "author": "Fiehn"
+        "end": 308,
+        "author": "Fiehn."
       }
     ]
   },
@@ -3784,11 +3957,13 @@
     "lemma": "Moritasgus 1",
     "previous": "Moriseni",
     "next": "Moritasgus 2",
+    "proof_read": 0,
     "short_description": "Quellgott v. Alesia",
     "chapters": [
       {
         "start": 308,
-        "author": "Heichelheim"
+        "end": 309,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -3824,11 +3999,13 @@
     "lemma": "Mormo",
     "previous": "Morkos",
     "next": "Mormolyke",
+    "proof_read": 0,
     "short_description": "Furcht erregender Spuk, Personifikation d. Grausen",
     "chapters": [
       {
         "start": 309,
-        "author": "Tambornino"
+        "end": 311,
+        "author": "Tambornino."
       }
     ]
   },
@@ -3849,11 +4026,14 @@
     "lemma": "Mormonda, Mormonda mikra",
     "previous": "Mormolyke",
     "next": "Morogis",
+    "sort_key": "Mormonda,mormonda mikra",
+    "proof_read": 0,
     "short_description": "Zwei benachbarte Siedlungen im Gebiet d. Yamanlar Dag bei Smyrna",
     "chapters": [
       {
         "start": 311,
-        "author": "Keil"
+        "end": 312,
+        "author": "Keil."
       }
     ]
   },
@@ -3890,45 +4070,55 @@
   {
     "lemma": "Moron",
     "previous": "Moroica",
-    "next": "Moron hydor",
+    "next": "Μωρὸν ὕδωρ",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 312,
-        "author": "Schulten"
+        "end": 312,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Moron hydor",
+    "lemma": "Μωρὸν ὕδωρ",
     "previous": "Moron",
-    "next": "Morontabara",
+    "next": "Μοροντάβαρα",
+    "sort_key": "Moron hydor",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 312,
-        "author": "Ruge"
+        "end": 312,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Morontabara",
-    "previous": "Moron hydor",
+    "lemma": "Μοροντάβαρα",
+    "previous": "Μωρὸν ὕδωρ",
     "next": "Moros",
+    "sort_key": "Morontabara",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 312,
-        "author": "Herrmann"
+        "end": 312,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Moros",
-    "previous": "Morontabara",
+    "previous": "Μοροντάβαρα",
     "next": "Morpheus",
+    "proof_read": 0,
     "short_description": "Verkörperung d. unglücklichen Schicksalsloses",
     "chapters": [
       {
         "start": 312,
-        "author": "Hanslik"
+        "end": 313,
+        "author": "Hanslik."
       }
     ]
   },
@@ -3936,11 +4126,13 @@
     "lemma": "Morpheus",
     "previous": "Moros",
     "next": "Morpho",
+    "proof_read": 0,
     "short_description": "Sohn d. Hypnos",
     "chapters": [
       {
         "start": 313,
-        "author": "Hanslik"
+        "end": 313,
+        "author": "Hanslik."
       }
     ]
   },
@@ -4004,11 +4196,13 @@
     "lemma": "Mors",
     "previous": "Morrius",
     "next": "Mors litis",
+    "proof_read": 0,
     "short_description": "Personifikation d. Todes",
     "chapters": [
       {
         "start": 314,
-        "author": "Marbach"
+        "end": 316,
+        "author": "Marbach."
       }
     ]
   },
@@ -4016,11 +4210,14 @@
     "lemma": "Mors litis",
     "previous": "Mors",
     "next": "Morsa",
+    "sort_key": "Morslitis",
+    "proof_read": 0,
     "short_description": "1. Formularverfahren, 2. Prozeßbefristung (jurist. t.t.)",
     "chapters": [
       {
         "start": 316,
-        "author": "Kaser"
+        "end": 318,
+        "author": "Max Kaser."
       }
     ]
   },
@@ -4056,10 +4253,12 @@
     "lemma": "Morsynos",
     "previous": "Morsimos",
     "next": "Mortarium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 319,
-        "author": "Ruge"
+        "end": 319,
+        "author": "Ruge."
       }
     ]
   },
@@ -4067,11 +4266,13 @@
     "lemma": "Mortarium",
     "previous": "Morsynos",
     "next": "Mortha",
+    "proof_read": 0,
     "short_description": "Mörser",
     "chapters": [
       {
         "start": 319,
-        "author": "Hug"
+        "end": 321,
+        "author": "Hug."
       }
     ]
   },
@@ -12324,7 +12525,7 @@
   {
     "lemma": "Mykeneus",
     "previous": "Mykenai 3",
-    "next": "Mykenoi",
+    "next": "Mykenische Kultur",
     "proof_read": 0,
     "short_description": "Eponymer Gründer v. Mykenai",
     "chapters": [
@@ -12620,7 +12821,7 @@
   {
     "lemma": "Myle 3",
     "previous": "Myle 2",
-    "next": "Myleiton katoikia",
+    "next": "Μυλειτῶν κατοικία",
     "redirect": "Mylai 2",
     "proof_read": 2,
     "chapters": [
@@ -12631,7 +12832,7 @@
     ]
   },
   {
-    "lemma": "Myleiton katoikia",
+    "lemma": "Μυλειτῶν κατοικία",
     "previous": "Myle 3",
     "next": "Μύλης",
     "short_description": "Katoikie in Lydien",
@@ -12644,7 +12845,7 @@
   },
   {
     "lemma": "Μύλης",
-    "previous": "Myleiton katoikia",
+    "previous": "Μυλειτῶν κατοικία",
     "next": "Myleus",
     "proof_read": 0,
     "chapters": [
@@ -12757,7 +12958,7 @@
   {
     "lemma": "Myllos",
     "previous": "Myllias",
-    "next": "Mylon 1",
+    "next": "Mylon",
     "proof_read": 0,
     "short_description": "Komödiendichter in Athen, Zeitgenosse Epicharms",
     "chapters": [
@@ -13297,7 +13498,7 @@
   {
     "lemma": "Myrinus 1",
     "previous": "Myrinus 2",
-    "next": "Myrioi",
+    "next": "Myrinus 2",
     "proof_read": 2,
     "short_description": "Gladiator",
     "chapters": [

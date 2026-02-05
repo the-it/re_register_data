@@ -4651,7 +4651,7 @@
   },
   {
     "lemma": "Mieza",
-    "previous": "Miete",
+    "previous": "Midylidai",
     "next": "Mifsenus",
     "proof_read": 0,
     "short_description": "Makedonische Stadt",
@@ -13702,7 +13702,7 @@
   {
     "lemma": "Mneme",
     "previous": "Mneia",
-    "next": "Mnemeion akron",
+    "next": "Μνημεῖον ἄκρον",
     "proof_read": 2,
     "short_description": "Personifikation der Erinnerung",
     "wp_link": "w:de:Mneme",
@@ -13717,7 +13717,7 @@
     ]
   },
   {
-    "lemma": "Mnemeion akron",
+    "lemma": "Μνημεῖον ἄκρον",
     "previous": "Mneme",
     "next": "Mnemon 1",
     "short_description": "Vorgebirge in Aethiopia infra Aegyptum",
@@ -13730,7 +13730,7 @@
   },
   {
     "lemma": "Mnemon 1",
-    "previous": "Mnemeion akron",
+    "previous": "Μνημεῖον ἄκρον",
     "next": "Mnemon 2",
     "proof_read": 0,
     "short_description": "Grieche der troischen Sage",
@@ -17043,6 +17043,8 @@
     "next": "Molada",
     "proof_read": 0,
     "short_description": "Im Opferritual benutzte Mischung aus Speltschrot und Salzlake",
+    "wp_link": "w:en:Mola salsa",
+    "wd_link": "d:Q2267393",
     "chapters": [
       {
         "start": 2516,
@@ -17081,7 +17083,7 @@
   {
     "lemma": "Molaris lapis",
     "previous": "Molae",
-    "next": "Meropis",
+    "next": "Μεροπὶς 1",
     "sort_key": "Molarislapis",
     "proof_read": 0,
     "short_description": "Zur Herstellung von Mühlsteinen geeignete Gesteinsarten",
@@ -17095,23 +17097,58 @@
   },
   {
     "lemma": "Μεροπὶς 1",
-    "previous": "Molaris lapis"
+    "previous": "Molaris lapis",
+    "next": "Mestevia",
+    "sort_key": "Meropis 1",
+    "proof_read": 0,
+    "short_description": "- ge, Sagenland bei Theopompos",
+    "chapters": [
+      {
+        "start": 2517,
+        "end": 2517,
+        "author": "F. Gisinger."
+      }
+    ]
   },
   {
-    "lemma": "Mestevia"
+    "lemma": "Mestevia",
+    "previous": "Μεροπὶς 1",
+    "next": "Metrodoros 26",
+    "proof_read": 2,
+    "short_description": "Ortschaft im römischen Britannien (Geogr. Rav. V 31 p. 425, 3);",
+    "chapters": [
+      {
+        "start": 2517,
+        "end": 2517
+      }
+    ]
   },
   {
-    "lemma": "Metrodoros 26"
+    "lemma": "Metrodoros 26",
+    "previous": "Mestevia",
+    "next": "Mikinos",
+    "proof_read": 0,
+    "short_description": "Arzt, Schüler des Chrysippos Nr. 15 von Knidos",
+    "wp_link": "w:ca:Metrodor (gendre d'Aristòtil)",
+    "wd_link": "d:Q11936652",
+    "chapters": [
+      {
+        "start": 2517,
+        "end": 2517
+      }
+    ]
   },
   {
-    "lemma": "Mikinos"
+    "lemma": "Mikinos",
+    "previous": "Metrodoros 26"
   },
   {
-    "lemma": "Miletos 1"
+    "lemma": "Miletos 1",
+    "next": "Register (Band XV)"
   },
   {
     "lemma": "Register (Band XV)",
-    "previous": "Molaris lapis",
+    "previous": "Miletos 1",
     "next": "Molatzes",
     "sort_key": "!15 Register",
     "proof_read": 0,
