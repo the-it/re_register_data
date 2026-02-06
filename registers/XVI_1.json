@@ -244,6 +244,8 @@
     "next": "Molochat",
     "proof_read": 0,
     "short_description": "Nom. div. in d. Septuaginta",
+    "wp_link": "w:de:Moloch (Religion)",
+    "wd_link": "d:Q275010",
     "chapters": [
       {
         "start": 8,
@@ -3135,7 +3137,7 @@
   },
   {
     "lemma": "Μῶφις 2",
-    "previous": "Μῶφις",
+    "previous": "Μῶφις 1",
     "next": "Μόψιον 1",
     "sort_key": "Mophis 2",
     "redirect": "Taxiles",
@@ -4280,10 +4282,12 @@
     "lemma": "Mortha",
     "previous": "Mortarium",
     "next": "Morthula",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 321,
-        "author": "Besnier"
+        "end": 321,
+        "author": "M. Besnier."
       }
     ]
   },
@@ -4291,10 +4295,12 @@
     "lemma": "Morthula",
     "previous": "Mortha",
     "next": "Mortis causa capio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 321,
-        "author": "Herrmann"
+        "end": 321,
+        "author": "Herrmann."
       }
     ]
   },
@@ -4302,11 +4308,14 @@
     "lemma": "Mortis causa capio",
     "previous": "Morthula",
     "next": "Mortuum mare 1",
+    "sort_key": "Mortiscausa capio",
+    "proof_read": 0,
     "short_description": "Erbrechtl. t.t.",
     "chapters": [
       {
         "start": 321,
-        "author": "Weiss, Egon"
+        "end": 322,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -4326,7 +4335,7 @@
   {
     "lemma": "Mortuum mare 2",
     "previous": "Mortuum mare 1",
-    "next": "Moru",
+    "next": "Μόρου",
     "redirect": "Ἀσφαλτῖτις λίμνη",
     "proof_read": 2,
     "chapters": [
@@ -4337,31 +4346,48 @@
     ]
   },
   {
-    "lemma": "Moru",
+    "lemma": "Μόρου",
     "previous": "Mortuum mare 2",
     "next": "Morvennum",
+    "proof_read": 0,
     "short_description": "Ort im mittleren Nilgebiet",
     "chapters": [
       {
         "start": 322,
-        "author": "Treidler"
+        "end": 325,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Morvennum",
-    "previous": "Moru",
-    "next": "Morum, ad",
+    "previous": "Μόρου",
+    "next": "Morum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 325,
-        "author": "Besnier"
+        "end": 325,
+        "author": "M. Besnier."
+      }
+    ]
+  },
+  {
+    "lemma": "Morum",
+    "previous": "Morvennum",
+    "next": "Μοροῦνδα 1",
+    "sort_key": "Morum,ad",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 325,
+        "end": 325,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Morum, ad",
-    "previous": "Morvennum",
     "next": "Μοροῦνδα 1",
     "chapters": [
       {
@@ -4373,7 +4399,7 @@
   {
     "lemma": "Μοροῦνδα 1",
     "previous": "Morum, ad",
-    "next": "Morunda 2",
+    "next": "Μοροῦνδα 2",
     "sort_key": "Morunda",
     "redirect": "Marundai 2",
     "proof_read": 2,
@@ -4385,20 +4411,22 @@
     ]
   },
   {
-    "lemma": "Morunda 2",
+    "lemma": "Μοροῦνδα 2",
     "previous": "Μοροῦνδα 1",
     "next": "Morychides",
+    "proof_read": 0,
     "short_description": "Stadt in S-Indien",
     "chapters": [
       {
         "start": 325,
-        "author": "Herrmann"
+        "end": 325,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Morychides",
-    "previous": "Morunda 2",
+    "previous": "Μοροῦνδα 2",
     "next": "Morychos 1",
     "proof_read": 2,
     "short_description": "athenischer Archon im J. 440/39, IG I² 293. IG XIV 1097, 13. Diod. XII 29.",
@@ -4414,11 +4442,13 @@
     "lemma": "Morychos 1",
     "previous": "Morychides",
     "next": "Morychos 2",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Dionysos",
     "chapters": [
       {
         "start": 325,
-        "author": "Kruse"
+        "end": 326,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -4440,10 +4470,12 @@
     "lemma": "Moryllos",
     "previous": "Morychos 2",
     "next": "Morys 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 326,
-        "author": "Oberhummer"
+        "end": 327,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4530,29 +4562,33 @@
   {
     "lemma": "Mosaik",
     "previous": "Mosa 2",
-    "next": "Mosaios",
+    "next": "Μωσαῖος",
+    "proof_read": 0,
     "short_description": "Ausschmückung architekton. Flächen",
     "chapters": [
       {
         "start": 328,
-        "author": "Lorentz"
+        "end": 343,
+        "author": "F. v. Lorentz."
       }
     ]
   },
   {
-    "lemma": "Mosaios",
+    "lemma": "Μωσαῖος",
     "previous": "Mosaik",
     "next": "Mosarna",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 343,
-        "author": "Weissbach"
+        "end": 343,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Mosarna",
-    "previous": "Mosaios",
+    "previous": "Μωσαῖος",
     "next": "Moscha",
     "redirect": "Musarna",
     "proof_read": 2,
@@ -4567,11 +4603,13 @@
     "lemma": "Moscha",
     "previous": "Mosarna",
     "next": "Moscharus",
+    "proof_read": 0,
     "short_description": "Hafenort an d. S-Küste v. Arabia Felix",
     "chapters": [
       {
         "start": 343,
-        "author": "Grohmann"
+        "end": 344,
+        "author": "Grohmann."
       }
     ]
   },
@@ -4787,40 +4825,46 @@
     "lemma": "Moschius",
     "previous": "Moschis",
     "next": "Moschoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 350,
-        "author": "Fluss"
+        "end": 351,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Moschoi",
     "previous": "Moschius",
-    "next": "Moschophagoi",
+    "next": "Μοσχοφάγοι",
+    "proof_read": 0,
     "short_description": "Volk im südl. Gebirgsland v. Kolchis",
     "chapters": [
       {
         "start": 351,
-        "author": "Herrmann"
+        "end": 352,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Moschophagoi",
+    "lemma": "Μοσχοφάγοι",
     "previous": "Moschoi",
     "next": "Moschos 1",
+    "proof_read": 0,
     "short_description": "Afrikan. Volksstamm nahe d. W-Küste d. Roten Meeres",
     "chapters": [
       {
         "start": 352,
-        "author": "Treidler"
+        "end": 355,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Moschos 1",
-    "previous": "Moschophagoi",
+    "previous": "Μοσχοφάγοι",
     "next": "Moschos 2",
     "proof_read": 2,
     "short_description": "Flottenkommandant unter Otho",
@@ -4955,88 +4999,106 @@
     "lemma": "Moscius mons",
     "previous": "Moschus",
     "next": "Mosconnum",
+    "sort_key": "Mosciusmons",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 358,
-        "author": "Philipp"
+        "end": 358,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Mosconnum",
     "previous": "Moscius mons",
-    "next": "Mosdia, he",
+    "next": "Μοσδία",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 358,
-        "author": "Besnier"
+        "end": 358,
+        "author": "M. Besnier."
       }
     ]
   },
   {
-    "lemma": "Mosdia, he",
+    "lemma": "Μοσδία",
     "previous": "Mosconnum",
     "next": "Mose",
+    "sort_key": "Mosdia,he",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 358,
-        "author": "Weissbach"
+        "end": 358,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Mose",
-    "previous": "Mosdia, he",
-    "next": "Mosega",
+    "previous": "Μοσδία",
+    "next": "Μόσηγα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 358,
-        "author": "Besnier"
+        "end": 358,
+        "author": "M. Besnier."
       }
     ]
   },
   {
-    "lemma": "Mosega",
+    "lemma": "Μόσηγα",
     "previous": "Mose",
     "next": "Mosella",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 358,
-        "author": "Herrmann"
+        "end": 358,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Mosella",
-    "previous": "Mosega",
-    "next": "Mosemera",
+    "previous": "Μόσηγα",
+    "next": "Μωσεμερα",
+    "proof_read": 0,
     "short_description": "Fluß in Gallia Belgica u. Germania superior, heute Mosel",
     "chapters": [
       {
         "start": 358,
-        "author": "Besnier"
+        "end": 359,
+        "author": "M. Besnier."
       }
     ]
   },
   {
-    "lemma": "Mosemera",
+    "lemma": "Μωσεμερα",
     "previous": "Mosella",
     "next": "Moser(a)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 359,
-        "author": "Hölscher"
+        "end": 359,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Moser(a)",
-    "previous": "Mosemera",
+    "previous": "Μωσεμερα",
     "next": "Moses 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 359,
-        "author": "Hölscher"
+        "end": 359,
+        "author": "Hölscher."
       }
     ]
   },
@@ -5228,10 +5290,12 @@
     "lemma": "Mosomagus",
     "previous": "Mosmes",
     "next": "Moson",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 375,
-        "author": "Besnier"
+        "end": 376,
+        "author": "M. Besnier."
       }
     ]
   },
@@ -5252,10 +5316,12 @@
     "lemma": "Mosoritae",
     "previous": "Moson",
     "next": "Μοσφοθά",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 376,
-        "author": "Kroll"
+        "end": 376,
+        "author": "Kroll."
       }
     ]
   },
@@ -5305,11 +5371,13 @@
     "lemma": "Mos(s)yna",
     "previous": "Mosses",
     "next": "Mossyneus",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygia Pacatiana",
     "chapters": [
       {
         "start": 376,
-        "author": "Ruge"
+        "end": 377,
+        "author": "Ruge."
       }
     ]
   },
@@ -5317,10 +5385,12 @@
     "lemma": "Mossyneus",
     "previous": "Mos(s)yna",
     "next": "Mossyni",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 377,
-        "author": "Kruse"
+        "end": 377,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -5341,11 +5411,13 @@
     "lemma": "Mossynoikoi",
     "previous": "Mossyni",
     "next": "Mossynos",
+    "proof_read": 0,
     "short_description": "Pontische Völkerschaft",
     "chapters": [
       {
         "start": 377,
-        "author": "Schachermeyr"
+        "end": 379,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -5353,10 +5425,12 @@
     "lemma": "Mossynos",
     "previous": "Mossynoikoi",
     "next": "Mostene",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 379,
-        "author": "Oberhummer"
+        "end": 379,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5364,11 +5438,13 @@
     "lemma": "Mostene",
     "previous": "Mossynos",
     "next": "Mostius mons",
+    "proof_read": 0,
     "short_description": "Stadt in Lydien",
     "chapters": [
       {
         "start": 379,
-        "author": "Kroll"
+        "end": 380,
+        "author": "Kroll."
       }
     ]
   },
@@ -5389,10 +5465,12 @@
     "lemma": "Mosychlos",
     "previous": "Mostius mons",
     "next": "Mosyloi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 380,
-        "author": "Zschietzschmann"
+        "end": 380,
+        "author": "Zschietzschmann."
       }
     ]
   },
@@ -5400,11 +5478,13 @@
     "lemma": "Mosyloi",
     "previous": "Mosychlos",
     "next": "Mosynoi",
+    "proof_read": 0,
     "short_description": "Volk an S-Küste d. Arabischen Meerbusens",
     "chapters": [
       {
         "start": 380,
-        "author": "Windberg"
+        "end": 381,
+        "author": "Windberg."
       }
     ]
   },
@@ -5438,40 +5518,46 @@
     "lemma": "Motella",
     "previous": "Mosynoikoi",
     "next": "Motha",
+    "proof_read": 0,
     "short_description": "Ethnikon Motel[l]enos auf Inschr. aus Medele",
     "chapters": [
       {
         "start": 381,
-        "author": "Ruge"
+        "end": 381,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Motha",
     "previous": "Motella",
-    "next": "Mothakes",
+    "next": "Μόθακες",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 381,
-        "author": "Hölscher"
+        "end": 382,
+        "author": "Hölscher."
       }
     ]
   },
   {
-    "lemma": "Mothakes",
+    "lemma": "Μόθακες",
     "previous": "Motha",
     "next": "Mothitae",
+    "proof_read": 0,
     "short_description": "Lakonische Bezeichnung einer Bevölkerungsgruppe in Sparta",
     "chapters": [
       {
         "start": 382,
-        "author": "Ehrenberg"
+        "end": 384,
+        "author": "Ehrenberg."
       }
     ]
   },
   {
     "lemma": "Mothitae",
-    "previous": "Mothakes",
+    "previous": "Μόθακες",
     "next": "Μωθώ 1",
     "redirect": "Maltitae",
     "proof_read": 2,
@@ -5526,7 +5612,7 @@
   {
     "lemma": "Mothone 2",
     "previous": "Mothone 1",
-    "next": "Mothones",
+    "next": "Μόθωνες",
     "redirect": "Methone 1",
     "proof_read": 2,
     "chapters": [
@@ -5537,20 +5623,22 @@
     ]
   },
   {
-    "lemma": "Mothones",
+    "lemma": "Μόθωνες",
     "previous": "Mothone 2",
     "next": "Mothris",
+    "proof_read": 0,
     "short_description": "Allgemeindorische Form für mothakes, Bezeichnung d. Kinder spartiat. Väter u.",
     "chapters": [
       {
         "start": 385,
-        "author": "Ehrenberg"
+        "end": 386,
+        "author": "Ehrenberg."
       }
     ]
   },
   {
     "lemma": "Mothris",
-    "previous": "Mothones",
+    "previous": "Μόθωνες",
     "next": "Μοτιηνή",
     "redirect": "Othris",
     "proof_read": 2,
@@ -5588,34 +5676,40 @@
   {
     "lemma": "Motreses",
     "previous": "Motilenus",
-    "next": "Mottia(?)",
+    "next": "Mottia (?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 386,
-        "author": "Fluss"
+        "end": 386,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Mottia(?)",
+    "lemma": "Mottia (?)",
     "previous": "Motreses",
     "next": "Motuturioi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 386,
-        "author": "Ruge"
+        "end": 386,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Motuturioi",
-    "previous": "Mottia(?)",
+    "previous": "Mottia (?)",
     "next": "Motya",
+    "proof_read": 0,
     "short_description": "Volksstamm in N-Afrika",
     "chapters": [
       {
         "start": 386,
-        "author": "Windberg"
+        "end": 386,
+        "author": "Windberg."
       }
     ]
   },
@@ -5623,11 +5717,13 @@
     "lemma": "Motya",
     "previous": "Motuturioi",
     "next": "Motyka",
+    "proof_read": 0,
     "short_description": "Phoinik. Stadt an d. W-Spitze Siziliens",
     "chapters": [
       {
         "start": 387,
-        "author": "Ziegler"
+        "end": 407,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5635,10 +5731,12 @@
     "lemma": "Motyka",
     "previous": "Motya",
     "next": "Motykanos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 407,
-        "author": "Ziegler"
+        "end": 407,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5646,10 +5744,12 @@
     "lemma": "Motykanos",
     "previous": "Motyka",
     "next": "Motylai",
+    "proof_read": 0,
     "chapters": [
       {
-        "start": 407,
-        "author": "Ziegler"
+        "start": 408,
+        "end": 408,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5657,10 +5757,12 @@
     "lemma": "Motylai",
     "previous": "Motykanos",
     "next": "Motylos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 408,
-        "author": "Ziegler"
+        "end": 408,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5681,10 +5783,12 @@
     "lemma": "Motyon",
     "previous": "Motylos",
     "next": "Mova",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 408,
-        "author": "Ziegler"
+        "end": 408,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5692,10 +5796,12 @@
     "lemma": "Mova",
     "previous": "Motyon",
     "next": "Mounus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 408,
-        "author": "Kroll"
+        "end": 408,
+        "author": "Kroll."
       }
     ]
   },
@@ -5716,11 +5822,13 @@
     "lemma": "Moxeanoi",
     "previous": "Mounus",
     "next": "Moxoene",
+    "proof_read": 0,
     "short_description": "Stamm in W-Phrygien",
     "chapters": [
       {
         "start": 408,
-        "author": "Ruge"
+        "end": 408,
+        "author": "Ruge."
       }
     ]
   },
@@ -5728,11 +5836,13 @@
     "lemma": "Moxoene",
     "previous": "Moxeanoi",
     "next": "Moxoritanus",
+    "proof_read": 0,
     "short_description": "Landschaft in Armenien",
     "chapters": [
       {
         "start": 409,
-        "author": "Schachermeyr"
+        "end": 409,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -5740,10 +5850,12 @@
     "lemma": "Moxoritanus",
     "previous": "Moxoene",
     "next": "Moxupolis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 409,
-        "author": "Kroll"
+        "end": 409,
+        "author": "Kroll."
       }
     ]
   },
@@ -5751,10 +5863,12 @@
     "lemma": "Moxupolis",
     "previous": "Moxoritanus",
     "next": "Moyses",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 409,
-        "author": "Ruge"
+        "end": 409,
+        "author": "Ruge."
       }
     ]
   },
@@ -5788,10 +5902,12 @@
     "lemma": "Moza",
     "previous": "Moystius mons",
     "next": "Μοζιάτα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 409,
-        "author": "Hölscher"
+        "end": 410,
+        "author": "Hölscher."
       }
     ]
   },
@@ -5841,10 +5957,12 @@
     "lemma": "Mu...",
     "previous": "Mozotcori",
     "next": "Muageris",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 410,
-        "author": "Fluss"
+        "end": 410,
+        "author": "Fluss."
       }
     ]
   },
@@ -5864,7 +5982,7 @@
   {
     "lemma": "Muawija",
     "previous": "Muageris",
-    "next": "Mucapor",
+    "next": "Muc(a t) urris vicus",
     "redirect": "Mavias",
     "proof_read": 2,
     "chapters": [
@@ -5875,13 +5993,16 @@
     ]
   },
   {
-    "lemma": "Muc(a t)urris vicus",
-    "previous": "Mucatra",
-    "next": "Mucella",
+    "lemma": "Muc(a t) urris vicus",
+    "previous": "Muawija",
+    "next": "Mucapor",
+    "sort_key": "Muc(at)urris vicus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 410,
-        "author": "Fluss"
+        "end": 410,
+        "author": "Fluss."
       }
     ]
   },
@@ -5942,17 +6063,19 @@
     "lemma": "Muchhthuzioi",
     "previous": "Mucheiresis",
     "next": "Mucia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 410,
-        "author": "Windberg"
+        "end": 411,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Mucia",
     "previous": "Muchhthuzioi",
-    "next": "Muciae arae",
+    "next": "Mucia prata",
     "redirect": "Soteria 2",
     "proof_read": 2,
     "chapters": [
@@ -5965,23 +6088,28 @@
   {
     "lemma": "Mucia prata",
     "previous": "Mucia",
-    "next": "Muciae arae",
+    "next": "Muciani castellum",
+    "sort_key": "Muciaprata",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 411,
         "end": 411,
-        "author": "W. Kroll."
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Muciae arae",
-    "previous": "Mucia",
+    "previous": "Mucia prata",
     "next": "Muciani castellum",
+    "sort_key": "Muciaearae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 411,
-        "author": "Philipp"
+        "end": 411,
+        "author": "Philipp."
       }
     ]
   },
@@ -5989,10 +6117,13 @@
     "lemma": "Muciani castellum",
     "previous": "Muciae arae",
     "next": "Mucianus 1",
+    "sort_key": "Mucianicastellum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 411,
-        "author": "Fluss"
+        "end": 411,
+        "author": "Fluss."
       }
     ]
   },
@@ -6069,10 +6200,12 @@
     "lemma": "Mucipara",
     "previous": "Mucillum",
     "next": "Mucius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 411,
-        "author": "Fluss"
+        "end": 412,
+        "author": "Fluss."
       }
     ]
   },
@@ -6080,11 +6213,13 @@
     "lemma": "Mucius",
     "previous": "Mucipara",
     "next": "Mucius 1",
+    "proof_read": 0,
     "short_description": "Röm. Gentilname",
     "chapters": [
       {
         "start": 412,
-        "author": "Münzer"
+        "end": 413,
+        "author": "Münzer."
       }
     ]
   },
@@ -6328,11 +6463,13 @@
     "lemma": "Mucius 18",
     "previous": "Mucius 17",
     "next": "Mucius 19",
+    "proof_read": 1,
     "short_description": "Scaevola, P., Pontifex 64 v. Chr.",
     "chapters": [
       {
         "start": 428,
-        "author": "Kübler, B[ernhard]"
+        "end": 429,
+        "author": "F. Münzer."
       }
     ]
   },
@@ -6494,10 +6631,12 @@
     "lemma": "Mucru",
     "previous": "Mucius 29",
     "next": "Mücke",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 450,
-        "author": "Fluss"
+        "end": 450,
+        "author": "Fluss."
       }
     ]
   },
@@ -6505,11 +6644,13 @@
     "lemma": "Mücke",
     "previous": "Mucru",
     "next": "Mühle",
+    "proof_read": 0,
     "short_description": "Insektenart",
     "chapters": [
       {
         "start": 450,
-        "author": "Steier"
+        "end": 454,
+        "author": "Steier."
       }
     ]
   },
@@ -6598,10 +6739,12 @@
     "lemma": "Mugilla",
     "previous": "Mugel",
     "next": "Mugilones",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 491,
-        "author": "Philipp"
+        "end": 491,
+        "author": "Philipp."
       }
     ]
   },
@@ -6609,10 +6752,12 @@
     "lemma": "Mugilones",
     "previous": "Mugilla",
     "next": "Mugionia porta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 491,
-        "author": "Schönfeld"
+        "end": 491,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -6620,10 +6765,13 @@
     "lemma": "Mugionia porta",
     "previous": "Mugilones",
     "next": "Mugius",
+    "sort_key": "Mugioniaporta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 492,
-        "author": "Weinstock"
+        "end": 492,
+        "author": "Weinstock."
       }
     ]
   },
@@ -6631,11 +6779,13 @@
     "lemma": "Mugius",
     "previous": "Mugionia porta",
     "next": "Muguae",
+    "proof_read": 0,
     "short_description": "s. Mugionia, Porta",
     "chapters": [
       {
         "start": 492,
-        "author": "Münzer"
+        "end": 492,
+        "author": "Münzer."
       }
     ]
   },
@@ -7181,11 +7331,13 @@
     "lemma": "Mumienportäts",
     "previous": "Mumastos",
     "next": "Mummius",
+    "proof_read": 0,
     "short_description": "Hauptsächlich aus Fayûm aus d. Kaiserzeit",
     "chapters": [
       {
         "start": 518,
-        "author": "Drerup"
+        "end": 523,
+        "author": "H. Drerup."
       }
     ]
   },
@@ -9200,7 +9352,7 @@
     "lemma": "Muriane",
     "previous": "Muria",
     "next": "Muriatha",
-    "redirect": "Morimene",
+    "redirect": "Μοριμηνή",
     "proof_read": 2,
     "chapters": [
       {
@@ -9279,7 +9431,7 @@
     "lemma": "Murimene",
     "previous": "Murileguli",
     "next": "Murionio",
-    "redirect": "Morimene",
+    "redirect": "Μοριμηνή",
     "proof_read": 2,
     "chapters": [
       {
@@ -13499,7 +13651,7 @@
   {
     "lemma": "Myrinus 1",
     "previous": "Myrinus 2",
-    "next": "Myrinus 2",
+    "next": "Myrioi",
     "proof_read": 2,
     "short_description": "Gladiator",
     "chapters": [
