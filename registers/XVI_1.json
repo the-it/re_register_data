@@ -313,10 +313,12 @@
     "lemma": "Μολογηνοί",
     "previous": "Moloeis",
     "next": "Molon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 9,
-        "author": "Herrmann"
+        "end": 9,
+        "author": "A. Herrmann."
       }
     ]
   },
@@ -3833,7 +3835,7 @@
   {
     "lemma": "Morifanum",
     "previous": "Moriêl",
-    "next": "Μοριχάμβη",
+    "next": "Μορικάμβη",
     "proof_read": 0,
     "chapters": [
       {
@@ -3844,7 +3846,7 @@
     ]
   },
   {
-    "lemma": "Μοριχάμβη",
+    "lemma": "Μορικάμβη",
     "previous": "Morifanum",
     "next": "Morimarusa",
     "sort_key": "Morikambe",
@@ -3859,7 +3861,7 @@
   },
   {
     "lemma": "Morimarusa",
-    "previous": "Μοριχάμβη",
+    "previous": "Μορικάμβη",
     "next": "Μοριμηνή",
     "proof_read": 0,
     "chapters": [
@@ -4398,7 +4400,7 @@
   },
   {
     "lemma": "Μοροῦνδα 1",
-    "previous": "Morum, ad",
+    "previous": "Morum",
     "next": "Μοροῦνδα 2",
     "sort_key": "Morunda",
     "redirect": "Marundai 2",
@@ -4645,10 +4647,13 @@
     "lemma": "Μοσχικὰ ὄρη",
     "previous": "Moschianus",
     "next": "Moschine",
+    "sort_key": "Moschika ore",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 344,
-        "author": "Herrmann"
+        "end": 344,
+        "author": "Albert Herrmann."
       }
     ]
   },
@@ -4974,11 +4979,14 @@
     "lemma": "Μοσχοσφραγιστής",
     "previous": "Moschos 8",
     "next": "Moschus",
+    "sort_key": "Moschosphragistes",
+    "proof_read": 0,
     "short_description": "Mitglied einer bes. Priestergruppe in Ägypten",
     "chapters": [
       {
         "start": 356,
-        "author": "Kießling, Emil"
+        "end": 358,
+        "author": "Emil Kießling."
       }
     ]
   },
@@ -5080,7 +5088,9 @@
     "lemma": "Μωσεμερα",
     "previous": "Mosella",
     "next": "Moser(a)",
-    "proof_read": 0,
+    "sort_key": "Mosemera",
+    "proof_read": 2,
+    "short_description": "Ort im Hauran",
     "chapters": [
       {
         "start": 359,
@@ -5558,7 +5568,7 @@
   {
     "lemma": "Mothitae",
     "previous": "Μόθακες",
-    "next": "Μωθώ 1",
+    "next": "Motho 1",
     "redirect": "Maltitae",
     "proof_read": 2,
     "chapters": [
@@ -5569,20 +5579,23 @@
     ]
   },
   {
-    "lemma": "Μωθώ 1",
+    "lemma": "Motho 1",
     "previous": "Mothitae",
     "next": "Μωθώ 2",
+    "sort_key": "Motho 1",
+    "proof_read": 0,
     "short_description": "Dorf in Arabien",
     "chapters": [
       {
         "start": 384,
-        "author": "Honigmann"
+        "end": 384,
+        "author": "Ernst Honigmann."
       }
     ]
   },
   {
     "lemma": "Μωθώ 2",
-    "previous": "Μωθώ 1",
+    "previous": "Motho 1",
     "next": "Mothone 1",
     "sort_key": "Motho 2",
     "proof_read": 2,
@@ -5639,7 +5652,7 @@
   {
     "lemma": "Mothris",
     "previous": "Μόθωνες",
-    "next": "Μοτιηνή",
+    "next": "Motiene",
     "redirect": "Othris",
     "proof_read": 2,
     "chapters": [
@@ -5650,19 +5663,22 @@
     ]
   },
   {
-    "lemma": "Μοτιηνή",
+    "lemma": "Motiene",
     "previous": "Mothris",
     "next": "Motilenus",
+    "sort_key": "Motiene",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 386,
-        "author": "Kroll"
+        "end": 386,
+        "author": "W. Kroll"
       }
     ]
   },
   {
     "lemma": "Motilenus",
-    "previous": "Μοτιηνή",
+    "previous": "Motiene",
     "next": "Motreses",
     "proof_read": 0,
     "chapters": [
@@ -6035,9 +6051,9 @@
   },
   {
     "lemma": "Mucella",
-    "previous": "Muc(a t)urris vicus",
+    "previous": "Muc(a t) urris vicus",
     "next": "Mucheiresis",
-    "redirect": "Mukelle",
+    "redirect": "Μουκέλλη",
     "proof_read": 2,
     "chapters": [
       {
@@ -6690,11 +6706,13 @@
     "lemma": "Münzbeamte",
     "previous": "Mündigkeit",
     "next": "Münzverbrechen",
+    "proof_read": 0,
     "short_description": "Die auf Münzen genannten Beamten",
     "chapters": [
       {
         "start": 455,
-        "author": "Regling"
+        "end": 455,
+        "author": "Regling."
       }
     ]
   },
@@ -6702,11 +6720,13 @@
     "lemma": "Münzverbrechen",
     "previous": "Münzbeamte",
     "next": "Münzwesen",
+    "proof_read": 0,
     "short_description": "Verstöße gg. Regelungen d. Münzverkehrs in Rom",
     "chapters": [
       {
         "start": 455,
-        "author": "Taubenschlag"
+        "end": 457,
+        "author": "Taubenschlag."
       }
     ]
   },
@@ -6714,11 +6734,13 @@
     "lemma": "Münzwesen",
     "previous": "Münzverbrechen",
     "next": "Mugel",
+    "proof_read": 0,
     "short_description": "Zahlungsmittel",
     "chapters": [
       {
         "start": 457,
-        "author": "Regling"
+        "end": 491,
+        "author": "Regling."
       }
     ]
   },
@@ -6820,11 +6842,13 @@
     "lemma": "Muicurum",
     "previous": "Muicius",
     "next": "Muis",
+    "proof_read": 0,
     "short_description": "Ort in d. Gegend v. Siccum",
     "chapters": [
       {
         "start": 492,
-        "author": "Fluss"
+        "end": 493,
+        "author": "Fluss."
       }
     ]
   },
@@ -6845,7 +6869,7 @@
   {
     "lemma": "Mukaporis",
     "previous": "Muis",
-    "next": "Mukelle",
+    "next": "Μουκέλλη",
     "redirect": "Bosporos 1",
     "proof_read": 2,
     "wd_link": "d:Q70253644",
@@ -6857,20 +6881,23 @@
     ]
   },
   {
-    "lemma": "Mukelle",
+    "lemma": "Μουκέλλη",
     "previous": "Mukaporis",
     "next": "Μουκιάλλη",
+    "sort_key": "Mukelle",
+    "proof_read": 0,
     "short_description": "Mukialle",
     "chapters": [
       {
         "start": 493,
-        "author": "Philipp"
+        "end": 493,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Μουκιάλλη",
-    "previous": "Mukelle",
+    "previous": "Μουκέλλη",
     "next": "Mukieia",
     "sort_key": "Mukialle",
     "redirect": "Mukelle",
@@ -6912,10 +6939,12 @@
     "lemma": "Mukunoi",
     "previous": "Mukissos",
     "next": "Mula",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 493,
-        "author": "Kroll"
+        "end": 493,
+        "author": "Kroll."
       }
     ]
   },
@@ -6935,34 +6964,41 @@
   {
     "lemma": "Mulaka(?)",
     "previous": "Mula",
-    "next": "Mulasseon",
+    "next": "Μουλασσέων",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 493,
-        "author": "Ruge"
+        "end": 493,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Mulasseon",
+    "lemma": "Μουλασσέων",
     "previous": "Mulaka(?)",
     "next": "Mulato",
+    "sort_key": "Mulasseon",
+    "proof_read": 0,
     "short_description": "ho demos -",
     "chapters": [
       {
         "start": 493,
-        "author": "Ruge"
+        "end": 493,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Mulato",
-    "previous": "Mulasseon",
+    "previous": "Μουλασσέων",
     "next": "Mulciber",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 494,
-        "author": "Fluss"
+        "end": 494,
+        "author": "Fluss."
       }
     ]
   },
@@ -6970,11 +7006,13 @@
     "lemma": "Mulciber",
     "previous": "Mulato",
     "next": "Mulelacha",
+    "proof_read": 0,
     "short_description": "Beiname d. Vulcanus",
     "chapters": [
       {
         "start": 494,
-        "author": "Mielentz"
+        "end": 495,
+        "author": "Mielentz."
       }
     ]
   },
@@ -6982,10 +7020,12 @@
     "lemma": "Mulelacha",
     "previous": "Mulciber",
     "next": "Muletas",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 495,
-        "author": "Windberg"
+        "end": 495,
+        "author": "Windberg."
       }
     ]
   },
@@ -6993,10 +7033,12 @@
     "lemma": "Muletas",
     "previous": "Mulelacha",
     "next": "Muliensis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 495,
-        "author": "Philipp"
+        "end": 495,
+        "author": "Philipp."
       }
     ]
   },
@@ -7017,11 +7059,13 @@
     "lemma": "Mulios",
     "previous": "Muliensis",
     "next": "Mulios 1",
+    "proof_read": 0,
     "short_description": "Epischer Name",
     "chapters": [
       {
         "start": 495,
-        "author": "Zwicker"
+        "end": 496,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -7093,11 +7137,13 @@
     "lemma": "Mulleus",
     "previous": "Mulios 4",
     "next": "Mullo",
+    "proof_read": 0,
     "short_description": "Meerbarbe (Fischart)",
     "chapters": [
       {
         "start": 496,
-        "author": "Schuppe"
+        "end": 496,
+        "author": "Schuppe."
       }
     ]
   },
@@ -7118,6 +7164,7 @@
     "lemma": "Mullus",
     "previous": "Mullo",
     "next": "Muloch",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 496,
@@ -7130,10 +7177,12 @@
     "lemma": "Muloch",
     "previous": "Mullus",
     "next": "Mulomedicina",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 503,
-        "author": "Preisendanz"
+        "end": 503,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -7141,11 +7190,13 @@
     "lemma": "Mulomedicina",
     "previous": "Muloch",
     "next": "Mulon",
+    "proof_read": 0,
     "short_description": "Veterinämedizinische Schrift",
     "chapters": [
       {
         "start": 503,
-        "author": "Hoppe"
+        "end": 513,
+        "author": "Karl Hoppe."
       }
     ]
   },
@@ -7153,10 +7204,12 @@
     "lemma": "Mulon",
     "previous": "Mulomedicina",
     "next": "Mulsum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 513,
-        "author": "Kees"
+        "end": 513,
+        "author": "Kees."
       }
     ]
   },
@@ -7209,11 +7262,13 @@
     "lemma": "Mulucha",
     "previous": "Multimammia",
     "next": "Mulvius 1",
+    "proof_read": 0,
     "short_description": "Fluß Libyens",
     "chapters": [
       {
         "start": 514,
-        "author": "Windberg"
+        "end": 516,
+        "author": "Windberg."
       }
     ]
   },
@@ -7291,11 +7346,19 @@
     "lemma": "Mulvius pons",
     "previous": "Mulvius 5",
     "next": "Mulus",
+    "sort_key": "Mulviuspons",
+    "proof_read": 0,
     "short_description": "Brücke, auf der die Via Flaminia d. Tiber überschreitet",
     "chapters": [
       {
         "start": 516,
-        "author": "Kroll"
+        "end": 517,
+        "author": "Kroll."
+      },
+      {
+        "start": 518,
+        "end": 518,
+        "author": "Hans Philipp."
       }
     ]
   },
@@ -7345,11 +7408,15 @@
     "lemma": "Mummius",
     "previous": "Mumienportäts",
     "next": "Mummius 1",
-    "short_description": "Praescriptio: Name eines plebej. Geschlechts bekannt durch den cos. Nr. 7a,",
+    "proof_read": 2,
+    "short_description": "plebejisches Geschlecht",
+    "wp_link": "w:de:Gens Mummia",
+    "wd_link": "d:Q30599377",
     "chapters": [
       {
         "start": 523,
-        "author": "Münzer"
+        "end": 523,
+        "author": "Münzer."
       }
     ]
   },
@@ -8165,10 +8232,13 @@
     "lemma": "Munatii Plancii 26ff.",
     "previous": "Munatius 25",
     "next": "Munatius 26",
+    "sort_key": "Munatiiplancii 26ff.",
+    "proof_read": 0,
     "short_description": "Praescriptio: der Beiname Plancus ist in der angesehensten Familie der Munatii",
     "chapters": [
       {
         "start": 541,
+        "end": 541,
         "author": "Münzer."
       }
     ]
@@ -8474,11 +8544,13 @@
     "lemma": "Munda 1",
     "previous": "Munatius 46",
     "next": "Munda 2",
+    "proof_read": 0,
     "short_description": "Stadt bei Cordoba, berühmter Schlachtort",
     "chapters": [
       {
         "start": 557,
-        "author": "Schulten"
+        "end": 558,
+        "author": "Schulten."
       }
     ]
   },
@@ -8486,11 +8558,13 @@
     "lemma": "Munda 2",
     "previous": "Munda 1",
     "next": "Mundepa",
+    "proof_read": 0,
     "short_description": "Ort in Keltiberien",
     "chapters": [
       {
         "start": 558,
-        "author": "Schulten"
+        "end": 558,
+        "author": "Schulten."
       }
     ]
   },
@@ -8498,10 +8572,12 @@
     "lemma": "Mundepa",
     "previous": "Munda 2",
     "next": "Munderich",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 558,
-        "author": "Fluss"
+        "end": 558,
+        "author": "Fluss."
       }
     ]
   },
@@ -8616,11 +8692,13 @@
     "lemma": "Mundus 1",
     "previous": "Mundo",
     "next": "Mundus 2",
+    "proof_read": 0,
     "short_description": "Röm. Bezeichnung für eine Kultstätte der Unterirdischen",
     "chapters": [
       {
         "start": 560,
-        "author": "Kroll"
+        "end": 564,
+        "author": "Kroll."
       }
     ]
   },
@@ -8628,11 +8706,13 @@
     "lemma": "Mundus 2",
     "previous": "Mundus 1",
     "next": "Mundus 3",
+    "proof_read": 0,
     "short_description": "M. muliebris, röm. Bezeichnung für Kleidung u. Schmuck d. Frau",
     "chapters": [
       {
         "start": 564,
-        "author": "Kroll"
+        "end": 564,
+        "author": "Kroll."
       }
     ]
   },
@@ -8693,11 +8773,13 @@
     "lemma": "Munerarius",
     "previous": "Mundzuch",
     "next": "Munichia 1",
+    "proof_read": 0,
     "short_description": "Richtete Gladiatorenspiele u. Tierhetzen aus",
     "chapters": [
       {
         "start": 564,
-        "author": "Schneider, K[arl]"
+        "end": 565,
+        "author": "K. Schneider."
       }
     ]
   },
@@ -8705,11 +8787,13 @@
     "lemma": "Munichia 1",
     "previous": "Munerarius",
     "next": "Munichia 2",
+    "proof_read": 0,
     "short_description": "Kuppe mit Hafen u. Kastell d. Piräushalbinsel",
     "chapters": [
       {
         "start": 565,
-        "author": "Wrede"
+        "end": 568,
+        "author": "Wrede."
       }
     ]
   },
@@ -8717,11 +8801,13 @@
     "lemma": "Munichia 2",
     "previous": "Munichia 1",
     "next": "Munichia 3",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Artemis, 2. d. Hekate",
     "chapters": [
       {
         "start": 568,
-        "author": "Kruse"
+        "end": 568,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -8742,11 +8828,13 @@
     "lemma": "Munichion",
     "previous": "Munichia 3",
     "next": "Munichios",
+    "proof_read": 0,
     "short_description": "Monatsname d. athen. Jahres",
     "chapters": [
       {
         "start": 568,
-        "author": "Sontheimer"
+        "end": 569,
+        "author": "Walther Sontheimer."
       }
     ]
   },
@@ -8754,10 +8842,12 @@
     "lemma": "Munichios",
     "previous": "Munichion",
     "next": "Munichos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 569,
-        "author": "Kruse"
+        "end": 569,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -8842,11 +8932,13 @@
     "lemma": "Municipium 1",
     "previous": "Munichos 3",
     "next": "Municipium 2",
+    "proof_read": 0,
     "short_description": "Städtisches Gemeinwesen",
     "chapters": [
       {
         "start": 570,
-        "author": "Kornemann"
+        "end": 638,
+        "author": "Kornemann."
       }
     ]
   },
@@ -8854,11 +8946,13 @@
     "lemma": "Municipium 2",
     "previous": "Municipium 1",
     "next": "Municipium 3",
+    "proof_read": 0,
     "short_description": "Ort in Moesia superior",
     "chapters": [
       {
         "start": 638,
-        "author": "Saria"
+        "end": 638,
+        "author": "B. Saria."
       }
     ]
   },
@@ -8866,11 +8960,13 @@
     "lemma": "Municipium 3",
     "previous": "Municipium 2",
     "next": "Munienses",
+    "proof_read": 0,
     "short_description": "Latobicorum s. Neviodunum",
     "chapters": [
       {
         "start": 638,
-        "author": "Saria"
+        "end": 639,
+        "author": "B. Saria."
       }
     ]
   },
@@ -8878,10 +8974,12 @@
     "lemma": "Munienses",
     "previous": "Municipium 3",
     "next": "Munigua",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 639,
-        "author": "Philipp"
+        "end": 639,
+        "author": "Philipp."
       }
     ]
   },
@@ -8889,10 +8987,12 @@
     "lemma": "Munigua",
     "previous": "Munienses",
     "next": "Munimentum Corbulonis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 639,
-        "author": "Schulten"
+        "end": 639,
+        "author": "Schulten."
       }
     ]
   },
@@ -8900,11 +9000,14 @@
     "lemma": "Munimentum Corbulonis",
     "previous": "Munigua",
     "next": "Munimentum Traiani",
+    "sort_key": "Munimentumcorbulonis",
+    "proof_read": 0,
     "short_description": "Röm. Kastell im Gebiet d. Frisii",
     "chapters": [
       {
         "start": 639,
-        "author": "Franke"
+        "end": 639,
+        "author": "Franke."
       }
     ]
   },
@@ -8912,11 +9015,14 @@
     "lemma": "Munimentum Traiani",
     "previous": "Munimentum Corbulonis",
     "next": "Munimentum Valentiniani",
+    "sort_key": "Munimentumtraiani",
+    "proof_read": 0,
     "short_description": "Röm. Kastell im Gebiet d. Alamannen",
     "chapters": [
       {
         "start": 639,
-        "author": "Franke"
+        "end": 640,
+        "author": "Franke."
       }
     ]
   },
@@ -8924,41 +9030,49 @@
     "lemma": "Munimentum Valentiniani",
     "previous": "Munimentum Traiani",
     "next": "Munio",
+    "sort_key": "Munimentumvalentiniani",
+    "proof_read": 0,
     "short_description": "Röm. Kastell an d. Mündung d. Neckars am rechten Rheinufer",
     "chapters": [
       {
         "start": 640,
-        "author": "Franke"
+        "end": 641,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Munio",
     "previous": "Munimentum Valentiniani",
-    "next": "Munition",
+    "next": "Μουνίτιον",
+    "proof_read": 0,
     "short_description": "s. Minio",
     "chapters": [
       {
         "start": 641,
-        "author": "Philipp"
+        "end": 641,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Munition",
+    "lemma": "Μουνίτιον",
     "previous": "Munio",
     "next": "Munitos",
+    "sort_key": "Munition",
+    "proof_read": 0,
     "short_description": "Stadt in Germania magna",
     "chapters": [
       {
         "start": 641,
-        "author": "Franke"
+        "end": 642,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Munitos",
-    "previous": "Munition",
+    "previous": "Μουνίτιον",
     "next": "Munius",
     "redirect": "Munichos 1",
     "proof_read": 2,
@@ -8973,11 +9087,13 @@
     "lemma": "Munius",
     "previous": "Munitos",
     "next": "Munius 1",
+    "proof_read": 0,
     "short_description": "Röm. Gentilname",
     "chapters": [
       {
         "start": 642,
-        "author": "Münzer"
+        "end": 642,
+        "author": "Münzer."
       }
     ]
   },
@@ -9026,17 +9142,33 @@
   {
     "lemma": "Munogeneia",
     "previous": "Munius 3",
-    "next": "munthu, munth(u)x",
+    "next": "munθu, munθ(u)χ",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 643,
-        "author": "Kruse"
+        "end": 643,
+        "author": "gr. Kruse."
+      }
+    ]
+  },
+  {
+    "lemma": "munθu, munθ(u)χ",
+    "previous": "Munogeneia",
+    "next": "munθuχ",
+    "sort_key": "munthu,munth(u)x",
+    "proof_read": 0,
+    "short_description": "Benennung einer weibl. Gestalt auf etr. Spiegeln",
+    "chapters": [
+      {
+        "start": 643,
+        "end": 644,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "munthu, munth(u)x",
-    "previous": "Munogeneia",
     "next": "munθuχ",
     "short_description": "Benennung einer weibl. Gestalt auf etr. Spiegeln",
     "chapters": [
@@ -9063,7 +9195,7 @@
   {
     "lemma": "Muntobriga",
     "previous": "munθuχ",
-    "next": "Muntzaron",
+    "next": "Μούντζαρον",
     "redirect": "Montobriga",
     "proof_read": 2,
     "chapters": [
@@ -9074,7 +9206,7 @@
     ]
   },
   {
-    "lemma": "Muntzaron",
+    "lemma": "Μούντζαρον",
     "previous": "Muntobriga",
     "next": "Munus",
     "short_description": "Armen. Gebirge",
@@ -9087,13 +9219,15 @@
   },
   {
     "lemma": "Munus",
-    "previous": "Muntzaron",
+    "previous": "Μούντζαρον",
     "next": "Munus 2",
+    "proof_read": 0,
     "short_description": "Leistung eines Privaten an einen Privaten, an Staat o. Stadt",
     "chapters": [
       {
         "start": 644,
-        "author": "Kübler, B[ernhard]"
+        "end": 651,
+        "author": "Kübler."
       }
     ]
   },
@@ -9128,10 +9262,12 @@
     "lemma": "Munychiatis",
     "previous": "Munychia",
     "next": "Munychion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 651,
-        "author": "Grohmann"
+        "end": 651,
+        "author": "Grohmann."
       }
     ]
   },
@@ -9151,7 +9287,7 @@
   {
     "lemma": "Munychos",
     "previous": "Munychion",
-    "next": "Muonius(?) Maternus",
+    "next": "Muonius (?) Maternus",
     "redirect": "Munichos 1",
     "proof_read": 2,
     "chapters": [
@@ -9162,28 +9298,31 @@
     ]
   },
   {
-    "lemma": "Muonius(?) Maternus",
+    "lemma": "Muonius (?) Maternus",
     "previous": "Munychos",
     "next": "Muraene",
     "sort_key": "Muonius(?)maternus",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "in einer Grabinschrift aus Bononia erwähnt",
     "chapters": [
       {
         "start": 652,
         "end": 652,
-        "author": "Fluss."
+        "author": "Max Fluss."
       }
     ]
   },
   {
     "lemma": "Muraene",
-    "previous": "Muonius(?) Maternus",
+    "previous": "Muonius (?) Maternus",
     "next": "Murannimal",
+    "proof_read": 0,
     "short_description": "Fischart",
     "chapters": [
       {
         "start": 652,
-        "author": "Steier"
+        "end": 657,
+        "author": "Steier."
       }
     ]
   },
@@ -9191,10 +9330,12 @@
     "lemma": "Murannimal",
     "previous": "Muraene",
     "next": "Muranum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 657,
-        "author": "Weissbach"
+        "end": 657,
+        "author": "Weissbach."
       }
     ]
   },
@@ -9202,10 +9343,12 @@
     "lemma": "Muranum",
     "previous": "Murannimal",
     "next": "Muranus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 657,
-        "author": "Philipp"
+        "end": 657,
+        "author": "Philipp."
       }
     ]
   },
@@ -9213,12 +9356,14 @@
     "lemma": "Muranus",
     "previous": "Muranum",
     "next": "Murbogi",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Bischof von Bolitana nach 391 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 657,
         "end": 657,
-        "author": "Enßlin."
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9239,11 +9384,15 @@
     "lemma": "Murcia",
     "previous": "Murbogi",
     "next": "Murdia",
+    "proof_read": 0,
     "short_description": "Röm. Göttin",
+    "wp_link": "w:en:Murcia (deity)",
+    "wd_link": "d:Q6937575",
     "chapters": [
       {
         "start": 657,
-        "author": "Mielentz"
+        "end": 659,
+        "author": "Mielentz."
       }
     ]
   },
@@ -9265,9 +9414,11 @@
     "lemma": "Murena 1",
     "previous": "Murdia",
     "next": "Murena 2",
-    "redirect": "Ablabius  4 Licinius  118-124 Pompeius",
-    "proof_read": 0,
-    "short_description": "s. Ablabius Nr. 4 Licinius Nr. 118-124 Pompeius",
+    "redirect": "Ablabius 4",
+    "proof_read": 2,
+    "short_description": "Cognomen, Verweise auf Namensträger",
+    "wp_link": "w:ca:Murena (cognom)",
+    "wd_link": "d:Q1170990",
     "chapters": [
       {
         "start": 660,
@@ -9306,11 +9457,15 @@
     "lemma": "Murgantia",
     "previous": "Murex",
     "next": "Murgillo",
+    "proof_read": 0,
     "short_description": "Ort in Samnium",
+    "wp_link": "w:ca:Murgàntia",
+    "wd_link": "d:Q20108523",
     "chapters": [
       {
         "start": 660,
-        "author": "Philipp"
+        "end": 660,
+        "author": "Philipp."
       }
     ]
   },
@@ -9318,10 +9473,13 @@
     "lemma": "Murgillo",
     "previous": "Murgantia",
     "next": "Murgis",
+    "proof_read": 0,
+    "short_description": "Ort, vermutlich = Mursella",
     "chapters": [
       {
         "start": 660,
-        "author": "Fluss"
+        "end": 661,
+        "author": "Fluss."
       }
     ]
   },
@@ -9329,10 +9487,12 @@
     "lemma": "Murgis",
     "previous": "Murgillo",
     "next": "Muria",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 661,
-        "author": "Schulten"
+        "end": 661,
+        "author": "Schulten."
       }
     ]
   },
@@ -9340,11 +9500,13 @@
     "lemma": "Muria",
     "previous": "Murgis",
     "next": "Muriane",
+    "proof_read": 0,
     "short_description": "Salzlake, Fischbrühe",
     "chapters": [
       {
         "start": 661,
-        "author": "Hug"
+        "end": 662,
+        "author": "Hug."
       }
     ]
   },
@@ -9419,11 +9581,13 @@
     "lemma": "Murileguli",
     "previous": "Murig 2",
     "next": "Murimene",
+    "proof_read": 0,
     "short_description": "Purpurfischer",
     "chapters": [
       {
         "start": 662,
-        "author": "Hug"
+        "end": 662,
+        "author": "Hug."
       }
     ]
   },
@@ -9444,10 +9608,12 @@
     "lemma": "Murionio",
     "previous": "Murimene",
     "next": "Muris..",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 662,
-        "author": "MacDonald"
+        "end": 662,
+        "author": "MacDonald."
       }
     ]
   },
@@ -9481,10 +9647,12 @@
     "lemma": "Murmateia (?)",
     "previous": "Muritta",
     "next": "Murmeltier",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 663,
-        "author": "Ruge"
+        "end": 663,
+        "author": "W. Ruge."
       }
     ]
   },
@@ -9492,11 +9660,13 @@
     "lemma": "Murmeltier",
     "previous": "Murmateia (?)",
     "next": "Murmillo",
+    "proof_read": 0,
     "short_description": "Tierart",
     "chapters": [
       {
         "start": 663,
-        "author": "Steier"
+        "end": 664,
+        "author": "Steier."
       }
     ]
   },
@@ -9504,11 +9674,13 @@
     "lemma": "Murmillo",
     "previous": "Murmeltier",
     "next": "Murmunta",
+    "proof_read": 0,
     "short_description": "Gladiatorenart",
     "chapters": [
       {
         "start": 664,
-        "author": "Schneider, K[arl]"
+        "end": 667,
+        "author": "K. Schneider."
       }
     ]
   },
@@ -9529,10 +9701,12 @@
     "lemma": "Murmustra",
     "previous": "Murmunta",
     "next": "Muro",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 667,
-        "author": "Ruge"
+        "end": 667,
+        "author": "Ruge."
       }
     ]
   },
@@ -9540,11 +9714,13 @@
     "lemma": "Muro",
     "previous": "Murmustra",
     "next": "Murocincta",
+    "proof_read": 0,
     "short_description": "Ort in Raetien",
     "chapters": [
       {
         "start": 667,
-        "author": "Fluss"
+        "end": 667,
+        "author": "Fluss."
       }
     ]
   },
@@ -9552,10 +9728,12 @@
     "lemma": "Murocincta",
     "previous": "Muro",
     "next": "ad Muros 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 667,
-        "author": "Fluss"
+        "end": 667,
+        "author": "Fluss."
       }
     ]
   },
@@ -9650,11 +9828,13 @@
     "lemma": "Murrina 1",
     "previous": "Murrentius",
     "next": "Murrina 2",
-    "short_description": "= murrinum sc. vinum, mit Myrrhe gewürzter Wein",
+    "proof_read": 0,
+    "short_description": "murrinum sc. vinum, mit Myrrhe gewürzter Wein",
     "chapters": [
       {
         "start": 669,
-        "author": "Schneider, K[arl]"
+        "end": 669,
+        "author": "K. Schneider."
       }
     ]
   },
@@ -9730,11 +9910,13 @@
     "lemma": "Mursa",
     "previous": "Murrus",
     "next": "Mursa maior",
+    "proof_read": 0,
     "short_description": "Bedeutende Stadt am Dravus in Pannonia inferior, heute Osiek",
     "chapters": [
       {
         "start": 670,
-        "author": "Fluss"
+        "end": 676,
+        "author": "Fluss."
       }
     ]
   },
@@ -9742,11 +9924,14 @@
     "lemma": "Mursa maior",
     "previous": "Mursa",
     "next": "Mursa minor",
+    "sort_key": "Mursamaior",
+    "proof_read": 0,
     "short_description": "Ort in d. Tab.Peut. in Geogr.Rav. s. Mursa",
     "chapters": [
       {
         "start": 676,
-        "author": "Fluss"
+        "end": 676,
+        "author": "Fluss."
       }
     ]
   },
@@ -9754,11 +9939,14 @@
     "lemma": "Mursa minor",
     "previous": "Mursa maior",
     "next": "Mursella",
+    "sort_key": "Mursaminor",
+    "proof_read": 0,
     "short_description": "Ort in d. Tab.Peut. in Geogr.Rav.",
     "chapters": [
       {
         "start": 676,
-        "author": "Fluss"
+        "end": 677,
+        "author": "Fluss."
       }
     ]
   },
@@ -9766,11 +9954,13 @@
     "lemma": "Mursella",
     "previous": "Mursa minor",
     "next": "Mursi",
+    "proof_read": 0,
     "short_description": "Ort in Pannonia superior",
     "chapters": [
       {
         "start": 677,
-        "author": "Fluss"
+        "end": 678,
+        "author": "Fluss."
       }
     ]
   },
@@ -9806,11 +9996,14 @@
     "lemma": "Mursianus Lacus",
     "previous": "Mursia",
     "next": "Mursina",
+    "sort_key": "Mursianuslacus",
+    "proof_read": 0,
     "short_description": "Wohl identisch mit d. stagnus Mursianus, Sumpfgebiet im Donaudelta",
     "chapters": [
       {
         "start": 678,
-        "author": "Fluss"
+        "end": 679,
+        "author": "Fluss."
       }
     ]
   },
@@ -9818,10 +10011,12 @@
     "lemma": "Mursina",
     "previous": "Mursianus Lacus",
     "next": "Mursinense Oppidum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 679,
-        "author": "Kroll"
+        "end": 679,
+        "author": "Kroll."
       }
     ]
   },
@@ -9980,10 +10175,12 @@
     "lemma": "Musagetes",
     "previous": "Musaeus",
     "next": "Musagorai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 680,
-        "author": "Kroll"
+        "end": 680,
+        "author": "Kroll."
       }
     ]
   },
@@ -9991,11 +10188,13 @@
     "lemma": "Musagorai",
     "previous": "Musagetes",
     "next": "Musai 1",
+    "proof_read": 0,
     "short_description": "Drei kleine Inseln an d. W-Küste Kretas",
     "chapters": [
       {
         "start": 680,
-        "author": "Zschietzschmann"
+        "end": 680,
+        "author": "Zschietzschmann."
       }
     ]
   },
@@ -10003,11 +10202,13 @@
     "lemma": "Musai 1",
     "previous": "Musagorai",
     "next": "Musai 2",
+    "proof_read": 0,
     "short_description": "Weibl. gr. Gottheiten",
     "chapters": [
       {
         "start": 680,
-        "author": "Mayer"
+        "end": 757,
+        "author": "Maximilian Mayer."
       }
     ]
   },
@@ -10015,11 +10216,13 @@
     "lemma": "Musai 2",
     "previous": "Musai 1",
     "next": "Musaios 1",
+    "proof_read": 0,
     "short_description": "Röm. Station an d. ostufrigen Heerstraße in Mittelägypten",
     "chapters": [
       {
         "start": 757,
-        "author": "Kees"
+        "end": 757,
+        "author": "Kees."
       }
     ]
   },
@@ -10097,11 +10300,13 @@
     "lemma": "Musaios 6",
     "previous": "Musaios 5",
     "next": "Musaios 7",
+    "proof_read": 0,
     "short_description": "Ägypt. Bischof 404 n. Chr.",
     "chapters": [
       {
         "start": 769,
-        "author": "Enßlin"
+        "end": 769,
+        "author": "W. Enßlin."
       }
     ]
   },
