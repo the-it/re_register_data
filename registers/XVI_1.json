@@ -114,7 +114,7 @@
     "previous": "Molensis",
     "next": "Molibai",
     "proof_read": 2,
-    "short_description": "personifizierten Kampfmühen",
+    "short_description": "Moles Martis, die personifizierten Kampfmühen",
     "chapters": [
       {
         "start": 2,
@@ -4592,7 +4592,7 @@
     "lemma": "Mosarna",
     "previous": "Μωσαῖος",
     "next": "Moscha",
-    "redirect": "Musarna",
+    "redirect": "Μουσάρνα",
     "proof_read": 2,
     "chapters": [
       {
@@ -4965,7 +4965,7 @@
   {
     "lemma": "Moschos 8",
     "previous": "Moschos 7",
-    "next": "Μοσχοσφραγιστής",
+    "next": "Moschosphragistes",
     "redirect": "Moschus",
     "proof_read": 2,
     "chapters": [
@@ -4976,7 +4976,7 @@
     ]
   },
   {
-    "lemma": "Μοσχοσφραγιστής",
+    "lemma": "Moschosphragistes",
     "previous": "Moschos 8",
     "next": "Moschus",
     "sort_key": "Moschosphragistes",
@@ -4992,7 +4992,7 @@
   },
   {
     "lemma": "Moschus",
-    "previous": "Μοσχοσφραγιστής",
+    "previous": "Moschosphragistes",
     "next": "Moscius mons",
     "proof_read": 0,
     "chapters": [
@@ -5998,7 +5998,7 @@
   {
     "lemma": "Muawija",
     "previous": "Muageris",
-    "next": "Muc(a t) urris vicus",
+    "next": "Mucapor",
     "redirect": "Mavias",
     "proof_read": 2,
     "chapters": [
@@ -6900,7 +6900,7 @@
     "previous": "Μουκέλλη",
     "next": "Mukieia",
     "sort_key": "Mukialle",
-    "redirect": "Mukelle",
+    "redirect": "Μουκέλλη",
     "proof_read": 2,
     "chapters": [
       {
@@ -9180,10 +9180,10 @@
   },
   {
     "lemma": "munθuχ",
-    "previous": "munthu, munth(u)x",
+    "previous": "munθu, munθ(u)χ",
     "next": "Muntobriga",
     "sort_key": "munthu",
-    "redirect": "munthu, munth(u)x",
+    "redirect": "munθu, munθ(u)χ",
     "proof_read": 2,
     "chapters": [
       {
@@ -10370,36 +10370,44 @@
   {
     "lemma": "Μουσαϊσταί",
     "previous": "Musaios 4a",
-    "next": "Musarna",
+    "next": "Μουσάρνα",
+    "sort_key": "Musaistai",
+    "proof_read": 0,
     "short_description": "Vereinsbezeichnung auf Rhodos",
     "chapters": [
       {
         "start": 770,
-        "author": "Poland"
+        "end": 770,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Musarna",
+    "lemma": "Μουσάρνα",
     "previous": "Μουσαϊσταί",
     "next": "Musaro",
-    "short_description": "Stadt an d. N-Küste d. Indischen Ozeans",
+    "sort_key": "Musarna",
+    "proof_read": 0,
+    "short_description": "Musarna, Stadt an der Nordküste des Indischen Ozeans",
     "chapters": [
       {
         "start": 771,
-        "author": "Weissbach"
+        "end": 771,
+        "author": "F. H. Weissbach."
       }
     ]
   },
   {
     "lemma": "Musaro",
-    "previous": "Musarna",
+    "previous": "Μουσάρνα",
     "next": "Musasir",
-    "short_description": "Ort an d. Küstenstraße von Salona zur Mündung d. Narflußes",
+    "proof_read": 0,
+    "short_description": "Ort an der Küstenstraße von Salona zur Mündung des Narflußes",
     "chapters": [
       {
         "start": 771,
-        "author": "Fluss"
+        "end": 772,
+        "author": "Max Fluss."
       }
     ]
   },
@@ -10407,11 +10415,13 @@
     "lemma": "Musasir",
     "previous": "Musaro",
     "next": "Musbanda",
+    "proof_read": 0,
     "short_description": "Urartäischer Vasallenstaat mit gleichnamiger Hauptstadt bei Topzanä",
     "chapters": [
       {
         "start": 772,
-        "author": "Sturm"
+        "end": 772,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -10419,11 +10429,13 @@
     "lemma": "Musbanda",
     "previous": "Musasir",
     "next": "Musca",
-    "short_description": "Stadt in d. kappadokischen strategia Antiochiane",
+    "proof_read": 0,
+    "short_description": "Stadt in der kappadokischen strategia Antiochiane",
     "chapters": [
       {
         "start": 772,
-        "author": "Ruge"
+        "end": 773,
+        "author": "W. Ruge."
       }
     ]
   },
@@ -10431,12 +10443,13 @@
     "lemma": "Musca",
     "previous": "Musbanda",
     "next": "Muscaria",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Cognomen",
     "chapters": [
       {
         "start": 773,
         "end": 773,
-        "author": "Münzer."
+        "author": "F. Münzer."
       }
     ]
   },
@@ -10444,10 +10457,14 @@
     "lemma": "Muscaria",
     "previous": "Musca",
     "next": "Muschegh",
+    "proof_read": 2,
+    "short_description": "Stadt der Vasconer in Spanien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 773,
-        "author": "Schulten"
+        "end": 773,
+        "author": "A. Schulten."
       }
     ]
   },
@@ -10469,11 +10486,13 @@
     "lemma": "Muscheln",
     "previous": "Muschegh",
     "next": "Muschg",
+    "proof_read": 0,
     "short_description": "Tiergattung",
     "chapters": [
       {
         "start": 773,
-        "author": "Steier"
+        "end": 796,
+        "author": "Steier."
       }
     ]
   },
@@ -10533,19 +10552,21 @@
   {
     "lemma": "Museia",
     "previous": "Muscus",
-    "next": "Museion 1",
+    "next": "Μουσεῖον 1",
+    "proof_read": 0,
     "short_description": "s. Musen Abschn. G",
     "chapters": [
       {
         "start": 797,
-        "author": "Kroll"
+        "end": 797,
+        "author": "Kroll."
       }
     ]
   },
   {
-    "lemma": "Museion 1",
+    "lemma": "Μουσεῖον 1",
     "previous": "Museia",
-    "next": "Museion 2",
+    "next": "Μουσεῖον 2",
     "short_description": "Stätte d. Musenverehrung, spez. in d. Akademie, Alexandria, d. Peripatos",
     "chapters": [
       {
@@ -10555,32 +10576,36 @@
     ]
   },
   {
-    "lemma": "Museion 2",
-    "previous": "Museion 1",
-    "next": "Museion 3",
+    "lemma": "Μουσεῖον 2",
+    "previous": "Μουσεῖον 1",
+    "next": "Μουσεῖον 3",
+    "proof_read": 0,
     "short_description": "Bei Thurion",
     "chapters": [
       {
         "start": 821,
-        "author": "Fiehn"
+        "end": 821,
+        "author": "Fiehn."
       }
     ]
   },
   {
-    "lemma": "Museion 3",
-    "previous": "Museion 2",
+    "lemma": "Μουσεῖον 3",
+    "previous": "Μουσεῖον 2",
     "next": "Muselios",
+    "proof_read": 0,
     "short_description": "Örtlichkeit am Olympos in Makedonien",
     "chapters": [
       {
         "start": 821,
-        "author": "Oberhummer"
+        "end": 821,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Muselios",
-    "previous": "Museion 3",
+    "previous": "Μουσεῖον 3",
     "next": "Musellius",
     "proof_read": 0,
     "chapters": [
@@ -10608,11 +10633,13 @@
     "lemma": "Musental",
     "previous": "Musellius",
     "next": "Museus 1",
+    "proof_read": 0,
     "short_description": "Tal v. Askra im Helikon",
     "chapters": [
       {
         "start": 821,
-        "author": "Fiehn"
+        "end": 822,
+        "author": "Fiehn."
       }
     ]
   },
@@ -10620,11 +10647,13 @@
     "lemma": "Museus 1",
     "previous": "Musental",
     "next": "Museus 2",
+    "proof_read": 0,
     "short_description": "Antiker Flußname d. heutigen Buzeu in Moesia inferior",
     "chapters": [
       {
         "start": 822,
-        "author": "Fluss"
+        "end": 822,
+        "author": "Fluss."
       }
     ]
   },
@@ -10645,11 +10674,13 @@
     "lemma": "Musge(-a?)",
     "previous": "Museus 2",
     "next": "Musia",
+    "proof_read": 0,
     "short_description": "Ort in Galatien",
     "chapters": [
       {
         "start": 822,
-        "author": "Ruge"
+        "end": 823,
+        "author": "Ruge."
       }
     ]
   },
@@ -10657,10 +10688,12 @@
     "lemma": "Musia",
     "previous": "Musge(-a?)",
     "next": "Musianus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 823,
-        "author": "Treidler"
+        "end": 823,
+        "author": "Treidler."
       }
     ]
   },
@@ -10681,10 +10714,12 @@
     "lemma": "Musiaticus",
     "previous": "Musianus",
     "next": "Musica",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 823,
-        "author": "Fluss"
+        "end": 823,
+        "author": "Fluss."
       }
     ]
   },
@@ -10692,10 +10727,12 @@
     "lemma": "Musica",
     "previous": "Musiaticus",
     "next": "Musice",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 823,
-        "author": "Hölscher"
+        "end": 823,
+        "author": "Hölscher."
       }
     ]
   },
@@ -10729,11 +10766,13 @@
     "lemma": "Musik",
     "previous": "Musicus",
     "next": "Musikanos",
+    "proof_read": 0,
     "short_description": "Antike Tonkunst",
     "chapters": [
       {
         "start": 823,
-        "author": "Vetter, Walther"
+        "end": 876,
+        "author": "Walter Vetter."
       }
     ]
   },
@@ -10755,11 +10794,18 @@
     "lemma": "Musikunterricht",
     "previous": "Musikanos",
     "next": "Musinus mons",
+    "proof_read": 0,
     "short_description": "1. Sein erzieherisches Ziel 2. Historisch",
     "chapters": [
       {
         "start": 877,
-        "author": "Vetter, Walther"
+        "end": 884,
+        "author": "Walter Vetter."
+      },
+      {
+        "start": 885,
+        "end": 892,
+        "author": "Aug. Hug."
       }
     ]
   },
@@ -10767,10 +10813,13 @@
     "lemma": "Musinus mons",
     "previous": "Musikunterricht",
     "next": "Musivarii",
+    "sort_key": "Musinusmons",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 892,
-        "author": "Philipp"
+        "end": 892,
+        "author": "Philipp."
       }
     ]
   },
@@ -10818,10 +10867,12 @@
     "lemma": "Muslubium",
     "previous": "Muskanda",
     "next": "Musochanes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 892,
-        "author": "Windberg"
+        "end": 892,
+        "author": "Windberg."
       }
     ]
   },
@@ -10856,10 +10907,12 @@
     "lemma": "Musones",
     "previous": "Musolamius",
     "next": "Musonianus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 893,
-        "author": "Windberg"
+        "end": 893,
+        "author": "Windberg."
       }
     ]
   },
@@ -11276,10 +11329,12 @@
     "lemma": "Muste",
     "previous": "Mustacius",
     "next": "Mustela 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 902,
-        "author": "Windberg"
+        "end": 902,
+        "author": "Windberg."
       }
     ]
   },
@@ -11287,11 +11342,13 @@
     "lemma": "Mustela 1",
     "previous": "Muste",
     "next": "Mustela 2",
+    "proof_read": 0,
     "short_description": "Wiesel, Frettchen (Tierart)",
     "chapters": [
       {
         "start": 902,
-        "author": "Steier"
+        "end": 908,
+        "author": "Steier."
       }
     ]
   },
@@ -11327,11 +11384,13 @@
     "lemma": "Mustela 4",
     "previous": "Mustela 3",
     "next": "Mustellinus murus",
+    "proof_read": 0,
     "short_description": "[M]ustila sp(ectabilis) f(emina), inschr. belegter Person, 5. Jh. n. Chr.",
     "chapters": [
       {
         "start": 909,
-        "author": "Enßlin"
+        "end": 909,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11339,10 +11398,13 @@
     "lemma": "Mustellinus murus",
     "previous": "Mustela 4",
     "next": "Mustelus",
+    "sort_key": "Mustellinusmurus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 909,
-        "author": "Kroll"
+        "end": 909,
+        "author": "Kroll."
       }
     ]
   },
@@ -13179,7 +13241,7 @@
   {
     "lemma": "Myle 3",
     "previous": "Myle 2",
-    "next": "Μυλειτῶν κατοικία",
+    "next": "Myleiton katoikia",
     "redirect": "Mylai 2",
     "proof_read": 2,
     "chapters": [
@@ -13190,7 +13252,7 @@
     ]
   },
   {
-    "lemma": "Μυλειτῶν κατοικία",
+    "lemma": "Myleiton katoikia",
     "previous": "Myle 3",
     "next": "Μύλης",
     "short_description": "Katoikie in Lydien",
@@ -13203,7 +13265,7 @@
   },
   {
     "lemma": "Μύλης",
-    "previous": "Μυλειτῶν κατοικία",
+    "previous": "Myleiton katoikia",
     "next": "Myleus",
     "proof_read": 0,
     "chapters": [
@@ -13316,7 +13378,7 @@
   {
     "lemma": "Myllos",
     "previous": "Myllias",
-    "next": "Mylon",
+    "next": "Mylon 1",
     "proof_read": 0,
     "short_description": "Komödiendichter in Athen, Zeitgenosse Epicharms",
     "chapters": [
