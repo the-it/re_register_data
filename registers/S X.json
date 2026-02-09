@@ -3502,6 +3502,7 @@
   {
     "lemma": "Cornuti",
     "previous": "Cornelius 459a",
+    "next": "creditum",
     "proof_read": 0,
     "short_description": "germ. Auxiliartruppen in spätröm. Zeit",
     "wp_link": "w:en:Cornuti",
@@ -3516,7 +3517,7 @@
   },
   {
     "lemma": "creditum",
-    "previous": "Uttiedius 1",
+    "previous": "Cornuti",
     "next": "Daduchos 3",
     "proof_read": 0,
     "short_description": "das Darlehen",
@@ -4874,10 +4875,11 @@
     "previous": "Eucharidas 2",
     "next": "Eudaimon 3a",
     "sort_key": "Eucharis",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Tänzerin und Mimin in der röm.-republikanischen Zeit",
     "wp_link": "w:de:Eucharis (Schauspielerin)",
     "wd_link": "d:Q21044945",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 188,
@@ -7234,11 +7236,14 @@
     "lemma": "Livius 43",
     "previous": "Likymnios 2",
     "next": "Locator",
-    "short_description": "Livia Venusta, Gattin des M. Ulpius (S X 1113 Nr. 3c) Hylas",
+    "proof_read": 2,
+    "short_description": "Livia Venusta, Gattin des M. Ulpius Hylas",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 379,
-        "author": "Bonaria"
+        "end": 379,
+        "author": "Mario Bonaria."
       }
     ]
   },
@@ -7478,7 +7483,6 @@
   {
     "lemma": "Manes 3",
     "previous": "Mandris",
-    "next": "Marullus 5",
     "chapters": [
       {
         "start": 383,
@@ -7488,18 +7492,22 @@
   },
   {
     "lemma": "Marullus 5",
-    "previous": "Manes 3",
-    "next": "Mazgaba",
+    "previous": "Marius 31a",
+    "next": "Maurusius 2",
+    "proof_read": 2,
+    "short_description": "Mimendichter, ca. 160 n. Chr.",
+    "wd_link": "d:Q66133689",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 383,
-        "author": "Bonaria"
+        "end": 383,
+        "author": "Mario Bonaria."
       }
     ]
   },
   {
     "lemma": "Mazgaba",
-    "previous": "Marullus 5",
     "next": "Manlius 62a",
     "short_description": "Schauspieler im 1. Jh. n. Chr.",
     "chapters": [
