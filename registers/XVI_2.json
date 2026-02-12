@@ -3222,7 +3222,7 @@
   {
     "lemma": "Nandum",
     "previous": "Nanduin",
-    "next": "Ναγγαλόγαί",
+    "next": "Ναγγαλόγαι",
     "redirect": "Nanduin",
     "proof_read": 2,
     "chapters": [
@@ -3233,7 +3233,7 @@
     ]
   },
   {
-    "lemma": "Ναγγαλόγαί",
+    "lemma": "Ναγγαλόγαι",
     "previous": "Nandum",
     "next": "Νανίχαι",
     "sort_key": "Nangalogai",
@@ -3249,7 +3249,7 @@
   },
   {
     "lemma": "Νανίχαι",
-    "previous": "Ναγγαλόγαί",
+    "previous": "Ναγγαλόγαι",
     "next": "Νανίγαινα",
     "sort_key": "Nanichai",
     "proof_read": 0,
@@ -3817,11 +3817,13 @@
     "lemma": "Nara 1",
     "previous": "Nar",
     "next": "Nara 2",
+    "proof_read": 0,
     "short_description": "Wohl Ort in Galatien",
     "chapters": [
       {
         "start": 1697,
-        "author": "Ruge"
+        "end": 1698,
+        "author": "Ruge."
       }
     ]
   },
@@ -3829,11 +3831,13 @@
     "lemma": "Nara 2",
     "previous": "Nara 1",
     "next": "Narabon",
+    "proof_read": 0,
     "short_description": "Ort im Innern Libyens",
     "chapters": [
       {
         "start": 1698,
-        "author": "Windberg"
+        "end": 1698,
+        "author": "Windberg."
       }
     ]
   },
@@ -3854,11 +3858,14 @@
     "lemma": "Naracu Stoma",
     "previous": "Narabon",
     "next": "Naraggara",
+    "sort_key": "Naracustoma",
+    "proof_read": 0,
     "short_description": "Name eines Mündungsarmes d. Donau",
     "chapters": [
       {
         "start": 1698,
-        "author": "Fluss"
+        "end": 1698,
+        "author": "Fluss."
       }
     ]
   },
@@ -3866,11 +3873,13 @@
     "lemma": "Naraggara",
     "previous": "Naracu Stoma",
     "next": "Narakon",
+    "proof_read": 0,
     "short_description": "Punische Stadt westl. v. Sicca",
     "chapters": [
       {
         "start": 1698,
-        "author": "Windberg"
+        "end": 1700,
+        "author": "Windberg."
       }
     ]
   },
@@ -3904,38 +3913,45 @@
     "lemma": "Narasa",
     "previous": "Naranus pagus",
     "next": "Narasos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1700,
-        "author": "Ruge"
+        "end": 1700,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Narasos",
     "previous": "Narasa",
-    "next": "Narazita(?)",
+    "next": "Narazita (?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1700,
-        "author": "Oppermann"
+        "end": 1700,
+        "author": "Oppermann."
       }
     ]
   },
   {
-    "lemma": "Narazita(?)",
+    "lemma": "Narazita (?)",
     "previous": "Narasos",
     "next": "Narbasi",
+    "sort_key": "Narazita(?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1700,
-        "author": "Ruge"
+        "end": 1700,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Narbasi",
-    "previous": "Narazita(?)",
+    "previous": "Narazita (?)",
     "next": "Νάρβατα",
     "proof_read": 3,
     "short_description": "Völkerschaft in Gallaecia am rechten Ufer des Durius",
@@ -3982,10 +3998,12 @@
     "lemma": "Narbis",
     "previous": "Narbazaicus",
     "next": "Narcissus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1701,
-        "author": "Fluss"
+        "end": 1701,
+        "author": "Fluss."
       }
     ]
   },
@@ -4062,10 +4080,13 @@
     "lemma": "Narco, Nargo",
     "previous": "Narcissus 5",
     "next": "Nardinium",
+    "sort_key": "Narco,nargo",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1705,
-        "author": "Oberhummer"
+        "end": 1705,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4088,11 +4109,13 @@
     "lemma": "Nardus 1",
     "previous": "Nardinium",
     "next": "Nardus 2",
+    "proof_read": 0,
     "short_description": "Pflanzenart",
     "chapters": [
       {
         "start": 1705,
-        "author": "Steier"
+        "end": 1714,
+        "author": "Steier."
       }
     ]
   },
@@ -4114,10 +4137,12 @@
     "lemma": "Nareae",
     "previous": "Nardus 2",
     "next": "Narekos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1714,
-        "author": "Stein, O[tto]"
+        "end": 1715,
+        "author": "O. Stein."
       }
     ]
   },
@@ -4138,11 +4163,14 @@
     "lemma": "Nares Lucanae",
     "previous": "Narekos",
     "next": "Naresii",
+    "sort_key": "Nareslucanae",
+    "proof_read": 0,
     "short_description": "Bergpaß, Zugang zu Lucanien von Campanien her",
     "chapters": [
       {
         "start": 1715,
-        "author": "Philipp"
+        "end": 1716,
+        "author": "Philipp."
       }
     ]
   },
@@ -4150,11 +4178,13 @@
     "lemma": "Naresii",
     "previous": "Nares Lucanae",
     "next": "Narestini",
+    "proof_read": 0,
     "short_description": "Illyrischer Volksstamm",
     "chapters": [
       {
         "start": 1716,
-        "author": "Fluss"
+        "end": 1716,
+        "author": "Fluss."
       }
     ]
   },
@@ -4162,11 +4192,13 @@
     "lemma": "Narestini",
     "previous": "Naresii",
     "next": "Nargum",
+    "proof_read": 0,
     "short_description": "Volkkstamm Dalmatiens",
     "chapters": [
       {
         "start": 1716,
-        "author": "Fluss"
+        "end": 1717,
+        "author": "Fluss."
       }
     ]
   },
@@ -4215,10 +4247,12 @@
     "lemma": "Naris",
     "previous": "Ναριηνοί",
     "next": "Ναρισβαρεῖς",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1717,
-        "author": "Schulten"
+        "end": 1717,
+        "author": "Schulten."
       }
     ]
   },
@@ -4253,11 +4287,14 @@
     "lemma": "Naristi (-ae)",
     "previous": "Narisci",
     "next": "Naritai",
+    "sort_key": "Naristi(-ae)",
+    "proof_read": 0,
     "short_description": "Varisti (-ae), Südgerman. Volksstamm",
     "chapters": [
       {
         "start": 1717,
-        "author": "Franke"
+        "end": 1719,
+        "author": "Franke."
       }
     ]
   },
@@ -4265,10 +4302,12 @@
     "lemma": "Naritai",
     "previous": "Naristi (-ae)",
     "next": "Narkaia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1719,
-        "author": "Grohmann"
+        "end": 1719,
+        "author": "Grohmann."
       }
     ]
   },
@@ -4276,10 +4315,12 @@
     "lemma": "Narkaia",
     "previous": "Naritai",
     "next": "Narkaios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1719,
-        "author": "Kruse"
+        "end": 1719,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -4312,13 +4353,15 @@
   },
   {
     "lemma": "Narke 2",
-    "previous": "Narkasos",
+    "previous": "Narke 1",
     "next": "Narkissos 1",
+    "proof_read": 0,
     "short_description": "Zitterrochen (Fischart)",
     "chapters": [
       {
         "start": 1719,
-        "author": "Capelle"
+        "end": 1721,
+        "author": "Capelle."
       }
     ]
   },
@@ -4326,11 +4369,13 @@
     "lemma": "Narkissos 1",
     "previous": "Narke 2",
     "next": "Narkissos 2",
+    "proof_read": 0,
     "short_description": "Ein durch Schönheit ausgezeichneter Jüngling d. Mythos, Personifikation d.",
     "chapters": [
       {
         "start": 1721,
-        "author": "Eitrem"
+        "end": 1733,
+        "author": "Eitrem."
       }
     ]
   },
@@ -4407,11 +4452,13 @@
     "lemma": "Narnia",
     "previous": "Narnakios",
     "next": "Naro",
+    "proof_read": 0,
     "short_description": "Gebiet d. Nahartes, der Anwohner d. Nar in Umbrien",
     "chapters": [
       {
         "start": 1734,
-        "author": "Philipp"
+        "end": 1736,
+        "author": "Philipp."
       }
     ]
   },
@@ -4419,11 +4466,13 @@
     "lemma": "Naro",
     "previous": "Narnia",
     "next": "Narona",
+    "proof_read": 0,
     "short_description": "Fluß in Dalmatien",
     "chapters": [
       {
         "start": 1736,
-        "author": "Fluss"
+        "end": 1743,
+        "author": "Fluss."
       }
     ]
   },
@@ -4431,11 +4480,13 @@
     "lemma": "Narona",
     "previous": "Naro",
     "next": "Narra",
+    "proof_read": 0,
     "short_description": "Wichtiger Ort am Naron in d. röm. Provinz Dalmatien",
     "chapters": [
       {
         "start": 1743,
-        "author": "Fluss"
+        "end": 1755,
+        "author": "Fluss."
       }
     ]
   },
@@ -4456,11 +4507,13 @@
     "lemma": "Narraga",
     "previous": "Narra",
     "next": "Narsaios",
+    "proof_read": 0,
     "short_description": "Ort in Mesopotamien",
     "chapters": [
       {
         "start": 1755,
-        "author": "Weissbach"
+        "end": 1756,
+        "author": "Weissbach."
       }
     ]
   },
@@ -4578,11 +4631,13 @@
     "lemma": "Narses 7",
     "previous": "Narses 6",
     "next": "Narses 8",
+    "proof_read": 0,
     "short_description": "Perser, Anf. 5. Jh. n. Chr., identisch mit Nr. 8?",
     "chapters": [
       {
         "start": 1758,
-        "author": "Enßlin"
+        "end": 1758,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -4759,11 +4814,13 @@
     "lemma": "Narthakion",
     "previous": "Narta",
     "next": "Narthekis",
+    "proof_read": 0,
     "short_description": "Stadt in Achaia Phthiotis",
     "chapters": [
       {
         "start": 1760,
-        "author": "Stählin"
+        "end": 1764,
+        "author": "Stählin."
       }
     ]
   },
@@ -4771,10 +4828,12 @@
     "lemma": "Narthekis",
     "previous": "Narthakion",
     "next": "Narthekusa 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1764,
-        "author": "Voigt"
+        "end": 1764,
+        "author": "Voigt."
       }
     ]
   },
@@ -4796,11 +4855,13 @@
     "lemma": "Narthekusa 2",
     "previous": "Narthekusa 1",
     "next": "Narthex 1",
+    "proof_read": 0,
     "short_description": "Inselchen zw. Rhodos u. Chalkis",
     "chapters": [
       {
         "start": 1765,
-        "author": "Voigt"
+        "end": 1765,
+        "author": "Voigt."
       }
     ]
   },
@@ -4808,11 +4869,13 @@
     "lemma": "Narthex 1",
     "previous": "Narthekusa 2",
     "next": "Narthex 2",
+    "proof_read": 0,
     "short_description": "Pflanzenart",
     "chapters": [
       {
         "start": 1765,
-        "author": "Steier"
+        "end": 1770,
+        "author": "Steier."
       }
     ]
   },
@@ -4820,11 +4883,13 @@
     "lemma": "Narthex 2",
     "previous": "Narthex 1",
     "next": "Narthex 3",
+    "proof_read": 0,
     "short_description": "Bezeichnung für einen Drogenbehälter",
     "chapters": [
       {
         "start": 1770,
-        "author": "Hartke"
+        "end": 1772,
+        "author": "W. Hartke."
       }
     ]
   },
@@ -4832,11 +4897,13 @@
     "lemma": "Narthex 3",
     "previous": "Narthex 2",
     "next": "Ναροῦλλα",
+    "proof_read": 0,
     "short_description": "Vorhalle d. Basilika in justinian. Zt.",
     "chapters": [
       {
         "start": 1772,
-        "author": "Lietzmann"
+        "end": 1772,
+        "author": "Lietzmann."
       }
     ]
   },
@@ -4858,11 +4925,13 @@
     "lemma": "Naryandis 1",
     "previous": "Ναροῦλλα",
     "next": "Naryandis 2",
+    "proof_read": 0,
     "short_description": "Beiname d. Demeter",
     "chapters": [
       {
         "start": 1772,
-        "author": "Oppermann"
+        "end": 1772,
+        "author": "Oppermann."
       }
     ]
   },
@@ -4870,35 +4939,42 @@
     "lemma": "Naryandis 2",
     "previous": "Naryandis 1",
     "next": "Narycius",
+    "proof_read": 0,
     "short_description": "Nariandos, Stadt in Karien",
     "chapters": [
       {
         "start": 1772,
-        "author": "Ruge"
+        "end": 1772,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Narycius",
     "previous": "Naryandis 2",
-    "next": "Naryka, Naryx",
+    "next": "Naryka",
+    "proof_read": 0,
     "short_description": "In d. röm. Dichtersprache gelehrte Var. für Locrius",
     "chapters": [
       {
         "start": 1772,
-        "author": "Oldfather"
+        "end": 1772,
+        "author": "Oldfather."
       }
     ]
   },
   {
-    "lemma": "Naryka, Naryx",
+    "lemma": "Naryka",
     "previous": "Narycius",
     "next": "Narykidas",
+    "sort_key": "Naryka,naryx",
+    "proof_read": 0,
     "short_description": "Eine der Hauptstädte d. östl. Lokrer",
     "chapters": [
       {
         "start": 1772,
-        "author": "Oldfather"
+        "end": 1775,
+        "author": "Oldfather."
       }
     ]
   },
@@ -4946,10 +5022,12 @@
     "lemma": "Nasabath",
     "previous": "Naryx",
     "next": "Nasamon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1776,
-        "author": "Windberg"
+        "end": 1776,
+        "author": "Windberg."
       }
     ]
   },
@@ -4970,11 +5048,13 @@
     "lemma": "Nasamones",
     "previous": "Nasamon",
     "next": "Nasarduma",
+    "proof_read": 0,
     "short_description": "Volk in N-Afrika",
     "chapters": [
       {
         "start": 1776,
-        "author": "Windberg"
+        "end": 1778,
+        "author": "Windberg."
       }
     ]
   },
@@ -4982,11 +5062,13 @@
     "lemma": "Nasarduma",
     "previous": "Nasamones",
     "next": "Nasava",
+    "proof_read": 0,
     "short_description": "Ortschaft östl. d. Nils",
     "chapters": [
       {
         "start": 1778,
-        "author": "Windberg"
+        "end": 1779,
+        "author": "Windberg."
       }
     ]
   },
@@ -5006,7 +5088,7 @@
   {
     "lemma": "Nasaudum",
     "previous": "Nasava",
-    "next": "Nasbana",
+    "next": "Νασβάνα",
     "sort_key": "Nasavdum",
     "redirect": "Nasarduma",
     "proof_read": 2,
@@ -5018,20 +5100,23 @@
     ]
   },
   {
-    "lemma": "Nasbana",
+    "lemma": "Νασβάνα",
     "previous": "Nasaudum",
     "next": "Nasennius 1",
+    "sort_key": "Nasbana",
+    "proof_read": 0,
     "short_description": "Stadt Indoskythiens im W d. Indos",
     "chapters": [
       {
         "start": 1779,
-        "author": "Stein, O[tto]"
+        "end": 1779,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Nasennius 1",
-    "previous": "Nasbana",
+    "previous": "Νασβάνα",
     "next": "Nasennius 2",
     "proof_read": 0,
     "short_description": "C. Aus Suessa, Manipelführer im Kretischen Krieg",
@@ -5060,11 +5145,13 @@
     "lemma": "Nashorn",
     "previous": "Nasennius 2",
     "next": "Νασιβ",
+    "proof_read": 0,
     "short_description": "Tierart",
     "chapters": [
       {
         "start": 1780,
-        "author": "Steier"
+        "end": 1788,
+        "author": "Steier."
       }
     ]
   },
@@ -5194,10 +5281,12 @@
     "lemma": "Nasiotas",
     "previous": "Νασίκα",
     "next": "Nasium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1790,
-        "author": "Kruse"
+        "end": 1790,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -5205,11 +5294,13 @@
     "lemma": "Nasium",
     "previous": "Nasiotas",
     "next": "Naskoi",
+    "proof_read": 0,
     "short_description": "Stadt d. Leuci in Gallia Belgica",
     "chapters": [
       {
         "start": 1790,
-        "author": "Franke"
+        "end": 1792,
+        "author": "Franke."
       }
     ]
   },
@@ -5217,10 +5308,12 @@
     "lemma": "Naskoi",
     "previous": "Nasium",
     "next": "Naskos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1792,
-        "author": "Herrmann"
+        "end": 1792,
+        "author": "Herrmann."
       }
     ]
   },
@@ -5228,11 +5321,13 @@
     "lemma": "Naskos",
     "previous": "Naskoi",
     "next": "Naso 1",
+    "proof_read": 0,
     "short_description": "Stadt in Arabia felix",
     "chapters": [
       {
         "start": 1792,
-        "author": "Grohmann"
+        "end": 1792,
+        "author": "Grohmann."
       }
     ]
   },
@@ -5240,11 +5335,13 @@
     "lemma": "Naso 1",
     "previous": "Naskos",
     "next": "Naso 2",
+    "proof_read": 0,
     "short_description": "Röm. Beiname",
     "chapters": [
       {
         "start": 1792,
-        "author": "Münzer"
+        "end": 1792,
+        "author": "Münzer."
       }
     ]
   },
@@ -11355,7 +11452,7 @@
   {
     "lemma": "Neophytos",
     "previous": "Neophyta",
-    "next": "Νεωποιοί",
+    "next": "Neopoioi",
     "proof_read": 2,
     "short_description": "Begleiter auf der Flucht und beim Tode Neros",
     "chapters": [
@@ -11367,7 +11464,7 @@
     ]
   },
   {
-    "lemma": "Νεωποιοί",
+    "lemma": "Neopoioi",
     "previous": "Neophytos",
     "next": "Neopolis 1",
     "short_description": "Tempelbaukommission, Tempelverwaltung",
@@ -11380,7 +11477,7 @@
   },
   {
     "lemma": "Neopolis 1",
-    "previous": "Νεωποιοί",
+    "previous": "Neopoioi",
     "next": "Neopolis 2",
     "proof_read": 3,
     "short_description": "Stadt in Aitolien",
