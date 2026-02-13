@@ -3222,7 +3222,7 @@
   {
     "lemma": "Nandum",
     "previous": "Nanduin",
-    "next": "Ναγγαλόγαι",
+    "next": "Ναγγαλόγαί",
     "redirect": "Nanduin",
     "proof_read": 2,
     "chapters": [
@@ -3233,7 +3233,7 @@
     ]
   },
   {
-    "lemma": "Ναγγαλόγαι",
+    "lemma": "Ναγγαλόγαί",
     "previous": "Nandum",
     "next": "Νανίχαι",
     "sort_key": "Nangalogai",
@@ -3249,7 +3249,7 @@
   },
   {
     "lemma": "Νανίχαι",
-    "previous": "Ναγγαλόγαι",
+    "previous": "Ναγγαλόγαί",
     "next": "Νανίγαινα",
     "sort_key": "Nanichai",
     "proof_read": 0,
@@ -4996,7 +4996,7 @@
     "lemma": "Narykion, Narykos",
     "previous": "Narykidas",
     "next": "Naryx",
-    "redirect": "Naryka, Naryx",
+    "redirect": "Naryka",
     "proof_read": 2,
     "chapters": [
       {
@@ -5009,7 +5009,7 @@
     "lemma": "Naryx",
     "previous": "Narykion, Narykos",
     "next": "Nasabath",
-    "redirect": "Naryka, Naryx",
+    "redirect": "Naryka",
     "proof_read": 2,
     "chapters": [
       {
@@ -5375,7 +5375,6 @@
   {
     "lemma": "...ale... Naso",
     "previous": "Naso 3",
-    "next": "Nasoi 1",
     "sort_key": "Naso 4",
     "proof_read": 2,
     "short_description": "auf einer Ehreninschr. v. Verona",
@@ -5388,14 +5387,30 @@
     ]
   },
   {
-    "lemma": "Nasoi 1",
+    "lemma": "Nasoi",
     "previous": "...ale... Naso",
+    "next": "Nasoi 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1793,
+        "end": 1793,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Nasoi 1",
+    "previous": "Nasoi",
     "next": "Nasoi 2",
+    "proof_read": 0,
     "short_description": "Örtlichkeit am Westfuß d. Kastaniagebirges/Arkadien",
     "chapters": [
       {
         "start": 1793,
-        "author": "Meyer, Ernst"
+        "end": 1793,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -5403,11 +5418,13 @@
     "lemma": "Nasoi 2",
     "previous": "Nasoi 1",
     "next": "Nasos",
+    "proof_read": 0,
     "short_description": "Örtlichkeit am oberen Ladon/Arkadien",
     "chapters": [
       {
         "start": 1793,
-        "author": "Meyer, Ernst"
+        "end": 1793,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -5415,10 +5432,12 @@
     "lemma": "Nasos",
     "previous": "Nasoi 2",
     "next": "Nasotiani",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1793,
-        "author": "Fiehn"
+        "end": 1793,
+        "author": "Fiehn."
       }
     ]
   },
@@ -5440,11 +5459,13 @@
     "lemma": "Nassa",
     "previous": "Nasotiani",
     "next": "Nassete",
+    "proof_read": 0,
     "short_description": "Fischreuse",
     "chapters": [
       {
         "start": 1793,
-        "author": "Hug"
+        "end": 1794,
+        "author": "Hug."
       }
     ]
   },
@@ -5452,10 +5473,12 @@
     "lemma": "Nassete",
     "previous": "Nassa",
     "next": "Nassunia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1794,
-        "author": "Ruge"
+        "end": 1794,
+        "author": "Ruge."
       }
     ]
   },
@@ -5489,10 +5512,12 @@
     "lemma": "Nastar",
     "previous": "Nastae",
     "next": "Nastes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1794,
-        "author": "Honigmann"
+        "end": 1794,
+        "author": "Honigmann."
       }
     ]
   },
@@ -5514,10 +5539,12 @@
     "lemma": "Nastos",
     "previous": "Nastes",
     "next": "Nasturtium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1795,
-        "author": "Oberhummer"
+        "end": 1795,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5525,11 +5552,13 @@
     "lemma": "Nasturtium",
     "previous": "Nastos",
     "next": "Nasua",
+    "proof_read": 0,
     "short_description": "Pflanzenart",
     "chapters": [
       {
         "start": 1795,
-        "author": "Steier"
+        "end": 1798,
+        "author": "Steier."
       }
     ]
   },
@@ -5574,11 +5603,13 @@
     "lemma": "Natabudes",
     "previous": "Nasutius",
     "next": "Natalicus",
+    "proof_read": 0,
     "short_description": "Volk in N-Afrika",
     "chapters": [
       {
         "start": 1799,
-        "author": "Windberg"
+        "end": 1799,
+        "author": "Windberg."
       }
     ]
   },
@@ -5668,11 +5699,13 @@
     "lemma": "Natalis 5",
     "previous": "Natalis 4",
     "next": "Natalis 6",
+    "proof_read": 0,
     "short_description": "Episcopus Philadelphianus, Teilnehmer am Konzil v. Chalkedon 451 n. Chr.",
     "chapters": [
       {
         "start": 1799,
-        "author": "Enßlin"
+        "end": 1800,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5721,11 +5754,14 @@
     "lemma": "Natalis templi",
     "previous": "Natalis 8",
     "next": "Natatoria, ae",
+    "sort_key": "Natalistempli",
+    "proof_read": 0,
     "short_description": "Tag, an dem die Dedikation eines Tempels erfolgt",
     "chapters": [
       {
         "start": 1800,
-        "author": "Keyßner"
+        "end": 1802,
+        "author": "Keyßner."
       }
     ]
   },
@@ -5733,40 +5769,47 @@
     "lemma": "Natatoria, ae",
     "previous": "Natalis templi",
     "next": "Nateia",
+    "sort_key": "Natatoria,ae",
+    "proof_read": 0,
     "short_description": "sc. piscina",
     "chapters": [
       {
         "start": 1802,
-        "author": "Bernert"
+        "end": 1802,
+        "author": "Bernert."
       }
     ]
   },
   {
     "lemma": "Nateia",
     "previous": "Natatoria, ae",
-    "next": "Natembe",
+    "next": "Natembes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1802,
-        "author": "Oldfather"
+        "end": 1802,
+        "author": "Oldfather."
       }
     ]
   },
   {
-    "lemma": "Natembe",
+    "lemma": "Natembes",
     "previous": "Nateia",
     "next": "Nateras",
+    "proof_read": 0,
     "short_description": "Volk im Innern Libyens",
     "chapters": [
       {
         "start": 1802,
-        "author": "Windberg"
+        "end": 1803,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Nateras",
-    "previous": "Natembe",
+    "previous": "Natembes",
     "next": "Nathabur",
     "redirect": "Natiras",
     "proof_read": 2,
@@ -5781,46 +5824,55 @@
     "lemma": "Nathabur",
     "previous": "Nateras",
     "next": "Natho",
+    "proof_read": 0,
     "short_description": "Flußname bei Plin. ep.5,37",
     "chapters": [
       {
         "start": 1803,
-        "author": "Windberg"
+        "end": 1803,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Natho",
     "previous": "Nathabur",
-    "next": "nathum",
+    "next": "naθum",
+    "proof_read": 0,
     "short_description": "Ägypt. Regionsbezeichnung",
     "chapters": [
       {
         "start": 1803,
-        "author": "Kees"
+        "end": 1804,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "nathum",
+    "lemma": "naθum",
     "previous": "Natho",
     "next": "Nat(iae?)",
+    "sort_key": "nathum",
+    "proof_read": 0,
     "short_description": "Etr. Bezeichnung einer weibl. Gestalt, Unterweltsdämon",
     "chapters": [
       {
         "start": 1804,
-        "author": "Fiesel"
+        "end": 1804,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Nat(iae?)",
-    "previous": "nathum",
+    "previous": "naθum",
     "next": "Natini",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1805,
-        "author": "Heichelheim"
+        "end": 1805,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -5828,10 +5880,12 @@
     "lemma": "Natini",
     "previous": "Nat(iae?)",
     "next": "Natio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1805,
-        "author": "Philipp"
+        "end": 1805,
+        "author": "Philipp."
       }
     ]
   },
@@ -5839,10 +5893,12 @@
     "lemma": "Natio",
     "previous": "Natini",
     "next": "Natiolum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1805,
-        "author": "Mielentz"
+        "end": 1805,
+        "author": "Mielentz."
       }
     ]
   },
@@ -5850,10 +5906,12 @@
     "lemma": "Natiolum",
     "previous": "Natio",
     "next": "Natiras",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1805,
-        "author": "Philipp"
+        "end": 1805,
+        "author": "Philipp."
       }
     ]
   },
@@ -5874,11 +5932,13 @@
     "lemma": "natis",
     "previous": "Natiras",
     "next": "Natisio",
+    "proof_read": 0,
     "short_description": "Beischrift auf einer etr. Gemme",
     "chapters": [
       {
         "start": 1805,
-        "author": "Fiesel"
+        "end": 1806,
+        "author": "Fiesel."
       }
     ]
   },
@@ -5899,11 +5959,13 @@
     "lemma": "Natiso",
     "previous": "Natisio",
     "next": "Natissa",
+    "proof_read": 0,
     "short_description": "Hauptfluß d. Isonzogebietes",
     "chapters": [
       {
         "start": 1806,
-        "author": "Philipp"
+        "end": 1810,
+        "author": "Philipp."
       }
     ]
   },
@@ -5924,45 +5986,55 @@
     "lemma": "Nato",
     "previous": "Natissa",
     "next": "Natta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1810,
-        "author": "Fluss"
+        "end": 1810,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Natta",
     "previous": "Nato",
-    "next": "Natupha",
+    "next": "Νατουφᾶ",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1810,
-        "author": "Münzer"
+        "end": 1810,
+        "author": "Münzer."
       }
     ]
   },
   {
-    "lemma": "Natupha",
+    "lemma": "Νατουφᾶ",
     "previous": "Natta",
     "next": "Naturales Liberi",
+    "sort_key": "Natupha",
+    "proof_read": 0,
     "short_description": "Ort nahe Bethlehem",
     "chapters": [
       {
         "start": 1810,
-        "author": "Hölscher"
+        "end": 1810,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Naturales Liberi",
-    "previous": "Natupha",
+    "previous": "Νατουφᾶ",
     "next": "Naturgefühl 1",
+    "sort_key": "Naturalesliberi",
+    "proof_read": 0,
     "short_description": "Bezechnung leiblicher, bes. unehelicher Kinder",
     "chapters": [
       {
         "start": 1810,
-        "author": "Steinwenter"
+        "end": 1811,
+        "author": "Steinwenter."
       }
     ]
   },
@@ -5970,11 +6042,13 @@
     "lemma": "Naturgefühl 1",
     "previous": "Naturales Liberi",
     "next": "Naturgefühl 2",
+    "proof_read": 0,
     "short_description": "Historisch-gesellschaftlich",
     "chapters": [
       {
         "start": 1811,
-        "author": "Bernert"
+        "end": 1863,
+        "author": "Bernert."
       }
     ]
   },
@@ -5982,11 +6056,13 @@
     "lemma": "Naturgefühl 2",
     "previous": "Naturgefühl 1",
     "next": "Natyras",
+    "proof_read": 0,
     "short_description": "In der Kunst",
     "chapters": [
       {
         "start": 1863,
-        "author": "Lorentz"
+        "end": 1885,
+        "author": "I. v. Lorentz."
       }
     ]
   },
@@ -6007,11 +6083,13 @@
     "lemma": "Nava",
     "previous": "Natyras",
     "next": "Navalia",
+    "proof_read": 0,
     "short_description": "Linker Nebenfluß d. Rheins, heute Nahe",
     "chapters": [
       {
         "start": 1885,
-        "author": "Franke"
+        "end": 1888,
+        "author": "Franke."
       }
     ]
   },
@@ -6019,11 +6097,13 @@
     "lemma": "Navalia",
     "previous": "Nava",
     "next": "Nauarchis",
+    "proof_read": 0,
     "short_description": "Docks u. Werften für Kriegsschiffe in d. röm. Republik",
     "chapters": [
       {
         "start": 1888,
-        "author": "Philipp"
+        "end": 1889,
+        "author": "Philipp."
       }
     ]
   },
@@ -6031,17 +6111,19 @@
     "lemma": "Nauarchis",
     "previous": "Navalia",
     "next": "Nauarchos, Nauarchie",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1889,
-        "author": "Kruse"
+        "end": 1889,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Nauarchos, Nauarchie",
     "previous": "Nauarchis",
-    "next": "Nauaris",
+    "next": "Ναύαρις",
     "short_description": "Flotten- o. Geschwaderkommandant u. das dem Kommando entsprechende Amt",
     "chapters": [
       {
@@ -6055,19 +6137,22 @@
     ]
   },
   {
-    "lemma": "Nauaris",
+    "lemma": "Ναύαρις",
     "previous": "Nauarchos, Nauarchie",
     "next": "Ναύαροι",
+    "sort_key": "Nauaris",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1896,
-        "author": "Herrmann"
+        "end": 1896,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Ναύαροι",
-    "previous": "Nauaris",
+    "previous": "Ναύαρις",
     "next": "Nauaron",
     "sort_key": "Nauaroi",
     "redirect": "Neuroi",
@@ -6083,10 +6168,12 @@
     "lemma": "Nauaron",
     "previous": "Ναύαροι",
     "next": "Navarri",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1896,
-        "author": "Herrmann"
+        "end": 1896,
+        "author": "Herrmann."
       }
     ]
   },
@@ -6094,11 +6181,13 @@
     "lemma": "Navarri",
     "previous": "Nauaron",
     "next": "Naubaron",
+    "proof_read": 0,
     "short_description": "Iberischer Stamm",
     "chapters": [
       {
         "start": 1896,
-        "author": "Schulten"
+        "end": 1897,
+        "author": "Schulten."
       }
     ]
   },
@@ -6203,11 +6292,13 @@
     "lemma": "Navectabe",
     "previous": "Naucerus",
     "next": "Naufragium",
+    "proof_read": 0,
     "short_description": "Ortschaft am Nil in Äthiopien",
     "chapters": [
       {
         "start": 1898,
-        "author": "Windberg"
+        "end": 1898,
+        "author": "Windberg."
       }
     ]
   },
@@ -6215,11 +6306,13 @@
     "lemma": "Naufragium",
     "previous": "Navectabe",
     "next": "Navia 1",
+    "proof_read": 0,
     "short_description": "Im röm. Haftrecht",
     "chapters": [
       {
         "start": 1898,
-        "author": "Weiss, Egon"
+        "end": 1899,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -6227,11 +6320,13 @@
     "lemma": "Navia 1",
     "previous": "Naufragium",
     "next": "Navia 2",
+    "proof_read": 0,
     "short_description": "Grenzfluß zw. Kallaikern u. Asturern",
     "chapters": [
       {
         "start": 1899,
-        "author": "Schulten"
+        "end": 1899,
+        "author": "Schulten."
       }
     ]
   },
@@ -6253,11 +6348,13 @@
     "lemma": "Navicularii",
     "previous": "Navia 2",
     "next": "Navigius 1",
+    "proof_read": 0,
     "short_description": "Frachtschiffer, Reeder",
     "chapters": [
       {
         "start": 1899,
-        "author": "Stöckle"
+        "end": 1932,
+        "author": "Stöckle."
       }
     ]
   },
@@ -6308,7 +6405,7 @@
   {
     "lemma": "Navigius 4",
     "previous": "Navigius 3",
-    "next": "Nauila (-oi?)",
+    "next": "Ναυϊλα (-οι?)",
     "proof_read": 0,
     "short_description": "Erwähnt v. Firm.",
     "chapters": [
@@ -6320,19 +6417,22 @@
     ]
   },
   {
-    "lemma": "Nauila (-oi?)",
+    "lemma": "Ναυϊλα (-οι?)",
     "previous": "Navigius 4",
     "next": "Navillus",
+    "sort_key": "Nauila(-oi?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1932,
-        "author": "Ruge"
+        "end": 1932,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Navillus",
-    "previous": "Nauila (-oi?)",
+    "previous": "Ναυϊλα (-οι?)",
     "next": "Navilubio",
     "sort_key": "Nauillus",
     "redirect": "Antonius 82",
@@ -6348,10 +6448,12 @@
     "lemma": "Navilubio",
     "previous": "Navillus",
     "next": "Navimago",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1932,
-        "author": "Kroll"
+        "end": 1933,
+        "author": "Kroll."
       }
     ]
   },
@@ -6415,7 +6517,7 @@
   {
     "lemma": "Ναυκληρομάχιμος",
     "previous": "Naukleidas",
-    "next": "Naukleros 1",
+    "next": "Ναύκληρος 1",
     "short_description": "Marinesoldat",
     "chapters": [
       {
@@ -6425,20 +6527,23 @@
     ]
   },
   {
-    "lemma": "Naukleros 1",
+    "lemma": "Ναύκληρος 1",
     "previous": "Ναυκληρομάχιμος",
     "next": "Naukleros 2",
+    "sort_key": "Naukleros 1",
+    "proof_read": 0,
     "short_description": "Schiffsfrachtunternehmer, dem Staat verpflichtet",
     "chapters": [
       {
         "start": 1937,
-        "author": "Kießling, Emil"
+        "end": 1938,
+        "author": "E. Kießling."
       }
     ]
   },
   {
     "lemma": "Naukleros 2",
-    "previous": "Naukleros 1",
+    "previous": "Ναύκληρος 1",
     "next": "Naukraria, Naukraros",
     "redirect": "Naucerus",
     "proof_read": 2,
@@ -6453,11 +6558,14 @@
     "lemma": "Naukraria, Naukraros",
     "previous": "Naukleros 2",
     "next": "Naukrate",
+    "sort_key": "Naukraria,naukraros",
+    "proof_read": 0,
     "short_description": "Amt in d. gr. Polis",
     "chapters": [
       {
         "start": 1938,
-        "author": "Hommel"
+        "end": 1952,
+        "author": "Hildebrecht Hommel."
       }
     ]
   },
@@ -6549,11 +6657,13 @@
     "lemma": "Naukratis",
     "previous": "Naukratios",
     "next": "Naukydes 1",
+    "proof_read": 0,
     "short_description": "Stadt in Ägypten",
     "chapters": [
       {
         "start": 1954,
-        "author": "Kees"
+        "end": 1966,
+        "author": "Kees."
       }
     ]
   },
@@ -6587,7 +6697,7 @@
   {
     "lemma": "Ναυλιβί",
     "previous": "Naukydes 2",
-    "next": "Naulibis",
+    "next": "Ναυλιβίς",
     "chapters": [
       {
         "start": 1968,
@@ -6596,19 +6706,22 @@
     ]
   },
   {
-    "lemma": "Naulibis",
+    "lemma": "Ναυλιβίς",
     "previous": "Ναυλιβί",
     "next": "Naulibus",
+    "sort_key": "Naulibis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1968,
-        "author": "Stein, O[tto]"
+        "end": 1968,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Naulibus",
-    "previous": "Naulibis",
+    "previous": "Ναυλιβίς",
     "next": "Naulobatus",
     "redirect": "Naulibis",
     "proof_read": 2,
@@ -6637,11 +6750,13 @@
     "lemma": "Naulochoi",
     "previous": "Naulobatus",
     "next": "Naulochon 1",
+    "proof_read": 0,
     "short_description": "Ankerplatz an d. N-Küste Siziliens",
     "chapters": [
       {
         "start": 1968,
-        "author": "Ziegler"
+        "end": 1969,
+        "author": "Ziegler."
       }
     ]
   },
@@ -6663,11 +6778,13 @@
     "lemma": "Naulochon 2",
     "previous": "Naulochon 1",
     "next": "Naulochos 1",
+    "proof_read": 0,
     "short_description": "Stadt nahe Priene",
     "chapters": [
       {
         "start": 1969,
-        "author": "Ruge"
+        "end": 1969,
+        "author": "Ruge."
       }
     ]
   },
@@ -6675,11 +6792,13 @@
     "lemma": "Naulochos 1",
     "previous": "Naulochon 2",
     "next": "Naulochos 2",
+    "proof_read": 0,
     "short_description": "Kleine Insel vor d. NO-Spitze Kretas",
     "chapters": [
       {
         "start": 1969,
-        "author": "Herbst"
+        "end": 1969,
+        "author": "Rudolf Herbst."
       }
     ]
   },
@@ -6687,11 +6806,13 @@
     "lemma": "Naulochos 2",
     "previous": "Naulochos 1",
     "next": "Naulochum",
+    "proof_read": 0,
     "short_description": "Landeplatz an d. Küste d. Schwarzen Meeres",
     "chapters": [
       {
         "start": 1969,
-        "author": "Oberhummer"
+        "end": 1969,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6699,11 +6820,13 @@
     "lemma": "Naulochum",
     "previous": "Naulochos 2",
     "next": "Nauloi",
+    "proof_read": 0,
     "short_description": "Vorgebirge am Bosporos",
     "chapters": [
       {
         "start": 1969,
-        "author": "Ruge"
+        "end": 1970,
+        "author": "Ruge."
       }
     ]
   },
@@ -6725,10 +6848,13 @@
     "lemma": "Naumachaeorum promunturium",
     "previous": "Nauloi",
     "next": "Naumachie",
+    "sort_key": "Naumachaeorumpromunturium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1970,
-        "author": "Grohmann"
+        "end": 1970,
+        "author": "Grohmann."
       }
     ]
   },
@@ -6736,11 +6862,13 @@
     "lemma": "Naumachie",
     "previous": "Naumachaeorum promunturium",
     "next": "Naumachios 1",
+    "proof_read": 0,
     "short_description": "Schaukampf zu Schiff",
     "chapters": [
       {
         "start": 1970,
-        "author": "Bernert"
+        "end": 1974,
+        "author": "Bernert."
       }
     ]
   },
@@ -6777,17 +6905,19 @@
     "lemma": "Nauna",
     "previous": "Naumachios 2",
     "next": "Nauos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1975,
-        "author": "Philipp"
+        "end": 1975,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Nauos",
     "previous": "Nauna",
-    "next": "Naupaktia epe",
+    "next": "Ναυπάκτια ἔπη",
     "redirect": "Nautis",
     "proof_read": 2,
     "chapters": [
@@ -6798,26 +6928,31 @@
     ]
   },
   {
-    "lemma": "Naupaktia epe",
+    "lemma": "Ναυπάκτια ἔπη",
     "previous": "Nauos",
     "next": "Naupaktos 1",
+    "sort_key": "Naupaktiaepe",
+    "proof_read": 0,
     "short_description": "Titel eines genealog. Epos nach Pausanias",
     "chapters": [
       {
         "start": 1975,
-        "author": "Diehl, Ernst"
+        "end": 1979,
+        "author": "Diehl."
       }
     ]
   },
   {
     "lemma": "Naupaktos 1",
-    "previous": "Naupaktia epe",
+    "previous": "Ναυπάκτια ἔπη",
     "next": "Naupaktos 2",
+    "proof_read": 0,
     "short_description": "Wichtigste Stadt d. W-Lokrer",
     "chapters": [
       {
         "start": 1979,
-        "author": "Trowbridge"
+        "end": 2002,
+        "author": "Mary L. Trowbridge und Wm. A. Oldfather."
       }
     ]
   },
@@ -6852,11 +6987,13 @@
     "lemma": "Nauplia",
     "previous": "Naupidame",
     "next": "Nauplios",
+    "proof_read": 0,
     "short_description": "Hafenstadt d. Argolis",
     "chapters": [
       {
         "start": 2002,
-        "author": "Meyer, Ernst"
+        "end": 2004,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -6875,49 +7012,72 @@
     ]
   },
   {
-    "lemma": "Nauportus 1",
+    "lemma": "Nauportus",
     "previous": "Nauplios",
+    "next": "Nauportus 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2008,
+        "end": 2008,
+        "author": "B. Saria."
+      }
+    ]
+  },
+  {
+    "lemma": "Nauportus 1",
+    "previous": "Nauportus",
     "next": "Nauportus 2",
+    "proof_read": 0,
     "short_description": "Ort in Pannonien",
     "chapters": [
       {
         "start": 2008,
-        "author": "Saria"
+        "end": 2013,
+        "author": "B. Saria."
       }
     ]
   },
   {
     "lemma": "Nauportus 2",
     "previous": "Nauportus 1",
-    "next": "Naoura",
+    "next": "Νάουρα",
+    "proof_read": 0,
     "short_description": "Antiker Name für d. Fluß Laibach",
     "chapters": [
       {
         "start": 2013,
-        "author": "Saria"
+        "end": 2014,
+        "author": "B. Saria."
       }
     ]
   },
   {
-    "lemma": "Naoura",
+    "lemma": "Νάουρα",
     "previous": "Nauportus 2",
     "next": "Naurtio",
+    "sort_key": "Naoura",
+    "proof_read": 0,
     "short_description": "Hafen d. Landschaft Limyrike an d. W-Küste Vorderindiens",
     "chapters": [
       {
         "start": 2014,
-        "author": "Stein, O[tto]"
+        "end": 2015,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Naurtio",
-    "previous": "Naoura",
+    "previous": "Νάουρα",
     "next": "Naurum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2015,
-        "author": "Fluss"
+        "end": 2015,
+        "author": "Fluss."
       }
     ]
   },
@@ -6939,10 +7099,12 @@
     "lemma": "Naus",
     "previous": "Naurum",
     "next": "Nausaron",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2015,
-        "author": "Philipp"
+        "end": 2015,
+        "author": "Philipp."
       }
     ]
   },
@@ -7243,11 +7405,13 @@
     "lemma": "Naustalo",
     "previous": "Nausithoos 4",
     "next": "Naustathmus 1",
+    "proof_read": 0,
     "short_description": "Ort an d. S-Küste Frankreichs",
     "chapters": [
       {
         "start": 2028,
-        "author": "Franke"
+        "end": 2028,
+        "author": "Franke."
       }
     ]
   },
@@ -7270,11 +7434,13 @@
     "lemma": "Naustathmus 2",
     "previous": "Naustathmus 1",
     "next": "Naustathmus 3",
+    "proof_read": 0,
     "short_description": "Hafenplatz in Libyen",
     "chapters": [
       {
         "start": 2028,
-        "author": "Windberg"
+        "end": 2028,
+        "author": "Windberg."
       }
     ]
   },
@@ -7282,11 +7448,13 @@
     "lemma": "Naustathmus 3",
     "previous": "Naustathmus 2",
     "next": "Naustathmus 4",
+    "proof_read": 0,
     "short_description": "Küstenstation mit limne zw. Halys u. Amisos",
     "chapters": [
       {
         "start": 2028,
-        "author": "Ruge"
+        "end": 2028,
+        "author": "Ruge."
       }
     ]
   },
@@ -7294,11 +7462,13 @@
     "lemma": "Naustathmus 4",
     "previous": "Naustathmus 3",
     "next": "Nautai",
+    "proof_read": 0,
     "short_description": "Reede im Meerbusen von Kanthi/W-Indien",
     "chapters": [
       {
         "start": 2028,
-        "author": "Stein, O[tto]"
+        "end": 2029,
+        "author": "O. Stein."
       }
     ]
   },
@@ -7306,11 +7476,13 @@
     "lemma": "Nautai",
     "previous": "Naustathmus 4",
     "next": "Nautaka",
+    "proof_read": 0,
     "short_description": "Schiffsbesatzung",
     "chapters": [
       {
         "start": 2029,
-        "author": "Miltner, Franz"
+        "end": 2033,
+        "author": "Miltner."
       }
     ]
   },
@@ -7318,10 +7490,12 @@
     "lemma": "Nautaka",
     "previous": "Nautai",
     "next": "Nauteles",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2033,
-        "author": "Sturm"
+        "end": 2033,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -7369,10 +7543,12 @@
     "lemma": "Nautis",
     "previous": "Ναυτικὸς τόκος",
     "next": "Nautius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2048,
-        "author": "Windberg"
+        "end": 2049,
+        "author": "Windberg."
       }
     ]
   },
@@ -7561,11 +7737,13 @@
     "lemma": "Naxia",
     "previous": "Ναυτοδίκαι",
     "next": "Naxicae Insulae",
+    "proof_read": 0,
     "short_description": "Stadt in Karien",
     "chapters": [
       {
         "start": 2063,
-        "author": "Ruge"
+        "end": 2064,
+        "author": "Ruge."
       }
     ]
   },
@@ -7645,41 +7823,48 @@
     "lemma": "Naxos 4",
     "previous": "Naxos 3",
     "next": "Naxos 5",
+    "proof_read": 0,
     "short_description": "Gr. Pflanzstadt an d. O-Küste Siciliens",
     "chapters": [
       {
         "start": 2064,
-        "author": "Ziegler"
+        "end": 2079,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Naxos 5",
     "previous": "Naxos 4",
-    "next": "Naxuana",
+    "next": "Ναξουάνα",
+    "proof_read": 0,
     "short_description": "Insel in d. Ägäis, mit gleichnamiger Stadt",
     "chapters": [
       {
         "start": 2079,
-        "author": "Herbst"
+        "end": 2095,
+        "author": "Rudolf Herbst."
       }
     ]
   },
   {
-    "lemma": "Naxuana",
+    "lemma": "Ναξουάνα",
     "previous": "Naxos 5",
     "next": "Νάζαβα",
+    "sort_key": "Naxuana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2095,
-        "author": "Sturm"
+        "end": 2095,
+        "author": "J. Sturm."
       }
     ]
   },
   {
     "lemma": "Νάζαβα",
-    "previous": "Naxuana",
-    "next": "Nazada",
+    "previous": "Ναξουάνα",
+    "next": "Νάζαδα",
     "sort_key": "Nazaba",
     "redirect": "Nazala",
     "proof_read": 2,
@@ -7691,9 +7876,9 @@
     ]
   },
   {
-    "lemma": "Nazada",
+    "lemma": "Νάζαδα",
     "previous": "Νάζαβα",
-    "next": "Nazala",
+    "next": "Νάζαλα",
     "chapters": [
       {
         "start": 2095,
@@ -7702,26 +7887,32 @@
     ]
   },
   {
-    "lemma": "Nazala",
-    "previous": "Nazada",
+    "lemma": "Νάζαλα",
+    "previous": "Νάζαδα",
     "next": "Nazaleon Theos Megas",
+    "sort_key": "Nazala",
+    "proof_read": 0,
     "short_description": "Stadt in Mittelsyrien an d. Straße Palmyra - Damaskos",
     "chapters": [
       {
         "start": 2095,
-        "author": "Honigmann"
+        "end": 2096,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Nazaleon Theos Megas",
-    "previous": "Nazala",
+    "previous": "Νάζαλα",
     "next": "Νάζαμα",
+    "sort_key": "Nazaleontheos megas",
+    "proof_read": 0,
     "short_description": "Gott d. Stadt Nazala in Syrien",
     "chapters": [
       {
         "start": 2096,
-        "author": "Preisendanz"
+        "end": 2096,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -7784,11 +7975,13 @@
     "lemma": "Nazareth",
     "previous": "Nazares",
     "next": "Nazarius 1",
+    "proof_read": 0,
     "short_description": "Ort in Galiläa",
     "chapters": [
       {
         "start": 2096,
-        "author": "Hölscher"
+        "end": 2097,
+        "author": "Hölscher."
       }
     ]
   },
@@ -7822,49 +8015,58 @@
     ]
   },
   {
-    "lemma": "Nazarini",
+    "lemma": "Nazerini",
     "previous": "Nazarius 2",
     "next": "Nazianzos",
+    "proof_read": 0,
     "short_description": "Volksstamm in Syria Coele",
     "chapters": [
       {
         "start": 2099,
-        "author": "Honigmann"
+        "end": 2099,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Nazianzos",
-    "previous": "Nazarini",
-    "next": "Nazula(?)",
+    "previous": "Nazerini",
+    "next": "Nazula (?)",
+    "proof_read": 0,
     "short_description": "Stadt in Kappadokien",
     "chapters": [
       {
         "start": 2099,
-        "author": "Ruge"
+        "end": 2101,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Nazula(?)",
+    "lemma": "Nazula (?)",
     "previous": "Nazianzos",
     "next": "Nea(i) 1",
+    "sort_key": "Nazula(?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2101,
-        "author": "Ruge"
+        "end": 2101,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Nea(i) 1",
-    "previous": "Nazula(?)",
+    "previous": "Nazula (?)",
     "next": "Nea(i) 2",
+    "proof_read": 0,
     "short_description": "Insel zw. Lemnos u. d. Hellespont",
     "chapters": [
       {
         "start": 2101,
-        "author": "Herbst"
+        "end": 2102,
+        "author": "Rudolf Herbst."
       }
     ]
   },
@@ -7884,36 +8086,44 @@
   {
     "lemma": "Nea Kome 1",
     "previous": "Nea(i) 2",
-    "next": "Neai",
+    "next": "Nea Kome 2",
+    "sort_key": "Neakome 1",
+    "proof_read": 0,
     "short_description": "Ort in d. Troas",
     "chapters": [
       {
         "start": 2102,
-        "author": "Ruge"
+        "end": 2103,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Neai",
-    "previous": "Nea Kome 1",
-    "next": "Nea Kome 2",
+    "previous": "Nea Valentia",
+    "next": "Neaichmos",
+    "proof_read": 0,
     "short_description": "Siculerstadt in SO-Sicilien",
     "chapters": [
       {
         "start": 2103,
-        "author": "Ziegler"
+        "end": 2104,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Nea Kome 2",
-    "previous": "Neai",
+    "previous": "Nea Kome 1",
     "next": "Νέα Ὀλυμπία",
+    "sort_key": "Neakome 2",
+    "proof_read": 0,
     "short_description": "Ort in Lykien",
     "chapters": [
       {
         "start": 2103,
-        "author": "Ruge"
+        "end": 2103,
+        "author": "Ruge."
       }
     ]
   },
@@ -7972,11 +8182,13 @@
   {
     "lemma": "Neaiduno",
     "previous": "Neaichmos",
-    "next": "Neaira",
+    "next": "Neaira 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2104,
-        "author": "Fluss"
+        "end": 2104,
+        "author": "Fluss."
       }
     ]
   },
@@ -8148,13 +8360,15 @@
   },
   {
     "lemma": "Neandr(e)ia",
-    "previous": "Neaithos",
+    "previous": "Nealkes",
     "next": "Neandris",
+    "proof_read": 0,
     "short_description": "Stadt in d. Troas",
     "chapters": [
       {
         "start": 2106,
-        "author": "Ruge"
+        "end": 2108,
+        "author": "Ruge."
       }
     ]
   },
@@ -8231,11 +8445,13 @@
     "lemma": "Neapolis 1",
     "previous": "Neanthes",
     "next": "Neapolis 2",
+    "proof_read": 0,
     "short_description": "Stadt bei Thasos",
     "chapters": [
       {
         "start": 2110,
-        "author": "Hiller von Gaertringen"
+        "end": 2112,
+        "author": "v. Hiller."
       }
     ]
   },
@@ -8243,11 +8459,13 @@
     "lemma": "Neapolis 2",
     "previous": "Neapolis 1",
     "next": "Neapolis 3",
+    "proof_read": 0,
     "short_description": "Stadt in Campanien, heute Neapel",
     "chapters": [
       {
         "start": 2112,
-        "author": "Philipp"
+        "end": 2122,
+        "author": "Philipp."
       }
     ]
   },
@@ -8255,11 +8473,13 @@
     "lemma": "Neapolis 3",
     "previous": "Neapolis 2",
     "next": "Neapolis 4",
+    "proof_read": 0,
     "short_description": "Stadt in Apulien",
     "chapters": [
       {
         "start": 2122,
-        "author": "Philipp"
+        "end": 2122,
+        "author": "Philipp."
       }
     ]
   },
@@ -8267,11 +8487,13 @@
     "lemma": "Neapolis 4",
     "previous": "Neapolis 3",
     "next": "Neapolis 5",
+    "proof_read": 0,
     "short_description": "Station in Istrien, heute Cittanuova",
     "chapters": [
       {
         "start": 2122,
-        "author": "Philipp"
+        "end": 2122,
+        "author": "Philipp."
       }
     ]
   },
@@ -8279,11 +8501,13 @@
     "lemma": "Neapolis 5",
     "previous": "Neapolis 4",
     "next": "Neapolis 6",
+    "proof_read": 0,
     "short_description": "Quartier von Groß-Syrakus",
     "chapters": [
       {
         "start": 2122,
-        "author": "Ziegler"
+        "end": 2123,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8291,11 +8515,13 @@
     "lemma": "Neapolis 6",
     "previous": "Neapolis 5",
     "next": "Neapolis 7",
+    "proof_read": 0,
     "short_description": "Stadtteil v. Leontinoi/Sizilien",
     "chapters": [
       {
         "start": 2123,
-        "author": "Ziegler"
+        "end": 2123,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8303,11 +8529,13 @@
     "lemma": "Neapolis 7",
     "previous": "Neapolis 6",
     "next": "Neapolis 8",
+    "proof_read": 0,
     "short_description": "Stadt im Gebiet v. Akragas",
     "chapters": [
       {
         "start": 2123,
-        "author": "Ziegler"
+        "end": 2123,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8315,11 +8543,13 @@
     "lemma": "Neapolis 8",
     "previous": "Neapolis 7",
     "next": "Neapolis 9",
+    "proof_read": 0,
     "short_description": "Stadtteil v. Panormos",
     "chapters": [
       {
         "start": 2123,
-        "author": "Ziegler"
+        "end": 2123,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8327,11 +8557,13 @@
     "lemma": "Neapolis 9",
     "previous": "Neapolis 8",
     "next": "Neapolis 10",
+    "proof_read": 0,
     "short_description": "Stadt an d. W-Küste Sardiniens",
     "chapters": [
       {
         "start": 2123,
-        "author": "Hanslik"
+        "end": 2124,
+        "author": "Hanslik."
       }
     ]
   },
@@ -8339,11 +8571,13 @@
     "lemma": "Neapolis 10",
     "previous": "Neapolis 9",
     "next": "Neapolis 11",
+    "proof_read": 0,
     "short_description": "Ort in W-Istrien, vgl. Nr. 4",
     "chapters": [
       {
         "start": 2124,
-        "author": "Fluss"
+        "end": 2124,
+        "author": "Fluss."
       }
     ]
   },
@@ -8351,11 +8585,13 @@
     "lemma": "Neapolis 11",
     "previous": "Neapolis 10",
     "next": "Neapolis 12",
+    "proof_read": 0,
     "short_description": "Stadt an d. thrak. bzw. makedon. Küste",
     "chapters": [
       {
         "start": 2124,
-        "author": "Oberhummer"
+        "end": 2126,
+        "author": "Oberhummer."
       }
     ]
   },
