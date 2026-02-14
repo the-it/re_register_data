@@ -13954,7 +13954,7 @@
     "previous": "Allius 5a",
     "next": "Allius 10",
     "proof_read": 3,
-    "short_description": "Leukios Allios Tauros, Gymnasiarch im ostlokr. Opus 30-50 n. Chr.",
+    "short_description": "Leukios Allios Tauros, Gymnasiarch im ostlokrischen Opus 30–50 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -46371,6 +46371,7 @@
     "lemma": "Baal-Harrân",
     "previous": "Azochis",
     "next": "Baalmelek",
+    "sort_key": "Baal-Harran",
     "proof_read": 3,
     "short_description": "Gott der Stadt Harran",
     "no_creative_height": true,
@@ -64193,6 +64194,7 @@
     "lemma": "Chryseïs 5",
     "previous": "Chronos 2",
     "next": "Chrysermos 4",
+    "sort_key": "Chryseis 5",
     "proof_read": 3,
     "short_description": "Gattin des maked. Königs Antigonos III. Nr. 5 Doson",
     "no_creative_height": true,
@@ -85134,6 +85136,8 @@
     "next": "Fabricius 8a",
     "proof_read": 3,
     "short_description": "Fabia Arete, kaiserzeitliche Schauspielerin, Freigelassene",
+    "wp_link": "w:en:Fabia Arete",
+    "wd_link": "d:Q73337191",
     "no_creative_height": true,
     "chapters": [
       {
@@ -87578,6 +87582,7 @@
     "lemma": "Foreti(i)",
     "previous": "For(ensis)",
     "next": "Formosus",
+    "sort_key": "Foreti(i",
     "proof_read": 3,
     "short_description": "altlatinische Gemeinde = Fortinenses (?)",
     "no_creative_height": true,
@@ -92836,6 +92841,7 @@
     "lemma": "Gyttios (?)",
     "previous": "Gyron",
     "next": "Haartracht, Haarschmuck",
+    "sort_key": "Gyttios(?)",
     "proof_read": 3,
     "short_description": "Pythagoreer zu Lokroi",
     "no_creative_height": true,
@@ -99413,6 +99419,8 @@
     "next": "Hylas 4a",
     "proof_read": 3,
     "short_description": "Pantomime in augusteischer Zeit, Schüler des Pylades Nr. 2",
+    "wp_link": "w:ca:Hiles",
+    "wd_link": "d:Q11925636",
     "no_creative_height": true,
     "chapters": [
       {
@@ -121325,7 +121333,7 @@
     "next": "Licinius 84",
     "proof_read": 3,
     "short_description": "M. L. Crassus Frugi, Konsul im J. 14 v. Chr., Prokonsul Africa",
-    "wp_link": "w:en:Marcus Licinius Crassus Frugi (consul 14 BC)",
+    "wp_link": "w:de:Marcus Licinius Crassus Frugi (Konsul 14 v. Chr.)",
     "wd_link": "d:Q3622613",
     "no_creative_height": true,
     "chapters": [
@@ -145663,6 +145671,7 @@
     "lemma": "Poros 1",
     "previous": "Poron",
     "next": "Poros 2",
+    "sort_key": "Poros 01",
     "proof_read": 3,
     "short_description": "Fluss in Achaia, siehe Peiros 2",
     "no_creative_height": true,
@@ -172182,7 +172191,7 @@
   {
     "lemma": "Umbonius 2",
     "previous": "Umbonius 1a",
-    "next": "Umbria",
+    "next": "Umbri, Umbria",
     "sort_key": "Vmbonius 2",
     "proof_read": 3,
     "short_description": "U. Silo, Prokonsul der Provinz Hispania Baetica 1. Jh. n. Chr.",
@@ -172197,6 +172206,8 @@
   },
   {
     "lemma": "Umbri, Umbria",
+    "previous": "Umbonius 2",
+    "next": "Umbria",
     "sort_key": "Vmbri",
     "proof_read": 3,
     "no_creative_height": true,
@@ -172210,7 +172221,7 @@
   },
   {
     "lemma": "Umbria",
-    "previous": "Umbonius 2",
+    "previous": "Umbri, Umbria",
     "next": "Umbricius 4a",
     "sort_key": "Vmbria",
     "redirect": "Umbri, Umbria",
