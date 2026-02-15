@@ -5628,7 +5628,9 @@
     "lemma": "Natalicus",
     "previous": "Natabudes",
     "next": "Natalis",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "donatistischer Bischof in Nordafrika, ca. 393–411 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1799,
@@ -5654,13 +5656,14 @@
     "lemma": "Natalis 1",
     "previous": "Natalis",
     "next": "Natalis 2",
-    "proof_read": 0,
-    "short_description": "s. Antonius Nr. 8 Bellicus Nr. 2 Cestius Nr. 11",
+    "redirect": "Antonius  8",
+    "proof_read": 2,
+    "short_description": "Cognomen, siehe Namensträger",
     "chapters": [
       {
         "start": 1799,
         "end": 1799,
-        "author": "Fluss."
+        "author": "Max Fluss."
       }
     ]
   },
@@ -7085,12 +7088,13 @@
     "lemma": "Naurtio",
     "previous": "Νάουρα",
     "next": "Naurum",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Ort Dalmatiens",
     "chapters": [
       {
         "start": 2015,
         "end": 2015,
-        "author": "Fluss."
+        "author": "Max Fluss."
       }
     ]
   },
@@ -8161,7 +8165,7 @@
   },
   {
     "lemma": "Neathus",
-    "previous": "Nea Valentia",
+    "previous": "Νέα Ὀλυμπία",
     "next": "Neaichmos",
     "proof_read": 0,
     "short_description": "Fluß im Gebiet v. Kroton in Unteritalien",
@@ -9192,10 +9196,13 @@
     "lemma": "Νέχειλα",
     "previous": "Nechaus",
     "next": "Nechepso",
+    "proof_read": 0,
+    "short_description": "Necheia, Dorf in der nordsyrischen Apamane",
     "chapters": [
       {
         "start": 2160,
-        "author": "Honigmann"
+        "end": 2160,
+        "author": "Ernst Honigmann."
       }
     ]
   },
@@ -11203,11 +11210,13 @@
     "lemma": "Neoi",
     "previous": "Neogilla",
     "next": "Neokaisareia 1",
+    "proof_read": 0,
     "short_description": "Bezeichnung d. Jungen, teils als t.t. körperschaftl. Gebilde",
     "chapters": [
       {
         "start": 2401,
-        "author": "Poland"
+        "end": 2409,
+        "author": "F. Poland."
       }
     ]
   },
@@ -12427,7 +12436,7 @@
   {
     "lemma": "Nephrommis",
     "previous": "Nephremmis",
-    "next": "Nephsameemana",
+    "next": "Νεφσαμεεμανα",
     "redirect": "Nephremmis",
     "proof_read": 2,
     "chapters": [
@@ -12438,19 +12447,23 @@
     ]
   },
   {
-    "lemma": "Nephsameemana",
+    "lemma": "Νεφσαμεεμανα",
     "previous": "Nephrommis",
     "next": "Νεφθώ",
+    "sort_key": "Nephsameemana",
+    "proof_read": 2,
+    "short_description": "Grabmal des Propheten Micha",
     "chapters": [
       {
         "start": 2494,
-        "author": "Hölscher"
+        "end": 2495,
+        "author": "G. Hölscher."
       }
     ]
   },
   {
     "lemma": "Νεφθώ",
-    "previous": "Nephsameemana",
+    "previous": "Νεφσαμεεμανα",
     "next": "Nephthys",
     "sort_key": "Nephtho",
     "redirect": "Ναφθώ",
@@ -12838,16 +12851,19 @@
   {
     "lemma": "Ner...",
     "previous": "Nequinium",
-    "next": "Nerabos",
+    "next": "Νήραβος",
+    "proof_read": 2,
+    "short_description": "Frau auf einem Onyx in einer Inschrift",
     "chapters": [
       {
         "start": 2537,
-        "author": "Fluss"
+        "end": 2537,
+        "author": "Max Fluss."
       }
     ]
   },
   {
-    "lemma": "Nerabos",
+    "lemma": "Νήραβος",
     "previous": "Ner...",
     "next": "Sex. Neranius Capito",
     "short_description": "Stadt in Syrien",
@@ -12860,11 +12876,11 @@
   },
   {
     "lemma": "Sex. Neranius Capito",
-    "previous": "Nerabos",
+    "previous": "Νήραβος",
     "next": "Ner(asti)ni",
     "sort_key": "Neranius capito",
     "proof_read": 2,
-    "short_description": "(Σέξτος Νεράνιος Καπίτων). Wir kennen seinen Namen nur aus einem bilinguen",
+    "short_description": "erwähnt von einem bilinguen Psephisma des Rates von Neapel",
     "wp_link": "w:es:Sexto Neranio Capitón",
     "wd_link": "d:Q683283",
     "chapters": [
