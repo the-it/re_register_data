@@ -4574,6 +4574,8 @@
     "next": "Egretios",
     "proof_read": 3,
     "short_description": "Schauspielerin des mauretanischen Königs Iuba II., vor 23 n. Chr.",
+    "wp_link": "w:de:Ecloga (mima)",
+    "wd_link": "d:Q138312947",
     "no_creative_height": true,
     "chapters": [
       {
@@ -5137,7 +5139,7 @@
     "next": "Faenius a",
     "proof_read": 3,
     "short_description": "Fabia Arete, kaiserzeitliche Schauspielerin, Freigelassene",
-    "wp_link": "w:en:Fabia Arete",
+    "wp_link": "w:de:Fabia Arete",
     "wd_link": "d:Q73337191",
     "no_creative_height": true,
     "chapters": [
@@ -6353,8 +6355,9 @@
     "lemma": "Iulius 196a",
     "previous": "Iulius 192b",
     "next": "Iulius 196b",
-    "proof_read": 0,
-    "short_description": "C. l. Corocotta, frühkaiserzeitl. Schauspieler",
+    "proof_read": 2,
+    "short_description": "C. Iulius Corocotta, frühkaiserzeitlicher Mime",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 331,
@@ -10366,7 +10369,6 @@
   {
     "lemma": "Protarchos 8",
     "previous": "Promisthota",
-    "next": "Protogenes 11",
     "short_description": "Tauromen. Schauspieler",
     "chapters": [
       {
@@ -10376,14 +10378,23 @@
     ]
   },
   {
+    "lemma": "Protogone",
+    "next": "Protogenes 11"
+  },
+  {
     "lemma": "Protogenes 11",
-    "previous": "Protarchos 8",
+    "previous": "Protogone",
     "next": "Protokosmos",
-    "short_description": "Ältester bekannter Schauspieler in Rom im 3. Jh. v. Chr.",
+    "proof_read": 2,
+    "short_description": "ältester bekannter Mime in Rom im 3. Jhdt. v. Chr.",
+    "wp_link": "w:it:Protogene (mimo)",
+    "wd_link": "d:Q3924304",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 670,
-        "author": "Bonaria"
+        "end": 670,
+        "author": "Mario Bonaria."
       }
     ]
   },

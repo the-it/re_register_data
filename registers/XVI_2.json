@@ -1175,7 +1175,7 @@
   {
     "lemma": "Ναβονάσσαρος",
     "previous": "Ναβονάδιος",
-    "next": "Ναβοπολάσσαρος",
+    "next": "Nabopolassaros",
     "sort_key": "Nabonassaros",
     "proof_read": 0,
     "short_description": "König v. Babylon 747-733/2 v. Chr.",
@@ -1188,7 +1188,7 @@
     ]
   },
   {
-    "lemma": "Ναβοπολάσσαρος",
+    "lemma": "Nabopolassaros",
     "previous": "Ναβονάσσαρος",
     "next": "Nabor",
     "proof_read": 0,
@@ -1203,7 +1203,7 @@
   },
   {
     "lemma": "Nabor",
-    "previous": "Ναβοπολάσσαρος",
+    "previous": "Nabopolassaros",
     "next": "Nabrissa",
     "proof_read": 2,
     "short_description": "episcopus Centurionensis (s. o. Bd. III S. 1965) in Numidien, nahm an der",
@@ -4353,7 +4353,7 @@
   },
   {
     "lemma": "Narke 2",
-    "previous": "Narke 1",
+    "previous": "Narkasos",
     "next": "Narkissos 1",
     "proof_read": 0,
     "short_description": "Zitterrochen (Fischart)",
@@ -4396,7 +4396,7 @@
   {
     "lemma": "Narkissos 3",
     "previous": "Narkissos 2",
-    "next": "Ναρκίσσου πηγή",
+    "next": "Narkissu pege",
     "proof_read": 0,
     "short_description": "Bischof v. Neronias (Eirenopolis) in Kilikien, Arianer",
     "chapters": [
@@ -4408,7 +4408,7 @@
     ]
   },
   {
-    "lemma": "Ναρκίσσου πηγή",
+    "lemma": "Narkissu pege",
     "previous": "Narkissos 3",
     "next": "Narmalis",
     "proof_read": 0,
@@ -4423,7 +4423,7 @@
   },
   {
     "lemma": "Narmalis",
-    "previous": "Ναρκίσσου πηγή",
+    "previous": "Narkissu pege",
     "next": "Narnakios",
     "proof_read": 2,
     "short_description": "sonst unbekannte Stadt Pisidiens, Ephoros frg. 95 Μ. = 233 Jac. bei Steph. Byz.",
@@ -6138,15 +6138,14 @@
     "lemma": "Nauarchos, Nauarchie",
     "previous": "Nauarchis",
     "next": "Ναύαρις",
-    "short_description": "Flotten- o. Geschwaderkommandant u. das dem Kommando entsprechende Amt",
+    "sort_key": "Nauarchos,nauarchie",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 1889,
-        "author": "Strack"
-      },
-      {
-        "start": 1896,
-        "author": "Kießling, Emil"
+        "end": 1896,
+        "author": "E. Kießling."
       }
     ]
   },
@@ -7308,13 +7307,13 @@
     "lemma": "Nausinikos",
     "previous": "Nausimedon",
     "next": "Nausinoos",
-    "proof_read": 0,
-    "short_description": "ath. Archon 378/7 v. Chr.",
+    "proof_read": 2,
+    "short_description": "athischer Archon 378/7 v. Chr.",
     "chapters": [
       {
         "start": 2021,
         "end": 2021,
-        "author": "Kirchner."
+        "author": "Johann Kirchner."
       }
     ]
   },
@@ -7322,13 +7321,16 @@
     "lemma": "Nausinoos",
     "previous": "Nausinikos",
     "next": "Nausiphanes",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Sohn von Odysseus",
+    "wp_link": "w:en:Nausinous",
+    "wd_link": "d:Q682332",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2021,
         "end": 2021,
-        "author": "Keyßner."
+        "author": "Karl Keyßner."
       }
     ]
   },
@@ -7767,7 +7769,7 @@
   {
     "lemma": "Naxicae Insulae",
     "previous": "Naxia",
-    "next": "Naxos",
+    "next": "Naxos 1",
     "sort_key": "Naxicaeinsulae",
     "proof_read": 2,
     "short_description": "bei Skyl. peripl. 111 mit dem Zusatz πολλαί, eine Gruppe von Inseln an der",
@@ -8165,7 +8167,7 @@
   },
   {
     "lemma": "Neathus",
-    "previous": "Νέα Ὀλυμπία",
+    "previous": "Nea Valentia",
     "next": "Neaichmos",
     "proof_read": 0,
     "short_description": "Fluß im Gebiet v. Kroton in Unteritalien",
@@ -8180,7 +8182,7 @@
   {
     "lemma": "Nea Valentia",
     "previous": "Νέα Ὀλυμπία",
-    "next": "Neaichmos",
+    "next": "Neaethus",
     "sort_key": "Neavalentia",
     "proof_read": 0,
     "chapters": [
@@ -8333,7 +8335,7 @@
   {
     "lemma": "Neaira 8",
     "previous": "Neaira 7",
-    "next": "Neaithos",
+    "next": "Neaiton",
     "proof_read": 0,
     "short_description": "Hetäre in Athen",
     "chapters": [
@@ -8360,7 +8362,7 @@
   {
     "lemma": "Nealkes",
     "previous": "Neaiton",
-    "next": "Neandr(e)ia",
+    "next": "Neaithos",
     "proof_read": 0,
     "short_description": "Maler, wahrscheinl. Freund d. Aratos",
     "chapters": [
@@ -8386,7 +8388,7 @@
   },
   {
     "lemma": "Neandr(e)ia",
-    "previous": "Nealkes",
+    "previous": "Neaithos",
     "next": "Neandris",
     "proof_read": 0,
     "short_description": "Stadt in d. Troas",
@@ -9007,11 +9009,13 @@
     "lemma": "Nebieb",
     "previous": "Neauleites",
     "next": "Nebis",
+    "proof_read": 0,
     "short_description": "Beiname d. ägypt. Gottes Chnum",
     "chapters": [
       {
         "start": 2155,
-        "author": "Rusch"
+        "end": 2155,
+        "author": "Rusch."
       }
     ]
   },
@@ -9019,10 +9023,12 @@
     "lemma": "Nebis",
     "previous": "Nebieb",
     "next": "Nebisoci",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2155,
-        "author": "Schulten"
+        "end": 2155,
+        "author": "Schulten."
       }
     ]
   },
@@ -9030,10 +9036,12 @@
     "lemma": "Nebisoci",
     "previous": "Nebis",
     "next": "Nebo",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2155,
-        "author": "Schulten"
+        "end": 2155,
+        "author": "Schulten."
       }
     ]
   },
@@ -9054,10 +9062,12 @@
     "lemma": "Nebres",
     "previous": "Nebo",
     "next": "Nebridai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2155,
-        "author": "Heichelheim"
+        "end": 2156,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -9065,11 +9075,13 @@
     "lemma": "Nebridai",
     "previous": "Nebres",
     "next": "Nebris",
+    "proof_read": 0,
     "short_description": "Vornehmes Geschlecht auf Kos",
     "chapters": [
       {
         "start": 2156,
-        "author": "Wüst"
+        "end": 2156,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -9103,11 +9115,13 @@
     "lemma": "Nebritis",
     "previous": "Nebrissa",
     "next": "Nebrodes mons",
+    "proof_read": 0,
     "short_description": "Schmuckstein",
     "chapters": [
       {
         "start": 2156,
-        "author": "Schramm"
+        "end": 2157,
+        "author": "A. Schramm."
       }
     ]
   },
@@ -9115,11 +9129,14 @@
     "lemma": "Nebrodes mons",
     "previous": "Nebritis",
     "next": "Nebrophonos 1",
+    "sort_key": "Nebrodesmons",
+    "proof_read": 0,
     "short_description": "Gebirge in Sizilien",
     "chapters": [
       {
         "start": 2157,
-        "author": "Ziegler"
+        "end": 2157,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9155,13 +9172,15 @@
   },
   {
     "lemma": "Nebutosualeth",
-    "previous": "Nebrophonos 2",
+    "previous": "Nebukadnezar",
     "next": "Necal",
+    "proof_read": 0,
     "short_description": "Häufiger magischer Name in d. gr. Zauberliteratur",
     "chapters": [
       {
         "start": 2158,
-        "author": "Preisendanz"
+        "end": 2160,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -9182,7 +9201,7 @@
   {
     "lemma": "Nechaus",
     "previous": "Necal",
-    "next": "Νέχειλα",
+    "next": "Necheila",
     "redirect": "Nechepso",
     "proof_read": 2,
     "chapters": [
@@ -9193,7 +9212,7 @@
     ]
   },
   {
-    "lemma": "Νέχειλα",
+    "lemma": "Necheila",
     "previous": "Nechaus",
     "next": "Nechepso",
     "proof_read": 0,
@@ -9208,7 +9227,7 @@
   },
   {
     "lemma": "Nechepso",
-    "previous": "Νέχειλα",
+    "previous": "Necheila",
     "next": "Nechesia",
     "proof_read": 0,
     "short_description": "Verf. eines großen astronom. Werkes",
@@ -9229,11 +9248,13 @@
     "lemma": "Nechesia",
     "previous": "Nechepso",
     "next": "Necho",
+    "proof_read": 0,
     "short_description": "Hafenplatz an d. ägypt. Küste d. Roten Meeres",
     "chapters": [
       {
         "start": 2167,
-        "author": "Kees"
+        "end": 2167,
+        "author": "Kees."
       }
     ]
   },
@@ -9255,10 +9276,12 @@
     "lemma": "Nechtharaus",
     "previous": "Necho",
     "next": "Neclinum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2169,
-        "author": "Rusch"
+        "end": 2170,
+        "author": "Rusch."
       }
     ]
   },
@@ -9309,11 +9332,13 @@
     "lemma": "Neda",
     "previous": "Nectiberes",
     "next": "Nedao",
+    "proof_read": 0,
     "short_description": "Peloponnesischer Fluß, heute Buzi",
     "chapters": [
       {
         "start": 2170,
-        "author": "Meyer, Ernst"
+        "end": 2171,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -9321,11 +9346,13 @@
     "lemma": "Nedao",
     "previous": "Neda",
     "next": "Nedinates",
+    "proof_read": 0,
     "short_description": "Fluß in Pannonien",
     "chapters": [
       {
         "start": 2171,
-        "author": "Fluss"
+        "end": 2172,
+        "author": "Fluss."
       }
     ]
   },
@@ -9333,10 +9360,12 @@
     "lemma": "Nedinates",
     "previous": "Nedao",
     "next": "Nedinum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2172,
-        "author": "Fluss"
+        "end": 2172,
+        "author": "Fluss."
       }
     ]
   },
@@ -9344,11 +9373,13 @@
     "lemma": "Nedinum",
     "previous": "Nedinates",
     "next": "Nedisso",
+    "proof_read": 0,
     "short_description": "Ort im binnenländ. Liburnien östlich v. Iader, heute Nadin",
     "chapters": [
       {
         "start": 2172,
-        "author": "Fluss"
+        "end": 2175,
+        "author": "Fluss."
       }
     ]
   },
@@ -9369,11 +9400,13 @@
     "lemma": "Neditae",
     "previous": "Nedisso",
     "next": "Nedon",
+    "proof_read": 0,
     "short_description": "Gemeindename in Liburnien",
     "chapters": [
       {
         "start": 2175,
-        "author": "Fluss"
+        "end": 2175,
+        "author": "Fluss."
       }
     ]
   },
@@ -9381,11 +9414,13 @@
     "lemma": "Nedon",
     "previous": "Neditae",
     "next": "Nedusia",
+    "proof_read": 0,
     "short_description": "Fluß in Messenien",
     "chapters": [
       {
         "start": 2175,
-        "author": "Meyer, Ernst"
+        "end": 2176,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -9393,10 +9428,12 @@
     "lemma": "Nedusia",
     "previous": "Nedon",
     "next": "Nedymnos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2176,
-        "author": "Kruse"
+        "end": 2176,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -9404,8 +9441,8 @@
     "lemma": "Nedymnos",
     "previous": "Nedusia",
     "next": "Nee",
-    "proof_read": 2,
-    "short_description": "Einer der Kentauren, auf der Peirithooshochzeit von Theseus nebst anderen mit",
+    "proof_read": 3,
+    "short_description": "einer der Kentauren",
     "no_creative_height": true,
     "chapters": [
       {
@@ -9418,9 +9455,9 @@
   {
     "lemma": "Nee",
     "previous": "Nedymnos",
-    "next": "Neekleraba",
+    "next": "Νεελκεραβα",
     "redirect": "Nea Kome 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2176,
@@ -9429,19 +9466,22 @@
     ]
   },
   {
-    "lemma": "Neekleraba",
+    "lemma": "Νεελκεραβα",
     "previous": "Nee",
     "next": "Neeton",
+    "sort_key": "Neelkeraba",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2176,
-        "author": "Hölscher"
+        "end": 2176,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Neeton",
-    "previous": "Neekleraba",
+    "previous": "Νεελκεραβα",
     "next": "Nefasti dies",
     "redirect": "Neton 1",
     "proof_read": 2,
@@ -9471,18 +9511,20 @@
     "lemma": "Negeta",
     "previous": "Nefasti dies",
     "next": "Negidius",
+    "proof_read": 0,
     "short_description": "Stadt in N-Afrika am Tritonsee",
     "chapters": [
       {
         "start": 2176,
-        "author": "Windberg"
+        "end": 2177,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Negidius",
     "previous": "Negeta",
-    "next": "Negla",
+    "next": "Νέγλα",
     "redirect": "A. Agerius",
     "proof_read": 2,
     "chapters": [
@@ -9493,29 +9535,31 @@
     ]
   },
   {
-    "lemma": "Negla",
+    "lemma": "Νέγλα",
     "previous": "Negidius",
     "next": "Negligemela",
+    "sort_key": "Negla",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 2177,
-        "author": "Grohmann"
-      },
-      {
-        "start": 2177,
-        "author": "Hölscher"
+        "end": 2177,
+        "author": "A. Grohmann – G. Hölscher."
       }
     ]
   },
   {
     "lemma": "Negligemela",
-    "previous": "Negla",
-    "next": "Negra",
+    "previous": "Νέγλα",
+    "next": "Negotiorum gestio",
+    "proof_read": 0,
     "short_description": "Stadt in N-Afrika",
     "chapters": [
       {
         "start": 2177,
-        "author": "Windberg"
+        "end": 2177,
+        "author": "Windberg."
       }
     ]
   },
@@ -9549,11 +9593,13 @@
     "lemma": "Nehalennia",
     "previous": "Negrana",
     "next": "Neho",
+    "proof_read": 0,
     "short_description": "Nehalaennia, german. Göttin",
     "chapters": [
       {
         "start": 2177,
-        "author": "Heichelheim"
+        "end": 2182,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -9590,11 +9636,13 @@
     "lemma": "Neia 2",
     "previous": "Neia 1",
     "next": "Neidon(-os?)",
+    "proof_read": 0,
     "short_description": "Kastell bei Phoinike Libanesia",
     "chapters": [
       {
         "start": 2182,
-        "author": "Honigmann"
+        "end": 2182,
+        "author": "Honigmann."
       }
     ]
   },
@@ -9602,10 +9650,12 @@
     "lemma": "Neidon(-os?)",
     "previous": "Neia 2",
     "next": "Neikaia 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2182,
-        "author": "Ruge"
+        "end": 2182,
+        "author": "Ruge."
       }
     ]
   },
@@ -9613,11 +9663,13 @@
     "lemma": "Neikaia 1",
     "previous": "Neidon(-os?)",
     "next": "Neikaia 2",
+    "proof_read": 0,
     "short_description": "Ort d. unteren Kilbianer in d. östl. Kaystros-Ebene",
     "chapters": [
       {
         "start": 2182,
-        "author": "Keil"
+        "end": 2183,
+        "author": "Keil."
       }
     ]
   },
@@ -9695,11 +9747,13 @@
     "lemma": "Neilios",
     "previous": "Neileus",
     "next": "Neilo 1",
+    "proof_read": 0,
     "short_description": "Schmuckstein",
     "chapters": [
       {
         "start": 2185,
-        "author": "Schramm"
+        "end": 2185,
+        "author": "A. Schramm."
       }
     ]
   },
@@ -9707,11 +9761,13 @@
     "lemma": "Neilo 1",
     "previous": "Neilios",
     "next": "Neilo 2",
+    "proof_read": 0,
     "short_description": "Muse bei Epicharm",
     "chapters": [
       {
         "start": 2185,
-        "author": "Göber"
+        "end": 2185,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -9789,30 +9845,35 @@
   {
     "lemma": "Neïon",
     "previous": "Neiloxenos",
-    "next": "Neis",
+    "next": "Νηΐς",
+    "proof_read": 0,
     "short_description": "Bewaldeter Berg auf Ithaka",
     "chapters": [
       {
         "start": 2187,
-        "author": "Herbst"
+        "end": 2188,
+        "author": "Rudolf Herbst."
       }
     ]
   },
   {
-    "lemma": "Neis",
+    "lemma": "Νηΐς",
     "previous": "Neïon",
     "next": "Neisa",
+    "sort_key": "Neis",
+    "proof_read": 0,
     "short_description": "Bezeichnung d. Naiaden",
     "chapters": [
       {
         "start": 2188,
-        "author": "Treidler"
+        "end": 2188,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Neisa",
-    "previous": "Neis",
+    "previous": "Νηΐς",
     "next": "Neisos",
     "proof_read": 2,
     "short_description": "Stadt in Lykien",
@@ -9830,10 +9891,12 @@
     "lemma": "Neisos",
     "previous": "Neisa",
     "next": "Neith",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2188,
-        "author": "Sieveking"
+        "end": 2189,
+        "author": "Sieveking."
       }
     ]
   },
@@ -9841,11 +9904,13 @@
     "lemma": "Neith",
     "previous": "Neisos",
     "next": "Νέκλα",
+    "proof_read": 0,
     "short_description": "Ägyptische Göttin in d. Stadt Sais, der Athene gleichgesetzt",
     "chapters": [
       {
         "start": 2189,
-        "author": "Rusch"
+        "end": 2218,
+        "author": "Rusch."
       }
     ]
   },
@@ -9854,7 +9919,7 @@
     "previous": "Neith",
     "next": "Nekromantie",
     "sort_key": "Nekla",
-    "redirect": "Negla",
+    "redirect": "Νέγλα",
     "proof_read": 2,
     "chapters": [
       {
@@ -9867,11 +9932,13 @@
     "lemma": "Nekromantie",
     "previous": "Νέκλα",
     "next": "Nekropolis",
+    "proof_read": 0,
     "short_description": "Befragung von Totenseelen, Teil d. Mantik",
     "chapters": [
       {
         "start": 2218,
-        "author": "Hopfner, Th[eodor]"
+        "end": 2233,
+        "author": "Th. Hopfner."
       }
     ]
   },
@@ -9879,11 +9946,13 @@
     "lemma": "Nekropolis",
     "previous": "Nekromantie",
     "next": "Nektanebos",
+    "proof_read": 0,
     "short_description": "v. Alexandria, Grabanlagen im O u. W. der Stadt",
     "chapters": [
       {
         "start": 2233,
-        "author": "Kees"
+        "end": 2234,
+        "author": "Kees."
       }
     ]
   },
@@ -9905,11 +9974,13 @@
     "lemma": "Nektar",
     "previous": "Nektanebos",
     "next": "Nektarios 1",
+    "proof_read": 0,
     "short_description": "Ergänzung",
     "chapters": [
       {
         "start": 2240,
-        "author": "Schwenn"
+        "end": 2240,
+        "author": "Schwenn."
       }
     ]
   },
@@ -10046,18 +10117,20 @@
     "lemma": "Nekydaimon",
     "previous": "Nektiberes",
     "next": "Nekyomanteia",
+    "proof_read": 0,
     "short_description": "Totendämon, Totengeist",
     "chapters": [
       {
         "start": 2240,
-        "author": "Preisendanz"
+        "end": 2266,
+        "author": "Preisendanz."
       }
     ]
   },
   {
     "lemma": "Nekyomanteia",
     "previous": "Nekydaimon",
-    "next": "Nekysia",
+    "next": "Νεκύσια",
     "redirect": "Nekromantie",
     "proof_read": 2,
     "chapters": [
@@ -10068,72 +10141,89 @@
     ]
   },
   {
-    "lemma": "Nekysia",
+    "lemma": "Νεκύσια",
     "previous": "Nekyomanteia",
-    "next": "Nekysios",
+    "next": "Νεκύσιος",
+    "sort_key": "Nekysia",
+    "proof_read": 0,
     "short_description": "Allgem. Ausdruck für Totenfeiern",
     "chapters": [
       {
         "start": 2266,
-        "author": "Ziehen"
+        "end": 2267,
+        "author": "Ziehen."
       }
     ]
   },
   {
-    "lemma": "Nekysios",
-    "previous": "Nekysia",
+    "lemma": "Νεκύσιος",
+    "previous": "Νεκύσια",
     "next": "Nela, Neela",
-    "short_description": "Gr. Monatsname in Knossos",
+    "sort_key": "Nekysios",
+    "proof_read": 0,
+    "short_description": "Nekysios, griechischer Monatsname in Knossos",
     "chapters": [
       {
         "start": 2267,
-        "author": "Sontheimer"
+        "end": 2267,
+        "author": "Sontheimer."
       }
     ]
   },
   {
     "lemma": "Nela, Neela",
-    "previous": "Nekysios",
-    "next": "Nelaxa",
+    "previous": "Νεκύσιος",
+    "next": "Νελαξα",
+    "sort_key": "Nela,neela",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2267,
-        "author": "Hölscher"
+        "end": 2267,
+        "author": "Hölscher."
       }
     ]
   },
   {
-    "lemma": "Nelaxa",
+    "lemma": "Νελαξα",
     "previous": "Nela, Neela",
-    "next": "Nele",
+    "next": "Nelei",
+    "sort_key": "Nelaxa",
+    "proof_read": 2,
+    "short_description": "Ort in Bethanien",
     "chapters": [
       {
         "start": 2267,
-        "author": "Hölscher"
+        "end": 2267,
+        "author": "G. Hölscher."
       }
     ]
   },
   {
-    "lemma": "Nele",
-    "previous": "Nelaxa",
+    "lemma": "Nelei",
+    "previous": "Νελαξα",
     "next": "Neleia 1",
-    "short_description": "Etruskisierung d. gr. Neleus",
+    "proof_read": 0,
+    "short_description": "Fragmente eines Gedichtes in iamb. Senaren",
     "chapters": [
       {
-        "start": 2267,
-        "author": "Fiesel"
+        "start": 2268,
+        "end": 2268,
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Neleia 1",
-    "previous": "Nele",
+    "previous": "Nelei",
     "next": "Neleia 2",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Aphrodite",
     "chapters": [
       {
         "start": 2268,
-        "author": "Kruse"
+        "end": 2268,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -10163,12 +10253,14 @@
   },
   {
     "lemma": "Neleis",
-    "previous": "Nelei carmen",
+    "previous": "Neleia 2",
     "next": "Neleus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2269,
-        "author": "Kroll"
+        "end": 2269,
+        "author": "Kroll."
       }
     ]
   },
@@ -10190,11 +10282,13 @@
     "lemma": "Neleus 2",
     "previous": "Neleus 1",
     "next": "Neleus 3",
+    "proof_read": 0,
     "short_description": "Wunderquelle in d. Hestiaiotis",
     "chapters": [
       {
         "start": 2280,
-        "author": "Stählin"
+        "end": 2280,
+        "author": "van der Kolf."
       }
     ]
   },
@@ -10243,11 +10337,13 @@
     "lemma": "Nelkynda",
     "previous": "Nelia",
     "next": "Nellius",
+    "proof_read": 0,
     "short_description": "Hafen Limyrikes",
     "chapters": [
       {
         "start": 2281,
-        "author": "Stein, O[tto]"
+        "end": 2285,
+        "author": "O. Stein."
       }
     ]
   },
@@ -10269,11 +10365,13 @@
     "lemma": "Nellos",
     "previous": "Nellius",
     "next": "Nelo",
+    "proof_read": 0,
     "short_description": "Nellon? Ort auf Zakynthos",
     "chapters": [
       {
         "start": 2285,
-        "author": "Voigt"
+        "end": 2285,
+        "author": "Voigt."
       }
     ]
   },
@@ -10294,10 +10392,12 @@
     "lemma": "Nelus",
     "previous": "Nelo",
     "next": "Nemaloni",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2285,
-        "author": "Schulten"
+        "end": 2285,
+        "author": "Schulten."
       }
     ]
   },
@@ -10305,11 +10405,13 @@
     "lemma": "Nemaloni",
     "previous": "Nelus",
     "next": "Nemanturissa",
+    "proof_read": 0,
     "short_description": "Ligurisches Volk in d. Seealpen",
     "chapters": [
       {
         "start": 2285,
-        "author": "Franke"
+        "end": 2286,
+        "author": "Franke."
       }
     ]
   },
@@ -10317,10 +10419,12 @@
     "lemma": "Nemanturissa",
     "previous": "Nemaloni",
     "next": "Nemanus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2286,
-        "author": "Schulten"
+        "end": 2286,
+        "author": "Schulten."
       }
     ]
   },
@@ -10342,10 +10446,12 @@
     "lemma": "Nematuri",
     "previous": "Nemanus",
     "next": "Nemausus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2286,
-        "author": "Philipp"
+        "end": 2286,
+        "author": "Philipp."
       }
     ]
   },
@@ -10353,11 +10459,13 @@
     "lemma": "Nemausus 1",
     "previous": "Nematuri",
     "next": "Nemausus 2",
+    "proof_read": 0,
     "short_description": "Quellgott, Namensgeber d. Stadt Nîmes-Nemausus",
     "chapters": [
       {
         "start": 2286,
-        "author": "Heichelheim"
+        "end": 2288,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -10365,11 +10473,13 @@
     "lemma": "Nemausus 2",
     "previous": "Nemausus 1",
     "next": "Nemea 1",
+    "proof_read": 0,
     "short_description": "Vorort d. gallischen civitas der Volcae Aremorici, colonia d. Augustus, heute",
     "chapters": [
       {
         "start": 2288,
-        "author": "Linckenheld"
+        "end": 2310,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -10403,11 +10513,13 @@
     "lemma": "Nemea 3",
     "previous": "Nemea 2",
     "next": "Nemea 4",
+    "proof_read": 0,
     "short_description": "N. charadra, Bach in Argos, heute Bach v. Kutsomodi",
     "chapters": [
       {
         "start": 2322,
-        "author": "Meyer, Ernst"
+        "end": 2322,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -10415,11 +10527,13 @@
     "lemma": "Nemea 4",
     "previous": "Nemea 3",
     "next": "Nemeios",
+    "proof_read": 0,
     "short_description": "Viertes der großen panhellenischen Festspiele",
     "chapters": [
       {
         "start": 2322,
-        "author": "Hanell"
+        "end": 2327,
+        "author": "Krister Hanell."
       }
     ]
   },
@@ -10427,11 +10541,13 @@
     "lemma": "Nemeios",
     "previous": "Nemea 4",
     "next": "Nemertes 1",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Zeus",
     "chapters": [
       {
         "start": 2327,
-        "author": "Kruse"
+        "end": 2328,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -10439,11 +10555,13 @@
     "lemma": "Nemertes 1",
     "previous": "Nemeios",
     "next": "Nemertes 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Nereus u. d. Doris",
     "chapters": [
       {
         "start": 2328,
-        "author": "Göber"
+        "end": 2328,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -10451,11 +10569,13 @@
     "lemma": "Nemertes 2",
     "previous": "Nemertes 1",
     "next": "Nemes",
+    "proof_read": 0,
     "short_description": "Allegor. Personifikation bei Empedokles",
     "chapters": [
       {
         "start": 2328,
-        "author": "Göber"
+        "end": 2328,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -10463,10 +10583,12 @@
     "lemma": "Nemes",
     "previous": "Nemertes 2",
     "next": "Nemesa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2328,
-        "author": "Rusch"
+        "end": 2328,
+        "author": "Rusch."
       }
     ]
   },
@@ -10474,10 +10596,12 @@
     "lemma": "Nemesa",
     "previous": "Nemes",
     "next": "Nemeseia 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2328,
-        "author": "Franke"
+        "end": 2328,
+        "author": "Franke."
       }
     ]
   },
@@ -10485,11 +10609,13 @@
     "lemma": "Nemeseia 1",
     "previous": "Nemesa",
     "next": "Nemeseia 2",
+    "proof_read": 0,
     "short_description": "Athen. Totenfest",
     "chapters": [
       {
         "start": 2328,
-        "author": "Herter"
+        "end": 2329,
+        "author": "H. Herter."
       }
     ]
   },
@@ -10497,11 +10623,13 @@
     "lemma": "Nemeseia 2",
     "previous": "Nemeseia 1",
     "next": "Nemesianus 1",
+    "proof_read": 0,
     "short_description": "Fest d. Nemesis in Rhamnus u. Smyrna",
     "chapters": [
       {
         "start": 2329,
-        "author": "Herter"
+        "end": 2329,
+        "author": "H. Herter."
       }
     ]
   },
@@ -10605,11 +10733,13 @@
     "lemma": "Nemesion 1",
     "previous": "Nemesianus 7",
     "next": "Nemesion 2",
+    "proof_read": 0,
     "short_description": "Stadt an d. Küste v. Marmarica",
     "chapters": [
       {
         "start": 2337,
-        "author": "Windberg"
+        "end": 2338,
+        "author": "Windberg."
       }
     ]
   },
@@ -10643,11 +10773,13 @@
     "lemma": "Nemesis",
     "previous": "Nemesios",
     "next": "Nemesius 1",
+    "proof_read": 0,
     "short_description": "Gr. Göttin",
     "chapters": [
       {
         "start": 2338,
-        "author": "Herter"
+        "end": 2380,
+        "author": "H. Herter."
       }
     ]
   },
@@ -10769,10 +10901,12 @@
     "lemma": "Nemestrinus",
     "previous": "Nemessanus",
     "next": "Nemetacum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2381,
-        "author": "Mielentz"
+        "end": 2381,
+        "author": "Mielentz."
       }
     ]
   },
@@ -10780,11 +10914,13 @@
     "lemma": "Nemetacum",
     "previous": "Nemestrinus",
     "next": "Nemetati",
+    "proof_read": 0,
     "short_description": "Hauptstadt d. Atrebaten in Gallia Belgica",
     "chapters": [
       {
         "start": 2381,
-        "author": "Honigmann"
+        "end": 2382,
+        "author": "Honigmann."
       }
     ]
   },
@@ -10792,10 +10928,12 @@
     "lemma": "Nemetati",
     "previous": "Nemetacum",
     "next": "Nemetes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2382,
-        "author": "Schulten"
+        "end": 2382,
+        "author": "Schulten."
       }
     ]
   },
@@ -10803,11 +10941,13 @@
     "lemma": "Nemetes",
     "previous": "Nemetati",
     "next": "Nemetiales",
+    "proof_read": 0,
     "short_description": "German. Volksstamm in d. oberrhein. Tiefebene mit s. Hauptstadt Noviomagus",
     "chapters": [
       {
         "start": 2382,
-        "author": "Franke"
+        "end": 2385,
+        "author": "Franke."
       }
     ]
   },
@@ -10828,10 +10968,12 @@
     "lemma": "Nemetobriga",
     "previous": "Nemetiales",
     "next": "Nemetocenna",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2385,
-        "author": "Schulten"
+        "end": 2385,
+        "author": "Schulten."
       }
     ]
   },
@@ -10865,11 +11007,13 @@
     "lemma": "Nemetona",
     "previous": "Nemeton",
     "next": "Nemetotacio",
+    "proof_read": 0,
     "short_description": "Kelt. Göttin",
     "chapters": [
       {
         "start": 2385,
-        "author": "Heichelheim"
+        "end": 2386,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -10891,10 +11035,12 @@
     "lemma": "Nemeturi",
     "previous": "Nemetotacio",
     "next": "Neminie",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2386,
-        "author": "Franke"
+        "end": 2386,
+        "author": "Franke."
       }
     ]
   },
@@ -10902,10 +11048,12 @@
     "lemma": "Neminie",
     "previous": "Nemeturi",
     "next": "Nemnici(i, -ae)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2386,
-        "author": "Philipp"
+        "end": 2386,
+        "author": "Philipp."
       }
     ]
   },
@@ -10913,11 +11061,14 @@
     "lemma": "Nemnici(i, -ae)",
     "previous": "Neminie",
     "next": "Nemorensis lacus",
+    "sort_key": "Nemnici(i,-ae)",
+    "proof_read": 0,
     "short_description": "Nennic(i o. -ae), Kelt. Gottheiten",
     "chapters": [
       {
         "start": 2386,
-        "author": "Heichelheim"
+        "end": 2387,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -10925,18 +11076,21 @@
     "lemma": "Nemorensis lacus",
     "previous": "Nemnici(i, -ae)",
     "next": "Nemorius",
+    "sort_key": "Nemorensislacus",
+    "proof_read": 0,
     "short_description": "See in Latium, heute Lago di Nemi",
     "chapters": [
       {
         "start": 2387,
-        "author": "Philipp"
+        "end": 2389,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Nemorius",
     "previous": "Nemorensis lacus",
-    "next": "Νεμωσσός",
+    "next": "Nemossos",
     "redirect": "Naemorius",
     "proof_read": 2,
     "chapters": [
@@ -10947,7 +11101,7 @@
     ]
   },
   {
-    "lemma": "Νεμωσσός",
+    "lemma": "Nemossos",
     "previous": "Nemorius",
     "next": "Nemota",
     "short_description": "Metropolis d. Arverner",
@@ -10960,7 +11114,7 @@
   },
   {
     "lemma": "Nemota",
-    "previous": "Νεμωσσός",
+    "previous": "Nemossos",
     "next": "Nemus 1",
     "proof_read": 0,
     "chapters": [
@@ -10988,44 +11142,53 @@
     "lemma": "Nemus 2",
     "previous": "Nemus 1",
     "next": "Nemydia",
+    "proof_read": 0,
     "short_description": "Sonst unbek. Fluß in Italien",
     "chapters": [
       {
         "start": 2390,
-        "author": "Philipp"
+        "end": 2390,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Nemydia",
     "previous": "Nemus 2",
-    "next": "Nenassidetis",
+    "next": "Νενασσιδητις",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2390,
-        "author": "Kruse"
+        "end": 2390,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
-    "lemma": "Nenassidetis",
+    "lemma": "Νενασσιδητις",
     "previous": "Nemydia",
     "next": "Nengo",
+    "sort_key": "Nenassidetis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2390,
-        "author": "Ruge"
+        "end": 2390,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Nengo",
-    "previous": "Nenassidetis",
+    "previous": "Νενασσιδητις",
     "next": "Nenia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2390,
-        "author": "Philipp"
+        "end": 2390,
+        "author": "H. Philipp. – M. Fluss."
       }
     ]
   },
@@ -11033,11 +11196,13 @@
     "lemma": "Nenia",
     "previous": "Nengo",
     "next": "Nenika",
+    "proof_read": 0,
     "short_description": "Röm. Totenklage",
     "chapters": [
       {
         "start": 2390,
-        "author": "Kroll"
+        "end": 2393,
+        "author": "Kroll."
       }
     ]
   },
@@ -11098,10 +11263,12 @@
     "lemma": "Nensa",
     "previous": "Nen(o)laus",
     "next": "Nentidava",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2394,
-        "author": "Windberg"
+        "end": 2394,
+        "author": "Windberg."
       }
     ]
   },
@@ -11109,11 +11276,13 @@
     "lemma": "Nentidava",
     "previous": "Nensa",
     "next": "Neobigastes",
+    "proof_read": 0,
     "short_description": "s. Netindava",
     "chapters": [
       {
         "start": 2394,
-        "author": "Fluss"
+        "end": 2394,
+        "author": "Fluss."
       }
     ]
   },
@@ -11147,11 +11316,13 @@
     "lemma": "Neoclaudiopolis",
     "previous": "Neobule",
     "next": "Neocydes",
+    "proof_read": 0,
     "short_description": "Späterer Name für Andrapa",
     "chapters": [
       {
         "start": 2394,
-        "author": "Ruge"
+        "end": 2396,
+        "author": "Ruge."
       }
     ]
   },
@@ -11172,11 +11343,13 @@
     "lemma": "Neodamodeis",
     "previous": "Neocydes",
     "next": "Νεογένης",
+    "proof_read": 0,
     "short_description": "Spartan. Bezeichnung einer bes. Gruppe freigelassener Heloten",
     "chapters": [
       {
         "start": 2396,
-        "author": "Ehrenberg"
+        "end": 2401,
+        "author": "Ehrenberg."
       }
     ]
   },
@@ -11199,17 +11372,19 @@
     "lemma": "Neogilla",
     "previous": "Νεογένης",
     "next": "Neoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2401,
-        "author": "Grohmann"
+        "end": 2401,
+        "author": "Grohmann."
       }
     ]
   },
   {
     "lemma": "Neoi",
     "previous": "Neogilla",
-    "next": "Neokaisareia 1",
+    "next": "Νεοκαισάρεια 1",
     "proof_read": 0,
     "short_description": "Bezeichnung d. Jungen, teils als t.t. körperschaftl. Gebilde",
     "chapters": [
@@ -11221,44 +11396,53 @@
     ]
   },
   {
-    "lemma": "Neokaisareia 1",
+    "lemma": "Νεοκαισάρεια 1",
     "previous": "Neoi",
-    "next": "Neokaisareia 2",
+    "next": "Νεοκαισάρεια 2",
+    "sort_key": "Neokaisareia 1",
+    "proof_read": 0,
     "short_description": "Stadt in Bithynien",
     "chapters": [
       {
         "start": 2409,
-        "author": "Ruge"
+        "end": 2409,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Neokaisareia 2",
-    "previous": "Neokaisareia 1",
-    "next": "Neokaisareia 3",
+    "lemma": "Νεοκαισάρεια 2",
+    "previous": "Νεοκαισάρεια 1",
+    "next": "Νεοκαισάρεια 3",
+    "sort_key": "Neokaisareia 2",
+    "proof_read": 0,
     "short_description": "Stadt im Pontos Polemoiakos",
     "chapters": [
       {
         "start": 2409,
-        "author": "Ruge"
+        "end": 2413,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Neokaisareia 3",
-    "previous": "Neokaisareia 2",
+    "lemma": "Νεοκαισάρεια 3",
+    "previous": "Νεοκαισάρεια 2",
     "next": "Νεοκαισαρεών",
+    "sort_key": "Neokaisareia 3",
+    "proof_read": 0,
     "short_description": "Stadt in N-Syrien am Euphrat",
     "chapters": [
       {
         "start": 2413,
-        "author": "Honigmann"
+        "end": 2414,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Νεοκαισαρεών",
-    "previous": "Neokaisareia 3",
+    "previous": "Νεοκαισάρεια 3",
     "next": "Neokleides",
     "chapters": [
       {
@@ -11415,11 +11599,13 @@
     "lemma": "Neokoroi",
     "previous": "Neokome",
     "next": "Neolaidas 1",
+    "proof_read": 0,
     "short_description": "A, Tempeldiener, Sakralbeamte B. Städte als N.",
     "chapters": [
       {
         "start": 2422,
-        "author": "Hanell"
+        "end": 2428,
+        "author": "Krister Hanell."
       }
     ]
   },
@@ -11498,11 +11684,13 @@
     "lemma": "Neon 1",
     "previous": "Neomeris",
     "next": "Neon 2",
+    "proof_read": 0,
     "short_description": "Stadt in Phokis",
     "chapters": [
       {
         "start": 2428,
-        "author": "Fiehn"
+        "end": 2429,
+        "author": "Fiehn."
       }
     ]
   },
@@ -11692,7 +11880,7 @@
   {
     "lemma": "Neonas",
     "previous": "Neon Teichos 2",
-    "next": "Neophron",
+    "next": "Neon Teichos 1",
     "proof_read": 0,
     "chapters": [
       {
@@ -11704,25 +11892,31 @@
   },
   {
     "lemma": "Neon Teichos 1",
-    "previous": "Neonas",
+    "previous": "Neon 14",
     "next": "Neon Teichos 2",
+    "sort_key": "Neonteichos 1",
+    "proof_read": 0,
     "short_description": "Kastell an d. N-Küste d. Propontis",
     "chapters": [
       {
         "start": 2431,
-        "author": "Oberhummer"
+        "end": 2431,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Neon Teichos 2",
     "previous": "Neon Teichos 1",
-    "next": "Neophron",
+    "next": "Neonas",
+    "sort_key": "Neonteichos 2",
+    "proof_read": 0,
     "short_description": "Stadt in d. Aiolis",
     "chapters": [
       {
         "start": 2431,
-        "author": "Keil"
+        "end": 2431,
+        "author": "Keil."
       }
     ]
   },
@@ -11744,17 +11938,19 @@
     "lemma": "Neophyta",
     "previous": "Neophron",
     "next": "Neophytos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2433,
-        "author": "Ruge"
+        "end": 2433,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Neophytos",
     "previous": "Neophyta",
-    "next": "Neopoioi",
+    "next": "Νεωποιοί",
     "proof_read": 2,
     "short_description": "Begleiter auf der Flucht und beim Tode Neros",
     "chapters": [
@@ -11766,20 +11962,23 @@
     ]
   },
   {
-    "lemma": "Neopoioi",
+    "lemma": "Νεωποιοί",
     "previous": "Neophytos",
     "next": "Neopolis 1",
+    "sort_key": "Neopoioi",
+    "proof_read": 0,
     "short_description": "Tempelbaukommission, Tempelverwaltung",
     "chapters": [
       {
         "start": 2433,
-        "author": "Schulthess"
+        "end": 2439,
+        "author": "Schulthess."
       }
     ]
   },
   {
     "lemma": "Neopolis 1",
-    "previous": "Neopoioi",
+    "previous": "Νεωποιοί",
     "next": "Neopolis 2",
     "proof_read": 3,
     "short_description": "Stadt in Aitolien",
@@ -12037,11 +12236,13 @@
     "lemma": "Neorion",
     "previous": "Νεοπτολέμου πύργος",
     "next": "Neoriophylax",
+    "proof_read": 0,
     "short_description": "Schiffshaus",
     "chapters": [
       {
         "start": 2471,
-        "author": "Miltner, Franz"
+        "end": 2474,
+        "author": "Miltner."
       }
     ]
   },
@@ -12049,11 +12250,13 @@
     "lemma": "Neoriophylax",
     "previous": "Neorion",
     "next": "Neoris",
+    "proof_read": 0,
     "short_description": "Wohl Emissär d. Zollbehörde am Hafen",
     "chapters": [
       {
         "start": 2475,
-        "author": "Miltner, Franz"
+        "end": 2475,
+        "author": "Miltner."
       }
     ]
   },
@@ -12061,46 +12264,55 @@
     "lemma": "Neoris",
     "previous": "Neoriophylax",
     "next": "Neoros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2475,
-        "author": "Kroll"
+        "end": 2475,
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Neoros",
     "previous": "Neoris",
-    "next": "Neos Sebastos",
+    "next": "Νέος Σεβαστος",
+    "proof_read": 0,
     "short_description": "Beamter, zuständig für d. Betreuung d. Schiffshäuser",
     "chapters": [
       {
         "start": 2475,
-        "author": "Miltner, Franz"
+        "end": 2476,
+        "author": "Miltner."
       }
     ]
   },
   {
-    "lemma": "Neos Sebastos",
+    "lemma": "Νέος Σεβαστος",
     "previous": "Neoros",
     "next": "Neotas",
+    "sort_key": "Neossebastos",
+    "proof_read": 0,
     "short_description": "Gr. Monatsname aus röm. Zt.",
     "chapters": [
       {
         "start": 2476,
-        "author": "Sontheimer"
+        "end": 2477,
+        "author": "Sontheimer."
       }
     ]
   },
   {
     "lemma": "Neotas",
-    "previous": "Neos Sebastos",
+    "previous": "Νέος Σεβαστος",
     "next": "Neoteles",
+    "proof_read": 0,
     "short_description": "Jugend, junge Mannschaft spez. t.t. für 'Rat der Jungen'",
     "chapters": [
       {
         "start": 2477,
-        "author": "Schaefer"
+        "end": 2477,
+        "author": "Hans Schaefer."
       }
     ]
   },
@@ -12122,11 +12334,13 @@
     "lemma": "Neotera",
     "previous": "Neoteles",
     "next": "Neoterius 1",
+    "proof_read": 0,
     "short_description": "Ägypt. Göttin",
     "chapters": [
       {
         "start": 2478,
-        "author": "Oppermann"
+        "end": 2478,
+        "author": "Oppermann."
       }
     ]
   },
@@ -12233,7 +12447,7 @@
   {
     "lemma": "Nepe",
     "previous": "Νεούτ",
-    "next": "Nepeion, pedion",
+    "next": "Νηπήιον",
     "redirect": "Nepet",
     "proof_read": 2,
     "chapters": [
@@ -12244,32 +12458,37 @@
     ]
   },
   {
-    "lemma": "Nepeion, pedion",
+    "lemma": "Νηπήιον",
     "previous": "Nepe",
     "next": "Nepet",
+    "sort_key": "Nepeion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2480,
-        "author": "Ruge"
+        "end": 2480,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Nepet",
-    "previous": "Nepeion, pedion",
+    "previous": "Νηπήιον",
     "next": "Nepete",
+    "proof_read": 0,
     "short_description": "Etr. Stadt",
     "chapters": [
       {
         "start": 2480,
-        "author": "Philipp"
+        "end": 2481,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Nepete",
     "previous": "Nepet",
-    "next": "Nephalia 1",
+    "next": "Νηφάλια 1",
     "redirect": "Nepet",
     "proof_read": 2,
     "wd_link": "d:Q133853689",
@@ -12281,32 +12500,38 @@
     ]
   },
   {
-    "lemma": "Nephalia 1",
+    "lemma": "Νηφάλια 1",
     "previous": "Nepete",
-    "next": "Nephalia 2",
+    "next": "Νηφάλια 2",
+    "sort_key": "Nephalia 1",
+    "proof_read": 0,
     "short_description": "nüchterne' Spenden im Kult",
     "chapters": [
       {
         "start": 2481,
-        "author": "Ziehen"
+        "end": 2489,
+        "author": "Ziehen."
       }
     ]
   },
   {
-    "lemma": "Nephalia 2",
-    "previous": "Nephalia 1",
+    "lemma": "Νηφάλια 2",
+    "previous": "Νηφάλια 1",
     "next": "Nephalion",
+    "sort_key": "Nephalia 2",
+    "proof_read": 0,
     "short_description": "Bes. im Kult verwendete Hölzer",
     "chapters": [
       {
         "start": 2489,
-        "author": "Ziehen"
+        "end": 2489,
+        "author": "Ziehen."
       }
     ]
   },
   {
     "lemma": "Nephalion",
-    "previous": "Nephalia 2",
+    "previous": "Νηφάλια 2",
     "next": "Nephalios",
     "proof_read": 0,
     "short_description": "Sohn des Minos",
@@ -12350,11 +12575,13 @@
     "lemma": "Nephele 2",
     "previous": "Nephele 1",
     "next": "Nephele 3",
+    "proof_read": 0,
     "short_description": "Von Zeus geschaffene Wolke in d. Ixion-Sage",
     "chapters": [
       {
         "start": 2491,
-        "author": "Göber"
+        "end": 2491,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -12376,11 +12603,13 @@
     "lemma": "Nephelis",
     "previous": "Nephele 3",
     "next": "Nepheris",
+    "proof_read": 0,
     "short_description": "Ort im Rauhen Kilikien",
     "chapters": [
       {
         "start": 2491,
-        "author": "Ruge"
+        "end": 2492,
+        "author": "Ruge."
       }
     ]
   },
@@ -12388,11 +12617,13 @@
     "lemma": "Nepheris",
     "previous": "Nephelis",
     "next": "Nepheros",
+    "proof_read": 0,
     "short_description": "Feste Stadt in d. röm. Provinz Africa nahe Karthago",
     "chapters": [
       {
         "start": 2492,
-        "author": "Windberg"
+        "end": 2492,
+        "author": "Windberg."
       }
     ]
   },
@@ -12413,11 +12644,13 @@
     "lemma": "Nepherses",
     "previous": "Nepheros",
     "next": "Nephremmis",
+    "proof_read": 0,
     "short_description": "Nephorses, Beiname d. Isis",
     "chapters": [
       {
         "start": 2492,
-        "author": "Rusch"
+        "end": 2494,
+        "author": "Rusch."
       }
     ]
   },
@@ -12425,11 +12658,13 @@
     "lemma": "Nephremmis",
     "previous": "Nepherses",
     "next": "Nephrommis",
+    "proof_read": 0,
     "short_description": "Göttin",
     "chapters": [
       {
         "start": 2494,
-        "author": "Rusch"
+        "end": 2494,
+        "author": "Rusch."
       }
     ]
   },
@@ -12478,35 +12713,42 @@
   {
     "lemma": "Nephthys",
     "previous": "Νεφθώ",
-    "next": "Nepista",
+    "next": "Νέπιστα",
+    "proof_read": 0,
     "short_description": "Ägypt. Göttin",
     "chapters": [
       {
         "start": 2495,
-        "author": "Rusch"
+        "end": 2504,
+        "author": "Rusch."
       }
     ]
   },
   {
-    "lemma": "Nepista",
+    "lemma": "Νέπιστα",
     "previous": "Nephthys",
     "next": "Nepos 1",
+    "sort_key": "Nepista",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2504,
-        "author": "Herrmann"
+        "end": 2504,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Nepos 1",
-    "previous": "Nepista",
+    "previous": "Νέπιστα",
     "next": "Nepos 2",
+    "proof_read": 0,
     "short_description": "Beiname in d. Familie d. Caecilii Metelli",
     "chapters": [
       {
         "start": 2504,
-        "author": "Münzer"
+        "end": 2505,
+        "author": "Münzer."
       }
     ]
   },
@@ -12570,11 +12812,13 @@
     "lemma": "Nepos 6",
     "previous": "Nepos 5",
     "next": "Nepos 7",
+    "proof_read": 0,
     "short_description": "Iulius N., röm. Kaiser 474/5 bzw. 480 n. Chr.",
     "chapters": [
       {
         "start": 2505,
-        "author": "Enßlin"
+        "end": 2511,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12756,10 +13000,12 @@
     "lemma": "Neptunia",
     "previous": "Neptunalios",
     "next": "Neptunianus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2514,
-        "author": "Philipp"
+        "end": 2514,
+        "author": "Philipp."
       }
     ]
   },
@@ -12780,10 +13026,12 @@
     "lemma": "Neptunis",
     "previous": "Neptunianus",
     "next": "Neptunius mons",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2514,
-        "author": "Geisau"
+        "end": 2514,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -12791,10 +13039,13 @@
     "lemma": "Neptunius mons",
     "previous": "Neptunis",
     "next": "Neptunus",
+    "sort_key": "Neptuniusmons",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2514,
-        "author": "Ziegler"
+        "end": 2514,
+        "author": "Ziegler."
       }
     ]
   },
@@ -12802,11 +13053,13 @@
     "lemma": "Neptunus",
     "previous": "Neptunius mons",
     "next": "Nepualios",
+    "proof_read": 0,
     "short_description": "Röm. Gott d. Gewässer",
     "chapters": [
       {
         "start": 2514,
-        "author": "Weinstock"
+        "end": 2535,
+        "author": "Weinstock."
       }
     ]
   },
@@ -12866,11 +13119,14 @@
     "lemma": "Νήραβος",
     "previous": "Ner...",
     "next": "Sex. Neranius Capito",
+    "sort_key": "Nerabos",
+    "proof_read": 0,
     "short_description": "Stadt in Syrien",
     "chapters": [
       {
         "start": 2537,
-        "author": "Honigmann"
+        "end": 2537,
+        "author": "Honigmann."
       }
     ]
   },
@@ -12895,11 +13151,13 @@
     "lemma": "Ner(asti)ni",
     "previous": "Sex. Neranius Capito",
     "next": "Nerate",
+    "proof_read": 0,
     "short_description": "Dalmatische Gaugemeinde",
     "chapters": [
       {
         "start": 2538,
-        "author": "Fluss"
+        "end": 2538,
+        "author": "Fluss."
       }
     ]
   },
@@ -12907,11 +13165,13 @@
     "lemma": "Nerate",
     "previous": "Ner(asti)ni",
     "next": "Neratius",
+    "proof_read": 0,
     "short_description": "Kastell in Dalmatien",
     "chapters": [
       {
         "start": 2538,
-        "author": "Fluss"
+        "end": 2539,
+        "author": "Fluss."
       }
     ]
   },
