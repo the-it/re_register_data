@@ -1208,7 +1208,8 @@
     "previous": "Nesion",
     "next": "Nesiotai",
     "proof_read": 0,
-    "short_description": "Person",
+    "short_description": "Bischof von Corybrassi in Pamphylien um 431 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 69,
@@ -1740,7 +1741,7 @@
   {
     "lemma": "Nestica",
     "previous": "Nesti",
-    "next": "Nestis",
+    "next": "Nēstis",
     "short_description": "Person",
     "chapters": [
       {
@@ -1750,20 +1751,23 @@
     ]
   },
   {
-    "lemma": "Nestis",
+    "lemma": "Nēstis",
     "previous": "Nestica",
     "next": "Nestius",
+    "sort_key": "Nestis",
+    "proof_read": 0,
     "short_description": "Göttliche Personifikation des feuchten Elements",
     "chapters": [
       {
         "start": 108,
-        "author": "Preisendanz"
+        "end": 108,
+        "author": "Preisendanz."
       }
     ]
   },
   {
     "lemma": "Nestius",
-    "previous": "Nestis",
+    "previous": "Nēstis",
     "next": "Nestor 1",
     "proof_read": 2,
     "short_description": "Ethnikon von Nestos",
@@ -2125,11 +2129,13 @@
     "lemma": "Nestos 2",
     "previous": "Nestos 1",
     "next": "Nestos 3",
+    "proof_read": 0,
     "short_description": "Einer der Hauptflüsse von Thrakien",
     "chapters": [
       {
         "start": 138,
-        "author": "Oberhummer"
+        "end": 139,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -2162,11 +2168,13 @@
     "lemma": "Nestus 1",
     "previous": "nestur",
     "next": "Nestus 2",
+    "proof_read": 0,
     "short_description": "Fluß Dalmatiens",
     "chapters": [
       {
         "start": 139,
-        "author": "Fluss"
+        "end": 140,
+        "author": "Fluss."
       }
     ]
   },
@@ -2174,11 +2182,13 @@
     "lemma": "Nestus 2",
     "previous": "Nestus 1",
     "next": "Nesukios",
+    "proof_read": 0,
     "short_description": "Stadt Illyriens",
     "chapters": [
       {
         "start": 140,
-        "author": "Fluss"
+        "end": 140,
+        "author": "Fluss."
       }
     ]
   },
@@ -2215,11 +2225,14 @@
     "lemma": "Νεσύτ",
     "previous": "Nesulion",
     "next": "Netabio",
+    "sort_key": "Nesyt",
+    "proof_read": 0,
     "short_description": "Aegyptischer Gau zwischen busiritischem und bubastischem Nilarm",
     "chapters": [
       {
         "start": 141,
-        "author": "Kees"
+        "end": 141,
+        "author": "Kees."
       }
     ]
   },
@@ -2227,11 +2240,13 @@
     "lemma": "Netabio",
     "previous": "Νεσύτ",
     "next": "Nete",
+    "proof_read": 0,
     "short_description": "Ort Pannoniens",
     "chapters": [
       {
         "start": 141,
-        "author": "Fluss"
+        "end": 141,
+        "author": "Fluss."
       }
     ]
   },
@@ -2239,11 +2254,13 @@
     "lemma": "Nete",
     "previous": "Netabio",
     "next": "neθun(u)s",
+    "proof_read": 0,
     "short_description": "Delphische Muse",
     "chapters": [
       {
         "start": 141,
-        "author": "Andrée[-Hanslik]"
+        "end": 142,
+        "author": "Judith Andrée."
       }
     ]
   },
@@ -2267,17 +2284,19 @@
   {
     "lemma": "Netindava",
     "previous": "neθun(u)s",
-    "next": "Netis",
+    "next": "Νῆτις",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 143,
-        "author": "Fluss"
+        "end": 143,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Netis",
+    "lemma": "Νῆτις",
     "previous": "Netindava",
     "next": "Neton 1",
     "short_description": "Ort",
@@ -2290,7 +2309,7 @@
   },
   {
     "lemma": "Neton 1",
-    "previous": "Netis",
+    "previous": "Νῆτις",
     "next": "Neton 2",
     "short_description": "Stadt auf Sicilien",
     "chapters": [
@@ -2317,11 +2336,13 @@
     "lemma": "Netos",
     "previous": "Neton 2",
     "next": "Netrate",
+    "proof_read": 0,
     "short_description": "Name des Kriegsgottes Mars bei den Accitanern in Spanien",
     "chapters": [
       {
         "start": 146,
-        "author": "Mielentz"
+        "end": 147,
+        "author": "Mielentz."
       }
     ]
   },
@@ -2329,11 +2350,13 @@
     "lemma": "Netrate",
     "previous": "Netos",
     "next": "Netum",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 147,
-        "author": "Fluss"
+        "end": 147,
+        "author": "Fluss."
       }
     ]
   },
@@ -2380,17 +2403,19 @@
   {
     "lemma": "Νεῦδρος",
     "previous": "Neudis",
-    "next": "Neue",
+    "next": "Νευη",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Hydraotes",
     "chapters": [
       {
         "start": 147,
-        "author": "Stein, O[tto]"
+        "end": 147,
+        "author": "O. Stein."
       }
     ]
   },
   {
-    "lemma": "Neue",
+    "lemma": "Νευη",
     "previous": "Νεῦδρος",
     "next": "Neujahr",
     "short_description": "Ort",
@@ -2403,7 +2428,7 @@
   },
   {
     "lemma": "Neujahr",
-    "previous": "Neue",
+    "previous": "Νευη",
     "next": "Neviasca",
     "chapters": [
       {
@@ -2448,11 +2473,13 @@
     "lemma": "Neviodunum",
     "previous": "Nevidunus",
     "next": "Nevirnum",
+    "proof_read": 0,
     "short_description": "Stadt in Pannonia superior",
     "chapters": [
       {
         "start": 152,
-        "author": "Saria"
+        "end": 156,
+        "author": "B. Saria."
       }
     ]
   },
@@ -2460,18 +2487,20 @@
     "lemma": "Nevirnum",
     "previous": "Neviodunum",
     "next": "Nevitta",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 156,
-        "author": "Linckenheld"
+        "end": 156,
+        "author": "E. Linckenheld."
       }
     ]
   },
   {
     "lemma": "Nevitta",
     "previous": "Nevirnum",
-    "next": "Nethrobates",
+    "next": "Neuris 1",
     "short_description": "Flavius, cos. 362 n. Chr.",
     "chapters": [
       {
@@ -2482,7 +2511,7 @@
   },
   {
     "lemma": "Neuris 1",
-    "previous": "Nethrobates",
+    "previous": "Nevitta",
     "next": "Neuris 2",
     "redirect": "Halone 1",
     "proof_read": 2,
@@ -2497,18 +2526,20 @@
     "lemma": "Neuris 2",
     "previous": "Neuris 1",
     "next": "Neuris 3",
+    "proof_read": 0,
     "short_description": "Anderer Name für Elaphonnesus",
     "chapters": [
       {
         "start": 158,
-        "author": "Ruge"
+        "end": 158,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Neuris 3",
     "previous": "Neuris 2",
-    "next": "Neuroi",
+    "next": "Νευροβάτης",
     "proof_read": 2,
     "short_description": "Land der Neuroi s. Neuroi",
     "chapters": [
@@ -2519,23 +2550,39 @@
       }
     ]
   },
-  {"lemma": "Νευροβάτης"},
   {
-    "lemma": "Neuroi",
+    "lemma": "Νευροβάτης",
     "previous": "Neuris 3",
-    "next": "Neurospasta",
-    "short_description": "Urvolk der Balten und Slaven",
+    "next": "Neuroi",
+    "sort_key": "Neurobates",
+    "proof_read": 0,
+    "short_description": "Seiltänzer",
     "chapters": [
       {
         "start": 158,
-        "author": "Herrmann"
+        "end": 158,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
   {
-    "lemma": "Neurospasta",
+    "lemma": "Neuroi",
+    "previous": "Νευροβάτης",
+    "next": "Νευρόσπαστα",
+    "proof_read": 0,
+    "short_description": "Urvolk der Balten und Slaven",
+    "chapters": [
+      {
+        "start": 158,
+        "end": 161,
+        "author": "Herrmann."
+      }
+    ]
+  },
+  {
+    "lemma": "Νευρόσπαστα",
     "previous": "Neuroi",
-    "next": "Nêwândocht",
+    "next": "nevtlane",
     "short_description": "Marionetten",
     "chapters": [
       {
@@ -2561,16 +2608,18 @@
   {
     "lemma": "Neuttotagausis",
     "previous": "nevtlane",
-    "next": "Nexaris",
+    "next": "Nêwândocht",
+    "proof_read": 0,
     "short_description": "Keltischer Gott",
     "chapters": [
       {
         "start": 163,
-        "author": "Heichelheim"
+        "end": 163,
+        "author": "Heichelheim."
       }
     ]
   },
-    {
+  {
     "lemma": "Nêwândocht",
     "previous": "Neuttotagausis",
     "next": "Nexaris",
@@ -2588,7 +2637,7 @@
   },
   {
     "lemma": "Nexaris",
-    "previous": "Neuttotagausis",
+    "previous": "Nêwândocht",
     "next": "Nexum",
     "proof_read": 2,
     "short_description": "Verfasser von praecepta symmetriarum, vielleicht Architekt",
@@ -2615,24 +2664,28 @@
   {
     "lemma": "Niaccaba",
     "previous": "Nexum",
-    "next": "Nias",
+    "next": "Νίαρα",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 165,
-        "author": "Honigmann"
+        "end": 165,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Nias",
-    "previous": "Niaccaba",
+    "previous": "Νίαρα",
     "next": "Niba",
+    "proof_read": 0,
     "short_description": "Der heutige Senegal [1936!]",
     "chapters": [
       {
         "start": 165,
-        "author": "Windberg"
+        "end": 167,
+        "author": "Windberg."
       }
     ]
   },
@@ -2697,11 +2750,13 @@
     "lemma": "Nicaea 1",
     "previous": "Nibis",
     "next": "Nicaea 2",
+    "proof_read": 0,
     "short_description": "Kolonie der massiliotischen Phokäer am Varus Nice",
     "chapters": [
       {
         "start": 168,
-        "author": "Philipp"
+        "end": 171,
+        "author": "Philipp."
       }
     ]
   },
@@ -3119,11 +3174,13 @@
     "lemma": "Nicia 1",
     "previous": "Nichas",
     "next": "Nicia 2",
+    "proof_read": 0,
     "short_description": "Rechtes Nebenflüßchen des Padus",
     "chapters": [
       {
         "start": 181,
-        "author": "Philipp"
+        "end": 181,
+        "author": "Philipp."
       }
     ]
   },
@@ -3320,11 +3377,13 @@
     "lemma": "Nicotera",
     "previous": "Niconius",
     "next": "Nida",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 183,
-        "author": "Philipp"
+        "end": 183,
+        "author": "Philipp."
       }
     ]
   },
@@ -3332,11 +3391,13 @@
     "lemma": "Nida",
     "previous": "Nicotera",
     "next": "Nidenses",
+    "proof_read": 0,
     "short_description": "Kastell und Stadt an der Nida in Germanien",
     "chapters": [
       {
         "start": 183,
-        "author": "Linckenheld"
+        "end": 189,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -3344,42 +3405,49 @@
     "lemma": "Nidenses",
     "previous": "Nida",
     "next": "Nidum",
+    "proof_read": 0,
     "short_description": "Garnison des Kastells von Capersburg",
     "chapters": [
       {
         "start": 189,
-        "author": "Linckenheld"
+        "end": 189,
+        "author": "E. Linckenheld."
       }
     ]
   },
   {
     "lemma": "Nidum",
     "previous": "Nidenses",
-    "next": "Nie",
+    "next": "Νιή",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 189,
-        "author": "MacDonald"
+        "end": 189,
+        "author": "MacDonald."
       }
     ]
   },
   {
-    "lemma": "Nie",
+    "lemma": "Νιή",
     "previous": "Nidum",
     "next": "Νίγα",
+    "sort_key": "Nie",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 189,
-        "author": "Herrmann"
+        "end": 189,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Νίγα",
-    "previous": "Nie",
-    "next": "Nigaia",
+    "previous": "Νιή",
+    "next": "Νίγαια",
     "sort_key": "Niga",
     "proof_read": 2,
     "short_description": "Ortsname",
@@ -3392,38 +3460,46 @@
     ]
   },
   {
-    "lemma": "Nigaia",
+    "lemma": "Νίγαια",
     "previous": "Νίγα",
-    "next": "Nigam(m)a",
+    "next": "Νίγαμ(μ)α",
+    "sort_key": "Nigaia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 189,
-        "author": "Weidner"
+        "end": 189,
+        "author": "Weidner."
       }
     ]
   },
   {
-    "lemma": "Nigam(m)a",
-    "previous": "Nigaia",
+    "lemma": "Νίγαμ(μ)α",
+    "previous": "Νίγαια",
     "next": "Niger 1",
+    "sort_key": "Nigam(m)a",
+    "proof_read": 0,
     "short_description": "Metropolis der indischen Völkerschaft der Batoi",
     "chapters": [
       {
         "start": 189,
-        "author": "Stein, O[tto]"
+        "end": 190,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Niger 1",
-    "previous": "Nigam(m)a",
+    "previous": "Νίγαμ(μ)α",
     "next": "Niger 2",
+    "proof_read": 0,
     "short_description": "Flüsse in Afrika",
     "chapters": [
       {
         "start": 190,
-        "author": "Windberg"
+        "end": 199,
+        "author": "Windberg."
       }
     ]
   },
@@ -3431,11 +3507,13 @@
     "lemma": "Niger 2",
     "previous": "Niger 1",
     "next": "Niger 3",
+    "proof_read": 0,
     "short_description": "Weitverbreiteter Beiname",
     "chapters": [
       {
         "start": 199,
-        "author": "Münzer"
+        "end": 200,
+        "author": "Münzer."
       }
     ]
   },
@@ -3552,11 +3630,13 @@
     "lemma": "Nigilgia",
     "previous": "Nigidius Figulus",
     "next": "Nigira",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 212,
-        "author": "Windberg"
+        "end": 212,
+        "author": "Windberg."
       }
     ]
   },
@@ -3564,11 +3644,13 @@
     "lemma": "Nigira",
     "previous": "Nigilgia",
     "next": "Nigitimi",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 212,
-        "author": "Windberg"
+        "end": 212,
+        "author": "Windberg."
       }
     ]
   },
@@ -3576,11 +3658,13 @@
     "lemma": "Nigitimi",
     "previous": "Nigira",
     "next": "Niglaros",
+    "proof_read": 0,
     "short_description": "Volk Nordafrikas",
     "chapters": [
       {
         "start": 212,
-        "author": "Windberg"
+        "end": 212,
+        "author": "Windberg."
       }
     ]
   },
@@ -3588,41 +3672,47 @@
     "lemma": "Niglaros",
     "previous": "Nigitimi",
     "next": "Nigrae",
+    "proof_read": 0,
     "short_description": "Kleinaulos",
     "chapters": [
       {
         "start": 212,
-        "author": "Vetter, Walther"
+        "end": 212,
+        "author": "Walter Vetter."
       }
     ]
   },
   {
     "lemma": "Nigrae",
     "previous": "Niglaros",
-    "next": "Nigranis",
+    "next": "Nigrianis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 212,
-        "author": "Windberg"
+        "end": 212,
+        "author": "Windberg."
       }
     ]
   },
   {
-    "lemma": "Nigranis",
+    "lemma": "Nigrianis",
     "previous": "Nigrae",
     "next": "Nigrianus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 212,
-        "author": "Fluss"
+        "end": 213,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Nigrianus",
-    "previous": "Nigranis",
+    "previous": "Nigrianis",
     "next": "Nigrinianus",
     "redirect": "Nigrinianus",
     "proof_read": 2,
@@ -3699,11 +3789,13 @@
     "lemma": "Nigritae",
     "previous": "Nigrinus 4",
     "next": "Nigritis Palus",
+    "proof_read": 0,
     "short_description": "Volksstamm am östl. Niger",
     "chapters": [
       {
         "start": 214,
-        "author": "Windberg"
+        "end": 214,
+        "author": "Windberg."
       }
     ]
   },
@@ -3711,40 +3803,48 @@
     "lemma": "Nigritis Palus",
     "previous": "Nigritae",
     "next": "Nigropullum",
+    "sort_key": "Nigritispalus",
+    "proof_read": 0,
     "short_description": "See, durch den der Niger fliesst",
     "chapters": [
       {
         "start": 214,
-        "author": "Windberg"
+        "end": 215,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Nigropullum",
     "previous": "Nigritis Palus",
-    "next": "Niguza",
+    "next": "Νίγουζα",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 215,
+        "end": 215,
         "author": "E. Linckenheld."
       }
     ]
   },
   {
-    "lemma": "Niguza",
+    "lemma": "Νίγουζα",
     "previous": "Nigropullum",
     "next": "Nikagoras 1",
+    "sort_key": "Niguza",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 215,
-        "author": "Sturm"
+        "end": 215,
+        "author": "J. Sturm."
       }
     ]
   },
   {
     "lemma": "Nikagoras 1",
-    "previous": "Niguza",
+    "previous": "Νίγουζα",
     "next": "Nikagoras 2",
     "short_description": "Tyrann von Zeleia",
     "chapters": [
@@ -3794,11 +3894,13 @@
     "lemma": "Nikagoras 5",
     "previous": "Nikagoras 4",
     "next": "Nikagoras 6",
+    "proof_read": 0,
     "short_description": "Athenischer Archon 484/85 n. Chr.",
     "chapters": [
       {
         "start": 216,
-        "author": "Enßlin"
+        "end": 216,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3881,11 +3983,13 @@
     "lemma": "Nikaia 1",
     "previous": "Nikagoras 10",
     "next": "Nikaia 2",
+    "proof_read": 0,
     "short_description": "Najade",
     "chapters": [
       {
         "start": 218,
-        "author": "Hanslik"
+        "end": 220,
+        "author": "Hanslik."
       }
     ]
   },
@@ -3917,11 +4021,13 @@
     "lemma": "Nikaia 4",
     "previous": "Nikaia 3",
     "next": "Nikaia 5",
+    "proof_read": 0,
     "short_description": "Stadt an der O-Küste Korsikas",
     "chapters": [
       {
         "start": 222,
-        "author": "Hanslik"
+        "end": 222,
+        "author": "Hanslik."
       }
     ]
   },
@@ -3929,11 +4035,13 @@
     "lemma": "Nikaia 5",
     "previous": "Nikaia 4",
     "next": "Nikaia 6",
+    "proof_read": 0,
     "short_description": "Festung der Ostlokrer",
     "chapters": [
       {
         "start": 222,
-        "author": "Oldfather"
+        "end": 226,
+        "author": "Oldfather."
       }
     ]
   },
@@ -3966,29 +4074,46 @@
     "lemma": "Nikaia 8",
     "previous": "Nikaia 7",
     "next": "Nikaia 9",
+    "proof_read": 0,
     "short_description": "Stadt im Gebiet zwischen Parapamisaden und Kophen",
     "chapters": [
       {
         "start": 243,
-        "author": "Stein, O[tto]"
+        "end": 243,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Nikaia 9",
     "previous": "Nikaia 8",
-    "next": "Nikaias",
+    "next": "Nikaia 10",
+    "proof_read": 0,
     "short_description": "Stadt am linken Ufer des Hydaspes",
     "chapters": [
       {
         "start": 243,
-        "author": "Stein, O[tto]"
+        "end": 245,
+        "author": "O. Stein."
+      }
+    ]
+  },
+  {
+    "lemma": "Nikaia 10",
+    "previous": "Nikaia 9",
+    "next": "Nikaias",
+    "redirect": true,
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 245,
+        "end": 245
       }
     ]
   },
   {
     "lemma": "Nikaias",
-    "previous": "Nikaia 9",
+    "previous": "Nikaia 10",
     "next": "Nikainetos 1",
     "redirect": "Nikias 20",
     "proof_read": 2,
@@ -4029,11 +4154,13 @@
     "lemma": "Nikaios 1",
     "previous": "Nikainetos 2",
     "next": "Nikaios 2",
+    "proof_read": 0,
     "short_description": "Epiklesis von Zeus und Athene",
     "chapters": [
       {
         "start": 246,
-        "author": "Kruse"
+        "end": 246,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -4055,7 +4182,7 @@
   {
     "lemma": "Nikaistas",
     "previous": "Nikaios 2",
-    "next": "Nikama",
+    "next": "Νίκαμα",
     "redirect": "Nikeas 1",
     "proof_read": 2,
     "chapters": [
@@ -4066,19 +4193,22 @@
     ]
   },
   {
-    "lemma": "Nikama",
+    "lemma": "Νίκαμα",
     "previous": "Nikaistas",
     "next": "Nikandre 1",
+    "sort_key": "Nikama",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 247,
+        "end": 247,
         "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Nikandre 1",
-    "previous": "Nikama",
+    "previous": "Νίκαμα",
     "next": "Nikandre 2",
     "proof_read": 2,
     "short_description": "Weberin im Haus der Alkinoe",
@@ -4696,7 +4826,7 @@
   {
     "lemma": "Nikanor 30",
     "previous": "Nikanor 29",
-    "next": "Nikapo",
+    "next": "Νικάπω",
     "short_description": "Bildhauer?",
     "chapters": [
       {
@@ -4706,20 +4836,23 @@
     ]
   },
   {
-    "lemma": "Nikapo",
+    "lemma": "Νικάπω",
     "previous": "Nikanor 30",
     "next": "Nikarchos 1",
+    "sort_key": "Nikapo",
+    "proof_read": 0,
     "short_description": "tou choriou, Ort",
     "chapters": [
       {
         "start": 277,
-        "author": "Ruge"
+        "end": 278,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Nikarchos 1",
-    "previous": "Nikapo",
+    "previous": "Νικάπω",
     "next": "Nikarchos 2",
     "short_description": "Feldherr Antiochos' III",
     "chapters": [
@@ -4854,11 +4987,13 @@
     "lemma": "Nikasia",
     "previous": "Nikas",
     "next": "Nikasias",
+    "proof_read": 0,
     "short_description": "Insel der Sporaden?",
     "chapters": [
       {
         "start": 280,
-        "author": "Voigt"
+        "end": 281,
+        "author": "Voigt."
       }
     ]
   },
@@ -4956,7 +5091,7 @@
   {
     "lemma": "Nikator",
     "previous": "Nikasion",
-    "next": "Nikatorion oros",
+    "next": "Νικατόριον ὄρος",
     "redirect": "Seleukos 9",
     "proof_read": 2,
     "chapters": [
@@ -4967,38 +5102,46 @@
     ]
   },
   {
-    "lemma": "Nikatorion oros",
+    "lemma": "Νικατόριον ὄρος",
     "previous": "Nikator",
-    "next": "Nikatoris",
+    "next": "Νικατορίς",
+    "sort_key": "Nikatorionoros",
+    "proof_read": 0,
     "short_description": "Berg bei Gaugamela",
     "chapters": [
       {
         "start": 283,
-        "author": "Sturm"
+        "end": 283,
+        "author": "J. Sturm."
       }
     ]
   },
   {
-    "lemma": "Nikatoris",
-    "previous": "Nikatorion oros",
+    "lemma": "Νικατορίς",
+    "previous": "Νικατόριον ὄρος",
     "next": "Nike 1",
+    "sort_key": "Nikatoris",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 283,
-        "author": "Honigmann"
+        "end": 283,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Nike 1",
-    "previous": "Nikatoris",
+    "previous": "Νικατορίς",
     "next": "Nike 2",
+    "proof_read": 0,
     "short_description": "Stadt in Thrakien",
     "chapters": [
       {
         "start": 283,
-        "author": "Oberhummer"
+        "end": 285,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5006,11 +5149,13 @@
     "lemma": "Nike 2",
     "previous": "Nike 1",
     "next": "Nike 3",
+    "proof_read": 0,
     "short_description": "Göttin des Sieges",
     "chapters": [
       {
         "start": 285,
-        "author": "Bernert"
+        "end": 307,
+        "author": "Bernert."
       }
     ]
   },
@@ -5030,11 +5175,13 @@
     "lemma": "Nike 4",
     "previous": "Nike 3",
     "next": "Nike 5",
+    "proof_read": 0,
     "short_description": "Tochter der Okeanide Styx",
     "chapters": [
       {
         "start": 307,
-        "author": "Geisau"
+        "end": 307,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -5097,7 +5244,7 @@
   {
     "lemma": "Nikenorides",
     "previous": "Nikeas 3",
-    "next": "Nikephoria",
+    "next": "Νικηφόρια",
     "proof_read": 3,
     "short_description": "Maler?, in Delos genannt",
     "chapters": [
@@ -5109,20 +5256,23 @@
     ]
   },
   {
-    "lemma": "Nikephoria",
+    "lemma": "Νικηφόρια",
     "previous": "Nikenorides",
     "next": "Nikephorion 1",
+    "sort_key": "Nikephoria",
+    "proof_read": 0,
     "short_description": "Spiele zu Ehren der Athena Nikephoros in Pergamon",
     "chapters": [
       {
         "start": 307,
-        "author": "Ziehen"
+        "end": 309,
+        "author": "Ziehen."
       }
     ]
   },
   {
     "lemma": "Nikephorion 1",
-    "previous": "Nikephoria",
+    "previous": "Νικηφόρια",
     "next": "Nikephorion 2",
     "redirect": "Pergamon 1",
     "proof_read": 2,
@@ -5136,36 +5286,43 @@
   {
     "lemma": "Nikephorion 2",
     "previous": "Nikephorion 1",
-    "next": "Nikephorios",
+    "next": "Νικηφόριος",
+    "proof_read": 0,
     "short_description": "Griechische Stadt am mittleren Euphrat",
     "chapters": [
       {
         "start": 309,
-        "author": "Weidner"
+        "end": 310,
+        "author": "Weidner."
       }
     ]
   },
   {
-    "lemma": "Nikephorios",
+    "lemma": "Νικηφόριος",
     "previous": "Nikephorion 2",
     "next": "Nikephoros 1",
+    "sort_key": "Nikephorios",
+    "proof_read": 0,
     "short_description": "Östlicher Nebenfluß des Tigris",
     "chapters": [
       {
         "start": 310,
-        "author": "Weidner"
+        "end": 310,
+        "author": "Weidner."
       }
     ]
   },
   {
     "lemma": "Nikephoros 1",
-    "previous": "Nikephorios",
+    "previous": "Νικηφόριος",
     "next": "Nikephoros 2",
+    "proof_read": 0,
     "short_description": "Epiklesis verschiedener Göttinnen",
     "chapters": [
       {
         "start": 310,
-        "author": "Kruse"
+        "end": 312,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -5225,7 +5382,7 @@
   {
     "lemma": "Nikephoros 6",
     "previous": "Nikephoros 5",
-    "next": "Nikeratoon kome",
+    "next": "Νικεράτων κώμη",
     "short_description": "Angebl. Steinschneider",
     "chapters": [
       {
@@ -5235,20 +5392,23 @@
     ]
   },
   {
-    "lemma": "Nikeratoon kome",
+    "lemma": "Νικεράτων κώμη",
     "previous": "Nikephoros 6",
     "next": "Nikeratos 1",
+    "sort_key": "Nikeratoonkome",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 312,
-        "author": "Honigmann"
+        "end": 312,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Nikeratos 1",
-    "previous": "Nikeratoon kome",
+    "previous": "Νικεράτων κώμη",
     "next": "Nikeratos 2",
     "short_description": "Sohn des Feldherrn Nikias",
     "chapters": [
@@ -9115,7 +9275,7 @@
     "previous": "Nineudios 2",
     "next": "Ningum",
     "sort_key": "Nineue",
-    "redirect": "Neue",
+    "redirect": "Νευη",
     "proof_read": 2,
     "chapters": [
       {
@@ -9642,7 +9802,7 @@
     "previous": "Nisaia 2",
     "next": "Nisbara, Nischandalbe",
     "sort_key": "Nisamma",
-    "redirect": "Nigam(m)a",
+    "redirect": "Νίγαμ(μ)α",
     "proof_read": 2,
     "chapters": [
       {
