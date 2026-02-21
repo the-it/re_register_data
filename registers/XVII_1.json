@@ -5036,8 +5036,8 @@
     "lemma": "Nikasichoros",
     "previous": "Νικασιχάρης",
     "next": "Nikasidamos",
-    "proof_read": 2,
-    "short_description": "Person",
+    "proof_read": 3,
+    "short_description": "Lokrer aus Opus, Beamter und Kommandant in Kriegen zu einer Zeit",
     "chapters": [
       {
         "start": 281,
@@ -5050,11 +5050,13 @@
     "lemma": "Nikasidamos",
     "previous": "Nikasichoros",
     "next": "Nikasikrates",
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "Hieromnemon der opuntischen Lokrer, 337/6 und 336/5 v. Chr.",
     "chapters": [
       {
         "start": 281,
-        "author": "Oldfather"
+        "end": 281,
+        "author": "Wm. A. Oldfather."
       }
     ]
   },
@@ -5685,8 +5687,9 @@
     "lemma": "Niketes 1–4",
     "previous": "Niketerion",
     "next": "Niketes 1",
-    "proof_read": 0,
-    "short_description": "zum Namen",
+    "redirect": true,
+    "proof_read": 3,
+    "short_description": "athenische Archonten",
     "chapters": [
       {
         "start": 319,
@@ -11601,7 +11604,7 @@
   },
   {
     "lemma": "Nomentum",
-    "previous": "Nomenclator",
+    "previous": "Nomentanus",
     "next": "Nomia 1",
     "proof_read": 0,
     "short_description": "Stadt nördl. von Rom",
@@ -12537,11 +12540,13 @@
     "lemma": "Nonius 38",
     "previous": "Nonius 37",
     "next": "Nonius 39",
-    "short_description": "Marcellus Grammatiker 5. Jhdt?",
+    "proof_read": 0,
+    "short_description": "Marcellus, Grammatiker 5. Jh. n. Chr.?",
     "chapters": [
       {
         "start": 882,
-        "author": "Strzelecki"
+        "end": 897,
+        "author": "Władysław v. Strzelecki."
       }
     ]
   },
@@ -13289,7 +13294,7 @@
   {
     "lemma": "Νοοραθ",
     "previous": "Noominios",
-    "next": "Noorda",
+    "next": "Νοορδᾷ",
     "sort_key": "Noorath",
     "redirect": "Neara",
     "proof_read": 2,
@@ -13301,26 +13306,31 @@
     ]
   },
   {
-    "lemma": "Noorda",
+    "lemma": "Νοορδᾷ",
     "previous": "Νοοραθ",
     "next": "Nopheros",
+    "sort_key": "Noorda",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 922,
-        "author": "Sturm"
+        "end": 922,
+        "author": "J. Sturm."
       }
     ]
   },
   {
     "lemma": "Nopheros",
-    "previous": "Noorda",
+    "previous": "Νοορδᾷ",
     "next": "Nora 1",
+    "proof_read": 0,
     "short_description": "Beiname ägyptischer Götter",
     "chapters": [
       {
         "start": 922,
-        "author": "Rusch"
+        "end": 922,
+        "author": "Rusch."
       }
     ]
   },
@@ -13328,11 +13338,13 @@
     "lemma": "Nora 1",
     "previous": "Nopheros",
     "next": "Nora 2",
+    "proof_read": 0,
     "short_description": "Stadt auf Sardinien",
     "chapters": [
       {
         "start": 923,
-        "author": "Hanslik"
+        "end": 923,
+        "author": "Hanslik."
       }
     ]
   },
@@ -13340,11 +13352,13 @@
     "lemma": "Nora 2",
     "previous": "Nora 1",
     "next": "Norax",
+    "proof_read": 0,
     "short_description": "Bergfeste",
     "chapters": [
       {
         "start": 923,
-        "author": "Ruge"
+        "end": 924,
+        "author": "Ruge."
       }
     ]
   },
@@ -13364,11 +13378,13 @@
     "lemma": "Norba 1",
     "previous": "Norax",
     "next": "Norba 2",
+    "proof_read": 0,
     "short_description": "Stadt des Latinerbundes",
     "chapters": [
       {
         "start": 925,
-        "author": "Philipp"
+        "end": 925,
+        "author": "Philipp."
       }
     ]
   },
@@ -13391,11 +13407,13 @@
     "lemma": "Norba 3",
     "previous": "Norba 2",
     "next": "Norbanus",
+    "proof_read": 0,
     "short_description": "Caesarina, römische Kolonie in Lusitanien",
     "chapters": [
       {
         "start": 925,
-        "author": "Schulten"
+        "end": 926,
+        "author": "Schulten."
       }
     ]
   },
@@ -13403,11 +13421,13 @@
     "lemma": "Norbanus",
     "previous": "Norba 3",
     "next": "Norbanus 1",
+    "proof_read": 0,
     "short_description": "Ethnikon der Stadt Norba Nr. 1 Gentilname",
     "chapters": [
       {
         "start": 926,
-        "author": "Münzer"
+        "end": 927,
+        "author": "Münzer."
       }
     ]
   },
@@ -13640,21 +13660,27 @@
   {
     "lemma": "Nordsee",
     "previous": "Norbe",
+    "next": "Noreia 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 935,
-        "author": "Franke"
+        "end": 963,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Noreia 1",
+    "previous": "Nordsee",
     "next": "Noreia 2",
+    "proof_read": 0,
     "short_description": "Norische Göttin",
     "chapters": [
       {
         "start": 963,
-        "author": "Petrikovits"
+        "end": 967,
+        "author": "v. Petrikovits."
       }
     ]
   },
@@ -13662,11 +13688,13 @@
     "lemma": "Noreia 2",
     "previous": "Noreia 1",
     "next": "Νορεράθη",
+    "proof_read": 0,
     "short_description": "Stadt in den Ostalpen",
     "chapters": [
       {
         "start": 967,
-        "author": "Polaschek"
+        "end": 971,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -13802,41 +13830,48 @@
     "lemma": "Norossoi",
     "previous": "Νοροσβεῖς",
     "next": "Nortia",
+    "proof_read": 0,
     "short_description": "Völkerschaft in Scythia intra Imaum",
     "chapters": [
       {
         "start": 1048,
-        "author": "Herrmann"
+        "end": 1048,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Nortia",
     "previous": "Norossoi",
-    "next": "Nosala",
+    "next": "Νόσαλα",
+    "proof_read": 0,
     "short_description": "Etruskische Schicksalsgöttin",
     "chapters": [
       {
         "start": 1048,
-        "author": "Bernert"
+        "end": 1051,
+        "author": "Bernert."
       }
     ]
   },
   {
-    "lemma": "Nosala",
+    "lemma": "Νόσαλα",
     "previous": "Nortia",
     "next": "Νοσαλήνη",
+    "sort_key": "Nosala",
+    "proof_read": 0,
     "short_description": "Insel an der Ichthyophagenküste",
     "chapters": [
       {
         "start": 1051,
-        "author": "Stein, O[tto]"
+        "end": 1052,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Νοσαλήνη",
-    "previous": "Nosala",
+    "previous": "Νόσαλα",
     "next": "Noscopium",
     "sort_key": "Nosalene",
     "proof_read": 2,
@@ -13853,11 +13888,13 @@
     "lemma": "Noscopium",
     "previous": "Νοσαλήνη",
     "next": "Nosios",
+    "proof_read": 0,
     "short_description": "Stadt in Lykien",
     "chapters": [
       {
         "start": 1052,
-        "author": "Ruge"
+        "end": 1053,
+        "author": "Ruge."
       }
     ]
   },
@@ -13865,11 +13902,13 @@
     "lemma": "Nosios",
     "previous": "Noscopium",
     "next": "Nosora",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
         "start": 1053,
-        "author": "Kruse"
+        "end": 1053,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -13892,11 +13931,13 @@
     "lemma": "Nosos",
     "previous": "Nosora",
     "next": "Nossis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1053,
-        "author": "Ruge"
+        "end": 1053,
+        "author": "Ruge."
       }
     ]
   },
@@ -13969,11 +14010,14 @@
     "lemma": "Nota censoria",
     "previous": "Nostoi",
     "next": "Notae",
+    "sort_key": "Notacensoria",
+    "proof_read": 0,
     "short_description": "Römische Institution zur Überwachung und Aufrechterhaltung der Ehrenhaftigkeit",
     "chapters": [
       {
         "start": 1055,
-        "author": "Kübler, B[ernhard]"
+        "end": 1058,
+        "author": "Kübler."
       }
     ]
   },
@@ -14025,10 +14069,12 @@
     "lemma": "Notbedarf",
     "previous": "Notarius 2",
     "next": "Noterbrecht",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1058,
-        "author": "Weiss, Egon"
+        "end": 1062,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -14036,41 +14082,48 @@
     "lemma": "Noterbrecht",
     "previous": "Notbedarf",
     "next": "Nothippos",
-    "short_description": "Recht gewisser Personen, gegenüber dem Nachlass des Erblassers ohne",
+    "proof_read": 0,
+    "short_description": "Recht gewisser Personen, gegenüber dem Nachlass",
     "chapters": [
       {
         "start": 1062,
-        "author": "Düll"
+        "end": 1066,
+        "author": "Düll."
       }
     ]
   },
   {
     "lemma": "Nothippos",
     "previous": "Noterbrecht",
-    "next": "Nothoi",
+    "next": "Νόθοι",
+    "proof_read": 2,
     "short_description": "In der alten attischen Komödie wegen seiner Gefrässigkeit verspottet",
     "chapters": [
       {
         "start": 1066,
-        "author": "Diehl, Ernst"
+        "end": 1066,
+        "author": "Ernst Diehl."
       }
     ]
   },
   {
-    "lemma": "Nothoi",
+    "lemma": "Νόθοι",
     "previous": "Nothippos",
     "next": "Notiadai",
+    "sort_key": "Nothoi",
+    "proof_read": 0,
     "short_description": "Alle aus einer nichtlegitimen Verbindung entstammenden Personen",
     "chapters": [
       {
         "start": 1066,
-        "author": "Latte"
+        "end": 1074,
+        "author": "Latte."
       }
     ]
   },
   {
     "lemma": "Notiadai",
-    "previous": "Nothoi",
+    "previous": "Νόθοι",
     "next": "Notion 1",
     "proof_read": 2,
     "short_description": "Ort",
@@ -14087,11 +14140,13 @@
     "lemma": "Notion 1",
     "previous": "Notiadai",
     "next": "Notion 2",
+    "proof_read": 0,
     "short_description": "Küstenstützpunkt und Hafenplatz von Kolophon",
     "chapters": [
       {
         "start": 1075,
-        "author": "Keil"
+        "end": 1077,
+        "author": "Keil."
       }
     ]
   },
@@ -14099,11 +14154,13 @@
     "lemma": "Notion 2",
     "previous": "Notion 1",
     "next": "Notion 3",
+    "proof_read": 0,
     "short_description": "Stadt auf einer Insel Calydne",
     "chapters": [
       {
         "start": 1077,
-        "author": "Voigt"
+        "end": 1077,
+        "author": "Voigt."
       }
     ]
   },
@@ -14139,53 +14196,64 @@
     "lemma": "Notitia dignitatum",
     "previous": "Notitae",
     "next": "Notos",
+    "sort_key": "Notitiadignitatum",
+    "proof_read": 0,
     "short_description": "Verzeichnis aller Ämter nach der diocletianischen Praefecturenverfassung",
     "chapters": [
       {
         "start": 1077,
-        "author": "Polaschek"
+        "end": 1116,
+        "author": "E. Polaschek."
       }
     ]
   },
   {
     "lemma": "Notos",
     "previous": "Notitia dignitatum",
-    "next": "Notu keras 1",
+    "next": "Νότου κέρας 1",
+    "proof_read": 0,
     "short_description": "Der reine Südwind",
     "chapters": [
       {
         "start": 1116,
-        "author": "Capelle"
+        "end": 1120,
+        "author": "Capelle."
       }
     ]
   },
   {
-    "lemma": "Notu keras 1",
+    "lemma": "Νότου κέρας 1",
     "previous": "Notos",
-    "next": "Notu keras 2",
+    "next": "Νότου κέρας 2",
+    "sort_key": "Notukeras 1",
+    "proof_read": 0,
     "short_description": "Kap Guardafui",
     "chapters": [
       {
         "start": 1120,
-        "author": "Windberg"
+        "end": 1122,
+        "author": "Windberg."
       }
     ]
   },
   {
-    "lemma": "Notu keras 2",
-    "previous": "Notu keras 1",
-    "next": "Nova Augusta",
+    "lemma": "Νότου κέρας 2",
+    "previous": "Νότου κέρας 1",
+    "next": "Νοούιον",
+    "sort_key": "Notukeras 2",
+    "proof_read": 0,
     "short_description": "Bucht an der W-Küste Afrikas",
     "chapters": [
       {
         "start": 1122,
-        "author": "Windberg"
+        "end": 1123,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Nova Augusta",
-    "previous": "Notu keras 2",
+    "previous": "Νότου κέρας 2",
     "next": "Nova Castra",
     "proof_read": 2,
     "short_description": "Ort",
@@ -14232,13 +14300,16 @@
   },
   {
     "lemma": "Nova Classis",
-    "previous": "Νοούιον",
+    "previous": "Nova Castra",
     "next": "Nova clausula Iuliani",
+    "sort_key": "Novaclassis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1124,
-        "author": "Schulten"
+        "end": 1124,
+        "author": "Schulten."
       }
     ]
   },
@@ -14246,11 +14317,14 @@
     "lemma": "Nova clausula Iuliani",
     "previous": "Nova Classis",
     "next": "Nova Petra",
+    "sort_key": "Novaclausula iuliani",
+    "proof_read": 0,
     "short_description": "Praetorisches Edikt unter Iulian",
     "chapters": [
       {
         "start": 1124,
-        "author": "Weiss, Egon"
+        "end": 1124,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -14258,23 +14332,29 @@
     "lemma": "Nova Petra",
     "previous": "Nova clausula Iuliani",
     "next": "Nova Sparsa",
+    "sort_key": "Novapetra",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1124,
-        "author": "Windberg"
+        "end": 1124,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Nova Sparsa",
     "previous": "Nova Petra",
-    "next": "Novacula",
+    "next": "Nova via",
+    "sort_key": "Novasparsa",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1124,
-        "author": "Windberg"
+        "end": 1125,
+        "author": "Windberg."
       }
     ]
   },
@@ -14307,36 +14387,43 @@
   {
     "lemma": "Novae 2",
     "previous": "Novae 1",
-    "next": "Nova via",
+    "next": "Novae 3",
+    "proof_read": 0,
     "short_description": "Ort an der niedermoesischen Donau",
     "chapters": [
       {
         "start": 1125,
-        "author": "Polaschek"
+        "end": 1129,
+        "author": "E. Polaschek."
       }
     ]
   },
   {
     "lemma": "Nova via",
-    "previous": "Novae 2",
-    "next": "Novae 3",
+    "previous": "Nova Sparsa",
+    "next": "Novacula",
+    "sort_key": "Novavia",
+    "proof_read": 0,
     "short_description": "Straße in Rom",
     "chapters": [
       {
         "start": 1125,
-        "author": "Weiss, J[akob]"
+        "end": 1125,
+        "author": "Weiss."
       }
     ]
   },
   {
     "lemma": "Novae 3",
-    "previous": "Nova via",
-    "next": "Novae 5",
+    "previous": "Novae 2",
+    "next": "Novae 4",
+    "proof_read": 0,
     "short_description": "Macedonische Straßenstation an der Via Egnatia",
     "chapters": [
       {
         "start": 1129,
-        "author": "Polaschek"
+        "end": 1129,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -14357,11 +14444,13 @@
     "lemma": "Novaesium",
     "previous": "Novae 5",
     "next": "Novana",
+    "proof_read": 0,
     "short_description": "Roemisches Standlager am Niederrhein Neuss",
     "chapters": [
       {
         "start": 1131,
-        "author": "Franke"
+        "end": 1134,
+        "author": "Franke."
       }
     ]
   },
@@ -14384,11 +14473,13 @@
     "lemma": "Novanensis",
     "previous": "Novana",
     "next": "Novanius",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1134,
-        "author": "Philipp"
+        "end": 1135,
+        "author": "Philipp."
       }
     ]
   },
@@ -14440,11 +14531,13 @@
     "lemma": "Novantes",
     "previous": "Novantarum Promunturium",
     "next": "Novanus",
+    "proof_read": 0,
     "short_description": "Völkerschaft in der heutigen Gegend Golloway in Schottland",
     "chapters": [
       {
         "start": 1135,
-        "author": "MacDonald"
+        "end": 1135,
+        "author": "MacDonald."
       }
     ]
   },
@@ -14452,11 +14545,13 @@
     "lemma": "Novanus",
     "previous": "Novantes",
     "next": "Novaria 1",
+    "proof_read": 0,
     "short_description": "Fluß in agro pitinate trans Appenninum",
     "chapters": [
       {
         "start": 1135,
-        "author": "Philipp"
+        "end": 1135,
+        "author": "Philipp."
       }
     ]
   },
@@ -14464,11 +14559,13 @@
     "lemma": "Novaria 1",
     "previous": "Novanus",
     "next": "Novaria 2",
+    "proof_read": 0,
     "short_description": "Ligurische Ortschaft Novara",
     "chapters": [
       {
         "start": 1135,
-        "author": "Philipp"
+        "end": 1136,
+        "author": "Philipp."
       }
     ]
   },
@@ -14476,11 +14573,13 @@
     "lemma": "Novaria 2",
     "previous": "Novaria 1",
     "next": "Novas, ad 1",
+    "proof_read": 0,
     "short_description": "Fluß bei Novaria Nr. 1",
     "chapters": [
       {
         "start": 1136,
-        "author": "Philipp"
+        "end": 1136,
+        "author": "Philipp."
       }
     ]
   },
@@ -14488,11 +14587,14 @@
     "lemma": "Novas, ad 1",
     "previous": "Novaria 2",
     "next": "Novas, ad 2",
+    "sort_key": "Novas,ad 1",
+    "proof_read": 0,
     "short_description": "Station der Straße Chiusi - Siena",
     "chapters": [
       {
         "start": 1136,
-        "author": "Philipp"
+        "end": 1136,
+        "author": "Philipp."
       }
     ]
   },
@@ -14513,11 +14615,14 @@
     "lemma": "Novas, ad 3",
     "previous": "Novas, ad 2",
     "next": "Novas, ad 4",
+    "sort_key": "Novas,ad 3",
+    "proof_read": 0,
     "short_description": "Station an der Straße Rimini - Ravenna",
     "chapters": [
       {
         "start": 1136,
-        "author": "Philipp"
+        "end": 1136,
+        "author": "Philipp."
       }
     ]
   },
@@ -14525,11 +14630,14 @@
     "lemma": "Novas, ad 4",
     "previous": "Novas, ad 3",
     "next": "Novas, ad 5",
+    "sort_key": "Novas,ad 4",
+    "proof_read": 0,
     "short_description": "Station an der Via Salaria",
     "chapters": [
       {
         "start": 1136,
-        "author": "Philipp"
+        "end": 1136,
+        "author": "Philipp."
       }
     ]
   },
@@ -14537,11 +14645,14 @@
     "lemma": "Novas, ad 5",
     "previous": "Novas, ad 4",
     "next": "Novas, ad 6",
+    "sort_key": "Novas,ad 5",
+    "proof_read": 0,
     "short_description": "Station an der Via Cassia",
     "chapters": [
       {
         "start": 1136,
-        "author": "Banti"
+        "end": 1136,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -14549,11 +14660,14 @@
     "lemma": "Novas, ad 6",
     "previous": "Novas, ad 5",
     "next": "Novas, ad 7",
+    "sort_key": "Novas,ad 6",
+    "proof_read": 0,
     "short_description": "Station an der Via Clodia",
     "chapters": [
       {
         "start": 1137,
-        "author": "Banti"
+        "end": 1137,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -14561,11 +14675,14 @@
     "lemma": "Novas, ad 7",
     "previous": "Novas, ad 6",
     "next": "Novas, ad 8",
+    "sort_key": "Novas,ad 7",
+    "proof_read": 0,
     "short_description": "Station an der Straße Ilerda - Tarraco",
     "chapters": [
       {
         "start": 1137,
-        "author": "Schulten"
+        "end": 1137,
+        "author": "Schulten."
       }
     ]
   },
@@ -14573,11 +14690,14 @@
     "lemma": "Novas, ad 8",
     "previous": "Novas, ad 7",
     "next": "Novas, ad 9",
+    "sort_key": "Novas,ad 8",
+    "proof_read": 0,
     "short_description": "Limeskastell in Pannonia inferior",
     "chapters": [
       {
         "start": 1137,
-        "author": "Saria"
+        "end": 1137,
+        "author": "B. Saria."
       }
     ]
   },
@@ -14585,11 +14705,14 @@
     "lemma": "Novas, ad 9",
     "previous": "Novas, ad 8",
     "next": "Novas, ad 10",
+    "sort_key": "Novas,ad 9",
+    "proof_read": 0,
     "short_description": "Limeskastell in Moesia Superior",
     "chapters": [
       {
         "start": 1137,
-        "author": "Saria"
+        "end": 1138,
+        "author": "B. Saria."
       }
     ]
   },
@@ -14610,11 +14733,13 @@
     "lemma": "Novatianus",
     "previous": "Novas, ad 10",
     "next": "Novatillianus",
-    "short_description": "Römischer Priester und Gegenbischof",
+    "proof_read": 0,
+    "short_description": "römischer Priester und Gegenbischof 3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1138,
-        "author": "Koch"
+        "end": 1156,
+        "author": "Hugo Koch."
       }
     ]
   },
@@ -14635,11 +14760,13 @@
     "lemma": "Novatio",
     "previous": "Novatillianus",
     "next": "Novatus 1",
+    "proof_read": 0,
     "short_description": "Neuerungsvertrag",
     "chapters": [
       {
         "start": 1156,
-        "author": "Weiss, Egon"
+        "end": 1162,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -14683,11 +14810,13 @@
     "lemma": "Novellae",
     "previous": "Novatus 3",
     "next": "Novelle",
+    "proof_read": 0,
     "short_description": "Einzeln publizierte kaiserliche Verordnung jüngeren Datums",
     "chapters": [
       {
         "start": 1162,
-        "author": "Steinwenter"
+        "end": 1171,
+        "author": "Steinwenter."
       }
     ]
   },
@@ -14695,11 +14824,13 @@
     "lemma": "Novelle",
     "previous": "Novellae",
     "next": "Novellius",
+    "proof_read": 0,
     "short_description": "Literarische Gattung der Prosadichtung",
     "chapters": [
       {
         "start": 1171,
-        "author": "Aly"
+        "end": 1179,
+        "author": "Aly."
       }
     ]
   },
@@ -14731,11 +14862,14 @@
     "lemma": "Novem Pagi",
     "previous": "Novellus",
     "next": "Novemcraris",
+    "sort_key": "Novempagi",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1179,
-        "author": "Banti"
+        "end": 1180,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -14743,11 +14877,13 @@
     "lemma": "Novemcraris",
     "previous": "Novem Pagi",
     "next": "Novemdiale sacrum",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1180,
-        "author": "Linckenheld"
+        "end": 1180,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -14755,11 +14891,14 @@
     "lemma": "Novemdiale sacrum",
     "previous": "Novemcraris",
     "next": "Novempopulana",
+    "sort_key": "Novemdialesacrum",
+    "proof_read": 0,
     "short_description": "Staatliche Sühnefeier nach Steinregen Private Leichenfeier am 9. Tag nach der",
     "chapters": [
       {
         "start": 1180,
-        "author": "Marbach"
+        "end": 1181,
+        "author": "Marbach."
       }
     ]
   },
@@ -14767,11 +14906,13 @@
     "lemma": "Novempopulana",
     "previous": "Novemdiale sacrum",
     "next": "Novemviri",
+    "proof_read": 0,
     "short_description": "Bezeichnung der Aquitania propria",
     "chapters": [
       {
         "start": 1181,
-        "author": "Linckenheld"
+        "end": 1185,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -14779,11 +14920,13 @@
     "lemma": "Novemviri",
     "previous": "Novempopulana",
     "next": "Novenses",
+    "proof_read": 0,
     "short_description": "Priesterliche Sodalität im Dienst der Valetudo",
     "chapters": [
       {
         "start": 1185,
-        "author": "Wickert"
+        "end": 1185,
+        "author": "Wickert."
       }
     ]
   },
@@ -14804,11 +14947,14 @@
     "lemma": "Novensides di",
     "previous": "Novenses",
     "next": "Novesium",
+    "sort_key": "Novensidesdi",
+    "proof_read": 0,
     "short_description": "Gruppe von römischen Göttern",
     "chapters": [
       {
         "start": 1185,
-        "author": "Weinstock"
+        "end": 1189,
+        "author": "Weinstock."
       }
     ]
   },
@@ -14843,11 +14989,13 @@
     "lemma": "Novicianum",
     "previous": "Novia",
     "next": "Noviodunum",
+    "proof_read": 0,
     "short_description": "Mutatio in Pannonia inferior",
     "chapters": [
       {
         "start": 1189,
-        "author": "Saria"
+        "end": 1189,
+        "author": "B. Saria."
       }
     ]
   },
@@ -14855,11 +15003,13 @@
     "lemma": "Noviodunum",
     "previous": "Novicianum",
     "next": "Noviodunum 1",
+    "proof_read": 0,
     "short_description": "Name mehrerer Siedlungen des keltischen Gebiets",
     "chapters": [
       {
         "start": 1189,
-        "author": "Linckenheld"
+        "end": 1189,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -14867,11 +15017,13 @@
     "lemma": "Noviodunum 1",
     "previous": "Noviodunum",
     "next": "Noviodunum 2",
+    "proof_read": 0,
     "short_description": "Vorort der Suessiones Soissons",
     "chapters": [
       {
         "start": 1189,
-        "author": "Linckenheld"
+        "end": 1189,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -14879,11 +15031,13 @@
     "lemma": "Noviodunum 2",
     "previous": "Noviodunum 1",
     "next": "Noviodunum 3",
+    "proof_read": 0,
     "short_description": "Oppidum der Bituriges Cubi an der Straße Sens - Genabum",
     "chapters": [
       {
         "start": 1189,
-        "author": "Linckenheld"
+        "end": 1190,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -14891,11 +15045,13 @@
     "lemma": "Noviodunum 3",
     "previous": "Noviodunum 2",
     "next": "Noviodunum 4",
+    "proof_read": 0,
     "short_description": "Ort der Haedui am Ufer des Ligeris",
     "chapters": [
       {
         "start": 1190,
-        "author": "Linckenheld"
+        "end": 1190,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -14903,11 +15059,13 @@
     "lemma": "Noviodunum 4",
     "previous": "Noviodunum 3",
     "next": "Noviodunum 5",
+    "proof_read": 0,
     "short_description": "Vorort der Diablintes Jublains",
     "chapters": [
       {
         "start": 1190,
-        "author": "Linckenheld"
+        "end": 1190,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -14915,11 +15073,13 @@
     "lemma": "Noviodunum 5",
     "previous": "Noviodunum 4",
     "next": "Noviodunum 6",
+    "proof_read": 0,
     "short_description": "Colonia Iulia Equestris Nyon",
     "chapters": [
       {
         "start": 1190,
-        "author": "Linckenheld"
+        "end": 1191,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -14942,11 +15102,13 @@
     "lemma": "Noviodunum 7",
     "previous": "Noviodunum 6",
     "next": "Noviodunus pagus",
+    "proof_read": 0,
     "short_description": "Ort an der untersten Donau in Moesia inferior",
     "chapters": [
       {
         "start": 1191,
-        "author": "Polaschek"
+        "end": 1194,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -14999,11 +15161,13 @@
     "lemma": "Noviomagus 1",
     "previous": "Noviomagus",
     "next": "Noviomagus 2",
+    "proof_read": 0,
     "short_description": "Stadt der Bituriges Vivisci La Ville de Brion",
     "chapters": [
       {
         "start": 1195,
-        "author": "Linckenheld"
+        "end": 1195,
+        "author": "E. Linckenheld."
       }
     ]
   },
