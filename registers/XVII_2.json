@@ -1845,11 +1845,13 @@
     "lemma": "Nursia",
     "previous": "Νούρολι",
     "next": "Nus 1",
+    "proof_read": 0,
     "short_description": "Ort am Monte Pallino im Hochappennin Norcia",
     "chapters": [
       {
         "start": 1489,
-        "author": "Philipp"
+        "end": 1490,
+        "author": "Philipp."
       }
     ]
   },
@@ -1871,31 +1873,37 @@
   {
     "lemma": "Nus 2",
     "previous": "Nus 1",
-    "next": "Nusaripa",
+    "next": "Νουσαρίπα",
+    "proof_read": 0,
     "short_description": "Fluß in Kilikien",
     "chapters": [
       {
         "start": 1490,
-        "author": "Ruge"
+        "end": 1490,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Nusaripa",
+    "lemma": "Νουσαρίπα",
     "previous": "Nus 2",
-    "next": "Nussbaum",
+    "next": "Nußbaum",
+    "sort_key": "Nusaripa",
+    "proof_read": 0,
     "short_description": "Stadt am Golf von Barygaza",
     "chapters": [
       {
         "start": 1490,
-        "author": "Stein, O[tto]"
+        "end": 1490,
+        "author": "O. Stein."
       }
     ]
   },
   {
-    "lemma": "Nussbaum",
-    "previous": "Nusaripa",
+    "lemma": "Nußbaum",
+    "previous": "Νουσαρίπα",
     "next": "Nutha",
+    "sort_key": "Nussbaum",
     "redirect": "Haselnuß",
     "proof_read": 2,
     "chapters": [
@@ -1907,7 +1915,7 @@
   },
   {
     "lemma": "Nutha",
-    "previous": "Nussbaum",
+    "previous": "Nußbaum",
     "next": "Nutius",
     "proof_read": 2,
     "short_description": "Eiskalte Quelle bei Bilbilis in Spanien",
@@ -1981,11 +1989,13 @@
     "lemma": "Nux",
     "previous": "Nuuel",
     "next": "Nycheia 1",
+    "proof_read": 0,
     "short_description": "Elegie des Ovid",
     "chapters": [
       {
         "start": 1502,
-        "author": "Lenz"
+        "end": 1508,
+        "author": "Friedrich Lenz."
       }
     ]
   },
@@ -2054,7 +2064,7 @@
   {
     "lemma": "Nychia 3",
     "previous": "Nychia 2",
-    "next": "Nygbenitai",
+    "next": "Νυγβηνῖται",
     "proof_read": 2,
     "short_description": "Beiname der Artemis-Hekate",
     "no_creative_height": true,
@@ -2067,23 +2077,26 @@
     ]
   },
   {
-    "lemma": "Nygbenitai",
+    "lemma": "Νυγβηνῖται",
     "previous": "Nychia 3",
     "next": "Νυγβηνοί",
+    "sort_key": "Nygbenitai",
+    "proof_read": 0,
     "short_description": "Aithiopisches Volk südl. der großen Syrte",
     "chapters": [
       {
         "start": 1509,
-        "author": "Windberg"
+        "end": 1509,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Νυγβηνοί",
-    "previous": "Nygbenitai",
-    "next": "Nygdosora",
+    "previous": "Νυγβηνῖται",
+    "next": "Νυγδοσόρα",
     "sort_key": "Nygbenoi",
-    "redirect": "Nygbenitai",
+    "redirect": "Νυγβηνῖται",
     "proof_read": 2,
     "chapters": [
       {
@@ -2093,32 +2106,38 @@
     ]
   },
   {
-    "lemma": "Nygdosora",
+    "lemma": "Νυγδοσόρα",
     "previous": "Νυγβηνοί",
-    "next": "Nykpioi",
+    "next": "Νύκπιοι",
+    "sort_key": "Nygdosora",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1509,
-        "author": "Stein, O[tto]"
+        "end": 1509,
+        "author": "O. Stein."
       }
     ]
   },
   {
-    "lemma": "Nykpioi",
-    "previous": "Nygdosora",
+    "lemma": "Νύκπιοι",
+    "previous": "Νυγδοσόρα",
     "next": "Nykteis 1",
+    "sort_key": "Nykpioi",
+    "proof_read": 0,
     "short_description": "Aithiopisches Volk südl. der großen Syrte",
     "chapters": [
       {
         "start": 1509,
-        "author": "Windberg"
+        "end": 1509,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Nykteis 1",
-    "previous": "Nykpioi",
+    "previous": "Νύκπιοι",
     "next": "Nykteis 2",
     "short_description": "Tochter des Nykteus",
     "chapters": [
@@ -2131,7 +2150,7 @@
   {
     "lemma": "Nykteis 2",
     "previous": "Nykteis 1",
-    "next": "Nyktelia",
+    "next": "Νυκτέλια",
     "proof_read": 2,
     "short_description": "Bezeichnung der Antiope als Tochter des Nykteus",
     "wp_link": "w:de:Antiope (Tochter des Nykteus)",
@@ -2146,26 +2165,31 @@
     ]
   },
   {
-    "lemma": "Nyktelia",
+    "lemma": "Νυκτέλια",
     "previous": "Nykteis 2",
     "next": "Nyktelios",
+    "sort_key": "Nyktelia",
+    "proof_read": 0,
     "short_description": "Nachtfeiern des Dionysoskultes",
     "chapters": [
       {
         "start": 1510,
-        "author": "Ziehen"
+        "end": 1510,
+        "author": "Ziehen."
       }
     ]
   },
   {
     "lemma": "Nyktelios",
-    "previous": "Nyktelia",
+    "previous": "Νυκτέλια",
     "next": "Νυκτέπαρχος",
+    "proof_read": 0,
     "short_description": "Epiklesis des nächtlich verehrten Dionysos",
     "chapters": [
       {
         "start": 1510,
-        "author": "Schmidt"
+        "end": 1511,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -2187,11 +2211,13 @@
     "lemma": "Nykterinos",
     "previous": "Νυκτέπαρχος",
     "next": "Nykteus 1",
+    "proof_read": 0,
     "short_description": "Personifikation einer musischen Gattung",
     "chapters": [
       {
         "start": 1511,
-        "author": "Herter"
+        "end": 1511,
+        "author": "H. Herter."
       }
     ]
   },
@@ -2262,11 +2288,13 @@
     "lemma": "Nykteus 6",
     "previous": "Nykteus 5",
     "next": "Nyktimene",
+    "proof_read": 0,
     "short_description": "Pferd des Pluton",
     "chapters": [
       {
         "start": 1513,
-        "author": "Kolf"
+        "end": 1515,
+        "author": "Kolf."
       }
     ]
   },
@@ -2300,11 +2328,13 @@
     "lemma": "Nyktimos 2",
     "previous": "Nyktimos 1",
     "next": "Nyktipolos 1",
+    "proof_read": 0,
     "short_description": "Urspr. Name des Flußes Alpheios",
     "chapters": [
       {
         "start": 1516,
-        "author": "Kolf"
+        "end": 1516,
+        "author": "Kolf."
       }
     ]
   },
@@ -2376,7 +2406,7 @@
   },
   {
     "lemma": "Nymbaion",
-    "previous": "Nyktostrategos",
+    "previous": "Νυκτοοτράτηγος",
     "next": "Nymphadius",
     "redirect": "Nymphaion 1",
     "proof_read": 2,
@@ -2403,11 +2433,13 @@
     "lemma": "Nymphaea",
     "previous": "Nymphadius",
     "next": "Nymphaeum",
+    "proof_read": 0,
     "short_description": "Insel an der NW-Küste Sardiniens",
     "chapters": [
       {
         "start": 1517,
-        "author": "Hanslik"
+        "end": 1517,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2415,11 +2447,13 @@
     "lemma": "Nymphaeum",
     "previous": "Nymphaea",
     "next": "Nymphaeus 1",
+    "proof_read": 0,
     "short_description": "Nymphenheiligtum Brunnenanlage",
     "chapters": [
       {
         "start": 1517,
-        "author": "Polaschek"
+        "end": 1527,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -2427,11 +2461,13 @@
     "lemma": "Nymphaeus 1",
     "previous": "Nymphaeum",
     "next": "Nymphaeus 2",
+    "proof_read": 0,
     "short_description": "Nymphenhügel in der Tetras oder Achaia Phthiotis",
     "chapters": [
       {
         "start": 1527,
-        "author": "Stählin"
+        "end": 1527,
+        "author": "Stählin."
       }
     ]
   },
@@ -2454,18 +2490,20 @@
     "lemma": "Nymphaeus 3",
     "previous": "Nymphaeus 2",
     "next": "Nymphaeus 4",
+    "proof_read": 0,
     "short_description": "amnis, Fluß in Mesopotamien",
     "chapters": [
       {
         "start": 1527,
-        "author": "Sturm"
+        "end": 1527,
+        "author": "J. Sturm."
       }
     ]
   },
   {
     "lemma": "Nymphaeus 4",
     "previous": "Nymphaeus 3",
-    "next": "Nymphagogos",
+    "next": "Νυμφαγωγός",
     "redirect": "Nymphaios 1",
     "proof_read": 2,
     "chapters": [
@@ -2476,26 +2514,31 @@
     ]
   },
   {
-    "lemma": "Nymphagogos",
+    "lemma": "Νυμφαγωγός",
     "previous": "Nymphaeus 4",
     "next": "Nymphai 1",
+    "sort_key": "Nymphagogos",
+    "proof_read": 0,
     "short_description": "Brautführer",
     "chapters": [
       {
         "start": 1527,
-        "author": "Hanell"
+        "end": 1527,
+        "author": "Krister Hanell."
       }
     ]
   },
   {
     "lemma": "Nymphai 1",
-    "previous": "Nymphagogos",
+    "previous": "Νυμφαγωγός",
     "next": "Nymphai 2",
+    "proof_read": 0,
     "short_description": "Göttinnen der freien Natur",
     "chapters": [
       {
         "start": 1527,
-        "author": "Heichelheim"
+        "end": 1599,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -2503,11 +2546,13 @@
     "lemma": "Nymphai 2",
     "previous": "Nymphai 1",
     "next": "Nymphaia 1",
+    "proof_read": 0,
     "short_description": "Grundstück bei Tralles",
     "chapters": [
       {
         "start": 1599,
-        "author": "Ruge"
+        "end": 1599,
+        "author": "Ruge."
       }
     ]
   },
@@ -2528,11 +2573,13 @@
     "lemma": "Nymphaia 2",
     "previous": "Nymphaia 1",
     "next": "Nymphaia 3",
+    "proof_read": 0,
     "short_description": "Inselchen in der Nähe von Samos",
     "chapters": [
       {
         "start": 1599,
-        "author": "Voigt"
+        "end": 1599,
+        "author": "Voigt."
       }
     ]
   },
@@ -2540,11 +2587,13 @@
     "lemma": "Nymphaia 3",
     "previous": "Nymphaia 2",
     "next": "Nymphaia 4",
+    "proof_read": 0,
     "short_description": "Dichterisch-mythographischer Name von Kos",
     "chapters": [
       {
         "start": 1599,
-        "author": "Voigt"
+        "end": 1600,
+        "author": "Voigt."
       }
     ]
   },
@@ -2582,11 +2631,13 @@
     "lemma": "Nymphaion 1",
     "previous": "Nymphaia 5",
     "next": "Nymphaion 2",
+    "proof_read": 0,
     "short_description": "Hafenbucht westl. von Kap Malea",
     "chapters": [
       {
         "start": 1600,
-        "author": "Meyer, Ernst"
+        "end": 1600,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2594,11 +2645,13 @@
     "lemma": "Nymphaion 2",
     "previous": "Nymphaion 1",
     "next": "Nymphaion 3",
+    "proof_read": 0,
     "short_description": "Angebl. arkadisches Gebirge",
     "chapters": [
       {
         "start": 1600,
-        "author": "Meyer, Ernst"
+        "end": 1600,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2606,11 +2659,13 @@
     "lemma": "Nymphaion 3",
     "previous": "Nymphaion 2",
     "next": "Nymphaion 4",
+    "proof_read": 0,
     "short_description": "S-Spitze der chalkidischen Halbinsel Akte",
     "chapters": [
       {
         "start": 1600,
-        "author": "Oberhummer"
+        "end": 1600,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -2631,11 +2686,13 @@
     "lemma": "Nymphaion 5",
     "previous": "Nymphaion 4",
     "next": "Nymphaion 6",
+    "proof_read": 0,
     "short_description": "Ort oder Vorgebirge an der Küste von Bithynien",
     "chapters": [
       {
         "start": 1600,
-        "author": "Ruge"
+        "end": 1600,
+        "author": "Ruge."
       }
     ]
   },
@@ -2657,11 +2714,13 @@
     "lemma": "Nymphaion 7",
     "previous": "Nymphaion 6",
     "next": "Nymphaion 8",
+    "proof_read": 0,
     "short_description": "Stadt am europäischen Ufer des kimmerischen Bosporus",
     "chapters": [
       {
         "start": 1600,
-        "author": "Diehl, Erich"
+        "end": 1603,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -2669,11 +2728,13 @@
     "lemma": "Nymphaion 8",
     "previous": "Nymphaion 7",
     "next": "Nymphaios 1",
+    "proof_read": 0,
     "short_description": "Grottenheiligtum an der syrischen Küste",
     "chapters": [
       {
         "start": 1603,
-        "author": "Honigmann"
+        "end": 1603,
+        "author": "Honigmann."
       }
     ]
   },
@@ -2722,11 +2783,13 @@
     "lemma": "Nymphas",
     "previous": "Nymphaïs",
     "next": "Nymphasia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1603,
-        "author": "Meyer, Ernst"
+        "end": 1603,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2734,11 +2797,13 @@
     "lemma": "Nymphasia",
     "previous": "Nymphas",
     "next": "Nymphegetes 1",
+    "proof_read": 0,
     "short_description": "Quelle bei Methydrion in Arkadien",
     "chapters": [
       {
         "start": 1603,
-        "author": "Meyer, Ernst"
+        "end": 1604,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2746,11 +2811,13 @@
     "lemma": "Nymphegetes 1",
     "previous": "Nymphasia",
     "next": "Nymphegetes 2",
+    "proof_read": 0,
     "short_description": "Beiname des Apollon",
     "chapters": [
       {
         "start": 1604,
-        "author": "Schmidt"
+        "end": 1604,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -2958,11 +3025,13 @@
     "lemma": "Nymphios 3",
     "previous": "Nymphios 2",
     "next": "Nymphios 4",
+    "proof_read": 0,
     "short_description": "Bräutigam",
     "chapters": [
       {
         "start": 1607,
-        "author": "Eitrem"
+        "end": 1607,
+        "author": "Eitrem."
       }
     ]
   },
@@ -3094,11 +3163,13 @@
     "lemma": "Nyrax",
     "previous": "Nymphon 2",
     "next": "Nysa 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1627,
-        "author": "Linckenheld"
+        "end": 1628,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -3106,11 +3177,13 @@
     "lemma": "Nysa 1",
     "previous": "Nyrax",
     "next": "Nysa 2",
+    "proof_read": 0,
     "short_description": "Amme des Dionysos",
     "chapters": [
       {
         "start": 1628,
-        "author": "Gebhard"
+        "end": 1630,
+        "author": "V. Gebhard."
       }
     ]
   },
@@ -3212,11 +3285,13 @@
     "lemma": "Nysa 9",
     "previous": "Nysa 8",
     "next": "Nysa 10",
+    "proof_read": 0,
     "short_description": "Ort in Thrakien",
     "chapters": [
       {
         "start": 1631,
-        "author": "Oberhummer"
+        "end": 1631,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -3224,11 +3299,13 @@
     "lemma": "Nysa 10",
     "previous": "Nysa 9",
     "next": "Nysa 11",
+    "proof_read": 0,
     "short_description": "Stadt in Karien",
     "chapters": [
       {
         "start": 1631,
-        "author": "Ruge"
+        "end": 1640,
+        "author": "Ruge."
       }
     ]
   },
@@ -3283,11 +3360,13 @@
     "lemma": "Nysaios 1",
     "previous": "Nysa 13",
     "next": "Nysaios 2",
+    "proof_read": 0,
     "short_description": "Ethnikon des Dionysos",
     "chapters": [
       {
         "start": 1661,
-        "author": "Schmidt"
+        "end": 1661,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -3376,11 +3455,13 @@
     "lemma": "Nys(s)os",
     "previous": "Nyssa",
     "next": "Nystros",
+    "proof_read": 0,
     "short_description": "Ort?",
     "chapters": [
       {
         "start": 1662,
-        "author": "Ruge"
+        "end": 1663,
+        "author": "Ruge."
       }
     ]
   },
@@ -3401,11 +3482,13 @@
     "lemma": "Nyx",
     "previous": "Nystros",
     "next": "Oa",
+    "proof_read": 0,
     "short_description": "Personifikation der Nacht",
     "chapters": [
       {
         "start": 1663,
-        "author": "Bernert"
+        "end": 1673,
+        "author": "Bernert."
       }
     ]
   },
@@ -3413,11 +3496,13 @@
     "lemma": "Oa",
     "previous": "Nyx",
     "next": "Oaditai",
+    "proof_read": 0,
     "short_description": "Attischer Demos",
     "chapters": [
       {
         "start": 1673,
-        "author": "Wrede"
+        "end": 1673,
+        "author": "Wrede."
       }
     ]
   },
@@ -3425,11 +3510,13 @@
     "lemma": "Oaditai",
     "previous": "Oa",
     "next": "Oaeneum",
+    "proof_read": 0,
     "short_description": "nordarabischer Stamm",
     "chapters": [
       {
         "start": 1673,
-        "author": "Grohmann"
+        "end": 1673,
+        "author": "Grohmann."
       }
     ]
   },
@@ -3437,15 +3524,14 @@
     "lemma": "Oaeneum",
     "previous": "Oaditai",
     "next": "Oaeonae",
-    "short_description": "Ort s. Penesten Nr. 2",
+    "sort_key": "Oaeneum",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 1673,
-        "author": "Vulić"
-      },
-      {
-        "start": 1673,
-        "author": "Polaschek"
+        "end": 1674,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -3481,11 +3567,13 @@
     "lemma": "Oamoutha",
     "previous": "Oamenoth",
     "next": "Oanis, Oanos",
+    "proof_read": 0,
     "short_description": "Dämon in einem griechischen Wettersegen",
     "chapters": [
       {
         "start": 1675,
-        "author": "Preisendanz"
+        "end": 1675,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -3493,11 +3581,14 @@
     "lemma": "Oanis, Oanos",
     "previous": "Oamoutha",
     "next": "Ὠάννης",
+    "sort_key": "Oanis,oanos",
+    "proof_read": 0,
     "short_description": "Flüßchen bei Kamarina auf Sizilien",
     "chapters": [
       {
         "start": 1675,
-        "author": "Ziegler"
+        "end": 1677,
+        "author": "Ziegler."
       }
     ]
   },
@@ -3537,11 +3628,14 @@
     "lemma": "Ὀάρακτα",
     "previous": "Oanos",
     "next": "Oarizos",
+    "sort_key": "Oarakta",
+    "proof_read": 0,
     "short_description": "Insel an der Küste Karmaniens",
     "chapters": [
       {
         "start": 1679,
-        "author": "Stein, O[tto]"
+        "end": 1680,
+        "author": "O. Stein."
       }
     ]
   },
@@ -3563,11 +3657,13 @@
     "lemma": "Oaros",
     "previous": "Oarizos",
     "next": "Oasis",
+    "proof_read": 0,
     "short_description": "Zufluß des Maiotis",
     "chapters": [
       {
         "start": 1680,
-        "author": "Herrmann"
+        "end": 1681,
+        "author": "Herrmann."
       }
     ]
   },
@@ -3575,11 +3671,13 @@
     "lemma": "Oasis",
     "previous": "Oaros",
     "next": "Oaxes 1",
+    "proof_read": 0,
     "short_description": "Oasen der libyschen Wüste",
     "chapters": [
       {
         "start": 1681,
-        "author": "Kees"
+        "end": 1686,
+        "author": "Kees."
       }
     ]
   },
@@ -3623,11 +3721,13 @@
     "lemma": "Oba",
     "previous": "Oaxos",
     "next": "Obaerati",
+    "proof_read": 0,
     "short_description": "Iberisch-römische Stadt",
     "chapters": [
       {
         "start": 1692,
-        "author": "Schulten"
+        "end": 1692,
+        "author": "Schulten."
       }
     ]
   },
@@ -3635,11 +3735,13 @@
     "lemma": "Obaerati",
     "previous": "Oba",
     "next": "Obai",
+    "proof_read": 0,
     "short_description": "In Schuldknechtschaft stehende Darlehensschuldner",
     "chapters": [
       {
         "start": 1692,
-        "author": "Düll"
+        "end": 1693,
+        "author": "Düll."
       }
     ]
   },
@@ -3647,11 +3749,13 @@
     "lemma": "Obai",
     "previous": "Obaerati",
     "next": "Obaira",
+    "proof_read": 0,
     "short_description": "Lakonische Bezeichnung für bestimmte Unterabteilungen in Sparta",
     "chapters": [
       {
         "start": 1693,
-        "author": "Ehrenberg"
+        "end": 1704,
+        "author": "Ehrenberg."
       }
     ]
   },
@@ -3659,11 +3763,13 @@
     "lemma": "Obaira",
     "previous": "Obai",
     "next": "Obana 1",
+    "proof_read": 0,
     "short_description": "Station und Wasserstelle an der Karawanenstraße Amman - Taima",
     "chapters": [
       {
         "start": 1704,
-        "author": "Grohmann"
+        "end": 1704,
+        "author": "Grohmann."
       }
     ]
   },
@@ -3671,11 +3777,13 @@
     "lemma": "Obana 1",
     "previous": "Obaira",
     "next": "Obana 2",
+    "proof_read": 0,
     "short_description": "Göttin auf einer Weihinschr. aus Celsa",
     "chapters": [
       {
         "start": 1704,
-        "author": "Heichelheim"
+        "end": 1704,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -3697,11 +3805,13 @@
     "lemma": "Obarator",
     "previous": "Obana 2",
     "next": "Ὀβαρεῖς",
+    "proof_read": 0,
     "short_description": "Ackergottheit, die von Flamen Cerialis angerufen wurde",
     "chapters": [
       {
         "start": 1704,
-        "author": "Ehlers"
+        "end": 1705,
+        "author": "W. Ehlers."
       }
     ]
   },
@@ -3753,11 +3863,13 @@
     "lemma": "Obba 1",
     "previous": "Obaritus",
     "next": "Obba 2",
+    "proof_read": 0,
     "short_description": "Trinkgefäß mit breiter Standfläche",
     "chapters": [
       {
         "start": 1705,
-        "author": "Lorentz"
+        "end": 1705,
+        "author": "F. v. Lorentz."
       }
     ]
   },
@@ -3765,11 +3877,13 @@
     "lemma": "Obba 2",
     "previous": "Obba 1",
     "next": "Obelai",
+    "proof_read": 0,
     "short_description": "Ortschaft, auf die sich Syphax zurückzog",
     "chapters": [
       {
         "start": 1705,
-        "author": "Windberg"
+        "end": 1705,
+        "author": "Windberg."
       }
     ]
   },
@@ -3777,7 +3891,7 @@
     "lemma": "Obelai",
     "previous": "Obba 2",
     "next": "Obeleses",
-    "redirect": "Obilai",
+    "redirect": "Ὀβίλαι",
     "proof_read": 2,
     "chapters": [
       {
@@ -3822,11 +3936,13 @@
     "lemma": "Obellius",
     "previous": "Obeliskos",
     "next": "Obellius 1",
+    "proof_read": 0,
     "short_description": "Römischer Gentilname",
     "chapters": [
       {
         "start": 1714,
-        "author": "Münzer"
+        "end": 1714,
+        "author": "Münzer."
       }
     ]
   },
@@ -3862,11 +3978,13 @@
     "lemma": "Obelum",
     "previous": "Obelos",
     "next": "Ὀβιδιακηνοί",
+    "proof_read": 0,
     "short_description": "GallorömischerOrt in Gallia Narbonensis",
     "chapters": [
       {
         "start": 1714,
-        "author": "Goessler"
+        "end": 1714,
+        "author": "Goessler."
       }
     ]
   },
@@ -3889,18 +4007,20 @@
     "lemma": "Obila 1",
     "previous": "Ὀβιδιακηνοί",
     "next": "Obila 2",
+    "proof_read": 0,
     "short_description": "Weibliche Gottheit auf einer Inschrift",
     "chapters": [
       {
         "start": 1714,
-        "author": "Heichelheim"
+        "end": 1714,
+        "author": "Heichelheim."
       }
     ]
   },
   {
     "lemma": "Obila 2",
     "previous": "Obila 1",
-    "next": "Obilai",
+    "next": "Ὀβίλαι",
     "proof_read": 2,
     "short_description": "unbekannte Stadt der Vettoner in Hispania Tarraconensis",
     "no_creative_height": true,
@@ -3913,26 +4033,31 @@
     ]
   },
   {
-    "lemma": "Obilai",
+    "lemma": "Ὀβίλαι",
     "previous": "Obila 2",
     "next": "Obilinnum",
+    "sort_key": "Obilai",
+    "proof_read": 0,
     "short_description": "Völkerschaft in Aithiopien",
     "chapters": [
       {
         "start": 1714,
-        "author": "Windberg"
+        "end": 1715,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Obilinnum",
-    "previous": "Obilai",
+    "previous": "Ὀβίλαι",
     "next": "Obinius",
+    "proof_read": 0,
     "short_description": "Gallorömischer Ortsname an der Straße Vienne - kleiner. St. Bernhard",
     "chapters": [
       {
         "start": 1715,
-        "author": "Goessler"
+        "end": 1716,
+        "author": "Goessler."
       }
     ]
   },
@@ -3952,11 +4077,14 @@
     "lemma": "Obio(n) Obiones, Obiona",
     "previous": "Obinius",
     "next": "Obizene",
+    "sort_key": "Obio(n)obiones, obiona",
+    "proof_read": 0,
     "short_description": "Gottheit oder Götterpaar",
     "chapters": [
       {
         "start": 1716,
-        "author": "Heichelheim"
+        "end": 1716,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -3964,11 +4092,13 @@
     "lemma": "Obizene",
     "previous": "Obio(n) Obiones, Obiona",
     "next": "Oblacus",
+    "proof_read": 0,
     "short_description": "Landschaft im nördl. Lykaonien",
     "chapters": [
       {
         "start": 1716,
-        "author": "Ruge"
+        "end": 1717,
+        "author": "Ruge."
       }
     ]
   },
@@ -3988,11 +4118,13 @@
     "lemma": "Obligatio",
     "previous": "Oblacus",
     "next": "Oblivio",
+    "proof_read": 0,
     "short_description": "Bindung, Verpflichtung",
     "chapters": [
       {
         "start": 1717,
-        "author": "Radin"
+        "end": 1726,
+        "author": "Max Radin."
       }
     ]
   },
