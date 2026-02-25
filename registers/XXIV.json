@@ -3077,12 +3077,14 @@
     "lemma": "Pythiades 2",
     "previous": "Pythiades 1",
     "next": "Pythias 1",
+    "proof_read": 2,
     "short_description": "Bezeichnung der Naiaden von Delphi",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 547,
         "end": 548,
-        "author": "Geisau"
+        "author": "Hans v. Geisau."
       }
     ]
   },
@@ -3090,11 +3092,13 @@
     "lemma": "Pythias 1",
     "previous": "Pythiades 2",
     "next": "Pythias 2",
-    "short_description": "aus Pellene, Stadtgouverneur aus Psophis",
+    "proof_read": 0,
+    "short_description": "erste Frau des Philosophen Aristoteles",
     "chapters": [
       {
-        "start": 549,
-        "author": "Schmitt"
+        "start": 548,
+        "end": 548,
+        "author": "A. Stein."
       }
     ]
   },
@@ -3102,19 +3106,20 @@
     "lemma": "Pythias 2",
     "previous": "Pythias 1",
     "next": "Pythias 3",
-    "short_description": "Bronzebildner",
+    "proof_read": 0,
+    "short_description": "Tochter des Philosophen Aristoteles",
     "chapters": [
       {
-        "start": 549,
-        "author": "Rumpf"
+        "start": 548,
+        "end": 549,
+        "author": "A. Stein."
       }
     ]
   },
   {
     "lemma": "Pythias 3",
     "previous": "Pythias 2",
-    "next": "Pythicus",
-    "sort_key": "Pythias 3",
+    "next": "Pythias 1a",
     "proof_read": 2,
     "short_description": "Sklavin der Octavia",
     "chapters": [
@@ -3126,8 +3131,38 @@
     ]
   },
   {
-    "lemma": "Pythicus",
+    "lemma": "Pythias 1a",
     "previous": "Pythias 3",
+    "next": "Pythias 2a",
+    "sort_key": "Pythias 4",
+    "proof_read": 0,
+    "short_description": "aus Pellene, Stadtgouverneur in Psophis",
+    "chapters": [
+      {
+        "start": 549,
+        "end": 549,
+        "author": "Hatto H. Schmitt."
+      }
+    ]
+  },
+  {
+    "lemma": "Pythias 2a",
+    "previous": "Pythias 1a",
+    "next": "Pythicus",
+    "sort_key": "Pythias 5",
+    "proof_read": 0,
+    "short_description": "Bronzebildner",
+    "chapters": [
+      {
+        "start": 549,
+        "end": 549,
+        "author": "Andreas Rumpf."
+      }
+    ]
+  },
+  {
+    "lemma": "Pythicus",
+    "previous": "Pythias 2a",
     "next": "Pythikos",
     "chapters": [
       {
