@@ -64,8 +64,9 @@
     "previous": "Acilius 15",
     "next": "Actiani",
     "sort_key": "Acilius 29a",
-    "proof_read": 0,
-    "short_description": "L. A. Eutyches, archimimus in antonin. Zeit",
+    "proof_read": 2,
+    "short_description": "L. A. Eutyches, archimimus in antoninischer Zeit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1,
@@ -78,8 +79,9 @@
     "lemma": "Actiani",
     "previous": "Acilius 29a",
     "next": "Actionicae",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "die sodales des Pantomimus C. Ummidius Actius Anicetus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1,
@@ -11062,8 +11064,8 @@
     "lemma": "Scribonius 12a",
     "previous": "Scabellum",
     "next": "Septimius 24a",
-    "proof_read": 2,
-    "short_description": "L. S. Eros, kaiserzeitlicher Archimimus",
+    "proof_read": 3,
+    "short_description": "L. Scribonius Eros, kaiserzeitlicher Archimimus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -13010,11 +13012,15 @@
     "lemma": "Uttiedius 1",
     "previous": "Uruca",
     "next": "creditum",
-    "short_description": "T. U. Venerianus, kaiserzeitl. Schauspieler, Gatte der Alfena (S X 13 Nr. 10)",
+    "sort_key": "Vttiedius 1",
+    "proof_read": 2,
+    "short_description": "T. U. Venerianus, archimimus, kaiserzeitlicher Schauspieler",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1152,
-        "author": "Bonaria"
+        "end": 1152,
+        "author": "Mario Bonaria."
       }
     ]
   },

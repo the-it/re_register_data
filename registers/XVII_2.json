@@ -8040,7 +8040,7 @@
     "lemma": "Oecus",
     "previous": "Oecubaria",
     "next": "Oeinia",
-    "redirect": "Oikos",
+    "redirect": "Οἶκος",
     "proof_read": 2,
     "chapters": [
       {
@@ -9514,7 +9514,7 @@
     "lemma": "Oikia",
     "previous": "Oiketas",
     "next": "Oikistas 1",
-    "redirect": "Oikos",
+    "redirect": "Οἶκος",
     "proof_read": 2,
     "chapters": [
       {
@@ -10138,7 +10138,7 @@
   {
     "lemma": "Oinis",
     "previous": "Oinios",
-    "next": "Oinisteria",
+    "next": "Οἰνιστήρια",
     "proof_read": 0,
     "short_description": "Person",
     "chapters": [
@@ -10150,20 +10150,23 @@
     ]
   },
   {
-    "lemma": "Oinisteria",
+    "lemma": "Οἰνιστήρια",
     "previous": "Oinis",
     "next": "Oino",
+    "sort_key": "Oinisteria",
+    "proof_read": 0,
     "short_description": "Weinspende am dritten Tag der Apaturien",
     "chapters": [
       {
         "start": 2229,
-        "author": "Ziehen"
+        "end": 2230,
+        "author": "Ziehen."
       }
     ]
   },
   {
     "lemma": "Oino",
-    "previous": "Oinisteria",
+    "previous": "Οἰνιστήρια",
     "next": "Oinoanda",
     "proof_read": 0,
     "short_description": "Eine der Oinotropoi",
@@ -10179,11 +10182,13 @@
     "lemma": "Oinoanda",
     "previous": "Oino",
     "next": "Oinoatis",
+    "proof_read": 0,
     "short_description": "Stadt in der Kabalis (Lykien)",
     "chapters": [
       {
         "start": 2230,
-        "author": "Ruge"
+        "end": 2234,
+        "author": "Ruge."
       }
     ]
   },
@@ -10191,11 +10196,13 @@
     "lemma": "Oinoatis",
     "previous": "Oinoanda",
     "next": "Oinobaras",
+    "proof_read": 0,
     "short_description": "Ethnikon der Artemis",
     "chapters": [
       {
         "start": 2234,
-        "author": "Schmidt"
+        "end": 2234,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10229,19 +10236,21 @@
   {
     "lemma": "Oinochoë",
     "previous": "Oinobios",
-    "next": "Oinoe 1",
+    "next": "Oinoë 1",
+    "proof_read": 0,
     "short_description": "Krug oder Kanne für Wein",
     "chapters": [
       {
         "start": 2234,
-        "author": "Lullies"
+        "end": 2235,
+        "author": "R. Lullies."
       }
     ]
   },
   {
-    "lemma": "Oinoe 1",
+    "lemma": "Oinoë 1",
     "previous": "Oinochoë",
-    "next": "Oinoe 2",
+    "next": "Oinoë 2",
     "sort_key": "Oinoe 01",
     "proof_read": 3,
     "short_description": "Pygmäenweib",
@@ -10255,9 +10264,9 @@
     ]
   },
   {
-    "lemma": "Oinoe 2",
-    "previous": "Oinoe 1",
-    "next": "Oinoe 3",
+    "lemma": "Oinoë 2",
+    "previous": "Oinoë 1",
+    "next": "Oinoë 3",
     "sort_key": "Oinoe 02",
     "proof_read": 0,
     "short_description": "Eponyme des attischen Demos Oinoe",
@@ -10270,8 +10279,8 @@
     ]
   },
   {
-    "lemma": "Oinoe 3",
-    "previous": "Oinoe 2",
+    "lemma": "Oinoë 3",
+    "previous": "Oinoë 2",
     "next": "Oinoë 4",
     "sort_key": "Oinoe 03",
     "proof_read": 0,
@@ -10286,8 +10295,8 @@
   },
   {
     "lemma": "Oinoë 4",
-    "previous": "Oinoe 3",
-    "next": "Oinoe 5",
+    "previous": "Oinoë 3",
+    "next": "Oinoë 5",
     "sort_key": "Oinoe 04",
     "redirect": true,
     "proof_read": 3,
@@ -10300,9 +10309,9 @@
     ]
   },
   {
-    "lemma": "Oinoe 5",
+    "lemma": "Oinoë 5",
     "previous": "Oinoë 4",
-    "next": "Oinoe 6",
+    "next": "Oinoë 6",
     "sort_key": "Oinoe 05",
     "redirect": "Oineon, Oinoe",
     "proof_read": 3,
@@ -10314,8 +10323,8 @@
     ]
   },
   {
-    "lemma": "Oinoe 6",
-    "previous": "Oinoe 5",
+    "lemma": "Oinoë 6",
+    "previous": "Oinoë 5",
     "next": "Oinoë 7",
     "sort_key": "Oinoe 06",
     "proof_read": 3,
@@ -10330,7 +10339,7 @@
   },
   {
     "lemma": "Oinoë 7",
-    "previous": "Oinoe 6",
+    "previous": "Oinoë 6",
     "next": "Oinoë 8",
     "short_description": "Oinoë Korinth. Kastell auf der Halbinsel Peraia",
     "chapters": [
@@ -10343,7 +10352,7 @@
   {
     "lemma": "Oinoë 8",
     "previous": "Oinoë 7",
-    "next": "Oinoe 9",
+    "next": "Oinoë 9",
     "short_description": "Oinoë Argiv. Ort im Tal des Charadros (III 2116 Nr. 5)",
     "chapters": [
       {
@@ -10353,33 +10362,40 @@
     ]
   },
   {
-    "lemma": "Oinoe 9",
+    "lemma": "Oinoë 9",
     "previous": "Oinoë 8",
-    "next": "Oinoe 10",
+    "next": "Oinoë 10",
+    "sort_key": "Oinoe 9",
+    "proof_read": 0,
     "short_description": "Quelle nördl. von Pheneos",
     "chapters": [
       {
         "start": 2240,
-        "author": "Meyer, Ernst"
+        "end": 2240,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
-    "lemma": "Oinoe 10",
-    "previous": "Oinoe 9",
-    "next": "Oinoe 11",
+    "lemma": "Oinoë 10",
+    "previous": "Oinoë 9",
+    "next": "Oinoë 11",
+    "sort_key": "Oinoe 10",
+    "proof_read": 0,
     "short_description": "Ortschaft an einem Fluß Selleeis",
     "chapters": [
       {
         "start": 2240,
-        "author": "Meyer, Ernst"
+        "end": 2244,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
-    "lemma": "Oinoe 11",
-    "previous": "Oinoe 10",
-    "next": "Oinoe 12",
+    "lemma": "Oinoë 11",
+    "previous": "Oinoë 10",
+    "next": "Oinoë 12",
+    "sort_key": "Oinoe 11",
     "proof_read": 0,
     "short_description": "anderer Name der Insel Sikinos",
     "chapters": [
@@ -10391,9 +10407,10 @@
     ]
   },
   {
-    "lemma": "Oinoe 12",
-    "previous": "Oinoe 11",
+    "lemma": "Oinoë 12",
+    "previous": "Oinoë 11",
     "next": "Oinoie 1",
+    "sort_key": "Oinoe 12",
     "redirect": "Oine",
     "proof_read": 2,
     "chapters": [
@@ -10405,7 +10422,7 @@
   },
   {
     "lemma": "Oinoie 1",
-    "previous": "Oinoe 12",
+    "previous": "Oinoë 12",
     "next": "Oinoie 2",
     "proof_read": 2,
     "short_description": "Najade",
@@ -10466,11 +10483,13 @@
     "lemma": "Oinologos",
     "previous": "Oinoladon",
     "next": "Oinomaos 1",
+    "proof_read": 0,
     "short_description": "Beamter im hellenistischen Aegypten",
     "chapters": [
       {
         "start": 2244,
-        "author": "Kießling, Emil"
+        "end": 2245,
+        "author": "E. Kießling."
       }
     ]
   },
@@ -10478,11 +10497,13 @@
     "lemma": "Oinomaos 1",
     "previous": "Oinologos",
     "next": "Oinomaos 2",
+    "proof_read": 0,
     "short_description": "Mythischer König von Pisa in Elis",
     "chapters": [
       {
         "start": 2245,
-        "author": "Fiehn"
+        "end": 2249,
+        "author": "Fiehn."
       }
     ]
   },
@@ -10522,11 +10543,13 @@
     "lemma": "Oinomaos 4",
     "previous": "Oinomaos 3",
     "next": "Oinomaos 5",
+    "proof_read": 0,
     "short_description": "Kelte",
     "chapters": [
       {
         "start": 2249,
-        "author": "Münzer"
+        "end": 2249,
+        "author": "Münzer."
       }
     ]
   },
@@ -10534,11 +10557,13 @@
     "lemma": "Oinomaos 5",
     "previous": "Oinomaos 4",
     "next": "Oinone 1",
+    "proof_read": 0,
     "short_description": "Kynischer Philosoph aus Gadara",
     "chapters": [
       {
         "start": 2249,
-        "author": "Mette"
+        "end": 2251,
+        "author": "H. J. Mette."
       }
     ]
   },
@@ -10546,11 +10571,18 @@
     "lemma": "Oinone 1",
     "previous": "Oinomaos 5",
     "next": "Oinone 2",
+    "proof_read": 0,
     "short_description": "Ursprünglicher Name von Aigina",
     "chapters": [
       {
         "start": 2251,
-        "author": "Schmidt"
+        "end": 2251,
+        "author": "Johanna Schmidt."
+      },
+      {
+        "start": 2251,
+        "end": 2251,
+        "author": "Josef Krischan."
       }
     ]
   },
@@ -10558,11 +10590,13 @@
     "lemma": "Oinone 2",
     "previous": "Oinone 1",
     "next": "Oinoparalemptes",
+    "proof_read": 0,
     "short_description": "Nymphe in der Troas",
     "chapters": [
       {
         "start": 2251,
-        "author": "Krischan"
+        "end": 2252,
+        "author": "Krischan."
       }
     ]
   },
@@ -10597,7 +10631,7 @@
   {
     "lemma": "Oinopes",
     "previous": "Oinope",
-    "next": "Oinoparas",
+    "next": "Οἰνοπάρας",
     "proof_read": 2,
     "short_description": "Phyle in Kyzikos",
     "chapters": [
@@ -10609,26 +10643,31 @@
     ]
   },
   {
-    "lemma": "Oinoparas",
-    "previous": "Oinopes",
+    "lemma": "Οἰνοπάρας",
+    "previous": "Oinoparalemptes",
     "next": "Oinopas",
+    "sort_key": "Oinoparas",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Orontes",
     "chapters": [
       {
         "start": 2253,
-        "author": "Honigmann"
+        "end": 2253,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Oinopas",
-    "previous": "Oinoparas",
+    "previous": "Οἰνοπάρας",
     "next": "Oinophilos 1",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2253,
-        "author": "Kroll"
+        "end": 2253,
+        "author": "Kroll."
       }
     ]
   },
@@ -10650,11 +10689,13 @@
     "lemma": "Oinophilos 2",
     "previous": "Oinophilos 1",
     "next": "Oinophyta",
+    "proof_read": 0,
     "short_description": "Sohn des Amphias I",
     "chapters": [
       {
         "start": 2257,
-        "author": "Raubitschek"
+        "end": 2257,
+        "author": "A. Raubitschek."
       }
     ]
   },
@@ -10688,11 +10729,13 @@
     "lemma": "Oinopides",
     "previous": "Oinopia",
     "next": "Oinopion 1",
+    "proof_read": 0,
     "short_description": "Astronom und Mathematiker aus Chios",
     "chapters": [
       {
         "start": 2258,
-        "author": "Fritz"
+        "end": 2272,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -10700,41 +10743,48 @@
     "lemma": "Oinopion 1",
     "previous": "Oinopides",
     "next": "Oinopion 2",
+    "proof_read": 0,
     "short_description": "König von Chios",
     "chapters": [
       {
         "start": 2272,
-        "author": "Keyßner"
+        "end": 2275,
+        "author": "Keyßner."
       }
     ]
   },
   {
     "lemma": "Oinopion 2",
     "previous": "Oinopion 1",
-    "next": "Oinoposiarches",
+    "next": "Οἰνοποσιάρχης",
+    "proof_read": 0,
     "short_description": "Satyr auf einem italischen Krater",
     "chapters": [
       {
         "start": 2275,
-        "author": "Göber"
+        "end": 2276,
+        "author": "Willi Göber."
       }
     ]
   },
   {
-    "lemma": "Oinoposiarches",
+    "lemma": "Οἰνοποσιάρχης",
     "previous": "Oinopion 2",
     "next": "Oinops 1",
+    "sort_key": "Oinoposiarches",
+    "proof_read": 0,
     "short_description": "Amt in bithynischen Vereinen",
     "chapters": [
       {
         "start": 2276,
-        "author": "Ziebarth"
+        "end": 2276,
+        "author": "Ziebarth."
       }
     ]
   },
   {
     "lemma": "Oinops 1",
-    "previous": "Oinoposiarches",
+    "previous": "Οἰνοποσιάρχης",
     "next": "Oinops 2",
     "proof_read": 2,
     "short_description": "Vater des Leiodes",
@@ -10783,7 +10833,7 @@
   {
     "lemma": "Oinops 4",
     "previous": "Oinops 3",
-    "next": "Oinoptai",
+    "next": "Οἰνόπται",
     "proof_read": 2,
     "short_description": "Vater des Helenos",
     "no_creative_height": true,
@@ -10796,20 +10846,23 @@
     ]
   },
   {
-    "lemma": "Oinoptai",
+    "lemma": "Οἰνόπται",
     "previous": "Oinops 4",
     "next": "Oinorion",
+    "sort_key": "Oinoptai",
+    "proof_read": 0,
     "short_description": "Kleine Behörde in Athen",
     "chapters": [
       {
         "start": 2276,
-        "author": "Kroll"
+        "end": 2276,
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Oinorion",
-    "previous": "Oinoptai",
+    "previous": "Οἰνόπται",
     "next": "Oinos 1",
     "redirect": "Oinopion 1",
     "proof_read": 2,
@@ -10824,11 +10877,13 @@
     "lemma": "Oinos 1",
     "previous": "Oinorion",
     "next": "Oinos 2",
+    "proof_read": 0,
     "short_description": "Bezeichnung des Dionysos",
     "chapters": [
       {
         "start": 2276,
-        "author": "Schmidt"
+        "end": 2276,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10836,11 +10891,13 @@
     "lemma": "Oinos 2",
     "previous": "Oinos 1",
     "next": "Oinos 3",
+    "proof_read": 0,
     "short_description": "Name eines Silens",
     "chapters": [
       {
         "start": 2276,
-        "author": "Schmidt"
+        "end": 2276,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10848,11 +10905,13 @@
     "lemma": "Oinos 3",
     "previous": "Oinos 2",
     "next": "Oinos 4",
+    "proof_read": 0,
     "short_description": "Personifikation auf einem Mosaik von Daphne",
     "chapters": [
       {
         "start": 2276,
-        "author": "Schmidt"
+        "end": 2276,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10860,11 +10919,13 @@
     "lemma": "Oinos 4",
     "previous": "Oinos 3",
     "next": "Oinotria",
+    "proof_read": 0,
     "short_description": "Silensname auf einer rotfig.-Schale des Oltos in München",
     "chapters": [
       {
         "start": 2276,
-        "author": "Schmidt"
+        "end": 2276,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10884,36 +10945,43 @@
   {
     "lemma": "Oinotropoi",
     "previous": "Oinotria",
-    "next": "Oinotros",
+    "next": "Οἴνωτρος",
+    "proof_read": 0,
     "short_description": "Töchter des Anios",
     "chapters": [
       {
         "start": 2276,
-        "author": "Herzog-Hauser"
+        "end": 2279,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
   {
-    "lemma": "Oinotros",
+    "lemma": "Οἴνωτρος",
     "previous": "Oinotropoi",
-    "next": "Oinus 1",
+    "next": "Oinuphis",
+    "sort_key": "Oinotros",
+    "proof_read": 0,
     "short_description": "Sohn des Lykaon",
     "chapters": [
       {
         "start": 2280,
-        "author": "Pieper"
+        "end": 2280,
+        "author": "Pieper."
       }
     ]
   },
   {
     "lemma": "Oinus 1",
-    "previous": "Oinotros",
+    "previous": "Οἴνωτρος",
     "next": "Oinus 2",
+    "proof_read": 0,
     "short_description": "Fluß in Lakonien",
     "chapters": [
       {
         "start": 2280,
-        "author": "Bölte"
+        "end": 2281,
+        "author": "Bölte."
       }
     ]
   },
@@ -10933,11 +11001,13 @@
     "lemma": "Oinussa",
     "previous": "Oinus 2",
     "next": "Oinussai 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2281,
-        "author": "Schulten"
+        "end": 2281,
+        "author": "Schulten."
       }
     ]
   },
@@ -10945,11 +11015,18 @@
     "lemma": "Oinussai 1",
     "previous": "Oinussa",
     "next": "Oinussai 2",
+    "proof_read": 0,
     "short_description": "Inseln vor der S-Spitze Messeniens",
     "chapters": [
       {
         "start": 2281,
-        "author": "Kirsten"
+        "end": 2282,
+        "author": "Kirsten."
+      },
+      {
+        "start": 2282,
+        "end": 2282,
+        "author": "F. Bölte."
       }
     ]
   },
@@ -10957,11 +11034,13 @@
     "lemma": "Oinussai 2",
     "previous": "Oinussai 1",
     "next": "Oioklos",
+    "proof_read": 0,
     "short_description": "Inselgruppe in der N-Einfahrt der Straße von Chios",
     "chapters": [
       {
         "start": 2283,
-        "author": "Schmidt"
+        "end": 2283,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10969,11 +11048,13 @@
     "lemma": "Oioklos",
     "previous": "Oinussai 2",
     "next": "Oiolyke",
+    "proof_read": 0,
     "short_description": "Sohn des Poseidon",
     "chapters": [
       {
         "start": 2283,
-        "author": "Zwicker"
+        "end": 2283,
+        "author": "Zwicker."
       }
     ]
   },
@@ -10981,35 +11062,41 @@
     "lemma": "Oiolyke",
     "previous": "Oioklos",
     "next": "Oiolykos",
+    "proof_read": 0,
     "short_description": "Amazonenkönigin",
     "chapters": [
       {
         "start": 2283,
-        "author": "Zwicker"
+        "end": 2283,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Oiolykos",
     "previous": "Oiolyke",
-    "next": "Oion 2",
+    "next": "Oion 1",
+    "proof_read": 0,
     "short_description": "Sohn des Theras",
     "chapters": [
       {
         "start": 2283,
-        "author": "Zwicker"
+        "end": 2283,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Oion 2",
-    "previous": "Oiolykos",
+    "previous": "Oion 1",
     "next": "Oion 3",
+    "proof_read": 0,
     "short_description": "Kastell oberhalb von Opus",
     "chapters": [
       {
         "start": 2283,
-        "author": "Oldfather"
+        "end": 2284,
+        "author": "Oldfather."
       }
     ]
   },
@@ -11072,11 +11159,13 @@
     "lemma": "Oionias",
     "previous": "Oioneus",
     "next": "Oionokles",
+    "proof_read": 0,
     "short_description": "Sohn des Oionochares",
     "chapters": [
       {
         "start": 2284,
-        "author": "Raubitschek"
+        "end": 2284,
+        "author": "A. Raubitschek."
       }
     ]
   },
@@ -11084,11 +11173,13 @@
     "lemma": "Oionokles",
     "previous": "Oionias",
     "next": "Oionos",
+    "proof_read": 0,
     "short_description": "Lieblingsname auf Gefäßen des 2. Viertels des 5. Jhs.",
     "chapters": [
       {
         "start": 2284,
-        "author": "Raubitschek"
+        "end": 2285,
+        "author": "A. Raubitschek."
       }
     ]
   },
@@ -11096,11 +11187,13 @@
     "lemma": "Oionos",
     "previous": "Oionokles",
     "next": "Oios, Oion",
+    "proof_read": 0,
     "short_description": "Sohn des Likymnios",
     "chapters": [
       {
         "start": 2285,
-        "author": "Zwicker"
+        "end": 2285,
+        "author": "Zwicker."
       }
     ]
   },
@@ -11123,47 +11216,56 @@
     "lemma": "Oiothor",
     "previous": "Oios, Oion",
     "next": "Oisezeia",
+    "proof_read": 0,
     "short_description": "Name des Prometheus",
     "chapters": [
       {
         "start": 2285,
-        "author": "Kolf"
+        "end": 2285,
+        "author": "Kolf."
       }
     ]
   },
   {
     "lemma": "Oisezeia",
     "previous": "Oiothor",
-    "next": "Oispois",
+    "next": "Οἰσπορίς",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2286,
-        "author": "Schmidt"
+        "end": 2286,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
-    "lemma": "Oispois",
+    "lemma": "Οἰσπορίς",
     "previous": "Oisezeia",
     "next": "Oistro",
+    "sort_key": "Oispois",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2286,
-        "author": "Windberg"
+        "end": 2286,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Oistro",
-    "previous": "Oispois",
+    "previous": "Οἰσπορίς",
     "next": "Oistrobles",
+    "proof_read": 0,
     "short_description": "Angebl. Epiklesis der Aphrodite",
     "chapters": [
       {
         "start": 2286,
-        "author": "Schmidt"
+        "end": 2286,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -11171,11 +11273,13 @@
     "lemma": "Oistrobles",
     "previous": "Oistro",
     "next": "Oistrophe",
+    "proof_read": 0,
     "short_description": "Sohn des Herakles",
     "chapters": [
       {
         "start": 2286,
-        "author": "Zwicker"
+        "end": 2286,
+        "author": "Zwicker."
       }
     ]
   },
@@ -11183,11 +11287,13 @@
     "lemma": "Oistrophe",
     "previous": "Oistrobles",
     "next": "Oistros 1",
+    "proof_read": 0,
     "short_description": "Amazone",
     "chapters": [
       {
         "start": 2286,
-        "author": "Schmidt"
+        "end": 2286,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -11195,11 +11301,13 @@
     "lemma": "Oistros 1",
     "previous": "Oistrophe",
     "next": "Oistros 2",
+    "proof_read": 0,
     "short_description": "Personifikation der Raserei",
     "chapters": [
       {
         "start": 2286,
-        "author": "Schmidt"
+        "end": 2287,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -11207,11 +11315,13 @@
     "lemma": "Oistros 2",
     "previous": "Oistros 1",
     "next": "Oistrus",
+    "proof_read": 0,
     "short_description": "Satyr",
     "chapters": [
       {
         "start": 2287,
-        "author": "Schmidt"
+        "end": 2287,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -11232,11 +11342,13 @@
     "lemma": "Oistrymnis",
     "previous": "Oistrus",
     "next": "Oisydres",
+    "proof_read": 0,
     "short_description": "Alter Name der Pyrenäenhalbinsel",
     "chapters": [
       {
         "start": 2287,
-        "author": "Schulten"
+        "end": 2288,
+        "author": "Schulten."
       }
     ]
   },
@@ -11244,11 +11356,13 @@
     "lemma": "Oisydres",
     "previous": "Oistrymnis",
     "next": "Oisyme",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2288,
-        "author": "Kroll"
+        "end": 2288,
+        "author": "Kroll."
       }
     ]
   },
@@ -11268,95 +11382,115 @@
     "lemma": "Oitaioi",
     "previous": "Oisyme",
     "next": "Oitaios daimon",
+    "proof_read": 0,
     "short_description": "Bewohner der Gebirgslandschaft an der Oite",
     "chapters": [
       {
         "start": 2289,
-        "author": "Kirsten"
+        "end": 2294,
+        "author": "Kirsten."
       }
     ]
   },
   {
     "lemma": "Oitaios daimon",
     "previous": "Oitaioi",
-    "next": "Oitaios kolpos",
+    "next": "Οἰταῖος κόλπος",
+    "sort_key": "Oitaiosdaimon",
+    "proof_read": 0,
     "short_description": "Gottheit",
     "chapters": [
       {
         "start": 2294,
-        "author": "Meyer, Herbert"
+        "end": 2294,
+        "author": "H. Meyer."
       }
     ]
   },
   {
-    "lemma": "Oitaios kolpos",
+    "lemma": "Οἰταῖος κόλπος",
     "previous": "Oitaios daimon",
     "next": "Oite 1",
+    "sort_key": "Oitaioskolpos",
+    "proof_read": 0,
     "short_description": "Vermeintlicher Name eines Meerbusens zwischen Boiotien und W-Lokris",
     "chapters": [
       {
         "start": 2294,
-        "author": "Oldfather"
+        "end": 2294,
+        "author": "Oldfather."
       }
     ]
   },
   {
     "lemma": "Oite 1",
-    "previous": "Oitaios kolpos",
+    "previous": "Οἰταῖος κόλπος",
     "next": "Oite 2",
+    "proof_read": 0,
     "short_description": "Berggruppe in Mittelgriechenland",
     "chapters": [
       {
         "start": 2294,
-        "author": "Lenk"
+        "end": 2299,
+        "author": "Lenk."
       }
     ]
   },
   {
     "lemma": "Oite 2",
     "previous": "Oite 1",
-    "next": "Oitensioi",
+    "next": "Οἰτήνσιοι",
+    "proof_read": 0,
     "short_description": "Stadt der Oitaioi",
     "chapters": [
       {
         "start": 2299,
-        "author": "Kirsten"
+        "end": 2299,
+        "author": "Kirsten."
       }
     ]
   },
   {
-    "lemma": "Oitensioi",
+    "lemma": "Οἰτήνσιοι",
     "previous": "Oite 2",
-    "next": "Oites",
+    "next": "Οἴτης",
+    "sort_key": "Oitensioi",
+    "proof_read": 0,
     "short_description": "Topisches Ethnikon der östl. Moesia inferior",
     "chapters": [
       {
         "start": 2299,
-        "author": "Polaschek"
+        "end": 2299,
+        "author": "E. Polaschek."
       }
     ]
   },
   {
-    "lemma": "Oites",
-    "previous": "Oitensioi",
+    "lemma": "Οἴτης",
+    "previous": "Οἰτήνσιοι",
     "next": "Oitinia",
+    "sort_key": "Oites",
+    "proof_read": 0,
     "short_description": "Fabelhafter Berg in Indien",
     "chapters": [
       {
         "start": 2299,
-        "author": "Stein, O[tto]"
+        "end": 2299,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Oitinia",
-    "previous": "Oites",
+    "previous": "Οἴτης",
     "next": "Oitolinos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2299,
-        "author": "Ruge"
+        "end": 2299,
+        "author": "Ruge."
       }
     ]
   },
@@ -11364,11 +11498,13 @@
     "lemma": "Oitolinos",
     "previous": "Oitinia",
     "next": "Oitoskyros",
+    "proof_read": 0,
     "short_description": "Name des Linos",
     "chapters": [
       {
         "start": 2299,
-        "author": "Maas"
+        "end": 2299,
+        "author": "Maas."
       }
     ]
   },
@@ -11376,11 +11512,13 @@
     "lemma": "Oitoskyros",
     "previous": "Oitolinos",
     "next": "Oitosyros",
+    "proof_read": 0,
     "short_description": "Epiklesis Apollons",
     "chapters": [
       {
         "start": 2299,
-        "author": "Kruse"
+        "end": 2300,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -11388,11 +11526,13 @@
     "lemma": "Oitosyros",
     "previous": "Oitoskyros",
     "next": "Oitylos",
+    "proof_read": 0,
     "short_description": "Skythische Gottheit",
     "chapters": [
       {
         "start": 2300,
-        "author": "Kazarow"
+        "end": 2301,
+        "author": "Gawril Kazarow."
       }
     ]
   },
@@ -11400,11 +11540,13 @@
     "lemma": "Oitylos",
     "previous": "Oitosyros",
     "next": "Oizenis",
+    "proof_read": 0,
     "short_description": "Stadt an der O-Küste des messenischen Golfes",
     "chapters": [
       {
         "start": 2301,
-        "author": "Bölte"
+        "end": 2302,
+        "author": "Bölte."
       }
     ]
   },
@@ -11437,11 +11579,13 @@
     "lemma": "Okalea 1",
     "previous": "Oka",
     "next": "Okalea 2",
+    "proof_read": 0,
     "short_description": "Stadt Boiotiens",
     "chapters": [
       {
         "start": 2302,
-        "author": "Mylonas"
+        "end": 2303,
+        "author": "G. Mylonas und E. Kirsten."
       }
     ]
   },
@@ -11449,11 +11593,13 @@
     "lemma": "Okalea 2",
     "previous": "Okalea 1",
     "next": "Okeaniden",
+    "proof_read": 0,
     "short_description": "Korrektur für Agallia",
     "chapters": [
       {
         "start": 2302,
-        "author": "Kirsten"
+        "end": 2302,
+        "author": "Kirsten."
       }
     ]
   },
@@ -11461,11 +11607,13 @@
     "lemma": "Okeaniden",
     "previous": "Okalea 2",
     "next": "Okeanos 1",
+    "proof_read": 0,
     "short_description": "Töchter des Okeanos",
     "chapters": [
       {
         "start": 2302,
-        "author": "Herter"
+        "end": 2308,
+        "author": "H. Herter."
       }
     ]
   },
@@ -11473,11 +11621,13 @@
     "lemma": "Okeanos 1",
     "previous": "Okeaniden",
     "next": "Okeanos 2",
+    "proof_read": 0,
     "short_description": "Personifikation des die Erde umgebenden Meeres",
     "chapters": [
       {
         "start": 2308,
-        "author": "Herter"
+        "end": 2361,
+        "author": "H. Herter."
       }
     ]
   },
@@ -11511,11 +11661,13 @@
     "lemma": "Okellas",
     "previous": "Okelis",
     "next": "Okellos",
+    "proof_read": 0,
     "short_description": "Gefährte des Antenor",
     "chapters": [
       {
         "start": 2361,
-        "author": "Kolf"
+        "end": 2361,
+        "author": "Kolf."
       }
     ]
   },
@@ -11523,11 +11675,13 @@
     "lemma": "Okellos",
     "previous": "Okellas",
     "next": "Okgos",
+    "proof_read": 0,
     "short_description": "Pythagoreer aus Lukanien",
     "chapters": [
       {
         "start": 2361,
-        "author": "Beutler"
+        "end": 2380,
+        "author": "Rudolf Beutler."
       }
     ]
   },
@@ -11608,25 +11762,29 @@
   },
   {
     "lemma": "Oklan",
-    "previous": "Okkolenos",
+    "previous": "Okla(i)?",
     "next": "Oklasos",
+    "proof_read": 0,
     "short_description": "s. Thela",
     "chapters": [
       {
         "start": 2383,
-        "author": "Enßlin"
+        "end": 2383,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Oklasos",
     "previous": "Oklan",
-    "next": "Okl(i",
+    "next": "Oknos",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2383,
-        "author": "Drexler"
+        "end": 2383,
+        "author": "H. Drexler."
       }
     ]
   },
@@ -11721,11 +11879,13 @@
     "lemma": "Okridion",
     "previous": "Okra",
     "next": "Okrinon",
+    "proof_read": 2,
     "short_description": "Heros auf Rhodos",
     "chapters": [
       {
         "start": 2386,
-        "author": "Kroll"
+        "end": 2386,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -11797,11 +11957,15 @@
     "lemma": "Oktamasades",
     "previous": "Oktaeteris",
     "next": "Oktapolis",
+    "proof_read": 2,
     "short_description": "Skythenkönig",
+    "wp_link": "w:en:Octamasadas",
+    "wd_link": "d:Q253628",
     "chapters": [
       {
         "start": 2392,
-        "author": "Diehl, Erich"
+        "end": 2393,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -12419,7 +12583,7 @@
     "lemma": "Olea 1",
     "previous": "Olcinium",
     "next": "Olea 2",
-    "redirect": "Oelbaum",
+    "redirect": "Ölbaum",
     "proof_read": 2,
     "chapters": [
       {
