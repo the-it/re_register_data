@@ -3655,12 +3655,13 @@
     "previous": "Nyx",
     "next": "Oaditai",
     "proof_read": 0,
-    "short_description": "Attischer Demos",
+    "short_description": "attischer Demos",
+    "wp_link": "w:de:Oa (Demos)",
     "chapters": [
       {
         "start": 1673,
         "end": 1673,
-        "author": "Wrede."
+        "author": "W. Wrede."
       }
     ]
   },
@@ -4997,8 +4998,9 @@
     "lemma": "Ocelum 2–4",
     "previous": "Ocelum 1",
     "next": "Ocelum 2",
+    "redirect": true,
     "proof_read": 2,
-    "short_description": "zu Artikeln",
+    "short_description": "spanische Städte",
     "no_creative_height": true,
     "chapters": [
       {
@@ -8219,7 +8221,7 @@
     "lemma": "Oesporis",
     "previous": "Oescus",
     "next": "Oestrymnides",
-    "redirect": "Oispois",
+    "redirect": "Οἰσπορίς",
     "proof_read": 2,
     "chapters": [
       {
@@ -10210,7 +10212,7 @@
     "lemma": "Oinobaras",
     "previous": "Oinoatis",
     "next": "Oinobios",
-    "redirect": "Oinoparas",
+    "redirect": "Οἰνοπάρας",
     "proof_read": 2,
     "chapters": [
       {
@@ -10644,7 +10646,7 @@
   },
   {
     "lemma": "Οἰνοπάρας",
-    "previous": "Oinoparalemptes",
+    "previous": "Oinopes",
     "next": "Oinopas",
     "sort_key": "Oinoparas",
     "proof_read": 0,
@@ -10973,7 +10975,7 @@
   },
   {
     "lemma": "Oinus 1",
-    "previous": "Οἴνωτρος",
+    "previous": "Oinuphis",
     "next": "Oinus 2",
     "proof_read": 0,
     "short_description": "Fluß in Lakonien",
@@ -11567,11 +11569,13 @@
     "lemma": "Oka",
     "previous": "Oizenis",
     "next": "Okalea 1",
+    "proof_read": 0,
     "short_description": "Ort in NW-Mysien",
     "chapters": [
       {
         "start": 2302,
-        "author": "Ruge"
+        "end": 2302,
+        "author": "Ruge."
       }
     ]
   },
@@ -11688,7 +11692,7 @@
   {
     "lemma": "Okgos",
     "previous": "Okellos",
-    "next": "Okile",
+    "next": "Ὀκίλη",
     "redirect": "Okos (-on?",
     "proof_read": 2,
     "chapters": [
@@ -11699,26 +11703,32 @@
     ]
   },
   {
-    "lemma": "Okile",
+    "lemma": "Ὀκίλη",
     "previous": "Okgos",
     "next": "Okimon",
-    "short_description": "Ort",
+    "sort_key": "Okile",
+    "proof_read": 0,
+    "short_description": "Okile, Stadt in Mauretania",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2380,
-        "author": "Schulten"
+        "end": 2380,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Okimon",
-    "previous": "Okile",
+    "previous": "Ὀκίλη",
     "next": "Okinaros",
+    "proof_read": 0,
     "short_description": "Basilikum",
     "chapters": [
       {
         "start": 2380,
-        "author": "Steier"
+        "end": 2383,
+        "author": "Steier."
       }
     ]
   },
@@ -11727,7 +11737,7 @@
     "previous": "Okimon",
     "next": "Okkaraba",
     "redirect": "Ocinarus",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2383,
@@ -11740,7 +11750,7 @@
     "previous": "Okinaros",
     "next": "Okkolenos",
     "redirect": "Occaraba",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2383,
@@ -11752,11 +11762,14 @@
     "lemma": "Okkolenos",
     "previous": "Okkaraba",
     "next": "Oklan",
+    "proof_read": 2,
     "short_description": "Beiname des Zeus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2383,
-        "author": "Kazarow"
+        "end": 2383,
+        "author": "Gawril Kazarow."
       }
     ]
   },
@@ -11764,8 +11777,9 @@
     "lemma": "Oklan",
     "previous": "Okla(i)?",
     "next": "Oklasos",
-    "proof_read": 0,
+    "proof_read": 3,
     "short_description": "s. Thela",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2383,
@@ -11778,8 +11792,11 @@
     "lemma": "Oklasos",
     "previous": "Oklan",
     "next": "Oknos",
-    "proof_read": 0,
-    "short_description": "Person",
+    "proof_read": 3,
+    "short_description": "Enkel des Sparten Echion",
+    "wp_link": "w:it:Oclaso",
+    "wd_link": "d:Q48808671",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2383,
@@ -11802,13 +11819,15 @@
   },
   {
     "lemma": "Oknos",
-    "previous": "Okl(i",
+    "previous": "Oklasos",
     "next": "Okoklia",
+    "proof_read": 0,
     "short_description": "Gestalt der griechischen Unterwelt",
     "chapters": [
       {
         "start": 2383,
-        "author": "Schmidt"
+        "end": 2385,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -11816,11 +11835,13 @@
     "lemma": "Okoklia",
     "previous": "Oknos",
     "next": "Okolon",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygien",
     "chapters": [
       {
         "start": 2385,
-        "author": "Ruge"
+        "end": 2385,
+        "author": "Ruge."
       }
     ]
   },
@@ -11828,18 +11849,25 @@
     "lemma": "Okolon",
     "previous": "Okoklia",
     "next": "Okonenos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2385,
-        "author": "Herbst"
+        "end": 2385,
+        "author": "Rudolf Herbst."
+      },
+      {
+        "start": 2385,
+        "end": 2386,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
     "lemma": "Okonenos",
     "previous": "Okolon",
-    "next": "Okos (-on?",
+    "next": "Okos (-on?)",
     "proof_read": 2,
     "short_description": "Beiname des Zeus",
     "no_creative_height": true,
@@ -11852,26 +11880,31 @@
     ]
   },
   {
-    "lemma": "Okos (-on?",
+    "lemma": "Okos (-on?)",
     "previous": "Okonenos",
     "next": "Okra",
+    "sort_key": "Okos(-on?",
+    "proof_read": 0,
     "short_description": "Gemeinde bei Philomelion",
     "chapters": [
       {
         "start": 2386,
-        "author": "Ruge"
+        "end": 2386,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Okra",
-    "previous": "Okos (-on?",
+    "previous": "Okos (-on?)",
     "next": "Okridion",
+    "proof_read": 0,
     "short_description": "Gottheit",
     "chapters": [
       {
         "start": 2386,
-        "author": "Drexler"
+        "end": 2386,
+        "author": "H. Drexler."
       }
     ]
   },
@@ -11879,7 +11912,7 @@
     "lemma": "Okridion",
     "previous": "Okra",
     "next": "Okrinon",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Heros auf Rhodos",
     "chapters": [
       {
@@ -11894,7 +11927,7 @@
     "previous": "Okridion",
     "next": "Ὀκταβία Ἀπολλωνία",
     "redirect": "Ocrion",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2386,
@@ -11905,9 +11938,9 @@
   {
     "lemma": "Ὀκταβία Ἀπολλωνία",
     "previous": "Okrinon",
-    "next": "Oktabios",
+    "next": "Ὀκτάβιος",
     "sort_key": "Oktabiaapollonia",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Phyle von Nysa",
     "chapters": [
       {
@@ -11918,26 +11951,31 @@
     ]
   },
   {
-    "lemma": "Oktabios",
+    "lemma": "Ὀκτάβιος",
     "previous": "Ὀκταβία Ἀπολλωνία",
     "next": "Oktadrachmon",
+    "sort_key": "Oktabios",
+    "proof_read": 0,
     "short_description": "Monatsname des hellenistischen älteren Kalenders auf Kypros",
     "chapters": [
       {
         "start": 2386,
-        "author": "Sontheimer"
+        "end": 2387,
+        "author": "Sontheimer."
       }
     ]
   },
   {
     "lemma": "Oktadrachmon",
-    "previous": "Oktabios",
+    "previous": "Ὀκτάβιος",
     "next": "Oktaeteris",
+    "proof_read": 0,
     "short_description": "Achtdrachmenstück",
     "chapters": [
       {
         "start": 2387,
-        "author": "Schwabacher"
+        "end": 2387,
+        "author": "Schwabacher."
       }
     ]
   },
@@ -11945,18 +11983,20 @@
     "lemma": "Oktaeteris",
     "previous": "Oktadrachmon",
     "next": "Oktamasades",
+    "proof_read": 0,
     "short_description": "Ältester griechischer Schaltzyklus von 8 Jahren",
     "chapters": [
       {
         "start": 2387,
-        "author": "Nilsson"
+        "end": 2392,
+        "author": "Nilsson."
       }
     ]
   },
   {
     "lemma": "Oktamasades",
     "previous": "Oktaeteris",
-    "next": "Oktapolis",
+    "next": "Ὀκτάπολις",
     "proof_read": 2,
     "short_description": "Skythenkönig",
     "wp_link": "w:en:Octamasadas",
@@ -11970,44 +12010,52 @@
     ]
   },
   {
-    "lemma": "Oktapolis",
+    "lemma": "Ὀκτάπολις",
     "previous": "Oktamasades",
     "next": "Oktobol",
+    "sort_key": "Oktapolis",
+    "proof_read": 0,
     "short_description": "Stadt an der W-Grenze Lykiens",
     "chapters": [
       {
         "start": 2393,
-        "author": "Ruge"
+        "end": 2393,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Oktobol",
-    "previous": "Oktapolis",
-    "next": "Oktobrios",
+    "previous": "Ὀκτάπολις",
+    "next": "Ὀκτώβριος",
+    "proof_read": 0,
     "short_description": "Griechisches Münznominal",
     "chapters": [
       {
         "start": 2393,
-        "author": "Schwabacher"
+        "end": 2393,
+        "author": "Schwabacher."
       }
     ]
   },
   {
-    "lemma": "Oktobrios",
+    "lemma": "Ὀκτώβριος",
     "previous": "Oktobol",
     "next": "Oktolophon",
+    "sort_key": "Oktobrios",
+    "proof_read": 0,
     "short_description": "Monatsname in Kleinasien",
     "chapters": [
       {
         "start": 2393,
-        "author": "Sontheimer"
+        "end": 2394,
+        "author": "Sontheimer."
       }
     ]
   },
   {
     "lemma": "Oktolophon",
-    "previous": "Oktobrios",
+    "previous": "Ὀκτώβριος",
     "next": "Okyale",
     "redirect": "Otolobos",
     "proof_read": 2,
@@ -12022,11 +12070,13 @@
     "lemma": "Okyale",
     "previous": "Oktolophon",
     "next": "Okyalos",
+    "proof_read": 0,
     "short_description": "Amazone",
     "chapters": [
       {
         "start": 2394,
-        "author": "Kolf"
+        "end": 2394,
+        "author": "M. C. van der Kolf."
       }
     ]
   },
@@ -12034,11 +12084,14 @@
     "lemma": "Okyalos",
     "previous": "Okyale",
     "next": "Okylocheia 1",
+    "proof_read": 0,
     "short_description": "Orts- und Personenname auf Thera",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2394,
-        "author": "Schmidt"
+        "end": 2394,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12046,11 +12099,14 @@
     "lemma": "Okylocheia 1",
     "previous": "Okyalos",
     "next": "Okylocheia 2",
+    "proof_read": 0,
     "short_description": "Bezeichnung der Artemis als Geburtshelferin",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2394,
-        "author": "Schmidt"
+        "end": 2394,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12058,11 +12114,14 @@
     "lemma": "Okylocheia 2",
     "previous": "Okylocheia 1",
     "next": "Okylocheia 3",
+    "proof_read": 0,
     "short_description": "Bezeichnung der Eileithyia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2394,
-        "author": "Schmidt"
+        "end": 2394,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12070,11 +12129,14 @@
     "lemma": "Okylocheia 3",
     "previous": "Okylocheia 2",
     "next": "Okypete 1",
+    "proof_read": 0,
     "short_description": "Bezeichnung der Physis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2394,
-        "author": "Schmidt"
+        "end": 2394,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12082,11 +12144,13 @@
     "lemma": "Okypete 1",
     "previous": "Okylocheia 3",
     "next": "Okypete 2",
+    "proof_read": 0,
     "short_description": "Danaide",
     "chapters": [
       {
         "start": 2394,
-        "author": "Kolf"
+        "end": 2394,
+        "author": "M. C. van der Kolf."
       }
     ]
   },
@@ -12094,11 +12158,13 @@
     "lemma": "Okypete 2",
     "previous": "Okypete 1",
     "next": "Okypode",
+    "proof_read": 0,
     "short_description": "Harpyie",
     "chapters": [
       {
         "start": 2394,
-        "author": "Kolf"
+        "end": 2394,
+        "author": "Kolf."
       }
     ]
   },
@@ -12119,11 +12185,13 @@
     "lemma": "Okyrrhoë 1",
     "previous": "Okypode",
     "next": "Okyrrhoë 2",
+    "proof_read": 0,
     "short_description": "Tochter des Okeanos",
     "chapters": [
       {
         "start": 2394,
-        "author": "Kolf"
+        "end": 2394,
+        "author": "Kolf."
       }
     ]
   },
@@ -12131,11 +12199,13 @@
     "lemma": "Okyrrhoë 2",
     "previous": "Okyrrhoë 1",
     "next": "Okyrrhoë 3",
+    "proof_read": 0,
     "short_description": "Samische Nymphe",
     "chapters": [
       {
         "start": 2394,
-        "author": "Kolf"
+        "end": 2395,
+        "author": "Kolf."
       }
     ]
   },
@@ -12143,11 +12213,14 @@
     "lemma": "Okyrrhoë 3",
     "previous": "Okyrrhoë 2",
     "next": "Okyrrhoë 4",
-    "short_description": "Gattin des Mainalos",
+    "proof_read": 2,
+    "short_description": "Nymphe, Frau des Mainalos, Mutter des Hippomedon",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2395,
-        "author": "Kolf"
+        "end": 2395,
+        "author": "M. C. van der Kolf."
       }
     ]
   },
@@ -12155,11 +12228,13 @@
     "lemma": "Okyrrhoë 4",
     "previous": "Okyrrhoë 3",
     "next": "Okyrrhoë 5",
-    "short_description": "Tochter des Cheiron",
+    "proof_read": 0,
+    "short_description": "Tochter des Cheiron und der Chariklo, Weissagerin",
     "chapters": [
       {
         "start": 2395,
-        "author": "Kolf"
+        "end": 2395,
+        "author": "M. C. van der Kolf."
       }
     ]
   },
@@ -12167,11 +12242,13 @@
     "lemma": "Okyrrhoë 5",
     "previous": "Okyrrhoë 4",
     "next": "Okythoe",
+    "proof_read": 0,
     "short_description": "Mysische Nymphe",
     "chapters": [
       {
         "start": 2395,
-        "author": "Kolf"
+        "end": 2395,
+        "author": "Kolf."
       }
     ]
   },
@@ -12192,11 +12269,13 @@
     "lemma": "Olabi",
     "previous": "Okythoe",
     "next": "Ὁλαβούς",
+    "proof_read": 0,
     "short_description": "Völkerschaft in Aithiopien",
     "chapters": [
       {
         "start": 2395,
-        "author": "Windberg"
+        "end": 2395,
+        "author": "Windberg."
       }
     ]
   },
@@ -12219,47 +12298,56 @@
     "lemma": "Olachas",
     "previous": "Ὁλαβούς",
     "next": "Olana",
+    "proof_read": 0,
     "short_description": "Falsch überlieferter Name eines bithynischen Flußes",
     "chapters": [
       {
         "start": 2395,
-        "author": "Ruge"
+        "end": 2395,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Olana",
     "previous": "Olachas",
-    "next": "Olane",
+    "next": "Ὀλάνη",
+    "proof_read": 0,
     "short_description": "Mündungsarm des Po",
     "chapters": [
       {
         "start": 2395,
-        "author": "Philipp"
+        "end": 2396,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Olane",
+    "lemma": "Ὀλάνη",
     "previous": "Olana",
     "next": "Olaphia",
+    "sort_key": "Olane",
+    "proof_read": 0,
     "short_description": "Kastell und Schatzkammer von Tigranes und Artavasdes",
     "chapters": [
       {
         "start": 2396,
-        "author": "Sturm"
+        "end": 2396,
+        "author": "J. Sturm."
       }
     ]
   },
   {
     "lemma": "Olaphia",
-    "previous": "Olane",
+    "previous": "Ὀλάνη",
     "next": "Olarion",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2396,
-        "author": "Grohmann"
+        "end": 2396,
+        "author": "Grohmann."
       }
     ]
   },
@@ -12267,11 +12355,13 @@
     "lemma": "Olarion",
     "previous": "Olaphia",
     "next": "Olarso",
+    "proof_read": 0,
     "short_description": "Gallorömischer Name der Insel Oléron",
     "chapters": [
       {
         "start": 2396,
-        "author": "Goessler"
+        "end": 2397,
+        "author": "Goessler."
       }
     ]
   },
@@ -12292,11 +12382,13 @@
     "lemma": "Olatoni",
     "previous": "Olarso",
     "next": "Olaura",
+    "proof_read": 0,
     "short_description": "Gallorömische Göttermehrheit? auf einer Inschr. aus Nemausus",
     "chapters": [
       {
         "start": 2397,
-        "author": "Heichelheim"
+        "end": 2397,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -12304,11 +12396,13 @@
     "lemma": "Olaura",
     "previous": "Olatoni",
     "next": "Olba 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2397,
-        "author": "Schulten"
+        "end": 2397,
+        "author": "Schulten."
       }
     ]
   },
@@ -12316,11 +12410,13 @@
     "lemma": "Olba 1",
     "previous": "Olaura",
     "next": "Olba 2",
+    "proof_read": 0,
     "short_description": "Ort an der Mündung des Baetis",
     "chapters": [
       {
         "start": 2397,
-        "author": "Schulten"
+        "end": 2397,
+        "author": "Schulten."
       }
     ]
   },
@@ -12341,11 +12437,13 @@
     "lemma": "Olbasa",
     "previous": "Olba 2",
     "next": "Olbe, Olba",
+    "proof_read": 0,
     "short_description": "Stadt in Pisidien oder Pamphylien",
     "chapters": [
       {
         "start": 2397,
-        "author": "Ruge"
+        "end": 2399,
+        "author": "Ruge."
       }
     ]
   },
@@ -12353,11 +12451,14 @@
     "lemma": "Olbe, Olba",
     "previous": "Olbasa",
     "next": "Olbelos",
+    "sort_key": "Olbe,olba",
+    "proof_read": 0,
     "short_description": "Stadt im rauhen Kilikien",
     "chapters": [
       {
-        "start": 2398,
-        "author": "Ruge"
+        "start": 2399,
+        "end": 2403,
+        "author": "Ruge."
       }
     ]
   },
@@ -12365,11 +12466,13 @@
     "lemma": "Olbelos",
     "previous": "Olbe, Olba",
     "next": "Olbia 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2403,
-        "author": "Oberhummer"
+        "end": 2403,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -12377,11 +12480,13 @@
     "lemma": "Olbia 1",
     "previous": "Olbelos",
     "next": "Olbia 2",
+    "proof_read": 0,
     "short_description": "Stadt in Bithynien",
     "chapters": [
       {
         "start": 2403,
-        "author": "Ruge"
+        "end": 2404,
+        "author": "Ruge."
       }
     ]
   },
@@ -12389,11 +12494,13 @@
     "lemma": "Olbia 2",
     "previous": "Olbia 1",
     "next": "Olbia 3",
+    "proof_read": 0,
     "short_description": "Stadt in Lykien",
     "chapters": [
       {
         "start": 2404,
-        "author": "Ruge"
+        "end": 2405,
+        "author": "Ruge."
       }
     ]
   },
@@ -12401,11 +12508,13 @@
     "lemma": "Olbia 3",
     "previous": "Olbia 2",
     "next": "Olbia 4",
+    "proof_read": 0,
     "short_description": "Stadt am Hellespont",
     "chapters": [
       {
         "start": 2405,
-        "author": "Ruge"
+        "end": 2405,
+        "author": "Ruge."
       }
     ]
   },
@@ -12413,11 +12522,13 @@
     "lemma": "Olbia 4",
     "previous": "Olbia 3",
     "next": "Olbia 5",
+    "proof_read": 0,
     "short_description": "Stadt am Hypanis bei der Mündung des Borysthenes",
     "chapters": [
       {
         "start": 2405,
-        "author": "Diehl, Erich"
+        "end": 2423,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -12425,11 +12536,13 @@
     "lemma": "Olbia 5",
     "previous": "Olbia 4",
     "next": "Olbia 6",
+    "proof_read": 0,
     "short_description": "Stadt an der NO-Küste Sardiniens",
     "chapters": [
       {
         "start": 2423,
-        "author": "Hanslik"
+        "end": 2424,
+        "author": "Hanslik."
       }
     ]
   },
@@ -12437,11 +12550,13 @@
     "lemma": "Olbia 6",
     "previous": "Olbia 5",
     "next": "Olbia 7",
+    "proof_read": 0,
     "short_description": "Stadt in Spanien",
     "chapters": [
       {
         "start": 2424,
-        "author": "Schulten"
+        "end": 2424,
+        "author": "Schulten."
       }
     ]
   },
@@ -12449,11 +12564,13 @@
     "lemma": "Olbia 7",
     "previous": "Olbia 6",
     "next": "Olbia 8",
+    "proof_read": 0,
     "short_description": "Kolonie von Massalia am Sius Gallicus",
     "chapters": [
       {
         "start": 2424,
-        "author": "Goessler"
+        "end": 2429,
+        "author": "Goessler."
       }
     ]
   },
@@ -12461,11 +12578,13 @@
     "lemma": "Olbia 8",
     "previous": "Olbia 7",
     "next": "Olbiades",
+    "proof_read": 0,
     "short_description": "Name für die Alpen",
     "chapters": [
       {
         "start": 2429,
-        "author": "Philipp"
+        "end": 2429,
+        "author": "Philipp."
       }
     ]
   },
@@ -12473,11 +12592,13 @@
     "lemma": "Olbiades",
     "previous": "Olbia 8",
     "next": "Olbiopolis",
+    "proof_read": 2,
     "short_description": "Maler",
     "chapters": [
       {
         "start": 2429,
-        "author": "Lippold"
+        "end": 2429,
+        "author": "G. Lippold."
       }
     ]
   },
@@ -12498,11 +12619,13 @@
     "lemma": "Olbios 1",
     "previous": "Olbiopolis",
     "next": "Olbios 2",
+    "proof_read": 0,
     "short_description": "Beiname des Zeus",
     "chapters": [
       {
         "start": 2429,
-        "author": "Schmidt"
+        "end": 2430,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12510,41 +12633,49 @@
     "lemma": "Olbios 2",
     "previous": "Olbios 1",
     "next": "Olbios 3",
+    "proof_read": 2,
     "short_description": "Athenischer Archon 277/76 v. Chr.",
     "chapters": [
       {
         "start": 2430,
-        "author": "Kirchner"
+        "end": 2430,
+        "author": "Johannes Kirchner."
       }
     ]
   },
   {
     "lemma": "Olbios 3",
     "previous": "Olbios 2",
-    "next": "Olbius Auxentius Draucus, Flavius",
+    "next": "Olbius",
+    "proof_read": 0,
     "short_description": "Fluß in Arkadien Phoniatiko",
     "chapters": [
       {
         "start": 2430,
-        "author": "Meyer, Ernst"
+        "end": 2430,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
-    "lemma": "Olbius Auxentius Draucus, Flavius",
+    "lemma": "Olbius",
     "previous": "Olbios 3",
     "next": "Olbonenses",
-    "short_description": "Person",
+    "sort_key": "Olbius Auxentius Draucus, Flavius",
+    "proof_read": 2,
+    "short_description": "Praef. urbis Romae 441 und 445 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2430,
-        "author": "Enßlin"
+        "end": 2430,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Olbonenses",
-    "previous": "Olbius Auxentius Draucus, Flavius",
+    "previous": "Olbius",
     "next": "Olbysioi",
     "short_description": "Ort",
     "chapters": [
@@ -12632,11 +12763,14 @@
     "lemma": "Oledius Naso",
     "previous": "Oleastrum 2",
     "next": "Oleiai",
+    "sort_key": "Olediusnaso",
+    "proof_read": 2,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2432,
-        "author": "Kroll"
+        "end": 2432,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -12668,11 +12802,13 @@
     "lemma": "Olen",
     "previous": "Oleiclavis",
     "next": "Olenacum",
+    "proof_read": 0,
     "short_description": "Hymnendichter aus Lykien",
     "chapters": [
       {
         "start": 2432,
-        "author": "Maas"
+        "end": 2433,
+        "author": "Paul Maas."
       }
     ]
   },
@@ -12716,11 +12852,13 @@
     "lemma": "Olenios 1",
     "previous": "Olenie Petre",
     "next": "Olenios 2",
+    "proof_read": 0,
     "short_description": "Autochthon in Elis",
     "chapters": [
       {
         "start": 2434,
-        "author": "Keyßner"
+        "end": 2435,
+        "author": "Karl Keyßner."
       }
     ]
   },
@@ -12743,11 +12881,13 @@
     "lemma": "Olennius",
     "previous": "Olenios 2",
     "next": "Olenos 1",
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "''praefectus civitatis'' der Friesen",
     "chapters": [
       {
         "start": 2435,
-        "author": "Stein, [Arthur]"
+        "end": 2435,
+        "author": "Stein."
       }
     ]
   },
@@ -12755,11 +12895,13 @@
     "lemma": "Olenos 1",
     "previous": "Olennius",
     "next": "Olenos 2",
+    "proof_read": 0,
     "short_description": "Eponym der Stadt Olenosin Achaia Nr. 4",
     "chapters": [
       {
         "start": 2435,
-        "author": "Keyßner"
+        "end": 2435,
+        "author": "Karl Keyßner."
       }
     ]
   },
@@ -12767,11 +12909,13 @@
     "lemma": "Olenos 2",
     "previous": "Olenos 1",
     "next": "Olenos 3",
-    "short_description": "Sohn des Hephaistos",
+    "proof_read": 0,
+    "short_description": "Sohn des Hephaistos und Vater der Nymphen Aix und Helike",
     "chapters": [
       {
         "start": 2435,
-        "author": "Keyßner"
+        "end": 2435,
+        "author": "Karl Keyßner."
       }
     ]
   },
@@ -12829,7 +12973,7 @@
   {
     "lemma": "Olenos 7",
     "previous": "Olenos 6",
-    "next": "Olenus Calenus",
+    "next": "Olenus",
     "proof_read": 2,
     "short_description": "Ort in Galatien",
     "wp_link": "w:en:Olenus (Galatia)",
@@ -12843,20 +12987,23 @@
     ]
   },
   {
-    "lemma": "Olenus Calenus",
+    "lemma": "Olenus",
     "previous": "Olenos 7",
     "next": "Oleoberda",
+    "sort_key": "Olenuscalenus",
+    "proof_read": 0,
     "short_description": "Berühmter etruskischer Seher",
     "chapters": [
       {
         "start": 2445,
-        "author": "Weinstock"
+        "end": 2451,
+        "author": "St. Weinstock."
       }
     ]
   },
   {
     "lemma": "Oleoberda",
-    "previous": "Olenus Calenus",
+    "previous": "Olenus",
     "next": "Oleria",
     "redirect": "Seleobereia",
     "proof_read": 2,
@@ -12871,11 +13018,13 @@
     "lemma": "Oleria",
     "previous": "Oleoberda",
     "next": "Olerica",
+    "proof_read": 0,
     "short_description": "Ethnikon der Athena",
     "chapters": [
       {
         "start": 2451,
-        "author": "Schmidt"
+        "end": 2451,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12907,11 +13056,13 @@
     "lemma": "Oletandros",
     "previous": "Oleros",
     "next": "Oletis",
+    "proof_read": 0,
     "short_description": "Sporadeninsel",
     "chapters": [
       {
         "start": 2453,
-        "author": "Schmidt"
+        "end": 2453,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12955,11 +13106,13 @@
     "lemma": "Oliaros",
     "previous": "Olgassys",
     "next": "Oliba",
-    "short_description": "Westl. Nachbarinsel von Paros",
+    "proof_read": 0,
+    "short_description": "westliche Nachbarinsel von Paros",
     "chapters": [
       {
         "start": 2474,
-        "author": "Schmidt"
+        "end": 2476,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -13018,11 +13171,14 @@
     "lemma": "Olienus, L.",
     "previous": "Olidnea",
     "next": "Oligaithos",
-    "short_description": "Person",
+    "sort_key": "Olienus,l.",
+    "proof_read": 2,
+    "short_description": "Magister von Kapua",
     "chapters": [
       {
         "start": 2476,
-        "author": "Münzer"
+        "end": 2476,
+        "author": "F. Münzer."
       }
     ]
   },
@@ -13133,11 +13289,13 @@
     "lemma": "Olios",
     "previous": "Olino",
     "next": "Olisbos",
-    "short_description": "Beiname Apollons",
+    "proof_read": 0,
+    "short_description": "Beiname Apollons als Heilgott in Lindos",
     "chapters": [
       {
         "start": 2480,
-        "author": "Schmidt"
+        "end": 2480,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -13209,7 +13367,7 @@
     "previous": "Olitos",
     "next": "Olius",
     "redirect": "Hercules 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2483,
@@ -13232,12 +13390,15 @@
   {
     "lemma": "Olivula Portus",
     "previous": "Olius",
-    "next": "Holkochites kolpos",
-    "short_description": "Ort",
+    "next": "Olizon",
+    "sort_key": "Olivulaportus",
+    "proof_read": 0,
+    "short_description": "Küstenort in Ligurien",
     "chapters": [
       {
         "start": 2483,
-        "author": "Banti"
+        "end": 2484,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -13256,37 +13417,58 @@
   },
   {
     "lemma": "Olizon",
-    "previous": "Holkochites kolpos",
+    "previous": "Olivula Portus",
     "next": "Olkades",
-    "short_description": "Städtchen auf der Halbinsel Magnesia",
+    "proof_read": 0,
+    "short_description": "Städtchen der Halbinsel Magnesia",
     "chapters": [
       {
         "start": 2484,
-        "author": "Lenk"
+        "end": 2484,
+        "author": "B. Lenk."
       }
     ]
   },
   {
     "lemma": "Olkades",
     "previous": "Olizon",
-    "next": "Olla",
-    "short_description": "Iberischer Stamm",
+    "next": "Ὁλκοχίτης κόλπος",
+    "proof_read": 0,
+    "short_description": "iberischer Stamm",
     "chapters": [
       {
         "start": 2484,
-        "author": "Schulten"
+        "end": 2485,
+        "author": "A. Schulten."
+      }
+    ]
+  },
+  {
+    "lemma": "Ὁλκοχίτης κόλπος",
+    "previous": "Olkades",
+    "next": "Olla",
+    "sort_key": "Holkochiteskolpos",
+    "proof_read": 0,
+    "short_description": "Meeresbucht zwischen Collops maior und Collops minor",
+    "chapters": [
+      {
+        "start": 2484,
+        "end": 2485,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Olla",
-    "previous": "Olkades",
+    "previous": "Ὁλκοχίτης κόλπος",
     "next": "Olliculani",
-    "short_description": "Topf Kochgeschirr",
+    "proof_read": 0,
+    "short_description": "Topf, Kochgeschirr",
     "chapters": [
       {
         "start": 2485,
-        "author": "Wotke"
+        "end": 2487,
+        "author": "F. Wotke."
       }
     ]
   },
@@ -13410,9 +13592,11 @@
     "lemma": "Ollovico",
     "previous": "Ollototae",
     "next": "Olludius",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 2489,
+        "end": 2489,
         "author": "F. Münzer."
       }
     ]
@@ -13480,11 +13664,13 @@
     "lemma": "Olmos",
     "previous": "Olmones",
     "next": "Olobagra",
-    "short_description": "Sohn des Sisyphos",
+    "proof_read": 0,
+    "short_description": "Sohn des Sisyphos und Enkel des Aiolos",
     "chapters": [
       {
         "start": 2492,
-        "author": "Bernert"
+        "end": 2492,
+        "author": "Ernst Bernert."
       }
     ]
   },
@@ -13593,11 +13779,15 @@
     "lemma": "Olonicus",
     "previous": "Olondai",
     "next": "Olontigi",
+    "proof_read": 2,
     "short_description": "Volksführer und Prophet der Keltiberer",
+    "wp_link": "w:en:Olyndicus",
+    "wd_link": "d:Q7089274",
     "chapters": [
       {
         "start": 2494,
-        "author": "Münzer"
+        "end": 2494,
+        "author": "F. Münzer."
       }
     ]
   },
@@ -13809,11 +13999,13 @@
     "lemma": "Olthakes",
     "previous": "Olten",
     "next": "Olthakos",
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "Fürst der Kolcher",
     "chapters": [
       {
         "start": 2503,
-        "author": "Kroll"
+        "end": 2503,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -13821,11 +14013,13 @@
     "lemma": "Olthakos",
     "previous": "Olthakes",
     "next": "Oltis",
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "Fürst der Dandarioi",
     "chapters": [
       {
         "start": 2503,
-        "author": "Kroll"
+        "end": 2503,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -13857,11 +14051,13 @@
     "lemma": "Olus 1",
     "previous": "Oluros",
     "next": "Olus 2",
+    "proof_read": 2,
     "short_description": "Blutiges Haupt vom Kapitol bei der Grundsteinlegung des Iuppitertempels",
     "chapters": [
       {
         "start": 2504,
-        "author": "Türk"
+        "end": 2504,
+        "author": "G. Türk."
       }
     ]
   },
