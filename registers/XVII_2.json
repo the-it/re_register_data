@@ -3657,6 +3657,7 @@
     "proof_read": 0,
     "short_description": "attischer Demos",
     "wp_link": "w:de:Oa (Demos)",
+    "wd_link": "d:Q13479005",
     "chapters": [
       {
         "start": 1673,
@@ -4752,7 +4753,7 @@
     "previous": "Obulcula",
     "next": "Ὀβουλήνσιοι",
     "proof_read": 2,
-    "short_description": "Göttername",
+    "short_description": "keltischer Göttername",
     "no_creative_height": true,
     "chapters": [
       {
@@ -4764,7 +4765,7 @@
   },
   {
     "lemma": "Obultronius",
-    "previous": "Obuldinos",
+    "previous": "Ὀβουλήνσιοι",
     "next": "Ocaera (?)",
     "proof_read": 2,
     "short_description": "Sabinus, quaestor aerarii 56 n. Chr.",
@@ -4867,7 +4868,7 @@
   },
   {
     "lemma": "Oceanus",
-    "previous": "Occius 3",
+    "previous": "Occupatio",
     "next": "Ocelis",
     "proof_read": 0,
     "short_description": "Theateraufseher",
@@ -5346,7 +5347,7 @@
     "lemma": "Ocila",
     "previous": "Ochthomanes",
     "next": "Ocilis",
-    "redirect": "Okile",
+    "redirect": "Ὀκίλη",
     "proof_read": 2,
     "chapters": [
       {
@@ -10774,13 +10775,13 @@
     "previous": "Oinopion 2",
     "next": "Oinops 1",
     "sort_key": "Oinoposiarches",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Amt in bithynischen Vereinen",
     "chapters": [
       {
         "start": 2276,
         "end": 2276,
-        "author": "Ziebarth."
+        "author": "E. Ziebarth."
       }
     ]
   },
@@ -11693,7 +11694,7 @@
     "lemma": "Okgos",
     "previous": "Okellos",
     "next": "Ὀκίλη",
-    "redirect": "Okos (-on?",
+    "redirect": "Okos (-on?)",
     "proof_read": 2,
     "chapters": [
       {
@@ -11775,7 +11776,7 @@
   },
   {
     "lemma": "Oklan",
-    "previous": "Okla(i)?",
+    "previous": "Okkolenos",
     "next": "Oklasos",
     "proof_read": 3,
     "short_description": "s. Thela",
@@ -12099,7 +12100,7 @@
     "lemma": "Okylocheia 1",
     "previous": "Okyalos",
     "next": "Okylocheia 2",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Bezeichnung der Artemis als Geburtshelferin",
     "no_creative_height": true,
     "chapters": [
@@ -12114,7 +12115,7 @@
     "lemma": "Okylocheia 2",
     "previous": "Okylocheia 1",
     "next": "Okylocheia 3",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Bezeichnung der Eileithyia",
     "no_creative_height": true,
     "chapters": [
@@ -12129,7 +12130,7 @@
     "lemma": "Okylocheia 3",
     "previous": "Okylocheia 2",
     "next": "Okypete 1",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Bezeichnung der Physis",
     "no_creative_height": true,
     "chapters": [
@@ -12676,30 +12677,35 @@
   {
     "lemma": "Olbonenses",
     "previous": "Olbius",
-    "next": "Olbysioi",
+    "next": "Ὀλβύσιοι",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2430,
-        "author": "Polaschek"
+        "end": 2431,
+        "author": "E. Polaschek."
       }
     ]
   },
   {
-    "lemma": "Olbysioi",
+    "lemma": "Ὀλβύσιοι",
     "previous": "Olbonenses",
     "next": "Olcinium",
+    "sort_key": "Olbysioi",
+    "proof_read": 0,
     "short_description": "Volk bei den Säulen des Herakles",
     "chapters": [
       {
         "start": 2431,
-        "author": "Schulten"
+        "end": 2431,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Olcinium",
-    "previous": "Olbysioi",
+    "previous": "Ὀλβύσιοι",
     "next": "Olea 1",
     "redirect": "Ulcinium",
     "proof_read": 2,
@@ -12726,7 +12732,7 @@
   {
     "lemma": "Olea 2",
     "previous": "Olea 1",
-    "next": "Oleastrum 1",
+    "next": "Oleastrum",
     "short_description": "Thessal. Ort",
     "chapters": [
       {
@@ -12736,31 +12742,49 @@
     ]
   },
   {
-    "lemma": "Oleastrum 1",
+    "lemma": "Oleastrum",
     "previous": "Olea 2",
+    "next": "Oleastrum 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2431,
+        "end": 2431,
+        "author": "Schulten."
+      }
+    ]
+  },
+  {
+    "lemma": "Oleastrum 1",
+    "previous": "Oleastrum",
     "next": "Oleastrum 2",
+    "proof_read": 0,
     "short_description": "Ort bei Gades",
     "chapters": [
       {
         "start": 2431,
-        "author": "Schulten"
+        "end": 2431,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Oleastrum 2",
     "previous": "Oleastrum 1",
-    "next": "Oledius Naso",
+    "next": "Oledius",
+    "proof_read": 0,
     "short_description": "Ort an der Küste zwischen Ebro und Jucar",
     "chapters": [
       {
         "start": 2431,
-        "author": "Schulten"
+        "end": 2432,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Oledius Naso",
+    "lemma": "Oledius",
     "previous": "Oleastrum 2",
     "next": "Oleiai",
     "sort_key": "Olediusnaso",
@@ -12776,13 +12800,15 @@
   },
   {
     "lemma": "Oleiai",
-    "previous": "Oledius Naso",
+    "previous": "Oledius",
     "next": "Oleiclavis",
+    "proof_read": 0,
     "short_description": "Bezeichnung der Minyaden",
     "chapters": [
       {
         "start": 2432,
-        "author": "Kolf"
+        "end": 2432,
+        "author": "Kolf."
       }
     ]
   },
@@ -12790,11 +12816,13 @@
     "lemma": "Oleiclavis",
     "previous": "Oleiai",
     "next": "Olen",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2432,
-        "author": "MacDonald"
+        "end": 2432,
+        "author": "MacDonald."
       }
     ]
   },
@@ -12815,18 +12843,34 @@
   {
     "lemma": "Olenacum",
     "previous": "Olen",
-    "next": "Olenia Aix",
+    "next": "Ὠλενία Αἴξ",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2433,
-        "author": "MacDonald"
+        "end": 2433,
+        "author": "MacDonald."
+      }
+    ]
+  },
+  {
+    "lemma": "Ὠλενία Αἴξ",
+    "previous": "Olenacum",
+    "next": "Olenias",
+    "sort_key": "Oleniaaix",
+    "proof_read": 0,
+    "short_description": "Ziege, die den Zeus nährte Sternbild",
+    "chapters": [
+      {
+        "start": 2433,
+        "end": 2433,
+        "author": "Keyßner."
       }
     ]
   },
   {
     "lemma": "Olenia Aix",
-    "previous": "Olenacum",
     "next": "Olenie Petre",
     "short_description": "Ziege, die den Zeus nährte Sternbild",
     "chapters": [
@@ -12838,13 +12882,16 @@
   },
   {
     "lemma": "Olenie Petre",
-    "previous": "Olenia Aix",
+    "previous": "Olenias",
     "next": "Olenios 1",
+    "sort_key": "Oleniepetre",
+    "proof_read": 0,
     "short_description": "Landmarke der Pylier",
     "chapters": [
       {
         "start": 2433,
-        "author": "Bölte"
+        "end": 2434,
+        "author": "Bölte."
       }
     ]
   },
@@ -12950,11 +12997,13 @@
     "lemma": "Olenos 5",
     "previous": "Olenos 4",
     "next": "Olenos 6",
+    "proof_read": 0,
     "short_description": "Stadt in Elis",
     "chapters": [
       {
         "start": 2442,
-        "author": "Bölte"
+        "end": 2443,
+        "author": "Bölte."
       }
     ]
   },
@@ -12962,11 +13011,13 @@
     "lemma": "Olenos 6",
     "previous": "Olenos 5",
     "next": "Olenos 7",
+    "proof_read": 0,
     "short_description": "Stadt in Aitolien",
     "chapters": [
       {
         "start": 2443,
-        "author": "Kirsten"
+        "end": 2445,
+        "author": "Kirsten."
       }
     ]
   },
@@ -13032,11 +13083,13 @@
     "lemma": "Olerica",
     "previous": "Oleria",
     "next": "Oleros",
+    "proof_read": 0,
     "short_description": "Verstümmelter Name einer britannischen Civitas",
     "chapters": [
       {
         "start": 2451,
-        "author": "MacDonald"
+        "end": 2451,
+        "author": "MacDonald."
       }
     ]
   },
@@ -13044,11 +13097,13 @@
     "lemma": "Oleros",
     "previous": "Olerica",
     "next": "Oletandros",
+    "proof_read": 0,
     "short_description": "Stadt auf Kreta",
     "chapters": [
       {
         "start": 2451,
-        "author": "Kirsten"
+        "end": 2453,
+        "author": "Kirsten."
       }
     ]
   },
@@ -13070,11 +13125,13 @@
     "lemma": "Oletis",
     "previous": "Oletandros",
     "next": "Oleum",
+    "proof_read": 0,
     "short_description": "Beiname der Hekate",
     "chapters": [
       {
         "start": 2453,
-        "author": "Preisendanz"
+        "end": 2454,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -13082,11 +13139,13 @@
     "lemma": "Oleum",
     "previous": "Oletis",
     "next": "Olgassys",
+    "proof_read": 0,
     "short_description": "(Oliven-)Oel",
     "chapters": [
       {
         "start": 2454,
-        "author": "Pease"
+        "end": 2474,
+        "author": "Arthur Stanley Pease."
       }
     ]
   },
@@ -13094,11 +13153,13 @@
     "lemma": "Olgassys",
     "previous": "Oleum",
     "next": "Oliaros",
+    "proof_read": 0,
     "short_description": "Gebirge südl. des Amnias",
     "chapters": [
       {
         "start": 2474,
-        "author": "Ruge"
+        "end": 2474,
+        "author": "Ruge."
       }
     ]
   },
@@ -13119,17 +13180,19 @@
   {
     "lemma": "Oliba",
     "previous": "Oliaros",
-    "next": "Olibera",
+    "next": "Ὀλιβέρα",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2476,
-        "author": "Schulten"
+        "end": 2476,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Olibera",
+    "lemma": "Ὀλιβέρα",
     "previous": "Oliba",
     "next": "Olicana",
     "sort_key": "Olibera",
@@ -13145,30 +13208,34 @@
   },
   {
     "lemma": "Olicana",
-    "previous": "Olibera",
+    "previous": "Ὀλιβέρα",
     "next": "Olidnea",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2476,
-        "author": "MacDonald"
+        "end": 2476,
+        "author": "MacDonald."
       }
     ]
   },
   {
     "lemma": "Olidnea",
     "previous": "Olicana",
-    "next": "Olienus, L.",
+    "next": "Olienus",
+    "proof_read": 0,
     "short_description": "Phyle von Kalchedon",
     "chapters": [
       {
         "start": 2476,
-        "author": "Ruge"
+        "end": 2476,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Olienus, L.",
+    "lemma": "Olienus",
     "previous": "Olidnea",
     "next": "Oligaithos",
     "sort_key": "Olienus,l.",
@@ -13184,7 +13251,7 @@
   },
   {
     "lemma": "Oligaithos",
-    "previous": "Olienus, L.",
+    "previous": "Olienus",
     "next": "Oligas",
     "proof_read": 2,
     "short_description": "Person",
@@ -13214,42 +13281,49 @@
     "lemma": "Oligyrtos",
     "previous": "Oligas",
     "next": "Olimacum",
+    "proof_read": 0,
     "short_description": "Gebirge und Pass östl. von Kaphyai",
     "chapters": [
       {
         "start": 2477,
-        "author": "Meyer, Ernst"
+        "end": 2479,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Olimacum",
     "previous": "Oligyrtos",
-    "next": "Oliman(a)reus",
+    "next": "Ὀλιμαν(α)ρεύς",
+    "proof_read": 0,
     "short_description": "Ort in Pannonia superior",
     "chapters": [
       {
         "start": 2479,
-        "author": "Polaschek"
+        "end": 2479,
+        "author": "E. Polaschek."
       }
     ]
   },
   {
-    "lemma": "Oliman(a)reus",
+    "lemma": "Ὀλιμαν(α)ρεύς",
     "previous": "Olimacum",
     "next": "Olina",
-    "short_description": "Ethnikon im pisidisch-phrygischen Grenzgebiet",
+    "sort_key": "Oliman(a)reus",
+    "proof_read": 0,
+    "short_description": "Oliman(a)reus, Ethnikon im pisidisch-phrygischen Grenzgebiet",
     "chapters": [
       {
         "start": 2479,
-        "author": "Ruge"
+        "end": 2479,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Olina",
-    "previous": "Oliman(a)reus",
-    "next": "Olina(s",
+    "previous": "Ὀλιμαν(α)ρεύς",
+    "next": "Olina(s)",
     "proof_read": 2,
     "short_description": "Ort",
     "no_creative_height": true,
@@ -13262,26 +13336,31 @@
     ]
   },
   {
-    "lemma": "Olina(s",
+    "lemma": "Olina(s)",
     "previous": "Olina",
     "next": "Olino",
+    "sort_key": "Olina(s",
+    "proof_read": 0,
     "short_description": "Fluß in Gallia Lugdunensis",
     "chapters": [
       {
         "start": 2479,
-        "author": "Goessler"
+        "end": 2480,
+        "author": "Goessler."
       }
     ]
   },
   {
     "lemma": "Olino",
-    "previous": "Olina(s",
+    "previous": "Olina(s)",
     "next": "Olios",
+    "proof_read": 0,
     "short_description": "Kastellort in der provincia Sequanici",
     "chapters": [
       {
         "start": 2480,
-        "author": "Goessler"
+        "end": 2480,
+        "author": "Goessler."
       }
     ]
   },
@@ -13303,41 +13382,48 @@
     "lemma": "Olisbos",
     "previous": "Olios",
     "next": "Olisippo",
+    "proof_read": 0,
     "short_description": "Künstlicher Penis aus Leder",
     "chapters": [
       {
         "start": 2480,
-        "author": "Körte"
+        "end": 2482,
+        "author": "Körte."
       }
     ]
   },
   {
     "lemma": "Olisippo",
     "previous": "Olisbos",
-    "next": "Olist",
+    "next": "Olist(...)",
+    "proof_read": 0,
     "short_description": "Iberische Stadt Lissabon",
     "chapters": [
       {
         "start": 2482,
-        "author": "Schulten"
+        "end": 2482,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Olist",
+    "lemma": "Olist(...)",
     "previous": "Olisippo",
     "next": "Olistene",
+    "sort_key": "Olist",
+    "proof_read": 0,
     "short_description": "Beiname der Matres",
     "chapters": [
       {
         "start": 2482,
-        "author": "Heichelheim"
+        "end": 2483,
+        "author": "Heichelheim."
       }
     ]
   },
   {
     "lemma": "Olistene",
-    "previous": "Olist",
+    "previous": "Olist(...)",
     "next": "Olitos",
     "proof_read": 2,
     "short_description": "Tochter des Ianus",
@@ -13354,11 +13440,13 @@
     "lemma": "Olitos",
     "previous": "Olistene",
     "next": "Olivarius",
+    "proof_read": 0,
     "short_description": "Beiwort des Nereus bei Hesych. und Phavorinus s. Nereus",
     "chapters": [
       {
         "start": 2483,
-        "author": "Krischan"
+        "end": 2483,
+        "author": "Krischan."
       }
     ]
   },
@@ -13379,11 +13467,13 @@
     "lemma": "Olius",
     "previous": "Olivarius",
     "next": "Olivula Portus",
+    "proof_read": 2,
     "short_description": "Römischer Gentilname, Nebenform von Aulius",
     "chapters": [
       {
         "start": 2483,
-        "author": "Münzer"
+        "end": 2483,
+        "author": "F. Münzer."
       }
     ]
   },
@@ -13507,11 +13597,13 @@
     "lemma": "Ollius 1",
     "previous": "Ὤλλινα",
     "next": "Ollius 2",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Po Oglio",
     "chapters": [
       {
         "start": 2488,
-        "author": "Philipp"
+        "end": 2489,
+        "author": "Philipp."
       }
     ]
   },
@@ -13537,11 +13629,13 @@
     "lemma": "Ollius 3",
     "previous": "Ollius 2",
     "next": "Ollix",
+    "proof_read": 0,
     "short_description": "Fluß in der Aiolis",
     "chapters": [
       {
         "start": 2489,
-        "author": "Ruge"
+        "end": 2489,
+        "author": "Ruge."
       }
     ]
   },
@@ -13605,35 +13699,56 @@
     "lemma": "Olludius",
     "previous": "Ollovico",
     "next": "Olmeios",
+    "proof_read": 0,
     "short_description": "Lokalgott von Antibes in Gallia Narbonensis s. Mars",
     "chapters": [
       {
         "start": 2489,
-        "author": "Heichelheim"
+        "end": 2490,
+        "author": "Heichelheim."
       }
     ]
   },
   {
     "lemma": "Olmeios",
     "previous": "Olludius",
-    "next": "Olmiai",
+    "next": "Ὀλμιαί, αἱ",
+    "proof_read": 0,
     "short_description": "Fluß in Boiotien",
     "chapters": [
       {
         "start": 2490,
-        "author": "Kirsten"
+        "end": 2490,
+        "author": "Kirsten."
+      }
+    ]
+  },
+  {
+    "lemma": "Ὀλμιαί, αἱ",
+    "previous": "Olmeios",
+    "next": "Olmion",
+    "sort_key": "Olmiai",
+    "proof_read": 0,
+    "short_description": "NW-Kap der Halbinsel Perachora",
+    "chapters": [
+      {
+        "start": 2490,
+        "end": 2490,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Olmion",
-    "previous": "Olmiai",
+    "previous": "Ὀλμιαί, αἱ",
     "next": "Olmones",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2490,
-        "author": "Kirsten"
+        "end": 2490,
+        "author": "Kirsten."
       }
     ]
   },
@@ -13641,10 +13756,12 @@
     "lemma": "Olmones",
     "previous": "Olmion",
     "next": "Olmos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2490,
-        "author": "Kirsten"
+        "end": 2492,
+        "author": "Kirsten."
       }
     ]
   },
@@ -13665,7 +13782,7 @@
   {
     "lemma": "Olobagra",
     "previous": "Olmos",
-    "next": "Olochoira",
+    "next": "Ὀλόχοιρα",
     "proof_read": 2,
     "short_description": "Stadt Makedoniens, sonst unbekannt",
     "chapters": [
@@ -13677,23 +13794,28 @@
     ]
   },
   {
-    "lemma": "Olochoira",
+    "lemma": "Ὀλόχοιρα",
     "previous": "Olobagra",
     "next": "Oloe",
+    "sort_key": "Olochoira",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2492,
-        "author": "Stein, O[tto]"
+        "end": 2493,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Oloe",
-    "previous": "Olochoira",
+    "previous": "Ὀλόχοιρα",
     "next": "Oloessa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2493,
+        "end": 2493,
         "author": "gr. Kruse."
       }
     ]
@@ -13702,11 +13824,13 @@
     "lemma": "Oloessa",
     "previous": "Oloe",
     "next": "Oloitrochos",
+    "proof_read": 0,
     "short_description": "Alter Name von Rhodos",
     "chapters": [
       {
         "start": 2493,
-        "author": "Kirsten"
+        "end": 2493,
+        "author": "Kirsten."
       }
     ]
   },
@@ -13729,11 +13853,13 @@
     "lemma": "Ololyge",
     "previous": "Oloitrochos",
     "next": "Olona",
+    "proof_read": 0,
     "short_description": "Gellender Schrei",
     "chapters": [
       {
         "start": 2493,
-        "author": "Wegner"
+        "end": 2494,
+        "author": "Wegner."
       }
     ]
   },
@@ -13741,11 +13867,13 @@
     "lemma": "Olona",
     "previous": "Ololyge",
     "next": "Olondai",
+    "proof_read": 0,
     "short_description": "Nördl. Zufluß des Po",
     "chapters": [
       {
         "start": 2494,
-        "author": "Philipp"
+        "end": 2494,
+        "author": "Philipp."
       }
     ]
   },
@@ -13783,11 +13911,13 @@
     "lemma": "Olontigi",
     "previous": "Olonicus",
     "next": "Olophyxos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2495,
-        "author": "Schulten"
+        "end": 2495,
+        "author": "Schulten."
       }
     ]
   },
@@ -13795,11 +13925,13 @@
     "lemma": "Olophyxos",
     "previous": "Olontigi",
     "next": "Olopyxos",
+    "proof_read": 0,
     "short_description": "Stadt an der O-Küste der Halbinsel Akte",
     "chapters": [
       {
         "start": 2495,
-        "author": "Oberhummer"
+        "end": 2495,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -13807,11 +13939,13 @@
     "lemma": "Olopyxos",
     "previous": "Olophyxos",
     "next": "Oloros 1",
+    "proof_read": 0,
     "short_description": "Stadt auf Kreta",
     "chapters": [
       {
         "start": 2495,
-        "author": "Kirsten"
+        "end": 2495,
+        "author": "Kirsten."
       }
     ]
   },
@@ -13851,11 +13985,13 @@
     "lemma": "Olos",
     "previous": "Oloros 2",
     "next": "Olossis",
+    "proof_read": 0,
     "short_description": "Kerkop",
     "chapters": [
       {
         "start": 2495,
-        "author": "Türk"
+        "end": 2495,
+        "author": "Türk."
       }
     ]
   },
@@ -13877,11 +14013,13 @@
     "lemma": "Olosson",
     "previous": "Olossis",
     "next": "Olostrae",
+    "proof_read": 0,
     "short_description": "Perrhäbische Stadt",
     "chapters": [
       {
         "start": 2495,
-        "author": "Lenk"
+        "end": 2497,
+        "author": "Lenk."
       }
     ]
   },
@@ -13889,11 +14027,13 @@
     "lemma": "Olostrae",
     "previous": "Olosson",
     "next": "Olotaedariza",
+    "proof_read": 0,
     "short_description": "Völkerschaft Indiens",
     "chapters": [
       {
         "start": 2497,
-        "author": "Stein, O[tto]"
+        "end": 2498,
+        "author": "O. Stein."
       }
     ]
   },
@@ -13913,11 +14053,13 @@
     "lemma": "Olpai 1",
     "previous": "Olotaedariza",
     "next": "Olpai 2",
+    "proof_read": 0,
     "short_description": "Befestigter Platz im Gebiet von Argos Amphilochikon",
     "chapters": [
       {
         "start": 2498,
-        "author": "Kirsten"
+        "end": 2501,
+        "author": "Kirsten."
       }
     ]
   },
@@ -13925,11 +14067,18 @@
     "lemma": "Olpai 2",
     "previous": "Olpai 1",
     "next": "Olpe",
+    "proof_read": 0,
     "short_description": "Stadt in Lokris",
     "chapters": [
       {
         "start": 2501,
-        "author": "Kirsten"
+        "end": 2501,
+        "author": "Kirsten."
+      },
+      {
+        "start": 2501,
+        "end": 2502,
+        "author": "Wm. A. Oldfather."
       }
     ]
   },
@@ -13963,11 +14112,13 @@
     "lemma": "Olsoi",
     "previous": "Olsi",
     "next": "Olten",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2502,
-        "author": "Saria"
+        "end": 2502,
+        "author": "B. Saria."
       }
     ]
   },
@@ -13975,11 +14126,13 @@
     "lemma": "Olten",
     "previous": "Olsoi",
     "next": "Olthakes",
+    "proof_read": 0,
     "short_description": "Diokletianisches Sperrkastell an der Aare",
     "chapters": [
       {
         "start": 2502,
-        "author": "Goessler"
+        "end": 2503,
+        "author": "Goessler."
       }
     ]
   },
@@ -14015,11 +14168,13 @@
     "lemma": "Oltis",
     "previous": "Olthakos",
     "next": "Oluros",
+    "proof_read": 0,
     "short_description": "Fluß in Gallia Aquitania",
     "chapters": [
       {
         "start": 2503,
-        "author": "Goessler"
+        "end": 2503,
+        "author": "Goessler."
       }
     ]
   },
@@ -14027,11 +14182,13 @@
     "lemma": "Oluros",
     "previous": "Oltis",
     "next": "Olus 1",
+    "proof_read": 0,
     "short_description": "Kastell von Pellene",
     "chapters": [
       {
         "start": 2503,
-        "author": "Meyer, Ernst"
+        "end": 2504,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -14052,36 +14209,49 @@
   {
     "lemma": "Olus 2",
     "previous": "Olus 1",
-    "next": "OLY, OLYM",
+    "next": "ΟΛΥ, ΟΛΥΜ",
+    "proof_read": 0,
     "short_description": "Stadt an der NO-Küste Kretas",
     "chapters": [
       {
         "start": 2504,
-        "author": "Kirsten"
+        "end": 2508,
+        "author": "Kirsten."
       }
     ]
   },
   {
-    "lemma": "OLY, OLYM",
+    "lemma": "ΟΛΥ, ΟΛΥΜ",
     "previous": "Olus 2",
     "next": "Olybrios, Olybris",
+    "sort_key": "OLY,olym",
+    "proof_read": 0,
     "short_description": "Inschr. auf einem Silberstater des arkadischen Bundes",
     "chapters": [
       {
         "start": 2508,
-        "author": "Schwabacher"
+        "end": 2509,
+        "author": "Schwabacher."
       }
     ]
   },
   {
     "lemma": "Olybrios, Olybris",
-    "previous": "OLY, OLYM",
+    "previous": "ΟΛΥ, ΟΛΥΜ",
     "next": "Olyka",
+    "sort_key": "Olybrios,olybris",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus Später Personenname",
     "chapters": [
       {
         "start": 2509,
-        "author": "Kruse"
+        "end": 2509,
+        "author": "gr. Kruse."
+      },
+      {
+        "start": 2509,
+        "end": 2509,
+        "author": "Hans Oppermann."
       }
     ]
   },
@@ -14089,11 +14259,13 @@
     "lemma": "Olyka",
     "previous": "Olybrios, Olybris",
     "next": "Olykrai",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2510,
-        "author": "Oberhummer"
+        "end": 2510,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -14101,11 +14273,13 @@
     "lemma": "Olykrai",
     "previous": "Olyka",
     "next": "Olyktor",
+    "proof_read": 0,
     "short_description": "Alter Name von Molykreion",
     "chapters": [
       {
         "start": 2510,
-        "author": "Kirsten"
+        "end": 2510,
+        "author": "Kirsten."
       }
     ]
   },
@@ -14113,23 +14287,27 @@
     "lemma": "Olyktor",
     "previous": "Olykrai",
     "next": "Olymbros",
+    "proof_read": 0,
     "short_description": "Gigant",
     "chapters": [
       {
         "start": 2510,
-        "author": "Wüst"
+        "end": 2510,
+        "author": "E. Wüst."
       }
     ]
   },
   {
     "lemma": "Olymbros",
     "previous": "Olyktor",
-    "next": "Olymos",
+    "next": "Olymos (-on?)",
+    "proof_read": 0,
     "short_description": "Titane",
     "chapters": [
       {
         "start": 2510,
-        "author": "Wüst"
+        "end": 2510,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -14147,13 +14325,15 @@
   },
   {
     "lemma": "Olympe",
-    "previous": "Olymos",
+    "previous": "Olymos (-on?)",
     "next": "Olympenoi",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2519,
-        "author": "Polaschek"
+        "end": 2519,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -14161,11 +14341,13 @@
     "lemma": "Olympenoi",
     "previous": "Olympe",
     "next": "Olympia",
+    "proof_read": 0,
     "short_description": "Bewohner der Südabdachung des mysischen Olympos",
     "chapters": [
       {
         "start": 2519,
-        "author": "Ruge"
+        "end": 2520,
+        "author": "Ruge."
       }
     ]
   },
