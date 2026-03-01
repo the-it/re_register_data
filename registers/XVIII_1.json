@@ -144,11 +144,13 @@
     "lemma": "Olympias 3",
     "previous": "Olympias 2",
     "next": "Olympias 4",
+    "proof_read": 0,
     "short_description": "Ort der Perrhaiber",
     "chapters": [
       {
         "start": 175,
-        "author": "Kirsten"
+        "end": 177,
+        "author": "Kirsten."
       }
     ]
   },
@@ -392,7 +394,7 @@
   {
     "lemma": "Olympieion 2",
     "previous": "Olympieion 1",
-    "next": "Olympikos 1",
+    "next": "Ὀλυμπικός 1",
     "short_description": "Angebl. Ort auf Delos",
     "chapters": [
       {
@@ -402,9 +404,10 @@
     ]
   },
   {
-    "lemma": "Olympikos 1",
+    "lemma": "Ὀλυμπικός 1",
     "previous": "Olympieion 2",
-    "next": "Olympikos 2",
+    "next": "Ὀλυμπικός 2",
+    "sort_key": "Olympikos 1",
     "proof_read": 0,
     "short_description": "Apellativum",
     "chapters": [
@@ -416,9 +419,10 @@
     ]
   },
   {
-    "lemma": "Olympikos 2",
-    "previous": "Olympikos 1",
+    "lemma": "Ὀλυμπικός 2",
+    "previous": "Ὀλυμπικός 1",
     "next": "Ὀλυμπικός 3",
+    "sort_key": "Olympikos 2",
     "proof_read": 0,
     "short_description": "Arzt aus Milet, Lehrer des Apollonios von Kypern",
     "chapters": [
@@ -431,7 +435,7 @@
   },
   {
     "lemma": "Ὀλυμπικός 3",
-    "previous": "Olympikos 2",
+    "previous": "Ὀλυμπικός 2",
     "next": "Olympiodoros 1",
     "sort_key": "Olympikos 3",
     "proof_read": 3,
@@ -620,7 +624,7 @@
     "previous": "Olympiodoros 11",
     "next": "Olympiodoros 13",
     "proof_read": 0,
-    "short_description": "der Ältere, Aristoteleserklärer",
+    "short_description": "der Ältere, Erklärer des Aristoteles",
     "chapters": [
       {
         "start": 207,
@@ -1721,11 +1725,13 @@
     "lemma": "Olympos 8",
     "previous": "Olympos 7",
     "next": "Olympos 9",
-    "short_description": "Westl. Ausläufer des Dirphis auf Euboia",
+    "proof_read": 0,
+    "short_description": "westlicher Ausläufer des Dirphis auf Euboia",
     "chapters": [
       {
         "start": 312,
-        "author": "Schmidt"
+        "end": 312,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -1733,11 +1739,13 @@
     "lemma": "Olympos 9",
     "previous": "Olympos 8",
     "next": "Olympos 10",
-    "short_description": "Berg im SO der Insel Lesbos",
+    "proof_read": 0,
+    "short_description": "Berg im Südosten der Insel Lesbos",
     "chapters": [
       {
         "start": 312,
-        "author": "Schmidt"
+        "end": 312,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -1781,11 +1789,13 @@
     "lemma": "Olympos 13",
     "previous": "Olympos 12",
     "next": "Olympos 14",
+    "proof_read": 0,
     "short_description": "NO-Spitze der karpasischen Halbinsel auf Cypern",
     "chapters": [
       {
         "start": 313,
-        "author": "Schmidt"
+        "end": 313,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -1931,7 +1941,7 @@
     "previous": "Olympos 24a",
     "next": "Olympos 25",
     "proof_read": 2,
-    "short_description": "Amm. XXVI 9,2",
+    "short_description": "Anführer im Krieg gegen Procopius",
     "chapters": [
       {
         "start": 320,
@@ -2082,8 +2092,8 @@
     "lemma": "Olympusa",
     "previous": "Olympos 33",
     "next": "Olynpikon",
-    "proof_read": 2,
-    "short_description": "Person",
+    "proof_read": 3,
+    "short_description": "Tochter des Thespios",
     "no_creative_height": true,
     "chapters": [
       {
@@ -2138,11 +2148,13 @@
     "lemma": "Olynthos",
     "previous": "Ὀλυνθιών",
     "next": "Olyros",
+    "proof_read": 0,
     "short_description": "Stadt in der chalkidischen Ebene",
     "chapters": [
       {
         "start": 325,
-        "author": "Robinson"
+        "end": 342,
+        "author": "David M. Robinson."
       }
     ]
   },
@@ -2162,11 +2174,13 @@
     "lemma": "Omadios",
     "previous": "Olyros",
     "next": "Omalis",
+    "proof_read": 0,
     "short_description": "Beiname des Dionysos",
     "chapters": [
       {
         "start": 342,
-        "author": "Schmidt"
+        "end": 343,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -2345,11 +2359,13 @@
     "lemma": "Om(b)rikos",
     "previous": "Ὀμβραία",
     "next": "Ombrios 1",
-    "short_description": "Ethnikon(?) auf einem korinthischen Krater im Louvre",
+    "proof_read": 0,
+    "short_description": "Ethnikon (?) auf einem korinthischen Krater",
     "chapters": [
       {
         "start": 349,
-        "author": "Schmidt"
+        "end": 350,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -2357,11 +2373,13 @@
     "lemma": "Ombrios 1",
     "previous": "Om(b)rikos",
     "next": "Ombrios 2",
+    "proof_read": 0,
     "short_description": "Beiname des regenspendenden Zeus",
     "chapters": [
       {
         "start": 350,
-        "author": "Schmidt"
+        "end": 350,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -2420,11 +2438,13 @@
     "lemma": "Omestes",
     "previous": "Omenogara",
     "next": "Omias",
+    "proof_read": 0,
     "short_description": "Beiname des Dionysos",
     "chapters": [
       {
         "start": 378,
-        "author": "Schmidt"
+        "end": 378,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -2432,11 +2452,13 @@
     "lemma": "Omias",
     "previous": "Omestes",
     "next": "Omilla",
-    "short_description": "Person",
+    "proof_read": 0,
+    "short_description": "Führer einer spartanischen Gesandtschaft",
     "chapters": [
       {
         "start": 379,
-        "author": "Ehrenberg"
+        "end": 379,
+        "author": "Victor Ehrenberg."
       }
     ]
   },
@@ -2457,7 +2479,7 @@
     "previous": "Omilla",
     "next": "Omire",
     "redirect": "Ommas",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 379,
@@ -2469,7 +2491,7 @@
     "lemma": "Omire",
     "previous": "Omiras",
     "next": "Omiza",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "verstümmelter Name einer britannischen Civitas",
     "chapters": [
       {
@@ -2483,8 +2505,8 @@
     "lemma": "Omiza",
     "previous": "Omire",
     "next": "Ommas",
-    "proof_read": 2,
-    "short_description": "Ort",
+    "proof_read": 3,
+    "short_description": "Stadt Gedrosiens",
     "chapters": [
       {
         "start": 379,
@@ -2497,7 +2519,7 @@
     "lemma": "Ommas",
     "previous": "Omiza",
     "next": "Ommatius 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Name des Euphrat",
     "chapters": [
       {
@@ -2577,11 +2599,13 @@
     "lemma": "Omophagia",
     "previous": "Ὀμόνοια",
     "next": "Omophagos",
+    "proof_read": 0,
     "short_description": "Beiname des Dionysos",
     "chapters": [
       {
         "start": 380,
-        "author": "Schmidt"
+        "end": 382,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -2631,6 +2655,7 @@
   },
   {
     "lemma": "Omphake",
+    "next": "Omphakites",
     "chapters": [
       {
         "start": 383,
@@ -2640,17 +2665,21 @@
   },
   {
     "lemma": "Omphakites",
+    "previous": "Omphake",
     "next": "Omphale",
+    "proof_read": 0,
     "short_description": "Beiname des Dionysos",
     "chapters": [
       {
         "start": 385,
-        "author": "Schmidt"
+        "end": 385,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
     "lemma": "Omphale",
+    "previous": "Omphakites",
     "next": "Omphales",
     "short_description": "Königin von Lydien",
     "chapters": [
@@ -3080,11 +3109,13 @@
     "lemma": "Onchesmos",
     "previous": "Onchai",
     "next": "Onchestios",
+    "proof_read": 0,
     "short_description": "Hafenort von Phoinike",
     "chapters": [
       {
         "start": 411,
-        "author": "Schmidt"
+        "end": 412,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -4119,8 +4150,8 @@
     "lemma": "Onoadas",
     "previous": "Onnophris",
     "next": "Onoba",
-    "proof_read": 2,
-    "short_description": "Ort",
+    "proof_read": 3,
+    "short_description": "Stadt in Medien",
     "chapters": [
       {
         "start": 484,
@@ -4134,7 +4165,7 @@
     "previous": "Onoadas",
     "next": "Onobalas",
     "redirect": "Onuba 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 484,
@@ -4206,11 +4237,13 @@
     "lemma": "Onogla",
     "previous": "Onochonos",
     "next": "Onogyros",
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Ort in der Nähe von Pitane",
     "chapters": [
       {
         "start": 486,
-        "author": "Bölte"
+        "end": 486,
+        "author": "F. Bölte."
       }
     ]
   },
@@ -4395,7 +4428,7 @@
     "previous": "Onopniktes potamos",
     "next": "Onos",
     "redirect": "Oinopion",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 521,
@@ -4407,7 +4440,7 @@
     "lemma": "Onos",
     "previous": "Onorion",
     "next": "Onosandros",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "s. Epinetron",
     "no_creative_height": true,
     "chapters": [
