@@ -5324,7 +5324,7 @@
   {
     "lemma": "Ophelestes",
     "previous": "Opheles",
-    "next": "Ophelestes 2",
+    "next": "Ophelestes 1",
     "proof_read": 3,
     "short_description": "Zwei Gegner der Griechen vor Troia",
     "chapters": [
@@ -8767,7 +8767,7 @@
   {
     "lemma": "Orakel",
     "previous": "Orakana",
-    "next": "Oralio(t)es",
+    "next": "Ὀραλιο(τ?)ης",
     "proof_read": 0,
     "chapters": [
       {
@@ -8778,21 +8778,24 @@
     ]
   },
   {
-    "lemma": "Oralio(t)es",
+    "lemma": "Ὀραλιο(τ?)ης",
     "previous": "Orakel",
     "next": "Orani",
+    "sort_key": "Oralio(t)es",
+    "proof_read": 0,
     "short_description": "Ethnikon?",
     "chapters": [
       {
         "start": 866,
-        "author": "Ruge"
+        "end": 866,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Orani",
-    "previous": "Oralio(t)es",
-    "next": "Oranietai",
+    "previous": "Ὀραλιο(τ?)ης",
+    "next": "Ὀρανιε̃ται",
     "redirect": "Orinaioi",
     "proof_read": 2,
     "chapters": [
@@ -8803,20 +8806,23 @@
     ]
   },
   {
-    "lemma": "Oranietai",
+    "lemma": "Ὀρανιε̃ται",
     "previous": "Orani",
     "next": "Orarabon",
+    "sort_key": "Oranietai",
+    "proof_read": 0,
     "short_description": "s. Uranium",
     "chapters": [
       {
         "start": 866,
-        "author": "Ruge"
+        "end": 866,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Orarabon",
-    "previous": "Oranietai",
+    "previous": "Ὀρανιε̃ται",
     "next": "Orarium",
     "redirect": "Occaraba",
     "proof_read": 2,
@@ -8901,11 +8907,13 @@
     "lemma": "Oratrios",
     "previous": "Oratio",
     "next": "Oraturae",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
         "start": 873,
-        "author": "Kruse"
+        "end": 874,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -8926,60 +8934,72 @@
   {
     "lemma": "Orbada",
     "previous": "Oraturae",
-    "next": "Orbadaru",
+    "next": "Ὀρβαδάρου",
+    "proof_read": 0,
     "short_description": "Ort in der Legende der Tergemini Speusippos, Elausippos und Melesippos",
     "chapters": [
       {
         "start": 874,
-        "author": "Ruge"
+        "end": 874,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Orbadaru",
+    "lemma": "Ὀρβαδάρου",
     "previous": "Orbada",
     "next": "Orbadura",
+    "sort_key": "Orbadaru",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 874,
-        "author": "Windberg"
+        "end": 875,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Orbadura",
-    "previous": "Orbadaru",
-    "next": "Orbana",
+    "previous": "Ὀρβαδάρου",
+    "next": "Orbana (?)",
+    "proof_read": 0,
     "short_description": "Stadt östl. des Indus",
     "chapters": [
       {
         "start": 875,
-        "author": "Stein, O[tto]"
+        "end": 875,
+        "author": "O. Stein."
       }
     ]
   },
   {
-    "lemma": "Orbana",
+    "lemma": "Orbana (?)",
     "previous": "Orbadura",
     "next": "Orbanassa",
+    "sort_key": "Orbana",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 875,
-        "author": "Ruge"
+        "end": 875,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Orbanassa",
-    "previous": "Orbana",
+    "previous": "Orbana (?)",
     "next": "Orbas, Orgas",
+    "proof_read": 0,
     "short_description": "Stadt in Pisidien",
     "chapters": [
       {
         "start": 875,
-        "author": "Ruge"
+        "end": 875,
+        "author": "Ruge."
       }
     ]
   },
@@ -8987,11 +9007,14 @@
     "lemma": "Orbas, Orgas",
     "previous": "Orbanassa",
     "next": "Ὄρβηλα",
+    "sort_key": "Orbas,orgas",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Maiandros",
     "chapters": [
       {
         "start": 876,
-        "author": "Ruge"
+        "end": 876,
+        "author": "Ruge."
       }
     ]
   },
@@ -9061,10 +9084,12 @@
     "lemma": "Orbisene",
     "previous": "Orbis terrarum",
     "next": "Orbita",
+    "proof_read": 0,
     "short_description": "Südlichster Distrikt von Armenia minor",
     "chapters": [
       {
         "start": 877,
+        "end": 877,
         "author": "Johanna Schmidt."
       }
     ]
@@ -9073,11 +9098,13 @@
     "lemma": "Orbita",
     "previous": "Orbisene",
     "next": "Orbitai",
+    "proof_read": 0,
     "short_description": "Stadt an der Küstenstraße der kleinen Syrte",
     "chapters": [
       {
         "start": 877,
-        "author": "Windberg"
+        "end": 878,
+        "author": "Windberg."
       }
     ]
   },
@@ -9085,11 +9112,13 @@
     "lemma": "Orbitai",
     "previous": "Orbita",
     "next": "Orbitana",
+    "proof_read": 0,
     "short_description": "Indischer Volksstamm",
     "chapters": [
       {
         "start": 878,
-        "author": "Stein, O[tto]"
+        "end": 878,
+        "author": "O. Stein."
       }
     ]
   },
@@ -9097,11 +9126,13 @@
     "lemma": "Orbitana",
     "previous": "Orbitai",
     "next": "Orbitanium",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 878,
-        "author": "Schmidt"
+        "end": 878,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9109,11 +9140,13 @@
     "lemma": "Orbitanium",
     "previous": "Orbitana",
     "next": "Orbius",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 878,
-        "author": "Philipp"
+        "end": 878,
+        "author": "Philipp."
       }
     ]
   },
@@ -9121,11 +9154,13 @@
     "lemma": "Orbius",
     "previous": "Orbitanium",
     "next": "Orbius 1",
+    "proof_read": 0,
     "short_description": "Römischer Familienname",
     "chapters": [
       {
         "start": 878,
-        "author": "Münzer"
+        "end": 878,
+        "author": "Münzer."
       }
     ]
   },
@@ -9133,11 +9168,13 @@
     "lemma": "Orbius 1",
     "previous": "Orbius",
     "next": "Orbius 2",
+    "proof_read": 0,
     "short_description": "L. Offizier unter Cn. Manlius Vulso",
     "chapters": [
       {
         "start": 878,
-        "author": "Münzer"
+        "end": 879,
+        "author": "Münzer."
       }
     ]
   },
@@ -9145,11 +9182,13 @@
     "lemma": "Orbius 2",
     "previous": "Orbius 1",
     "next": "Orbius 3",
+    "proof_read": 0,
     "short_description": "L., angesehener Römer auf Delos im 1. Jh. v. Chr.",
     "chapters": [
       {
         "start": 879,
-        "author": "Münzer"
+        "end": 880,
+        "author": "Münzer."
       }
     ]
   },
@@ -9157,11 +9196,13 @@
     "lemma": "Orbius 3",
     "previous": "Orbius 2",
     "next": "Orbius 4",
+    "proof_read": 0,
     "short_description": "P. Nachfolger Ciceros in der Praetur",
     "chapters": [
       {
         "start": 880,
-        "author": "Münzer"
+        "end": 880,
+        "author": "Münzer."
       }
     ]
   },
@@ -9169,11 +9210,13 @@
     "lemma": "Orbius 4",
     "previous": "Orbius 3",
     "next": "Orbona",
+    "proof_read": 0,
     "short_description": "Laetianus Subpraef. vigilum 191 v. Chr.",
     "chapters": [
       {
         "start": 880,
-        "author": "Stein, [Arthur]"
+        "end": 880,
+        "author": "Stein."
       }
     ]
   },
@@ -9181,11 +9224,13 @@
     "lemma": "Orbona",
     "previous": "Orbius 4",
     "next": "Orcades",
+    "proof_read": 0,
     "short_description": "Römische Göttin",
     "chapters": [
       {
         "start": 880,
-        "author": "Rohde"
+        "end": 881,
+        "author": "G. Rohde."
       }
     ]
   },
@@ -9193,11 +9238,13 @@
     "lemma": "Orcades",
     "previous": "Orbona",
     "next": "Orcas",
+    "proof_read": 0,
     "short_description": "Inselgruppe gegenüber Schottland",
     "chapters": [
       {
         "start": 881,
-        "author": "MacDonald"
+        "end": 882,
+        "author": "MacDonald."
       }
     ]
   },
@@ -9205,11 +9252,13 @@
     "lemma": "Orcas",
     "previous": "Orcades",
     "next": "Orchalides",
+    "proof_read": 0,
     "short_description": "Vorgebirge in NW-Schottland",
     "chapters": [
       {
         "start": 882,
-        "author": "MacDonald"
+        "end": 882,
+        "author": "MacDonald."
       }
     ]
   },
@@ -9217,11 +9266,18 @@
     "lemma": "Orchalides",
     "previous": "Orcas",
     "next": "Orchamos",
+    "proof_read": 0,
     "short_description": "Hügel im Gebiet von Haliartes",
     "chapters": [
       {
         "start": 882,
-        "author": "Mylonas"
+        "end": 882,
+        "author": "G. Mylonas und E. Kirsten."
+      },
+      {
+        "start": 882,
+        "end": 882,
+        "author": "E. Kirsten."
       }
     ]
   },
@@ -9229,11 +9285,13 @@
     "lemma": "Orchamos",
     "previous": "Orchalides",
     "next": "Orcheion",
+    "proof_read": 0,
     "short_description": "König der Achämenier",
     "chapters": [
       {
         "start": 882,
-        "author": "Kolf"
+        "end": 883,
+        "author": "Kolf."
       }
     ]
   },
@@ -9241,11 +9299,13 @@
     "lemma": "Orcheion",
     "previous": "Orchamos",
     "next": "Ὀρχηνοί",
+    "proof_read": 0,
     "short_description": "Berg in Thessalia Pelasgiotis",
     "chapters": [
       {
         "start": 883,
-        "author": "Kirsten"
+        "end": 883,
+        "author": "Kirsten."
       }
     ]
   },
@@ -9280,11 +9340,13 @@
     "lemma": "Orchestes",
     "previous": "Orchesis",
     "next": "Orchestra",
+    "proof_read": 0,
     "short_description": "Beiname von Apollon und Pan",
     "chapters": [
       {
         "start": 883,
-        "author": "Kruse"
+        "end": 883,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -9292,11 +9354,13 @@
     "lemma": "Orchestra",
     "previous": "Orchestes",
     "next": "Orchieus",
+    "proof_read": 0,
     "short_description": "Tanzplatz für lyrische Choraufführungen und im Theater",
     "chapters": [
       {
         "start": 883,
-        "author": "Fensterbusch"
+        "end": 885,
+        "author": "Fensterbusch."
       }
     ]
   },
@@ -9304,11 +9368,13 @@
     "lemma": "Orchieus",
     "previous": "Orchestra",
     "next": "Orchistene",
+    "proof_read": 0,
     "short_description": "Beiname des Apollon",
     "chapters": [
       {
         "start": 885,
-        "author": "Schmidt"
+        "end": 885,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9331,11 +9397,13 @@
     "lemma": "Orchius",
     "previous": "Orchistene",
     "next": "Ὀρχόη",
+    "proof_read": 0,
     "short_description": "C. Person",
     "chapters": [
       {
         "start": 886,
-        "author": "Münzer"
+        "end": 886,
+        "author": "Münzer."
       }
     ]
   },
@@ -9371,11 +9439,13 @@
     "lemma": "Orchomenos 2",
     "previous": "Orchomenos 1",
     "next": "Orchomenos 3",
+    "proof_read": 0,
     "short_description": "Stadt in Thessalien",
     "chapters": [
       {
         "start": 886,
-        "author": "Kirsten"
+        "end": 887,
+        "author": "Kirsten."
       }
     ]
   },
@@ -9383,11 +9453,13 @@
     "lemma": "Orchomenos 3",
     "previous": "Orchomenos 2",
     "next": "Orchomenos 4",
+    "proof_read": 0,
     "short_description": "Ortschaft auf Euboia",
     "chapters": [
       {
         "start": 887,
-        "author": "Geyer"
+        "end": 887,
+        "author": "Geyer."
       }
     ]
   },
@@ -9436,11 +9508,13 @@
     "lemma": "Orchomenos 7",
     "previous": "Orchomenos 6",
     "next": "Orchomenos 8",
+    "proof_read": 0,
     "short_description": "Sohn des Lykaon",
     "chapters": [
       {
         "start": 905,
-        "author": "Müller-Graupa"
+        "end": 905,
+        "author": "Müller-Graupa."
       }
     ]
   },
@@ -9448,11 +9522,13 @@
     "lemma": "Orchomenos 8",
     "previous": "Orchomenos 7",
     "next": "Orchomenos 9",
+    "proof_read": 0,
     "short_description": "Vater der Leukothea",
     "chapters": [
       {
         "start": 905,
-        "author": "Müller-Graupa"
+        "end": 905,
+        "author": "Müller-Graupa."
       }
     ]
   },
@@ -9460,11 +9536,13 @@
     "lemma": "Orchomenos 9",
     "previous": "Orchomenos 8",
     "next": "Orcia",
+    "proof_read": 0,
     "short_description": "Gründer des boiotischen Orchomenos",
     "chapters": [
       {
         "start": 905,
-        "author": "Müller-Graupa"
+        "end": 906,
+        "author": "Müller-Graupa."
       }
     ]
   },
@@ -9472,11 +9550,13 @@
     "lemma": "Orcia",
     "previous": "Orchomenos 9",
     "next": "Orciani",
+    "proof_read": 0,
     "short_description": "Göttin",
     "chapters": [
       {
         "start": 906,
-        "author": "Kazarow"
+        "end": 907,
+        "author": "Gawril Kazarow."
       }
     ]
   },
@@ -9484,11 +9564,13 @@
     "lemma": "Orciani",
     "previous": "Orcia",
     "next": "Orcibasios",
+    "proof_read": 0,
     "short_description": "Volk südl. vom indischen Kaukasos",
     "chapters": [
       {
         "start": 907,
-        "author": "Herrmann"
+        "end": 907,
+        "author": "Herrmann."
       }
     ]
   },
@@ -9509,11 +9591,13 @@
     "lemma": "Orcivius",
     "previous": "Orcibasios",
     "next": "Orcivius 1",
+    "proof_read": 0,
     "short_description": "Altes Geschlecht in Praeneste",
     "chapters": [
       {
         "start": 907,
-        "author": "Münzer"
+        "end": 907,
+        "author": "Münzer."
       }
     ]
   },
@@ -9521,11 +9605,13 @@
     "lemma": "Orcivius 1",
     "previous": "Orcivius",
     "next": "Orcius",
+    "proof_read": 0,
     "short_description": "Orchivius, C. Praetor 66 v. Chr.",
     "chapters": [
       {
         "start": 907,
-        "author": "Münzer"
+        "end": 908,
+        "author": "Münzer."
       }
     ]
   },
@@ -9546,11 +9632,13 @@
     "lemma": "Orconius",
     "previous": "Orcius",
     "next": "Orcus",
+    "proof_read": 0,
     "short_description": "C., Proxenos von Delphi",
     "chapters": [
       {
         "start": 908,
-        "author": "Münzer"
+        "end": 908,
+        "author": "Münzer."
       }
     ]
   },
@@ -9558,11 +9646,13 @@
     "lemma": "Orcus",
     "previous": "Orconius",
     "next": "Ordabai",
+    "proof_read": 0,
     "short_description": "Römischer Unterwelts- und Todesgott",
     "chapters": [
       {
         "start": 908,
-        "author": "Mackauer"
+        "end": 928,
+        "author": "W. Mackauer."
       }
     ]
   },
@@ -9570,11 +9660,13 @@
     "lemma": "Ordabai",
     "previous": "Orcus",
     "next": "Ordagno",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 928,
-        "author": "Stein, O[tto]"
+        "end": 928,
+        "author": "O. Stein."
       }
     ]
   },
@@ -9595,11 +9687,13 @@
     "lemma": "Ordanes",
     "previous": "Ordagno",
     "next": "Ordes",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 928,
-        "author": "Berve"
+        "end": 928,
+        "author": "Berve."
       }
     ]
   },
@@ -9607,11 +9701,13 @@
     "lemma": "Ordes",
     "previous": "Ordanes",
     "next": "Ordessos 1",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 929,
-        "author": "Frank"
+        "end": 929,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -9632,11 +9728,13 @@
     "lemma": "Ordessos 2",
     "previous": "Ordessos 1",
     "next": "Ordinarius",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Istros",
     "chapters": [
       {
         "start": 929,
-        "author": "Herrmann"
+        "end": 929,
+        "author": "Herrmann."
       }
     ]
   },
@@ -9644,11 +9742,13 @@
     "lemma": "Ordinarius",
     "previous": "Ordessos 2",
     "next": "Ordion",
+    "proof_read": 0,
     "short_description": "Das Gebräuchliche, Normale",
     "chapters": [
       {
         "start": 929,
-        "author": "Born"
+        "end": 929,
+        "author": "Lester K. Born."
       }
     ]
   },
@@ -9656,11 +9756,13 @@
     "lemma": "Ordion",
     "previous": "Ordinarius",
     "next": "Ordo 1",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 929,
-        "author": "Frank"
+        "end": 930,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -9668,11 +9770,13 @@
     "lemma": "Ordo 1",
     "previous": "Ordion",
     "next": "Ordo 2",
+    "proof_read": 0,
     "short_description": "Reihe, Rang, Körperschaft, sozialer Stand in Rom",
     "chapters": [
       {
         "start": 930,
-        "author": "Kübler, B[ernhard]"
+        "end": 934,
+        "author": "Kübler."
       }
     ]
   },
@@ -9693,11 +9797,13 @@
     "lemma": "Ordo 3",
     "previous": "Ordo 2",
     "next": "Ordovices",
+    "proof_read": 0,
     "short_description": "Militärisch",
     "chapters": [
       {
         "start": 935,
-        "author": "Ruge"
+        "end": 936,
+        "author": "Ruge."
       }
     ]
   },
@@ -9705,11 +9811,13 @@
     "lemma": "Ordovices",
     "previous": "Ordo 3",
     "next": "Ordymnos",
+    "proof_read": 0,
     "short_description": "Altbritannisches Volk",
     "chapters": [
       {
         "start": 936,
-        "author": "MacDonald"
+        "end": 936,
+        "author": "MacDonald."
       }
     ]
   },
@@ -9717,11 +9825,13 @@
     "lemma": "Ordymnos",
     "previous": "Ordovices",
     "next": "Orea 1",
+    "proof_read": 0,
     "short_description": "Berg auf Lesbos",
     "chapters": [
       {
         "start": 936,
-        "author": "Schmidt"
+        "end": 936,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9729,15 +9839,13 @@
     "lemma": "Orea 1",
     "previous": "Ordymnos",
     "next": "Orea 2",
-    "short_description": "Gebiss, Zaum oder Zügel der Pferde",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 936,
-        "author": "Kroll"
-      },
-      {
-        "start": 936,
-        "author": "Pollack"
+        "end": 937,
+        "author": "Pollack † - W. Kroll."
       }
     ]
   },
@@ -9745,11 +9853,13 @@
     "lemma": "Orea 2",
     "previous": "Orea 1",
     "next": "Oreaden",
+    "proof_read": 0,
     "short_description": "Hamadryade",
     "chapters": [
       {
         "start": 937,
-        "author": "Frank"
+        "end": 937,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -9757,11 +9867,13 @@
     "lemma": "Oreaden",
     "previous": "Orea 2",
     "next": "Oreges",
+    "proof_read": 0,
     "short_description": "Bergnymphen",
     "chapters": [
       {
         "start": 937,
-        "author": "Herter"
+        "end": 938,
+        "author": "H. Herter."
       }
     ]
   },
@@ -9782,11 +9894,14 @@
     "lemma": "Oregina Aquae",
     "previous": "Oreges",
     "next": "Oreia 1",
+    "sort_key": "Oreginaaquae",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 938,
-        "author": "Schulten"
+        "end": 938,
+        "author": "Schulten."
       }
     ]
   },
@@ -9807,11 +9922,13 @@
     "lemma": "Oreia 2",
     "previous": "Oreia 1",
     "next": "Oreia 3",
+    "proof_read": 0,
     "short_description": "Sondergöttin der attischen Diakria",
     "chapters": [
       {
         "start": 938,
-        "author": "Frank"
+        "end": 938,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -9878,48 +9995,58 @@
   {
     "lemma": "Oreiatai",
     "previous": "Oreias 2",
-    "next": "Oreichalkos",
+    "next": "Oreibasios",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 938,
-        "author": "Bölte"
+        "end": 938,
+        "author": "Bölte."
       }
     ]
   },
   {
-    "lemma": "Oreichalkos",
-    "previous": "Oreiatai",
+    "lemma": "Ὀρείχαλκος",
+    "previous": "Oreibasios",
     "next": "Oreimachos",
+    "sort_key": "Oreichalkos",
+    "proof_read": 0,
     "short_description": "Metallisches Kupfer",
     "chapters": [
       {
         "start": 938,
-        "author": "Schramm"
+        "end": 941,
+        "author": "A. Schramm."
       }
     ]
   },
   {
     "lemma": "Oreimachos",
-    "previous": "Oreichalkos",
-    "next": "Oreioi Theoi",
+    "previous": "Ὀρείχαλκος",
+    "next": "Oreine",
+    "proof_read": 0,
     "short_description": "Satyr auf einer rotfig.-Amphora aus Vulci",
     "chapters": [
       {
         "start": 941,
-        "author": "Frank"
+        "end": 941,
+        "author": "Eva Frank."
       }
     ]
   },
   {
     "lemma": "Oreioi Theoi",
-    "previous": "Oreimachos",
+    "previous": "Oreine",
     "next": "Oreios 1",
+    "sort_key": "Oreioitheoi",
+    "proof_read": 0,
     "short_description": "Beiname verschiedener Götter",
     "chapters": [
       {
         "start": 941,
-        "author": "Frank"
+        "end": 941,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -9927,11 +10054,13 @@
     "lemma": "Oreios 1",
     "previous": "Oreioi Theoi",
     "next": "Oreios 2",
+    "proof_read": 0,
     "short_description": "Kentaur",
     "chapters": [
       {
         "start": 941,
-        "author": "Frank"
+        "end": 941,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -9939,11 +10068,13 @@
     "lemma": "Oreios 2",
     "previous": "Oreios 1",
     "next": "Oreios 3",
+    "proof_read": 0,
     "short_description": "Lapithe",
     "chapters": [
       {
         "start": 941,
-        "author": "Frank"
+        "end": 941,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -9996,11 +10127,13 @@
     "lemma": "Oreios 6",
     "previous": "Oreios 5",
     "next": "Oreios 7",
+    "proof_read": 0,
     "short_description": "Diener des Midas auf einer schwarzfig.-Vase des Ergotimos",
     "chapters": [
       {
         "start": 942,
-        "author": "Frank"
+        "end": 942,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -10008,11 +10141,13 @@
     "lemma": "Oreios 7",
     "previous": "Oreios 6",
     "next": "Ὀρείσιτοι",
+    "proof_read": 0,
     "short_description": "Beiname verschiedener Götter und Göttinnen",
     "chapters": [
       {
         "start": 942,
-        "author": "Kruse"
+        "end": 942,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -10035,11 +10170,13 @@
     "lemma": "Oreitai",
     "previous": "Ὀρείσιτοι",
     "next": "Oreithyia",
+    "proof_read": 0,
     "short_description": "Indischer Stamm",
     "chapters": [
       {
         "start": 942,
-        "author": "Stein, O[tto]"
+        "end": 951,
+        "author": "O. Stein."
       }
     ]
   },
@@ -10047,11 +10184,13 @@
     "lemma": "Oreithyia",
     "previous": "Oreitai",
     "next": "Oreithyia 1",
+    "proof_read": 0,
     "short_description": "Etymologie",
     "chapters": [
       {
         "start": 951,
-        "author": "Frank"
+        "end": 951,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -10059,11 +10198,13 @@
     "lemma": "Oreithyia 1",
     "previous": "Oreithyia",
     "next": "Oreithyia 2",
+    "proof_read": 0,
     "short_description": "Nereide",
     "chapters": [
       {
         "start": 951,
-        "author": "Frank"
+        "end": 952,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -10071,11 +10212,13 @@
     "lemma": "Oreithyia 2",
     "previous": "Oreithyia 1",
     "next": "Oreithyia 3",
+    "proof_read": 0,
     "short_description": "Windsbraut",
     "chapters": [
       {
         "start": 952,
-        "author": "Frank"
+        "end": 954,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -10083,11 +10226,13 @@
     "lemma": "Oreithyia 3",
     "previous": "Oreithyia 2",
     "next": "Oreithyia 4",
+    "proof_read": 0,
     "short_description": "Tochter des attischen Königs Erechtheus",
     "chapters": [
       {
         "start": 954,
-        "author": "Frank"
+        "end": 958,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -10110,11 +10255,13 @@
     "lemma": "Oreithyia 5",
     "previous": "Oreithyia 4",
     "next": "Oreithyia 6",
+    "proof_read": 0,
     "short_description": "Mänade auf einem rotfig.-Stamnos des Pamphaios aus Cerveteri",
     "chapters": [
       {
         "start": 958,
-        "author": "Frank"
+        "end": 958,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -10122,11 +10269,13 @@
     "lemma": "Oreithyia 6",
     "previous": "Oreithyia 5",
     "next": "Oreithyia 7",
+    "proof_read": 0,
     "short_description": "Nymphe",
     "chapters": [
       {
         "start": 958,
-        "author": "Frank"
+        "end": 958,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -10134,11 +10283,13 @@
     "lemma": "Oreithyia 7",
     "previous": "Oreithyia 6",
     "next": "Oreithyia 8",
+    "proof_read": 0,
     "short_description": "Amazonenkönigin",
     "chapters": [
       {
         "start": 958,
-        "author": "Frank"
+        "end": 958,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -10174,11 +10325,13 @@
     "lemma": "Ore(n)s(is)",
     "previous": "Oreius",
     "next": "Ὀρέντης",
+    "proof_read": 0,
     "short_description": "Centuria (=Sippe) beim heutigen Sevilla",
     "chapters": [
       {
         "start": 958,
-        "author": "Schulten"
+        "end": 958,
+        "author": "Schulten."
       }
     ]
   },
@@ -10242,11 +10395,13 @@
     "lemma": "Oreos",
     "previous": "Oreophylax",
     "next": "Oresbios 1",
+    "proof_read": 0,
     "short_description": "Kome von Histiaia auf Euboia, später Mittelpunkt einer attischen Kleruchie",
     "chapters": [
       {
         "start": 959,
-        "author": "Geyer"
+        "end": 959,
+        "author": "Geyer."
       }
     ]
   },
@@ -10254,11 +10409,13 @@
     "lemma": "Oresbios 1",
     "previous": "Oreos",
     "next": "Oresbios 2",
+    "proof_read": 0,
     "short_description": "Adeliger Boiotier",
     "chapters": [
       {
         "start": 959,
-        "author": "Hanslik"
+        "end": 959,
+        "author": "Hanslik."
       }
     ]
   },
@@ -10309,11 +10466,13 @@
     "lemma": "Oresius 1",
     "previous": "Oresinios",
     "next": "Oresius 2",
+    "proof_read": 0,
     "short_description": "Adressat des Sidonius Apollinaris",
     "chapters": [
       {
         "start": 960,
-        "author": "Enßlin"
+        "end": 960,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10321,11 +10480,13 @@
     "lemma": "Oresius 2",
     "previous": "Oresius 1",
     "next": "Oresius 3",
+    "proof_read": 0,
     "short_description": "Bischof von Massilia",
     "chapters": [
       {
         "start": 960,
-        "author": "Enßlin"
+        "end": 960,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10348,11 +10509,13 @@
     "lemma": "Orestadas",
     "previous": "Oresius 3",
     "next": "Orestai",
+    "proof_read": 0,
     "short_description": "Pythagoreer aus Metapont",
     "chapters": [
       {
         "start": 960,
-        "author": "Fritz"
+        "end": 960,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -10360,11 +10523,13 @@
     "lemma": "Orestai",
     "previous": "Orestadas",
     "next": "Oreste",
+    "proof_read": 0,
     "short_description": "Illyrischer Stamm in Epirus, später Makedonien",
     "chapters": [
       {
         "start": 960,
-        "author": "Schmidt"
+        "end": 965,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10372,11 +10537,13 @@
     "lemma": "Oreste",
     "previous": "Orestai",
     "next": "Oresteia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 965,
-        "author": "Geyer"
+        "end": 965,
+        "author": "Geyer."
       }
     ]
   },
@@ -10384,11 +10551,13 @@
     "lemma": "Oresteia",
     "previous": "Oreste",
     "next": "Oresteion",
+    "proof_read": 0,
     "short_description": "Beiname der Diana-Artemis",
     "chapters": [
       {
         "start": 965,
-        "author": "Kruse"
+        "end": 966,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -10409,11 +10578,13 @@
     "lemma": "Orestes 1",
     "previous": "Oresteion",
     "next": "Orestes 2",
+    "proof_read": 0,
     "short_description": "Sohn des Agamemnon",
     "chapters": [
       {
         "start": 966,
-        "author": "Lesky"
+        "end": 1010,
+        "author": "Lesky."
       }
     ]
   },
@@ -10498,11 +10669,13 @@
     "lemma": "Orestes 7",
     "previous": "Orestes 6",
     "next": "Orestes 8",
+    "proof_read": 0,
     "short_description": "Sohn des Echekratidas",
     "chapters": [
       {
         "start": 1010,
-        "author": "Miller"
+        "end": 1010,
+        "author": "J. Miller."
       }
     ]
   },
@@ -10524,11 +10697,13 @@
     "lemma": "Orestes 9",
     "previous": "Orestes 8",
     "next": "Orestes 10",
+    "proof_read": 0,
     "short_description": "Athenischer Beiname eines übermütigen Jünglings",
     "chapters": [
       {
         "start": 1010,
-        "author": "Kroll"
+        "end": 1011,
+        "author": "Kroll."
       }
     ]
   },
@@ -10536,11 +10711,13 @@
     "lemma": "Orestes 10",
     "previous": "Orestes 9",
     "next": "Orestes 11",
+    "proof_read": 0,
     "short_description": "Beiname eines Zweiges der Gens Aurelia in Rom",
     "chapters": [
       {
         "start": 1011,
-        "author": "Münzer"
+        "end": 1011,
+        "author": "Münzer."
       }
     ]
   },
@@ -10548,11 +10725,13 @@
     "lemma": "Orestes 11",
     "previous": "Orestes 10",
     "next": "Orestes 12",
+    "proof_read": 0,
     "short_description": "Praefectus Augustalis in Aegypten 412-415/16 n. Chr.",
     "chapters": [
       {
         "start": 1011,
-        "author": "Enßlin"
+        "end": 1012,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10560,11 +10739,13 @@
     "lemma": "Orestes 12",
     "previous": "Orestes 11",
     "next": "Orestes 13",
+    "proof_read": 0,
     "short_description": "Sohn des Tatulus",
     "chapters": [
       {
         "start": 1012,
-        "author": "Enßlin"
+        "end": 1013,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10572,11 +10753,13 @@
     "lemma": "Orestes 13",
     "previous": "Orestes 12",
     "next": "Orestes 14",
+    "proof_read": 0,
     "short_description": "Flavius Rufius Gennadius Probus cos. 530 n. Chr.",
     "chapters": [
       {
         "start": 1013,
-        "author": "Enßlin"
+        "end": 1013,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10584,11 +10767,13 @@
     "lemma": "Orestes 14",
     "previous": "Orestes 13",
     "next": "Orestes 15",
+    "proof_read": 0,
     "short_description": "Bischof und Metropolit von Anazarbos",
     "chapters": [
       {
         "start": 1013,
-        "author": "Enßlin"
+        "end": 1013,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10596,11 +10781,13 @@
     "lemma": "Orestes 15",
     "previous": "Orestes 14",
     "next": "Orestes 16",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 1013,
-        "author": "Lippold, Georg"
+        "end": 1014,
+        "author": "Lippold."
       }
     ]
   },
@@ -10621,11 +10808,13 @@
     "lemma": "Oresthasion",
     "previous": "Orestes 16",
     "next": "Orestheion",
+    "proof_read": 0,
     "short_description": "Ort südl. des Weges Megalopolis - Asea-Tegea",
     "chapters": [
       {
         "start": 1014,
-        "author": "Meyer, Eduard"
+        "end": 1016,
+        "author": "E. Meyer."
       }
     ]
   },
@@ -10646,11 +10835,13 @@
     "lemma": "Orestheus 1",
     "previous": "Orestheion",
     "next": "Orestheus 2",
+    "proof_read": 0,
     "short_description": "Sohn des Lykaon",
     "chapters": [
       {
         "start": 1016,
-        "author": "Hanslik"
+        "end": 1016,
+        "author": "Hanslik."
       }
     ]
   },
@@ -10658,11 +10849,13 @@
     "lemma": "Orestheus 2",
     "previous": "Orestheus 1",
     "next": "Oresthis",
+    "proof_read": 0,
     "short_description": "Sohn des Deukalion",
     "chapters": [
       {
         "start": 1016,
-        "author": "Hanslik"
+        "end": 1016,
+        "author": "Hanslik."
       }
     ]
   },
@@ -10709,11 +10902,13 @@
     "lemma": "Orestias 2, Orestia",
     "previous": "Orestias 1",
     "next": "Orestinos",
+    "proof_read": 0,
     "short_description": "Alter Name von Hadrianopolis",
     "chapters": [
       {
         "start": 1016,
-        "author": "Oberhummer"
+        "end": 1016,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -10721,11 +10916,13 @@
     "lemma": "Orestinos",
     "previous": "Orestias 2, Orestia",
     "next": "Orestis portus",
+    "proof_read": 0,
     "short_description": "Gewährsmann bei Herakleides von Tarent",
     "chapters": [
       {
         "start": 1017,
-        "author": "Diller"
+        "end": 1017,
+        "author": "Diller."
       }
     ]
   },
@@ -10733,11 +10930,14 @@
     "lemma": "Orestis portus",
     "previous": "Orestinos",
     "next": "Oretae",
-    "short_description": "= Portus Orestis Bd XXII, Hafen an der W-Küste von Bruttium",
+    "sort_key": "Orestisportus",
+    "proof_read": 0,
+    "short_description": "Portus Orestis Bd XXII, Hafen an der W-Küste von Bruttium",
     "chapters": [
       {
         "start": 1017,
-        "author": "Philipp"
+        "end": 1017,
+        "author": "Philipp."
       }
     ]
   },
@@ -10745,11 +10945,13 @@
     "lemma": "Oretae",
     "previous": "Orestis portus",
     "next": "Oretana iuga",
+    "proof_read": 0,
     "short_description": "Indischer Volksstamm",
     "chapters": [
       {
         "start": 1017,
-        "author": "Stein, O[tto]"
+        "end": 1018,
+        "author": "O. Stein."
       }
     ]
   },
@@ -10773,11 +10975,13 @@
     "lemma": "Oretani",
     "previous": "Oretana iuga",
     "next": "Oretum",
+    "proof_read": 0,
     "short_description": "Iberischer Stamm",
     "chapters": [
       {
         "start": 1018,
-        "author": "Schulten"
+        "end": 1019,
+        "author": "Schulten."
       }
     ]
   },
@@ -10785,11 +10989,13 @@
     "lemma": "Oretum",
     "previous": "Oretani",
     "next": "Orevaius",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1019,
-        "author": "Schulten"
+        "end": 1019,
+        "author": "Schulten."
       }
     ]
   },
@@ -10797,11 +11003,13 @@
     "lemma": "Orevaius",
     "previous": "Oretum",
     "next": "Orexartes",
+    "proof_read": 0,
     "short_description": "Lokalgottheit aus den Seealpen",
     "chapters": [
       {
         "start": 1019,
-        "author": "Heichelheim"
+        "end": 1019,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -10822,11 +11030,13 @@
     "lemma": "Orfidienus",
     "previous": "Orexartes",
     "next": "Orfidius 1",
+    "proof_read": 0,
     "short_description": "Sex. Person",
     "chapters": [
       {
         "start": 1019,
-        "author": "Münzer"
+        "end": 1019,
+        "author": "Münzer."
       }
     ]
   },
@@ -10834,11 +11044,13 @@
     "lemma": "Orfidius 1",
     "previous": "Orfidienus",
     "next": "Orfidius 2",
+    "proof_read": 0,
     "short_description": "Orfidia Procula, verwandte des C. Orfidius Benignus Nr. 2",
     "chapters": [
       {
         "start": 1019,
-        "author": "Groag"
+        "end": 1020,
+        "author": "Groag."
       }
     ]
   },
@@ -10846,11 +11058,13 @@
     "lemma": "Orfidius 2",
     "previous": "Orfidius 1",
     "next": "Orfitus 1",
+    "proof_read": 0,
     "short_description": "Benignus, C. Anhänger des Otho",
     "chapters": [
       {
         "start": 1020,
-        "author": "Hoffmann"
+        "end": 1020,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -10872,11 +11086,13 @@
     "lemma": "Orfitus 2",
     "previous": "Orfitus 1",
     "next": "Orfitus 3",
+    "proof_read": 0,
     "short_description": "Zwei hiereis einer bakchischen Mystengemeinde bei Tusculum",
     "chapters": [
       {
         "start": 1020,
-        "author": "Groag"
+        "end": 1020,
+        "author": "Groag."
       }
     ]
   },
@@ -10884,11 +11100,13 @@
     "lemma": "Orfitus 3",
     "previous": "Orfitus 2",
     "next": "Orfitus 4",
+    "proof_read": 0,
     "short_description": "Trat in unerlaubte Beziehung zu Kaiserin Faustina",
     "chapters": [
       {
         "start": 1020,
-        "author": "Stein, [Arthur]"
+        "end": 1020,
+        "author": "Stein."
       }
     ]
   },
@@ -10896,11 +11114,13 @@
     "lemma": "Orfitus 4",
     "previous": "Orfitus 3",
     "next": "Orfitus 5",
+    "proof_read": 0,
     "short_description": "Procurator unter Septimius Severus und Caracalla",
     "chapters": [
       {
         "start": 1020,
-        "author": "Stein, [Arthur]"
+        "end": 1020,
+        "author": "Stein."
       }
     ]
   },
@@ -10908,11 +11128,13 @@
     "lemma": "Orfitus 5",
     "previous": "Orfitus 4",
     "next": "Orfitus 6",
+    "proof_read": 0,
     "short_description": "L. Cornelius Scipio Augur s. Cornelius Nr. 358",
     "chapters": [
       {
         "start": 1020,
-        "author": "Enßlin"
+        "end": 1020,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10920,11 +11142,13 @@
     "lemma": "Orfitus 6",
     "previous": "Orfitus 5",
     "next": "Orfitus 7",
+    "proof_read": 0,
     "short_description": "Honorius, Memmius Vitrasius s. Symmachus Nr. 16. 17",
     "chapters": [
       {
         "start": 1021,
-        "author": "Enßlin"
+        "end": 1021,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10947,11 +11171,13 @@
     "lemma": "Orfitus 8",
     "previous": "Orfitus 7",
     "next": "Orfius 1",
+    "proof_read": 0,
     "short_description": "Presbyter",
     "chapters": [
       {
         "start": 1021,
-        "author": "Enßlin"
+        "end": 1021,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10959,54 +11185,64 @@
     "lemma": "Orfius 1",
     "previous": "Orfitus 8",
     "next": "Orfius 2",
+    "proof_read": 0,
     "short_description": "M. Kriegstribun unter Caesar in Gallien",
     "chapters": [
       {
         "start": 1021,
-        "author": "Münzer"
+        "end": 1021,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Orfius 2",
     "previous": "Orfius 1",
-    "next": "Orgaleus",
+    "next": "Ὀργαλεύς",
+    "proof_read": 0,
     "short_description": "Rufus, M. Triumvir aere argento auro flando feriundo",
     "chapters": [
       {
         "start": 1021,
-        "author": "Hoffmann"
+        "end": 1021,
+        "author": "W. Hoffmann."
       }
     ]
   },
   {
-    "lemma": "Orgaleus",
+    "lemma": "Ὀργαλεύς",
     "previous": "Orfius 2",
-    "next": "Orgalikos",
+    "next": "Ὀργαλικός",
+    "sort_key": "Orgaleus",
+    "proof_read": 0,
     "short_description": "Ethnikon auf einer Inschr. aus Geseljesü",
     "chapters": [
       {
         "start": 1021,
-        "author": "Ruge"
+        "end": 1022,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Orgalikos",
-    "previous": "Orgaleus",
+    "lemma": "Ὀργαλικός",
+    "previous": "Ὀργαλεύς",
     "next": "Orgame",
+    "sort_key": "Orgalikos",
+    "proof_read": 0,
     "short_description": "Meerbusen an der O-Küste Indiens",
     "chapters": [
       {
         "start": 1022,
-        "author": "Stein, O[tto]"
+        "end": 1022,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Orgame",
-    "previous": "Orgalikos",
-    "next": "Organa",
+    "previous": "Ὀργαλικός",
+    "next": "Ὀργάνα",
     "proof_read": 3,
     "short_description": "Ort",
     "chapters": [
@@ -11018,26 +11254,36 @@
     ]
   },
   {
-    "lemma": "Organa",
+    "lemma": "Ὀργάνα",
     "previous": "Orgame",
     "next": "Organagae",
+    "sort_key": "Organa",
+    "proof_read": 0,
     "short_description": "Insel des persischen Golfs",
     "chapters": [
       {
         "start": 1022,
-        "author": "Stein, O[tto]"
+        "end": 1022,
+        "author": "O. Stein."
+      },
+      {
+        "start": 1022,
+        "end": 1023,
+        "author": "Adolf Grohmann."
       }
     ]
   },
   {
     "lemma": "Organagae",
-    "previous": "Organa",
+    "previous": "Ὀργάνα",
     "next": "Organe",
+    "proof_read": 0,
     "short_description": "Indische Völkerschaft",
     "chapters": [
       {
         "start": 1023,
-        "author": "Stein, O[tto]"
+        "end": 1023,
+        "author": "O. Stein."
       }
     ]
   },
@@ -11045,11 +11291,13 @@
     "lemma": "Organe",
     "previous": "Organagae",
     "next": "Organon",
+    "proof_read": 0,
     "short_description": "Epiklesis der Athena",
     "chapters": [
       {
         "start": 1023,
-        "author": "Kruse"
+        "end": 1023,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -11070,11 +11318,13 @@
     "lemma": "Orgas 1",
     "previous": "Organon",
     "next": "Orgas 2",
+    "proof_read": 0,
     "short_description": "Epiklesis der Athena",
     "chapters": [
       {
         "start": 1023,
-        "author": "Kruse"
+        "end": 1024,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -11108,18 +11358,20 @@
     "lemma": "Orgasoi",
     "previous": "Orgas 3",
     "next": "Orgatha",
+    "proof_read": 0,
     "short_description": "Volk in Scythia intra Imaum",
     "chapters": [
       {
         "start": 1024,
-        "author": "Herrmann"
+        "end": 1024,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Orgatha",
     "previous": "Orgasoi",
-    "next": "Orgenomesei",
+    "next": "Orgenomesci",
     "redirect": "Orthaga",
     "proof_read": 2,
     "chapters": [
@@ -11130,38 +11382,46 @@
     ]
   },
   {
-    "lemma": "Orgenomesei",
+    "lemma": "Orgenomesci",
     "previous": "Orgatha",
-    "next": "Orgeones",
+    "next": "Ὀργεῶνες",
+    "sort_key": "Orgenomesci",
+    "proof_read": 0,
     "short_description": "Stamm der Kantabrer",
     "chapters": [
       {
         "start": 1024,
-        "author": "Schulten"
+        "end": 1024,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Orgeones",
-    "previous": "Orgenomesei",
+    "lemma": "Ὀργεῶνες",
+    "previous": "Orgenomesci",
     "next": "Orgessus",
+    "sort_key": "Orgeones",
+    "proof_read": 0,
     "short_description": "Mitglieder eines privaten Kultvereins",
     "chapters": [
       {
         "start": 1024,
-        "author": "Ziebarth"
+        "end": 1025,
+        "author": "Ziebarth."
       }
     ]
   },
   {
     "lemma": "Orgessus",
-    "previous": "Orgeones",
+    "previous": "Ὀργεῶνες",
     "next": "Orgetorix",
+    "proof_read": 0,
     "short_description": "Kastell des illyrischen Reiches",
     "chapters": [
       {
         "start": 1025,
-        "author": "Polaschek"
+        "end": 1025,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -11185,11 +11445,13 @@
     "lemma": "Orgia",
     "previous": "Orgetorix",
     "next": "Orgia 2",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1026,
-        "author": "Schulten"
+        "end": 1026,
+        "author": "Schulten."
       }
     ]
   },
@@ -11197,11 +11459,13 @@
     "lemma": "Orgia 2",
     "previous": "Orgia",
     "next": "Orgiago",
+    "proof_read": 0,
     "short_description": "Heilige Handlung",
     "chapters": [
       {
         "start": 1026,
-        "author": "Ziehen"
+        "end": 1029,
+        "author": "Ziehen."
       }
     ]
   },
@@ -11209,11 +11473,13 @@
     "lemma": "Orgiago",
     "previous": "Orgia 2",
     "next": "Orgibate",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1029,
-        "author": "Münzer"
+        "end": 1029,
+        "author": "Münzer."
       }
     ]
   },
@@ -11234,60 +11500,71 @@
   {
     "lemma": "Orgilos",
     "previous": "Orgibate",
-    "next": "Orgocyni",
+    "next": "Orgios",
+    "proof_read": 0,
     "short_description": "Beiname des Dionysos",
     "chapters": [
       {
         "start": 1029,
-        "author": "Kruse"
+        "end": 1029,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Orgocyni",
-    "previous": "Orgilos",
+    "previous": "Orgios",
     "next": "Orgus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1029,
-        "author": "Diehl, Erich"
+        "end": 1029,
+        "author": "Erich Diehl."
       }
     ]
   },
   {
     "lemma": "Orgus",
     "previous": "Orgocyni",
-    "next": "Orgyia",
+    "next": "Ὀργυιά",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Po Orgo",
     "chapters": [
       {
         "start": 1029,
-        "author": "Philipp"
+        "end": 1029,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Orgyia",
+    "lemma": "Ὀργυιά",
     "previous": "Orgus",
     "next": "Ori",
+    "sort_key": "Orgyia",
+    "proof_read": 0,
     "short_description": "Naturmass: Armspanne",
     "chapters": [
       {
         "start": 1029,
-        "author": "Becher"
+        "end": 1030,
+        "author": "Becher."
       }
     ]
   },
   {
     "lemma": "Ori",
-    "previous": "Orgyia",
+    "previous": "Ὀργυιά",
     "next": "Oricus",
+    "proof_read": 0,
     "short_description": "Indischer Volksstamm",
     "chapters": [
       {
         "start": 1030,
-        "author": "Stein, O[tto]"
+        "end": 1031,
+        "author": "O. Stein."
       }
     ]
   },
@@ -11295,11 +11572,13 @@
     "lemma": "Oricus",
     "previous": "Ori",
     "next": "Oriel",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1031,
-        "author": "Enßlin"
+        "end": 1031,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11320,11 +11599,13 @@
     "lemma": "Oriens 1",
     "previous": "Oriel",
     "next": "Oriens 2",
+    "proof_read": 0,
     "short_description": "Dämon des Testamentum Salomonis",
     "chapters": [
       {
         "start": 1031,
-        "author": "Preisendanz"
+        "end": 1031,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -11332,11 +11613,13 @@
     "lemma": "Oriens 2",
     "previous": "Oriens 1",
     "next": "Orientalis",
+    "proof_read": 0,
     "short_description": "Name eines Rennpferdes",
     "chapters": [
       {
         "start": 1031,
-        "author": "Preisendanz"
+        "end": 1031,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -11359,11 +11642,14 @@
     "lemma": "Orientis civitas",
     "previous": "Orientalis",
     "next": "Orientius 1",
+    "sort_key": "Orientiscivitas",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1031,
-        "author": "Honigmann"
+        "end": 1031,
+        "author": "Honigmann."
       }
     ]
   },
@@ -11371,11 +11657,13 @@
     "lemma": "Orientius 1",
     "previous": "Orientis civitas",
     "next": "Orientius 2",
+    "proof_read": 0,
     "short_description": "Vicarius urbis Romae",
     "chapters": [
       {
         "start": 1031,
-        "author": "Enßlin"
+        "end": 1032,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11383,15 +11671,18 @@
     "lemma": "Orientius 2",
     "previous": "Orientius 1",
     "next": "Orientius 3",
-    "short_description": "Bischof der civitas Ausciorum",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 1032,
-        "author": "Enßlin"
+        "end": 1032,
+        "author": "W. Enßlin."
       },
       {
         "start": 1032,
-        "author": "Wotke"
+        "end": 1033,
+        "author": "F. Wotke."
       }
     ]
   },
@@ -11413,11 +11704,13 @@
     "lemma": "Origanon",
     "previous": "Orientius 3",
     "next": "Origenes 1",
+    "proof_read": 0,
     "short_description": "Berg im NW von Naupaktos",
     "chapters": [
       {
         "start": 1033,
-        "author": "Oldfather"
+        "end": 1033,
+        "author": "Oldfather."
       }
     ]
   },
@@ -11470,11 +11763,13 @@
     "lemma": "Origenes 4",
     "previous": "Origenes 3",
     "next": "Origenes 5",
+    "proof_read": 0,
     "short_description": "Neuplatoniker",
     "chapters": [
       {
         "start": 1033,
-        "author": "Beutler"
+        "end": 1036,
+        "author": "Rudolf Beutler."
       }
     ]
   },
@@ -11522,11 +11817,13 @@
     "lemma": "Orikios",
     "previous": "Origo",
     "next": "Orikos",
+    "proof_read": 0,
     "short_description": "Beiname des Apollon",
     "chapters": [
       {
         "start": 1059,
-        "author": "Kruse"
+        "end": 1059,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -11534,11 +11831,13 @@
     "lemma": "Orikos",
     "previous": "Orikios",
     "next": "Ὀρίμων",
+    "proof_read": 0,
     "short_description": "Hafenstadt in Epeiros",
     "chapters": [
       {
         "start": 1059,
-        "author": "Schmidt"
+        "end": 1062,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -11573,11 +11872,13 @@
     "lemma": "Orinaioi",
     "previous": "Orina",
     "next": "Orine",
+    "proof_read": 0,
     "short_description": "Volk im asiatischen Sarmatien",
     "chapters": [
       {
         "start": 1062,
-        "author": "Kroll"
+        "end": 1062,
+        "author": "Kroll."
       }
     ]
   },
@@ -11585,18 +11886,20 @@
     "lemma": "Orine",
     "previous": "Orinaioi",
     "next": "Orine 2",
+    "proof_read": 0,
     "short_description": "Toparchie Judäas",
     "chapters": [
       {
         "start": 1062,
-        "author": "Hölscher"
+        "end": 1062,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Orine 2",
     "previous": "Orine",
-    "next": "Orines",
+    "next": "Ὀρίνης",
     "redirect": "Oreine",
     "proof_read": 2,
     "chapters": [
@@ -11607,20 +11910,23 @@
     ]
   },
   {
-    "lemma": "Orines",
+    "lemma": "Ὀρίνης",
     "previous": "Orine 2",
     "next": "Oringis",
+    "sort_key": "Orines",
+    "proof_read": 0,
     "short_description": "kleros -, Domäne im Gebiet von Augustopolis",
     "chapters": [
       {
         "start": 1062,
-        "author": "Ruge"
+        "end": 1063,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Oringis",
-    "previous": "Orines",
+    "previous": "Ὀρίνης",
     "next": "Orinos",
     "redirect": "Orongis",
     "proof_read": 2,
@@ -11635,11 +11941,13 @@
     "lemma": "Orinos",
     "previous": "Oringis",
     "next": "Orioi",
+    "proof_read": 0,
     "short_description": "Fluß an der O-Küste Siziliens",
     "chapters": [
       {
         "start": 1063,
-        "author": "Kroll"
+        "end": 1063,
+        "author": "Kroll."
       }
     ]
   },
@@ -11647,11 +11955,13 @@
     "lemma": "Orioi",
     "previous": "Orinos",
     "next": "Orion 1",
+    "proof_read": 0,
     "short_description": "Bewohner einer Stadt auf Kreta",
     "chapters": [
       {
         "start": 1063,
-        "author": "Kirsten"
+        "end": 1065,
+        "author": "Kirsten."
       }
     ]
   },
@@ -11659,11 +11969,13 @@
     "lemma": "Orion 1",
     "previous": "Orioi",
     "next": "Orion 2",
+    "proof_read": 0,
     "short_description": "Sohn des Zeus oder aus der Erde erwachsen",
     "chapters": [
       {
         "start": 1065,
-        "author": "Wehrli"
+        "end": 1082,
+        "author": "F. Wehrli."
       }
     ]
   },
@@ -11671,11 +11983,13 @@
     "lemma": "Orion 2",
     "previous": "Orion 1",
     "next": "Orion 3",
+    "proof_read": 0,
     "short_description": "Epikureer",
     "chapters": [
       {
         "start": 1082,
-        "author": "Philippson"
+        "end": 1083,
+        "author": "R. Philippson."
       }
     ]
   },
@@ -11683,11 +11997,13 @@
     "lemma": "Orion 3",
     "previous": "Orion 2",
     "next": "Orion 4",
+    "proof_read": 0,
     "short_description": "Grammatiker",
     "chapters": [
       {
         "start": 1083,
-        "author": "Wendel"
+        "end": 1087,
+        "author": "Wendel."
       }
     ]
   },
@@ -11695,11 +12011,13 @@
     "lemma": "Orion 4",
     "previous": "Orion 3",
     "next": "Orion 5",
+    "proof_read": 0,
     "short_description": "Comes rerum privatarum unter Kaiser Constans",
     "chapters": [
       {
         "start": 1087,
-        "author": "Enßlin"
+        "end": 1087,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11707,11 +12025,13 @@
     "lemma": "Orion 5",
     "previous": "Orion 4",
     "next": "Orion 6",
+    "proof_read": 0,
     "short_description": "Freund des Libanios",
     "chapters": [
       {
         "start": 1087,
-        "author": "Enßlin"
+        "end": 1087,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11719,11 +12039,13 @@
     "lemma": "Orion 6",
     "previous": "Orion 5",
     "next": "Orion 7",
+    "proof_read": 0,
     "short_description": "Reicher Mann aus Aila am Roten Meer",
     "chapters": [
       {
         "start": 1087,
-        "author": "Enßlin"
+        "end": 1087,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11731,11 +12053,13 @@
     "lemma": "Orion 7",
     "previous": "Orion 6",
     "next": "Orion 8",
+    "proof_read": 0,
     "short_description": "Dux limitis Thebaici",
     "chapters": [
       {
         "start": 1087,
-        "author": "Enßlin"
+        "end": 1088,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11743,11 +12067,13 @@
     "lemma": "Orion 8",
     "previous": "Orion 7",
     "next": "Orion 9",
+    "proof_read": 0,
     "short_description": "Bischof von Ilion",
     "chapters": [
       {
         "start": 1088,
-        "author": "Enßlin"
+        "end": 1088,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11755,11 +12081,13 @@
     "lemma": "Orion 9",
     "previous": "Orion 8",
     "next": "Orion 10",
+    "proof_read": 0,
     "short_description": "Presbyter in der Mareotis",
     "chapters": [
       {
         "start": 1088,
-        "author": "Enßlin"
+        "end": 1088,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11767,11 +12095,13 @@
     "lemma": "Orion 10",
     "previous": "Orion 9",
     "next": "Orion 11",
+    "proof_read": 0,
     "short_description": "Aegyptischer Bischof",
     "chapters": [
       {
         "start": 1088,
-        "author": "Enßlin"
+        "end": 1088,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11779,11 +12109,13 @@
     "lemma": "Orion 11",
     "previous": "Orion 10",
     "next": "Orippo",
+    "proof_read": 0,
     "short_description": "Bischof von Erythron",
     "chapters": [
       {
         "start": 1088,
-        "author": "Enßlin"
+        "end": 1088,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11791,11 +12123,13 @@
     "lemma": "Orippo",
     "previous": "Orion 11",
     "next": "Oritanum",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1088,
-        "author": "Schulten"
+        "end": 1088,
+        "author": "Schulten."
       }
     ]
   },
@@ -11803,18 +12137,20 @@
     "lemma": "Oritanum",
     "previous": "Orippo",
     "next": "Orius",
+    "proof_read": 0,
     "short_description": "Ort?",
     "chapters": [
       {
         "start": 1088,
-        "author": "Geyer"
+        "end": 1088,
+        "author": "Geyer."
       }
     ]
   },
   {
     "lemma": "Orius",
     "previous": "Oritanum",
-    "next": "Oriza",
+    "next": "Ὄριζα",
     "redirect": "Oreios 7",
     "proof_read": 2,
     "chapters": [
@@ -11825,20 +12161,23 @@
     ]
   },
   {
-    "lemma": "Oriza",
+    "lemma": "Ὄριζα",
     "previous": "Orius",
     "next": "Orka",
+    "sort_key": "Oriza",
+    "proof_read": 0,
     "short_description": "Stadt in der syrischen Landschaft Palmyrene",
     "chapters": [
       {
         "start": 1088,
-        "author": "Honigmann"
+        "end": 1089,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Orka",
-    "previous": "Oriza",
+    "previous": "Ὄριζα",
     "next": "Ορκαιμανείτης",
     "redirect": "Orkoi",
     "proof_read": 2,
@@ -11852,7 +12191,7 @@
   {
     "lemma": "Ορκαιμανείτης",
     "previous": "Orka",
-    "next": "Orkaomaneites",
+    "next": "Ὀρκαομανείτης",
     "sort_key": "Orkaimaneites",
     "redirect": "Orkaomaneites",
     "proof_read": 2,
@@ -11864,26 +12203,31 @@
     ]
   },
   {
-    "lemma": "Orkaomaneites",
+    "lemma": "Ὀρκαομανείτης",
     "previous": "Ορκαιμανείτης",
     "next": "Orkaorkoi",
+    "sort_key": "Orkaomaneites",
+    "proof_read": 0,
     "short_description": "Ethnikon auf einem Zeusrelief",
     "chapters": [
       {
         "start": 1089,
-        "author": "Ruge"
+        "end": 1089,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Orkaorkoi",
-    "previous": "Orkaomaneites",
+    "previous": "Ὀρκαομανείτης",
     "next": "Orkatos",
+    "proof_read": 0,
     "short_description": "Ort oder Stamm an der SW-Grenze von Galatien",
     "chapters": [
       {
         "start": 1089,
-        "author": "Ruge"
+        "end": 1090,
+        "author": "Ruge."
       }
     ]
   },
@@ -11891,11 +12235,13 @@
     "lemma": "Orkatos",
     "previous": "Orkaorkoi",
     "next": "Orkelis 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1090,
-        "author": "Schmidt"
+        "end": 1090,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -11903,11 +12249,13 @@
     "lemma": "Orkelis 1",
     "previous": "Orkatos",
     "next": "Orkelis 2",
+    "proof_read": 0,
     "short_description": "Binnenstadt in O-Thrakien",
     "chapters": [
       {
         "start": 1090,
-        "author": "Oberhummer"
+        "end": 1090,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -11915,23 +12263,27 @@
     "lemma": "Orkelis 2",
     "previous": "Orkelis 1",
     "next": "Orkistos",
+    "proof_read": 0,
     "short_description": "Stadt der Bastitaner",
     "chapters": [
       {
         "start": 1090,
-        "author": "Schulten"
+        "end": 1090,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Orkistos",
     "previous": "Orkelis 2",
-    "next": "Orkoi",
+    "next": "Orkoi (-a?)",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygien",
     "chapters": [
       {
         "start": 1090,
-        "author": "Ruge"
+        "end": 1097,
+        "author": "Ruge."
       }
     ]
   },
@@ -11950,7 +12302,7 @@
   {
     "lemma": "Orkynia",
     "previous": "Orkoi",
-    "next": "Ormana",
+    "next": "Ορμανα",
     "short_description": "Ort",
     "chapters": [
       {
@@ -11960,33 +12312,51 @@
     ]
   },
   {
-    "lemma": "Ormana",
-    "previous": "Orkynia",
+    "lemma": "Ορμανα",
+    "previous": "Orkynia (-oi?)",
     "next": "Ormanos",
+    "sort_key": "Ormana",
+    "proof_read": 0,
     "short_description": "Ort?",
     "chapters": [
       {
         "start": 1097,
-        "author": "Hölscher"
+        "end": 1097,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Ormanos",
-    "previous": "Ormana",
-    "next": "demos Ormeleon",
+    "previous": "Ορμανα",
+    "next": "δῆμος Ὀρμηλέων",
+    "proof_read": 0,
     "short_description": "Fluß in Arabia Felix",
     "chapters": [
       {
         "start": 1097,
-        "author": "Grohmann"
+        "end": 1098,
+        "author": "Grohmann."
+      }
+    ]
+  },
+  {
+    "lemma": "δῆμος Ὀρμηλέων",
+    "previous": "Ormanos",
+    "next": "Ormenides",
+    "sort_key": "ormeleon,demos",
+    "proof_read": 0,
+    "short_description": "Kaiserliche Domäne in Phrygien",
+    "chapters": [
+      {
+        "start": 1098,
+        "end": 1105,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "demos Ormeleon",
-    "previous": "Ormanos",
-    "next": "Ormenides 1",
     "sort_key": "Ormeleon",
     "short_description": "Kaiserliche Domäne in Phrygien",
     "chapters": [
@@ -11997,14 +12367,30 @@
     ]
   },
   {
+    "lemma": "Ormenides",
+    "previous": "δῆμος Ὀρμηλέων",
+    "next": "Ormenides 1",
+    "proof_read": 0,
+    "short_description": "zum namen",
+    "chapters": [
+      {
+        "start": 1105,
+        "end": 1105,
+        "author": "Eva Frank."
+      }
+    ]
+  },
+  {
     "lemma": "Ormenides 1",
-    "previous": "demos Ormeleon",
+    "previous": "Ormenides",
     "next": "Ormenides 2",
+    "proof_read": 0,
     "short_description": "Ktesios, Sohn des Ormenos",
     "chapters": [
       {
         "start": 1105,
-        "author": "Frank"
+        "end": 1105,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -12012,11 +12398,13 @@
     "lemma": "Ormenides 2",
     "previous": "Ormenides 1",
     "next": "Ormenion",
+    "proof_read": 0,
     "short_description": "Amyntor, Sohn des Ormenos",
     "chapters": [
       {
         "start": 1105,
-        "author": "Frank"
+        "end": 1105,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -12024,11 +12412,13 @@
     "lemma": "Ormenion",
     "previous": "Ormenides 2",
     "next": "Ormenios",
+    "proof_read": 0,
     "short_description": "Homerische Stadt",
     "chapters": [
       {
         "start": 1105,
-        "author": "Meyer, Ernst"
+        "end": 1107,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -12049,11 +12439,13 @@
     "lemma": "Ormenis",
     "previous": "Ormenios",
     "next": "Ormenos 1",
+    "proof_read": 0,
     "short_description": "Tochter oder Enkelin des Ormenos",
     "chapters": [
       {
         "start": 1107,
-        "author": "Frank"
+        "end": 1107,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -12061,11 +12453,13 @@
     "lemma": "Ormenos 1",
     "previous": "Ormenis",
     "next": "Ormenos 2",
+    "proof_read": 0,
     "short_description": "Troer, von Teukros getötet",
     "chapters": [
       {
         "start": 1107,
-        "author": "Frank"
+        "end": 1107,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -12073,11 +12467,13 @@
     "lemma": "Ormenos 2",
     "previous": "Ormenos 1",
     "next": "Ormenos 3",
+    "proof_read": 0,
     "short_description": "Troer, von Polypoites getötet",
     "chapters": [
       {
         "start": 1107,
-        "author": "Frank"
+        "end": 1107,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -12085,11 +12481,13 @@
     "lemma": "Ormenos 3",
     "previous": "Ormenos 2",
     "next": "Ormenos 4",
+    "proof_read": 0,
     "short_description": "Vater des Kresios",
     "chapters": [
       {
         "start": 1107,
-        "author": "Frank"
+        "end": 1107,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -12097,11 +12495,13 @@
     "lemma": "Ormenos 4",
     "previous": "Ormenos 3",
     "next": "Ormenos 5",
+    "proof_read": 0,
     "short_description": "Vater des Amyntor",
     "chapters": [
       {
         "start": 1107,
-        "author": "Frank"
+        "end": 1107,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -12109,11 +12509,13 @@
     "lemma": "Ormenos 5",
     "previous": "Ormenos 4",
     "next": "Orminion 1",
+    "proof_read": 0,
     "short_description": "Freier der Penelope",
     "chapters": [
       {
         "start": 1107,
-        "author": "Frank"
+        "end": 1107,
+        "author": "Eva Frank."
       }
     ]
   },
@@ -12133,11 +12535,13 @@
     "lemma": "Orminion 2",
     "previous": "Orminion 1",
     "next": "Ormisdas 1",
+    "proof_read": 0,
     "short_description": "Gebirge in Bithynien",
     "chapters": [
       {
         "start": 1109,
-        "author": "Ruge"
+        "end": 1109,
+        "author": "Ruge."
       }
     ]
   },
@@ -12158,41 +12562,48 @@
     "lemma": "Ormisdas 2",
     "previous": "Ormisdas 1",
     "next": "Ormisdas 3",
+    "proof_read": 0,
     "short_description": "Bischof in Persien",
     "chapters": [
       {
         "start": 1110,
-        "author": "Enßlin"
+        "end": 1110,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Ormisdas 3",
     "previous": "Ormisdas 2",
-    "next": "Ormiza",
+    "next": "Ὄρμιζα",
+    "proof_read": 0,
     "short_description": "Christlicher Bekenner aus vornehmem Haus unter König Bahram",
     "chapters": [
       {
         "start": 1110,
-        "author": "Enßlin"
+        "end": 1110,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
-    "lemma": "Ormiza",
+    "lemma": "Ὄρμιζα",
     "previous": "Ormisdas 3",
     "next": "Ormizd",
+    "sort_key": "Ormiza",
+    "proof_read": 0,
     "short_description": "Kome in Arabien",
     "chapters": [
       {
         "start": 1110,
-        "author": "Hölscher"
+        "end": 1110,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Ormizd",
-    "previous": "Ormiza",
+    "previous": "Ὄρμιζα",
     "next": "Orna",
     "redirect": "Hormisdas 1",
     "proof_read": 2,
@@ -12207,11 +12618,13 @@
     "lemma": "Orna",
     "previous": "Ormizd",
     "next": "Ornaï",
+    "proof_read": 0,
     "short_description": "Fluß in Gallia Belgica",
     "chapters": [
       {
         "start": 1110,
-        "author": "Goessler"
+        "end": 1110,
+        "author": "Goessler."
       }
     ]
   },
