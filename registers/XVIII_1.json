@@ -2729,7 +2729,7 @@
   {
     "lemma": "Omôsôsô",
     "previous": "Omoplatoskopia",
-    "next": "omothetein",
+    "next": "ὠμοθετεῖν",
     "proof_read": 0,
     "short_description": "Zauber- oder Dämonenname",
     "chapters": [
@@ -2741,19 +2741,22 @@
     ]
   },
   {
-    "lemma": "omothetein",
+    "lemma": "ὠμοθετεῖν",
     "previous": "Omôsôsô",
     "next": "Omphake",
+    "sort_key": "omothetein",
+    "proof_read": 0,
     "chapters": [
       {
-        "start": 383,
-        "author": "Preisendanz"
+        "start": 384,
+        "end": 384,
+        "author": "Ludwig Ziehen."
       }
     ]
   },
   {
     "lemma": "Omphake",
-    "previous": "omothetein",
+    "previous": "ὠμοθετεῖν",
     "next": "Omphakites",
     "proof_read": 0,
     "chapters": [
@@ -5708,11 +5711,14 @@
     "lemma": "Ὀφιώδης 1",
     "previous": "Ophieis",
     "next": "Ὀφιώδης 2",
+    "sort_key": "Ophiodes 1",
+    "proof_read": 0,
     "short_description": "Fluß in N-Afrika",
     "chapters": [
       {
         "start": 643,
-        "author": "Windberg"
+        "end": 643,
+        "author": "Windberg."
       }
     ]
   },
@@ -8688,11 +8694,14 @@
     "lemma": "Ὀραγῶν",
     "previous": "Oraendos 2",
     "next": "Orai",
+    "sort_key": "Oragon",
+    "proof_read": 0,
     "short_description": "Kloster in der Provinz Syria II",
     "chapters": [
       {
         "start": 828,
-        "author": "Honigmann"
+        "end": 828,
+        "author": "Honigmann."
       }
     ]
   },
@@ -10368,11 +10377,14 @@
     "lemma": "Ὀρεοφάντα",
     "previous": "Orentio",
     "next": "Oreophylax",
+    "sort_key": "Oreophanta",
+    "proof_read": 0,
     "short_description": "Stadt am Ganges",
     "chapters": [
       {
         "start": 959,
-        "author": "Stein, O[tto]"
+        "end": 959,
+        "author": "O. Stein."
       }
     ]
   },
@@ -13608,11 +13620,14 @@
     "lemma": "Ὀρωναίμ",
     "previous": "Oron",
     "next": "Orondikoi",
+    "sort_key": "Oronaim",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1160,
-        "author": "Hölscher"
+        "end": 1160,
+        "author": "Hölscher."
       }
     ]
   },
@@ -14184,7 +14199,7 @@
   {
     "lemma": "Orostrae",
     "previous": "Orospeda",
-    "next": "Oruion akron",
+    "next": "Ὀρούιον ἄκρον",
     "proof_read": 0,
     "short_description": "Indischer Volksstamm",
     "chapters": [
@@ -14196,8 +14211,23 @@
     ]
   },
   {
+    "lemma": "Ὀρούιον ἄκρον",
+    "previous": "Orostrae",
+    "next": "Ὀρφανισταί",
+    "sort_key": "Oruionakron",
+    "proof_read": 0,
+    "short_description": "Orouion, Kap an der spanischen NW-Küste",
+    "chapters": [
+      {
+        "start": 1197,
+        "end": 1197,
+        "author": "Schulten."
+      }
+    ]
+  },
+  {
     "lemma": "Ὀρφανισταί",
-    "previous": "Oruion akron",
+    "previous": "Ὀρούιον ἄκρον",
     "next": "Orphanoi",
     "sort_key": "Orphanistai",
     "proof_read": 0,
