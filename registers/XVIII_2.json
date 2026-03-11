@@ -1327,6 +1327,7 @@
     "next": "Ortona 3",
     "proof_read": 0,
     "short_description": "Latinerstadt an d. Aequermark",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1506,
@@ -1391,7 +1392,7 @@
   },
   {
     "lemma": "Ὀρτόσπανα",
-    "previous": "Ortoplini",
+    "previous": "Ortoplinia",
     "next": "Ortsgottheiten",
     "sort_key": "Ortospana",
     "proof_read": 0,
@@ -1533,7 +1534,7 @@
     "lemma": "Oruium",
     "previous": "Orvinium",
     "next": "Oruma",
-    "redirect": "Oruion akron",
+    "redirect": "Ὀρούιον ἄκρον",
     "proof_read": 2,
     "chapters": [
       {
@@ -1598,7 +1599,7 @@
   {
     "lemma": "Orus",
     "previous": "Oruros",
-    "next": "Orusos",
+    "next": "Oruros",
     "proof_read": 2,
     "short_description": "Fälschlich als Name eines Steinschneiders angeführt. Brunn Künstlergesch. II",
     "chapters": [
@@ -2376,6 +2377,8 @@
     "next": "Osroës 1",
     "proof_read": 0,
     "short_description": "Landschaft in Mesopotamien",
+    "wp_link": "w:de:Osrhoene",
+    "wd_link": "d:Q237234",
     "chapters": [
       {
         "start": 1589,
@@ -2573,7 +2576,7 @@
     "next": "Ossaios",
     "sort_key": "Ossadioi",
     "proof_read": 0,
-    "short_description": "Indischer Volksstamm",
+    "short_description": "Ossadioi, indischer Volksstamm",
     "chapters": [
       {
         "start": 1597,
@@ -2587,6 +2590,8 @@
     "previous": "Ὀσσάδιοι",
     "next": "Ossarene",
     "proof_read": 0,
+    "short_description": "Epiklesis des Zeus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1598,
@@ -2613,11 +2618,12 @@
     "previous": "Ossarene",
     "next": "Ossiarthe",
     "proof_read": 0,
+    "short_description": "Stadt in Hispanien bei Sevilla, auch Iulia Constantia",
     "chapters": [
       {
         "start": 1598,
         "end": 1598,
-        "author": "Schulten."
+        "author": "A. Schulten."
       }
     ]
   },
@@ -2625,7 +2631,9 @@
     "lemma": "Ossiarthe",
     "previous": "Osset",
     "next": "Ossigi",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "vir clarissimus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1598,
@@ -2694,6 +2702,8 @@
     "next": "Ossona",
     "proof_read": 0,
     "short_description": "Kelt. Volksstamm",
+    "wp_link": "w:de:Osismier",
+    "wd_link": "d:Q594403",
     "chapters": [
       {
         "start": 1602,
@@ -5037,7 +5047,7 @@
   {
     "lemma": "Ovius 3",
     "previous": "Ovius 2",
-    "next": "Oulamos",
+    "next": "Οὐλαμός",
     "proof_read": 3,
     "short_description": "Ovia Person bei Cicero ad Atticum",
     "chapters": [
@@ -5296,7 +5306,7 @@
     ]
   },
   {
-    "lemma": "Ὄξεια ὄρη",
+    "lemma": "Ὤξεια ὄρη",
     "previous": "Oxeia Kampe",
     "next": "Oxeiai",
     "sort_key": "Oxeiaore",
@@ -5311,7 +5321,7 @@
   },
   {
     "lemma": "Oxeiai",
-    "previous": "Ὄξεια ὄρη",
+    "previous": "Ὤξεια ὄρη",
     "next": "Ὠξείανα",
     "proof_read": 0,
     "short_description": "Inseln vor d. Küste Akarnaniens",
@@ -5707,7 +5717,7 @@
   {
     "lemma": "Oxylos 3",
     "previous": "Oxylos 2",
-    "next": "Ὄξύμαγις",
+    "next": "Ὀξύμαγις",
     "proof_read": 0,
     "short_description": "Sohn d. Oreios",
     "chapters": [
@@ -5719,7 +5729,7 @@
     ]
   },
   {
-    "lemma": "Ὄξύμαγις",
+    "lemma": "Ὀξύμαγις",
     "previous": "Oxylos 3",
     "next": "Oxyneia",
     "sort_key": "Oxymagis",
@@ -5735,7 +5745,7 @@
   },
   {
     "lemma": "Oxyneia",
-    "previous": "Ὄξύμαγις",
+    "previous": "Ὀξύμαγις",
     "next": "Oxynios",
     "proof_read": 0,
     "short_description": "Stadt in Thessalia Hestiaiotis",
@@ -6251,11 +6261,13 @@
     "lemma": "pabulatores",
     "previous": "Pabiskos",
     "next": "Pacarius",
+    "proof_read": 0,
     "short_description": "Militär. Abteilungen zur Beschaffung von pabulum",
     "chapters": [
       {
         "start": 2054,
-        "author": "Lambertz"
+        "end": 2056,
+        "author": "Lambertz."
       }
     ]
   },
@@ -6879,11 +6891,13 @@
     "lemma": "Pachomios 2",
     "previous": "Pachomios 1",
     "next": "Pachomios 3",
+    "proof_read": 0,
     "short_description": "Ägypt. Bischof, Anhänger d. Johannes",
     "chapters": [
       {
         "start": 2071,
-        "author": "Enßlin"
+        "end": 2071,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7087,11 +7101,13 @@
     "lemma": "Pacilius 1",
     "previous": "Pacilius",
     "next": "Pacilius 2",
+    "proof_read": 0,
     "short_description": "Osker, Kassenverwalter d. Satirikers Lucilius",
     "chapters": [
       {
         "start": 2081,
-        "author": "Münzer"
+        "end": 2081,
+        "author": "Münzer."
       }
     ]
   },
@@ -7099,11 +7115,13 @@
     "lemma": "Pacilius 2",
     "previous": "Pacilius 1",
     "next": "Pacilius 3",
+    "proof_read": 0,
     "short_description": "M. Aus Thermae/Sizilien",
     "chapters": [
       {
         "start": 2081,
-        "author": "Münzer"
+        "end": 2081,
+        "author": "Münzer."
       }
     ]
   },
@@ -7111,11 +7129,13 @@
     "lemma": "Pacilius 3",
     "previous": "Pacilius 2",
     "next": "Pacilus",
+    "proof_read": 0,
     "short_description": "Pacil[ius...] Zenon Laetus, P. Aus Ficulea",
     "chapters": [
       {
         "start": 2081,
-        "author": "Stein, [Arthur]"
+        "end": 2081,
+        "author": "Stein."
       }
     ]
   },
@@ -7163,11 +7183,14 @@
     "lemma": "Pacis Ara Augustae",
     "previous": "Pacinus",
     "next": "Pacis Forum",
+    "sort_key": "Pacisara augustae",
+    "proof_read": 0,
     "short_description": "Baudenkmal in Rom",
     "chapters": [
       {
         "start": 2082,
-        "author": "Riemann"
+        "end": 2107,
+        "author": "H. Riemann."
       }
     ]
   },
@@ -7175,11 +7198,14 @@
     "lemma": "Pacis Forum",
     "previous": "Pacis Ara Augustae",
     "next": "Pacius, Paquius 1",
+    "sort_key": "Pacisforum",
+    "proof_read": 0,
     "short_description": "Baudenkmal d. Vespasian in Rom",
     "chapters": [
       {
         "start": 2107,
-        "author": "Riemann"
+        "end": 2122,
+        "author": "H. Riemann."
       }
     ]
   },
@@ -7187,11 +7213,14 @@
     "lemma": "Pacius, Paquius 1",
     "previous": "Pacis Forum",
     "next": "Pacius, Paquius 2",
+    "sort_key": "Pacius,paquius 1",
+    "proof_read": 0,
     "short_description": "Praenomen im Marsergebiet u. in Lucanien",
     "chapters": [
       {
         "start": 2122,
-        "author": "Münzer"
+        "end": 2122,
+        "author": "Münzer."
       }
     ]
   },
@@ -7199,11 +7228,14 @@
     "lemma": "Pacius, Paquius 2",
     "previous": "Pacius, Paquius 1",
     "next": "Paconia",
+    "sort_key": "Pacius,paquius 2",
+    "proof_read": 0,
     "short_description": "Gentilname auf Grabinschr. in Capua",
     "chapters": [
       {
         "start": 2122,
-        "author": "Münzer"
+        "end": 2123,
+        "author": "Münzer."
       }
     ]
   },
@@ -7240,11 +7272,13 @@
     "lemma": "Paconius",
     "previous": "Pacon(ianus?)",
     "next": "Paconius 1",
+    "proof_read": 0,
     "short_description": "Zum Namen",
     "chapters": [
       {
         "start": 2123,
-        "author": "Münzer"
+        "end": 2124,
+        "author": "Münzer."
       }
     ]
   },
@@ -7252,11 +7286,13 @@
     "lemma": "Paconius 1",
     "previous": "Paconius",
     "next": "Paconius 2",
+    "proof_read": 0,
     "short_description": "Person bei Cic. ad Q.fr.",
     "chapters": [
       {
         "start": 2124,
-        "author": "Münzer"
+        "end": 2124,
+        "author": "Münzer."
       }
     ]
   },
@@ -7264,11 +7300,13 @@
     "lemma": "Paconius 2",
     "previous": "Paconius 1",
     "next": "Paconius 3",
+    "proof_read": 0,
     "short_description": "Röm. Jurist",
     "chapters": [
       {
         "start": 2124,
-        "author": "Berger"
+        "end": 2125,
+        "author": "Berger."
       }
     ]
   },
@@ -7276,11 +7314,13 @@
     "lemma": "Paconius 3",
     "previous": "Paconius 2",
     "next": "Paconius 4",
+    "proof_read": 0,
     "short_description": "M. Röm. Ritter, mit Gut in Etrurien",
     "chapters": [
       {
         "start": 2125,
-        "author": "Münzer"
+        "end": 2125,
+        "author": "Münzer."
       }
     ]
   },
@@ -7288,11 +7328,13 @@
     "lemma": "Paconius 4",
     "previous": "Paconius 3",
     "next": "Paconius 5",
+    "proof_read": 0,
     "short_description": "M. Legat d. proc. C. Silanus 20/1 n. Chr.",
     "chapters": [
       {
         "start": 2125,
-        "author": "Hanslik"
+        "end": 2125,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7300,11 +7342,13 @@
     "lemma": "Paconius 5",
     "previous": "Paconius 4",
     "next": "Paconius 6",
+    "proof_read": 0,
     "short_description": "Agrippinus, Qu. Sohn v. Nr. 4, Stoiker",
     "chapters": [
       {
         "start": 2126,
-        "author": "Hanslik"
+        "end": 2126,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7326,11 +7370,13 @@
     "lemma": "Paconius 7",
     "previous": "Paconius 6",
     "next": "Paconius 8",
+    "proof_read": 0,
     "short_description": "Sabinus, A. cos. suff. 58 n. Chr.",
     "chapters": [
       {
         "start": 2126,
-        "author": "Hanslik"
+        "end": 2126,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7338,11 +7384,13 @@
     "lemma": "Paconius 8",
     "previous": "Paconius 7",
     "next": "Pacorus",
+    "proof_read": 0,
     "short_description": "Paconia Agrippina Tochter v. Nr. 4",
     "chapters": [
       {
         "start": 2126,
-        "author": "Hanslik"
+        "end": 2126,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7363,10 +7411,12 @@
     "lemma": "Pactius",
     "previous": "Pacorus",
     "next": "Pactum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2126,
-        "author": "Scherling"
+        "end": 2126,
+        "author": "Scherling."
       }
     ]
   },
@@ -7386,11 +7436,13 @@
     "lemma": "Pactumeius",
     "previous": "Pactum",
     "next": "Pactumeius 1",
+    "proof_read": 0,
     "short_description": "Campanische Kaufmannsfamilie",
     "chapters": [
       {
         "start": 2153,
-        "author": "Münzer"
+        "end": 2154,
+        "author": "Münzer."
       }
     ]
   },
@@ -7398,11 +7450,13 @@
     "lemma": "Pactumeius 1",
     "previous": "Pactumeius",
     "next": "Pactumeius 2",
+    "proof_read": 0,
     "short_description": "Pact[umeius?...] CIL VI 1482",
     "chapters": [
       {
         "start": 2154,
-        "author": "Hanslik"
+        "end": 2154,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7410,11 +7464,13 @@
     "lemma": "Pactumeius 2",
     "previous": "Pactumeius 1",
     "next": "Pactumeius 3",
+    "proof_read": 0,
     "short_description": "Clemens, Qu. Aurelius CIL VIII 7057",
     "chapters": [
       {
         "start": 2154,
-        "author": "Hanslik"
+        "end": 2154,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7422,11 +7478,13 @@
     "lemma": "Pactumeius 3",
     "previous": "Pactumeius 2",
     "next": "Pactumeius 4",
+    "proof_read": 0,
     "short_description": "Clemens, P. cos. suff. 138 n. Chr.",
     "chapters": [
       {
         "start": 2154,
-        "author": "Hanslik"
+        "end": 2155,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7434,11 +7492,13 @@
     "lemma": "Pactumeius 4",
     "previous": "Pactumeius 3",
     "next": "Pactumeius 5",
+    "proof_read": 0,
     "short_description": "Fronto, Qu. Bruder v. Nr. 2, cos.suff. 80 n. Chr.",
     "chapters": [
       {
         "start": 2155,
-        "author": "Hanslik"
+        "end": 2155,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7446,11 +7506,13 @@
     "lemma": "Pactumeius 5",
     "previous": "Pactumeius 4",
     "next": "Pactumeius 6",
+    "proof_read": 0,
     "short_description": "Magnus, T. Praefect v. Ägypten 176/7 n. Chr.",
     "chapters": [
       {
         "start": 2155,
-        "author": "Stein, [Arthur]"
+        "end": 2156,
+        "author": "Stein."
       }
     ]
   },
@@ -7458,11 +7520,13 @@
     "lemma": "Pactumeius 6",
     "previous": "Pactumeius 5",
     "next": "Pactumeius 7",
+    "proof_read": 0,
     "short_description": "Rufus Auf einer Inschr. 98 n. Chr.",
     "chapters": [
       {
         "start": 2156,
-        "author": "Hanslik"
+        "end": 2156,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7470,11 +7534,13 @@
     "lemma": "Pactumeius 7",
     "previous": "Pactumeius 6",
     "next": "Pactyae",
+    "proof_read": 0,
     "short_description": "Pactumeia Magna, Tochter v. Nr. 5",
     "chapters": [
       {
         "start": 2156,
-        "author": "Stein, [Arthur]"
+        "end": 2156,
+        "author": "Stein."
       }
     ]
   },
@@ -7482,10 +7548,12 @@
     "lemma": "Pactyae",
     "previous": "Pactumeius 7",
     "next": "Pacula",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2156,
-        "author": "Ruge"
+        "end": 2156,
+        "author": "Ruge."
       }
     ]
   },
@@ -7493,10 +7561,12 @@
     "lemma": "Pacula",
     "previous": "Pactyae",
     "next": "Pacunius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2156,
-        "author": "Hofmann, Max"
+        "end": 2156,
+        "author": "Hofmann."
       }
     ]
   },
@@ -7517,11 +7587,13 @@
     "lemma": "Pacurius",
     "previous": "Pacunius",
     "next": "Pacuvius",
+    "proof_read": 0,
     "short_description": "Sohn d. iberischen Prinzen Peranius",
     "chapters": [
       {
         "start": 2156,
-        "author": "Nagl"
+        "end": 2157,
+        "author": "Nagl."
       }
     ]
   },
@@ -7529,11 +7601,13 @@
     "lemma": "Pacuvius",
     "previous": "Pacurius",
     "next": "Pacuvius 1",
+    "proof_read": 0,
     "short_description": "Zum Namen",
     "chapters": [
       {
         "start": 2157,
-        "author": "Vetter, Emil"
+        "end": 2158,
+        "author": "Vetter."
       }
     ]
   },
@@ -7541,11 +7615,13 @@
     "lemma": "Pacuvius 1",
     "previous": "Pacuvius",
     "next": "Pacuvius 2",
+    "proof_read": 0,
     "short_description": "Als Vorname",
     "chapters": [
       {
         "start": 2158,
-        "author": "Münzer"
+        "end": 2158,
+        "author": "Münzer."
       }
     ]
   },
@@ -7553,11 +7629,13 @@
     "lemma": "Pacuvius 2",
     "previous": "Pacuvius 1",
     "next": "Pacuvius 3",
+    "proof_read": 0,
     "short_description": "Primipilar unter Caesar in Gallien",
     "chapters": [
       {
         "start": 2158,
-        "author": "Münzer"
+        "end": 2158,
+        "author": "Münzer."
       }
     ]
   },
@@ -7565,11 +7643,13 @@
     "lemma": "Pacuvius 3",
     "previous": "Pacuvius 2",
     "next": "Pacuvius 4. 5",
+    "proof_read": 0,
     "short_description": "Mit Statthalterfunktion in Syrien unter Tiberius",
     "chapters": [
       {
         "start": 2158,
-        "author": "Hofmann, Max"
+        "end": 2159,
+        "author": "Hofmann."
       }
     ]
   },
@@ -7577,11 +7657,13 @@
     "lemma": "Pacuvius 4. 5",
     "previous": "Pacuvius 3",
     "next": "Pacuvius 6",
+    "proof_read": 0,
     "short_description": "M. u. Q. Pacuvius, Ankläger d. M. Aemilius Scaurus 54 v. Chr.",
     "chapters": [
       {
         "start": 2159,
-        "author": "Münzer"
+        "end": 2159,
+        "author": "Münzer."
       }
     ]
   },
@@ -7589,11 +7671,13 @@
     "lemma": "Pacuvius 6",
     "previous": "Pacuvius 4. 5",
     "next": "Pacuvius 7",
+    "proof_read": 0,
     "short_description": "M. Aus Brundisium, Dichter v. Satiren u. Dramen",
     "chapters": [
       {
         "start": 2159,
-        "author": "Helm"
+        "end": 2174,
+        "author": "Helm."
       }
     ]
   },
@@ -7601,11 +7685,13 @@
     "lemma": "Pacuvius 7",
     "previous": "Pacuvius 6",
     "next": "Pacuvius 8",
+    "proof_read": 0,
     "short_description": "Taurus, Sex. Leistete Octavian den Gefolgschaftseid",
     "chapters": [
       {
         "start": 2174,
-        "author": "Hofmann, Max"
+        "end": 2176,
+        "author": "Hofmann."
       }
     ]
   },
@@ -7613,11 +7699,13 @@
     "lemma": "Pacuvius 8",
     "previous": "Pacuvius 7",
     "next": "Pacuvius 9",
+    "proof_read": 0,
     "short_description": "Hister Person bei Iuvenal",
     "chapters": [
       {
         "start": 2176,
-        "author": "Stein, [Arthur]"
+        "end": 2176,
+        "author": "Stein."
       }
     ]
   },
@@ -7625,11 +7713,13 @@
     "lemma": "Pacuvius 9",
     "previous": "Pacuvius 8",
     "next": "Pacuvius 10",
+    "proof_read": 0,
     "short_description": "Labeo Antistius Jurist",
     "chapters": [
       {
         "start": 2176,
-        "author": "Berger"
+        "end": 2176,
+        "author": "Berger."
       }
     ]
   },
@@ -7637,11 +7727,13 @@
     "lemma": "Pacuvius 10",
     "previous": "Pacuvius 9",
     "next": "Pacuvius 11",
+    "proof_read": 0,
     "short_description": "Optatus, M. In einem Ehrendekret v. Delphi Ende 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2176,
-        "author": "Stein, [Arthur]"
+        "end": 2176,
+        "author": "Stein."
       }
     ]
   },
@@ -7649,11 +7741,13 @@
     "lemma": "Pacuvius 11",
     "previous": "Pacuvius 10",
     "next": "Pacuvius 12",
+    "proof_read": 0,
     "short_description": "Pacuv[ius] Restitutus, Sex. CIL III 6994",
     "chapters": [
       {
         "start": 2176,
-        "author": "Stein, [Arthur]"
+        "end": 2177,
+        "author": "Stein."
       }
     ]
   },
@@ -7661,11 +7755,13 @@
     "lemma": "Pacuvius 12",
     "previous": "Pacuvius 11",
     "next": "Pacyris",
+    "proof_read": 0,
     "short_description": "Sex.(?) Sohn v. Nr. 7",
     "chapters": [
       {
         "start": 2177,
-        "author": "Hofmann, Max"
+        "end": 2177,
+        "author": "Hofmann."
       }
     ]
   },
@@ -7685,34 +7781,41 @@
   {
     "lemma": "Padargos",
     "previous": "Pacyris",
-    "next": "Padianos",
+    "next": "Παδιανός",
+    "proof_read": 0,
     "short_description": "Gießbach an d. Küste v. Persis auf d. Halbinsel Mesambria",
     "chapters": [
       {
         "start": 2177,
-        "author": "Schmidt"
+        "end": 2177,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
-    "lemma": "Padianos",
+    "lemma": "Παδιανός",
     "previous": "Padargos",
     "next": "Padikios",
+    "sort_key": "Padianos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2177,
-        "author": "Ruge"
+        "end": 2177,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Padikios",
-    "previous": "Padianos",
+    "previous": "Παδιανός",
     "next": "Padinates",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2177,
-        "author": "Enßlin"
+        "end": 2177,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7720,10 +7823,12 @@
     "lemma": "Padinates",
     "previous": "Padikios",
     "next": "Padinum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2177,
-        "author": "Philipp"
+        "end": 2178,
+        "author": "Philipp."
       }
     ]
   },
@@ -7770,11 +7875,13 @@
     "lemma": "Padus",
     "previous": "Paduando",
     "next": "Padusa",
+    "proof_read": 0,
     "short_description": "Fluß in Italien, heute Po",
     "chapters": [
       {
         "start": 2178,
-        "author": "Philipp"
+        "end": 2202,
+        "author": "Philipp."
       }
     ]
   },
@@ -7782,11 +7889,13 @@
     "lemma": "Padusa",
     "previous": "Padus",
     "next": "Padusia",
+    "proof_read": 0,
     "short_description": "Südlichster Mündungsarm d. Padus",
     "chapters": [
       {
         "start": 2202,
-        "author": "Philipp"
+        "end": 2203,
+        "author": "Philipp."
       }
     ]
   },
@@ -7794,10 +7903,12 @@
     "lemma": "Padusia",
     "previous": "Padusa",
     "next": "Paean",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2203,
-        "author": "Enßlin"
+        "end": 2203,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7805,10 +7916,12 @@
     "lemma": "Paean",
     "previous": "Padusia",
     "next": "Paeanius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2204,
-        "author": "Stein, [Arthur]"
+        "end": 2204,
+        "author": "Stein."
       }
     ]
   },
@@ -7829,11 +7942,13 @@
     "lemma": "Paedagogiani",
     "previous": "Paeanius",
     "next": "Paedagogium Palatini",
+    "proof_read": 0,
     "short_description": "Im Sprachgebrauch d. späteren Kaiserzeit die in d. kaiserl. paedagogia",
     "chapters": [
       {
         "start": 2204,
-        "author": "Enßlin"
+        "end": 2205,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7841,11 +7956,14 @@
     "lemma": "Paedagogium Palatini",
     "previous": "Paedagogiani",
     "next": "Paedagogus",
+    "sort_key": "Paedagogiumpalatini",
+    "proof_read": 0,
     "short_description": "Gebäude in Rom über d. Circus maximus",
     "chapters": [
       {
         "start": 2205,
-        "author": "Riemann"
+        "end": 2224,
+        "author": "H. Riemann."
       }
     ]
   },
@@ -7879,10 +7997,12 @@
     "lemma": "Paedopides",
     "previous": "Paederastie",
     "next": "Paelex",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2224,
-        "author": "Dörner"
+        "end": 2225,
+        "author": "F. K. Dörner."
       }
     ]
   },
@@ -7890,47 +8010,55 @@
     "lemma": "Paelex",
     "previous": "Paedopides",
     "next": "Paeligni",
+    "proof_read": 0,
     "short_description": "Nebenfrau, Konkubine, Nebenbuhlerin",
     "chapters": [
       {
         "start": 2225,
-        "author": "Erdmann"
+        "end": 2227,
+        "author": "Erdmann."
       }
     ]
   },
   {
     "lemma": "Paeligni",
     "previous": "Paelex",
-    "next": "Paeligni-Sprache",
+    "next": "Paeligni–Sprache",
+    "proof_read": 0,
     "short_description": "Zu d. Sabellern gerechnetes Gebirgsvolk innerhalb d. Provinzen Aquila u.",
     "chapters": [
       {
         "start": 2227,
-        "author": "Hofmann, Max"
+        "end": 2271,
+        "author": "Hofmann."
       }
     ]
   },
   {
-    "lemma": "Paeligni-Sprache",
+    "lemma": "Paeligni–Sprache",
     "previous": "Paeligni",
     "next": "Paelontium",
+    "proof_read": 0,
     "short_description": "Erhalten in Inschr. aus Sulmo o. Corfinum",
     "chapters": [
       {
         "start": 2271,
-        "author": "Vetter, Emil"
+        "end": 2275,
+        "author": "Vetter."
       }
     ]
   },
   {
     "lemma": "Paelontium",
-    "previous": "Paeligni-Sprache",
+    "previous": "Paeligni–Sprache",
     "next": "Paemani",
+    "proof_read": 0,
     "short_description": "Stadt des asturischen Stammes der Lungoner (s.d.)",
     "chapters": [
       {
         "start": 2275,
-        "author": "Schulten"
+        "end": 2275,
+        "author": "Schulten."
       }
     ]
   },
@@ -7938,11 +8066,13 @@
     "lemma": "Paemani",
     "previous": "Paelontium",
     "next": "Paenula",
+    "proof_read": 0,
     "short_description": "Name einer german. Völkerschaft",
     "chapters": [
       {
         "start": 2275,
-        "author": "Goessler"
+        "end": 2279,
+        "author": "Goessler."
       }
     ]
   },
@@ -7950,11 +8080,13 @@
     "lemma": "Paenula",
     "previous": "Paemani",
     "next": "Paeonius",
+    "proof_read": 0,
     "short_description": "I. Kleidungsstück, II. Deckel, III. Buchhülle, IV. Bestandteil d. Porticus",
     "chapters": [
       {
         "start": 2279,
-        "author": "Kreis-von Schaewen"
+        "end": 2282,
+        "author": "R. Kreis-von Schaewen."
       }
     ]
   },
@@ -7988,10 +8120,12 @@
     "lemma": "Paesici",
     "previous": "Paesicae",
     "next": "Paestum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2282,
-        "author": "Schulten"
+        "end": 2282,
+        "author": "Schulten."
       }
     ]
   },
@@ -8012,10 +8146,12 @@
     "lemma": "Paes-ula",
     "previous": "Paestum",
     "next": "Paes-uri",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2282,
-        "author": "Schulten"
+        "end": 2282,
+        "author": "Schulten."
       }
     ]
   },
@@ -8023,10 +8159,12 @@
     "lemma": "Paes-uri",
     "previous": "Paes-ula",
     "next": "P(a)etinus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2283,
-        "author": "Schulten"
+        "end": 2283,
+        "author": "Schulten."
       }
     ]
   },
@@ -8047,11 +8185,13 @@
     "lemma": "Paetus",
     "previous": "P(a)etinus",
     "next": "Paetus 1",
+    "proof_read": 0,
     "short_description": "Röm. Cognomen",
     "chapters": [
       {
         "start": 2283,
-        "author": "Münzer"
+        "end": 2283,
+        "author": "Münzer."
       }
     ]
   },
@@ -8059,11 +8199,13 @@
     "lemma": "Paetus 1",
     "previous": "Paetus",
     "next": "Paetus 2",
+    "proof_read": 0,
     "short_description": "Güterspekulant, Person bei Tac.",
     "chapters": [
       {
         "start": 2283,
-        "author": "Stein, [Arthur]"
+        "end": 2283,
+        "author": "Stein."
       }
     ]
   },
@@ -8071,11 +8213,13 @@
     "lemma": "Paetus 2",
     "previous": "Paetus 1",
     "next": "Παγαδηνός",
+    "proof_read": 0,
     "short_description": "Honoratus, corrector Italiae unter Domitian",
     "chapters": [
       {
         "start": 2283,
-        "author": "Enßlin"
+        "end": 2283,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8097,11 +8241,13 @@
     "lemma": "Pagai",
     "previous": "Παγαδηνός",
     "next": "Pagala",
+    "proof_read": 0,
     "short_description": "Straßenstation an d. Hauptverbindung Peloponnes - Boiotien Spaltenangaben:",
     "chapters": [
       {
         "start": 2283,
-        "author": "Meyer, Ernst"
+        "end": 2293,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -8109,10 +8255,12 @@
     "lemma": "Pagala",
     "previous": "Pagai",
     "next": "Paganalia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2293,
-        "author": "Herrmann"
+        "end": 2293,
+        "author": "Herrmann."
       }
     ]
   },
@@ -8120,11 +8268,15 @@
     "lemma": "Paganalia",
     "previous": "Pagala",
     "next": "Paganica, -ae",
+    "proof_read": 0,
     "short_description": "Fest d. altröm. Kalenders",
+    "wp_link": "w:fr:Paganalies",
+    "wd_link": "d:Q3360406",
     "chapters": [
       {
         "start": 2293,
-        "author": "Rohde"
+        "end": 2295,
+        "author": "G. Rohde."
       }
     ]
   },
@@ -8132,10 +8284,13 @@
     "lemma": "Paganica, -ae",
     "previous": "Paganalia",
     "next": "paganus 1",
+    "sort_key": "Paganica,-ae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2295,
-        "author": "Schuppe"
+        "end": 2295,
+        "author": "Schuppe."
       }
     ]
   },
@@ -8143,11 +8298,13 @@
     "lemma": "paganus 1",
     "previous": "Paganica, -ae",
     "next": "paganus 2",
+    "proof_read": 0,
     "short_description": "Bewohner d. pagus",
     "chapters": [
       {
         "start": 2295,
-        "author": "Kornemann"
+        "end": 2296,
+        "author": "Kornemann."
       }
     ]
   },
@@ -8155,11 +8312,13 @@
     "lemma": "paganus 2",
     "previous": "paganus 1",
     "next": "paganus 3",
+    "proof_read": 0,
     "short_description": "Zivilist",
     "chapters": [
       {
         "start": 2296,
-        "author": "Kornemann"
+        "end": 2297,
+        "author": "Kornemann."
       }
     ]
   },
@@ -8167,11 +8326,13 @@
     "lemma": "paganus 3",
     "previous": "paganus 2",
     "next": "Pagarches",
+    "proof_read": 0,
     "short_description": "Nichtchrist",
     "chapters": [
       {
         "start": 2297,
-        "author": "Kornemann"
+        "end": 2297,
+        "author": "Kornemann."
       }
     ]
   },
@@ -8192,10 +8353,12 @@
     "lemma": "Pagas",
     "previous": "Pagarches",
     "next": "Pagasai 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2297,
-        "author": "Schmidt"
+        "end": 2297,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8203,11 +8366,13 @@
     "lemma": "Pagasai 1",
     "previous": "Pagas",
     "next": "Pagasai 2",
+    "proof_read": 0,
     "short_description": "Thessal. Stadt Spaltenangaben: (Planskizz",
     "chapters": [
       {
         "start": 2297,
-        "author": "Meyer, Ernst"
+        "end": 2309,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -8215,23 +8380,27 @@
     "lemma": "Pagasai 2",
     "previous": "Pagasai 1",
     "next": "Pagasaios",
+    "proof_read": 0,
     "short_description": "s. Pagasina",
     "chapters": [
       {
         "start": 2309,
-        "author": "Meyer, Ernst"
+        "end": 2309,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Pagasaios",
     "previous": "Pagasai 2",
-    "next": "Pagasina",
+    "next": "Pagasites",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Apollon, 2. d. Iason, 3. d. Alkestis",
     "chapters": [
       {
         "start": 2309,
-        "author": "Kruse"
+        "end": 2309,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -8275,13 +8444,15 @@
   },
   {
     "lemma": "Pagi",
-    "previous": "Pagasitis",
+    "previous": "Παγασίνα",
     "next": "Pagida",
+    "proof_read": 0,
     "short_description": "Novem -",
     "chapters": [
       {
         "start": 2310,
-        "author": "Banti"
+        "end": 2310,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -8289,11 +8460,13 @@
     "lemma": "Pagida",
     "previous": "Pagi",
     "next": "pagina",
+    "proof_read": 0,
     "short_description": "Fluß in Numidien",
     "chapters": [
       {
         "start": 2310,
-        "author": "Windberg"
+        "end": 2310,
+        "author": "Windberg."
       }
     ]
   },
@@ -8301,11 +8474,13 @@
     "lemma": "pagina",
     "previous": "Pagida",
     "next": "Pagioi",
+    "proof_read": 0,
     "short_description": "Bezeichnung einer geschriebenen Seite",
     "chapters": [
       {
         "start": 2310,
-        "author": "Aly"
+        "end": 2312,
+        "author": "Aly."
       }
     ]
   },
@@ -8313,10 +8488,12 @@
     "lemma": "Pagioi",
     "previous": "pagina",
     "next": "Pagius, Pagurius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2312,
-        "author": "Schmidt"
+        "end": 2312,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8338,10 +8515,12 @@
     "lemma": "Pagoargas",
     "previous": "Pagius, Pagurius",
     "next": "Pagondas 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2312,
-        "author": "Windberg"
+        "end": 2313,
+        "author": "Windberg."
       }
     ]
   },
@@ -8349,11 +8528,13 @@
     "lemma": "Pagondas 1",
     "previous": "Pagoargas",
     "next": "Pagondas 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Aioladas, theban. Boiotarch 424 v. Chr.",
     "chapters": [
       {
         "start": 2313,
-        "author": "Lenschau"
+        "end": 2314,
+        "author": "Lenschau."
       }
     ]
   },
@@ -8404,11 +8585,13 @@
     "lemma": "Pagrai 1",
     "previous": "Pagos",
     "next": "Pagrai 2",
+    "proof_read": 0,
     "short_description": "Ort u. Festung nord-nordöstl. v. Antiocheia/Syrien",
     "chapters": [
       {
         "start": 2315,
-        "author": "Spuler"
+        "end": 2315,
+        "author": "Bertold Spuler."
       }
     ]
   },
@@ -8416,11 +8599,13 @@
     "lemma": "Pagrai 2",
     "previous": "Pagrai 1",
     "next": "Pagras",
+    "proof_read": 0,
     "short_description": "Stadt an d. O-Küste d. Euxeinos",
     "chapters": [
       {
         "start": 2315,
-        "author": "Diehl, Erich"
+        "end": 2316,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -8442,11 +8627,14 @@
     "lemma": "Πάγρασα",
     "previous": "Pagras",
     "next": "Pagrika",
+    "sort_key": "Pagrasa",
+    "proof_read": 0,
     "short_description": "Pagrasa",
     "chapters": [
       {
         "start": 2317,
-        "author": "Herrmann"
+        "end": 2317,
+        "author": "Herrmann."
       }
     ]
   },
@@ -8495,11 +8683,13 @@
     "lemma": "Pagus",
     "previous": "Pagurius",
     "next": "Pagus Bottia",
+    "proof_read": 0,
     "short_description": "Territorialer t.t.",
     "chapters": [
       {
         "start": 2318,
-        "author": "Kornemann"
+        "end": 2339,
+        "author": "Kornemann."
       }
     ]
   },
@@ -8507,10 +8697,13 @@
     "lemma": "Pagus Bottia",
     "previous": "Pagus",
     "next": "Pagyritai",
+    "sort_key": "Pagusbottia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2339,
-        "author": "Spuler"
+        "end": 2339,
+        "author": "Bertold Spuler."
       }
     ]
   },
@@ -8518,11 +8711,13 @@
     "lemma": "Pagyritai",
     "previous": "Pagus Bottia",
     "next": "Pahlav",
+    "proof_read": 0,
     "short_description": "Unbek. Volk im NO d. russ. Tiefebene",
     "chapters": [
       {
         "start": 2339,
-        "author": "Diehl, Erich"
+        "end": 2340,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -8591,11 +8786,13 @@
     "lemma": "Paiania",
     "previous": "Paian",
     "next": "Paianion",
+    "proof_read": 0,
     "short_description": "Att. Demos d. pandionischen Phyle am östl. Hymettos",
     "chapters": [
       {
         "start": 2362,
-        "author": "Wiesner"
+        "end": 2363,
+        "author": "J. Wiesner."
       }
     ]
   },
@@ -8603,11 +8800,13 @@
     "lemma": "Paianion",
     "previous": "Paiania",
     "next": "Paianios 1",
+    "proof_read": 0,
     "short_description": "Ort in Aitolien",
     "chapters": [
       {
         "start": 2363,
-        "author": "Kirsten"
+        "end": 2374,
+        "author": "Kirsten."
       }
     ]
   },
@@ -8630,11 +8829,13 @@
     "lemma": "Paianios 2",
     "previous": "Paianios 1",
     "next": "Paianios 3",
+    "proof_read": 0,
     "short_description": "Sohn d. Kalliopios, Enkel v. Nr. 1",
     "chapters": [
       {
         "start": 2374,
-        "author": "Enßlin"
+        "end": 2375,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8657,11 +8858,13 @@
     "lemma": "Paidagogos 1",
     "previous": "Paianios 3",
     "next": "Paidagogos 2",
+    "proof_read": 0,
     "short_description": "Urspr. Haussklave zur Überwachung d. Schulbesuchs athen. Knaben",
     "chapters": [
       {
         "start": 2375,
-        "author": "Schuppe"
+        "end": 2385,
+        "author": "Schuppe."
       }
     ]
   },
@@ -8683,11 +8886,13 @@
     "lemma": "Paideia",
     "previous": "Paidagogos 2",
     "next": "Paideios",
+    "proof_read": 0,
     "short_description": "Ein Opfer bei den delph. Apaturien",
     "chapters": [
       {
         "start": 2385,
-        "author": "Aly"
+        "end": 2385,
+        "author": "Aly."
       }
     ]
   },
@@ -8695,10 +8900,12 @@
     "lemma": "Paideios",
     "previous": "Paideia",
     "next": "Paiderastia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2385,
-        "author": "Kruse"
+        "end": 2385,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -8734,11 +8941,13 @@
     "lemma": "Paideros 2",
     "previous": "Paideros 1",
     "next": "Paides basilikoi",
+    "proof_read": 0,
     "short_description": "BIschof v. Herakleia",
     "chapters": [
       {
         "start": 2385,
-        "author": "Enßlin"
+        "end": 2385,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8746,11 +8955,14 @@
     "lemma": "Paides basilikoi",
     "previous": "Paideros 2",
     "next": "Paidia",
+    "sort_key": "Paidesbasilikoi",
+    "proof_read": 0,
     "short_description": "Pagen, jüngere Söhne d. makedon. Adels mit Dienst beim König",
     "chapters": [
       {
         "start": 2385,
-        "author": "Fiehn"
+        "end": 2386,
+        "author": "Fiehn."
       }
     ]
   },
@@ -8758,11 +8970,13 @@
     "lemma": "Paidia",
     "previous": "Paides basilikoi",
     "next": "Paidinas",
+    "proof_read": 0,
     "short_description": "Personifikation im Kreis d. Aphrodite auf Vasen",
     "chapters": [
       {
         "start": 2386,
-        "author": "Aly"
+        "end": 2387,
+        "author": "Aly."
       }
     ]
   },
@@ -8798,7 +9012,7 @@
   {
     "lemma": "Paidokores",
     "previous": "Paidokomos",
-    "next": "Paidonomoi",
+    "next": "Παιδονόμοι",
     "proof_read": 2,
     "short_description": "Epiklesis des Herakles in Metapont",
     "no_creative_height": true,
@@ -8811,20 +9025,23 @@
     ]
   },
   {
-    "lemma": "Paidonomoi",
+    "lemma": "Παιδονόμοι",
     "previous": "Paidokores",
     "next": "Paidopides",
+    "sort_key": "Paidonomoi",
+    "proof_read": 0,
     "short_description": "Behörde zur Beaufsichtigung d. Epheben",
     "chapters": [
       {
         "start": 2387,
-        "author": "Schulthess"
+        "end": 2389,
+        "author": "Schulthess."
       }
     ]
   },
   {
     "lemma": "Paidopides",
-    "previous": "Paidonomoi",
+    "previous": "Παιδονόμοι",
     "next": "Paidopolites",
     "redirect": "Paedopides",
     "proof_read": 2,
@@ -8839,10 +9056,12 @@
     "lemma": "Paidopolites",
     "previous": "Paidopides",
     "next": "Paidotribes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2389,
-        "author": "Lenschau"
+        "end": 2389,
+        "author": "Lenschau."
       }
     ]
   },
@@ -8850,11 +9069,13 @@
     "lemma": "Paidotribes",
     "previous": "Paidopolites",
     "next": "Paidotrophos",
+    "proof_read": 0,
     "short_description": "Knabentrainer",
     "chapters": [
       {
         "start": 2389,
-        "author": "Jüthner"
+        "end": 2396,
+        "author": "Jüthner."
       }
     ]
   },
@@ -8894,11 +9115,14 @@
     "lemma": "Παῖνα νῆσος",
     "previous": "παίγνιον",
     "next": "Paion 1",
+    "sort_key": "Painanesos",
+    "proof_read": 0,
     "short_description": "Paina nesos",
     "chapters": [
       {
         "start": 2398,
-        "author": "Windberg"
+        "end": 2398,
+        "author": "Windberg."
       }
     ]
   },
@@ -8918,11 +9142,13 @@
     "lemma": "Paion 2",
     "previous": "Paion 1",
     "next": "Paion 3",
+    "proof_read": 0,
     "short_description": "Mythischer Stammvater d. Paiones in Thrakien",
     "chapters": [
       {
         "start": 2401,
-        "author": "Aly"
+        "end": 2401,
+        "author": "Aly."
       }
     ]
   },
@@ -8930,11 +9156,13 @@
     "lemma": "Paion 3",
     "previous": "Paion 2",
     "next": "Paion 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Antilochos, Enkel d. Nestor",
     "chapters": [
       {
         "start": 2401,
-        "author": "Aly"
+        "end": 2401,
+        "author": "Aly."
       }
     ]
   },
@@ -8942,11 +9170,13 @@
     "lemma": "Paion 4",
     "previous": "Paion 3",
     "next": "Paionaios",
+    "proof_read": 0,
     "short_description": "Von Amathus, bei Plut. erwähnter Autor",
     "chapters": [
       {
         "start": 2401,
-        "author": "Seel"
+        "end": 2403,
+        "author": "Otto Seel."
       }
     ]
   },
@@ -8970,11 +9200,13 @@
     "lemma": "Paiones",
     "previous": "Paionaios",
     "next": "Paionia 1",
+    "proof_read": 0,
     "short_description": "Stamm in N-Makedonien",
     "chapters": [
       {
         "start": 2403,
-        "author": "Lenk"
+        "end": 2408,
+        "author": "Lenk."
       }
     ]
   },
@@ -8996,11 +9228,13 @@
     "lemma": "Paionia 2",
     "previous": "Paionia 1",
     "next": "Paionia 3",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Athena",
     "chapters": [
       {
         "start": 2408,
-        "author": "Kruse"
+        "end": 2409,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -9008,11 +9242,13 @@
     "lemma": "Paionia 3",
     "previous": "Paionia 2",
     "next": "Paionidai",
+    "proof_read": 0,
     "short_description": "Planzenart",
     "chapters": [
       {
         "start": 2409,
-        "author": "Gossen"
+        "end": 2410,
+        "author": "Gossen."
       }
     ]
   },
@@ -9020,10 +9256,12 @@
     "lemma": "Paionidai",
     "previous": "Paionia 3",
     "next": "Paionios 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2410,
-        "author": "Wiesner"
+        "end": 2410,
+        "author": "J. Wiesner."
       }
     ]
   },
@@ -9031,11 +9269,13 @@
     "lemma": "Paionios 1",
     "previous": "Paionidai",
     "next": "Paionios 2",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Dionysos, 2. d. Apollon",
     "chapters": [
       {
         "start": 2410,
-        "author": "Kruse"
+        "end": 2411,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -9072,11 +9312,13 @@
     "lemma": "Paionios 4",
     "previous": "Paionios 3",
     "next": "Paionios 5",
+    "proof_read": 0,
     "short_description": "Schüler d. Libanios",
     "chapters": [
       {
         "start": 2411,
-        "author": "Enßlin"
+        "end": 2411,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9084,11 +9326,13 @@
     "lemma": "Paionios 5",
     "previous": "Paionios 4",
     "next": "Paionios 6",
+    "proof_read": 0,
     "short_description": "Comes, um 400 n. Chr. mit einflußreichem militär. Amt in Konstantinopel",
     "chapters": [
       {
         "start": 2411,
-        "author": "Enßlin"
+        "end": 2411,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9111,11 +9355,13 @@
     "lemma": "Paionios 7",
     "previous": "Paionios 6",
     "next": "Paionios 8",
+    "proof_read": 0,
     "short_description": "Paeonius aus Arelate, Person bei Sidon.",
     "chapters": [
       {
         "start": 2411,
-        "author": "Enßlin"
+        "end": 2412,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9123,11 +9369,13 @@
     "lemma": "Paionios 8",
     "previous": "Paionios 7",
     "next": "Paionios 9",
+    "proof_read": 0,
     "short_description": "Von Mende, Bildhauer",
     "chapters": [
       {
         "start": 2412,
-        "author": "Lippold, Georg"
+        "end": 2413,
+        "author": "Lippold."
       }
     ]
   },
@@ -9135,11 +9383,13 @@
     "lemma": "Paionios 9",
     "previous": "Paionios 8",
     "next": "Paioplai",
+    "proof_read": 0,
     "short_description": "Aus Ephesos, Architekt",
     "chapters": [
       {
         "start": 2413,
-        "author": "Fabricius"
+        "end": 2414,
+        "author": "Fabricius."
       }
     ]
   },
@@ -9147,11 +9397,13 @@
     "lemma": "Paioplai",
     "previous": "Paionios 9",
     "next": "Paipia",
+    "proof_read": 0,
     "short_description": "Paionischer Stamm am unteren Strymon",
     "chapters": [
       {
         "start": 2414,
-        "author": "Oberhummer"
+        "end": 2414,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9159,11 +9411,13 @@
     "lemma": "Paipia",
     "previous": "Paioplai",
     "next": "Pairisades",
+    "proof_read": 0,
     "short_description": "Stadt in Maur. Caesariensis",
     "chapters": [
       {
         "start": 2414,
-        "author": "Windberg"
+        "end": 2415,
+        "author": "Windberg."
       }
     ]
   },
@@ -9171,11 +9425,13 @@
     "lemma": "Pairisades",
     "previous": "Paipia",
     "next": "Pairisades 1",
+    "proof_read": 0,
     "short_description": "Name v. Mitgliedern d. Hauses d. Spartokiden d. bosporan. Reiches 438 bis ca.",
     "chapters": [
       {
         "start": 2415,
-        "author": "Diehl, Erich"
+        "end": 2417,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -9183,11 +9439,13 @@
     "lemma": "Pairisades 1",
     "previous": "Pairisades",
     "next": "Pairisades 2",
+    "proof_read": 0,
     "short_description": "I. König d. bosporan. Reiches 349-310 v. Chr.",
     "chapters": [
       {
         "start": 2417,
-        "author": "Diehl, Erich"
+        "end": 2424,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -9195,11 +9453,13 @@
     "lemma": "Pairisades 2",
     "previous": "Pairisades 1",
     "next": "Pairisades 3",
+    "proof_read": 0,
     "short_description": "II. Sohn u. Nachfolger d. Spartokos III., 284 bis nach 250 v. Chr. König d.",
     "chapters": [
       {
         "start": 2424,
-        "author": "Diehl, Erich"
+        "end": 2427,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -9207,11 +9467,13 @@
     "lemma": "Pairisades 3",
     "previous": "Pairisades 2",
     "next": "Pairisades 4",
+    "proof_read": 0,
     "short_description": "III. Sohn d. Spartokos V., König d. bosporan. Reiches 2. Viertel 2. Jh. v. Chr.",
     "chapters": [
       {
         "start": 2427,
-        "author": "Diehl, Erich"
+        "end": 2428,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -9219,11 +9481,13 @@
     "lemma": "Pairisades 4",
     "previous": "Pairisades 3",
     "next": "Pairisades 5",
+    "proof_read": 0,
     "short_description": "IV. Philometor Sohn d. Pairisades III., König d. bosporan. nach 150 v. Chr.",
     "chapters": [
       {
         "start": 2428,
-        "author": "Diehl, Erich"
+        "end": 2428,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -9231,11 +9495,13 @@
     "lemma": "Pairisades 5",
     "previous": "Pairisades 4",
     "next": "Pairisades 6",
+    "proof_read": 0,
     "short_description": "V. Letzter bosporan. König aus d. Haus d. Spartokiden, reg. bis ca. 108 v. Chr.",
     "chapters": [
       {
         "start": 2428,
-        "author": "Diehl, Erich"
+        "end": 2428,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -9257,11 +9523,13 @@
     "lemma": "Pais",
     "previous": "Pairisades 6",
     "next": "Paisos",
+    "proof_read": 0,
     "short_description": "Mysterien, Im gr. Kult",
     "chapters": [
       {
         "start": 2428,
-        "author": "Wotke"
+        "end": 2435,
+        "author": "F. Wotke."
       }
     ]
   },
@@ -9269,11 +9537,13 @@
     "lemma": "Paisos",
     "previous": "Pais",
     "next": "Paitike",
+    "proof_read": 0,
     "short_description": "Kolonie d. Milesier zw. Lampsakos u. Parion",
     "chapters": [
       {
         "start": 2435,
-        "author": "Ruge"
+        "end": 2437,
+        "author": "Ruge."
       }
     ]
   },
@@ -9295,10 +9565,12 @@
     "lemma": "Paitoi",
     "previous": "Paitike",
     "next": "Paizon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2437,
-        "author": "Oberhummer"
+        "end": 2437,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9320,10 +9592,12 @@
     "lemma": "Pakonia",
     "previous": "Paizon",
     "next": "Pakoria",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2437,
-        "author": "Ziegler"
+        "end": 2437,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9331,11 +9605,13 @@
     "lemma": "Pakoria",
     "previous": "Pakonia",
     "next": "Pakoros 1",
+    "proof_read": 0,
     "short_description": "Stadt in Mesopotamien am Euphrat",
     "chapters": [
       {
         "start": 2437,
-        "author": "Schmidt"
+        "end": 2437,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9343,11 +9619,13 @@
     "lemma": "Pakoros 1",
     "previous": "Pakoria",
     "next": "Pakoros 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Partherkönigs Orodes",
     "chapters": [
       {
         "start": 2437,
-        "author": "Miller"
+        "end": 2438,
+        "author": "J. Miller."
       }
     ]
   },
@@ -9355,11 +9633,13 @@
     "lemma": "Pakoros 2",
     "previous": "Pakoros 1",
     "next": "Pakoros 3",
+    "proof_read": 0,
     "short_description": "Sohn d. Partherkönigs Vonones II.",
     "chapters": [
       {
         "start": 2438,
-        "author": "Miller"
+        "end": 2438,
+        "author": "J. Miller."
       }
     ]
   },
@@ -9367,11 +9647,13 @@
     "lemma": "Pakoros 3",
     "previous": "Pakoros 2",
     "next": "Pakoros 4",
+    "proof_read": 0,
     "short_description": "Nachfolger d. Volagases I., 78-100 n. Chr.",
     "chapters": [
       {
         "start": 2438,
-        "author": "Miller"
+        "end": 2438,
+        "author": "J. Miller."
       }
     ]
   },
@@ -9393,23 +9675,27 @@
     "lemma": "Pakoros 5",
     "previous": "Pakoros 4",
     "next": "Paktolos",
+    "proof_read": 0,
     "short_description": "König (Könige?) v. Großarmenien",
     "chapters": [
       {
         "start": 2438,
-        "author": "Miller"
+        "end": 2439,
+        "author": "J. Miller."
       }
     ]
   },
   {
     "lemma": "Paktolos",
     "previous": "Pakoros 5",
-    "next": "Pactye",
+    "next": "Paktyai",
+    "proof_read": 0,
     "short_description": "Fluß in Lydien",
     "chapters": [
       {
         "start": 2439,
-        "author": "Keil"
+        "end": 2440,
+        "author": "Keil."
       }
     ]
   },
@@ -9452,7 +9738,7 @@
   {
     "lemma": "Paktyai",
     "previous": "Pactyes 2",
-    "next": "Pala, -ae",
+    "next": "Paktye",
     "redirect": "Pactyae",
     "proof_read": 2,
     "chapters": [
@@ -9463,14 +9749,43 @@
     ]
   },
   {
-    "lemma": "Pala, -ae",
+    "lemma": "Paktye",
     "previous": "Paktyai",
+    "next": "Paktyes 1",
+    "proof_read": 0,
+    "short_description": "Stadt an d. Propontis",
+    "chapters": [
+      {
+        "start": 2440,
+        "end": 2440,
+        "author": "Oberhummer."
+      }
+    ]
+  },
+  {
+    "lemma": "Paktyes 1",
+    "previous": "Paktye",
+    "proof_read": 0,
+    "short_description": "Gebirge im Gebiet v. Ephesos",
+    "chapters": [
+      {
+        "start": 2440,
+        "end": 2440,
+        "author": "Keil."
+      }
+    ]
+  },
+  {
+    "lemma": "Pala, -ae",
     "next": "Palaehorium",
+    "sort_key": "Pala,-ae",
+    "proof_read": 0,
     "short_description": "Spaten, Grabscheit Worfschaufel",
     "chapters": [
       {
         "start": 2441,
-        "author": "Schuppe"
+        "end": 2443,
+        "author": "Schuppe."
       }
     ]
   },
@@ -9478,10 +9793,12 @@
     "lemma": "Palaehorium",
     "previous": "Pala, -ae",
     "next": "Palaemon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2443,
-        "author": "Oberhummer"
+        "end": 2443,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9502,10 +9819,12 @@
     "lemma": "Palaeogoni",
     "previous": "Palaemon",
     "next": "Palaescamander",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2443,
-        "author": "Herrmann"
+        "end": 2444,
+        "author": "Herrmann."
       }
     ]
   },
@@ -9513,10 +9832,12 @@
     "lemma": "Palaescamander",
     "previous": "Palaeogoni",
     "next": "Palaesimundus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2444,
-        "author": "Ruge"
+        "end": 2444,
+        "author": "Ruge."
       }
     ]
   },
@@ -9536,66 +9857,80 @@
   {
     "lemma": "Palaeste",
     "previous": "Palaesimundus",
-    "next": "Palaia 1",
+    "next": "Palaestina",
+    "proof_read": 0,
     "short_description": "Ort im N d. Landschaft Chaonia in Epirus",
     "chapters": [
       {
         "start": 2444,
-        "author": "Becher"
+        "end": 2444,
+        "author": "Becher."
       }
     ]
   },
   {
-    "lemma": "Palaia 1",
-    "previous": "Palaeste",
-    "next": "Palaia 2",
+    "lemma": "Παλαια 1",
+    "previous": "Palaestina",
+    "next": "Παλαια 2",
+    "sort_key": "Palaia 1",
+    "proof_read": 0,
     "short_description": "Dorf bei Askalon",
     "chapters": [
       {
         "start": 2444,
-        "author": "Hölscher"
+        "end": 2444,
+        "author": "Hölscher."
       }
     ]
   },
   {
-    "lemma": "Palaia 2",
-    "previous": "Palaia 1",
-    "next": "Palaia 3",
+    "lemma": "Παλαια 2",
+    "previous": "Παλαια 1",
+    "next": "Παλαια 3",
+    "sort_key": "Palaia 2",
+    "proof_read": 0,
     "short_description": "Lit.ang.",
     "chapters": [
       {
         "start": 2444,
-        "author": "Ruge"
+        "end": 2444,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Palaia 3",
-    "previous": "Palaia 2",
-    "next": "Palaia kome",
+    "lemma": "Παλαια 3",
+    "previous": "Παλαια 2",
+    "next": "Παλαιὰ κώμη",
+    "sort_key": "Palaia 3",
+    "proof_read": 0,
     "short_description": "katoikia, bei Andeira",
     "chapters": [
       {
         "start": 2444,
-        "author": "Ruge"
+        "end": 2444,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Palaia kome",
-    "previous": "Palaia 3",
+    "lemma": "Παλαιὰ κώμη",
+    "previous": "Παλαια 3",
     "next": "Palaiamyndos",
+    "sort_key": "Palaiakome",
+    "proof_read": 0,
     "short_description": "Perioikische Gemeinde in Lakonien",
     "chapters": [
       {
         "start": 2444,
-        "author": "Bölte"
+        "end": 2445,
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Palaiamyndos",
-    "previous": "Palaia kome",
+    "previous": "Παλαιὰ κώμη",
     "next": "Palaiapolis 1",
     "redirect": "Myndos 1",
     "proof_read": 2,
@@ -9622,45 +9957,55 @@
   {
     "lemma": "Palaiapolis 2",
     "previous": "Palaiapolis 1",
-    "next": "Palaia polis",
+    "next": "Παλαιὰ πόλις",
+    "proof_read": 0,
     "short_description": "Stadt im Gebiet der zum Gerichtsbezirk v. Ephesos gehörenden Kilbianer",
     "chapters": [
       {
         "start": 2445,
-        "author": "Keil"
+        "end": 2446,
+        "author": "Keil."
       }
     ]
   },
   {
-    "lemma": "Palaia polis",
+    "lemma": "Παλαιὰ πόλις",
     "previous": "Palaiapolis 2",
-    "next": "Palaibiska",
+    "next": "Παλαίβισκα",
+    "sort_key": "Palaiapolis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2446,
-        "author": "Schulten"
+        "end": 2446,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Palaibiska",
-    "previous": "Palaia polis",
+    "lemma": "Παλαίβισκα",
+    "previous": "Παλαιὰ πόλις",
     "next": "Palaibyblos",
+    "sort_key": "Palaibiska",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2446,
-        "author": "Windberg"
+        "end": 2446,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Palaibyblos",
-    "previous": "Palaibiska",
+    "previous": "Παλαίβισκα",
     "next": "Palaichthon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2446,
-        "author": "Spuler"
+        "end": 2446,
+        "author": "Bertold Spuler."
       }
     ]
   },
@@ -9684,11 +10029,13 @@
     "lemma": "Palaigambrion",
     "previous": "Palaichthon",
     "next": "Palaigargaros",
+    "proof_read": 0,
     "short_description": "Stadt in Mysien",
     "chapters": [
       {
         "start": 2446,
-        "author": "Ruge"
+        "end": 2446,
+        "author": "Ruge."
       }
     ]
   },
@@ -9696,22 +10043,26 @@
     "lemma": "Palaigargaros",
     "previous": "Palaigambrion",
     "next": "Palaimagnesia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2446,
-        "author": "Ruge"
+        "end": 2447,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Palaimagnesia",
     "previous": "Palaigargaros",
-    "next": "Palaimon 1",
+    "next": "Palaimon",
+    "proof_read": 0,
     "short_description": "Fester Platz nahe Magnesia a.S.",
     "chapters": [
       {
         "start": 2447,
-        "author": "Keil"
+        "end": 2447,
+        "author": "Keil."
       }
     ]
   },
@@ -9780,11 +10131,13 @@
     "lemma": "Palaimon 6",
     "previous": "Palaimon 5",
     "next": "Palaino",
+    "proof_read": 0,
     "short_description": "Ägypt. Einsiedler",
     "chapters": [
       {
         "start": 2447,
-        "author": "Enßlin"
+        "end": 2447,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9792,10 +10145,12 @@
     "lemma": "Palaino",
     "previous": "Palaimon 6",
     "next": "Palaiobeudos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2448,
-        "author": "Zwicker"
+        "end": 2448,
+        "author": "Zwicker."
       }
     ]
   },
@@ -9803,44 +10158,53 @@
     "lemma": "Palaiobeudos",
     "previous": "Palaino",
     "next": "Palaion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2448,
-        "author": "Ruge"
+        "end": 2448,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Palaion",
     "previous": "Palaiobeudos",
-    "next": "Palaion teichos",
+    "next": "Παλαιὸν τεῖχος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2448,
-        "author": "Müller-Graupa"
+        "end": 2448,
+        "author": "Müller-Graupa."
       }
     ]
   },
   {
-    "lemma": "Palaion teichos",
+    "lemma": "Παλαιὸν τεῖχος",
     "previous": "Palaion",
     "next": "Palaiopolis",
+    "sort_key": "Palaionteichos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2448,
-        "author": "Ruge"
+        "end": 2448,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Palaiopolis",
-    "previous": "Palaion teichos",
+    "previous": "Παλαιὸν τεῖχος",
     "next": "Palaiopolitai",
+    "proof_read": 0,
     "short_description": "Stadt in Pamphylien",
     "chapters": [
       {
         "start": 2448,
-        "author": "Ruge"
+        "end": 2449,
+        "author": "Ruge."
       }
     ]
   },
@@ -9848,10 +10212,12 @@
     "lemma": "Palaiopolitai",
     "previous": "Palaiopolis",
     "next": "Palaiosebaste",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2449,
-        "author": "Schmidt"
+        "end": 2449,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9859,10 +10225,12 @@
     "lemma": "Palaiosebaste",
     "previous": "Palaiopolitai",
     "next": "Palaipercote",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2449,
-        "author": "Ruge"
+        "end": 2449,
+        "author": "Ruge."
       }
     ]
   },
@@ -9883,22 +10251,26 @@
     "lemma": "Palaipharos",
     "previous": "Palaipercote",
     "next": "Palaiphatos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2449,
-        "author": "Kirsten"
+        "end": 2449,
+        "author": "Kirsten."
       }
     ]
   },
   {
     "lemma": "Palaiphatos 1",
     "previous": "Palaipharos",
-    "next": "Palaiphatos 2",
+    "next": "Palaiphatos 2–4",
+    "proof_read": 0,
     "short_description": "Wohl fiktiver Epiker",
     "chapters": [
       {
         "start": 2449,
-        "author": "Stoessl"
+        "end": 2451,
+        "author": "F. Stoessl."
       }
     ]
   },
@@ -9965,11 +10337,13 @@
     "lemma": "Palaiskepsis",
     "previous": "Palairos",
     "next": "Palaiste 1",
+    "proof_read": 0,
     "short_description": "Uralte Stadt in d. Troas",
     "chapters": [
       {
         "start": 2467,
-        "author": "Ruge"
+        "end": 2471,
+        "author": "Ruge."
       }
     ]
   },
@@ -9977,11 +10351,13 @@
     "lemma": "Palaiste 1",
     "previous": "Palaiskepsis",
     "next": "Palaiste 2",
+    "proof_read": 0,
     "short_description": "Gr. Längenmaß",
     "chapters": [
       {
         "start": 2471,
-        "author": "Becher"
+        "end": 2471,
+        "author": "Becher."
       }
     ]
   },
@@ -9989,11 +10365,13 @@
     "lemma": "Palaiste 2",
     "previous": "Palaiste 1",
     "next": "Palaistes",
+    "proof_read": 0,
     "short_description": "Hafen- u. Festungsanlage am Fuß d. Akrokeraunien, heute Paliassa",
     "chapters": [
       {
         "start": 2471,
-        "author": "Schmidt"
+        "end": 2471,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10027,7 +10405,7 @@
   {
     "lemma": "Παλαίστρα 1",
     "previous": "Palaistine",
-    "next": "Palaistra 2",
+    "next": "Παλαίστρα 2",
     "short_description": "Ringkampf Ort d. Ringkampfes im Gymnasion",
     "chapters": [
       {
@@ -10037,36 +10415,44 @@
     ]
   },
   {
-    "lemma": "Palaistra 2",
+    "lemma": "Παλαίστρα 2",
     "previous": "Παλαίστρα 1",
-    "next": "palaistrophylax",
+    "next": "παλαιστροφύλαξ",
+    "sort_key": "Palaistra 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Hermes",
     "chapters": [
       {
         "start": 2497,
-        "author": "Göber"
+        "end": 2497,
+        "author": "Willi Göber."
       }
     ]
   },
   {
-    "lemma": "palaistrophylax",
-    "previous": "Palaistra 2",
+    "lemma": "παλαιστροφύλαξ",
+    "previous": "Παλαίστρα 2",
     "next": "Palaiupolis",
+    "sort_key": "palaistrophylax",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2497,
-        "author": "Ziebarth"
+        "end": 2497,
+        "author": "Ziebarth."
       }
     ]
   },
   {
     "lemma": "Palaiupolis",
-    "previous": "palaistrophylax",
+    "previous": "παλαιστροφύλαξ",
     "next": "Palakenti",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2497,
-        "author": "Ruge"
+        "end": 2498,
+        "author": "Ruge."
       }
     ]
   },
@@ -10074,10 +10460,12 @@
     "lemma": "Palakenti",
     "previous": "Palaiupolis",
     "next": "Palakion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2498,
-        "author": "Herrmann"
+        "end": 2498,
+        "author": "Herrmann."
       }
     ]
   },
@@ -10085,11 +10473,13 @@
     "lemma": "Palakion",
     "previous": "Palakenti",
     "next": "Palakos",
+    "proof_read": 0,
     "short_description": "Burg d. Skythenkönigs Skiluros",
     "chapters": [
       {
         "start": 2498,
-        "author": "Diehl, Erich"
+        "end": 2498,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -10097,11 +10487,13 @@
     "lemma": "Palakos",
     "previous": "Palakion",
     "next": "Palalce",
+    "proof_read": 0,
     "short_description": "Sohn d. Skythenkönigs Skiluros",
     "chapters": [
       {
         "start": 2498,
-        "author": "Diehl, Erich"
+        "end": 2499,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -10109,10 +10501,12 @@
     "lemma": "Palalce",
     "previous": "Palakos",
     "next": "Palamaon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2499,
-        "author": "Ruge"
+        "end": 2499,
+        "author": "Ruge."
       }
     ]
   },
@@ -10120,11 +10514,13 @@
     "lemma": "Palamaon",
     "previous": "Palalce",
     "next": "Palamedes 1",
+    "proof_read": 0,
     "short_description": "Soll Zeus bei d. Geburt d. Athena d. Haupt gespalten haben",
     "chapters": [
       {
         "start": 2499,
-        "author": "Göber"
+        "end": 2500,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -10132,11 +10528,13 @@
     "lemma": "Palamedes 1",
     "previous": "Palamaon",
     "next": "Palamedes 2",
+    "proof_read": 0,
     "short_description": "Gr. Held u. Erfinder",
     "chapters": [
       {
         "start": 2500,
-        "author": "Wüst"
+        "end": 2512,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -10144,11 +10542,13 @@
     "lemma": "Palamedes 2",
     "previous": "Palamedes 1",
     "next": "Palamedes 3",
+    "proof_read": 0,
     "short_description": "Statthalter d. Königs Demetrios II. v. Syrien",
     "chapters": [
       {
         "start": 2512,
-        "author": "Lenschau"
+        "end": 2512,
+        "author": "Lenschau."
       }
     ]
   },
@@ -10156,11 +10556,13 @@
     "lemma": "Palamedes 3",
     "previous": "Palamedes 2",
     "next": "Palamedium",
+    "proof_read": 0,
     "short_description": "Gr. Grammatiker",
     "chapters": [
       {
         "start": 2512,
-        "author": "Wendel"
+        "end": 2513,
+        "author": "Wendel."
       }
     ]
   },
@@ -10181,43 +10583,52 @@
     "lemma": "Palamnaioi",
     "previous": "Palamedium",
     "next": "Palamneus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2513,
-        "author": "Göber"
+        "end": 2514,
+        "author": "Willi Göber."
       }
     ]
   },
   {
     "lemma": "Palamneus",
     "previous": "Palamnaioi",
-    "next": "Palanda",
+    "next": "Παλάνδα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2514,
-        "author": "Göber"
+        "end": 2514,
+        "author": "Willi Göber."
       }
     ]
   },
   {
-    "lemma": "Palanda",
+    "lemma": "Παλάνδα",
     "previous": "Palamneus",
     "next": "Palania",
+    "sort_key": "Palanda",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2514,
-        "author": "Herrmann"
+        "end": 2514,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Palania",
-    "previous": "Palanda",
+    "previous": "Παλάνδα",
     "next": "Palanta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2514,
-        "author": "Hanslik"
+        "end": 2514,
+        "author": "Hanslik."
       }
     ]
   },
@@ -10238,11 +10649,13 @@
     "lemma": "Palantia",
     "previous": "Palanta",
     "next": "Palanto",
+    "proof_read": 0,
     "short_description": "Heute Palencia, am Fluß Carrión in Altkastilien, Hauptstadt d. Vaccäer",
     "chapters": [
       {
         "start": 2514,
-        "author": "Schulten"
+        "end": 2515,
+        "author": "Schulten."
       }
     ]
   },
@@ -10250,11 +10663,13 @@
     "lemma": "Palanto",
     "previous": "Palantia",
     "next": "Palantucia",
+    "proof_read": 0,
     "short_description": "Eponym-Heroine d. Palatins in einem Zweig d. gr. genealog. Spekulation",
     "chapters": [
       {
         "start": 2515,
-        "author": "Koch, Carl"
+        "end": 2515,
+        "author": "C. Koch."
       }
     ]
   },
@@ -10262,10 +10677,12 @@
     "lemma": "Palantucia",
     "previous": "Palanto",
     "next": "palaria",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2515,
-        "author": "Schulten"
+        "end": 2515,
+        "author": "Schulten."
       }
     ]
   },
@@ -10273,11 +10690,13 @@
     "lemma": "palaria",
     "previous": "Palantucia",
     "next": "Palas",
+    "proof_read": 0,
     "short_description": "Fechtübung d. Gladiatoren u. Soldaten",
     "chapters": [
       {
         "start": 2515,
-        "author": "Lambertz"
+        "end": 2516,
+        "author": "Lambertz."
       }
     ]
   },
@@ -10285,11 +10704,13 @@
     "lemma": "Palas",
     "previous": "palaria",
     "next": "Palatina 1",
+    "proof_read": 0,
     "short_description": "Name einer Gegend vermutlich im Gebiet d. mittleren Kocher, des Nebenflußes d.",
     "chapters": [
       {
         "start": 2516,
-        "author": "Goessler"
+        "end": 2528,
+        "author": "Goessler."
       }
     ]
   },
@@ -10297,11 +10718,13 @@
     "lemma": "Palatina 1",
     "previous": "Palas",
     "next": "Palatina 2",
+    "proof_read": 0,
     "short_description": "Eine der vier städtischen Tribus Roms",
     "chapters": [
       {
         "start": 2528,
-        "author": "Koch, Carl"
+        "end": 2529,
+        "author": "C. Koch."
       }
     ]
   },
@@ -10309,11 +10732,13 @@
     "lemma": "Palatina 2",
     "previous": "Palatina 1",
     "next": "Palatini",
+    "proof_read": 0,
     "short_description": "Gattin d. 585 gest. dux Bodegisel v. Massilia",
     "chapters": [
       {
         "start": 2529,
-        "author": "Nagl"
+        "end": 2529,
+        "author": "Nagl."
       }
     ]
   },
@@ -10321,11 +10746,13 @@
     "lemma": "Palatini",
     "previous": "Palatina 2",
     "next": "Palatinisches Spottkruzifix",
+    "proof_read": 0,
     "short_description": "Im kaiserl. Hofdienst tätige Personen",
     "chapters": [
       {
         "start": 2529,
-        "author": "Enßlin"
+        "end": 2560,
+        "author": "W. Enßlin."
       }
     ]
   },
