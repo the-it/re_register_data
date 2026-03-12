@@ -1,12 +1,16 @@
 [
   {
     "lemma": "Παρανόμων γραφή",
+    "previous": "Panyassis 1",
     "next": "Παρανύμφιος",
-    "short_description": "Rechtsinstitut in Athen",
+    "sort_key": "Paranomon graphe",
+    "proof_read": 0,
+    "short_description": "Paranomon graphe, Rechtsinstitut in Athen",
     "chapters": [
       {
         "start": 1281,
-        "author": "Gerner"
+        "end": 1281,
+        "author": "Gerner."
       }
     ]
   },
@@ -154,41 +158,50 @@
   {
     "lemma": "Παραπρεσβείας γραφή",
     "previous": "Parapotamioi",
-    "next": "Parasanges",
+    "next": "Παρασάγγης",
+    "sort_key": "Parapresbeiasgraphe",
+    "proof_read": 0,
     "short_description": "In Athen Klage gg. das Gemeinwohl verletzende Handlungen",
     "chapters": [
       {
         "start": 1374,
-        "author": "Berneker"
+        "end": 1375,
+        "author": "Erich Berneker."
       }
     ]
   },
   {
-    "lemma": "Parasanges",
+    "lemma": "Παρασάγγης",
     "previous": "Παραπρεσβείας γραφή",
-    "next": "Parasema",
+    "next": "Παράσημα",
+    "sort_key": "Parasanges",
+    "proof_read": 0,
     "short_description": "Pers. Zeitwegemaß",
     "chapters": [
       {
         "start": 1375,
-        "author": "Becher"
+        "end": 1375,
+        "author": "Becher."
       }
     ]
   },
   {
-    "lemma": "Parasema",
-    "previous": "Parasanges",
+    "lemma": "Παράσημα",
+    "previous": "Παρασάγγης",
     "next": "Parasinon",
+    "sort_key": "Parasema",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1375,
-        "author": "Hölscher"
+        "end": 1376,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Parasinon",
-    "previous": "Parasema",
+    "previous": "Παράσημα",
     "next": "Parasiti Apollinis",
     "sort_key": "Parasinon",
     "proof_read": 2,
@@ -206,7 +219,7 @@
   {
     "lemma": "Parasiti Apollinis",
     "previous": "Parasinon",
-    "next": "Parasitoi 1",
+    "next": "Παράσιτοι 1",
     "sort_key": "Parasitiapollinis",
     "proof_read": 0,
     "short_description": "Röm. Genossenschaft",
@@ -219,21 +232,25 @@
     ]
   },
   {
-    "lemma": "Parasitoi 1",
+    "lemma": "Παράσιτοι 1",
     "previous": "Parasiti Apollinis",
-    "next": "Parasitoi 2",
+    "next": "Παράσιτοι 2",
+    "sort_key": "Parasitoi 1",
+    "proof_read": 0,
     "short_description": "In Attika bezeugter Name für Kultpersonen",
     "chapters": [
       {
         "start": 1377,
-        "author": "Ziehen"
+        "end": 1381,
+        "author": "Ziehen."
       }
     ]
   },
   {
-    "lemma": "Parasitoi 2",
-    "previous": "Parasitoi 1",
+    "lemma": "Παράσιτοι 2",
+    "previous": "Παράσιτοι 1",
     "next": "Parasopiai",
+    "sort_key": "Parasitoi 2",
     "proof_read": 0,
     "short_description": "der Schmarotzer an den Tischen der Reichen",
     "chapters": [
@@ -251,13 +268,15 @@
   },
   {
     "lemma": "Parasopiai",
-    "previous": "Parasitoi 2",
+    "previous": "Παράσιτοι 2",
     "next": "Parasopias",
+    "proof_read": 0,
     "short_description": "kome im Stammesgebiet d. Oitaioi",
     "chapters": [
       {
         "start": 1405,
-        "author": "Kirsten"
+        "end": 1405,
+        "author": "Kirsten."
       }
     ]
   },
@@ -265,11 +284,13 @@
     "lemma": "Parasopias",
     "previous": "Parasopiai",
     "next": "Παραστάδες",
+    "proof_read": 0,
     "short_description": "Landschaft in Boiotien am Oberlauf d. Asopos",
     "chapters": [
       {
         "start": 1405,
-        "author": "Kirsten"
+        "end": 1406,
+        "author": "Kirsten."
       }
     ]
   },
@@ -277,10 +298,13 @@
     "lemma": "Παραστάδες",
     "previous": "Parasopias",
     "next": "παράστασις",
+    "sort_key": "Parastades",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1406,
-        "author": "Buren"
+        "end": 1406,
+        "author": "A. W. Van Buren."
       }
     ]
   },
@@ -318,11 +342,13 @@
     "lemma": "Parastates",
     "previous": "παραστάται",
     "next": "Παράθεσις",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Herakles in Olympia, 2. d. sabazios in Pergamon 3. d. Priapos",
     "chapters": [
       {
         "start": 1406,
-        "author": "Kruse"
+        "end": 1407,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -344,35 +370,42 @@
   {
     "lemma": "Paratianis",
     "previous": "Παράθεσις",
-    "next": "Paratilmos",
+    "next": "Παρατιλμός",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1407,
-        "author": "Windberg"
+        "end": 1407,
+        "author": "Windberg."
       }
     ]
   },
   {
-    "lemma": "Paratilmos",
+    "lemma": "Παρατιλμός",
     "previous": "Paratianis",
     "next": "Paratragodie",
+    "sort_key": "Paratilmos",
+    "proof_read": 0,
     "short_description": "Bestrafung bei moicheia nach att. Recht",
     "chapters": [
       {
         "start": 1407,
-        "author": "Gerner"
+        "end": 1410,
+        "author": "Erich Gerner."
       }
     ]
   },
   {
     "lemma": "Paratragodie",
-    "previous": "Paratilmos",
+    "previous": "Παρατιλμός",
     "next": "Parauaioi",
+    "proof_read": 0,
     "short_description": "(verspottende) Nachahmung d. Tragödienstils vgl. Parodos",
     "chapters": [
       {
         "start": 1410,
-        "author": "Kranz"
+        "end": 1412,
+        "author": "Kranz."
       }
     ]
   },
@@ -380,11 +413,13 @@
     "lemma": "Parauaioi",
     "previous": "Paratragodie",
     "next": "Paraveredus",
+    "proof_read": 0,
     "short_description": "Epirotischer Grenzstamm 'am Aoos'",
     "chapters": [
       {
         "start": 1412,
-        "author": "Schmidt"
+        "end": 1415,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -419,11 +454,13 @@
     "lemma": "Parazonium",
     "previous": "Paraxiaei",
     "next": "Parcae 1",
+    "proof_read": 0,
     "short_description": "1. Gürtel d. Kriegers, 2. kleines Schwert",
     "chapters": [
       {
         "start": 1416,
-        "author": "Lambertz"
+        "end": 1417,
+        "author": "Lambertz."
       }
     ]
   },
@@ -446,11 +483,13 @@
     "lemma": "Parcae 2",
     "previous": "Parcae 1",
     "next": "Parcham",
+    "proof_read": 0,
     "short_description": "Interpretatio Romana keltischer Muttergottheiten",
     "chapters": [
       {
         "start": 1417,
-        "author": "Heichelheim"
+        "end": 1419,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -458,10 +497,12 @@
     "lemma": "Parcham",
     "previous": "Parcae 2",
     "next": "Pardalas",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1419,
-        "author": "Preisendanz"
+        "end": 1419,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -507,35 +548,42 @@
   {
     "lemma": "Pardua",
     "previous": "Pardene",
-    "next": "Paredroi",
+    "next": "Πάρεδροι",
+    "proof_read": 0,
     "short_description": "Station d. dalmatischen Straße Narona - Epidaurum",
     "chapters": [
       {
         "start": 1419,
-        "author": "Polaschek"
+        "end": 1420,
+        "author": "E. Polaschek."
       }
     ]
   },
   {
-    "lemma": "Paredroi",
+    "lemma": "Πάρεδροι",
     "previous": "Pardua",
     "next": "Paredron",
+    "sort_key": "Paredroi",
+    "proof_read": 0,
     "short_description": "Beisitzer mehrerer gerichtlicher (u. anderer) Behörden",
     "chapters": [
       {
         "start": 1420,
-        "author": "Berneker"
+        "end": 1428,
+        "author": "Erich Berneker."
       }
     ]
   },
   {
     "lemma": "Paredron",
-    "previous": "Paredroi",
+    "previous": "Πάρεδροι",
     "next": "Πάρεδρος 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1428,
-        "author": "Preisendanz"
+        "end": 1428,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -557,19 +605,23 @@
   {
     "lemma": "Πάρεδρος 2",
     "previous": "Πάρεδρος 1",
-    "next": "Paredros 3",
+    "next": "Πάρεδρος 3",
+    "sort_key": "Paredros 2",
+    "proof_read": 0,
     "short_description": "Dämon u. dienstbarer Geist in d. Magie",
     "chapters": [
       {
         "start": 1428,
-        "author": "Preisendanz"
+        "end": 1453,
+        "author": "Preisendanz."
       }
     ]
   },
   {
-    "lemma": "Paredros 3",
+    "lemma": "Πάρεδρος 3",
     "previous": "Πάρεδρος 2",
     "next": "Paregoros",
+    "sort_key": "Paredros 3",
     "redirect": "Parhedros",
     "proof_read": 2,
     "chapters": [
@@ -581,13 +633,15 @@
   },
   {
     "lemma": "Paregoros",
-    "previous": "Paredros 3",
+    "previous": "Πάρεδρος 3",
     "next": "Pareia",
+    "proof_read": 0,
     "short_description": "Göttin im Gefolge d. Aphrodite",
     "chapters": [
       {
         "start": 1453,
-        "author": "Herzog-Hauser"
+        "end": 1455,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
@@ -595,11 +649,13 @@
     "lemma": "Pareia",
     "previous": "Paregoros",
     "next": "Παρείας",
+    "proof_read": 0,
     "short_description": "Gattin des Minos",
     "chapters": [
       {
         "start": 1455,
-        "author": "Kruse"
+        "end": 1455,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -620,7 +676,7 @@
   {
     "lemma": "Παρεκκύκλημα",
     "previous": "Παρείας",
-    "next": "Parembolai 1",
+    "next": "Παρεμβολαί 1",
     "sort_key": "Parekkyklema",
     "proof_read": 2,
     "short_description": "Parekkyklema",
@@ -634,21 +690,25 @@
     ]
   },
   {
-    "lemma": "Parembolai 1",
+    "lemma": "Παρεμβολαί 1",
     "previous": "Παρεκκύκλημα",
-    "next": "Parembolai 2",
+    "next": "Παρεμβολαί 2",
+    "sort_key": "Parembolai 1",
+    "proof_read": 0,
     "short_description": "Ort im O-Jordanland",
     "chapters": [
       {
         "start": 1455,
-        "author": "Hölscher"
+        "end": 1455,
+        "author": "Hölscher."
       }
     ]
   },
   {
-    "lemma": "Parembolai 2",
-    "previous": "Parembolai 1",
+    "lemma": "Παρεμβολαί 2",
+    "previous": "Παρεμβολαί 1",
     "next": "Parembole",
+    "sort_key": "Parembolai 2",
     "proof_read": 2,
     "short_description": "Bischofssitz nahe Jerusalem",
     "chapters": [
@@ -661,49 +721,59 @@
   },
   {
     "lemma": "Parembole",
-    "previous": "Parembolai 2",
-    "next": "Parenkyklema",
+    "previous": "Παρεμβολαί 2",
+    "next": "Παρεγκύκλημα",
+    "proof_read": 0,
     "short_description": "Ort in Ägypten, urspr. 'Heerlager'",
     "chapters": [
       {
         "start": 1455,
-        "author": "Kees"
+        "end": 1456,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Parenkyklema",
+    "lemma": "Παρεγκύκλημα",
     "previous": "Parembole",
     "next": "Parens manumissor",
+    "sort_key": "Parenkyklema",
+    "proof_read": 0,
     "short_description": "Im Text enthaltene Befehle o. Andeutung v. Schauspielergesten (in Scholien zu",
     "chapters": [
       {
         "start": 1456,
-        "author": "Fensterbusch"
+        "end": 1456,
+        "author": "Fensterbusch."
       }
     ]
   },
   {
     "lemma": "Parens manumissor",
-    "previous": "Parenkyklema",
+    "previous": "Παρεγκύκλημα",
     "next": "Parenta",
+    "sort_key": "Parensmanumissor",
+    "proof_read": 0,
     "short_description": "Der bisherige Gewalthaber, nimmt die Entlassung aus d. väterlichen Gewalt vor",
     "chapters": [
       {
         "start": 1456,
-        "author": "Kreller"
+        "end": 1461,
+        "author": "Kreller."
       }
     ]
   },
   {
     "lemma": "Parenta",
     "previous": "Parens manumissor",
-    "next": "Parentes",
+    "next": "Parentalia",
+    "proof_read": 0,
     "short_description": "Siedlung zw. Syene u. Meroe",
     "chapters": [
       {
         "start": 1461,
-        "author": "Windberg"
+        "end": 1461,
+        "author": "Windberg."
       }
     ]
   },
@@ -724,41 +794,48 @@
     "lemma": "Parentium",
     "previous": "Parentes",
     "next": "Pareoros",
+    "proof_read": 0,
     "short_description": "Illyr. Stadt an d. W-Küste Istriens",
     "chapters": [
       {
         "start": 1461,
-        "author": "Lambertz"
+        "end": 1468,
+        "author": "Lambertz."
       }
     ]
   },
   {
     "lemma": "Pareoros",
     "previous": "Parentium",
-    "next": "Pareutaktos",
+    "next": "Παρεύτακτος",
+    "proof_read": 0,
     "short_description": "(sc.) hippos, Nebenpferd im Dreigespann",
     "chapters": [
       {
         "start": 1468,
-        "author": "Schneider, K[arl]"
+        "end": 1470,
+        "author": "K. Schneider."
       }
     ]
   },
   {
-    "lemma": "Pareutaktos",
+    "lemma": "Παρεύτακτος",
     "previous": "Pareoros",
     "next": "Pargyetai",
+    "sort_key": "Pareutaktos",
+    "proof_read": 0,
     "short_description": "Att.-röm. Ephebenbezeichnung",
     "chapters": [
       {
         "start": 1470,
-        "author": "Lambertz"
+        "end": 1472,
+        "author": "Lambertz."
       }
     ]
   },
   {
     "lemma": "Pargyetai",
-    "previous": "Pareutaktos",
+    "previous": "Παρεύτακτος",
     "next": "Parhedros",
     "redirect": "Parsietai",
     "proof_read": 2,
@@ -802,10 +879,12 @@
     "lemma": "Parianenses",
     "previous": "Paria",
     "next": "Paricidas (parricida)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1472,
-        "author": "Scherling"
+        "end": 1472,
+        "author": "Scherling."
       }
     ]
   },
@@ -813,11 +892,14 @@
     "lemma": "Paricidas (parricida)",
     "previous": "Parianenses",
     "next": "Paricida",
+    "sort_key": "Paricidas(parricida)",
+    "proof_read": 0,
     "short_description": "Vater-, Eltern, Verwandtenmörder",
     "chapters": [
       {
         "start": 1472,
-        "author": "Leifer"
+        "end": 1479,
+        "author": "F. Leifer."
       }
     ]
   },
@@ -838,11 +920,13 @@
     "lemma": "Parienna",
     "previous": "Paricida",
     "next": "Paries",
+    "proof_read": 0,
     "short_description": "Röm. Händlerstation im SO v. Germania Magna",
     "chapters": [
       {
         "start": 1479,
-        "author": "Goessler"
+        "end": 1481,
+        "author": "Goessler."
       }
     ]
   },
@@ -850,10 +934,12 @@
     "lemma": "Paries",
     "previous": "Parienna",
     "next": "Parietina",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1481,
-        "author": "Buren"
+        "end": 1481,
+        "author": "A. W. Van Buren."
       }
     ]
   },
@@ -861,11 +947,13 @@
     "lemma": "Parietina",
     "previous": "Paries",
     "next": "Parietinae",
+    "proof_read": 0,
     "short_description": "Röm. Station an d. Küste v. Mauretania Tingitana",
     "chapters": [
       {
         "start": 1481,
-        "author": "Windberg"
+        "end": 1481,
+        "author": "Windberg."
       }
     ]
   },
@@ -873,10 +961,12 @@
     "lemma": "Parietinae",
     "previous": "Parietina",
     "next": "Parikane",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1482,
-        "author": "Schulten"
+        "end": 1482,
+        "author": "Schulten."
       }
     ]
   },
@@ -982,11 +1072,13 @@
     "lemma": "Paris 1",
     "previous": "Parioi",
     "next": "Paris 2–6",
+    "proof_read": 0,
     "short_description": "Sohn d. Priamos",
     "chapters": [
       {
         "start": 1484,
-        "author": "Wüst"
+        "end": 1536,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -994,11 +1086,13 @@
     "lemma": "Paris 2–6",
     "previous": "Paris 1",
     "next": "Paris 2",
+    "proof_read": 0,
     "short_description": "Berühmte Pantomimen d. röm. Kaiserzeit, allgem.",
     "chapters": [
       {
         "start": 1536,
-        "author": "Wüst"
+        "end": 1536,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -1042,11 +1136,13 @@
     "lemma": "Paris 5",
     "previous": "Paris 4",
     "next": "Paris 6",
+    "proof_read": 0,
     "short_description": "Pantomime wohl unter Traian, in einer Inschr. aus Thyateira",
     "chapters": [
       {
         "start": 1538,
-        "author": "Wüst"
+        "end": 1538,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -1054,11 +1150,13 @@
     "lemma": "Paris 6",
     "previous": "Paris 5",
     "next": "Paris 7",
+    "proof_read": 0,
     "short_description": "P. thymelicus, CIL VI 10161",
     "chapters": [
       {
         "start": 1538,
-        "author": "Wüst"
+        "end": 1538,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -1066,11 +1164,13 @@
     "lemma": "Paris 7",
     "previous": "Paris 6",
     "next": "Paris",
+    "proof_read": 0,
     "short_description": "Arzt, Person auf einem Bleidiskus",
     "chapters": [
       {
         "start": 1538,
-        "author": "Preisendanz"
+        "end": 1538,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -1122,11 +1222,13 @@
     "lemma": "Parma 1",
     "previous": "Parisii",
     "next": "Parma 2",
+    "proof_read": 0,
     "short_description": "Kleiner Schild",
     "chapters": [
       {
         "start": 1539,
-        "author": "Lambertz"
+        "end": 1545,
+        "author": "Lambertz."
       }
     ]
   },
@@ -1149,11 +1251,13 @@
     "lemma": "Parma 3",
     "previous": "Parma 2",
     "next": "Parmae Campi",
+    "proof_read": 0,
     "short_description": "Stadt in Gallia Cispadana, heute Parma",
     "chapters": [
       {
         "start": 1545,
-        "author": "Philipp"
+        "end": 1546,
+        "author": "Philipp."
       }
     ]
   },
@@ -1161,11 +1265,14 @@
     "lemma": "Parmae Campi",
     "previous": "Parma 3",
     "next": "Parme...",
+    "sort_key": "Parmaecampi",
+    "proof_read": 0,
     "short_description": "Vermutl. kelt. Name eines wohl german. Teilvolkes",
     "chapters": [
       {
         "start": 1547,
-        "author": "Goessler"
+        "end": 1549,
+        "author": "Goessler."
       }
     ]
   },
@@ -1173,10 +1280,12 @@
     "lemma": "Parme...",
     "previous": "Parmae Campi",
     "next": "Parmenianus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1549,
-        "author": "Seltman"
+        "end": 1549,
+        "author": "Seltman."
       }
     ]
   },
@@ -1184,11 +1293,13 @@
     "lemma": "Parmenianus",
     "previous": "Parme...",
     "next": "Parmenides",
+    "proof_read": 0,
     "short_description": "Donatist. Bischof in Carthago 2. Hälfte 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1549,
-        "author": "Dinkler"
+        "end": 1553,
+        "author": "Erich Dinkler."
       }
     ]
   },
@@ -1208,11 +1319,13 @@
     "lemma": "Parmenion 1",
     "previous": "Parmenides",
     "next": "Parmenion 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Philotas, berühmter Feldherr Alexanders d. Gr.",
     "chapters": [
       {
         "start": 1559,
-        "author": "Berve"
+        "end": 1565,
+        "author": "Berve."
       }
     ]
   },
@@ -1235,11 +1348,13 @@
     "lemma": "Parmenion 3",
     "previous": "Parmenion 2",
     "next": "Parmenion 4",
+    "proof_read": 0,
     "short_description": "Epigrammdichter d. Philippos-Kranzes",
     "chapters": [
       {
         "start": 1566,
-        "author": "Peek"
+        "end": 1566,
+        "author": "W. Peek."
       }
     ]
   },
@@ -1247,11 +1362,13 @@
     "lemma": "Parmenion 4",
     "previous": "Parmenion 3",
     "next": "Parmenion 5",
+    "proof_read": 0,
     "short_description": "Glossograph aus Byzanz",
     "chapters": [
       {
         "start": 1566,
-        "author": "Wendel"
+        "end": 1567,
+        "author": "Wendel."
       }
     ]
   },
@@ -1259,11 +1376,13 @@
     "lemma": "Parmenion 5",
     "previous": "Parmenion 4",
     "next": "Parmeniskos 1",
+    "proof_read": 0,
     "short_description": "Architekt, Erbauer d. Serapeions v. Alexandreia",
     "chapters": [
       {
         "start": 1567,
-        "author": "Riemann"
+        "end": 1569,
+        "author": "H. Riemann."
       }
     ]
   },
@@ -1271,11 +1390,13 @@
     "lemma": "Parmeniskos 1",
     "previous": "Parmenion 5",
     "next": "Parmeniskos 2",
+    "proof_read": 0,
     "short_description": "Aus Metapont, Pythagoreer",
     "chapters": [
       {
         "start": 1569,
-        "author": "Fritz"
+        "end": 1569,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -1283,11 +1404,13 @@
     "lemma": "Parmeniskos 2",
     "previous": "Parmeniskos 1",
     "next": "Parmeniskos 3",
+    "proof_read": 0,
     "short_description": "Verf. einer Molpis",
     "chapters": [
       {
         "start": 1569,
-        "author": "Fritz"
+        "end": 1570,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -1295,11 +1418,13 @@
     "lemma": "Parmeniskos 3",
     "previous": "Parmeniskos 2",
     "next": "Parmeno",
+    "proof_read": 0,
     "short_description": "Grammatiker d. alexandrin. Schule",
     "chapters": [
       {
         "start": 1570,
-        "author": "Wendel"
+        "end": 1572,
+        "author": "Wendel."
       }
     ]
   },
@@ -1321,11 +1446,13 @@
     "lemma": "Parmenon 1",
     "previous": "Parmeno",
     "next": "Parmenon 2",
+    "proof_read": 0,
     "short_description": "Von Byzantion, Choliambograph vermutl. 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1572,
-        "author": "Maas"
+        "end": 1572,
+        "author": "Maas."
       }
     ]
   },
@@ -1390,11 +1517,13 @@
     "lemma": "Parnassios",
     "previous": "Parnasse",
     "next": "Parnassos 1",
+    "proof_read": 0,
     "short_description": "Beiname d. Apollon",
     "chapters": [
       {
         "start": 1572,
-        "author": "Kruse"
+        "end": 1573,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -1402,11 +1531,13 @@
     "lemma": "Parnassos 1",
     "previous": "Parnassios",
     "next": "Parnassos 2",
+    "proof_read": 0,
     "short_description": "Gebirge in Griechenland",
     "chapters": [
       {
         "start": 1573,
-        "author": "Schmidt"
+        "end": 1663,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -1428,11 +1559,13 @@
     "lemma": "Parnes",
     "previous": "Parnassos 2",
     "next": "Parnessios",
+    "proof_read": 0,
     "short_description": "Grenzgebirge Attikas gg. Boiotien",
     "chapters": [
       {
         "start": 1663,
-        "author": "Wiesner"
+        "end": 1665,
+        "author": "J. Wiesner."
       }
     ]
   },
@@ -1453,10 +1586,12 @@
     "lemma": "Parnethios",
     "previous": "Parnessios",
     "next": "Parnoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1665,
-        "author": "Kruse"
+        "end": 1665,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -1478,11 +1613,13 @@
     "lemma": "Parnon",
     "previous": "Parnoi",
     "next": "Parnopios",
+    "proof_read": 0,
     "short_description": "Gebirge in O-Lakonien",
     "chapters": [
       {
         "start": 1665,
-        "author": "Bölte"
+        "end": 1669,
+        "author": "Bölte."
       }
     ]
   },
@@ -1490,41 +1627,48 @@
     "lemma": "Parnopios",
     "previous": "Parnon",
     "next": "Paro",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Apollon, 2. Herakles, 3. d. Zeus",
     "chapters": [
       {
         "start": 1669,
-        "author": "Kruse"
+        "end": 1669,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Paro",
     "previous": "Parnopios",
-    "next": "Parochos (parochus)",
+    "next": "Πάροχος (parochus)",
+    "proof_read": 0,
     "short_description": "Gr. Schiffstyp",
     "chapters": [
       {
         "start": 1669,
-        "author": "Miltner, Franz"
+        "end": 1670,
+        "author": "Miltner."
       }
     ]
   },
   {
-    "lemma": "Parochos (parochus)",
+    "lemma": "Πάροχος (parochus)",
     "previous": "Paro",
     "next": "Parochtheos",
+    "sort_key": "Parochos(parochus)",
+    "proof_read": 0,
     "short_description": "Person, die Leistungen für d. öffentl. Dienst aufbringt",
     "chapters": [
       {
         "start": 1670,
-        "author": "Zucker"
+        "end": 1684,
+        "author": "Friedrich Zucker."
       }
     ]
   },
   {
     "lemma": "Parochtheos",
-    "previous": "Parochos (parochus)",
+    "previous": "Πάροχος (parochus)",
     "next": "Parochthiai",
     "redirect": "Perochtheos",
     "proof_read": 2,
@@ -1539,11 +1683,13 @@
     "lemma": "Parochthiai",
     "previous": "Parochtheos",
     "next": "Parodos",
+    "proof_read": 0,
     "short_description": "Stadt wohl in Mittelgriechenland",
     "chapters": [
       {
         "start": 1684,
-        "author": "Kirsten"
+        "end": 1684,
+        "author": "Kirsten."
       }
     ]
   },
@@ -1551,11 +1697,13 @@
     "lemma": "Parodos",
     "previous": "Parochthiai",
     "next": "Parodos 2",
+    "proof_read": 0,
     "short_description": "Dichter v. Homerparodien",
     "chapters": [
       {
         "start": 1684,
-        "author": "Maas"
+        "end": 1686,
+        "author": "Maas."
       }
     ]
   },
@@ -1563,47 +1711,61 @@
     "lemma": "Parodos 2",
     "previous": "Parodos",
     "next": "Paroikoi",
+    "proof_read": 0,
     "short_description": "im Drama Bezeichnung des von d. Seite her stattfindenden Einzuges d. Chores",
     "chapters": [
       {
         "start": 1686,
-        "author": "Kranz"
+        "end": 1694,
+        "author": "Kranz."
+      },
+      {
+        "start": 1695,
+        "end": 1695,
+        "author": "Fensterbusch."
       }
     ]
   },
   {
     "lemma": "Paroikoi",
     "previous": "Parodos 2",
-    "next": "Paroimia",
+    "next": "Παροιμία",
+    "proof_read": 0,
     "short_description": "Nachbarschaft als staatsrechtl. t.t.",
     "chapters": [
       {
         "start": 1695,
-        "author": "Schaefer"
+        "end": 1707,
+        "author": "Hans Schaefer."
       }
     ]
   },
   {
-    "lemma": "Paroimia",
+    "lemma": "Παροιμία",
     "previous": "Paroikoi",
     "next": "Paroimiographoi",
+    "sort_key": "Paroimia",
+    "proof_read": 0,
     "short_description": "Sprichwort, sprichwörtl. Redensart",
     "chapters": [
       {
         "start": 1707,
-        "author": "Rupprecht"
+        "end": 1735,
+        "author": "K. Rupprecht."
       }
     ]
   },
   {
     "lemma": "Paroimiographoi",
-    "previous": "Paroimia",
+    "previous": "Παροιμία",
     "next": "Parolissos",
+    "proof_read": 0,
     "short_description": "Verf. von Abhandlungen über Sprichwörter o. Sammlungen derselben",
     "chapters": [
       {
         "start": 1735,
-        "author": "Rupprecht"
+        "end": 1778,
+        "author": "K. Rupprecht."
       }
     ]
   },
@@ -1665,10 +1827,12 @@
     "lemma": "Paronna",
     "previous": "Paron 3",
     "next": "Paropamisadai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1778,
-        "author": "Heichelheim"
+        "end": 1778,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -1693,11 +1857,13 @@
     "lemma": "Paropamisus",
     "previous": "Paropamisadai",
     "next": "Paropos",
+    "proof_read": 0,
     "short_description": "Hauptgebirge Asiens vor d. Grenze Indiens, heute Hindukusch",
     "chapters": [
       {
         "start": 1778,
-        "author": "Herrmann"
+        "end": 1779,
+        "author": "Herrmann."
       }
     ]
   },
@@ -1705,11 +1871,13 @@
     "lemma": "Paropos",
     "previous": "Paropamisus",
     "next": "Paropsis",
+    "proof_read": 0,
     "short_description": "Stadt Siciliens",
     "chapters": [
       {
         "start": 1779,
-        "author": "Ziegler"
+        "end": 1780,
+        "author": "Ziegler."
       }
     ]
   },
@@ -1717,10 +1885,12 @@
     "lemma": "Paropsis",
     "previous": "Paropos",
     "next": "Paroreatai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1780,
-        "author": "Lullies"
+        "end": 1780,
+        "author": "R. Lullies."
       }
     ]
   },
@@ -1743,23 +1913,27 @@
     "lemma": "Paroreia 1",
     "previous": "Paroreatai",
     "next": "Paros",
+    "proof_read": 0,
     "short_description": "Ortschaft in Arkadien",
     "chapters": [
       {
         "start": 1780,
-        "author": "Meyer, Ernst"
+        "end": 1782,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Paros",
     "previous": "Paroreia 1",
-    "next": "Paroreia 2",
+    "next": "Parospus",
+    "proof_read": 0,
     "short_description": "Insel d. Ägäischen Meeres",
     "chapters": [
       {
         "start": 1781,
-        "author": "Rubensohn"
+        "end": 1872,
+        "author": "O. Rubensohn."
       }
     ]
   },
@@ -1838,46 +2012,55 @@
   {
     "lemma": "Parparos",
     "previous": "Parosta",
-    "next": "Parpylaios",
+    "next": "Παρπυλαῖος",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in d. Thyreatis",
     "chapters": [
       {
         "start": 1872,
-        "author": "Bölte"
+        "end": 1873,
+        "author": "Bölte."
       }
     ]
   },
   {
-    "lemma": "Parpylaios",
+    "lemma": "Παρπυλαῖος",
     "previous": "Parparos",
     "next": "Parraces",
+    "sort_key": "Parpylaios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1873,
-        "author": "Meyer, Ernst"
+        "end": 1873,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Parraces",
-    "previous": "Parpylaios",
-    "next": "Parrasios 1",
+    "previous": "Παρπυλαῖος",
+    "next": "Parrharia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1873,
-        "author": "Hanslik"
+        "end": 1873,
+        "author": "Hanslik."
       }
     ]
   },
   {
     "lemma": "Parrasios 1",
-    "previous": "Parraces",
-    "next": "Parrharia",
+    "previous": "Parrhasini",
+    "next": "Parrasios 2",
+    "proof_read": 0,
     "short_description": "1. Epiklesis d. Apollon, 2. Arkader, Vater d. Paros, des Eponymos d. Insel, 3.",
     "chapters": [
       {
         "start": 1873,
-        "author": "Kruse"
+        "end": 1874,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -1927,11 +2110,13 @@
     "lemma": "Parrasios 3",
     "previous": "Parrasios 2",
     "next": "Parricida",
+    "proof_read": 0,
     "short_description": "Maler",
     "chapters": [
       {
         "start": 1874,
-        "author": "Lippold, Georg"
+        "end": 1880,
+        "author": "Lippold."
       }
     ]
   },
@@ -2065,11 +2250,13 @@
     "lemma": "Parthamasiris",
     "previous": "Parsyetai",
     "next": "Parthamaspates",
+    "proof_read": 0,
     "short_description": "Sohn d. Partherkönigs Pacorus II",
     "chapters": [
       {
         "start": 1880,
-        "author": "Hanslik"
+        "end": 1881,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2077,11 +2264,13 @@
     "lemma": "Parthamaspates",
     "previous": "Parthamasiris",
     "next": "Parthanus",
+    "proof_read": 0,
     "short_description": "Sohn d. parth. Großkönigs Osroes",
     "chapters": [
       {
         "start": 1881,
-        "author": "Hanslik"
+        "end": 1882,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2089,11 +2278,13 @@
     "lemma": "Parthanus",
     "previous": "Parthamaspates",
     "next": "Parthaon",
+    "proof_read": 0,
     "short_description": "Der Wasserlauf d. Partnach bei Garmisch-Partenkirchen",
     "chapters": [
       {
         "start": 1882,
-        "author": "Polaschek"
+        "end": 1882,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -2114,11 +2305,13 @@
     "lemma": "Parthax",
     "previous": "Parthaon",
     "next": "Parthenes",
+    "proof_read": 0,
     "short_description": "Verf. v. Italika",
     "chapters": [
       {
         "start": 1882,
-        "author": "Seel"
+        "end": 1883,
+        "author": "Otto Seel."
       }
     ]
   },
@@ -2152,19 +2345,35 @@
   },
   {
     "lemma": "Partheniai",
-    "previous": "Parthenia",
-    "next": "Parthenia kome",
+    "previous": "Παρθενία κώμη",
+    "next": "Παρθενία κώμη",
+    "proof_read": 0,
     "short_description": "Bevölkerungsteil d. spartan. Staates",
     "chapters": [
       {
         "start": 1884,
-        "author": "Schaefer"
+        "end": 1886,
+        "author": "Hans Schaefer."
+      }
+    ]
+  },
+  {
+    "lemma": "Παρθενία κώμη",
+    "previous": "Partheniai",
+    "next": "Patheniai",
+    "sort_key": "Partheniakome",
+    "proof_read": 0,
+    "short_description": "Ort in d. Nähe d. Pontos Euxeinos",
+    "chapters": [
+      {
+        "start": 1884,
+        "end": 1886,
+        "author": "F. K. Dörner."
       }
     ]
   },
   {
     "lemma": "Parthenia kome",
-    "previous": "Partheniai",
     "next": "Parthenianus",
     "short_description": "Ort in d. Nähe d. Pontos Euxeinos",
     "chapters": [
@@ -2191,11 +2400,13 @@
     "lemma": "Parthenias",
     "previous": "Parthenianus",
     "next": "Parthenicum",
+    "proof_read": 0,
     "short_description": "Ein in d. Alpheios mündender Bach östl. v. Olympia",
     "chapters": [
       {
         "start": 1886,
-        "author": "Meyer, Ernst"
+        "end": 1886,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2203,10 +2414,12 @@
     "lemma": "Parthenicum",
     "previous": "Parthenias",
     "next": "Parthenie",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1886,
-        "author": "Ziegler"
+        "end": 1887,
+        "author": "Ziegler."
       }
     ]
   },
@@ -2214,10 +2427,12 @@
     "lemma": "Parthenie",
     "previous": "Parthenicum",
     "next": "Parthenion 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1887,
-        "author": "Keil"
+        "end": 1887,
+        "author": "Keil."
       }
     ]
   },
@@ -2237,11 +2452,13 @@
     "lemma": "Parthenion 2",
     "previous": "Parthenion 1",
     "next": "Parthenion 3",
+    "proof_read": 0,
     "short_description": "Demos v. Eretria auf Euboia",
     "chapters": [
       {
         "start": 1890,
-        "author": "Schmidt"
+        "end": 1890,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -2295,11 +2512,13 @@
     "lemma": "Parthenion 6",
     "previous": "Parthenion 5",
     "next": "Parthenion 7",
+    "proof_read": 0,
     "short_description": "Vorgebirge bei Herakleia am Pontos",
     "chapters": [
       {
         "start": 1891,
-        "author": "Dörner"
+        "end": 1891,
+        "author": "F. K. Dörner."
       }
     ]
   },
@@ -2322,11 +2541,13 @@
     "lemma": "Parthenios",
     "previous": "Parthenion 7",
     "next": "Parthenios 1",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
         "start": 1891,
-        "author": "Hanslik"
+        "end": 1891,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2334,11 +2555,13 @@
     "lemma": "Parthenios 1",
     "previous": "Parthenios",
     "next": "Parthenios 2",
+    "proof_read": 0,
     "short_description": "Paphlagon. Flußgott",
     "chapters": [
       {
         "start": 1891,
-        "author": "Hanslik"
+        "end": 1891,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2346,11 +2569,13 @@
     "lemma": "Parthenios 2",
     "previous": "Parthenios 1",
     "next": "Parthenios 3",
+    "proof_read": 0,
     "short_description": "Paphlagon. Flußgott als Sohn d. Phineus",
     "chapters": [
       {
         "start": 1891,
-        "author": "Hanslik"
+        "end": 1891,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2358,11 +2583,13 @@
     "lemma": "Parthenios 3",
     "previous": "Parthenios 2",
     "next": "Parthenios 4",
+    "proof_read": 0,
     "short_description": "Phryg. Flußgott",
     "chapters": [
       {
         "start": 1891,
-        "author": "Hanslik"
+        "end": 1891,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2370,11 +2597,13 @@
     "lemma": "Parthenios 4",
     "previous": "Parthenios 3",
     "next": "Parthenios 5",
+    "proof_read": 0,
     "short_description": "Sohn d. Kydon, des Eponymen d. gleichnamigen Flußes",
     "chapters": [
       {
         "start": 1891,
-        "author": "Hanslik"
+        "end": 1891,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2382,11 +2611,13 @@
     "lemma": "Parthenios 5",
     "previous": "Parthenios 4",
     "next": "Parthenios 6",
+    "proof_read": 0,
     "short_description": "Quelle, an der Artemis gebadet haben soll",
     "chapters": [
       {
         "start": 1891,
-        "author": "Hanslik"
+        "end": 1891,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2394,11 +2625,13 @@
     "lemma": "Parthenios 6",
     "previous": "Parthenios 5",
     "next": "Parthenios 7",
+    "proof_read": 0,
     "short_description": "Sohn d. Arkas",
     "chapters": [
       {
         "start": 1891,
-        "author": "Hanslik"
+        "end": 1891,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2406,11 +2639,13 @@
     "lemma": "Parthenios 7",
     "previous": "Parthenios 6",
     "next": "Parthenios 8",
+    "proof_read": 0,
     "short_description": "Beiname d. Zeus",
     "chapters": [
       {
         "start": 1892,
-        "author": "Hanslik"
+        "end": 1892,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2418,11 +2653,13 @@
     "lemma": "Parthenios 8",
     "previous": "Parthenios 7",
     "next": "Parthenios 9",
+    "proof_read": 0,
     "short_description": "Genosse d. Aineias",
     "chapters": [
       {
         "start": 1892,
-        "author": "Hanslik"
+        "end": 1892,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2430,11 +2667,13 @@
     "lemma": "Parthenios 9",
     "previous": "Parthenios 8",
     "next": "Parthenios 10",
+    "proof_read": 0,
     "short_description": "Schändete d. Töchter d. Skedasos",
     "chapters": [
       {
         "start": 1892,
-        "author": "Hanslik"
+        "end": 1892,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2472,11 +2711,13 @@
     "lemma": "Parthenios 12",
     "previous": "Parthenios 11",
     "next": "Parthenios 13",
+    "proof_read": 0,
     "short_description": "Fluß in Paphlagonien",
     "chapters": [
       {
         "start": 1893,
-        "author": "Dörner"
+        "end": 1894,
+        "author": "F. K. Dörner."
       }
     ]
   },
@@ -2497,11 +2738,13 @@
     "lemma": "Parthenios 14",
     "previous": "Parthenios 13",
     "next": "Parthenios 15",
+    "proof_read": 0,
     "short_description": "Parthenius portus, Hafen d. Phokäer an d. W-Küste v. Bruttium",
     "chapters": [
       {
         "start": 1894,
-        "author": "Scherling"
+        "end": 1895,
+        "author": "Scherling."
       }
     ]
   },
@@ -2542,11 +2785,13 @@
     "lemma": "Parthenios 17",
     "previous": "Parthenios 16",
     "next": "Parthenios 18",
+    "proof_read": 0,
     "short_description": "Aus Phokaia, Historiker 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1900,
-        "author": "Seel"
+        "end": 1901,
+        "author": "Otto Seel."
       }
     ]
   },
@@ -2554,11 +2799,13 @@
     "lemma": "Parthenios 18",
     "previous": "Parthenios 17",
     "next": "Parthenios 19",
+    "proof_read": 0,
     "short_description": "Sklave d. Tiberius",
     "chapters": [
       {
         "start": 1901,
-        "author": "Hanslik"
+        "end": 1901,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2566,11 +2813,13 @@
     "lemma": "Parthenios 19",
     "previous": "Parthenios 18",
     "next": "Parthenios 20",
+    "proof_read": 0,
     "short_description": "Parthenius, (Ti. Claudius) Freigelassener Neros",
     "chapters": [
       {
         "start": 1901,
-        "author": "Hanslik"
+        "end": 1902,
+        "author": "Hanslik."
       }
     ]
   },
@@ -2578,11 +2827,13 @@
     "lemma": "Parthenios 20",
     "previous": "Parthenios 19",
     "next": "Parthenios 21",
+    "proof_read": 0,
     "short_description": "Parthenius (Partenius) aus Arelate, Schwestersohn d. Bischofs Ennodius v. Pavia",
     "chapters": [
       {
         "start": 1902,
-        "author": "Nagl"
+        "end": 1903,
+        "author": "Nagl."
       }
     ]
   },
@@ -2590,11 +2841,13 @@
     "lemma": "Parthenios 21",
     "previous": "Parthenios 20",
     "next": "Parthenios 22",
+    "proof_read": 0,
     "short_description": "Parthenius, Patricius am Hof Theodeberts I.",
     "chapters": [
       {
         "start": 1903,
-        "author": "Nagl"
+        "end": 1904,
+        "author": "Nagl."
       }
     ]
   },
@@ -2602,11 +2855,13 @@
     "lemma": "Parthenios 22",
     "previous": "Parthenios 21",
     "next": "Parthenios 23",
+    "proof_read": 0,
     "short_description": "Parthenius Toreut? Person bei Iuven.",
     "chapters": [
       {
         "start": 1904,
-        "author": "Lippold, Georg"
+        "end": 1904,
+        "author": "Lippold."
       }
     ]
   },
@@ -2627,11 +2882,13 @@
     "lemma": "Parthenis 1",
     "previous": "Parthenios 23",
     "next": "Parthenis 2",
+    "proof_read": 0,
     "short_description": "Epigrammdichterin",
     "chapters": [
       {
         "start": 1904,
-        "author": "Peek"
+        "end": 1904,
+        "author": "W. Peek."
       }
     ]
   },
@@ -2651,34 +2908,42 @@
   {
     "lemma": "Parthenium Mare",
     "previous": "Parthenis 2",
-    "next": "Parthenoi",
+    "next": "Παρθένοι",
+    "sort_key": "Partheniummare",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1904,
-        "author": "Kees"
+        "end": 1904,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Parthenoi",
+    "lemma": "Παρθένοι",
     "previous": "Parthenium Mare",
     "next": "Parthenokles",
+    "sort_key": "Parthenoi",
+    "proof_read": 0,
     "short_description": "Heroisierte Jungfrauen im gr. Mythos",
     "chapters": [
       {
         "start": 1904,
-        "author": "Herzog-Hauser"
+        "end": 1912,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
   {
     "lemma": "Parthenokles",
-    "previous": "Parthenoi",
+    "previous": "Παρθένοι",
     "next": "Parthenon 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1912,
-        "author": "Lippold, Georg"
+        "end": 1913,
+        "author": "Lippold."
       }
     ]
   },
@@ -2686,11 +2951,13 @@
     "lemma": "Parthenon 1",
     "previous": "Parthenokles",
     "next": "Parthenon 2",
+    "proof_read": 0,
     "short_description": "Tempel d. Athena Parthenos auf d. Akropolis v. Athen",
     "chapters": [
       {
         "start": 1913,
-        "author": "Wiesner"
+        "end": 1932,
+        "author": "J. Wiesner."
       }
     ]
   },
@@ -2698,11 +2965,13 @@
     "lemma": "Parthenon 2",
     "previous": "Parthenon 1",
     "next": "Parthenopaios",
+    "proof_read": 0,
     "short_description": "Nach d. Tierkreiszeichen benannter Monat",
     "chapters": [
       {
         "start": 1932,
-        "author": "Ziehen"
+        "end": 1932,
+        "author": "Ziehen."
       }
     ]
   },
@@ -2710,11 +2979,13 @@
     "lemma": "Parthenopaios",
     "previous": "Parthenon 2",
     "next": "Parthenope 1",
+    "proof_read": 0,
     "short_description": "Urspr. argiv., dann arkad. Held",
     "chapters": [
       {
         "start": 1932,
-        "author": "Fiehn"
+        "end": 1934,
+        "author": "Fiehn."
       }
     ]
   },
@@ -2722,11 +2993,13 @@
     "lemma": "Parthenope 1",
     "previous": "Parthenopaios",
     "next": "Parthenope 2",
+    "proof_read": 0,
     "short_description": "Eine der Sireneninseln",
     "chapters": [
       {
         "start": 1934,
-        "author": "Scherling"
+        "end": 1934,
+        "author": "Scherling."
       }
     ]
   },
@@ -2734,11 +3007,13 @@
     "lemma": "Parthenope 2",
     "previous": "Parthenope 1",
     "next": "Parthenope 3",
+    "proof_read": 0,
     "short_description": "Tochter d. Stymphalos",
     "chapters": [
       {
         "start": 1934,
-        "author": "Fiehn"
+        "end": 1934,
+        "author": "Fiehn."
       }
     ]
   },
@@ -2746,11 +3021,13 @@
     "lemma": "Parthenope 3",
     "previous": "Parthenope 2",
     "next": "Parthenope 4",
+    "proof_read": 0,
     "short_description": "Tochter d. Lelegerkönigs Ankaios",
     "chapters": [
       {
         "start": 1934,
-        "author": "Fiehn"
+        "end": 1934,
+        "author": "Fiehn."
       }
     ]
   },
@@ -2758,11 +3035,13 @@
     "lemma": "Parthenope 4",
     "previous": "Parthenope 3",
     "next": "Parthenope 5",
+    "proof_read": 0,
     "short_description": "Eine der unterital. Sirenen",
     "chapters": [
       {
         "start": 1934,
-        "author": "Fiehn"
+        "end": 1935,
+        "author": "Fiehn."
       }
     ]
   },
@@ -2770,11 +3049,13 @@
     "lemma": "Parthenope 5",
     "previous": "Parthenope 4",
     "next": "Parthenope 6",
+    "proof_read": 0,
     "short_description": "Gattin d. Okeanos",
     "chapters": [
       {
         "start": 1935,
-        "author": "Fiehn"
+        "end": 1935,
+        "author": "Fiehn."
       }
     ]
   },
@@ -2782,11 +3063,13 @@
     "lemma": "Parthenope 6",
     "previous": "Parthenope 5",
     "next": "Parthenopolis 1",
+    "proof_read": 0,
     "short_description": "Heldin eines Romans, bezeugt durch Papyrusfr.",
     "chapters": [
       {
         "start": 1935,
-        "author": "Ziegler"
+        "end": 1936,
+        "author": "Ziegler."
       }
     ]
   },
@@ -2826,11 +3109,13 @@
     "lemma": "Parthenos 1",
     "previous": "Parthenopolis 2",
     "next": "Parthenos 2",
+    "proof_read": 0,
     "short_description": "Sternbild",
     "chapters": [
       {
         "start": 1936,
-        "author": "Gundel, Wilhelm"
+        "end": 1957,
+        "author": "Gundel."
       }
     ]
   },
@@ -2838,11 +3123,13 @@
     "lemma": "Parthenos 2",
     "previous": "Parthenos 1",
     "next": "Parthenos 3",
+    "proof_read": 0,
     "short_description": "Göttin d. Stadt Chersonesos, heute Sewastopol",
     "chapters": [
       {
         "start": 1957,
-        "author": "Diehl, Erich"
+        "end": 1967,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -2850,11 +3137,13 @@
     "lemma": "Parthenos 3",
     "previous": "Parthenos 2",
     "next": "Parthenos 4",
+    "proof_read": 0,
     "short_description": "Tochter d. Staphylos",
     "chapters": [
       {
         "start": 1967,
-        "author": "Herzog-Hauser"
+        "end": 1967,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
@@ -2862,11 +3151,13 @@
     "lemma": "Parthenos 4",
     "previous": "Parthenos 3",
     "next": "Parther",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Artemis u. ihr gleichgesetzter Gottheiten, 2. für",
     "chapters": [
       {
         "start": 1968,
-        "author": "Kruse"
+        "end": 1968,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -2887,11 +3178,14 @@
     "lemma": "Parthia II A",
     "previous": "Parther",
     "next": "Parthia II B",
+    "sort_key": "Parthiaii a",
+    "proof_read": 0,
     "short_description": "Das Partherreich in hellenist. Zt.",
     "chapters": [
       {
         "start": 1968,
-        "author": "Junge"
+        "end": 1986,
+        "author": "P. J. Junge."
       }
     ]
   },
@@ -2899,11 +3193,14 @@
     "lemma": "Parthia II B",
     "previous": "Parthia II A",
     "next": "Parthini",
+    "sort_key": "Parthiaii b",
+    "proof_read": 0,
     "short_description": "Das Partherreich als Grenznachbar d. Römerreiches",
     "chapters": [
       {
         "start": 1987,
-        "author": "Schur"
+        "end": 2029,
+        "author": "Schur."
       }
     ]
   },
@@ -2911,11 +3208,13 @@
     "lemma": "Parthini",
     "previous": "Parthia II B",
     "next": "Parthiscus",
+    "proof_read": 0,
     "short_description": "Illyrischer Binnenstamm",
     "chapters": [
       {
         "start": 2029,
-        "author": "Polaschek"
+        "end": 2045,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -2935,7 +3234,7 @@
   {
     "lemma": "Parthoi",
     "previous": "Parthiscus",
-    "next": "Parthon",
+    "next": "Πάρθον",
     "redirect": "Parthia II A",
     "proof_read": 3,
     "chapters": [
@@ -2946,19 +3245,22 @@
     ]
   },
   {
-    "lemma": "Parthon",
+    "lemma": "Πάρθον",
     "previous": "Parthoi",
     "next": "Parthos",
+    "sort_key": "Parthon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2045,
-        "author": "Windberg"
+        "end": 2045,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Parthos",
-    "previous": "Parthon",
+    "previous": "Πάρθον",
     "next": "Parthyaioi",
     "redirect": "Parthini",
     "proof_read": 2,
@@ -2986,70 +3288,99 @@
     "lemma": "Particulo",
     "previous": "Parthyaioi",
     "next": "Partinus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2045,
-        "author": "Kroll"
+        "end": 2045,
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Partinus",
     "previous": "Particulo",
-    "next": "Partiskon",
+    "next": "Παρτίσκον",
+    "proof_read": 0,
     "short_description": "Beiname d. Iuppiter",
     "chapters": [
       {
         "start": 2045,
-        "author": "Kazarow"
+        "end": 2045,
+        "author": "Gawril Kazarow."
       }
     ]
   },
   {
-    "lemma": "Partiskon",
+    "lemma": "Παρτίσκον",
     "previous": "Partinus",
-    "next": "Partus abactio",
+    "next": "Partitio legata",
+    "sort_key": "Partiskon",
+    "proof_read": 0,
     "short_description": "Stadt der zw. Donau u. Theiß wohnenden Iazygen",
     "chapters": [
       {
         "start": 2045,
-        "author": "Polaschek"
+        "end": 2046,
+        "author": "E. Polaschek."
       }
     ]
   },
   {
     "lemma": "Partus abactio",
-    "previous": "Partiskon",
+    "previous": "Partitio legata",
     "next": "Partus suppositus",
+    "sort_key": "Partusabactio",
+    "proof_read": 0,
     "short_description": "Vorsätzliche Herbeiführung d. abortus, Abtreibung",
     "chapters": [
       {
         "start": 2046,
-        "author": "Brecht"
+        "end": 2048,
+        "author": "Christoph Brecht."
       }
     ]
   },
   {
     "lemma": "Partus suppositus",
     "previous": "Partus abactio",
-    "next": "Parysatis 1",
+    "next": "Parysatis",
+    "sort_key": "Partussuppositus",
+    "proof_read": 0,
     "short_description": "Das untergeschobene Kind",
     "chapters": [
       {
         "start": 2048,
-        "author": "Brecht"
+        "end": 2051,
+        "author": "Christoph Brecht."
+      }
+    ]
+  },
+  {
+    "lemma": "Parysatis",
+    "previous": "Partus suppositus",
+    "next": "Parysatis 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2051,
+        "end": 2051,
+        "author": "J. Miller."
       }
     ]
   },
   {
     "lemma": "Parysatis 1",
-    "previous": "Partus suppositus",
+    "previous": "Parysatis",
     "next": "Parysatis 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Königs Artaxerxes I., Mutter von Artaxerxes II.",
     "chapters": [
       {
         "start": 2051,
-        "author": "Miller"
+        "end": 2052,
+        "author": "J. Miller."
       }
     ]
   },
@@ -3100,11 +3431,13 @@
     "lemma": "Paschasius 1",
     "previous": "Pascha",
     "next": "Paschasius 2",
-    "short_description": "Spectabilis vir unter Theoderich  d. Gr.",
+    "proof_read": 0,
+    "short_description": "Spectabilis vir unter Theoderich d. Gr.",
     "chapters": [
       {
         "start": 2052,
-        "author": "Nagl"
+        "end": 2052,
+        "author": "Nagl."
       }
     ]
   },
@@ -3112,11 +3445,13 @@
     "lemma": "Paschasius 2",
     "previous": "Paschasius 1",
     "next": "Pascua",
+    "proof_read": 0,
     "short_description": "Praefectus annonae zw. 533 u. 537 n. Chr.",
     "chapters": [
       {
         "start": 2052,
-        "author": "Nagl"
+        "end": 2052,
+        "author": "Nagl."
       }
     ]
   },
@@ -3124,11 +3459,13 @@
     "lemma": "Pascua",
     "previous": "Paschasius 2",
     "next": "Paseas 1",
+    "proof_read": 0,
     "short_description": "Viehweiden",
     "chapters": [
       {
         "start": 2052,
-        "author": "Kübler, B[ernhard]"
+        "end": 2056,
+        "author": "Kübler."
       }
     ]
   },
@@ -3136,11 +3473,13 @@
     "lemma": "Paseas 1",
     "previous": "Pascua",
     "next": "Paseas 2",
+    "proof_read": 0,
     "short_description": "Vater d. Abantidas, Tyrann in Sikyon Mitte 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 2056,
-        "author": "Lenschau"
+        "end": 2057,
+        "author": "Lenschau."
       }
     ]
   },
@@ -3148,11 +3487,13 @@
     "lemma": "Paseas 2",
     "previous": "Paseas 1",
     "next": "Pases",
+    "proof_read": 0,
     "short_description": "Akademiker, Schüler d. Arkesilaos",
     "chapters": [
       {
         "start": 2057,
-        "author": "Schmidt"
+        "end": 2057,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -3174,11 +3515,13 @@
     "lemma": "Pasiades 1",
     "previous": "Pases",
     "next": "Pasiades 2",
+    "proof_read": 0,
     "short_description": "Byzantier, Person bei Plut.",
     "chapters": [
       {
         "start": 2057,
-        "author": "Ziegler"
+        "end": 2057,
+        "author": "Ziegler."
       }
     ]
   },
@@ -3186,11 +3529,13 @@
     "lemma": "Pasiades 2",
     "previous": "Pasiades 1",
     "next": "Pasianax",
+    "proof_read": 0,
     "short_description": "Att. Töpfer Ende 6. Jh. v. Chr.",
     "chapters": [
       {
         "start": 2057,
-        "author": "Lullies"
+        "end": 2058,
+        "author": "R. Lullies."
       }
     ]
   },
@@ -3198,10 +3543,12 @@
     "lemma": "Pasianax",
     "previous": "Pasiades 2",
     "next": "Pasias 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2058,
-        "author": "Kruse"
+        "end": 2058,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -3223,11 +3570,13 @@
     "lemma": "Pasias 2",
     "previous": "Pasias 1",
     "next": "Pasicles",
+    "proof_read": 0,
     "short_description": "Maler",
     "chapters": [
       {
         "start": 2058,
-        "author": "Lippold, Georg"
+        "end": 2058,
+        "author": "Lippold."
       }
     ]
   },
@@ -3258,37 +3607,43 @@
   },
   {
     "lemma": "Pasikles 1",
-    "previous": "Pasidienus 2",
+    "previous": "P. Pasidienus Firmus",
     "next": "Pasikles 2",
+    "proof_read": 0,
     "short_description": "Vater d. Philistos, der bei d. Gründung Milets beteiligt war",
     "chapters": [
       {
         "start": 2059,
-        "author": "Lenschau"
+        "end": 2059,
+        "author": "Lenschau."
       }
     ]
   },
   {
     "lemma": "Pasikles 2",
     "previous": "Pasikles 1",
-    "next": "Pasikles 4",
+    "next": "Pasikles 3",
+    "proof_read": 0,
     "short_description": "Aisymnet v. Ephesos, Zeitgenosse d. Kroisos",
     "chapters": [
       {
         "start": 2059,
-        "author": "Aly"
+        "end": 2060,
+        "author": "Aly."
       }
     ]
   },
   {
     "lemma": "Pasikles 4",
-    "previous": "Pasikles 2",
+    "previous": "Pasikles 3",
     "next": "Pasikles 5",
+    "proof_read": 0,
     "short_description": "CIA II 1395, Ende 4. Jh.",
     "chapters": [
       {
         "start": 2060,
-        "author": "Lenschau"
+        "end": 2061,
+        "author": "Lenschau."
       }
     ]
   },
@@ -3296,11 +3651,13 @@
     "lemma": "Pasikles 5",
     "previous": "Pasikles 4",
     "next": "Pasikles 6",
+    "proof_read": 0,
     "short_description": "Von Rhodos, Schüler d. Aristoteles",
     "chapters": [
       {
         "start": 2061,
-        "author": "Brink"
+        "end": 2061,
+        "author": "K. O. Brink."
       }
     ]
   },
@@ -3308,11 +3665,13 @@
     "lemma": "Pasikles 6",
     "previous": "Pasikles 5",
     "next": "Pasikles 7",
+    "proof_read": 0,
     "short_description": "Aus Theben, Bruder d. Kynikers Krates",
     "chapters": [
       {
         "start": 2061,
-        "author": "Fritz"
+        "end": 2061,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -3320,11 +3679,13 @@
     "lemma": "Pasikles 7",
     "previous": "Pasikles 6",
     "next": "Pasikles 8",
+    "proof_read": 0,
     "short_description": "Aus Theben, Sohn d. Kynikers Krates",
     "chapters": [
       {
         "start": 2061,
-        "author": "Fritz"
+        "end": 2061,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -3360,10 +3721,12 @@
     "lemma": "Pasikrate",
     "previous": "Pasikles 9",
     "next": "Pasikrateia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2061,
-        "author": "Türk"
+        "end": 2061,
+        "author": "Türk."
       }
     ]
   },
@@ -3371,10 +3734,12 @@
     "lemma": "Pasikrateia",
     "previous": "Pasikrate",
     "next": "Pasikrates 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2062,
-        "author": "Türk"
+        "end": 2062,
+        "author": "Türk."
       }
     ]
   },
@@ -3382,11 +3747,13 @@
     "lemma": "Pasikrates 1",
     "previous": "Pasikrateia",
     "next": "Pasikrates 2",
+    "proof_read": 0,
     "short_description": "Stadtkönig v. Kurion auf Kypern",
     "chapters": [
       {
         "start": 2062,
-        "author": "Wotke"
+        "end": 2062,
+        "author": "F. Wotke."
       }
     ]
   },
@@ -3394,11 +3761,13 @@
     "lemma": "Pasikrates 2",
     "previous": "Pasikrates 1",
     "next": "Pasikrates 3",
+    "proof_read": 0,
     "short_description": "Stadtkönig v. Soloi auf Kypern",
     "chapters": [
       {
         "start": 2062,
-        "author": "Wotke"
+        "end": 2063,
+        "author": "F. Wotke."
       }
     ]
   },
@@ -3419,11 +3788,13 @@
     "lemma": "Pasikrates 4",
     "previous": "Pasikrates 3",
     "next": "Pasikrates 5",
+    "proof_read": 0,
     "short_description": "Vater d. Dio Chrysostomus",
     "chapters": [
       {
         "start": 2063,
-        "author": "Hanslik"
+        "end": 2063,
+        "author": "Hanslik."
       }
     ]
   },
@@ -3431,11 +3802,13 @@
     "lemma": "Pasikrates 5",
     "previous": "Pasikrates 4",
     "next": "Pasimachos",
+    "proof_read": 0,
     "short_description": "Berichterstatter d. Georgslegende",
     "chapters": [
       {
         "start": 2063,
-        "author": "Wotke"
+        "end": 2063,
+        "author": "F. Wotke."
       }
     ]
   },
@@ -3470,11 +3843,13 @@
     "lemma": "Pasion 1",
     "previous": "Pasines",
     "next": "Pasion 2",
+    "proof_read": 0,
     "short_description": "Aus Megara, Söldnerführer z. Zt. des jüngeren Kyros",
     "chapters": [
       {
         "start": 2064,
-        "author": "Schaefer"
+        "end": 2064,
+        "author": "Hans Schaefer."
       }
     ]
   },
@@ -3482,11 +3857,13 @@
     "lemma": "Pasion 2",
     "previous": "Pasion 1",
     "next": "Pasios",
+    "proof_read": 0,
     "short_description": "Der bekannteste Geldwechsler u. Bankier in Athen nach d. pelopones. Krieg",
     "chapters": [
       {
         "start": 2064,
-        "author": "Schaefer"
+        "end": 2068,
+        "author": "Hans Schaefer."
       }
     ]
   },
@@ -3494,11 +3871,13 @@
     "lemma": "Pasios",
     "previous": "Pasion 2",
     "next": "Pasiphae",
+    "proof_read": 0,
     "short_description": "1. in d. Stiftungsurkunde d. Diomedon aus Kos, 2. viell. auf einer Inschr. aus",
     "chapters": [
       {
         "start": 2068,
-        "author": "Kruse"
+        "end": 2069,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -3506,11 +3885,13 @@
     "lemma": "Pasiphae",
     "previous": "Pasios",
     "next": "Pasiphaes",
+    "proof_read": 0,
     "short_description": "Urspr. Lichtgottheit Tochter d. Helios u. d. Okeanide Perse, Gattin d. Minos v.",
     "chapters": [
       {
         "start": 2069,
-        "author": "Scherling"
+        "end": 2082,
+        "author": "Scherling."
       }
     ]
   },
@@ -3561,11 +3942,13 @@
     "lemma": "Pasiphile 1",
     "previous": "Pasiphanes",
     "next": "Pasiphile 2",
+    "proof_read": 0,
     "short_description": "Sonst unbekannte chthonische Gottheit",
     "chapters": [
       {
         "start": 2082,
-        "author": "Kolf"
+        "end": 2082,
+        "author": "Kolf."
       }
     ]
   },
@@ -3603,11 +3986,13 @@
     "lemma": "Pasiphilos 1",
     "previous": "Pasiphile 3",
     "next": "Pasiphilos 2",
+    "proof_read": 0,
     "short_description": "Unterfeldherr d. Agathokles 15 ums J. 311 v. Chr",
     "chapters": [
       {
         "start": 2083,
-        "author": "Lenschau"
+        "end": 2083,
+        "author": "Lenschau."
       }
     ]
   },
@@ -3615,11 +4000,13 @@
     "lemma": "Pasiphilos 2",
     "previous": "Pasiphilos 1",
     "next": "Pasiphon 1",
+    "proof_read": 0,
     "short_description": "Führer d. gg. Byzanz aufständischen Mauren",
     "chapters": [
       {
         "start": 2083,
-        "author": "Nagl"
+        "end": 2083,
+        "author": "Nagl."
       }
     ]
   },
@@ -3627,11 +4014,13 @@
     "lemma": "Pasiphon 1",
     "previous": "Pasiphilos 2",
     "next": "Pasiphon 2",
+    "proof_read": 0,
     "short_description": "Stratege in Samos 410/09 v. Chr.",
     "chapters": [
       {
         "start": 2083,
-        "author": "Schaefer"
+        "end": 2084,
+        "author": "Hans Schaefer."
       }
     ]
   },
@@ -3639,11 +4028,13 @@
     "lemma": "Pasiphon 2",
     "previous": "Pasiphon 1",
     "next": "Pasiphon 3",
+    "proof_read": 0,
     "short_description": "Schriftsteller Anf. 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 2084,
-        "author": "Fritz"
+        "end": 2084,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -3666,11 +4057,13 @@
     "lemma": "Pasippidas",
     "previous": "Pasiphon 3",
     "next": "Pasiteleides",
+    "proof_read": 0,
     "short_description": "Spartaner, Person in Xen. Hell.",
     "chapters": [
       {
         "start": 2084,
-        "author": "Schaefer"
+        "end": 2086,
+        "author": "Hans Schaefer."
       }
     ]
   },
@@ -3678,11 +4071,13 @@
     "lemma": "Pasiteleides",
     "previous": "Pasippidas",
     "next": "Pasiteles 1",
+    "proof_read": 0,
     "short_description": "Spartaner, 423 v. Chr. als Harmost in Thrakien eingesetzt",
     "chapters": [
       {
         "start": 2086,
-        "author": "Schaefer"
+        "end": 2087,
+        "author": "Hans Schaefer."
       }
     ]
   },
@@ -3690,11 +4085,13 @@
     "lemma": "Pasiteles 1",
     "previous": "Pasiteleides",
     "next": "Pasiteles 2",
+    "proof_read": 0,
     "short_description": "Bildhauer, Lehrer d. Kolotes v. Paros",
     "chapters": [
       {
         "start": 2087,
-        "author": "Lippold, Georg"
+        "end": 2087,
+        "author": "Lippold."
       }
     ]
   },
@@ -3702,11 +4099,13 @@
     "lemma": "Pasiteles 2",
     "previous": "Pasiteles 1",
     "next": "Pasithea 1",
+    "proof_read": 0,
     "short_description": "Bildhauer u. Toreut aus einer gr. Stadt Unteritaliens",
     "chapters": [
       {
         "start": 2087,
-        "author": "Lippold, Georg"
+        "end": 2089,
+        "author": "Lippold."
       }
     ]
   },
@@ -3714,11 +4113,13 @@
     "lemma": "Pasithea 1",
     "previous": "Pasiteles 2",
     "next": "Pasithea 2",
+    "proof_read": 0,
     "short_description": "Nereide",
     "chapters": [
       {
         "start": 2089,
-        "author": "Kolf"
+        "end": 2089,
+        "author": "Kolf."
       }
     ]
   },
@@ -3726,11 +4127,13 @@
     "lemma": "Pasithea 2",
     "previous": "Pasithea 1",
     "next": "Pasithea 3",
+    "proof_read": 0,
     "short_description": "Charite",
     "chapters": [
       {
         "start": 2089,
-        "author": "Kolf"
+        "end": 2090,
+        "author": "Kolf."
       }
     ]
   },
@@ -3785,11 +4188,13 @@
     "lemma": "Pasithoe",
     "previous": "Pasithemis",
     "next": "Pason",
+    "proof_read": 0,
     "short_description": "Okeanide",
     "chapters": [
       {
         "start": 2090,
-        "author": "Kolf"
+        "end": 2091,
+        "author": "Kolf."
       }
     ]
   },
@@ -3809,34 +4214,41 @@
   {
     "lemma": "Pasparios",
     "previous": "Pason",
-    "next": "Passalo",
+    "next": "Πάσααλο",
+    "proof_read": 0,
     "short_description": "Beiname d. Apollon",
     "chapters": [
       {
         "start": 2091,
-        "author": "Oppermann"
+        "end": 2091,
+        "author": "Oppermann."
       }
     ]
   },
   {
-    "lemma": "Passalo",
+    "lemma": "Πάσααλο",
     "previous": "Pasparios",
     "next": "Passalos",
+    "sort_key": "Passalo",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2091,
-        "author": "Kees"
+        "end": 2091,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Passalos",
-    "previous": "Passalo",
+    "previous": "Πάσααλο",
     "next": "Passara",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2092,
-        "author": "Göber"
+        "end": 2092,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -3844,10 +4256,12 @@
     "lemma": "Passara",
     "previous": "Passalos",
     "next": "Passaron",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2092,
-        "author": "Nagl"
+        "end": 2092,
+        "author": "Nagl."
       }
     ]
   },
@@ -3855,11 +4269,13 @@
     "lemma": "Passaron",
     "previous": "Passara",
     "next": "Passeiros",
+    "proof_read": 0,
     "short_description": "Altgeheiligte Stadt d. Molosser",
     "chapters": [
       {
         "start": 2092,
-        "author": "Schmidt"
+        "end": 2093,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -3867,40 +4283,48 @@
     "lemma": "Passeiros",
     "previous": "Passaron",
     "next": "Passenia Petronia",
+    "proof_read": 0,
     "short_description": "Hyperboreer, besiedelte d. Insel Eirene nahe Argolis",
     "chapters": [
       {
         "start": 2093,
-        "author": "Kolf"
+        "end": 2093,
+        "author": "Kolf."
       }
     ]
   },
   {
     "lemma": "Passenia Petronia",
     "previous": "Passeiros",
-    "next": "Passennus C. f. Serg. Paullus Propertius Blaesus",
+    "next": "C. Passennus C. f. Serg. Paullus Propertius Blaesus",
+    "sort_key": "Passeniapetronia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2093,
-        "author": "Hofmann, Max"
+        "end": 2094,
+        "author": "Hofmann."
       }
     ]
   },
   {
-    "lemma": "Passennus C. f. Serg. Paullus Propertius Blaesus",
+    "lemma": "C. Passennus C. f. Serg. Paullus Propertius Blaesus",
     "previous": "Passenia Petronia",
     "next": "Passer",
+    "sort_key": "Passennusc. f. serg. paullus propertius blaesus",
+    "proof_read": 0,
     "short_description": "C., Dichter in d. Nachfolge d. Properz u. Horaz",
     "chapters": [
       {
         "start": 2094,
-        "author": "Ziegler"
+        "end": 2094,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Passer",
-    "previous": "Passennus C. f. Serg. Paullus Propertius Blaesus",
+    "previous": "C. Passennus C. f. Serg. Paullus Propertius Blaesus",
     "next": "Passerius",
     "redirect": "Petronius 94",
     "proof_read": 2,
@@ -3914,36 +4338,43 @@
   {
     "lemma": "Passerius",
     "previous": "Passer",
-    "next": "Passienius Cossonius Scipio Orfitus",
+    "next": "C. Passienius Cossonius Scipio Orfitus",
+    "proof_read": 0,
     "short_description": "L. Romulus, Bauleiter d. 'neuen' Prozessionsstraße v. Milet zum Didymeion",
     "chapters": [
       {
         "start": 2094,
-        "author": "Hofmann, Max"
+        "end": 2094,
+        "author": "Hofmann."
       }
     ]
   },
   {
-    "lemma": "Passienius Cossonius Scipio Orfitus",
+    "lemma": "C. Passienius Cossonius Scipio Orfitus",
     "previous": "Passerius",
     "next": "Passienus 1",
+    "sort_key": "Passieniuscossonius scipio orfitus",
+    "proof_read": 0,
     "short_description": "C., Senator d. Antoninen- o. Severerzeit",
     "chapters": [
       {
         "start": 2094,
-        "author": "Hofmann, Max"
+        "end": 2096,
+        "author": "Hofmann."
       }
     ]
   },
   {
     "lemma": "Passienus 1",
-    "previous": "Passienius Cossonius Scipio Orfitus",
+    "previous": "C. Passienius Cossonius Scipio Orfitus",
     "next": "Passienus 2",
+    "proof_read": 0,
     "short_description": "Deklamator, Zeitgenosse d. Asinius Pollio",
     "chapters": [
       {
         "start": 2096,
-        "author": "Kroll"
+        "end": 2096,
+        "author": "Kroll."
       }
     ]
   },
@@ -3951,11 +4382,13 @@
     "lemma": "Passienus 2",
     "previous": "Passienus 1",
     "next": "Passienus 3",
+    "proof_read": 0,
     "short_description": "C. Sallustius Crispus Enkel v. Nr. 1, auf Betreiben seiner zweiten Gattin,",
     "chapters": [
       {
         "start": 2097,
-        "author": "Hanslik"
+        "end": 2098,
+        "author": "Hanslik."
       }
     ]
   },
