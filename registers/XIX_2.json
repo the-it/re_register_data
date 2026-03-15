@@ -3,7 +3,7 @@
     "lemma": "Petros 1",
     "next": "Petros 2",
     "proof_read": 0,
-    "short_description": "I. Bischof v. Alexandria 300-311 n. Chr. theolog. Schriftsteller",
+    "short_description": "I. Bischof von Alexandria 300-311 n. Chr. Schriftsteller",
     "chapters": [
       {
         "start": 1281,
@@ -17,7 +17,7 @@
     "previous": "Petros 1",
     "next": "Petros 3",
     "proof_read": 0,
-    "short_description": "II. Bischof v. Alexandria 373-381 n. Chr. Schüler u. Presbyter d. Athanasius",
+    "short_description": "II. Bischof vov Alexandria 373-381 n. Chr. Presbyter",
     "chapters": [
       {
         "start": 1288,
@@ -2622,7 +2622,7 @@
     "previous": "Pflaume",
     "next": "Pfund",
     "proof_read": 0,
-    "short_description": "Landwirtschaftl. Gerät",
+    "short_description": "Gerät in der Landwirtschaft",
     "chapters": [
       {
         "start": 1461,
@@ -3558,7 +3558,7 @@
     "previous": "Phaidros 7",
     "next": "Phaidros 9",
     "proof_read": 0,
-    "short_description": "Epikureischer Philosoph",
+    "short_description": "epikureischer Philosoph",
     "chapters": [
       {
         "start": 1557,
@@ -6457,7 +6457,7 @@
     "lemma": "Pharakidas",
     "previous": "Pharaia 2",
     "next": "Φαράμβαρα",
-    "redirect": "Pharax 3",
+    "redirect": "Φάραξ 3",
     "proof_read": 2,
     "chapters": [
       {
@@ -6729,7 +6729,7 @@
   {
     "lemma": "Pharasmanios",
     "previous": "Pharasmanes 8",
-    "next": "Pharaspa, Pharastia",
+    "next": "Φαράσπα",
     "redirect": "Pharasmanes 3",
     "proof_read": 2,
     "chapters": [
@@ -7150,11 +7150,13 @@
     "lemma": "Pharmakides",
     "previous": "Pharmakeia",
     "next": "Pharmakon",
+    "proof_read": 0,
     "short_description": "Frauenbilder in Theben, mit d. Moiren gleichgesetzt",
     "chapters": [
       {
         "start": 1839,
-        "author": "Wüst"
+        "end": 1840,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -7175,18 +7177,20 @@
     "lemma": "Pharmakopoles",
     "previous": "Pharmakon",
     "next": "Pharmakos",
+    "proof_read": 0,
     "short_description": "Verkäufer v. Arzneien u. Drogen sowie Schausteller",
     "chapters": [
       {
         "start": 1840,
-        "author": "Morel"
+        "end": 1841,
+        "author": "W. Morel."
       }
     ]
   },
   {
     "lemma": "Pharmakos",
     "previous": "Pharmakopoles",
-    "next": "Pharmaku",
+    "next": "Φαρμάκου",
     "proof_read": 0,
     "short_description": "Sündenbock beim Fest der Thargelia",
     "wp_link": "w:de:Pharmakos",
@@ -7200,26 +7204,31 @@
     ]
   },
   {
-    "lemma": "Pharmaku",
+    "lemma": "Φαρμάκου",
     "previous": "Pharmakos",
     "next": "Pharmakussa",
+    "sort_key": "Pharmaku",
+    "proof_read": 0,
     "short_description": "epi - chorio[n?]",
     "chapters": [
       {
         "start": 1842,
-        "author": "Ruge"
+        "end": 1842,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Pharmakussa",
-    "previous": "Pharmaku",
-    "next": "Pharmatenos",
+    "previous": "Φαρμάκου",
+    "next": "Pharmakussai",
+    "proof_read": 0,
     "short_description": "Sporadeninsel südl. v. Milet",
     "chapters": [
       {
         "start": 1842,
-        "author": "Schmidt"
+        "end": 1842,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -7251,11 +7260,13 @@
     "lemma": "Pharnabazos 1",
     "previous": "Pharmutios",
     "next": "Pharnabazos 2",
+    "proof_read": 0,
     "short_description": "Vornehmer Perser, Vater d. Pharnakes",
     "chapters": [
       {
         "start": 1842,
-        "author": "Lenschau"
+        "end": 1842,
+        "author": "Lenschau."
       }
     ]
   },
@@ -7263,11 +7274,13 @@
     "lemma": "Pharnabazos 2",
     "previous": "Pharnabazos 1",
     "next": "Pharnabazos 3",
+    "proof_read": 0,
     "short_description": "Enkel v. Nr. 1, Satrap d. Daskylitis, geb. zw. 450-445 v. Chr.",
     "chapters": [
       {
         "start": 1842,
-        "author": "Lenschau"
+        "end": 1848,
+        "author": "Lenschau."
       }
     ]
   },
@@ -7275,11 +7288,13 @@
     "lemma": "Pharnabazos 3",
     "previous": "Pharnabazos 2",
     "next": "Pharnacias",
+    "proof_read": 0,
     "short_description": "Enkel v. Nr. 2, Sohn d. Artabazos",
     "chapters": [
       {
         "start": 1848,
-        "author": "Lenschau"
+        "end": 1848,
+        "author": "Lenschau."
       }
     ]
   },
@@ -7300,11 +7315,13 @@
     "lemma": "Pharnake 1",
     "previous": "Pharnacias",
     "next": "Pharnake 2",
+    "proof_read": 0,
     "short_description": "Mutter d. Kinyras",
     "chapters": [
       {
         "start": 1848,
-        "author": "Kroll"
+        "end": 1848,
+        "author": "Kroll."
       }
     ]
   },
@@ -7366,11 +7383,13 @@
     "lemma": "Pharnakes 2",
     "previous": "Pharnakes 1",
     "next": "Pharnakes 3",
+    "proof_read": 0,
     "short_description": "König d. Bosporan. Reich 63-47 v. Chr., Sohn d. Mithridates Eupator",
     "chapters": [
       {
         "start": 1851,
-        "author": "Diehl, Erich"
+        "end": 1853,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -7434,10 +7453,12 @@
     "lemma": "Pharnakotis",
     "previous": "Pharnakion",
     "next": "Pharnaku",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1853,
-        "author": "Herrmann"
+        "end": 1853,
+        "author": "Herrmann."
       }
     ]
   },
@@ -7445,11 +7466,13 @@
     "lemma": "Pharnaku",
     "previous": "Pharnakotis",
     "next": "Pharnapates",
+    "proof_read": 0,
     "short_description": "Beiname d. Men in Pontos",
     "chapters": [
       {
         "start": 1853,
-        "author": "Oppermann"
+        "end": 1855,
+        "author": "Oppermann."
       }
     ]
   },
@@ -7457,11 +7480,13 @@
     "lemma": "Pharnapates",
     "previous": "Pharnaku",
     "next": "Pharnaspes",
+    "proof_read": 0,
     "short_description": "Parthischer Satrap u. Stratege 40/39 v. Chr.",
     "chapters": [
       {
         "start": 1855,
-        "author": "Raubitschek"
+        "end": 1855,
+        "author": "A. Raubitschek."
       }
     ]
   },
@@ -7469,10 +7494,12 @@
     "lemma": "Pharnaspes",
     "previous": "Pharnapates",
     "next": "Pharnerseh",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1855,
-        "author": "Raubitschek"
+        "end": 1856,
+        "author": "A. Raubitschek."
       }
     ]
   },
@@ -7480,21 +7507,25 @@
     "lemma": "Pharnerseh",
     "previous": "Pharnaspes",
     "next": "Pharnouches",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1856,
-        "author": "Enßlin"
+        "end": 1856,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Pharnouches",
     "previous": "Pharnerseh",
-    "next": "Pharnouchos 1",
+    "next": "Pharnuchos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1856,
-        "author": "Schoch"
+        "end": 1856,
+        "author": "Schoch."
       }
     ]
   },
@@ -7513,7 +7544,6 @@
   {
     "lemma": "Pharnouchos 2",
     "previous": "Pharnouchos 1",
-    "next": "Pharnucias",
     "short_description": "Verf. einer pers. Geschichte",
     "chapters": [
       {
@@ -7523,8 +7553,22 @@
     ]
   },
   {
+    "lemma": "Pharnuchos 2",
+    "previous": "Pharnuchos 1",
+    "next": "Pharnucias",
+    "proof_read": 0,
+    "short_description": "Verf. einer pers. Geschichte",
+    "chapters": [
+      {
+        "start": 1857,
+        "end": 1857,
+        "author": "Laqueur."
+      }
+    ]
+  },
+  {
     "lemma": "Pharnucias",
-    "previous": "Pharnouchos 2",
+    "previous": "Pharnuchos 2",
     "next": "Pharnutis",
     "redirect": "Pharnutis",
     "proof_read": 2,
@@ -7538,28 +7582,33 @@
   {
     "lemma": "Pharnutis",
     "previous": "Pharnucias",
-    "next": "Pharodinoi",
+    "next": "Φαροδινοί",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1857,
-        "author": "Ruge"
+        "end": 1857,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Pharodinoi",
+    "lemma": "Φαροδινοί",
     "previous": "Pharnutis",
     "next": "Pharos 1",
+    "sort_key": "Pharodinoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1857,
-        "author": "Franke"
+        "end": 1857,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Pharos 1",
-    "previous": "Pharodinoi",
+    "previous": "Φαροδινοί",
     "next": "Pharos 2",
     "short_description": "Insel mit gleichnamigem Leuchtturm vor Alexandreia",
     "chapters": [
@@ -8305,11 +8354,13 @@
     "lemma": "Phayllos 3",
     "previous": "Phayllos 2",
     "next": "Phayllos 4",
-    "short_description": "Aus Acherdus, führendes Mitglied d. zweiten Zehnmännerkollegiums in Athen 403",
+    "proof_read": 0,
+    "short_description": "aus Acherdus, Athen 403 v. Chr. Zehnmännerkollegium",
     "chapters": [
       {
         "start": 1904,
-        "author": "Raubitschek"
+        "end": 1904,
+        "author": "A. Raubitschek."
       }
     ]
   },
@@ -8690,11 +8741,13 @@
     "lemma": "Pheidippos 2",
     "previous": "Pheidippos 1",
     "next": "Pheidippos 3",
-    "short_description": "Sohn d. Chairephilos aus d. Demos Paiania",
+    "proof_read": 0,
+    "short_description": "Sohn des Chairephilos aus dem Demos Paiania",
     "chapters": [
       {
         "start": 1937,
-        "author": "Raubitschek"
+        "end": 1938,
+        "author": "A. Raubitschek."
       }
     ]
   },
@@ -8856,11 +8909,13 @@
     "lemma": "Pheidostratos 2",
     "previous": "Pheidostratos 1",
     "next": "Pheison",
+    "proof_read": 0,
     "short_description": "Unbedeutender att. Grammatiker",
     "chapters": [
       {
         "start": 1949,
-        "author": "Strout"
+        "end": 1949,
+        "author": "Donald Strout-Ruth French."
       }
     ]
   },
@@ -9205,7 +9260,7 @@
     "previous": "Pheno",
     "next": "Pher",
     "sort_key": "Phenutos",
-    "redirect": "Phaina",
+    "redirect": "Φαινα",
     "proof_read": 2,
     "chapters": [
       {
@@ -9320,10 +9375,13 @@
     "lemma": "Pheraios",
     "previous": "Pheraimon",
     "next": "Pherandros",
+    "proof_read": 0,
+    "short_description": "Beiname des Hermes",
     "chapters": [
       {
         "start": 1983,
-        "author": "Schmidt, Johannes"
+        "end": 1983,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9796,11 +9854,13 @@
     "lemma": "Pheretima",
     "previous": "Pheretiades 2",
     "next": "Phereus 1",
-    "short_description": "Königin v. Kyrene",
+    "proof_read": 0,
+    "short_description": "Königin von Kyrene",
     "chapters": [
       {
         "start": 2038,
-        "author": "Hiller von Gaertringen"
+        "end": 2039,
+        "author": "Hiller v. Gaertringen."
       }
     ]
   },
@@ -12423,11 +12483,13 @@
     "lemma": "Philippeioi",
     "previous": "Philios 3",
     "next": "Philippianus",
-    "short_description": "Form d. Goldwährung",
+    "proof_read": 0,
+    "short_description": "Form der Goldwährung mit 8,6 g",
     "chapters": [
       {
         "start": 2196,
-        "author": "Seltman"
+        "end": 2198,
+        "author": "Seltman."
       }
     ]
   },
@@ -13300,11 +13362,14 @@
     "lemma": "Philippos 48",
     "previous": "Philippos 47",
     "next": "Philippos 49",
+    "proof_read": 0,
     "short_description": "Sophist",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2367,
-        "author": "Strout"
+        "end": 2367,
+        "author": "Donald Strout-Ruth French."
       }
     ]
   },
@@ -14176,11 +14241,13 @@
     "lemma": "Philister",
     "previous": "Philisteides 3",
     "next": "Philistideion",
-    "short_description": "Volk aus d. kleinasiat.-ägäischen Raum",
+    "proof_read": 0,
+    "short_description": "Volk in Gaza: Land. Name. Herkunft. Sprache. Geschichte",
     "chapters": [
       {
         "start": 2390,
-        "author": "Eissfeldt"
+        "end": 2401,
+        "author": "Otto Eißfeldt."
       }
     ]
   },
@@ -14188,11 +14255,13 @@
     "lemma": "Philistideion",
     "previous": "Philister",
     "next": "Philistides 1",
+    "proof_read": 0,
     "short_description": "Münzart",
     "chapters": [
       {
         "start": 2401,
-        "author": "Seltman"
+        "end": 2401,
+        "author": "Seltman."
       }
     ]
   },
