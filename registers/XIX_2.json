@@ -2464,11 +2464,14 @@
     "lemma": "Πεζέταιροι",
     "previous": "Pexodoros",
     "next": "Pfändung",
+    "sort_key": "Pezetairoi",
+    "proof_read": 0,
     "short_description": "Makedon. Fußvolk",
     "chapters": [
       {
         "start": 1412,
-        "author": "Lammert, Friedrich"
+        "end": 1414,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -6744,14 +6747,17 @@
     ]
   },
   {
-    "lemma": "Pharaspa, Pharastia",
+    "lemma": "Φαράσπα",
     "previous": "Pharasmanios",
     "next": "Pharatha",
+    "sort_key": "Pharaspa,pharastia",
+    "proof_read": 0,
     "short_description": "s. Phraspa",
     "chapters": [
       {
         "start": 1815,
-        "author": "Sturm"
+        "end": 1815,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -7225,7 +7231,7 @@
   {
     "lemma": "Pharmakussa",
     "previous": "Φαρμάκου",
-    "next": "Φαρματηνός",
+    "next": "Pharmakussai",
     "proof_read": 0,
     "short_description": "Sporadeninsel südl. v. Milet",
     "chapters": [
@@ -7238,12 +7244,15 @@
   },
   {
     "lemma": "Φαρματηνός",
-    "previous": "Pharmakussa",
+    "previous": "Pharmakussai",
     "next": "Pharmutios",
+    "sort_key": "Pharmatenos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1842,
-        "author": "Herrmann"
+        "end": 1842,
+        "author": "Herrmann."
       }
     ]
   },
@@ -7655,11 +7664,14 @@
   {
     "lemma": "Φαρφάρ",
     "previous": "Pharos 3",
-    "next": "Pharasii",
+    "next": "Pharrantsem",
+    "sort_key": "Pharphar",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1869,
-        "author": "Honigmann"
+        "end": 1870,
+        "author": "Honigmann."
       }
     ]
   },
@@ -7851,35 +7863,44 @@
     "lemma": "Pharykos",
     "previous": "Pharygion",
     "next": "Φαρύτρα",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "aitolischer Freibeuter",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1873,
         "end": 1873,
-        "author": "Schoch."
+        "author": "P. Schoch."
       }
     ]
   },
   {
     "lemma": "Φαρύτρα",
     "previous": "Pharykos",
-    "next": "Pharzanes",
+    "next": "Pharzanses",
+    "sort_key": "Pharytra",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1873,
-        "author": "Stein, O[tto]"
+        "end": 1873,
+        "author": "O. Stein."
       }
     ]
   },
   {
-    "lemma": "Pharzanes",
+    "lemma": "Pharzanses",
     "previous": "Φαρύτρα",
     "next": "Pharzoios",
-    "short_description": "Sarmate, König d. Bosporan. Reiches, Mitte 3. Jh. n. Chr.",
+    "proof_read": 0,
+    "short_description": "Sarmate, König des Bosporanischen Reiches, Mitte 3. Jhdt. n. Chr.",
+    "wp_link": "w:en:Pharsanzes",
+    "wd_link": "d:Q3073249",
     "chapters": [
       {
         "start": 1873,
-        "author": "Diehl, Erich"
+        "end": 1873,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -7957,11 +7978,14 @@
     "lemma": "Φασγά",
     "previous": "Phaselus",
     "next": "Phasganios",
+    "sort_key": "Phasga",
+    "proof_read": 0,
     "short_description": "Randgebirge d. moabitischen Hochebene nordöstl. d. Toten Meeres",
     "chapters": [
       {
         "start": 1884,
-        "author": "Hölscher"
+        "end": 1884,
+        "author": "Hölscher."
       }
     ]
   },
@@ -8010,7 +8034,7 @@
   {
     "lemma": "Phasiane 2",
     "previous": "Phasiane 1",
-    "next": "Phasianoi",
+    "next": "Φασιανοί",
     "proof_read": 2,
     "short_description": "Beiname der Artemis",
     "no_creative_height": true,
@@ -8023,19 +8047,27 @@
     ]
   },
   {
-    "lemma": "Phasianoi",
+    "lemma": "Φασιανοί",
     "previous": "Phasiane 2",
     "next": "Phasileus",
+    "sort_key": "Phasianoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1885,
-        "author": "Herrmann"
+        "end": 1885,
+        "author": "Herrmann."
+      },
+      {
+        "start": 1885,
+        "end": 1886,
+        "author": "Erich Diehl."
       }
     ]
   },
   {
     "lemma": "Phasileus",
-    "previous": "Phasianoi",
+    "previous": "Φασιανοί",
     "next": "Phasis 1",
     "proof_read": 2,
     "short_description": "Bischof von Hermupolis, Anhänger des Melitius von Lykopolis",
@@ -8134,7 +8166,7 @@
   {
     "lemma": "Phaskolion",
     "previous": "Phasithea",
-    "next": "Φάακωλος",
+    "next": "Φάσκωλος",
     "proof_read": 0,
     "short_description": "Geldbeutel, Geldkatze",
     "chapters": [
@@ -8146,23 +8178,26 @@
     ]
   },
   {
-    "lemma": "Phasolos",
+    "lemma": "Φάσκωλος",
     "previous": "Phaskolion",
     "next": "Phason",
+    "sort_key": "Phasolos",
+    "proof_read": 0,
     "short_description": "Lederner Kleidersack",
     "chapters": [
       {
         "start": 1899,
-        "author": "Schneider, K[arl]"
+        "end": 1900,
+        "author": "K. Schneider."
       }
     ]
   },
   {
     "lemma": "Phason",
-    "previous": "Phasolos",
+    "previous": "Φάσκωλος",
     "next": "Phassos",
     "redirect": "Phanos 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1900,
@@ -8301,10 +8336,13 @@
     "lemma": "Φαυηνή",
     "previous": "Φαύδα",
     "next": "Phaun",
+    "sort_key": "Phauene",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1901,
-        "author": "Sturm"
+        "end": 1901,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -8326,10 +8364,13 @@
     "lemma": "Φαυνῖτις",
     "previous": "Phaun",
     "next": "Φαυόνai",
+    "sort_key": "Phaunitis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1901,
-        "author": "Sturm"
+        "end": 1901,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -8479,10 +8520,13 @@
     "lemma": "Φάζαβα",
     "previous": "Phayttos",
     "next": "Phazania",
+    "sort_key": "Phazaba",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1905,
-        "author": "Sturm"
+        "end": 1905,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -9058,10 +9102,13 @@
     "lemma": "Φεισῶν",
     "previous": "Pheidostratos 2",
     "next": "Pheka",
+    "sort_key": "Pheison",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1949,
-        "author": "Sturm"
+        "end": 1950,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -9204,6 +9251,7 @@
     "previous": "Phellus",
     "next": "Pheltuce",
     "proof_read": 0,
+    "short_description": "kleine Insel bei Lesbos",
     "chapters": [
       {
         "start": 1954,
@@ -9343,11 +9391,14 @@
     "lemma": "Φενάκη",
     "previous": "Phemonoe",
     "next": "Phenakes",
+    "sort_key": "Phenake",
+    "proof_read": 0,
     "short_description": "Perücke",
     "chapters": [
       {
         "start": 1957,
-        "author": "Herzog-Hauser"
+        "end": 1961,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
@@ -9409,11 +9460,14 @@
     "lemma": "Φενίνδα",
     "previous": "Pheneus",
     "next": "Pheno",
+    "sort_key": "Pheninda",
+    "proof_read": 0,
     "short_description": "Ballspiel",
     "chapters": [
       {
         "start": 1980,
-        "author": "Kroll"
+        "end": 1980,
+        "author": "Kroll."
       }
     ]
   },
@@ -9711,11 +9765,13 @@
     "lemma": "Pherekydes 2",
     "previous": "Pherekydes 1",
     "next": "Pherekydes 3",
+    "proof_read": 0,
     "short_description": "Ein sonst nicht bekannter sophos",
     "chapters": [
       {
         "start": 1991,
-        "author": "Kloesel"
+        "end": 1991,
+        "author": "Kloesel."
       }
     ]
   },
@@ -9723,58 +9779,70 @@
     "lemma": "Pherekydes 3",
     "previous": "Pherekydes 2",
     "next": "Pherekydes 4",
+    "proof_read": 0,
     "short_description": "Von Athen, Genealoge u. Mythograph 1. Hälfte 5. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1991,
-        "author": "Laqueur"
+        "end": 2025,
+        "author": "Laqueur."
       }
     ]
   },
   {
     "lemma": "Pherekydes 4",
     "previous": "Pherekydes 3",
-    "next": "Pheremma",
+    "next": "Φερεμμά",
+    "proof_read": 0,
     "short_description": "Sohn d. Babys, von d. Insel Syros, Mythograph u. Kosmologe",
     "chapters": [
       {
         "start": 2025,
-        "author": "Fritz"
+        "end": 2033,
+        "author": "K. v. Fritz."
       }
     ]
   },
   {
-    "lemma": "Pheremma",
+    "lemma": "Φερεμμά",
     "previous": "Pherekydes 4",
-    "next": "Pherendis",
+    "next": "Φερενδίς",
+    "sort_key": "Pheremma",
+    "proof_read": 0,
     "short_description": "Ort in d. syrischen Kyrrhestike",
     "chapters": [
       {
         "start": 2033,
-        "author": "Honigmann"
+        "end": 2033,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Pherendis",
-    "previous": "Pheremma",
+    "lemma": "Φερενδίς",
+    "previous": "Φερεμμά",
     "next": "Pherenike",
+    "sort_key": "Pherendis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2033,
-        "author": "Sturm"
+        "end": 2033,
+        "author": "J. Sturm."
       }
     ]
   },
   {
     "lemma": "Pherenike",
-    "previous": "Pherendis",
+    "previous": "Φερενδίς",
     "next": "Pherenikos 1",
+    "proof_read": 0,
     "short_description": "Angehörige einer in Olympia siegreichen Familie",
     "chapters": [
       {
         "start": 2033,
-        "author": "Kroll"
+        "end": 2034,
+        "author": "Kroll."
       }
     ]
   },
@@ -9782,11 +9850,13 @@
     "lemma": "Pherenikos 1",
     "previous": "Pherenike",
     "next": "Pherenikos 2",
+    "proof_read": 0,
     "short_description": "Angesehener Thebaner, Sohn d. Kephisodotos",
     "chapters": [
       {
         "start": 2034,
-        "author": "Lenschau"
+        "end": 2035,
+        "author": "Lenschau."
       }
     ]
   },
@@ -9794,11 +9864,13 @@
     "lemma": "Pherenikos 2",
     "previous": "Pherenikos 1",
     "next": "Pherenikos 3",
+    "proof_read": 0,
     "short_description": "Im Winter 384/5 n. Chr. mit d. Aufsicht über d. Brotversorgung v. Antiocheia",
     "chapters": [
       {
         "start": 2035,
-        "author": "Enßlin"
+        "end": 2035,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9806,11 +9878,13 @@
     "lemma": "Pherenikos 3",
     "previous": "Pherenikos 2",
     "next": "Pherente",
+    "proof_read": 0,
     "short_description": "Gr. Epiker unbekannter Zt.",
     "chapters": [
       {
         "start": 2035,
-        "author": "Stoessl"
+        "end": 2035,
+        "author": "F. Stoessl."
       }
     ]
   },
@@ -9832,7 +9906,7 @@
   {
     "lemma": "Pherephatta",
     "previous": "Pherente",
-    "next": "Pherephattia",
+    "next": "Φερεφάττια",
     "redirect": "Persephone",
     "proof_read": 2,
     "chapters": [
@@ -9843,26 +9917,31 @@
     ]
   },
   {
-    "lemma": "Pherephattia",
+    "lemma": "Φερεφάττια",
     "previous": "Pherephatta",
     "next": "Pheres 1",
+    "sort_key": "Pherephattia",
+    "proof_read": 0,
     "short_description": "Fest in Kyzikos",
     "chapters": [
       {
         "start": 2035,
-        "author": "Ziehen"
+        "end": 2037,
+        "author": "Ziehen."
       }
     ]
   },
   {
     "lemma": "Pheres 1",
-    "previous": "Pherephattia",
+    "previous": "Φερεφάττια",
     "next": "Pheres 2",
+    "proof_read": 0,
     "short_description": "Eponymos u. Gründer d. thessal. Stadt Pherai",
     "chapters": [
       {
         "start": 2037,
-        "author": "Voigt"
+        "end": 2037,
+        "author": "Voigt."
       }
     ]
   },
@@ -9870,11 +9949,13 @@
     "lemma": "Pheres 2",
     "previous": "Pheres 1",
     "next": "Pheres 3",
+    "proof_read": 0,
     "short_description": "Sohn d. Iason u. d. Medea",
     "chapters": [
       {
         "start": 2037,
-        "author": "Voigt"
+        "end": 2037,
+        "author": "Voigt."
       }
     ]
   },
@@ -9882,11 +9963,13 @@
     "lemma": "Pheres 3",
     "previous": "Pheres 2",
     "next": "Pheres 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Ormenos, Vater d. Amyntor",
     "chapters": [
       {
         "start": 2037,
-        "author": "Voigt"
+        "end": 2037,
+        "author": "Voigt."
       }
     ]
   },
@@ -9909,11 +9992,13 @@
     "lemma": "Pheres 5",
     "previous": "Pheres 4",
     "next": "Pheres 6",
+    "proof_read": 0,
     "short_description": "Gründer d. makedon. Stadt Beroia",
     "chapters": [
       {
         "start": 2037,
-        "author": "Voigt"
+        "end": 2038,
+        "author": "Voigt."
       }
     ]
   },
@@ -10026,11 +10111,13 @@
     "lemma": "Pheretiades 1",
     "previous": "Pheresbios 6",
     "next": "Pheretiades 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Pheres Nr. 1, = Admetos, s. d.",
     "chapters": [
       {
         "start": 2038,
-        "author": "Voigt"
+        "end": 2038,
+        "author": "Voigt."
       }
     ]
   },
@@ -10067,11 +10154,13 @@
     "lemma": "Phereus 1",
     "previous": "Pheretima",
     "next": "Phereus 2",
+    "proof_read": 0,
     "short_description": "Satyr bei Nonn.",
     "chapters": [
       {
         "start": 2039,
-        "author": "Kloesel"
+        "end": 2039,
+        "author": "Kloesel."
       }
     ]
   },
@@ -10079,11 +10168,13 @@
     "lemma": "Phereus 2",
     "previous": "Phereus 1",
     "next": "Phereus 3",
+    "proof_read": 0,
     "short_description": "Pylier im Gefolge Nestors",
     "chapters": [
       {
         "start": 2039,
-        "author": "Kloesel"
+        "end": 2039,
+        "author": "Kloesel."
       }
     ]
   },
@@ -10091,11 +10182,13 @@
     "lemma": "Phereus 3",
     "previous": "Phereus 2",
     "next": "Phereus 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Niobe",
     "chapters": [
       {
         "start": 2039,
-        "author": "Kloesel"
+        "end": 2040,
+        "author": "Kloesel."
       }
     ]
   },
@@ -10117,30 +10210,35 @@
   {
     "lemma": "Pherinion",
     "previous": "Phereus 4",
-    "next": "Pherne",
+    "next": "Φερνή",
+    "proof_read": 0,
     "short_description": "Ort in Thessalien",
     "chapters": [
       {
         "start": 2040,
-        "author": "Kirsten"
+        "end": 2040,
+        "author": "Kirsten."
       }
     ]
   },
   {
-    "lemma": "Pherne",
+    "lemma": "Φερνή",
     "previous": "Pherinion",
     "next": "Pheroces",
+    "sort_key": "Pherne",
+    "proof_read": 0,
     "short_description": "Mitgift im gr. Recht, synonym mit proix",
     "chapters": [
       {
         "start": 2040,
-        "author": "Schulthess"
+        "end": 2052,
+        "author": "Schulthess."
       }
     ]
   },
   {
     "lemma": "Pheroces",
-    "previous": "Pherne",
+    "previous": "Φερνή",
     "next": "Pheroites",
     "redirect": "Peroz 1",
     "proof_read": 2,
@@ -10155,11 +10253,13 @@
     "lemma": "Pheroites",
     "previous": "Pheroces",
     "next": "Pheron",
+    "proof_read": 0,
     "short_description": "Freier d. Penelope",
     "chapters": [
       {
         "start": 2052,
-        "author": "Kloesel"
+        "end": 2053,
+        "author": "Kloesel."
       }
     ]
   },
@@ -10167,11 +10267,13 @@
     "lemma": "Pheron",
     "previous": "Pheroites",
     "next": "Pheronactus",
+    "proof_read": 0,
     "short_description": "Sohn u. Nachfolger d. berühmten Sesostris",
     "chapters": [
       {
         "start": 2053,
-        "author": "Pieper"
+        "end": 2054,
+        "author": "Pieper."
       }
     ]
   },
@@ -10208,11 +10310,13 @@
     "lemma": "Pheroras",
     "previous": "Pheroplos",
     "next": "Pherse",
+    "proof_read": 0,
     "short_description": "Jüngster Sohn d. Antipatros u. d. Kypros, Bruder d. Herodes d. Gr.",
     "chapters": [
       {
         "start": 2054,
-        "author": "Stein, [Arthur]"
+        "end": 2056,
+        "author": "Stein."
       }
     ]
   },
@@ -10220,11 +10324,13 @@
     "lemma": "Pherse",
     "previous": "Pheroras",
     "next": "Phersekerdes",
+    "proof_read": 0,
     "short_description": "Etr. Form d. Namens d. Heros Perseus",
     "chapters": [
       {
         "start": 2056,
-        "author": "Vetter, Emil"
+        "end": 2056,
+        "author": "Vetter."
       }
     ]
   },
@@ -10232,10 +10338,12 @@
     "lemma": "Phersekerdes",
     "previous": "Pherse",
     "next": "Phersephone",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2056,
-        "author": "Kloesel"
+        "end": 2056,
+        "author": "Kloesel."
       }
     ]
   },
@@ -10256,11 +10364,13 @@
     "lemma": "Phersipnai",
     "previous": "Phersephone",
     "next": "Phersu",
+    "proof_read": 0,
     "short_description": "Etr. Form d. Namens d. Persephone",
     "chapters": [
       {
         "start": 2056,
-        "author": "Vetter, Emil"
+        "end": 2057,
+        "author": "Vetter."
       }
     ]
   },
@@ -10284,42 +10394,49 @@
     "lemma": "Pherusa 1",
     "previous": "Phersu",
     "next": "Pherusa 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Nereus u. d. Doris",
     "chapters": [
       {
         "start": 2058,
-        "author": "Kloesel"
+        "end": 2059,
+        "author": "Kloesel."
       }
     ]
   },
   {
     "lemma": "Pherusa 2",
     "previous": "Pherusa 1",
-    "next": "Pheugaron",
+    "next": "Φεύγαρον",
+    "proof_read": 0,
     "short_description": "Eine der neun Horen",
     "chapters": [
       {
         "start": 2059,
-        "author": "Kloesel"
+        "end": 2059,
+        "author": "Kloesel."
       }
     ]
   },
   {
-    "lemma": "Pheugaron",
+    "lemma": "Φεύγαρον",
     "previous": "Pherusa 2",
     "next": "Phiala",
+    "sort_key": "Pheugaron",
+    "proof_read": 0,
     "short_description": "Stadt d. zweiten Klimas Germaniens",
     "chapters": [
       {
         "start": 2059,
-        "author": "Franke"
+        "end": 2059,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Phiala",
-    "previous": "Pheugaron",
-    "next": "Phiale 1",
+    "previous": "Φεύγαρον",
+    "next": "Φιάλη 1",
     "redirect": "Phea, Pheai",
     "proof_read": 2,
     "chapters": [
@@ -10330,9 +10447,9 @@
     ]
   },
   {
-    "lemma": "Phiale 1",
+    "lemma": "Φιάλη 1",
     "previous": "Phiala",
-    "next": "Phiale 2",
+    "next": "Φιάλη 2",
     "short_description": "Gefäßart (1026,56 lies: S. 2059 zum Art.)",
     "chapters": [
       {
@@ -10342,20 +10459,23 @@
     ]
   },
   {
-    "lemma": "Phiale 2",
-    "previous": "Phiale 1",
+    "lemma": "Φιάλη 2",
+    "previous": "Φιάλη 1",
     "next": "Phialeia 1",
+    "sort_key": "Phiale 2",
+    "proof_read": 0,
     "short_description": "See in Palästina",
     "chapters": [
       {
         "start": 2063,
-        "author": "Hölscher"
+        "end": 2063,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Phialeia 1",
-    "previous": "Phiale 2",
+    "previous": "Φιάλη 2",
     "next": "Phialeia 2",
     "redirect": "Phigaleia",
     "proof_read": 2,
@@ -10399,11 +10519,13 @@
     "lemma": "Phiara",
     "previous": "Phialo",
     "next": "Phibalis",
+    "proof_read": 0,
     "short_description": "Siara, s. auch in Yeni Khan zu lokalisieren?",
     "chapters": [
       {
         "start": 2063,
-        "author": "Ruge"
+        "end": 2063,
+        "author": "Ruge."
       }
     ]
   },
@@ -10439,11 +10561,13 @@
     "lemma": "Phibos",
     "previous": "Phibammon",
     "next": "Phicores",
+    "proof_read": 0,
     "short_description": "(-on?)",
     "chapters": [
       {
         "start": 2063,
-        "author": "Ruge"
+        "end": 2063,
+        "author": "Ruge."
       }
     ]
   },
@@ -10496,11 +10620,13 @@
     "lemma": "Phidnos",
     "previous": "Phiditia",
     "next": "Phiela",
+    "proof_read": 0,
     "short_description": "Sonst Aphidnos, Eponym u. Verteidiger d. Stadt Aphidnai in Attika",
     "chapters": [
       {
         "start": 2064,
-        "author": "Herter"
+        "end": 2065,
+        "author": "H. Herter."
       }
     ]
   },
@@ -10534,10 +10660,12 @@
     "lemma": "Phigaleus",
     "previous": "Phigaleia",
     "next": "Phigalos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2085,
-        "author": "Schmidt"
+        "end": 2085,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10545,11 +10673,13 @@
     "lemma": "Phigalos",
     "previous": "Phigaleus",
     "next": "Phigamos",
+    "proof_read": 0,
     "short_description": "Sohn d. Lykaon, Eponymos d. arkad. Stadt Phigaleia",
     "chapters": [
       {
         "start": 2085,
-        "author": "Karl Scherling."
+        "end": 2086,
+        "author": "Scherling."
       }
     ]
   },
@@ -10557,10 +10687,12 @@
     "lemma": "Phigamos",
     "previous": "Phigalos",
     "next": "Phikion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2086,
-        "author": "Herrmann"
+        "end": 2086,
+        "author": "Herrmann."
       }
     ]
   },
@@ -10568,18 +10700,20 @@
     "lemma": "Phikion",
     "previous": "Phigamos",
     "next": "Phikis",
+    "proof_read": 0,
     "short_description": "Berg in Boiotien",
     "chapters": [
       {
         "start": 2086,
-        "author": "Kirsten"
+        "end": 2086,
+        "author": "Kirsten."
       }
     ]
   },
   {
     "lemma": "Phikis",
     "previous": "Phikion",
-    "next": "Phikola",
+    "next": "Φικόλα",
     "proof_read": 2,
     "short_description": "Stadt in Boiotien",
     "no_creative_height": true,
@@ -10592,25 +10726,30 @@
     ]
   },
   {
-    "lemma": "Phikola",
+    "lemma": "Φικόλα",
     "previous": "Phikis",
     "next": "Phila 1",
+    "sort_key": "Phikola",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2086,
-        "author": "Hölscher"
+        "end": 2086,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Phila 1",
-    "previous": "Phikola",
+    "previous": "Φικόλα",
     "next": "Phila 2",
+    "proof_read": 0,
     "short_description": "Beiname d. Aphrodite",
     "chapters": [
       {
         "start": 2086,
-        "author": "Schmidt"
+        "end": 2086,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10618,11 +10757,13 @@
     "lemma": "Phila 2",
     "previous": "Phila 1",
     "next": "Phila 3",
+    "proof_read": 0,
     "short_description": "Gattin Philipps II. v. Makedonien",
     "chapters": [
       {
         "start": 2086,
-        "author": "Hoffmann"
+        "end": 2087,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -10630,11 +10771,13 @@
     "lemma": "Phila 3",
     "previous": "Phila 2",
     "next": "Phila 4",
+    "proof_read": 0,
     "short_description": "(sic!) 2) Gattin d. Demetrios Poliorketes",
     "chapters": [
       {
         "start": 2087,
-        "author": "Hoffmann"
+        "end": 2088,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -10642,11 +10785,13 @@
     "lemma": "Phila 4",
     "previous": "Phila 3",
     "next": "Phila 5",
+    "proof_read": 0,
     "short_description": "Tochter d. Seleukos Nikator",
     "chapters": [
       {
         "start": 2088,
-        "author": "Hoffmann"
+        "end": 2088,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -10654,11 +10799,13 @@
     "lemma": "Phila 5",
     "previous": "Phila 4",
     "next": "Phila 6",
+    "proof_read": 0,
     "short_description": "Hetäre, aufgezogen im Haus d. Nikarete",
     "chapters": [
       {
         "start": 2088,
-        "author": "Kroll"
+        "end": 2089,
+        "author": "Kroll."
       }
     ]
   },
@@ -10666,11 +10813,13 @@
     "lemma": "Phila 6",
     "previous": "Phila 5",
     "next": "Phila 7",
+    "proof_read": 0,
     "short_description": "Makedon. Stadt im S v. Pieria",
     "chapters": [
       {
         "start": 2089,
-        "author": "Oberhummer"
+        "end": 2089,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -10678,11 +10827,13 @@
     "lemma": "Phila 7",
     "previous": "Phila 6",
     "next": "Philadelpheia 1",
+    "proof_read": 0,
     "short_description": "Insel nahe d. Küste v. Gallia Narbonnensis",
     "chapters": [
       {
         "start": 2089,
-        "author": "Goessler"
+        "end": 2091,
+        "author": "Goessler."
       }
     ]
   },
@@ -10690,11 +10841,13 @@
     "lemma": "Philadelpheia 1",
     "previous": "Phila 7",
     "next": "Philadelpheia 2",
+    "proof_read": 0,
     "short_description": "Wichtige Stadt Lydiens",
     "chapters": [
       {
         "start": 2091,
-        "author": "Keil"
+        "end": 2093,
+        "author": "Keil."
       }
     ]
   },
@@ -10702,11 +10855,13 @@
     "lemma": "Philadelpheia 2",
     "previous": "Philadelpheia 1",
     "next": "Philadelpheia 3",
+    "proof_read": 0,
     "short_description": "Stadt in Isaurien o. Kilikia Tracheia",
     "chapters": [
       {
         "start": 2093,
-        "author": "Ruge"
+        "end": 2094,
+        "author": "Ruge."
       }
     ]
   },
@@ -10714,11 +10869,13 @@
     "lemma": "Philadelpheia 3",
     "previous": "Philadelpheia 2",
     "next": "Philadelpheia 4",
+    "proof_read": 0,
     "short_description": "Stadt im O-Jordanland an d. Grenze zu Arabia Petraia, eine der Städte d.",
     "chapters": [
       {
         "start": 2094,
-        "author": "Honigmann"
+        "end": 2096,
+        "author": "Honigmann."
       }
     ]
   },
@@ -10726,11 +10883,13 @@
     "lemma": "Philadelpheia 4",
     "previous": "Philadelpheia 3",
     "next": "Philadelpheia 5",
+    "proof_read": 0,
     "short_description": "Dorf im Herakleidesbezirk v. Arsinoïtes (Fajûm) in Ägypten",
     "chapters": [
       {
         "start": 2096,
-        "author": "Kees"
+        "end": 2096,
+        "author": "Kees."
       }
     ]
   },
@@ -10738,11 +10897,13 @@
     "lemma": "Philadelpheia 5",
     "previous": "Philadelpheia 4",
     "next": "Philadelphios 1",
+    "proof_read": 0,
     "short_description": "Festname 1. in Delos, 2. d. röm. Kaiserzeit",
     "chapters": [
       {
         "start": 2096,
-        "author": "Ziehen"
+        "end": 2097,
+        "author": "Ziehen."
       }
     ]
   },
@@ -10750,11 +10911,13 @@
     "lemma": "Philadelphios 1",
     "previous": "Philadelpheia 5",
     "next": "Philadelphios 2",
+    "proof_read": 0,
     "short_description": "Person in einem Gedicht d. Gregor v. Nazianz",
     "chapters": [
       {
         "start": 2097,
-        "author": "Enßlin"
+        "end": 2097,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10775,11 +10938,13 @@
     "lemma": "Philadelphos 1",
     "previous": "Philadelphios 2",
     "next": "Philadelphos 2",
+    "proof_read": 0,
     "short_description": "Sklave d. Atticus",
     "chapters": [
       {
         "start": 2097,
-        "author": "Münzer"
+        "end": 2097,
+        "author": "Münzer."
       }
     ]
   },
@@ -10787,11 +10952,13 @@
     "lemma": "Philadelphos 2",
     "previous": "Philadelphos 1",
     "next": "Philadelphos 3",
+    "proof_read": 0,
     "short_description": "Freigelassener d. Caesar Octavianus",
     "chapters": [
       {
         "start": 2097,
-        "author": "Münzer"
+        "end": 2098,
+        "author": "Münzer."
       }
     ]
   },
@@ -10799,11 +10966,13 @@
     "lemma": "Philadelphos 3",
     "previous": "Philadelphos 2",
     "next": "Philadelphos 4",
+    "proof_read": 0,
     "short_description": "Bischof v. Byzantion",
     "chapters": [
       {
         "start": 2098,
-        "author": "Enßlin"
+        "end": 2098,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10811,11 +10980,13 @@
     "lemma": "Philadelphos 4",
     "previous": "Philadelphos 3",
     "next": "Philadelphos 5",
+    "proof_read": 0,
     "short_description": "Bischof v. Iuliopolis/Galatien",
     "chapters": [
       {
         "start": 2098,
-        "author": "Enßlin"
+        "end": 2098,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10823,11 +10994,14 @@
     "lemma": "Philadelphos 5",
     "previous": "Philadelphos 4",
     "next": "Philadelphos 6",
+    "proof_read": 2,
     "short_description": "Bischof v. Pompeiopolis/Paphlagonien",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2098,
-        "author": "Enßlin"
+        "end": 2098,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10835,11 +11009,13 @@
     "lemma": "Philadelphos 6",
     "previous": "Philadelphos 5",
     "next": "Philadelphos 7",
+    "proof_read": 0,
     "short_description": "Bischof v. Gratianopolis",
     "chapters": [
       {
         "start": 2098,
-        "author": "Enßlin"
+        "end": 2098,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10847,11 +11023,13 @@
     "lemma": "Philadelphos 7",
     "previous": "Philadelphos 6",
     "next": "Philadelphos 8",
+    "proof_read": 0,
     "short_description": "Bischof v. Atanassos",
     "chapters": [
       {
         "start": 2098,
-        "author": "Enßlin"
+        "end": 2098,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10859,11 +11037,13 @@
     "lemma": "Philadelphos 8",
     "previous": "Philadelphos 7",
     "next": "Philadelphos 9",
+    "proof_read": 0,
     "short_description": "Diakon unter Flavius v. Konstantinopel",
     "chapters": [
       {
         "start": 2098,
-        "author": "Enßlin"
+        "end": 2098,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10884,11 +11064,14 @@
     "lemma": "Philaenorum Arae",
     "previous": "Philadelphos 9",
     "next": "Philagrios 1",
+    "sort_key": "Philaenorumarae",
+    "proof_read": 0,
     "short_description": "Örtlichkeit, bezeichnete d. Grenze zw. Tripolis u. Cyrenaica, Hauptmerkpunkte",
     "chapters": [
       {
         "start": 2098,
-        "author": "Windberg"
+        "end": 2101,
+        "author": "Windberg."
       }
     ]
   },
@@ -10896,11 +11079,13 @@
     "lemma": "Philagrios 1",
     "previous": "Philaenorum Arae",
     "next": "Philagrios 2",
+    "proof_read": 0,
     "short_description": "Rhetor",
     "chapters": [
       {
         "start": 2102,
-        "author": "Solmsen"
+        "end": 2102,
+        "author": "F. Solmsen."
       }
     ]
   },
@@ -10908,11 +11093,13 @@
     "lemma": "Philagrios 2",
     "previous": "Philagrios 1",
     "next": "Philagrius 1",
+    "proof_read": 0,
     "short_description": "Arzt aus Epirus",
     "chapters": [
       {
         "start": 2103,
-        "author": "Bernert"
+        "end": 2105,
+        "author": "Bernert."
       }
     ]
   },
@@ -10920,11 +11107,13 @@
     "lemma": "Philagrius 1",
     "previous": "Philagrios 2",
     "next": "Philagrius 2",
+    "proof_read": 0,
     "short_description": "Flavius, aus Kappadokien, praef. Aegypti 335 n. Chr.",
     "chapters": [
       {
         "start": 2105,
-        "author": "Enßlin"
+        "end": 2106,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10932,11 +11121,13 @@
     "lemma": "Philagrius 2",
     "previous": "Philagrius 1",
     "next": "Philagrius 3",
+    "proof_read": 0,
     "short_description": "Vicarius Dioeceseos Ponticae um 350 n. Chr.",
     "chapters": [
       {
         "start": 2106,
-        "author": "Enßlin"
+        "end": 2106,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10944,11 +11135,13 @@
     "lemma": "Philagrius 3",
     "previous": "Philagrius 2",
     "next": "Philagrius 4",
+    "proof_read": 0,
     "short_description": "Armenier, Briefadressat d. Libanios",
     "chapters": [
       {
         "start": 2106,
-        "author": "Enßlin"
+        "end": 2106,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10956,11 +11149,13 @@
     "lemma": "Philagrius 4",
     "previous": "Philagrius 3",
     "next": "Philagrius 5",
+    "proof_read": 0,
     "short_description": "Notarius unter Kaiser Iulianus",
     "chapters": [
       {
         "start": 2106,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10968,11 +11163,13 @@
     "lemma": "Philagrius 5",
     "previous": "Philagrius 4",
     "next": "Philagrius 6",
+    "proof_read": 0,
     "short_description": "Kappadokier, Freund u. Studiengenosse d. Gregor v. Nazianz",
     "chapters": [
       {
         "start": 2107,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10980,11 +11177,13 @@
     "lemma": "Philagrius 6",
     "previous": "Philagrius 5",
     "next": "Philagrius 7",
+    "proof_read": 0,
     "short_description": "Sohn d. Arztes Philostorgios",
     "chapters": [
       {
         "start": 2107,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10992,11 +11191,13 @@
     "lemma": "Philagrius 7",
     "previous": "Philagrius 6",
     "next": "Philagrius 8",
+    "proof_read": 0,
     "short_description": "Verwandter d. Kaisers Avitus",
     "chapters": [
       {
         "start": 2107,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11004,11 +11205,13 @@
     "lemma": "Philagrius 8",
     "previous": "Philagrius 7",
     "next": "Philagrius 9",
+    "proof_read": 0,
     "short_description": "Sohn d. Soterichos",
     "chapters": [
       {
         "start": 2107,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11016,11 +11219,13 @@
     "lemma": "Philagrius 9",
     "previous": "Philagrius 8",
     "next": "Philagrius 10",
+    "proof_read": 0,
     "short_description": "Bischof d. östl. Reichshälfte, z. Zt. d. Papstes Liberius",
     "chapters": [
       {
         "start": 2107,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11028,11 +11233,13 @@
     "lemma": "Philagrius 10",
     "previous": "Philagrius 9",
     "next": "Philagrius 11",
+    "proof_read": 0,
     "short_description": "Viell. aus Arka/Kleinarmenien, Briefadressat d. Basileios",
     "chapters": [
       {
         "start": 2107,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11040,11 +11247,13 @@
     "lemma": "Philagrius 11",
     "previous": "Philagrius 10",
     "next": "Philagrius 12",
+    "proof_read": 0,
     "short_description": "Briefadressat d. Isidoros v. Pelusion",
     "chapters": [
       {
         "start": 2107,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11094,11 +11303,13 @@
     "lemma": "Philagros 1",
     "previous": "Philagrius 14",
     "next": "Philagros 2",
+    "proof_read": 0,
     "short_description": "ho Kyneo, aus Eretria",
     "chapters": [
       {
         "start": 2108,
-        "author": "Kroll"
+        "end": 2108,
+        "author": "Kroll."
       }
     ]
   },
@@ -11106,11 +11317,13 @@
     "lemma": "Philagros 2",
     "previous": "Philagros 1",
     "next": "Philagros 3",
+    "proof_read": 0,
     "short_description": "Redelehrer d. Q. Metellus Nepos bei Plut.",
     "chapters": [
       {
         "start": 2108,
-        "author": "Münzer"
+        "end": 2108,
+        "author": "Münzer."
       }
     ]
   },
@@ -11118,11 +11331,13 @@
     "lemma": "Philagros 3",
     "previous": "Philagros 2",
     "next": "Philagros 4",
+    "proof_read": 0,
     "short_description": "Aus Kilikien, Redner d. 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2108,
-        "author": "Solmsen"
+        "end": 2109,
+        "author": "F. Solmsen."
       }
     ]
   },
@@ -11130,11 +11345,13 @@
     "lemma": "Philagros 4",
     "previous": "Philagros 3",
     "next": "Philai",
+    "proof_read": 0,
     "short_description": "Architekt zu Eleusis Mitte 4. Jh. v. Chr.",
     "chapters": [
       {
         "start": 2109,
-        "author": "Fabricius"
+        "end": 2109,
+        "author": "Fabricius."
       }
     ]
   },
