@@ -4476,7 +4476,7 @@
   {
     "lemma": "Phoinikion",
     "previous": "Phoinikides",
-    "next": "Phoinikis",
+    "next": "Phoinikischer Münzfuß",
     "proof_read": 0,
     "short_description": "Gebirge Boiotiens",
     "chapters": [
@@ -7975,7 +7975,7 @@
     ]
   },
   {
-    "lemma": "Phratrioi theoi",
+    "lemma": "Φράτριοι θεοί",
     "next": "Φράτου",
     "short_description": "Götter der Phratrien",
     "chapters": [
@@ -7987,7 +7987,7 @@
   },
   {
     "lemma": "Φράτου",
-    "previous": "Phratrioi theoi",
+    "previous": "Φράτριοι θεοί",
     "next": "Φραυρούσιοι",
     "sort_key": "Phratou",
     "proof_read": 2,
@@ -8412,11 +8412,13 @@
     "lemma": "Phrontis 1",
     "previous": "Phrontidas",
     "next": "Phrontis 2",
+    "proof_read": 0,
     "short_description": "Sohn des Phrixos",
     "chapters": [
       {
         "start": 771,
-        "author": "Ziegler"
+        "end": 772,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8424,11 +8426,13 @@
     "lemma": "Phrontis 2",
     "previous": "Phrontis 1",
     "next": "Phrontis 3",
+    "proof_read": 0,
     "short_description": "Steuermann des Menelaos",
     "chapters": [
       {
         "start": 772,
-        "author": "Ziegler"
+        "end": 772,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8436,54 +8440,64 @@
     "lemma": "Phrontis 3",
     "previous": "Phrontis 2",
     "next": "Phrontis 4",
+    "proof_read": 0,
     "short_description": "Gattin des Troers Panthoos",
     "chapters": [
       {
         "start": 772,
-        "author": "Ziegler"
+        "end": 772,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Phrontis 4",
     "previous": "Phrontis 3",
-    "next": "Phrontistes 1",
+    "next": "Φροντιστής 1",
+    "proof_read": 0,
     "short_description": "Erdichtete Tochter der Muse Kalliope",
     "chapters": [
       {
         "start": 772,
-        "author": "Ziegler"
+        "end": 772,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Phrontistes 1",
+    "lemma": "Φροντιστής 1",
     "previous": "Phrontis 4",
-    "next": "Phrontistes 2",
+    "next": "Φροντιστής 2",
+    "sort_key": "Phrontistes 1",
+    "proof_read": 0,
     "short_description": "Der rechtsgeschäftlich bestellte Vertreter",
     "chapters": [
       {
         "start": 772,
-        "author": "Berneker"
+        "end": 772,
+        "author": "Erich Berneker."
       }
     ]
   },
   {
-    "lemma": "Phrontistes 2",
-    "previous": "Phrontistes 1",
+    "lemma": "Φροντιστής 2",
+    "previous": "Φροντιστής 1",
     "next": "Phrudis",
+    "sort_key": "Phrontistes 2",
+    "proof_read": 0,
     "short_description": "Vormund von Unmündigen",
     "chapters": [
       {
         "start": 772,
-        "author": "Berneker"
+        "end": 773,
+        "author": "Erich Berneker."
       }
     ]
   },
   {
     "lemma": "Phrudis",
-    "previous": "Phrontistes 2",
-    "next": "Phrugin",
+    "previous": "Φροντιστής 2",
+    "next": "Φρούγιν",
     "redirect": "Frudis",
     "proof_read": 2,
     "chapters": [
@@ -8494,45 +8508,53 @@
     ]
   },
   {
-    "lemma": "Phrugin",
+    "lemma": "Φρούγιν",
     "previous": "Phrudis",
-    "next": "Phrugundiones",
+    "next": "Φρουγουνδιωνες",
+    "sort_key": "Phrugin",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in der phrygischen Stadt Hieropolis",
     "chapters": [
       {
         "start": 773,
-        "author": "Ruge"
+        "end": 773,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Phrugundiones",
-    "previous": "Phrugin",
+    "lemma": "Φρουγουνδιωνες",
+    "previous": "Φρούγιν",
     "next": "Phrune",
+    "sort_key": "Phrugundiones",
+    "proof_read": 0,
     "short_description": "Gleichsetzung mit Burgundiones? s. Frugundiones",
     "chapters": [
       {
         "start": 773,
-        "author": "Franke"
+        "end": 773,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Phrune",
-    "previous": "Phrugundiones",
+    "previous": "Φρουγουνδιωνες",
     "next": "Phrunoi",
+    "proof_read": 0,
     "short_description": "Beiname der Hekate",
     "chapters": [
       {
         "start": 773,
-        "author": "Schmidt"
+        "end": 773,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
     "lemma": "Phrunoi",
     "previous": "Phrune",
-    "next": "Phruraison",
+    "next": "Φρούραισον",
     "redirect": "Phrynoi",
     "proof_read": 2,
     "chapters": [
@@ -8543,81 +8565,99 @@
     ]
   },
   {
-    "lemma": "Phruraison",
+    "lemma": "Φρούραισον",
     "previous": "Phrunoi",
     "next": "Phrurarchos",
+    "sort_key": "Phruraison",
+    "proof_read": 0,
     "short_description": "Teil des Atlas in Mauretania Caesariensis",
     "chapters": [
       {
         "start": 773,
-        "author": "Windberg"
+        "end": 773,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Phrurarchos",
-    "previous": "Phruraison",
-    "next": "Phrurgisatis",
+    "previous": "Φρούραισον",
+    "next": "Φρουργισατίς",
+    "proof_read": 0,
     "short_description": "Kommandeur einer Besatzungstruppe",
     "chapters": [
       {
         "start": 773,
-        "author": "Kortenbeutel"
+        "end": 781,
+        "author": "H. Kortenbeutel."
       }
     ]
   },
   {
-    "lemma": "Phrurgisatis",
+    "lemma": "Φρουργισατίς",
     "previous": "Phrurarchos",
-    "next": "Phrurion",
+    "next": "Φρούριον",
+    "sort_key": "Phrurgisatis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 781,
-        "author": "Franke"
+        "end": 781,
+        "author": "Franke."
       }
     ]
   },
   {
-    "lemma": "Phrurion",
-    "previous": "Phrurgisatis",
+    "lemma": "Φρούριον",
+    "previous": "Φρουργισατίς",
     "next": "Phrurion akron",
+    "sort_key": "Phrurion",
+    "proof_read": 0,
     "short_description": "Binnenstadt im Land der Aruarnoi",
     "chapters": [
       {
         "start": 781,
-        "author": "Stein, O[tto]"
+        "end": 781,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Phrurion akron",
-    "previous": "Phrurion",
-    "next": "Phruroi neorion 1",
+    "previous": "Φρούριον",
+    "next": "Φρουροὶ νεωρίων 1",
+    "sort_key": "Phrurionakron",
+    "proof_read": 0,
     "short_description": "Kap an der S-Küste von Cypern",
     "chapters": [
       {
         "start": 781,
-        "author": "Schmidt"
+        "end": 781,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
-    "lemma": "Phruroi neorion 1",
+    "lemma": "Φρουροὶ νεωρίων 1",
     "previous": "Phrurion akron",
-    "next": "Phruroi neorion 2",
+    "next": "Φρουροὶ νεωρίων 2",
+    "sort_key": "Phruroineorion 1",
+    "proof_read": 0,
     "short_description": "Wächter der Marineanlagen im Piräus",
     "chapters": [
       {
         "start": 781,
-        "author": "Miltner, Franz"
+        "end": 781,
+        "author": "Miltner."
       }
     ]
   },
   {
-    "lemma": "Phruroi neorion 2",
-    "previous": "Phruroi neorion 1",
+    "lemma": "Φρουροὶ νεωρίων 2",
+    "previous": "Φρουροὶ νεωρίων 1",
     "next": "Phrygia 1",
+    "sort_key": "Phruroi neorion 2",
     "redirect": "Phrynoi",
     "proof_read": 2,
     "chapters": [
@@ -8629,13 +8669,20 @@
   },
   {
     "lemma": "Phrygia 1",
-    "previous": "Phruroi neorion 2",
+    "previous": "Φρουροὶ νεωρίων 2",
     "next": "Phrygia 2",
+    "proof_read": 0,
     "short_description": "Landschaft in Kleinasien",
     "chapters": [
       {
         "start": 781,
-        "author": "Ruge"
+        "end": 868,
+        "author": "Ruge."
+      },
+      {
+        "start": 869,
+        "end": 891,
+        "author": "Johannes Friedrich."
       }
     ]
   },
@@ -8643,11 +8690,13 @@
     "lemma": "Phrygia 2",
     "previous": "Phrygia 1",
     "next": "Phrygia 3",
+    "proof_read": 0,
     "short_description": "Verbrennungsplatz des Herakles",
     "chapters": [
       {
         "start": 891,
-        "author": "Kirsten"
+        "end": 892,
+        "author": "Kirsten."
       }
     ]
   },
@@ -8655,11 +8704,13 @@
     "lemma": "Phrygia 3",
     "previous": "Phrygia 2",
     "next": "Phrygia 4",
+    "proof_read": 0,
     "short_description": "Ethnikon der Kybele",
     "chapters": [
       {
         "start": 892,
-        "author": "Schmidt"
+        "end": 892,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8667,11 +8718,13 @@
     "lemma": "Phrygia 4",
     "previous": "Phrygia 3",
     "next": "Phrygia 5",
+    "proof_read": 0,
     "short_description": "Beiname der Athene in Troia",
     "chapters": [
       {
         "start": 892,
-        "author": "Schmidt"
+        "end": 892,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8679,11 +8732,13 @@
     "lemma": "Phrygia 5",
     "previous": "Phrygia 4",
     "next": "Phrygia 6",
+    "proof_read": 0,
     "short_description": "Beiname der Sibylle",
     "chapters": [
       {
         "start": 892,
-        "author": "Schmidt"
+        "end": 892,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8691,11 +8746,13 @@
     "lemma": "Phrygia 6",
     "previous": "Phrygia 5",
     "next": "Phrygianum",
+    "proof_read": 0,
     "short_description": "Gattin des Galliers Brumachius",
     "chapters": [
       {
         "start": 892,
-        "author": "Nagl"
+        "end": 892,
+        "author": "Nagl."
       }
     ]
   },
@@ -8703,11 +8760,13 @@
     "lemma": "Phrygianum",
     "previous": "Phrygia 6",
     "next": "Phrygillos",
+    "proof_read": 0,
     "short_description": "Heiligtum der Magna Mater in Rom",
     "chapters": [
       {
         "start": 892,
-        "author": "Weiss, J[akob]"
+        "end": 892,
+        "author": "Weiss."
       }
     ]
   },
@@ -8715,11 +8774,13 @@
     "lemma": "Phrygillos",
     "previous": "Phrygianum",
     "next": "Phrygion",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 892,
-        "author": "Sieveking"
+        "end": 893,
+        "author": "Sieveking."
       }
     ]
   },
@@ -8727,11 +8788,13 @@
     "lemma": "Phrygion",
     "previous": "Phrygillos",
     "next": "Phrygiones",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 893,
-        "author": "Ruge"
+        "end": 893,
+        "author": "Ruge."
       }
     ]
   },
@@ -8752,11 +8815,13 @@
     "lemma": "Phrygios 1",
     "previous": "Phrygiones",
     "next": "Phrygios 2",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Hermos",
     "chapters": [
       {
         "start": 893,
-        "author": "Keil"
+        "end": 893,
+        "author": "Keil."
       }
     ]
   },
@@ -8764,11 +8829,13 @@
     "lemma": "Phrygios 2",
     "previous": "Phrygios 1",
     "next": "Phrygios 3",
+    "proof_read": 0,
     "short_description": "Ethnikon des Zeus",
     "chapters": [
       {
         "start": 893,
-        "author": "Schmidt"
+        "end": 893,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8776,11 +8843,13 @@
     "lemma": "Phrygios 3",
     "previous": "Phrygios 2",
     "next": "Phrygios 4",
+    "proof_read": 0,
     "short_description": "Ethnikon des Dionysos",
     "chapters": [
       {
         "start": 893,
-        "author": "Schmidt"
+        "end": 893,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8788,11 +8857,13 @@
     "lemma": "Phrygios 4",
     "previous": "Phrygios 3",
     "next": "Phrykion",
+    "proof_read": 0,
     "short_description": "Ethnikon des Sabazios",
     "chapters": [
       {
         "start": 893,
-        "author": "Schmidt"
+        "end": 893,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8800,11 +8871,13 @@
     "lemma": "Phrykion",
     "previous": "Phrygios 4",
     "next": "Phrylos",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 893,
-        "author": "Oldfather"
+        "end": 893,
+        "author": "Oldfather."
       }
     ]
   },
@@ -8812,11 +8885,13 @@
     "lemma": "Phrylos",
     "previous": "Phrykion",
     "next": "Phryne",
+    "proof_read": 0,
     "short_description": "Veraltete Konjektur für den Namen des Malers Erillos",
     "chapters": [
       {
         "start": 893,
-        "author": "Lippold, Georg"
+        "end": 893,
+        "author": "Lippold."
       }
     ]
   },
@@ -8824,11 +8899,13 @@
     "lemma": "Phryne",
     "previous": "Phrylos",
     "next": "Phrynichos 1",
+    "proof_read": 0,
     "short_description": "Griechischer Frauenname",
     "chapters": [
       {
         "start": 893,
-        "author": "Raubitschek"
+        "end": 907,
+        "author": "A. Raubitschek."
       }
     ]
   },
@@ -8927,11 +9004,13 @@
     "lemma": "Phrynichos 7",
     "previous": "Phrynichos 6",
     "next": "Phrynichos 8",
+    "proof_read": 0,
     "short_description": "Komiker aus Athen",
     "chapters": [
       {
         "start": 918,
-        "author": "Körte"
+        "end": 920,
+        "author": "Körte."
       }
     ]
   },
@@ -8939,15 +9018,13 @@
     "lemma": "Phrynichos 8",
     "previous": "Phrynichos 7",
     "next": "Phrynis",
+    "proof_read": 0,
     "short_description": "Lexikograph",
     "chapters": [
       {
         "start": 920,
-        "author": "French"
-      },
-      {
-        "start": 920,
-        "author": "Strout"
+        "end": 925,
+        "author": "Donald Strout-Ruth French."
       }
     ]
   },
@@ -9029,11 +9106,13 @@
     "lemma": "Phrynos",
     "previous": "Phrynon 3",
     "next": "Phryx 1",
+    "proof_read": 0,
     "short_description": "Attischer Töpfer aus der Mitte des 6. Jh. v. Chr.",
     "chapters": [
       {
         "start": 929,
-        "author": "Lullies"
+        "end": 930,
+        "author": "R. Lullies."
       }
     ]
   },
@@ -9041,11 +9120,13 @@
     "lemma": "Phryx 1",
     "previous": "Phrynos",
     "next": "Phryx 2",
+    "proof_read": 0,
     "short_description": "Ethnikon des Attis",
     "chapters": [
       {
         "start": 930,
-        "author": "Schmidt"
+        "end": 930,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9053,11 +9134,13 @@
     "lemma": "Phryx 2",
     "previous": "Phryx 1",
     "next": "Phryx 3",
+    "proof_read": 0,
     "short_description": "Ethnikon des Sabazios",
     "chapters": [
       {
         "start": 930,
-        "author": "Schmidt"
+        "end": 930,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9078,11 +9161,13 @@
     "lemma": "Phryxelon",
     "previous": "Phryx 3",
     "next": "Phthas",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 930,
-        "author": "Schmidt"
+        "end": 930,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9090,11 +9175,13 @@
     "lemma": "Phthas",
     "previous": "Phryxelon",
     "next": "Φθ(ε)ιρῶν ὄρος, Φθίρ",
+    "proof_read": 0,
     "short_description": "Aegyptischer Gott der Stadt Memphis",
     "chapters": [
       {
         "start": 930,
-        "author": "Rusch"
+        "end": 947,
+        "author": "Rusch."
       }
     ]
   },
@@ -9133,11 +9220,13 @@
     "lemma": "Phthemphut",
     "previous": "Phtheirophagoi",
     "next": "Phthenetu",
+    "proof_read": 0,
     "short_description": "Gau im ägyptischen Nildelta",
     "chapters": [
       {
         "start": 948,
-        "author": "Kees"
+        "end": 948,
+        "author": "Kees."
       }
     ]
   },
@@ -9145,11 +9234,13 @@
     "lemma": "Phthenetu",
     "previous": "Phthemphut",
     "next": "Phthia (Phthiotis) 1",
+    "proof_read": 0,
     "short_description": "Unterägyptischer Gau im nördl. Nildelta",
     "chapters": [
       {
         "start": 948,
-        "author": "Kees"
+        "end": 949,
+        "author": "Kees."
       }
     ]
   },
@@ -9157,11 +9248,14 @@
     "lemma": "Phthia (Phthiotis) 1",
     "previous": "Phthenetu",
     "next": "Phthia (Phthiotis) 2",
+    "sort_key": "Phthia(phthiotis) 1",
+    "proof_read": 0,
     "short_description": "Stadt in Thessalien",
     "chapters": [
       {
         "start": 949,
-        "author": "Bernert"
+        "end": 951,
+        "author": "Bernert."
       }
     ]
   },
@@ -9169,11 +9263,14 @@
     "lemma": "Phthia (Phthiotis) 2",
     "previous": "Phthia (Phthiotis) 1",
     "next": "Phthia (Phthiotis) 3",
+    "sort_key": "Phthia(phthiotis) 2",
+    "proof_read": 0,
     "short_description": "Landschaft in Thessalien",
     "chapters": [
       {
         "start": 951,
-        "author": "Bernert"
+        "end": 958,
+        "author": "Bernert."
       }
     ]
   },
@@ -9181,11 +9278,14 @@
     "lemma": "Phthia (Phthiotis) 3",
     "previous": "Phthia (Phthiotis) 2",
     "next": "Phthia (Phthiotis) 4",
+    "sort_key": "Phthia(phthiotis) 3",
+    "proof_read": 0,
     "short_description": "Hafen an der Grenze Cyrenaica - Marmarica",
     "chapters": [
       {
         "start": 958,
-        "author": "Windberg"
+        "end": 958,
+        "author": "Windberg."
       }
     ]
   },
@@ -9193,11 +9293,14 @@
     "lemma": "Phthia (Phthiotis) 4",
     "previous": "Phthia (Phthiotis) 3",
     "next": "Phthia (Phthiotis) 5",
+    "sort_key": "Phthia(phthiotis) 4",
+    "proof_read": 0,
     "short_description": "Jungfrau von Aigion in Achaia",
     "chapters": [
       {
         "start": 959,
-        "author": "Ziegler"
+        "end": 959,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9205,11 +9308,14 @@
     "lemma": "Phthia (Phthiotis) 5",
     "previous": "Phthia (Phthiotis) 4",
     "next": "Phthia (Phthiotis) 6",
+    "sort_key": "Phthia(phthiotis) 5",
+    "proof_read": 0,
     "short_description": "Geliebte des Apollon",
     "chapters": [
       {
         "start": 959,
-        "author": "Ziegler"
+        "end": 959,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9217,11 +9323,14 @@
     "lemma": "Phthia (Phthiotis) 6",
     "previous": "Phthia (Phthiotis) 5",
     "next": "Phthia (Phthiotis) 7",
+    "sort_key": "Phthia(phthiotis) 6",
+    "proof_read": 0,
     "short_description": "Tochter der Niobe",
     "chapters": [
       {
         "start": 959,
-        "author": "Ziegler"
+        "end": 959,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9229,11 +9338,14 @@
     "lemma": "Phthia (Phthiotis) 7",
     "previous": "Phthia (Phthiotis) 6",
     "next": "Phthia (Phthiotis) 8",
+    "sort_key": "Phthia(phthiotis) 7",
+    "proof_read": 0,
     "short_description": "Pallake des Amyntor",
     "chapters": [
       {
         "start": 959,
-        "author": "Ziegler"
+        "end": 959,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9241,11 +9353,14 @@
     "lemma": "Phthia (Phthiotis) 8",
     "previous": "Phthia (Phthiotis) 7",
     "next": "Phthia (Phthiotis) 9",
+    "sort_key": "Phthia(phthiotis) 8",
+    "proof_read": 0,
     "short_description": "Tochter des Alexander von Epirus",
     "chapters": [
       {
         "start": 959,
-        "author": "Hoffmann"
+        "end": 960,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -9253,11 +9368,14 @@
     "lemma": "Phthia (Phthiotis) 9",
     "previous": "Phthia (Phthiotis) 8",
     "next": "Phthia (Phthiotis) 10",
+    "sort_key": "Phthia(phthiotis) 9",
+    "proof_read": 0,
     "short_description": "Gattin des Molosserkönigs Admetos",
     "chapters": [
       {
         "start": 960,
-        "author": "Ziegler"
+        "end": 960,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9265,11 +9383,14 @@
     "lemma": "Phthia (Phthiotis) 10",
     "previous": "Phthia (Phthiotis) 9",
     "next": "Phthinthia",
+    "sort_key": "Phthia(phthiotis) 10",
+    "proof_read": 0,
     "short_description": "Tochter des Thessalers Menon",
     "chapters": [
       {
         "start": 960,
-        "author": "Ziegler"
+        "end": 960,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9290,11 +9411,13 @@
     "lemma": "Phthios 1",
     "previous": "Phthinthia",
     "next": "Phthios 2",
+    "proof_read": 0,
     "short_description": "Sohn des Lykaon",
     "chapters": [
       {
         "start": 960,
-        "author": "Ziegler"
+        "end": 960,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9302,11 +9425,13 @@
     "lemma": "Phthios 2",
     "previous": "Phthios 1",
     "next": "Phthonos",
+    "proof_read": 0,
     "short_description": "Heros Eponymos der Stadt Phthia in Thessalien",
     "chapters": [
       {
         "start": 960,
-        "author": "Ziegler"
+        "end": 961,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9314,41 +9439,48 @@
     "lemma": "Phthonos",
     "previous": "Phthios 2",
     "next": "Phthonthis",
+    "proof_read": 0,
     "short_description": "Dämon des Neides",
     "chapters": [
       {
         "start": 961,
-        "author": "Bernert"
+        "end": 964,
+        "author": "Bernert."
       }
     ]
   },
   {
     "lemma": "Phthonthis",
     "previous": "Phthonos",
-    "next": "Phthora 1",
+    "next": "Φθορά 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 964,
-        "author": "Kees"
+        "end": 964,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Phthora 1",
+    "lemma": "Φθορά 1",
     "previous": "Phthonthis",
-    "next": "Phthora 2",
+    "next": "Φθορά 2",
+    "sort_key": "Phthora 1",
+    "proof_read": 0,
     "short_description": "Verführung eines unbescholtenen Mädchens oder einer Witwe",
     "chapters": [
       {
         "start": 964,
-        "author": "Berneker"
+        "end": 964,
+        "author": "Erich Berneker."
       }
     ]
   },
   {
-    "lemma": "Phthora 2",
-    "previous": "Phthora 1",
+    "lemma": "Φθορά 2",
+    "previous": "Φθορά 1",
     "next": "Φθοῦρι",
     "short_description": "Verlust durch Verderb der Ackerfrucht",
     "chapters": [
@@ -9360,7 +9492,7 @@
   },
   {
     "lemma": "Φθοῦρι",
-    "previous": "Phthora 2",
+    "previous": "Φθορά 2",
     "next": "Phubagina",
     "sort_key": "Phthuri",
     "proof_read": 0,
@@ -9406,11 +9538,13 @@
     "lemma": "Phuinis",
     "previous": "Phubelis",
     "next": "Phuipa",
+    "proof_read": 0,
     "short_description": "Etruskisches Wort für Phoinix in der Tomba François in Vulci",
     "chapters": [
       {
         "start": 965,
-        "author": "Vetter, Emil"
+        "end": 965,
+        "author": "Vetter."
       }
     ]
   },
@@ -9418,11 +9552,13 @@
     "lemma": "Phuipa",
     "previous": "Phuinis",
     "next": "Phulcaris",
+    "proof_read": 0,
     "short_description": "Etruskische Umschrift für Phoibe",
     "chapters": [
       {
         "start": 965,
-        "author": "Vetter, Emil"
+        "end": 965,
+        "author": "Vetter."
       }
     ]
   },
@@ -9457,11 +9593,13 @@
     "lemma": "Phulphsna",
     "previous": "Phulnice",
     "next": "Φουνδούσιοι",
+    "proof_read": 0,
     "short_description": "Frauengestalt auf einem etruskischen Spiegel",
     "chapters": [
       {
         "start": 966,
-        "author": "Vetter, Emil"
+        "end": 966,
+        "author": "Vetter."
       }
     ]
   },
@@ -9552,11 +9690,13 @@
     "lemma": "Phusiana",
     "previous": "Phursethna",
     "next": "Phusipara",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 967,
-        "author": "Schmidt"
+        "end": 967,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -9564,28 +9704,32 @@
     "lemma": "Phusipara",
     "previous": "Phusiana",
     "next": "Phuskias",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 967,
-        "author": "Schmidt"
+        "end": 967,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
     "lemma": "Phuskias",
     "previous": "Phusipara",
-    "next": "Phuth",
+    "next": "Φούθ",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 967,
-        "author": "Enßlin"
+        "end": 967,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
-    "lemma": "Phuth",
+    "lemma": "Φούθ",
     "previous": "Phuskias",
     "next": "Phycari",
     "short_description": "Fluß in Mauretania Tingitana",
@@ -9598,49 +9742,58 @@
   },
   {
     "lemma": "Phycari",
-    "previous": "Phuth",
+    "previous": "Φούθ",
     "next": "Phye",
+    "proof_read": 0,
     "short_description": "Anwohner des Kaukasus",
     "chapters": [
       {
         "start": 968,
-        "author": "Herrmann"
+        "end": 968,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Phye",
     "previous": "Phycari",
-    "next": "Phyge",
+    "next": "Φυγή",
+    "proof_read": 0,
     "short_description": "Schwiegertochter des Peisistratos",
     "chapters": [
       {
         "start": 968,
-        "author": "Schmidt"
+        "end": 970,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
-    "lemma": "Phyge",
+    "lemma": "Φυγή",
     "previous": "Phye",
     "next": "Phykios",
+    "sort_key": "Phyge",
+    "proof_read": 0,
     "short_description": "Verbannung eines Bürgers aus seiner Heimatstadt",
     "chapters": [
       {
         "start": 970,
-        "author": "Schulthess"
+        "end": 979,
+        "author": "Schulthess."
       }
     ]
   },
   {
     "lemma": "Phykios",
-    "previous": "Phyge",
+    "previous": "Φυγή",
     "next": "Phykteus",
+    "proof_read": 0,
     "short_description": "Beiname des Poseidon",
     "chapters": [
       {
         "start": 979,
-        "author": "Schmidt"
+        "end": 979,
+        "author": "Johanna Schmidt."
       }
     ]
   },
