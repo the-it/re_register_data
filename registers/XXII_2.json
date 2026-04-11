@@ -17,12 +17,13 @@
     "lemma": "praefectus",
     "previous": "Praefectura",
     "next": "praefericulum",
+    "proof_read": 0,
     "short_description": "Titel v. Beamten u. Offizieren in einem Vorgesetztenverhältnis zu anderen",
     "chapters": [
       {
         "start": 1257,
         "end": 1347,
-        "author": "Enßlin"
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -30,12 +31,13 @@
     "lemma": "praefericulum",
     "previous": "praefectus",
     "next": "praefica",
+    "proof_read": 0,
     "short_description": "Henkelloses, oben offenes Gefäß aus Kupfer o. Bronze",
     "chapters": [
       {
         "start": 1347,
         "end": 1348,
-        "author": "Gross"
+        "author": "W. H. Gross."
       }
     ]
   },
@@ -43,11 +45,13 @@
     "lemma": "praefica",
     "previous": "praefericulum",
     "next": "praefurnium",
+    "proof_read": 0,
     "short_description": "Klagefrau bei Leichenbegängnissen",
     "chapters": [
       {
         "start": 1348,
-        "author": "Schneider, K[arl]"
+        "end": 1348,
+        "author": "K. Schneider."
       }
     ]
   },
@@ -393,7 +397,7 @@
   },
   {
     "lemma": "Praesidia",
-    "previous": "Praeses",
+    "previous": "Praes(a)epe",
     "next": "Praesidium 1",
     "proof_read": 0,
     "chapters": [
@@ -1293,7 +1297,7 @@
   {
     "lemma": "Praisidion",
     "previous": "Πραῖοι",
-    "next": "Praknos",
+    "next": "Praisos",
     "proof_read": 0,
     "chapters": [
       {
@@ -3711,37 +3715,56 @@
   {
     "lemma": "Prifernius 1",
     "previous": "Prietos",
-    "next": "Prifernius 3",
-    "short_description": "Paetus, A. Pomponius Augurinus T. Teilnehmer am ersten Dakerkrieg, von Traian",
+    "next": "Prifernius 2",
+    "proof_read": 0,
+    "short_description": "Paetus T., cos. suff. 96 n. Chr.",
     "chapters": [
       {
         "start": 1967,
-        "author": "Hanslik"
+        "end": 1967,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Prifernius 2",
+    "previous": "Prifernius 1",
+    "next": "Prifernius 3",
+    "proof_read": 0,
+    "short_description": "Paetus, A. Pomponius Augurinus T., Dakerkrieg",
+    "chapters": [
+      {
+        "start": 1967,
+        "end": 1967,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Prifernius 3",
-    "previous": "Prifernius 1",
+    "previous": "Prifernius 2",
     "next": "Prifernius 4",
-    "short_description": "Paetus Memmius Apollinaris, [T.?] Ritter aus Reate im Sabinerland, später",
+    "proof_read": 0,
+    "short_description": "Paetus Memmius Apollinaris, [T.?] aus Reate",
     "chapters": [
       {
         "start": 1967,
         "end": 1968,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Prifernius 4",
     "previous": "Prifernius 3",
-    "next": "Prifernius Paetus Sex. f. Rosianus Geminus, T.",
-    "short_description": "T. P. Paetus Rosianus, cos. suff. zwischen den J. 120 und 126 n. Chr., Sohn des",
+    "next": "Prifernius 5",
+    "proof_read": 0,
+    "short_description": "T. P. Paetus Rosianus, cos. suff. um 120–126 n. Chr.",
     "chapters": [
       {
-        "start": 1967,
-        "author": "Hanslik"
+        "start": 1968,
+        "end": 1969,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
@@ -3760,14 +3783,15 @@
   },
   {
     "lemma": "Prifernius 5",
-    "previous": "Prifernius Paetus Sex. f. Rosianus Geminus, T.",
+    "previous": "Prifernius 4",
     "next": "Prilius lacus",
-    "short_description": "T. P. Paetus Rosianus, cos. suff. im J. 146 n. Chr., Sohn des T. P. Nr. 4)",
+    "proof_read": 0,
+    "short_description": "T. P. Paetus Rosianus, cos. suff. 146 n. Chr.",
     "chapters": [
       {
         "start": 1969,
         "end": 1970,
-        "author": "Hanslik"
+        "author": "Rudolf Hanslik."
       }
     ]
   },
@@ -3775,12 +3799,14 @@
     "lemma": "Prilius lacus",
     "previous": "Prifernius 5",
     "next": "Prima 1",
+    "sort_key": "Priliuslacus",
+    "proof_read": 0,
     "short_description": "See in Mitteletrurien",
     "chapters": [
       {
         "start": 1970,
         "end": 1971,
-        "author": "Hofmann, Max"
+        "author": "Hofmann."
       }
     ]
   },
@@ -4040,7 +4066,7 @@
   {
     "lemma": "Primipilus",
     "previous": "Primion",
-    "next": "Primis A-C",
+    "next": "Primis 1",
     "proof_read": 0,
     "short_description": "Militär. Rang in d. Rangordnung d. Centurionen",
     "chapters": [
@@ -4052,8 +4078,22 @@
     ]
   },
   {
-    "lemma": "Primis A-C",
+    "lemma": "Primis 1",
     "previous": "Primipilus",
+    "next": "Primis 2",
+    "sort_key": "Primisa-c",
+    "proof_read": 0,
+    "short_description": "Name dreier Örtlichkeiten am mittleren Nil",
+    "chapters": [
+      {
+        "start": 1976,
+        "end": 1993,
+        "author": "Treidler."
+      }
+    ]
+  },
+  {
+    "lemma": "Primis A-C",
     "next": "Primis C",
     "short_description": "Name dreier Örtlichkeiten am mittleren Nil",
     "chapters": [
