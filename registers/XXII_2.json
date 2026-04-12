@@ -1608,7 +1608,7 @@
   },
   {
     "lemma": "Prasion",
-    "previous": "Prasidion",
+    "previous": "Prasii",
     "next": "Πρασώδης θάλασσα",
     "proof_read": 0,
     "chapters": [
@@ -4107,13 +4107,40 @@
   {
     "lemma": "Primis C",
     "previous": "Primis A-C",
-    "next": "Primitivus 1",
     "short_description": "Festung im ägypt. Nubien",
     "chapters": [
       {
         "start": 1993,
         "end": 1994,
         "author": "Kees"
+      }
+    ]
+  },
+  {
+    "lemma": "Primis 2",
+    "next": "Primiscrinius",
+    "sort_key": "Primisc",
+    "proof_read": 0,
+    "short_description": "Festung im ägyptischen Nubien",
+    "chapters": [
+      {
+        "start": 1993,
+        "end": 1994,
+        "author": "H. Kees."
+      }
+    ]
+  },
+  {
+    "lemma": "Primiscrinius",
+    "previous": "Primis 2",
+    "next": "Primitivus 1",
+    "redirect": true,
+    "proof_read": 0,
+    "short_description": "Abteilungschef im Officium der kaiserlichen Verwaltung",
+    "chapters": [
+      {
+        "start": 1994,
+        "end": 1994
       }
     ]
   },

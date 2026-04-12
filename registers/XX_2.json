@@ -639,7 +639,7 @@
   {
     "lemma": "Pinacotheca",
     "previous": "Pina",
-    "next": "Πινάκιον 1",
+    "next": "Πινάκιον",
     "short_description": "Der Raum zur Ausstellung von Gemälden",
     "chapters": [
       {
@@ -649,8 +649,23 @@
     ]
   },
   {
+    "lemma": "Πινάκιον",
+    "previous": "Pinacotheca",
+    "next": "Πινάκιον 1",
+    "sort_key": "Pinakion",
+    "redirect": true,
+    "proof_read": 0,
+    "short_description": "in Athen",
+    "chapters": [
+      {
+        "start": 1390,
+        "end": 1390
+      }
+    ]
+  },
+  {
     "lemma": "Πινάκιον 1",
-    "previous": "Pinakion",
+    "previous": "Πινάκιον",
     "next": "Πινάκιον 2",
     "sort_key": "Pinakion 1",
     "redirect": "Πίναξ 2",
@@ -2273,6 +2288,7 @@
     "lemma": "Pir-",
     "previous": "Piquentum",
     "next": "Pirae (-i̇̄-)",
+    "sort_key": "Pir",
     "redirect": true,
     "proof_read": 3,
     "chapters": [
@@ -2283,14 +2299,32 @@
     ]
   },
   {
-    "lemma": "Piraei",
+    "lemma": "Pirae (-i̇̄-)",
     "previous": "Pir-",
-    "next": "Pîragh (Pîrak)/Mihrân",
-    "short_description": "Ort",
+    "next": "Piraei",
+    "sort_key": "Pirae",
+    "proof_read": 2,
+    "short_description": "Ort in Ausonien bei Minturnae",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1720,
-        "author": "Johnson"
+        "end": 1720,
+        "author": "J. Johnson."
+      }
+    ]
+  },
+  {
+    "lemma": "Piraei",
+    "previous": "Pirae (-i̇̄-)",
+    "next": "Pîragh (Pîrak)/Mihrân",
+    "redirect": "Pleraei",
+    "proof_read": 2,
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 1720,
+        "end": 1720
       }
     ]
   },
@@ -2298,9 +2332,9 @@
     "lemma": "Pîragh (Pîrak)/Mihrân",
     "previous": "Piraei",
     "next": "Pirama",
-    "sort_key": "Piragh(pirak)/mihrân",
+    "sort_key": "Piragh",
     "proof_read": 0,
-    "short_description": "Person s. Mirhanes",
+    "short_description": "persische Person s. Mirhanes",
     "chapters": [
       {
         "start": 1720,

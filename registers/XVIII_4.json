@@ -99,7 +99,7 @@
   {
     "lemma": "Parapegma",
     "previous": "Parapanisus 2",
-    "next": "Parapherma",
+    "next": "Παραφύλακες",
     "proof_read": 0,
     "short_description": "Form d. Kalenders",
     "chapters": [
@@ -766,7 +766,7 @@
   {
     "lemma": "Parenta",
     "previous": "Parens manumissor",
-    "next": "Parentalia",
+    "next": "Parentes",
     "proof_read": 0,
     "short_description": "Siedlung zw. Syene u. Meroe",
     "chapters": [
@@ -1927,7 +1927,7 @@
   {
     "lemma": "Paros",
     "previous": "Paroreia 4",
-    "next": "Parospus",
+    "next": "Paroreia 2",
     "proof_read": 0,
     "short_description": "Insel im Ägäischen Meer",
     "chapters": [
@@ -2054,7 +2054,7 @@
   {
     "lemma": "Parrasios 1",
     "previous": "Parrhasini",
-    "next": "Parrasios 2",
+    "next": "Parrharia",
     "proof_read": 0,
     "short_description": "1. Epiklesis d. Apollon, 2. Arkader, Vater d. Paros, des Eponymos d. Insel, 3.",
     "chapters": [
@@ -4217,7 +4217,7 @@
   {
     "lemma": "Pasparios",
     "previous": "Pason",
-    "next": "Πάσααλο",
+    "next": "Πάσσαλο",
     "proof_read": 0,
     "short_description": "Beiname d. Apollon",
     "chapters": [
@@ -4244,7 +4244,7 @@
   },
   {
     "lemma": "Passalos",
-    "previous": "Πάσααλο",
+    "previous": "Πάσσαλο",
     "next": "Passara",
     "proof_read": 0,
     "chapters": [
@@ -4832,6 +4832,21 @@
     ]
   },
   {
+    "lemma": "Παταούϊον",
+    "previous": "Patavinus",
+    "next": "Patavissa",
+    "sort_key": "Patavion",
+    "proof_read": 0,
+    "short_description": "Patavion, Ort in Bithynien s. Tataion",
+    "chapters": [
+      {
+        "start": 2114,
+        "end": 2114,
+        "author": "F. K. Dörner."
+      }
+    ]
+  },
+  {
     "lemma": "Patavissa",
     "previous": "Patavinus",
     "next": "Patavium",
@@ -5262,7 +5277,7 @@
     "previous": "Patibulum",
     "next": "T. Patina",
     "proof_read": 0,
-    "short_description": "Flache Schüssel aus Ton o. Metall (Eß- u. Kochgeschirr)",
+    "short_description": "flache Schüssel aus Ton o. Metall, Eß- / Kochgeschirr",
     "chapters": [
       {
         "start": 2169,
@@ -5289,14 +5304,14 @@
     "lemma": "T. Patina",
     "previous": "Patina",
     "next": "Patinga",
-    "sort_key": "patina,t",
+    "sort_key": "Patina 2",
     "proof_read": 0,
-    "short_description": "Flache Schüssel aus Ton o. Metall (Eß- u. Kochgeschirr)",
+    "short_description": "T. aus Lanuvium, Freund des P. Clodius 52 v. Chr.",
     "chapters": [
       {
         "start": 2169,
         "end": 2169,
-        "author": "Münzer."
+        "author": "F. Münzer."
       }
     ]
   },
@@ -6300,7 +6315,7 @@
   {
     "lemma": "Pauka",
     "previous": "Pavimentum",
-    "next": "Paul(l)a, Polla",
+    "next": "Paulianus",
     "proof_read": 0,
     "chapters": [
       {
@@ -6325,7 +6340,7 @@
   },
   {
     "lemma": "Paul(l)a",
-    "previous": "Paul(l)a, Polla",
+    "previous": "Paulianus",
     "next": "Paulla",
     "redirect": "Claudia  431 Cornelia  446 Iulia  564",
     "proof_read": 0,
@@ -6539,7 +6554,10 @@
     "previous": "Paulinus 7",
     "next": "Paulinus 9",
     "proof_read": 0,
-    "short_description": "Sekretär des Bischofs Ambrosius von Mailand",
+    "short_description": "P. von Mailand, Sekretär des Bischofs Ambrosius von Mailand",
+    "wp_link": "w:de:Paulinus von Mailand",
+    "ws_link": "s:it:Autore:Paolino di Milano",
+    "wd_link": "d:Q3372687",
     "chapters": [
       {
         "start": 2330,
@@ -6553,7 +6571,10 @@
     "previous": "Paulinus 8",
     "next": "Paulinus 10",
     "proof_read": 0,
-    "short_description": "Meropius Pontius, Gen. Nolanus, Freund d. Ausonius u. d. Ambrosius v. Mailand,",
+    "short_description": "P. von Nola, Pontius Meropius Anicius Paulinus, Bischof von Nola und Schriftsteller",
+    "wp_link": "w:de:Paulinus von Nola",
+    "ws_link": "s:en:Author:Pontius Meropius Anicius Paulinus",
+    "wd_link": "d:Q132473",
     "chapters": [
       {
         "start": 2331,
@@ -6567,7 +6588,9 @@
     "previous": "Paulinus 9",
     "next": "Paulinus 11",
     "proof_read": 0,
-    "short_description": "Von Pella, Verf. eines unter d. Titel eucharistikos überlieferten Gedichtes in",
+    "short_description": "P. von Pella, spätantiker Aristokrat und Verfasser eines unter dem Titel eucharistikos überlieferten autobiographischen Gedichtes",
+    "wp_link": "w:de:Paulinus von Pella",
+    "wd_link": "d:Q528220",
     "chapters": [
       {
         "start": 2351,

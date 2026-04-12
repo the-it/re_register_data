@@ -4657,7 +4657,7 @@
   {
     "lemma": "pele 3",
     "previous": "pele 2",
-    "next": "Pelecianus",
+    "next": "Pele...",
     "proof_read": 0,
     "short_description": "Pele, Insel im westl. Teil d. Golfes v. Smyrna",
     "chapters": [
@@ -10089,7 +10089,7 @@
   {
     "lemma": "Περιοδονίκης",
     "previous": "Perinthos 2",
-    "next": "Περίοκοι 1",
+    "next": "Περίοικοι 1",
     "sort_key": "Periodonikes",
     "proof_read": 0,
     "short_description": "Periodonikes, Sieger der vier großen gr. Festspiele",
@@ -10102,20 +10102,23 @@
     ]
   },
   {
-    "lemma": "Perioikoi 1",
+    "lemma": "Περίοικοι 1",
     "previous": "Περιοδονίκης",
-    "next": "Perioikoi 2",
-    "short_description": "Perioiken, die umwohnenden Untertanen eines gr. Staates mit eigenem",
+    "next": "Περίοικοι 2",
+    "sort_key": "Perioikoi 1",
+    "proof_read": 0,
+    "short_description": "Perioikoi, umwohnende Untertanen griech. Staaten",
     "chapters": [
       {
         "start": 816,
-        "author": "Larsen"
+        "end": 833,
+        "author": "J. A. O. Larsen."
       }
     ]
   },
   {
-    "lemma": "Perioikoi 2",
-    "previous": "Perioikoi 1",
+    "lemma": "Περίοικοι 2",
+    "previous": "Περίοικοι 1",
     "next": "Perioria",
     "short_description": "Eine geographischer, die Entdeckung d. Kugelgestalt d. Erde voraussetzender",
     "chapters": [
@@ -10127,7 +10130,7 @@
   },
   {
     "lemma": "Perioria",
-    "previous": "Perioikoi 2",
+    "previous": "Περίοικοι 2",
     "next": "Peripatos",
     "proof_read": 0,
     "chapters": [

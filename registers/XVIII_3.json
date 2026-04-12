@@ -4342,7 +4342,7 @@
   },
   {
     "lemma": "Panachaia",
-    "previous": "Pan",
+    "previous": "Pamyles",
     "next": "Panachaikon",
     "proof_read": 0,
     "short_description": "Epiklesis d. Demeter",
@@ -10367,7 +10367,7 @@
   },
   {
     "lemma": "Papirius 32",
-    "previous": "Papirius 32ff.",
+    "previous": "Papirius 31",
     "next": "Papirius 33",
     "proof_read": 0,
     "short_description": "Carbo, C. Praetor 168 v. Chr.",
@@ -12094,23 +12094,24 @@
   {
     "lemma": "Paraitonion",
     "previous": "Paraitakene 3",
-    "next": "Parakatabole",
+    "next": "Παρακαταβολή",
     "proof_read": 0,
-    "short_description": "Hafenstelle nahe d. ägypt. W-Grenze",
+    "short_description": "Hafenstelle nahe der ägyptischen Westgrenze",
     "chapters": [
       {
         "start": 1182,
         "end": 1184,
-        "author": "Kees."
+        "author": "H. Kees."
       }
     ]
   },
   {
-    "lemma": "Parakatabole",
+    "lemma": "Παρακαταβολή",
     "previous": "Paraitonion",
     "next": "παρακαταλογή",
+    "sort_key": "Parakatabole",
     "proof_read": 0,
-    "short_description": "t.t. im gr. Recht",
+    "short_description": "Parakatabole, Eigentumsklage, t.t. im gr. Recht",
     "chapters": [
       {
         "start": 1184,
@@ -12121,15 +12122,16 @@
   },
   {
     "lemma": "παρακαταλογή",
-    "previous": "Parakatabole",
+    "previous": "Παρακαταβολή",
     "next": "Παρακαταθήκη",
     "sort_key": "Parakataloge",
     "proof_read": 0,
+    "short_description": "Parakataloge, Übergang vom Gesang ins gesprochene Wort",
     "chapters": [
       {
         "start": 1186,
         "end": 1186,
-        "author": "Maas."
+        "author": "Paul Maas."
       }
     ]
   },
@@ -12139,7 +12141,7 @@
     "next": "παρακλαυσίθυρον",
     "sort_key": "Parakatatheke",
     "proof_read": 0,
-    "short_description": "Schuldverhältnis, t.t. im gr. Recht",
+    "short_description": "Parakatatheke, Schuldverhältnis, t.t. im griechischen Recht",
     "chapters": [
       {
         "start": 1186,
@@ -12149,8 +12151,21 @@
     ]
   },
   {
-    "lemma": "Paraklasithyron",
+    "lemma": "παρακλαυσίθυρον",
     "previous": "Παρακαταθήκη",
+    "sort_key": "Paraklausithyron",
+    "proof_read": 0,
+    "short_description": "Paraklausithyron, Ständchen",
+    "chapters": [
+      {
+        "start": 1202,
+        "end": 1202,
+        "author": "Maas."
+      }
+    ]
+  },
+  {
+    "lemma": "Paraklasithyron",
     "next": "Parakletoie",
     "short_description": "Ständchen",
     "chapters": [
