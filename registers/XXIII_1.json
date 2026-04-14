@@ -5562,7 +5562,7 @@
   },
   {
     "lemma": "Prokopios 1",
-    "previous": "Prokopios 21",
+    "previous": "Proknis",
     "next": "Prokopios 2",
     "proof_read": 0,
     "short_description": "Praeses Ciliciae",
@@ -5998,7 +5998,7 @@
   {
     "lemma": "Προκύκλιος",
     "previous": "Πρόκουρι πόλις",
-    "next": "Prokyon",
+    "next": "Prokyon 1",
     "sort_key": "Prokyklios",
     "proof_read": 3,
     "short_description": "Prokyklios, mittelgriechischer Monatsname in Aitolien",
@@ -6539,7 +6539,7 @@
   },
   {
     "lemma": "Promalanges",
-    "previous": "promagistro",
+    "previous": "Promaea",
     "next": "Promantheus",
     "proof_read": 0,
     "short_description": "Fürstliche Ratgeber?",
@@ -6650,7 +6650,7 @@
   },
   {
     "lemma": "Prome",
-    "previous": "Promathion",
+    "previous": "Promathos",
     "next": "Promēa",
     "proof_read": 0,
     "short_description": "Unbekannte Göttin von Venafrum",
@@ -6751,66 +6751,78 @@
     "lemma": "Promenes 3",
     "previous": "Promenes 2",
     "next": "Promeros",
+    "proof_read": 0,
     "short_description": "Zwei historische Personen",
     "chapters": [
       {
         "start": 652,
-        "author": "Zwicker"
+        "end": 652,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Promeros",
     "previous": "Promenes 3",
-    "next": "Prometheia 1",
+    "next": "Προμήθεια 1",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 652,
-        "author": "Zwicker"
+        "end": 652,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Prometheia 1",
+    "lemma": "Προμήθεια 1",
     "previous": "Promeros",
-    "next": "Prometheia 2",
+    "next": "Προμήθεια 2",
+    "sort_key": "Prometheia 1",
+    "proof_read": 0,
     "short_description": "Personifikation der weisen Voraussicht",
     "chapters": [
       {
         "start": 652,
         "end": 653,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Prometheia 2",
-    "previous": "Prometheia 1",
-    "next": "Prometheion",
+    "lemma": "Προμήθεια 2",
+    "previous": "Προμήθεια 1",
+    "next": "Προμήθειον",
+    "sort_key": "Prometheia 2",
+    "proof_read": 0,
     "short_description": "Fest des Prometheus in Athen",
     "chapters": [
       {
         "start": 653,
-        "author": "Geisau"
+        "end": 653,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Prometheion",
-    "previous": "Prometheia 2",
-    "next": "Prometheus",
+    "lemma": "Προμήθειον",
+    "previous": "Προμήθεια 2",
+    "next": "Προμήθειος",
+    "sort_key": "Prometheion",
+    "proof_read": 0,
     "short_description": "Zauberkraut Medeas",
     "chapters": [
       {
         "start": 653,
-        "author": "Geisau"
+        "end": 653,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Prometheus",
-    "previous": "Prometheion",
+    "previous": "Προμήθειον",
     "next": "Prometheus 2–5",
     "proof_read": 0,
     "short_description": "Feuergott in Athen",
@@ -6842,11 +6854,13 @@
     "lemma": "Promethion",
     "previous": "Prometheus 2–5",
     "next": "Promethos",
+    "proof_read": 0,
     "short_description": "Örtlichkeit auf Sizilien",
     "chapters": [
       {
         "start": 730,
-        "author": "Ziegler"
+        "end": 730,
+        "author": "Ziegler."
       }
     ]
   },
@@ -6854,11 +6868,13 @@
     "lemma": "Promethos",
     "previous": "Promethion",
     "next": "προμετρηταί",
+    "proof_read": 0,
     "short_description": "Sohn des Königs Kodros von Athen",
     "chapters": [
       {
         "start": 730,
-        "author": "Geisau"
+        "end": 730,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -6880,43 +6896,48 @@
     "lemma": "Promeus",
     "previous": "προμετρηταί",
     "next": "Promitor",
+    "proof_read": 0,
     "short_description": "Dolione",
     "chapters": [
       {
         "start": 730,
         "end": 731,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Promitor",
     "previous": "Promeus",
-    "next": "Promnamon",
+    "next": "Προμνάμων",
+    "proof_read": 0,
     "short_description": "Römischer Gott des Speichers",
     "chapters": [
       {
         "start": 731,
-        "author": "Weinstock"
+        "end": 731,
+        "author": "Weinstock."
       }
     ]
   },
   {
-    "lemma": "Promnamon",
+    "lemma": "Προμνάμων",
     "previous": "Promitor",
-    "next": "Promne",
+    "next": "Πρώμνη",
+    "sort_key": "Promnamon",
+    "proof_read": 0,
     "short_description": "Beamte im dorischen Bereich",
     "chapters": [
       {
         "start": 731,
         "end": 732,
-        "author": "Berneker"
+        "author": "Erich Berneker."
       }
     ]
   },
   {
-    "lemma": "Promne",
-    "previous": "Promnamon",
+    "lemma": "Πρώμνη",
+    "previous": "Προμνάμων",
     "next": "Promnesos",
     "short_description": "Gattin des Buphagos von Pheneos",
     "chapters": [
@@ -6928,7 +6949,7 @@
   },
   {
     "lemma": "Promnesos",
-    "previous": "Promne",
+    "previous": "Πρώμνη",
     "next": "Promolus",
     "redirect": true,
     "proof_read": 2,
@@ -6943,32 +6964,50 @@
     "lemma": "Promolus",
     "previous": "Promnesos",
     "next": "Promona",
+    "proof_read": 0,
     "short_description": "Krieger des Aenaeas",
     "chapters": [
       {
         "start": 732,
-        "author": "Geisau"
+        "end": 732,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Promona",
     "previous": "Promolus",
-    "next": "Promos 1",
+    "next": "Promos",
+    "proof_read": 0,
     "short_description": "Stadt in Dalmatien",
     "chapters": [
       {
         "start": 732,
         "end": 734,
-        "author": "Saria"
+        "author": "B. Saria."
+      }
+    ]
+  },
+  {
+    "lemma": "Promos",
+    "previous": "Promona",
+    "next": "Promos 1",
+    "proof_read": 3,
+    "short_description": "Freier der Penelope",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 734,
+        "end": 734,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Promos 1",
-    "previous": "Promona",
+    "previous": "Promos",
     "next": "Promos 2",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Freier der Penelope",
     "no_creative_height": true,
     "chapters": [
@@ -6998,12 +7037,13 @@
     "lemma": "Promotus 1",
     "previous": "Promos 2",
     "next": "Promotus 2",
+    "proof_read": 0,
     "short_description": "Flavius, cos. 389",
     "chapters": [
       {
         "start": 734,
         "end": 735,
-        "author": "Enßlin"
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7011,11 +7051,13 @@
     "lemma": "Promotus 2",
     "previous": "Promotus 1",
     "next": "Promotus 3",
+    "proof_read": 0,
     "short_description": "Gatte der Marsa",
     "chapters": [
       {
         "start": 735,
-        "author": "Enßlin"
+        "end": 735,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7023,11 +7065,13 @@
     "lemma": "Promotus 3",
     "previous": "Promotus 2",
     "next": "Promotus 4",
+    "proof_read": 0,
     "short_description": "Praeses von Noricum",
     "chapters": [
       {
         "start": 735,
-        "author": "Enßlin"
+        "end": 735,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7064,7 +7108,7 @@
   {
     "lemma": "Promulsis",
     "previous": "Promtus",
-    "next": "Promylaia",
+    "next": "Προμυλαία",
     "sort_key": "Promulsis",
     "proof_read": 2,
     "short_description": "Vorspeise der römischen Mahlzeit",
@@ -7077,20 +7121,23 @@
     ]
   },
   {
-    "lemma": "Promylaia",
+    "lemma": "Προμυλαία",
     "previous": "Promulsis",
     "next": "Προμύλιος",
+    "sort_key": "Promylaia",
+    "proof_read": 0,
     "short_description": "Mahlgottheit, Mühlengeist",
     "chapters": [
       {
         "start": 736,
-        "author": "Geisau"
+        "end": 736,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Προμύλιος",
-    "previous": "Promylaia",
+    "previous": "Προμυλαία",
     "next": "Pron",
     "sort_key": "Promylios",
     "redirect": "Promylaia",
@@ -7106,11 +7153,13 @@
     "lemma": "Pron",
     "previous": "Προμύλιος",
     "next": "Pronai",
+    "proof_read": 0,
     "short_description": "Berg in der Argolis",
     "chapters": [
       {
         "start": 736,
-        "author": "Kirsten"
+        "end": 736,
+        "author": "Kirsten."
       }
     ]
   },
@@ -7118,11 +7167,13 @@
     "lemma": "Pronai",
     "previous": "Pron",
     "next": "Pronaia 1",
+    "proof_read": 0,
     "short_description": "Ort Thessaliens",
     "chapters": [
       {
         "start": 736,
-        "author": "Kirsten"
+        "end": 736,
+        "author": "Kirsten."
       }
     ]
   },
@@ -7130,45 +7181,51 @@
     "lemma": "Pronaia 1",
     "previous": "Pronai",
     "next": "Pronaia 2",
+    "proof_read": 0,
     "short_description": "Kultbeiname der Athena in Delphoi",
     "chapters": [
       {
         "start": 736,
         "end": 739,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Pronaia 2",
     "previous": "Pronaia 1",
-    "next": "Pronaos 1",
+    "next": "Πρόναος 1",
+    "proof_read": 0,
     "short_description": "Beiname der Athena auf einer Weihinschrift aus der Nähe von Ptoion",
     "chapters": [
       {
         "start": 739,
-        "author": "Geisau"
+        "end": 739,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronaos 1",
+    "lemma": "Πρόναος 1",
     "previous": "Pronaia 2",
-    "next": "Pronaos 2",
+    "next": "Πρόναος 2",
+    "sort_key": "Pronaos 1",
+    "proof_read": 0,
     "short_description": "Athena, Standbild des Skopas beim Heiligtum des Apollon Ismenios in Theben",
     "chapters": [
       {
         "start": 739,
         "end": 740,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronaos 2",
-    "previous": "Pronaos 1",
-    "next": "Pronaos 3",
-    "proof_read": 2,
+    "lemma": "Πρόναος 2",
+    "previous": "Πρόναος 1",
+    "next": "Πρόναος 3",
+    "sort_key": "Pronaos 2",
+    "proof_read": 3,
     "short_description": "Hermes, Bild des Pheidias beim Heiligtum des Apollon Ismenios, Theben",
     "no_creative_height": true,
     "chapters": [
@@ -7180,10 +7237,11 @@
     ]
   },
   {
-    "lemma": "Pronaos 3",
-    "previous": "Pronaos 2",
-    "next": "Pronaos 4",
-    "proof_read": 2,
+    "lemma": "Πρόναος 3",
+    "previous": "Πρόναος 2",
+    "next": "Πρόναος 4",
+    "sort_key": "Pronaos 3",
+    "proof_read": 3,
     "short_description": "Athena in Delphoi",
     "no_creative_height": true,
     "chapters": [
@@ -7195,10 +7253,11 @@
     ]
   },
   {
-    "lemma": "Pronaos 4",
-    "previous": "Pronaos 3",
+    "lemma": "Πρόναος 4",
+    "previous": "Πρόναος 3",
     "next": "Pronapides",
-    "proof_read": 2,
+    "sort_key": "Pronaos 4",
+    "proof_read": 3,
     "short_description": "Poseidon in Delphoi",
     "no_creative_height": true,
     "chapters": [
@@ -7211,44 +7270,50 @@
   },
   {
     "lemma": "Pronapides",
-    "previous": "Pronaos 4",
+    "previous": "Πρόναος 4",
     "next": "Pronastai",
+    "proof_read": 0,
     "short_description": "Angebl. Lehrer von Homer",
     "chapters": [
       {
         "start": 740,
-        "author": "Aly"
+        "end": 740,
+        "author": "Aly."
       }
     ]
   },
   {
     "lemma": "Pronastai",
     "previous": "Pronapides",
-    "next": "Pronax",
+    "next": "Πρῶναξ",
+    "proof_read": 0,
     "short_description": "Boiotischer Stamm",
     "chapters": [
       {
         "start": 740,
-        "author": "Kirsten"
+        "end": 740,
+        "author": "Kirsten."
       }
     ]
   },
   {
-    "lemma": "Pronax",
+    "lemma": "Πρῶναξ",
     "previous": "Pronastai",
     "next": "Proneia",
+    "sort_key": "Pronax",
+    "proof_read": 0,
     "short_description": "Mythischer Herrscher in Argos",
     "chapters": [
       {
         "start": 740,
         "end": 741,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Proneia",
-    "previous": "Pronax",
+    "previous": "Πρῶναξ",
     "next": "Προνηίη",
     "redirect": "Pronoe 7",
     "proof_read": 2,
@@ -7277,11 +7342,13 @@
     "lemma": "Pronektos",
     "previous": "Προνηίη",
     "next": "Proneos 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 741,
-        "author": "Kirsten"
+        "end": 741,
+        "author": "Kirsten."
       }
     ]
   },
@@ -7289,12 +7356,13 @@
     "lemma": "Proneos 1",
     "previous": "Pronektos",
     "next": "Proneos 2",
+    "proof_read": 0,
     "short_description": "Epiklese Poseidons",
     "chapters": [
       {
         "start": 741,
         "end": 742,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7330,11 +7398,13 @@
     "lemma": "Pronesos 1",
     "previous": "Pronesion",
     "next": "Pronesos 2",
+    "proof_read": 0,
     "short_description": "Polis auf Kephallenia",
     "chapters": [
       {
         "start": 742,
-        "author": "Geisau"
+        "end": 742,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7384,7 +7454,7 @@
   {
     "lemma": "Πρώνιοι",
     "previous": "Proneus",
-    "next": "Pronnaioi",
+    "next": "Προνναῖοι",
     "sort_key": "Pronioi",
     "proof_read": 2,
     "short_description": "Bewohner eines Bezirks von Kephallenia s. Pronesos Nr. 1",
@@ -7398,34 +7468,38 @@
     ]
   },
   {
-    "lemma": "Pronnaioi",
+    "lemma": "Προνναῖοι",
     "previous": "Πρώνιοι",
     "next": "Pronnoi",
+    "sort_key": "Pronnaioi",
+    "proof_read": 0,
     "short_description": "Bezirk von Kephallenia s. Pronesos Nr. 1",
     "chapters": [
       {
         "start": 742,
-        "author": "Geisau"
+        "end": 742,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Pronnoi",
-    "previous": "Pronnaioi",
-    "next": "Pronoe 1",
+    "previous": "Προνναῖοι",
+    "next": "Προνόη 1",
+    "proof_read": 0,
     "short_description": "Stadt auf Kephallenia",
     "chapters": [
       {
         "start": 742,
         "end": 744,
-        "author": "Klaffenbach"
+        "author": "Günther Klaffenbach."
       }
     ]
   },
   {
-    "lemma": "Pronoe 1",
+    "lemma": "Προνόη 1",
     "previous": "Pronnoi",
-    "next": "Pronoe 2",
+    "next": "Προνόη 2",
     "short_description": "Nereide",
     "chapters": [
       {
@@ -7435,21 +7509,25 @@
     ]
   },
   {
-    "lemma": "Pronoe 2",
-    "previous": "Pronoe 1",
-    "next": "Pronoe 3",
+    "lemma": "Προνόη 2",
+    "previous": "Προνόη 1",
+    "next": "Προνόη 3",
+    "sort_key": "Pronoe 2",
+    "proof_read": 0,
     "short_description": "Weissagende Najade in Lykien",
     "chapters": [
       {
         "start": 744,
-        "author": "Geisau"
+        "end": 744,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronoe 3",
-    "previous": "Pronoe 2",
-    "next": "Pronoe 4",
+    "lemma": "Προνόη 3",
+    "previous": "Προνόη 2",
+    "next": "Προνόη 4",
+    "sort_key": "Pronoe 3",
     "proof_read": 2,
     "short_description": "Mutter des Lassos",
     "no_creative_height": true,
@@ -7462,9 +7540,10 @@
     ]
   },
   {
-    "lemma": "Pronoe 4",
-    "previous": "Pronoe 3",
-    "next": "Pronoe 5",
+    "lemma": "Προνόη 4",
+    "previous": "Προνόη 3",
+    "next": "Προνόη 5",
+    "sort_key": "Pronoe 4",
     "proof_read": 2,
     "short_description": "Tochter des Asopos",
     "no_creative_height": true,
@@ -7477,9 +7556,10 @@
     ]
   },
   {
-    "lemma": "Pronoe 5",
-    "previous": "Pronoe 4",
-    "next": "Pronoe 6",
+    "lemma": "Προνόη 5",
+    "previous": "Προνόη 4",
+    "next": "Προνόη 6",
+    "sort_key": "Pronoe 5",
     "proof_read": 2,
     "short_description": "Tochter des Phorbos",
     "no_creative_height": true,
@@ -7492,9 +7572,10 @@
     ]
   },
   {
-    "lemma": "Pronoe 6",
-    "previous": "Pronoe 5",
-    "next": "Pronoe 7",
+    "lemma": "Προνόη 6",
+    "previous": "Προνόη 5",
+    "next": "Προνόη 7",
+    "sort_key": "Pronoe 6",
     "proof_read": 2,
     "short_description": "Tochter des Melampus",
     "no_creative_height": true,
@@ -7507,22 +7588,26 @@
     ]
   },
   {
-    "lemma": "Pronoe 7",
-    "previous": "Pronoe 6",
-    "next": "Pronoe 8",
+    "lemma": "Προνόη 7",
+    "previous": "Προνόη 6",
+    "next": "Προνόη 8",
+    "sort_key": "Pronoe 7",
+    "proof_read": 0,
     "short_description": "Mutter Deukalions",
     "chapters": [
       {
         "start": 745,
-        "author": "Geisau"
+        "end": 745,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronoe 8",
-    "previous": "Pronoe 7",
+    "lemma": "Προνόη 8",
+    "previous": "Προνόη 7",
     "next": "Pronoia 1",
-    "redirect": "Pronome",
+    "sort_key": "Pronoe 8",
+    "redirect": "Προνόμη",
     "proof_read": 2,
     "no_creative_height": true,
     "chapters": [
@@ -7535,13 +7620,15 @@
   },
   {
     "lemma": "Pronoia 1",
-    "previous": "Pronoe 8",
+    "previous": "Προνόη 8",
     "next": "Pronoia 2",
+    "proof_read": 0,
     "short_description": "Beiname der Athena auf Delos",
     "chapters": [
       {
         "start": 745,
-        "author": "Geisau"
+        "end": 745,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7549,12 +7636,13 @@
     "lemma": "Pronoia 2",
     "previous": "Pronoia 1",
     "next": "Pronoia 3",
+    "proof_read": 0,
     "short_description": "Beiname der Athena in Attika",
     "chapters": [
       {
         "start": 745,
         "end": 746,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7562,11 +7650,13 @@
     "lemma": "Pronoia 3",
     "previous": "Pronoia 2",
     "next": "Pronoia 4",
+    "proof_read": 0,
     "short_description": "Beiname der Athena in weiterer Verbreitung",
     "chapters": [
       {
         "start": 746,
-        "author": "Geisau"
+        "end": 746,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7574,12 +7664,13 @@
     "lemma": "Pronoia 4",
     "previous": "Pronoia 3",
     "next": "Pronoia 5",
+    "proof_read": 0,
     "short_description": "Athena Pronoia in Delphi",
     "chapters": [
       {
         "start": 746,
         "end": 747,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7587,11 +7678,13 @@
     "lemma": "Pronoia 5",
     "previous": "Pronoia 4",
     "next": "Pronoia 6",
+    "proof_read": 0,
     "short_description": "Personifikation",
     "chapters": [
       {
         "start": 747,
-        "author": "Geisau"
+        "end": 747,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7614,11 +7707,13 @@
     "lemma": "Pronoia 7",
     "previous": "Pronoia 6",
     "next": "Pronoia 8",
+    "proof_read": 0,
     "short_description": "Beiname vergötterter Menschen",
     "chapters": [
       {
         "start": 747,
-        "author": "Geisau"
+        "end": 747,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7640,7 +7735,7 @@
   {
     "lemma": "Pronoia 9",
     "previous": "Pronoia 8",
-    "next": "Pronome",
+    "next": "Προνόμη",
     "proof_read": 2,
     "short_description": "attisches Schiff",
     "no_creative_height": true,
@@ -7653,46 +7748,54 @@
     ]
   },
   {
-    "lemma": "Pronome",
+    "lemma": "Προνόμη",
     "previous": "Pronoia 9",
-    "next": "Pronomos 1",
+    "next": "Πρόνομος 1",
+    "sort_key": "Pronome",
+    "proof_read": 0,
     "short_description": "Tochter des Klytios",
     "chapters": [
       {
         "start": 747,
         "end": 748,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronomos 1",
-    "previous": "Pronome",
-    "next": "Pronomos 2",
+    "lemma": "Πρόνομος 1",
+    "previous": "Προνόμη",
+    "next": "Πρόνομος 2",
+    "sort_key": "Pronomos 1",
+    "proof_read": 0,
     "short_description": "Gigant",
     "chapters": [
       {
         "start": 748,
-        "author": "Geisau"
+        "end": 748,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronomos 2",
-    "previous": "Pronomos 1",
-    "next": "Pronomos 3",
+    "lemma": "Πρόνομος 2",
+    "previous": "Πρόνομος 1",
+    "next": "Πρόνομος 3",
+    "sort_key": "Pronomos 2",
+    "proof_read": 0,
     "short_description": "Freier der Penelope",
     "chapters": [
       {
         "start": 748,
-        "author": "Geisau"
+        "end": 748,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronomos 3",
-    "previous": "Pronomos 2",
-    "next": "Pronomos 4",
+    "lemma": "Πρόνομος 3",
+    "previous": "Πρόνομος 2",
+    "next": "Πρόνομος 4",
     "short_description": "Satyr",
     "chapters": [
       {
@@ -7702,9 +7805,9 @@
     ]
   },
   {
-    "lemma": "Pronomos 4",
-    "previous": "Pronomos 3",
-    "next": "Pronoos, Pronus 1",
+    "lemma": "Πρόνομος 4",
+    "previous": "Πρόνομος 3",
+    "next": "Πρόνοος, Πρόνους 1",
     "short_description": "Thebanischer Flötenspieler",
     "chapters": [
       {
@@ -7714,70 +7817,85 @@
     ]
   },
   {
-    "lemma": "Pronoos, Pronus 1",
-    "previous": "Pronomos 4",
-    "next": "Pronoos, Pronus 2",
+    "lemma": "Πρόνοος, Πρόνους 1",
+    "previous": "Πρόνομος 4",
+    "next": "Πρόνοος, Πρόνους 2",
+    "sort_key": "Pronoos,pronus 1",
+    "proof_read": 0,
     "short_description": "Sohn des Deukalion",
     "chapters": [
       {
         "start": 748,
-        "author": "Geisau"
+        "end": 748,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronoos, Pronus 2",
-    "previous": "Pronoos, Pronus 1",
-    "next": "Pronoos, Pronus 3",
+    "lemma": "Πρόνοος, Πρόνους 2",
+    "previous": "Πρόνοος, Πρόνους 1",
+    "next": "Πρόνοος, Πρόνους 3",
+    "sort_key": "Pronoos,pronus 2",
+    "proof_read": 0,
     "short_description": "Sohn des Königs Phegeus",
     "chapters": [
       {
         "start": 748,
         "end": 749,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronoos, Pronus 3",
-    "previous": "Pronoos, Pronus 2",
-    "next": "Pronoos, Pronus 4",
+    "lemma": "Πρόνοος, Πρόνους 3",
+    "previous": "Πρόνοος, Πρόνους 2",
+    "next": "Πρόνοος, Πρόνους 4",
+    "sort_key": "Pronoos,pronus 3",
+    "proof_read": 0,
     "short_description": "Troer",
     "chapters": [
       {
         "start": 749,
-        "author": "Geisau"
+        "end": 749,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronoos, Pronus 4",
-    "previous": "Pronoos, Pronus 3",
-    "next": "Pronoos, Pronus 5",
+    "lemma": "Πρόνοος, Πρόνους 4",
+    "previous": "Πρόνοος, Πρόνους 3",
+    "next": "Πρόνοος, Πρόνους 5",
+    "sort_key": "Pronoos,pronus 4",
+    "proof_read": 0,
     "short_description": "Freier der Penelope",
     "chapters": [
       {
         "start": 749,
-        "author": "Geisau"
+        "end": 749,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronoos, Pronus 5",
-    "previous": "Pronoos, Pronus 4",
-    "next": "Pronoos, Pronus 6",
+    "lemma": "Πρόνοος, Πρόνους 5",
+    "previous": "Πρόνοος, Πρόνους 4",
+    "next": "Πρόνοος, Πρόνους 6",
+    "sort_key": "Pronoos,pronus 5",
+    "proof_read": 0,
     "short_description": "Satyr",
     "chapters": [
       {
         "start": 749,
-        "author": "Geisau"
+        "end": 749,
+        "author": "v. Geisau."
       }
     ]
   },
   {
-    "lemma": "Pronoos, Pronus 6",
-    "previous": "Pronoos, Pronus 5",
+    "lemma": "Πρόνοος, Πρόνους 6",
+    "previous": "Πρόνοος, Πρόνους 5",
     "next": "Pronopia, Pronopioi",
+    "sort_key": "Pronoos, Pronus 6",
     "redirect": "Pronoia 1",
     "proof_read": 2,
     "no_creative_height": true,
@@ -7791,13 +7909,16 @@
   },
   {
     "lemma": "Pronopia, Pronopioi",
-    "previous": "Pronoos, Pronus 6",
+    "previous": "Πρόνοος, Πρόνους 6",
     "next": "Pronopos",
+    "sort_key": "Pronopia,pronopioi",
+    "proof_read": 0,
     "short_description": "Griechische Bezeichnung der Lares compitales",
     "chapters": [
       {
         "start": 749,
-        "author": "Geisau"
+        "end": 749,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7805,12 +7926,13 @@
     "lemma": "Pronopos",
     "previous": "Pronopia, Pronopioi",
     "next": "Pronos 1",
+    "proof_read": 0,
     "short_description": "Sohn des Agenor",
     "chapters": [
       {
         "start": 749,
         "end": 750,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7818,11 +7940,13 @@
     "lemma": "Pronos 1",
     "previous": "Pronopos",
     "next": "Pronos 2",
+    "proof_read": 0,
     "short_description": "Sohn des Kephalos",
     "chapters": [
       {
         "start": 750,
-        "author": "Geisau"
+        "end": 750,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7830,11 +7954,13 @@
     "lemma": "Pronos 2",
     "previous": "Pronos 1",
     "next": "Pronos 3",
+    "proof_read": 0,
     "short_description": "Vater eines Tyrannen von Kephallenia",
     "chapters": [
       {
         "start": 750,
-        "author": "Geisau"
+        "end": 750,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7857,12 +7983,13 @@
     "lemma": "Pronuba",
     "previous": "Pronos 3",
     "next": "Prooimion",
+    "proof_read": 0,
     "short_description": "Epitheton der Iuno",
     "chapters": [
       {
         "start": 750,
         "end": 756,
-        "author": "Weinstock"
+        "author": "Weinstock."
       }
     ]
   },
@@ -7883,11 +8010,13 @@
     "lemma": "Proopsios",
     "previous": "Prooimion",
     "next": "Propalai",
+    "proof_read": 0,
     "short_description": "Epiklese Apollons",
     "chapters": [
       {
         "start": 756,
-        "author": "Geisau"
+        "end": 756,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7925,12 +8054,13 @@
     "lemma": "Propator",
     "previous": "Propanisos",
     "next": "Propertius",
+    "proof_read": 0,
     "short_description": "(Ur-)Großvater, Ahnherr",
     "chapters": [
       {
         "start": 756,
         "end": 757,
-        "author": "Geisau"
+        "author": "v. Geisau."
       }
     ]
   },
@@ -7938,12 +8068,13 @@
     "lemma": "Propertius",
     "previous": "Propator",
     "next": "Propertius 1",
+    "proof_read": 0,
     "short_description": "Gentilname",
     "chapters": [
       {
         "start": 757,
         "end": 758,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7951,11 +8082,13 @@
     "lemma": "Propertius 1",
     "previous": "Propertius",
     "next": "Propertius 2",
+    "proof_read": 0,
     "short_description": "Sex. Cic. dom. 49",
     "chapters": [
       {
         "start": 758,
-        "author": "Gundel, Hans [Georg]"
+        "end": 758,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7963,12 +8096,13 @@
     "lemma": "Propertius 2",
     "previous": "Propertius 1",
     "next": "Propertius 3",
+    "proof_read": 0,
     "short_description": "Sextus, bedeutendster Elegiendichter Roms",
     "chapters": [
       {
         "start": 758,
         "end": 796,
-        "author": "Helm"
+        "author": "Helm."
       }
     ]
   },
@@ -7976,28 +8110,32 @@
     "lemma": "Propertius 3",
     "previous": "Propertius 2",
     "next": "Propertius 4",
+    "proof_read": 0,
     "short_description": "Celer, kinderreicher Praetorier",
     "chapters": [
       {
         "start": 796,
-        "author": "Hanslik"
+        "end": 796,
+        "author": "Hanslik."
       }
     ]
   },
   {
     "lemma": "Propertius 4",
     "previous": "Propertius 3",
-    "next": "Propes",
+    "next": "propes",
+    "proof_read": 0,
     "short_description": "Postumus, C. Praetorischer procos. in einer senatorischen Provinz unter Augustus",
     "chapters": [
       {
         "start": 796,
-        "author": "Hanslik"
+        "end": 796,
+        "author": "Hanslik."
       }
     ]
   },
   {
-    "lemma": "Propes",
+    "lemma": "propes",
     "previous": "Propertius 4",
     "next": "Προπέτης",
     "proof_read": 2,
@@ -8013,7 +8151,7 @@
   },
   {
     "lemma": "Προπέτης",
-    "previous": "Propes",
+    "previous": "propes",
     "next": "Prophantos 1",
     "sort_key": "Propetes",
     "proof_read": 2,
@@ -8031,18 +8169,20 @@
     "lemma": "Prophantos 1",
     "previous": "Προπέτης",
     "next": "Prophantos 2",
+    "proof_read": 0,
     "short_description": "Epiklesis des Poseidon",
     "chapters": [
       {
         "start": 797,
-        "author": "Geisau"
+        "end": 797,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Prophantos 2",
     "previous": "Prophantos 1",
-    "next": "Prophasis",
+    "next": "Πρόφασις",
     "proof_read": 2,
     "short_description": "Onkel des Aratos von Sikyon",
     "no_creative_height": true,
@@ -8055,40 +8195,45 @@
     ]
   },
   {
-    "lemma": "Prophasis",
+    "lemma": "Πρόφασις",
     "previous": "Prophantos 2",
     "next": "Prophetes",
+    "sort_key": "Prophasis",
+    "proof_read": 0,
     "short_description": "Personifikation des Vorwands",
     "chapters": [
       {
         "start": 797,
-        "author": "Geisau"
+        "end": 797,
+        "author": "v. Geisau."
       }
     ]
   },
   {
     "lemma": "Prophetes",
-    "previous": "Prophasis",
-    "next": "Prophetis",
+    "previous": "Πρόφασις",
+    "next": "Prophetios",
+    "proof_read": 0,
     "short_description": "Wahrsager",
     "chapters": [
       {
         "start": 797,
         "end": 814,
-        "author": "Kolf"
+        "author": "Kolf."
       }
     ]
   },
   {
     "lemma": "Prophetis",
-    "previous": "Prophetes",
+    "previous": "Prophetios",
     "next": "Prophthasia 1",
+    "proof_read": 0,
     "short_description": "Femininum von Prophetes",
     "chapters": [
       {
         "start": 814,
         "end": 816,
-        "author": "Kolf"
+        "author": "Kolf."
       }
     ]
   },
@@ -8096,11 +8241,13 @@
     "lemma": "Prophthasia 1",
     "previous": "Prophetis",
     "next": "Prophthasia 2",
+    "proof_read": 0,
     "short_description": "Fest in Leuke",
     "chapters": [
       {
         "start": 817,
-        "author": "Kolf"
+        "end": 817,
+        "author": "Kolf."
       }
     ]
   },
@@ -8108,12 +8255,13 @@
     "lemma": "Prophthasia 2",
     "previous": "Prophthasia 1",
     "next": "Prophylax 1",
+    "proof_read": 0,
     "short_description": "Stadt des östl. Iran",
     "chapters": [
       {
         "start": 817,
         "end": 822,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -8121,11 +8269,13 @@
     "lemma": "Prophylax 1",
     "previous": "Prophthasia 2",
     "next": "Prophylax 2",
+    "proof_read": 0,
     "short_description": "Kultische Epiklese Apollons",
     "chapters": [
       {
         "start": 822,
-        "author": "Geisau"
+        "end": 822,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -8133,11 +8283,13 @@
     "lemma": "Prophylax 2",
     "previous": "Prophylax 1",
     "next": "Prophylax 3",
+    "proof_read": 0,
     "short_description": "Epiklese des Herakles",
     "chapters": [
       {
         "start": 822,
-        "author": "Geisau"
+        "end": 822,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -8145,11 +8297,13 @@
     "lemma": "Prophylax 3",
     "previous": "Prophylax 2",
     "next": "Propinquus 1",
+    "proof_read": 0,
     "short_description": "Bezeichnung der Graiai bei Aischylos",
     "chapters": [
       {
         "start": 822,
-        "author": "Geisau"
+        "end": 822,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -8169,48 +8323,55 @@
     "lemma": "Propinquus 2",
     "previous": "Propinquus 1",
     "next": "Propis",
+    "proof_read": 0,
     "short_description": "Episcopus Trebensis",
     "chapters": [
       {
         "start": 822,
-        "author": "Enßlin"
+        "end": 822,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Propis",
     "previous": "Propinquus 2",
-    "next": "Propitius",
+    "next": "propitius",
+    "proof_read": 0,
     "short_description": "Kitharode aus Rhodos",
     "chapters": [
       {
         "start": 822,
-        "author": "Aly"
+        "end": 822,
+        "author": "Aly."
       }
     ]
   },
   {
-    "lemma": "Propitius",
+    "lemma": "propitius",
     "previous": "Propis",
     "next": "Propodas",
+    "proof_read": 0,
     "short_description": "Gnädig, günstig in römischen Gebeten",
     "chapters": [
       {
         "start": 822,
         "end": 826,
-        "author": "Weinstock"
+        "author": "Weinstock."
       }
     ]
   },
   {
     "lemma": "Propodas",
-    "previous": "Propitius",
+    "previous": "propitius",
     "next": "Propodes",
+    "proof_read": 0,
     "short_description": "Sohn des Damophon",
     "chapters": [
       {
         "start": 826,
-        "author": "Kolf"
+        "end": 826,
+        "author": "Kolf."
       }
     ]
   },
@@ -8218,11 +8379,13 @@
     "lemma": "Propodes",
     "previous": "Propodas",
     "next": "Propoitides",
+    "proof_read": 0,
     "short_description": "Deltainseln vor Aegypten",
     "chapters": [
       {
         "start": 826,
-        "author": "Meyer, Ernst"
+        "end": 826,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -8230,19 +8393,20 @@
     "lemma": "Propoitides",
     "previous": "Propodes",
     "next": "Propoitos",
+    "proof_read": 0,
     "short_description": "Mythische Mädchen im kyprischen Amathus",
     "chapters": [
       {
         "start": 826,
         "end": 827,
-        "author": "Kolf"
+        "author": "Kolf."
       }
     ]
   },
   {
     "lemma": "Propoitos",
     "previous": "Propoitides",
-    "next": "Pro poleos",
+    "next": "πρὸ πόλεως",
     "redirect": "Propoitides",
     "proof_read": 2,
     "chapters": [
@@ -8253,28 +8417,31 @@
     ]
   },
   {
-    "lemma": "Pro poleos",
+    "lemma": "πρὸ πόλεως",
     "previous": "Propoitos",
     "next": "Propolos",
+    "sort_key": "Propoleos",
+    "proof_read": 0,
     "short_description": "Beifügung bei mehreren inschriftlich erwähnten Kulten",
     "chapters": [
       {
         "start": 827,
         "end": 828,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
   {
     "lemma": "Propolos",
-    "previous": "Pro poleos",
+    "previous": "πρὸ πόλεως",
     "next": "Propolos 2",
+    "proof_read": 0,
     "short_description": "Diener einer Gottheit",
     "chapters": [
       {
         "start": 828,
         "end": 832,
-        "author": "Kolf"
+        "author": "Kolf."
       }
     ]
   },
@@ -8297,11 +8464,13 @@
     "lemma": "Propompos",
     "previous": "Propolos 2",
     "next": "Propontis",
+    "proof_read": 0,
     "short_description": "Epiklesis einiger Götter",
     "chapters": [
       {
         "start": 832,
-        "author": "Kolf"
+        "end": 832,
+        "author": "Kolf."
       }
     ]
   },
@@ -8347,12 +8516,13 @@
     "lemma": "Propugnator",
     "previous": "propugnaculum",
     "next": "Propus 1",
+    "proof_read": 0,
     "short_description": "Beiname des Iuppiter und anderer Götter",
     "chapters": [
       {
         "start": 832,
         "end": 833,
-        "author": "Weinstock"
+        "author": "Weinstock."
       }
     ]
   },
@@ -8360,11 +8530,13 @@
     "lemma": "Propus 1",
     "previous": "Propugnator",
     "next": "Propus 2",
+    "proof_read": 0,
     "short_description": "Örtlichkeit am S-Fuß des Oligyrtos",
     "chapters": [
       {
         "start": 833,
-        "author": "Meyer, Ernst"
+        "end": 833,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -8372,12 +8544,13 @@
     "lemma": "Propus 2",
     "previous": "Propus 1",
     "next": "Propylaia",
+    "proof_read": 0,
     "short_description": "Stern im Tierkreisbild der Zwillinge",
     "chapters": [
       {
         "start": 833,
         "end": 835,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -8385,67 +8558,76 @@
     "lemma": "Propylaia",
     "previous": "Propus 2",
     "next": "Propylaios",
+    "proof_read": 0,
     "short_description": "Epiklesis von Artemis und Hekate",
     "chapters": [
       {
         "start": 835,
-        "author": "Radke"
+        "end": 835,
+        "author": "G. Radke."
       }
     ]
   },
   {
     "lemma": "Propylaios",
     "previous": "Propylaia",
-    "next": "Propyrgidia",
+    "next": "Προπυργιδία",
+    "proof_read": 0,
     "short_description": "Epiklesis von Apollon, Hermes, Poseidon und Herakles",
     "chapters": [
       {
         "start": 835,
         "end": 836,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
   {
-    "lemma": "Propyrgidia",
+    "lemma": "Προπυργιδία",
     "previous": "Propylaios",
     "next": "Proquaestor",
+    "sort_key": "Propyrgidia",
+    "proof_read": 0,
     "short_description": "Erfundener Name zur Deutung der Artemis Prostateria",
     "chapters": [
       {
         "start": 837,
-        "author": "Radke"
+        "end": 837,
+        "author": "G. Radke."
       }
     ]
   },
   {
     "lemma": "Proquaestor",
-    "previous": "Propyrgidia",
-    "next": "Prora",
+    "previous": "Προπυργιδία",
+    "next": "prora",
+    "proof_read": 0,
     "short_description": "Unterste Stufe der römischen Promagistratur",
     "chapters": [
       {
         "start": 837,
         "end": 838,
-        "author": "Wesenberg"
+        "author": "Gerhard Wesenberg."
       }
     ]
   },
   {
-    "lemma": "Prora",
+    "lemma": "prora",
     "previous": "Proquaestor",
     "next": "Πρωράτης",
+    "proof_read": 0,
     "short_description": "Vorderschiff",
     "chapters": [
       {
         "start": 838,
-        "author": "Miltner, Franz"
+        "end": 838,
+        "author": "Miltner."
       }
     ]
   },
   {
     "lemma": "Πρωράτης",
-    "previous": "Prora",
+    "previous": "prora",
     "next": "Proreta",
     "sort_key": "Prorates",
     "redirect": true,
@@ -8472,23 +8654,25 @@
   },
   {
     "lemma": "Proreus",
-    "previous": "Proreta",
-    "next": "Prorogatio",
+    "previous": "proreus",
+    "next": "prorogatio",
+    "proof_read": 0,
     "short_description": "Name von Seeleuten s. prora",
     "chapters": [
       {
         "start": 839,
-        "author": "Kolf"
+        "end": 839,
+        "author": "Kolf."
       }
     ]
   },
   {
-    "lemma": "Prorogatio",
+    "lemma": "prorogatio",
     "previous": "Proreus",
     "next": "Pro(r)sa",
     "sort_key": "Prorogatio",
     "redirect": "Zivilprozeß",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "die Verlängerung der Amtsgewalt in der röm. Republik",
     "chapters": [
       {
@@ -8499,64 +8683,72 @@
   },
   {
     "lemma": "Pro(r)sa",
-    "previous": "Prorogatio",
+    "previous": "prorogatio",
     "next": "Proros",
+    "proof_read": 0,
     "short_description": "Gottheit, die zu Postverta im Verhältnis der Polarität steht",
     "chapters": [
       {
         "start": 839,
-        "author": "Kraus"
+        "end": 839,
+        "author": "Walter Kraus."
       }
     ]
   },
   {
     "lemma": "Proros",
     "previous": "Pro(r)sa",
-    "next": "Prosagogeus",
+    "next": "Προσαγωγεύς",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 839,
-        "author": "Aly"
+        "end": 839,
+        "author": "Aly."
       }
     ]
   },
   {
-    "lemma": "Prosagogeus",
+    "lemma": "Προσαγωγεύς",
     "previous": "Proros",
     "next": "Proschion",
+    "sort_key": "Prosagogeus",
+    "proof_read": 0,
     "short_description": "Spitzel im Dienst eines Gewaltherren",
     "chapters": [
       {
         "start": 839,
         "end": 840,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Proschion",
-    "previous": "Prosagogeus",
-    "next": "Prosda",
+    "previous": "Προσαγωγεύς",
+    "next": "proscriptio",
+    "proof_read": 0,
     "short_description": "Stadt im Küstengebiet Aitoliens",
     "chapters": [
       {
         "start": 840,
         "end": 842,
-        "author": "Kirsten"
+        "author": "Kirsten."
       }
     ]
   },
   {
     "lemma": "Prosda",
-    "previous": "Proschion",
+    "previous": "proscriptio",
     "next": "Προσδέχιος",
+    "proof_read": 0,
     "short_description": "Ort des mittleren Nilgebiets",
     "chapters": [
       {
         "start": 842,
         "end": 843,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -8667,25 +8859,42 @@
   {
     "lemma": "Prosechios",
     "previous": "Prosdocius 5",
-    "next": "Proseilemmenitai 1",
+    "next": "Proseilemmenitai",
+    "proof_read": 0,
     "short_description": "Gewährsmann von Mitteln gegen Entzündungen und Augenleiden",
     "chapters": [
       {
         "start": 843,
         "end": 844,
-        "author": "Diller"
+        "author": "Diller."
+      }
+    ]
+  },
+  {
+    "lemma": "Proseilemmenitai",
+    "previous": "Prosechios",
+    "next": "Proseilemmenitai 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 844,
+        "end": 844,
+        "author": "Kirsten."
       }
     ]
   },
   {
     "lemma": "Proseilemmenitai 1",
-    "previous": "Prosechios",
+    "previous": "Proseilemmenitai",
     "next": "Proseilemmenitai 2",
+    "proof_read": 0,
     "short_description": "Stammesgebiet in Paphlagonien",
     "chapters": [
       {
         "start": 844,
-        "author": "Kirsten"
+        "end": 844,
+        "author": "Kirsten."
       }
     ]
   },
@@ -8693,11 +8902,13 @@
     "lemma": "Proseilemmenitai 2",
     "previous": "Proseilemmenitai 1",
     "next": "Proseis",
+    "proof_read": 0,
     "short_description": "Stammesgebiet in Lykaonien",
     "chapters": [
       {
         "start": 844,
-        "author": "Kirsten"
+        "end": 844,
+        "author": "Kirsten."
       }
     ]
   },
@@ -8719,165 +8930,189 @@
   {
     "lemma": "Proselenoi",
     "previous": "Proseis",
-    "next": "Proseoa",
+    "next": "Proselyten",
+    "proof_read": 0,
     "short_description": "Bezeichnung der Arkader",
     "chapters": [
       {
         "start": 844,
         "end": 846,
-        "author": "Meyer, Ernst"
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Proseoa",
-    "previous": "Proselenoi",
-    "next": "Prosesperos thalassa",
+    "previous": "Proselyten",
+    "next": "Proserius",
+    "proof_read": 0,
     "short_description": "Beiname der Artemis",
     "chapters": [
       {
         "start": 846,
-        "author": "Radke"
+        "end": 846,
+        "author": "G. Radke."
       }
     ]
   },
   {
-    "lemma": "Prosesperos thalassa",
-    "previous": "Proseoa",
+    "lemma": "Προσέσπερος θάλασσα",
+    "previous": "Proserpina",
     "next": "Prosius 1",
+    "sort_key": "Prosesperosthalassa",
+    "proof_read": 0,
     "short_description": "Name des Marmarameers",
     "chapters": [
       {
         "start": 846,
         "end": 848,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Prosius 1",
-    "previous": "Prosesperos thalassa",
+    "previous": "Προσέσπερος θάλασσα",
     "next": "Prosius 2",
+    "proof_read": 0,
     "short_description": "Rufinus, L. Statthalter von Thrakien 222 n. Chr.",
     "chapters": [
       {
         "start": 848,
         "end": 849,
-        "author": "Hanslik"
+        "author": "Hanslik."
       }
     ]
   },
   {
     "lemma": "Prosius 2",
     "previous": "Prosius 1",
-    "next": "Proskatablema",
+    "next": "Προσκατάβλημα",
+    "proof_read": 0,
     "short_description": "Tertullianus, Statthalter von Moesien zwischen 241 und 244",
     "chapters": [
       {
         "start": 849,
-        "author": "Hanslik"
+        "end": 849,
+        "author": "Hanslik."
       }
     ]
   },
   {
-    "lemma": "Proskatablema",
+    "lemma": "Προσκατάβλημα",
     "previous": "Prosius 2",
-    "next": "Prosklesis",
+    "next": "Proskenion",
+    "sort_key": "Proskatablema",
+    "proof_read": 0,
     "short_description": "Nachgezahltes Zusatzgeld im athenischen Haushaltsrecht",
     "chapters": [
       {
         "start": 849,
-        "author": "Berneker"
+        "end": 849,
+        "author": "Erich Berneker."
       }
     ]
   },
   {
-    "lemma": "Prosklesis",
-    "previous": "Proskatablema",
+    "lemma": "πρόσκλησις",
+    "previous": "Proskenion",
     "next": "Prosklystios",
+    "sort_key": "Prosklesis",
+    "proof_read": 0,
     "short_description": "Das Hinzurufen des Beklagten zur editio actionis zum Verhandlungstermin im",
     "chapters": [
       {
         "start": 849,
         "end": 856,
-        "author": "Berneker"
+        "author": "Erich Berneker."
       }
     ]
   },
   {
     "lemma": "Prosklystios",
-    "previous": "Prosklesis",
+    "previous": "πρόσκλησις",
     "next": "Prosodion",
+    "proof_read": 0,
     "short_description": "Beiname Poseidons",
     "chapters": [
       {
         "start": 856,
-        "author": "Kolf"
+        "end": 856,
+        "author": "Kolf."
       }
     ]
   },
   {
     "lemma": "Prosodion",
     "previous": "Prosklystios",
-    "next": "Prosoditai",
-    "short_description": "Prozessionslied",
+    "next": "Προσοδῖται",
+    "proof_read": 0,
+    "short_description": "Lied zur Prozession",
     "chapters": [
       {
         "start": 856,
         "end": 863,
-        "author": "Muth"
+        "author": "Robert Muth."
       }
     ]
   },
   {
-    "lemma": "Prosoditai",
+    "lemma": "Προσοδῖται",
     "previous": "Prosodion",
-    "next": "Prosokeanioi",
+    "next": "Προσωκεάνιοι",
+    "sort_key": "Prosoditai",
+    "proof_read": 0,
     "short_description": "Volksstamm Nordostafrikas",
     "chapters": [
       {
         "start": 863,
         "end": 865,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Prosokeanioi",
-    "previous": "Prosoditai",
-    "next": "Prosopelia",
+    "lemma": "Προσωκεάνιοι",
+    "previous": "Προσοδῖται",
+    "next": "Προσοπελία",
+    "sort_key": "Prosokeanioi",
+    "proof_read": 0,
     "short_description": "Geographisch-ethnographisch: Ozeananwohner",
     "chapters": [
       {
         "start": 865,
         "end": 866,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Prosopelia",
-    "previous": "Prosokeanioi",
+    "lemma": "Προσοπελία",
+    "previous": "Προσωκεάνιοι",
     "next": "Prosopis, Prosopites",
+    "sort_key": "Prosopelia",
+    "proof_read": 0,
     "short_description": "Falsche Lesung für Chrysopeleia",
     "chapters": [
       {
         "start": 866,
         "end": 867,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
   {
     "lemma": "Prosopis, Prosopites",
-    "previous": "Prosopelia",
+    "previous": "Προσοπελία",
     "next": "Prosopon 1",
+    "sort_key": "Prosopis,prosopites",
+    "proof_read": 0,
     "short_description": "Gaugebiet im ägyptischen Nildelta",
     "chapters": [
       {
         "start": 867,
         "end": 868,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
@@ -8885,50 +9120,56 @@
     "lemma": "Prosopon 1",
     "previous": "Prosopis, Prosopites",
     "next": "Prosopon 2",
+    "proof_read": 0,
     "short_description": "Insel bei Carthago",
     "chapters": [
       {
         "start": 868,
         "end": 869,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Prosopon 2",
     "previous": "Prosopon 1",
-    "next": "Prosoraiel",
+    "next": "Προσοραιήλ",
+    "proof_read": 0,
     "short_description": "Schlagwort für die Personifizierung astraler Gottheiten",
     "chapters": [
       {
         "start": 869,
         "end": 878,
-        "author": "Böker"
+        "author": "Robert Böker."
       }
     ]
   },
   {
-    "lemma": "Prosoraiel",
+    "lemma": "Προσοραιήλ",
     "previous": "Prosopon 2",
     "next": "Prospalta",
+    "sort_key": "Prosoraiel",
+    "proof_read": 0,
     "short_description": "Name auf Abraxasgemmen",
     "chapters": [
       {
         "start": 878,
-        "author": "Radke"
+        "end": 878,
+        "author": "G. Radke."
       }
     ]
   },
   {
     "lemma": "Prospalta",
-    "previous": "Prosoraiel",
+    "previous": "Προσοραιήλ",
     "next": "Prospelatai",
+    "proof_read": 0,
     "short_description": "Attischer Demos",
     "chapters": [
       {
         "start": 878,
         "end": 880,
-        "author": "Meyer, Ernst"
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -8936,11 +9177,13 @@
     "lemma": "Prospelatai",
     "previous": "Prospalta",
     "next": "Prosper 1",
+    "proof_read": 0,
     "short_description": "Abhängige Bauernbevölkerung der illyrischen Ardiaeer",
     "chapters": [
       {
         "start": 880,
-        "author": "Meyer, Ernst"
+        "end": 880,
+        "author": "Ernst Meyer."
       }
     ]
   },
