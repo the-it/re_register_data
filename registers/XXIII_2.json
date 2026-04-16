@@ -468,7 +468,7 @@
     "previous": "Ψεβαῖα ὄρη",
     "next": "Ψεβώ χώρα",
     "sort_key": "Psebo limne",
-    "redirect": "Psebaia ore",
+    "redirect": "Ψεβαῖα ὄρη",
     "proof_read": 3,
     "chapters": [
       {
@@ -707,7 +707,7 @@
   {
     "lemma": "Pseudartake",
     "previous": "Pseudartabas",
-    "next": "pseudengraphes graphe",
+    "next": "ψευδεγγραφῆς γραφή",
     "proof_read": 2,
     "short_description": "Ψευδαρτάκη, λόφος ἐν Σκυθίᾳ μετὰ τὸ λεγόμενον Ἅγιον ὄρος. τὸ τοπικὸν",
     "no_creative_height": true,
@@ -720,22 +720,24 @@
     ]
   },
   {
-    "lemma": "pseudengraphes graphe",
+    "lemma": "ψευδεγγραφῆς γραφή",
     "previous": "Pseudartake",
     "next": "Ψευδόκηλις",
+    "sort_key": "pseudengraphesgraphe",
+    "proof_read": 0,
     "short_description": "(tm)ffentl. Klage in Athen u. Delos gg. denjenigen, der einen Bürger fälschlich",
     "chapters": [
       {
         "start": 1360,
         "end": 1361,
-        "author": "Berneker"
+        "author": "Erich Berneker."
       }
     ]
   },
   {
     "lemma": "Ψευδόκηλις",
-    "previous": "pseudengraphes graphe",
-    "next": "pseudokleteias graphe",
+    "previous": "ψευδεγγραφῆς γραφή",
+    "next": "ψευίοκλητείας γραφή",
     "sort_key": "Pseudokelis",
     "proof_read": 0,
     "short_description": "Ort d. Arabia felix",
@@ -748,22 +750,24 @@
     ]
   },
   {
-    "lemma": "pseudokleteias graphe",
+    "lemma": "ψευίοκλητείας γραφή",
     "previous": "Ψευδόκηλις",
     "next": "Pseudokorasion",
+    "sort_key": "pseudokleteiasgraphe",
+    "proof_read": 0,
     "short_description": "Öffentl. Klage in Athen gg. falsche Ladungszeugen",
     "chapters": [
       {
         "start": 1362,
         "end": 1363,
-        "author": "Berneker"
+        "author": "Erich Berneker."
       }
     ]
   },
   {
     "lemma": "Pseudokorasion",
-    "previous": "pseudokleteias graphe",
-    "next": "pseudomartyrion dike",
+    "previous": "ψευίοκλητείας γραφή",
+    "next": "ψευδομαρτυρίων δίκη",
     "proof_read": 0,
     "chapters": [
       {
@@ -774,21 +778,23 @@
     ]
   },
   {
-    "lemma": "pseudomartyrion dike",
+    "lemma": "ψευδομαρτυρίων δίκη",
     "previous": "Pseudokorasion",
     "next": "Pseudopaideia",
+    "sort_key": "pseudomartyriondike",
+    "proof_read": 0,
     "short_description": "Privatklage gg. falsches Zeugnis im gr. Recht",
     "chapters": [
       {
         "start": 1364,
         "end": 1385,
-        "author": "Berneker"
+        "author": "Erich Berneker."
       }
     ]
   },
   {
     "lemma": "Pseudopaideia",
-    "previous": "pseudomartyrion dike",
+    "previous": "ψευδομαρτυρίων δίκη",
     "next": "Pseudopenias",
     "proof_read": 2,
     "short_description": "Personifikation der falschen Gelehrsamkeit, der ‚Afterbildung‘",
@@ -904,12 +910,13 @@
     "lemma": "Psilax",
     "previous": "Ψευδόστομος ποταμός",
     "next": "Psile",
+    "proof_read": 0,
     "short_description": "Beiname d. Dionysos in Amyklai",
     "chapters": [
       {
         "start": 1398,
         "end": 1400,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -917,18 +924,20 @@
     "lemma": "Psile",
     "previous": "Psilax",
     "next": "Psillis, Psillion chorion",
+    "proof_read": 0,
     "short_description": "Insel vor d. mittleren ion. Küste",
     "chapters": [
       {
         "start": 1400,
-        "author": "Meyer, Ernst"
+        "end": 1400,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Psillis, Psillion chorion",
     "previous": "Psile",
-    "next": "Psilon stoma",
+    "next": "Ψιλὸν στόμα",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -939,21 +948,23 @@
     ]
   },
   {
-    "lemma": "Psilon stoma",
+    "lemma": "Ψιλὸν στόμα",
     "previous": "Psillis, Psillion chorion",
     "next": "Psilos",
+    "sort_key": "Psilonstoma",
+    "proof_read": 0,
     "short_description": "Mündungsarm d. Donau",
     "chapters": [
       {
         "start": 1400,
         "end": 1404,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Psilos",
-    "previous": "Psilon stoma",
+    "previous": "Ψιλὸν στόμα",
     "next": "Psiltukis",
     "proof_read": 2,
     "short_description": "Insel im Persischen Golf an der Ostküste",
@@ -970,12 +981,13 @@
     "lemma": "Psiltukis",
     "previous": "Psilos",
     "next": "Psimada",
+    "proof_read": 0,
     "short_description": "Insel d. Indischen Ozeans",
     "chapters": [
       {
         "start": 1404,
         "end": 1406,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -983,10 +995,12 @@
     "lemma": "Psimada",
     "previous": "Psiltukis",
     "next": "Psinaches",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1406,
-        "author": "Kirsten"
+        "end": 1406,
+        "author": "Kirsten."
       }
     ]
   },
@@ -994,12 +1008,13 @@
     "lemma": "Psinaches",
     "previous": "Psimada",
     "next": "Psinaphthos",
+    "proof_read": 0,
     "short_description": "Vorletzter König d. 21. manethonischen Dynastie, Regierungszeit ca. 1000-984 v.",
     "chapters": [
       {
         "start": 1406,
         "end": 1407,
-        "author": "Helck"
+        "author": "Wolfgang Helck."
       }
     ]
   },
@@ -1022,11 +1037,13 @@
     "lemma": "Psinaula",
     "previous": "Psinaphthos",
     "next": "Psinektabis",
+    "proof_read": 0,
     "short_description": "Spätröm. Garnisonsplatz in Mittelägypten",
     "chapters": [
       {
         "start": 1407,
-        "author": "Kees"
+        "end": 1407,
+        "author": "Kees."
       }
     ]
   },
@@ -1064,12 +1081,13 @@
     "lemma": "Psitharas",
     "previous": "Psipha",
     "next": "Ψίθιος οἶνος",
+    "proof_read": 0,
     "short_description": "Fluß im Land d. Serer",
     "chapters": [
       {
         "start": 1407,
         "end": 1414,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -1092,10 +1110,12 @@
     "lemma": "Psithyra",
     "previous": "Ψίθιος οἶνος",
     "next": "Psithyristes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1414,
-        "author": "Brommer"
+        "end": 1414,
+        "author": "Brommer."
       }
     ]
   },
@@ -1103,12 +1123,13 @@
     "lemma": "Psithyristes",
     "previous": "Psithyra",
     "next": "Psithyros",
+    "proof_read": 0,
     "short_description": "Beiname d. Hermes in Athen",
     "chapters": [
       {
         "start": 1414,
         "end": 1415,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -1116,12 +1137,13 @@
     "lemma": "Psithyros",
     "previous": "Psithyristes",
     "next": "Psittachemmis",
+    "proof_read": 0,
     "short_description": "Name eines Heros bzw. Beiname d. Eros u. d. Aphrodite in Athen",
     "chapters": [
       {
         "start": 1415,
         "end": 1417,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -1170,12 +1192,13 @@
     "lemma": "Psoa",
     "previous": "Psittakene",
     "next": "Psochemmis",
+    "proof_read": 0,
     "short_description": "Ortschaft am nördl. Pontus",
     "chapters": [
       {
         "start": 1417,
         "end": 1420,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -1183,10 +1206,12 @@
     "lemma": "Psochemmis",
     "previous": "Psoa",
     "next": "Psoes, Psois",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1420,
-        "author": "Kees"
+        "end": 1420,
+        "author": "Kees."
       }
     ]
   },
@@ -1194,11 +1219,14 @@
     "lemma": "Psoes, Psois",
     "previous": "Psochemmis",
     "next": "Psoloeis",
+    "sort_key": "Psoes,psois",
+    "proof_read": 0,
     "short_description": "Diakon u. Ökonom d. alexandrin. Kirche unter d. Patriarchen Paulus, 6. Jh. n.",
     "chapters": [
       {
         "start": 1420,
-        "author": "Enßlin"
+        "end": 1420,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -1206,12 +1234,13 @@
     "lemma": "Psoloeis",
     "previous": "Psoes, Psois",
     "next": "Psonis",
+    "proof_read": 0,
     "short_description": "Unsicher überlieferter Name d. Männer d. Aioleiai aus d. Geschlecht d. Minyaden",
     "chapters": [
       {
         "start": 1420,
         "end": 1421,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -1219,10 +1248,12 @@
     "lemma": "Psonis",
     "previous": "Psoloeis",
     "next": "Psophis 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1421,
-        "author": "Kees"
+        "end": 1421,
+        "author": "Kees."
       }
     ]
   },
@@ -1245,11 +1276,13 @@
     "lemma": "Psophis 2",
     "previous": "Psophis 1",
     "next": "Psophis 3",
+    "proof_read": 0,
     "short_description": "Bei Paus.8,24,1 Sohn d. Arrhon, Eponym d. gleichnamigen Stadt",
     "chapters": [
       {
         "start": 1421,
-        "author": "Meyer, Ernst"
+        "end": 1421,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -1273,11 +1306,13 @@
     "lemma": "Psophis 4",
     "previous": "Psophis 3",
     "next": "Psophis 5",
+    "proof_read": 0,
     "short_description": "Bei Paus.8,24,2 Tochter d. sikanischen Herrschers Eryx, Eponymin d.",
     "chapters": [
       {
         "start": 1421,
-        "author": "Meyer, Ernst"
+        "end": 1421,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -1285,12 +1320,13 @@
     "lemma": "Psophis 5",
     "previous": "Psophis 4",
     "next": "Psophis 6",
+    "proof_read": 0,
     "short_description": "Stadt in Arkadien",
     "chapters": [
       {
         "start": 1421,
         "end": 1428,
-        "author": "Meyer, Ernst"
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -1298,12 +1334,13 @@
     "lemma": "Psophis 6",
     "previous": "Psophis 5",
     "next": "Psophis 7",
+    "proof_read": 0,
     "short_description": "P. he palaia, Stadt in Akarnanien",
     "chapters": [
       {
         "start": 1428,
         "end": 1429,
-        "author": "Meyer, Ernst"
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -1325,39 +1362,43 @@
   {
     "lemma": "Psophis 8",
     "previous": "Psophis 7",
-    "next": "Psoron limen",
+    "next": "Ψωρῶν λιμήν",
+    "proof_read": 0,
     "short_description": "Örtlichkeit Libyens",
     "chapters": [
       {
         "start": 1429,
         "end": 1430,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Psoron limen",
+    "lemma": "Ψωρῶν λιμήν",
     "previous": "Psophis 8",
     "next": "Psusennes 1",
+    "sort_key": "Psoronlimen",
+    "proof_read": 0,
     "short_description": "Hafenplatz an d. SO-Küste d. Schwarzen Meeres",
     "chapters": [
       {
         "start": 1430,
         "end": 1433,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Psusennes 1",
-    "previous": "Psoron limen",
+    "previous": "Ψωρῶν λιμήν",
     "next": "Psusennes 2",
+    "proof_read": 0,
     "short_description": "Zweiter König d. 21. Dynastie in Ägypten, ca.1054-1009 v. Chr.",
     "chapters": [
       {
         "start": 1433,
         "end": 1434,
-        "author": "Helck"
+        "author": "Wolfgang Helck."
       }
     ]
   },
@@ -1365,11 +1406,13 @@
     "lemma": "Psusennes 2",
     "previous": "Psusennes 1",
     "next": "Psyche 1",
+    "proof_read": 0,
     "short_description": "Letzter König d. 21. Dynastie in Ägypten",
     "chapters": [
       {
         "start": 1434,
-        "author": "Helck"
+        "end": 1434,
+        "author": "Wolfgang Helck."
       }
     ]
   },
@@ -1377,12 +1420,13 @@
     "lemma": "Psyche 1",
     "previous": "Psusennes 2",
     "next": "Psyche 2",
+    "proof_read": 0,
     "short_description": "Heldin einer Erzählung bei Apuleius",
     "chapters": [
       {
         "start": 1434,
         "end": 1438,
-        "author": "Helm"
+        "author": "Helm."
       }
     ]
   },
@@ -1390,11 +1434,13 @@
     "lemma": "Psyche 2",
     "previous": "Psyche 1",
     "next": "Psyche 3",
+    "proof_read": 0,
     "short_description": "Gattin o. Hetäre d. Marphadates",
     "chapters": [
       {
         "start": 1438,
-        "author": "Ziegler"
+        "end": 1438,
+        "author": "Ziegler."
       }
     ]
   },
@@ -1402,12 +1448,13 @@
     "lemma": "Psyche 3",
     "previous": "Psyche 2",
     "next": "Psycheion",
+    "proof_read": 0,
     "short_description": "Hundename",
     "chapters": [
       {
         "start": 1438,
         "end": 1439,
-        "author": "Gross"
+        "author": "W. H. Gross."
       }
     ]
   },
@@ -1415,11 +1462,13 @@
     "lemma": "Psycheion",
     "previous": "Psyche 3",
     "next": "Psycheus",
+    "proof_read": 0,
     "short_description": "Ort d. S-Küste Kretas",
     "chapters": [
       {
         "start": 1439,
-        "author": "Kirsten"
+        "end": 1439,
+        "author": "Kirsten."
       }
     ]
   },
@@ -1440,10 +1489,12 @@
     "lemma": "Psychia",
     "previous": "Psycheus",
     "next": "Psychion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1439,
-        "author": "Kirsten"
+        "end": 1439,
+        "author": "Kirsten."
       }
     ]
   },
@@ -1463,100 +1514,116 @@
   {
     "lemma": "Psychostasie",
     "previous": "Psychion",
-    "next": "Psychros potamos",
+    "next": "Ψυχρὸς ποταμός",
+    "proof_read": 0,
     "short_description": "Seelenwägung, Vorstellung d. Totengerichts im kult.-relig. Bereich",
     "chapters": [
       {
         "start": 1439,
         "end": 1458,
-        "author": "Wüst"
+        "author": "E. Wüst."
       }
     ]
   },
   {
-    "lemma": "Psychros potamos",
+    "lemma": "Ψυχρὸς ποταμός",
     "previous": "Psychostasie",
-    "next": "Psychros potamos 1",
+    "next": "Ψυχρὸς ποταμός 1",
+    "sort_key": "Psychrospotamos",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
         "start": 1458,
-        "author": "Treidler"
+        "end": 1458,
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Psychros potamos 1",
-    "previous": "Psychros potamos",
-    "next": "Psychros potamos 2",
+    "lemma": "Ψυχρὸς ποταμός 1",
+    "previous": "Ψυχρὸς ποταμός",
+    "next": "Ψυχρὸς ποταμός 2",
+    "sort_key": "Psychrospotamos 1",
+    "proof_read": 0,
     "short_description": "Fluß auf d. thrak. Chalkidike",
     "chapters": [
       {
         "start": 1458,
         "end": 1459,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Psychros potamos 2",
-    "previous": "Psychros potamos 1",
-    "next": "Psychros potamos 3",
+    "lemma": "Ψυχρὸς ποταμός 2",
+    "previous": "Ψυχρὸς ποταμός 1",
+    "next": "Ψυχρὸς ποταμός 3",
+    "sort_key": "Psychrospotamos 2",
+    "proof_read": 0,
     "short_description": "Fluß an d. S-Küste d. Schwarzen Meeres östl. v. Trapezunt",
     "chapters": [
       {
         "start": 1459,
-        "author": "Treidler"
+        "end": 1459,
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Psychros potamos 3",
-    "previous": "Psychros potamos 2",
+    "lemma": "Ψυχρὸς ποταμός 3",
+    "previous": "Ψυχρὸς ποταμός 2",
     "next": "Psydreus",
+    "sort_key": "Psychrospotamos 3",
+    "proof_read": 0,
     "short_description": "Fluß d. Sarmatica Asiatica",
     "chapters": [
       {
         "start": 1459,
         "end": 1461,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Psydreus",
-    "previous": "Psychros potamos 3",
-    "next": "Psygmou limen",
+    "previous": "Ψυχρὸς ποταμός 3",
+    "next": "Ψυγμοῦ λιμήν",
+    "proof_read": 0,
     "short_description": "Monatsname auf Korkyra",
     "chapters": [
       {
         "start": 1461,
         "end": 1462,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
   {
-    "lemma": "Psygmou limen",
+    "lemma": "Ψυγμοῦ λιμήν",
     "previous": "Psydreus",
     "next": "Psykterios",
+    "sort_key": "Psygmoulimen",
+    "proof_read": 0,
     "short_description": "Hafenplatz an d. ostafrikan. Küste, am heutigen Golf v. Aden",
     "chapters": [
       {
         "start": 1462,
         "end": 1463,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Psykterios",
-    "previous": "Psygmou limen",
+    "previous": "Ψυγμοῦ λιμήν",
     "next": "Psylla",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1463,
-        "author": "Saria"
+        "end": 1463,
+        "author": "B. Saria."
       }
     ]
   },
@@ -1564,17 +1631,19 @@
     "lemma": "Psylla",
     "previous": "Psykterios",
     "next": "Psyllikoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1463,
-        "author": "Radke"
+        "end": 1463,
+        "author": "G. Radke."
       }
     ]
   },
   {
     "lemma": "Psyllikoi",
     "previous": "Psylla",
-    "next": "Psyllikos kolpos",
+    "next": "Ψυλλτκὸς κόλπος",
     "sort_key": "Psyllikoi",
     "proof_read": 2,
     "short_description": "Psyllikoi, eine Hunderasse",
@@ -1587,21 +1656,23 @@
     ]
   },
   {
-    "lemma": "Psyllikos kolpos",
+    "lemma": "Ψυλλτκὸς κόλπος",
     "previous": "Psyllikoi",
     "next": "Psyllis",
+    "sort_key": "Psyllikoskolpos",
+    "proof_read": 0,
     "short_description": "Bucht an d. nordafrikan. Küste",
     "chapters": [
       {
         "start": 1463,
         "end": 1464,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Psyllis",
-    "previous": "Psyllikos kolpos",
+    "previous": "Ψυλλτκὸς κόλπος",
     "next": "Psylloi",
     "redirect": "Psilis",
     "proof_read": 2,
@@ -1616,12 +1687,13 @@
     "lemma": "Psylloi",
     "previous": "Psyllis",
     "next": "Psyllos 1",
+    "proof_read": 0,
     "short_description": "Libyscher Volksstamm im Hinterland d. Cyrenaica u. d. Großen Syrte",
     "chapters": [
       {
         "start": 1464,
         "end": 1476,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -1629,11 +1701,13 @@
     "lemma": "Psyllos 1",
     "previous": "Psylloi",
     "next": "Psyllos 2",
+    "proof_read": 0,
     "short_description": "König in Libyen",
     "chapters": [
       {
         "start": 1476,
-        "author": "Radke"
+        "end": 1476,
+        "author": "G. Radke."
       }
     ]
   },
@@ -1641,11 +1715,13 @@
     "lemma": "Psyllos 2",
     "previous": "Psyllos 1",
     "next": "Psyllos 3",
+    "proof_read": 0,
     "short_description": "Vater d. Krataigonos, Person bei Nonn.",
     "chapters": [
       {
         "start": 1476,
-        "author": "Radke"
+        "end": 1476,
+        "author": "G. Radke."
       }
     ]
   },
@@ -1681,11 +1757,13 @@
     "lemma": "Ptanias",
     "previous": "Ptandaris",
     "next": "Ptarenos",
+    "proof_read": 0,
     "short_description": "Civitas an d. Via Flaminia nahe d. Appennin",
     "chapters": [
       {
         "start": 1476,
-        "author": "Hofmann, Max"
+        "end": 1476,
+        "author": "Hofmann."
       }
     ]
   },
@@ -1706,12 +1784,13 @@
     "lemma": "Ptechai",
     "previous": "Ptarenos",
     "next": "Ptelea 1",
+    "proof_read": 0,
     "short_description": "Demos v. Eretria auf Euboia",
     "chapters": [
       {
         "start": 1476,
         "end": 1478,
-        "author": "Lauffer"
+        "author": "S. Lauffer."
       }
     ]
   },
@@ -1731,12 +1810,13 @@
     "lemma": "Ptelea 2",
     "previous": "Ptelea 1",
     "next": "Ptelea 3",
+    "proof_read": 0,
     "short_description": "Att. Demos d. Phyle Oineis",
     "chapters": [
       {
         "start": 1478,
         "end": 1479,
-        "author": "Meyer, Ernst"
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -1744,11 +1824,13 @@
     "lemma": "Ptelea 3",
     "previous": "Ptelea 2",
     "next": "Ptelea 4",
+    "proof_read": 0,
     "short_description": "Alter Beiname v. Ephesos",
     "chapters": [
       {
         "start": 1480,
-        "author": "Keil"
+        "end": 1480,
+        "author": "Keil."
       }
     ]
   },
@@ -1769,11 +1851,13 @@
     "lemma": "Ptelea 5",
     "previous": "Ptelea 4",
     "next": "Pteleades",
+    "proof_read": 0,
     "short_description": "Auf Kos",
     "chapters": [
       {
         "start": 1480,
-        "author": "Kirsten"
+        "end": 1480,
+        "author": "Kirsten."
       }
     ]
   },
@@ -1781,10 +1865,12 @@
     "lemma": "Pteleades",
     "previous": "Ptelea 5",
     "next": "Pteleasimon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1480,
-        "author": "Radke"
+        "end": 1480,
+        "author": "G. Radke."
       }
     ]
   },
@@ -1805,12 +1891,13 @@
     "lemma": "Pteleon",
     "previous": "Pteleasimon",
     "next": "Pteleon 1",
+    "proof_read": 0,
     "short_description": "Liebhaber d. Prokris",
     "chapters": [
       {
         "start": 1480,
         "end": 1481,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -1818,11 +1905,13 @@
     "lemma": "Pteleon 1",
     "previous": "Pteleon",
     "next": "Pteleon 2",
+    "proof_read": 0,
     "short_description": "Stadt Triphyliens im homer. Schiffskatalog",
     "chapters": [
       {
         "start": 1481,
-        "author": "Meyer, Ernst"
+        "end": 1481,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -1830,11 +1919,13 @@
     "lemma": "Pteleon 2",
     "previous": "Pteleon 1",
     "next": "Pteleon 3",
+    "proof_read": 0,
     "short_description": "Selbständiger fester Platz in Ionien an d. W-Küste d. Erythraia",
     "chapters": [
       {
         "start": 1481,
-        "author": "Keil"
+        "end": 1481,
+        "author": "Keil."
       }
     ]
   },
@@ -1842,12 +1933,13 @@
     "lemma": "Pteleon 3",
     "previous": "Pteleon 2",
     "next": "Pteleon 4",
+    "proof_read": 0,
     "short_description": "Thessal. Stadt in Achaia Phthiotis",
     "chapters": [
       {
         "start": 1481,
         "end": 1483,
-        "author": "Kirsten"
+        "author": "Kirsten."
       }
     ]
   },
@@ -1855,12 +1947,13 @@
     "lemma": "Pteleon 4",
     "previous": "Pteleon 3",
     "next": "Pteleon 5",
+    "proof_read": 0,
     "short_description": "Gebirge in Epirus",
     "chapters": [
       {
         "start": 1483,
         "end": 1484,
-        "author": "Kirsten"
+        "author": "Kirsten."
       }
     ]
   },
@@ -1908,11 +2001,13 @@
     "lemma": "Pteleus",
     "previous": "Pteleos",
     "next": "Ptemari",
+    "proof_read": 0,
     "short_description": "Insel vor Adramyttion",
     "chapters": [
       {
         "start": 1484,
-        "author": "Kirsten"
+        "end": 1484,
+        "author": "Kirsten."
       }
     ]
   },
@@ -1932,20 +2027,23 @@
   {
     "lemma": "Ptemithis",
     "previous": "Ptemari",
-    "next": "P(h)themphuti",
+    "next": "Ptemythis",
+    "proof_read": 0,
     "short_description": "Ortschaft d. Aethiopia infra Aegyptum",
     "chapters": [
       {
         "start": 1484,
         "end": 1485,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Ptemythis",
+    "previous": "Ptemithis",
+    "next": "P(h)themphuti",
     "redirect": "Ptemithis",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1485,
@@ -1955,37 +2053,41 @@
   },
   {
     "lemma": "P(h)themphuti",
-    "previous": "Ptemithis",
+    "previous": "Ptemythis",
     "next": "P(h)thenetos",
-    "sort_key": "Pthemphuti",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1485,
-        "author": "Helck"
+        "end": 1485,
+        "author": "Wolfgang Helck."
       }
     ]
   },
   {
     "lemma": "P(h)thenetos",
     "previous": "P(h)themphuti",
-    "next": "Ptemythis",
-    "sort_key": "Pthenetos",
+    "next": "Ptera",
+    "proof_read": 0,
     "short_description": "Gau im Nildelta",
     "chapters": [
       {
         "start": 1485,
-        "author": "Helck"
+        "end": 1485,
+        "author": "Wolfgang Helck."
       }
     ]
   },
   {
     "lemma": "Ptera",
-    "previous": "Ptemythis",
+    "previous": "P(h)thenetos",
     "next": "Pteras",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1485,
-        "author": "Spuler"
+        "end": 1485,
+        "author": "Bertold Spuler."
       }
     ]
   },
@@ -1993,12 +2095,13 @@
     "lemma": "Pteras",
     "previous": "Ptera",
     "next": "Pterelaos",
+    "proof_read": 0,
     "short_description": "Delpher, erbaute d. zweiten Apollontempel in Delphi",
     "chapters": [
       {
         "start": 1485,
         "end": 1488,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -2006,12 +2109,13 @@
     "lemma": "Pterelaos",
     "previous": "Pteras",
     "next": "Pteria 1",
+    "proof_read": 0,
     "short_description": "Mythischer König v. Taphos, in d. argiv. Sage vom Zug d. Amphitryon gg. d.",
     "chapters": [
       {
         "start": 1488,
         "end": 1496,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -2047,10 +2151,12 @@
     "lemma": "Pterides",
     "previous": "Pteria 2",
     "next": "Pterion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1497,
-        "author": "Radke"
+        "end": 1497,
+        "author": "G. Radke."
       }
     ]
   },
@@ -2072,7 +2178,7 @@
   {
     "lemma": "Pterne",
     "previous": "Pterion",
-    "next": "Pteron akron",
+    "next": "Πτερὸν ἄκρον",
     "proof_read": 2,
     "short_description": "Vorgebirge von Aigina",
     "no_creative_height": true,
@@ -2085,27 +2191,31 @@
     ]
   },
   {
-    "lemma": "Pteron akron",
+    "lemma": "Πτερὸν ἄκρον",
     "previous": "Pterne",
     "next": "Pterophoroi",
+    "sort_key": "Pteronakron",
+    "proof_read": 0,
     "short_description": "Kap in Moesia inferior südl. d. Donaudeltas",
     "chapters": [
       {
         "start": 1497,
         "end": 1499,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Pterophoroi",
-    "previous": "Pteron akron",
+    "previous": "Πτερὸν ἄκρον",
     "next": "Pterophoros",
+    "proof_read": 0,
     "short_description": "Bezeichnung einiger ägypt. Priester",
     "chapters": [
       {
         "start": 1499,
-        "author": "Helck"
+        "end": 1499,
+        "author": "Wolfgang Helck."
       }
     ]
   },
@@ -2113,12 +2223,13 @@
     "lemma": "Pterophoros",
     "previous": "Pterophoroi",
     "next": "Pteros",
+    "proof_read": 0,
     "short_description": "Gebiet in O-Europa",
     "chapters": [
       {
         "start": 1499,
         "end": 1501,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -2126,11 +2237,13 @@
     "lemma": "Pteros",
     "previous": "Pterophoros",
     "next": "Pterote",
+    "proof_read": 0,
     "short_description": "Arabien vorgelagerte Insel im Roten Meer",
     "chapters": [
       {
         "start": 1501,
-        "author": "Treidler"
+        "end": 1501,
+        "author": "Treidler."
       }
     ]
   },
@@ -2180,48 +2293,56 @@
   {
     "lemma": "Pteryx",
     "previous": "Pteroton stratopedon",
-    "next": "Ptimyris",
+    "next": "Ptiani(i)",
+    "proof_read": 0,
     "short_description": "Im Leidener Zauberbuch erwähnte ps.-hermetische Schrift",
     "chapters": [
       {
         "start": 1502,
-        "author": "Preisendanz"
+        "end": 1502,
+        "author": "Preisendanz."
       }
     ]
   },
   {
     "lemma": "Ptimyris",
-    "previous": "Pteryx",
-    "next": "Ptiskiana",
+    "previous": "Ptiani(i)",
+    "next": "Πτισκιάνα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1502,
-        "author": "Helck"
+        "end": 1502,
+        "author": "Wolfgang Helck."
       }
     ]
   },
   {
-    "lemma": "Ptiskiana",
+    "lemma": "Πτισκιάνα",
     "previous": "Ptimyris",
     "next": "Ptoa",
+    "sort_key": "Ptiskiana",
+    "proof_read": 0,
     "short_description": "Ort d. Mauretania Tingitana",
     "chapters": [
       {
         "start": 1502,
         "end": 1503,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Ptoa",
-    "previous": "Ptiskiana",
+    "previous": "Πτισκιάνα",
     "next": "Ptoemphani",
+    "proof_read": 0,
     "short_description": "Beiname d. Leto",
     "chapters": [
       {
         "start": 1503,
-        "author": "Radke"
+        "end": 1503,
+        "author": "G. Radke."
       }
     ]
   },
@@ -2229,12 +2350,13 @@
     "lemma": "Ptoemphani",
     "previous": "Ptoa",
     "next": "Ptoides",
+    "proof_read": 0,
     "short_description": "Volksstamm Aithiopiens am linken Nilufer",
     "chapters": [
       {
         "start": 1503,
         "end": 1505,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -2257,11 +2379,13 @@
     "lemma": "Ptoiodoros",
     "previous": "Ptoides",
     "next": "Ptoiodoros 1",
+    "proof_read": 0,
     "short_description": "Theophorer Name allgem.",
     "chapters": [
       {
         "start": 1505,
-        "author": "Ziegler"
+        "end": 1505,
+        "author": "Ziegler."
       }
     ]
   },
@@ -2269,11 +2393,13 @@
     "lemma": "Ptoiodoros 1",
     "previous": "Ptoiodoros",
     "next": "Ptoiodoros 2",
+    "proof_read": 0,
     "short_description": "Korinther, Großvater d. Olympioniken 464 v. Chr. Xenophon",
     "chapters": [
       {
         "start": 1505,
-        "author": "Ziegler"
+        "end": 1505,
+        "author": "Ziegler."
       }
     ]
   },
@@ -2281,11 +2407,13 @@
     "lemma": "Ptoiodoros 2",
     "previous": "Ptoiodoros 1",
     "next": "Ptoiodoros 3",
+    "proof_read": 0,
     "short_description": "Vornehmer Thebaner, 425/4 v. Chr. verbannt",
     "chapters": [
       {
         "start": 1505,
-        "author": "Ziegler"
+        "end": 1505,
+        "author": "Ziegler."
       }
     ]
   },
@@ -2293,11 +2421,13 @@
     "lemma": "Ptoiodoros 3",
     "previous": "Ptoiodoros 2",
     "next": "Ptoion",
+    "proof_read": 0,
     "short_description": "Megarer, Parteigänger König Philipps II. v. Makedonien",
     "chapters": [
       {
         "start": 1506,
-        "author": "Ziegler"
+        "end": 1506,
+        "author": "Ziegler."
       }
     ]
   },
@@ -2305,12 +2435,13 @@
     "lemma": "Ptoion",
     "previous": "Ptoiodoros 3",
     "next": "Πτολέδερμα",
+    "proof_read": 0,
     "short_description": "Gebirge in NO-Boiotien",
     "chapters": [
       {
         "start": 1506,
         "end": 1578,
-        "author": "Lauffer"
+        "author": "S. Lauffer."
       }
     ]
   },
@@ -2334,12 +2465,13 @@
     "lemma": "Ptolemaia",
     "previous": "Πτολέδερμα",
     "next": "Ptolemaion 1",
+    "proof_read": 0,
     "short_description": "Periodisch wiederkehrende Feste im Rahmen d. Herrscherkultes, zu Ehren d.",
     "chapters": [
       {
         "start": 1578,
         "end": 1590,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
@@ -2362,12 +2494,13 @@
     "lemma": "Ptolemaion 2",
     "previous": "Ptolemaion 1",
     "next": "Ptolemaios",
+    "proof_read": 0,
     "short_description": "Kultischer Bau für d. Dienst d. Herrscherkultes d. Ptolemaier",
     "chapters": [
       {
         "start": 1590,
         "end": 1592,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
@@ -2375,11 +2508,13 @@
     "lemma": "Ptolemaios",
     "previous": "Ptolemaion 2",
     "next": "Ptolemaios 1",
+    "proof_read": 0,
     "short_description": "Angehöriger der ägypt. Dynastie",
     "chapters": [
       {
         "start": 1592,
-        "author": "Volkmann"
+        "end": 1592,
+        "author": "Volkmann."
       }
     ]
   },
@@ -2436,12 +2571,13 @@
     "lemma": "Ptolemaios 4",
     "previous": "Ptolemaios 3",
     "next": "Ptolemaios 5",
+    "proof_read": 0,
     "short_description": "Alorites, Schwager des Amyntas III",
     "chapters": [
       {
         "start": 1592,
         "end": 1594,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
@@ -2449,11 +2585,13 @@
     "lemma": "Ptolemaios 5",
     "previous": "Ptolemaios 4",
     "next": "Ptolemaios 6",
+    "proof_read": 0,
     "short_description": "Sohn des Philippos",
     "chapters": [
       {
         "start": 1594,
-        "author": "Volkmann"
+        "end": 1594,
+        "author": "Volkmann."
       }
     ]
   },
@@ -2461,11 +2599,13 @@
     "lemma": "Ptolemaios 6",
     "previous": "Ptolemaios 5",
     "next": "Ptolemaios 7",
+    "proof_read": 0,
     "short_description": "Königlicher Leibwächter",
     "chapters": [
       {
         "start": 1594,
-        "author": "Volkmann"
+        "end": 1594,
+        "author": "Volkmann."
       }
     ]
   },
@@ -2473,11 +2613,13 @@
     "lemma": "Ptolemaios 7",
     "previous": "Ptolemaios 6",
     "next": "Ptolemaios 8",
+    "proof_read": 0,
     "short_description": "Sohn des Seleukos",
     "chapters": [
       {
         "start": 1594,
-        "author": "Volkmann"
+        "end": 1594,
+        "author": "Volkmann."
       }
     ]
   },
@@ -2485,12 +2627,13 @@
     "lemma": "Ptolemaios 8",
     "previous": "Ptolemaios 7",
     "next": "Ptolemaios 9",
+    "proof_read": 0,
     "short_description": "Kommandeur des thrakischen Kontingents Alexanders d. Gr.",
     "chapters": [
       {
         "start": 1594,
         "end": 1595,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
@@ -2498,11 +2641,13 @@
     "lemma": "Ptolemaios 9",
     "previous": "Ptolemaios 8",
     "next": "Ptolemaios 10",
+    "proof_read": 0,
     "short_description": "Leibwächter des Philippos Arrhidaios",
     "chapters": [
       {
         "start": 1595,
-        "author": "Volkmann"
+        "end": 1595,
+        "author": "Volkmann."
       }
     ]
   },
@@ -2510,11 +2655,13 @@
     "lemma": "Ptolemaios 10",
     "previous": "Ptolemaios 9",
     "next": "Ptolemaios 11",
+    "proof_read": 0,
     "short_description": "Kommandant der Besatzung Kariens",
     "chapters": [
       {
         "start": 1595,
-        "author": "Volkmann"
+        "end": 1595,
+        "author": "Volkmann."
       }
     ]
   },
@@ -2522,12 +2669,13 @@
     "lemma": "Ptolemaios 11",
     "previous": "Ptolemaios 10",
     "next": "Ptolemaios 12",
+    "proof_read": 0,
     "short_description": "Neffe des Diadochen Antigonos",
     "chapters": [
       {
         "start": 1595,
         "end": 1596,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
@@ -2535,11 +2683,13 @@
     "lemma": "Ptolemaios 12",
     "previous": "Ptolemaios 11",
     "next": "Ptolemaios 13",
+    "proof_read": 0,
     "short_description": "Mitglied des Regentschaftsrates Philipps V",
     "chapters": [
       {
         "start": 1596,
-        "author": "Volkmann"
+        "end": 1596,
+        "author": "Volkmann."
       }
     ]
   },
@@ -2547,12 +2697,13 @@
     "lemma": "Ptolemaios 13",
     "previous": "Ptolemaios 12",
     "next": "Ptolemaios 14",
+    "proof_read": 0,
     "short_description": "Ältester Sohn des Diadochenkönigs Lysimachos I von Thrakien",
     "chapters": [
       {
         "start": 1596,
         "end": 1597,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
@@ -2560,11 +2711,13 @@
     "lemma": "Ptolemaios 14",
     "previous": "Ptolemaios 13",
     "next": "Ptolemaios 15",
+    "proof_read": 0,
     "short_description": "Enkel des Ptolemaios Nr. 13",
     "chapters": [
       {
         "start": 1597,
-        "author": "Volkmann"
+        "end": 1597,
+        "author": "Volkmann."
       }
     ]
   },
@@ -2572,12 +2725,13 @@
     "lemma": "Ptolemaios 15",
     "previous": "Ptolemaios 14",
     "next": "Ptolemaios 16",
+    "proof_read": 0,
     "short_description": "Keraunos, ältester Sohn des Ptolemaios I Soter",
     "chapters": [
       {
         "start": 1597,
         "end": 1599,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
@@ -2585,43 +2739,47 @@
     "lemma": "Ptolemaios 16",
     "previous": "Ptolemaios 15",
     "next": "Ptolemaios 17",
+    "proof_read": 0,
     "short_description": "Ältester Sohn des Pyrrhos",
     "chapters": [
       {
         "start": 1599,
         "end": 1600,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
   {
     "lemma": "Ptolemaios 17",
     "previous": "Ptolemaios 16",
-    "next": "Ptolemaios 18-39",
+    "next": "Ptolemaios 18–39",
+    "proof_read": 0,
     "short_description": "Sohn des Alexandros von Epeiros",
     "chapters": [
       {
         "start": 1600,
-        "author": "Volkmann"
+        "end": 1600,
+        "author": "Volkmann."
       }
     ]
   },
   {
-    "lemma": "Ptolemaios 18-39",
+    "lemma": "Ptolemaios 18–39",
     "previous": "Ptolemaios 17",
     "next": "Ptolemaios 18",
+    "proof_read": 0,
     "short_description": "Angehöriger der ägypt. Dynastie",
     "chapters": [
       {
         "start": 1600,
         "end": 1603,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
   {
     "lemma": "Ptolemaios 18",
-    "previous": "Ptolemaios 18-39",
+    "previous": "Ptolemaios 18–39",
     "next": "Ptolemaios 19",
     "short_description": "I Soter Begründer der ägyptischen Dynastie (367-283) auch lagu genannt",
     "chapters": [
@@ -2636,12 +2794,13 @@
     "lemma": "Ptolemaios 19",
     "previous": "Ptolemaios 18",
     "next": "Ptolemaios 20",
+    "proof_read": 0,
     "short_description": "II Philadelphos Sohn des Ptolemaios I und der Berenike",
     "chapters": [
       {
         "start": 1645,
         "end": 1666,
-        "author": "Volkmann"
+        "author": "Volkmann."
       }
     ]
   },
