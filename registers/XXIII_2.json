@@ -496,7 +496,7 @@
     "previous": "Psegas",
     "next": "Psekas",
     "proof_read": 0,
-    "short_description": "Ort d. oberen Nilgebiets",
+    "short_description": "Ort des oberen Nilgebiets",
     "chapters": [
       {
         "start": 1341,
@@ -737,7 +737,7 @@
   {
     "lemma": "Ψευδόκηλις",
     "previous": "ψευδεγγραφῆς γραφή",
-    "next": "ψευδοκλητείας γραφή",
+    "next": "ψευίοκλητείας γραφή",
     "sort_key": "Pseudokelis",
     "proof_read": 0,
     "short_description": "Ort d. Arabia felix",
@@ -766,7 +766,7 @@
   },
   {
     "lemma": "Pseudokorasion",
-    "previous": "ψευδοκλητείας γραφή",
+    "previous": "ψευίοκλητείας γραφή",
     "next": "ψευδομαρτυρίων δίκη",
     "proof_read": 0,
     "chapters": [
@@ -783,7 +783,7 @@
     "next": "Pseudopaideia",
     "sort_key": "pseudomartyriondike",
     "proof_read": 0,
-    "short_description": "Privatklage gg. falsches Zeugnis im gr. Recht",
+    "short_description": "pseudomartyrion dike, Privatklage gegen falsches Zeugnis im gr. Recht",
     "chapters": [
       {
         "start": 1364,
@@ -1643,7 +1643,7 @@
   {
     "lemma": "Psyllikoi",
     "previous": "Psylla",
-    "next": "Ψυλλικὸς κόλπος",
+    "next": "Ψυλλτκὸς κόλπος",
     "sort_key": "Psyllikoi",
     "proof_read": 2,
     "short_description": "Psyllikoi, eine Hunderasse",
@@ -4913,11 +4913,13 @@
     "lemma": "Publicius 41a",
     "previous": "Publicius 41",
     "next": "Publicius 41b",
+    "proof_read": 0,
     "short_description": "Bassilla Torquata",
     "chapters": [
       {
         "start": 1905,
-        "author": "Hanslik"
+        "end": 1905,
+        "author": "Hanslik."
       }
     ]
   },
@@ -4940,11 +4942,13 @@
     "lemma": "Publicius 42",
     "previous": "Publicius 41b",
     "next": "Publicius 43",
+    "proof_read": 0,
     "short_description": "Katholischer Bischof von Gratianopolis",
     "chapters": [
       {
         "start": 1905,
-        "author": "Enßlin"
+        "end": 1905,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -4952,11 +4956,13 @@
     "lemma": "Publicius 43",
     "previous": "Publicius 42",
     "next": "Publicola, Poplicola",
+    "proof_read": 0,
     "short_description": "Rechtsgelehrter",
     "chapters": [
       {
         "start": 1905,
-        "author": "Hanslik"
+        "end": 1905,
+        "author": "Hanslik."
       }
     ]
   },
@@ -4964,11 +4970,14 @@
     "lemma": "Publicola, Poplicola",
     "previous": "Publicius 43",
     "next": "Publicola, Poplicola 1",
+    "sort_key": "Publicola,poplicola",
+    "proof_read": 0,
     "short_description": "Röm. Cognomen",
     "chapters": [
       {
         "start": 1906,
-        "author": "Hanslik"
+        "end": 1906,
+        "author": "Hanslik."
       }
     ]
   },
@@ -4992,32 +5001,38 @@
     "lemma": "Publicola, Poplicola 2",
     "previous": "Publicola, Poplicola 1",
     "next": "Publicola, Poplicola 3",
+    "sort_key": "Publicola,poplicola 2",
+    "proof_read": 0,
     "short_description": "Valerius, Sohn d. älteren Melania, frommer Christ, starb vor 408 n. Chr.",
     "chapters": [
       {
         "start": 1906,
-        "author": "Enßlin"
+        "end": 1906,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Publicola, Poplicola 3",
     "previous": "Publicola, Poplicola 2",
-    "next": "Publicus ager",
+    "next": "publicus ager",
+    "sort_key": "Publicola,poplicola 3",
+    "proof_read": 0,
     "short_description": "Im Gebiet d. Arzuges, Briefpartner Augustins",
     "chapters": [
       {
         "start": 1906,
-        "author": "Enßlin"
+        "end": 1906,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
-    "lemma": "Publicus ager",
+    "lemma": "publicus ager",
     "previous": "Publicola, Poplicola 3",
-    "next": "Publicus cursus",
+    "next": "publicus cursus",
     "redirect": "Leges agrariae",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1906,
@@ -5026,11 +5041,11 @@
     ]
   },
   {
-    "lemma": "Publicus cursus",
-    "previous": "Publicus ager",
+    "lemma": "publicus cursus",
+    "previous": "publicus ager",
     "next": "Publilius",
     "redirect": "Cursus publicus",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1906,
@@ -5040,14 +5055,15 @@
   },
   {
     "lemma": "Publilius",
-    "previous": "Publicus cursus",
+    "previous": "publicus cursus",
     "next": "Publilius 1",
+    "proof_read": 0,
     "short_description": "Römischer Gentilname",
     "chapters": [
       {
         "start": 1906,
         "end": 1909,
-        "author": "Hoffmann"
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5055,11 +5071,13 @@
     "lemma": "Publilius 1",
     "previous": "Publilius",
     "next": "Publilius 2",
+    "proof_read": 0,
     "short_description": "Angesehener Sachwalter",
     "chapters": [
       {
         "start": 1909,
-        "author": "Hoffmann"
+        "end": 1909,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5067,11 +5085,13 @@
     "lemma": "Publilius 2",
     "previous": "Publilius 1",
     "next": "Publilius 3",
+    "proof_read": 0,
     "short_description": "Militärtribun",
     "chapters": [
       {
         "start": 1909,
-        "author": "Hoffmann"
+        "end": 1909,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5079,11 +5099,13 @@
     "lemma": "Publilius 3",
     "previous": "Publilius 2",
     "next": "Publilius 4",
+    "proof_read": 0,
     "short_description": "Schwiegervater Ciceros",
     "chapters": [
       {
         "start": 1909,
-        "author": "Hoffmann"
+        "end": 1909,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5091,12 +5113,13 @@
     "lemma": "Publilius 4",
     "previous": "Publilius 3",
     "next": "Publilius 5",
+    "proof_read": 0,
     "short_description": "Naher Verwandter von Ciceros zweiter Frau",
     "chapters": [
       {
         "start": 1909,
         "end": 1910,
-        "author": "Hoffmann"
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5104,11 +5127,13 @@
     "lemma": "Publilius 5",
     "previous": "Publilius 4",
     "next": "Publilius 6",
+    "proof_read": 0,
     "short_description": "C., kam in die Schuldknechtschaft eines L. Papirius",
     "chapters": [
       {
         "start": 1910,
-        "author": "Hoffmann"
+        "end": 1910,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5116,11 +5141,13 @@
     "lemma": "Publilius 6",
     "previous": "Publilius 5",
     "next": "Publilius 7",
+    "proof_read": 0,
     "short_description": "C., Quaestor in Makedonien",
     "chapters": [
       {
         "start": 1910,
-        "author": "Hoffmann"
+        "end": 1910,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5143,11 +5170,13 @@
     "lemma": "Publilius 8",
     "previous": "Publilius 7",
     "next": "Publilius 9",
+    "proof_read": 0,
     "short_description": "Q., Volkstribun 384 v. Chr.",
     "chapters": [
       {
         "start": 1911,
-        "author": "Hoffmann"
+        "end": 1911,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5155,11 +5184,13 @@
     "lemma": "Publilius 9",
     "previous": "Publilius 8",
     "next": "Publilius 10",
+    "proof_read": 0,
     "short_description": "T., Augur",
     "chapters": [
       {
         "start": 1911,
-        "author": "Hoffmann"
+        "end": 1911,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5167,12 +5198,13 @@
     "lemma": "Publilius 10",
     "previous": "Publilius 9",
     "next": "Publilius 11",
+    "proof_read": 0,
     "short_description": "Volero, Volkstribun 472/71 v. Chr.",
     "chapters": [
       {
         "start": 1911,
         "end": 1912,
-        "author": "Hoffmann"
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5180,12 +5212,13 @@
     "lemma": "Publilius 11",
     "previous": "Publilius 10",
     "next": "Publilius 12",
+    "proof_read": 0,
     "short_description": "Philo, Q. cos. IV 315 v. Chr. Diktator",
     "chapters": [
       {
         "start": 1912,
         "end": 1916,
-        "author": "Hoffmann"
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5193,12 +5226,13 @@
     "lemma": "Publilius 12",
     "previous": "Publilius 11",
     "next": "Publilius 13",
+    "proof_read": 0,
     "short_description": "Philo, Volero, Consulartribun 399 v. Chr.",
     "chapters": [
       {
         "start": 1916,
         "end": 1917,
-        "author": "Hoffmann"
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5206,11 +5240,13 @@
     "lemma": "Publilius 13",
     "previous": "Publilius 12",
     "next": "Publilius 14",
+    "proof_read": 0,
     "short_description": "Volscus Philo, L. Consulartribun 400 v. Chr.",
     "chapters": [
       {
         "start": 1917,
-        "author": "Hoffmann"
+        "end": 1917,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5218,11 +5254,13 @@
     "lemma": "Publilius 14",
     "previous": "Publilius 13",
     "next": "Publilius 15",
+    "proof_read": 0,
     "short_description": "Pellio, T. Führer der Theatergruppe, die die Didaskalien zur Aufführung brachte",
     "chapters": [
       {
         "start": 1917,
-        "author": "Hoffmann"
+        "end": 1917,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5230,11 +5268,13 @@
     "lemma": "Publilius 15",
     "previous": "Publilius 14",
     "next": "Publilius 16",
+    "proof_read": 0,
     "short_description": "Mutter eines Censoren",
     "chapters": [
       {
         "start": 1917,
-        "author": "Hoffmann"
+        "end": 1917,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5242,11 +5282,13 @@
     "lemma": "Publilius 16",
     "previous": "Publilius 15",
     "next": "Publilius 17",
+    "proof_read": 0,
     "short_description": "Beschuldigt des Giftmordes an ihrem Gatten",
     "chapters": [
       {
         "start": 1917,
-        "author": "Hoffmann"
+        "end": 1917,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5254,12 +5296,13 @@
     "lemma": "Publilius 17",
     "previous": "Publilius 16",
     "next": "Publilius 18",
+    "proof_read": 0,
     "short_description": "Ciceros zweite Gattin",
     "chapters": [
       {
         "start": 1917,
         "end": 1918,
-        "author": "Hoffmann"
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -5267,12 +5310,13 @@
     "lemma": "Publilius 18",
     "previous": "Publilius 17",
     "next": "Publilius 19",
+    "proof_read": 0,
     "short_description": "Celsus, L. cos. suff. 102 n. Chr.",
     "chapters": [
       {
         "start": 1918,
         "end": 1919,
-        "author": "Hanslik"
+        "author": "Hanslik."
       }
     ]
   },
@@ -5280,11 +5324,13 @@
     "lemma": "Publilius 19",
     "previous": "Publilius 18",
     "next": "Publilius 20",
+    "proof_read": 0,
     "short_description": "Iustus, Enkel des Petronius Iustus",
     "chapters": [
       {
         "start": 1919,
-        "author": "Hanslik"
+        "end": 1919,
+        "author": "Hanslik."
       }
     ]
   },
@@ -5307,11 +5353,13 @@
     "lemma": "Publilius 21",
     "previous": "Publilius 20",
     "next": "Publilius 22",
+    "proof_read": 0,
     "short_description": "Celsus Patruinus, L. Patron von Canusium",
     "chapters": [
       {
         "start": 1919,
-        "author": "Hanslik"
+        "end": 1919,
+        "author": "Hanslik."
       }
     ]
   },
@@ -5319,11 +5367,13 @@
     "lemma": "Publilius 22",
     "previous": "Publilius 21",
     "next": "Publilius 23",
+    "proof_read": 0,
     "short_description": "D. Patruinus, L. Verwandter des L. Publilius Celsus Patruinus Nr. 21",
     "chapters": [
       {
         "start": 1919,
-        "author": "Hanslik"
+        "end": 1919,
+        "author": "Hanslik."
       }
     ]
   },
@@ -5389,11 +5439,13 @@
     "lemma": "Publilius 27",
     "previous": "Publilius 26",
     "next": "Publilius 28",
+    "proof_read": 0,
     "short_description": "s. Nr. 1 Optatianus Porphyrius",
     "chapters": [
       {
         "start": 1920,
-        "author": "Wilh. Enßlin."
+        "end": 1920,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5401,12 +5453,13 @@
     "lemma": "Publilius 28",
     "previous": "Publilius 27",
     "next": "Publilius 29",
+    "proof_read": 0,
     "short_description": "Syrus, Mimendichter",
     "chapters": [
       {
         "start": 1920,
         "end": 1928,
-        "author": "Skutsch, Otto"
+        "author": "Otto Skutsch."
       }
     ]
   },
@@ -5414,12 +5467,13 @@
     "lemma": "Publilius 29",
     "previous": "Publilius 28",
     "next": "Publisca",
+    "proof_read": 0,
     "short_description": "Optatianus Porfyrius, Verfasser hirnverbrannter Versspielereien",
     "chapters": [
       {
         "start": 1928,
         "end": 1936,
-        "author": "Helm"
+        "author": "Helm."
       }
     ]
   },
@@ -5427,10 +5481,12 @@
     "lemma": "Publisca",
     "previous": "Publilius 29",
     "next": "Publius 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1936,
-        "author": "Saria"
+        "end": 1936,
+        "author": "B. Saria."
       }
     ]
   },
@@ -5467,11 +5523,13 @@
     "lemma": "Publius 3",
     "previous": "Publius 2",
     "next": "Publius 4",
+    "proof_read": 0,
     "short_description": "Gewährsmann d. Galen für Pflaster",
     "chapters": [
       {
         "start": 1936,
-        "author": "Diller"
+        "end": 1936,
+        "author": "Diller."
       }
     ]
   },
@@ -5509,11 +5567,13 @@
     "lemma": "Publius 6",
     "previous": "Publius 5",
     "next": "Publius 7",
+    "proof_read": 0,
     "short_description": "Bischof v. Jerusalem 2. Hälfte 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1937,
-        "author": "Enßlin"
+        "end": 1937,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5536,11 +5596,13 @@
     "lemma": "Publius 8",
     "previous": "Publius 7",
     "next": "Publius 9",
+    "proof_read": 0,
     "short_description": "Bischof v. Olbia, Teilnehmer am Konzil v. Ephesos 431 n. Chr.",
     "chapters": [
       {
         "start": 1937,
-        "author": "Enßlin"
+        "end": 1937,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5563,12 +5625,13 @@
     "lemma": "Puce",
     "previous": "Publius 9",
     "next": "Pucinum",
+    "proof_read": 0,
     "short_description": "Etr. Form d. Namens Phokos",
     "chapters": [
       {
         "start": 1937,
         "end": 1938,
-        "author": "Enking"
+        "author": "Ragna Enking."
       }
     ]
   },
@@ -5576,11 +5639,13 @@
     "lemma": "Pucinum",
     "previous": "Puce",
     "next": "Puciolis",
+    "proof_read": 0,
     "short_description": "Durch seinen Wein berühmter Ort d. istrischen Carner",
     "chapters": [
       {
         "start": 1938,
-        "author": "Saria"
+        "end": 1938,
+        "author": "B. Saria."
       }
     ]
   },
@@ -5588,12 +5653,13 @@
     "lemma": "Puciolis",
     "previous": "Pucinum",
     "next": "Pucloi",
+    "proof_read": 0,
     "short_description": "Sonst unbek. Ort in d. Carnia",
     "chapters": [
       {
         "start": 1938,
         "end": 1939,
-        "author": "Saria"
+        "author": "B. Saria."
       }
     ]
   },
@@ -5761,11 +5827,13 @@
     "lemma": "Pudentianus 3",
     "previous": "Pudentianus 2",
     "next": "Pudentianus 4",
+    "proof_read": 0,
     "short_description": "Bischof v. Cuicul unter Cyprian v. Karthago 256 n. Chr.",
     "chapters": [
       {
         "start": 1941,
-        "author": "Meinhold"
+        "end": 1941,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -5773,11 +5841,13 @@
     "lemma": "Pudentianus 4",
     "previous": "Pudentianus 3",
     "next": "Pudentianus 5",
+    "proof_read": 0,
     "short_description": "Potentiana, röm. Christin",
     "chapters": [
       {
         "start": 1941,
-        "author": "Meinhold"
+        "end": 1941,
+        "author": "Peter Meinhold."
       }
     ]
   },
@@ -5785,11 +5855,13 @@
     "lemma": "Pudentianus 5",
     "previous": "Pudentianus 4",
     "next": "Pudentilla 1",
+    "proof_read": 0,
     "short_description": "Röm. Christin",
     "chapters": [
       {
         "start": 1941,
-        "author": "Meinhold"
+        "end": 1941,
+        "author": "Peter Meinhold."
       }
     ]
   },
@@ -5811,11 +5883,13 @@
     "lemma": "Pudentilla 2",
     "previous": "Pudentilla 1",
     "next": "Pudentilla 3",
+    "proof_read": 0,
     "short_description": "Namia, Widmungsträgerin d. Ausonius",
     "chapters": [
       {
         "start": 1941,
-        "author": "Enßlin"
+        "end": 1941,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5838,12 +5912,13 @@
     "lemma": "Pudentius 1",
     "previous": "Pudentilla 3",
     "next": "Pudentius 2",
+    "proof_read": 0,
     "short_description": "Einwohner v. Tripolis, z. Zt. Iustinians I.",
     "chapters": [
       {
         "start": 1941,
         "end": 1942,
-        "author": "Enßlin"
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5851,49 +5926,56 @@
     "lemma": "Pudentius 2",
     "previous": "Pudentius 1",
     "next": "Pudicitia",
+    "proof_read": 0,
     "short_description": "Kathol. Bischof v. Madauros/Numidien z. Zt. d. Hunerich",
     "chapters": [
       {
         "start": 1942,
-        "author": "Enßlin"
+        "end": 1942,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Pudicitia",
     "previous": "Pudentius 2",
-    "next": "Pudnu polis",
+    "next": "Πούδνου πόλις",
+    "proof_read": 0,
     "short_description": "Personifikation d. körperl. Schamhaftigkeit",
     "chapters": [
       {
         "start": 1942,
         "end": 1945,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
   {
-    "lemma": "Pudnu polis",
+    "lemma": "Πούδνου πόλις",
     "previous": "Pudicitia",
     "next": "Pudor",
+    "sort_key": "Pudnupolis",
+    "proof_read": 0,
     "short_description": "Ort d. Arabia felix",
     "chapters": [
       {
         "start": 1945,
         "end": 1947,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Pudor",
-    "previous": "Pudnu polis",
+    "previous": "Πούδνου πόλις",
     "next": "Pudput",
+    "proof_read": 0,
     "short_description": "Personifikation d. - im Gegensatz zu Pudicitia - eher geistigen Schamhaftigkeit",
     "chapters": [
       {
         "start": 1947,
-        "author": "Radke"
+        "end": 1947,
+        "author": "G. Radke."
       }
     ]
   },
@@ -5901,32 +5983,34 @@
     "lemma": "Pudput",
     "previous": "Pudor",
     "next": "Puemunus",
+    "proof_read": 0,
     "short_description": "Ort d. Provinz Africa",
     "chapters": [
       {
         "start": 1947,
         "end": 1948,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Puemunus",
     "previous": "Pudput",
-    "next": "Pugilatus",
+    "next": "pugilatus",
+    "proof_read": 0,
     "short_description": "Name eines umbrischen Gottes",
     "chapters": [
       {
         "start": 1948,
         "end": 1949,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
   {
-    "lemma": "Pugilatus",
+    "lemma": "pugilatus",
     "previous": "Puemunus",
-    "next": "Pugio",
+    "next": "pugio",
     "redirect": "Πυγμή",
     "proof_read": 2,
     "chapters": [
@@ -5937,56 +6021,63 @@
     ]
   },
   {
-    "lemma": "Pugio",
-    "previous": "Pugilatus",
+    "lemma": "pugio",
+    "previous": "pugilatus",
     "next": "Pugna",
+    "proof_read": 0,
     "short_description": "Dolch",
     "chapters": [
       {
         "start": 1949,
         "end": 1952,
-        "author": "Neumann, Alfred Richard"
+        "author": "A. R. Neumann."
       }
     ]
   },
   {
     "lemma": "Pugna",
-    "previous": "Pugio",
-    "next": "Pukialia",
+    "previous": "pugio",
+    "next": "Πουκιαλία",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1952,
-        "author": "Radke"
+        "end": 1952,
+        "author": "G. Radke."
       }
     ]
   },
   {
-    "lemma": "Pukialia",
+    "lemma": "Πουκιαλία",
     "previous": "Pugna",
-    "next": "Puklus",
+    "next": "puklus",
+    "sort_key": "Pukialia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1952,
-        "author": "Grosse"
+        "end": 1952,
+        "author": "Grosse."
       }
     ]
   },
   {
-    "lemma": "Puklus",
-    "previous": "Pukialia",
+    "lemma": "puklus",
+    "previous": "Πουκιαλία",
     "next": "Pulcher",
+    "proof_read": 0,
     "short_description": "Nicht belegter, aber zu erschließender Nom.pl. für marsisches pucles in einer",
     "chapters": [
       {
         "start": 1952,
         "end": 1954,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
   {
     "lemma": "Pulcher",
-    "previous": "Puklus",
+    "previous": "puklus",
     "next": "Pulcher 1",
     "sort_key": "Pulcher",
     "proof_read": 2,
@@ -6003,11 +6094,13 @@
     "lemma": "Pulcher 1",
     "previous": "Pulcher",
     "next": "Pulcher 2",
+    "proof_read": 0,
     "short_description": "Magister utriusque militiae z.Zt. d. Arcadius u. Honorius",
     "chapters": [
       {
         "start": 1954,
-        "author": "Enßlin"
+        "end": 1954,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -6015,10 +6108,12 @@
     "lemma": "Pulcher 2",
     "previous": "Pulcher 1",
     "next": "Pulcher 3",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1954,
-        "author": "Enßlin"
+        "end": 1954,
+        "author": "A. Stein."
       }
     ]
   },
@@ -6069,11 +6164,13 @@
     "lemma": "Pulcheria 1",
     "previous": "Pulcher 5",
     "next": "Pulcheria 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Kaisers Theodosius I.",
     "chapters": [
       {
         "start": 1954,
-        "author": "Enßlin"
+        "end": 1954,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -6081,12 +6178,13 @@
     "lemma": "Pulcheria 2",
     "previous": "Pulcheria 1",
     "next": "Pulex 1",
+    "proof_read": 0,
     "short_description": "Augusta Aelia, Tochter d. Kaisers Arcadius",
     "chapters": [
       {
         "start": 1954,
         "end": 1963,
-        "author": "Enßlin"
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -6106,7 +6204,7 @@
   {
     "lemma": "Pulex 2",
     "previous": "Pulex 1",
-    "next": "Pulfennius",
+    "next": "Sex Pulfennius Salutaris",
     "redirect": true,
     "proof_read": 2,
     "short_description": "Floh",
@@ -6118,21 +6216,23 @@
     ]
   },
   {
-    "lemma": "Pulfennius",
+    "lemma": "Sex Pulfennius Salutaris",
     "previous": "Pulex 2",
     "next": "Pulfio",
+    "proof_read": 0,
     "short_description": "Salutaris (usw.) Cilo aus Venafrum, Sex.",
     "chapters": [
       {
         "start": 1963,
-        "author": "Hanslik"
+        "end": 1963,
+        "author": "Hanslik."
       }
     ]
   },
   {
     "lemma": "Pulfio",
-    "previous": "Pulfennius",
-    "next": "Pulindai Agriophagoi",
+    "previous": "Sex Pulfennius Salutaris",
+    "next": "Πουλῖνδαι Ἀγριοφάγοι",
     "redirect": "Pullo, T.",
     "proof_read": 2,
     "chapters": [
@@ -6143,47 +6243,53 @@
     ]
   },
   {
-    "lemma": "Pulindai Agriophagoi",
+    "lemma": "Πουλῖνδαι Ἀγριοφάγοι",
     "previous": "Pulfio",
-    "next": "Pulio, T.",
+    "next": "T. Pulio",
+    "sort_key": "Pulindaiagriophagoi",
+    "proof_read": 0,
     "short_description": "Volk Vorderindiens",
     "chapters": [
       {
         "start": 1963,
         "end": 1964,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Pulio, T.",
-    "previous": "Pulindai Agriophagoi",
-    "next": "Pulipula",
+    "lemma": "T. Pulio",
+    "previous": "Πουλῖνδαι Ἀγριοφάγοι",
+    "next": "Πουλιποῦλα",
+    "sort_key": "Pulio,t.",
+    "proof_read": 0,
     "short_description": "Um 50 v. Chr., Person bei Caes. bell.civ.3,67,5",
     "chapters": [
       {
         "start": 1964,
         "end": 1965,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
   {
-    "lemma": "Pulipula",
-    "previous": "Pulio, T.",
+    "lemma": "Πουλιποῦλα",
+    "previous": "T. Pulio",
     "next": "Pullaienus 1",
+    "sort_key": "Pulipula",
+    "proof_read": 0,
     "short_description": "Platz Vorderindiens",
     "chapters": [
       {
         "start": 1965,
         "end": 1966,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Pullaienus 1",
-    "previous": "Pulipula",
+    "previous": "Πουλιποῦλα",
     "next": "Pullaienus 2",
     "sort_key": "Pullaienus 1",
     "proof_read": 2,
@@ -6247,11 +6353,13 @@
     "lemma": "Pullaienus 5",
     "previous": "Pullaienus 4",
     "next": "Pullaienus 6",
+    "proof_read": 0,
     "short_description": "Pollio, L. Albius, cos. suff. 90 n. Chr. identisch mit Nr. 3",
     "chapters": [
       {
         "start": 1966,
-        "author": "Hanslik"
+        "end": 1966,
+        "author": "Hanslik."
       }
     ]
   },
@@ -6259,11 +6367,13 @@
     "lemma": "Pullaienus 6",
     "previous": "Pullaienus 5",
     "next": "Pullaienus 7",
+    "proof_read": 0,
     "short_description": "Gargilius, M. Paccius Silvanus Goredius L.",
     "chapters": [
       {
         "start": 1966,
-        "author": "Hanslik"
+        "end": 1966,
+        "author": "Hanslik."
       }
     ]
   },
@@ -6271,11 +6381,13 @@
     "lemma": "Pullaienus 7",
     "previous": "Pullaienus 6",
     "next": "Pullaienus 8",
+    "proof_read": 0,
     "short_description": "Gargilius Antiquus, L.",
     "chapters": [
       {
         "start": 1966,
-        "author": "Hanslik"
+        "end": 1966,
+        "author": "Hanslik."
       }
     ]
   },
@@ -6283,12 +6395,13 @@
     "lemma": "Pullaienus 8",
     "previous": "Pullaienus 7",
     "next": "Pullaria",
+    "proof_read": 0,
     "short_description": "Caeliana, Gattin d. Q. Marcius Victor Maximillianus, 3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1966,
         "end": 1967,
-        "author": "Hanslik"
+        "author": "Hanslik."
       }
     ]
   },
@@ -6296,11 +6409,13 @@
     "lemma": "Pullaria",
     "previous": "Pullaienus 8",
     "next": "Pullentius",
+    "proof_read": 0,
     "short_description": "Insel im Adriatischen Meer vor d. S-Spitze Istriens",
     "chapters": [
       {
         "start": 1967,
-        "author": "Saria"
+        "end": 1967,
+        "author": "B. Saria."
       }
     ]
   },
@@ -6308,10 +6423,12 @@
     "lemma": "Pullentius",
     "previous": "Pullaria",
     "next": "Pullio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1967,
-        "author": "Enßlin"
+        "end": 1967,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -6319,12 +6436,13 @@
     "lemma": "Pullio",
     "previous": "Pullentius",
     "next": "Pullius",
+    "proof_read": 0,
     "short_description": "Subdiakon unter Papst Hormisdas",
     "chapters": [
       {
         "start": 1967,
         "end": 1968,
-        "author": "Enßlin"
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -6347,11 +6465,18 @@
     "lemma": "Pullius 1",
     "previous": "Pullius",
     "next": "Pullius 2",
+    "proof_read": 0,
     "short_description": "Tr. pl. Mitte 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1968,
-        "author": "Münzer"
+        "end": 1968,
+        "author": "Münzer."
+      },
+      {
+        "start": 1968,
+        "end": 1968,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -6359,11 +6484,13 @@
     "lemma": "Pullius 2",
     "previous": "Pullius 1",
     "next": "Pullius 3",
+    "proof_read": 0,
     "short_description": "Person bei Varro",
     "chapters": [
       {
         "start": 1968,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1968,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6385,38 +6512,43 @@
   {
     "lemma": "Pullius 4",
     "previous": "Pullius 3",
-    "next": "Pullo, T.",
+    "next": "T. Pullo",
+    "proof_read": 0,
     "short_description": "Pollio, Cn., Angehöriger d. Ritterstandes in augusteischer Zt.",
     "chapters": [
       {
         "start": 1968,
         "end": 1970,
-        "author": "Hanslik"
+        "author": "Hanslik."
       }
     ]
   },
   {
-    "lemma": "Pullo, T.",
+    "lemma": "T. Pullo",
     "previous": "Pullius 4",
     "next": "Pullopice",
+    "sort_key": "Pullo,t.",
+    "proof_read": 0,
     "short_description": "Centurio unter Caesar in Gallien",
     "chapters": [
       {
         "start": 1970,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1970,
+        "author": "H. Gundel."
       }
     ]
   },
   {
     "lemma": "Pullopice",
-    "previous": "Pullo, T.",
+    "previous": "T. Pullo",
     "next": "Pullus",
+    "proof_read": 0,
     "short_description": "Station d. Via Aurelia zw. Vada Sabata u. Albingaunum",
     "chapters": [
       {
         "start": 1970,
         "end": 1971,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -6436,7 +6568,7 @@
   {
     "lemma": "Puls",
     "previous": "Pullus",
-    "next": "Pultisf",
+    "next": "Pultisφ",
     "sort_key": "Puls",
     "proof_read": 2,
     "short_description": "Brei aus zerstamptem Spelt, Volksnahrung in republikanischer Zeit",
@@ -6451,26 +6583,31 @@
     ]
   },
   {
-    "lemma": "Pultisf",
+    "lemma": "Pultisφ",
     "previous": "Puls",
     "next": "Pultovia",
+    "sort_key": "pultisf",
+    "proof_read": 0,
     "short_description": "Person auf etr. Spiegel",
     "chapters": [
       {
         "start": 1972,
-        "author": "Enking"
+        "end": 1972,
+        "author": "Ragna Enking."
       }
     ]
   },
   {
     "lemma": "Pultovia",
-    "previous": "Pultisf",
+    "previous": "Pultisφ",
     "next": "Pultuce",
+    "proof_read": 0,
     "short_description": "Poststation d. Straße Celeia - Poetovio",
     "chapters": [
       {
         "start": 1972,
-        "author": "Saria"
+        "end": 1972,
+        "author": "B. Saria."
       }
     ]
   },
@@ -6478,12 +6615,13 @@
     "lemma": "Pultuce",
     "previous": "Pultovia",
     "next": "Pultuke",
+    "proof_read": 0,
     "short_description": "Etr. Form d. Namens Polydeukes",
     "chapters": [
       {
         "start": 1972,
         "end": 1975,
-        "author": "Enking"
+        "author": "Ragna Enking."
       }
     ]
   },
@@ -6504,11 +6642,12 @@
     "lemma": "Puluctre",
     "previous": "Pultuke",
     "next": "Pulunice",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1975,
         "end": 1976,
-        "author": "Enking"
+        "author": "Ragna Enking."
       }
     ]
   },
@@ -6516,12 +6655,13 @@
     "lemma": "Pulunice",
     "previous": "Puluctre",
     "next": "Pulutuke",
+    "proof_read": 0,
     "short_description": "Etr. Form d. Namens Polyneikes",
     "chapters": [
       {
         "start": 1976,
         "end": 1977,
-        "author": "Enking"
+        "author": "Ragna Enking."
       }
     ]
   },
@@ -6542,7 +6682,7 @@
   {
     "lemma": "Pulvillus",
     "previous": "Pulutuke",
-    "next": "Pulvinar",
+    "next": "pulvinar",
     "redirect": "Horatius 13",
     "proof_read": 2,
     "chapters": [
@@ -6553,7 +6693,7 @@
     ]
   },
   {
-    "lemma": "Pulvinar",
+    "lemma": "pulvinar",
     "previous": "Pulvillus",
     "next": "Pulvinensis",
     "sort_key": "Pulvinar",
@@ -6569,19 +6709,20 @@
   },
   {
     "lemma": "Pulvinensis",
-    "previous": "Pulvinar",
-    "next": "Pulvinus",
+    "previous": "pulvinar",
+    "next": "pulvinus",
+    "proof_read": 0,
     "short_description": "Beiname d. Bellona bzw. d. kappadok. Ma",
     "chapters": [
       {
         "start": 1978,
         "end": 1979,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
   {
-    "lemma": "Pulvinus",
+    "lemma": "pulvinus",
     "previous": "Pulvinensis",
     "next": "Pumiathon",
     "sort_key": "Pulvinus",
@@ -6599,7 +6740,7 @@
   },
   {
     "lemma": "Pumiathon",
-    "previous": "Pulvinus",
+    "previous": "pulvinus",
     "next": "Pumidia",
     "redirect": "Pygmalion 3",
     "proof_read": 2,
@@ -6687,37 +6828,42 @@
   {
     "lemma": "Punnata",
     "previous": "Punicus 2",
-    "next": "Punse",
+    "next": "Πούνση",
+    "proof_read": 0,
     "short_description": "Stadt auf d. W-Seite Vorderindiens",
     "chapters": [
       {
         "start": 1980,
         "end": 1981,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Punse",
+    "lemma": "Πούνση",
     "previous": "Punnata",
     "next": "Puntasbas",
+    "sort_key": "Punse",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in Innerlibyen",
     "chapters": [
       {
         "start": 1981,
         "end": 1983,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Puntasbas",
-    "previous": "Punse",
+    "previous": "Πούνση",
     "next": "Pupenius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1983,
-        "author": "Radke"
+        "end": 1983,
+        "author": "G. Radke."
       }
     ]
   },
@@ -6826,7 +6972,7 @@
   {
     "lemma": "Pupienius 5",
     "previous": "Pupienius 4",
-    "next": "Pupillus",
+    "next": "pupillus",
     "proof_read": 2,
     "short_description": "Africanus, M. cos. ord. 236 n. Chr.",
     "no_creative_height": true,
@@ -6839,7 +6985,7 @@
     ]
   },
   {
-    "lemma": "Pupillus",
+    "lemma": "pupillus",
     "previous": "Pupienius 5",
     "next": "Pupinius",
     "redirect": "Tutela 1",
@@ -6853,13 +6999,15 @@
   },
   {
     "lemma": "Pupinius",
-    "previous": "Pupillus",
+    "previous": "pupillus",
     "next": "Pupius",
+    "proof_read": 0,
     "short_description": "Erschlossener Gentilname",
     "chapters": [
       {
         "start": 1984,
-        "author": "Hoffmann"
+        "end": 1984,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -6867,12 +7015,13 @@
     "lemma": "Pupius",
     "previous": "Pupinius",
     "next": "Pupius 1",
+    "proof_read": 0,
     "short_description": "Name eines plebeischen Geschlechts in Rom",
     "chapters": [
       {
         "start": 1984,
         "end": 1985,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6880,11 +7029,13 @@
     "lemma": "Pupius 1",
     "previous": "Pupius",
     "next": "Pupius 2",
+    "proof_read": 0,
     "short_description": "Hypothet. aus d. Lex Pupia erschlossener tr. pl.",
     "chapters": [
       {
         "start": 1985,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1985,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6892,11 +7043,13 @@
     "lemma": "Pupius 2",
     "previous": "Pupius 1",
     "next": "Pupius 3",
+    "proof_read": 0,
     "short_description": "Tragödiendichter Ende 1. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1985,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1985,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6904,11 +7057,13 @@
     "lemma": "Pupius 3",
     "previous": "Pupius 2",
     "next": "Pupius 4",
+    "proof_read": 0,
     "short_description": "C., 217 v. Chr. als Duumvir mitverantwortlich für d. Bau eines Tempels d.",
     "chapters": [
       {
         "start": 1985,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1985,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6916,12 +7071,13 @@
     "lemma": "Pupius 4",
     "previous": "Pupius 3",
     "next": "Pupius 5",
+    "proof_read": 0,
     "short_description": "Cn., Mitte 1. Jh. v. Chr., Agent bithyn. Steuerpächter",
     "chapters": [
       {
         "start": 1985,
         "end": 1986,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6929,11 +7085,13 @@
     "lemma": "Pupius 5",
     "previous": "Pupius 4",
     "next": "Pupius 6",
+    "proof_read": 0,
     "short_description": "L., Pr. 183 v. Chr.",
     "chapters": [
       {
         "start": 1986,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1986,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6956,11 +7114,13 @@
     "lemma": "Pupius 7",
     "previous": "Pupius 6",
     "next": "Pupius 8",
+    "proof_read": 0,
     "short_description": "M., Senator 129 v. Chr.",
     "chapters": [
       {
         "start": 1986,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1986,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6968,11 +7128,13 @@
     "lemma": "Pupius 8",
     "previous": "Pupius 7",
     "next": "Pupius 9",
+    "proof_read": 0,
     "short_description": "M., 1. Jh. v. Chr., Adoptivvater d. M. Pupius Piso Calpurnianus Nr. 10)",
     "chapters": [
       {
         "start": 1986,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1986,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6980,12 +7142,13 @@
     "lemma": "Pupius 9",
     "previous": "Pupius 8",
     "next": "Pupius 10",
+    "proof_read": 0,
     "short_description": "P., Ende 5. Jh. v. Chr., einer der ersten plebeischen Quaestoren",
     "chapters": [
       {
         "start": 1986,
         "end": 1987,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6993,12 +7156,13 @@
     "lemma": "Pupius 10",
     "previous": "Pupius 9",
     "next": "Pupius 11",
+    "proof_read": 0,
     "short_description": "Piso Frugi (Calpurnianus), M. cos. 61 v. Chr.",
     "chapters": [
       {
         "start": 1987,
         "end": 1993,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7006,11 +7170,13 @@
     "lemma": "Pupius 11",
     "previous": "Pupius 10",
     "next": "Pupius 12",
+    "proof_read": 0,
     "short_description": "(Pupius? - Calpurnius?) Piso M. f. Frugi, M., Münzmeister nicht vor 49 v. Chr.",
     "chapters": [
       {
         "start": 1993,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1993,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7018,11 +7184,13 @@
     "lemma": "Pupius 12",
     "previous": "Pupius 11",
     "next": "Pupius 13",
+    "proof_read": 0,
     "short_description": "(Pupius? - Calpurnius?) Piso, M., Pr. 44 v. Chr.",
     "chapters": [
       {
         "start": 1993,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1993,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7045,12 +7213,13 @@
     "lemma": "Pupius 14",
     "previous": "Pupius 13",
     "next": "Pupius 15",
+    "proof_read": 0,
     "short_description": "Rufus, A. Q. oder q. pr. pr. in d. Cyrenaica",
     "chapters": [
       {
         "start": 1993,
         "end": 1994,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7071,30 +7240,33 @@
   {
     "lemma": "Puplitus",
     "previous": "Pupius 15",
-    "next": "Puppis",
+    "next": "puppis",
+    "proof_read": 0,
     "short_description": "Fluß Numidiens",
     "chapters": [
       {
         "start": 1994,
         "end": 1995,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Puppis",
+    "lemma": "puppis",
     "previous": "Puplitus",
     "next": "Pupput",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1995,
-        "author": "Miltner, Franz"
+        "end": 1995,
+        "author": "Miltner."
       }
     ]
   },
   {
     "lemma": "Pupput",
-    "previous": "Puppis",
+    "previous": "puppis",
     "next": "Pupullon",
     "redirect": "Pudput",
     "proof_read": 2,
@@ -7124,12 +7296,13 @@
     "lemma": "Pura",
     "previous": "Pupullon",
     "next": "Purata",
+    "proof_read": 0,
     "short_description": "Ort d. Landschaft Gedrosien im SO-Iran",
     "chapters": [
       {
         "start": 1995,
         "end": 1999,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -7150,19 +7323,20 @@
     "lemma": "Purcius",
     "previous": "Purata",
     "next": "Purennius Tutus",
+    "proof_read": 0,
     "short_description": "Etr. Form d. Namens Phorkys auf einem Spiegel",
     "chapters": [
       {
         "start": 1999,
         "end": 2000,
-        "author": "Enking"
+        "author": "Ragna Enking."
       }
     ]
   },
   {
     "lemma": "Purennius Tutus",
     "previous": "Purcius",
-    "next": "Purich",
+    "next": "Puriχ",
     "sort_key": "Purenniustutus",
     "proof_read": 2,
     "short_description": "T., war beim Census der Kaiser Vespasian und Titus 73/74 n. Chr.",
@@ -7175,25 +7349,30 @@
     ]
   },
   {
-    "lemma": "Purich",
+    "lemma": "Puriχ",
     "previous": "Purennius Tutus",
     "next": "Puris",
+    "sort_key": "Purich",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2000,
-        "author": "Enking"
+        "end": 2000,
+        "author": "Ragna Enking."
       }
     ]
   },
   {
     "lemma": "Puris",
-    "previous": "Purich",
+    "previous": "Puriχ",
     "next": "purpura",
+    "proof_read": 0,
     "short_description": "Name auf einem etr. Spiegel",
     "chapters": [
       {
         "start": 2000,
-        "author": "Enking"
+        "end": 2000,
+        "author": "Ragna Enking."
       }
     ]
   },
@@ -7214,12 +7393,14 @@
     "lemma": "Purpurariae insulae",
     "previous": "purpura",
     "next": "Purpureo",
+    "sort_key": "Purpurariaeinsulae",
+    "proof_read": 0,
     "short_description": "Inselgruppe im Atlantischen Ozean",
     "chapters": [
       {
         "start": 2020,
         "end": 2028,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -7239,7 +7420,7 @@
   {
     "lemma": "purpureus",
     "previous": "Purpureo",
-    "next": "Purpurissum",
+    "next": "purpurissum",
     "short_description": "Purpurglänzend nur selten Epiklesis für Gottheiten",
     "chapters": [
       {
@@ -7249,26 +7430,29 @@
     ]
   },
   {
-    "lemma": "Purpurissum",
+    "lemma": "purpurissum",
     "previous": "purpureus",
     "next": "Purpurius",
+    "proof_read": 0,
     "short_description": "Kostbarste Farbe u. Schminke",
     "chapters": [
       {
         "start": 2028,
         "end": 2029,
-        "author": "Schneider, K[arl]"
+        "author": "K. Schneider."
       }
     ]
   },
   {
     "lemma": "Purpurius",
-    "previous": "Purpurissum",
+    "previous": "purpurissum",
     "next": "Pursepmunis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2029,
-        "author": "Enßlin"
+        "end": 2029,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7276,12 +7460,13 @@
     "lemma": "Pursepmunis",
     "previous": "Purpurius",
     "next": "πούς",
+    "proof_read": 0,
     "short_description": "Nubische Lokalgottheit, in Kertassi verehrt",
     "chapters": [
       {
         "start": 2029,
         "end": 2030,
-        "author": "Helck"
+        "author": "Wolfgang Helck."
       }
     ]
   },
@@ -7306,10 +7491,13 @@
     "lemma": "Pusai, Pusaik",
     "previous": "πούς",
     "next": "Pusaios 1",
+    "sort_key": "Pusai,pusaik",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2030,
-        "author": "Enßlin"
+        "end": 2030,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7317,11 +7505,13 @@
     "lemma": "Pusaios 1",
     "previous": "Pusai, Pusaik",
     "next": "Pusaios 2",
+    "proof_read": 0,
     "short_description": "Perser z.Zt. Kaiser Iulians",
     "chapters": [
       {
         "start": 2030,
-        "author": "Enßlin"
+        "end": 2030,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7329,11 +7519,13 @@
     "lemma": "Pusaios 2",
     "previous": "Pusaios 1",
     "next": "Pusgusa",
+    "proof_read": 0,
     "short_description": "Praef. praet. per Orientem unter Kaiser Leo I.",
     "chapters": [
       {
         "start": 2030,
-        "author": "Enßlin"
+        "end": 2030,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7367,10 +7559,12 @@
     "lemma": "Pusillus",
     "previous": "Pusillienus",
     "next": "Pusintulus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2030,
-        "author": "Enßlin"
+        "end": 2030,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7378,11 +7572,13 @@
     "lemma": "Pusintulus",
     "previous": "Pusillus",
     "next": "Pusio 1",
+    "proof_read": 0,
     "short_description": "Valerius",
     "chapters": [
       {
         "start": 2030,
-        "author": "Enßlin"
+        "end": 2030,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7420,11 +7616,13 @@
     "lemma": "Pusio 3",
     "previous": "Pusio 2",
     "next": "Pusio 4",
+    "proof_read": 0,
     "short_description": "cos. suff. unter Vespasian",
     "chapters": [
       {
         "start": 2031,
-        "author": "Hanslik"
+        "end": 2031,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7445,10 +7643,12 @@
     "lemma": "Pusiris",
     "previous": "Pusio 4",
     "next": "Puta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2031,
-        "author": "Helck"
+        "end": 2031,
+        "author": "Wolfgang Helck."
       }
     ]
   },
@@ -7456,11 +7656,13 @@
     "lemma": "Puta",
     "previous": "Pusiris",
     "next": "Putea 1",
+    "proof_read": 0,
     "short_description": "Röm. Indigitamentalgottheit",
     "chapters": [
       {
         "start": 2031,
-        "author": "Radke"
+        "end": 2031,
+        "author": "G. Radke."
       }
     ]
   },
@@ -7468,61 +7670,68 @@
     "lemma": "Putea 1",
     "previous": "Puta",
     "next": "Putea 2",
+    "proof_read": 0,
     "short_description": "Ort in Spanien",
     "chapters": [
       {
         "start": 2031,
-        "author": "Grosse"
+        "end": 2031,
+        "author": "Grosse."
       }
     ]
   },
   {
     "lemma": "Putea 2",
     "previous": "Putea 1",
-    "next": "Puteal 1",
+    "next": "puteal 1",
+    "proof_read": 0,
     "short_description": "Drei durch röm. Itinerarien bezeugte Orte in N-Afrika",
     "chapters": [
       {
         "start": 2031,
         "end": 2034,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Puteal 1",
+    "lemma": "puteal 1",
     "previous": "Putea 2",
-    "next": "Puteal 2",
+    "next": "puteal 2",
+    "proof_read": 0,
     "short_description": "Einfassung eines Ziehbrunnens",
     "chapters": [
       {
         "start": 2034,
         "end": 2035,
-        "author": "Schneider, K[arl]"
+        "author": "K. Schneider."
       }
     ]
   },
   {
-    "lemma": "Puteal 2",
-    "previous": "Puteal 1",
+    "lemma": "puteal 2",
+    "previous": "puteal 1",
     "next": "Puteolanus",
+    "proof_read": 0,
     "short_description": "Blitzmal",
     "chapters": [
       {
         "start": 2035,
         "end": 2036,
-        "author": "Schneider, K[arl]"
+        "author": "K. Schneider."
       }
     ]
   },
   {
     "lemma": "Puteolanus",
-    "previous": "Puteal 2",
+    "previous": "puteal 2",
     "next": "Puteoli",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2036,
-        "author": "Hanslik"
+        "end": 2036,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7542,31 +7751,35 @@
   {
     "lemma": "Puteus (eo)",
     "previous": "Puteoli",
-    "next": "Puticuli",
+    "next": "puticuli",
+    "sort_key": "Puteus(eo)",
+    "proof_read": 0,
     "short_description": "Röm. Itinerarstation N-Afrikas",
     "chapters": [
       {
         "start": 2060,
         "end": 2062,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Puticuli",
+    "lemma": "puticuli",
     "previous": "Puteus (eo)",
     "next": "Putput",
+    "proof_read": 0,
     "short_description": "Begräbnisplätze d. ärmeren Volkes",
     "chapters": [
       {
         "start": 2062,
-        "author": "Radke"
+        "end": 2062,
+        "author": "G. Radke."
       }
     ]
   },
   {
     "lemma": "Putput",
-    "previous": "Puticuli",
+    "previous": "puticuli",
     "next": "Putunia, Amaputunia",
     "redirect": "Pudput",
     "proof_read": 2,
@@ -7581,12 +7794,14 @@
     "lemma": "Putunia, Amaputunia",
     "previous": "Putput",
     "next": "Pyanopsion",
+    "sort_key": "Putunia,amaputunia",
+    "proof_read": 0,
     "short_description": "Name einer Göttin auf einem etr. Spiegel",
     "chapters": [
       {
         "start": 2062,
         "end": 2063,
-        "author": "Enking"
+        "author": "Ragna Enking."
       }
     ]
   },
@@ -7594,11 +7809,13 @@
     "lemma": "Pyanopsion",
     "previous": "Putunia, Amaputunia",
     "next": "Pydaras",
+    "proof_read": 0,
     "short_description": "Monatsname d. ion. Kalenders",
     "chapters": [
       {
         "start": 2063,
-        "author": "Sontheimer"
+        "end": 2063,
+        "author": "Sontheimer."
       }
     ]
   },
@@ -7606,10 +7823,12 @@
     "lemma": "Pydaras",
     "previous": "Pyanopsion",
     "next": "Pydes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2063,
-        "author": "Saria"
+        "end": 2063,
+        "author": "B. Saria."
       }
     ]
   },
@@ -7641,14 +7860,15 @@
   },
   {
     "lemma": "Pyenis",
-    "previous": "Pydios",
+    "previous": "Pydna",
     "next": "Pygela",
+    "proof_read": 0,
     "short_description": "Örtlichkeit d. kaukasischen Landschaft Kolchis",
     "chapters": [
       {
         "start": 2063,
         "end": 2064,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -7669,12 +7889,13 @@
     "lemma": "Pygmaioi",
     "previous": "Pygela",
     "next": "Pygmaion",
+    "proof_read": 0,
     "short_description": "Gr. Gattungsname für Zwergvölker",
     "chapters": [
       {
         "start": 2064,
         "end": 2074,
-        "author": "Wüst"
+        "author": "E. Wüst."
       }
     ]
   },
@@ -7682,10 +7903,12 @@
     "lemma": "Pygmaion",
     "previous": "Pygmaioi",
     "next": "Pygmaios 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2074,
-        "author": "Preisendanz"
+        "end": 2074,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -7693,11 +7916,13 @@
     "lemma": "Pygmaios 1",
     "previous": "Pygmaion",
     "next": "Pygmaios 2",
+    "proof_read": 0,
     "short_description": "Kult. Beiname Apollons",
     "chapters": [
       {
         "start": 2074,
-        "author": "Wüst"
+        "end": 2074,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -7705,11 +7930,13 @@
     "lemma": "Pygmaios 2",
     "previous": "Pygmaios 1",
     "next": "Pygmalion",
+    "proof_read": 0,
     "short_description": "Stammesname d. Pygmäen",
     "chapters": [
       {
         "start": 2074,
-        "author": "Wüst"
+        "end": 2074,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -7717,12 +7944,13 @@
     "lemma": "Pygmalion",
     "previous": "Pygmaios 2",
     "next": "Pygmalion 1",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
         "start": 2074,
         "end": 2075,
-        "author": "Wüst"
+        "author": "E. Wüst."
       }
     ]
   },
@@ -7730,11 +7958,13 @@
     "lemma": "Pygmalion 1",
     "previous": "Pygmalion",
     "next": "Pygmalion 2",
+    "proof_read": 0,
     "short_description": "König v. Tryos (sic!) gemeint: Tyros",
     "chapters": [
       {
         "start": 2075,
-        "author": "Wüst"
+        "end": 2075,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -7742,11 +7972,13 @@
     "lemma": "Pygmalion 2",
     "previous": "Pygmalion 1",
     "next": "Pygmalion 3",
+    "proof_read": 0,
     "short_description": "König v. Kypros",
     "chapters": [
       {
         "start": 2075,
-        "author": "Wüst"
+        "end": 2075,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -7754,12 +7986,13 @@
     "lemma": "Pygmalion 3",
     "previous": "Pygmalion 2",
     "next": "Pygmalion 4",
+    "proof_read": 0,
     "short_description": "Name eines Künstlers bei Ovid",
     "chapters": [
       {
         "start": 2075,
         "end": 2076,
-        "author": "Wüst"
+        "author": "E. Wüst."
       }
     ]
   },
@@ -7767,11 +8000,13 @@
     "lemma": "Pygmalion 4",
     "previous": "Pygmalion 3",
     "next": "Πυγμή",
+    "proof_read": 0,
     "short_description": "Letzter, 313 o. 312 v. Chr. getöteter König v. Kition",
     "chapters": [
       {
         "start": 2076,
-        "author": "Ziegler"
+        "end": 2076,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7822,10 +8057,12 @@
     "lemma": "Pykimede",
     "previous": "Pykate",
     "next": "Pyknos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2076,
-        "author": "Ziegler"
+        "end": 2076,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7846,11 +8083,12 @@
     "lemma": "Pyktaboi",
     "previous": "Pyknos",
     "next": "Pyktes 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2076,
         "end": 2077,
-        "author": "Goessler"
+        "author": "Goessler."
       }
     ]
   },
@@ -7858,11 +8096,13 @@
     "lemma": "Pyktes 1",
     "previous": "Pyktaboi",
     "next": "Pyktes 2",
+    "proof_read": 0,
     "short_description": "Epiklese Apollons in Delphoi",
     "chapters": [
       {
         "start": 2077,
-        "author": "Ziegler"
+        "end": 2077,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7870,11 +8110,13 @@
     "lemma": "Pyktes 2",
     "previous": "Pyktes 1",
     "next": "Pyktes 3",
+    "proof_read": 0,
     "short_description": "Komödie d. Timotheos",
     "chapters": [
       {
         "start": 2077,
-        "author": "Ziegler"
+        "end": 2077,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7882,11 +8124,13 @@
     "lemma": "Pyktes 3",
     "previous": "Pyktes 2",
     "next": "Pyktos",
+    "proof_read": 0,
     "short_description": "Komödie d. Timokles",
     "chapters": [
       {
         "start": 2077,
-        "author": "Ziegler"
+        "end": 2077,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7907,12 +8151,13 @@
     "lemma": "Pylades 1",
     "previous": "Pyktos",
     "next": "Pylades 2",
+    "proof_read": 0,
     "short_description": "Phokischer Heros",
     "chapters": [
       {
         "start": 2077,
         "end": 2081,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -7920,12 +8165,13 @@
     "lemma": "Pylades 2",
     "previous": "Pylades 1",
     "next": "Pylades 3",
+    "proof_read": 0,
     "short_description": "Hofschauspieler augusteischer Zt.",
     "chapters": [
       {
         "start": 2082,
         "end": 2083,
-        "author": "Hanslik"
+        "author": "Hanslik."
       }
     ]
   },
@@ -7957,7 +8203,7 @@
   {
     "lemma": "Pylades 5",
     "previous": "Pylades 4",
-    "next": "Pylagoros",
+    "next": "πυλάγορος",
     "proof_read": 2,
     "short_description": "Tänzer, Ende 2. Jh. n. Chr.",
     "wd_link": "d:Q138782268",
@@ -7971,27 +8217,31 @@
     ]
   },
   {
-    "lemma": "Pylagoros",
+    "lemma": "πυλάγορος",
     "previous": "Pylades 5",
     "next": "Pylai 1",
+    "sort_key": "Pylagoros",
+    "proof_read": 0,
     "short_description": "Von d. delphischen Amphiktyonie ausgesandter Würdenträger",
     "chapters": [
       {
         "start": 2084,
         "end": 2091,
-        "author": "Schaefer"
+        "author": "Hans Schaefer."
       }
     ]
   },
   {
     "lemma": "Pylai 1",
-    "previous": "Pylagoros",
+    "previous": "πυλάγορος",
     "next": "Pylai 2",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in Arkadien",
     "chapters": [
       {
         "start": 2091,
-        "author": "Meyer, Ernst"
+        "end": 2091,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -8012,12 +8262,13 @@
     "lemma": "Pylai 3",
     "previous": "Pylai 2",
     "next": "Pylai 4",
+    "proof_read": 0,
     "short_description": "Ort am Euphrat",
     "chapters": [
       {
         "start": 2091,
         "end": 2092,
-        "author": "Spuler"
+        "author": "Bertold Spuler."
       }
     ]
   },
@@ -8025,11 +8276,13 @@
     "lemma": "Pylai 4",
     "previous": "Pylai 3",
     "next": "Pylai 5",
+    "proof_read": 0,
     "short_description": "Inselgruppe im S d. Roten Meeres",
     "chapters": [
       {
         "start": 2092,
-        "author": "Treidler"
+        "end": 2092,
+        "author": "Treidler."
       }
     ]
   },
@@ -8037,11 +8290,13 @@
     "lemma": "Pylai 5",
     "previous": "Pylai 4",
     "next": "Pylai 6",
+    "proof_read": 0,
     "short_description": "Pylai Gadeirides, Meerenge v. Gibraltar",
     "chapters": [
       {
         "start": 2092,
-        "author": "Grosse"
+        "end": 2092,
+        "author": "Grosse."
       }
     ]
   },
@@ -8049,12 +8304,13 @@
     "lemma": "Pylai 6",
     "previous": "Pylai 5",
     "next": "Pylai 7",
+    "proof_read": 0,
     "short_description": "Kastell am linken, nördl. Ufer d. Euphrat",
     "chapters": [
       {
         "start": 2092,
         "end": 2094,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -8062,11 +8318,13 @@
     "lemma": "Pylai 7",
     "previous": "Pylai 6",
     "next": "Pylai 7a",
+    "proof_read": 0,
     "short_description": "Örtlichkeit Vorderindiens bei Nonn.",
     "chapters": [
       {
         "start": 2094,
-        "author": "Treidler"
+        "end": 2094,
+        "author": "Treidler."
       }
     ]
   },
@@ -8074,11 +8332,13 @@
     "lemma": "Pylai 7a",
     "previous": "Pylai 7",
     "next": "Pylai 8",
+    "proof_read": 0,
     "short_description": "Örtlichkeit Vorderindiens bei Ps.-Plut. de fluv.1,3",
     "chapters": [
       {
         "start": 2094,
-        "author": "Treidler"
+        "end": 2094,
+        "author": "Treidler."
       }
     ]
   },
@@ -8099,12 +8359,13 @@
     "lemma": "Pylai 10",
     "previous": "Pylai 8",
     "next": "Pylai 11",
+    "proof_read": 0,
     "short_description": "Pylai Persides, Engpaß west. v. Persepolis",
     "chapters": [
       {
         "start": 2094,
         "end": 2097,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -8138,11 +8399,13 @@
     "lemma": "Pylaia 1",
     "previous": "Pylai 12",
     "next": "Pylaia 2",
+    "proof_read": 0,
     "short_description": "Pylaia, Epiklesis d. amphiktyonischen Demeter",
     "chapters": [
       {
         "start": 2097,
-        "author": "Radke"
+        "end": 2097,
+        "author": "G. Radke."
       }
     ]
   },
@@ -8150,12 +8413,13 @@
     "lemma": "Pylaia 2",
     "previous": "Pylaia 1",
     "next": "Pylaia 3",
+    "proof_read": 0,
     "short_description": "Pylaia, der Demeter Pylaia Nr. 1 dargebrachte Opfer",
     "chapters": [
       {
         "start": 2097,
         "end": 2098,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -8251,12 +8515,13 @@
     "lemma": "Pyla(i)machos",
     "previous": "Pylaikos kolpos",
     "next": "Pylaimenes",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Ares u. d. Athena",
     "chapters": [
       {
         "start": 2104,
         "end": 2105,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
