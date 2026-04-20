@@ -4218,7 +4218,7 @@
   {
     "lemma": "Publicanos",
     "previous": "publicani",
-    "next": "publicatio",
+    "next": "publicatio bonorum",
     "proof_read": 0,
     "short_description": "Poststation an d. Straße Emona - Celeia",
     "chapters": [
@@ -7861,7 +7861,7 @@
   },
   {
     "lemma": "Pyenis",
-    "previous": "Pydios",
+    "previous": "Pydna",
     "next": "Pygela",
     "proof_read": 0,
     "short_description": "Örtlichkeit d. kaukasischen Landschaft Kolchis",
@@ -8428,12 +8428,13 @@
     "lemma": "Pylaia 3",
     "previous": "Pylaia 2",
     "next": "Pylaia 4",
+    "proof_read": 0,
     "short_description": "pylaia, t.t. für d. Tagung d. pyläisch-delphische Amphiktyonie",
     "chapters": [
       {
         "start": 2098,
         "end": 2099,
-        "author": "Schaefer"
+        "author": "Hans Schaefer."
       }
     ]
   },
@@ -8453,36 +8454,42 @@
   {
     "lemma": "Pylaia 5",
     "previous": "Pylaia 4",
-    "next": "Pylaiastes",
+    "next": "πυλαιαστής",
+    "proof_read": 0,
     "short_description": "Pylaia ore, Gebirge in Afrika, der Aethiopia infra Aegyptum zugerechnet",
     "chapters": [
       {
         "start": 2100,
         "end": 2102,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Pylaiastes",
+    "lemma": "πυλαιαστής",
     "previous": "Pylaia 5",
     "next": "Pylaieus",
+    "sort_key": "Pylaiastes",
+    "proof_read": 0,
     "short_description": "Possenreißer",
     "chapters": [
       {
         "start": 2102,
-        "author": "Schneider, K[arl]"
+        "end": 2102,
+        "author": "K. Schneider."
       }
     ]
   },
   {
     "lemma": "Pylaieus",
-    "previous": "Pylaiastes",
+    "previous": "πυλαιαστής",
     "next": "Pylaiidees",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2102,
-        "author": "Ziegler"
+        "end": 2102,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8490,12 +8497,13 @@
     "lemma": "Pylaiidees",
     "previous": "Pylaieus",
     "next": "Pylaikos kolpos",
+    "proof_read": 0,
     "short_description": "Bezeichnung d. Siegerinnen in einem Schönheitswettbewerb",
     "chapters": [
       {
         "start": 2102,
         "end": 2104,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -8530,12 +8538,13 @@
     "lemma": "Pylaimenes",
     "previous": "Pyla(i)machos",
     "next": "Pylaimenes 1",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
         "start": 2105,
         "end": 2106,
-        "author": "Radke"
+        "author": "G. Radke."
       }
     ]
   },
@@ -8665,11 +8674,14 @@
     "lemma": "Pylaios 2",
     "previous": "Pylaios 1",
     "next": "Pylaios 3",
+    "proof_read": 2,
     "short_description": "Beiname d. Hermes",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2109,
-        "author": "Ziegler"
+        "end": 2109,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -8677,11 +8689,14 @@
     "lemma": "Pylaios 3",
     "previous": "Pylaios 2",
     "next": "Pylaitis",
+    "proof_read": 2,
     "short_description": "Beiname d. Zeus",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2109,
-        "author": "Ziegler"
+        "end": 2109,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -8689,11 +8704,13 @@
     "lemma": "Pylaitis",
     "previous": "Pylaios 3",
     "next": "Pylamachos",
+    "proof_read": 0,
     "short_description": "Epitheton d. Athena",
     "chapters": [
       {
         "start": 2109,
-        "author": "Radke"
+        "end": 2109,
+        "author": "G. Radke."
       }
     ]
   },
@@ -8714,11 +8731,12 @@
     "lemma": "Pylaochos",
     "previous": "Pylamachos",
     "next": "Pylaon 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2109,
         "end": 2110,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
@@ -8726,11 +8744,15 @@
     "lemma": "Pylaon 1",
     "previous": "Pylaochos",
     "next": "Pylaon 2",
-    "short_description": "Sohn d. Neleus",
+    "proof_read": 0,
+    "short_description": "Sohn des Neleus und der Chloris",
+    "wp_link": "w:en:Pylaon",
+    "wd_link": "d:Q15401590",
     "chapters": [
       {
         "start": 2110,
-        "author": "Ziegler"
+        "end": 2110,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -8769,36 +8791,42 @@
   {
     "lemma": "Pylartes 1",
     "previous": "Pylarge",
-    "next": "Pylartes 2-3",
+    "next": "Pylartes 2–3",
+    "proof_read": 0,
     "short_description": "Beiname d. Hades",
     "chapters": [
       {
         "start": 2110,
-        "author": "Ziegler"
+        "end": 2110,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Pylartes 2-3",
+    "lemma": "Pylartes 2–3",
     "previous": "Pylartes 1",
     "next": "Pylartes 4",
+    "proof_read": 0,
     "short_description": "Zwei Troer",
     "chapters": [
       {
         "start": 2110,
-        "author": "Ziegler"
+        "end": 2110,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Pylartes 4",
-    "previous": "Pylartes 2-3",
+    "previous": "Pylartes 2–3",
     "next": "Pylas",
+    "proof_read": 0,
     "short_description": "Berg bei Dyrrhachion",
     "chapters": [
       {
         "start": 2110,
-        "author": "Ziegler"
+        "end": 2110,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8806,46 +8834,56 @@
     "lemma": "Pylas",
     "previous": "Pylartes 4",
     "next": "Pyle",
-    "short_description": "Enkel d. Lelex, König v. Megara",
+    "proof_read": 0,
+    "short_description": "Enkel d. Lelex, König v. Megara, Sohn d. Kleson",
+    "wp_link": "w:en:Pylas",
+    "wd_link": "d:Q3411223",
     "chapters": [
       {
         "start": 2110,
         "end": 2111,
-        "author": "Ziegler"
+        "author": "Konrat Ziegler."
       }
     ]
   },
   {
     "lemma": "Pyle",
     "previous": "Pylas",
-    "next": "Pyledokos",
+    "next": "Πυληδόκος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2111,
-        "author": "Ziegler"
+        "end": 2111,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Pyledokos",
+    "lemma": "Πυληδόκος",
     "previous": "Pyle",
-    "next": "Pylenor",
+    "next": "Pylene",
+    "sort_key": "Pyledokos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2111,
-        "author": "Ziegler"
+        "end": 2111,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Pylenor",
-    "previous": "Pyledokos",
+    "previous": "Πυληδόκος",
     "next": "Pyleos",
+    "proof_read": 0,
     "short_description": "Kentaur",
     "chapters": [
       {
         "start": 2111,
-        "author": "Zwicker"
+        "end": 2111,
+        "author": "Zwicker."
       }
     ]
   },
@@ -8853,10 +8891,15 @@
     "lemma": "Pyleos",
     "previous": "Pylenor",
     "next": "Pyles 1",
+    "proof_read": 2,
+    "short_description": "Sohn des Klymenos",
+    "wd_link": "d:Q14324181",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2111,
-        "author": "Ziegler"
+        "end": 2111,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -8864,11 +8907,13 @@
     "lemma": "Pyles 1",
     "previous": "Pyleos",
     "next": "Pyles 2",
+    "proof_read": 0,
     "short_description": "Vater d. Kyathos",
     "chapters": [
       {
         "start": 2111,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -8876,11 +8921,14 @@
     "lemma": "Pyles 2",
     "previous": "Pyles 1",
     "next": "Pylia",
-    "short_description": "Als Übersetzung Ianus",
+    "proof_read": 0,
+    "short_description": "Als Übersetzung von ''Ianus Quirinus''",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -8888,10 +8936,16 @@
     "lemma": "Pylia",
     "previous": "Pyles 2",
     "next": "Pylios 1",
+    "proof_read": 2,
+    "short_description": "Tochter d. Pylas, Gattin d. Pandion",
+    "wp_link": "w:de:Pylia (Tochter des Pylas)",
+    "wd_link": "d:Q12757284",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -8899,11 +8953,14 @@
     "lemma": "Pylios 1",
     "previous": "Pylia",
     "next": "Pylios 2",
+    "proof_read": 2,
     "short_description": "Beiname d. Hermes",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -8911,35 +8968,58 @@
     "lemma": "Pylios 2",
     "previous": "Pylios 1",
     "next": "Pylios 3",
+    "proof_read": 2,
     "short_description": "Eleusinier, adoptiert Herakles",
+    "wd_link": "d:Q122811646",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Konrat Ziegler."
       }
     ]
   },
   {
     "lemma": "Pylios 3",
     "previous": "Pylios 2",
-    "next": "Pyloites 1",
+    "next": "Pyloites",
+    "proof_read": 2,
     "short_description": "Lemnier, Sohn d. Hephaistos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Konrat Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Pyloites",
+    "previous": "Pylios 3",
+    "next": "Pyloites 1",
+    "proof_read": 0,
+    "short_description": "Inder bei Nonn.",
+    "chapters": [
+      {
+        "start": 2112,
+        "end": 2112,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Pyloites 1",
-    "previous": "Pylios 3",
+    "previous": "Pyloites",
     "next": "Pyloites 2",
+    "proof_read": 0,
     "short_description": "Inder bei Nonn.",
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8947,11 +9027,13 @@
     "lemma": "Pyloites 2",
     "previous": "Pyloites 1",
     "next": "Pylon 1",
+    "proof_read": 0,
     "short_description": "Kaukasier bei Nonn.",
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8972,11 +9054,13 @@
     "lemma": "Pylon 2",
     "previous": "Pylon 1",
     "next": "Pylon 3",
+    "proof_read": 0,
     "short_description": "Troer",
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8984,11 +9068,13 @@
     "lemma": "Pylon 3",
     "previous": "Pylon 2",
     "next": "Pylon 4",
+    "proof_read": 0,
     "short_description": "Vater d. Antiope",
     "chapters": [
       {
         "start": 2112,
-        "author": "Ziegler"
+        "end": 2112,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8996,11 +9082,13 @@
     "lemma": "Pylon 4",
     "previous": "Pylon 3",
     "next": "Pylora",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in Illyrien",
     "chapters": [
       {
         "start": 2112,
-        "author": "Saria"
+        "end": 2112,
+        "author": "B. Saria."
       }
     ]
   },
@@ -9008,12 +9096,13 @@
     "lemma": "Pylora",
     "previous": "Pylon 4",
     "next": "Pyloros 1",
+    "proof_read": 0,
     "short_description": "Der Küste Karmaniens vorgelagerte Insel d. Pers. Golfes",
     "chapters": [
       {
         "start": 2112,
         "end": 2113,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -9021,11 +9110,13 @@
     "lemma": "Pyloros 1",
     "previous": "Pylora",
     "next": "Pyloros 2",
+    "proof_read": 0,
     "short_description": "Beiname d. Aiakos",
     "chapters": [
       {
         "start": 2113,
-        "author": "Ziegler"
+        "end": 2113,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9033,11 +9124,13 @@
     "lemma": "Pyloros 2",
     "previous": "Pyloros 1",
     "next": "Pyloros 3",
+    "proof_read": 0,
     "short_description": "Beiname d. Kerberos",
     "chapters": [
       {
         "start": 2113,
-        "author": "Ziegler"
+        "end": 2113,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9057,13 +9150,14 @@
   {
     "lemma": "Pylos",
     "previous": "Pyloros 3",
-    "next": "Pylos 1",
+    "next": "Register (Band XXIII)",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
-        "start": 2113,
-        "end": 2114,
-        "author": "Meyer, Ernst"
+        "start": 2517,
+        "end": 2520,
+        "author": "Ernst Meyer."
       }
     ]
   },
