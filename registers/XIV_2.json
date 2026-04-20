@@ -1228,6 +1228,16 @@
     ]
   },
   {
+    "lemma": "Maraba",
+    "previous": "Mara 19",
+    "next": "Marabadus",
+    "chapters": [
+      {
+        "start": 1421
+      }
+    ]
+  },
+  {
     "lemma": "Marabadus",
     "previous": "Maraba",
     "next": "Maraba Metropolis",
@@ -1814,18 +1824,6 @@
         "start": 1435,
         "end": 1436,
         "author": "Honigmann."
-      }
-    ]
-  },
-  {
-    "lemma": "Marato kome",
-    "previous": "Maratocupreni",
-    "next": "Μάρατον Ζαβδάλης",
-    "short_description": "Ort",
-    "chapters": [
-      {
-        "start": 1435,
-        "author": "Honigmann"
       }
     ]
   },
@@ -3787,6 +3785,18 @@
         "start": 1498,
         "end": 1503,
         "author": "Kind."
+      }
+    ]
+  },
+  {
+    "lemma": "Marcellus 59",
+    "previous": "Marcellus 58",
+    "next": "Marcentius",
+    "chapters": [
+      {
+        "start": 1503,
+        "end": 1503,
+        "author": "Fabricius."
       }
     ]
   },
@@ -8120,10 +8130,10 @@
     ]
   },
   {
-    "lemma": "Mare Atlanticum",
-    "previous": "Mare Ausonium",
-    "next": "Mare Etruscum",
-    "redirect": "Mare nostrum",
+    "lemma": "Mare Ausonium",
+    "previous": "Mare Adriaticum",
+    "next": "Mare Atlanticum",
+    "redirect": "Mare Superum",
     "proof_read": 2,
     "chapters": [
       {
@@ -8133,10 +8143,10 @@
     ]
   },
   {
-    "lemma": "Mare Ausonium",
-    "previous": "Mare Adriaticum",
-    "next": "Mare Atlanticum",
-    "redirect": "Mare Superum",
+    "lemma": "Mare Atlanticum",
+    "previous": "Mare Ausonium",
+    "next": "Mare Etruscum",
+    "redirect": "Mare nostrum",
     "proof_read": 2,
     "chapters": [
       {
@@ -8255,21 +8265,6 @@
     ]
   },
   {
-    "lemma": "Marea, Mareotis",
-    "previous": "Mare Tyrrenum",
-    "next": "Mareades 1",
-    "sort_key": "Marea,mareotis",
-    "proof_read": 0,
-    "short_description": "Ort im NW von Unterägypten",
-    "chapters": [
-      {
-        "start": 1676,
-        "end": 1678,
-        "author": "Kees."
-      }
-    ]
-  },
-  {
     "lemma": "Mare Tuscum",
     "previous": "Mare Superum",
     "next": "Mare Tyrrenum",
@@ -8285,7 +8280,6 @@
   {
     "lemma": "Mare Tyrrenum",
     "previous": "Mare Tuscum",
-    "next": "Mareades 1",
     "redirect": "Mare Superum",
     "proof_read": 2,
     "chapters": [
@@ -8296,8 +8290,22 @@
     ]
   },
   {
-    "lemma": "Mareades 1",
+    "lemma": "Marea, Mareotis",
     "previous": "Mare Tyrrenum",
+    "next": "Mareades 1",
+    "sort_key": "Marea,mareotis",
+    "proof_read": 0,
+    "short_description": "Ort im NW von Unterägypten",
+    "chapters": [
+      {
+        "start": 1676,
+        "end": 1678,
+        "author": "Kees."
+      }
+    ]
+  },
+  {
+    "lemma": "Mareades 1",
     "next": "Mareades 2",
     "redirect": "Mariades",
     "proof_read": 2,
@@ -8724,20 +8732,6 @@
     ]
   },
   {
-    "lemma": "Margaron",
-    "previous": "Margarito",
-    "next": "Μάργασοι",
-    "proof_read": 0,
-    "short_description": "Siedlung Nordafrikas",
-    "chapters": [
-      {
-        "start": 1702,
-        "end": 1703,
-        "author": "Treidler."
-      }
-    ]
-  },
-  {
     "lemma": "Margarus",
     "previous": "Margarito",
     "next": "Margaron",
@@ -8752,9 +8746,21 @@
     ]
   },
   {
-    "lemma": "Margaroi",
-    "previous": "Margarus",
-    "next": "Μαργάστανα",
+    "lemma": "Margaron",
+    "previous": "Margarito",
+    "next": "Μάργασοι",
+    "proof_read": 0,
+    "short_description": "Siedlung Nordafrikas",
+    "chapters": [
+      {
+        "start": 1702,
+        "end": 1703,
+        "author": "Treidler."
+      }
+    ]
+  },
+  {
+    "lemma": "Μάργασοι",
     "short_description": "Volksstamm in Medien",
     "chapters": [
       {
@@ -9287,18 +9293,6 @@
         "start": 1750,
         "end": 1750,
         "author": "Geffcken."
-      }
-    ]
-  },
-  {
-    "lemma": "Marianoupolis",
-    "previous": "Marianos",
-    "next": "Marianum",
-    "short_description": "Ort",
-    "chapters": [
-      {
-        "start": 1750,
-        "author": "Honigmann"
       }
     ]
   },
@@ -10732,20 +10726,6 @@
     ]
   },
   {
-    "lemma": "Maris 4",
-    "previous": "Maris 5",
-    "next": "Mariscianus",
-    "proof_read": 0,
-    "short_description": "Bischof von Chalkedon",
-    "chapters": [
-      {
-        "start": 1807,
-        "end": 1808,
-        "author": "Enßlin."
-      }
-    ]
-  },
-  {
     "lemma": "Maris 5",
     "previous": "Maris 3",
     "next": "Maris 4",
@@ -10756,6 +10736,20 @@
       {
         "start": 1807,
         "end": 1807,
+        "author": "Enßlin."
+      }
+    ]
+  },
+  {
+    "lemma": "Maris 4",
+    "previous": "Maris 5",
+    "next": "Mariscianus",
+    "proof_read": 0,
+    "short_description": "Bischof von Chalkedon",
+    "chapters": [
+      {
+        "start": 1807,
+        "end": 1808,
         "author": "Enßlin."
       }
     ]
@@ -13205,20 +13199,6 @@
     ]
   },
   {
-    "lemma": "Marsia",
-    "previous": "Marsi Marruvini",
-    "next": "Marsigni",
-    "proof_read": 0,
-    "short_description": "Ort",
-    "chapters": [
-      {
-        "start": 1980,
-        "end": 1981,
-        "author": "Ruge."
-      }
-    ]
-  },
-  {
     "lemma": "Marsi Antinum",
     "previous": "Marsi 2",
     "next": "Marsi Marruvini",
@@ -13245,6 +13225,20 @@
         "start": 1980,
         "end": 1980,
         "author": "Philipp."
+      }
+    ]
+  },
+  {
+    "lemma": "Marsia",
+    "previous": "Marsi Marruvini",
+    "next": "Marsigni",
+    "proof_read": 0,
+    "short_description": "Ort",
+    "chapters": [
+      {
+        "start": 1980,
+        "end": 1981,
+        "author": "Ruge."
       }
     ]
   },
@@ -17406,18 +17400,6 @@
     ]
   },
   {
-    "lemma": "Masouchis",
-    "previous": "Mastruca, -ae",
-    "next": "Mastrum",
-    "short_description": "Kome mesogeios in Marmarica",
-    "chapters": [
-      {
-        "start": 2178,
-        "author": "Schwabe"
-      }
-    ]
-  },
-  {
     "lemma": "Mastrum",
     "previous": "Mastruca, -ae",
     "next": "Mastusia 1",
@@ -17740,6 +17722,17 @@
     ]
   },
   {
+    "lemma": "Mater Matuta",
+    "previous": "Mater Magna",
+    "next": "Materense oppidum",
+    "chapters": [
+      {
+        "start": 2185,
+        "end": 2185
+      }
+    ]
+  },
+  {
     "lemma": "Materense oppidum",
     "previous": "Mater Matuta",
     "next": "Materiarii",
@@ -17783,19 +17776,6 @@
     ]
   },
   {
-    "lemma": "Mater Matuta",
-    "previous": "Materiatio",
-    "next": "Materina plaga",
-    "redirect": "Matuta",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 2185,
-        "end": 2185
-      }
-    ]
-  },
-  {
     "lemma": "Materina plaga",
     "previous": "Mater Matuta",
     "next": "Maternianus 1",
@@ -17805,6 +17785,16 @@
       {
         "start": 2193,
         "end": 2193
+      }
+    ]
+  },
+  {
+    "lemma": "Materna",
+    "previous": "Materina plaga",
+    "next": "Maternianus 1",
+    "chapters": [
+      {
+        "start": 2193
       }
     ]
   },
@@ -19679,6 +19669,18 @@
     ]
   },
   {
+    "lemma": "Μαῦβαι",
+    "previous": "Mauakes",
+    "next": "Maudakes",
+    "chapters": [
+      {
+        "start": 2330,
+        "end": 2330,
+        "author": "Weissbach."
+      }
+    ]
+  },
+  {
     "lemma": "Maudakes",
     "previous": "Μαῦβαι",
     "next": "Maudio",
@@ -19802,6 +19804,20 @@
     ]
   },
   {
+    "lemma": "Maulion",
+    "previous": "Maulbeerbaum",
+    "next": "Maulesel",
+    "proof_read": 2,
+    "short_description": "verstümmelter Name einer britannischen Civitas",
+    "chapters": [
+      {
+        "start": 2338,
+        "end": 2338,
+        "author": "Macdonald."
+      }
+    ]
+  },
+  {
     "lemma": "Maulesel",
     "previous": "Maulion",
     "next": "Maultier",
@@ -19814,20 +19830,6 @@
         "start": 2338,
         "end": 2338,
         "author": "Schuster."
-      }
-    ]
-  },
-  {
-    "lemma": "Maulion",
-    "previous": "Maulbeerbaum",
-    "next": "Maulesel",
-    "proof_read": 2,
-    "short_description": "verstümmelter Name einer britannischen Civitas",
-    "chapters": [
-      {
-        "start": 2338,
-        "end": 2338,
-        "author": "Macdonald."
       }
     ]
   },
@@ -19862,20 +19864,6 @@
     ]
   },
   {
-    "lemma": "Ma(i)unnia",
-    "previous": "Maun",
-    "next": "Mavortius 1",
-    "proof_read": 0,
-    "short_description": "Demos von Mylasa",
-    "chapters": [
-      {
-        "start": 2342,
-        "end": 2343,
-        "author": "Ruge."
-      }
-    ]
-  },
-  {
     "lemma": "Maumarum",
     "previous": "Maulwurf",
     "next": "Maun",
@@ -19900,6 +19888,20 @@
         "start": 2342,
         "end": 2342,
         "author": "Enßlin."
+      }
+    ]
+  },
+  {
+    "lemma": "Ma(i)unnia",
+    "previous": "Maun",
+    "next": "Mavortius 1",
+    "proof_read": 0,
+    "short_description": "Demos von Mylasa",
+    "chapters": [
+      {
+        "start": 2342,
+        "end": 2343,
+        "author": "Ruge."
       }
     ]
   },
