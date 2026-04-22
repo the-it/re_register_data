@@ -8647,6 +8647,7 @@
     "sort_key": "Prorates",
     "redirect": true,
     "proof_read": 2,
+    "short_description": "Prorates",
     "chapters": [
       {
         "start": 838,
@@ -8657,21 +8658,21 @@
   {
     "lemma": "proreta",
     "previous": "Πρωράτης",
-    "next": "proreus",
+    "next": "Proreus",
     "proof_read": 0,
-    "short_description": "Ständiger Backsgast",
+    "short_description": "ständiger Backsgast",
     "chapters": [
       {
         "start": 838,
         "end": 839,
-        "author": "Miltner."
+        "author": "Franz Miltner."
       }
     ]
   },
   {
-    "lemma": "proreus",
+    "lemma": "Proreus",
     "previous": "proreta",
-    "next": "prorogatio",
+    "next": "Proreus 1",
     "proof_read": 0,
     "short_description": "Name von Seeleuten s. prora",
     "chapters": [
@@ -8683,8 +8684,34 @@
     ]
   },
   {
+    "lemma": "Proreus 1",
+    "previous": "Proreus",
+    "next": "Proreus 2",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 839,
+        "end": 839,
+        "author": "Kolf."
+      }
+    ]
+  },
+  {
+    "lemma": "Proreus 2",
+    "previous": "Proreus 1",
+    "next": "prorogatio",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 839,
+        "end": 839,
+        "author": "Kolf."
+      }
+    ]
+  },
+  {
     "lemma": "prorogatio",
-    "previous": "proreus",
+    "previous": "Proreus 2",
     "next": "Pro(r)sa",
     "sort_key": "Prorogatio",
     "redirect": "Zivilprozeß",

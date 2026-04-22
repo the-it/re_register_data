@@ -8171,7 +8171,8 @@
   {
     "lemma": "Νέα Ὀλυμπία",
     "previous": "Nea Kome 2",
-    "sort_key": "Neaolympia",
+    "next": "Neaethus",
+    "sort_key": "Nea Valentia",
     "proof_read": 2,
     "short_description": "die elfte Phyle von Ankyra in Galatien. CIG 4019.",
     "chapters": [
@@ -8199,8 +8200,23 @@
   {
     "lemma": "Neaethus",
     "previous": "Nea Valentia",
+    "next": "Neai",
     "proof_read": 0,
     "short_description": "Fluß im Gebiet v. Kroton in Unteritalien",
+    "chapters": [
+      {
+        "start": 2103,
+        "end": 2103,
+        "author": "Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Neai",
+    "previous": "Neaethus",
+    "next": "Neaichmos",
+    "proof_read": 0,
+    "short_description": "Siculerstadt in SO-Sicilien",
     "chapters": [
       {
         "start": 2103,
@@ -8211,6 +8227,7 @@
   },
   {
     "lemma": "Neaichmos",
+    "previous": "Neai",
     "next": "Neaiduno",
     "proof_read": 2,
     "short_description": "Athenischer Archon im J. 320/19, IG II² 380. 381. 382. 383. 384. 1468. 1469,",
@@ -8350,6 +8367,7 @@
   {
     "lemma": "Neaira 8",
     "previous": "Neaira 7",
+    "next": "Neaithos",
     "proof_read": 0,
     "short_description": "Hetäre in Athen",
     "wp_link": "w:de:Neaira (Hetäre)",
@@ -8364,6 +8382,8 @@
   },
   {
     "lemma": "Neaithos",
+    "previous": "Neaira 8",
+    "next": "Neaiton",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -8375,6 +8395,8 @@
   },
   {
     "lemma": "Neaiton",
+    "previous": "Neaithos",
+    "next": "Nealkes",
     "redirect": "Neton 1",
     "proof_read": 2,
     "chapters": [
@@ -8386,6 +8408,7 @@
   },
   {
     "lemma": "Nealkes",
+    "previous": "Neaiton",
     "proof_read": 0,
     "short_description": "Maler, wahrscheinl. Freund d. Aratos",
     "wp_link": "w:en:Nealkes",
@@ -9593,6 +9616,7 @@
   },
   {
     "lemma": "Negra",
+    "previous": "Negotiorum gestio",
     "next": "Negrana",
     "redirect": "Ναγάρα 1",
     "proof_read": 2,

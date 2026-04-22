@@ -2519,7 +2519,7 @@
   {
     "lemma": "Pytha(i)eus 2",
     "previous": "Pytha(i)eus 1",
-    "next": "Pythagoras",
+    "next": "Pythagoras 1",
     "proof_read": 0,
     "short_description": "Sohn Apollons",
     "chapters": [
@@ -2920,9 +2920,9 @@
   {
     "lemma": "Πυθαγγέλου βωμοί",
     "previous": "Pythangelos 3",
-    "next": "Pythangelou kynegion",
+    "next": "Πυθαγγέλου κυνήγιον",
     "sort_key": "Pythangelou bomoi",
-    "redirect": "Pythangelou kynegion",
+    "redirect": "Πυθαγγέλου κυνήγιον",
     "proof_read": 2,
     "chapters": [
       {
@@ -4749,11 +4749,13 @@
     "lemma": "Pythokritos 3",
     "previous": "Pythokritos 2",
     "next": "Pythoktonos",
+    "proof_read": 0,
     "short_description": "Portraitbildner d. 1.H.2. Jh.v. Chr., Sohn d. Timocharis aus Rhodos",
     "chapters": [
       {
         "start": 602,
-        "author": "Rumpf"
+        "end": 602,
+        "author": "A. Rumpf."
       }
     ]
   },
@@ -4775,7 +4777,7 @@
   {
     "lemma": "Pytholaos",
     "previous": "Pythoktonos",
-    "next": "Pytholaou akroterion",
+    "next": "Πυθολάου ἀκρωτήριον",
     "proof_read": 2,
     "short_description": "statt Peitholaos",
     "no_creative_height": true,
@@ -4788,8 +4790,22 @@
     ]
   },
   {
-    "lemma": "Pytholaou akroterion",
+    "lemma": "Πυθολάου ἀκρωτήριον",
     "previous": "Pytholaos",
+    "next": "Πυθολάου βωμοί",
+    "sort_key": "Pytholaouakroterion",
+    "proof_read": 0,
+    "short_description": "Nur von Strabon erwähntes Vorgebirge an d. ostafrikan. Küste i. Westteil d.",
+    "chapters": [
+      {
+        "start": 602,
+        "end": 604,
+        "author": "Treidler."
+      }
+    ]
+  },
+  {
+    "lemma": "Pytholaou akroterion",
     "next": "Pytholaou bomoi",
     "short_description": "Nur von Strabon erwähntes Vorgebirge an d. ostafrikan. Küste i. Westteil d.",
     "chapters": [
@@ -4907,12 +4923,13 @@
     "lemma": "Python 4",
     "previous": "Python 3",
     "next": "Python 5",
+    "proof_read": 0,
     "short_description": "Aus Byzanz, bedeutender Redner d. 4. Jh.v. Chr., Schüler d. Isokrates",
     "chapters": [
       {
         "start": 611,
         "end": 613,
-        "author": "Schmitt"
+        "author": "Hatto H. Schmitt."
       }
     ]
   },
@@ -4920,12 +4937,13 @@
     "lemma": "Python 5",
     "previous": "Python 4",
     "next": "Python 6",
+    "proof_read": 0,
     "short_description": "Möglicher Autor d. Satyrspiels Agen",
     "chapters": [
       {
         "start": 613,
         "end": 615,
-        "author": "Stoessl"
+        "author": "F. Stoessl."
       }
     ]
   },
@@ -4933,11 +4951,13 @@
     "lemma": "Python 6",
     "previous": "Python 5",
     "next": "Python 7",
+    "proof_read": 0,
     "short_description": "Bedeutender Bürger v. Abdera",
     "chapters": [
       {
         "start": 615,
-        "author": "Schmitt"
+        "end": 615,
+        "author": "Hatto H. Schmitt."
       }
     ]
   },
@@ -4945,12 +4965,13 @@
     "lemma": "Python 7",
     "previous": "Python 6",
     "next": "Python 8",
+    "proof_read": 0,
     "short_description": "Kommandant d. Königs Perseus i. 3. Makedon. Krieg",
     "chapters": [
       {
         "start": 615,
         "end": 616,
-        "author": "Schmitt"
+        "author": "Hatto H. Schmitt."
       }
     ]
   },
@@ -4958,11 +4979,13 @@
     "lemma": "Python 8",
     "previous": "Python 7",
     "next": "Python 9",
+    "proof_read": 0,
     "short_description": "Führer einer Gesandtschaft d. Königs Prusias II. von Bithynien",
     "chapters": [
       {
         "start": 616,
-        "author": "Schmitt"
+        "end": 616,
+        "author": "Hatto H. Schmitt."
       }
     ]
   },
@@ -4970,11 +4993,13 @@
     "lemma": "Python 9",
     "previous": "Python 8",
     "next": "Python 10",
+    "proof_read": 0,
     "short_description": "Bürger v. Enna",
     "chapters": [
       {
         "start": 616,
-        "author": "Schmitt"
+        "end": 616,
+        "author": "Hatto H. Schmitt."
       }
     ]
   },
@@ -4982,12 +5007,13 @@
     "lemma": "Python 10",
     "previous": "Python 9",
     "next": "Python 11",
+    "proof_read": 0,
     "short_description": "Vorsteher d. königl. Bank des Gaues Arsinoites, Mitte 3. Jh.v. Chr.",
     "chapters": [
       {
         "start": 616,
         "end": 617,
-        "author": "Schmitt"
+        "author": "Hatto H. Schmitt."
       }
     ]
   },
@@ -5011,11 +5037,13 @@
     "lemma": "Python 12",
     "previous": "Python 11",
     "next": "Python 13",
+    "proof_read": 0,
     "short_description": "Falsche Lesart für Peithon",
     "chapters": [
       {
         "start": 617,
-        "author": "Ziegler"
+        "end": 617,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5023,11 +5051,13 @@
     "lemma": "Python 13",
     "previous": "Python 12",
     "next": "Pythonax 1",
+    "proof_read": 0,
     "short_description": "Lieblingsknabe d. Flötenspielers Euios",
     "chapters": [
       {
         "start": 617,
-        "author": "Ziegler"
+        "end": 617,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5035,11 +5065,13 @@
     "lemma": "Pythonax 1",
     "previous": "Python 13",
     "next": "Pythonax 2",
+    "proof_read": 0,
     "short_description": "Vater d. Arthmios aus Zeleia",
     "chapters": [
       {
         "start": 617,
-        "author": "Ziegler"
+        "end": 617,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5047,11 +5079,13 @@
     "lemma": "Pythonax 2",
     "previous": "Pythonax 1",
     "next": "Pythonax 3",
+    "proof_read": 0,
     "short_description": "Makedone, Vater d. Demetrios",
     "chapters": [
       {
         "start": 617,
-        "author": "Ziegler"
+        "end": 617,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5059,11 +5093,13 @@
     "lemma": "Pythonax 3",
     "previous": "Pythonax 2",
     "next": "Pythonax 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Megaristos",
     "chapters": [
       {
         "start": 617,
-        "author": "Ziegler"
+        "end": 617,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5071,11 +5107,13 @@
     "lemma": "Pythonax 4",
     "previous": "Pythonax 3",
     "next": "Pythonikos 1",
+    "proof_read": 0,
     "short_description": "Vater d. Kreterin Theano",
     "chapters": [
       {
         "start": 617,
-        "author": "Ziegler"
+        "end": 617,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5083,46 +5121,54 @@
     "lemma": "Pythonikos 1",
     "previous": "Pythonax 4",
     "next": "Pythonikos 2",
+    "proof_read": 0,
     "short_description": "Athener, einer d. Kläger gegen Alkibiades",
     "chapters": [
       {
         "start": 617,
         "end": 618,
-        "author": "Gärtner"
+        "author": "Gärtner."
       }
     ]
   },
   {
     "lemma": "Pythonikos 2",
     "previous": "Pythonikos 1",
-    "next": "Pythonos kome",
+    "next": "Πύθωνος κώμη",
+    "proof_read": 0,
     "short_description": "Athener, Verf. obszöner Schriften",
     "chapters": [
       {
         "start": 618,
-        "author": "Ziegler"
+        "end": 618,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Pythonos kome",
+    "lemma": "Πύθωνος κώμη",
     "previous": "Pythonikos 2",
     "next": "Pythophanes",
+    "sort_key": "Pythonoskome",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 618,
-        "author": "Schneider, K[arl]"
+        "end": 618,
+        "author": "K. Schneider."
       }
     ]
   },
   {
     "lemma": "Pythophanes",
-    "previous": "Pythonos kome",
+    "previous": "Πύθωνος κώμη",
     "next": "Pythopolis 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 618,
-        "author": "Schmitt"
+        "end": 618,
+        "author": "Hatto H. Schmitt."
       }
     ]
   },
@@ -5130,11 +5176,13 @@
     "lemma": "Pythopolis 1",
     "previous": "Pythophanes",
     "next": "Pythopolis 2",
+    "proof_read": 0,
     "short_description": "Stadt i. Bithynien",
     "chapters": [
       {
         "start": 618,
-        "author": "Dörner"
+        "end": 618,
+        "author": "F. K. Dörner."
       }
     ]
   },
@@ -5142,11 +5190,13 @@
     "lemma": "Pythopolis 2",
     "previous": "Pythopolis 1",
     "next": "Pythopolis 3",
+    "proof_read": 0,
     "short_description": "s. Antiocheia",
     "chapters": [
       {
         "start": 618,
-        "author": "Ziegler"
+        "end": 618,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5154,11 +5204,13 @@
     "lemma": "Pythopolis 3",
     "previous": "Pythopolis 2",
     "next": "Pythostratos 1",
+    "proof_read": 0,
     "short_description": "Name d. klugen Frau d. Pythios (s.d.)",
     "chapters": [
       {
         "start": 618,
-        "author": "Ziegler"
+        "end": 618,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5166,11 +5218,13 @@
     "lemma": "Pythostratos 1",
     "previous": "Pythopolis 3",
     "next": "Pythostratos 2",
+    "proof_read": 0,
     "short_description": "Von Athen, Sieger i. Olympia",
     "chapters": [
       {
         "start": 618,
-        "author": "Ziegler"
+        "end": 618,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5194,10 +5248,17 @@
     "lemma": "Pythus",
     "previous": "Pythostratos 2",
     "next": "Pytna",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 618,
-        "author": "Schneider, K[arl]"
+        "end": 618,
+        "author": "K. Schneider."
+      },
+      {
+        "start": 618,
+        "end": 618,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -5218,18 +5279,19 @@
     "lemma": "Pyttalos",
     "previous": "Pytna",
     "next": "Pyttios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 618,
         "end": 619,
-        "author": "Ziegler"
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Pyttios",
     "previous": "Pyttalos",
-    "next": "Pyxa(i",
+    "next": "Pyxa(i)",
     "proof_read": 2,
     "short_description": "Vater des Amarynkeus, wanderte in der Generation vor Herakles in Elis ein",
     "wd_link": "d:Q122981030",
@@ -5243,24 +5305,29 @@
     ]
   },
   {
-    "lemma": "Pyxa(i",
+    "lemma": "Pyxa(i)",
     "previous": "Pyttios",
     "next": "Pyxios",
+    "sort_key": "Pyxa(i",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 619,
-        "author": "Ziegler"
+        "end": 619,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Pyxios",
-    "previous": "Pyxa(i",
+    "previous": "Pyxa(i)",
     "next": "Pyxites",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 619,
-        "author": "Geisau"
+        "end": 619,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -5268,10 +5335,13 @@
     "lemma": "Pyxites",
     "previous": "Pyxios",
     "next": "Pyxurates",
+    "proof_read": 0,
+    "short_description": "kleiner Fluß an Südostküste des Pontos Euxeinos",
     "chapters": [
       {
         "start": 619,
-        "author": "Danoff"
+        "end": 619,
+        "author": "Chr. M. Danoff."
       }
     ]
   },
@@ -5279,12 +5349,13 @@
     "lemma": "Pyxurates",
     "previous": "Pyxites",
     "next": "Pyxus",
+    "proof_read": 0,
     "short_description": "Nur bei Plin. nat. erwähnter Flußlauf d. römischen Provinz Groß-Armenien",
     "chapters": [
       {
         "start": 619,
         "end": 620,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -5305,10 +5376,13 @@
     "lemma": "Q als Sigle",
     "previous": "Pyxus",
     "next": "Q als Sigle 1",
+    "sort_key": "Qals sigle",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 621,
-        "author": "Chantraine"
+        "end": 621,
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5316,11 +5390,14 @@
     "lemma": "Q als Sigle 1",
     "previous": "Q als Sigle",
     "next": "Q als Sigle 2",
+    "sort_key": "Qals sigle 1",
+    "proof_read": 0,
     "short_description": "quaestor",
     "chapters": [
       {
         "start": 621,
-        "author": "Chantraine"
+        "end": 621,
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5358,12 +5435,14 @@
     "lemma": "Q als Sigle 4",
     "previous": "Q als Sigle 3",
     "next": "Quadi",
+    "sort_key": "Qals sigle 4",
+    "proof_read": 0,
     "short_description": "Münz-, Maß- u. Kalenderwesen Rechtswesen Grabinschriften",
     "chapters": [
       {
         "start": 622,
         "end": 623,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5371,12 +5450,13 @@
     "lemma": "Quadi",
     "previous": "Q als Sigle 4",
     "next": "Quadiates",
+    "proof_read": 0,
     "short_description": "Kouadoi, Swebisch-elbgermanischer Stamm",
     "chapters": [
       {
         "start": 623,
         "end": 647,
-        "author": "Goessler"
+        "author": "Goessler."
       }
     ]
   },
@@ -5399,12 +5479,13 @@
     "lemma": "quadragesima",
     "previous": "Quadiates",
     "next": "quadrans",
+    "proof_read": 0,
     "short_description": "I. d. römischen Kaiserzeit v.a. als Zoll erhobene zweieinhalbprozentige Abgabe",
     "chapters": [
       {
         "start": 647,
         "end": 649,
-        "author": "Lippold, Adolf"
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5412,12 +5493,13 @@
     "lemma": "quadrans",
     "previous": "quadragesima",
     "next": "Quadranta",
+    "proof_read": 0,
     "short_description": "Viertel' d. römischen As Münz- u. Maßeinheit",
     "chapters": [
       {
         "start": 649,
         "end": 667,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5438,12 +5520,13 @@
     "lemma": "quadrantal",
     "previous": "Quadranta",
     "next": "Quadrantalfuß",
+    "proof_read": 0,
     "short_description": "Kubus Kubikfuß (Maßeinheit)",
     "chapters": [
       {
         "start": 667,
         "end": 672,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5451,12 +5534,13 @@
     "lemma": "Quadrantalfuß",
     "previous": "quadrantal",
     "next": "Quadrata 1",
+    "proof_read": 0,
     "short_description": "Angebl. Reduktionsstufe d. italischen, speziell d. römischen Bronzegeldes",
     "chapters": [
       {
         "start": 672,
         "end": 673,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5464,11 +5548,13 @@
     "lemma": "Quadrata 1",
     "previous": "Quadrantalfuß",
     "next": "Quadrata 2",
+    "proof_read": 0,
     "short_description": "Station an d. Straße von Ticinum nach Placentia",
     "chapters": [
       {
         "start": 673,
-        "author": "Radke"
+        "end": 673,
+        "author": "G. Radke."
       }
     ]
   },
@@ -5476,11 +5562,13 @@
     "lemma": "Quadrata 2",
     "previous": "Quadrata 1",
     "next": "Quadrata 3",
+    "proof_read": 0,
     "short_description": "Station an d. Straße von Augusta Tuarinorum nach Ticinum",
     "chapters": [
       {
         "start": 673,
-        "author": "Radke"
+        "end": 673,
+        "author": "G. Radke."
       }
     ]
   },
@@ -5488,12 +5576,13 @@
     "lemma": "Quadrata 3",
     "previous": "Quadrata 2",
     "next": "Quadratianus 1",
+    "proof_read": 0,
     "short_description": "Befestigte Straßenstation i. nördlichen Dalmatien",
     "chapters": [
       {
         "start": 673,
         "end": 674,
-        "author": "Saria"
+        "author": "B. Saria."
       }
     ]
   },
@@ -5501,11 +5590,13 @@
     "lemma": "Quadratianus 1",
     "previous": "Quadrata 3",
     "next": "Quadratianus 2",
+    "proof_read": 0,
     "short_description": "Praef. praet. Italiae unter Valentinianus III.",
     "chapters": [
       {
         "start": 674,
-        "author": "Lippold, Adolf"
+        "end": 674,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5528,12 +5619,13 @@
     "lemma": "Quadration",
     "previous": "Quadratianus 2",
     "next": "Quadratis",
+    "proof_read": 0,
     "short_description": "Kodration",
     "chapters": [
       {
         "start": 674,
         "end": 675,
-        "author": "Gärtner"
+        "author": "Gärtner."
       }
     ]
   },
@@ -5541,11 +5633,13 @@
     "lemma": "Quadratis",
     "previous": "Quadration",
     "next": "Quadrato",
+    "proof_read": 0,
     "short_description": "Ort in Pannonia Sup.",
     "chapters": [
       {
         "start": 675,
-        "author": "Saria"
+        "end": 675,
+        "author": "B. Saria."
       }
     ]
   },
@@ -5553,10 +5647,12 @@
     "lemma": "Quadrato",
     "previous": "Quadratis",
     "next": "Quadratum incusum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 675,
-        "author": "Saria"
+        "end": 675,
+        "author": "B. Saria."
       }
     ]
   },
@@ -5564,12 +5660,14 @@
     "lemma": "Quadratum incusum",
     "previous": "Quadrato",
     "next": "Quadratus 1",
+    "sort_key": "Quadratumincusum",
+    "proof_read": 0,
     "short_description": "Moderner Ausdruck für d. vertiefte, urspr. bildlose Einstempelung auf d.",
     "chapters": [
       {
         "start": 675,
         "end": 677,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5592,11 +5690,13 @@
     "lemma": "Quadratus 2",
     "previous": "Quadratus 1",
     "next": "Quadratus 3",
+    "proof_read": 0,
     "short_description": "Bischof v. Athen z.Zt. Kaisers Marc Aurel",
     "chapters": [
       {
         "start": 677,
-        "author": "Lippold, Adolf"
+        "end": 677,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5649,11 +5749,13 @@
     "lemma": "Quadratus 6",
     "previous": "Quadratus 5",
     "next": "Quadratus 7",
+    "proof_read": 0,
     "short_description": "Leg(atus) Aug. pr. pr. von Lusitanien",
     "chapters": [
       {
         "start": 677,
-        "author": "Hanslik"
+        "end": 677,
+        "author": "Hanslik."
       }
     ]
   },
@@ -5676,12 +5778,13 @@
     "lemma": "Quadratus 8",
     "previous": "Quadratus 7",
     "next": "Quadratus 9",
+    "proof_read": 0,
     "short_description": "Bischof von Utica",
     "chapters": [
       {
         "start": 677,
         "end": 678,
-        "author": "Lippold, Adolf"
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5689,11 +5792,13 @@
     "lemma": "Quadratus 9",
     "previous": "Quadratus 8",
     "next": "Quadratus 10",
+    "proof_read": 0,
     "short_description": "Episc. Gegitanus",
     "chapters": [
       {
         "start": 678,
-        "author": "Lippold, Adolf"
+        "end": 678,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5714,12 +5819,13 @@
     "lemma": "Quadriburgium 1",
     "previous": "Quadratus 10",
     "next": "Quadriburgium 2",
+    "proof_read": 0,
     "short_description": "Befestigte Siedlung d. römischen Spätzeit am Niederrhein",
     "chapters": [
       {
         "start": 678,
         "end": 680,
-        "author": "Goessler"
+        "author": "Goessler."
       }
     ]
   },
@@ -5742,49 +5848,55 @@
     "lemma": "Quadriburgium 3",
     "previous": "Quadriburgium 2",
     "next": "Quadriformis",
+    "proof_read": 0,
     "short_description": "Spätantike Festung i. d. Provinz Valeria",
     "chapters": [
       {
         "start": 680,
-        "author": "Saria"
+        "end": 680,
+        "author": "B. Saria."
       }
     ]
   },
   {
     "lemma": "Quadriformis",
     "previous": "Quadriburgium 3",
-    "next": "Quadrifons",
+    "next": "Quadrifrons",
+    "proof_read": 0,
     "short_description": "Beiname d. Ianus",
     "chapters": [
       {
         "start": 680,
         "end": 681,
-        "author": "Eisenhut"
+        "author": "Werner Eisenhut."
       }
     ]
   },
   {
-    "lemma": "Quadrifons",
+    "lemma": "Quadrifrons",
     "previous": "Quadriformis",
     "next": "Quadriga",
+    "proof_read": 0,
     "short_description": "Beiname d. Ianus",
     "chapters": [
       {
         "start": 681,
-        "author": "Eisenhut"
+        "end": 681,
+        "author": "Werner Eisenhut."
       }
     ]
   },
   {
     "lemma": "Quadriga",
-    "previous": "Quadrifons",
+    "previous": "Quadrifrons",
     "next": "Quadrigarius",
+    "proof_read": 0,
     "short_description": "Viergespann",
     "chapters": [
       {
         "start": 681,
         "end": 686,
-        "author": "Schneider, K[arl]"
+        "author": "K. Schneider."
       }
     ]
   },
@@ -5805,12 +5917,13 @@
     "lemma": "Quadrigatus",
     "previous": "Quadrigarius",
     "next": "Quadriviae",
+    "proof_read": 0,
     "short_description": "Silbergeldsorte der römischen Republik",
     "chapters": [
       {
         "start": 686,
         "end": 708,
-        "author": "Thomsen"
+        "author": "Rudi Thomsen."
       }
     ]
   },
@@ -5831,12 +5944,14 @@
     "lemma": "quadrunx, quatrunx",
     "previous": "Quadriviae",
     "next": "quadruplator 1",
+    "sort_key": "quadrunx,quatrunx",
+    "proof_read": 0,
     "short_description": "Moderne Wortbildung nach quincunx zur Bezeichnung eines Vierunzenstücks bei",
     "chapters": [
       {
         "start": 708,
         "end": 710,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5844,12 +5959,13 @@
     "lemma": "quadruplator 1",
     "previous": "quadrunx, quatrunx",
     "next": "quadruplator 2",
+    "proof_read": 0,
     "short_description": "Ankläger in einem öffentlichen Strafverfahren",
     "chapters": [
       {
         "start": 710,
         "end": 711,
-        "author": "Wesener"
+        "author": "Gunter Wesener."
       }
     ]
   },
@@ -5857,11 +5973,13 @@
     "lemma": "quadruplator 2",
     "previous": "quadruplator 1",
     "next": "quadrussis",
+    "proof_read": 0,
     "short_description": "Zollpächter",
     "chapters": [
       {
         "start": 711,
-        "author": "Wesener"
+        "end": 711,
+        "author": "Gunter Wesener."
       }
     ]
   },
@@ -5869,12 +5987,13 @@
     "lemma": "quadrussis",
     "previous": "quadruplator 2",
     "next": "Quadruviae",
+    "proof_read": 0,
     "short_description": "Vier Asse",
     "chapters": [
       {
         "start": 711,
         "end": 714,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -5882,12 +6001,13 @@
     "lemma": "Quadruviae",
     "previous": "quadrussis",
     "next": "quaesitor 1",
+    "proof_read": 0,
     "short_description": "Kreuzwege als Zentralpunkte magischer Praxis",
     "chapters": [
       {
         "start": 714,
         "end": 720,
-        "author": "Heichelheim"
+        "author": "Heichelheim."
       }
     ]
   },
@@ -5895,11 +6015,13 @@
     "lemma": "quaesitor 1",
     "previous": "Quadruviae",
     "next": "quaesitor 2",
+    "proof_read": 0,
     "short_description": "Vorsitzender eines Geschworenengerichts",
     "chapters": [
       {
         "start": 720,
-        "author": "Wesener"
+        "end": 720,
+        "author": "Gunter Wesener."
       }
     ]
   },
@@ -5922,12 +6044,13 @@
     "lemma": "quaestio 1",
     "previous": "quaesitor 2",
     "next": "quaestio 2",
+    "proof_read": 0,
     "short_description": "Begriff d. römischen Kriminalgesetzgebung",
     "chapters": [
       {
         "start": 720,
         "end": 786,
-        "author": "Kunkel, Wolfgang"
+        "author": "W. Kunkel."
       }
     ]
   },
@@ -5935,12 +6058,13 @@
     "lemma": "quaestio 2",
     "previous": "quaestio 1",
     "next": "quaestio 3",
+    "proof_read": 0,
     "short_description": "per tormenta, Folterung",
     "chapters": [
       {
         "start": 786,
         "end": 787,
-        "author": "Waldstein"
+        "author": "Wolfgang Waldstein."
       }
     ]
   },
@@ -5948,12 +6072,13 @@
     "lemma": "quaestio 3",
     "previous": "quaestio 2",
     "next": "quaestor",
-    "short_description": "lance et licio, Solenne, früh obsolet gewordene Haussuchung",
+    "proof_read": 0,
+    "short_description": "lance et licio, Solenne, frühere röm. Haussuchung",
     "chapters": [
       {
         "start": 788,
         "end": 801,
-        "author": "Horak"
+        "author": "Franz Horak."
       }
     ]
   },
@@ -5961,12 +6086,13 @@
     "lemma": "quaestor",
     "previous": "quaestio 3",
     "next": "quaestorium",
+    "proof_read": 0,
     "short_description": "Magistrat in Rom",
     "chapters": [
       {
         "start": 801,
         "end": 827,
-        "author": "Wesener"
+        "author": "Gunter Wesener."
       }
     ]
   },
@@ -6002,11 +6128,13 @@
     "lemma": "quaestorius 2",
     "previous": "quaestorius 1",
     "next": "quaestura",
+    "proof_read": 0,
     "short_description": "Als Substantiv",
     "chapters": [
       {
         "start": 827,
-        "author": "Wesener"
+        "end": 827,
+        "author": "Gunter Wesener."
       }
     ]
   },
@@ -6014,10 +6142,12 @@
     "lemma": "quaestura",
     "previous": "quaestorius 2",
     "next": "qualesquales",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 827,
-        "author": "Wesener"
+        "end": 827,
+        "author": "Gunter Wesener."
       }
     ]
   },
@@ -6038,12 +6168,13 @@
     "lemma": "Quariates/Quadiates",
     "previous": "qualesquales",
     "next": "Quarqueni",
+    "proof_read": 0,
     "short_description": "Namen eines gallisch-ligurischen Volkes in den cottischen Alpen",
     "chapters": [
       {
         "start": 827,
         "end": 828,
-        "author": "Goessler"
+        "author": "Goessler."
       }
     ]
   },
@@ -6051,12 +6182,13 @@
     "lemma": "Quarqueni",
     "previous": "Quariates/Quadiates",
     "next": "Quarquerni",
+    "proof_read": 0,
     "short_description": "Volksstamm i.d. 10.ital. Region",
     "chapters": [
       {
         "start": 828,
         "end": 829,
-        "author": "Saria"
+        "author": "B. Saria."
       }
     ]
   },
@@ -6064,10 +6196,12 @@
     "lemma": "Quarquerni",
     "previous": "Quarqueni",
     "next": "Quartana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 829,
-        "author": "Schulten"
+        "end": 829,
+        "author": "Schulten."
       }
     ]
   },

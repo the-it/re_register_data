@@ -6220,6 +6220,7 @@
     "lemma": "Sex Pulfennius Salutaris",
     "previous": "Pulex 2",
     "next": "Pulfio",
+    "sort_key": "Pulfennius",
     "proof_read": 0,
     "short_description": "Salutaris (usw.) Cilo aus Venafrum, Sex.",
     "chapters": [
@@ -9743,15 +9744,18 @@
     "lemma": "prytaneia, neion, -nis",
     "previous": "Prusias 4",
     "next": "Psaios",
+    "redirect": true,
+    "proof_read": 2,
     "chapters": [
       {
-        "start": 2465
+        "start": 2465,
+        "end": 2465
       }
     ]
   },
   {
     "lemma": "Psaios",
-    "previous": "Prusias",
+    "previous": "prytaneia, neion, -nis",
     "next": "ψηφοκλέπτης",
     "chapters": [
       {

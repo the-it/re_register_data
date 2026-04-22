@@ -2021,6 +2021,8 @@
   },
   {
     "lemma": "Μονόγισ(σ)α",
+    "previous": "Monogisene",
+    "next": "Monogisene",
     "sort_key": "Monogissa",
     "proof_read": 2,
     "short_description": "Stadt in Karien, nur bekannt durch das Ethnikon Μονογισηνή, das die dort",
@@ -2047,6 +2049,7 @@
   },
   {
     "lemma": "Μονογλῶσσον",
+    "previous": "Monogisene",
     "next": "Monogramm",
     "sort_key": "Monoglosson",
     "proof_read": 2,
@@ -5007,7 +5010,7 @@
   {
     "lemma": "Moschos 8",
     "previous": "Moschos 7",
-    "next": "Moschosphragistes",
+    "next": "Μοσχοσφραγιστής",
     "redirect": "Moschus",
     "proof_read": 2,
     "chapters": [
@@ -5018,12 +5021,12 @@
     ]
   },
   {
-    "lemma": "Moschosphragistes",
+    "lemma": "Μοσχοσφραγιστής",
     "previous": "Moschos 8",
     "next": "Moschus",
     "sort_key": "Moschosphragistes",
     "proof_read": 0,
-    "short_description": "Mitglied einer bes. Priestergruppe in Ägypten",
+    "short_description": "Moschosphragistes, eine Priestergruppe in Ägypten",
     "chapters": [
       {
         "start": 356,
@@ -5034,7 +5037,7 @@
   },
   {
     "lemma": "Moschus",
-    "previous": "Moschosphragistes",
+    "previous": "Μοσχοσφραγιστής",
     "next": "Moscius mons",
     "proof_read": 0,
     "chapters": [
@@ -5615,7 +5618,7 @@
   {
     "lemma": "Mothitae",
     "previous": "Μόθακες",
-    "next": "Motho 1",
+    "next": "Μωθώ 1",
     "redirect": "Maltitae",
     "proof_read": 2,
     "chapters": [
@@ -5626,12 +5629,12 @@
     ]
   },
   {
-    "lemma": "Motho 1",
+    "lemma": "Μωθώ 1",
     "previous": "Mothitae",
     "next": "Μωθώ 2",
     "sort_key": "Motho 1",
     "proof_read": 0,
-    "short_description": "Dorf in Arabien",
+    "short_description": "Motho, Dorf in Arabien",
     "chapters": [
       {
         "start": 384,
@@ -5642,11 +5645,11 @@
   },
   {
     "lemma": "Μωθώ 2",
-    "previous": "Motho 1",
+    "previous": "Μωθώ 1",
     "next": "Mothone 1",
     "sort_key": "Motho 2",
     "proof_read": 2,
-    "short_description": "Person bei Cic. fam.",
+    "short_description": "Motho, Person bei Cicero fam.",
     "chapters": [
       {
         "start": 384,
@@ -5700,7 +5703,7 @@
   {
     "lemma": "Mothris",
     "previous": "Μόθωνες",
-    "next": "Motiene",
+    "next": "Μοτιηνή",
     "redirect": "Othris",
     "proof_read": 2,
     "chapters": [
@@ -5711,11 +5714,12 @@
     ]
   },
   {
-    "lemma": "Motiene",
+    "lemma": "Μοτιηνή",
     "previous": "Mothris",
     "next": "Motilenus",
     "sort_key": "Motiene",
     "proof_read": 0,
+    "short_description": "Motiene, Verwechslung mit Motine (Mutina)",
     "chapters": [
       {
         "start": 386,
@@ -5726,7 +5730,7 @@
   },
   {
     "lemma": "Motilenus",
-    "previous": "Motiene",
+    "previous": "Μοτιηνή",
     "next": "Motreses",
     "proof_read": 0,
     "chapters": [
@@ -6100,6 +6104,7 @@
   },
   {
     "lemma": "Mucella",
+    "previous": "Mucatra",
     "next": "Mucheiresis",
     "redirect": "Μουκέλλη",
     "proof_read": 2,
@@ -6152,6 +6157,7 @@
   {
     "lemma": "Mucia prata",
     "previous": "Mucia",
+    "next": "Muciae arae",
     "sort_key": "Muciaprata",
     "proof_read": 0,
     "chapters": [
@@ -6248,6 +6254,7 @@
   },
   {
     "lemma": "Mucillum",
+    "previous": "Mucianus 4",
     "next": "Mucipara",
     "redirect": "Maielli",
     "proof_read": 2,
