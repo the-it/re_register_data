@@ -4874,6 +4874,7 @@
   {
     "lemma": "Occius 3",
     "previous": "Occius 2",
+    "next": "Occupatio",
     "proof_read": 2,
     "short_description": "Occia, Vestalin",
     "no_creative_height": true,
@@ -10619,29 +10620,34 @@
   },
   {
     "lemma": "Oinone 2",
+    "previous": "Oinone 1",
+    "next": "Oinoparalemptes",
     "proof_read": 0,
     "short_description": "Nymphe in der Troas",
     "chapters": [
       {
         "start": 2251,
-        "end": 2252,
+        "end": 2253,
         "author": "Krischan."
       }
     ]
   },
   {
     "lemma": "Oinoparalemptes",
+    "previous": "Oinone 2",
+    "next": "Οἰνοπάρας",
     "redirect": "Oinologos",
     "proof_read": 2,
     "chapters": [
       {
-        "start": 2252,
-        "end": 2252
+        "start": 2253,
+        "end": 2253
       }
     ]
   },
   {
     "lemma": "Οἰνοπάρας",
+    "previous": "Oinoparalemptes",
     "sort_key": "Oinoparas",
     "proof_read": 0,
     "short_description": "Nebenfluß des Orontes",
@@ -10655,6 +10661,7 @@
   },
   {
     "lemma": "Oinopas",
+    "next": "Oinope",
     "proof_read": 0,
     "short_description": "Person",
     "chapters": [
@@ -10667,6 +10674,8 @@
   },
   {
     "lemma": "Oinope",
+    "previous": "Oinopas",
+    "next": "Oinopes",
     "proof_read": 2,
     "short_description": "Tochter des Epopeus",
     "no_creative_height": true,
@@ -10680,18 +10689,21 @@
   },
   {
     "lemma": "Oinopes",
+    "previous": "Oinope",
+    "next": "Oinophilos 1",
     "proof_read": 2,
     "short_description": "Phyle in Kyzikos",
     "chapters": [
       {
-        "start": 2252,
-        "end": 2252,
+        "start": 2253,
+        "end": 2253,
         "author": "W. Ruge."
       }
     ]
   },
   {
     "lemma": "Oinophilos 1",
+    "previous": "Oinopes",
     "next": "Oinophilos 2",
     "proof_read": 0,
     "short_description": "Claudius Oinophilos, Tib. Sohn des Kallikratides",
@@ -10987,7 +10999,7 @@
       {
         "start": 2280,
         "end": 2280,
-        "author": "Pieper."
+        "author": "Marbach."
       }
     ]
   },

@@ -94062,6 +94062,8 @@
     "next": "Hegelochos 4",
     "proof_read": 3,
     "short_description": "Schauspieler 5. Jh. v. Chr.",
+    "wp_link": "w:en:Hegelochus (actor)",
+    "wd_link": "d:Q11925334",
     "no_creative_height": true,
     "chapters": [
       {
@@ -137082,7 +137084,6 @@
   {
     "lemma": "Ordo 2",
     "previous": "Orchomenos 4",
-    "next": "Oreibasios",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -137094,9 +137095,13 @@
     ]
   },
   {
+    "lemma": "Oreiatai",
+    "next": "Oreibasios"
+  },
+  {
     "lemma": "Oreibasios",
-    "previous": "Ordo 2",
-    "next": "Oreine",
+    "previous": "Oreiatai",
+    "next": "Ὀρείχαλκος",
     "proof_read": 3,
     "short_description": "von Pergamon, Leibarzt des Kaisers Iulian",
     "no_creative_height": true,
@@ -137109,8 +137114,11 @@
     ]
   },
   {
+    "lemma": "Ὀρείχαλκος",
+    "previous": "Oreibasios"
+  },
+  {
     "lemma": "Oreine",
-    "previous": "Oreibasios",
     "next": "Orestes 10a",
     "proof_read": 3,
     "short_description": "Insel oder Halbinsel an der aithiopischen Küste bei Adulis",

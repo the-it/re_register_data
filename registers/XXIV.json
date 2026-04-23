@@ -2519,7 +2519,7 @@
   {
     "lemma": "Pytha(i)eus 2",
     "previous": "Pytha(i)eus 1",
-    "next": "Pythagoras 1",
+    "next": "Pythagoras",
     "proof_read": 0,
     "short_description": "Sohn Apollons",
     "chapters": [
@@ -4831,10 +4831,10 @@
   },
   {
     "lemma": "Πυθολάου στῆλαι",
-    "previous": "Pytholaou bomoi",
+    "previous": "Πυθολάου βωμοί",
     "next": "Pytholetas",
     "sort_key": "Pytholaou stelai",
-    "redirect": "Pytholaou bomoi",
+    "redirect": "Πυθολάου βωμοί",
     "proof_read": 2,
     "chapters": [
       {
@@ -6209,12 +6209,13 @@
     "lemma": "Quartana",
     "previous": "Quarquerni",
     "next": "quartarius",
+    "proof_read": 0,
     "short_description": "Sc. febris, das viertägig wiederkehrende Fieber",
     "chapters": [
       {
         "start": 829,
         "end": 830,
-        "author": "Eisenhut"
+        "author": "Werner Eisenhut."
       }
     ]
   },
@@ -6222,12 +6223,13 @@
     "lemma": "quartarius",
     "previous": "Quartana",
     "next": "Quartensis locus",
+    "proof_read": 0,
     "short_description": "Viertel', 1. Hohlmaß, 2. Goldmünze, 3. Bezeichnung für Maultiertreiber",
     "chapters": [
       {
         "start": 830,
         "end": 834,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -6235,12 +6237,14 @@
     "lemma": "Quartensis locus",
     "previous": "quartarius",
     "next": "Quartinius",
+    "sort_key": "Quartensislocus",
+    "proof_read": 0,
     "short_description": "Standort des dem Dux Belgicae secundae unterstellten Praefectus classis",
     "chapters": [
       {
         "start": 834,
         "end": 835,
-        "author": "Goessler"
+        "author": "Goessler."
       }
     ]
   },
@@ -6248,12 +6252,13 @@
     "lemma": "Quartinius",
     "previous": "Quartensis locus",
     "next": "Quartinus 1",
+    "proof_read": 0,
     "short_description": "Personenname",
     "chapters": [
       {
         "start": 835,
         "end": 836,
-        "author": "Goessler"
+        "author": "Goessler."
       }
     ]
   },
@@ -6261,11 +6266,13 @@
     "lemma": "Quartinus 1",
     "previous": "Quartinius",
     "next": "Quartinus 2",
+    "proof_read": 0,
     "short_description": "Konsular u. Freund d. Severus Alexander",
     "chapters": [
       {
         "start": 836,
-        "author": "Hanslik"
+        "end": 836,
+        "author": "Hanslik."
       }
     ]
   },
@@ -6273,11 +6280,13 @@
     "lemma": "Quartinus 2",
     "previous": "Quartinus 1",
     "next": "Ad Quartodecimum",
+    "proof_read": 0,
     "short_description": "i., cos. suff. 130",
     "chapters": [
       {
         "start": 836,
-        "author": "Hanslik"
+        "end": 836,
+        "author": "Hanslik."
       }
     ]
   },
@@ -6285,10 +6294,13 @@
     "lemma": "Ad Quartodecimum",
     "previous": "Quartinus 2",
     "next": "quartuncia",
+    "sort_key": "Quartodecimum, ad",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 836,
-        "author": "Saria"
+        "end": 836,
+        "author": "B. Saria."
       }
     ]
   },
@@ -6296,12 +6308,13 @@
     "lemma": "quartuncia",
     "previous": "Ad Quartodecimum",
     "next": "Quartunzialstandard",
+    "proof_read": 0,
     "short_description": "Viertelunze als Münzwert",
     "chapters": [
       {
         "start": 836,
         "end": 837,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -6309,12 +6322,13 @@
     "lemma": "Quartunzialstandard",
     "previous": "quartuncia",
     "next": "Quartus 1",
+    "proof_read": 0,
     "short_description": "Reduktionsstufe d. röm. Erzmünzen",
     "chapters": [
       {
         "start": 837,
         "end": 838,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -6354,12 +6368,13 @@
     "lemma": "quaternio 1",
     "previous": "Quartus 2",
     "next": "quaternio 2",
+    "proof_read": 0,
     "short_description": "Vierer' Vierzahl Abteilung von vier Mann",
     "chapters": [
       {
         "start": 838,
         "end": 845,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
@@ -6367,12 +6382,13 @@
     "lemma": "quaternio 2",
     "previous": "quaternio 1",
     "next": "quattuordecim ordines",
+    "proof_read": 0,
     "short_description": "Als buchtechnischer Ausdruck",
     "chapters": [
       {
         "start": 845,
         "end": 849,
-        "author": "Preisendanz"
+        "author": "Preisendanz."
       }
     ]
   },
@@ -6393,12 +6409,13 @@
     "lemma": "quattuorviri",
     "previous": "quattuordecim ordines",
     "next": "quercus",
+    "proof_read": 0,
     "short_description": "Collegium i.d. Administration",
     "chapters": [
       {
         "start": 849,
         "end": 857,
-        "author": "Wesener"
+        "author": "Gunter Wesener."
       }
     ]
   },
@@ -6419,12 +6436,14 @@
     "lemma": "querela (querella)",
     "previous": "quercus",
     "next": "Querel(l)a",
+    "sort_key": "querela(querella)",
+    "proof_read": 0,
     "short_description": "Im juristischen Sinn Beschwerde bzw. Klage vor Gericht",
     "chapters": [
       {
         "start": 857,
         "end": 868,
-        "author": "Wesener"
+        "author": "Gunter Wesener."
       }
     ]
   },
@@ -6432,11 +6451,13 @@
     "lemma": "Querel(l)a",
     "previous": "querela (querella)",
     "next": "Querolus",
+    "proof_read": 0,
     "short_description": "Tochter des Erebus u. der Nox",
     "chapters": [
       {
         "start": 868,
-        "author": "Eisenhut"
+        "end": 868,
+        "author": "Werner Eisenhut."
       }
     ]
   },
@@ -6472,12 +6493,13 @@
     "lemma": "Querquetulanae",
     "previous": "Querquerni",
     "next": "Quesium",
+    "proof_read": 0,
     "short_description": "Gottheiten eines heiligen Eichenhaines",
     "chapters": [
       {
         "start": 872,
         "end": 876,
-        "author": "Eisenhut"
+        "author": "Werner Eisenhut."
       }
     ]
   },
@@ -6500,11 +6522,13 @@
     "lemma": "Quidila 1",
     "previous": "Quesium",
     "next": "Quidila 2",
+    "proof_read": 0,
     "short_description": "Sohn des Sibia, ein Gote",
     "chapters": [
       {
         "start": 876,
-        "author": "Lippold, Adolf"
+        "end": 876,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -6526,25 +6550,28 @@
   {
     "lemma": "Quies 1",
     "previous": "Quidila 2",
-    "next": "Quiematius",
+    "next": "Quies 2",
+    "proof_read": 0,
     "short_description": "Als Gottheit",
     "chapters": [
       {
         "start": 877,
         "end": 879,
-        "author": "Eisenhut"
+        "author": "Werner Eisenhut."
       }
     ]
   },
   {
     "lemma": "Quies 2",
-    "previous": "Quiematius",
+    "previous": "Quies 1",
     "next": "Quies 3",
+    "proof_read": 0,
     "short_description": "Auf Münzen",
     "chapters": [
       {
         "start": 879,
-        "author": "Eisenhut"
+        "end": 879,
+        "author": "Werner Eisenhut."
       }
     ]
   },
@@ -6552,11 +6579,13 @@
     "lemma": "Quies 3",
     "previous": "Quies 2",
     "next": "Quies 4",
+    "proof_read": 0,
     "short_description": "Zur Vermutung von Q. als 'Göttin des Ausruhens am Wege'",
     "chapters": [
       {
         "start": 879,
-        "author": "Eisenhut"
+        "end": 879,
+        "author": "Werner Eisenhut."
       }
     ]
   },
@@ -6564,11 +6593,13 @@
     "lemma": "Quies 4",
     "previous": "Quies 3",
     "next": "Quieta 1",
+    "proof_read": 0,
     "short_description": "Zur Verbindung mit Quietalis",
     "chapters": [
       {
         "start": 879,
-        "author": "Eisenhut"
+        "end": 879,
+        "author": "Werner Eisenhut."
       }
     ]
   },
@@ -6576,29 +6607,33 @@
     "lemma": "Quieta 1",
     "previous": "Quies 4",
     "next": "Quietalis",
+    "proof_read": 0,
     "short_description": "Gemahlin d. Hypatius, Mutter d. Palladia",
     "chapters": [
       {
         "start": 879,
-        "author": "Lippold, Adolf"
+        "end": 879,
+        "author": "A. Lippold."
       }
     ]
   },
   {
     "lemma": "Quietalis",
     "previous": "Quieta 1",
-    "next": "Quietus",
+    "next": "Quietus 1",
+    "proof_read": 0,
     "short_description": "Beiname des Orcus",
     "chapters": [
       {
         "start": 879,
-        "author": "Eisenhut"
+        "end": 879,
+        "author": "Werner Eisenhut."
       }
     ]
   },
   {
     "lemma": "Quietus 1",
-    "previous": "Quietus",
+    "previous": "Quietalis",
     "next": "Quietus 2",
     "proof_read": 2,
     "short_description": "Bischof von Utica um 348 †",
@@ -6614,19 +6649,21 @@
   {
     "lemma": "Quietus 2",
     "previous": "Quietus 1",
-    "next": "quinarius",
+    "next": "Quietus",
+    "proof_read": 0,
     "short_description": "Bischof von Uthina",
     "chapters": [
       {
         "start": 879,
-        "author": "Lippold, Adolf"
+        "end": 879,
+        "author": "A. Lippold."
       }
     ]
   },
   {
     "lemma": "Quietus",
-    "previous": "Quietalis",
-    "next": "Quietus 1",
+    "previous": "Quietus 2",
+    "next": "Quimatius",
     "redirect": "Avidius 7",
     "proof_read": 2,
     "chapters": [
@@ -6637,76 +6674,85 @@
     ]
   },
   {
-    "lemma": "Quiematius",
-    "previous": "Quies 1",
-    "next": "Quies 2",
+    "lemma": "Quimatius",
+    "previous": "Quietus",
+    "next": "quinarius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 879,
-        "author": "Lippold, Adolf"
+        "end": 879,
+        "author": "A. Lippold."
       }
     ]
   },
   {
     "lemma": "quinarius",
-    "previous": "Quietus 2",
+    "previous": "Quimatius",
     "next": "Quinctilius",
+    "proof_read": 0,
     "short_description": "Sc. nummus römische Silbermünze",
     "chapters": [
       {
         "start": 879,
         "end": 894,
-        "author": "Chantraine"
+        "author": "H. Chantraine."
       }
     ]
   },
   {
     "lemma": "Quinctilius",
     "previous": "quinarius",
-    "next": "Quinctilius 2",
+    "next": "Quinctilius 1",
+    "proof_read": 0,
     "short_description": "Römischer Gentilname",
     "chapters": [
       {
         "start": 894,
         "end": 897,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
   {
     "lemma": "Quinctilius 1",
-    "previous": "Quinctilius 2",
-    "next": "Quinctilius 3",
+    "previous": "Quinctilius",
+    "next": "Quinctilius 2",
+    "proof_read": 0,
     "short_description": "C., Gutsbesitzer, 1.Viertel 1. Jh.v. Chr.",
     "chapters": [
       {
         "start": 898,
-        "author": "Gundel, Hans [Georg]"
+        "end": 899,
+        "author": "H. Gundel."
       }
     ]
   },
   {
     "lemma": "Quinctilius 2",
-    "previous": "Quinctilius",
-    "next": "Quinctilius 1",
+    "previous": "Quinctilius 1",
+    "next": "Quinctilius 3",
+    "proof_read": 0,
     "short_description": "(Varus), P. Jurist im 1. Jh.v. Chr.",
     "chapters": [
       {
-        "start": 897,
-        "end": 898,
-        "author": "Gundel, Hans [Georg]"
+        "start": 898,
+        "end": 899,
+        "author": "H. Gundel."
       }
     ]
   },
   {
     "lemma": "Quinctilius 3",
-    "previous": "Quinctilius 1",
+    "previous": "Quinctilius 2",
     "next": "Quinctilius 4",
+    "proof_read": 0,
     "short_description": "Sex., Münzmeister um 200 v. Chr.",
     "chapters": [
       {
-        "start": 898,
-        "author": "Gundel, Hans [Georg]"
+        "start": 899,
+        "end": 899,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6714,11 +6760,13 @@
     "lemma": "Quinctilius 4",
     "previous": "Quinctilius 3",
     "next": "Quinctilius 5",
+    "proof_read": 0,
     "short_description": "(Varus), Sex. Praetor 697 = 57",
     "chapters": [
       {
-        "start": 898,
-        "author": "Gundel, Hans [Georg]"
+        "start": 899,
+        "end": 899,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6726,12 +6774,13 @@
     "lemma": "Quinctilius 5",
     "previous": "Quinctilius 4",
     "next": "Quinctilius 5a",
+    "proof_read": 0,
     "short_description": "Varus Cremonensis, Römischer Ritter Freund von Vergil u. Horaz",
     "chapters": [
       {
-        "start": 898,
+        "start": 899,
         "end": 902,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6784,11 +6833,13 @@
     "lemma": "Quinctilius 8",
     "previous": "Quinctilius 7",
     "next": "Quinctilius 9",
+    "proof_read": 0,
     "short_description": "(Quinctilius?) Varus, L., Um 45 v. Chr.",
     "chapters": [
       {
         "start": 902,
-        "author": "Gundel, Hans [Georg]"
+        "end": 902,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6796,12 +6847,13 @@
     "lemma": "Quinctilius 9",
     "previous": "Quinctilius 8",
     "next": "Quinctilius 10",
+    "proof_read": 0,
     "short_description": "Varus, M. Konsulartribun i. J.351 = 403",
     "chapters": [
       {
         "start": 902,
         "end": 903,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6809,11 +6861,13 @@
     "lemma": "Quinctilius 10",
     "previous": "Quinctilius 9",
     "next": "Quinctilius 10a",
+    "proof_read": 0,
     "short_description": "Varus, M. um 200 v. Chr. Sohn von Nr. 12",
     "chapters": [
       {
         "start": 903,
-        "author": "Gundel, Hans [Georg]"
+        "end": 903,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6849,12 +6903,13 @@
     "lemma": "Quinctilius 12",
     "previous": "Quinctilius 11",
     "next": "Quinctilius 13",
+    "proof_read": 0,
     "short_description": "Varus, P. Praetor i. J. 551 = 203",
     "chapters": [
       {
         "start": 903,
         "end": 904,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6862,11 +6917,13 @@
     "lemma": "Quinctilius 13",
     "previous": "Quinctilius 12",
     "next": "Quinctilius 14",
+    "proof_read": 0,
     "short_description": "Varus, P. Praetor i. J. 588 = 166",
     "chapters": [
       {
         "start": 904,
-        "author": "Gundel, Hans [Georg]"
+        "end": 904,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6889,12 +6946,13 @@
     "lemma": "Quinctilius 15",
     "previous": "Quinctilius 14",
     "next": "Quinctilius 16",
+    "proof_read": 0,
     "short_description": "Varus, Sex. cos. i. J. 301 = 453",
     "chapters": [
       {
         "start": 904,
         "end": 905,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6902,11 +6960,13 @@
     "lemma": "Quinctilius 16",
     "previous": "Quinctilius 15",
     "next": "Quinctilius 17",
+    "proof_read": 0,
     "short_description": "Varus?, Sex. Pontifex um 65 v. Chr.",
     "chapters": [
       {
         "start": 905,
-        "author": "Gundel, Hans [Georg]"
+        "end": 905,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6914,12 +6974,13 @@
     "lemma": "Quinctilius 17",
     "previous": "Quinctilius 16",
     "next": "Quinctilius 18",
+    "proof_read": 0,
     "short_description": "Varus, Sex. Quaest. i. J. 705 = 49",
     "chapters": [
       {
         "start": 905,
         "end": 906,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6927,11 +6988,13 @@
     "lemma": "Quinctilius 18",
     "previous": "Quinctilius 17",
     "next": "Quinctilius 19",
+    "proof_read": 0,
     "short_description": "Varus, T. 2. Jh.v. Chr. Legat d. Propraetors C. Calpurnius Piso",
     "chapters": [
       {
         "start": 906,
-        "author": "Gundel, Hans [Georg]"
+        "end": 906,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6939,12 +7002,13 @@
     "lemma": "Quinctilius 19",
     "previous": "Quinctilius 18",
     "next": "Quinctilius 20",
+    "proof_read": 0,
     "short_description": "1. Jh.v. Chr. in enger Beziehung zu dem Neoteriker C. Licinius Macer",
     "chapters": [
       {
         "start": 906,
         "end": 907,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -6952,12 +7016,15 @@
     "lemma": "Quinctilius 20",
     "previous": "Quinctilius 19",
     "next": "Quinctilius 21",
-    "short_description": "Varus, P. Berühmt durch seine Niederlage im saltus Teutoburgiensis, Sohn des",
+    "proof_read": 0,
+    "short_description": "Varus, P. verliert Legionen im Teutoburger Wald",
+    "wp_link": "w:de:Publius Quinctilius Varus",
+    "wd_link": "d:Q214765",
     "chapters": [
       {
         "start": 907,
         "end": 984,
-        "author": "John"
+        "author": "Walther John."
       }
     ]
   },
@@ -6965,11 +7032,13 @@
     "lemma": "Quinctilius 21",
     "previous": "Quinctilius 20",
     "next": "Quinctilius 22",
+    "proof_read": 0,
     "short_description": "Capito, Praefectus praetorio unter Probus",
     "chapters": [
       {
         "start": 984,
-        "author": "Hanslik"
+        "end": 984,
+        "author": "Hanslik."
       }
     ]
   },
@@ -6977,12 +7046,13 @@
     "lemma": "Quinctilius 22",
     "previous": "Quinctilius 21",
     "next": "Quinctilius 23",
+    "proof_read": 0,
     "short_description": "Condianus, Sex. Sohn d. Sex. Q. Valerius Maximus Nr. 25",
     "chapters": [
       {
         "start": 984,
         "end": 985,
-        "author": "Hanslik"
+        "author": "Hanslik."
       }
     ]
   },
@@ -6990,11 +7060,13 @@
     "lemma": "Quinctilius 23",
     "previous": "Quinctilius 22",
     "next": "Quinctilius 24",
+    "proof_read": 0,
     "short_description": "Condianus, Sex. Sohn d. Sex. Q. Valerius Maximus Nr. 25, Bruder des Q. Maximus",
     "chapters": [
       {
         "start": 985,
-        "author": "Hanslik"
+        "end": 985,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7002,12 +7074,13 @@
     "lemma": "Quinctilius 24",
     "previous": "Quinctilius 23",
     "next": "Quinctilius 25",
+    "proof_read": 0,
     "short_description": "Valerius Maximus, Sex. aus Alexandria Troas",
     "chapters": [
       {
         "start": 985,
         "end": 986,
-        "author": "Hanslik"
+        "author": "Hanslik."
       }
     ]
   },
@@ -7015,11 +7088,13 @@
     "lemma": "Quinctilius 25",
     "previous": "Quinctilius 24",
     "next": "Quinctilius 26",
+    "proof_read": 0,
     "short_description": "Valerius Maximus, Sex. Sohn von Nr. 24",
     "chapters": [
       {
         "start": 986,
-        "author": "Hanslik"
+        "end": 986,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7027,11 +7102,13 @@
     "lemma": "Quinctilius 26",
     "previous": "Quinctilius 25",
     "next": "Quinctilius 27",
+    "proof_read": 0,
     "short_description": "Maximus, (Sex.?) Sohn des Sex. Q. Condianus cos.151 Nr. 22",
     "chapters": [
       {
         "start": 986,
-        "author": "Hanslik"
+        "end": 986,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7052,11 +7129,13 @@
     "lemma": "Quinctilius 28",
     "previous": "Quinctilius 27",
     "next": "Quinctilius 29",
+    "proof_read": 0,
     "short_description": "Varus, Sohn von Nr. 20 u. der Claudia Pulchra",
     "chapters": [
       {
         "start": 987,
-        "author": "Hanslik"
+        "end": 987,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7094,11 +7173,13 @@
     "lemma": "Quinctilius 31",
     "previous": "Quinctilius 30",
     "next": "Quinctilius 32",
+    "proof_read": 0,
     "short_description": "Quinctilia, schöne Schauspielerin, Freundin eines Pomponius",
     "chapters": [
       {
         "start": 987,
-        "author": "Hanslik"
+        "end": 987,
+        "author": "Hanslik."
       }
     ]
   },
@@ -7121,10 +7202,12 @@
     "lemma": "Quinctilius 33",
     "previous": "Quinctilius 32",
     "next": "Quinctius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 987,
-        "author": "Rumpf"
+        "end": 987,
+        "author": "A. Rumpf."
       }
     ]
   },
@@ -7132,12 +7215,13 @@
     "lemma": "Quinctius",
     "previous": "Quinctilius 33",
     "next": "Quinctius 1",
+    "proof_read": 0,
     "short_description": "Römischer Gentilname",
     "chapters": [
       {
         "start": 987,
         "end": 997,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7145,11 +7229,13 @@
     "lemma": "Quinctius 1",
     "previous": "Quinctius",
     "next": "Quinctius 2",
+    "proof_read": 0,
     "short_description": "Münzmeister i. 3. o. 2. Jh.v. Chr.",
     "chapters": [
       {
         "start": 997,
-        "author": "Gundel, Hans [Georg]"
+        "end": 997,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7157,12 +7243,13 @@
     "lemma": "Quinctius 2",
     "previous": "Quinctius 1",
     "next": "Quinctius 3",
+    "proof_read": 0,
     "short_description": "Praetor i. J. 611 = 143",
     "chapters": [
       {
         "start": 997,
         "end": 998,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7170,11 +7257,13 @@
     "lemma": "Quinctius 3",
     "previous": "Quinctius 2",
     "next": "Quinctius 4",
+    "proof_read": 0,
     "short_description": "I. J. 672 = 682 wahrscheinl. Legat erwähnt bei Orosius",
     "chapters": [
       {
         "start": 998,
-        "author": "Gundel, Hans [Georg]"
+        "end": 998,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7182,11 +7271,13 @@
     "lemma": "Quinctius 4",
     "previous": "Quinctius 3",
     "next": "Quinctius 5",
+    "proof_read": 0,
     "short_description": "Römer i. 2. o. 1. Jh.v. Chr., möglicherweise gebürtiger Grieche",
     "chapters": [
       {
         "start": 998,
-        "author": "Gundel, Hans [Georg]"
+        "end": 998,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7209,12 +7300,13 @@
     "lemma": "Quinctius 6",
     "previous": "Quinctius 5",
     "next": "Quinctius 6a",
+    "proof_read": 0,
     "short_description": "C., Bruder des P. Quinctius Nr. 16",
     "chapters": [
       {
         "start": 998,
         "end": 999,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7222,11 +7314,13 @@
     "lemma": "Quinctius 6a",
     "previous": "Quinctius 6",
     "next": "Quinctius 7",
+    "proof_read": 0,
     "short_description": "C., nach Diod.XIV 53,1 cos. i. J. 544 = 351",
     "chapters": [
       {
         "start": 999,
-        "author": "Gundel, Hans [Georg]"
+        "end": 999,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7234,12 +7328,13 @@
     "lemma": "Quinctius 7",
     "previous": "Quinctius 6a",
     "next": "Quinctius 8",
+    "proof_read": 0,
     "short_description": "D., tapferer Römer, fiel i. Seegefecht i. J. 403 = 351",
     "chapters": [
       {
         "start": 999,
         "end": 1000,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7247,12 +7342,13 @@
     "lemma": "Quinctius 8",
     "previous": "Quinctius 7",
     "next": "Quinctius 9",
+    "proof_read": 0,
     "short_description": "Kaeso, 5. Jh.v. Chr., Sohn des Dictators L. Quinctius Cincinnatus Nr. 27",
     "chapters": [
       {
         "start": 1000,
         "end": 1001,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7260,11 +7356,13 @@
     "lemma": "Quinctius 9",
     "previous": "Quinctius 8",
     "next": "Quinctius 10",
+    "proof_read": 0,
     "short_description": "L., 6. Jh.v. Chr., Vater d. L. Quinctius Cincinnatus Nr. 27",
     "chapters": [
       {
         "start": 1001,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1001,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7272,12 +7370,13 @@
     "lemma": "Quinctius 10",
     "previous": "Quinctius 9",
     "next": "Quinctius 11",
+    "proof_read": 0,
     "short_description": "L., Tribunus militum consulari potestate i. J. 367 = 387",
     "chapters": [
       {
         "start": 1001,
         "end": 1002,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7285,11 +7384,13 @@
     "lemma": "Quinctius 11",
     "previous": "Quinctius 10",
     "next": "Quinctius 12",
+    "proof_read": 0,
     "short_description": "L., Tribunus militum i. J. 428 = 326",
     "chapters": [
       {
         "start": 1002,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1002,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7297,12 +7398,13 @@
     "lemma": "Quinctius 12",
     "previous": "Quinctius 11",
     "next": "Quinctius 13",
+    "proof_read": 0,
     "short_description": "L., Volkstribun i. J. 680 = 74",
     "chapters": [
       {
         "start": 1002,
         "end": 1005,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7310,12 +7412,13 @@
     "lemma": "Quinctius 13",
     "previous": "Quinctius 12",
     "next": "Quinctius 14",
+    "proof_read": 0,
     "short_description": "L., Senator i. J. 711 = 43",
     "chapters": [
       {
         "start": 1005,
         "end": 1006,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7338,11 +7441,13 @@
     "lemma": "Quinctius 14a",
     "previous": "Quinctius 14",
     "next": "Quinctius 14b",
+    "proof_read": 0,
     "short_description": "Maarkos Kointios, M., Inschrift auf Delos 2. Jh.v. Chr.",
     "chapters": [
       {
         "start": 1006,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1006,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7365,11 +7470,13 @@
     "lemma": "Quinctius 15",
     "previous": "Quinctius 14b",
     "next": "Quinctius 16",
+    "proof_read": 0,
     "short_description": "Sieger beim Hoplitenwettkampf i. Chalkis",
     "chapters": [
       {
         "start": 1006,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1006,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7377,12 +7484,13 @@
     "lemma": "Quinctius 16",
     "previous": "Quinctius 15",
     "next": "Quinctius 17",
+    "proof_read": 0,
     "short_description": "P., Begüterter Römer, i. J. 81 in einem Privatprozeß von Cicero verteidigt",
     "chapters": [
       {
         "start": 1006,
         "end": 1008,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7405,11 +7513,13 @@
     "lemma": "Quinctius 18",
     "previous": "Quinctius 17",
     "next": "Quinctius 19",
+    "proof_read": 0,
     "short_description": "Ti., Münzmeister um 105 v. Chr.",
     "chapters": [
       {
         "start": 1008,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1008,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7417,12 +7527,13 @@
     "lemma": "Quinctius 19",
     "previous": "Quinctius 18",
     "next": "Quinctius 20",
+    "proof_read": 0,
     "short_description": "T., cos. i. J. 405 = 349",
     "chapters": [
       {
         "start": 1008,
         "end": 1009,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7430,24 +7541,27 @@
     "lemma": "Quinctius 20",
     "previous": "Quinctius 19",
     "next": "Quinctius 21",
+    "proof_read": 0,
     "short_description": "T., der Lahme (Claudus?), lebte i. 4. Jh.v. Chr.",
     "chapters": [
       {
         "start": 1009,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1009,
+        "author": "H. Gundel."
       }
     ]
   },
   {
     "lemma": "Quinctius 21",
     "previous": "Quinctius 20",
-    "next": "Quinctius 21a",
+    "next": "Quinctius 21a–26a 33f. 36",
+    "proof_read": 0,
     "short_description": "Atta, T. Dichter der Togata, dessen Blüte i. d. Zeit um 100 v. Chr. angesetzt",
     "chapters": [
       {
         "start": 1009,
-        "end": 1011,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1010,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7465,13 +7579,15 @@
   },
   {
     "lemma": "Quinctius 21a",
-    "previous": "Quinctius 21",
+    "previous": "Quinctius 21a–26a 33f. 36",
     "next": "Quinctius 22",
+    "proof_read": 0,
     "short_description": "Capitolinus, Legat i. J. 317 = 437",
     "chapters": [
       {
-        "start": 1009,
-        "author": "Gundel, Hans [Georg]"
+        "start": 1011,
+        "end": 1011,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7479,12 +7595,13 @@
     "lemma": "Quinctius 22",
     "previous": "Quinctius 21a",
     "next": "Quinctius 23",
+    "proof_read": 0,
     "short_description": "Capitolinus, Cn. i. J. 388 = 366 der eine der zwei ersten aediles curules zus.",
     "chapters": [
       {
         "start": 1009,
         "end": 1010,
-        "author": "Gundel, Hans [Georg]"
+        "author": "H. Gundel."
       }
     ]
   },
@@ -7492,11 +7609,13 @@
     "lemma": "Quinctius 23",
     "previous": "Quinctius 22",
     "next": "Quinctius 24",
+    "proof_read": 0,
     "short_description": "Capitolinus, L. Tribunus militum consulari potestate i, J. 369 = 385",
     "chapters": [
       {
         "start": 1010,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1010,
+        "author": "H. Gundel."
       }
     ]
   },
