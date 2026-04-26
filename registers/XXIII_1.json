@@ -8672,27 +8672,44 @@
   {
     "lemma": "proreus",
     "previous": "proreta",
-    "next": "Proreus 1",
+    "next": "Proreus",
+    "sort_key": "Proreus",
+    "redirect": true,
     "proof_read": 0,
-    "short_description": "Name von Seeleuten s. prora",
     "chapters": [
       {
         "start": 839,
         "end": 839,
-        "author": "Kolf."
+        "author": "Franz Miltner."
+      }
+    ]
+  },
+  {
+    "lemma": "Proreus",
+    "previous": "proreus",
+    "next": "Proreus 1",
+    "sort_key": "Proreus 0",
+    "proof_read": 0,
+    "short_description": "Seemann im Vorderteil des Schiffes",
+    "chapters": [
+      {
+        "start": 839,
+        "end": 839,
+        "author": "Marie C. van der Kolf."
       }
     ]
   },
   {
     "lemma": "Proreus 1",
-    "previous": "proreus",
+    "previous": "Proreus",
     "next": "Proreus 2",
     "proof_read": 0,
+    "short_description": "Name eines Phaiaken",
     "chapters": [
       {
         "start": 839,
         "end": 839,
-        "author": "Kolf."
+        "author": "Marie C. van der Kolf."
       }
     ]
   },
@@ -8701,11 +8718,12 @@
     "previous": "Proreus 1",
     "next": "prorogatio",
     "proof_read": 0,
+    "short_description": "tyrrhenischer Seemann, in Delfin verwandelt",
     "chapters": [
       {
         "start": 839,
         "end": 839,
-        "author": "Kolf."
+        "author": "Marie C. van der Kolf."
       }
     ]
   },
@@ -11529,7 +11547,7 @@
   },
   {
     "lemma": "provincia",
-    "previous": "Providentia",
+    "previous": "Provertuides",
     "next": "Provindemitor",
     "proof_read": 0,
     "short_description": "Statthaltersprengel, Aufgabenkreis des römischen Magistrates",
