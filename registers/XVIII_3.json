@@ -2449,6 +2449,18 @@
     ]
   },
   {
+    "lemma": "Palmati",
+    "previous": "Palmas",
+    "next": "Palmatia",
+    "chapters": [
+      {
+        "start": 258,
+        "end": 258,
+        "author": "W. Ruge."
+      }
+    ]
+  },
+  {
     "lemma": "Palmatia",
     "previous": "Palmati",
     "next": "Palmatis",
@@ -4330,9 +4342,18 @@
   {
     "lemma": "Pamyles",
     "previous": "Παμπρέτιος",
-    "next": "Panachaia",
-    "redirect": "Paamyles",
     "proof_read": 2,
+    "chapters": [
+      {
+        "start": 415,
+        "end": 415
+      }
+    ]
+  },
+  {
+    "lemma": "Pan",
+    "previous": "Pamyles",
+    "next": "Panachaia",
     "chapters": [
       {
         "start": 415,
@@ -10353,7 +10374,6 @@
   {
     "lemma": "Papirius 31",
     "previous": "Papirius 30",
-    "next": "Papirius 32",
     "proof_read": 2,
     "short_description": "Candidus clarissimus, Patron der Kolonie von Canusium",
     "no_creative_height": true,
@@ -10362,20 +10382,6 @@
         "start": 1014,
         "end": 1014,
         "author": "Hofmann."
-      }
-    ]
-  },
-  {
-    "lemma": "Papirius 32",
-    "previous": "Papirius 32ff.",
-    "next": "Papirius 33",
-    "proof_read": 0,
-    "short_description": "Carbo, C. Praetor 168 v. Chr.",
-    "chapters": [
-      {
-        "start": 1014,
-        "end": 1015,
-        "author": "Münzer."
       }
     ]
   },
@@ -10389,6 +10395,20 @@
       {
         "start": 1014,
         "end": 1014,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Papirius 32",
+    "previous": "Papirius 32ff.",
+    "next": "Papirius 33",
+    "proof_read": 0,
+    "short_description": "Carbo, C. Praetor 168 v. Chr.",
+    "chapters": [
+      {
+        "start": 1014,
+        "end": 1015,
         "author": "Münzer."
       }
     ]
@@ -10642,7 +10662,6 @@
   {
     "lemma": "Papirius 50",
     "previous": "Papirius 49",
-    "next": "Papirius 51",
     "proof_read": 2,
     "short_description": "Crassus, Ti. Consulartribun 380 v. Chr.",
     "chapters": [
@@ -10654,8 +10673,20 @@
     ]
   },
   {
-    "lemma": "Papirius 51",
+    "lemma": "Papirius 51ff.",
     "previous": "Papirius 50",
+    "proof_read": 0,
+    "short_description": "Papirii Cursores",
+    "chapters": [
+      {
+        "start": 1038,
+        "end": 1038,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Papirius 51",
     "next": "Papirius 52",
     "proof_read": 0,
     "short_description": "Cursor, L. Censor 393 v. Chr.",
@@ -10668,22 +10699,7 @@
     ]
   },
   {
-    "lemma": "Papirius 51ff.",
-    "previous": "Papirius 50",
-    "next": "Papirius 52",
-    "proof_read": 0,
-    "short_description": "Papirii Cursores",
-    "chapters": [
-      {
-        "start": 1038,
-        "end": 1038,
-        "author": "Münzer."
-      }
-    ]
-  },
-  {
     "lemma": "Papirius 52",
-    "previous": "Papirius 51ff.",
     "next": "Papirius 53",
     "proof_read": 2,
     "short_description": "Cursor, L. cos. V 313 v. Chr.",
@@ -10754,6 +10770,19 @@
     ]
   },
   {
+    "lemma": "Papirius 57ff.",
+    "previous": "Papirius 56",
+    "proof_read": 0,
+    "short_description": "Papirii Masones",
+    "chapters": [
+      {
+        "start": 1062,
+        "end": 1062,
+        "author": "Hanslik."
+      }
+    ]
+  },
+  {
     "lemma": "Papirius 57",
     "previous": "Papirius 57ff.",
     "next": "Papirius 58",
@@ -10768,22 +10797,7 @@
     ]
   },
   {
-    "lemma": "Papirius 57ff.",
-    "previous": "Papirius 56",
-    "next": "Papirius 58",
-    "proof_read": 0,
-    "short_description": "Papirii Masones",
-    "chapters": [
-      {
-        "start": 1062,
-        "end": 1062,
-        "author": "Hanslik."
-      }
-    ]
-  },
-  {
     "lemma": "Papirius 58",
-    "previous": "Papirius 57ff.",
     "next": "Papirius 59",
     "proof_read": 0,
     "short_description": "Maso, C. Decemvir sacrorum 213 v. Chr.",
@@ -10866,7 +10880,6 @@
   {
     "lemma": "Papirius 64",
     "previous": "Papirius 63",
-    "next": "Papirius 65",
     "proof_read": 2,
     "short_description": "Maso, P. Triumvir coloniae deducendae 218 v. Chr.",
     "no_creative_height": true,
@@ -10875,20 +10888,6 @@
         "start": 1065,
         "end": 1065,
         "author": "Rudolf Hanslik."
-      }
-    ]
-  },
-  {
-    "lemma": "Papirius 65",
-    "previous": "Papirius 64",
-    "next": "Papirius 66",
-    "proof_read": 0,
-    "short_description": "Mugillanus, L. cos. 444 v. Chr.",
-    "chapters": [
-      {
-        "start": 1065,
-        "end": 1068,
-        "author": "Hanslik."
       }
     ]
   },
@@ -10902,6 +10901,19 @@
       {
         "start": 1065,
         "end": 1065,
+        "author": "Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Papirius 65",
+    "next": "Papirius 66",
+    "proof_read": 0,
+    "short_description": "Mugillanus, L. cos. 444 v. Chr.",
+    "chapters": [
+      {
+        "start": 1065,
+        "end": 1068,
         "author": "Hanslik."
       }
     ]
@@ -11035,6 +11047,17 @@
     ]
   },
   {
+    "lemma": "Papirius 75ff.",
+    "redirect": "Papirius 32ff.",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 1074,
+        "end": 1074
+      }
+    ]
+  },
+  {
     "lemma": "Papirius 75",
     "previous": "Papirius 75ff.",
     "next": "Papirius 76",
@@ -11045,19 +11068,6 @@
         "start": 1074,
         "end": 1075,
         "author": "Münzer."
-      }
-    ]
-  },
-  {
-    "lemma": "Papirius 75ff.",
-    "previous": "Papirius 75",
-    "next": "Papirius 76",
-    "redirect": "Papirius 32ff.",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 1074,
-        "end": 1074
       }
     ]
   },
@@ -12177,29 +12187,6 @@
         "start": 1202,
         "end": 1203,
         "author": "Otto Schultheß."
-      }
-    ]
-  },
-  {
-    "lemma": "Paraklasithyron",
-    "next": "Parakletoie",
-    "short_description": "Ständchen",
-    "chapters": [
-      {
-        "start": 1202,
-        "author": "Maas"
-      }
-    ]
-  },
-  {
-    "lemma": "Parakletoie",
-    "previous": "Paraklasithyron",
-    "next": "Paralatai, Paradatai",
-    "short_description": "Beistand Beklagter",
-    "chapters": [
-      {
-        "start": 1202,
-        "author": "Schulthess"
       }
     ]
   },
