@@ -1912,8 +1912,6 @@
   },
   {
     "lemma": "Paroreia 1",
-    "previous": "Paroreatai",
-    "next": "Paros",
     "proof_read": 0,
     "short_description": "Ortschaft in Arkadien",
     "chapters": [
@@ -1925,22 +1923,7 @@
     ]
   },
   {
-    "lemma": "Paros",
-    "previous": "Paroreia 4",
-    "next": "Paroreia 2",
-    "proof_read": 0,
-    "short_description": "Insel im Ägäischen Meer",
-    "chapters": [
-      {
-        "start": 1781,
-        "end": 1872,
-        "author": "O. Rubensohn."
-      }
-    ]
-  },
-  {
     "lemma": "Paroreia 2",
-    "previous": "Paros",
     "next": "Paroreia 3",
     "redirect": "Paroreatai",
     "proof_read": 2,
@@ -1968,8 +1951,6 @@
   },
   {
     "lemma": "Paroreia 4",
-    "previous": "Paroreia 3",
-    "next": "Parospus",
     "sort_key": "Paroreia 4",
     "proof_read": 2,
     "short_description": "Gegend im westlichen Thrakien",
@@ -1982,8 +1963,19 @@
     ]
   },
   {
+    "lemma": "Paros",
+    "proof_read": 0,
+    "short_description": "Insel im Ägäischen Meer",
+    "chapters": [
+      {
+        "start": 1781,
+        "end": 1872,
+        "author": "O. Rubensohn."
+      }
+    ]
+  },
+  {
     "lemma": "Parospus",
-    "previous": "Paroreia 4",
     "next": "Parosta",
     "proof_read": 2,
     "short_description": "Nebenfluß des Cophes (Kabulfluß)",
@@ -2052,22 +2044,7 @@
     ]
   },
   {
-    "lemma": "Parrasios 1",
-    "previous": "Parrhasini",
-    "next": "Parrharia",
-    "proof_read": 0,
-    "short_description": "1. Epiklesis d. Apollon, 2. Arkader, Vater d. Paros, des Eponymos d. Insel, 3.",
-    "chapters": [
-      {
-        "start": 1873,
-        "end": 1874,
-        "author": "gr. Kruse."
-      }
-    ]
-  },
-  {
     "lemma": "Parrharia",
-    "previous": "Parrasios 1",
     "next": "Parrhasini",
     "sort_key": "Parraria",
     "redirect": true,
@@ -2082,7 +2059,6 @@
   {
     "lemma": "Parrhasini",
     "previous": "Parrharia",
-    "next": "Parrasios 2",
     "sort_key": "Parrasini",
     "redirect": "Paropamisadai",
     "proof_read": 2,
@@ -2094,8 +2070,20 @@
     ]
   },
   {
-    "lemma": "Parrasios 2",
+    "lemma": "Parrasios 1",
     "previous": "Parrhasini",
+    "proof_read": 0,
+    "short_description": "1. Epiklesis d. Apollon, 2. Arkader, Vater d. Paros, des Eponymos d. Insel, 3.",
+    "chapters": [
+      {
+        "start": 1873,
+        "end": 1874,
+        "author": "gr. Kruse."
+      }
+    ]
+  },
+  {
+    "lemma": "Parrasios 2",
     "next": "Parrasios 3",
     "proof_read": 2,
     "short_description": "aus Tralles, Zeuge in einem Prozesse in Rom 59 v. Chr.",
@@ -2333,8 +2321,6 @@
   },
   {
     "lemma": "Parthenia",
-    "previous": "Parthenes",
-    "next": "Partheniai",
     "redirect": "Parthenos 4",
     "proof_read": 3,
     "chapters": [
@@ -2345,23 +2331,7 @@
     ]
   },
   {
-    "lemma": "Partheniai",
-    "previous": "Παρθενία κώμη",
-    "next": "Parthenianus",
-    "proof_read": 0,
-    "short_description": "Bevölkerungsteil d. spartan. Staates",
-    "chapters": [
-      {
-        "start": 1884,
-        "end": 1886,
-        "author": "Hans Schaefer."
-      }
-    ]
-  },
-  {
     "lemma": "Παρθενία κώμη",
-    "previous": "Partheniai",
-    "next": "Patheniai",
     "sort_key": "Partheniakome",
     "proof_read": 0,
     "short_description": "Ort in d. Nähe d. Pontos Euxeinos",
@@ -2375,20 +2345,19 @@
     ]
   },
   {
-    "lemma": "Παρθενία κώμη",
-    "next": "Parthenianus",
-    "short_description": "Ort in d. Nähe d. Pontos Euxeinos",
+    "lemma": "Partheniai",
+    "proof_read": 0,
+    "short_description": "Bevölkerungsteil d. spartan. Staates",
     "chapters": [
       {
         "start": 1884,
-        "author": "Dörner"
+        "end": 1886,
+        "author": "Hans Schaefer."
       }
     ]
   },
   {
     "lemma": "Parthenianus",
-    "previous": "Παρθενία κώμη",
-    "next": "Parthenias",
     "redirect": "Aemilius 113",
     "proof_read": 2,
     "chapters": [
@@ -3325,6 +3294,17 @@
         "start": 2045,
         "end": 2046,
         "author": "E. Polaschek."
+      }
+    ]
+  },
+  {
+    "lemma": "Partitio legata",
+    "previous": "Παρτίσκον",
+    "next": "Partus abactio",
+    "chapters": [
+      {
+        "start": 2046,
+        "end": 2048
       }
     ]
   },
