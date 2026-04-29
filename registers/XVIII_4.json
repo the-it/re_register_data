@@ -2346,7 +2346,6 @@
   },
   {
     "lemma": "Παρθενία κώμη",
-    "previous": "Parthenes",
     "next": "Partheniai",
     "sort_key": "Partheniakome",
     "proof_read": 0,
@@ -3586,31 +3585,30 @@
   {
     "lemma": "Pasicles",
     "previous": "Pasias 2",
-    "next": "Pasidienus 2",
+    "next": "Pasidienus 1",
     "redirect": "Crassicius 2",
     "proof_read": 2,
     "chapters": [
       {
-        "start": 2058,
-        "end": 2058
+        "start": 2058
       }
     ]
   },
   {
-    "lemma": "Pasidienus 2",
+    "lemma": "Pasidienus 1",
     "previous": "Pasicles",
     "next": "Pasikles 1",
-    "short_description": "L. P. Firmus, cos. suff. im J. 75 n. Chr., Sohn des P. P. Nr. 1",
     "chapters": [
       {
         "start": 2058,
+        "end": 2059,
         "author": "Hofmann, Max"
       }
     ]
   },
   {
     "lemma": "Pasikles 1",
-    "previous": "P. Pasidienus Firmus",
+    "previous": "Pasidienus 1",
     "next": "Pasikles 2",
     "proof_read": 0,
     "short_description": "Vater d. Philistos, der bei d. Gründung Milets beteiligt war",
@@ -3633,6 +3631,18 @@
         "start": 2059,
         "end": 2060,
         "author": "Aly."
+      }
+    ]
+  },
+  {
+    "lemma": "Pasikles 3",
+    "previous": "Pasikles 2",
+    "next": "Pasikles 4",
+    "chapters": [
+      {
+        "start": 2060,
+        "end": 2060,
+        "author": "Lenschau."
       }
     ]
   },
@@ -4739,6 +4749,7 @@
       }
     ]
   },
+  {"lemma": "Pataikoi"},
   {
     "lemma": "Πάταιτα",
     "previous": "Pataikoi",
@@ -4781,18 +4792,6 @@
     ]
   },
   {
-    "lemma": "Pataouion",
-    "previous": "Patanes",
-    "next": "Patarbemis",
-    "short_description": "Ort in Bithynien s. Tataion",
-    "chapters": [
-      {
-        "start": 2114,
-        "author": "Dörner"
-      }
-    ]
-  },
-  {
     "lemma": "Patarbemis",
     "previous": "Patanes",
     "next": "Patavinia",
@@ -4821,7 +4820,6 @@
   {
     "lemma": "Patavinus",
     "previous": "Patavinia",
-    "next": "Patavissa",
     "redirect": "Cassius 81",
     "proof_read": 2,
     "chapters": [
@@ -4848,7 +4846,6 @@
   },
   {
     "lemma": "Patavissa",
-    "previous": "Patavinus",
     "next": "Patavium",
     "redirect": "Potaissa",
     "proof_read": 2,
@@ -5274,8 +5271,6 @@
   },
   {
     "lemma": "Patina",
-    "previous": "Patibulum",
-    "next": "Patinga",
     "proof_read": 0,
     "short_description": "flache Schüssel aus Ton o. Metall, Eß- / Kochgeschirr",
     "chapters": [
@@ -5287,23 +5282,7 @@
     ]
   },
   {
-    "lemma": "Patinga",
-    "previous": "Patina",
-    "next": "Patioros",
-    "proof_read": 0,
-    "short_description": "Siedlung auf d. O-Ufer d. Nils",
-    "chapters": [
-      {
-        "start": 2169,
-        "end": 2169,
-        "author": "Windberg."
-      }
-    ]
-  },
-  {
     "lemma": "T. Patina",
-    "previous": "Patina",
-    "next": "Patinga",
     "sort_key": "Patina 2",
     "proof_read": 0,
     "short_description": "T. aus Lanuvium, Freund des P. Clodius 52 v. Chr.",
@@ -5316,9 +5295,19 @@
     ]
   },
   {
-    "lemma": "Patiores",
-    "previous": "T. Patina",
-    "next": "Patiscus",
+    "lemma": "Patinga",
+    "proof_read": 0,
+    "short_description": "Siedlung auf d. O-Ufer d. Nils",
+    "chapters": [
+      {
+        "start": 2169,
+        "end": 2169,
+        "author": "Windberg."
+      }
+    ]
+  },
+  {
+    "lemma": "Patioros",
     "redirect": "Paropos",
     "proof_read": 2,
     "chapters": [
@@ -5683,7 +5672,6 @@
   {
     "lemma": "Patrimi et matrimi",
     "previous": "Patrikios 4",
-    "next": "Patrimonium",
     "sort_key": "Patrimiet matrimi",
     "proof_read": 0,
     "short_description": "Röm. Kultbezeichnung von Kindern, deren Eltern noch am Leben sind",
@@ -5697,7 +5685,6 @@
   },
   {
     "lemma": "Patriotis",
-    "previous": "Patrimi et matrimi",
     "next": "Patro",
     "redirect": "Patroa",
     "proof_read": 2,
@@ -6314,8 +6301,6 @@
   },
   {
     "lemma": "Pauka",
-    "previous": "Pavimentum",
-    "next": "Paulianus",
     "proof_read": 0,
     "chapters": [
       {
@@ -6326,36 +6311,7 @@
     ]
   },
   {
-    "lemma": "Paulianus",
-    "previous": "Pauka",
-    "next": "Paul(l)a",
-    "redirect": "Anicius 12",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 2325,
-        "end": 2325
-      }
-    ]
-  },
-  {
-    "lemma": "Paul(l)a",
-    "previous": "Paulianus",
-    "next": "Paulla",
-    "redirect": "Claudia  431 Cornelia  446 Iulia  564",
-    "proof_read": 0,
-    "short_description": "s. Claudia Nr. 431 Cornelia Nr. 446 Iulia Nr. 564",
-    "chapters": [
-      {
-        "start": 2325,
-        "end": 2325
-      }
-    ]
-  },
-  {
     "lemma": "Paulla",
-    "previous": "Paul(l)a",
-    "next": "Paulianus",
     "proof_read": 0,
     "short_description": "s. Claudia Nr. 431 Cornelia Nr. 446 Iulia Nr. 564",
     "chapters": [
@@ -6367,24 +6323,18 @@
     ]
   },
   {
-    "lemma": "Paul(l)a, Polla",
-    "previous": "Pauka",
-    "next": "Paul(l)a",
-    "sort_key": "Paul(l)a,polla",
-    "proof_read": 0,
-    "short_description": "Weibl. Person",
+    "lemma": "Paulianus",
+    "redirect": "Anicius 12",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 2325,
-        "end": 2325,
-        "author": "Münzer."
+        "end": 2325
       }
     ]
   },
   {
     "lemma": "Paul(l)ina",
-    "previous": "Paulianus",
-    "next": "Paulina 1",
     "redirect": "Aemilia  173 Arria  43 Aurelia  261a",
     "proof_read": 0,
     "short_description": "s. Aemilia Nr. 173 Arria Nr. 43 Aurelia Nr. 261a",
