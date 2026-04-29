@@ -1912,6 +1912,8 @@
   },
   {
     "lemma": "Paroreia 1",
+    "previous": "Paroreatai",
+    "next": "Paroreia 2",
     "proof_read": 0,
     "short_description": "Ortschaft in Arkadien",
     "chapters": [
@@ -1924,6 +1926,7 @@
   },
   {
     "lemma": "Paroreia 2",
+    "previous": "Paroreia 1",
     "next": "Paroreia 3",
     "redirect": "Paroreatai",
     "proof_read": 2,
@@ -1951,6 +1954,8 @@
   },
   {
     "lemma": "Paroreia 4",
+    "previous": "Paroreia 3",
+    "next": "Paros",
     "sort_key": "Paroreia 4",
     "proof_read": 2,
     "short_description": "Gegend im westlichen Thrakien",
@@ -1964,6 +1969,8 @@
   },
   {
     "lemma": "Paros",
+    "previous": "Paroreia 4",
+    "next": "Parospus",
     "proof_read": 0,
     "short_description": "Insel im Ägäischen Meer",
     "chapters": [
@@ -1976,6 +1983,7 @@
   },
   {
     "lemma": "Parospus",
+    "previous": "Paros",
     "next": "Parosta",
     "proof_read": 2,
     "short_description": "Nebenfluß des Cophes (Kabulfluß)",
@@ -2045,6 +2053,7 @@
   },
   {
     "lemma": "Parrharia",
+    "previous": "Parraces",
     "next": "Parrhasini",
     "sort_key": "Parraria",
     "redirect": true,
@@ -2059,6 +2068,7 @@
   {
     "lemma": "Parrhasini",
     "previous": "Parrharia",
+    "next": "Parrasios 1",
     "sort_key": "Parrasini",
     "redirect": "Paropamisadai",
     "proof_read": 2,
@@ -2072,6 +2082,7 @@
   {
     "lemma": "Parrasios 1",
     "previous": "Parrhasini",
+    "next": "Parrasios 2",
     "proof_read": 0,
     "short_description": "1. Epiklesis d. Apollon, 2. Arkader, Vater d. Paros, des Eponymos d. Insel, 3.",
     "chapters": [
@@ -2084,6 +2095,7 @@
   },
   {
     "lemma": "Parrasios 2",
+    "previous": "Parrasios 1",
     "next": "Parrasios 3",
     "proof_read": 2,
     "short_description": "aus Tralles, Zeuge in einem Prozesse in Rom 59 v. Chr.",
@@ -2321,6 +2333,8 @@
   },
   {
     "lemma": "Parthenia",
+    "previous": "Parthenes",
+    "next": "Παρθενία κώμη",
     "redirect": "Parthenos 4",
     "proof_read": 3,
     "chapters": [
@@ -2332,6 +2346,8 @@
   },
   {
     "lemma": "Παρθενία κώμη",
+    "previous": "Parthenes",
+    "next": "Partheniai",
     "sort_key": "Partheniakome",
     "proof_read": 0,
     "short_description": "Ort in d. Nähe d. Pontos Euxeinos",
@@ -2346,6 +2362,8 @@
   },
   {
     "lemma": "Partheniai",
+    "previous": "Παρθενία κώμη",
+    "next": "Parthenianus",
     "proof_read": 0,
     "short_description": "Bevölkerungsteil d. spartan. Staates",
     "chapters": [
@@ -2358,6 +2376,8 @@
   },
   {
     "lemma": "Parthenianus",
+    "previous": "Partheniai",
+    "next": "Parthenias",
     "redirect": "Aemilius 113",
     "proof_read": 2,
     "chapters": [
