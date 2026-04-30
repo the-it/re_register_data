@@ -2346,6 +2346,7 @@
   },
   {
     "lemma": "Παρθενία κώμη",
+    "previous": "Parthenia",
     "next": "Partheniai",
     "sort_key": "Partheniakome",
     "proof_read": 0,
@@ -3590,7 +3591,8 @@
     "proof_read": 2,
     "chapters": [
       {
-        "start": 2058
+        "start": 2058,
+        "end": 2058
       }
     ]
   },
@@ -4749,7 +4751,19 @@
       }
     ]
   },
-  {"lemma": "Pataikoi"},
+  {
+    "lemma": "Pataikoi",
+    "previous": "Patagium",
+    "next": "Πάταιτα",
+    "proof_read": 0,
+    "short_description": "Phoinik. Zwerggottheiten",
+    "chapters": [
+      {
+        "start": 2112,
+        "end": 2112
+      }
+    ]
+  },
   {
     "lemma": "Πάταιτα",
     "previous": "Pataikoi",
@@ -4820,6 +4834,7 @@
   {
     "lemma": "Patavinus",
     "previous": "Patavinia",
+    "next": "Παταούϊον",
     "redirect": "Cassius 81",
     "proof_read": 2,
     "chapters": [
@@ -4846,6 +4861,7 @@
   },
   {
     "lemma": "Patavissa",
+    "previous": "Παταούϊον",
     "next": "Patavium",
     "redirect": "Potaissa",
     "proof_read": 2,
@@ -5271,6 +5287,8 @@
   },
   {
     "lemma": "Patina",
+    "previous": "Patibulum",
+    "next": "T. Patina",
     "proof_read": 0,
     "short_description": "flache Schüssel aus Ton o. Metall, Eß- / Kochgeschirr",
     "chapters": [
@@ -5283,6 +5301,8 @@
   },
   {
     "lemma": "T. Patina",
+    "previous": "Patina",
+    "next": "Patinga",
     "sort_key": "Patina 2",
     "proof_read": 0,
     "short_description": "T. aus Lanuvium, Freund des P. Clodius 52 v. Chr.",
@@ -5296,6 +5316,7 @@
   },
   {
     "lemma": "Patinga",
+    "previous": "T. Patina",
     "proof_read": 0,
     "short_description": "Siedlung auf d. O-Ufer d. Nils",
     "chapters": [
@@ -5658,7 +5679,7 @@
   {
     "lemma": "Patrikios 4",
     "previous": "Patrikios 3",
-    "next": "Patrimi et matrimi",
+    "next": "Patrimiet matrimi",
     "proof_read": 0,
     "short_description": "Armenier, comes Orientis unter Iustinian",
     "chapters": [
@@ -5670,8 +5691,9 @@
     ]
   },
   {
-    "lemma": "Patrimi et matrimi",
+    "lemma": "Patrimiet matrimi",
     "previous": "Patrikios 4",
+    "next": "Patrimonium",
     "sort_key": "Patrimiet matrimi",
     "proof_read": 0,
     "short_description": "Röm. Kultbezeichnung von Kindern, deren Eltern noch am Leben sind",
@@ -5684,7 +5706,21 @@
     ]
   },
   {
+    "lemma": "Patrimonium",
+    "previous": "Patrimiet matrimi",
+    "next": "Patriotis",
+    "proof_read": 2,
+    "short_description": "Das Vermögen",
+    "chapters": [
+      {
+        "start": 2252,
+        "end": 2252
+      }
+    ]
+  },
+  {
     "lemma": "Patriotis",
+    "previous": "Patrimonium",
     "next": "Patro",
     "redirect": "Patroa",
     "proof_read": 2,
@@ -6301,6 +6337,7 @@
   },
   {
     "lemma": "Pauka",
+    "next": "Paul(l)a 1a",
     "proof_read": 0,
     "chapters": [
       {
@@ -6311,7 +6348,38 @@
     ]
   },
   {
+    "lemma": "Paul(l)a 1a",
+    "previous": "Pauka",
+    "next": "Paul(l)a 1b",
+    "sort_key": "Paul(l)a,polla",
+    "proof_read": 0,
+    "short_description": "Weibl. Person",
+    "chapters": [
+      {
+        "start": 2325,
+        "end": 2325,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Paul(l)a 1b",
+    "previous": "Paul(l)a 1a",
+    "next": "Paulla",
+    "redirect": "Claudia  431 Cornelia  446 Iulia  564",
+    "proof_read": 0,
+    "short_description": "s. Claudia Nr. 431 Cornelia Nr. 446 Iulia Nr. 564",
+    "chapters": [
+      {
+        "start": 2325,
+        "end": 2325
+      }
+    ]
+  },
+  {
     "lemma": "Paulla",
+    "previous": "Paul(l)a 1b",
+    "next": "Paulianus",
     "proof_read": 0,
     "short_description": "s. Claudia Nr. 431 Cornelia Nr. 446 Iulia Nr. 564",
     "chapters": [
@@ -6324,6 +6392,8 @@
   },
   {
     "lemma": "Paulianus",
+    "previous": "Paulla",
+    "next": "Paul(l)ina",
     "redirect": "Anicius 12",
     "proof_read": 2,
     "chapters": [
@@ -6335,6 +6405,7 @@
   },
   {
     "lemma": "Paul(l)ina",
+    "previous": "Paulianus",
     "redirect": "Aemilia  173 Arria  43 Aurelia  261a",
     "proof_read": 0,
     "short_description": "s. Aemilia Nr. 173 Arria Nr. 43 Aurelia Nr. 261a",
@@ -7660,6 +7731,7 @@
   },
   {
     "lemma": "Pausiras",
+    "previous": "Pausippos",
     "next": "Pausiris",
     "sort_key": "Pausiras",
     "proof_read": 2,

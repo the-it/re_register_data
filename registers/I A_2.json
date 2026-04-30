@@ -7689,9 +7689,10 @@
   },
   {
     "lemma": "Salienus",
+    "previous": "Salices",
     "next": "Salii 1",
     "sort_key": "Salienusclemens",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "T. S. Clemens, Praetor 53–55 n. Chr.",
     "chapters": [
       {
@@ -9310,11 +9311,13 @@
     "lemma": "Salmani 2",
     "previous": "Salmani 1",
     "next": "Salmania",
+    "proof_read": 0,
     "short_description": "- Arabes, arabischer Stamm in Mesopotamien",
     "chapters": [
       {
         "start": 1985,
-        "author": "Moritz, [Bernhard]"
+        "end": 1985,
+        "author": "Moritz."
       }
     ]
   },
@@ -9336,11 +9339,13 @@
     "lemma": "Salmantica",
     "previous": "Salmania",
     "next": "Salmeni",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1985,
-        "author": "Schulten"
+        "end": 1985,
+        "author": "Schulten."
       }
     ]
   },
@@ -9375,18 +9380,20 @@
     "lemma": "Salmon 2",
     "previous": "Salmon 1",
     "next": "Salmona",
+    "proof_read": 0,
     "short_description": "Frühere Lesart von Alimon. Identisch mit Nr. 1",
     "chapters": [
       {
         "start": 1986,
-        "author": "Bürchner"
+        "end": 1986,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Salmona",
     "previous": "Salmon 2",
-    "next": "Salmone 1",
+    "next": "Σαλμώνη 1",
     "short_description": "Nebenluß der Mosel Salm",
     "chapters": [
       {
@@ -9396,70 +9403,97 @@
     ]
   },
   {
-    "lemma": "Salmone 1",
+    "lemma": "Σαλμώνη 1",
     "previous": "Salmona",
-    "next": "Salmone 2",
-    "short_description": "Bezirkshauptstadt der elischen Pisatis",
+    "next": "Σαλμώνη 2",
+    "sort_key": "Salmone 1",
+    "proof_read": 0,
+    "short_description": "Salmone, Bezirkshauptstadt der elischen Pisatis",
     "chapters": [
       {
         "start": 1986,
-        "author": "Bürchner"
+        "end": 1986,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Salmone 2",
-    "previous": "Salmone 1",
-    "next": "Salmone 3",
-    "short_description": "Hauptquelle des Enipeus",
+    "lemma": "Σαλμώνη 2",
+    "previous": "Σαλμώνη 1",
+    "next": "Σαλμώνη 3",
+    "sort_key": "Salmone 2",
+    "proof_read": 0,
+    "short_description": "Salmone, Hauptquelle des Enipeus",
     "chapters": [
       {
         "start": 1986,
-        "author": "Bürchner"
+        "end": 1986,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Salmone 3",
-    "previous": "Salmone 2",
+    "lemma": "Σαλμώνη 3",
+    "previous": "Σαλμώνη 2",
     "next": "Salmoneus",
-    "short_description": "Oestl. Vorgebirge auf der Insel Kreta",
+    "sort_key": "Salmone 3",
+    "proof_read": 0,
+    "short_description": "Salmone, östl. Vorgebirge der Insel Kreta",
     "chapters": [
       {
         "start": 1986,
         "end": 1989,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Salmoneus",
-    "previous": "Salmone 3",
-    "next": "Salmonia",
+    "previous": "Σαλμώνη 3",
+    "next": "Salmonia 1",
+    "proof_read": 0,
     "short_description": "Sohn des Aiolos",
+    "wp_link": "w:de:Salmoneus",
+    "wd_link": "d:Q1131643",
     "chapters": [
       {
         "start": 1989,
         "end": 1990,
-        "author": "Nawrath"
+        "author": "Nawrath."
       }
     ]
   },
   {
-    "lemma": "Salmonia",
+    "lemma": "Salmonia 1",
     "previous": "Salmoneus",
-    "next": "Salmonis",
+    "next": "Salmonia 2",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1990,
-        "author": "Bürchner"
+        "end": 1990,
+        "author": "Nawrath."
+      }
+    ]
+  },
+  {
+    "lemma": "Salmonia 2",
+    "previous": "Salmonia 1",
+    "next": "Salmonis",
+    "proof_read": 0,
+    "short_description": "Ort",
+    "chapters": [
+      {
+        "start": 1990,
+        "end": 1990,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Salmonis",
-    "previous": "Salmonia",
+    "previous": "Salmonia 2",
     "next": "Salmorudis",
     "proof_read": 2,
     "short_description": "Bezeichnug der Salmoneustochter Tyro bei Ovid",
@@ -9476,31 +9510,33 @@
     "lemma": "Salmorudis",
     "previous": "Salmonis",
     "next": "Salmos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1990,
         "end": 1991,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Salmos",
     "previous": "Salmorudis",
-    "next": "Salmous",
+    "next": "Σαλμοῦς",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1991,
-        "author": "Bürchner"
+        "end": 1991,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Salmous",
     "previous": "Salmos",
-    "next": "Salmydessos 1",
     "short_description": "Ort",
     "chapters": [
       {
@@ -9510,15 +9546,30 @@
     ]
   },
   {
+    "lemma": "Salmydessos",
+    "previous": "Σαλμοῦς",
+    "next": "Salmydessos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1991,
+        "end": 1991,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
     "lemma": "Salmydessos 1",
-    "previous": "Salmous",
+    "previous": "Salmydessos",
     "next": "Salmydessos 2",
+    "proof_read": 0,
     "short_description": "Küstenstrich am Pontos Euxeinos",
     "chapters": [
       {
         "start": 1991,
         "end": 1992,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -9526,41 +9577,48 @@
     "lemma": "Salmydessos 2",
     "previous": "Salmydessos 1",
     "next": "Salmydessos 3",
+    "proof_read": 0,
     "short_description": "Ort in Thrakien",
     "chapters": [
       {
         "start": 1992,
-        "author": "Bürchner"
+        "end": 1992,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Salmydessos 3",
     "previous": "Salmydessos 2",
-    "next": "Salmyka",
+    "next": "Σαλμύκα",
+    "proof_read": 0,
     "short_description": "Bach durch den Küstenstrich Salmydessos Nr. 1",
     "chapters": [
       {
         "start": 1992,
-        "author": "Bürchner"
+        "end": 1992,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Salmyka",
+    "lemma": "Σαλμύκα",
     "previous": "Salmydessos 3",
-    "next": "Salo... 2",
-    "short_description": "Ort",
+    "next": "Salo 1",
+    "sort_key": "Salmyka",
+    "proof_read": 0,
+    "short_description": "Salmyka, Stadt bei den Säulen des Hercules",
     "chapters": [
       {
         "start": 1992,
-        "author": "Schulten"
+        "end": 1992,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Salo... 2",
-    "previous": "Salmyka",
+    "previous": "Σαλμύκα",
     "next": "Salo 1",
     "short_description": "Merowingische Prägestätte",
     "chapters": [
@@ -9572,19 +9630,35 @@
   },
   {
     "lemma": "Salo 1",
-    "previous": "Salo... 2",
-    "next": "Saloato",
+    "previous": "Σαλμύκα",
+    "next": "Salo 2",
+    "proof_read": 0,
     "short_description": "Linker Nebenfluß des Ebro",
     "chapters": [
       {
         "start": 1992,
-        "author": "Schulten"
+        "end": 1992,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Saloato",
+    "lemma": "Salo 2",
     "previous": "Salo 1",
+    "next": "Saloato (?)",
+    "proof_read": 0,
+    "short_description": "Merowingische Prägestätte",
+    "chapters": [
+      {
+        "start": 1992,
+        "end": 1992,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Saloato (?)",
+    "previous": "Salo 2",
     "next": "Salobriasae",
     "short_description": "S.(?), Inschrift eines Meilensteins an der Straße Vindobona - Boiodurum",
     "chapters": [
@@ -9597,13 +9671,15 @@
   },
   {
     "lemma": "Salobriasae",
-    "previous": "Saloato",
+    "previous": "Saloato (?)",
     "next": "Salodurum",
+    "proof_read": 0,
     "short_description": "Indischer Volksstamm",
     "chapters": [
       {
         "start": 1993,
-        "author": "Herrmann"
+        "end": 1993,
+        "author": "Herrmann."
       }
     ]
   },
@@ -9611,12 +9687,13 @@
     "lemma": "Salodurum",
     "previous": "Salobriasae",
     "next": "Saloe",
+    "proof_read": 0,
     "short_description": "Keltischer Name von Solothurn in der Schweiz",
     "chapters": [
       {
         "start": 1993,
         "end": 1994,
-        "author": "Bürchner"
+        "author": "Keune."
       }
     ]
   },
@@ -9624,11 +9701,13 @@
     "lemma": "Saloe",
     "previous": "Salodurum",
     "next": "Σάλοι",
+    "proof_read": 0,
     "short_description": "See in Lydien",
     "chapters": [
       {
         "start": 1994,
-        "author": "Bürchner"
+        "end": 1994,
+        "author": "Bürchner."
       }
     ]
   },
@@ -9663,12 +9742,13 @@
     "lemma": "Salomagus",
     "previous": "Salomacus",
     "next": "Salome 1",
+    "proof_read": 0,
     "short_description": "Rastort am Weg Aquae Tarbellicae - Burdigala",
     "chapters": [
       {
         "start": 1994,
         "end": 1995,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -9676,12 +9756,13 @@
     "lemma": "Salome 1",
     "previous": "Salomagus",
     "next": "Salome 2",
+    "proof_read": 0,
     "short_description": "Tochter des Idumäers Antipatros",
     "chapters": [
       {
         "start": 1995,
         "end": 1997,
-        "author": "Stähelin"
+        "author": "Stähelin."
       }
     ]
   },
@@ -9689,11 +9770,13 @@
     "lemma": "Salome 2",
     "previous": "Salome 1",
     "next": "Salome 3",
+    "proof_read": 0,
     "short_description": "Tochter Herodes' d. Gr.",
     "chapters": [
       {
         "start": 1997,
-        "author": "Stähelin"
+        "end": 1997,
+        "author": "Stähelin."
       }
     ]
   },
@@ -9701,12 +9784,13 @@
     "lemma": "Salome 3",
     "previous": "Salome 2",
     "next": "Salome 4",
+    "proof_read": 0,
     "short_description": "Enkelin Herodes' d. Gr.",
     "chapters": [
       {
         "start": 1997,
         "end": 1998,
-        "author": "Stähelin"
+        "author": "Stähelin."
       }
     ]
   },
@@ -9714,11 +9798,13 @@
     "lemma": "Salome 4",
     "previous": "Salome 3",
     "next": "Salome 5",
+    "proof_read": 0,
     "short_description": "Beiname der Hasmonäerkönigin Alexandra",
     "chapters": [
       {
         "start": 1998,
-        "author": "Stähelin"
+        "end": 1998,
+        "author": "Stähelin."
       }
     ]
   },
@@ -9726,11 +9812,13 @@
     "lemma": "Salome 5",
     "previous": "Salome 4",
     "next": "Salome 6",
+    "proof_read": 0,
     "short_description": "Gattin des Zebedaios",
     "chapters": [
       {
         "start": 1998,
-        "author": "Stähelin"
+        "end": 1998,
+        "author": "Stähelin."
       }
     ]
   },
@@ -9738,11 +9826,13 @@
     "lemma": "Salome 6",
     "previous": "Salome 5",
     "next": "Salomo 1",
+    "proof_read": 0,
     "short_description": "Jüdische Bekannte des Kaisers Claudius",
     "chapters": [
       {
         "start": 1998,
-        "author": "Stähelin"
+        "end": 1998,
+        "author": "Stähelin."
       }
     ]
   },
@@ -9750,12 +9840,13 @@
     "lemma": "Salomo 1",
     "previous": "Salome 6",
     "next": "Salomo 2",
+    "proof_read": 0,
     "short_description": "König in Britannien",
     "chapters": [
       {
         "start": 1998,
         "end": 1999,
-        "author": "Nagl"
+        "author": "Nagl."
       }
     ]
   },
@@ -9811,11 +9902,13 @@
     "lemma": "Salon",
     "previous": "Salomo-Psalmen",
     "next": "Salona 1",
+    "proof_read": 0,
     "short_description": "Fluß in Dalmatien",
     "chapters": [
       {
         "start": 2003,
-        "author": "Vulić"
+        "end": 2003,
+        "author": "Vulić-Keune."
       }
     ]
   },
@@ -9835,7 +9928,7 @@
   {
     "lemma": "Salona 2",
     "previous": "Salona 1",
-    "next": "Saloniana",
+    "next": "Σαλωνίανα",
     "short_description": "Ort bei Bithynion",
     "chapters": [
       {
@@ -9845,26 +9938,31 @@
     ]
   },
   {
-    "lemma": "Saloniana",
+    "lemma": "Σαλωνίανα",
     "previous": "Salona 2",
     "next": "Saloninus 1",
+    "sort_key": "Saloniana",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2006,
-        "author": "Vulić"
+        "end": 2006,
+        "author": "Vulić."
       }
     ]
   },
   {
     "lemma": "Saloninus 1",
-    "previous": "Saloniana",
+    "previous": "Σαλωνίανα",
     "next": "Saloninus 2",
+    "proof_read": 0,
     "short_description": "Vertrauter Freund des Priscus bei Martial",
     "chapters": [
       {
         "start": 2006,
-        "author": "Lieben"
+        "end": 2006,
+        "author": "Lieben."
       }
     ]
   },
@@ -9872,11 +9970,13 @@
     "lemma": "Saloninus 2",
     "previous": "Saloninus 1",
     "next": "Saloninus 3",
+    "proof_read": 0,
     "short_description": "Beiname beider Söhne des Kaisers Gallienus",
     "chapters": [
       {
         "start": 2006,
-        "author": "Stein, [Arthur]"
+        "end": 2006,
+        "author": "Stein."
       }
     ]
   },
@@ -9884,11 +9984,13 @@
     "lemma": "Saloninus 3",
     "previous": "Saloninus 2",
     "next": "Saloninus 4",
+    "proof_read": 0,
     "short_description": "Salonina, Gattin des Caecina Alienus",
     "chapters": [
       {
         "start": 2006,
-        "author": "Nagl"
+        "end": 2006,
+        "author": "Nagl."
       }
     ]
   },
@@ -9926,12 +10028,13 @@
     "lemma": "Salpe 1",
     "previous": "Salonius",
     "next": "Salpe 2",
+    "proof_read": 0,
     "short_description": "Hebamme und Verfasserin einer Schrift über Heilmittel bei weiblichen Krankheiten",
     "chapters": [
       {
         "start": 2006,
         "end": 2007,
-        "author": "Gossen"
+        "author": "Gossen."
       }
     ]
   },
@@ -9939,11 +10042,13 @@
     "lemma": "Salpe 2",
     "previous": "Salpe 1",
     "next": "Salpensa",
+    "proof_read": 0,
     "short_description": "Lesbische Dichterin",
     "chapters": [
       {
         "start": 2007,
-        "author": "Diehl, Ernst"
+        "end": 2007,
+        "author": "Diehl."
       }
     ]
   },
@@ -9951,11 +10056,13 @@
     "lemma": "Salpensa",
     "previous": "Salpe 2",
     "next": "Salpia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2007,
-        "author": "Schulten"
+        "end": 2007,
+        "author": "Schulten."
       }
     ]
   },
@@ -9963,12 +10070,13 @@
     "lemma": "Salpia",
     "previous": "Salpensa",
     "next": "Salpina lacus",
+    "proof_read": 0,
     "short_description": "Stadt und See in Apulien",
     "chapters": [
       {
         "start": 2007,
         "end": 2009,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -9989,11 +10097,13 @@
     "lemma": "Salpinates",
     "previous": "Salpina lacus",
     "next": "Salpinx 1",
+    "proof_read": 0,
     "short_description": "Bewohner einer etruskischen Stadt. Orvieto?",
     "chapters": [
       {
         "start": 2009,
-        "author": "Philipp"
+        "end": 2009,
+        "author": "Philipp."
       }
     ]
   },
@@ -10001,12 +10111,13 @@
     "lemma": "Salpinx 1",
     "previous": "Salpinates",
     "next": "Salpinx 2",
+    "proof_read": 0,
     "short_description": "Trompete",
     "chapters": [
       {
         "start": 2009,
         "end": 2010,
-        "author": "Maux"
+        "author": "Maux."
       }
     ]
   },
@@ -10014,11 +10125,13 @@
     "lemma": "Salpinx 2",
     "previous": "Salpinx 1",
     "next": "Salpinx 3",
+    "proof_read": 0,
     "short_description": "Epiklesis der Athene",
     "chapters": [
       {
         "start": 2010,
-        "author": "Adler"
+        "end": 2010,
+        "author": "Adler."
       }
     ]
   },
@@ -10041,11 +10154,13 @@
     "lemma": "Salpion",
     "previous": "Salpinx 3",
     "next": "Salsaluda",
+    "proof_read": 0,
     "short_description": "Athenischer Bildhauer",
     "chapters": [
       {
         "start": 2011,
-        "author": "Lippold, Georg"
+        "end": 2011,
+        "author": "Lippold."
       }
     ]
   },
@@ -10066,11 +10181,13 @@
     "lemma": "Salsaludene",
     "previous": "Salsaluda",
     "next": "Salsamenta",
+    "proof_read": 0,
     "short_description": "Epiklesis der Göttermutter",
     "chapters": [
       {
         "start": 2011,
-        "author": "Adler"
+        "end": 2011,
+        "author": "Adler."
       }
     ]
   },
@@ -10078,12 +10195,13 @@
     "lemma": "Salsamenta",
     "previous": "Salsaludene",
     "next": "Salsovia",
+    "proof_read": 0,
     "short_description": "In Salz konservierte oder marinierte Fischwaren bei den Römern",
     "chapters": [
       {
         "start": 2011,
         "end": 2012,
-        "author": "Blümner"
+        "author": "Blümner."
       }
     ]
   },
@@ -10091,11 +10209,13 @@
     "lemma": "Salsovia",
     "previous": "Salsamenta",
     "next": "Salsulae",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2012,
-        "author": "Vulić"
+        "end": 2012,
+        "author": "Vulić."
       }
     ]
   },
@@ -10103,11 +10223,13 @@
     "lemma": "Salsulae",
     "previous": "Salsovia",
     "next": "Salsum flumen 1",
+    "proof_read": 0,
     "short_description": "Name von stark salzhaltigen Quellen und einer dabeiliegenden Ortschaft",
     "chapters": [
       {
         "start": 2012,
-        "author": "Keune"
+        "end": 2012,
+        "author": "Keune."
       }
     ]
   },
@@ -10133,11 +10255,14 @@
     "lemma": "Salsum flumen 2",
     "previous": "Salsum flumen 1",
     "next": "Salsum flumen 3",
+    "sort_key": "Salsumflumen 2",
+    "proof_read": 0,
     "short_description": "Ad -, Station der mauretanischen Küstenstraße",
     "chapters": [
       {
         "start": 2012,
-        "author": "Dessau"
+        "end": 2012,
+        "author": "Dessau."
       }
     ]
   },
@@ -10145,11 +10270,14 @@
     "lemma": "Salsum flumen 3",
     "previous": "Salsum flumen 2",
     "next": "Salsum flumen 4",
+    "sort_key": "Salsumflumen 3",
+    "proof_read": 0,
     "short_description": "Fluß in Karmanien",
     "chapters": [
       {
         "start": 2012,
-        "author": "Weissbach"
+        "end": 2012,
+        "author": "Weissbach."
       }
     ]
   },
@@ -10157,11 +10285,14 @@
     "lemma": "Salsum flumen 4",
     "previous": "Salsum flumen 3",
     "next": "Salsus",
+    "sort_key": "Salsumflumen 4",
+    "proof_read": 0,
     "short_description": "Fluß in Chaldaea",
     "chapters": [
       {
         "start": 2013,
-        "author": "Weissbach"
+        "end": 2013,
+        "author": "Weissbach."
       }
     ]
   },
@@ -10169,12 +10300,13 @@
     "lemma": "Salsus",
     "previous": "Salsum flumen 4",
     "next": "Saltares insulae",
+    "proof_read": 0,
     "short_description": "Fluß an der W-Küste Libyens",
     "chapters": [
       {
         "start": 2013,
         "end": 2014,
-        "author": "Fischer"
+        "author": "C. Th. Fischer."
       }
     ]
   },
@@ -10195,11 +10327,13 @@
     "lemma": "Salthua",
     "previous": "Saltares insulae",
     "next": "Salticae fabulae",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2014,
-        "author": "Vulić"
+        "end": 2014,
+        "author": "Vulić."
       }
     ]
   },
@@ -10247,29 +10381,33 @@
     "lemma": "Saltigi",
     "previous": "Σάλτιγα",
     "next": "Saltius",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2014,
-        "author": "Schulten"
+        "end": 2014,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Saltius",
     "previous": "Saltigi",
-    "next": "Saltoupyrgos",
+    "next": "Saltuares insulae",
+    "proof_read": 0,
     "short_description": "Sex. Person",
     "chapters": [
       {
         "start": 2014,
-        "author": "Münzer"
+        "end": 2014,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Saltuares insulae",
-    "previous": "Saltoupyrgos",
+    "previous": "Saltius",
     "next": "Saltus 1",
     "redirect": "Saliares insulae",
     "proof_read": 2,
@@ -10294,7 +10432,7 @@
   },
   {
     "lemma": "Saltus 1",
-    "previous": "Saltuares insulae",
+    "previous": "Σαλτουπύργος",
     "next": "Saltus 2",
     "redirect": "Orchesis",
     "proof_read": 2,
@@ -10322,11 +10460,14 @@
     "lemma": "Saltus Galliani",
     "previous": "Saltus 2",
     "next": "Salva",
+    "sort_key": "Saltusgalliani",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2014,
-        "author": "Philipp"
+        "end": 2014,
+        "author": "Philipp."
       }
     ]
   },
@@ -10346,11 +10487,13 @@
     "lemma": "Saluda",
     "previous": "Salva",
     "next": "Salvena",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2015,
-        "author": "Ruge"
+        "end": 2015,
+        "author": "Ruge."
       }
     ]
   },
@@ -11082,12 +11225,13 @@
     "lemma": "Salus 1",
     "previous": "Salurnis",
     "next": "Salus 2",
-    "short_description": "Römische Göttin",
+    "proof_read": 0,
+    "short_description": "römische Göttin",
     "chapters": [
       {
         "start": 2057,
         "end": 2059,
-        "author": "Thulin"
+        "author": "Thulin."
       }
     ]
   },
@@ -11109,12 +11253,13 @@
     "lemma": "Salutaris 1",
     "previous": "Salus 2",
     "next": "Salutaris 2",
+    "proof_read": 0,
     "short_description": "Beiname verschiedener Götter",
     "chapters": [
       {
         "start": 2059,
         "end": 2060,
-        "author": "Thulin"
+        "author": "Thulin."
       }
     ]
   },
@@ -11170,11 +11315,13 @@
     "lemma": "Salutifer",
     "previous": "Salutatio",
     "next": "Salutius",
+    "proof_read": 2,
     "short_description": "Gott in Caesarea Mauretanien",
     "chapters": [
       {
         "start": 2072,
-        "author": "Thulin"
+        "end": 2072,
+        "author": "Thulin."
       }
     ]
   },

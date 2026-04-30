@@ -139068,7 +139068,7 @@
     "previous": "Passer 2",
     "next": "Pat(t)ala 1",
     "proof_read": 3,
-    "short_description": "phoinikische Zwerggottheiten",
+    "short_description": "Phoinik. Zwerggottheiten",
     "no_creative_height": true,
     "chapters": [
       {
@@ -152088,7 +152088,6 @@
   {
     "lemma": "Salmous",
     "previous": "Salmurium, Salmurus",
-    "next": "Saloato",
     "proof_read": 3,
     "short_description": "karmanische Stadt",
     "no_creative_height": true,
@@ -152101,9 +152100,26 @@
     ]
   },
   {
-    "lemma": "Saloato",
-    "previous": "Salmous",
+    "lemma": "Σαλμοῦς",
+    "previous": "Salmurium, Salmurus",
+    "next": "Saloato (?)",
+    "sort_key": "Salmus",
+    "proof_read": 3,
+    "short_description": "Salmus, karmanische Stadt",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 200,
+        "end": 200,
+        "author": "Hans Gärtner."
+      }
+    ]
+  },
+  {
+    "lemma": "Saloato (?)",
+    "previous": "Σαλμοῦς",
     "next": "Saloca",
+    "sort_key": "Saloato",
     "proof_read": 3,
     "short_description": "Inschrift eines Meilensteins an der Straße Vindobona – Boiodurum",
     "no_creative_height": true,
@@ -152117,7 +152133,7 @@
   },
   {
     "lemma": "Saloca",
-    "previous": "Saloato",
+    "previous": "Saloato (?)",
     "next": "Salomo 3",
     "proof_read": 3,
     "short_description": "Station an der Straße Virunum - Aquileia",
