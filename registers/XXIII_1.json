@@ -4308,10 +4308,10 @@
   {
     "lemma": "Πρόγονοι θεοί",
     "previous": "Προγνώστης",
-    "next": "πρόγαμμα",
+    "next": "πρόγραμμα",
     "sort_key": "Progonoitheoi",
     "proof_read": 0,
-    "short_description": "Bezeichnung der Götter als Stammväter der Menschen und anderer Götter",
+    "short_description": "Progonoi theoi, Götter als Stammväter anderer Götter",
     "chapters": [
       {
         "start": 114,
@@ -4322,7 +4322,7 @@
   },
   {
     "lemma": "Πρόγονοι θεοί",
-    "next": "Prohaeresius",
+    "next": "πρόγραμμα",
     "short_description": "Bezeichnung der Götter als Stammväter der Menschen und anderer Götter",
     "chapters": [
       {
@@ -4332,8 +4332,23 @@
     ]
   },
   {
-    "lemma": "Prohaeresius",
+    "lemma": "πρόγραμμα",
     "previous": "Πρόγονοι θεοί",
+    "next": "Prohaeresius",
+    "sort_key": "Programma",
+    "redirect": true,
+    "proof_read": 2,
+    "short_description": "programma",
+    "chapters": [
+      {
+        "start": 114,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "lemma": "Prohaeresius",
+    "previous": "πρόγραμμα",
     "next": "Prohedria",
     "redirect": "Proairesios 1",
     "proof_read": 2,
@@ -8585,7 +8600,7 @@
   {
     "lemma": "Propylaios",
     "previous": "Propylaia",
-    "next": "Προπυργιδία",
+    "next": "Propylos",
     "proof_read": 0,
     "short_description": "Epiklesis von Apollon, Hermes, Poseidon und Herakles",
     "chapters": [
@@ -11606,13 +11621,14 @@
     "lemma": "Proxenos 1",
     "previous": "Proxenos",
     "next": "Proxenos 2",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Hellenotamias 410/09 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1029,
         "end": 1029,
-        "author": "Ziegler."
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -11620,13 +11636,15 @@
     "lemma": "Proxenos 2",
     "previous": "Proxenos 1",
     "next": "Proxenos 3",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Sohn des Tyrannenmörders Harmodios",
+    "wd_link": "d:Q139596983",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1029,
         "end": 1029,
-        "author": "Ziegler."
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -11635,12 +11653,14 @@
     "previous": "Proxenos 2",
     "next": "Proxenos 4",
     "proof_read": 0,
-    "short_description": "Freund des Xenophon",
+    "short_description": "aus Boitien, Freund des Xenophon, Schüler des Gorgias von Leontinoi",
+    "wp_link": "w:de:Proxenos von Theben",
+    "wd_link": "d:Q1283035",
     "chapters": [
       {
         "start": 1029,
         "end": 1032,
-        "author": "H. Gundel."
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -11650,11 +11670,12 @@
     "next": "Proxenos 5",
     "proof_read": 0,
     "short_description": "Führer der Zehntausend neben dem athenischen Strategen Chares",
+    "wd_link": "d:Q97181741",
     "chapters": [
       {
         "start": 1032,
         "end": 1032,
-        "author": "Ziegler."
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -11794,11 +11815,12 @@
     "next": "Proxenos 15",
     "proof_read": 0,
     "short_description": "Historiker, Verfasser von Chalkidika",
+    "wd_link": "d:Q116291154",
     "chapters": [
       {
-        "start": 1033,
+        "start": 1034,
         "end": 1034,
-        "author": "Ziegler."
+        "author": "Konrat Ziegler."
       }
     ]
   },
