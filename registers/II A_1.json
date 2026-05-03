@@ -34,12 +34,14 @@
     "lemma": "Sarmaticae portae",
     "previous": "Sarmatica insula",
     "next": "Sarmatici montes",
+    "sort_key": "Sarmaticaeportae",
+    "proof_read": 0,
     "short_description": "Engpaß d. Kaukasus, Verbindung zw. Sarmatien u. Iberien",
     "chapters": [
       {
         "start": 13,
         "end": 14,
-        "author": "Kretschmer"
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -47,12 +49,14 @@
     "lemma": "Sarmatici montes",
     "previous": "Sarmaticae portae",
     "next": "Sarmaticus",
+    "sort_key": "Sarmaticimontes",
+    "proof_read": 0,
     "short_description": "Grenzgebirge zw. Germanien u. Sarmatien",
     "chapters": [
       {
         "start": 14,
         "end": 15,
-        "author": "Kretschmer"
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -60,25 +64,28 @@
     "lemma": "Sarmaticus",
     "previous": "Sarmatici montes",
     "next": "Sarmaticus oceanus",
+    "proof_read": 0,
     "short_description": "Siegerbeiname, den seit Kaiser Marcus mehrere Herrscher führten",
     "chapters": [
       {
         "start": 15,
         "end": 23,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Sarmaticus oceanus",
     "previous": "Sarmaticus",
-    "next": "Sarmarorum, strata -",
+    "next": "Sarmatina",
+    "sort_key": "Sarmaticusoceanus",
+    "proof_read": 0,
     "short_description": "Die Ostsee",
     "chapters": [
       {
         "start": 23,
         "end": 24,
-        "author": "Kretschmer"
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -96,17 +103,19 @@
   },
   {
     "lemma": "Sarmatina",
-    "previous": "Sarmarorum, strata -",
-    "next": "Sarmatorum, strata",
+    "previous": "Sarmaticus oceanus",
+    "next": "Sarmatorum, strata–",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 24,
-        "author": "Kretschmer"
+        "end": 24,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
-    "lemma": "Sarmatorum, strata",
+    "lemma": "Sarmatorum, strata–",
     "previous": "Sarmatina",
     "next": "Sarmentius",
     "sort_key": "Sarmatorum",
@@ -122,7 +131,7 @@
   },
   {
     "lemma": "Sarmentius",
-    "previous": "Sarmatorum, strata",
+    "previous": "Sarmatorum, strata–",
     "next": "Sarmentus",
     "proof_read": 3,
     "short_description": "Flavius Iulius Rufinus Sarmentius, praeses Dalmatiae zw. 337 und 350 n. Chr.",
@@ -170,10 +179,12 @@
     "lemma": "Sarminium",
     "previous": "Sarmia",
     "next": "Sarmizegethusa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 25,
-        "author": "Vulić"
+        "end": 25,
+        "author": "Vulić."
       }
     ]
   },
@@ -237,10 +248,12 @@
     "lemma": "Sarnacus",
     "previous": "Sarna",
     "next": "Sarnade",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 28,
-        "author": "Fluss"
+        "end": 28,
+        "author": "Fluss."
       }
     ]
   },
@@ -248,10 +261,12 @@
     "lemma": "Sarnade",
     "previous": "Sarnacus",
     "next": "Sarnae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 28,
-        "author": "Vulić"
+        "end": 28,
+        "author": "Vulić."
       }
     ]
   },
@@ -301,11 +316,14 @@
     "lemma": "Σάρν(ε)ιος",
     "previous": "Sarnali",
     "next": "Sarnia",
+    "sort_key": "Sarneios",
+    "proof_read": 0,
     "short_description": "Sarn(e)ios",
     "chapters": [
       {
         "start": 29,
-        "author": "Weissbach"
+        "end": 29,
+        "author": "Weissbach."
       }
     ]
   },
@@ -326,11 +344,14 @@
     "lemma": "Σάρνιος",
     "previous": "Sarnia",
     "next": "Sarnos",
+    "sort_key": "Sarnios",
+    "proof_read": 0,
     "short_description": "In d. Kaspische Meer fließender kleiner Fluß",
     "chapters": [
       {
         "start": 29,
-        "author": "Herrmann"
+        "end": 29,
+        "author": "Herrmann."
       }
     ]
   },

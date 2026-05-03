@@ -4095,10 +4095,10 @@
   },
   {
     "lemma": "Saea",
-    "previous": "Sadyattes 5",
+    "previous": "Sadykos",
     "next": "Saeculanus",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Stadt in Oberägypten, heute Hasayaa",
     "chapters": [
       {
         "start": 1696,
@@ -4140,8 +4140,8 @@
     "lemma": "Saecularis",
     "previous": "Saeculares ludi, Säkularfeier, Säkulum",
     "next": "Saeculum",
-    "proof_read": 0,
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "hoher Beamter Ende 4./Anfang 5. Jhdt. n. Chr.",
     "chapters": [
       {
         "start": 1720,
@@ -10409,7 +10409,7 @@
   },
   {
     "lemma": "Saltuares insulae",
-    "previous": "Saltius",
+    "previous": "Σαλτουπύργος",
     "next": "Saltus 1",
     "redirect": "Saliares insulae",
     "proof_read": 2,
@@ -13974,12 +13974,12 @@
     "previous": "Sandokos",
     "next": "Sandon 2",
     "proof_read": 0,
-    "short_description": "Kilikischer Gott",
+    "short_description": "kilikischer Gott",
     "chapters": [
       {
         "start": 2264,
         "end": 2268,
-        "author": "Phillip."
+        "author": "Philipp."
       }
     ]
   },
@@ -13993,7 +13993,7 @@
       {
         "start": 2268,
         "end": 2268,
-        "author": "Phillip."
+        "author": "Philipp."
       }
     ]
   },
@@ -14015,44 +14015,50 @@
   {
     "lemma": "Sandraudiga",
     "previous": "Sandon 3",
-    "next": "Sandou",
+    "next": "Sandreis",
+    "proof_read": 0,
     "short_description": "Name einer örtlichen Göttin auf einer Weihinschrift aus den Niederlanden",
     "chapters": [
       {
         "start": 2268,
         "end": 2269,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sandreis",
-    "previous": "Sandou",
+    "previous": "Sandraudiga",
     "next": "Sandrokottos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2269,
-        "author": "Bürchner"
+        "end": 2269,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sandrokottos",
     "previous": "Sandreis",
-    "next": "Sandura",
+    "next": "Σάνδου",
+    "proof_read": 0,
     "short_description": "Gründer eines großen Reiches in N-Indien",
     "chapters": [
       {
         "start": 2269,
-        "author": "Ruge"
+        "end": 2269,
+        "author": "Plaumann."
       }
     ]
   },
   {
-    "lemma": "Sandou",
+    "lemma": "Σάνδου",
     "previous": "Sandrokottos",
     "next": "Sandura",
+    "sort_key": "Sandou",
     "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
@@ -14065,8 +14071,8 @@
   },
   {
     "lemma": "Sandura",
-    "previous": "Sandrokottos",
-    "next": "Saneia",
+    "previous": "Σάνδου",
+    "next": "Σάνεια",
     "redirect": "Andura 1",
     "proof_read": 2,
     "chapters": [
@@ -14077,39 +14083,59 @@
     ]
   },
   {
-    "lemma": "Saneia",
+    "lemma": "Σάνεια",
     "previous": "Sandura",
     "next": "Sanerges",
+    "sort_key": "Saneia",
+    "proof_read": 0,
     "short_description": "Indische Stadt",
     "chapters": [
       {
         "start": 2269,
-        "author": "Herrmann"
+        "end": 2269,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Sanerges",
-    "previous": "Saneia",
-    "next": "Sangarios 1",
+    "previous": "Σάνεια",
+    "next": "Sangarios",
+    "proof_read": 0,
     "short_description": "Gott auf einer Inschr. aus Phanagoria",
     "chapters": [
       {
         "start": 2269,
-        "author": "Herrmann"
+        "end": 2269,
+        "author": "Nawrath."
+      }
+    ]
+  },
+  {
+    "lemma": "Sangarios",
+    "previous": "Sanerges",
+    "next": "Sangarios 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2269,
+        "end": 2269,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sangarios 1",
-    "previous": "Sanerges",
+    "previous": "Sangarios",
     "next": "Sangarios 2",
+    "proof_read": 0,
     "short_description": "Hauptstrom Kleinasiens",
     "chapters": [
       {
         "start": 2269,
         "end": 2270,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -14117,12 +14143,13 @@
     "lemma": "Sangarios 2",
     "previous": "Sangarios 1",
     "next": "Sangaros",
+    "proof_read": 0,
     "short_description": "Phrygischer Flußgott",
     "chapters": [
       {
         "start": 2270,
         "end": 2271,
-        "author": "Nawrath"
+        "author": "Nawrath."
       }
     ]
   },
@@ -14144,11 +14171,13 @@
     "lemma": "Sangas",
     "previous": "Sangaros",
     "next": "Sangia",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2271,
-        "author": "Nawrath"
+        "end": 2271,
+        "author": "Nawrath."
       }
     ]
   },
@@ -14186,11 +14215,13 @@
     "lemma": "Sangidava",
     "previous": "Sangibanus",
     "next": "Sanherib",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2271,
-        "author": "Vulić"
+        "end": 2271,
+        "author": "Vulić."
       }
     ]
   },
@@ -14198,12 +14229,13 @@
     "lemma": "Sanherib",
     "previous": "Sangidava",
     "next": "Sani",
+    "proof_read": 0,
     "short_description": "König von Assyrien 705-680 v. Chr.",
     "chapters": [
       {
         "start": 2271,
         "end": 2282,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
@@ -14211,41 +14243,48 @@
     "lemma": "Sani",
     "previous": "Sanherib",
     "next": "Saniana",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2282,
-        "author": "Keune"
+        "end": 2282,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Saniana",
     "previous": "Sani",
-    "next": "Sanideia",
+    "next": "Σάνιδεια (?)",
+    "proof_read": 0,
     "short_description": "Byzantinisches Kastell am Halys in Kleinasien",
     "chapters": [
       {
         "start": 2282,
-        "author": "Oberhummer"
+        "end": 2282,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Sanideia",
+    "lemma": "Σάνιδεια (?)",
     "previous": "Saniana",
     "next": "Sanigai",
+    "sort_key": "Sanideia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2282,
-        "author": "Bürchner"
+        "end": 2282,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sanigai",
-    "previous": "Sanideia",
+    "previous": "Σάνιδεια (?)",
     "next": "Saniglon",
     "proof_read": 2,
     "short_description": "Stamm der Heniocher an der kaukasischen Küste des Pontos",
@@ -14361,41 +14400,48 @@
     "lemma": "Sanitium",
     "previous": "Sanisium",
     "next": "Sanmarciacus",
+    "proof_read": 0,
     "short_description": "Stadt der Vediantii in den Seealpen Senez",
     "chapters": [
       {
         "start": 2283,
-        "author": "Keune"
+        "end": 2283,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sanmarciacus",
     "previous": "Sanitium",
-    "next": "Sannaba",
+    "next": "Σαννάβα",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2284,
-        "author": "Keune"
+        "end": 2284,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sannaba",
+    "lemma": "Σαννάβα",
     "previous": "Sanmarciacus",
     "next": "Sannat",
+    "sort_key": "Sannaba",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2284,
-        "author": "Herrmann"
+        "end": 2284,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Sannat",
-    "previous": "Sannaba",
+    "previous": "Σαννάβα",
     "next": "Sanni",
     "proof_read": 2,
     "short_description": "Merowingische Münzstätte",
@@ -14410,7 +14456,7 @@
   {
     "lemma": "Sanni",
     "previous": "Sannat",
-    "next": "Sannina",
+    "next": "Σάννινα",
     "redirect": "Makrones",
     "proof_read": 2,
     "chapters": [
@@ -14421,26 +14467,31 @@
     ]
   },
   {
-    "lemma": "Sannina",
+    "lemma": "Σάννινα",
     "previous": "Sanni",
     "next": "Sannius",
+    "sort_key": "Sannina",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2284,
-        "author": "Weissbach"
+        "end": 2284,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sannius",
-    "previous": "Sannina",
+    "previous": "Σάννινα",
     "next": "Sannona",
+    "proof_read": 0,
     "short_description": "Mime der römischen Kaiserzeit",
     "chapters": [
       {
         "start": 2284,
-        "author": "Kappelmacher"
+        "end": 2284,
+        "author": "Kappelmacher."
       }
     ]
   },
@@ -14448,12 +14499,13 @@
     "lemma": "Sannona",
     "previous": "Sannius",
     "next": "Sannus",
+    "proof_read": 0,
     "short_description": "Ortschaft am Vicenna (Vienne) in Frankreich",
     "chapters": [
       {
         "start": 2284,
         "end": 2285,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -14474,11 +14526,13 @@
     "lemma": "Sannyrion",
     "previous": "Sannus",
     "next": "Sanomus",
+    "proof_read": 0,
     "short_description": "Dichter der alten Komödie",
     "chapters": [
       {
         "start": 2285,
-        "author": "Körte"
+        "end": 2285,
+        "author": "Körte."
       }
     ]
   },
@@ -14486,11 +14540,13 @@
     "lemma": "Sanomus",
     "previous": "Sannyrion",
     "next": "Sanona",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2285,
-        "author": "Keune"
+        "end": 2285,
+        "author": "Keune."
       }
     ]
   },
@@ -14526,11 +14582,13 @@
     "lemma": "Sanquinius 1",
     "previous": "Sanos",
     "next": "Sanquinius 2",
+    "proof_read": 0,
     "short_description": "Ankläger des L. Arruntius",
     "chapters": [
       {
         "start": 2286,
-        "author": "Stein, [Arthur]"
+        "end": 2286,
+        "author": "Stein."
       }
     ]
   },
@@ -14538,11 +14596,13 @@
     "lemma": "Sanquinius 2",
     "previous": "Sanquinius 1",
     "next": "Sanquinius 3",
+    "proof_read": 0,
     "short_description": "M. IIIvir aere argento auro flando feriundo unter Augustus",
     "chapters": [
       {
         "start": 2286,
-        "author": "Groag"
+        "end": 2286,
+        "author": "Groag."
       }
     ]
   },
@@ -14550,11 +14610,13 @@
     "lemma": "Sanquinius 3",
     "previous": "Sanquinius 2",
     "next": "Sanquinius 4",
+    "proof_read": 0,
     "short_description": "Q. Procos. in augustäischer Zeit",
     "chapters": [
       {
         "start": 2286,
-        "author": "Groag"
+        "end": 2286,
+        "author": "Groag."
       }
     ]
   },
@@ -14562,12 +14624,13 @@
     "lemma": "Sanquinius 4",
     "previous": "Sanquinius 3",
     "next": "Sansat",
+    "proof_read": 0,
     "short_description": "Maximus, Q. Consular 32 n. Chr.",
     "chapters": [
       {
         "start": 2286,
         "end": 2287,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -14615,31 +14678,34 @@
   {
     "lemma": "Santen",
     "previous": "Santelec",
-    "next": "Santerus",
+    "next": "Santernus",
+    "proof_read": 0,
     "short_description": "Andere Schreibung von Xanten",
     "chapters": [
       {
         "start": 2287,
-        "author": "Keune"
+        "end": 2287,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Santerus",
+    "lemma": "Santernus",
     "previous": "Santen",
     "next": "Santiacus",
+    "proof_read": 0,
     "short_description": "Fluß bei Mutina-Modena",
     "chapters": [
       {
         "start": 2287,
         "end": 2288,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Santiacus",
-    "previous": "Santerus",
+    "previous": "Santernus",
     "next": "Santicum, Sianticum",
     "proof_read": 2,
     "short_description": "Ort",
@@ -14654,37 +14720,44 @@
   {
     "lemma": "Santicum, Sianticum",
     "previous": "Santiacus",
-    "next": "Santis",
+    "next": "Santis (?)",
+    "sort_key": "Santicum,sianticum",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2288,
-        "author": "Keune"
+        "end": 2288,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Santis",
+    "lemma": "Santis (?)",
     "previous": "Santicum, Sianticum",
     "next": "Santius",
+    "sort_key": "Santis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2288,
-        "author": "Keune"
+        "end": 2288,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Santius",
-    "previous": "Santis",
+    "previous": "Santis (?)",
     "next": "Santoni, Santones",
+    "proof_read": 0,
     "short_description": "Gott auf einer Weihinschr. vom Limeskastell Altstadt",
     "chapters": [
       {
         "start": 2288,
         "end": 2289,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -14704,25 +14777,28 @@
   {
     "lemma": "Santra",
     "previous": "Santoni, Santones",
-    "next": "Sanoua",
+    "next": "Santug(ianae)",
+    "proof_read": 0,
     "short_description": "Römischer Philologe",
     "chapters": [
       {
         "start": 2301,
         "end": 2302,
-        "author": "Wessner"
+        "author": "Wessner."
       }
     ]
   },
   {
     "lemma": "Santug(ianae)",
-    "previous": "Santouta",
-    "next": "Sao",
+    "previous": "Santra",
+    "next": "Σαντοῦτα",
+    "proof_read": 0,
     "short_description": "Amphorenstempel aus Rom",
     "chapters": [
       {
         "start": 2302,
-        "author": "Keune"
+        "end": 2302,
+        "author": "Keune."
       }
     ]
   },
@@ -14751,27 +14827,31 @@
     ]
   },
   {
-    "lemma": "Sao",
-    "previous": "Santug(ianae)",
+    "lemma": "Σαώ",
+    "previous": "Σανούα",
     "next": "Saocithum",
+    "sort_key": "Sao",
+    "proof_read": 0,
     "short_description": "Tochter des Nereus",
     "chapters": [
       {
         "start": 2302,
         "end": 2303,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Saocithum",
-    "previous": "Sao",
+    "previous": "Σαώ",
     "next": "Saoconna",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2303,
-        "author": "Keune"
+        "end": 2303,
+        "author": "Keune."
       }
     ]
   },
@@ -14791,7 +14871,7 @@
   {
     "lemma": "Saoke, Saokes, Saokis",
     "previous": "Saoconna",
-    "next": "Saokoras",
+    "next": "Σαοκόρας",
     "redirect": "Samothrake",
     "proof_read": 2,
     "chapters": [
@@ -14802,20 +14882,23 @@
     ]
   },
   {
-    "lemma": "Saokoras",
+    "lemma": "Σαοκόρας",
     "previous": "Saoke, Saokes, Saokis",
     "next": "Saon 1",
+    "sort_key": "Saokoras",
+    "proof_read": 0,
     "short_description": "Oestl. Nebenfluß des Euphrat",
     "chapters": [
       {
         "start": 2303,
-        "author": "Weissbach"
+        "end": 2303,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Saon 1",
-    "previous": "Saokoras",
+    "previous": "Σαοκόρας",
     "next": "Saon 2",
     "redirect": "Samothrake",
     "proof_read": 2,
@@ -14830,11 +14913,13 @@
     "lemma": "Saon 2",
     "previous": "Saon 1",
     "next": "Saon 3",
+    "proof_read": 0,
     "short_description": "Böotischer Heros",
     "chapters": [
       {
         "start": 2303,
-        "author": "Zwicker"
+        "end": 2303,
+        "author": "Zwicker."
       }
     ]
   },
@@ -14842,18 +14927,20 @@
     "lemma": "Saon 3",
     "previous": "Saon 2",
     "next": "Saône",
+    "proof_read": 0,
     "short_description": "Organisator der 5 Phylen von Samothrake. Identisch mit Nr. 2?",
     "chapters": [
       {
         "start": 2303,
-        "author": "Zwicker"
+        "end": 2303,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Saône",
     "previous": "Saon 3",
-    "next": "Saon(os?)",
+    "next": "Saon(-os?)",
     "redirect": "Sauconna",
     "proof_read": 2,
     "chapters": [
@@ -14864,21 +14951,24 @@
     ]
   },
   {
-    "lemma": "Saon(os?)",
+    "lemma": "Saon(-os?)",
     "previous": "Saône",
     "next": "Saoros",
+    "sort_key": "Saon(os?)",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2303,
-        "author": "Ruge"
+        "end": 2303,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Saoros",
-    "previous": "Saon(os?)",
-    "next": "Saos",
+    "previous": "Saon(-os?)",
+    "next": "Σαώς",
     "sort_key": "Saoros",
     "redirect": "Eleuthernai#Seite_2352",
     "proof_read": 2,
@@ -14891,12 +14981,12 @@
     ]
   },
   {
-    "lemma": "Saos",
+    "lemma": "Σαώς",
     "previous": "Saoros",
-    "next": "Saosdouchinos",
+    "next": "Σαοσδούχινος",
     "sort_key": "Saos",
     "redirect": "Samas",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2304,
@@ -14905,28 +14995,31 @@
     ]
   },
   {
-    "lemma": "Saosdouchinos",
-    "previous": "Saos",
+    "lemma": "Σαοσδούχινος",
+    "previous": "Σαώς",
     "next": "Saosis",
+    "sort_key": "Saosdouchinos",
+    "proof_read": 0,
     "short_description": "König von Babylon 667-647 v. Chr.",
     "chapters": [
       {
         "start": 2304,
         "end": 2306,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Saosis",
-    "previous": "Saosdouchinos",
+    "previous": "Σαοσδούχινος",
     "next": "Saoteros",
+    "proof_read": 0,
     "short_description": "Figur der ägyptisch-phoinikischen Osiris-Isissage",
     "chapters": [
       {
         "start": 2306,
         "end": 2307,
-        "author": "Greßmann"
+        "author": "Greßmann."
       }
     ]
   },
@@ -14934,12 +15027,13 @@
     "lemma": "Saoteros",
     "previous": "Saosis",
     "next": "Saotes",
+    "proof_read": 0,
     "short_description": "Günstling und Liebhaber des Kaisers Commodus",
     "chapters": [
       {
         "start": 2307,
         "end": 2308,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -14947,60 +15041,71 @@
     "lemma": "Saotes",
     "previous": "Saoteros",
     "next": "Sapadenses",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus (und evtl. Dionysos?)",
     "chapters": [
       {
         "start": 2308,
-        "author": "Adler"
+        "end": 2308,
+        "author": "Adler."
       }
     ]
   },
   {
     "lemma": "Sapadenses",
     "previous": "Saotes",
-    "next": "Sapara",
+    "next": "Σάπαρα",
+    "proof_read": 0,
     "short_description": "Bewohner einer Örtlichkeit in Mauretania Sitifensis",
     "chapters": [
       {
         "start": 2308,
-        "author": "Dessau"
+        "end": 2308,
+        "author": "Dessau."
       }
     ]
   },
   {
-    "lemma": "Sapara",
+    "lemma": "Σάπαρα",
     "previous": "Sapadenses",
-    "next": "Saparnos",
+    "next": "Σάπαρνος",
+    "sort_key": "Sapara",
+    "proof_read": 0,
     "short_description": "Mündungsarm des Indus",
     "chapters": [
       {
         "start": 2308,
-        "author": "Herrmann"
+        "end": 2308,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Saparnos",
-    "previous": "Sapara",
+    "lemma": "Σάπαρνος",
+    "previous": "Σάπαρα",
     "next": "Sapaudia",
+    "sort_key": "Saparnos",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Indos",
     "chapters": [
       {
         "start": 2309,
-        "author": "Herrmann"
+        "end": 2309,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Sapaudia",
-    "previous": "Saparnos",
+    "previous": "Σάπαρνος",
     "next": "Sapaudus",
+    "proof_read": 0,
     "short_description": "Alpenlandschaft südl. vom Genfersee",
     "chapters": [
       {
         "start": 2309,
         "end": 2319,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -15008,11 +15113,13 @@
     "lemma": "Sapaudus",
     "previous": "Sapaudia",
     "next": "Sapaudus 1",
+    "proof_read": 0,
     "short_description": "Zum Namen",
     "chapters": [
       {
         "start": 2319,
-        "author": "Keune"
+        "end": 2319,
+        "author": "Keune."
       }
     ]
   },
@@ -15020,11 +15127,13 @@
     "lemma": "Sapaudus 1",
     "previous": "Sapaudus",
     "next": "Sapaudus 2",
+    "proof_read": 0,
     "short_description": "CIL XII 2033",
     "chapters": [
       {
         "start": 2320,
-        "author": "Keune"
+        "end": 2320,
+        "author": "Keune."
       }
     ]
   },
@@ -15032,11 +15141,13 @@
     "lemma": "Sapaudus 2",
     "previous": "Sapaudus 1",
     "next": "Sapaudus 3",
+    "proof_read": 0,
     "short_description": "Gallischer Redner",
     "chapters": [
       {
         "start": 2320,
-        "author": "Kroll"
+        "end": 2320,
+        "author": "Kroll-Keune."
       }
     ]
   },
@@ -15044,11 +15155,13 @@
     "lemma": "Sapaudus 3",
     "previous": "Sapaudus 2",
     "next": "Sapaudus 4",
+    "proof_read": 0,
     "short_description": "Abt, Teilnehmer an der Synode von Orléans",
     "chapters": [
       {
         "start": 2320,
-        "author": "Keune"
+        "end": 2320,
+        "author": "Keune."
       }
     ]
   },
@@ -15056,11 +15169,13 @@
     "lemma": "Sapaudus 4",
     "previous": "Sapaudus 3",
     "next": "Sapaudus 5",
+    "proof_read": 0,
     "short_description": "Minister des Königs Clotarius",
     "chapters": [
       {
         "start": 2320,
-        "author": "Keune"
+        "end": 2320,
+        "author": "Keune."
       }
     ]
   },
@@ -15068,11 +15183,13 @@
     "lemma": "Sapaudus 5",
     "previous": "Sapaudus 4",
     "next": "Sapaudus 6",
+    "proof_read": 0,
     "short_description": "Bischof von Arles",
     "chapters": [
       {
         "start": 2320,
-        "author": "Keune"
+        "end": 2320,
+        "author": "Keune."
       }
     ]
   },
@@ -15080,11 +15197,13 @@
     "lemma": "Sapaudus 6",
     "previous": "Sapaudus 5",
     "next": "Sapaudus 7",
+    "proof_read": 0,
     "short_description": "Presbyter an der Synode von Auxerre",
     "chapters": [
       {
         "start": 2320,
-        "author": "Keune"
+        "end": 2320,
+        "author": "Keune."
       }
     ]
   },
@@ -15092,11 +15211,13 @@
     "lemma": "Sapaudus 7",
     "previous": "Sapaudus 6",
     "next": "Sapaudus 8",
+    "proof_read": 0,
     "short_description": "Bischof von Trier",
     "chapters": [
       {
         "start": 2321,
-        "author": "Keune"
+        "end": 2321,
+        "author": "Keune."
       }
     ]
   },
@@ -15104,11 +15225,13 @@
     "lemma": "Sapaudus 8",
     "previous": "Sapaudus 7",
     "next": "Sape",
+    "proof_read": 0,
     "short_description": "Bischof von Périgueux",
     "chapters": [
       {
         "start": 2321,
-        "author": "Keune"
+        "end": 2321,
+        "author": "Keune."
       }
     ]
   },
@@ -15116,71 +15239,98 @@
     "lemma": "Sape",
     "previous": "Sapaudus 8",
     "next": "Sapeirene",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2321,
-        "author": "Fischer"
+        "end": 2321,
+        "author": "C. Th. Fischer."
       }
     ]
   },
   {
     "lemma": "Sapeirene",
     "previous": "Sape",
-    "next": "Sapethos",
+    "next": "Σάπηθος?",
+    "proof_read": 0,
     "short_description": "Insel am N-Ende des roten Meeres",
     "chapters": [
       {
         "start": 2321,
-        "author": "Moritz, [Bernhard]"
+        "end": 2321,
+        "author": "Moritz."
       }
     ]
   },
   {
-    "lemma": "Sapethos",
+    "lemma": "Σάπηθος?",
     "previous": "Sapeirene",
     "next": "Sapha",
+    "sort_key": "Sapethos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2321,
-        "author": "Bürchner"
+        "end": 2321,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sapha",
-    "previous": "Sapethos",
+    "previous": "Σάπηθος?",
     "next": "Saphael",
+    "proof_read": 0,
     "short_description": "Ort in Syrien",
     "chapters": [
       {
         "start": 2321,
-        "author": "Weissbach"
+        "end": 2321,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Saphael",
     "previous": "Sapha",
-    "next": "Saphar 1",
+    "next": "Saphar",
+    "proof_read": 0,
     "short_description": "Engel des Tages und der Nacht",
     "chapters": [
       {
         "start": 2321,
-        "author": "Zwicker"
+        "end": 2321,
+        "author": "Zwicker."
+      }
+    ]
+  },
+  {
+    "lemma": "Saphar",
+    "previous": "Saphael",
+    "next": "Saphar 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2322,
+        "end": 2322,
+        "author": "Moritz."
       }
     ]
   },
   {
     "lemma": "Saphar 1",
-    "previous": "Saphael",
+    "previous": "Saphar",
     "next": "Saphar 2",
+    "proof_read": 0,
     "short_description": "Hauptstadt der Homeriten in S-Arabien",
     "chapters": [
       {
         "start": 2322,
-        "author": "Moritz, [Bernhard]"
+        "end": 2322,
+        "author": "Moritz."
       }
     ]
   },
@@ -15188,11 +15338,13 @@
     "lemma": "Saphar 2",
     "previous": "Saphar 1",
     "next": "Saphathenos",
+    "proof_read": 0,
     "short_description": "Hafenstadt im Lande Mahra in S-Arabien",
     "chapters": [
       {
         "start": 2322,
-        "author": "Moritz, [Bernhard]"
+        "end": 2322,
+        "author": "Moritz."
       }
     ]
   },
@@ -15200,11 +15352,13 @@
     "lemma": "Saphathenos",
     "previous": "Saphar 2",
     "next": "Saphrax",
+    "proof_read": 0,
     "short_description": "Gott auf einer Inschr. aus Bosra",
     "chapters": [
       {
         "start": 2322,
-        "author": "Greßmann"
+        "end": 2322,
+        "author": "Greßmann."
       }
     ]
   },
@@ -15228,12 +15382,13 @@
     "lemma": "Saphri",
     "previous": "Saphrax",
     "next": "Saphta",
+    "proof_read": 0,
     "short_description": "Dorf im östl. Parthyene",
     "chapters": [
       {
         "start": 2322,
         "end": 2323,
-        "author": "Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
@@ -15324,11 +15479,13 @@
     "lemma": "Sapis",
     "previous": "Sapires, Sapiri",
     "next": "Sapo",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2323,
-        "author": "Philipp"
+        "end": 2323,
+        "author": "Philipp."
       }
     ]
   },
@@ -15350,11 +15507,14 @@
     "lemma": "Σάπολος",
     "previous": "Sapo",
     "next": "Saponaria",
+    "sort_key": "Sapolos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2324,
-        "author": "Herrmann"
+        "end": 2324,
+        "author": "Herrmann."
       }
     ]
   },
@@ -15362,12 +15522,13 @@
     "lemma": "Saponaria",
     "previous": "Σάπολος",
     "next": "Sapor 1",
+    "proof_read": 0,
     "short_description": "Savonnières im Arrondissement Saumur",
     "chapters": [
       {
         "start": 2324,
         "end": 2325,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -15375,12 +15536,13 @@
     "lemma": "Sapor 1",
     "previous": "Saponaria",
     "next": "Sapor 2",
+    "proof_read": 0,
     "short_description": "I., persischer König 241-272 n. Chr.",
     "chapters": [
       {
         "start": 2325,
         "end": 2333,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -15388,12 +15550,13 @@
     "lemma": "Sapor 2",
     "previous": "Sapor 1",
     "next": "Sapor 3",
+    "proof_read": 0,
     "short_description": "II., Perserkönig 310-379 n. Chr.",
     "chapters": [
       {
         "start": 2334,
         "end": 2354,
-        "author": "Seeck"
+        "author": "Seeck."
       }
     ]
   },
@@ -15401,17 +15564,13 @@
     "lemma": "Sapor 3",
     "previous": "Sapor 2",
     "next": "Sapor 4",
-    "short_description": "III., persischer König 383-387? n. Chr.",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 2354,
         "end": 2356,
-        "author": "Fluss"
-      },
-      {
-        "start": 2354,
-        "end": 2356,
-        "author": "Seeck"
+        "author": "Fluss-Seeck."
       }
     ]
   },
@@ -15432,30 +15591,35 @@
   {
     "lemma": "Saporda",
     "previous": "Sapor 4",
-    "next": "Sapores",
+    "next": "Σαπώρης",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2356,
-        "author": "Ruge"
+        "end": 2356,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Sapores",
+    "lemma": "Σαπώρης",
     "previous": "Saporda",
     "next": "Sapothrenai",
+    "sort_key": "Sapores",
+    "proof_read": 0,
     "short_description": "s. Sapor Nr. 1",
     "chapters": [
       {
         "start": 2356,
-        "author": "Fluss"
+        "end": 2356,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Sapothrenai",
-    "previous": "Sapores",
+    "previous": "Σαπώρης",
     "next": "Σαπφαρῖται",
     "proof_read": 2,
     "short_description": "Volk in Sarmatien",
@@ -15486,11 +15650,13 @@
     "lemma": "Sapphinios",
     "previous": "Σαπφαρῖται",
     "next": "Sapphir",
+    "proof_read": 0,
     "short_description": "Freund von König Herodes d. Gr.",
     "chapters": [
       {
         "start": 2356,
-        "author": "Stein, [Arthur]"
+        "end": 2356,
+        "author": "Stein."
       }
     ]
   },
@@ -15527,11 +15693,13 @@
     "lemma": "Sappi",
     "previous": "Sappho",
     "next": "Sappinates",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2385,
-        "author": "Keune"
+        "end": 2385,
+        "author": "Keune."
       }
     ]
   },
@@ -15551,7 +15719,7 @@
   {
     "lemma": "Sappo",
     "previous": "Sappinates",
-    "next": "Sapra limen 1",
+    "next": "Σαπρὰ λίμνη",
     "proof_read": 3,
     "short_description": "Person",
     "chapters": [
@@ -15563,8 +15731,22 @@
     ]
   },
   {
-    "lemma": "Sapra limen 1",
+    "lemma": "Σαπρὰ λίμνη",
     "previous": "Sappo",
+    "next": "Σαπρὰ λίμνη 1",
+    "sort_key": "Sapralimen",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2385,
+        "end": 2385,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Sapra limen 1",
     "next": "Σαπρὰ λίμνη 2",
     "short_description": "Kleiner See bei Astyra in Mysien",
     "chapters": [
@@ -15622,11 +15804,13 @@
     "lemma": "Sapua",
     "previous": "Sapricius 2",
     "next": "Sapyle",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2385,
-        "author": "Vulić"
+        "end": 2385,
+        "author": "Vulić."
       }
     ]
   },
@@ -15663,12 +15847,13 @@
     "lemma": "Sara 2",
     "previous": "Sara 1",
     "next": "Sara 3",
+    "proof_read": 0,
     "short_description": "Fluß in Gallien",
     "chapters": [
       {
         "start": 2385,
         "end": 2386,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -15689,7 +15874,7 @@
   {
     "lemma": "Sara 4",
     "previous": "Sara 3",
-    "next": "Saraballa",
+    "next": "Saraballa, -orum",
     "redirect": "Sarapion 3",
     "proof_read": 2,
     "chapters": [
@@ -15700,20 +15885,22 @@
     ]
   },
   {
-    "lemma": "Saraballa",
+    "lemma": "Saraballa, -orum",
     "previous": "Sara 4",
     "next": "Sarabastrae",
+    "proof_read": 0,
     "short_description": "Weite Beinkleider der Perser",
     "chapters": [
       {
         "start": 2386,
-        "author": "Hug"
+        "end": 2386,
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Sarabastrae",
-    "previous": "Saraballa",
+    "previous": "Saraballa, -orum",
     "next": "Σαραβίς",
     "redirect": "Arabastrae",
     "proof_read": 2,
@@ -15727,7 +15914,7 @@
   {
     "lemma": "Σαραβίς",
     "previous": "Sarabastrae",
-    "next": "Sarabos",
+    "next": "Σάραβος",
     "sort_key": "Sarabis",
     "proof_read": 2,
     "short_description": "Ortsname",
@@ -15741,20 +15928,23 @@
     ]
   },
   {
-    "lemma": "Sarabos",
+    "lemma": "Σάραβος",
     "previous": "Σαραβίς",
     "next": "Sarabraka",
+    "sort_key": "Sarabos",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Ganges",
     "chapters": [
       {
         "start": 2387,
-        "author": "Herrmann"
+        "end": 2387,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Sarabraka",
-    "previous": "Sarabos",
+    "previous": "Σάραβος",
     "next": "Saraburgum",
     "proof_read": 2,
     "short_description": "Name für Salambriai",
@@ -15770,23 +15960,27 @@
     "lemma": "Saraburgum",
     "previous": "Sarabraka",
     "next": "Sarachero",
+    "proof_read": 0,
     "short_description": "Saarburg in Lothringen",
     "chapters": [
       {
         "start": 2387,
-        "author": "Keune"
+        "end": 2387,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sarachero",
     "previous": "Saraburgum",
-    "next": "Saraciacus",
+    "next": "Saraciacus, -um",
+    "proof_read": 0,
     "short_description": "Eigenname?",
     "chapters": [
       {
         "start": 2387,
-        "author": "Zwicker"
+        "end": 2387,
+        "author": "Zwicker."
       }
     ]
   },
@@ -15804,7 +15998,7 @@
   },
   {
     "lemma": "Σαραγίνα",
-    "previous": "Saraciacus",
+    "previous": "Σαράγγαι",
     "next": "Saraka 1",
     "sort_key": "Saragina",
     "proof_read": 2,
@@ -15820,7 +16014,7 @@
   {
     "lemma": "Saraka 1",
     "previous": "Σαραγίνα",
-    "next": "Sarangai",
+    "next": "Σαράγγαι",
     "proof_read": 2,
     "short_description": "Stadt in S-Arabien",
     "chapters": [
@@ -15832,27 +16026,31 @@
     ]
   },
   {
-    "lemma": "Sarangai",
-    "previous": "Saraka 1",
-    "next": "Saraka 2",
+    "lemma": "Σαράγγαι",
+    "previous": "Saraciacus, -um",
+    "next": "Σαραγίνα",
+    "sort_key": "Sarangai",
+    "proof_read": 0,
     "short_description": "Völkerschaft im Achämenidenreich",
     "chapters": [
       {
         "start": 2387,
-        "author": "Weissbach"
+        "end": 2387,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Saraka 2",
-    "previous": "Sarangai",
+    "previous": "Σαράγγαι",
     "next": "Saraka 3",
+    "proof_read": 0,
     "short_description": "Landschaft in Arabien",
     "chapters": [
       {
         "start": 2388,
         "end": 2390,
-        "author": "Moritz, [Bernhard]"
+        "author": "Moritz."
       }
     ]
   },
@@ -15887,7 +16085,7 @@
   {
     "lemma": "Sarake",
     "previous": "Σαρακαύρακοι",
-    "next": "Sarakon",
+    "next": "Σαράκων?",
     "proof_read": 2,
     "short_description": "Ort",
     "chapters": [
@@ -15899,27 +16097,31 @@
     ]
   },
   {
-    "lemma": "Sarakon",
+    "lemma": "Σαράκων?",
     "previous": "Sarake",
     "next": "Sarakos",
+    "sort_key": "Sarakon",
+    "proof_read": 0,
     "short_description": "Heros",
     "chapters": [
       {
         "start": 2390,
-        "author": "Zwicker"
+        "end": 2390,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sarakos",
-    "previous": "Sarakon",
+    "previous": "Σαράκων?",
     "next": "Saralapis",
+    "proof_read": 0,
     "short_description": "Letzter König der Assyrer",
     "chapters": [
       {
         "start": 2390,
         "end": 2391,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
@@ -15927,11 +16129,13 @@
     "lemma": "Saralapis",
     "previous": "Sarakos",
     "next": "Saralium",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2391,
-        "author": "Philipp"
+        "end": 2391,
+        "author": "Philipp."
       }
     ]
   },
@@ -15981,12 +16185,13 @@
     "lemma": "Saramanne",
     "previous": "Σάραλος 2",
     "next": "Σαραμηνή",
+    "proof_read": 0,
     "short_description": "Stadt Hyrkaniens",
     "chapters": [
       {
         "start": 2391,
         "end": 2392,
-        "author": "Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
@@ -16023,11 +16228,13 @@
     "lemma": "Saranges",
     "previous": "Saranga",
     "next": "Saranicus",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Hydraotes",
     "chapters": [
       {
         "start": 2392,
-        "author": "Herrmann"
+        "end": 2392,
+        "author": "Herrmann."
       }
     ]
   },
@@ -16035,11 +16242,13 @@
     "lemma": "Saranicus",
     "previous": "Saranges",
     "next": "Saransos",
+    "proof_read": 0,
     "short_description": "Angebl. Beiname des Iuppiter",
     "chapters": [
       {
         "start": 2392,
-        "author": "Keune"
+        "end": 2392,
+        "author": "Keune."
       }
     ]
   },
@@ -16061,11 +16270,13 @@
     "lemma": "Sarapana",
     "previous": "Saransos",
     "next": "Saraparae",
+    "proof_read": 0,
     "short_description": "Kastell in Kolchis",
     "chapters": [
       {
         "start": 2392,
-        "author": "Herrmann"
+        "end": 2392,
+        "author": "Herrmann."
       }
     ]
   },
@@ -16073,12 +16284,13 @@
     "lemma": "Saraparae",
     "previous": "Sarapana",
     "next": "Sarapieia",
+    "proof_read": 0,
     "short_description": "Volk am Oxus",
     "chapters": [
       {
         "start": 2392,
         "end": 2393,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
@@ -16086,11 +16298,13 @@
     "lemma": "Sarapieia",
     "previous": "Saraparae",
     "next": "Sarapion",
+    "proof_read": 0,
     "short_description": "Festname und bestimmte Opfer des Sarapis",
     "chapters": [
       {
         "start": 2393,
-        "author": "Nilsson"
+        "end": 2393,
+        "author": "Nilsson."
       }
     ]
   },
@@ -16098,12 +16312,13 @@
     "lemma": "Sarapion",
     "previous": "Sarapieia",
     "next": "Sarapion 1",
+    "proof_read": 0,
     "short_description": "Römischer Spottname",
     "chapters": [
       {
         "start": 2393,
         "end": 2394,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -16111,11 +16326,13 @@
     "lemma": "Sarapion 1",
     "previous": "Sarapion",
     "next": "Sarapion 2",
+    "proof_read": 0,
     "short_description": "Sklave",
     "chapters": [
       {
         "start": 2394,
-        "author": "Münzer"
+        "end": 2394,
+        "author": "Münzer."
       }
     ]
   },
@@ -16137,11 +16354,13 @@
     "lemma": "Sarapion 3",
     "previous": "Sarapion 2",
     "next": "Σαραπίωνος ὅρμος",
+    "proof_read": 0,
     "short_description": "Ratgeber des König Ptolemaios XIII",
     "chapters": [
       {
         "start": 2394,
-        "author": "Münzer"
+        "end": 2394,
+        "author": "Münzer."
       }
     ]
   },
@@ -16164,12 +16383,13 @@
     "lemma": "Sarapis 1",
     "previous": "Σαραπίωνος ὅρμος",
     "next": "Sarapis 2",
+    "proof_read": 0,
     "short_description": "Griechisch-ägyptischer Gott",
     "chapters": [
       {
         "start": 2394,
         "end": 2426,
-        "author": "Roeder"
+        "author": "Roeder."
       }
     ]
   },
@@ -16177,11 +16397,13 @@
     "lemma": "Sarapis 2",
     "previous": "Sarapis 1",
     "next": "Σαράρρα",
+    "proof_read": 0,
     "short_description": "Dux peditum unter Belisar",
     "chapters": [
       {
         "start": 2426,
-        "author": "Nagl"
+        "end": 2426,
+        "author": "Nagl."
       }
     ]
   },
@@ -16232,11 +16454,13 @@
     "lemma": "Saravene",
     "previous": "Saraucus vicus",
     "next": "Saravus",
+    "proof_read": 0,
     "short_description": "Distrikt in Kappadokien",
     "chapters": [
       {
         "start": 2427,
-        "author": "Ruge"
+        "end": 2427,
+        "author": "Ruge."
       }
     ]
   },
@@ -16244,12 +16468,13 @@
     "lemma": "Saravus",
     "previous": "Saravene",
     "next": "Sarbakon",
+    "proof_read": 0,
     "short_description": "Name der Saar",
     "chapters": [
       {
         "start": 2427,
         "end": 2433,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -16286,11 +16511,13 @@
     "lemma": "Sarbane",
     "previous": "Σάρβανα",
     "next": "Sarbanissa",
+    "proof_read": 0,
     "short_description": "Station in Mesopotamien",
     "chapters": [
       {
         "start": 2433,
-        "author": "Weissbach"
+        "end": 2433,
+        "author": "Weissbach."
       }
     ]
   },
@@ -16326,11 +16553,13 @@
     "lemma": "Sarbiniacum",
     "previous": "Σάρβινα",
     "next": "Sarbis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2434,
-        "author": "Zwicker"
+        "end": 2434,
+        "author": "Keune."
       }
     ]
   },
@@ -16394,12 +16623,13 @@
     "lemma": "Sarcina",
     "previous": "Sarciacus",
     "next": "Sarcinium, Sarcingus",
+    "proof_read": 0,
     "short_description": "Marschgepäck des römischen Soldaten",
     "chapters": [
       {
         "start": 2434,
         "end": 2435,
-        "author": "Fiebiger"
+        "author": "Fiebiger."
       }
     ]
   },
@@ -16422,11 +16652,14 @@
     "lemma": "Sarcinium, Sarcingus 1",
     "previous": "Sarcinium, Sarcingus",
     "next": "Sarcinium, Sarcingus 2",
+    "sort_key": "Sarcinium,sarcingus 1",
+    "proof_read": 0,
     "short_description": "Kirche mit Grablege von Leodegar, Bischof von Autun",
     "chapters": [
       {
         "start": 2435,
-        "author": "Keune"
+        "end": 2435,
+        "author": "Keune."
       }
     ]
   },
@@ -16434,12 +16667,14 @@
     "lemma": "Sarcinium, Sarcingus 2",
     "previous": "Sarcinium, Sarcingus 1",
     "next": "Sarclitas",
+    "sort_key": "Sarcinium,sarcingus 2",
+    "proof_read": 0,
     "short_description": "Ort eines vom Hl. Trudo gegründeten Klosters",
     "chapters": [
       {
         "start": 2435,
         "end": 2436,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -16461,11 +16696,13 @@
     "lemma": "Sarculum",
     "previous": "Sarclitas",
     "next": "Sardabale",
+    "proof_read": 0,
     "short_description": "Eiserne Hacke",
     "chapters": [
       {
         "start": 2436,
-        "author": "Orth"
+        "end": 2436,
+        "author": "Orth."
       }
     ]
   },
@@ -16487,12 +16724,13 @@
     "lemma": "Sardanapal",
     "previous": "Sardabale",
     "next": "Sardeis",
+    "proof_read": 0,
     "short_description": "König von Ninos am Tigris",
     "chapters": [
       {
         "start": 2436,
         "end": 2475,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
@@ -16544,11 +16782,13 @@
     "lemma": "Sardene",
     "previous": "Sardendenos",
     "next": "Sardenus",
+    "proof_read": 0,
     "short_description": "Berg in Mysien",
     "chapters": [
       {
         "start": 2479,
-        "author": "Bürchner"
+        "end": 2479,
+        "author": "Bürchner."
       }
     ]
   },
@@ -16556,11 +16796,13 @@
     "lemma": "Sardenus",
     "previous": "Sardene",
     "next": "Sardessios",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in Aquitania",
     "chapters": [
       {
         "start": 2479,
-        "author": "Keune"
+        "end": 2479,
+        "author": "Keune."
       }
     ]
   },
@@ -16598,11 +16840,13 @@
     "lemma": "Sardiane",
     "previous": "Sardessos",
     "next": "Sardiane 1",
+    "proof_read": 0,
     "short_description": "Landschaft um Sardeis",
     "chapters": [
       {
         "start": 2479,
-        "author": "Bürchner"
+        "end": 2479,
+        "author": "Bürchner."
       }
     ]
   },
@@ -16610,12 +16854,13 @@
     "lemma": "Sardiane 1",
     "previous": "Sardiane",
     "next": "Sardiane 2",
+    "proof_read": 0,
     "short_description": "Teil des Hermosbeckens",
     "chapters": [
       {
         "start": 2479,
         "end": 2480,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -16623,11 +16868,13 @@
     "lemma": "Sardiane 2",
     "previous": "Sardiane 1",
     "next": "Sardiates",
+    "proof_read": 0,
     "short_description": "Epiklesis der Artemis",
     "chapters": [
       {
         "start": 2480,
-        "author": "Adler"
+        "end": 2480,
+        "author": "Adler."
       }
     ]
   },
@@ -16676,12 +16923,13 @@
     "lemma": "Sardinia",
     "previous": "Σαρδική",
     "next": "Sardius 1",
+    "proof_read": 0,
     "short_description": "Insel im Mittelmeer",
     "chapters": [
       {
         "start": 2480,
         "end": 2495,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -16689,11 +16937,13 @@
     "lemma": "Sardius 1",
     "previous": "Sardinia",
     "next": "Sardius 2",
+    "proof_read": 0,
     "short_description": "Lupus Schüler Frontos",
     "chapters": [
       {
         "start": 2496,
-        "author": "Stein, [Arthur]"
+        "end": 2496,
+        "author": "Stein."
       }
     ]
   },
@@ -16701,11 +16951,13 @@
     "lemma": "Sardius 2",
     "previous": "Sardius 1",
     "next": "Sardona",
+    "proof_read": 0,
     "short_description": "Saturninus Freund Frontos",
     "chapters": [
       {
         "start": 2496,
-        "author": "Stein, [Arthur]"
+        "end": 2496,
+        "author": "Stein."
       }
     ]
   },
@@ -16725,7 +16977,7 @@
   {
     "lemma": "Sardones",
     "previous": "Sardona",
-    "next": "Sardonyx horos",
+    "next": "Σαρδώνυξ ὄρος",
     "proof_read": 2,
     "short_description": "Lesung statt Sordones",
     "chapters": [
@@ -16737,8 +16989,22 @@
     ]
   },
   {
-    "lemma": "Sardonyx horos",
+    "lemma": "Σαρδώνυξ ὄρος",
     "previous": "Sardones",
+    "next": "Sardopatoris fanum",
+    "sort_key": "Sardonyxhoros",
+    "proof_read": 0,
+    "short_description": "Gebirge in India intra Gangem",
+    "chapters": [
+      {
+        "start": 2496,
+        "end": 2496,
+        "author": "Herrmann."
+      }
+    ]
+  },
+  {
+    "lemma": "Sardonyx horos",
     "next": "Sardopatoris fanum",
     "short_description": "Gebirge in India intra Gangem",
     "chapters": [
@@ -16750,14 +17016,16 @@
   },
   {
     "lemma": "Sardopatoris fanum",
-    "previous": "Sardonyx horos",
+    "previous": "Σαρδώνυξ ὄρος",
     "next": "Sardus 1",
+    "sort_key": "Sardopatorisfanum",
+    "proof_read": 0,
     "short_description": "Heiligtum an der W-Küste Sardiniens",
     "chapters": [
       {
         "start": 2496,
         "end": 2497,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -16765,11 +17033,13 @@
     "lemma": "Sardus 1",
     "previous": "Sardopatoris fanum",
     "next": "Sardus 2",
+    "proof_read": 0,
     "short_description": "Freund des jüngeren Plinius",
     "chapters": [
       {
         "start": 2497,
-        "author": "Münzer"
+        "end": 2497,
+        "author": "Münzer."
       }
     ]
   },
@@ -16777,10 +17047,13 @@
     "lemma": "Sardus 2",
     "previous": "Sardus 1",
     "next": "Sare",
+    "redirect": "Claudius  330 Mimisius Planius",
+    "proof_read": 0,
     "short_description": "s. Claudius Nr. 330 Mimisius Planius",
     "chapters": [
       {
-        "start": 2497
+        "start": 2497,
+        "end": 2497
       }
     ]
   },
@@ -16788,11 +17061,13 @@
     "lemma": "Sare",
     "previous": "Sardus 2",
     "next": "Sareburgus, Sareburgum",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2497,
-        "author": "Oberhummer"
+        "end": 2497,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -16800,47 +17075,57 @@
     "lemma": "Sareburgus, Sareburgum",
     "previous": "Sare",
     "next": "Sarein",
+    "sort_key": "Sareburgus,sareburgum",
+    "proof_read": 0,
     "short_description": "Saarburg in Lothringen",
     "chapters": [
       {
         "start": 2497,
-        "author": "Keune"
+        "end": 2497,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sarein",
     "previous": "Sareburgus, Sareburgum",
-    "next": "Sareisa",
+    "next": "Σάρεισα",
+    "proof_read": 0,
     "short_description": "Ort bei Kyrklar?",
     "chapters": [
       {
         "start": 2497,
-        "author": "Ruge"
+        "end": 2497,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Sareisa",
+    "lemma": "Σάρεισα",
     "previous": "Sarein",
     "next": "Sarensis",
+    "sort_key": "Sareisa",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2497,
-        "author": "Weissbach"
+        "end": 2497,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sarensis",
-    "previous": "Sareisa",
+    "previous": "Σάρεισα",
     "next": "Sarepta",
+    "proof_read": 0,
     "short_description": "Bezeichnung des pagus Saroensis",
     "chapters": [
       {
         "start": 2497,
-        "author": "Keune"
+        "end": 2497,
+        "author": "Keune."
       }
     ]
   },
@@ -16864,18 +17149,21 @@
     "lemma": "Σαρεπτηνός",
     "previous": "Sarepta",
     "next": "Sargantha",
+    "sort_key": "Sareptenos",
+    "proof_read": 0,
     "short_description": "Stadt zwischen Tyrus und Sidon",
     "chapters": [
       {
         "start": 2498,
-        "author": "Zwicker"
+        "end": 2498,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sargantha",
     "previous": "Σαρεπτηνός",
-    "next": "Sargarausene",
+    "next": "Σαργαραυσηνή",
     "redirect": "Serguntia",
     "proof_read": 2,
     "chapters": [
@@ -16886,32 +17174,38 @@
     ]
   },
   {
-    "lemma": "Sargarausene",
+    "lemma": "Σαργαραυσηνή",
     "previous": "Sargantha",
-    "next": "Sargathon",
+    "next": "Σάργαθον",
+    "sort_key": "Sargarausene",
+    "proof_read": 0,
     "short_description": "Distrikt Kappadokiens",
     "chapters": [
       {
         "start": 2498,
-        "author": "Ruge"
+        "end": 2498,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Sargathon",
-    "previous": "Sargarausene",
+    "lemma": "Σάργαθον",
+    "previous": "Σαργαραυσηνή",
     "next": "Sargatioi",
+    "sort_key": "Sargathon",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2498,
-        "author": "Weissbach"
+        "end": 2498,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sargatioi",
-    "previous": "Sargathon",
+    "previous": "Σάργαθον",
     "next": "Sargetae",
     "redirect": "Satarchae",
     "proof_read": 2,
@@ -16938,25 +17232,42 @@
   {
     "lemma": "Sargetia",
     "previous": "Sargetae",
-    "next": "Sargon 1",
+    "next": "Sargon",
+    "proof_read": 0,
     "short_description": "Fluß in Dakien",
     "chapters": [
       {
         "start": 2498,
-        "author": "Vulić"
+        "end": 2498,
+        "author": "Vulić."
+      }
+    ]
+  },
+  {
+    "lemma": "Sargon",
+    "previous": "Sargetia",
+    "next": "Sargon 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2498,
+        "end": 2498,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sargon 1",
-    "previous": "Sargetia",
+    "previous": "Sargon",
     "next": "Sargon 2",
+    "proof_read": 0,
     "short_description": "Gründer und erster König der Dynastie von Akkad ca. 2775 v. Chr.",
     "chapters": [
       {
         "start": 2498,
         "end": 2500,
-        "author": "Philipp"
+        "author": "Weissbach."
       }
     ]
   },
@@ -16964,11 +17275,13 @@
     "lemma": "Sargon 2",
     "previous": "Sargon 1",
     "next": "Sargon 3",
+    "proof_read": 0,
     "short_description": "I. Priesterfürst des Asur etwa 2000 v. Chr.",
     "chapters": [
       {
         "start": 2500,
-        "author": "Philipp"
+        "end": 2500,
+        "author": "Weissbach."
       }
     ]
   },
@@ -16976,12 +17289,13 @@
     "lemma": "Sargon 3",
     "previous": "Sargon 2",
     "next": "Saria",
+    "proof_read": 0,
     "short_description": "II. König von Assyrien 722-705 v. Chr.",
     "chapters": [
       {
         "start": 2500,
         "end": 2514,
-        "author": "Philipp"
+        "author": "Weissbach."
       }
     ]
   },
@@ -16989,18 +17303,20 @@
     "lemma": "Saria",
     "previous": "Sargon 3",
     "next": "Sariapis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2514,
-        "author": "Philipp"
+        "end": 2514,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Sariapis",
     "previous": "Saria",
-    "next": "Saricevus",
+    "next": "Saricevus, Saricevum",
     "redirect": "Saralapis",
     "proof_read": 2,
     "chapters": [
@@ -17011,64 +17327,73 @@
     ]
   },
   {
-    "lemma": "Saricevus",
+    "lemma": "Saricevus, Saricevum",
     "previous": "Sariapis",
     "next": "Saricha",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2514,
-        "author": "Keune"
+        "end": 2514,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Saricha",
-    "previous": "Saricevus",
+    "previous": "Saricevus, Saricevum",
     "next": "Sariga",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2514,
-        "author": "Ruge"
+        "end": 2514,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sariga",
     "previous": "Saricha",
-    "next": "Saripha ore",
+    "next": "Σάριφα ὄρη",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2514,
-        "author": "Herrmann"
+        "end": 2514,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Saripha ore",
+    "lemma": "Σάριφα ὄρη",
     "previous": "Sariga",
     "next": "Sarisse",
+    "sort_key": "Sariphaore",
+    "proof_read": 0,
     "short_description": "Teil des großen Gebirgszuges quer durch Asien",
     "chapters": [
       {
         "start": 2514,
         "end": 2515,
-        "author": "Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Sarisse",
-    "previous": "Saripha ore",
+    "previous": "Σάριφα ὄρη",
     "next": "Saritai",
+    "proof_read": 0,
     "short_description": "Langer Speer im makedonischen Heer",
     "chapters": [
       {
         "start": 2515,
         "end": 2530,
-        "author": "Lammert, E[dmund]"
+        "author": "Lammert."
       }
     ]
   },
@@ -17076,11 +17401,13 @@
     "lemma": "Saritai",
     "previous": "Sarisse",
     "next": "Saritte",
+    "proof_read": 0,
     "short_description": "Volksstamm in SW-Arabien",
     "chapters": [
       {
         "start": 2530,
-        "author": "Moritz, [Bernhard]"
+        "end": 2530,
+        "author": "Moritz."
       }
     ]
   },
@@ -17088,11 +17415,13 @@
     "lemma": "Saritte",
     "previous": "Saritai",
     "next": "Sarius 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2530,
-        "author": "Vulić"
+        "end": 2530,
+        "author": "Vulić."
       }
     ]
   },
@@ -17100,11 +17429,13 @@
     "lemma": "Sarius 1",
     "previous": "Saritte",
     "next": "Sarius 2",
+    "proof_read": 0,
     "short_description": "Zufluß der Adua-Adda",
     "chapters": [
       {
         "start": 2530,
-        "author": "Keune"
+        "end": 2530,
+        "author": "Keune."
       }
     ]
   },
@@ -17112,11 +17443,13 @@
     "lemma": "Sarius 2",
     "previous": "Sarius 1",
     "next": "Sarkoe",
+    "proof_read": 0,
     "short_description": "L. Töpfer",
     "chapters": [
       {
         "start": 2530,
-        "author": "Oxé"
+        "end": 2530,
+        "author": "Oxé."
       }
     ]
   },
@@ -17124,11 +17457,13 @@
     "lemma": "Sarkoe",
     "previous": "Sarius 2",
     "next": "Sarkophage",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2530,
-        "author": "Moritz, [Bernhard]"
+        "end": 2530,
+        "author": "Moritz."
       }
     ]
   },
@@ -17136,11 +17471,12 @@
     "lemma": "Sarkophage",
     "previous": "Sarkoe",
     "next": "Sarlatum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2530,
         "end": 2542,
-        "author": "Hamburg"
+        "author": "Hamburg."
       }
     ]
   },
@@ -17148,11 +17484,13 @@
     "lemma": "Sarlatum",
     "previous": "Sarkophage",
     "next": "Sarmagana",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2542,
-        "author": "Keune"
+        "end": 2542,
+        "author": "Keune."
       }
     ]
   },
