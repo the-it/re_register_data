@@ -361,11 +361,14 @@
     "lemma": "Σαρνοῦκα",
     "previous": "Sarnos",
     "next": "Sarnum",
+    "sort_key": "Sarnuka",
+    "proof_read": 0,
     "short_description": "Sarnouka",
     "chapters": [
       {
         "start": 30,
-        "author": "Weissbach"
+        "end": 30,
+        "author": "Weissbach."
       }
     ]
   },
@@ -386,46 +389,54 @@
     "lemma": "Sarnunto",
     "previous": "Sarnum",
     "next": "Sarnus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 30,
-        "author": "Vulić"
+        "end": 30,
+        "author": "Vulić."
       }
     ]
   },
   {
     "lemma": "Sarnus",
     "previous": "Sarnunto",
-    "next": "Scalonum",
+    "next": "Sarnus mons",
+    "proof_read": 0,
     "short_description": "Fluß in Campanien, heute Sarno",
     "chapters": [
       {
         "start": 30,
         "end": 31,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Scalonum",
-    "previous": "Sarnus",
-    "next": "Sarnus mons",
+    "previous": "Scallabis",
+    "next": "Scalptor",
+    "proof_read": 0,
     "short_description": "sc. vinum = Ascalonium vinum, d.h. von Askalon nach d. Westen ausgeführter Wein",
     "chapters": [
       {
-        "start": 30,
-        "author": "Keune"
+        "start": 350,
+        "end": 350,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sarnus mons",
-    "previous": "Scalonum",
+    "previous": "Sarnus",
     "next": "Saroa, Saroensis",
+    "sort_key": "Sarnusmons",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 31,
-        "author": "Philipp"
+        "end": 31,
+        "author": "Philipp."
       }
     ]
   },
@@ -446,12 +457,13 @@
     "lemma": "Saron 1",
     "previous": "Saroa, Saroensis",
     "next": "Saron 2",
+    "proof_read": 0,
     "short_description": "dritter myth. König v. Troizene",
     "chapters": [
       {
         "start": 31,
         "end": 32,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
@@ -459,11 +471,13 @@
     "lemma": "Saron 2",
     "previous": "Saron 1",
     "next": "Saron 3",
+    "proof_read": 0,
     "short_description": "Ortschaft in Sarmatien",
     "chapters": [
       {
         "start": 32,
-        "author": "Herrmann"
+        "end": 32,
+        "author": "Herrmann."
       }
     ]
   },
@@ -487,10 +501,12 @@
     "lemma": "Sarona",
     "previous": "Saron 3",
     "next": "Saronia 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 33,
-        "author": "Vulić"
+        "end": 33,
+        "author": "Vulić."
       }
     ]
   },
@@ -498,11 +514,13 @@
     "lemma": "Saronia 1",
     "previous": "Sarona",
     "next": "Saronia 2",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Artemis in Troizen",
     "chapters": [
       {
         "start": 33,
-        "author": "Adler"
+        "end": 33,
+        "author": "Adler."
       }
     ]
   },
@@ -510,12 +528,13 @@
     "lemma": "Saronia 2",
     "previous": "Saronia 1",
     "next": "Sarophages",
+    "proof_read": 0,
     "short_description": "Fest d. Artemis in Troizen",
     "chapters": [
       {
         "start": 33,
         "end": 34,
-        "author": "Nilsson"
+        "author": "Nilsson."
       }
     ]
   },
@@ -548,11 +567,13 @@
     "lemma": "Saros 2",
     "previous": "Saros 1",
     "next": "Saros 3",
+    "proof_read": 0,
     "short_description": "Fluß im SO Kleinasiens",
     "chapters": [
       {
         "start": 34,
-        "author": "Ruge"
+        "end": 34,
+        "author": "Ruge."
       }
     ]
   },
@@ -574,19 +595,20 @@
     "lemma": "Saros 4",
     "previous": "Saros 3",
     "next": "Sarpach",
+    "proof_read": 0,
     "short_description": "Zahl u. Flächenmaß d. Babylonier",
     "chapters": [
       {
         "start": 34,
         "end": 35,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sarpach",
     "previous": "Saros 4",
-    "next": "Sarpedon",
+    "next": "Sarpedon 1",
     "redirect": "Saeprus fluvius",
     "proof_read": 3,
     "chapters": [
@@ -597,27 +619,30 @@
     ]
   },
   {
-    "lemma": "Sarpedon",
+    "lemma": "Sarpedon 1",
     "previous": "Sarpach",
     "next": "Sarpedon 2",
+    "proof_read": 0,
     "short_description": "Gr. Sagengestalt, Kämpfer auf troian. Seite",
     "chapters": [
       {
         "start": 35,
         "end": 47,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sarpedon 2",
-    "previous": "Sarpedon",
+    "previous": "Sarpedon 1",
     "next": "Sarpedon 3",
+    "proof_read": 0,
     "short_description": "Pädagoge d. jüngeren Cato",
     "chapters": [
       {
         "start": 47,
-        "author": "Münzer"
+        "end": 47,
+        "author": "Münzer."
       }
     ]
   },
@@ -653,11 +678,13 @@
     "lemma": "Sarpedon 5",
     "previous": "Sarpedon 4",
     "next": "Sarpedon 6",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 47,
-        "author": "Lippold, Georg"
+        "end": 47,
+        "author": "Lippold."
       }
     ]
   },
@@ -665,12 +692,13 @@
     "lemma": "Sarpedon 6",
     "previous": "Sarpedon 5",
     "next": "Sarpedon(ion)",
+    "proof_read": 0,
     "short_description": "Vorsprung d. thrak. Küste, gegenüber v. Samothrake",
     "chapters": [
       {
         "start": 47,
         "end": 48,
-        "author": "Oberhummer"
+        "author": "Oberhummer."
       }
     ]
   },
@@ -678,10 +706,12 @@
     "lemma": "Sarpedon(ion)",
     "previous": "Sarpedon 6",
     "next": "Sarpedonios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 48,
-        "author": "Ruge"
+        "end": 48,
+        "author": "Ruge."
       }
     ]
   },
@@ -689,10 +719,12 @@
     "lemma": "Sarpedonios",
     "previous": "Sarpedon(ion)",
     "next": "Sarpedonis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 48,
-        "author": "Zwicker"
+        "end": 48,
+        "author": "Zwicker."
       }
     ]
   },
@@ -772,12 +804,13 @@
     "lemma": "Sarracum",
     "previous": "Sarra 4",
     "next": "Sarralis",
+    "proof_read": 0,
     "short_description": "Last- u. Frachtwagen",
     "chapters": [
       {
         "start": 49,
         "end": 50,
-        "author": "Hug"
+        "author": "Hug."
       }
     ]
   },
@@ -824,10 +857,12 @@
     "lemma": "Sarromaëna",
     "previous": "Sarrastes",
     "next": "Sarrum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 50,
-        "author": "Ruge"
+        "end": 50,
+        "author": "Ruge."
       }
     ]
   },
@@ -849,10 +884,12 @@
     "lemma": "Sars",
     "previous": "Sarrum",
     "next": "Sarsapa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 50,
-        "author": "Schulten"
+        "end": 50,
+        "author": "Schulten."
       }
     ]
   },
@@ -873,12 +910,13 @@
     "lemma": "Sarsina",
     "previous": "Sarsapa",
     "next": "Sarsiteron",
+    "proof_read": 0,
     "short_description": "Stadt in Umbrien, Heimatort d. Plautus",
     "chapters": [
       {
         "start": 50,
         "end": 51,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -886,10 +924,12 @@
     "lemma": "Sarsiteron",
     "previous": "Sarsina",
     "next": "Sarsos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 51,
-        "author": "Vulić"
+        "end": 51,
+        "author": "Vulić."
       }
     ]
   },
@@ -897,10 +937,12 @@
     "lemma": "Sarsos",
     "previous": "Sarsiteron",
     "next": "Sarta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 51,
-        "author": "Adler"
+        "end": 51,
+        "author": "Adler."
       }
     ]
   },
@@ -921,12 +963,14 @@
     "lemma": "Sarta tecta",
     "previous": "Sarta",
     "next": "Sartali",
+    "sort_key": "Sartatecta",
+    "proof_read": 0,
     "short_description": "Verpflichtung d. Unternehmers, Gebäude in gutem baulichen Zustand zu erhalten",
     "chapters": [
       {
         "start": 52,
         "end": 53,
-        "author": "Klingmüller"
+        "author": "Klingmüller."
       }
     ]
   },
@@ -1163,7 +1207,7 @@
   {
     "lemma": "Sasaei",
     "previous": "Saryendenos",
-    "next": "Sasanda, ta",
+    "next": "Σάσανδα, τά",
     "proof_read": 2,
     "short_description": "ein Volk in Dalmatien (Plin. n. h. III 144 eo namque tractu fuere Labeates,",
     "wd_link": "d:Q136506604",
@@ -1176,24 +1220,29 @@
     ]
   },
   {
-    "lemma": "Sasanda, ta",
+    "lemma": "Σάσανδα, τά",
     "previous": "Sasaei",
     "next": "Sasima",
+    "sort_key": "Sasanda,ta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 55,
-        "author": "Ruge"
+        "end": 55,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sasima",
-    "previous": "Sasanda, ta",
+    "previous": "Σάσανδα, τά",
     "next": "Sasinea portus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 55,
-        "author": "Ruge"
+        "end": 55,
+        "author": "Ruge."
       }
     ]
   },
@@ -1201,10 +1250,13 @@
     "lemma": "Sasinea portus",
     "previous": "Sasima",
     "next": "Sasiriaca",
+    "sort_key": "Sasineaportus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 55,
-        "author": "Philipp"
+        "end": 55,
+        "author": "Philipp."
       }
     ]
   },
@@ -1212,10 +1264,12 @@
     "lemma": "Sasiriaca",
     "previous": "Sasinea portus",
     "next": "Sasmonos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 55,
-        "author": "Keune"
+        "end": 55,
+        "author": "Keune."
       }
     ]
   },
@@ -1223,69 +1277,81 @@
     "lemma": "Sasmonos",
     "previous": "Sasiriaca",
     "next": "Sason",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 55,
-        "author": "Hähnle"
+        "end": 55,
+        "author": "Hähnle."
       }
     ]
   },
   {
     "lemma": "Sason",
     "previous": "Sasmonos",
-    "next": "Sasones",
+    "next": "Σάσονες",
+    "proof_read": 0,
     "short_description": "Kleine Insel vor d. illyr. Küste, heute Saseno",
     "chapters": [
       {
         "start": 55,
         "end": 56,
-        "author": "Oberhummer"
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Sasones",
+    "lemma": "Σάσονες",
     "previous": "Sason",
     "next": "Sasonien(sis)",
+    "sort_key": "Sasones",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 56,
-        "author": "Herrmann"
+        "end": 56,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Sasonien(sis)",
-    "previous": "Sasones",
-    "next": "Sasotra",
+    "previous": "Σάσονες",
+    "next": "Σάσοτρα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 56,
-        "author": "Keune"
+        "end": 56,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sasotra",
+    "lemma": "Σάσοτρα",
     "previous": "Sasonien(sis)",
     "next": "Saspeires",
+    "sort_key": "Sasotra",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 56,
-        "author": "Bürchner"
+        "end": 56,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Saspeires",
-    "previous": "Sasotra",
+    "previous": "Σάσοτρα",
     "next": "Sassia",
+    "proof_read": 0,
     "short_description": "Iberische Bevölkerung im oberen Araxestal",
     "chapters": [
       {
         "start": 56,
         "end": 57,
-        "author": "Herrmann"
+        "author": "Herrmann."
       }
     ]
   },
@@ -1307,10 +1373,12 @@
     "lemma": "Sassiacus",
     "previous": "Sassia",
     "next": "Sassoferrato",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 57,
-        "author": "Keune"
+        "end": 57,
+        "author": "Keune."
       }
     ]
   },
@@ -1345,10 +1413,12 @@
     "lemma": "Sasulla",
     "previous": "Sassumini",
     "next": "Sasura",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 57,
-        "author": "Philipp"
+        "end": 57,
+        "author": "Philipp."
       }
     ]
   },
@@ -1356,11 +1426,12 @@
     "lemma": "Sasura",
     "previous": "Sasulla",
     "next": "Sasuri",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 57,
         "end": 58,
-        "author": "Dessau"
+        "author": "Dessau."
       }
     ]
   },
@@ -1381,7 +1452,7 @@
   {
     "lemma": "Sata",
     "previous": "Sasuri",
-    "next": "Satachtha",
+    "next": "Σατάχθα",
     "proof_read": 2,
     "short_description": "Stadt im östlichen Innern von Arabien",
     "chapters": [
@@ -1393,24 +1464,29 @@
     ]
   },
   {
-    "lemma": "Satachtha",
+    "lemma": "Σατάχθα",
     "previous": "Sata",
     "next": "Satafis",
+    "sort_key": "Satachtha",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 58,
-        "author": "Fischer"
+        "end": 58,
+        "author": "C. Th. Fischer."
       }
     ]
   },
   {
     "lemma": "Satafis",
-    "previous": "Satachtha",
+    "previous": "Σατάχθα",
     "next": "Sataialus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 58,
-        "author": "Dessau"
+        "end": 58,
+        "author": "Dessau."
       }
     ]
   },
@@ -1418,10 +1494,12 @@
     "lemma": "Sataialus",
     "previous": "Satafis",
     "next": "Satala",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 58,
-        "author": "Keune"
+        "end": 58,
+        "author": "Keune."
       }
     ]
   },
@@ -1429,11 +1507,13 @@
     "lemma": "Satala",
     "previous": "Sataialus",
     "next": "Satala 1",
+    "proof_read": 0,
     "short_description": "Ort in Kleinasien, Armenien u. Makedonien",
     "chapters": [
       {
         "start": 58,
-        "author": "Bürchner"
+        "end": 58,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1441,11 +1521,13 @@
     "lemma": "Satala 1",
     "previous": "Satala",
     "next": "Satala 2",
+    "proof_read": 0,
     "short_description": "Bischofssitz in Lydien",
     "chapters": [
       {
         "start": 58,
-        "author": "Bürchner"
+        "end": 58,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1453,11 +1535,13 @@
     "lemma": "Satala 2",
     "previous": "Satala 1",
     "next": "Σάταλκα",
+    "proof_read": 0,
     "short_description": "Stadt in Kleinarmenien",
     "chapters": [
       {
         "start": 59,
-        "author": "Ruge"
+        "end": 59,
+        "author": "Ruge."
       }
     ]
   },
@@ -1480,18 +1564,20 @@
     "lemma": "Satanacus",
     "previous": "Σάταλκα",
     "next": "Σαταφάρα",
+    "proof_read": 0,
     "short_description": "Alter Name d. Stadt Stenay an d. Maas",
     "chapters": [
       {
         "start": 59,
-        "author": "Keune"
+        "end": 59,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Σαταφάρα",
     "previous": "Satanacus",
-    "next": "Satarcha",
+    "next": "Σατάθχα",
     "sort_key": "Sataphara",
     "proof_read": 2,
     "short_description": "Sataphara",
@@ -1504,26 +1590,30 @@
     ]
   },
   {
-    "lemma": "Satarcha",
+    "lemma": "Σατάθχα",
     "previous": "Σαταφάρα",
     "next": "Satarchae",
+    "sort_key": "Satarcha",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 59,
         "end": 60,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Satarchae",
-    "previous": "Satarcha",
+    "previous": "Σατάθχα",
     "next": "Sataspes",
+    "proof_read": 0,
     "short_description": "Volk d. Krim",
     "chapters": [
       {
         "start": 60,
-        "author": "Weissbach"
+        "end": 60,
+        "author": "Weissbach."
       }
     ]
   },
@@ -1531,12 +1621,13 @@
     "lemma": "Sataspes",
     "previous": "Satarchae",
     "next": "Sate",
+    "proof_read": 0,
     "short_description": "Achämenide, Sohn d. Theaspis",
     "chapters": [
       {
         "start": 60,
         "end": 61,
-        "author": "Swoboda, [Heinrich]"
+        "author": "Swoboda."
       }
     ]
   },
@@ -1544,10 +1635,12 @@
     "lemma": "Sate",
     "previous": "Sataspes",
     "next": "Satellius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 61,
-        "author": "Keune"
+        "end": 61,
+        "author": "Keune."
       }
     ]
   },
@@ -1569,11 +1662,13 @@
     "lemma": "Saternus",
     "previous": "Satellius",
     "next": "Satiacus",
+    "proof_read": 0,
     "short_description": "Flußname, viell. identisch mit dem h. Saterno",
     "chapters": [
       {
         "start": 61,
-        "author": "Keune"
+        "end": 61,
+        "author": "Keune."
       }
     ]
   },
@@ -1581,10 +1676,12 @@
     "lemma": "Satiacus",
     "previous": "Saternus",
     "next": "Satibarzanes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 61,
-        "author": "Keune"
+        "end": 61,
+        "author": "Keune."
       }
     ]
   },
@@ -1609,12 +1706,13 @@
     "lemma": "Saticula",
     "previous": "Satibarzanes",
     "next": "Sation",
+    "proof_read": 0,
     "short_description": "Ort am Eingang d. Caudinischen Passes",
     "chapters": [
       {
         "start": 61,
         "end": 63,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -1650,10 +1748,13 @@
     "lemma": "Satipreiza (?)",
     "previous": "Satipisixene",
     "next": "Satira",
+    "sort_key": "Satipreiza(?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 63,
-        "author": "Ruge"
+        "end": 63,
+        "author": "Ruge."
       }
     ]
   },
@@ -1687,32 +1788,34 @@
     "lemma": "Satis",
     "previous": "Satiricon",
     "next": "Satisdatio",
+    "proof_read": 0,
     "short_description": "Göttin d. Insel Elephantine im ersten Nilkatarakt, nubischen Ursprungs, später",
     "chapters": [
       {
         "start": 63,
         "end": 78,
-        "author": "Roeder"
+        "author": "Roeder."
       }
     ]
   },
   {
     "lemma": "Satisdatio",
     "previous": "Satis",
-    "next": "Saphnioeis",
+    "next": "Sativ–",
+    "proof_read": 0,
     "short_description": "Sicherstellung eines in Stipulationsform geleisteten Versprechens",
     "chapters": [
       {
         "start": 78,
         "end": 79,
-        "author": "Steinwenter"
+        "author": "Steinwenter."
       }
     ]
   },
   {
     "lemma": "Saphnioeis",
     "previous": "Satisdatio",
-    "next": "Sativ-",
+    "next": "Sativ–",
     "short_description": "Var. lect. für Satnioeis (s.d.), mys. Fluß oder Bach. Register",
     "chapters": [
       {
@@ -1721,11 +1824,11 @@
     ]
   },
   {
-    "lemma": "Sativ-",
-    "previous": "Saphnioeis",
+    "lemma": "Sativ–",
+    "previous": "Satisdatio",
     "next": "Satnioeis",
     "redirect": "Satanacus",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 79,
@@ -1735,49 +1838,57 @@
   },
   {
     "lemma": "Satnioeis",
-    "previous": "Sativ-",
-    "next": "Satnios",
+    "previous": "Sativ–",
+    "next": "Σάτνιος",
+    "proof_read": 0,
     "short_description": "Flüßchen im kleinasiat. Mysien",
     "chapters": [
       {
         "start": 79,
         "end": 80,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Satnios",
+    "lemma": "Σάτνιος",
     "previous": "Satnioeis",
-    "next": "Saton",
+    "next": "Σάτον",
+    "sort_key": "Satnios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 80,
-        "author": "Zwicker"
+        "end": 80,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Saton",
-    "previous": "Satnios",
+    "lemma": "Σάτον",
+    "previous": "Σάτνιος",
     "next": "Satovera",
+    "sort_key": "Saton",
+    "proof_read": 0,
     "short_description": "Hebr. Hohlmaß",
     "chapters": [
       {
         "start": 80,
         "end": 81,
-        "author": "Viedebantt"
+        "author": "Viedebantt."
       }
     ]
   },
   {
     "lemma": "Satovera",
-    "previous": "Saton",
+    "previous": "Σάτον",
     "next": "Satra",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 81,
-        "author": "Keune"
+        "end": 81,
+        "author": "Keune."
       }
     ]
   },
@@ -1785,10 +1896,12 @@
     "lemma": "Satra",
     "previous": "Satovera",
     "next": "Satrai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 81,
-        "author": "Bürchner"
+        "end": 81,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1796,10 +1909,12 @@
     "lemma": "Satrai",
     "previous": "Satra",
     "next": "Satrap",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 81,
-        "author": "Oberhummer"
+        "end": 81,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -1820,11 +1935,13 @@
     "lemma": "Satre",
     "previous": "Satrap",
     "next": "Satriana",
+    "proof_read": 0,
     "short_description": "Etr. Gottesname",
     "chapters": [
       {
         "start": 188,
-        "author": "Fiesel"
+        "end": 188,
+        "author": "Fiesel."
       }
     ]
   },
@@ -1832,10 +1949,12 @@
     "lemma": "Satriana",
     "previous": "Satre",
     "next": "Satrianus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 188,
-        "author": "Zwicker"
+        "end": 188,
+        "author": "Zwicker."
       }
     ]
   },
@@ -1843,12 +1962,13 @@
     "lemma": "Satrianus",
     "previous": "Satriana",
     "next": "Satricanius",
+    "proof_read": 0,
     "short_description": "Nach einem früheren Eigentümer Satrius benanntes Gründstück",
     "chapters": [
       {
         "start": 188,
         "end": 189,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -1870,11 +1990,13 @@
     "lemma": "Satricum 1",
     "previous": "Satricanius",
     "next": "Satricum 2",
+    "proof_read": 0,
     "short_description": "Ort, unterstand d. Volskerstadt Antium",
     "chapters": [
       {
         "start": 189,
-        "author": "Philipp"
+        "end": 189,
+        "author": "Philipp."
       }
     ]
   },
@@ -1882,12 +2004,13 @@
     "lemma": "Satricum 2",
     "previous": "Satricum 1",
     "next": "Satrienus 1",
+    "proof_read": 0,
     "short_description": "Ort bei Fregellae",
     "chapters": [
       {
         "start": 189,
         "end": 190,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -1895,11 +2018,13 @@
     "lemma": "Satrienus 1",
     "previous": "Satricum 2",
     "next": "Satrienus 2",
+    "proof_read": 0,
     "short_description": "P., Münzmeister 77 v. Chr.",
     "chapters": [
       {
         "start": 190,
-        "author": "Münzer"
+        "end": 190,
+        "author": "Münzer."
       }
     ]
   },
@@ -1907,11 +2032,13 @@
     "lemma": "Satrienus 2",
     "previous": "Satrienus 1",
     "next": "Satrius 1",
+    "proof_read": 0,
     "short_description": "Pollio, Q. CIL VI 23548",
     "chapters": [
       {
         "start": 190,
-        "author": "Stein, [Arthur]"
+        "end": 190,
+        "author": "Stein."
       }
     ]
   },
@@ -1919,11 +2046,13 @@
     "lemma": "Satrius 1",
     "previous": "Satrienus 2",
     "next": "Satrius 2",
+    "proof_read": 0,
     "short_description": "M., Patron d. Picenter u. Sabiner",
     "chapters": [
       {
         "start": 190,
-        "author": "Münzer"
+        "end": 190,
+        "author": "Münzer."
       }
     ]
   },
@@ -1945,12 +2074,13 @@
     "lemma": "Satrius 3",
     "previous": "Satrius 2",
     "next": "Satrius 4",
+    "proof_read": 0,
     "short_description": "Rufus, Senator u. Redner z.Zt. d. jüngeren Plinius",
     "chapters": [
       {
         "start": 190,
         "end": 191,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -1958,11 +2088,13 @@
     "lemma": "Satrius 4",
     "previous": "Satrius 3",
     "next": "Satrius 5",
+    "proof_read": 0,
     "short_description": "Secundus, Klient Seians",
     "chapters": [
       {
         "start": 191,
-        "author": "Stein, [Arthur]"
+        "end": 191,
+        "author": "Stein."
       }
     ]
   },
@@ -1970,18 +2102,20 @@
     "lemma": "Satrius 5",
     "previous": "Satrius 4",
     "next": "Σατροκένται",
+    "proof_read": 0,
     "short_description": "Silvinus, L.",
     "chapters": [
       {
         "start": 191,
-        "author": "Stein, [Arthur]"
+        "end": 191,
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Σατροκένται",
     "previous": "Satrius 5",
-    "next": "Sattagydai",
+    "next": "Σατταγύδαι",
     "sort_key": "Satrokentai",
     "redirect": "Satrai",
     "proof_read": 2,
@@ -1993,27 +2127,31 @@
     ]
   },
   {
-    "lemma": "Sattagydai",
+    "lemma": "Σατταγύδαι",
     "previous": "Σατροκένται",
     "next": "Sattia",
+    "sort_key": "Sattagydai",
+    "proof_read": 0,
     "short_description": "Bevölkerungsgruppe, die zum Steuerkreis im Reich d. Darius Hystaspis zählt",
     "chapters": [
       {
         "start": 191,
-        "author": "Weissbach"
+        "end": 191,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sattia",
-    "previous": "Sattagydai",
+    "previous": "Σατταγύδαι",
     "next": "Satto 1",
+    "proof_read": 0,
     "short_description": "Person starb hochbetagt unter Claudius",
     "chapters": [
       {
         "start": 191,
         "end": 192,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -2021,11 +2159,13 @@
     "lemma": "Satto 1",
     "previous": "Sattia",
     "next": "Satto 2",
+    "proof_read": 0,
     "short_description": "Person v. gall. Sigillatatöpfern",
     "chapters": [
       {
         "start": 192,
-        "author": "Oxé"
+        "end": 192,
+        "author": "Oxé."
       }
     ]
   },
@@ -2076,12 +2216,13 @@
     "lemma": "Satura",
     "previous": "Satur, Saturius",
     "next": "Saturate",
+    "proof_read": 0,
     "short_description": "Lat. Literaturgattung",
     "chapters": [
       {
         "start": 192,
         "end": 200,
-        "author": "Kroll"
+        "author": "Kroll."
       }
     ]
   },
@@ -2089,10 +2230,12 @@
     "lemma": "Saturate",
     "previous": "Satura",
     "next": "Satureius 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 200,
-        "author": "Keune"
+        "end": 200,
+        "author": "Keune."
       }
     ]
   },
@@ -2100,11 +2243,13 @@
     "lemma": "Satureius 1",
     "previous": "Saturate",
     "next": "Satureius 2",
+    "proof_read": 0,
     "short_description": "Tr. pl. 133 v. Chr.",
     "chapters": [
       {
         "start": 200,
-        "author": "Münzer"
+        "end": 200,
+        "author": "Münzer."
       }
     ]
   },
@@ -2112,11 +2257,13 @@
     "lemma": "Satureius 2",
     "previous": "Satureius 1",
     "next": "Saturiacus",
+    "proof_read": 0,
     "short_description": "Maler",
     "chapters": [
       {
         "start": 200,
-        "author": "Lippold, Georg"
+        "end": 200,
+        "author": "Lippold."
       }
     ]
   },

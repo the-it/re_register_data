@@ -627,13 +627,15 @@
   },
   {
     "lemma": "Synesius 2",
-    "previous": "Synesios 1",
+    "previous": "Synesius 1",
     "next": "Synesius 3",
+    "proof_read": 2,
     "short_description": "Sohn des Sextius Rufus Iulianus",
     "chapters": [
       {
         "start": 1365,
-        "author": "Seeck"
+        "end": 1365,
+        "author": "Seeck."
       }
     ]
   },
@@ -642,7 +644,7 @@
     "previous": "Synesius 2",
     "next": "Synesius 4",
     "redirect": "Hadrianus 6",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1365,
@@ -654,11 +656,13 @@
     "lemma": "Synesius 4",
     "previous": "Synesius 3",
     "next": "Synesius 5",
+    "proof_read": 2,
     "short_description": "Comes sacrarum largitionum",
     "chapters": [
       {
         "start": 1365,
-        "author": "Seeck"
+        "end": 1366,
+        "author": "Seeck."
       }
     ]
   },
@@ -666,23 +670,29 @@
     "lemma": "Synesius 5",
     "previous": "Synesius 4",
     "next": "Synesius 6",
+    "proof_read": 2,
     "short_description": "Alchimist",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1366,
-        "author": "Ræder"
+        "end": 1366,
+        "author": "Raeder."
       }
     ]
   },
   {
     "lemma": "Synesius 6",
     "previous": "Synesius 5",
-    "next": "Synetheia",
+    "next": "Συνήθεια, συνήθεις",
+    "proof_read": 2,
     "short_description": "Übersetzer eines arabischen Werkes",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1366,
-        "author": "Ræder"
+        "end": 1366,
+        "author": "Raeder."
       }
     ]
   },
@@ -700,11 +710,11 @@
   },
   {
     "lemma": "Συνευνομιωταί",
-    "previous": "Synetheia",
+    "previous": "Συνήθεια, συνήθεις",
     "next": "Συγγένεια 1",
     "sort_key": "Syneunomiotai",
-    "proof_read": 2,
-    "short_description": "Genossenschaft von Hirten in Lappa",
+    "proof_read": 3,
+    "short_description": "Genossenschaft von Hirten in Lappa auf Kreta",
     "chapters": [
       {
         "start": 1368,
@@ -920,8 +930,8 @@
     "lemma": "Synkellos 2",
     "previous": "Synkellos 1",
     "next": "Synkletios",
-    "proof_read": 2,
-    "short_description": "Arzt byzantinischer Zeit",
+    "proof_read": 3,
+    "short_description": "Arzt aus byzantinischer Zeit",
     "no_creative_height": true,
     "chapters": [
       {
