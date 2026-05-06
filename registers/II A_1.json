@@ -2271,11 +2271,13 @@
     "lemma": "Saturiacus",
     "previous": "Satureius 2",
     "next": "Saturius 1",
+    "proof_read": 0,
     "short_description": "Ort, heute Sarry in N-Frankreich",
     "chapters": [
       {
         "start": 200,
-        "author": "Keune"
+        "end": 200,
+        "author": "Keune."
       }
     ]
   },
@@ -2283,11 +2285,13 @@
     "lemma": "Saturius 1",
     "previous": "Saturiacus",
     "next": "Saturius 2",
+    "proof_read": 0,
     "short_description": "P., Person in Reden Ciceros",
     "chapters": [
       {
         "start": 200,
-        "author": "Münzer"
+        "end": 200,
+        "author": "Münzer."
       }
     ]
   },
@@ -2295,11 +2299,13 @@
     "lemma": "Saturius 2",
     "previous": "Saturius 1",
     "next": "Saturius 3",
+    "proof_read": 0,
     "short_description": "C., Procurator(?) v. Raetia, Ende 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 200,
-        "author": "Stein, [Arthur]"
+        "end": 200,
+        "author": "Stein."
       }
     ]
   },
@@ -2307,12 +2313,13 @@
     "lemma": "Saturius 3",
     "previous": "Saturius 2",
     "next": "Saturius 4",
+    "proof_read": 0,
     "short_description": "Censorinus, Procurator v. Gallia Lugdunensis u. Aquitania, Anf. 3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 200,
         "end": 201,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -2320,11 +2327,13 @@
     "lemma": "Saturius 4",
     "previous": "Saturius 3",
     "next": "Saturnalia",
+    "proof_read": 0,
     "short_description": "Firmus, Freund d. Plinius",
     "chapters": [
       {
         "start": 201,
-        "author": "Stein, [Arthur]"
+        "end": 201,
+        "author": "Stein."
       }
     ]
   },
@@ -2332,19 +2341,20 @@
     "lemma": "Saturnalia",
     "previous": "Saturius 4",
     "next": "Saturnia",
+    "proof_read": 0,
     "short_description": "Röm. Fest d. Saturnus im Dezember",
     "chapters": [
       {
         "start": 201,
         "end": 211,
-        "author": "Nilsson"
+        "author": "Nilsson."
       }
     ]
   },
   {
     "lemma": "Saturnia",
     "previous": "Saturnalia",
-    "next": "Saturnina",
+    "next": "Saturni Promonturium",
     "redirect": "Saturnius, -ia",
     "proof_read": 2,
     "chapters": [
@@ -2355,25 +2365,30 @@
     ]
   },
   {
-    "lemma": "Saturni Promunturium",
-    "previous": "Saturninus",
-    "next": "Saturninus 1",
+    "lemma": "Saturni Promonturium",
+    "previous": "Saturnia",
+    "next": "Saturnina",
+    "sort_key": "Saturnipromuntorium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 211,
-        "author": "Schulten"
+        "end": 211,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Saturnina",
-    "previous": "Saturnia",
+    "previous": "Saturni Promonturium",
     "next": "Saturninius",
+    "proof_read": 0,
     "short_description": "Aelia",
     "chapters": [
       {
         "start": 211,
-        "author": "Stein, [Arthur]"
+        "end": 211,
+        "author": "Stein."
       }
     ]
   },
@@ -2393,25 +2408,28 @@
   {
     "lemma": "Saturninus",
     "previous": "Saturninius",
-    "next": "Saturni Promuntorium",
-    "short_description": "Praescriptio: röm. Cognomen, bezeichnet den unter dem Schutz des Saturnus",
+    "next": "Saturninus 1",
+    "proof_read": 0,
+    "short_description": "römisches Cognomen, unter dem Schutz des Saturnus",
     "chapters": [
       {
         "start": 211,
         "end": 212,
-        "author": "Münzer"
+        "author": "Münzer-Groag."
       }
     ]
   },
   {
     "lemma": "Saturninus 1",
-    "previous": "Saturni Promuntorium",
+    "previous": "Saturninus",
     "next": "Saturninus 2",
+    "proof_read": 0,
     "short_description": "Bei Val. Max. IX 1,8 nobilis puer 53 v. Chr.",
     "chapters": [
       {
         "start": 212,
-        "author": "Münzer"
+        "end": 212,
+        "author": "Münzer."
       }
     ]
   },
@@ -2419,11 +2437,13 @@
     "lemma": "Saturninus 2",
     "previous": "Saturninus 1",
     "next": "Saturninus 3",
+    "proof_read": 0,
     "short_description": "Bekannter des jüngeren Plinius",
     "chapters": [
       {
         "start": 212,
-        "author": "Stein, [Arthur]"
+        "end": 212,
+        "author": "Stein."
       }
     ]
   },
@@ -2431,12 +2451,13 @@
     "lemma": "Saturninus 3",
     "previous": "Saturninus 2",
     "next": "Saturninus 4",
+    "proof_read": 0,
     "short_description": "Offizier der Leibwache unter Septimius Severus",
     "chapters": [
       {
         "start": 212,
         "end": 213,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -2444,11 +2465,13 @@
     "lemma": "Saturninus 4",
     "previous": "Saturninus 3",
     "next": "Saturninus 5",
+    "proof_read": 0,
     "short_description": "[Sa]turninus, bei Dio. exc. LXXVIII 19,5",
     "chapters": [
       {
         "start": 213,
-        "author": "Stein, [Arthur]"
+        "end": 213,
+        "author": "Stein."
       }
     ]
   },
@@ -2456,11 +2479,13 @@
     "lemma": "Saturninus 5",
     "previous": "Saturninus 4",
     "next": "Saturninus 6",
+    "proof_read": 0,
     "short_description": "Name zweier Personen in der Historia Augusta",
     "chapters": [
       {
         "start": 213,
-        "author": "Stein, [Arthur]"
+        "end": 213,
+        "author": "Stein."
       }
     ]
   },
@@ -2468,12 +2493,13 @@
     "lemma": "Saturninus 6",
     "previous": "Saturninus 5",
     "next": "Saturninus 7",
+    "proof_read": 0,
     "short_description": "Iulius, Gegenkaiser des Probus (276-282 n. Chr.)",
     "chapters": [
       {
         "start": 213,
         "end": 215,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -2481,11 +2507,13 @@
     "lemma": "Saturninus 7",
     "previous": "Saturninus 6",
     "next": "Saturninus 8",
+    "proof_read": 0,
     "short_description": "Iuventianus, Q. Appaeus P. fil. Ter(etina tribu)",
     "chapters": [
       {
         "start": 215,
-        "author": "Stein, [Arthur]"
+        "end": 215,
+        "author": "Stein."
       }
     ]
   },
@@ -2583,11 +2611,13 @@
     "lemma": "Saturninus 14",
     "previous": "Saturninus 13",
     "next": "Saturninus 15",
+    "proof_read": 0,
     "short_description": "Wahrscheinl. advocatus fisci z. Zt. des Theoderich",
     "chapters": [
       {
         "start": 217,
-        "author": "Nagl"
+        "end": 217,
+        "author": "Nagl."
       }
     ]
   },
@@ -2595,11 +2625,13 @@
     "lemma": "Saturninus 15",
     "previous": "Saturninus 14",
     "next": "Saturninus 16",
+    "proof_read": 0,
     "short_description": "Wurde von der Kaiserin Theodora zur Heirat mit jmd. gezwungen",
     "chapters": [
       {
         "start": 217,
-        "author": "Nagl"
+        "end": 217,
+        "author": "Nagl."
       }
     ]
   },
@@ -2637,10 +2669,12 @@
     "lemma": "Saturninus 18",
     "previous": "Saturninus 17",
     "next": "Saturninus 19",
+    "proof_read": 0,
     "short_description": "Röm. Steinschneider z. Zt. des Augustus",
     "chapters": [
       {
         "start": 217,
+        "end": 217,
         "author": "Fluss."
       }
     ]
@@ -2677,11 +2711,13 @@
     "lemma": "Saturninus 21",
     "previous": "Saturninus 20",
     "next": "Saturninus 22",
+    "proof_read": 0,
     "short_description": "Sklave der arretinischen Sigallatatöpferei des M. Perennius",
     "chapters": [
       {
         "start": 217,
-        "author": "Hähnle"
+        "end": 217,
+        "author": "Hähnle."
       }
     ]
   },
@@ -2689,11 +2725,13 @@
     "lemma": "Saturninus 22",
     "previous": "Saturninus 21",
     "next": "Saturninus 23",
+    "proof_read": 0,
     "short_description": "Mittelgallischer Sigallatatöpfer des 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 217,
-        "author": "Hähnle"
+        "end": 217,
+        "author": "Hähnle."
       }
     ]
   },
@@ -2701,12 +2739,13 @@
     "lemma": "Saturninus 23",
     "previous": "Saturninus 22",
     "next": "Saturnius, -ia",
+    "proof_read": 0,
     "short_description": "Spätzeitlicher Ziegler in oder bei Rom",
     "chapters": [
       {
         "start": 217,
         "end": 218,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -2714,11 +2753,14 @@
     "lemma": "Saturnius, -ia",
     "previous": "Saturninus 23",
     "next": "Saturnus",
+    "sort_key": "Saturnius,-ia",
+    "proof_read": 0,
     "short_description": "Beiname versch. Götter in d. röm. Poesie versus S.: der alte röm. Vers",
     "chapters": [
       {
         "start": 218,
-        "author": "Thulin"
+        "end": 218,
+        "author": "Thulin."
       }
     ]
   },
@@ -2726,12 +2768,13 @@
     "lemma": "Saturnus",
     "previous": "Saturnius, -ia",
     "next": "Satyri",
+    "proof_read": 0,
     "short_description": "Röm. Gott",
     "chapters": [
       {
         "start": 218,
         "end": 223,
-        "author": "Thulin"
+        "author": "Thulin."
       }
     ]
   },
@@ -3169,12 +3212,13 @@
     "lemma": "Satyrspiel",
     "previous": "Satyros 22",
     "next": "Sava 1",
+    "proof_read": 0,
     "short_description": "Bestandteil d. trag. Aufführungen d. 5. Jh. v. Chr.",
     "chapters": [
       {
         "start": 235,
         "end": 247,
-        "author": "Aly"
+        "author": "Aly."
       }
     ]
   },
@@ -3182,12 +3226,13 @@
     "lemma": "Sava 1",
     "previous": "Satyrspiel",
     "next": "Sava 2",
+    "proof_read": 0,
     "short_description": "Ad Sava municipium, Ort in Mauretanien",
     "chapters": [
       {
         "start": 247,
         "end": 248,
-        "author": "Dessau"
+        "author": "Dessau."
       }
     ]
   },
@@ -3195,11 +3240,13 @@
     "lemma": "Sava 2",
     "previous": "Sava 1",
     "next": "Sava 3",
+    "proof_read": 0,
     "short_description": "Nebenfluß d. Schelde",
     "chapters": [
       {
         "start": 248,
-        "author": "Keune"
+        "end": 248,
+        "author": "Keune."
       }
     ]
   },
@@ -3207,11 +3254,13 @@
     "lemma": "Sava 3",
     "previous": "Sava 2",
     "next": "Sauadai",
+    "proof_read": 0,
     "short_description": "Linker Nebenfluß d. Garonne",
     "chapters": [
       {
         "start": 248,
-        "author": "Keune"
+        "end": 248,
+        "author": "Keune."
       }
     ]
   },
@@ -3219,10 +3268,12 @@
     "lemma": "Sauadai",
     "previous": "Sava 3",
     "next": "Savara",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 248,
-        "author": "Zwicker"
+        "end": 248,
+        "author": "Zwicker."
       }
     ]
   },
@@ -3230,12 +3281,13 @@
     "lemma": "Savara",
     "previous": "Sauadai",
     "next": "Σαυάρα",
+    "proof_read": 0,
     "short_description": "Ort in Assyrien, am Tigris",
     "chapters": [
       {
         "start": 248,
         "end": 249,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -3258,47 +3310,54 @@
     "lemma": "Savaria",
     "previous": "Σαυάρα",
     "next": "Savarias",
+    "proof_read": 0,
     "short_description": "Stadt in Oberpannonien",
     "chapters": [
       {
         "start": 249,
         "end": 250,
-        "author": "Vulić"
+        "author": "Vulić."
       }
     ]
   },
   {
     "lemma": "Savarias",
     "previous": "Savaria",
-    "next": "Sauaroi",
+    "next": "Σαύαροι",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 250,
-        "author": "Vulić"
+        "end": 250,
+        "author": "Vulić."
       }
     ]
   },
   {
-    "lemma": "Sauaroi",
+    "lemma": "Σαύαροι",
     "previous": "Savarias",
     "next": "Savatra",
+    "sort_key": "Sauaroi",
+    "proof_read": 0,
     "short_description": "Volk im europäischen Sarmatien",
     "chapters": [
       {
         "start": 250,
-        "author": "Kretschmer"
+        "end": 250,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Savatra",
-    "previous": "Sauaroi",
+    "previous": "Σαύαροι",
     "next": "Sauciacus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 250,
         "end": 251,
-        "author": "Ruge"
+        "author": "Ruge."
       }
     ]
   },
@@ -3306,10 +3365,12 @@
     "lemma": "Sauciacus",
     "previous": "Savatra",
     "next": "Saucitus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 251,
-        "author": "Keune"
+        "end": 251,
+        "author": "Keune."
       }
     ]
   },
@@ -3317,10 +3378,12 @@
     "lemma": "Saucitus",
     "previous": "Sauciacus",
     "next": "Sauconna",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 251,
-        "author": "Keune"
+        "end": 251,
+        "author": "Keune."
       }
     ]
   },
@@ -3369,11 +3432,13 @@
     "lemma": "Saue 2",
     "previous": "Saue 1",
     "next": "Saue 3",
+    "proof_read": 0,
     "short_description": "Hauptort d. zum Himjarenreich gehörigen Provinz Maphareitis",
     "chapters": [
       {
         "start": 255,
-        "author": "Moritz, [Bernhard]"
+        "end": 255,
+        "author": "Moritz."
       }
     ]
   },
@@ -3394,7 +3459,7 @@
   {
     "lemma": "Saue 4",
     "previous": "Saue 3",
-    "next": "Sauendenon Katoikia",
+    "next": "Σαυενδηνῶν Κατοικία",
     "proof_read": 2,
     "short_description": "Babylon. für 'Himmel'",
     "chapters": [
@@ -3406,26 +3471,30 @@
     ]
   },
   {
-    "lemma": "Sauendenon Katoikia",
+    "lemma": "Σαυενδηνῶν Κατοικία",
     "previous": "Saue 4",
     "next": "Saufeius",
+    "sort_key": "Sauendenonkatoikia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 255,
         "end": 256,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Saufeius",
-    "previous": "Sauendenon Katoikia",
+    "previous": "Σαυενδηνῶν Κατοικία",
     "next": "Saufeius 1",
+    "proof_read": 0,
     "short_description": "Altes angesehenes Geschlecht in Praeneste",
     "chapters": [
       {
         "start": 256,
-        "author": "Münzer"
+        "end": 256,
+        "author": "Münzer."
       }
     ]
   },
@@ -3493,12 +3562,13 @@
     "lemma": "Saufeius 5",
     "previous": "Saufeius 4",
     "next": "Saufeius 6",
+    "proof_read": 0,
     "short_description": "L. Epikureer, Bekannter d. T. Pomponius Atticus",
     "chapters": [
       {
         "start": 256,
         "end": 257,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -3506,11 +3576,13 @@
     "lemma": "Saufeius 6",
     "previous": "Saufeius 5",
     "next": "Saufeius 7",
+    "proof_read": 0,
     "short_description": "M. f., M. Mit Milo der Ermordung d. P. Clodius bezichtigt",
     "chapters": [
       {
         "start": 257,
-        "author": "Münzer"
+        "end": 257,
+        "author": "Münzer."
       }
     ]
   },
@@ -3518,11 +3590,13 @@
     "lemma": "Saufeius 7",
     "previous": "Saufeius 6",
     "next": "Saufeius 8",
+    "proof_read": 0,
     "short_description": "Gausa, L. Töpfermeister in Arezzo",
     "chapters": [
       {
         "start": 257,
-        "author": "Oxé"
+        "end": 257,
+        "author": "Oxé."
       }
     ]
   },
@@ -3530,11 +3604,13 @@
     "lemma": "Saufeius 8",
     "previous": "Saufeius 7",
     "next": "Saufeius 9",
+    "proof_read": 0,
     "short_description": "Troga, angebl. Mitschuldiger am Ehebruch Messalinas",
     "chapters": [
       {
         "start": 257,
-        "author": "Stein, [Arthur]"
+        "end": 257,
+        "author": "Stein."
       }
     ]
   },
@@ -3542,11 +3618,13 @@
     "lemma": "Saufeius 9",
     "previous": "Saufeius 8",
     "next": "Saufeius 10",
+    "proof_read": 0,
     "short_description": "Person bei Mart.",
     "chapters": [
       {
         "start": 257,
-        "author": "Lieben"
+        "end": 257,
+        "author": "Lieben."
       }
     ]
   },
@@ -3585,11 +3663,12 @@
     "lemma": "Saugonna",
     "previous": "Sauga",
     "next": "Savia 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 257,
         "end": 258,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -3597,11 +3676,13 @@
     "lemma": "Savia 1",
     "previous": "Saugonna",
     "next": "Savia 2",
+    "proof_read": 0,
     "short_description": "Stadt d. Pelendoner",
     "chapters": [
       {
         "start": 258,
-        "author": "Schulten"
+        "end": 258,
+        "author": "Schulten."
       }
     ]
   },
@@ -3609,11 +3690,13 @@
     "lemma": "Savia 2",
     "previous": "Savia 1",
     "next": "Savia 3",
+    "proof_read": 0,
     "short_description": "Beiname d. Stadt Borysthenis",
     "chapters": [
       {
         "start": 258,
-        "author": "Schulten"
+        "end": 258,
+        "author": "Schulten."
       }
     ]
   },
@@ -3621,11 +3704,13 @@
     "lemma": "Savia 3",
     "previous": "Savia 2",
     "next": "Saviliacus",
+    "proof_read": 0,
     "short_description": "Provinz unter Diocletian",
     "chapters": [
       {
         "start": 258,
-        "author": "Vulić"
+        "end": 258,
+        "author": "Vulić."
       }
     ]
   },
@@ -3633,10 +3718,12 @@
     "lemma": "Saviliacus",
     "previous": "Savia 3",
     "next": "Savinarius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 258,
-        "author": "Keune"
+        "end": 258,
+        "author": "Keune."
       }
     ]
   },
@@ -3644,11 +3731,13 @@
     "lemma": "Savinarius",
     "previous": "Saviliacus",
     "next": "Savincates",
+    "proof_read": 0,
     "short_description": "vgl. die Art. Sabiniacus und Saviniacus",
     "chapters": [
       {
         "start": 258,
-        "author": "Keune"
+        "end": 258,
+        "author": "Keune."
       }
     ]
   },
@@ -3656,12 +3745,13 @@
     "lemma": "Savincates",
     "previous": "Savinarius",
     "next": "Saviniacus",
+    "proof_read": 0,
     "short_description": "Alpenvölkerschaft",
     "chapters": [
       {
         "start": 258,
         "end": 259,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -3669,10 +3759,12 @@
     "lemma": "Saviniacus",
     "previous": "Savincates",
     "next": "Saul",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 259,
-        "author": "Keune"
+        "end": 259,
+        "author": "Keune."
       }
     ]
   },
@@ -3680,10 +3772,12 @@
     "lemma": "Saul",
     "previous": "Saviniacus",
     "next": "Säule",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 259,
-        "author": "Seeck"
+        "end": 259,
+        "author": "Seeck."
       }
     ]
   },
@@ -3704,12 +3798,13 @@
     "lemma": "Sauliacus",
     "previous": "Säule",
     "next": "Saulieu",
+    "proof_read": 0,
     "short_description": "Münzstätte, gen. auf merowing. Münzen",
     "chapters": [
       {
         "start": 259,
         "end": 260,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -3730,10 +3825,12 @@
     "lemma": "Saulonum",
     "previous": "Saulieu",
     "next": "Saulus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 260,
-        "author": "Keune"
+        "end": 260,
+        "author": "Keune."
       }
     ]
   },
@@ -3741,11 +3838,13 @@
     "lemma": "Saulus",
     "previous": "Saulonum",
     "next": "Saumur",
+    "proof_read": 0,
     "short_description": "Jude aus königl. Geschlecht",
     "chapters": [
       {
         "start": 260,
-        "author": "Stein, [Arthur]"
+        "end": 260,
+        "author": "Stein."
       }
     ]
   },
@@ -3793,27 +3892,31 @@
     "lemma": "Saunium 2",
     "previous": "Saunium 1",
     "next": "Savo",
+    "proof_read": 0,
     "short_description": "Fluß in N-Hispanien in einer verderbten LA",
     "chapters": [
       {
         "start": 260,
-        "author": "Keune"
+        "end": 260,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Savo",
     "previous": "Saunium 2",
-    "next": "Savoia, Savoyen",
+    "next": "Savoia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 260,
-        "author": "Philipp"
+        "end": 260,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Savoia, Savoyen",
+    "lemma": "Savoia",
     "previous": "Savo",
     "next": "Savonellius",
     "sort_key": "Sauoia, Savoyen",
@@ -3828,18 +3931,19 @@
   },
   {
     "lemma": "Savonellius",
-    "previous": "Savoia, Savoyen",
-    "next": "Savonnière",
+    "previous": "Savoia",
+    "next": "Savonnière(s)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 260,
         "end": 261,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Savonnière",
+    "lemma": "Savonnière(s)",
     "previous": "Savonellius",
     "next": "Saur(...)",
     "sort_key": "Sauonnière",
@@ -3855,13 +3959,15 @@
   },
   {
     "lemma": "Saur(...)",
-    "previous": "Savonnière",
+    "previous": "Savonnière(s)",
     "next": "Σαύρα",
+    "proof_read": 0,
     "short_description": "Weihinschr. auf einem Silberteller, CIL II 2373",
     "chapters": [
       {
         "start": 261,
-        "author": "Keune"
+        "end": 261,
+        "author": "Keune."
       }
     ]
   },
@@ -3883,34 +3989,41 @@
   {
     "lemma": "Saurania",
     "previous": "Σαύρα",
-    "next": "Sauras",
+    "next": "Σαυράς",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 261,
-        "author": "Ruge"
+        "end": 261,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Sauras",
+    "lemma": "Σαυράς",
     "previous": "Saurania",
     "next": "Saurias",
+    "sort_key": "Sauras",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 261,
-        "author": "Weissbach"
+        "end": 261,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Saurias",
-    "previous": "Sauras",
+    "previous": "Σαυράς",
     "next": "Sauriciacus",
+    "proof_read": 0,
     "short_description": "v. Samos",
     "chapters": [
       {
         "start": 261,
-        "author": "Lippold, Georg"
+        "end": 261,
+        "author": "Lippold."
       }
     ]
   },
@@ -3918,12 +4031,13 @@
     "lemma": "Sauriciacus",
     "previous": "Saurias",
     "next": "Sauroktonos",
+    "proof_read": 0,
     "short_description": "Ort, abgeleitet v. einer Grundstücksbezeichnung, merowing. Zt.",
     "chapters": [
       {
         "start": 261,
         "end": 262,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -3931,12 +4045,13 @@
     "lemma": "Sauroktonos",
     "previous": "Sauriciacus",
     "next": "Sauromakes",
+    "proof_read": 0,
     "short_description": "Bezeichnung einer Apollonstatue d. Praxiteles",
     "chapters": [
       {
         "start": 262,
         "end": 263,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
@@ -3944,10 +4059,12 @@
     "lemma": "Sauromakes",
     "previous": "Sauroktonos",
     "next": "Sauromatae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 263,
-        "author": "Seeck"
+        "end": 263,
+        "author": "Seeck."
       }
     ]
   },
@@ -3967,67 +4084,91 @@
   {
     "lemma": "Sauromates, Sauromatae",
     "previous": "Sauromatae",
-    "next": "Sauromatides",
+    "next": "Σαυροματίδες",
+    "sort_key": "Sauromates,sauromatae",
+    "proof_read": 0,
     "short_description": "Ort an d. Heerstraße Mainz - Trier s. auch Sarmatae",
     "chapters": [
       {
         "start": 263,
-        "author": "Keune"
+        "end": 263,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sauromatides",
+    "lemma": "Σαυροματίδες",
     "previous": "Sauromates, Sauromatae",
     "next": "Sauronisena",
+    "sort_key": "Sauromatides",
+    "proof_read": 0,
     "short_description": "Benennung d. Amazonen",
     "chapters": [
       {
         "start": 263,
         "end": 264,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sauronisena",
-    "previous": "Sauromatides",
+    "previous": "Σαυροματίδες",
     "next": "Sauros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 264,
-        "author": "Ruge"
+        "end": 264,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sauros",
     "previous": "Sauronisena",
-    "next": "Sauroter",
+    "next": "Σαυρωτήρ",
+    "proof_read": 0,
     "short_description": "Räuber im S d. Pisatis an d. arkad. Grenze",
     "chapters": [
       {
         "start": 264,
         "end": 265,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Sauroter",
+    "lemma": "Σαυρωτήρ",
     "previous": "Sauros",
-    "next": "Saurou Krene",
+    "next": "Σαύρου Κρήνη",
+    "sort_key": "Sauroter",
+    "proof_read": 0,
     "short_description": "Speerschuh",
     "chapters": [
       {
         "start": 265,
-        "author": "Lammert, E[dmund]"
+        "end": 265,
+        "author": "Lammert."
+      }
+    ]
+  },
+  {
+    "lemma": "Σαύρου Κρήνη",
+    "previous": "Σαυρωτήρ",
+    "next": "Sautia",
+    "sort_key": "Sauroukrene",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 265,
+        "end": 266,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Saurou Krene",
-    "previous": "Sauroter",
     "next": "Sautia (mons",
     "chapters": [
       {
@@ -4040,7 +4181,6 @@
   {
     "lemma": "Sautia (mons",
     "previous": "Saurou Krene",
-    "next": "Savus 1",
     "chapters": [
       {
         "start": 266,
@@ -4049,14 +4189,30 @@
     ]
   },
   {
+    "lemma": "Sautia",
+    "previous": "Σαύρου Κρήνη",
+    "next": "Savus 1",
+    "sort_key": "Sautia(mons",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 266,
+        "end": 266,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
     "lemma": "Savus 1",
-    "previous": "Sautia (mons",
+    "previous": "Sautia",
     "next": "Savus 2",
+    "proof_read": 0,
     "short_description": "Fluß Mauretaniens",
     "chapters": [
       {
         "start": 266,
-        "author": "Dessau"
+        "end": 266,
+        "author": "Dessau."
       }
     ]
   },
@@ -4064,11 +4220,13 @@
     "lemma": "Savus 2",
     "previous": "Savus 1",
     "next": "Savus 3",
+    "proof_read": 0,
     "short_description": "Fluß in Pannonien",
     "chapters": [
       {
         "start": 266,
-        "author": "Vulić"
+        "end": 266,
+        "author": "Vulić."
       }
     ]
   },
@@ -4076,11 +4234,13 @@
     "lemma": "Savus 3",
     "previous": "Savus 2",
     "next": "Saxamus",
+    "proof_read": 0,
     "short_description": "Gott d. Flußes Savus Nr. 2",
     "chapters": [
       {
         "start": 266,
-        "author": "Vulić"
+        "end": 266,
+        "author": "Vulić."
       }
     ]
   },
@@ -4088,10 +4248,12 @@
     "lemma": "Saxamus",
     "previous": "Savus 3",
     "next": "Saxanus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 266,
-        "author": "Keune"
+        "end": 266,
+        "author": "Keune."
       }
     ]
   },
@@ -4112,12 +4274,14 @@
     "lemma": "Saxa rubra",
     "previous": "Saxanus",
     "next": "Saxetanum",
+    "sort_key": "Saxarubra",
+    "proof_read": 0,
     "short_description": "Örtlichkeit an d. Via Flaminia",
     "chapters": [
       {
         "start": 307,
         "end": 308,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -4125,11 +4289,13 @@
     "lemma": "Saxetanum",
     "previous": "Saxa rubra",
     "next": "Saxetanus",
+    "proof_read": 0,
     "short_description": "Ort in Hispania Baetica, s. Saxetum",
     "chapters": [
       {
         "start": 308,
-        "author": "Schulten"
+        "end": 308,
+        "author": "Schulten."
       }
     ]
   },
@@ -4137,11 +4303,13 @@
     "lemma": "Saxetanus",
     "previous": "Saxetanum",
     "next": "Saxetum, Saxetanum",
+    "proof_read": 0,
     "short_description": "Hercules s. Saxanus vgl. auch Saxetum",
     "chapters": [
       {
         "start": 308,
-        "author": "Keune"
+        "end": 308,
+        "author": "Keune."
       }
     ]
   },
@@ -4162,11 +4330,14 @@
     "lemma": "Saxiacus, Saxiacum",
     "previous": "Saxetum, Saxetanum",
     "next": "Saxinae",
+    "sort_key": "Saxiacus,saxiacum",
+    "proof_read": 0,
     "short_description": "(sc. fundus) Von einem Grundstück abgeleiteter Ort",
     "chapters": [
       {
         "start": 309,
-        "author": "Keune"
+        "end": 309,
+        "author": "Keune."
       }
     ]
   },
@@ -4174,10 +4345,12 @@
     "lemma": "Saxinae",
     "previous": "Saxiacus, Saxiacum",
     "next": "Saxobacium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 309,
-        "author": "Fischer"
+        "end": 309,
+        "author": "C. Th. Fischer."
       }
     ]
   },
@@ -4185,10 +4358,12 @@
     "lemma": "Saxobacium",
     "previous": "Saxinae",
     "next": "Saxones",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 309,
-        "author": "Keune"
+        "end": 309,
+        "author": "Keune."
       }
     ]
   },
@@ -4196,55 +4371,63 @@
     "lemma": "Saxones",
     "previous": "Saxobacium",
     "next": "Saxoniacus",
+    "proof_read": 0,
     "short_description": "Die Sachsen",
     "chapters": [
       {
         "start": 309,
         "end": 327,
-        "author": "Rappaport"
+        "author": "Rappaport."
       }
     ]
   },
   {
     "lemma": "Saxoniacus",
     "previous": "Saxones",
-    "next": "Saxonicum litus",
+    "next": "Saxonicum Litus",
+    "proof_read": 0,
     "short_description": "fundus",
     "chapters": [
       {
         "start": 327,
-        "author": "Keune"
+        "end": 327,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Saxonicum litus",
+    "lemma": "Saxonicum Litus",
     "previous": "Saxoniacus",
-    "next": "Saxonon nesoi",
+    "next": "Σαξόνων νῆσοι",
+    "sort_key": "Saxonicumlitus",
+    "proof_read": 0,
     "short_description": "Die von sächs. Seeräubern im 4. Jh. n. Chr. verheerten Küsten",
     "chapters": [
       {
         "start": 327,
         "end": 334,
-        "author": "Haverfield"
+        "author": "Haverfield."
       }
     ]
   },
   {
-    "lemma": "Saxonon nesoi",
-    "previous": "Saxonicum litus",
+    "lemma": "Σαξόνων νῆσοι",
+    "previous": "Saxonicum Litus",
     "next": "Saxsanus",
+    "sort_key": "Saxononnesoi",
+    "proof_read": 0,
     "short_description": "Drei vor d. Elbmündung gelegene Inseln",
     "chapters": [
       {
         "start": 334,
-        "author": "Rappaport"
+        "end": 334,
+        "author": "Rappaport."
       }
     ]
   },
   {
     "lemma": "Saxsanus",
-    "previous": "Saxonon nesoi",
+    "previous": "Σαξόνων νῆσοι",
     "next": "Saxsetanus",
     "redirect": "Saxanus",
     "proof_read": 2,
@@ -4297,85 +4480,103 @@
   {
     "lemma": "Sazanas",
     "previous": "Saxum ferreum",
-    "next": "Sazantion",
+    "next": "Σαζάντιον",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 338,
-        "author": "Seeck"
+        "end": 338,
+        "author": "Seeck."
       }
     ]
   },
   {
-    "lemma": "Sazantion",
+    "lemma": "Σαζάντιον",
     "previous": "Sazanas",
-    "next": "Sazoa",
+    "next": "Σαζόα",
+    "sort_key": "Sazantion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 338,
-        "author": "Herrmann"
+        "end": 338,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Sazoa",
-    "previous": "Sazantion",
-    "next": "Sazoi",
+    "lemma": "Σαζόα",
+    "previous": "Σαζάντιον",
+    "next": "Σάζοι",
+    "sort_key": "Sazoa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 338,
-        "author": "Weissbach"
+        "end": 338,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Sazoi",
-    "previous": "Sazoa",
+    "lemma": "Σάζοι",
+    "previous": "Σαζόα",
     "next": "Sbide",
+    "sort_key": "Sazoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 338,
-        "author": "Ruge"
+        "end": 338,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sbide",
-    "previous": "Sazoi",
+    "previous": "Σάζοι",
     "next": "Sc(....)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 338,
-        "author": "Ruge"
+        "end": 338,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sc(....)",
     "previous": "Sbide",
-    "next": "Sc...",
+    "next": "Sc.......",
+    "proof_read": 0,
     "short_description": "deus",
     "chapters": [
       {
         "start": 339,
-        "author": "Keune"
+        "end": 339,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sc...",
+    "lemma": "Sc.......",
     "previous": "Sc(....)",
     "next": "Scabellum",
+    "sort_key": "Sc...",
+    "proof_read": 0,
     "short_description": "deus",
     "chapters": [
       {
         "start": 339,
-        "author": "Keune"
+        "end": 339,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Scabellum",
-    "previous": "Sc...",
+    "previous": "Sc.......",
     "next": "Scabris",
     "proof_read": 0,
     "short_description": "Orchesterinstrument",
@@ -4393,10 +4594,12 @@
     "lemma": "Scabris",
     "previous": "Scabellum",
     "next": "Scadinavia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 340,
-        "author": "Philipp"
+        "end": 340,
+        "author": "Philipp."
       }
     ]
   },
@@ -4404,12 +4607,13 @@
     "lemma": "Scadinavia",
     "previous": "Scabris",
     "next": "Scaefius",
+    "proof_read": 0,
     "short_description": "Teile v. Dänemark u. Schweden, für eine Insel gehalten",
     "chapters": [
       {
         "start": 340,
         "end": 342,
-        "author": "Schönfeld"
+        "author": "Schönfeld."
       }
     ]
   },
@@ -4417,12 +4621,13 @@
     "lemma": "Scaefius",
     "previous": "Scadinavia",
     "next": "Scaeva 1",
+    "proof_read": 0,
     "short_description": "Angesehenes Geschlecht in Assisium",
     "chapters": [
       {
         "start": 342,
         "end": 343,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -4430,11 +4635,13 @@
     "lemma": "Scaeva 1",
     "previous": "Scaefius",
     "next": "Scaeva 2",
+    "proof_read": 0,
     "short_description": "Röm. Person",
     "chapters": [
       {
         "start": 343,
-        "author": "Münzer"
+        "end": 343,
+        "author": "Münzer."
       }
     ]
   },
@@ -4442,11 +4649,13 @@
     "lemma": "Scaeva 2",
     "previous": "Scaeva 1",
     "next": "Scaeva 3",
+    "proof_read": 0,
     "short_description": "Adressat v. Hor. epist.1,17",
     "chapters": [
       {
         "start": 343,
-        "author": "Stein, [Arthur]"
+        "end": 343,
+        "author": "Stein."
       }
     ]
   },
@@ -4454,11 +4663,13 @@
     "lemma": "Scaeva 3",
     "previous": "Scaeva 2",
     "next": "Scaevianus",
+    "proof_read": 0,
     "short_description": "Skeuas, Transkription eines illyr. Namens",
     "chapters": [
       {
         "start": 343,
-        "author": "Stein, [Arthur]"
+        "end": 343,
+        "author": "Stein."
       }
     ]
   },
@@ -4466,10 +4677,12 @@
     "lemma": "Scaevianus",
     "previous": "Scaeva 3",
     "next": "Scaevinus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 343,
-        "author": "Keune"
+        "end": 343,
+        "author": "Keune."
       }
     ]
   },
@@ -4596,11 +4809,13 @@
     "lemma": "Scaldis",
     "previous": "Scala 2",
     "next": "Scaldis, Pons -",
+    "proof_read": 0,
     "short_description": ", Flußname, heute Schelde",
     "chapters": [
       {
         "start": 348,
-        "author": "Schönfeld"
+        "end": 348,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -4608,11 +4823,14 @@
     "lemma": "Scaldis, Pons -",
     "previous": "Scaldis",
     "next": "Scalensia",
+    "sort_key": "Scaldis,pons -",
+    "proof_read": 0,
     "short_description": "Rastort zw. Turnacum (Tournay) u. Bagacum (Bavay)",
     "chapters": [
       {
         "start": 349,
-        "author": "Keune"
+        "end": 349,
+        "author": "Keune."
       }
     ]
   },
@@ -4620,23 +4838,26 @@
     "lemma": "Scalensia",
     "previous": "Scaldis, Pons -",
     "next": "Scallabis",
+    "proof_read": 0,
     "short_description": "Bezeichnung v. Erzeugnissen einer Schwertöpferei",
     "chapters": [
       {
         "start": 349,
         "end": 350,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Scallabis",
     "previous": "Scalensia",
-    "next": "Scamcia",
+    "next": "Scalonum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 350,
-        "author": "Schulten"
+        "end": 350,
+        "author": "Schulten."
       }
     ]
   },
@@ -4657,10 +4878,12 @@
     "lemma": "Scammos",
     "previous": "Scamcia",
     "next": "Scamnum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 350,
-        "author": "Fischer"
+        "end": 350,
+        "author": "C. Th. Fischer."
       }
     ]
   },
@@ -4668,12 +4891,13 @@
     "lemma": "Scamnum",
     "previous": "Scammos",
     "next": "Scampenses",
+    "proof_read": 0,
     "short_description": "Station auf d. Straße Tarent - Brindisi s. auch Samnium Nr. 2",
     "chapters": [
       {
         "start": 350,
         "end": 351,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -4694,10 +4918,12 @@
     "lemma": "Scampis",
     "previous": "Scampenses",
     "next": "Scanatus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 351,
-        "author": "Fluss"
+        "end": 351,
+        "author": "Fluss."
       }
     ]
   },
@@ -4705,10 +4931,12 @@
     "lemma": "Scanatus",
     "previous": "Scampis",
     "next": "Scancia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 351,
-        "author": "Ruge"
+        "end": 351,
+        "author": "Ruge."
       }
     ]
   },
@@ -4716,18 +4944,20 @@
     "lemma": "Scancia",
     "previous": "Scanatus",
     "next": "Scandia, Scandinavia, Scandza",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in Brabant",
     "chapters": [
       {
         "start": 351,
-        "author": "Keune"
+        "end": 351,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Scandia, Scandinavia, Scandza",
     "previous": "Scancia",
-    "next": "Scandilius, P.",
+    "next": "Scandilius",
     "redirect": "Scadinavia",
     "proof_read": 2,
     "chapters": [
@@ -4738,8 +4968,21 @@
     ]
   },
   {
-    "lemma": "Scandilius, P.",
+    "lemma": "Scandilius",
     "previous": "Scandia, Scandinavia, Scandza",
+    "next": "Scandius",
+    "sort_key": "Scandilius,p.",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 351,
+        "end": 351,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Scandilius, P.",
     "next": "Scandius, M.",
     "chapters": [
       {
@@ -4751,7 +4994,6 @@
   {
     "lemma": "Scandius, M.",
     "previous": "Scandilius, P.",
-    "next": "Scant.",
     "chapters": [
       {
         "start": 351,
@@ -4760,13 +5002,29 @@
     ]
   },
   {
-    "lemma": "Scant.",
-    "previous": "Scandius, M.",
-    "next": "Scantia 1",
+    "lemma": "Scandius",
+    "previous": "Scandilius",
+    "next": "Scant.",
+    "sort_key": "Scandius,m.",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 351,
-        "author": "Keune"
+        "end": 351,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Scant.",
+    "previous": "Scandius",
+    "next": "Scantia 1",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 351,
+        "end": 351,
+        "author": "Keune."
       }
     ]
   },
@@ -4774,11 +5032,13 @@
     "lemma": "Scantia 1",
     "previous": "Scant.",
     "next": "Scantia 2",
+    "proof_read": 0,
     "short_description": "Person bei Cic. Mil.75",
     "chapters": [
       {
         "start": 352,
-        "author": "Münzer"
+        "end": 352,
+        "author": "Münzer."
       }
     ]
   },
@@ -4813,10 +5073,13 @@
     "lemma": "Scantia silva",
     "previous": "Scantia 3",
     "next": "Scantiniacus",
+    "sort_key": "Scantiasilva",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 352,
-        "author": "Philipp"
+        "end": 352,
+        "author": "Philipp."
       }
     ]
   },
@@ -4824,11 +5087,13 @@
     "lemma": "Scantiniacus",
     "previous": "Scantia silva",
     "next": "Scantinius 1",
+    "proof_read": 0,
     "short_description": "fundus",
     "chapters": [
       {
         "start": 352,
-        "author": "Keune"
+        "end": 352,
+        "author": "Keune."
       }
     ]
   },
@@ -4836,11 +5101,13 @@
     "lemma": "Scantinius 1",
     "previous": "Scantiniacus",
     "next": "Scantinius 2",
+    "proof_read": 0,
     "short_description": "Antragsteller einer lex Scantinia gg. Päderastie",
     "chapters": [
       {
         "start": 352,
-        "author": "Münzer"
+        "end": 352,
+        "author": "Münzer."
       }
     ]
   },
@@ -4848,29 +5115,47 @@
     "lemma": "Scantinius 2",
     "previous": "Scantinius 1",
     "next": "Scantinius 3",
+    "proof_read": 0,
     "short_description": "P., Pontifex, gest. 216 v. Chr.",
     "chapters": [
       {
         "start": 352,
-        "author": "Münzer"
+        "end": 352,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Scantinius 3",
     "previous": "Scantinius 2",
-    "next": "Scantius, M. 1",
+    "next": "Scantius 1",
+    "proof_read": 0,
     "short_description": "Capitolinus, C. um 226 v. Chr. vom damaligen kurul. Aedil angeklagt",
     "chapters": [
       {
         "start": 352,
-        "author": "Münzer"
+        "end": 352,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Scantius 1",
+    "previous": "Scantinius 3",
+    "next": "Scantius 2",
+    "sort_key": "Scantius,m. 1",
+    "proof_read": 0,
+    "short_description": "M., Tr. pl. 293 v. Chr.",
+    "chapters": [
+      {
+        "start": 352,
+        "end": 352,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Scantius, M. 1",
-    "previous": "Scantinius 3",
     "next": "Scantius, M. 2",
     "short_description": "M., Tr. pl. 293 v. Chr.",
     "chapters": [
@@ -4883,7 +5168,6 @@
   {
     "lemma": "Scantius, M. 2",
     "previous": "Scantius, M. 1",
-    "next": "Scapiana",
     "short_description": "M., lebte Mitte 2. Jh. v. Chr.",
     "chapters": [
       {
@@ -4894,8 +5178,23 @@
     ]
   },
   {
+    "lemma": "Scantius 2",
+    "previous": "Scantius 1",
+    "next": "Scapiana",
+    "sort_key": "Scantius,m. 2",
+    "proof_read": 0,
+    "short_description": "M., lebte Mitte 2. Jh. v. Chr.",
+    "chapters": [
+      {
+        "start": 352,
+        "end": 353,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
     "lemma": "Scapiana",
-    "previous": "Scantius, M. 2",
+    "previous": "Scantius 2",
     "next": "Scapitani",
     "redirect": "Scarpiana",
     "proof_read": 2,
@@ -4936,11 +5235,13 @@
     "lemma": "Scaptius 1",
     "previous": "Scaponna",
     "next": "Scaptius 2",
+    "proof_read": 0,
     "short_description": "M., Agent d. M. Brutus in Kilikien",
     "chapters": [
       {
         "start": 353,
-        "author": "Münzer"
+        "end": 353,
+        "author": "Münzer."
       }
     ]
   },
@@ -4948,11 +5249,13 @@
     "lemma": "Scaptius 2",
     "previous": "Scaptius 1",
     "next": "Scaptius 3",
+    "proof_read": 0,
     "short_description": "M., viell. Sohn v. Nr. 1, Geschäftsführer d. Brutus in Kappadokien",
     "chapters": [
       {
         "start": 353,
-        "author": "Münzer"
+        "end": 353,
+        "author": "Münzer."
       }
     ]
   },
@@ -4960,12 +5263,13 @@
     "lemma": "Scaptius 3",
     "previous": "Scaptius 2",
     "next": "Scapula 1",
+    "proof_read": 0,
     "short_description": "P., Held einer Erzählung d. röm. Annalisten zu 446 v. Chr.",
     "chapters": [
       {
         "start": 353,
         "end": 354,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -4973,10 +5277,13 @@
     "lemma": "Scapula 1",
     "previous": "Scaptius 3",
     "next": "Scapula 2",
+    "redirect": "Cornelius  315f. Flavius  172 Iulius",
+    "proof_read": 0,
     "short_description": "s. Cornelius Nr. 315f. Flavius Nr. 172 Iulius",
     "chapters": [
       {
-        "start": 354
+        "start": 354,
+        "end": 354
       }
     ]
   },
@@ -4984,11 +5291,13 @@
     "lemma": "Scapula 2",
     "previous": "Scapula 1",
     "next": "Scapula 3",
+    "proof_read": 0,
     "short_description": "Proc. v. Asien",
     "chapters": [
       {
         "start": 354,
-        "author": "Fluss"
+        "end": 354,
+        "author": "Fluss."
       }
     ]
   },
@@ -4996,11 +5305,13 @@
     "lemma": "Scapula 3",
     "previous": "Scapula 2",
     "next": "Scarabaeus",
+    "proof_read": 0,
     "short_description": "Ziegler",
     "chapters": [
       {
         "start": 354,
-        "author": "Keune"
+        "end": 354,
+        "author": "Keune."
       }
     ]
   },
@@ -5021,11 +5332,12 @@
     "lemma": "Scaras",
     "previous": "Scarabaeus",
     "next": "Scarb",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 354,
         "end": 355,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -5033,11 +5345,13 @@
     "lemma": "Scarb",
     "previous": "Scaras",
     "next": "Scarbantia",
+    "proof_read": 0,
     "short_description": "Nebenfluß d. Schelde",
     "chapters": [
       {
         "start": 355,
-        "author": "Keune"
+        "end": 355,
+        "author": "Keune."
       }
     ]
   },
@@ -5045,12 +5359,13 @@
     "lemma": "Scarbantia",
     "previous": "Scarb",
     "next": "Scarbantio",
+    "proof_read": 0,
     "short_description": "Siedlung in Pannonia superior",
     "chapters": [
       {
         "start": 355,
         "end": 356,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -5071,10 +5386,12 @@
     "lemma": "Scarbia",
     "previous": "Scarbantio",
     "next": "Scardona",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 356,
-        "author": "Schönfeld"
+        "end": 356,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -5082,12 +5399,13 @@
     "lemma": "Scardona",
     "previous": "Scarbia",
     "next": "Scardonitanus",
+    "proof_read": 0,
     "short_description": "Hauptstadt Liburniens",
     "chapters": [
       {
         "start": 356,
         "end": 357,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -5120,10 +5438,12 @@
     "lemma": "Scarpiana",
     "previous": "Scarniunga",
     "next": "Scarpis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 357,
-        "author": "Keune"
+        "end": 357,
+        "author": "Keune."
       }
     ]
   },
@@ -5144,12 +5464,13 @@
     "lemma": "Scarponna",
     "previous": "Scarpis",
     "next": "Scarpus",
+    "proof_read": 0,
     "short_description": "Gallisch-röm. Ortschaft d. Civitas Mediomatricorum",
     "chapters": [
       {
         "start": 357,
         "end": 363,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -5157,11 +5478,13 @@
     "lemma": "Scarpus",
     "previous": "Scarponna",
     "next": "Scarus",
+    "proof_read": 0,
     "short_description": "1. Fluß s. Scarb 2. Person",
     "chapters": [
       {
         "start": 363,
-        "author": "Keune"
+        "end": 363,
+        "author": "Keune."
       }
     ]
   },
@@ -5169,12 +5492,13 @@
     "lemma": "Scarus",
     "previous": "Scarpus",
     "next": "Scatebra",
+    "proof_read": 0,
     "short_description": "Papageifisch",
     "chapters": [
       {
         "start": 363,
         "end": 365,
-        "author": "Gossen"
+        "author": "Gossen."
       }
     ]
   },
@@ -5182,10 +5506,12 @@
     "lemma": "Scatebra",
     "previous": "Scarus",
     "next": "Scato 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 365,
-        "author": "Philipp"
+        "end": 365,
+        "author": "Philipp."
       }
     ]
   },
@@ -5206,11 +5532,13 @@
     "lemma": "Scato 2",
     "previous": "Scato 1",
     "next": "Scatras",
+    "proof_read": 0,
     "short_description": "Proc. v. Kreta u. Kyrene",
     "chapters": [
       {
         "start": 365,
-        "author": "Fluss"
+        "end": 365,
+        "author": "Fluss."
       }
     ]
   },
@@ -5230,7 +5558,7 @@
   {
     "lemma": "Scatris",
     "previous": "Scatras",
-    "next": "Scauriacus",
+    "next": "Scauriacus?",
     "redirect": "Soatris",
     "proof_read": 2,
     "chapters": [
@@ -5241,20 +5569,23 @@
     ]
   },
   {
-    "lemma": "Scauriacus",
+    "lemma": "Scauriacus?",
     "previous": "Scatris",
     "next": "Scaurinus",
-    "redirect": true,
+    "sort_key": "Scauriacus",
+    "redirect": "Scuriacus",
+    "proof_read": 0,
     "short_description": "s. Scuriacus",
     "chapters": [
       {
-        "start": 365
+        "start": 365,
+        "end": 365
       }
     ]
   },
   {
     "lemma": "Scaurinus",
-    "previous": "Scauriacus",
+    "previous": "Scauriacus?",
     "next": "Scaurus 1",
     "redirect": "Terentius 69",
     "proof_read": 2,
@@ -5269,11 +5600,13 @@
     "lemma": "Scaurus 1",
     "previous": "Scaurinus",
     "next": "Scaurus 2",
+    "proof_read": 0,
     "short_description": "Pr. in einer Bauinschr. v. Setia, CIL X 6462",
     "chapters": [
       {
         "start": 365,
-        "author": "Riba"
+        "end": 365,
+        "author": "Riba."
       }
     ]
   },
@@ -5281,10 +5614,13 @@
     "lemma": "Scaurus 2",
     "previous": "Scaurus 1",
     "next": "Scaurus 3",
+    "redirect": "Aemilii  137-142 Atilius  72 Aurelii  213-216",
+    "proof_read": 0,
     "short_description": "s. Aemilii Nr. 137-142 Atilius Nr. 72 Aurelii Nr. 213-216",
     "chapters": [
       {
-        "start": 365
+        "start": 365,
+        "end": 365
       }
     ]
   },
@@ -5292,12 +5628,13 @@
     "lemma": "Scaurus 3",
     "previous": "Scaurus 2",
     "next": "Sceffeacus",
+    "proof_read": 0,
     "short_description": "Sigillatafabrikant in Arretium, 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 365,
         "end": 366,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -5305,11 +5642,12 @@
     "lemma": "Sceffeacus",
     "previous": "Scaurus 3",
     "next": "Scelatiti",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 366,
         "end": 367,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -5330,10 +5668,12 @@
     "lemma": "Scellius?",
     "previous": "Scelatiti",
     "next": "Scena",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 367,
-        "author": "Münzer"
+        "end": 367,
+        "author": "Münzer."
       }
     ]
   },
@@ -5354,11 +5694,13 @@
     "lemma": "Scenae 1",
     "previous": "Scena",
     "next": "Scenae 2",
+    "proof_read": 0,
     "short_description": "S. extra Gerasa, röm. Station zw. Pelusium u. d. W-Ende d. Sirbon. Sees",
     "chapters": [
       {
         "start": 367,
-        "author": "Kees"
+        "end": 367,
+        "author": "Kees."
       }
     ]
   },
@@ -5366,11 +5708,13 @@
     "lemma": "Scenae 2",
     "previous": "Scenae 1",
     "next": "Scenae 3",
+    "proof_read": 0,
     "short_description": "S. Mandrae, Bischofssitz in d. Augustamnica Secunda",
     "chapters": [
       {
         "start": 367,
-        "author": "Kees"
+        "end": 367,
+        "author": "Kees."
       }
     ]
   },
@@ -5378,12 +5722,13 @@
     "lemma": "Scenae 3",
     "previous": "Scenae 2",
     "next": "Scene",
+    "proof_read": 0,
     "short_description": "S. Veteranorum, röm. Station an d. Straße Memphis - Pelusium",
     "chapters": [
       {
         "start": 367,
         "end": 368,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
@@ -5404,10 +5749,12 @@
     "lemma": "Scenitae",
     "previous": "Scene",
     "next": "Scenobardus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 368,
-        "author": "Fischer"
+        "end": 368,
+        "author": "C. Th. Fischer."
       }
     ]
   },
@@ -5415,10 +5762,12 @@
     "lemma": "Scenobardus",
     "previous": "Scenitae",
     "next": "Sceptici",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 368,
-        "author": "Stein, [Arthur]"
+        "end": 368,
+        "author": "Stein."
       }
     ]
   },
@@ -5439,12 +5788,13 @@
     "lemma": "Sceptrum",
     "previous": "Sceptici",
     "next": "Scetanus",
+    "proof_read": 0,
     "short_description": "Stab als Zeichen irgendeiner Gewalt",
     "chapters": [
       {
         "start": 368,
         "end": 372,
-        "author": "Hug"
+        "author": "Hug."
       }
     ]
   },
@@ -5452,10 +5802,12 @@
     "lemma": "Scetanus",
     "previous": "Sceptrum",
     "next": "Scetis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 372,
-        "author": "Münzer"
+        "end": 372,
+        "author": "Münzer."
       }
     ]
   },
@@ -5463,10 +5815,12 @@
     "lemma": "Scetis",
     "previous": "Scetanus",
     "next": "Sceunius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 372,
-        "author": "Keune"
+        "end": 372,
+        "author": "Keune."
       }
     ]
   },
@@ -5474,11 +5828,13 @@
     "lemma": "Sceunius",
     "previous": "Scetis",
     "next": "Sceus",
+    "proof_read": 0,
     "short_description": "Ziegelfabrikant in Arretium",
     "chapters": [
       {
         "start": 372,
-        "author": "Keune"
+        "end": 372,
+        "author": "Keune."
       }
     ]
   },
@@ -5486,10 +5842,12 @@
     "lemma": "Sceus",
     "previous": "Sceunius",
     "next": "Schaf",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 372,
-        "author": "Keune"
+        "end": 372,
+        "author": "Keune."
       }
     ]
   },
@@ -5497,12 +5855,13 @@
     "lemma": "Schaf",
     "previous": "Sceus",
     "next": "Schahpuhri",
+    "proof_read": 0,
     "short_description": "Tierart",
     "chapters": [
       {
         "start": 373,
         "end": 399,
-        "author": "Orth"
+        "author": "Orth."
       }
     ]
   },
@@ -5523,12 +5882,13 @@
     "lemma": "Schakal",
     "previous": "Schahpuhri",
     "next": "Schapur",
+    "proof_read": 0,
     "short_description": "Tierart",
     "chapters": [
       {
         "start": 399,
         "end": 401,
-        "author": "Gossen"
+        "author": "Gossen-Steier."
       }
     ]
   },
@@ -5549,12 +5909,13 @@
     "lemma": "Schedae",
     "previous": "Schapur",
     "next": "Σχεδεῖον",
+    "proof_read": 0,
     "short_description": "Holzscheit Papyrusstreifen",
     "chapters": [
       {
         "start": 401,
         "end": 402,
-        "author": "Gaerte"
+        "author": "Gaerte."
       }
     ]
   },
@@ -5576,12 +5937,13 @@
     "lemma": "Schedia 1",
     "previous": "Σχεδεῖον",
     "next": "Schedia 2",
+    "proof_read": 0,
     "short_description": "Zollstation am westlichsten (kanopischen Nilarm",
     "chapters": [
       {
         "start": 401,
         "end": 403,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
@@ -5589,23 +5951,27 @@
     "lemma": "Schedia 2",
     "previous": "Schedia 1",
     "next": "Schedia 3",
+    "proof_read": 0,
     "short_description": "Zweite Zollstation an d. N-Grenze d. Thebaïs am westl. Nilufer",
     "chapters": [
       {
         "start": 403,
-        "author": "Kees"
+        "end": 403,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Schedia 3",
     "previous": "Schedia 2",
-    "next": "Schedios 1",
+    "next": "Schedios",
+    "proof_read": 0,
     "short_description": "Örtlichkeit auf Rhodos",
     "chapters": [
       {
         "start": 403,
-        "author": "Bürchner"
+        "end": 403,
+        "author": "Bürchner."
       }
     ]
   },
