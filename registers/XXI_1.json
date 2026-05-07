@@ -1,16 +1,5 @@
 [
   {
-    "lemma": "Plautius, Plotius",
-    "next": "Plautius 1",
-    "short_description": "Römischer Familienname",
-    "chapters": [
-      {
-        "start": 1,
-        "author": "Münzer"
-      }
-    ]
-  },
-  {
     "lemma": "Plautius",
     "previous": "Plautinus, Plautianus",
     "next": "Plautius 1",
@@ -277,20 +266,6 @@
     ]
   },
   {
-    "lemma": "Plautius 19",
-    "previous": "Plautius 19ff.",
-    "next": "Plautius 20",
-    "proof_read": 0,
-    "short_description": "Hypsaeus, L. Praetor 189 v. Chr.",
-    "chapters": [
-      {
-        "start": 13,
-        "end": 13,
-        "author": "Münzer."
-      }
-    ]
-  },
-  {
     "lemma": "Plautius 19ff.",
     "previous": "Plautius 18",
     "next": "Plautius 19",
@@ -300,6 +275,20 @@
       {
         "start": 13,
         "end": 14,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Plautius 19",
+    "previous": "Plautius 19ff.",
+    "next": "Plautius 20",
+    "proof_read": 0,
+    "short_description": "Hypsaeus, L. Praetor 189 v. Chr.",
+    "chapters": [
+      {
+        "start": 13,
+        "end": 13,
         "author": "Münzer."
       }
     ]
@@ -1168,6 +1157,17 @@
         "start": 189,
         "end": 189,
         "author": "Johanna Schmidt."
+      }
+    ]
+  },
+  {
+    "lemma": "Pleiaden",
+    "previous": "Plegra",
+    "next": "Pleiai",
+    "chapters": [
+      {
+        "start": 189,
+        "end": 189
       }
     ]
   },
@@ -2486,28 +2486,6 @@
         "start": 463,
         "end": 463,
         "author": "Schuppe."
-      }
-    ]
-  },
-  {
-    "lemma": "Plostellum",
-    "next": "Plotai nesoi",
-    "short_description": "Kleiner Wagen",
-    "chapters": [
-      {
-        "start": 463,
-        "author": "Schuppe"
-      }
-    ]
-  },
-  {
-    "lemma": "Plotai nesoi",
-    "previous": "Plostellum",
-    "short_description": "Schwimmende Inseln im Meer und in Seen",
-    "chapters": [
-      {
-        "start": 463,
-        "author": "Gisinger"
       }
     ]
   },
@@ -4399,29 +4377,6 @@
     ]
   },
   {
-    "lemma": "Poeninus 1",
-    "next": "Poeninus 2",
-    "short_description": "Poenina Berggott des mons Poeninus (Großer St. Bernhard)",
-    "chapters": [
-      {
-        "start": 1155,
-        "author": "Petrikovits"
-      }
-    ]
-  },
-  {
-    "lemma": "Poeninus 2",
-    "previous": "Poeninus 1",
-    "next": "Poenius Postumus",
-    "short_description": "Alpenpass Großer St. Bernhard",
-    "chapters": [
-      {
-        "start": 1156,
-        "author": "Goessler"
-      }
-    ]
-  },
-  {
     "lemma": "Poenius Postumus",
     "previous": "Poeninus, Poenina 2",
     "next": "Poequarius",
@@ -4589,6 +4544,17 @@
         "start": 1167,
         "end": 1184,
         "author": "B. Saria."
+      }
+    ]
+  },
+  {
+    "lemma": "Pogla",
+    "previous": "Poetovio",
+    "next": "Pogon",
+    "chapters": [
+      {
+        "start": 1184,
+        "end": 1184
       }
     ]
   },
@@ -5206,19 +5172,6 @@
     ]
   },
   {
-    "lemma": "to Poimenion",
-    "previous": "Poimenios 10",
-    "next": "Poimenis",
-    "sort_key": "Poimenion",
-    "short_description": "Ort",
-    "chapters": [
-      {
-        "start": 1210,
-        "author": "Hölscher"
-      }
-    ]
-  },
-  {
     "lemma": "Poimenis",
     "previous": "Poimenios 10",
     "next": "Poimes",
@@ -5309,7 +5262,6 @@
   {
     "lemma": "Poinimos",
     "previous": "Poine 2",
-    "next": "Poios",
     "redirect": "Poine 1",
     "proof_read": 2,
     "chapters": [
@@ -5320,22 +5272,7 @@
     ]
   },
   {
-    "lemma": "Poios",
-    "previous": "Poinimos",
-    "next": "Pois",
-    "redirect": "Ptoion",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 1215,
-        "end": 1215
-      }
-    ]
-  },
-  {
     "lemma": "Pois",
-    "previous": "Poios",
-    "next": "Poios",
     "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
@@ -5347,9 +5284,18 @@
     ]
   },
   {
+    "lemma": "Poios",
+    "redirect": "Ptoion",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 1215,
+        "end": 1215
+      }
+    ]
+  },
+  {
     "lemma": "Poitios",
-    "previous": "Pois",
-    "next": "Poitnaion",
     "proof_read": 0,
     "short_description": "Epiklesis Apollons",
     "chapters": [
