@@ -1,8 +1,7 @@
 [
+  {"lemma":"Polemon"},
   {
     "lemma": "Polemon 1",
-    "previous": "Poieessa 2",
-    "next": "Polemon 2",
     "proof_read": 2,
     "short_description": "athenischer Archon 312/11 v. Chr.",
     "chapters": [
@@ -13,9 +12,9 @@
       }
     ]
   },
+  {"lemma": "Poleman 2–3"},
   {
     "lemma": "Polemon 2",
-    "previous": "Polemon 2–3",
     "next": "Polemon 3",
     "proof_read": 0,
     "short_description": "I. Eusebes, König von Pontus und dem Bosporanischen Reich",
@@ -29,7 +28,6 @@
   },
   {
     "lemma": "Polemon 3",
-    "previous": "Polemon 2",
     "next": "Polemon 4",
     "proof_read": 0,
     "short_description": "II. König von Pontus 37-63 n. Chr.",
@@ -111,6 +109,17 @@
         "start": 1288,
         "end": 1288,
         "author": "W. Peek."
+      }
+    ]
+  },
+  {
+    "lemma": "Polemon 8a",
+    "previous": "Polemon 8",
+    "next": "Polemon 9",
+    "chapters": [
+      {
+        "start": 1288,
+        "end": 1288
       }
     ]
   },
@@ -1010,20 +1019,6 @@
     ]
   },
   {
-    "lemma": "Poliographein",
-    "previous": "Politis",
-    "next": "Politorium",
-    "proof_read": 0,
-    "short_description": "Eine Person als Neubürger registrieren",
-    "chapters": [
-      {
-        "start": 1403,
-        "end": 1403,
-        "author": "E. Kießling."
-      }
-    ]
-  },
-  {
     "lemma": "Politis",
     "previous": "Politike Orgas",
     "next": "Poliographein",
@@ -1034,6 +1029,20 @@
         "start": 1403,
         "end": 1403,
         "author": "gr. Kruse."
+      }
+    ]
+  },
+  {
+    "lemma": "Poliographein",
+    "previous": "Politis",
+    "next": "Politorium",
+    "proof_read": 0,
+    "short_description": "Eine Person als Neubürger registrieren",
+    "chapters": [
+      {
+        "start": 1403,
+        "end": 1403,
+        "author": "E. Kießling."
       }
     ]
   },
@@ -2909,20 +2918,7 @@
     ]
   },
   {
-    "lemma": "Polychornios 4",
-    "previous": "Polycharmos 7",
-    "next": "Polychronios 1",
-    "short_description": "Arianischer Bischof in Illyricum",
-    "chapters": [
-      {
-        "start": 1597,
-        "author": "Enßlin"
-      }
-    ]
-  },
-  {
     "lemma": "Polychronios 1",
-    "previous": "Polychronios 4",
     "next": "Polychronios 2",
     "proof_read": 2,
     "short_description": "Aurelius",
@@ -5477,7 +5473,6 @@
   {
     "lemma": "Polymedes 3",
     "previous": "Polymedes 2",
-    "next": "Polymedes 7",
     "proof_read": 0,
     "short_description": "Führer eines thessalischen Reiterkontingents",
     "chapters": [
@@ -5489,8 +5484,49 @@
     ]
   },
   {
-    "lemma": "Polymedes 7",
+    "lemma": "Polymedes 4",
     "previous": "Polymedes 3",
+    "next": "Polymedes 5",
+    "proof_read": 0,
+    "short_description": "Thessalier aus Phayttos",
+    "chapters": [
+      {
+        "start": 1764,
+        "end": 1764,
+        "author": "Bernert."
+      }
+    ]
+  },
+  {
+    "lemma": "Polymedes 5",
+    "previous": "Polymedes 4",
+    "next": "Polymedes 6",
+    "proof_read": 2,
+    "short_description": "Athener, Vater des Glaukos",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 1764,
+        "end": 1764,
+        "author": "E. Bernert."
+      }
+    ]
+  },
+  {
+    "lemma": "Polymedes 6",
+    "previous": "Polymedes 5",
+    "proof_read": 0,
+    "short_description": "Aigier",
+    "chapters": [
+      {
+        "start": 1764,
+        "end": 1764,
+        "author": "Bernert."
+      }
+    ]
+  },
+  {
+    "lemma": "Polymedes 7",
     "next": "Polymedes 8",
     "proof_read": 2,
     "short_description": "Athener, Sohn des Kephision",
@@ -5547,51 +5583,7 @@
     ]
   },
   {
-    "lemma": "Polymedes 4",
-    "previous": "Polymedes 3",
-    "next": "Polymedes 5",
-    "proof_read": 0,
-    "short_description": "Thessalier aus Phayttos",
-    "chapters": [
-      {
-        "start": 1764,
-        "end": 1764,
-        "author": "Bernert."
-      }
-    ]
-  },
-  {
-    "lemma": "Polymedes 5",
-    "previous": "Polymedes 4",
-    "next": "Polymedes 6",
-    "proof_read": 2,
-    "short_description": "Athener, Vater des Glaukos",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 1764,
-        "end": 1764,
-        "author": "E. Bernert."
-      }
-    ]
-  },
-  {
-    "lemma": "Polymedes 6",
-    "previous": "Polymedes 5",
-    "next": "Polymedon 1",
-    "proof_read": 0,
-    "short_description": "Aigier",
-    "chapters": [
-      {
-        "start": 1764,
-        "end": 1764,
-        "author": "Bernert."
-      }
-    ]
-  },
-  {
     "lemma": "Polymedon 1",
-    "previous": "Polymedes 6",
     "next": "Polymedon 2",
     "proof_read": 2,
     "short_description": "Sohn des Priamos",
@@ -5741,7 +5733,6 @@
   {
     "lemma": "Polymelis",
     "previous": "Polymelias",
-    "next": "Polymelos 1",
     "redirect": "Polymela 5",
     "proof_read": 2,
     "chapters": [
@@ -6210,7 +6201,6 @@
   {
     "lemma": "Polypen 3",
     "previous": "Polypen 2",
-    "next": "Polyperchon 1",
     "proof_read": 2,
     "short_description": "Asselart",
     "chapters": [
@@ -6763,6 +6753,17 @@
         "start": 1830,
         "end": 1831,
         "author": "E. Wüst."
+      }
+    ]
+  },
+  {
+    "lemma": "Polyrrhenia",
+    "previous": "Polypoites 5",
+    "next": "Polyrrhetos",
+    "chapters": [
+      {
+        "start": 1831,
+        "end": 1831
       }
     ]
   },
@@ -11222,18 +11223,6 @@
     ]
   },
   {
-    "lemma": "Pomponius 34a",
-    "previous": "Pomponius 54",
-    "next": "Pomponius 55",
-    "short_description": "P. Antistianus, cos. suff. im J. 100 n. Chr., Sohn des L. Funisolanus (VII 301",
-    "chapters": [
-      {
-        "start": 2342,
-        "author": "Hanslik"
-      }
-    ]
-  },
-  {
     "lemma": "Pomponius 55",
     "previous": "Pomponius 54",
     "next": "Pomponius 56",
@@ -11908,8 +11897,18 @@
     ]
   },
   {
-    "lemma": "Pomponius 103",
+    "lemma": "Pomponius 102",
     "previous": "Pomponius 101",
+    "next": "Pomponius 103",
+    "chapters": [
+      {
+        "start": 2356
+      }
+    ]
+  },
+  {
+    "lemma": "Pomponius 103",
+    "previous": "Pomponius 102",
     "next": "Pomponius 104",
     "short_description": "P. P. Secundus, cos. suff. im J. 44 n. Chr., Tragiker, Sohn des P. Secundus und",
     "chapters": [
