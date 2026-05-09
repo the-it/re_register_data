@@ -626,6 +626,9 @@
     "lemma": "Πίμπραμα",
     "previous": "Pimpleis",
     "next": "Pina",
+    "sort_key": "Pimprama",
+    "proof_read": 0,
+    "short_description": "Pimprama, Stadt jenseits des Hydraotes",
     "chapters": [
       {
         "start": 1389,
@@ -2872,13 +2875,34 @@
     ]
   },
   {
-    "lemma": "Pisaurum"
+    "lemma": "Pisaurum",
+    "previous": "Pisav (-ae?, -i)",
+    "next": "Pisaurus",
+    "redirect": true,
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 1774,
+        "end": 1774
+      }
+    ]
   },
   {
-    "lemma": "Pisaurus"
+    "lemma": "Pisaurus",
+    "previous": "Pisaurum",
+    "next": "Piscarius",
+    "redirect": true,
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 1774,
+        "end": 1774
+      }
+    ]
   },
   {
-    "lemma": "Piscarius"
+    "lemma": "Piscarius",
+    "previous": "Pisaurus"
   },
   {
     "lemma": "Piscator",
@@ -6104,6 +6128,7 @@
   {
     "lemma": "Plaetorius 18",
     "previous": "Plaetorius 17",
+    "next": "Plaetorius 19",
     "proof_read": 0,
     "short_description": "Adressat eines Rescripts des Kaisers Alexander",
     "chapters": [

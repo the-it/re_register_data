@@ -1,7 +1,21 @@
 [
-  {"lemma":"Polemon"},
+  {
+    "lemma": "Polemon",
+    "previous": "Poieessa 2",
+    "next": "Polemon 1",
+    "proof_read": 2,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1281,
+        "end": 1281
+      }
+    ]
+  },
   {
     "lemma": "Polemon 1",
+    "previous": "Polemon",
+    "next": "Polemon 2–3",
     "proof_read": 2,
     "short_description": "athenischer Archon 312/11 v. Chr.",
     "chapters": [
@@ -12,9 +26,22 @@
       }
     ]
   },
-  {"lemma": "Poleman 2–3"},
+  {
+    "lemma": "Polemon 2–3",
+    "previous": "Polemon 1",
+    "next": "Polemon 2",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1281,
+        "end": 1281
+      }
+    ]
+  },
   {
     "lemma": "Polemon 2",
+    "previous": "Polemon 2–3",
     "next": "Polemon 3",
     "proof_read": 0,
     "short_description": "I. Eusebes, König von Pontus und dem Bosporanischen Reich",
@@ -28,6 +55,7 @@
   },
   {
     "lemma": "Polemon 3",
+    "previous": "Polemon 2",
     "next": "Polemon 4",
     "proof_read": 0,
     "short_description": "II. König von Pontus 37-63 n. Chr.",
@@ -2919,6 +2947,7 @@
   },
   {
     "lemma": "Polychronios 1",
+    "previous": "Polycharmos 7",
     "next": "Polychronios 2",
     "proof_read": 2,
     "short_description": "Aurelius",
@@ -5515,6 +5544,7 @@
   {
     "lemma": "Polymedes 6",
     "previous": "Polymedes 5",
+    "next": "Polymedes 7",
     "proof_read": 0,
     "short_description": "Aigier",
     "chapters": [
@@ -5527,6 +5557,7 @@
   },
   {
     "lemma": "Polymedes 7",
+    "previous": "Polymedes 6",
     "next": "Polymedes 8",
     "proof_read": 2,
     "short_description": "Athener, Sohn des Kephision",
@@ -5576,7 +5607,7 @@
     "short_description": "Siedlung an der S-Küste der Troas",
     "chapters": [
       {
-        "start": 1763,
+        "start": 1764,
         "end": 1766,
         "author": "Kirsten."
       }
@@ -5584,6 +5615,7 @@
   },
   {
     "lemma": "Polymedon 1",
+    "previous": "Polymedion",
     "next": "Polymedon 2",
     "proof_read": 2,
     "short_description": "Sohn des Priamos",
@@ -5733,6 +5765,7 @@
   {
     "lemma": "Polymelis",
     "previous": "Polymelias",
+    "next": "Polymelos",
     "redirect": "Polymela 5",
     "proof_read": 2,
     "chapters": [
@@ -6201,6 +6234,7 @@
   {
     "lemma": "Polypen 3",
     "previous": "Polypen 2",
+    "next": "Polyperchon",
     "proof_read": 2,
     "short_description": "Asselart",
     "chapters": [
@@ -10041,7 +10075,9 @@
     "previous": "Pompeius 136",
     "next": "Pompeius 138",
     "proof_read": 0,
-    "short_description": "cos. der östl. Reichshälfte 501 n. Chr.",
+    "short_description": "Patricius und Brudersohn des Kaisers Anastasius, Konsul der östlichen Reichshälfte 501 n. Chr.",
+    "wp_link": "w:de:Pompeius (Konsul 501)",
+    "wd_link": "d:Q960953",
     "chapters": [
       {
         "start": 2299,
@@ -10055,7 +10091,9 @@
     "previous": "Pompeius 137",
     "next": "Pompeius 139",
     "proof_read": 0,
-    "short_description": "Flavius Anastasius Paulus Probus Sabinianus cos. 517 n. Chr.",
+    "short_description": "Flavius Anastasius Paulus Probus Sabinianus P. Anastasius, cos. 517 n. Chr., comes domesticorum equitum",
+    "wp_link": "w:de:Flavius Anastasius Paulus Probus Sabinianus Pompeius Anastasius",
+    "wd_link": "d:Q1131129",
     "chapters": [
       {
         "start": 2300,

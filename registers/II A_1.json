@@ -6281,7 +6281,7 @@
   {
     "lemma": "Schisma",
     "previous": "Schirm",
-    "next": "Schiste hodos",
+    "next": "Σχιστὴ ὁδός",
     "chapters": [
       {
         "start": 435,
@@ -6290,7 +6290,7 @@
     ]
   },
   {
-    "lemma": "Schiste hodos",
+    "lemma": "Σχιστὴ ὁδός",
     "previous": "Schisma",
     "next": "Schlachtordnung I",
     "short_description": "Stelle in Phokis, wo Oidipus seinen Vater erschlagen haben soll",
@@ -6304,19 +6304,16 @@
   },
   {
     "lemma": "Schlachtordnung I",
-    "previous": "Schiste hodos",
+    "previous": "Σχιστὴ ὁδός",
     "next": "Schlachtordnung II",
-    "short_description": "Griechisch",
+    "sort_key": "Schlachtordnungi",
+    "proof_read": 0,
+    "short_description": "griechisch: Homer, Epameinondas, Leuktra",
     "chapters": [
       {
         "start": 436,
         "end": 481,
-        "author": "Lammert, E[dmund]"
-      },
-      {
-        "start": 436,
-        "end": 481,
-        "author": "Lammert, Friedrich"
+        "author": "E. Lammert†. F. Lammert."
       }
     ]
   },
@@ -6324,17 +6321,14 @@
     "lemma": "Schlachtordnung II",
     "previous": "Schlachtordnung I",
     "next": "Schlange",
-    "short_description": "Römisch",
+    "sort_key": "Schlachtordnungii",
+    "proof_read": 0,
+    "short_description": "römisch: Klassenheer, Manipelstellung, Cohorten",
     "chapters": [
       {
         "start": 481,
         "end": 494,
-        "author": "Lammert, E[dmund]"
-      },
-      {
-        "start": 481,
-        "end": 494,
-        "author": "Lammert, Friedrich"
+        "author": "E. Lammert†. F. Lammert."
       }
     ]
   },
@@ -6690,7 +6684,7 @@
   {
     "lemma": "Σχοινοβάτης",
     "previous": "Schoinitas",
-    "next": "Schoinophylinda",
+    "next": "Σχοινοφυλίνδα",
     "sort_key": "Schoinobates",
     "redirect": "Νευροβάτης",
     "proof_read": 2,
@@ -6702,19 +6696,23 @@
     ]
   },
   {
-    "lemma": "Schoinophylinda",
+    "lemma": "Σχοινοφυλίνδα",
     "previous": "Σχοινοβάτης",
     "next": "Σχοῖνος",
+    "sort_key": "Schoinophylinda",
+    "proof_read": 0,
+    "short_description": "Schoinophylinda, ein Spiel im Kreis herum",
     "chapters": [
       {
         "start": 618,
-        "author": "Hug"
+        "end": 618,
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Σχοῖνος",
-    "previous": "Schoinophylinda",
+    "previous": "Σχοινοφυλίνδα",
     "next": "Σχοινοῦς",
     "sort_key": "Schoinos",
     "redirect": "Schoineus 1",
@@ -6795,7 +6793,7 @@
   {
     "lemma": "Scholae palatinae",
     "previous": "Schola 4",
-    "next": "Scholastikos",
+    "next": "Σχολαστικός",
     "short_description": "Vornehmer Truppenkörper",
     "chapters": [
       {
@@ -6806,33 +6804,38 @@
     ]
   },
   {
-    "lemma": "Scholastikos",
+    "lemma": "Σχολαστικός",
     "previous": "Scholae palatinae",
-    "next": "Scholastikos 2",
-    "short_description": "Gerichtl. Parteianwalt in byzantin. Zt.",
+    "next": "Σχολαστικός 2",
+    "sort_key": "Scholastikos",
+    "proof_read": 0,
+    "short_description": "Scholastikos, Parteianwalt in byzantinischer Zeit",
     "chapters": [
       {
         "start": 624,
         "end": 625,
-        "author": "Preisigke"
+        "author": "Preisigke."
       }
     ]
   },
   {
-    "lemma": "Scholastikos 2",
-    "previous": "Scholastikos",
-    "next": "Scholastikos 3",
-    "short_description": "Eunuche mit großem Einfluß bei Kaiser Theodosius II.",
+    "lemma": "Σχολαστικός 2",
+    "previous": "Σχολαστικός",
+    "next": "Σχολαστικός 3",
+    "sort_key": "Scholastikos 2",
+    "proof_read": 0,
+    "short_description": "Scholastikos, Eunuche bei Kaiser Theodosius II.",
     "chapters": [
       {
         "start": 625,
-        "author": "Seeck"
+        "end": 625,
+        "author": "Seeck."
       }
     ]
   },
   {
-    "lemma": "Scholastikos 3",
-    "previous": "Scholastikos 2",
+    "lemma": "Σχολαστικός 3",
+    "previous": "Σχολαστικός 2",
     "next": "Scholien",
     "short_description": "Person auf einem bronzenen Sklavenhalsband",
     "chapters": [
@@ -6844,7 +6847,7 @@
   },
   {
     "lemma": "Scholien",
-    "previous": "Scholastikos 3",
+    "previous": "Σχολαστικός 3",
     "next": "Scholle",
     "short_description": "griechische Autoren",
     "chapters": [
@@ -6870,19 +6873,15 @@
   },
   {
     "lemma": "Schrift",
-    "previous": "Scholle",
+    "previous": "Schollen",
     "next": "Schuh",
-    "short_description": "I, Buchstabenschrift, Hieroglyphenschrift",
+    "proof_read": 0,
+    "short_description": "Begriff",
     "chapters": [
       {
         "start": 711,
-        "end": 737,
-        "author": "Weinberger"
-      },
-      {
-        "start": 737,
         "end": 741,
-        "author": "Gaerte"
+        "author": "Gaerte."
       }
     ]
   },
@@ -8425,11 +8424,13 @@
     "lemma": "Scribonius 30",
     "previous": "Scribonius 29",
     "next": "Scribonius 31",
+    "proof_read": 0,
     "short_description": "Thraso",
     "chapters": [
       {
         "start": 891,
-        "author": "Münzer"
+        "end": 891,
+        "author": "Münzer."
       }
     ]
   },
@@ -8437,11 +8438,13 @@
     "lemma": "Scribonius 31",
     "previous": "Scribonius 30",
     "next": "Scribonius 32",
+    "proof_read": 0,
     "short_description": "Scribonia Tochter von Nr. 20, Gattin des Sex. Pompeius",
     "chapters": [
       {
         "start": 891,
-        "author": "Münzer"
+        "end": 891,
+        "author": "Münzer."
       }
     ]
   },
@@ -8449,12 +8452,13 @@
     "lemma": "Scribonius 32",
     "previous": "Scribonius 31",
     "next": "Scribonius 33",
+    "proof_read": 0,
     "short_description": "Scribonia Schwester von Nr. 20, in dritter Ehe Gattin des S. Octavian, der sie",
     "chapters": [
       {
         "start": 891,
         "end": 892,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -8462,11 +8466,13 @@
     "lemma": "Scribonius 33",
     "previous": "Scribonius 32",
     "next": "Scribunda",
+    "proof_read": 0,
     "short_description": "Scribonia Eines der drei Kinder der Pompeia, der Tochter des Sext. Pompeius",
     "chapters": [
       {
         "start": 892,
-        "author": "Fluss"
+        "end": 892,
+        "author": "Fluss."
       }
     ]
   },
@@ -8474,11 +8480,13 @@
     "lemma": "Scribunda",
     "previous": "Scribonius 33",
     "next": "Scridifinni",
+    "proof_read": 0,
     "short_description": "Röm. Sondergottheit",
     "chapters": [
       {
         "start": 892,
-        "author": "Zwicker"
+        "end": 892,
+        "author": "Zwicker."
       }
     ]
   },
@@ -8486,11 +8494,13 @@
     "lemma": "Scridifinni",
     "previous": "Scribunda",
     "next": "Scriniarius",
+    "proof_read": 0,
     "short_description": "Volk in Scadinavia, wohl die Lappen",
     "chapters": [
       {
         "start": 893,
-        "author": "Schönfeld"
+        "end": 893,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -8577,12 +8587,13 @@
     "lemma": "Scriptura",
     "previous": "Scriptulum 2",
     "next": "Scripulum",
+    "proof_read": 0,
     "short_description": "Gebühr, Abgabe",
     "chapters": [
       {
         "start": 904,
         "end": 905,
-        "author": "Kübler, B[ernhard]"
+        "author": "Kübler."
       }
     ]
   },
@@ -8590,12 +8601,13 @@
     "lemma": "Scripulum",
     "previous": "Scriptura",
     "next": "Scrithifinni",
+    "proof_read": 0,
     "short_description": "Röm. Gewichtseinheit",
     "chapters": [
       {
         "start": 905,
         "end": 907,
-        "author": "Regling"
+        "author": "Regling."
       }
     ]
   },
@@ -8768,10 +8780,12 @@
     "lemma": "Scultenna",
     "previous": "Sculponea",
     "next": "Scunis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 909,
-        "author": "Philipp"
+        "end": 909,
+        "author": "Philipp."
       }
     ]
   },
@@ -8792,11 +8806,12 @@
     "lemma": "Scuntra",
     "previous": "Scunis",
     "next": "Scupenses",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 909,
         "end": 910,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -8817,11 +8832,13 @@
     "lemma": "Scupi",
     "previous": "Scupenses",
     "next": "Scupiliacus",
+    "proof_read": 0,
     "short_description": "Siedlung illyr. Ursprungs im paionischen Gebiet",
     "chapters": [
       {
         "start": 910,
-        "author": "Fluss"
+        "end": 910,
+        "author": "Fluss."
       }
     ]
   },
@@ -8868,11 +8885,13 @@
     "lemma": "Scurgum",
     "previous": "Scupus",
     "next": "Scuriacus, Scauriacus, Scureiacus",
+    "proof_read": 0,
     "short_description": "Stadt in Germania Magna",
     "chapters": [
       {
         "start": 911,
-        "author": "Schönfeld"
+        "end": 911,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -8984,12 +9003,13 @@
     "lemma": "Scutula",
     "previous": "Scuttara",
     "next": "Scutum",
+    "proof_read": 0,
     "short_description": "Kleine, flache Schüssel, Präsentierteller Rundholz, Walze",
     "chapters": [
       {
         "start": 913,
         "end": 914,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
@@ -8997,12 +9017,13 @@
     "lemma": "Scutum",
     "previous": "Scutula",
     "next": "Scylacius",
+    "proof_read": 0,
     "short_description": "Hauptsächl. Schutzwaffe aller schwerbewaffneten röm. Fußsoldaten",
     "chapters": [
       {
         "start": 914,
         "end": 920,
-        "author": "Fiebiger"
+        "author": "Fiebiger."
       }
     ]
   },
@@ -9023,10 +9044,12 @@
     "lemma": "Scyle",
     "previous": "Scylacius",
     "next": "Scylla",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 920,
-        "author": "Philipp"
+        "end": 920,
+        "author": "Philipp."
       }
     ]
   },
@@ -9086,11 +9109,13 @@
     "lemma": "Scyllaeum 1",
     "previous": "Scyllae",
     "next": "Scylletium",
+    "proof_read": 0,
     "short_description": "Ort in Bruttium",
     "chapters": [
       {
         "start": 920,
-        "author": "Philipp"
+        "end": 920,
+        "author": "Philipp."
       }
     ]
   },
@@ -9098,12 +9123,13 @@
     "lemma": "Scylletium",
     "previous": "Scyllaeum 1",
     "next": "Scyritae",
+    "proof_read": 0,
     "short_description": "Ort in Bruttium",
     "chapters": [
       {
         "start": 920,
         "end": 923,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
@@ -9111,10 +9137,12 @@
     "lemma": "Scyritae",
     "previous": "Scylletium",
     "next": "Scytala",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 923,
-        "author": "Kretschmer"
+        "end": 923,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -9122,11 +9150,13 @@
     "lemma": "Scytala",
     "previous": "Scyritae",
     "next": "Scythae",
+    "proof_read": 0,
     "short_description": "Insel im Roten Meer",
     "chapters": [
       {
         "start": 923,
-        "author": "Kees"
+        "end": 923,
+        "author": "Kees."
       }
     ]
   },
@@ -9134,12 +9164,13 @@
     "lemma": "Scythae",
     "previous": "Scytala",
     "next": "Scythia",
+    "proof_read": 0,
     "short_description": "Völkerstämme in S-Rußland",
     "chapters": [
       {
         "start": 923,
         "end": 942,
-        "author": "Kretschmer"
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -9147,12 +9178,13 @@
     "lemma": "Scythia",
     "previous": "Scythae",
     "next": "Scythia minor",
+    "proof_read": 0,
     "short_description": "Land der Skythen",
     "chapters": [
       {
         "start": 942,
         "end": 946,
-        "author": "Kretschmer"
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -9160,11 +9192,14 @@
     "lemma": "Scythia minor",
     "previous": "Scythia",
     "next": "Scythini",
+    "sort_key": "Scythiaminor",
+    "proof_read": 0,
     "short_description": "Kleinskythien, vom Isthmus bis zum Borysthenes",
     "chapters": [
       {
         "start": 946,
-        "author": "Kretschmer"
+        "end": 946,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -9172,12 +9207,13 @@
     "lemma": "Scythini",
     "previous": "Scythia minor",
     "next": "Scythophorius",
+    "proof_read": 0,
     "short_description": "Volksstamm an der nordwestlichen Grenze Armeniens",
     "chapters": [
       {
         "start": 946,
         "end": 947,
-        "author": "Kretschmer"
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -9227,10 +9263,12 @@
     "lemma": "Sdaleites",
     "previous": "Scythotauri",
     "next": "Se.",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 949,
-        "author": "Zwicker"
+        "end": 949,
+        "author": "Zwicker."
       }
     ]
   },
@@ -9238,11 +9276,13 @@
     "lemma": "Se.",
     "previous": "Sdaleites",
     "next": "Sea",
+    "proof_read": 0,
     "short_description": "Fabrikmarke",
     "chapters": [
       {
         "start": 949,
-        "author": "Keune"
+        "end": 949,
+        "author": "Keune."
       }
     ]
   },
@@ -9276,12 +9316,14 @@
     "lemma": "Sebaciaria, Sebaciarius",
     "previous": "Searo",
     "next": "Σεβάγηνα",
+    "sort_key": "Sebaciaria,sebaciarius",
+    "proof_read": 0,
     "short_description": "t.t. der Dienstsprache d. röm. Stadtfeuerwehr",
     "chapters": [
       {
         "start": 949,
         "end": 950,
-        "author": "Fiebiger"
+        "author": "Fiebiger."
       }
     ]
   },
@@ -9303,10 +9345,12 @@
     "lemma": "Sebagini",
     "previous": "Σεβάγηνα",
     "next": "Sebana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 951,
-        "author": "Keune"
+        "end": 951,
+        "author": "Keune."
       }
     ]
   },
@@ -9314,11 +9358,13 @@
     "lemma": "Sebana",
     "previous": "Sebagini",
     "next": "Sebarium",
+    "proof_read": 0,
     "short_description": "S. Sabiona Nachtrag",
     "chapters": [
       {
         "start": 951,
-        "author": "Keune"
+        "end": 951,
+        "author": "Keune."
       }
     ]
   },
@@ -9341,12 +9387,13 @@
     "lemma": "Sebaste 1",
     "previous": "Sebarium",
     "next": "Sebaste 2",
-    "short_description": "Stadt im kleinasiat. Lydien",
+    "proof_read": 0,
+    "short_description": "Stadt im kleinasiatischen Lydien",
     "chapters": [
       {
         "start": 951,
         "end": 952,
-        "author": "Ruge"
+        "author": "Bürchner-Ruge."
       }
     ]
   },
@@ -9354,11 +9401,13 @@
     "lemma": "Sebaste 2",
     "previous": "Sebaste 1",
     "next": "Sebaste 3",
+    "proof_read": 0,
     "short_description": "Stadt in Paphlagonien",
     "chapters": [
       {
         "start": 952,
-        "author": "Ruge"
+        "end": 952,
+        "author": "Ruge."
       }
     ]
   },
@@ -9435,11 +9484,14 @@
     "lemma": "Σεβάστεια",
     "previous": "Sebaste 7",
     "next": "Sebast(e)ia",
+    "sort_key": "Sebasteia",
+    "proof_read": 0,
     "short_description": "Stadt im Pontos Polemoniakos",
     "chapters": [
       {
         "start": 952,
-        "author": "Fluss"
+        "end": 952,
+        "author": "Fluss."
       }
     ]
   },
@@ -9447,12 +9499,13 @@
     "lemma": "Sebast(e)ia",
     "previous": "Σεβάστεια",
     "next": "Sebastenus",
+    "proof_read": 0,
     "short_description": "Stadt im Pontos Polemoniakos",
     "chapters": [
       {
         "start": 952,
         "end": 953,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -9680,12 +9733,13 @@
     "lemma": "Sebastos 2",
     "previous": "Sebastos 1",
     "next": "Sebato",
+    "proof_read": 0,
     "short_description": "Gr. Kalendermonat röm. Zt.",
     "chapters": [
       {
         "start": 956,
         "end": 957,
-        "author": "Bischoff, [Ernst]"
+        "author": "Bischoff."
       }
     ]
   },
@@ -9693,10 +9747,12 @@
     "lemma": "Sebato",
     "previous": "Sebastos 2",
     "next": "Sebaudes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 957,
-        "author": "Schönfeld"
+        "end": 957,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -9704,11 +9760,13 @@
     "lemma": "Sebaudes",
     "previous": "Sebato",
     "next": "Sebeda",
+    "proof_read": 0,
     "short_description": "s. Sapaudus",
     "chapters": [
       {
         "start": 957,
-        "author": "Keune"
+        "end": 957,
+        "author": "Keune."
       }
     ]
   },
@@ -9716,10 +9774,12 @@
     "lemma": "Sebeda",
     "previous": "Sebaudes",
     "next": "Sebelacum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 957,
-        "author": "Ruge"
+        "end": 957,
+        "author": "Ruge."
       }
     ]
   },
@@ -9727,10 +9787,12 @@
     "lemma": "Sebelacum",
     "previous": "Sebeda",
     "next": "Sebendunum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 957,
-        "author": "Schulten"
+        "end": 957,
+        "author": "Schulten."
       }
     ]
   },
@@ -9738,12 +9800,13 @@
     "lemma": "Sebendunum",
     "previous": "Sebelacum",
     "next": "Sebennytos 1",
+    "proof_read": 0,
     "short_description": "s. Castellani",
     "chapters": [
       {
         "start": 957,
         "end": 958,
-        "author": "Schulten"
+        "author": "Schulten."
       }
     ]
   },
@@ -9751,56 +9814,63 @@
     "lemma": "Sebennytos 1",
     "previous": "Sebendunum",
     "next": "Sebennytos 2",
+    "proof_read": 0,
     "short_description": "Stadt an einem Nilarm/Ägypten",
     "chapters": [
       {
         "start": 958,
         "end": 960,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Sebennytos 2",
     "previous": "Sebennytos 1",
-    "next": "Sebercheres",
+    "next": "Σεβερχέρης",
+    "proof_read": 0,
     "short_description": "Dorf im Fajûm",
     "chapters": [
       {
         "start": 960,
-        "author": "Kees"
+        "end": 960,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Sebercheres",
+    "lemma": "Σεβερχέρης",
     "previous": "Sebennytos 2",
-    "next": "Sebereia",
+    "next": "Σεβήρεια",
+    "sort_key": "Sebercheres",
+    "proof_read": 0,
     "short_description": "Vorletzter König d. 4. (memphit.) Dynastie in Ägypten",
     "chapters": [
       {
         "start": 960,
         "end": 961,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Sebereia",
-    "previous": "Sebercheres",
+    "lemma": "Σεβήρεια",
+    "previous": "Σεβερχέρης",
     "next": "Seberritae",
+    "sort_key": "Sebereia",
+    "proof_read": 0,
     "short_description": "Fest zu Ehren d. Kaisers Septimius Severus",
     "chapters": [
       {
         "start": 961,
         "end": 964,
-        "author": "Hartmann, A[lbert]"
+        "author": "A. Hartmann."
       }
     ]
   },
   {
     "lemma": "Seberritae",
-    "previous": "Sebereia",
+    "previous": "Σεβήρεια",
     "next": "Sebethis",
     "redirect": "Sebritai",
     "proof_read": 2,
@@ -9815,12 +9885,13 @@
     "lemma": "Sebethis",
     "previous": "Seberritae",
     "next": "Sebethus",
+    "proof_read": 0,
     "short_description": "Nymphe d. Flußes Sebethus bei Neapel",
     "chapters": [
       {
         "start": 964,
         "end": 965,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
@@ -9828,11 +9899,13 @@
     "lemma": "Sebethus",
     "previous": "Sebethis",
     "next": "Sebichos",
+    "proof_read": 0,
     "short_description": "s. Sebethis",
     "chapters": [
       {
         "start": 965,
-        "author": "Philipp"
+        "end": 965,
+        "author": "Philipp."
       }
     ]
   },
@@ -9840,12 +9913,13 @@
     "lemma": "Sebichos",
     "previous": "Sebethus",
     "next": "Sebinnus lacus",
+    "proof_read": 0,
     "short_description": "2. König d. 25. (äthiop.) Dynastie in Ägypten",
     "chapters": [
       {
         "start": 965,
         "end": 966,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
@@ -9853,10 +9927,13 @@
     "lemma": "Sebinnus lacus",
     "previous": "Sebichos",
     "next": "Sebosus",
+    "sort_key": "Sebinnuslacus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 966,
-        "author": "Philipp"
+        "end": 966,
+        "author": "Philipp."
       }
     ]
   },
@@ -9864,11 +9941,13 @@
     "lemma": "Sebosus",
     "previous": "Sebinnus lacus",
     "next": "Sebosus 1",
-    "short_description": "Allg.",
+    "proof_read": 0,
+    "short_description": "ein Personenname, allgemeines",
     "chapters": [
       {
         "start": 966,
-        "author": "Keune"
+        "end": 966,
+        "author": "Keune-Münzer."
       }
     ]
   },
@@ -9876,11 +9955,13 @@
     "lemma": "Sebosus 1",
     "previous": "Sebosus",
     "next": "Sebosus 2",
-    "short_description": "Person bei Cic. Att.2,14,2",
+    "proof_read": 0,
+    "short_description": "Person bei Cicero Att. 59 v. Chr.",
     "chapters": [
       {
         "start": 966,
-        "author": "Keune"
+        "end": 966,
+        "author": "Keune-Münzer."
       }
     ]
   },
@@ -9888,11 +9969,13 @@
     "lemma": "Sebosus 2",
     "previous": "Sebosus 1",
     "next": "Sebosus 3",
+    "proof_read": 0,
     "short_description": "Person in einer Anrede des Ineditum Vaticanum",
     "chapters": [
       {
         "start": 966,
-        "author": "Keune"
+        "end": 966,
+        "author": "Keune-Münzer."
       }
     ]
   },
@@ -9913,42 +9996,49 @@
     "lemma": "Sebosus 4",
     "previous": "Sebosus 3",
     "next": "Sebosus 5",
+    "proof_read": 0,
     "short_description": "L. Statius, In einer Weihinschr. v. Thignica/Africa proconsularis",
     "chapters": [
       {
         "start": 968,
-        "author": "Keune"
+        "end": 968,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sebosus 5",
     "previous": "Sebosus 4",
-    "next": "Sebriapa",
+    "next": "Σεβριάπα",
+    "proof_read": 0,
     "short_description": "Namensgeber der Ala Sebosiana",
     "chapters": [
       {
         "start": 968,
-        "author": "Keune"
+        "end": 968,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sebriapa",
+    "lemma": "Σεβριάπα",
     "previous": "Sebosus 5",
     "next": "Σεβρίδαι",
+    "sort_key": "Sebriapa",
+    "proof_read": 0,
     "short_description": "s. Ebriapa",
     "chapters": [
       {
         "start": 968,
-        "author": "Kretschmer"
+        "end": 968,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Σεβρίδαι",
-    "previous": "Sebriapa",
-    "next": "Sebritai",
+    "previous": "Σεβριάπα",
+    "next": "Σεβρῖται",
     "sort_key": "Sebridai",
     "redirect": "Sebritai",
     "proof_read": 2,
@@ -9960,37 +10050,44 @@
     ]
   },
   {
-    "lemma": "Sebritai",
+    "lemma": "Σεβρῖται",
     "previous": "Σεβρίδαι",
-    "next": "Sebros",
+    "next": "Σέβρος",
+    "sort_key": "Sebritai",
+    "proof_read": 0,
     "short_description": "Ägypt. Söldner Psammetichs",
     "chapters": [
       {
         "start": 968,
         "end": 969,
-        "author": "Fischer"
+        "author": "C. Th. Fischer."
       }
     ]
   },
   {
-    "lemma": "Sebros",
-    "previous": "Sebritai",
+    "lemma": "Σέβρος",
+    "previous": "Σεβρῖται",
     "next": "Sebuini",
+    "sort_key": "Sebros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 969,
-        "author": "Zwicker"
+        "end": 969,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sebuini",
-    "previous": "Sebros",
+    "previous": "Σέβρος",
     "next": "Sebuinum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 969,
-        "author": "Philipp"
+        "end": 969,
+        "author": "Philipp."
       }
     ]
   },
@@ -10028,10 +10125,13 @@
     "lemma": "Σεβοῦς",
     "previous": "Sebulon",
     "next": "Sebusiani",
+    "sort_key": "Sebus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 970,
-        "author": "Honigmann"
+        "end": 970,
+        "author": "Honigmann."
       }
     ]
   },
@@ -10039,11 +10139,13 @@
     "lemma": "Sebusiani",
     "previous": "Σεβοῦς",
     "next": "Secalaunia",
+    "proof_read": 0,
     "short_description": "s. Segusiavi",
     "chapters": [
       {
         "start": 970,
-        "author": "Keune"
+        "end": 970,
+        "author": "Keune."
       }
     ]
   },
@@ -10051,11 +10153,13 @@
     "lemma": "Secalaunia",
     "previous": "Sebusiani",
     "next": "Secande",
+    "proof_read": 0,
     "short_description": "Landschaft an d. mittleren Loire",
     "chapters": [
       {
         "start": 970,
-        "author": "Keune"
+        "end": 970,
+        "author": "Keune."
       }
     ]
   },
@@ -10063,10 +10167,12 @@
     "lemma": "Secande",
     "previous": "Secalaunia",
     "next": "Secanis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 970,
-        "author": "Fischer"
+        "end": 970,
+        "author": "C. Th. Fischer."
       }
     ]
   },
@@ -10087,10 +10193,12 @@
     "lemma": "Secanium",
     "previous": "Secanis",
     "next": "Secate",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 970,
-        "author": "Keune"
+        "end": 970,
+        "author": "Keune."
       }
     ]
   },
@@ -10098,12 +10206,13 @@
     "lemma": "Secate",
     "previous": "Secanium",
     "next": "Seccannehae",
+    "proof_read": 0,
     "short_description": "In d. Weihinschr. CIL XIII 4550",
     "chapters": [
       {
         "start": 970,
         "end": 972,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -10111,11 +10220,13 @@
     "lemma": "Seccannehae",
     "previous": "Secate",
     "next": "Secchia",
+    "proof_read": 0,
     "short_description": "Beiname d. kelt. Muttergöttinnen",
     "chapters": [
       {
         "start": 972,
-        "author": "Keune"
+        "end": 972,
+        "author": "Keune."
       }
     ]
   },
@@ -10149,11 +10260,13 @@
     "lemma": "Secco 2",
     "previous": "Secco 1",
     "next": "Secconium",
+    "proof_read": 0,
     "short_description": "Bronzeschmied",
     "chapters": [
       {
         "start": 973,
-        "author": "Keune"
+        "end": 973,
+        "author": "Keune."
       }
     ]
   },
@@ -10174,11 +10287,13 @@
     "lemma": "Secelus",
     "previous": "Secconium",
     "next": "Seceniae",
+    "proof_read": 0,
     "short_description": "Secellus",
     "chapters": [
       {
         "start": 973,
-        "author": "Keune"
+        "end": 973,
+        "author": "Keune."
       }
     ]
   },
@@ -10186,10 +10301,12 @@
     "lemma": "Seceniae",
     "previous": "Secelus",
     "next": "Secespita",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 973,
-        "author": "Keune"
+        "end": 973,
+        "author": "Keune."
       }
     ]
   },
@@ -10197,12 +10314,13 @@
     "lemma": "Secespita",
     "previous": "Seceniae",
     "next": "Secessio",
+    "proof_read": 0,
     "short_description": "Längliches Messer aus Eisen",
     "chapters": [
       {
         "start": 973,
         "end": 974,
-        "author": "Latte"
+        "author": "Latte."
       }
     ]
   },
@@ -10210,12 +10328,13 @@
     "lemma": "Secessio",
     "previous": "Secespita",
     "next": "Sechnuphis",
+    "proof_read": 0,
     "short_description": "Abtrennung, Absonderung t.t. für d. Auszug d. Plebs aus Rom während d.",
     "chapters": [
       {
         "start": 974,
         "end": 976,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -10223,10 +10342,12 @@
     "lemma": "Sechnuphis",
     "previous": "Secessio",
     "next": "Sechoniense",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 976,
-        "author": "Kees"
+        "end": 976,
+        "author": "Kees."
       }
     ]
   },
@@ -10234,11 +10355,13 @@
     "lemma": "Sechoniense",
     "previous": "Sechnuphis",
     "next": "Secia 1",
+    "proof_read": 0,
     "short_description": "Monasterium, das Kloster d. hl. Hilarius zu Säckingen",
     "chapters": [
       {
         "start": 976,
-        "author": "Keune"
+        "end": 976,
+        "author": "Keune."
       }
     ]
   },
@@ -10246,12 +10369,13 @@
     "lemma": "Secia 1",
     "previous": "Sechoniense",
     "next": "Secia 2",
+    "proof_read": 0,
     "short_description": "Landwirtschaftl. 'Sondergottheit'",
     "chapters": [
       {
         "start": 976,
         "end": 977,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
@@ -10259,11 +10383,13 @@
     "lemma": "Secia 2",
     "previous": "Secia 1",
     "next": "Secia 3",
+    "proof_read": 0,
     "short_description": "Rechter Nebenfluß d. Padus (Po)",
     "chapters": [
       {
         "start": 977,
-        "author": "Keune"
+        "end": 977,
+        "author": "Keune."
       }
     ]
   },
@@ -10271,11 +10397,13 @@
     "lemma": "Secia 3",
     "previous": "Secia 2",
     "next": "Secies",
+    "proof_read": 0,
     "short_description": "Var. lectio für Setia",
     "chapters": [
       {
         "start": 977,
-        "author": "Keune"
+        "end": 977,
+        "author": "Keune."
       }
     ]
   },
@@ -10312,12 +10440,13 @@
     "lemma": "Seckmauern",
     "previous": "Seckingen",
     "next": "Seco",
+    "proof_read": 0,
     "short_description": "Kastell am obergerman. Limes",
     "chapters": [
       {
         "start": 977,
         "end": 978,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -10351,11 +10480,13 @@
     "lemma": "Second-",
     "previous": "Secona",
     "next": "Secor",
+    "proof_read": 0,
     "short_description": "s. Secundus Nr. 19eg",
     "chapters": [
       {
         "start": 978,
-        "author": "Keune"
+        "end": 978,
+        "author": "Keune."
       }
     ]
   },
@@ -10363,12 +10494,13 @@
     "lemma": "Secor",
     "previous": "Second-",
     "next": "Secorigienses",
+    "proof_read": 0,
     "short_description": "Vorgebirge u. Mündung d. Loire",
     "chapters": [
       {
         "start": 978,
         "end": 979,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -10389,11 +10521,13 @@
     "lemma": "Secretariacus",
     "previous": "Secorigienses",
     "next": "Secretarium",
+    "proof_read": 0,
     "short_description": "fundus",
     "chapters": [
       {
         "start": 979,
-        "author": "Keune"
+        "end": 979,
+        "author": "Keune."
       }
     ]
   },
@@ -10401,12 +10535,13 @@
     "lemma": "Secretarium",
     "previous": "Secretariacus",
     "next": "Sectator",
+    "proof_read": 0,
     "short_description": "Raum bei gerichtl. Verhandlungen unter Ausschluß d. Öffentlichkeit",
     "chapters": [
       {
         "start": 979,
         "end": 981,
-        "author": "Seeck"
+        "author": "Seeck."
       }
     ]
   },
@@ -10414,12 +10549,13 @@
     "lemma": "Sectator",
     "previous": "Secretarium",
     "next": "Sectio",
+    "proof_read": 0,
     "short_description": "Begleiter, Anhänger",
     "chapters": [
       {
         "start": 981,
         "end": 982,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -10427,11 +10563,13 @@
     "lemma": "Sectio",
     "previous": "Sectator",
     "next": "Secu....",
+    "proof_read": 0,
     "short_description": "Verkauf d. Gesamtvermögens eines Staatsschuldners",
     "chapters": [
       {
         "start": 982,
-        "author": "Klingmüller"
+        "end": 982,
+        "author": "Klingmüller."
       }
     ]
   },
@@ -10439,11 +10577,13 @@
     "lemma": "Secu....",
     "previous": "Sectio",
     "next": "Secuana",
+    "proof_read": 0,
     "short_description": "Q.",
     "chapters": [
       {
         "start": 983,
-        "author": "Keune"
+        "end": 983,
+        "author": "Keune."
       }
     ]
   },
@@ -10463,7 +10603,7 @@
   {
     "lemma": "Secula",
     "previous": "Secuana",
-    "next": "Secun..., ...inius",
+    "next": "Secun....",
     "redirect": "Secia 2",
     "proof_read": 2,
     "chapters": [
@@ -10474,26 +10614,30 @@
     ]
   },
   {
-    "lemma": "Secun..., ...inius",
+    "lemma": "Secun....",
     "previous": "Secula",
     "next": "Secund(....)",
+    "sort_key": "Secun...,...inius",
+    "proof_read": 0,
     "short_description": "In einem in Syrien gefundenen Inschr.fr.",
     "chapters": [
       {
         "start": 983,
         "end": 984,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Secund(....)",
-    "previous": "Secun..., ...inius",
+    "previous": "Secun....",
     "next": "Secunda",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 984,
-        "author": "Keune"
+        "end": 984,
+        "author": "Keune."
       }
     ]
   },
@@ -10501,10 +10645,12 @@
     "lemma": "Secunda",
     "previous": "Secund(....)",
     "next": "Secundanus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 984,
-        "author": "Stein, [Arthur]"
+        "end": 984,
+        "author": "Stein."
       }
     ]
   },
@@ -10512,12 +10658,13 @@
     "lemma": "Secundanus 1",
     "previous": "Secunda",
     "next": "Secundanus 2",
+    "proof_read": 0,
     "short_description": "Epitheton des Iuppiter bei Martianus Capella",
     "chapters": [
       {
         "start": 984,
         "end": 985,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
