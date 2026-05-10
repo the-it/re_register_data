@@ -1622,7 +1622,7 @@
     "previous": "Satarchae",
     "next": "Sate",
     "proof_read": 0,
-    "short_description": "Achämenide, Sohn d. Theaspis",
+    "short_description": "Achämenide, Sohn des Theaspis",
     "chapters": [
       {
         "start": 60,
@@ -5976,8 +5976,22 @@
     ]
   },
   {
-    "lemma": "Schedios 1",
+    "lemma": "Schedios",
     "previous": "Schedia 3",
+    "next": "Schedios 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 403,
+        "end": 403,
+        "author": "Zwicker."
+      }
+    ]
+  },
+  {
+    "lemma": "Schedios 1",
+    "previous": "Schedios",
     "next": "Schedios 2",
     "short_description": "Anführer d. Phoker",
     "chapters": [
@@ -6293,12 +6307,14 @@
     "lemma": "Σχιστὴ ὁδός",
     "previous": "Schisma",
     "next": "Schlachtordnung I",
+    "sort_key": "Schistehodos",
+    "proof_read": 0,
     "short_description": "Stelle in Phokis, wo Oidipus seinen Vater erschlagen haben soll",
     "chapters": [
       {
         "start": 435,
         "end": 436,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -6586,7 +6602,7 @@
   {
     "lemma": "Schoineus geogr 5",
     "previous": "Schoineus geogr 4",
-    "next": "Schoineus geogr 7",
+    "next": "Schoineus geogr 6",
     "short_description": "ho Schoinous, Örtlichkeit in d. S-Korinthia",
     "chapters": [
       {
@@ -6596,8 +6612,22 @@
     ]
   },
   {
-    "lemma": "Schoineus geogr 7",
+    "lemma": "Schoineus geogr 6",
     "previous": "Schoineus geogr 5",
+    "next": "Schoineus geogr 7",
+    "sort_key": "Schoineusgeogr 6",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 617,
+        "end": 617,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Schoineus geogr 7",
+    "previous": "Schoineus geogr 6",
     "next": "Schoineus geogr 8",
     "short_description": "ho Schoinous, Örtlichkeit in Mittelarkadien",
     "chapters": [
@@ -6794,12 +6824,14 @@
     "lemma": "Scholae palatinae",
     "previous": "Schola 4",
     "next": "Σχολαστικός",
+    "sort_key": "Scholaepalatinae",
+    "proof_read": 0,
     "short_description": "Vornehmer Truppenkörper",
     "chapters": [
       {
         "start": 621,
         "end": 624,
-        "author": "Seeck"
+        "author": "Seeck."
       }
     ]
   },
@@ -6837,37 +6869,42 @@
     "lemma": "Σχολαστικός 3",
     "previous": "Σχολαστικός 2",
     "next": "Scholien",
-    "short_description": "Person auf einem bronzenen Sklavenhalsband",
+    "sort_key": "Scholastikos",
+    "proof_read": 0,
+    "short_description": "Scholastikos, Person auf Sklavenhalsband",
     "chapters": [
       {
         "start": 625,
-        "author": "Seeck"
+        "end": 625,
+        "author": "Seeck."
       }
     ]
   },
   {
     "lemma": "Scholien",
     "previous": "Σχολαστικός 3",
-    "next": "Scholle",
+    "next": "Schollen",
+    "proof_read": 0,
     "short_description": "griechische Autoren",
     "chapters": [
       {
         "start": 625,
         "end": 705,
-        "author": "Gudeman"
+        "author": "Gudeman."
       }
     ]
   },
   {
-    "lemma": "Scholle",
+    "lemma": "Schollen",
     "previous": "Scholien",
     "next": "Schrift",
+    "proof_read": 0,
     "short_description": "Plattfisch",
     "chapters": [
       {
         "start": 705,
         "end": 710,
-        "author": "Gossen"
+        "author": "Gossen-Steier."
       }
     ]
   },
@@ -7346,10 +7383,12 @@
     "lemma": "Scirtus",
     "previous": "Scirtius",
     "next": "Scissor",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 826,
-        "author": "Münzer"
+        "end": 826,
+        "author": "Münzer."
       }
     ]
   },
@@ -7357,11 +7396,13 @@
     "lemma": "Scissor",
     "previous": "Scirtus",
     "next": "Scittium",
+    "proof_read": 0,
     "short_description": "Vorschneider, Zerleger bei Tisch",
     "chapters": [
       {
         "start": 826,
-        "author": "Hug"
+        "end": 826,
+        "author": "Hug."
       }
     ]
   },
@@ -7369,12 +7410,13 @@
     "lemma": "Scittium",
     "previous": "Scissor",
     "next": "Scladrona",
+    "proof_read": 0,
     "short_description": "Station an d. Straße Burdigala - Tolosa",
     "chapters": [
       {
         "start": 826,
         "end": 827,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -7382,10 +7424,12 @@
     "lemma": "Scladrona",
     "previous": "Scittium",
     "next": "Sco(...)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 827,
-        "author": "Keune"
+        "end": 827,
+        "author": "Keune."
       }
     ]
   },
@@ -7393,11 +7437,13 @@
     "lemma": "Sco(...)",
     "previous": "Scladrona",
     "next": "Scoam",
+    "proof_read": 0,
     "short_description": "Abkürzung eines südgall. Sigillatatöpfers",
     "chapters": [
       {
         "start": 827,
-        "author": "Keune"
+        "end": 827,
+        "author": "Keune."
       }
     ]
   },
@@ -7405,10 +7451,12 @@
     "lemma": "Scoam",
     "previous": "Sco(...)",
     "next": "Scobis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 827,
-        "author": "Keune"
+        "end": 827,
+        "author": "Keune."
       }
     ]
   },
@@ -7416,11 +7464,12 @@
     "lemma": "Scobis",
     "previous": "Scoam",
     "next": "Scobre",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 827,
         "end": 828,
-        "author": "Hug"
+        "author": "Hug."
       }
     ]
   },
@@ -7441,11 +7490,13 @@
     "lemma": "Scociacus",
     "previous": "Scobre",
     "next": "Scodra",
+    "proof_read": 0,
     "short_description": "Scuciagus, Escutiacus",
     "chapters": [
       {
         "start": 828,
-        "author": "Keune"
+        "end": 828,
+        "author": "Keune."
       }
     ]
   },
@@ -7453,12 +7504,13 @@
     "lemma": "Scodra",
     "previous": "Scociacus",
     "next": "Scodrenses",
+    "proof_read": 0,
     "short_description": "Stadt Illyriens",
     "chapters": [
       {
         "start": 828,
         "end": 829,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -7505,12 +7557,13 @@
     "lemma": "Scoedius",
     "previous": "Scodrus mons",
     "next": "Scolacium",
+    "proof_read": 0,
     "short_description": "Natta Pinarianus, C.",
     "chapters": [
       {
         "start": 829,
         "end": 830,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -7544,10 +7597,12 @@
     "lemma": "Scolidoas",
     "previous": "Scolacius",
     "next": "Scolla",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 830,
-        "author": "Seeck"
+        "end": 830,
+        "author": "Seeck."
       }
     ]
   },
@@ -7555,10 +7610,12 @@
     "lemma": "Scolla",
     "previous": "Scolidoas",
     "next": "Scombraria 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 830,
-        "author": "Ruge"
+        "end": 830,
+        "author": "Ruge."
       }
     ]
   },
@@ -7566,11 +7623,13 @@
     "lemma": "Scombraria 1",
     "previous": "Scolla",
     "next": "Scombraria 2",
+    "proof_read": 0,
     "short_description": "Insel vor d. Bucht v. Carthago Nova",
     "chapters": [
       {
         "start": 830,
-        "author": "Schulten"
+        "end": 830,
+        "author": "Schulten."
       }
     ]
   },
@@ -7578,11 +7637,13 @@
     "lemma": "Scombraria 2",
     "previous": "Scombraria 1",
     "next": "Scopae",
+    "proof_read": 0,
     "short_description": "Vorgebirge östl. v. Carthago Nova",
     "chapters": [
       {
         "start": 830,
-        "author": "Schulten"
+        "end": 830,
+        "author": "Schulten."
       }
     ]
   },
@@ -7590,11 +7651,13 @@
     "lemma": "Scopae",
     "previous": "Scombraria 2",
     "next": "Scope",
+    "proof_read": 0,
     "short_description": "Besen",
     "chapters": [
       {
         "start": 830,
-        "author": "Hug"
+        "end": 830,
+        "author": "Hug."
       }
     ]
   },
@@ -7602,10 +7665,12 @@
     "lemma": "Scope",
     "previous": "Scopae",
     "next": "Scopelinus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 830,
-        "author": "Ruge"
+        "end": 830,
+        "author": "Ruge."
       }
     ]
   },
@@ -7613,11 +7678,12 @@
     "lemma": "Scopelinus",
     "previous": "Scope",
     "next": "Scopiliacus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 830,
         "end": 831,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -7625,11 +7691,13 @@
     "lemma": "Scopiliacus",
     "previous": "Scopelinus",
     "next": "Scopius 1",
+    "proof_read": 0,
     "short_description": "mons",
     "chapters": [
       {
         "start": 831,
-        "author": "Keune"
+        "end": 831,
+        "author": "Keune."
       }
     ]
   },
@@ -7637,11 +7705,13 @@
     "lemma": "Scopius 1",
     "previous": "Scopiliacus",
     "next": "Scopius 2",
+    "proof_read": 0,
     "short_description": "Naeratius, mit d. Kaiserhaus verschwägert, Mitte 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 831,
-        "author": "Seeck"
+        "end": 831,
+        "author": "Seeck."
       }
     ]
   },
@@ -7662,10 +7732,13 @@
     "lemma": "Scopli m.",
     "previous": "Scopius 2",
     "next": "Scoptitia",
+    "sort_key": "Scoplim.",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 831,
-        "author": "Keune"
+        "end": 831,
+        "author": "Keune."
       }
     ]
   },
@@ -7673,10 +7746,12 @@
     "lemma": "Scoptitia",
     "previous": "Scopli m.",
     "next": "Scordisci",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 831,
-        "author": "Fluss"
+        "end": 831,
+        "author": "Fluss."
       }
     ]
   },
@@ -7684,12 +7759,13 @@
     "lemma": "Scordisci",
     "previous": "Scoptitia",
     "next": "Scordus",
+    "proof_read": 0,
     "short_description": "Kelt.-Thrak. Mischvolk",
     "chapters": [
       {
         "start": 831,
         "end": 835,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -7710,12 +7786,13 @@
     "lemma": "Scorobres",
     "previous": "Scordus",
     "next": "Scorpio",
+    "proof_read": 0,
     "short_description": "Fabrikmarke auf Henkeln v. Amphoren",
     "chapters": [
       {
         "start": 835,
         "end": 836,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -7723,10 +7800,12 @@
     "lemma": "Scorpio",
     "previous": "Scorobres",
     "next": "Scortias",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 836,
-        "author": "Stein, [Arthur]"
+        "end": 836,
+        "author": "Stein."
       }
     ]
   },
@@ -7734,11 +7813,13 @@
     "lemma": "Scortias",
     "previous": "Scorpio",
     "next": "Scorylo",
+    "proof_read": 0,
     "short_description": "Acc. pl. von Ort im roman. Sprachgebiet",
     "chapters": [
       {
         "start": 836,
-        "author": "Keune"
+        "end": 836,
+        "author": "Keune."
       }
     ]
   },
@@ -7746,10 +7827,12 @@
     "lemma": "Scorylo",
     "previous": "Scortias",
     "next": "Scot.",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 836,
-        "author": "Stein, [Arthur]"
+        "end": 836,
+        "author": "Stein."
       }
     ]
   },
@@ -7757,11 +7840,13 @@
     "lemma": "Scot.",
     "previous": "Scorylo",
     "next": "Scoti, Scotia",
+    "proof_read": 0,
     "short_description": "s. den Artikel Scottius u. S. 846",
     "chapters": [
       {
         "start": 837,
-        "author": "Keune"
+        "end": 837,
+        "author": "Keune."
       }
     ]
   },
@@ -7782,11 +7867,14 @@
     "lemma": "Scotingorum pagus",
     "previous": "Scoti, Scotia",
     "next": "Scotinus",
+    "sort_key": "Scotingorumpagus",
+    "proof_read": 0,
     "short_description": "Gau im franz. Jura",
     "chapters": [
       {
         "start": 837,
-        "author": "Keune"
+        "end": 837,
+        "author": "Keune."
       }
     ]
   },
@@ -7846,10 +7934,12 @@
     "lemma": "Scotta",
     "previous": "Scotnus",
     "next": "Scotti",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 838,
-        "author": "Seeck"
+        "end": 838,
+        "author": "Seeck."
       }
     ]
   },
@@ -7857,12 +7947,13 @@
     "lemma": "Scotti",
     "previous": "Scotta",
     "next": "Scottici canes",
+    "proof_read": 0,
     "short_description": "Scoti, kelt. Völkerschaft auf d. Insel Irland u. in N-Britannien",
     "chapters": [
       {
         "start": 838,
         "end": 846,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -7896,10 +7987,12 @@
     "lemma": "Scotto",
     "previous": "Scottius",
     "next": "Scottus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 847,
-        "author": "Keune"
+        "end": 847,
+        "author": "Keune."
       }
     ]
   },
@@ -7907,12 +8000,13 @@
     "lemma": "Scottus 1",
     "previous": "Scotto",
     "next": "Scottus 2",
+    "proof_read": 0,
     "short_description": "Kelt. Name",
     "chapters": [
       {
         "start": 847,
         "end": 848,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -7920,11 +8014,13 @@
     "lemma": "Scottus 2",
     "previous": "Scottus 1",
     "next": "Scotus",
+    "proof_read": 0,
     "short_description": "Narbonensischer Töpfer",
     "chapters": [
       {
         "start": 848,
-        "author": "Keune"
+        "end": 848,
+        "author": "Keune."
       }
     ]
   },
@@ -7958,47 +8054,54 @@
     "lemma": "Scretisca",
     "previous": "Scptae",
     "next": "Scriba",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 848,
-        "author": "Fluss"
+        "end": 848,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Scriba",
     "previous": "Scretisca",
-    "next": "scribere",
+    "next": "Scribere",
+    "proof_read": 0,
     "short_description": "Sekretär",
     "chapters": [
       {
         "start": 848,
         "end": 857,
-        "author": "Kornemann"
+        "author": "Kornemann."
       }
     ]
   },
   {
-    "lemma": "scribere",
+    "lemma": "Scribere",
     "previous": "Scriba",
     "next": "Scriblita",
+    "sort_key": "scribere",
+    "proof_read": 0,
     "short_description": "Jurist. t.t.",
     "chapters": [
       {
         "start": 857,
         "end": 858,
-        "author": "Klingmüller"
+        "author": "Klingmüller."
       }
     ]
   },
   {
     "lemma": "Scriblita",
-    "previous": "scribere",
+    "previous": "Scribere",
     "next": "Scribonianus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 858,
-        "author": "Hug"
+        "end": 858,
+        "author": "Hug."
       }
     ]
   },
@@ -8018,11 +8121,13 @@
     "lemma": "Scribonianus 2",
     "previous": "Scribonianus 1",
     "next": "Scribonius",
+    "proof_read": 0,
     "short_description": "Camerinus, viell. Sohn d. M. Licinius Crassus Frugi, des cos. 64 n. Chr.",
     "chapters": [
       {
         "start": 858,
-        "author": "Fluss"
+        "end": 858,
+        "author": "Fluss."
       }
     ]
   },
@@ -8030,12 +8135,13 @@
     "lemma": "Scribonius",
     "previous": "Scribonianus 2",
     "next": "Scribonius 1",
+    "proof_read": 0,
     "short_description": "Praescriptio: Name einer röm. plebej. Familie, die ab dem Hannibalischen Krieg",
     "chapters": [
       {
         "start": 858,
         "end": 859,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -8043,11 +8149,13 @@
     "lemma": "Scribonius 1",
     "previous": "Scribonius",
     "next": "Scribonius 2",
+    "proof_read": 0,
     "short_description": "Irrtüml. als cos. 84 v. Chr. verzeichnet",
     "chapters": [
       {
         "start": 859,
-        "author": "Münzer"
+        "end": 859,
+        "author": "Münzer."
       }
     ]
   },
@@ -8055,11 +8163,13 @@
     "lemma": "Scribonius 2",
     "previous": "Scribonius 1",
     "next": "Scribonius 3",
+    "proof_read": 0,
     "short_description": "Mathematikus, weissagte dem Tiberius seine Alleinherrschaft",
     "chapters": [
       {
         "start": 859,
-        "author": "Münzer"
+        "end": 859,
+        "author": "Münzer."
       }
     ]
   },
@@ -8067,12 +8177,13 @@
     "lemma": "Scribonius 3",
     "previous": "Scribonius 2",
     "next": "Scribonius 4",
+    "proof_read": 0,
     "short_description": "Führer des Aufstandes gegen Asandros, den König des bosporanischen Reiches Ende",
     "chapters": [
       {
         "start": 859,
         "end": 860,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -8080,11 +8191,13 @@
     "lemma": "Scribonius 4",
     "previous": "Scribonius 3",
     "next": "Scribonius 5",
+    "proof_read": 0,
     "short_description": "C.",
     "chapters": [
       {
         "start": 860,
-        "author": "Münzer"
+        "end": 860,
+        "author": "Münzer."
       }
     ]
   },
@@ -8092,11 +8205,13 @@
     "lemma": "Scribonius 5",
     "previous": "Scribonius 4",
     "next": "Scribonius 6",
+    "proof_read": 0,
     "short_description": "L. Bei Cannae 216 v. Chr. gefangener Römer",
     "chapters": [
       {
         "start": 860,
-        "author": "Münzer"
+        "end": 860,
+        "author": "Münzer."
       }
     ]
   },
@@ -8104,12 +8219,13 @@
     "lemma": "Scribonius 6",
     "previous": "Scribonius 5",
     "next": "Scribonius 7",
+    "proof_read": 0,
     "short_description": "Aphrodisius",
     "chapters": [
       {
         "start": 860,
         "end": 861,
-        "author": "Wessner"
+        "author": "Wessner."
       }
     ]
   },
@@ -8198,11 +8314,13 @@
     "lemma": "Scribonius 12",
     "previous": "Scribonius 11",
     "next": "Scribonius 13",
+    "proof_read": 0,
     "short_description": "[S]crib(onius?) Demetrios",
     "chapters": [
       {
         "start": 876,
-        "author": "Stein, [Arthur]"
+        "end": 876,
+        "author": "Stein."
       }
     ]
   },
@@ -8210,11 +8328,13 @@
     "lemma": "Scribonius 13",
     "previous": "Scribonius 12",
     "next": "Scribonius 14",
+    "proof_read": 0,
     "short_description": "Genialis, C.",
     "chapters": [
       {
         "start": 876,
-        "author": "Groag"
+        "end": 876,
+        "author": "Groag."
       }
     ]
   },
@@ -8237,12 +8357,13 @@
     "lemma": "Scribonius 15",
     "previous": "Scribonius 14",
     "next": "Scribonius 16",
+    "proof_read": 0,
     "short_description": "Largus, röm. Arzt in der 1. Hälfte d. 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 876,
         "end": 880,
-        "author": "Kind"
+        "author": "Kind."
       }
     ]
   },
@@ -8250,11 +8371,13 @@
     "lemma": "Scribonius 16",
     "previous": "Scribonius 15",
     "next": "Scribonius 17",
+    "proof_read": 0,
     "short_description": "Libo, L. Praetor peregrinus 204 v. Chr.",
     "chapters": [
       {
         "start": 880,
-        "author": "Münzer"
+        "end": 880,
+        "author": "Münzer."
       }
     ]
   },
@@ -8262,12 +8385,13 @@
     "lemma": "Scribonius 17",
     "previous": "Scribonius 16",
     "next": "Scribonius 18",
+    "proof_read": 0,
     "short_description": "Libo, L. Praetor 192 v. Chr.",
     "chapters": [
       {
         "start": 880,
         "end": 881,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -8275,11 +8399,13 @@
     "lemma": "Scribonius 18",
     "previous": "Scribonius 17",
     "next": "Scribonius 19",
+    "proof_read": 0,
     "short_description": "Libo, L. Volkstribun 149 v. Chr.",
     "chapters": [
       {
         "start": 881,
-        "author": "Münzer"
+        "end": 881,
+        "author": "Münzer."
       }
     ]
   },
@@ -8287,11 +8413,13 @@
     "lemma": "Scribonius 19",
     "previous": "Scribonius 18",
     "next": "Scribonius 20",
+    "proof_read": 0,
     "short_description": "Libo, L. Vater von Nr. 20",
     "chapters": [
       {
         "start": 881,
-        "author": "Münzer"
+        "end": 881,
+        "author": "Münzer."
       }
     ]
   },
@@ -8299,12 +8427,13 @@
     "lemma": "Scribonius 20",
     "previous": "Scribonius 19",
     "next": "Scribonius 21",
+    "proof_read": 0,
     "short_description": "Libo, L. cos. 34 v. Chr.",
     "chapters": [
       {
         "start": 881,
         "end": 885,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -8312,11 +8441,13 @@
     "lemma": "Scribonius 21",
     "previous": "Scribonius 20",
     "next": "Scribonius 22",
+    "proof_read": 0,
     "short_description": "Libo, L. cos. 16 n. Chr.",
     "chapters": [
       {
         "start": 885,
-        "author": "Fluss"
+        "end": 885,
+        "author": "Fluss."
       }
     ]
   },
@@ -8324,11 +8455,13 @@
     "lemma": "Scribonius 22",
     "previous": "Scribonius 21",
     "next": "Scribonius 23",
+    "proof_read": 0,
     "short_description": "Libo, L. Vielleicht Sohn von Nr. 21",
     "chapters": [
       {
         "start": 885,
-        "author": "Fluss"
+        "end": 885,
+        "author": "Fluss."
       }
     ]
   },
@@ -8336,12 +8469,13 @@
     "lemma": "Scribonius 23",
     "previous": "Scribonius 22",
     "next": "Scribonius 24",
+    "proof_read": 0,
     "short_description": "Libo Drusus, M. Wurde verdächtigt, Tiberius die Herrschaft entreißen zu wollen",
     "chapters": [
       {
         "start": 885,
         "end": 887,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -8349,12 +8483,13 @@
     "lemma": "Scribonius 24",
     "previous": "Scribonius 23",
     "next": "Scribonius 25",
+    "proof_read": 0,
     "short_description": "(L. S.?) Libo Frugi, Konsular Ende d. 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 887,
         "end": 888,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -8362,11 +8497,13 @@
     "lemma": "Scribonius 25",
     "previous": "Scribonius 24",
     "next": "Scribonius 26",
+    "proof_read": 0,
     "short_description": "Proculus Senator in der 1. Hälfte d. 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 888,
-        "author": "Groag"
+        "end": 888,
+        "author": "Groag."
       }
     ]
   },
@@ -8374,12 +8511,13 @@
     "lemma": "Scribonius 26",
     "previous": "Scribonius 25",
     "next": "Scribonius 27",
+    "proof_read": 0,
     "short_description": "Proculus, P. Sulpicius Konsular z. Zt. Neros",
     "chapters": [
       {
         "start": 888,
         "end": 890,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -8387,11 +8525,13 @@
     "lemma": "Scribonius 27",
     "previous": "Scribonius 26",
     "next": "Scribonius 28",
+    "proof_read": 0,
     "short_description": "Ravus Cassianus, L.",
     "chapters": [
       {
         "start": 890,
-        "author": "Fluss"
+        "end": 890,
+        "author": "Fluss."
       }
     ]
   },
@@ -8399,12 +8539,13 @@
     "lemma": "Scribonius 28",
     "previous": "Scribonius 27",
     "next": "Scribonius 29",
+    "proof_read": 0,
     "short_description": "Rufus, Sulpicius",
     "chapters": [
       {
         "start": 890,
         "end": 891,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -8412,11 +8553,13 @@
     "lemma": "Scribonius 29",
     "previous": "Scribonius 28",
     "next": "Scribonius 30",
+    "proof_read": 0,
     "short_description": "Tenax, Q.",
     "chapters": [
       {
         "start": 891,
-        "author": "Groag"
+        "end": 891,
+        "author": "Groag."
       }
     ]
   },
@@ -9872,7 +10015,7 @@
     "lemma": "Seberritae",
     "previous": "Σεβήρεια",
     "next": "Sebethis",
-    "redirect": "Sebritai",
+    "redirect": "Σεβρῖται",
     "proof_read": 2,
     "chapters": [
       {
@@ -10040,7 +10183,7 @@
     "previous": "Σεβριάπα",
     "next": "Σεβρῖται",
     "sort_key": "Sebridai",
-    "redirect": "Sebritai",
+    "redirect": "Σεβρῖται",
     "proof_read": 2,
     "chapters": [
       {
@@ -10672,11 +10815,13 @@
     "lemma": "Secundanus 2",
     "previous": "Secundanus 1",
     "next": "Secundiacus, Secundiniacus",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer d. 2./3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 985,
-        "author": "Keune"
+        "end": 985,
+        "author": "Keune."
       }
     ]
   },
@@ -10684,11 +10829,14 @@
     "lemma": "Secundiacus, Secundiniacus",
     "previous": "Secundanus 2",
     "next": "Secundianus",
+    "sort_key": "Secundiacus,secundiniacus",
+    "proof_read": 0,
     "short_description": "Von Grundstücken abgeleitete Ort",
     "chapters": [
       {
         "start": 985,
-        "author": "Keune"
+        "end": 985,
+        "author": "Keune."
       }
     ]
   },
@@ -10696,10 +10844,12 @@
     "lemma": "Secundianus",
     "previous": "Secundiacus, Secundiniacus",
     "next": "Secundilla 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 985,
-        "author": "Keune"
+        "end": 985,
+        "author": "Keune."
       }
     ]
   },
@@ -10735,10 +10885,12 @@
     "lemma": "Secundillus",
     "previous": "Secundilla 2",
     "next": "Secundinus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 986,
-        "author": "Keune"
+        "end": 986,
+        "author": "Keune."
       }
     ]
   },
@@ -10746,11 +10898,13 @@
     "lemma": "Secundinus 1",
     "previous": "Secundillus",
     "next": "Secundinus 2",
+    "proof_read": 0,
     "short_description": "s. Aelius Nr. 132, Aurelius Nr. 217 Cammius",
     "chapters": [
       {
         "start": 986,
-        "author": "Stein, [Arthur]"
+        "end": 986,
+        "author": "Stein."
       }
     ]
   },
@@ -10813,11 +10967,13 @@
     "lemma": "Secundinus 4b",
     "previous": "Secundinus 4a",
     "next": "Secundinus 4c",
+    "proof_read": 0,
     "short_description": "Töpferei d. zweiten Hälfte des 2. Jhdts. in Obergermanien",
     "chapters": [
       {
         "start": 987,
-        "author": "Keune"
+        "end": 987,
+        "author": "Keune."
       }
     ]
   },
@@ -10825,12 +10981,13 @@
     "lemma": "Secundinus 4c",
     "previous": "Secundinus 4b",
     "next": "Secundinus 4d",
+    "proof_read": 0,
     "short_description": "Sigillata der Töpferei zu Westerndorf",
     "chapters": [
       {
         "start": 987,
         "end": 988,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -10838,11 +10995,13 @@
     "lemma": "Secundinus 4d",
     "previous": "Secundinus 4c",
     "next": "Secundinus 4e",
+    "proof_read": 0,
     "short_description": "Sohn des Rheinzaberner Töpfers Avitus",
     "chapters": [
       {
         "start": 988,
-        "author": "Keune"
+        "end": 988,
+        "author": "Keune."
       }
     ]
   },
@@ -10850,12 +11009,13 @@
     "lemma": "Secundinus 4e",
     "previous": "Secundinus 4d",
     "next": "Secundinus 4f",
+    "proof_read": 0,
     "short_description": "Töpfer",
     "chapters": [
       {
         "start": 988,
         "end": 989,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -10863,11 +11023,13 @@
     "lemma": "Secundinus 4f",
     "previous": "Secundinus 4e",
     "next": "Secundinus 5",
+    "proof_read": 0,
     "short_description": "Literatur zu Secundinus 4a-e",
     "chapters": [
       {
         "start": 989,
-        "author": "Keune"
+        "end": 989,
+        "author": "Keune."
       }
     ]
   },
@@ -10875,12 +11037,13 @@
     "lemma": "Secundinus 5",
     "previous": "Secundinus 4f",
     "next": "Secundinus 6",
+    "proof_read": 0,
     "short_description": "Lampentöpfer",
     "chapters": [
       {
         "start": 989,
         "end": 990,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -10888,11 +11051,13 @@
     "lemma": "Secundinus 6",
     "previous": "Secundinus 5",
     "next": "Secundio",
+    "proof_read": 0,
     "short_description": "Person auf Metallstempeln",
     "chapters": [
       {
         "start": 990,
-        "author": "Keune"
+        "end": 990,
+        "author": "Keune."
       }
     ]
   },
@@ -10940,11 +11105,13 @@
     "lemma": "Secundus 2",
     "previous": "Secundus 1",
     "next": "Secundus 3",
+    "proof_read": 0,
     "short_description": "Ein Buchhändler dessen Laden im Argiletum lag und der Pergamentcodices mit",
     "chapters": [
       {
         "start": 990,
-        "author": "Stein, [Arthur]"
+        "end": 990,
+        "author": "Stein."
       }
     ]
   },
@@ -10952,11 +11119,13 @@
     "lemma": "Secundus 3",
     "previous": "Secundus 2",
     "next": "Secundus 4",
+    "proof_read": 0,
     "short_description": "Procos. von Asien zw. 97 u. 102 n. Chr.",
     "chapters": [
       {
         "start": 990,
-        "author": "Fluss"
+        "end": 990,
+        "author": "Fluss."
       }
     ]
   },
@@ -10964,12 +11133,13 @@
     "lemma": "Secundus 4",
     "previous": "Secundus 3",
     "next": "Secundus 5",
+    "proof_read": 0,
     "short_description": "(pro)cos. von Sardinien 70 n. Chr.",
     "chapters": [
       {
         "start": 990,
         "end": 991,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
@@ -11177,7 +11347,7 @@
   {
     "lemma": "Secundus 18",
     "previous": "Secundus 17",
-    "next": "Secundus 19a",
+    "next": "Secundus 19",
     "sort_key": "Secundus 18",
     "proof_read": 2,
     "short_description": "von Tarent, Dichter aus dem philippischen Kranz",
@@ -11192,15 +11362,30 @@
     ]
   },
   {
-    "lemma": "Secundus 19a",
+    "lemma": "Secundus 19",
     "previous": "Secundus 18",
+    "next": "Secundus 19a",
+    "proof_read": 0,
+    "short_description": "Ziegler",
+    "chapters": [
+      {
+        "start": 992,
+        "end": 992,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Secundus 19a",
+    "previous": "Secundus 19",
     "next": "Secundus 19b",
+    "proof_read": 0,
     "short_description": "Ziegler",
     "chapters": [
       {
         "start": 992,
         "end": 993,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -11220,12 +11405,13 @@
     "lemma": "Secundus 19c",
     "previous": "Secundus 19b",
     "next": "Secundus 19d",
+    "proof_read": 0,
     "short_description": "Töpferei",
     "chapters": [
       {
         "start": 993,
         "end": 994,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -11233,12 +11419,13 @@
     "lemma": "Secundus 19d",
     "previous": "Secundus 19c",
     "next": "Secundus 19e",
+    "proof_read": 0,
     "short_description": "Name mehrerer Lampentöpfer",
     "chapters": [
       {
         "start": 994,
         "end": 995,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -11259,11 +11446,13 @@
     "lemma": "Secundus 19f",
     "previous": "Secundus 19e",
     "next": "Secundus 19g",
+    "proof_read": 0,
     "short_description": "Töpfer im Lande der Allobroger",
     "chapters": [
       {
         "start": 999,
-        "author": "Keune"
+        "end": 999,
+        "author": "Keune."
       }
     ]
   },
@@ -11271,11 +11460,13 @@
     "lemma": "Secundus 19g",
     "previous": "Secundus 19f",
     "next": "Secundus 20",
+    "proof_read": 0,
     "short_description": "auf einer Stilus-Inschrift",
     "chapters": [
       {
         "start": 999,
-        "author": "Keune"
+        "end": 999,
+        "author": "Keune."
       }
     ]
   },
@@ -11283,11 +11474,13 @@
     "lemma": "Secundus 20",
     "previous": "Secundus 19g",
     "next": "Secundus 21",
+    "proof_read": 0,
     "short_description": "Name auf Bleirohren aus Vienne",
     "chapters": [
       {
         "start": 999,
-        "author": "Keune"
+        "end": 999,
+        "author": "Keune."
       }
     ]
   },
@@ -11295,11 +11488,13 @@
     "lemma": "Secundus 21",
     "previous": "Secundus 20",
     "next": "Secundus 22",
+    "proof_read": 0,
     "short_description": "Name auf in Nordafrika gefundenen Bronzetäfelchen",
     "chapters": [
       {
         "start": 1000,
-        "author": "Keune"
+        "end": 1000,
+        "author": "Keune."
       }
     ]
   },
@@ -11307,11 +11502,13 @@
     "lemma": "Secundus 22",
     "previous": "Secundus 21",
     "next": "Securiacus",
+    "proof_read": 0,
     "short_description": "Name eines Ursarius (Venator) der 30. Legion in Britannien",
     "chapters": [
       {
         "start": 1000,
-        "author": "Keune"
+        "end": 1000,
+        "author": "Keune."
       }
     ]
   },
@@ -11319,11 +11516,13 @@
     "lemma": "Securiacus",
     "previous": "Secundus 22",
     "next": "Securio",
+    "proof_read": 0,
     "short_description": "fundus",
     "chapters": [
       {
         "start": 1000,
-        "author": "Keune"
+        "end": 1000,
+        "author": "Keune."
       }
     ]
   },
@@ -11331,10 +11530,12 @@
     "lemma": "Securio",
     "previous": "Securiacus",
     "next": "Securis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1000,
-        "author": "Keune"
+        "end": 1000,
+        "author": "Keune."
       }
     ]
   },
@@ -11342,11 +11543,13 @@
     "lemma": "Securis",
     "previous": "Securio",
     "next": "Securisca",
+    "proof_read": 0,
     "short_description": "Liktorenbeil",
     "chapters": [
       {
         "start": 1000,
-        "author": "Kleinfeller"
+        "end": 1000,
+        "author": "Kleinfeller."
       }
     ]
   },
@@ -11354,10 +11557,12 @@
     "lemma": "Securisca",
     "previous": "Securis",
     "next": "Securispa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1000,
-        "author": "Fluss"
+        "end": 1000,
+        "author": "Fluss."
       }
     ]
   },
@@ -11377,25 +11582,42 @@
   {
     "lemma": "Securitas",
     "previous": "Securispa",
-    "next": "Securus 1",
+    "next": "Securus",
+    "proof_read": 0,
     "short_description": "Personifikation d. Sicherheit",
     "chapters": [
       {
         "start": 1000,
         "end": 1003,
-        "author": "Hartmann, A[lbert]"
+        "author": "A. Hartmann."
+      }
+    ]
+  },
+  {
+    "lemma": "Securus",
+    "previous": "Securitas",
+    "next": "Securus 1",
+    "proof_read": 0,
+    "short_description": "Oberital. Ziegler",
+    "chapters": [
+      {
+        "start": 1003,
+        "end": 1003,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Securus 1",
-    "previous": "Securitas",
+    "previous": "Securus",
     "next": "Securus 2",
+    "proof_read": 0,
     "short_description": "Oberital. Ziegler",
     "chapters": [
       {
         "start": 1003,
-        "author": "Keune"
+        "end": 1003,
+        "author": "Keune."
       }
     ]
   },
@@ -11403,11 +11625,13 @@
     "lemma": "Securus 2",
     "previous": "Securus 1",
     "next": "Securus 3",
+    "proof_read": 0,
     "short_description": "Schwertöpfer in Gallia Belgica",
     "chapters": [
       {
         "start": 1003,
-        "author": "Keune"
+        "end": 1003,
+        "author": "Keune."
       }
     ]
   },
@@ -11415,12 +11639,13 @@
     "lemma": "Securus 3",
     "previous": "Securus 2",
     "next": "Secusiaui",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer in Lezoux/Auvergne",
     "chapters": [
       {
         "start": 1003,
         "end": 1004,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -11441,10 +11666,12 @@
     "lemma": "Secusses",
     "previous": "Secusiaui",
     "next": "Secutor 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1004,
-        "author": "Fluss"
+        "end": 1004,
+        "author": "Fluss."
       }
     ]
   },
@@ -11452,11 +11679,13 @@
     "lemma": "Secutor 1",
     "previous": "Secusses",
     "next": "Secutor 2",
+    "proof_read": 0,
     "short_description": "Begleiter für Ordonnanzdienste",
     "chapters": [
       {
         "start": 1004,
-        "author": "Fiebiger"
+        "end": 1004,
+        "author": "Fiebiger."
       }
     ]
   },
@@ -11489,18 +11718,19 @@
     "lemma": "Seda",
     "previous": "Secutor tribuni",
     "next": "Sedaciacus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1004,
         "end": 1005,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sedaciacus",
     "previous": "Seda",
-    "next": "Sedala",
+    "next": "Σηδάλα",
     "redirect": "Sedatiacus",
     "proof_read": 2,
     "chapters": [
@@ -11511,37 +11741,44 @@
     ]
   },
   {
-    "lemma": "Sedala",
+    "lemma": "Σηδάλα",
     "previous": "Sedaciacus",
-    "next": "Sedamnos",
+    "next": "Σέδαμνος",
+    "sort_key": "Sedala",
+    "proof_read": 0,
     "short_description": "Ort im nördl. Großarmenien",
     "chapters": [
       {
         "start": 1005,
-        "author": "Honigmann"
+        "end": 1005,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sedamnos",
-    "previous": "Sedala",
+    "lemma": "Σέδαμνος",
+    "previous": "Σηδάλα",
     "next": "Sedanna",
+    "sort_key": "Sedamnos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1005,
         "end": 1006,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sedanna",
-    "previous": "Sedamnos",
+    "previous": "Σέδαμνος",
     "next": "Sedasa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1006,
-        "author": "Keune"
+        "end": 1006,
+        "author": "Keune."
       }
     ]
   },
@@ -11549,10 +11786,12 @@
     "lemma": "Sedasa",
     "previous": "Sedanna",
     "next": "Sedatiacus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1006,
-        "author": "Ruge"
+        "end": 1006,
+        "author": "Ruge."
       }
     ]
   },
@@ -11560,11 +11799,13 @@
     "lemma": "Sedatiacus",
     "previous": "Sedasa",
     "next": "Sedatianus",
+    "proof_read": 0,
     "short_description": "fundus",
     "chapters": [
       {
         "start": 1006,
-        "author": "Keune"
+        "end": 1006,
+        "author": "Keune."
       }
     ]
   },
@@ -11611,11 +11852,13 @@
     "lemma": "Sedatius 2",
     "previous": "Sedatius 1",
     "next": "Sedatius 3",
+    "proof_read": 0,
     "short_description": "M. f. Quir(ina) Severus Iulius Reginus, M., wohl Sohn v. Nr. 1",
     "chapters": [
       {
         "start": 1010,
-        "author": "Groag"
+        "end": 1010,
+        "author": "Groag."
       }
     ]
   },
@@ -11662,12 +11905,14 @@
     "lemma": "Sedatus b",
     "previous": "Sedatus a",
     "next": "Seddoneos",
+    "sort_key": "Sedatusb",
+    "proof_read": 0,
     "short_description": "Verbreiteter Person in den weström. Prov.",
     "chapters": [
       {
         "start": 1012,
         "end": 1021,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -11675,10 +11920,12 @@
     "lemma": "Seddoneos",
     "previous": "Sedatus b",
     "next": "Sedelaucus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1021,
-        "author": "Bischoff, [Ernst]"
+        "end": 1021,
+        "author": "Bischoff."
       }
     ]
   },
@@ -11699,11 +11946,13 @@
     "lemma": "Sedelensis",
     "previous": "Sedelaucus",
     "next": "Sedena",
+    "proof_read": 0,
     "short_description": "civitas",
     "chapters": [
       {
         "start": 1021,
-        "author": "Dessau"
+        "end": 1021,
+        "author": "Dessau."
       }
     ]
   },
@@ -11711,11 +11960,13 @@
     "lemma": "Sedena",
     "previous": "Sedelensis",
     "next": "Sedetani",
+    "proof_read": 0,
     "short_description": "s. Sidena",
     "chapters": [
       {
         "start": 1021,
-        "author": "Keune"
+        "end": 1021,
+        "author": "Keune."
       }
     ]
   },
@@ -11736,10 +11987,12 @@
     "lemma": "Sediae",
     "previous": "Sedetani",
     "next": "Sediboniates",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1021,
-        "author": "Keune"
+        "end": 1021,
+        "author": "Keune."
       }
     ]
   },
@@ -11760,12 +12013,13 @@
     "lemma": "Sediboviates",
     "previous": "Sediboniates",
     "next": "Sedile",
+    "proof_read": 0,
     "short_description": "Völkerschaft d. Aquitania",
     "chapters": [
       {
         "start": 1021,
         "end": 1023,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -11773,12 +12027,13 @@
     "lemma": "Sedile",
     "previous": "Sediboviates",
     "next": "Sedissa",
+    "proof_read": 0,
     "short_description": "Allgem. Ausdruck für Sitzmöbel",
     "chapters": [
       {
         "start": 1023,
         "end": 1024,
-        "author": "Hug"
+        "author": "Hug."
       }
     ]
   },
@@ -11786,10 +12041,12 @@
     "lemma": "Sedissa",
     "previous": "Sedile",
     "next": "Seditio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1024,
-        "author": "Ruge"
+        "end": 1024,
+        "author": "Ruge."
       }
     ]
   },
@@ -11797,11 +12054,13 @@
     "lemma": "Seditio",
     "previous": "Sedissa",
     "next": "Sedius",
+    "proof_read": 0,
     "short_description": "Aufstand, Aufruhr Störung d. öffentl. Ruhe",
     "chapters": [
       {
         "start": 1024,
-        "author": "Pfaff"
+        "end": 1024,
+        "author": "Pfaff."
       }
     ]
   },
@@ -11809,10 +12068,12 @@
     "lemma": "Sedius",
     "previous": "Seditio",
     "next": "Sedne",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1024,
-        "author": "Keune"
+        "end": 1024,
+        "author": "Keune."
       }
     ]
   },
@@ -11820,11 +12081,13 @@
     "lemma": "Sedne",
     "previous": "Sedius",
     "next": "Sedon-",
+    "proof_read": 0,
     "short_description": "(var. Gedne)",
     "chapters": [
       {
         "start": 1024,
-        "author": "Fischer"
+        "end": 1024,
+        "author": "C. Th. Fischer."
       }
     ]
   },
@@ -11845,10 +12108,12 @@
     "lemma": "Sedularco",
     "previous": "Sedon-",
     "next": "Sedulius 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1025,
-        "author": "Keune"
+        "end": 1025,
+        "author": "Keune."
       }
     ]
   },
@@ -11856,11 +12121,13 @@
     "lemma": "Sedulius 1",
     "previous": "Sedularco",
     "next": "Sedulius 2",
+    "proof_read": 0,
     "short_description": "Häuptling d. Lemoviker",
     "chapters": [
       {
         "start": 1025,
-        "author": "Münzer"
+        "end": 1025,
+        "author": "Münzer."
       }
     ]
   },
@@ -11868,12 +12135,13 @@
     "lemma": "Sedulius 2",
     "previous": "Sedulius 1",
     "next": "Sedullus",
+    "proof_read": 0,
     "short_description": "Lat.-christl. Dichter 5. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1025,
         "end": 1026,
-        "author": "Lietzmann"
+        "author": "Lietzmann."
       }
     ]
   },
@@ -11881,11 +12149,13 @@
     "lemma": "Sedullus",
     "previous": "Sedulius 2",
     "next": "Sedulus",
+    "proof_read": 0,
     "short_description": "Person auf kelt. Geldstücken vgl. Sedulius 1)",
     "chapters": [
       {
         "start": 1026,
-        "author": "Keune"
+        "end": 1026,
+        "author": "Keune."
       }
     ]
   },
@@ -11893,10 +12163,12 @@
     "lemma": "Sedulus",
     "previous": "Sedullus",
     "next": "Seduni",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1026,
-        "author": "Keune"
+        "end": 1026,
+        "author": "Keune."
       }
     ]
   },
@@ -11904,12 +12176,13 @@
     "lemma": "Seduni",
     "previous": "Sedulus",
     "next": "Seduniacus",
+    "proof_read": 0,
     "short_description": "Kelt. Völkerschaft in d. Alpen",
     "chapters": [
       {
         "start": 1026,
         "end": 1032,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -11917,11 +12190,13 @@
     "lemma": "Seduniacus",
     "previous": "Seduni",
     "next": "Sedusii",
+    "proof_read": 0,
     "short_description": "fundus",
     "chapters": [
       {
         "start": 1032,
-        "author": "Keune"
+        "end": 1032,
+        "author": "Keune."
       }
     ]
   },
@@ -11929,10 +12204,12 @@
     "lemma": "Sedusii",
     "previous": "Seduniacus",
     "next": "Seeanemone",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1032,
-        "author": "Schönfeld"
+        "end": 1032,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -11940,12 +12217,13 @@
     "lemma": "Seeanemone",
     "previous": "Sedusii",
     "next": "Seefeder",
+    "proof_read": 0,
     "short_description": "Meerestier",
     "chapters": [
       {
         "start": 1032,
         "end": 1034,
-        "author": "Gossen"
+        "author": "Gossen."
       }
     ]
   },
@@ -11978,7 +12256,7 @@
   {
     "lemma": "Seeigel",
     "previous": "Seegurke",
-    "next": "Seele",
+    "next": "Seekrieg",
     "redirect": "Echinos 7",
     "proof_read": 2,
     "chapters": [
@@ -11989,11 +12267,24 @@
     ]
   },
   {
-    "lemma": "Seele",
+    "lemma": "Seekrieg",
     "previous": "Seeigel",
+    "next": "Seele",
+    "redirect": true,
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 1034,
+        "end": 1034
+      }
+    ]
+  },
+  {
+    "lemma": "Seele",
+    "previous": "Seekrieg",
     "next": "Seelilie",
     "redirect": "Psyche 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1034,
@@ -12018,12 +12309,13 @@
     "lemma": "Seenadel",
     "previous": "Seelilie",
     "next": "Seenelke",
+    "proof_read": 0,
     "short_description": "Fischart",
     "chapters": [
       {
         "start": 1034,
         "end": 1035,
-        "author": "Gossen"
+        "author": "Gossen."
       }
     ]
   },
@@ -12044,12 +12336,13 @@
     "lemma": "Seepferdchen",
     "previous": "Seenelke",
     "next": "Seeraub (Seeräuber, Seeräuberei)",
+    "proof_read": 0,
     "short_description": "Fischart",
     "chapters": [
       {
         "start": 1035,
         "end": 1036,
-        "author": "Gossen"
+        "author": "Gossen-Steier."
       }
     ]
   },
@@ -12087,11 +12380,13 @@
     "lemma": "Sées",
     "previous": "Seerose",
     "next": "Seescheiden",
+    "proof_read": 0,
     "short_description": "Ort in Gallien",
     "chapters": [
       {
         "start": 1042,
-        "author": "Keune"
+        "end": 1042,
+        "author": "Keune."
       }
     ]
   },
@@ -12099,61 +12394,81 @@
     "lemma": "Seescheiden",
     "previous": "Sées",
     "next": "Seestern",
+    "proof_read": 0,
     "short_description": "Meerestier",
     "chapters": [
       {
         "start": 1042,
         "end": 1045,
-        "author": "Steier"
+        "author": "Steier."
       }
     ]
   },
   {
     "lemma": "Seestern",
     "previous": "Seescheiden",
-    "next": "Seewalze",
+    "next": "Seeviae",
+    "proof_read": 0,
     "short_description": "Meerestier",
     "chapters": [
       {
         "start": 1045,
-        "author": "Gossen"
+        "end": 1045,
+        "author": "Gossen."
       }
     ]
   },
   {
     "lemma": "Seeviae",
-    "previous": "Seewalze",
-    "next": "Sef.",
+    "previous": "Seestern",
+    "next": "Seewalze",
+    "proof_read": 0,
     "short_description": "Lesart zu korrigieren in: Sefulae",
     "chapters": [
       {
         "start": 1045,
-        "author": "Keune"
+        "end": 1045,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Seewalze",
-    "previous": "Seestern",
-    "next": "Seeviae",
+    "previous": "Seeviae",
+    "next": "Seewesen",
+    "proof_read": 0,
     "short_description": "Meerestier",
     "chapters": [
       {
         "start": 1045,
         "end": 1046,
-        "author": "Gossen"
+        "author": "Gossen-Steier."
       }
     ]
   },
-  {"lemma": "Seewesen"},
   {
-    "lemma": "Sef.",
-    "previous": "Seeviae",
-    "next": "Sefiniacus",
+    "lemma": "Seewesen",
+    "previous": "Seewalze",
+    "next": "Sef.",
+    "redirect": true,
+    "proof_read": 2,
     "chapters": [
       {
         "start": 1046,
-        "author": "Keune"
+        "end": 1046
+      }
+    ]
+  },
+  {
+    "lemma": "Sef.",
+    "previous": "Seewesen",
+    "next": "Sefiniacus",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 1046,
+        "end": 1046,
+        "author": "Keune."
       }
     ]
   },
@@ -12161,10 +12476,12 @@
     "lemma": "Sefiniacus",
     "previous": "Sef.",
     "next": "Sefulae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1046,
-        "author": "Keune"
+        "end": 1046,
+        "author": "Keune."
       }
     ]
   },
@@ -12172,12 +12489,13 @@
     "lemma": "Sefulae",
     "previous": "Sefiniacus",
     "next": "Seg(...)",
+    "proof_read": 0,
     "short_description": "Rastort an d. röm. Straße Samarobriva (Amiens) - Augusta Suessionim (Soissons)",
     "chapters": [
       {
         "start": 1046,
         "end": 1047,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -12185,10 +12503,12 @@
     "lemma": "Seg(...)",
     "previous": "Sefulae",
     "next": "Segadunon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1047,
-        "author": "Keune"
+        "end": 1047,
+        "author": "Keune."
       }
     ]
   },
@@ -12209,12 +12529,14 @@
     "lemma": "Segallauni, Segovellauni",
     "previous": "Segadunon",
     "next": "Segasmala",
+    "sort_key": "Segallauni,segovellauni",
+    "proof_read": 0,
     "short_description": "Kelt. Völkerschaft",
     "chapters": [
       {
         "start": 1047,
         "end": 1049,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -12235,11 +12557,13 @@
     "lemma": "Segeda 1",
     "previous": "Segasmala",
     "next": "Segeda 2",
+    "proof_read": 0,
     "short_description": "Hauptstadt d. Beller",
     "chapters": [
       {
         "start": 1049,
-        "author": "Schulten"
+        "end": 1049,
+        "author": "Schulten."
       }
     ]
   },
@@ -12247,11 +12571,13 @@
     "lemma": "Segeda 2",
     "previous": "Segeda 1",
     "next": "Segeda 3",
+    "proof_read": 0,
     "short_description": "Stadt in Hispania Baetica",
     "chapters": [
       {
         "start": 1049,
-        "author": "Schulten"
+        "end": 1049,
+        "author": "Schulten."
       }
     ]
   },
@@ -12259,11 +12585,13 @@
     "lemma": "Segeda 3",
     "previous": "Segeda 2",
     "next": "Segedunum",
+    "proof_read": 0,
     "short_description": "Stadt in Hispania Baetica, gen. Augurina",
     "chapters": [
       {
         "start": 1049,
-        "author": "Schulten"
+        "end": 1049,
+        "author": "Schulten."
       }
     ]
   },
@@ -12284,11 +12612,13 @@
     "lemma": "Segeia",
     "previous": "Segedunum",
     "next": "Segel",
+    "proof_read": 0,
     "short_description": "Fluß mit Bucht in Britannien",
     "chapters": [
       {
         "start": 1049,
-        "author": "Keune"
+        "end": 1049,
+        "author": "Keune."
       }
     ]
   },
@@ -12296,12 +12626,13 @@
     "lemma": "Segel",
     "previous": "Segeia",
     "next": "Segelocus",
+    "proof_read": 0,
     "short_description": "Teil d. Schiffes",
     "chapters": [
       {
         "start": 1049,
         "end": 1054,
-        "author": "Assmann"
+        "author": "Assmann."
       }
     ]
   },
@@ -12309,12 +12640,13 @@
     "lemma": "Segelocus",
     "previous": "Segel",
     "next": "Segericus",
+    "proof_read": 0,
     "short_description": "Ortschaft in Britannia",
     "chapters": [
       {
         "start": 1054,
         "end": 1055,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
