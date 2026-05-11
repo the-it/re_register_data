@@ -600,6 +600,7 @@
     "next": "Abercius b",
     "redirect": "Avircius",
     "proof_read": 3,
+    "short_description": "Kirchenheiliger",
     "chapters": [
       {
         "start": 5,
@@ -5717,7 +5718,7 @@
     "previous": "Afranius 6a",
     "next": "Africa 2",
     "proof_read": 3,
-    "short_description": "P. A. Flavianus, Prokonsul der Provinz Asia (130/1 n. Chr.?)",
+    "short_description": "P. A. Flavianus, Prokonsul der Provinz Asia 130 n. Chr.?",
     "wp_link": "w:de:Publius Afranius Flavianus",
     "wd_link": "d:Q21154005",
     "no_creative_height": true,
@@ -40032,7 +40033,7 @@
     "next": "Athenadas 2",
     "redirect": true,
     "proof_read": 3,
-    "short_description": "Lochage aus Sikyon, bei der Belagerung von Kebren verwundet 399 v. Chr.",
+    "short_description": "A. von Sikyon, Lochage vor Kebren 399 v. Chr.",
     "chapters": [
       {
         "start": 52,
@@ -40512,7 +40513,7 @@
     "previous": "Athenaios 22",
     "next": "Athenaios 28",
     "proof_read": 3,
-    "short_description": "Verfasser einer Abhandlung über Belagerungsmaschinen",
+    "short_description": "verfasst Abhandlung über Belagerungsmaschinen",
     "wp_link": "w:de:Athenaios (Militärschriftsteller)",
     "wd_link": "d:Q755297",
     "no_creative_height": true,
@@ -52185,6 +52186,7 @@
     "previous": "Böhming",
     "next": "Boëthos 7",
     "proof_read": 3,
+    "short_description": "dakischer König im 1. Jh. v. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -57372,6 +57374,7 @@
     "next": "Calpurnius 51a",
     "sort_key": "Calpurnius 050a",
     "proof_read": 3,
+    "short_description": "C. Arrius C. Longinus, cos. suff. unter Commodus",
     "no_creative_height": true,
     "chapters": [
       {
@@ -71475,6 +71478,7 @@
     "previous": "Cunissa",
     "next": "Cupitus",
     "proof_read": 3,
+    "short_description": "die Bütte, das Holzfaß; der Böttcher, Küfer",
     "no_creative_height": true,
     "chapters": [
       {
@@ -83387,7 +83391,7 @@
     "previous": "Εὐλάμιος",
     "next": "Eulimna",
     "proof_read": 3,
-    "short_description": "Gottesnamen in Zauberbüchern und auf nachchristlichen Verfluchungstafeln",
+    "short_description": "Gottesname in Zauberbüchern und auf Verfluchungstafeln",
     "no_creative_height": true,
     "chapters": [
       {
@@ -107604,7 +107608,7 @@
   {
     "lemma": "Κάδος",
     "previous": "Κάδμου πούς",
-    "next": "Kadusioi",
+    "next": "Καδουσίοι",
     "sort_key": "Kados",
     "proof_read": 3,
     "short_description": "Kados, Gefäßbezeichnung",
@@ -107618,11 +107622,14 @@
     ]
   },
   {
-    "lemma": "Kadusioi",
+    "lemma": "Καδουσίοι",
     "previous": "Κάδος",
     "next": "Kadyanda",
+    "sort_key": "Kadusioi",
     "proof_read": 3,
-    "short_description": "medisches Volk an der SW-Küste des Kaspischen Meeres",
+    "short_description": "Kadusioi (Gelen), iranisches Volk an der Südwestküste des Kaspischen Meeres",
+    "wp_link": "w:de:Kadusier",
+    "wd_link": "d:Q924425",
     "no_creative_height": true,
     "chapters": [
       {
@@ -107634,7 +107641,7 @@
   },
   {
     "lemma": "Kadyanda",
-    "previous": "Kadusioi",
+    "previous": "Καδουσίοι",
     "next": "Käfer",
     "proof_read": 3,
     "short_description": "Lykische Stadt",
@@ -154791,7 +154798,7 @@
   {
     "lemma": "Semacheion",
     "previous": "Selunto",
-    "next": "Semaleos",
+    "next": "Σημαλέος",
     "proof_read": 3,
     "short_description": "Heiligtum des Heros des attischen Demos der Semachiden",
     "no_creative_height": true,
@@ -154804,9 +154811,10 @@
     ]
   },
   {
-    "lemma": "Semaleos",
+    "lemma": "Σημαλέος",
     "previous": "Semacheion",
     "next": "Semeleios",
+    "sort_key": "Semaleos",
     "proof_read": 3,
     "short_description": "Epiklese des Zeus",
     "no_creative_height": true,
@@ -154820,7 +154828,7 @@
   },
   {
     "lemma": "Semeleios",
-    "previous": "Semaleos",
+    "previous": "Σημαλέος",
     "next": "Semestre",
     "proof_read": 3,
     "short_description": "Beiname des Dionysos",

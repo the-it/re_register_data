@@ -1140,7 +1140,21 @@
       }
     ]
   },
-  {"lemma": "Privatus 7"},
+  {
+    "lemma": "Privatus 7",
+    "previous": "Privatus 6",
+    "next": "Privernum",
+    "redirect": true,
+    "proof_read": 2,
+    "short_description": "P. aus Thabarca, Presbyter",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 15,
+        "end": 15
+      }
+    ]
+  },
   {
     "lemma": "Privernum",
     "previous": "Privatus 7",
@@ -1213,6 +1227,8 @@
   },
   {
     "lemma": "Προάγορος",
+    "previous": "Proagoras",
+    "next": "Proainos",
     "sort_key": "Proagoros",
     "redirect": "προήγορος, προάγορος",
     "proof_read": 2,
@@ -3163,7 +3179,11 @@
       }
     ]
   },
-  {"lemma": "Proculus 9a", "previous": "Proculus 9", "next": "Proculus 10"},
+  {
+    "lemma": "Proculus 9a",
+    "previous": "Proculus 9",
+    "next": "Proculus 10"
+  },
   {
     "lemma": "Proculus 10",
     "previous": "Proculus 9a",
@@ -3670,9 +3690,21 @@
       }
     ]
   },
-  {"lemma": "prodigus", "previous": "prodictator", "next": "prodigium"},
-  {"lemma": "prodigium", "previous": "prodigus", "next": "πρόδικος"},
-  {"lemma": "πρόδικος", "previous": "prodigium", "next": "Prodikos 1"},
+  {
+    "lemma": "prodigus",
+    "previous": "prodictator",
+    "next": "prodigium"
+  },
+  {
+    "lemma": "prodigium",
+    "previous": "prodigus",
+    "next": "πρόδικος"
+  },
+  {
+    "lemma": "πρόδικος",
+    "previous": "prodigium",
+    "next": "Prodikos 1"
+  },
   {
     "lemma": "Prodikos 1",
     "previous": "πρόδικος",
@@ -3936,7 +3968,11 @@
       }
     ]
   },
-  {"lemma": "πρόεδρος", "previous": "Proechios", "next": "Προηγέται θεοί"},
+  {
+    "lemma": "πρόεδρος",
+    "previous": "Proechios",
+    "next": "Προηγέται θεοί"
+  },
   {
     "lemma": "Προηγέται θεοί",
     "previous": "πρόεδρος",
@@ -3967,7 +4003,11 @@
       }
     ]
   },
-  {"lemma": "Προεισφορά", "previous": "προήγορος, προάγορος", "next": "Proemptor"},
+  {
+    "lemma": "Προεισφορά",
+    "previous": "προήγορος, προάγορος",
+    "next": "Proemptor"
+  },
   {
     "lemma": "Proemptor",
     "previous": "Προεισφορά",
