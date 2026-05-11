@@ -1140,6 +1140,7 @@
       }
     ]
   },
+  {"lemma": "Privatus 7"},
   {
     "lemma": "Privernum",
     "previous": "Privatus 7",
@@ -1186,7 +1187,6 @@
   {
     "lemma": "Προάγων",
     "previous": "Proagogeia",
-    "next": "Προάγορος",
     "sort_key": "Proagon",
     "proof_read": 0,
     "short_description": "Festlicher Akt zur Einleitung des Agons",
@@ -1199,22 +1199,7 @@
     ]
   },
   {
-    "lemma": "Προάγορος",
-    "previous": "Προάγων",
-    "next": "Proagoras",
-    "sort_key": "Proagoros",
-    "redirect": "προήγορος, προάγορος",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 30,
-        "end": 30
-      }
-    ]
-  },
-  {
     "lemma": "Proagoras",
-    "previous": "Προάγορος",
     "next": "Προάγορος",
     "proof_read": 0,
     "short_description": "Person",
@@ -1223,6 +1208,18 @@
         "start": 30,
         "end": 30,
         "author": "Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Προάγορος",
+    "sort_key": "Proagoros",
+    "redirect": "προήγορος, προάγορος",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 30,
+        "end": 30
       }
     ]
   },
@@ -3166,6 +3163,7 @@
       }
     ]
   },
+  {"lemma": "Proculus 9a", "previous": "Proculus 9", "next": "Proculus 10"},
   {
     "lemma": "Proculus 10",
     "previous": "Proculus 9a",
@@ -3672,6 +3670,9 @@
       }
     ]
   },
+  {"lemma": "prodigus", "previous": "prodictator", "next": "prodigium"},
+  {"lemma": "prodigium", "previous": "prodigus", "next": "πρόδικος"},
+  {"lemma": "πρόδικος", "previous": "prodigium", "next": "Prodikos 1"},
   {
     "lemma": "Prodikos 1",
     "previous": "πρόδικος",
@@ -3935,6 +3936,7 @@
       }
     ]
   },
+  {"lemma": "πρόεδρος", "previous": "Proechios", "next": "Προηγέται θεοί"},
   {
     "lemma": "Προηγέται θεοί",
     "previous": "πρόεδρος",
@@ -3965,18 +3967,7 @@
       }
     ]
   },
-  {
-    "lemma": "proegoros, proagoros",
-    "next": "Proemptor",
-    "short_description": "Fürsprecher einer Gruppe",
-    "chapters": [
-      {
-        "start": 104,
-        "end": 107,
-        "author": "Schaefer"
-      }
-    ]
-  },
+  {"lemma": "Προεισφορά", "previous": "προήγορος, προάγορος", "next": "Proemptor"},
   {
     "lemma": "Proemptor",
     "previous": "Προεισφορά",
