@@ -862,7 +862,7 @@
   {
     "lemma": "Σημανθινοί",
     "previous": "Semana",
-    "next": "Semantikos",
+    "next": "Σημαντικός",
     "sort_key": "Semanthinoi",
     "proof_read": 0,
     "short_description": "Volksstamm in Sinae",
@@ -875,19 +875,22 @@
     ]
   },
   {
-    "lemma": "Semantikos",
+    "lemma": "Σημαντικός",
     "previous": "Σημανθινοί",
     "next": "Σημανοῦς",
+    "sort_key": "Semantikos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1329,
-        "author": "Zwicker"
+        "end": 1329,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Σημανοῦς",
-    "previous": "Semantikos",
+    "previous": "Σημαντικός",
     "next": "Semasia",
     "sort_key": "Semanus",
     "redirect": "Semana",
@@ -903,12 +906,13 @@
     "lemma": "Semasia",
     "previous": "Σημανοῦς",
     "next": "Κώμη Σεμάτη",
+    "proof_read": 0,
     "short_description": "Aufschrift alexandrin. Großbronzemünzen",
     "chapters": [
       {
         "start": 1329,
         "end": 1330,
-        "author": "Regling"
+        "author": "Regling."
       }
     ]
   },
@@ -944,11 +948,18 @@
     "lemma": "Sembella",
     "previous": "Sematus",
     "next": "Sembobitis",
+    "proof_read": 0,
     "short_description": "Altröm. Silberrechnungsmünze",
     "chapters": [
       {
         "start": 1330,
-        "author": "Viedebantt"
+        "end": 1330,
+        "author": "Viedebantt."
+      },
+      {
+        "start": 1330,
+        "end": 1330,
+        "author": "Regling."
       }
     ]
   },
@@ -1009,7 +1020,7 @@
   {
     "lemma": "Σεμέας",
     "previous": "Semea",
-    "next": "Semeia",
+    "next": "Σημεῖα",
     "sort_key": "Semeas",
     "proof_read": 2,
     "short_description": "Semeas",
@@ -1022,28 +1033,31 @@
     ]
   },
   {
-    "lemma": "Semeia",
+    "lemma": "Σημεῖα",
     "previous": "Σεμέας",
     "next": "Semeion",
+    "sort_key": "Semeia",
+    "proof_read": 0,
     "short_description": "Bei d. Griechen Zeichen d. Nachrichtenvermittlung",
     "chapters": [
       {
         "start": 1331,
         "end": 1339,
-        "author": "Lammert, Friedrich"
+        "author": "F. Lammert."
       }
     ]
   },
   {
     "lemma": "Semeion",
-    "previous": "Semeia",
+    "previous": "Σημεῖα",
     "next": "Semele",
+    "proof_read": 0,
     "short_description": "Das sinnlich wahrnehmbare Zeichen (Abzeichen, Feldzeichen, Wunderzeichen, Spur,",
     "chapters": [
       {
         "start": 1339,
         "end": 1341,
-        "author": "Gaerte"
+        "author": "Gaerte."
       }
     ]
   },
@@ -1051,12 +1065,13 @@
     "lemma": "Semele",
     "previous": "Semeion",
     "next": "Semelingus",
+    "proof_read": 0,
     "short_description": "Gr. Göttin",
     "chapters": [
       {
         "start": 1341,
         "end": 1345,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -1064,10 +1079,12 @@
     "lemma": "Semelingus",
     "previous": "Semele",
     "next": "Semel(l)itani",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1345,
-        "author": "Keune"
+        "end": 1345,
+        "author": "Keune."
       }
     ]
   },
@@ -1090,37 +1107,43 @@
   {
     "lemma": "Semempses",
     "previous": "Semel(l)itani",
-    "next": "Semenai",
+    "next": "Σεμῆναι",
+    "proof_read": 0,
     "short_description": "König d. ägypt. 1. Dynastie",
     "chapters": [
       {
         "start": 1345,
         "end": 1346,
-        "author": "Kees"
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Semenai",
+    "lemma": "Σεμῆναι",
     "previous": "Semempses",
     "next": "Sementivae feriae",
+    "sort_key": "Semenai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1346,
-        "author": "Fischer"
+        "end": 1346,
+        "author": "C. Th. Fischer."
       }
     ]
   },
   {
     "lemma": "Sementivae feriae",
-    "previous": "Semenai",
+    "previous": "Σεμῆναι",
     "next": "Semeros",
+    "sort_key": "Sementivaeferiae",
+    "proof_read": 0,
     "short_description": "Saatfest d. ältesten röm. Religion",
     "chapters": [
       {
         "start": 1346,
         "end": 1347,
-        "author": "Klotz"
+        "author": "Klotz."
       }
     ]
   },
@@ -1196,7 +1219,7 @@
   {
     "lemma": "Σήμινα",
     "previous": "Semilibral",
-    "next": "Semiramel",
+    "next": "Σεμιραμήλ",
     "sort_key": "Semina",
     "proof_read": 2,
     "short_description": "(Ptolem. VI 5, 3), Stadt im Inneren von Parthien, nach Tomaschek (s. den Art.",
@@ -1209,31 +1232,36 @@
     ]
   },
   {
-    "lemma": "Semiramel",
+    "lemma": "Σεμιραμήλ",
     "previous": "Σήμινα",
-    "next": "Semiramidos oros",
+    "next": "Σεμιράμιδος ὄρος",
+    "sort_key": "Semiramel",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1347,
-        "author": "Zwicker"
+        "end": 1347,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Semiramidos oros",
-    "previous": "Semiramel",
+    "lemma": "Σεμιράμιδος ὄρος",
+    "previous": "Σεμιραμήλ",
     "next": "Semiramis 1",
+    "sort_key": "Semiramidosoros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1347,
         "end": 1348,
-        "author": "Weissbach"
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Semiramis 1",
-    "previous": "Semiramidos oros",
+    "previous": "Σεμιράμιδος ὄρος",
     "next": "Semiramis 2",
     "redirect": true,
     "proof_read": 2,
@@ -1279,41 +1307,43 @@
   {
     "lemma": "Semis",
     "previous": "Semirus",
-    "next": "Semissos",
-    "short_description": "Der halbe röm. As",
+    "next": "Σημισσός",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 1348,
-        "author": "Viedebantt"
-      },
-      {
-        "start": 1348,
         "end": 1352,
-        "author": "Regling"
+        "author": "Regling."
       }
     ]
   },
   {
-    "lemma": "Semissos",
+    "lemma": "Σημισσός",
     "previous": "Semis",
     "next": "Semitae, Semites",
+    "sort_key": "Semissos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1353,
-        "author": "Honigmann"
+        "end": 1353,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Semitae, Semites",
-    "previous": "Semissos",
+    "previous": "Σημισσός",
     "next": "Semitatrices",
+    "sort_key": "Semitae,semites",
+    "proof_read": 0,
     "short_description": "Fußsteige, Pfade",
     "chapters": [
       {
         "start": 1353,
         "end": 1354,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -1321,10 +1351,12 @@
     "lemma": "Semitatrices",
     "previous": "Semitae, Semites",
     "next": "Semivictoriatus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1354,
-        "author": "Latte"
+        "end": 1354,
+        "author": "Latte."
       }
     ]
   },
@@ -1374,11 +1406,13 @@
     "lemma": "Semne 2",
     "previous": "Semne 1",
     "next": "Semno",
+    "proof_read": 0,
     "short_description": "Küstenstadt in Limyrike in Vorderindien",
     "chapters": [
       {
         "start": 1354,
-        "author": "Wecker"
+        "end": 1354,
+        "author": "Wecker."
       }
     ]
   },
@@ -1386,11 +1420,12 @@
     "lemma": "Semno",
     "previous": "Semne 2",
     "next": "Semnones",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1354,
         "end": 1355,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -1398,12 +1433,13 @@
     "lemma": "Semnones",
     "previous": "Semno",
     "next": "Semnum",
+    "proof_read": 0,
     "short_description": "Suebenvolk zw. Elbe u. Oder",
     "chapters": [
       {
         "start": 1355,
         "end": 1356,
-        "author": "Schönfeld"
+        "author": "Schönfeld."
       }
     ]
   },
@@ -1437,11 +1473,13 @@
     "lemma": "Semon 1",
     "previous": "Semnus",
     "next": "Semon 2",
+    "proof_read": 0,
     "short_description": "Athen. Maler",
     "chapters": [
       {
         "start": 1356,
-        "author": "Lippold, Georg"
+        "end": 1356,
+        "author": "Lippold."
       }
     ]
   },
@@ -1449,11 +1487,13 @@
     "lemma": "Semon 2",
     "previous": "Semon 1",
     "next": "Semones",
+    "proof_read": 0,
     "short_description": "Steinschneider",
     "chapters": [
       {
         "start": 1356,
-        "author": "Sieveking"
+        "end": 1356,
+        "author": "Sieveking."
       }
     ]
   },
@@ -1461,12 +1501,13 @@
     "lemma": "Semones",
     "previous": "Semon 2",
     "next": "Semonia",
+    "proof_read": 0,
     "short_description": "Gute Geister, im Arvallied erwähnt",
     "chapters": [
       {
         "start": 1356,
         "end": 1357,
-        "author": "Klotz"
+        "author": "Klotz."
       }
     ]
   },
@@ -1488,42 +1529,49 @@
   {
     "lemma": "Semos",
     "previous": "Semonia",
-    "next": "Semphe",
+    "next": "Σέμφη",
+    "proof_read": 0,
     "short_description": "Von Delos, Antiquar u. Perieget",
     "chapters": [
       {
         "start": 1357,
         "end": 1359,
-        "author": "Jacoby, [Felix]"
+        "author": "F. Jacoby."
       }
     ]
   },
   {
-    "lemma": "Semphe",
+    "lemma": "Σέμφη",
     "previous": "Semos",
-    "next": "Semphrukrates",
+    "next": "Σεμφρουκράτης",
+    "sort_key": "Semphe",
+    "proof_read": 0,
     "short_description": "Stadt in Arabien am Euphrat",
     "chapters": [
       {
         "start": 1359,
-        "author": "Honigmann"
+        "end": 1359,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Semphrukrates",
-    "previous": "Semphe",
+    "lemma": "Σεμφρουκράτης",
+    "previous": "Σέμφη",
     "next": "Sempronianus 1",
+    "sort_key": "Semphrukrates",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1359,
-        "author": "Kees"
+        "end": 1359,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Sempronianus 1",
-    "previous": "Semphrukrates",
+    "previous": "Σεμφρουκράτης",
     "next": "Sempronianus 2",
     "redirect": "Arruntius 22",
     "proof_read": 2,
@@ -1553,7 +1601,7 @@
     "next": "Sempronius",
     "sort_key": "Semproniu",
     "proof_read": 2,
-    "short_description": "(IG XII 2, 76f. 1112, 8), Demos der Stadt Mytilene auf der Insel Lesbos.",
+    "short_description": "Demos der Stadt Mytilene auf der Insel Lesbos",
     "chapters": [
       {
         "start": 1359,
@@ -1566,12 +1614,13 @@
     "lemma": "Sempronius",
     "previous": "Σεμπρωνίου",
     "next": "Sempronius 1",
+    "proof_read": 0,
     "short_description": "Römischer Geschlechtsname",
     "chapters": [
       {
         "start": 1359,
         "end": 1360,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -1579,11 +1628,13 @@
     "lemma": "Sempronius 1",
     "previous": "Sempronius",
     "next": "Sempronius 2",
+    "proof_read": 0,
     "short_description": "Mörder des Pompeius (irr.), s. Septimius Nr. 7",
     "chapters": [
       {
         "start": 1360,
-        "author": "Münzer"
+        "end": 1360,
+        "author": "Münzer."
       }
     ]
   },
@@ -1591,11 +1642,13 @@
     "lemma": "Sempronius 2",
     "previous": "Sempronius 1",
     "next": "Sempronius 3",
+    "proof_read": 0,
     "short_description": "A. cos. 428/27 v. Chr. Siehe A.Sempr.Atratin. Nr. 22.",
     "chapters": [
       {
         "start": 1360,
-        "author": "Münzer"
+        "end": 1360,
+        "author": "Münzer."
       }
     ]
   },
@@ -1603,12 +1656,13 @@
     "lemma": "Sempronius 3",
     "previous": "Sempronius 2",
     "next": "Sempronius 4",
+    "proof_read": 0,
     "short_description": "A. Urkundszeuge in einem Senatskonsult für Narthakion in Thessalien",
     "chapters": [
       {
         "start": 1360,
         "end": 1361,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -1616,11 +1670,13 @@
     "lemma": "Sempronius 4",
     "previous": "Sempronius 3",
     "next": "Sempronius 5",
+    "proof_read": 0,
     "short_description": "C. In einer Inschr. auf einer Amphore erwähnt",
     "chapters": [
       {
         "start": 1361,
-        "author": "Münzer"
+        "end": 1361,
+        "author": "Münzer."
       }
     ]
   },
@@ -1628,11 +1684,13 @@
     "lemma": "Sempronius 5",
     "previous": "Sempronius 4",
     "next": "Sempronius 6",
+    "proof_read": 0,
     "short_description": "C. Urkundszeuge in einem Senatsbeschluß 260 v. Chr.",
     "chapters": [
       {
         "start": 1361,
-        "author": "Münzer"
+        "end": 1361,
+        "author": "Münzer."
       }
     ]
   },
@@ -1640,11 +1698,13 @@
     "lemma": "Sempronius 6",
     "previous": "Sempronius 5",
     "next": "Sempronius 7",
+    "proof_read": 0,
     "short_description": "C. Genannt im SC de Adramytenis",
     "chapters": [
       {
         "start": 1361,
-        "author": "Münzer"
+        "end": 1361,
+        "author": "Münzer."
       }
     ]
   },
@@ -1652,11 +1712,13 @@
     "lemma": "Sempronius 7",
     "previous": "Sempronius 6",
     "next": "Sempronius 8",
+    "proof_read": 0,
     "short_description": "Cn. Führer der Gesandtschaft der bei Cannae gefangenen Römer an den Senat",
     "chapters": [
       {
         "start": 1361,
-        "author": "Münzer"
+        "end": 1361,
+        "author": "Münzer."
       }
     ]
   },
@@ -1736,12 +1798,13 @@
     "lemma": "Sempronius 13",
     "previous": "Sempronius 12",
     "next": "Sempronius 14",
+    "proof_read": 0,
     "short_description": "T. Dio I 175. Siehe M. Sempronius Tuditanus Nr. 93",
     "chapters": [
       {
         "start": 1361,
         "end": 1362,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -1749,11 +1812,13 @@
     "lemma": "Sempronius 14",
     "previous": "Sempronius 13",
     "next": "Sempronius 15",
+    "proof_read": 0,
     "short_description": "Aelius Lycinus, P., Proc. Augg. provinciae Syriae Palaestinae",
     "chapters": [
       {
         "start": 1362,
-        "author": "Stein, [Arthur]"
+        "end": 1362,
+        "author": "Stein."
       }
     ]
   },
@@ -1761,11 +1826,13 @@
     "lemma": "Sempronius 15",
     "previous": "Sempronius 14",
     "next": "Sempronius 16",
+    "proof_read": 0,
     "short_description": "Aquila, IGR III 188",
     "chapters": [
       {
         "start": 1362,
-        "author": "Stein, [Arthur]"
+        "end": 1362,
+        "author": "Stein."
       }
     ]
   },
@@ -1773,12 +1840,13 @@
     "lemma": "Sempronius 16",
     "previous": "Sempronius 15",
     "next": "Sempronius 17",
+    "proof_read": 0,
     "short_description": "Asellio, Verfasser von Historiae",
     "chapters": [
       {
         "start": 1362,
         "end": 1363,
-        "author": "Klotz"
+        "author": "Klotz."
       }
     ]
   },
@@ -1786,12 +1854,13 @@
     "lemma": "Sempronius 17",
     "previous": "Sempronius 16",
     "next": "Sempronius 18",
+    "proof_read": 0,
     "short_description": "Asellio, A., Praetor urbanus 89 v. Chr.",
     "chapters": [
       {
         "start": 1363,
         "end": 1364,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -1799,11 +1868,13 @@
     "lemma": "Sempronius 18",
     "previous": "Sempronius 17",
     "next": "Sempronius 19",
+    "proof_read": 0,
     "short_description": "Asellio, L., Praetor von Sizilien",
     "chapters": [
       {
         "start": 1364,
-        "author": "Münzer"
+        "end": 1364,
+        "author": "Münzer."
       }
     ]
   },
@@ -1825,12 +1896,13 @@
     "lemma": "Sempronius 20",
     "previous": "Sempronius 19",
     "next": "Sempronius 21",
+    "proof_read": 0,
     "short_description": "Atratinus, A., cos. II 491 v. Chr.",
     "chapters": [
       {
         "start": 1364,
         "end": 1365,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -1838,11 +1910,13 @@
     "lemma": "Sempronius 21",
     "previous": "Sempronius 20",
     "next": "Sempronius 22",
+    "proof_read": 0,
     "short_description": "Atratinus, A., Tr. mil. consulari potestate 444 v. Chr.",
     "chapters": [
       {
         "start": 1365,
-        "author": "Münzer"
+        "end": 1365,
+        "author": "Münzer."
       }
     ]
   },
@@ -1850,12 +1924,13 @@
     "lemma": "Sempronius 22",
     "previous": "Sempronius 21",
     "next": "Sempronius 23",
+    "proof_read": 0,
     "short_description": "Atratinus, A., Tr. mil. consulari potestate III 416 v. Chr.",
     "chapters": [
       {
         "start": 1365,
         "end": 1366,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -1863,11 +1938,13 @@
     "lemma": "Sempronius 23",
     "previous": "Sempronius 22",
     "next": "Sempronius 24",
+    "proof_read": 0,
     "short_description": "Atratinus, A., Magister equitum unter T. Quinctius Cincinnatus",
     "chapters": [
       {
         "start": 1366,
-        "author": "Münzer"
+        "end": 1366,
+        "author": "Münzer."
       }
     ]
   },
@@ -1875,11 +1952,13 @@
     "lemma": "Sempronius 24",
     "previous": "Sempronius 23",
     "next": "Sempronius 25",
+    "proof_read": 0,
     "short_description": "Atratinus, C., cos. 423 v. Chr.",
     "chapters": [
       {
         "start": 1366,
-        "author": "Münzer"
+        "end": 1366,
+        "author": "Münzer."
       }
     ]
   },
@@ -1887,11 +1966,13 @@
     "lemma": "Sempronius 25",
     "previous": "Sempronius 24",
     "next": "Sempronius 26",
+    "proof_read": 0,
     "short_description": "Atratinus, L., cos. 444 v. Chr.",
     "chapters": [
       {
         "start": 1366,
-        "author": "Münzer"
+        "end": 1366,
+        "author": "Münzer."
       }
     ]
   },
@@ -1899,12 +1980,13 @@
     "lemma": "Sempronius 26",
     "previous": "Sempronius 25",
     "next": "Sempronius 27",
+    "proof_read": 0,
     "short_description": "Atratinus, L., cos. 34 v. Chr.",
     "chapters": [
       {
         "start": 1366,
         "end": 1368,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -1912,11 +1994,13 @@
     "lemma": "Sempronius 27",
     "previous": "Sempronius 26",
     "next": "Sempronius 28",
+    "proof_read": 0,
     "short_description": "Atratinus, L., Vater der Sempronia Atratina",
     "chapters": [
       {
         "start": 1368,
-        "author": "Fluss"
+        "end": 1368,
+        "author": "Fluss."
       }
     ]
   },
@@ -1924,12 +2008,13 @@
     "lemma": "Sempronius 28",
     "previous": "Sempronius 27",
     "next": "Sempronius 29",
+    "proof_read": 0,
     "short_description": "Blaesus, C., cos. II 244 v. Chr.",
     "chapters": [
       {
         "start": 1368,
         "end": 1369,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -2001,12 +2086,13 @@
     "lemma": "Sempronius 33",
     "previous": "Sempronius 32",
     "next": "Sempronius 34",
+    "proof_read": 0,
     "short_description": "Caelianus, Offizier in Bithynien unter Plinius",
     "chapters": [
       {
         "start": 1369,
         "end": 1370,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -2014,11 +2100,13 @@
     "lemma": "Sempronius 34",
     "previous": "Sempronius 33",
     "next": "Sempronius 35",
+    "proof_read": 0,
     "short_description": "Cephalio, L., CIL VI 9208",
     "chapters": [
       {
         "start": 1370,
-        "author": "Kroll"
+        "end": 1370,
+        "author": "Kroll."
       }
     ]
   },
@@ -2026,11 +2114,13 @@
     "lemma": "Sempronius 35",
     "previous": "Sempronius 34",
     "next": "Sempronius 36",
+    "proof_read": 0,
     "short_description": "Celsus Servilius Fabianus, L., Procos. provinciae Baeticae",
     "chapters": [
       {
         "start": 1370,
-        "author": "Fluss"
+        "end": 1370,
+        "author": "Fluss."
       }
     ]
   },
@@ -2038,11 +2128,13 @@
     "lemma": "Sempronius 36",
     "previous": "Sempronius 35",
     "next": "Sempronius 37ff.",
+    "proof_read": 0,
     "short_description": "Densus, Centurio der Praetorianer unter Galba",
     "chapters": [
       {
         "start": 1370,
-        "author": "Stein, [Arthur]"
+        "end": 1370,
+        "author": "Stein."
       }
     ]
   },
@@ -2063,11 +2155,13 @@
     "lemma": "Sempronius 37",
     "previous": "Sempronius 37ff.",
     "next": "Sempronius 38",
+    "proof_read": 0,
     "short_description": "Gracchus, Münzmeister im Hannibalischen Krieg",
     "chapters": [
       {
         "start": 1371,
-        "author": "Münzer"
+        "end": 1371,
+        "author": "Münzer."
       }
     ]
   },
@@ -2075,11 +2169,13 @@
     "lemma": "Sempronius 38",
     "previous": "Sempronius 37",
     "next": "Sempronius 39",
+    "proof_read": 0,
     "short_description": "Gracchus, Zweiter Sohn des Ti. Gracchus Nr. 54 ca. 130 jung gestorben",
     "chapters": [
       {
         "start": 1371,
-        "author": "Münzer"
+        "end": 1371,
+        "author": "Münzer."
       }
     ]
   },
@@ -2087,11 +2183,13 @@
     "lemma": "Sempronius 39",
     "previous": "Sempronius 38",
     "next": "Sempronius 40",
+    "proof_read": 0,
     "short_description": "Gracchus, Dritter Sohn von Ti. Gracchus Nr. 54 vor 130 als Kind gestorben",
     "chapters": [
       {
         "start": 1371,
-        "author": "Münzer"
+        "end": 1371,
+        "author": "Münzer."
       }
     ]
   },
@@ -2099,11 +2197,13 @@
     "lemma": "Sempronius 40",
     "previous": "Sempronius 39",
     "next": "Sempronius 41",
+    "proof_read": 0,
     "short_description": "Gracchus, Sohn des C. Gracchus Nr. 47",
     "chapters": [
       {
         "start": 1371,
-        "author": "Münzer"
+        "end": 1371,
+        "author": "Münzer."
       }
     ]
   },
@@ -2111,12 +2211,13 @@
     "lemma": "Sempronius 41",
     "previous": "Sempronius 40",
     "next": "Sempronius 42",
+    "proof_read": 0,
     "short_description": "Gracchus, Verführer der Iulia 550",
     "chapters": [
       {
         "start": 1371,
         "end": 1374,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -2124,11 +2225,13 @@
     "lemma": "Sempronius 42",
     "previous": "Sempronius 41",
     "next": "Sempronius 43",
+    "proof_read": 0,
     "short_description": "Gracchus, Praetor 33 n. Chr.",
     "chapters": [
       {
         "start": 1374,
-        "author": "Groag"
+        "end": 1374,
+        "author": "Groag."
       }
     ]
   },
@@ -2150,12 +2253,13 @@
     "lemma": "Sempronius 44",
     "previous": "Sempronius 43",
     "next": "Sempronius 45",
+    "proof_read": 0,
     "short_description": "Gracchus, Trat als retiarius in der Arena auf",
     "chapters": [
       {
         "start": 1374,
         "end": 1375,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -2318,11 +2422,13 @@
     "lemma": "Sempronius 55",
     "previous": "Sempronius 54",
     "next": "Sempronius 56",
+    "proof_read": 0,
     "short_description": "Gracchus, Ti., Sohn des Sempronius Gracchus Nr. 54",
     "chapters": [
       {
         "start": 1426,
-        "author": "Münzer"
+        "end": 1426,
+        "author": "Münzer."
       }
     ]
   },
@@ -2345,12 +2451,13 @@
     "lemma": "Sempronius 57",
     "previous": "Sempronius 56",
     "next": "Sempronius 58",
+    "proof_read": 0,
     "short_description": "Gracchus, Ti., Münzmeister",
     "chapters": [
       {
         "start": 1426,
         "end": 1427,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -2358,12 +2465,13 @@
     "lemma": "Sempronius 58",
     "previous": "Sempronius 57",
     "next": "Sempronius 59",
+    "proof_read": 0,
     "short_description": "Gracchus, Ti., Legat des L. Caesar",
     "chapters": [
       {
         "start": 1427,
         "end": 1428,
-        "author": "Groag"
+        "author": "Groag."
       }
     ]
   },
@@ -2385,11 +2493,13 @@
     "lemma": "Sempronius 60",
     "previous": "Sempronius 59",
     "next": "Sempronius 61",
+    "proof_read": 0,
     "short_description": "Gracchus, Ti., Praef. des M. Marcellus",
     "chapters": [
       {
         "start": 1428,
-        "author": "Münzer"
+        "end": 1428,
+        "author": "Münzer."
       }
     ]
   },
@@ -2410,38 +2520,42 @@
   {
     "lemma": "Sempronius 62",
     "previous": "Sempronius 61",
-    "next": "Sempronius 63",
+    "next": "Sempronius 63ff.",
+    "proof_read": 0,
     "short_description": "Liberalis, M., Praef. von Aegypten 154-159 n. Chr.",
     "chapters": [
       {
         "start": 1428,
         "end": 1429,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Sempronius 63",
-    "previous": "Sempronius 62",
-    "next": "Sempronius 63ff.",
+    "previous": "Sempronius 63ff.",
+    "next": "Sempronius 64",
+    "proof_read": 0,
     "short_description": "Longus, Decemvir sacris faciundis 174 v. Chr.",
     "chapters": [
       {
         "start": 1429,
         "end": 1430,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Sempronius 63ff.",
-    "previous": "Sempronius 63",
-    "next": "Sempronius 64",
+    "previous": "Sempronius 62",
+    "next": "Sempronius 63",
+    "proof_read": 0,
     "short_description": "Sempronii Longi",
     "chapters": [
       {
         "start": 1429,
-        "author": "Münzer"
+        "end": 1430,
+        "author": "Münzer."
       }
     ]
   },
@@ -2464,11 +2578,13 @@
     "lemma": "Sempronius 65",
     "previous": "Sempronius 64",
     "next": "Sempronius 66",
+    "proof_read": 0,
     "short_description": "Longus, P. Praetor 184 v. Chr.",
     "chapters": [
       {
         "start": 1430,
-        "author": "Münzer"
+        "end": 1430,
+        "author": "Münzer."
       }
     ]
   },
@@ -2476,12 +2592,13 @@
     "lemma": "Sempronius 66",
     "previous": "Sempronius 65",
     "next": "Sempronius 67",
+    "proof_read": 0,
     "short_description": "Longus, Ti. cos. 218 v. Chr.",
     "chapters": [
       {
         "start": 1430,
         "end": 1433,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -2489,12 +2606,13 @@
     "lemma": "Sempronius 67",
     "previous": "Sempronius 66",
     "next": "Sempronius 68",
+    "proof_read": 0,
     "short_description": "Longus, Ti. cos. 194 v. Chr.",
     "chapters": [
       {
         "start": 1433,
         "end": 1435,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -2502,11 +2620,13 @@
     "lemma": "Sempronius 68",
     "previous": "Sempronius 67",
     "next": "Sempronius 69",
+    "proof_read": 0,
     "short_description": "Longus, Ti. Focht das Testament des Sempronius Tuditanus Nr. 89 an",
     "chapters": [
       {
         "start": 1435,
-        "author": "Münzer"
+        "end": 1435,
+        "author": "Münzer."
       }
     ]
   },
@@ -2514,11 +2634,13 @@
     "lemma": "Sempronius 69",
     "previous": "Sempronius 68",
     "next": "Sempronius 70",
+    "proof_read": 0,
     "short_description": "Lycinus s. Sempronius Nr. 14",
     "chapters": [
       {
         "start": 1435,
-        "author": "Münzer"
+        "end": 1435,
+        "author": "Münzer."
       }
     ]
   },
@@ -2540,11 +2662,13 @@
     "lemma": "Sempronius 71",
     "previous": "Sempronius 70",
     "next": "Sempronius 72",
+    "proof_read": 0,
     "short_description": "Musca, A. Bewarb sich 91 v. Chr. um eines der niederen Aemter",
     "chapters": [
       {
         "start": 1435,
-        "author": "Münzer"
+        "end": 1435,
+        "author": "Münzer."
       }
     ]
   },
@@ -2581,11 +2705,13 @@
     "lemma": "Sempronius 74",
     "previous": "Sempronius 73",
     "next": "Sempronius 75",
+    "proof_read": 0,
     "short_description": "Pitio, L. Münzmeister",
     "chapters": [
       {
         "start": 1435,
-        "author": "Münzer"
+        "end": 1435,
+        "author": "Münzer."
       }
     ]
   },
@@ -2593,11 +2719,13 @@
     "lemma": "Sempronius 75",
     "previous": "Sempronius 74",
     "next": "Sempronius 76",
+    "proof_read": 0,
     "short_description": "Proculus, L. CIL XV 7529",
     "chapters": [
       {
         "start": 1435,
-        "author": "Riba"
+        "end": 1435,
+        "author": "Riba."
       }
     ]
   },
@@ -2633,12 +2761,13 @@
     "lemma": "Sempronius 78",
     "previous": "Sempronius 77",
     "next": "Sempronius 79",
+    "proof_read": 0,
     "short_description": "Rufus Spanischer Eunuch",
     "chapters": [
       {
         "start": 1435,
         "end": 1436,
-        "author": "Stein, [Arthur]"
+        "author": "Stein."
       }
     ]
   },
@@ -2646,12 +2775,13 @@
     "lemma": "Sempronius 79",
     "previous": "Sempronius 78",
     "next": "Sempronius 80",
+    "proof_read": 0,
     "short_description": "Rufus, C. Cic. fam. VIII 8,1",
     "chapters": [
       {
         "start": 1436,
         "end": 1437,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -2731,12 +2861,13 @@
     "lemma": "Sempronius 85",
     "previous": "Sempronius 84",
     "next": "Sempronius 86",
+    "proof_read": 0,
     "short_description": "Sophus, P. cos. 304 v. Chr.",
     "chapters": [
       {
         "start": 1437,
         "end": 1438,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -2744,12 +2875,13 @@
     "lemma": "Sempronius 86",
     "previous": "Sempronius 85",
     "next": "Sempronius 87",
+    "proof_read": 0,
     "short_description": "Sophus, P. cos. 268 v. Chr.",
     "chapters": [
       {
         "start": 1438,
         "end": 1439,
-        "author": "Münzer"
+        "author": "Münzer."
       }
     ]
   },
@@ -3146,12 +3278,13 @@
     "lemma": "Sempronius 110a",
     "previous": "Sempronius 110",
     "next": "Sempronius 110b",
+    "proof_read": 0,
     "short_description": "Ziegler der Mainzer 22. Legion",
     "chapters": [
       {
         "start": 1446,
         "end": 1447,
-        "author": "Keune"
+        "author": "Keune."
       }
     ]
   },
@@ -13050,7 +13183,7 @@
     "lemma": "Set.",
     "previous": "Sesus",
     "next": "Setae",
-    "redirect": "Seius 19a-d",
+    "redirect": "Seius 19a",
     "proof_read": 2,
     "chapters": [
       {
