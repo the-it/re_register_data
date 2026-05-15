@@ -6054,6 +6054,7 @@
   {
     "lemma": "Προκύκλιος",
     "previous": "Πρόκουρι πόλις",
+    "next": "Prokyon",
     "sort_key": "Prokyklios",
     "proof_read": 3,
     "short_description": "Prokyklios, mittelgriechischer Monatsname in Aitolien",
@@ -9082,7 +9083,7 @@
   {
     "lemma": "Proselyten",
     "previous": "Proselenoi",
-    "next": "Proseoa",
+    "next": "Προσηῴα",
     "chapters": [
       {
         "start": 846,
@@ -9091,9 +9092,10 @@
     ]
   },
   {
-    "lemma": "Proseoa",
+    "lemma": "Προσηῴα",
     "previous": "Proselyten",
     "next": "Proserius",
+    "sort_key": "Proseoa",
     "proof_read": 0,
     "short_description": "Beiname der Artemis",
     "chapters": [
@@ -9106,7 +9108,7 @@
   },
   {
     "lemma": "Proserius",
-    "previous": "Proseoa",
+    "previous": "Προσηῴα",
     "next": "Proserpina",
     "chapters": [
       {
@@ -9158,7 +9160,7 @@
   {
     "lemma": "Prosius 2",
     "previous": "Prosius 1",
-    "next": "Προσκατάβλημα",
+    "next": "προσκατάβλημα",
     "proof_read": 0,
     "short_description": "Tertullianus, Statthalter von Moesien zwischen 241 und 244",
     "chapters": [
@@ -9170,7 +9172,7 @@
     ]
   },
   {
-    "lemma": "Προσκατάβλημα",
+    "lemma": "προσκατάβλημα",
     "previous": "Prosius 2",
     "next": "Proskenion",
     "sort_key": "Proskatablema",
@@ -9186,7 +9188,7 @@
   },
   {
     "lemma": "Proskenion",
-    "previous": "Προσκατάβλημα",
+    "previous": "προσκατάβλημα",
     "next": "πρόσκλησις",
     "chapters": [
       {
@@ -9529,7 +9531,7 @@
   {
     "lemma": "Prostates",
     "previous": "Προστατήριος 2",
-    "next": "Prostatina",
+    "next": "προστάτης",
     "proof_read": 0,
     "short_description": "Epiklesis verschiedener Gottheiten",
     "chapters": [
@@ -11654,6 +11656,7 @@
   {
     "lemma": "Provertuides",
     "previous": "proverbium",
+    "next": "Providentia",
     "proof_read": 2,
     "short_description": "Offiziers unter dem Heermeister Iovinus",
     "no_creative_height": true,
@@ -11716,6 +11719,8 @@
   },
   {
     "lemma": "Proxenides",
+    "previous": "provocatio",
+    "next": "πρόξενος",
     "proof_read": 2,
     "short_description": "Lieblingsname auf einer rotfig.-Lutrophoros",
     "no_creative_height": true,
@@ -12376,6 +12381,7 @@
   {
     "lemma": "Prymno",
     "previous": "Prymnis",
+    "next": "Pryos",
     "proof_read": 0,
     "short_description": "Tochter des Okeanos",
     "chapters": [
@@ -12837,14 +12843,15 @@
   },
   {
     "lemma": "Proklos 5a",
-    "previous": "Prokles 18",
-    "next": "Promathos",
-    "short_description": "Mosaikarbeiter(?).",
+    "previous": "Proklos 5",
+    "next": "Proklos 6",
+    "redirect": true,
+    "proof_read": 0,
+    "short_description": "Mosaikarbeiter",
     "chapters": [
       {
-        "start": 1284,
-        "end": 1285,
-        "author": "Lippold, Georg"
+        "start": 247,
+        "end": 247
       }
     ]
   },

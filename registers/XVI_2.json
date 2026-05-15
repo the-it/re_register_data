@@ -1629,7 +1629,7 @@
   {
     "lemma": "Naevius 1",
     "previous": "Naevius",
-    "next": "Naevius 3",
+    "next": "Naevius 2",
     "sort_key": "Naevius 1",
     "proof_read": 2,
     "short_description": "bei Horaz ein schlechter Hausvater",
@@ -1642,8 +1642,26 @@
     ]
   },
   {
-    "lemma": "Naevius 3",
+    "lemma": "Naevius 2",
     "previous": "Naevius 1",
+    "next": "Naevius 3",
+    "sort_key": "Naevius 2",
+    "redirect": true,
+    "proof_read": 2,
+    "short_description": "Cn. N., röm. Dichter 3. Jh. v. Chr.",
+    "wp_link": "w:de:Gnaeus Naevius",
+    "ws_link": "s:fr:Auteur:Naevius",
+    "wd_link": "d:Q212667",
+    "chapters": [
+      {
+        "start": 1558,
+        "end": 1558
+      }
+    ]
+  },
+  {
+    "lemma": "Naevius 3",
+    "previous": "Naevius 2",
     "next": "Naevius 4",
     "proof_read": 0,
     "short_description": "Volkstribun 184 v. Chr.",
