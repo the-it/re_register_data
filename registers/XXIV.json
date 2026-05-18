@@ -1420,7 +1420,6 @@
   {
     "lemma": "Pyrphoros 3",
     "previous": "Pyrphoros 2",
-    "next": "Pyrrha 1",
     "redirect": "Pyroeis 4",
     "proof_read": 2,
     "no_creative_height": true,
@@ -1429,6 +1428,27 @@
         "start": 77,
         "end": 77,
         "author": "Hans v. Geisau."
+      }
+    ]
+  },
+  {
+    "lemma": "Pyrpile",
+    "previous": "Pyrphoros 3",
+    "next": "Pyrrha",
+    "chapters": [
+      {
+        "start": 77
+      }
+    ]
+  },
+  {
+    "lemma": "Pyrrha",
+    "previous": "Pyrpile",
+    "next": "Pyrrha 1",
+    "chapters": [
+      {
+        "start": 77,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -1658,6 +1678,17 @@
         "start": 80,
         "end": 80,
         "author": "Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Pyrrha 17",
+    "previous": "Pyrrha 16",
+    "next": "Pyrrha 18",
+    "chapters": [
+      {
+        "start": 80,
+        "end": 80
       }
     ]
   },
@@ -2070,26 +2101,15 @@
     ]
   },
   {
-    "lemma": "Pyrrolochos",
-    "next": "Pyrrhon oros",
-    "chapters": [
-      {
-        "start": 87,
-        "end": 87,
-        "author": "Konrat Ziegler."
-      }
-    ]
+    "lemma": "Πυρρὸν ὄρος"
   },
   {
-    "lemma": "Pyrrhon oros",
-    "previous": "Pyrrolochos",
+    "lemma": "Πυρρὸν πεδίον",
+    "previous": "Πυρρὸν ὄρος",
     "next": "Pyrrhon 1",
-    "short_description": "Gebirge an d. Westküste Vorderindiens",
     "chapters": [
       {
-        "start": 87,
-        "end": 89,
-        "author": "Treidler"
+        "start": 89
       }
     ]
   },
@@ -2519,7 +2539,6 @@
   {
     "lemma": "Pytha(i)eus 2",
     "previous": "Pytha(i)eus 1",
-    "next": "Pythagoras",
     "proof_read": 0,
     "short_description": "Sohn Apollons",
     "chapters": [
@@ -2932,26 +2951,12 @@
     ]
   },
   {
-    "lemma": "Pythangelou kynegion",
-    "previous": "Πυθαγγέλου βωμοί",
-    "next": "Pythangelou limen",
+    "lemma": "Πυθαγγέλου κυνήγιον",
     "short_description": "Bei Artemidor erwähntes Gebiet unweit der afrikanischen Ostküste i. Hinterland",
     "chapters": [
       {
         "start": 309,
         "end": 313,
-        "author": "Treidler"
-      }
-    ]
-  },
-  {
-    "lemma": "Pythangelou limen",
-    "previous": "Pythangelou kynegion",
-    "short_description": "Bei Strabon erwähnter Hafenplatz an d. ostafrikanischen Küste",
-    "chapters": [
-      {
-        "start": 313,
-        "end": 314,
         "author": "Treidler"
       }
     ]
@@ -4810,21 +4815,7 @@
     ]
   },
   {
-    "lemma": "Pytholaou akroterion",
-    "next": "Pytholaou bomoi",
-    "short_description": "Nur von Strabon erwähntes Vorgebirge an d. ostafrikan. Küste i. Westteil d.",
-    "chapters": [
-      {
-        "start": 602,
-        "end": 604,
-        "author": "Treidler"
-      }
-    ]
-  },
-  {
-    "lemma": "Pytholaou bomoi",
-    "previous": "Pytholaou akroterion",
-    "next": "Πυθολάου στῆλαι",
+    "lemma": "Πυθολάου βωμοί",
     "short_description": "Nur von Strabon erwähnter Ort an der ostafrikanischen Küste am Golf v. Aden",
     "chapters": [
       {
@@ -9738,8 +9729,19 @@
     ]
   },
   {
-    "lemma": "Pyroeides",
+    "lemma": "Pyrgoi 1",
     "previous": "Quosenus",
+    "next": "Pyroeides",
+    "chapters": [
+      {
+        "start": 1403,
+        "author": "Ernst Meyer."
+      }
+    ]
+  },
+  {
+    "lemma": "Pyroeides",
+    "previous": "Pyrgoi 1",
     "next": "Pyrpile",
     "short_description": "Bezeichnung des Planeten Ares-Mars. = Pyroeis Nr. 4",
     "chapters": [
@@ -9825,6 +9827,7 @@
   {
     "lemma": "Pyrrhias 5",
     "previous": "Pyrrhias 4",
+    "next": "Πυρρὸν πεδίον",
     "short_description": "P. von Ithaka, myth. Wohltäter.",
     "chapters": [
       {
@@ -9834,24 +9837,9 @@
     ]
   },
   {
-    "lemma": "Πυρρὸν ὄρος",
-    "previous": "Pyrrholochos",
-    "next": "Πυρρὸν πεδίον",
-    "sort_key": "Pyrrhonoros",
-    "proof_read": 0,
-    "short_description": "Gebirge an d. Westküste Vorderindiens",
-    "chapters": [
-      {
-        "start": 87,
-        "end": 89,
-        "author": "Treidler."
-      }
-    ]
-  },
-  {
     "lemma": "Πυρρὸν πεδίον",
-    "previous": "Πυρρὸν ὄρος",
-    "next": "Pyrron pedion 1",
+    "previous": "Pyrrhias 5",
+    "next": "Πυρρὸν πεδίον 1",
     "short_description": "Allg. Vorb.",
     "chapters": [
       {
@@ -9861,9 +9849,9 @@
     ]
   },
   {
-    "lemma": "Pyrron pedion 1",
+    "lemma": "Πυρρὸν πεδίον 1",
     "previous": "Πυρρὸν πεδίον",
-    "next": "Pyrron pedion 2",
+    "next": "Πυρρὸν πεδίον 2",
     "short_description": "Gebiet der Mauretania Tingit.",
     "chapters": [
       {
@@ -9874,8 +9862,8 @@
     ]
   },
   {
-    "lemma": "Pyrron pedion 2",
-    "previous": "Pyrron pedion 1",
+    "lemma": "Πυρρὸν πεδίον 2",
+    "previous": "Πυρρὸν πεδίον 1",
     "next": "Pyrrhos 19",
     "short_description": "Gebiet von Libya interior.",
     "chapters": [
@@ -9888,7 +9876,7 @@
   },
   {
     "lemma": "Pyrrhos 19",
-    "previous": "Pyrron pedion 2",
+    "previous": "Πυρρὸν πεδίον 2",
     "next": "Pyrrhos 20",
     "proof_read": 2,
     "short_description": "Athener, Prozeß um dessen Erbschaft, 20 Jahre nach seinem Tode",
