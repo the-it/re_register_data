@@ -366,7 +366,6 @@
   {
     "lemma": "Psaphis",
     "previous": "Psaon",
-    "next": "Psaphon",
     "proof_read": 0,
     "short_description": "Att. Demos d. Phyle Aiantis",
     "chapters": [
@@ -379,7 +378,6 @@
   },
   {
     "lemma": "Psaros",
-    "previous": "Psaphis",
     "next": "Psathis",
     "proof_read": 2,
     "short_description": "Fluß in Kilikien",
@@ -449,9 +447,19 @@
     ]
   },
   {
+    "lemma": "Ψεβώ λίμνη",
+    "sort_key": "Psebo limne",
+    "redirect": "Ψεβαῖα ὄρη",
+    "proof_read": 3,
+    "chapters": [
+      {
+        "start": 1322,
+        "end": 1322
+      }
+    ]
+  },
+  {
     "lemma": "Ψεβώ χώρα",
-    "previous": "Ψεβαῖα ὄρη",
-    "next": "Ψεβώ λίμνη",
     "sort_key": "Psebo chora",
     "redirect": "Ψεβαῖα ὄρη",
     "proof_read": 2,
@@ -461,20 +469,6 @@
         "start": 1322,
         "end": 1322,
         "author": "Hans Treidler."
-      }
-    ]
-  },
-  {
-    "lemma": "Ψεβώ λίμνη",
-    "previous": "Ψεβώ χώρα",
-    "next": "Ψεβώ χώρα",
-    "sort_key": "Psebo limne",
-    "redirect": "Ψεβαῖα ὄρη",
-    "proof_read": 3,
-    "chapters": [
-      {
-        "start": 1322,
-        "end": 1322
       }
     ]
   },
@@ -632,6 +626,17 @@
         "start": 1357,
         "end": 1357,
         "author": "Kees."
+      }
+    ]
+  },
+  {
+    "lemma": "Ψηφοκλέπτης, Ψηφολόγος",
+    "previous": "Psenyris",
+    "next": "Ψηφοπαίκτης",
+    "chapters": [
+      {
+        "start": 1357,
+        "end": 1357
       }
     ]
   },
