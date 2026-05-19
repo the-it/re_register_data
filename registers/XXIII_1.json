@@ -5477,7 +5477,16 @@
   {
     "lemma": "Proklos 5a",
     "previous": "Proklos 5",
-    "next": "Proklos 6"
+    "next": "Proklos 6",
+    "redirect": true,
+    "proof_read": 0,
+    "short_description": "Mosaikarbeiter",
+    "chapters": [
+      {
+        "start": 247,
+        "end": 247
+      }
+    ]
   },
   {
     "lemma": "Proklos 6",
@@ -7103,7 +7112,9 @@
     "previous": "Promos 2",
     "next": "Promotus 2",
     "proof_read": 0,
-    "short_description": "Flavius, cos. 389",
+    "short_description": "Flavius Promotus, Heermeister und cos. 389",
+    "wp_link": "w:de:Promotus",
+    "wd_link": "d:Q3922924",
     "chapters": [
       {
         "start": 734,
@@ -9549,12 +9560,23 @@
     ]
   },
   {
-    "lemma": "προστάτης"
+    "lemma": "προστάτης",
+    "previous": "Prostates",
+    "next": "Προστατίνα",
+    "redirect": true,
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 901,
+        "end": 901
+      }
+    ]
   },
   {
-    "lemma": "Prostatina",
+    "lemma": "Προστατίνα",
     "previous": "προστάτης",
     "next": "Prostatis",
+    "sort_key": "Prostatina",
     "proof_read": 0,
     "short_description": "Kultbeiname oder Amtsbezeichnung einer messenischen Priesterin",
     "chapters": [
@@ -9567,7 +9589,7 @@
   },
   {
     "lemma": "Prostatis",
-    "previous": "Prostatina",
+    "previous": "Προστατίνα",
     "next": "Prostatius",
     "redirect": "Prostates",
     "proof_read": 2,
@@ -11745,6 +11767,7 @@
     "lemma": "πρόξενος",
     "previous": "Proxenides",
     "next": "Proxenos",
+    "sort_key": "Proxeno",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -12855,7 +12878,16 @@
   {
     "lemma": "Proklos 5a",
     "previous": "Prokles 18",
-    "next": "Promathos"
+    "next": "Promathos",
+    "proof_read": 0,
+    "short_description": "Mosaikarbeiter",
+    "chapters": [
+      {
+        "start": 1284,
+        "end": 1285,
+        "author": "Georg Lippold."
+      }
+    ]
   },
   {
     "lemma": "Promathos",
