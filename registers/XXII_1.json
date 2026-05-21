@@ -2574,8 +2574,17 @@
     ]
   },
   {
-    "lemma": "Popularis actio",
+    "lemma": "Populares",
     "previous": "Poppaeus 4",
+    "next": "Popularis actio",
+    "chapters": [
+      {
+        "start": 91
+      }
+    ]
+  },
+  {
+    "lemma": "Popularis actio",
     "next": "Populia",
     "redirect": "Actio",
     "proof_read": 2,
@@ -4119,7 +4128,6 @@
   {
     "lemma": "Porphyris",
     "previous": "Porphyrios 21",
-    "next": "Porphyrites",
     "proof_read": 2,
     "short_description": "Beiname von Nisyros",
     "no_creative_height": true,
@@ -4132,23 +4140,7 @@
     ]
   },
   {
-    "lemma": "Porphyrites",
-    "previous": "Porphyris",
-    "next": "Porphyrusa",
-    "proof_read": 0,
-    "short_description": "Berg in d. ägypt. Ostwüste zw. Nil u. Rotem Meer, heute Gebel Duchân",
-    "chapters": [
-      {
-        "start": 313,
-        "end": 314,
-        "author": "Kees."
-      }
-    ]
-  },
-  {
     "lemma": "Πορφυρίτης τόπος",
-    "previous": "Porphyrites",
-    "next": "Porphyrusa",
     "sort_key": "Porphyritestopos",
     "proof_read": 2,
     "short_description": "vermutlich in der Höhlengegend am Toten Meer",
@@ -4161,8 +4153,20 @@
     ]
   },
   {
+    "lemma": "Porphyrites",
+    "proof_read": 0,
+    "short_description": "Berg in d. ägypt. Ostwüste zw. Nil u. Rotem Meer, heute Gebel Duchân",
+    "chapters": [
+      {
+        "start": 313,
+        "end": 314,
+        "author": "Kees."
+      }
+    ]
+  },
+  {
     "lemma": "Porphyrusa",
-    "previous": "Πορφυρίτης τόπος",
+    "previous": "Porphyrites",
     "next": "Porphyrus(s)a",
     "redirect": "Kythera 1",
     "proof_read": 2,
