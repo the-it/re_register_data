@@ -5611,7 +5611,6 @@
   {
     "lemma": "Proknis",
     "previous": "Prokne 4",
-    "next": "Prokopios 1",
     "proof_read": 2,
     "short_description": "Nebenform für den Namen Prokris",
     "no_creative_height": true,
@@ -5624,8 +5623,18 @@
     ]
   },
   {
+    "lemma": "Prokonnesos",
+    "previous": "Proknis",
+    "next": "Prokopios 1",
+    "chapters": [
+      {
+        "start": 252,
+        "end": 252
+      }
+    ]
+  },
+  {
     "lemma": "Prokopios 1",
-    "previous": "Prokopios 21",
     "next": "Prokopios 2",
     "proof_read": 0,
     "short_description": "Praeses Ciliciae",
@@ -6603,13 +6612,22 @@
   {
     "lemma": "Promaea",
     "previous": "Promachos 20",
-    "next": "Promalanges",
     "redirect": "Promēa",
     "proof_read": 2,
     "chapters": [
       {
         "start": 646,
         "end": 646
+      }
+    ]
+  },
+  {
+    "lemma": "promagistro",
+    "previous": "Promaea",
+    "next": "Promalanges",
+    "chapters": [
+      {
+        "start": 646
       }
     ]
   },
