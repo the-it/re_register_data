@@ -99,9 +99,9 @@
   {
     "lemma": "Parapegma",
     "previous": "Parapanisus 2",
-    "next": "Parapherma",
+    "next": "Parapherna",
     "proof_read": 0,
-    "short_description": "Form d. Kalenders",
+    "short_description": "Form des Kalenders",
     "chapters": [
       {
         "start": 1295,
@@ -111,10 +111,11 @@
     ]
   },
   {
-    "lemma": "Parapherma",
+    "lemma": "Parapherna",
     "previous": "Parapegma",
     "next": "Παραφύλακες",
-    "proof_read": 0,
+    "redirect": true,
+    "proof_read": 2,
     "chapters": [
       {
         "start": 1366,
@@ -124,7 +125,7 @@
   },
   {
     "lemma": "Παραφύλακες",
-    "previous": "Parapherma",
+    "previous": "Parapherna",
     "next": "Parapinae",
     "sort_key": "Paraphylakes",
     "proof_read": 2,
