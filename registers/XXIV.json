@@ -2527,6 +2527,7 @@
     "lemma": "Pytha(i)eus 1",
     "previous": "Pystilos",
     "next": "Pytha(i)eus 2",
+    "sort_key": "Pythaeus 1",
     "proof_read": 0,
     "short_description": "Kultischer Beiname Apollons",
     "chapters": [
@@ -2541,6 +2542,7 @@
     "lemma": "Pytha(i)eus 2",
     "previous": "Pytha(i)eus 1",
     "next": "Pythagoras 1",
+    "sort_key": "Pythaeus 2",
     "proof_read": 0,
     "short_description": "Sohn Apollons",
     "chapters": [
@@ -2837,9 +2839,9 @@
   {
     "lemma": "Pythagoras 15",
     "previous": "Pythagoras 14",
-    "next": "Pytainetos",
+    "next": "Pythainetos",
     "proof_read": 0,
-    "short_description": "Von Samos, Maler und Bildhauer d. 5. Jh.v. Chr.",
+    "short_description": "von Samos, Maler und Bildhauer 5. Jh. v. Chr.",
     "chapters": [
       {
         "start": 307,
@@ -2849,7 +2851,7 @@
     ]
   },
   {
-    "lemma": "Pytainetos",
+    "lemma": "Pythainetos",
     "previous": "Pythagoras 15",
     "next": "Pythaios",
     "proof_read": 0,
@@ -2863,7 +2865,7 @@
   },
   {
     "lemma": "Pythaios",
-    "previous": "Pytainetos",
+    "previous": "Pythainetos",
     "next": "Pythais",
     "proof_read": 3,
     "short_description": "Nebenform von Pythios",
@@ -2954,12 +2956,16 @@
   },
   {
     "lemma": "Πυθαγγέλου κυνήγιον",
-    "short_description": "Bei Artemidor erwähntes Gebiet unweit der afrikanischen Ostküste i. Hinterland",
+    "previous": "Πυθαγγέλου βωμοί",
+    "next": "Πυθαγγέλου λιμήν",
+    "sort_key": "Pythangelou kynegion",
+    "proof_read": 0,
+    "short_description": "Gebiet der afrikanischen Ostküste im Hinterland",
     "chapters": [
       {
         "start": 309,
         "end": 313,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },
@@ -2967,9 +2973,9 @@
     "lemma": "Πυθαγγέλου λιμήν",
     "previous": "Πυθαγγέλου κυνήγιον",
     "next": "Pytharatos 1",
-    "sort_key": "Pythangeloulimen",
+    "sort_key": "Pythangelou limen",
     "proof_read": 0,
-    "short_description": "Bei Strabon erwähnter Hafenplatz an d. ostafrikanischen Küste",
+    "short_description": "Hafenplatz der ostafrikanischen Küste",
     "chapters": [
       {
         "start": 313,
@@ -4805,9 +4811,9 @@
     "lemma": "Πυθολάου ἀκρωτήριον",
     "previous": "Pytholaos",
     "next": "Πυθολάου βωμοί",
-    "sort_key": "Pytholaouakroterion",
+    "sort_key": "Pytholaou akroterion",
     "proof_read": 0,
-    "short_description": "Nur von Strabon erwähntes Vorgebirge an d. ostafrikan. Küste i. Westteil d.",
+    "short_description": "Vorgebirge der ostafrikan. Küste",
     "chapters": [
       {
         "start": 602,
@@ -4818,12 +4824,16 @@
   },
   {
     "lemma": "Πυθολάου βωμοί",
-    "short_description": "Nur von Strabon erwähnter Ort an der ostafrikanischen Küste am Golf v. Aden",
+    "previous": "Πυθολάου ἀκρωτήριον",
+    "next": "Πυθολάου στῆλαι",
+    "sort_key": "Pytholaou bomoi",
+    "proof_read": 0,
+    "short_description": "Ort der ostafrikanischen Küste am Golf von Aden",
     "chapters": [
       {
         "start": 604,
         "end": 605,
-        "author": "Treidler"
+        "author": "Treidler."
       }
     ]
   },

@@ -825,6 +825,8 @@
     "sort_key": "Semachidai",
     "proof_read": 0,
     "short_description": "Att. Demos an d. antiochischen Phyle",
+    "wp_link": "w:en:Semachidae",
+    "wd_link": "d:Q13422968",
     "chapters": [
       {
         "start": 1328,
@@ -18536,7 +18538,7 @@
     "lemma": "ad Sextum 4",
     "previous": "ad Sextum 3",
     "next": "Sextus 1",
-    "sort_key": "adsextum 4",
+    "sort_key": "sextum 4",
     "proof_read": 0,
     "short_description": "Rastort am Reiseweg Burdigala - Tolosa",
     "chapters": [
@@ -22108,12 +22110,13 @@
     "lemma": "Sigon 2",
     "previous": "Sigon 1",
     "next": "Sigona",
+    "proof_read": 0,
     "short_description": "Syr. Stadt",
     "chapters": [
       {
         "start": 2455,
         "end": 2456,
-        "author": "Honigmann"
+        "author": "Honigmann."
       }
     ]
   },
@@ -22121,11 +22124,13 @@
     "lemma": "Sigona",
     "previous": "Sigon 2",
     "next": "Sigonus",
+    "proof_read": 0,
     "short_description": "s. Sequana",
     "chapters": [
       {
         "start": 2456,
-        "author": "Keune"
+        "end": 2456,
+        "author": "Keune."
       }
     ]
   },
@@ -22145,95 +22150,128 @@
   {
     "lemma": "Sigrancium",
     "previous": "Sigonus",
-    "next": "Sigriane",
+    "next": "Σιγριανή",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2456,
-        "author": "Keune"
+        "end": 2456,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sigriane",
+    "lemma": "Σιγριανή",
     "previous": "Sigrancium",
-    "next": "Sigrion 1",
-    "short_description": "he -",
+    "next": "Sigrion",
+    "sort_key": "Sigriane",
+    "proof_read": 0,
+    "short_description": "Sigriane, Landschaft im südlichen Medien",
     "chapters": [
       {
         "start": 2456,
-        "author": "Weissbach"
+        "end": 2456,
+        "author": "Weissbach."
+      }
+    ]
+  },
+  {
+    "lemma": "Sigrion",
+    "previous": "Σιγριανή",
+    "next": "Sigrion 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2456,
+        "end": 2456,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sigrion 1",
-    "previous": "Sigriane",
+    "previous": "Sigrion",
     "next": "Sigrion 2",
+    "proof_read": 0,
     "short_description": "Westl. Vorgebirge d. Sporadeninsel Lesbos",
     "chapters": [
       {
         "start": 2456,
-        "author": "Bürchner"
+        "end": 2456,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sigrion 2",
     "previous": "Sigrion 1",
-    "next": "Sigron",
+    "next": "Σίγρον",
+    "proof_read": 0,
     "short_description": "Hafenstädtchen an Nr. 1",
     "chapters": [
       {
         "start": 2456,
-        "author": "Bürchner"
+        "end": 2456,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Sigron",
+    "lemma": "Σίγρον",
     "previous": "Sigrion 2",
-    "next": "Sigros",
+    "next": "Σίγρος",
+    "sort_key": "Sigron",
+    "proof_read": 0,
     "short_description": "s. Tenedos",
     "chapters": [
       {
         "start": 2456,
-        "author": "Bürchner"
+        "end": 2456,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Sigros",
-    "previous": "Sigron",
-    "next": "Sigua",
+    "lemma": "Σίγρος",
+    "previous": "Σίγρον",
+    "next": "Σιγούα",
+    "sort_key": "Sigros",
+    "proof_read": 0,
     "short_description": "Hafen auf Tenedos, s.d.",
     "chapters": [
       {
         "start": 2456,
         "end": 2457,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Sigua",
-    "previous": "Sigros",
+    "lemma": "Σιγούα",
+    "previous": "Σίγρος",
     "next": "Siguense",
+    "sort_key": "Sigua",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2457,
-        "author": "Honigmann"
+        "end": 2457,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Siguense",
-    "previous": "Sigua",
+    "previous": "Σιγούα",
     "next": "Sigulones",
+    "proof_read": 0,
     "short_description": "metallum",
     "chapters": [
       {
         "start": 2457,
-        "author": "Dessau"
+        "end": 2457,
+        "author": "Dessau."
       }
     ]
   },
@@ -22241,11 +22279,12 @@
     "lemma": "Sigulones",
     "previous": "Siguense",
     "next": "Siguroscus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2457,
         "end": 2458,
-        "author": "Schönfeld"
+        "author": "Schönfeld."
       }
     ]
   },
@@ -22253,58 +22292,69 @@
     "lemma": "Siguroscus",
     "previous": "Sigulones",
     "next": "Sigus",
+    "proof_read": 0,
     "short_description": "Securoscus",
     "chapters": [
       {
         "start": 2458,
-        "author": "Keune"
+        "end": 2458,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sigus",
     "previous": "Siguroscus",
-    "next": "Sigynnes",
+    "next": "Σιγύννες",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2458,
-        "author": "Dessau"
+        "end": 2458,
+        "author": "Dessau."
       }
     ]
   },
   {
-    "lemma": "Sigynnes",
+    "lemma": "Σιγύννες",
     "previous": "Sigus",
-    "next": "Sigynnos",
+    "next": "Σιγύννος",
+    "sort_key": "Sigynnes",
+    "proof_read": 0,
     "short_description": "Volk im Land jenseits d. Istros",
     "chapters": [
       {
         "start": 2458,
-        "author": "Weissbach"
+        "end": 2458,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Sigynnos",
-    "previous": "Sigynnes",
+    "lemma": "Σιγύννος",
+    "previous": "Σιγύννες",
     "next": "Sikaner",
+    "sort_key": "Sigynnos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2459,
-        "author": "Kees"
+        "end": 2459,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Sikaner",
-    "previous": "Sigynnos",
+    "previous": "Σιγύννος",
     "next": "Sikanos 1",
+    "proof_read": 0,
     "short_description": "Libysch-iberische Urbevölkerung von Sizilien",
     "chapters": [
       {
         "start": 2459,
         "end": 2460,
-        "author": "Schulten"
+        "author": "Schulten."
       }
     ]
   },
@@ -22312,11 +22362,13 @@
     "lemma": "Sikanos 1",
     "previous": "Sikaner",
     "next": "Sikanos 2",
+    "proof_read": 0,
     "short_description": "Syrakusier, 415 v. Chr. Stratege",
     "chapters": [
       {
         "start": 2460,
-        "author": "Swoboda, [Heinrich]"
+        "end": 2460,
+        "author": "Swoboda."
       }
     ]
   },
@@ -22324,19 +22376,20 @@
     "lemma": "Sikanos 2",
     "previous": "Sikanos 1",
     "next": "Σικάφα",
+    "proof_read": 0,
     "short_description": "Att. Vasenfabrikant",
     "chapters": [
       {
         "start": 2460,
         "end": 2461,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
   {
     "lemma": "Σικάφα",
     "previous": "Sikanos 2",
-    "next": "Sikarioi",
+    "next": "Σικάριοι",
     "sort_key": "Sikapha",
     "redirect": "Sykapha",
     "proof_read": 2,
@@ -22348,31 +22401,37 @@
     ]
   },
   {
-    "lemma": "Sikarioi",
+    "lemma": "Σικάριοι",
     "previous": "Σικάφα",
-    "next": "Sikelai",
+    "next": "Σίκελαι",
+    "sort_key": "Sikarioi",
+    "proof_read": 0,
     "short_description": "Messerhelden', politisch organisierte Gruppe z.Zt. d. Jüdischen Krieges in Judäa",
     "chapters": [
       {
         "start": 2461,
-        "author": "Honigmann"
+        "end": 2461,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sikelai",
-    "previous": "Sikarioi",
+    "lemma": "Σίκελαι",
+    "previous": "Σικάριοι",
     "next": "Σικελία, Sicilia 1",
+    "sort_key": "Sikelai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2461,
-        "author": "Honigmann"
+        "end": 2461,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Σικελία, Sicilia 1",
-    "previous": "Sikelai",
+    "previous": "Σίκελαι",
     "next": "Sikelia, Sicilia 2",
     "sort_key": "Sikelia 1",
     "proof_read": 0,
@@ -22415,7 +22474,7 @@
   {
     "lemma": "Sikelia, Sicilia 4",
     "previous": "Sikelia, Sicilia 3",
-    "next": "Sikelia he mikra",
+    "next": "Σικελία ἡ μικρά",
     "short_description": "Epiklesis d. Hera in Syrakus",
     "chapters": [
       {
@@ -22425,20 +22484,23 @@
     ]
   },
   {
-    "lemma": "Sikelia he mikra",
+    "lemma": "Σικελία ἡ μικρά",
     "previous": "Sikelia, Sicilia 4",
     "next": "Sikelike",
+    "sort_key": "Sikeliahe mikra",
+    "proof_read": 0,
     "short_description": "s. Naxos",
     "chapters": [
       {
         "start": 2522,
-        "author": "Bürchner"
+        "end": 2522,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sikelike",
-    "previous": "Sikelia he mikra",
+    "previous": "Σικελία ἡ μικρά",
     "next": "Sikelos",
     "short_description": "Epitheton",
     "chapters": [

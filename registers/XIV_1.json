@@ -4390,6 +4390,7 @@
     "next": "Maecius",
     "proof_read": 0,
     "short_description": "Tullus, M. Münzmeister unter Augustus",
+    "wd_link": "d:Q130629211",
     "chapters": [
       {
         "start": 231,
@@ -13708,7 +13709,6 @@
     "lemma": "Maluginensis",
     "previous": "Maltitae",
     "next": "Malve",
-    "sort_key": "Malvginensis",
     "redirect": "Cornelius 225",
     "proof_read": 2,
     "chapters": [
@@ -17105,7 +17105,7 @@
   {
     "lemma": "Manilius 31",
     "previous": "Manilius 30",
-    "next": "Manilia 34",
+    "next": "Manilius 32",
     "proof_read": 0,
     "short_description": "Vopiscus, P. Dichter z. Zt. Traians",
     "chapters": [
@@ -17132,10 +17132,10 @@
   },
   {
     "lemma": "Manilius 32",
-    "previous": "Manilia 34",
+    "previous": "Manilius 31",
     "next": "Manilius 33",
     "proof_read": 2,
-    "short_description": "Manilia, röm. Hetäre um 150 v. Chr.",
+    "short_description": "Manilia, römische Hetäre um 150 v. Chr.",
     "chapters": [
       {
         "start": 1144,
@@ -17147,7 +17147,7 @@
   {
     "lemma": "Manilius 33",
     "previous": "Manilius 32",
-    "next": "Manilius 35",
+    "next": "Manilius 34",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -17158,8 +17158,22 @@
     ]
   },
   {
-    "lemma": "Manilius 35",
+    "lemma": "Manilius 34",
     "previous": "Manilius 33",
+    "next": "Manilius 35",
+    "proof_read": 2,
+    "short_description": "Cassia",
+    "chapters": [
+      {
+        "start": 1144,
+        "end": 1144,
+        "author": "Stein."
+      }
+    ]
+  },
+  {
+    "lemma": "Manilius 35",
+    "previous": "Manilius 34",
     "next": "Manimazos",
     "proof_read": 0,
     "short_description": "Manilia Eutychia",

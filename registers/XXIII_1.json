@@ -5611,6 +5611,7 @@
   {
     "lemma": "Proknis",
     "previous": "Prokne 4",
+    "next": "Prokonnesos",
     "proof_read": 2,
     "short_description": "Nebenform für den Namen Prokris",
     "no_creative_height": true,
@@ -5625,7 +5626,7 @@
   {
     "lemma": "Prokonnesos",
     "previous": "Proknis",
-    "next": "Prokopios 1",
+    "next": "Prokopios",
     "chapters": [
       {
         "start": 252,
@@ -5634,7 +5635,22 @@
     ]
   },
   {
+    "lemma": "Prokopios",
+    "previous": "Prokonnesos",
+    "next": "Prokopios 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 252,
+        "end": 252,
+        "author": "W. Enßlin."
+      }
+    ]
+  },
+  {
     "lemma": "Prokopios 1",
+    "previous": "Prokopios",
     "next": "Prokopios 2",
     "proof_read": 0,
     "short_description": "Praeses Ciliciae",
@@ -6612,6 +6628,7 @@
   {
     "lemma": "Promaea",
     "previous": "Promachos 20",
+    "next": "promagistro",
     "redirect": "Promēa",
     "proof_read": 2,
     "chapters": [
@@ -6744,7 +6761,7 @@
   },
   {
     "lemma": "Prome",
-    "previous": "Promathion",
+    "previous": "Promathos",
     "next": "Promēa",
     "proof_read": 0,
     "short_description": "Unbekannte Göttin von Venafrum",
