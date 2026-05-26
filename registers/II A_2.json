@@ -22432,7 +22432,7 @@
   {
     "lemma": "Σικελία, Sicilia 1",
     "previous": "Σίκελαι",
-    "next": "Sikelia, Sicilia 2",
+    "next": "Σικελία, Sicilia 2",
     "sort_key": "Sikelia 1",
     "proof_read": 0,
     "short_description": "Größte u. bedeutendste Insel im Mittelmeer, nahe S-Italien",
@@ -22448,32 +22448,52 @@
     ]
   },
   {
-    "lemma": "Sikelia, Sicilia 2",
+    "lemma": "Σικελία, Sicilia 2",
     "previous": "Σικελία, Sicilia 1",
-    "next": "Sikelia, Sicilia 3",
+    "next": "Σικελία, Sicilia 3",
+    "sort_key": "Sikelia,sicilia 2",
+    "proof_read": 0,
     "short_description": "Insel nahe d. Peloponnes",
     "chapters": [
       {
         "start": 2522,
-        "author": "Geyer"
+        "end": 2522,
+        "author": "Geyer."
       }
     ]
   },
   {
-    "lemma": "Sikelia, Sicilia 3",
-    "previous": "Sikelia, Sicilia 2",
-    "next": "Sikelia, Sicilia 4",
+    "lemma": "Σικελία, Sicilia 3",
+    "previous": "Σικελία, Sicilia 2",
+    "next": "Σικελία, Sicilia 4",
+    "sort_key": "Sikelia,sicilia 3",
+    "proof_read": 0,
     "short_description": "Hügel nahe Athens",
     "chapters": [
       {
         "start": 2522,
-        "author": "Geyer"
+        "end": 2522,
+        "author": "Geyer."
       }
     ]
   },
   {
-    "lemma": "Sikelia, Sicilia 4",
-    "previous": "Sikelia, Sicilia 3",
+    "lemma": "Σικελία, Sicilia 4",
+    "previous": "Σικελία, Sicilia 3",
+    "next": "Σικελία ἡ μικρά",
+    "sort_key": "Sikelia,sicilia 4",
+    "proof_read": 0,
+    "short_description": "Epiklesis d. Hera in Syrakus",
+    "chapters": [
+      {
+        "start": 2522,
+        "end": 2522,
+        "author": "Storck."
+      }
+    ]
+  },
+  {
+    "lemma": "Σικελία, Sicilia 4",
     "next": "Σικελία ἡ μικρά",
     "short_description": "Epiklesis d. Hera in Syrakus",
     "chapters": [
@@ -22485,8 +22505,8 @@
   },
   {
     "lemma": "Σικελία ἡ μικρά",
-    "previous": "Sikelia, Sicilia 4",
-    "next": "Sikelike",
+    "previous": "Σικελία, Sicilia 4",
+    "next": "Σικελική",
     "sort_key": "Sikeliahe mikra",
     "proof_read": 0,
     "short_description": "s. Naxos",
@@ -22499,62 +22519,87 @@
     ]
   },
   {
-    "lemma": "Sikelike",
+    "lemma": "Σικελική",
     "previous": "Σικελία ἡ μικρά",
     "next": "Sikelos",
+    "sort_key": "Sikelike",
+    "proof_read": 0,
     "short_description": "Epitheton",
     "chapters": [
       {
         "start": 2522,
-        "author": "Zwicker"
+        "end": 2522,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sikelos",
-    "previous": "Sikelike",
-    "next": "Sikerenos",
+    "previous": "Σικελική",
+    "next": "Σικερηνός",
+    "proof_read": 0,
     "short_description": "Att. Vasenmaler",
     "chapters": [
       {
         "start": 2522,
         "end": 2523,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
   {
-    "lemma": "Sikerenos",
+    "lemma": "Σικερηνός",
     "previous": "Sikelos",
-    "next": "Sikinnis",
+    "next": "Σίκιννις",
+    "sort_key": "Sikerenos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2523,
-        "author": "Zwicker"
+        "end": 2523,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Sikinnis",
-    "previous": "Sikerenos",
-    "next": "Sikinos 1",
+    "lemma": "Σίκιννις",
+    "previous": "Σικερηνός",
+    "next": "Sikinos",
+    "sort_key": "Sikinnis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2523,
-        "author": "Zwicker"
+        "end": 2523,
+        "author": "Zwicker."
+      }
+    ]
+  },
+  {
+    "lemma": "Sikinos",
+    "previous": "Σίκιννις",
+    "next": "Sikinos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 2523,
+        "end": 2523,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sikinos 1",
-    "previous": "Sikinnis",
+    "previous": "Sikinos",
     "next": "Sikinos 2",
+    "proof_read": 0,
     "short_description": "Sporadeninsel zw. Pholegandros u. Ios",
     "chapters": [
       {
         "start": 2523,
         "end": 2525,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
@@ -22562,43 +22607,48 @@
     "lemma": "Sikinos 2",
     "previous": "Sikinos 1",
     "next": "Sikinos 3",
+    "proof_read": 0,
     "short_description": "Stadt auf gleichnamiger Insel",
     "chapters": [
       {
         "start": 2525,
         "end": 2526,
-        "author": "Bürchner"
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sikinos 3",
     "previous": "Sikinos 2",
-    "next": "Sikkathorion",
+    "next": "Σικκαθόριον",
+    "proof_read": 0,
     "short_description": "O. Sikinnos, Person auf Vasen",
     "chapters": [
       {
         "start": 2526,
         "end": 2527,
-        "author": "Leonard"
+        "author": "Leonard."
       }
     ]
   },
   {
-    "lemma": "Sikkathorion",
+    "lemma": "Σικκαθόριον",
     "previous": "Sikinos 3",
     "next": "Siklon, Siklos",
+    "sort_key": "Sikkathorion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2527,
-        "author": "Dessau"
+        "end": 2527,
+        "author": "Dessau."
       }
     ]
   },
   {
     "lemma": "Siklon, Siklos",
-    "previous": "Sikkathorion",
-    "next": "Sikon",
+    "previous": "Σικκαθόριον",
+    "next": "Σίκων",
     "redirect": "Σίγλος",
     "proof_read": 2,
     "chapters": [
@@ -22609,32 +22659,37 @@
     ]
   },
   {
-    "lemma": "Sikon",
+    "lemma": "Σίκων",
     "previous": "Siklon, Siklos",
-    "next": "Sikulensioi",
+    "next": "Σικουλήνσιοι",
+    "sort_key": "Sikon",
+    "proof_read": 0,
     "short_description": "Herold d. Laios auf rotfig. Vase",
     "chapters": [
       {
         "start": 2527,
         "end": 2528,
-        "author": "Zwicker"
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Sikulensioi",
-    "previous": "Sikon",
+    "lemma": "Σικουλήνσιοι",
+    "previous": "Σίκων",
     "next": "Sikyon, Sikyonia",
+    "sort_key": "Sikulensioi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2528,
-        "author": "Philipp"
+        "end": 2528,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Sikyon, Sikyonia",
-    "previous": "Sikulensioi",
+    "previous": "Σικουλήνσιοι",
     "next": "Sil.",
     "short_description": "Polis am Nordabhang des arkadischen Gebirgslandes",
     "chapters": [
@@ -22662,24 +22717,27 @@
     "lemma": "Sila 1",
     "previous": "Sil.",
     "next": "Sila 2",
+    "proof_read": 0,
     "short_description": "Waldgebirge in Bruttium",
     "chapters": [
       {
         "start": 2549,
         "end": 2550,
-        "author": "Philipp"
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Sila 2",
     "previous": "Sila 1",
-    "next": "Sarta",
+    "next": "Sarmatorum, strata–",
+    "proof_read": 0,
     "short_description": "Ortschaft im Gebiet v. Cirta",
     "chapters": [
       {
         "start": 2550,
-        "author": "Dessau"
+        "end": 2550,
+        "author": "Dessau."
       }
     ]
   },

@@ -134,41 +134,47 @@
     "lemma": "Silanion 1",
     "previous": "Silaniacus",
     "next": "Silanion 2",
+    "proof_read": 0,
     "short_description": "Erzgießer",
     "chapters": [
       {
         "start": 2,
-        "author": "Lippold, Georg"
+        "end": 6,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Silanion 2",
     "previous": "Silanion 1",
-    "next": "ad Silanos",
+    "next": "Silanos",
+    "proof_read": 0,
     "short_description": "Künstler zweiten Ranges bei Vitruv",
     "chapters": [
       {
         "start": 6,
-        "author": "Fluss"
-      }
-    ]
-  },
-  {
-    "lemma": "ad Silanos",
-    "previous": "Silanion 2",
-    "next": "Silanos",
-    "short_description": "Person",
-    "chapters": [
-      {
-        "start": 6,
-        "author": "Schönfeld"
+        "end": 6,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Silanos",
-    "previous": "ad Silanos",
+    "previous": "Silanion 2",
+    "next": "ad Silanos",
+    "proof_read": 0,
+    "short_description": "Person",
+    "chapters": [
+      {
+        "start": 6,
+        "end": 6,
+        "author": "Seeck."
+      }
+    ]
+  },
+  {
+    "lemma": "ad Silanos",
+    "previous": "Silanos",
     "next": "Silanus 1",
     "short_description": "Person",
     "chapters": [
@@ -180,13 +186,15 @@
   },
   {
     "lemma": "Silanus 1",
-    "previous": "Silanos",
+    "previous": "ad Silanos",
     "next": "Silanus 2",
+    "proof_read": 0,
     "short_description": "Cognomen s. Iunius Caecilius Nr. 89f. Dulius",
     "chapters": [
       {
         "start": 6,
-        "author": "Münzer"
+        "end": 6,
+        "author": "Münzer."
       }
     ]
   },
@@ -194,11 +202,13 @@
     "lemma": "Silanus 2",
     "previous": "Silanus 1",
     "next": "Silanus 3",
+    "proof_read": 0,
     "short_description": "cos. suff. im 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 6,
-        "author": "Fluss"
+        "end": 6,
+        "author": "Fluss."
       }
     ]
   },
@@ -206,11 +216,13 @@
     "lemma": "Silanus 3",
     "previous": "Silanus 2",
     "next": "Silanus 4",
+    "proof_read": 0,
     "short_description": "Procos. Hispania ulterioris im 2. Jh. n. Chr.",
     "chapters": [
       {
         "start": 6,
-        "author": "Fluss"
+        "end": 7,
+        "author": "Fluss."
       }
     ]
   },
@@ -218,11 +230,13 @@
     "lemma": "Silanus 4",
     "previous": "Silanus 3",
     "next": "Silarum",
+    "proof_read": 0,
     "short_description": "Töpfer von Grafensenque",
     "chapters": [
       {
         "start": 7,
-        "author": "Keune"
+        "end": 7,
+        "author": "Keune."
       }
     ]
   },
@@ -243,11 +257,13 @@
     "lemma": "Silarus 1",
     "previous": "Silarum",
     "next": "Silarus 2",
+    "proof_read": 0,
     "short_description": "Fluß in Italien Silaro, Sele",
     "chapters": [
       {
         "start": 7,
-        "author": "Philipp"
+        "end": 7,
+        "author": "Philipp."
       }
     ]
   },
@@ -255,11 +271,13 @@
     "lemma": "Silarus 2",
     "previous": "Silarus 1",
     "next": "Silas 1",
+    "proof_read": 0,
     "short_description": "Fluß in der Aemilia",
     "chapters": [
       {
         "start": 7,
-        "author": "Philipp"
+        "end": 7,
+        "author": "Philipp."
       }
     ]
   },
@@ -2724,7 +2742,7 @@
   {
     "lemma": "Simodoi",
     "previous": "Simminenses",
-    "next": "Simoeis",
+    "next": "Simoeis 1",
     "proof_read": 0,
     "short_description": "Gattung der niederen Lyrik",
     "wp_link": "w:it:Simodia",
@@ -18871,7 +18889,7 @@
     "lemma": "Sozoa",
     "previous": "Soza",
     "next": "Sozomenos 1",
-    "redirect": "Sazoa",
+    "redirect": "Σαζόα",
     "proof_read": 2,
     "chapters": [
       {
