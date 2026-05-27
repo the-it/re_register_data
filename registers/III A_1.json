@@ -285,11 +285,13 @@
     "lemma": "Silas 1",
     "previous": "Silarus 2",
     "next": "Silas 2",
+    "proof_read": 0,
     "short_description": "Babylonier",
     "chapters": [
       {
         "start": 7,
-        "author": "Stein, [Arthur]"
+        "end": 7,
+        "author": "Stein."
       }
     ]
   },
@@ -297,11 +299,13 @@
     "lemma": "Silas 2",
     "previous": "Silas 1",
     "next": "Silbenschrift",
+    "proof_read": 0,
     "short_description": "Quelle und Fluß in Indien",
     "chapters": [
       {
         "start": 7,
-        "author": "Wecker"
+        "end": 8,
+        "author": "Wecker."
       }
     ]
   },
@@ -309,10 +313,12 @@
     "lemma": "Silbenschrift",
     "previous": "Silas 2",
     "next": "Silber",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 8,
-        "author": "Gardthausen"
+        "end": 13,
+        "author": "Gardthausen."
       }
     ]
   },
@@ -320,11 +326,13 @@
     "lemma": "Silber",
     "previous": "Silbenschrift",
     "next": "Silberprägung, Silberwährung",
+    "proof_read": 0,
     "short_description": "Edelmetall",
     "chapters": [
       {
         "start": 13,
-        "author": "Blümner"
+        "end": 23,
+        "author": "Blümner."
       }
     ]
   },
@@ -332,10 +340,13 @@
     "lemma": "Silberprägung, Silberwährung",
     "previous": "Silber",
     "next": "Silbio",
+    "sort_key": "Silberprägung,silberwährung",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 23,
-        "author": "Regling"
+        "end": 34,
+        "author": "Regling."
       }
     ]
   },
@@ -369,11 +380,13 @@
     "lemma": "Silbis",
     "previous": "Silbion",
     "next": "Silbium",
+    "proof_read": 0,
     "short_description": "Iberischer Name auf Münzen von Turiaso",
     "chapters": [
       {
         "start": 34,
-        "author": "Schulten"
+        "end": 34,
+        "author": "Schulten."
       }
     ]
   },
@@ -394,18 +407,20 @@
     "lemma": "Silbona",
     "previous": "Silbium",
     "next": "Silbonis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 34,
-        "author": "Keune"
+        "end": 34,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Silbonis",
     "previous": "Silbona",
-    "next": "Silda",
+    "next": "Σίλδα",
     "redirect": "Silvium 2",
     "proof_read": 2,
     "chapters": [
@@ -416,26 +431,31 @@
     ]
   },
   {
-    "lemma": "Silda",
+    "lemma": "Σίλδα",
     "previous": "Silbonis",
     "next": "Sile 1",
-    "redirect": true,
-    "short_description": "s. Gilda",
+    "sort_key": "Silda",
+    "redirect": "Gilda",
+    "proof_read": 0,
+    "short_description": "Silda s. Gilda",
     "chapters": [
       {
-        "start": 34
+        "start": 34,
+        "end": 34
       }
     ]
   },
   {
     "lemma": "Sile 1",
-    "previous": "Silda",
+    "previous": "Σίλδα",
     "next": "Sile 2",
+    "proof_read": 0,
     "short_description": "Aegyptische Grenzfestung auf dem Isthmos von Suez",
     "chapters": [
       {
         "start": 34,
-        "author": "Kees"
+        "end": 35,
+        "author": "Kees."
       }
     ]
   },
@@ -443,11 +463,13 @@
     "lemma": "Sile 2",
     "previous": "Sile 1",
     "next": "Silei",
+    "proof_read": 0,
     "short_description": "Landort im Fajûm",
     "chapters": [
       {
         "start": 35,
-        "author": "Kees"
+        "end": 35,
+        "author": "Kees."
       }
     ]
   },
@@ -470,7 +492,7 @@
     "previous": "Silei",
     "next": "Sileniai",
     "proof_read": 3,
-    "short_description": "Ort",
+    "short_description": "Ort und Bistum in Africa",
     "chapters": [
       {
         "start": 35,
@@ -497,11 +519,16 @@
     "lemma": "Silenos, Satyros",
     "previous": "Sileniai",
     "next": "Silenos 1",
+    "sort_key": "Silenos,satyros",
+    "proof_read": 0,
     "short_description": "Gefolgsleute des Dionysos",
+    "wp_link": "w:de:Satyr",
+    "wd_link": "d:Q163709",
     "chapters": [
       {
         "start": 35,
-        "author": "Hartmann, A[lbert]"
+        "end": 53,
+        "author": "A. Hartmann."
       }
     ]
   },
@@ -509,29 +536,50 @@
     "lemma": "Silenos 1",
     "previous": "Silenos, Satyros",
     "next": "Silenos 2",
-    "short_description": "Autor von Sikelika",
+    "proof_read": 0,
+    "short_description": "von Kallatis/Kale Akte, Autor von Sikelika",
+    "wp_link": "w:de:Silenos von Kaleakte",
+    "wd_link": "d:Q2285961",
     "chapters": [
       {
         "start": 53,
-        "author": "Jacoby, [Felix]"
+        "end": 56,
+        "author": "F. Jacoby."
       }
     ]
   },
   {
     "lemma": "Silenos 2",
     "previous": "Silenos 1",
-    "next": "Silenus 3",
+    "next": "Silenos 3",
+    "proof_read": 2,
     "short_description": "von Chios, Autor von zwei Büchern Mythikon Historion",
+    "wd_link": "d:Q67390500",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 56,
-        "author": "Jacoby, [Felix]"
+        "end": 56,
+        "author": "F. Jacoby."
+      }
+    ]
+  },
+  {
+    "lemma": "Silenos 3",
+    "previous": "Silenos 2",
+    "next": "Silenos 4",
+    "proof_read": 2,
+    "short_description": "Autor eines Buches de symmetriis doricorum",
+    "chapters": [
+      {
+        "start": 56,
+        "end": 56,
+        "author": "Fluß."
       }
     ]
   },
   {
     "lemma": "Silenus 3",
-    "previous": "Silenos 2",
     "next": "Silenus 4",
     "short_description": "Autor eines Buches de symmetriis doricorum",
     "chapters": [
@@ -555,13 +603,15 @@
   },
   {
     "lemma": "Silentiacus",
-    "previous": "Silenus 4",
+    "previous": "Silenos 4",
     "next": "Silentiarius",
-    "short_description": "Ort",
+    "proof_read": 1,
+    "short_description": "Ort in Gallien, heute Salency",
     "chapters": [
       {
         "start": 57,
-        "author": "Keune"
+        "end": 57,
+        "author": "Keune."
       }
     ]
   },
@@ -738,11 +788,13 @@
     "lemma": "Silili",
     "previous": "Siliginarius",
     "next": "Silimachus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 61,
-        "author": "Kees"
+        "end": 61,
+        "author": "Kees."
       }
     ]
   },
@@ -750,11 +802,13 @@
     "lemma": "Silimachus",
     "previous": "Silili",
     "next": "Silindion",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 61,
-        "author": "Kind"
+        "end": 61,
+        "author": "Kind."
       }
     ]
   },
@@ -820,11 +874,13 @@
     "lemma": "Siliqua",
     "previous": "Siliniacus, Silliniacus",
     "next": "Silis 1",
+    "proof_read": 0,
     "short_description": "Kleines Gewicht der konstantinischen Zeit",
     "chapters": [
       {
         "start": 61,
-        "author": "Seeck"
+        "end": 68,
+        "author": "Seeck."
       }
     ]
   },
@@ -832,11 +888,13 @@
     "lemma": "Silis 1",
     "previous": "Siliqua",
     "next": "Silis 2",
+    "proof_read": 0,
     "short_description": "Fluß in Venetien",
     "chapters": [
       {
         "start": 68,
-        "author": "Philipp"
+        "end": 68,
+        "author": "Philipp."
       }
     ]
   },
@@ -961,11 +1019,13 @@
     "lemma": "Silius 7",
     "previous": "Silius 5–6",
     "next": "Silius 8",
+    "proof_read": 0,
     "short_description": "P., Sen. 110 v. Chr.",
     "chapters": [
       {
         "start": 72,
-        "author": "Münzer"
+        "end": 72,
+        "author": "Münzer."
       }
     ]
   },
@@ -973,11 +1033,13 @@
     "lemma": "Silius 8",
     "previous": "Silius 7",
     "next": "Silius 9",
+    "proof_read": 0,
     "short_description": "P., Propraetor in Bithynien",
     "chapters": [
       {
         "start": 72,
-        "author": "Münzer"
+        "end": 72,
+        "author": "Münzer."
       }
     ]
   },
@@ -985,11 +1047,13 @@
     "lemma": "Silius 9",
     "previous": "Silius 8",
     "next": "Silius 10",
+    "proof_read": 0,
     "short_description": "P., Suffectconsul 3 n. Chr.",
     "chapters": [
       {
         "start": 72,
-        "author": "Nagl"
+        "end": 74,
+        "author": "Nagl."
       }
     ]
   },
@@ -997,11 +1061,13 @@
     "lemma": "Silius 10",
     "previous": "Silius 9",
     "next": "Silius 11",
+    "proof_read": 0,
     "short_description": "Q., Einer der ersten plebeiischen Quaestoren",
     "chapters": [
       {
         "start": 74,
-        "author": "Münzer"
+        "end": 74,
+        "author": "Münzer."
       }
     ]
   },
@@ -1009,11 +1075,13 @@
     "lemma": "Silius 11",
     "previous": "Silius 10",
     "next": "Silius 12",
+    "proof_read": 0,
     "short_description": "T., Praef. oder Kriegstribun unter Caesar",
     "chapters": [
       {
         "start": 74,
-        "author": "Münzer"
+        "end": 74,
+        "author": "Münzer."
       }
     ]
   },
@@ -1021,11 +1089,13 @@
     "lemma": "Silius 12",
     "previous": "Silius 11",
     "next": "Silius 13",
+    "proof_read": 0,
     "short_description": "A. Caecina Largus, C., cos. ord. 13 n. Chr.",
     "chapters": [
       {
         "start": 74,
-        "author": "Nagl"
+        "end": 77,
+        "author": "Nagl."
       }
     ]
   },
@@ -1046,11 +1116,13 @@
     "lemma": "Silius 14",
     "previous": "Silius 13",
     "next": "Silius 15",
+    "proof_read": 0,
     "short_description": "Decianus, L., cos. suff. 93 n. Chr.",
     "chapters": [
       {
         "start": 77,
-        "author": "Groag"
+        "end": 79,
+        "author": "Groag."
       }
     ]
   },
@@ -1058,11 +1130,13 @@
     "lemma": "Silius 15",
     "previous": "Silius 14",
     "next": "Silius 16",
+    "proof_read": 0,
     "short_description": "Decianus s. Q. Pompeius Falco Q. Pompeius Senecio Sosius Priscus",
     "chapters": [
       {
         "start": 79,
-        "author": "Stein, [Arthur]"
+        "end": 79,
+        "author": "Stein."
       }
     ]
   },
@@ -1070,11 +1144,13 @@
     "lemma": "Silius 16",
     "previous": "Silius 15",
     "next": "Silius 17",
+    "proof_read": 0,
     "short_description": "Gratus, L., Proc. vicesimae hereditatium",
     "chapters": [
       {
         "start": 79,
-        "author": "Stein, [Arthur]"
+        "end": 79,
+        "author": "Stein."
       }
     ]
   },
@@ -1082,11 +1158,13 @@
     "lemma": "Silius 17",
     "previous": "Silius 16",
     "next": "Silius 18",
+    "proof_read": 0,
     "short_description": "Italicus, Ti. Catius, Dichter",
     "chapters": [
       {
         "start": 79,
-        "author": "Klotz"
+        "end": 91,
+        "author": "Klotz."
       }
     ]
   },
@@ -1094,11 +1172,13 @@
     "lemma": "Silius 18",
     "previous": "Silius 17",
     "next": "Silius 19",
+    "proof_read": 0,
     "short_description": "Messala, Sen. unter Elagabal",
     "chapters": [
       {
         "start": 91,
-        "author": "Fluss"
+        "end": 91,
+        "author": "Fluss."
       }
     ]
   },
@@ -1106,11 +1186,13 @@
     "lemma": "Silius 19",
     "previous": "Silius 18",
     "next": "Silius 20",
+    "proof_read": 0,
     "short_description": "Messalla, M., cos. suff. 193 n. Chr.",
     "chapters": [
       {
         "start": 91,
-        "author": "Fluss"
+        "end": 92,
+        "author": "Fluss."
       }
     ]
   },
@@ -1118,11 +1200,13 @@
     "lemma": "Silius 20",
     "previous": "Silius 19",
     "next": "Silius 21",
+    "proof_read": 0,
     "short_description": "Nerva, cos. ord. 65 n. Chr.",
     "chapters": [
       {
         "start": 92,
-        "author": "Nagl"
+        "end": 92,
+        "author": "Nagl."
       }
     ]
   },
@@ -1130,11 +1214,13 @@
     "lemma": "Silius 21",
     "previous": "Silius 20",
     "next": "Silius 22",
+    "proof_read": 0,
     "short_description": "Nerva, P., cos. ord. 20 v. Chr.",
     "chapters": [
       {
         "start": 92,
-        "author": "Nagl"
+        "end": 95,
+        "author": "Nagl."
       }
     ]
   },
@@ -1142,11 +1228,13 @@
     "lemma": "Silius 22",
     "previous": "Silius 21",
     "next": "Silius 23",
+    "proof_read": 0,
     "short_description": "Nerva, P., cos. ord. 28 n. Chr.",
     "chapters": [
       {
         "start": 95,
-        "author": "Nagl"
+        "end": 95,
+        "author": "Nagl."
       }
     ]
   },
@@ -1154,11 +1242,13 @@
     "lemma": "Silius 23",
     "previous": "Silius 22",
     "next": "Silius 24",
+    "proof_read": 0,
     "short_description": "Proculus, Freund des jüngeren Plinius",
     "chapters": [
       {
         "start": 95,
-        "author": "Stein, [Arthur]"
+        "end": 95,
+        "author": "Stein."
       }
     ]
   },
@@ -1166,11 +1256,13 @@
     "lemma": "Silius 24",
     "previous": "Silius 23",
     "next": "Silius 25",
+    "proof_read": 0,
     "short_description": "Severus, jüngerer Sohn des Ti. Catius Silius Italicus Nr. 17",
     "chapters": [
       {
         "start": 95,
-        "author": "Groag"
+        "end": 95,
+        "author": "Groag."
       }
     ]
   },
@@ -1178,29 +1270,47 @@
     "lemma": "Silius 25",
     "previous": "Silius 24",
     "next": "Silius 26",
+    "proof_read": 0,
     "short_description": "Tertullus, Curator coloniae Uticensium",
     "chapters": [
       {
         "start": 96,
-        "author": "Fluss"
+        "end": 96,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Silius 26",
     "previous": "Silius 25",
-    "next": "Silius 27a",
+    "next": "Silius 27",
+    "proof_read": 0,
     "short_description": "Valens, Erblasser des Q. Pompeius Senecio Sosius Priscus",
     "chapters": [
       {
         "start": 96,
-        "author": "Groag"
+        "end": 96,
+        "author": "Groag."
+      }
+    ]
+  },
+  {
+    "lemma": "Silius 27",
+    "previous": "Silius 26",
+    "next": "Silius 27a",
+    "proof_read": 3,
+    "short_description": "Ziegler und Töpfer",
+    "chapters": [
+      {
+        "start": 96,
+        "end": 96,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Silius 27a",
-    "previous": "Silius 26",
+    "previous": "Silius 27",
     "next": "Silius 27b",
     "proof_read": 3,
     "short_description": "Ziegler und Töpfer",
@@ -1314,11 +1424,13 @@
     "lemma": "Sillax",
     "previous": "Σίλλα",
     "next": "Silleriacus",
+    "proof_read": 0,
     "short_description": "Maler aus Rhegion",
     "chapters": [
       {
         "start": 96,
-        "author": "Lippold, Georg"
+        "end": 97,
+        "author": "Lippold."
       }
     ]
   },
@@ -1352,41 +1464,48 @@
     "lemma": "Sillius",
     "previous": "Sillikyprion",
     "next": "Silloi",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 97,
-        "author": "Keune"
+        "end": 97,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Silloi",
     "previous": "Sillius",
-    "next": "Sillos 1",
+    "next": "Σίλλος 1",
+    "proof_read": 0,
     "short_description": "Spottgedichte",
     "chapters": [
       {
         "start": 97,
-        "author": "Aly"
+        "end": 98,
+        "author": "Aly."
       }
     ]
   },
   {
-    "lemma": "Sillos 1",
+    "lemma": "Σίλλος 1",
     "previous": "Silloi",
     "next": "Σίλλος 2",
+    "sort_key": "Sillos 1",
+    "proof_read": 0,
     "short_description": "Kerkope",
     "chapters": [
       {
         "start": 98,
-        "author": "Zwicker"
+        "end": 98,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Σίλλος 2",
-    "previous": "Sillos 1",
+    "previous": "Σίλλος 1",
     "next": "Sillybos",
     "short_description": "Sohn des Thrasymedes",
     "chapters": [
@@ -1414,11 +1533,13 @@
     "lemma": "Sillyon 1",
     "previous": "Sillybos",
     "next": "Sillyon 2",
+    "proof_read": 0,
     "short_description": "Stadt in Pamphylien",
     "chapters": [
       {
         "start": 100,
-        "author": "Ruge"
+        "end": 101,
+        "author": "Ruge."
       }
     ]
   },
@@ -1426,47 +1547,56 @@
     "lemma": "Sillyon 2",
     "previous": "Sillyon 1",
     "next": "Sillyos",
+    "proof_read": 0,
     "short_description": "Stadt im Herrschaftsbereich des Moagetes",
     "chapters": [
       {
         "start": 101,
-        "author": "Ruge"
+        "end": 101,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sillyos",
     "previous": "Sillyon 2",
-    "next": "Silo",
+    "next": "Σιλώ",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 101,
-        "author": "Bürchner"
+        "end": 101,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Silo",
+    "lemma": "Σιλώ",
     "previous": "Sillyos",
     "next": "Silo 1",
+    "sort_key": "Silo",
+    "proof_read": 0,
     "short_description": "Ort in Ephraim",
     "chapters": [
       {
         "start": 101,
-        "author": "Honigmann"
+        "end": 102,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Silo 1",
-    "previous": "Silo",
+    "previous": "Σιλώ",
     "next": "Silo 2",
+    "proof_read": 0,
     "short_description": "Cognomen des Q. Pompaedius und eines leno",
     "chapters": [
       {
         "start": 102,
-        "author": "Münzer"
+        "end": 102,
+        "author": "Münzer."
       }
     ]
   },
@@ -1474,10 +1604,13 @@
     "lemma": "Silo 2",
     "previous": "Silo 1",
     "next": "Silo 3",
+    "redirect": "Ambrosius Gavius  22 Pompeius",
+    "proof_read": 0,
     "short_description": "s. Ambrosius Gavius Nr. 22 Pompeius",
     "chapters": [
       {
-        "start": 102
+        "start": 102,
+        "end": 102
       }
     ]
   },
@@ -1485,11 +1618,13 @@
     "lemma": "Silo 3",
     "previous": "Silo 2",
     "next": "Silo 4",
+    "proof_read": 0,
     "short_description": "Procos. Cretae et Cyrenarum unter Vespasian",
     "chapters": [
       {
         "start": 102,
-        "author": "Fluss"
+        "end": 102,
+        "author": "Fluss."
       }
     ]
   },
@@ -1497,11 +1632,13 @@
     "lemma": "Silo 4",
     "previous": "Silo 3",
     "next": "Silo 5",
+    "proof_read": 0,
     "short_description": "Pantomimendichter",
     "chapters": [
       {
         "start": 102,
-        "author": "Fluss"
+        "end": 102,
+        "author": "Fluss."
       }
     ]
   },
@@ -1509,11 +1646,13 @@
     "lemma": "Silo 5",
     "previous": "Silo 4",
     "next": "Silon",
+    "proof_read": 0,
     "short_description": "Töpfer",
     "chapters": [
       {
         "start": 102,
-        "author": "Keune"
+        "end": 103,
+        "author": "Keune."
       }
     ]
   },
@@ -1545,36 +1684,43 @@
   {
     "lemma": "Silpia",
     "previous": "Silphion",
-    "next": "Silpion oros",
+    "next": "Σίλπιον ὄρος",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 114,
-        "author": "Schulten"
+        "end": 114,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Silpion oros",
+    "lemma": "Σίλπιον ὄρος",
     "previous": "Silpia",
     "next": "Silumius",
+    "sort_key": "Silpionoros",
+    "proof_read": 0,
     "short_description": "Berg im S von Antiochia",
     "chapters": [
       {
         "start": 114,
-        "author": "Honigmann"
+        "end": 114,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Silumius",
-    "previous": "Silpion oros",
+    "previous": "Σίλπιον ὄρος",
     "next": "Σίλουον",
+    "proof_read": 0,
     "short_description": "Verschreibung eines antiken Steinmetz statt Silvanus",
     "chapters": [
       {
         "start": 114,
-        "author": "Keune"
+        "end": 114,
+        "author": "Keune."
       }
     ]
   },
@@ -1597,35 +1743,41 @@
     "lemma": "Silura",
     "previous": "Σίλουον",
     "next": "Silures",
+    "proof_read": 0,
     "short_description": "Angebl. Name der Scilly Isles",
     "chapters": [
       {
         "start": 114,
-        "author": "MacDonald"
+        "end": 114,
+        "author": "MacDonald."
       }
     ]
   },
   {
     "lemma": "Silures",
     "previous": "Silura",
-    "next": "Silv.",
+    "next": "Silurus 1",
+    "proof_read": 0,
     "short_description": "Britannisches Volk",
     "chapters": [
       {
         "start": 114,
-        "author": "MacDonald"
+        "end": 115,
+        "author": "MacDonald."
       }
     ]
   },
   {
     "lemma": "Silv.",
-    "previous": "Silures",
+    "previous": "Silutum",
     "next": "Silva 1",
+    "proof_read": 0,
     "short_description": "Abkürzung für Silvus oder Silvius, südgallische Sigillatatöpferei",
     "chapters": [
       {
         "start": 115,
-        "author": "Keune"
+        "end": 115,
+        "author": "Keune."
       }
     ]
   },
@@ -1646,11 +1798,13 @@
     "lemma": "Silurus 1",
     "previous": "Silva 1",
     "next": "Silurus 2",
+    "proof_read": 0,
     "short_description": "Berg an der S-Küste Hispaniens",
     "chapters": [
       {
         "start": 115,
-        "author": "Schulten"
+        "end": 115,
+        "author": "Schulten."
       }
     ]
   },
@@ -1658,11 +1812,13 @@
     "lemma": "Silurus 2",
     "previous": "Silurus 1",
     "next": "Silus 1",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer",
     "chapters": [
       {
         "start": 115,
-        "author": "Keune"
+        "end": 115,
+        "author": "Keune."
       }
     ]
   },
@@ -1670,11 +1826,13 @@
     "lemma": "Silus 1",
     "previous": "Silurus 2",
     "next": "Silus 2",
+    "proof_read": 0,
     "short_description": "Töpfer",
     "chapters": [
       {
         "start": 115,
-        "author": "Keune"
+        "end": 115,
+        "author": "Keune."
       }
     ]
   },
@@ -1708,13 +1866,15 @@
   },
   {
     "lemma": "Silva 2",
-    "previous": "Silutum",
+    "previous": "Silva 1",
     "next": "Silvacus",
+    "proof_read": 0,
     "short_description": "Vornehmster Decurio von Leptis um 364 n. Chr.",
     "chapters": [
       {
         "start": 116,
-        "author": "Seeck"
+        "end": 116,
+        "author": "Seeck."
       }
     ]
   },
@@ -1722,11 +1882,13 @@
     "lemma": "Silvacus",
     "previous": "Silva 2",
     "next": "Silvae Regiae",
+    "proof_read": 0,
     "short_description": "Ortschaft im Arrondissement Laon Sevais",
     "chapters": [
       {
         "start": 116,
-        "author": "Keune"
+        "end": 116,
+        "author": "Keune."
       }
     ]
   },
@@ -1734,11 +1896,14 @@
     "lemma": "Silvae Regiae",
     "previous": "Silvacus",
     "next": "Silvana",
+    "sort_key": "Silvaeregiae",
+    "proof_read": 0,
     "short_description": "Waldreiche Gegend in Mysien",
     "chapters": [
       {
         "start": 116,
-        "author": "Bürchner"
+        "end": 116,
+        "author": "Bürchner."
       }
     ]
   },
@@ -1746,11 +1911,13 @@
     "lemma": "Silvana",
     "previous": "Silvae Regiae",
     "next": "Silvanectes",
+    "proof_read": 0,
     "short_description": "Göttin, Pendant zu Silvanus",
     "chapters": [
       {
         "start": 116,
-        "author": "Keune"
+        "end": 117,
+        "author": "Keune."
       }
     ]
   },
@@ -1784,11 +1951,13 @@
     "lemma": "Silvanianus",
     "previous": "Silvaniacus",
     "next": "Silvanus 1",
+    "proof_read": 0,
     "short_description": "Flavius Person",
     "chapters": [
       {
         "start": 117,
-        "author": "Seeck"
+        "end": 117,
+        "author": "Seeck."
       }
     ]
   },
@@ -1796,11 +1965,13 @@
     "lemma": "Silvanus 1",
     "previous": "Silvanianus",
     "next": "Silvanus 2",
+    "proof_read": 0,
     "short_description": "Römischer Gott ohne Staatskult",
     "chapters": [
       {
         "start": 117,
-        "author": "Klotz"
+        "end": 125,
+        "author": "Klotz."
       }
     ]
   },
@@ -1808,11 +1979,13 @@
     "lemma": "Silvanus 2",
     "previous": "Silvanus 1",
     "next": "Silvanus 3",
+    "proof_read": 0,
     "short_description": "M. Antonin. eis he. X 31",
     "chapters": [
       {
         "start": 125,
-        "author": "Stein, [Arthur]"
+        "end": 125,
+        "author": "Stein."
       }
     ]
   },
@@ -1820,11 +1993,13 @@
     "lemma": "Silvanus 3",
     "previous": "Silvanus 2",
     "next": "Silvanus 4",
+    "proof_read": 0,
     "short_description": "Ratgeber des älteren Sohnes von Gallienus",
     "chapters": [
       {
         "start": 125,
-        "author": "Stein, [Arthur]"
+        "end": 125,
+        "author": "Stein."
       }
     ]
   },
@@ -1848,11 +2023,13 @@
     "lemma": "Silvanus 5",
     "previous": "Silvanus 4",
     "next": "Silvanus 6",
+    "proof_read": 0,
     "short_description": "Antonius, Procurator portorii publici Illyrici",
     "chapters": [
       {
         "start": 126,
-        "author": "Stein, [Arthur]"
+        "end": 126,
+        "author": "Stein."
       }
     ]
   },
@@ -1860,11 +2037,13 @@
     "lemma": "Silvanus 6",
     "previous": "Silvanus 5",
     "next": "Silvanus 7a",
+    "proof_read": 0,
     "short_description": "Q. Iulius, Procurator Augustorum unter Marcus und Commodus",
     "chapters": [
       {
         "start": 126,
-        "author": "Stein, [Arthur]"
+        "end": 126,
+        "author": "Stein."
       }
     ]
   },
@@ -1926,11 +2105,13 @@
     "lemma": "Silvi 1",
     "previous": "Silvaticum",
     "next": "Silvi 2",
+    "proof_read": 0,
     "short_description": "Kaukasisches Bergvolk",
     "chapters": [
       {
         "start": 127,
-        "author": "Kretschmer"
+        "end": 127,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -1977,11 +2158,14 @@
     "lemma": "Silviae peregrinatio",
     "previous": "Silviae",
     "next": "Silvianum",
+    "sort_key": "Silviaeperegrinatio",
+    "proof_read": 0,
     "short_description": "Frühere Benennung des Reiseberichts der Aebtissin Aetheria",
     "chapters": [
       {
         "start": 128,
-        "author": "Lietzmann"
+        "end": 128,
+        "author": "Lietzmann."
       }
     ]
   },
@@ -2071,24 +2255,42 @@
   {
     "lemma": "Silvinus 3",
     "previous": "Silvinus 2",
-    "next": "Silvinus 4a",
+    "next": "Silvinus 4",
+    "proof_read": 0,
     "short_description": "Ihm ist de re rustica von Columella gewidmet",
     "chapters": [
       {
         "start": 128,
-        "author": "Stein, [Arthur]"
+        "end": 129,
+        "author": "Stein."
+      }
+    ]
+  },
+  {
+    "lemma": "Silvinus 4",
+    "previous": "Silvinus 3",
+    "next": "Silvinus 4a",
+    "proof_read": 0,
+    "short_description": "Ziegler",
+    "chapters": [
+      {
+        "start": 129,
+        "end": 129,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Silvinus 4a",
-    "previous": "Silvinus 3",
+    "previous": "Silvinus 4",
     "next": "Silvinus 4b",
+    "proof_read": 0,
     "short_description": "Ziegler",
     "chapters": [
       {
         "start": 129,
-        "author": "Keune"
+        "end": 129,
+        "author": "Keune."
       }
     ]
   },
@@ -2110,11 +2312,13 @@
     "lemma": "Silvinus 4c",
     "previous": "Silvinus 4b",
     "next": "Silvinus 5",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer in S-Gallien",
     "chapters": [
       {
         "start": 129,
-        "author": "Keune"
+        "end": 129,
+        "author": "Keune."
       }
     ]
   },
@@ -2148,11 +2352,13 @@
     "lemma": "Silvium 1",
     "previous": "Silvio",
     "next": "Silvium 2",
+    "proof_read": 0,
     "short_description": "Grenzort der Peuketier",
     "chapters": [
       {
         "start": 129,
-        "author": "Philipp"
+        "end": 130,
+        "author": "Philipp."
       }
     ]
   },
@@ -2175,11 +2381,13 @@
     "lemma": "Silvius 1",
     "previous": "Silvium 2",
     "next": "Silvius 2",
+    "proof_read": 0,
     "short_description": "Sohn des Aenaeas",
     "chapters": [
       {
         "start": 130,
-        "author": "Zwicker"
+        "end": 132,
+        "author": "Zwicker."
       }
     ]
   },
@@ -2187,11 +2395,13 @@
     "lemma": "Silvius 2",
     "previous": "Silvius 1",
     "next": "Silvius 3",
+    "proof_read": 0,
     "short_description": "Beiname Merkurs",
     "chapters": [
       {
         "start": 132,
-        "author": "Zwicker"
+        "end": 132,
+        "author": "Zwicker."
       }
     ]
   },
@@ -2225,72 +2435,86 @@
   {
     "lemma": "Silvus",
     "previous": "Silvius 4",
-    "next": "Silyros",
+    "next": "Σίλυρος",
+    "proof_read": 0,
     "short_description": "Gallischer Sigillatatöpfer",
     "chapters": [
       {
         "start": 132,
-        "author": "Keune"
+        "end": 133,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Silyros",
+    "lemma": "Σίλυρος",
     "previous": "Silvus",
     "next": "Sima 1",
+    "sort_key": "Silyros",
+    "proof_read": 0,
     "short_description": "Demotikon einer Örtlichkeit auf Rhodos",
     "chapters": [
       {
         "start": 133,
-        "author": "Bürchner"
+        "end": 133,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sima 1",
-    "previous": "Silyros",
+    "previous": "Σίλυρος",
     "next": "Sima 2",
+    "proof_read": 0,
     "short_description": "Syrische Göttin",
     "chapters": [
       {
         "start": 133,
-        "author": "Gunning"
+        "end": 133,
+        "author": "Gunning."
       }
     ]
   },
   {
     "lemma": "Sima 2",
     "previous": "Sima 1",
-    "next": "Simades",
+    "next": "Σιμάδης",
+    "proof_read": 0,
     "short_description": "Aufgebogener Rand des griechischen und römischen Ziegeldaches",
     "chapters": [
       {
         "start": 133,
-        "author": "Ebert"
+        "end": 135,
+        "author": "Ebert."
       }
     ]
   },
   {
-    "lemma": "Simades",
+    "lemma": "Σιμάδης",
     "previous": "Sima 2",
     "next": "Simaios",
+    "sort_key": "Simades",
+    "proof_read": 0,
     "short_description": "Patronymikon auf einer Amphora des Phintias aus Corneto",
     "chapters": [
       {
         "start": 135,
-        "author": "Zwicker"
+        "end": 135,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Simaios",
-    "previous": "Simades",
+    "previous": "Σιμάδης",
     "next": "Simalis",
+    "proof_read": 0,
     "short_description": "Satyrname",
     "chapters": [
       {
         "start": 135,
-        "author": "Storck"
+        "end": 135,
+        "author": "Storck."
       }
     ]
   },
@@ -2311,11 +2535,13 @@
     "lemma": "Simalos",
     "previous": "Simalis",
     "next": "Σίμανα",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 135,
-        "author": "Lippold, Georg"
+        "end": 135,
+        "author": "Lippold."
       }
     ]
   },
@@ -2338,11 +2564,13 @@
     "lemma": "Simaristos",
     "previous": "Σίμανα",
     "next": "Simas",
+    "proof_read": 0,
     "short_description": "Griechischer Grammatiker",
     "chapters": [
       {
         "start": 135,
-        "author": "Mittelhaus"
+        "end": 136,
+        "author": "Mittelhaus."
       }
     ]
   },
@@ -2350,11 +2578,13 @@
     "lemma": "Simas",
     "previous": "Simaristos",
     "next": "Simbruini colles",
+    "proof_read": 0,
     "short_description": "Vorgebirge am europäischen Ufer des Bosporos",
     "chapters": [
       {
         "start": 136,
-        "author": "Gunning"
+        "end": 136,
+        "author": "Gunning."
       }
     ]
   },
@@ -2362,11 +2592,14 @@
     "lemma": "Simbruini colles",
     "previous": "Simas",
     "next": "Sime 1",
+    "sort_key": "Simbruinicolles",
+    "proof_read": 0,
     "short_description": "Hügel oberhalb von Sublaqueum",
     "chapters": [
       {
         "start": 136,
-        "author": "Philipp"
+        "end": 136,
+        "author": "Philipp."
       }
     ]
   },
@@ -2374,11 +2607,13 @@
     "lemma": "Sime 1",
     "previous": "Simbruini colles",
     "next": "Sime 2",
+    "proof_read": 0,
     "short_description": "Lieblingsname auf einer schwarzfig.-Hydria aus Vulci",
     "chapters": [
       {
         "start": 136,
-        "author": "Leonard"
+        "end": 136,
+        "author": "Leonard."
       }
     ]
   },
@@ -2386,11 +2621,13 @@
     "lemma": "Sime 2",
     "previous": "Sime 1",
     "next": "Simea, Simios",
+    "proof_read": 0,
     "short_description": "Etruskische Bezeichnung eines Satyrn",
     "chapters": [
       {
         "start": 136,
-        "author": "Fiesel"
+        "end": 137,
+        "author": "Fiesel."
       }
     ]
   },
@@ -2398,11 +2635,14 @@
     "lemma": "Simea, Simios",
     "previous": "Sime 2",
     "next": "Simena",
+    "sort_key": "Simea,simios",
+    "proof_read": 0,
     "short_description": "Gestalten des syrischen Pantheons",
     "chapters": [
       {
         "start": 137,
-        "author": "Dussaud"
+        "end": 140,
+        "author": "Dussaud."
       }
     ]
   },
@@ -2410,11 +2650,13 @@
     "lemma": "Simena",
     "previous": "Simea, Simios",
     "next": "Σιμενοί",
+    "proof_read": 0,
     "short_description": "Küstenort in Lykien",
     "chapters": [
       {
         "start": 140,
-        "author": "Ruge"
+        "end": 140,
+        "author": "Ruge."
       }
     ]
   },
@@ -2450,11 +2692,14 @@
     "lemma": "Simeon Stylites",
     "previous": "Simenus",
     "next": "Simi",
+    "sort_key": "Simeonstylites",
+    "proof_read": 0,
     "short_description": "Der erste Säulenheilige",
     "chapters": [
       {
         "start": 140,
-        "author": "Lietzmann"
+        "end": 142,
+        "author": "Lietzmann."
       }
     ]
   },
@@ -2490,11 +2735,13 @@
     "lemma": "Simiades",
     "previous": "Σιμιάδαι",
     "next": "Simias 1",
+    "proof_read": 0,
     "short_description": "Lieblingsname auf einer rotfig.-Schale aus Vulci",
     "chapters": [
       {
         "start": 142,
-        "author": "Leonard"
+        "end": 142,
+        "author": "Leonard."
       }
     ]
   },
@@ -2502,11 +2749,13 @@
     "lemma": "Simias 1",
     "previous": "Simiades",
     "next": "Simias 2",
+    "proof_read": 0,
     "short_description": "Aus Apollonia erhält die Isopolitie der Molosser",
     "chapters": [
       {
         "start": 142,
-        "author": "Schoch"
+        "end": 142,
+        "author": "Schoch."
       }
     ]
   },
@@ -2514,11 +2763,13 @@
     "lemma": "Simias 2",
     "previous": "Simias 1",
     "next": "Simias 3",
+    "proof_read": 0,
     "short_description": "Freund des Ptolemaios III Euergetes",
     "chapters": [
       {
         "start": 142,
-        "author": "Klotz"
+        "end": 143,
+        "author": "Klotz."
       }
     ]
   },
@@ -2526,11 +2777,13 @@
     "lemma": "Simias 3",
     "previous": "Simias 2",
     "next": "Simidicca",
+    "proof_read": 0,
     "short_description": "Sohn des Pythokritos",
     "chapters": [
       {
         "start": 143,
-        "author": "Lippold, Georg"
+        "end": 143,
+        "author": "Lippold."
       }
     ]
   },
@@ -2538,11 +2791,13 @@
     "lemma": "Simidicca",
     "previous": "Simias 3",
     "next": "Similiacus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 143,
-        "author": "Dessau"
+        "end": 143,
+        "author": "Dessau."
       }
     ]
   },
@@ -2550,11 +2805,13 @@
     "lemma": "Similiacus",
     "previous": "Simidicca",
     "next": "Similis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 143,
-        "author": "Keune"
+        "end": 143,
+        "author": "Keune."
       }
     ]
   },
@@ -2562,11 +2819,13 @@
     "lemma": "Similis",
     "previous": "Similiacus",
     "next": "Simingitana",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 143,
-        "author": "Keune"
+        "end": 143,
+        "author": "Keune."
       }
     ]
   },
@@ -2574,11 +2833,13 @@
     "lemma": "Simingitana",
     "previous": "Similis",
     "next": "Simios",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 143,
-        "author": "Dessau"
+        "end": 143,
+        "author": "Dessau."
       }
     ]
   },
@@ -2599,11 +2860,13 @@
     "lemma": "Simitthus",
     "previous": "Simios",
     "next": "Simmeas",
+    "proof_read": 0,
     "short_description": "Ortschaft an der Straße Karthago - Hippo Regius",
     "chapters": [
       {
         "start": 143,
-        "author": "Dessau"
+        "end": 144,
+        "author": "Dessau."
       }
     ]
   },
@@ -2611,11 +2874,13 @@
     "lemma": "Simmeas",
     "previous": "Simitthus",
     "next": "Simmias 1",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 144,
-        "author": "Wickert"
+        "end": 144,
+        "author": "Wickert."
       }
     ]
   },
@@ -2623,11 +2888,13 @@
     "lemma": "Simmias 1",
     "previous": "Simmeas",
     "next": "Simmias 2",
+    "proof_read": 0,
     "short_description": "Sohn des Andromenes",
     "chapters": [
       {
         "start": 144,
-        "author": "Schoch"
+        "end": 144,
+        "author": "Schoch."
       }
     ]
   },
@@ -2635,11 +2902,13 @@
     "lemma": "Simmias 2",
     "previous": "Simmias 1",
     "next": "Simmias 3",
+    "proof_read": 0,
     "short_description": "Makedone aus der Landschaft Tymphaia",
     "chapters": [
       {
         "start": 144,
-        "author": "Schoch"
+        "end": 144,
+        "author": "Schoch."
       }
     ]
   },
@@ -2647,11 +2916,13 @@
     "lemma": "Simmias 3",
     "previous": "Simmias 2",
     "next": "Simmias 4",
+    "proof_read": 0,
     "short_description": "Freund des Ptolemaios III Euergetes",
     "chapters": [
       {
         "start": 144,
-        "author": "Schoch"
+        "end": 144,
+        "author": "Schoch."
       }
     ]
   },
@@ -2659,11 +2930,13 @@
     "lemma": "Simmias 4",
     "previous": "Simmias 3",
     "next": "Simmias 5",
+    "proof_read": 0,
     "short_description": "Xenos des Sokrates",
     "chapters": [
       {
         "start": 144,
-        "author": "Hobein"
+        "end": 155,
+        "author": "Hobein."
       }
     ]
   },
@@ -2671,11 +2944,13 @@
     "lemma": "Simmias 5",
     "previous": "Simmias 4",
     "next": "Simmias 6",
+    "proof_read": 0,
     "short_description": "Freund Stilpons",
     "chapters": [
       {
         "start": 155,
-        "author": "Hobein"
+        "end": 155,
+        "author": "Hobein."
       }
     ]
   },
@@ -2683,11 +2958,13 @@
     "lemma": "Simmias 6",
     "previous": "Simmias 5",
     "next": "Simmias 7",
+    "proof_read": 0,
     "short_description": "Grammatiker und Dichter aus Rhodos",
     "chapters": [
       {
         "start": 155,
-        "author": "Maas"
+        "end": 158,
+        "author": "Maas."
       }
     ]
   },
@@ -2695,54 +2972,61 @@
     "lemma": "Simmias 7",
     "previous": "Simmias 6",
     "next": "Simmias 8",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 158,
-        "author": "Lippold, Georg"
+        "end": 158,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Simmias 8",
     "previous": "Simmias 7",
-    "next": "Sim(m)ik(k)a",
+    "next": "Sim(m)i(k)ka",
+    "proof_read": 0,
     "short_description": "Arzt",
     "chapters": [
       {
         "start": 158,
-        "author": "Gossen"
+        "end": 158,
+        "author": "Gossen."
       }
     ]
   },
   {
-    "lemma": "Sim(m)ik(k)a",
+    "lemma": "Sim(m)i(k)ka",
     "previous": "Simmias 8",
     "next": "Simminensis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 158,
-        "author": "Ruge"
+        "end": 159,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Simminensis",
-    "previous": "Sim(m)ik(k)a",
-    "next": "Simodoi",
+    "previous": "Sim(m)i(k)ka",
+    "next": "Σιμῳδοί",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 159,
-        "author": "Dessau"
+        "end": 159,
+        "author": "Dessau."
       }
     ]
   },
   {
     "lemma": "Simodoi",
     "previous": "Simminenses",
-    "next": "Simoeis 1",
     "proof_read": 0,
     "short_description": "Gattung der niederen Lyrik",
     "wp_link": "w:it:Simodia",
@@ -2756,14 +3040,30 @@
     ]
   },
   {
-    "lemma": "Simoeis 1",
-    "previous": "Simodoi",
-    "next": "Simoeis 2",
-    "short_description": "Flüßchen der westl. Troas",
+    "lemma": "Simoeis",
+    "previous": "Σιμῳδοί",
+    "next": "Simoeis 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
     "chapters": [
       {
         "start": 160,
-        "author": "Bürchner"
+        "end": 161,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Simoeis 1",
+    "previous": "Simoeis",
+    "next": "Simoeis 2",
+    "proof_read": 0,
+    "short_description": "Flüßchen der westl. Troas",
+    "chapters": [
+      {
+        "start": 161,
+        "end": 161,
+        "author": "Bürchner."
       }
     ]
   },
@@ -2799,7 +3099,7 @@
   {
     "lemma": "Simoeis 4",
     "previous": "Simoeis 3",
-    "next": "Simoeision pedion",
+    "next": "Σιμοείσιον πεδίον",
     "proof_read": 2,
     "short_description": "Fluß in Epirus",
     "chapters": [
@@ -2811,57 +3111,83 @@
     ]
   },
   {
-    "lemma": "Simoeision pedion",
+    "lemma": "Σιμοείσιον πεδίον",
     "previous": "Simoeis 4",
-    "next": "Simoeisios",
+    "next": "Σιμοείσιος",
+    "sort_key": "Simoeisionpedion",
+    "proof_read": 0,
     "short_description": "s. Simoeis",
     "chapters": [
       {
         "start": 161,
-        "author": "Bürchner"
+        "end": 162,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Simoeisios",
-    "previous": "Simoeision pedion",
+    "lemma": "Σιμοείσιος",
+    "previous": "Σιμοείσιον πεδίον",
     "next": "Simoi",
+    "sort_key": "Simoeisios",
+    "proof_read": 0,
     "short_description": "Sohn des Anthemion",
     "chapters": [
       {
         "start": 162,
-        "author": "Wickert"
+        "end": 162,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Simoi",
-    "previous": "Simoeisios",
-    "next": "Simon 1",
+    "previous": "Σιμοείσιος",
+    "next": "Σίμων",
+    "proof_read": 0,
     "short_description": "äthiopisches Volk",
     "chapters": [
       {
         "start": 162,
-        "author": "Wickert"
+        "end": 162,
+        "author": "Wickert."
       }
     ]
   },
   {
-    "lemma": "Simon 1",
+    "lemma": "Σίμων",
     "previous": "Simoi",
-    "next": "Simon 2",
+    "next": "Σίμων 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 162,
+        "end": 162,
+        "author": "Zwicker."
+      }
+    ]
+  },
+  {
+    "lemma": "Σίμων 1",
+    "previous": "Σίμων",
+    "next": "Σίμων 2",
+    "sort_key": "Simon 1",
+    "proof_read": 0,
     "short_description": "Telchine",
     "chapters": [
       {
         "start": 162,
-        "author": "Zwicker"
+        "end": 162,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Simon 2",
-    "previous": "Simon 1",
-    "next": "Simon 3",
+    "lemma": "Σίμων 2",
+    "previous": "Σίμων 1",
+    "next": "Σίμων 3",
+    "sort_key": "Simon 2",
     "proof_read": 2,
     "short_description": "Tyrrhenischer Seeräuber",
     "no_creative_height": true,
@@ -2874,9 +3200,10 @@
     ]
   },
   {
-    "lemma": "Simon 3",
-    "previous": "Simon 2",
-    "next": "Simon 4",
+    "lemma": "Σίμων 3",
+    "previous": "Σίμων 2",
+    "next": "Σίμων 4",
+    "sort_key": "Simon 3",
     "proof_read": 2,
     "short_description": "Teilnehmer an der kalydonischen Jagd",
     "no_creative_height": true,
@@ -2889,9 +3216,10 @@
     ]
   },
   {
-    "lemma": "Simon 4",
-    "previous": "Simon 3",
-    "next": "Simon 5",
+    "lemma": "Σίμων 4",
+    "previous": "Σίμων 3",
+    "next": "Σίμων 5",
+    "sort_key": "Simon 4",
     "proof_read": 2,
     "short_description": "Von Theseus geretteter athenischer Jüngling",
     "no_creative_height": true,
@@ -2904,9 +3232,10 @@
     ]
   },
   {
-    "lemma": "Simon 5",
-    "previous": "Simon 4",
-    "next": "Simon 6",
+    "lemma": "Σίμων 5",
+    "previous": "Σίμων 4",
+    "next": "Σίμων 6",
+    "sort_key": "Simon 5",
     "proof_read": 2,
     "short_description": "Athenischer Archon",
     "chapters": [
@@ -2918,45 +3247,55 @@
     ]
   },
   {
-    "lemma": "Simon 6",
-    "previous": "Simon 5",
-    "next": "Simon 7",
+    "lemma": "Σίμων 6",
+    "previous": "Σίμων 5",
+    "next": "Σίμων 7",
+    "sort_key": "Simon 6",
+    "proof_read": 0,
     "short_description": "Schuster aus Athen",
     "chapters": [
       {
         "start": 163,
-        "author": "Hobein"
+        "end": 173,
+        "author": "Hobein."
       }
     ]
   },
   {
-    "lemma": "Simon 7",
-    "previous": "Simon 6",
-    "next": "Simon 8",
+    "lemma": "Σίμων 7",
+    "previous": "Σίμων 6",
+    "next": "Σίμων 8",
+    "sort_key": "Simon 7",
+    "proof_read": 0,
     "short_description": "Athenischer Verfasser einer Schrift peri hippikes",
     "chapters": [
       {
         "start": 173,
-        "author": "Wickert"
+        "end": 175,
+        "author": "Wickert."
       }
     ]
   },
   {
-    "lemma": "Simon 8",
-    "previous": "Simon 7",
-    "next": "Simon 9",
+    "lemma": "Σίμων 8",
+    "previous": "Σίμων 7",
+    "next": "Σίμων 9",
+    "sort_key": "Simon 8",
+    "proof_read": 0,
     "short_description": "Söldnerführer",
     "chapters": [
       {
         "start": 175,
-        "author": "Wickert"
+        "end": 175,
+        "author": "Wickert."
       }
     ]
   },
   {
-    "lemma": "Simon 9",
-    "previous": "Simon 8",
-    "next": "Simon 10",
+    "lemma": "Σίμων 9",
+    "previous": "Σίμων 8",
+    "next": "Σίμων 10",
+    "sort_key": "Simon 9",
     "proof_read": 2,
     "short_description": "Rhetor",
     "no_creative_height": true,
@@ -2969,45 +3308,55 @@
     ]
   },
   {
-    "lemma": "Simon 10",
-    "previous": "Simon 9",
-    "next": "Simon 11",
+    "lemma": "Σίμων 10",
+    "previous": "Σίμων 9",
+    "next": "Σίμων 11",
+    "sort_key": "Simon 10",
+    "proof_read": 0,
     "short_description": "Ehemaliger Sklave des Königs Herodes",
     "chapters": [
       {
         "start": 175,
-        "author": "Stein, [Arthur]"
+        "end": 176,
+        "author": "Stein."
       }
     ]
   },
   {
-    "lemma": "Simon 11",
-    "previous": "Simon 10",
-    "next": "Simon 12",
+    "lemma": "Σίμων 11",
+    "previous": "Σίμων 10",
+    "next": "Σίμων 12",
+    "sort_key": "Simon 11",
+    "proof_read": 0,
     "short_description": "Parteiführer in Jerusalem während der Belagerung durch Titus",
     "chapters": [
       {
         "start": 176,
-        "author": "Stein, [Arthur]"
+        "end": 179,
+        "author": "Stein."
       }
     ]
   },
   {
-    "lemma": "Simon 12",
-    "previous": "Simon 11",
-    "next": "Simon 13",
+    "lemma": "Σίμων 12",
+    "previous": "Σίμων 11",
+    "next": "Σίμων 13",
+    "sort_key": "Simon 12",
+    "proof_read": 0,
     "short_description": "Erzgießer aus Aigina",
     "chapters": [
       {
         "start": 179,
-        "author": "Lippold, Georg"
+        "end": 180,
+        "author": "Lippold."
       }
     ]
   },
   {
-    "lemma": "Simon 13",
-    "previous": "Simon 12",
-    "next": "Simon 14",
+    "lemma": "Σίμων 13",
+    "previous": "Σίμων 12",
+    "next": "Σίμων 14",
+    "sort_key": "Simon 13",
     "redirect": "Simmias 7",
     "proof_read": 2,
     "chapters": [
@@ -3018,9 +3367,10 @@
     ]
   },
   {
-    "lemma": "Simon 14",
-    "previous": "Simon 13",
-    "next": "Simon 15",
+    "lemma": "Σίμων 14",
+    "previous": "Σίμων 13",
+    "next": "Σίμων 15",
+    "sort_key": "Simon 14",
     "proof_read": 2,
     "short_description": "Arzt",
     "chapters": [
@@ -3032,9 +3382,10 @@
     ]
   },
   {
-    "lemma": "Simon 15",
-    "previous": "Simon 14",
-    "next": "Simon 16",
+    "lemma": "Σίμων 15",
+    "previous": "Σίμων 14",
+    "next": "Σίμων 16",
+    "sort_key": "Simon 15",
     "proof_read": 2,
     "short_description": "Augenarzt",
     "chapters": [
@@ -3046,62 +3397,75 @@
     ]
   },
   {
-    "lemma": "Simon 16",
-    "previous": "Simon 15",
+    "lemma": "Σίμων 16",
+    "previous": "Σίμων 15",
     "next": "Simon Magus",
+    "sort_key": "Simon 16",
+    "proof_read": 0,
     "short_description": "Ältester bekannter Tierarzt",
     "chapters": [
       {
         "start": 180,
-        "author": "Gossen"
+        "end": 180,
+        "author": "Gossen."
       }
     ]
   },
   {
     "lemma": "Simon Magus",
-    "previous": "Simon 16",
-    "next": "Simonatides",
+    "previous": "Σίμων 16",
+    "next": "Simonaktides",
+    "sort_key": "Simonmagus",
+    "proof_read": 0,
     "short_description": "Vater aller Ketzerei",
     "chapters": [
       {
         "start": 180,
-        "author": "Lietzmann"
+        "end": 184,
+        "author": "Lietzmann."
       }
     ]
   },
   {
-    "lemma": "Simonatides",
+    "lemma": "Simonaktides",
     "previous": "Simon Magus",
-    "next": "Simonias",
+    "next": "Σιμωνιάς",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 184,
-        "author": "Gossen"
+        "end": 184,
+        "author": "Gossen."
       }
     ]
   },
   {
-    "lemma": "Simonias",
-    "previous": "Simonatides",
+    "lemma": "Σιμωνιάς",
+    "previous": "Simonaktides",
     "next": "Simonides 1",
+    "sort_key": "Simonias",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 184,
-        "author": "Honigmann"
+        "end": 184,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Simonides 1",
-    "previous": "Simonias",
+    "previous": "Σιμωνιάς",
     "next": "Simonides 2",
+    "proof_read": 0,
     "short_description": "besser wohl Semonides, Iambograph von Amorgos",
     "chapters": [
       {
         "start": 184,
-        "author": "Geffcken"
+        "end": 186,
+        "author": "Geffcken."
       }
     ]
   },
@@ -3109,11 +3473,13 @@
     "lemma": "Simonides 2",
     "previous": "Simonides 1",
     "next": "Simonides 3",
+    "proof_read": 0,
     "short_description": "Lyriker aus Keos",
     "chapters": [
       {
         "start": 186,
-        "author": "Geffcken"
+        "end": 197,
+        "author": "Geffcken."
       }
     ]
   },
@@ -3121,11 +3487,13 @@
     "lemma": "Simonides 3",
     "previous": "Simonides 2",
     "next": "Simonides 4",
+    "proof_read": 0,
     "short_description": "Epischer Dichter aus Sizilien",
     "chapters": [
       {
         "start": 197,
-        "author": "Weinberger"
+        "end": 197,
+        "author": "Weinberger."
       }
     ]
   },
@@ -3133,11 +3501,13 @@
     "lemma": "Simonides 4",
     "previous": "Simonides 3",
     "next": "Simonides 5",
+    "proof_read": 0,
     "short_description": "Verfasser eines Geschichtswerkes über Dion von Syrakus",
     "chapters": [
       {
         "start": 197,
-        "author": "Arnim"
+        "end": 197,
+        "author": "v. Arnim."
       }
     ]
   },
@@ -3145,11 +3515,13 @@
     "lemma": "Simonides 5",
     "previous": "Simonides 4",
     "next": "Simonides 6",
+    "proof_read": 0,
     "short_description": "Geographischer Schriftsteller über Aethiopien",
     "chapters": [
       {
         "start": 197,
-        "author": "Klotz"
+        "end": 197,
+        "author": "Klotz."
       }
     ]
   },
@@ -3157,11 +3529,13 @@
     "lemma": "Simonides 6",
     "previous": "Simonides 5",
     "next": "Simonides 7",
+    "proof_read": 0,
     "short_description": "Philosoph unter Valens",
     "chapters": [
       {
         "start": 197,
-        "author": "Praechter"
+        "end": 198,
+        "author": "Praechter."
       }
     ]
   },
@@ -3169,11 +3543,13 @@
     "lemma": "Simonides 7",
     "previous": "Simonides 6",
     "next": "Simonides 8",
+    "proof_read": 0,
     "short_description": "Attischer Stratege",
     "chapters": [
       {
         "start": 198,
-        "author": "Swoboda, [Heinrich]"
+        "end": 198,
+        "author": "Swoboda."
       }
     ]
   },
@@ -3224,11 +3600,14 @@
     "lemma": "Simonides Agrippa",
     "previous": "Simonides 10",
     "next": "Simonius",
+    "sort_key": "Simonidesagrippa",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 198,
-        "author": "Stein, [Arthur]"
+        "end": 198,
+        "author": "Stein."
       }
     ]
   },
@@ -3236,11 +3615,13 @@
     "lemma": "Simonius",
     "previous": "Simonides Agrippa",
     "next": "Simos 1",
+    "proof_read": 0,
     "short_description": "Proculus Iulianus, D., Stadtpräfekt von Rom unter Philippus?",
     "chapters": [
       {
         "start": 198,
-        "author": "Miltner, Franz"
+        "end": 199,
+        "author": "Miltner."
       }
     ]
   },
@@ -3276,11 +3657,13 @@
     "lemma": "Simos 3",
     "previous": "Simos 2",
     "next": "Simos 4",
+    "proof_read": 0,
     "short_description": "Herrscher von Larissa",
     "chapters": [
       {
         "start": 201,
-        "author": "Obst"
+        "end": 201,
+        "author": "Obst."
       }
     ]
   },
@@ -3302,11 +3685,13 @@
     "lemma": "Simos 5",
     "previous": "Simos 4",
     "next": "Simos 6",
+    "proof_read": 0,
     "short_description": "Pythagoreer aus Poseidonia",
     "chapters": [
       {
         "start": 201,
-        "author": "Hobein"
+        "end": 202,
+        "author": "Hobein."
       }
     ]
   },
@@ -3314,11 +3699,13 @@
     "lemma": "Simos 6",
     "previous": "Simos 5",
     "next": "Simos 7",
+    "proof_read": 0,
     "short_description": "Bildhauer aus Salamis",
     "chapters": [
       {
         "start": 202,
-        "author": "Lippold, Georg"
+        "end": 202,
+        "author": "Lippold."
       }
     ]
   },
@@ -3326,11 +3713,13 @@
     "lemma": "Simos 7",
     "previous": "Simos 6",
     "next": "Simos 8",
+    "proof_read": 0,
     "short_description": "Bildhauer aus Olynth",
     "chapters": [
       {
         "start": 202,
-        "author": "Lippold, Georg"
+        "end": 202,
+        "author": "Lippold."
       }
     ]
   },
@@ -3338,11 +3727,13 @@
     "lemma": "Simos 8",
     "previous": "Simos 7",
     "next": "Simos 9",
+    "proof_read": 0,
     "short_description": "Maler",
     "chapters": [
       {
         "start": 202,
-        "author": "Lippold, Georg"
+        "end": 203,
+        "author": "Lippold."
       }
     ]
   },
@@ -3350,11 +3741,18 @@
     "lemma": "Simos 9",
     "previous": "Simos 8",
     "next": "Simpiacus",
+    "proof_read": 0,
     "short_description": "Griechischer Arzt",
     "chapters": [
       {
         "start": 203,
-        "author": "Gossen"
+        "end": 203,
+        "author": "Gossen."
+      },
+      {
+        "start": 203,
+        "end": 203,
+        "author": "Kind."
       }
     ]
   },
@@ -3389,11 +3787,13 @@
     "lemma": "Simpliciacus",
     "previous": "Simplex",
     "next": "Simplicius 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 203,
-        "author": "Keune"
+        "end": 203,
+        "author": "Keune."
       }
     ]
   },
@@ -3401,11 +3801,13 @@
     "lemma": "Simplicius 1",
     "previous": "Simpliciacus",
     "next": "Simplicius 2",
+    "proof_read": 0,
     "short_description": "Sohn des Philippus",
     "chapters": [
       {
         "start": 203,
-        "author": "Seeck"
+        "end": 203,
+        "author": "Seeck."
       }
     ]
   },
@@ -3427,11 +3829,13 @@
     "lemma": "Simplicius 3",
     "previous": "Simplicius 2",
     "next": "Simplicius 4",
+    "proof_read": 0,
     "short_description": "Flavius Grammatiker aus Emona",
     "chapters": [
       {
         "start": 203,
-        "author": "Seeck"
+        "end": 203,
+        "author": "Seeck."
       }
     ]
   },
@@ -3439,11 +3843,13 @@
     "lemma": "Simplicius 4",
     "previous": "Simplicius 3",
     "next": "Simplicius 5",
+    "proof_read": 0,
     "short_description": "Procos. Asiae",
     "chapters": [
       {
         "start": 203,
-        "author": "Seeck"
+        "end": 203,
+        "author": "Seeck."
       }
     ]
   },
@@ -3451,11 +3857,13 @@
     "lemma": "Simplicius 5",
     "previous": "Simplicius 4",
     "next": "Simplicius 6",
+    "proof_read": 0,
     "short_description": "Comes et magister utriusque militiae per Orientem",
     "chapters": [
       {
         "start": 203,
-        "author": "Seeck"
+        "end": 203,
+        "author": "Seeck."
       }
     ]
   },
@@ -3463,11 +3871,13 @@
     "lemma": "Simplicius 6",
     "previous": "Simplicius 5",
     "next": "Simplicius 7",
+    "proof_read": 0,
     "short_description": "Praeses Tripolitanae",
     "chapters": [
       {
         "start": 203,
-        "author": "Seeck"
+        "end": 203,
+        "author": "Seeck."
       }
     ]
   },
@@ -3475,11 +3885,13 @@
     "lemma": "Simplicius 7",
     "previous": "Simplicius 6",
     "next": "Simplicius 8",
+    "proof_read": 0,
     "short_description": "Praefectus urbi Constantinopolitanae",
     "chapters": [
       {
         "start": 203,
-        "author": "Seeck"
+        "end": 203,
+        "author": "Seeck."
       }
     ]
   },
@@ -3487,11 +3899,13 @@
     "lemma": "Simplicius 8",
     "previous": "Simplicius 7",
     "next": "Simplicius 9",
+    "proof_read": 0,
     "short_description": "Bruder des Apollinaris",
     "chapters": [
       {
         "start": 203,
-        "author": "Seeck"
+        "end": 203,
+        "author": "Seeck."
       }
     ]
   },
@@ -3499,11 +3913,13 @@
     "lemma": "Simplicius 9",
     "previous": "Simplicius 8",
     "next": "Simplicius 10",
+    "proof_read": 0,
     "short_description": "Bischof von Bituriges",
     "chapters": [
       {
         "start": 204,
-        "author": "Seeck"
+        "end": 204,
+        "author": "Seeck."
       }
     ]
   },
@@ -3511,11 +3927,13 @@
     "lemma": "Simplicius 10",
     "previous": "Simplicius 9",
     "next": "Simplium",
+    "proof_read": 0,
     "short_description": "Neuplatoniker aus Kilikien",
     "chapters": [
       {
         "start": 204,
-        "author": "Praechter"
+        "end": 213,
+        "author": "Praechter."
       }
     ]
   },
@@ -3523,41 +3941,48 @@
     "lemma": "Simplium",
     "previous": "Simplicius 10",
     "next": "Simpludiarea",
+    "proof_read": 0,
     "short_description": "Gewichtseinheit",
     "chapters": [
       {
         "start": 213,
-        "author": "Regling"
+        "end": 213,
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Simpludiarea",
     "previous": "Simplium",
-    "next": "Simpsimida",
+    "next": "Σιμψιμίδα",
+    "proof_read": 0,
     "short_description": "Leichenfeierlichkeiten mit ludi?",
     "chapters": [
       {
         "start": 213,
-        "author": "Hug"
+        "end": 213,
+        "author": "Hug."
       }
     ]
   },
   {
-    "lemma": "Simpsimida",
+    "lemma": "Σιμψιμίδα",
     "previous": "Simpludiarea",
     "next": "Simpulum",
+    "sort_key": "Simpsimida",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 213,
-        "author": "Weissbach"
+        "end": 213,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Simpulum",
-    "previous": "Simpsimida",
+    "previous": "Σιμψιμίδα",
     "next": "Simpuvium",
     "redirect": "Simpuvium",
     "proof_read": 2,
@@ -3572,11 +3997,13 @@
     "lemma": "Simpuvium",
     "previous": "Simpulum",
     "next": "Simunda",
+    "proof_read": 0,
     "short_description": "Gefäß im römischen Kult",
     "chapters": [
       {
         "start": 213,
-        "author": "Leonard"
+        "end": 216,
+        "author": "Leonard."
       }
     ]
   },
@@ -3597,11 +4024,13 @@
     "lemma": "Simylla",
     "previous": "Simunda",
     "next": "Simylos 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 216,
-        "author": "Wecker"
+        "end": 216,
+        "author": "Wecker."
       }
     ]
   },
@@ -3609,51 +4038,61 @@
     "lemma": "Simylos 1",
     "previous": "Simylla",
     "next": "Simylos 2",
+    "proof_read": 0,
     "short_description": "Dichter der neuen Komödie",
     "chapters": [
       {
         "start": 216,
-        "author": "Körte"
+        "end": 216,
+        "author": "Körte."
       }
     ]
   },
   {
     "lemma": "Simylos 2",
     "previous": "Simylos 1",
-    "next": "Simyra",
-    "short_description": "Didaktischer Dichter",
+    "next": "Σίμνρα",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 216,
-        "author": "Körte"
+        "end": 216,
+        "author": "Körte."
       },
       {
-        "start": 217,
-        "author": "Diehl, Ernst"
+        "start": 216,
+        "end": 217,
+        "author": "Diehl."
       }
     ]
   },
   {
-    "lemma": "Simyra",
+    "lemma": "Σίμνρα",
     "previous": "Simylos 2",
     "next": "Sina 1",
+    "sort_key": "Simyra",
+    "proof_read": 0,
     "short_description": "Stadt Phoinikiens",
     "chapters": [
       {
         "start": 217,
-        "author": "Honigmann"
+        "end": 218,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sina 1",
-    "previous": "Simyra",
+    "previous": "Σίμνρα",
     "next": "Sina 2",
+    "proof_read": 0,
     "short_description": "Ortschaft in Margiana",
     "chapters": [
       {
         "start": 218,
-        "author": "Kretschmer"
+        "end": 218,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -3661,11 +4100,13 @@
     "lemma": "Sina 2",
     "previous": "Sina 1",
     "next": "Sina 3",
+    "proof_read": 0,
     "short_description": "Insel vor der WSW-Küste der Bretagne Sein",
     "chapters": [
       {
         "start": 218,
-        "author": "Keune"
+        "end": 219,
+        "author": "Keune."
       }
     ]
   },
@@ -3673,11 +4114,13 @@
     "lemma": "Sina 3",
     "previous": "Sina 2",
     "next": "Sinai 1",
+    "proof_read": 0,
     "short_description": "Indaeorum, Römisches Kastell",
     "chapters": [
       {
         "start": 219,
-        "author": "Weissbach"
+        "end": 219,
+        "author": "Weissbach."
       }
     ]
   },
@@ -3685,18 +4128,20 @@
     "lemma": "Sinai 1",
     "previous": "Sina 3",
     "next": "Sinai 2",
+    "proof_read": 0,
     "short_description": "Die alten Chinesen",
     "chapters": [
       {
         "start": 219,
-        "author": "Herrmann"
+        "end": 221,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Sinai 2",
     "previous": "Sinai 1",
-    "next": "Sinaios",
+    "next": "Σιναῖος",
     "redirect": "Thina",
     "proof_read": 2,
     "chapters": [
@@ -3707,45 +4152,53 @@
     ]
   },
   {
-    "lemma": "Sinaios",
+    "lemma": "Σιναῖος",
     "previous": "Sinai 2",
-    "next": "Sinaka",
+    "next": "Σινάκα",
+    "sort_key": "Sinaios",
+    "proof_read": 0,
     "short_description": "Sohn Kana'ans",
     "chapters": [
       {
         "start": 221,
-        "author": "Honigmann"
+        "end": 222,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sinaka",
-    "previous": "Sinaios",
+    "lemma": "Σινάκα",
+    "previous": "Σιναῖος",
     "next": "Sinaros 1",
+    "sort_key": "Sinaka",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 222,
-        "author": "Kretschmer"
+        "end": 222,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Sinaros 1",
-    "previous": "Sinaka",
+    "previous": "Σινάκα",
     "next": "Sinaros 2",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Hydaspes",
     "chapters": [
       {
         "start": 222,
-        "author": "Wecker"
+        "end": 222,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Sinaros 2",
     "previous": "Sinaros 1",
-    "next": "Sinas",
+    "next": "Σινάς",
     "redirect": "Saros 2",
     "proof_read": 2,
     "chapters": [
@@ -3756,38 +4209,46 @@
     ]
   },
   {
-    "lemma": "Sinas",
+    "lemma": "Σινάς",
     "previous": "Sinaros 2",
-    "next": "Sinas, Sinatis",
+    "next": "Sinas, Sinatis (-es)",
+    "sort_key": "Sinas",
+    "proof_read": 0,
     "short_description": "Bergfeste in Mesopotamien",
     "chapters": [
       {
         "start": 222,
-        "author": "Weissbach"
+        "end": 222,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Sinas, Sinatis",
-    "previous": "Sinas",
+    "lemma": "Sinas, Sinatis (-es)",
+    "previous": "Σινάς",
     "next": "Sinatos",
+    "sort_key": "Sinas,sinatis",
+    "proof_read": 0,
     "short_description": "Örtlicher Beiname des Mars",
     "chapters": [
       {
         "start": 222,
-        "author": "Keune"
+        "end": 222,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sinatos",
-    "previous": "Sinas, Sinatis",
+    "previous": "Sinas, Sinatis (-es)",
     "next": "Sinatrukes",
+    "proof_read": 0,
     "short_description": "Galatischer Tetrarch",
     "chapters": [
       {
         "start": 222,
-        "author": "Schoch"
+        "end": 222,
+        "author": "Schoch."
       }
     ]
   },
@@ -3795,11 +4256,13 @@
     "lemma": "Sinatrukes",
     "previous": "Sinatos",
     "next": "Sinda 1",
+    "proof_read": 0,
     "short_description": "Arsakide",
     "chapters": [
       {
         "start": 222,
-        "author": "Stähelin"
+        "end": 223,
+        "author": "Stähelin."
       }
     ]
   },
