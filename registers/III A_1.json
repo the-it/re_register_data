@@ -876,6 +876,8 @@
     "next": "Silis 1",
     "proof_read": 0,
     "short_description": "Kleines Gewicht der konstantinischen Zeit",
+    "wp_link": "w:de:Siliqua",
+    "wd_link": "d:Q535476",
     "chapters": [
       {
         "start": 61,
@@ -3158,8 +3160,9 @@
     "lemma": "Σίμων",
     "previous": "Simoi",
     "next": "Σίμων 1",
+    "sort_key": "Simon",
     "proof_read": 0,
-    "short_description": "zum Namen",
+    "short_description": "Simon, zum Namen",
     "chapters": [
       {
         "start": 162,
@@ -4295,31 +4298,36 @@
   {
     "lemma": "Sinda 3",
     "previous": "Sinda 2",
-    "next": "Sindaga",
+    "next": "Σίνδαγα",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 223,
-        "author": "Herrmann"
+        "end": 223,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Sindaga",
+    "lemma": "Σίνδαγα",
     "previous": "Sinda 3",
     "next": "Sindai",
-    "short_description": "Ort",
+    "sort_key": "Sindaga",
+    "proof_read": 2,
+    "short_description": "Sindaga, Stadt im Inneren Parthiens",
     "chapters": [
       {
         "start": 223,
-        "author": "Weissbach"
+        "end": 223,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sindai",
-    "previous": "Sindaga",
-    "next": "Sindai nesoi",
+    "previous": "Σίνδαγα",
+    "next": "Σίνδαι νῆσοι",
     "redirect": "Sindoi 2",
     "proof_read": 2,
     "chapters": [
@@ -4330,56 +4338,68 @@
     ]
   },
   {
-    "lemma": "Sindai nesoi",
+    "lemma": "Σίνδαι νῆσοι",
     "previous": "Sindai",
-    "next": "Sindata",
+    "next": "Σίνδατα",
+    "sort_key": "Sindainesoi",
+    "proof_read": 0,
     "short_description": "Inselgruppe im Ozean südl. von India extra Gangem",
     "chapters": [
       {
         "start": 223,
-        "author": "Kretschmer"
+        "end": 224,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
-    "lemma": "Sindata",
-    "previous": "Sindai nesoi",
-    "next": "Sinde",
-    "short_description": "Demoten der karischen Stadt Mylasa?",
+    "lemma": "Σίνδατα",
+    "previous": "Σίνδαι νῆσοι",
+    "next": "Σίνδη",
+    "sort_key": "Sindata",
+    "proof_read": 0,
+    "short_description": "Sindata, Demoten der karischen Stadt Mylasa?",
     "chapters": [
       {
         "start": 224,
-        "author": "Bürchner"
+        "end": 224,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Sinde",
-    "previous": "Sindata",
-    "next": "Sindessos",
-    "short_description": "Ort",
+    "lemma": "Σίνδη",
+    "previous": "Σίνδατα",
+    "next": "Σινδησσός",
+    "sort_key": "Sinde",
+    "proof_read": 0,
+    "short_description": "Sinde, Dorf bei Tyros in Phoinikien",
     "chapters": [
       {
         "start": 224,
-        "author": "Honigmann"
+        "end": 224,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sindessos",
-    "previous": "Sinde",
+    "lemma": "Σινδησσός",
+    "previous": "Σίνδη",
     "next": "Sindi",
-    "short_description": "Ort",
+    "sort_key": "Sindessos",
+    "proof_read": 0,
+    "short_description": "Sindessos, Ort in Karien",
     "chapters": [
       {
         "start": 224,
-        "author": "Bürchner"
+        "end": 224,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sindi",
-    "previous": "Sindessos",
+    "previous": "Σινδησσός",
     "next": "Sindia",
     "redirect": "Sindoi 1",
     "proof_read": 2,
@@ -4407,59 +4427,73 @@
     "lemma": "Sindica civitas",
     "previous": "Sindia",
     "next": "Sindica Scythia",
+    "sort_key": "Sindicacivitas",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 224,
-        "author": "Kretschmer"
+        "end": 224,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Sindica Scythia",
     "previous": "Sindica civitas",
-    "next": "Sindikos limen",
+    "next": "Σινδικὸς λιμήν",
+    "sort_key": "Sindicascythia",
+    "proof_read": 0,
     "short_description": "Heute Halbinsel Taiman",
     "chapters": [
       {
         "start": 224,
-        "author": "Kretschmer"
+        "end": 224,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
-    "lemma": "Sindikos limen",
+    "lemma": "Σινδικὸς λιμήν",
     "previous": "Sindica Scythia",
-    "next": "Sindita",
+    "next": "Σίνδιτα",
+    "sort_key": "Sindikoslimen",
+    "proof_read": 0,
     "short_description": "Hafen der Sindi in Sarmatien am Pontus Euxinus",
     "chapters": [
       {
         "start": 225,
-        "author": "Kretschmer"
+        "end": 226,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
-    "lemma": "Sindita",
-    "previous": "Sindikos limen",
+    "lemma": "Σίνδιτα",
+    "previous": "Σινδικὸς λιμήν",
     "next": "Sindoi 1",
-    "short_description": "Ort",
+    "sort_key": "Sindita",
+    "proof_read": 0,
+    "short_description": "Sindita, Ort in Kappadokien",
     "chapters": [
       {
         "start": 226,
-        "author": "Honigmann"
+        "end": 226,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sindoi 1",
-    "previous": "Sindita",
+    "previous": "Σίνδιτα",
     "next": "Sindoi 2",
+    "proof_read": 0,
     "short_description": "Volk in Sarmatien",
     "chapters": [
       {
         "start": 226,
-        "author": "Kretschmer"
+        "end": 228,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -4467,11 +4501,13 @@
     "lemma": "Sindoi 2",
     "previous": "Sindoi 1",
     "next": "Sindoi 3",
+    "proof_read": 0,
     "short_description": "Kolonisten an der W-Küste des Magnus Sinus in India extra Gangem",
     "chapters": [
       {
         "start": 228,
-        "author": "Herrmann"
+        "end": 228,
+        "author": "Herrmann."
       }
     ]
   },
@@ -4479,11 +4515,13 @@
     "lemma": "Sindoi 3",
     "previous": "Sindoi 2",
     "next": "Sindokanda",
+    "proof_read": 0,
     "short_description": "Bewohner der Ebene Laurion am Istros",
     "chapters": [
       {
         "start": 228,
-        "author": "Herrmann"
+        "end": 228,
+        "author": "Herrmann."
       }
     ]
   },
@@ -4491,11 +4529,13 @@
     "lemma": "Sindokanda",
     "previous": "Sindoi 3",
     "next": "Sindomana",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 228,
-        "author": "Wecker"
+        "end": 228,
+        "author": "Wecker."
       }
     ]
   },
@@ -4503,11 +4543,13 @@
     "lemma": "Sindomana",
     "previous": "Sindokanda",
     "next": "Sindon 1",
+    "proof_read": 0,
     "short_description": "Hauptstadt des Reiches Sambos",
     "chapters": [
       {
         "start": 228,
-        "author": "Wecker"
+        "end": 228,
+        "author": "Wecker."
       }
     ]
   },
@@ -4526,7 +4568,7 @@
   {
     "lemma": "Sindon 2",
     "previous": "Sindon 1",
-    "next": "Sindonaioi",
+    "next": "Σινδοναῖοι",
     "redirect": "Flachs",
     "proof_read": 2,
     "chapters": [
@@ -4537,20 +4579,23 @@
     ]
   },
   {
-    "lemma": "Sindonaioi",
+    "lemma": "Σινδοναῖοι",
     "previous": "Sindon 2",
     "next": "Sindonalia",
-    "short_description": "thrakisches volk",
+    "sort_key": "Sindonaioi",
+    "proof_read": 0,
+    "short_description": "Sindonaioi, thrakisches Volk",
     "chapters": [
       {
         "start": 229,
-        "author": "Oberhummer"
+        "end": 229,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Sindonalia",
-    "previous": "Sindonaioi",
+    "previous": "Σινδοναῖοι",
     "next": "Sindos 1",
     "short_description": "Land oder Hauptstadt des Königs Sabos",
     "chapters": [
@@ -4564,11 +4609,13 @@
     "lemma": "Sindos 1",
     "previous": "Sindonalia",
     "next": "Sindos 2",
+    "proof_read": 0,
     "short_description": "Stadt der makedonischen Landschaft Mygdonia",
     "chapters": [
       {
         "start": 229,
-        "author": "Oberhummer"
+        "end": 229,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4576,11 +4623,13 @@
     "lemma": "Sindos 2",
     "previous": "Sindos 1",
     "next": "Sindos 3",
+    "proof_read": 0,
     "short_description": "Einheimischer Name des Indos",
     "chapters": [
       {
         "start": 229,
-        "author": "Oberhummer"
+        "end": 229,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4588,11 +4637,13 @@
     "lemma": "Sindos 3",
     "previous": "Sindos 2",
     "next": "Sindros 1",
+    "proof_read": 0,
     "short_description": "Stadt in Sarmatien s. Sindica civitas",
     "chapters": [
       {
         "start": 229,
-        "author": "Kretschmer"
+        "end": 229,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -4600,11 +4651,13 @@
     "lemma": "Sindros 1",
     "previous": "Sindos 3",
     "next": "Sindros 2",
+    "proof_read": 0,
     "short_description": "Flüßchen im östl. Lydien",
     "chapters": [
       {
         "start": 229,
-        "author": "Bürchner"
+        "end": 229,
+        "author": "Bürchner."
       }
     ]
   },
@@ -4612,11 +4665,13 @@
     "lemma": "Sindros 2",
     "previous": "Sindros 1",
     "next": "Sindu",
+    "proof_read": 0,
     "short_description": "Fluß auf Münzen von Sebaste in Phrygien",
     "chapters": [
       {
         "start": 229,
-        "author": "Ruge"
+        "end": 229,
+        "author": "Ruge."
       }
     ]
   },
@@ -4624,11 +4679,13 @@
     "lemma": "Sindu",
     "previous": "Sindros 2",
     "next": "Sindual",
+    "proof_read": 0,
     "short_description": "Ort s. Sindon",
     "chapters": [
       {
         "start": 229,
-        "author": "Wecker"
+        "end": 229,
+        "author": "Wecker."
       }
     ]
   },
@@ -4636,11 +4693,13 @@
     "lemma": "Sindual",
     "previous": "Sindu",
     "next": "Sinduni",
+    "proof_read": 0,
     "short_description": "Befehlshaber des herulischen Kontingents in Italien unter Narses",
     "chapters": [
       {
         "start": 229,
-        "author": "Stein, Ernst"
+        "end": 230,
+        "author": "Ernst Stein."
       }
     ]
   },
@@ -4648,44 +4707,52 @@
     "lemma": "Sinduni",
     "previous": "Sindual",
     "next": "Sinemurum",
+    "proof_read": 0,
     "short_description": "Völkerschaft in den Mittelalpen",
     "chapters": [
       {
         "start": 230,
-        "author": "Keune"
+        "end": 230,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sinemurum",
     "previous": "Sinduni",
-    "next": "Sinera 1",
+    "next": "Σίνηρα 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 230,
-        "author": "Keune"
+        "end": 230,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sinera 1",
+    "lemma": "Σίνηρα 1",
     "previous": "Sinemurum",
-    "next": "Sinera 2",
-    "short_description": "Stadt Phoinikiens",
+    "next": "Σίνηρα 2",
+    "sort_key": "Sinera 1",
+    "proof_read": 0,
+    "short_description": "Sinera, Stadt Phoinikiens",
     "chapters": [
       {
         "start": 230,
-        "author": "Honigmann"
+        "end": 230,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sinera 2",
-    "previous": "Sinera 1",
-    "next": "Sinera 3",
-    "redirect": "Sinoria",
-    "proof_read": 2,
+    "lemma": "Σίνηρα 2",
+    "previous": "Σίνηρα 1",
+    "next": "Σίνηρα 3",
+    "sort_key": "Sinera 2",
+    "redirect": "Σινορία",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 231,
@@ -4694,11 +4761,12 @@
     ]
   },
   {
-    "lemma": "Sinera 3",
-    "previous": "Sinera 2",
+    "lemma": "Σίνηρα 3",
+    "previous": "Σίνηρα 2",
     "next": "Sinethandos",
+    "sort_key": "Sinera 3",
     "proof_read": 2,
-    "short_description": "Ort in Klein-Armenien",
+    "short_description": "Ort in Kleinarmenien",
     "chapters": [
       {
         "start": 231,
@@ -4709,20 +4777,22 @@
   },
   {
     "lemma": "Sinethandos",
-    "previous": "Sinera 3",
+    "previous": "Σίνηρα 3",
     "next": "Sinetriadum",
+    "proof_read": 0,
     "short_description": "Bistum in Pisidien",
     "chapters": [
       {
         "start": 231,
-        "author": "Ruge"
+        "end": 231,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sinetriadum",
     "previous": "Sinethandos",
-    "next": "Singa",
+    "next": "Σίγγα",
     "proof_read": 2,
     "short_description": "Verstümmelter Name einer britannischen Civitas",
     "chapters": [
@@ -4734,26 +4804,31 @@
     ]
   },
   {
-    "lemma": "Singa",
+    "lemma": "Σίγγα",
     "previous": "Sinetriadum",
     "next": "Singae",
-    "short_description": "Stadt in der syrischen Landschaft Kommagene",
+    "sort_key": "Singa",
+    "proof_read": 0,
+    "short_description": "Singa, Stadt im syrischen Kommagene",
     "chapters": [
       {
         "start": 231,
-        "author": "Honigmann"
+        "end": 232,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Singae",
-    "previous": "Singa",
+    "previous": "Σίγγα",
     "next": "Singara",
+    "proof_read": 0,
     "short_description": "Volk in Vorderindien",
     "chapters": [
       {
         "start": 232,
-        "author": "Wecker"
+        "end": 232,
+        "author": "Wecker."
       }
     ]
   },
@@ -4761,18 +4836,20 @@
     "lemma": "Singara",
     "previous": "Singae",
     "next": "Σιγγάρας",
+    "proof_read": 0,
     "short_description": "Stadt in Mesopotamien",
     "chapters": [
       {
         "start": 232,
-        "author": "Weissbach"
+        "end": 233,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Σιγγάρας",
     "previous": "Singara",
-    "next": "Singas potamos",
+    "next": "Σίγγας ποταμός",
     "sort_key": "Singaras",
     "proof_read": 2,
     "short_description": "Gebirge in Mesopotamien",
@@ -4785,20 +4862,23 @@
     ]
   },
   {
-    "lemma": "Singas potamos",
+    "lemma": "Σίγγας ποταμός",
     "previous": "Σιγγάρας",
     "next": "Σιγγηδών",
+    "sort_key": "Singaspotamos",
+    "proof_read": 0,
     "short_description": "Fluß der N-syrischen Landschaft Kommagene",
     "chapters": [
       {
         "start": 233,
-        "author": "Honigmann"
+        "end": 234,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Σιγγηδών",
-    "previous": "Singas potamos",
+    "previous": "Σίγγας ποταμός",
     "next": "Singerichos",
     "sort_key": "Singedon",
     "redirect": "Singidunum",
@@ -4813,7 +4893,7 @@
   {
     "lemma": "Singerichos",
     "previous": "Σιγγηδών",
-    "next": "Singidaua",
+    "next": "Σιγγίδαυα",
     "redirect": "Segericus",
     "proof_read": 2,
     "chapters": [
@@ -4824,20 +4904,23 @@
     ]
   },
   {
-    "lemma": "Singidaua",
+    "lemma": "Σιγγίδαυα",
     "previous": "Singerichos",
     "next": "Σιγγιδών",
-    "short_description": "Ort",
+    "sort_key": "Singidaua",
+    "proof_read": 0,
+    "short_description": "Singidaua, Ort in Dakien",
     "chapters": [
       {
         "start": 234,
-        "author": "Fluss"
+        "end": 234,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Σιγγιδών",
-    "previous": "Singidaua",
+    "previous": "Σιγγίδαυα",
     "next": "Singidunum",
     "sort_key": "Singidon",
     "redirect": "Singidunum",
@@ -4853,11 +4936,13 @@
     "lemma": "Singidunum",
     "previous": "Σιγγιδών",
     "next": "Singilis 1",
+    "proof_read": 0,
     "short_description": "Ort an der Mündung der Save in die Donau",
     "chapters": [
       {
         "start": 234,
-        "author": "Fluss"
+        "end": 235,
+        "author": "Fluss."
       }
     ]
   },
@@ -4880,11 +4965,13 @@
     "lemma": "Singilis 2",
     "previous": "Singilis 1",
     "next": "Singitischer Golf",
+    "proof_read": 0,
     "short_description": "Barba, Ort im oberen Tal des Xenil",
     "chapters": [
       {
         "start": 235,
-        "author": "Hübner"
+        "end": 236,
+        "author": "Hübner."
       }
     ]
   },
@@ -4892,11 +4979,14 @@
     "lemma": "Singitischer Golf",
     "previous": "Singilis 2",
     "next": "Singone",
+    "sort_key": "Singitischergolf",
+    "proof_read": 0,
     "short_description": "Zwischen den Halbinseln Sithonia und Akte",
     "chapters": [
       {
         "start": 236,
-        "author": "Oberhummer"
+        "end": 236,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4904,11 +4994,13 @@
     "lemma": "Singone",
     "previous": "Singitischer Golf",
     "next": "Singos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 236,
-        "author": "Schönfeld"
+        "end": 236,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -4916,11 +5008,13 @@
     "lemma": "Singos",
     "previous": "Singone",
     "next": "Singula",
+    "proof_read": 0,
     "short_description": "Stadt an der O-Küste der chalkidischen Halbinsel Sithonia",
     "chapters": [
       {
         "start": 236,
-        "author": "Oberhummer"
+        "end": 237,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4928,11 +5022,13 @@
     "lemma": "Singula",
     "previous": "Singos",
     "next": "Singulares",
+    "proof_read": 0,
     "short_description": "Rechnungsgröße im römischen Münzwesen",
     "chapters": [
       {
         "start": 237,
-        "author": "Regling"
+        "end": 237,
+        "author": "Regling."
       }
     ]
   },
@@ -4940,11 +5036,13 @@
     "lemma": "Singulares",
     "previous": "Singula",
     "next": "Singulator",
+    "proof_read": 0,
     "short_description": "Ordonnanzen höherer Offiziere der Kaiserzeit",
     "chapters": [
       {
         "start": 237,
-        "author": "Fiebiger"
+        "end": 237,
+        "author": "Fiebiger."
       }
     ]
   },
@@ -4952,11 +5050,13 @@
     "lemma": "Singulator",
     "previous": "Singulares",
     "next": "Σίγγυα",
+    "proof_read": 0,
     "short_description": "Rennpferd oder dessen Reiter",
     "chapters": [
       {
         "start": 237,
-        "author": "Hug"
+        "end": 238,
+        "author": "Hug."
       }
     ]
   },
@@ -4979,11 +5079,13 @@
     "lemma": "Sini.",
     "previous": "Σίγγυα",
     "next": "Siniacus",
+    "proof_read": 0,
     "short_description": "Abkürzung für Sinistor",
     "chapters": [
       {
         "start": 238,
-        "author": "Keune"
+        "end": 238,
+        "author": "Keune."
       }
     ]
   },
@@ -4991,11 +5093,13 @@
     "lemma": "Siniacus",
     "previous": "Sini.",
     "next": "Siniandos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 238,
-        "author": "Keune"
+        "end": 238,
+        "author": "Keune."
       }
     ]
   },
@@ -5016,18 +5120,20 @@
     "lemma": "Sinis 1",
     "previous": "Siniandos",
     "next": "Sinis 2",
+    "proof_read": 0,
     "short_description": "Wegelagerer auf dem Isthmos",
     "chapters": [
       {
         "start": 238,
-        "author": "Schmidt, Joh[annes]"
+        "end": 244,
+        "author": "J. Schmidt."
       }
     ]
   },
   {
     "lemma": "Sinis 2",
     "previous": "Sinis 1",
-    "next": "Sinis kolonia",
+    "next": "Σινὶς κολωνία",
     "redirect": "Siris 1",
     "proof_read": 2,
     "chapters": [
@@ -5038,26 +5144,31 @@
     ]
   },
   {
-    "lemma": "Sinis kolonia",
+    "lemma": "Σινὶς κολωνία",
     "previous": "Sinis 2",
     "next": "Sinispora",
+    "sort_key": "Siniskolonia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 244,
-        "author": "Honigmann"
+        "end": 244,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sinispora",
-    "previous": "Sinis kolonia",
+    "previous": "Σινὶς κολωνία",
     "next": "Sinisser",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 244,
-        "author": "Ruge"
+        "end": 244,
+        "author": "Ruge."
       }
     ]
   },
@@ -5078,11 +5189,13 @@
     "lemma": "Sinister",
     "previous": "Sinisser",
     "next": "Sinistus",
+    "proof_read": 0,
     "short_description": "Person?",
     "chapters": [
       {
         "start": 244,
-        "author": "Keune"
+        "end": 245,
+        "author": "Keune."
       }
     ]
   },
@@ -5090,18 +5203,20 @@
     "lemma": "Sinistus",
     "previous": "Sinister",
     "next": "Sinitense",
+    "proof_read": 0,
     "short_description": "Sacerdos maximus der Burgunder",
     "chapters": [
       {
         "start": 245,
-        "author": "Schönfeld"
+        "end": 245,
+        "author": "Schönfeld."
       }
     ]
   },
   {
     "lemma": "Sinitense",
     "previous": "Sinistus",
-    "next": "Sinkar",
+    "next": "Σίνκαρ",
     "proof_read": 2,
     "short_description": "Kastell und Kirche bei Hippo Regius",
     "chapters": [
@@ -5113,7 +5228,7 @@
     ]
   },
   {
-    "lemma": "Sinkar",
+    "lemma": "Σίνκαρ",
     "previous": "Sinitense",
     "next": "Sinna 1",
     "short_description": "Ort",
@@ -5126,7 +5241,7 @@
   },
   {
     "lemma": "Sinna 1",
-    "previous": "Sinkar",
+    "previous": "Σίνκαρ",
     "next": "Sinna 2",
     "short_description": "Bergkastell Phoinikiens",
     "chapters": [
@@ -5150,37 +5265,44 @@
   },
   {
     "lemma": "Sinnaces",
-    "previous": "Sinna 2",
-    "next": "Sinnaka",
+    "previous": "Σιννᾶ",
+    "next": "Σίννακα",
+    "proof_read": 0,
     "short_description": "Haupt einer Verschwörung gegen den Partherkönig Artabanus III",
     "chapters": [
       {
         "start": 245,
-        "author": "Stein, [Arthur]"
+        "end": 246,
+        "author": "Stein."
       }
     ]
   },
   {
-    "lemma": "Sinnaka",
+    "lemma": "Σίννακα",
     "previous": "Sinnaces",
     "next": "Sinnar",
-    "short_description": "Bergige Gegend in Mesopotamien",
+    "sort_key": "Sinnaka",
+    "proof_read": 0,
+    "short_description": "Sinnaka, bergige Gegend in Mesopotamien",
     "chapters": [
       {
         "start": 246,
-        "author": "Weissbach"
+        "end": 246,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Sinnar",
-    "previous": "Sinnaka",
+    "previous": "Σίννακα",
     "next": "Sinnaus lacus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 246,
-        "author": "Dessau"
+        "end": 246,
+        "author": "Dessau."
       }
     ]
   },
@@ -5188,11 +5310,14 @@
     "lemma": "Sinnaus lacus",
     "previous": "Sinnar",
     "next": "Sinnensis",
+    "sort_key": "Sinnauslacus",
+    "proof_read": 0,
     "short_description": "See in Asien",
     "chapters": [
       {
         "start": 246,
-        "author": "Kretschmer"
+        "end": 246,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -5200,11 +5325,13 @@
     "lemma": "Sinnensis",
     "previous": "Sinnaus lacus",
     "next": "Sinnius 1",
+    "proof_read": 0,
     "short_description": "Pagus im Gebiet Veleias",
     "chapters": [
       {
         "start": 246,
-        "author": "Philipp"
+        "end": 246,
+        "author": "Philipp."
       }
     ]
   },
@@ -5212,47 +5339,56 @@
     "lemma": "Sinnius 1",
     "previous": "Sinnensis",
     "next": "Sinnius 2",
+    "proof_read": 0,
     "short_description": "Fluß und Station an der Via Aemilia",
     "chapters": [
       {
         "start": 246,
-        "author": "Philipp"
+        "end": 246,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Sinnius 2",
     "previous": "Sinnius 1",
-    "next": "Sinoe",
+    "next": "Σινόη",
+    "proof_read": 0,
     "short_description": "Capito, Römischer Philologe",
     "chapters": [
       {
         "start": 246,
-        "author": "Klotz"
+        "end": 247,
+        "author": "Klotz."
       }
     ]
   },
   {
-    "lemma": "Sinoe",
+    "lemma": "Σινόη",
     "previous": "Sinnius 2",
     "next": "Sinoeis",
-    "short_description": "Nymphe",
+    "sort_key": "Sinoe",
+    "proof_read": 0,
+    "short_description": "Sinoe, Nymphe, Amme des Pan",
     "chapters": [
       {
         "start": 247,
-        "author": "Zwicker"
+        "end": 247,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sinoeis",
-    "previous": "Sinoe",
+    "previous": "Σινόη",
     "next": "Sinon",
+    "proof_read": 0,
     "short_description": "Epiklesis des Pan",
     "chapters": [
       {
         "start": 247,
-        "author": "Storck"
+        "end": 248,
+        "author": "Storck."
       }
     ]
   },
@@ -5260,11 +5396,13 @@
     "lemma": "Sinon",
     "previous": "Sinoeis",
     "next": "Sinonia",
+    "proof_read": 0,
     "short_description": "Grieche vor Troia",
     "chapters": [
       {
         "start": 248,
-        "author": "Zwicker"
+        "end": 252,
+        "author": "Zwicker."
       }
     ]
   },
@@ -5272,11 +5410,13 @@
     "lemma": "Sinonia",
     "previous": "Sinon",
     "next": "Sinope 1",
+    "proof_read": 0,
     "short_description": "Pontinische Insel vor der Küste Latiums",
     "chapters": [
       {
         "start": 252,
-        "author": "Philipp"
+        "end": 252,
+        "author": "Philipp."
       }
     ]
   },
@@ -5284,11 +5424,13 @@
     "lemma": "Sinope 1",
     "previous": "Sinonia",
     "next": "Sinope 2",
+    "proof_read": 0,
     "short_description": "Stadt in Paphlagonien",
     "chapters": [
       {
         "start": 252,
-        "author": "Ruge"
+        "end": 255,
+        "author": "Ruge."
       }
     ]
   },
@@ -5309,11 +5451,13 @@
     "lemma": "Sinopion",
     "previous": "Sinope 2",
     "next": "Sinopites",
+    "proof_read": 0,
     "short_description": "Hügel bei Memphis",
     "chapters": [
       {
         "start": 255,
-        "author": "Kees"
+        "end": 255,
+        "author": "Kees."
       }
     ]
   },
@@ -5321,18 +5465,20 @@
     "lemma": "Sinopites",
     "previous": "Sinopion",
     "next": "Sinops",
+    "proof_read": 0,
     "short_description": "Epiklesis des Zeus",
     "chapters": [
       {
         "start": 255,
-        "author": "Storck"
+        "end": 255,
+        "author": "Storck."
       }
     ]
   },
   {
     "lemma": "Sinops",
     "previous": "Sinopites",
-    "next": "Sinoria",
+    "next": "Σινορία",
     "proof_read": 2,
     "short_description": "Fluß bei Sinope",
     "chapters": [
@@ -5344,33 +5490,38 @@
     ]
   },
   {
-    "lemma": "Sinoria",
+    "lemma": "Σινορία",
     "previous": "Sinops",
     "next": "Sinorix",
-    "short_description": "Burg an der Grenze Pontos - Groß-Armenien",
+    "sort_key": "Sinopia",
+    "proof_read": 0,
+    "short_description": "Sinopia, Burg der Grenze Pontos–Groß-Armenien",
     "chapters": [
       {
         "start": 255,
-        "author": "Honigmann"
+        "end": 256,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sinorix",
-    "previous": "Sinoria",
+    "previous": "Σινορία",
     "next": "Sinos",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 256,
-        "author": "Schoch"
+        "end": 256,
+        "author": "Schoch."
       }
     ]
   },
   {
     "lemma": "Sinos",
     "previous": "Sinorix",
-    "next": "Sinotion",
+    "next": "Σινώτιον",
     "redirect": "Sindos 1",
     "proof_read": 2,
     "chapters": [
@@ -5381,49 +5532,61 @@
     ]
   },
   {
-    "lemma": "Sinotion",
+    "lemma": "Σινώτιον",
     "previous": "Sinos",
-    "next": "Sinotion 1",
+    "next": "Σινώτιον 1",
+    "sort_key": "Sinotion",
+    "proof_read": 0,
+    "short_description": "Sinotion",
     "chapters": [
       {
         "start": 256,
-        "author": "Fluss"
+        "end": 256,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Sinotion 1",
-    "previous": "Sinotion",
-    "next": "Sinotion 2",
-    "short_description": "palaion, Stadt in Dalmatien bei Salona",
+    "lemma": "Σινώτιον 1",
+    "previous": "Σινώτιον",
+    "next": "Σινώτιον 2",
+    "sort_key": "Sinotion 1",
+    "proof_read": 0,
+    "short_description": "Sinotion palaion, Stadt in Dalmatien bei Salona",
     "chapters": [
       {
         "start": 256,
-        "author": "Fluss"
+        "end": 256,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Sinotion 2",
-    "previous": "Sinotion 1",
+    "lemma": "Σινώτιον 2",
+    "previous": "Σινώτιον 1",
     "next": "Sinquas",
-    "short_description": "neon, Ort in Dalmatien",
+    "sort_key": "Sinotion 2",
+    "proof_read": 0,
+    "short_description": "Sinotion neon, Ort in Dalmatien",
     "chapters": [
       {
         "start": 256,
-        "author": "Fluss"
+        "end": 257,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Sinquas",
-    "previous": "Sinotion 2",
+    "previous": "Σινώτιον 2",
     "next": "Σίνσιοι",
+    "proof_read": 0,
     "short_description": "Örtlicher Heilgott an der Grenze der Treverer",
     "chapters": [
       {
         "start": 257,
-        "author": "Keune"
+        "end": 257,
+        "author": "Keune."
       }
     ]
   },
@@ -5445,18 +5608,20 @@
     "lemma": "Sintae",
     "previous": "Σίνσιοι",
     "next": "Sintanius",
+    "proof_read": 0,
     "short_description": "Afrikanischer Volksstamm",
     "chapters": [
       {
         "start": 257,
-        "author": "Dessau"
+        "end": 257,
+        "author": "Dessau."
       }
     ]
   },
   {
     "lemma": "Sintanius",
     "previous": "Sintae",
-    "next": "Sinteis",
+    "next": "Σιντηΐς",
     "proof_read": 2,
     "short_description": "Person?",
     "chapters": [
@@ -5468,20 +5633,23 @@
     ]
   },
   {
-    "lemma": "Sinteis",
+    "lemma": "Σιντηΐς",
     "previous": "Sintanius",
     "next": "Sinthon",
-    "short_description": "Dichterischer Nebenname der Insel Lemnos",
+    "sort_key": "Sinteis",
+    "proof_read": 0,
+    "short_description": "Sinteis, dichterischer Name der Insel Lemnos",
     "chapters": [
       {
         "start": 257,
-        "author": "Bürchner"
+        "end": 257,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sinthon",
-    "previous": "Sinteis",
+    "previous": "Σιντηΐς",
     "next": "Sinthos",
     "redirect": "Sindon 1",
     "proof_read": 2,
@@ -5509,11 +5677,13 @@
     "lemma": "Sintia",
     "previous": "Sinthos",
     "next": "Sintica",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 258,
-        "author": "Oberhummer"
+        "end": 258,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5547,11 +5717,13 @@
     "lemma": "Sintike",
     "previous": "Sintier",
     "next": "Sintillus",
+    "proof_read": 0,
     "short_description": "Gau der Sintoi",
     "chapters": [
       {
         "start": 258,
-        "author": "Oberhummer"
+        "end": 258,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5559,11 +5731,13 @@
     "lemma": "Sintillus",
     "previous": "Sintike",
     "next": "Sinto",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 258,
-        "author": "Keune"
+        "end": 258,
+        "author": "Keune."
       }
     ]
   },
@@ -5571,47 +5745,56 @@
     "lemma": "Sinto",
     "previous": "Sintillus",
     "next": "Sintoi",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer aus Rheinzabern",
     "chapters": [
       {
         "start": 258,
-        "author": "Keune"
+        "end": 258,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sintoi",
     "previous": "Sinto",
-    "next": "Sintoion",
+    "next": "Σίντοιον",
+    "proof_read": 0,
     "short_description": "Thrakischer Stamm in O-Makedonien",
     "chapters": [
       {
         "start": 258,
-        "author": "Oberhummer"
+        "end": 259,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Sintoion",
+    "lemma": "Σίντοιον",
     "previous": "Sintoi",
     "next": "Sintula",
-    "short_description": "Ort",
+    "sort_key": "Sintoion",
+    "proof_read": 0,
+    "short_description": "Sintoion, Ort in Armenien",
     "chapters": [
       {
         "start": 259,
-        "author": "Honigmann"
+        "end": 259,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sintula",
-    "previous": "Sintoion",
+    "previous": "Σίντοιον",
     "next": "Sinturo, Sinturu",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 259,
-        "author": "Seeck"
+        "end": 259,
+        "author": "Seeck."
       }
     ]
   },
@@ -5619,11 +5802,14 @@
     "lemma": "Sinturo, Sinturu",
     "previous": "Sintula",
     "next": "Sinuessa",
+    "sort_key": "Sinturo,sinturu",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 259,
-        "author": "Keune"
+        "end": 259,
+        "author": "Keune."
       }
     ]
   },
@@ -5631,11 +5817,13 @@
     "lemma": "Sinuessa",
     "previous": "Sinturo, Sinturu",
     "next": "Sinum, Sinus",
+    "proof_read": 0,
     "short_description": "Grenzstadt Latium-Campanien",
     "chapters": [
       {
         "start": 259,
-        "author": "Philipp"
+        "end": 260,
+        "author": "Philipp."
       }
     ]
   },
@@ -5643,11 +5831,14 @@
     "lemma": "Sinum, Sinus",
     "previous": "Sinuessa",
     "next": "Sinus",
+    "sort_key": "Sinum,sinus",
+    "proof_read": 0,
     "short_description": "Weitbauchiges Gefäß",
     "chapters": [
       {
         "start": 260,
-        "author": "Hug"
+        "end": 260,
+        "author": "Hug."
       }
     ]
   },
@@ -5668,11 +5859,13 @@
     "lemma": "Sinzeirisin",
     "previous": "Sinus",
     "next": "Siocharax",
+    "proof_read": 0,
     "short_description": "Verstümmelter Ortsname",
     "chapters": [
       {
         "start": 260,
-        "author": "Ruge"
+        "end": 261,
+        "author": "Ruge."
       }
     ]
   },
@@ -5680,54 +5873,65 @@
     "lemma": "Siocharax",
     "previous": "Sinzeirisin",
     "next": "Sioda",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 261,
-        "author": "Ruge"
+        "end": 261,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Sioda",
     "previous": "Siocharax",
-    "next": "Sion 1",
+    "next": "Σιών 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 261,
-        "author": "Kretschmer"
+        "end": 261,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
-    "lemma": "Sion 1",
+    "lemma": "Σιών 1",
     "previous": "Sioda",
-    "next": "Sion 2",
-    "short_description": "Bergfeste in Jerusalem",
+    "next": "Σιών 2",
+    "sort_key": "Sion 1",
+    "proof_read": 0,
+    "short_description": "Sion, Bergfeste in Jerusalem",
     "chapters": [
       {
         "start": 261,
-        "author": "Honigmann"
+        "end": 261,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sion 2",
-    "previous": "Sion 1",
-    "next": "Sion 3",
+    "lemma": "Σιών 2",
+    "previous": "Σιών 1",
+    "next": "Σιών 3",
+    "sort_key": "Sion 2",
+    "proof_read": 0,
     "short_description": "Kome am Tabor",
     "chapters": [
       {
         "start": 261,
-        "author": "Honigmann"
+        "end": 261,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sion 3",
-    "previous": "Sion 2",
-    "next": "Sion 4",
+    "lemma": "Σιών 3",
+    "previous": "Σιών 2",
+    "next": "Σιών 4",
+    "sort_key": "Sion 3",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -5738,38 +5942,46 @@
     ]
   },
   {
-    "lemma": "Sion 4",
-    "previous": "Sion 3",
-    "next": "Sionia",
+    "lemma": "Σιών 4",
+    "previous": "Σιών 3",
+    "next": "Σιωνία",
+    "sort_key": "Sion 4",
+    "proof_read": 0,
     "short_description": "Ortschaft auf dem Bergplateau von Vaudémont",
     "chapters": [
       {
         "start": 261,
-        "author": "Keune"
+        "end": 261,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sionia",
-    "previous": "Sion 4",
+    "lemma": "Σιωνία",
+    "previous": "Σιών 4",
     "next": "Siope",
-    "short_description": "Ort",
+    "sort_key": "Sionia",
+    "proof_read": 2,
+    "short_description": "Sionia, pontische Stadt",
     "chapters": [
       {
         "start": 261,
-        "author": "Ruge"
+        "end": 261,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Siope",
-    "previous": "Sionia",
+    "previous": "Σιωνία",
     "next": "Siparis",
+    "proof_read": 0,
     "short_description": "Straße in Elis",
     "chapters": [
       {
         "start": 261,
-        "author": "Geyer"
+        "end": 261,
+        "author": "Geyer."
       }
     ]
   },
@@ -5777,71 +5989,85 @@
     "lemma": "Siparis",
     "previous": "Siope",
     "next": "Siparium",
+    "proof_read": 0,
     "short_description": "Kastell auf einer Insel und einige Häuser auf dem gegenüber gelegenen",
     "chapters": [
       {
         "start": 261,
-        "author": "Philipp"
+        "end": 262,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Siparium",
     "previous": "Siparis",
-    "next": "Siparounton",
+    "next": "Σιπαροῦντον",
+    "proof_read": 0,
     "short_description": "Kleiner Vorhang im Theater bei Zwischenszenen",
     "chapters": [
       {
         "start": 262,
-        "author": "Hug"
+        "end": 262,
+        "author": "Hug."
       }
     ]
   },
   {
-    "lemma": "Siparounton",
+    "lemma": "Σιπαροῦντον",
     "previous": "Siparium",
     "next": "Siphai",
-    "short_description": "Kastell zwischen Piranum und Humagum",
+    "sort_key": "Siparunton",
+    "proof_read": 0,
+    "short_description": "Siparunton, Kastell bei Piranum und Humagum",
     "chapters": [
       {
         "start": 262,
-        "author": "Fluss"
+        "end": 262,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Siphai",
-    "previous": "Siparounton",
-    "next": "Siphare",
+    "previous": "Σιπαροῦντον",
+    "next": "Σιφάρη",
+    "proof_read": 0,
     "short_description": "Hafen in Boiotien",
     "chapters": [
       {
         "start": 262,
-        "author": "Geyer"
+        "end": 263,
+        "author": "Geyer."
       }
     ]
   },
   {
-    "lemma": "Siphare",
+    "lemma": "Σιφάρη",
     "previous": "Siphai",
     "next": "Siphis",
-    "short_description": "Ort",
+    "sort_key": "Siphare",
+    "proof_read": 0,
+    "short_description": "Siphare, Ort",
     "chapters": [
       {
         "start": 263,
-        "author": "Kretschmer"
+        "end": 263,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Siphis",
-    "previous": "Siphare",
+    "previous": "Σιφάρη",
     "next": "Siphnos",
+    "proof_read": 0,
     "short_description": "Nebenname der Insel Melos",
     "chapters": [
       {
         "start": 263,
-        "author": "Bürchner"
+        "end": 263,
+        "author": "Bürchner."
       }
     ]
   },
@@ -5849,11 +6075,13 @@
     "lemma": "Siphnos",
     "previous": "Siphis",
     "next": "Siphnos 1",
+    "proof_read": 0,
     "short_description": "Name einer Kykladeninsel und einer Stadt",
     "chapters": [
       {
         "start": 263,
-        "author": "Bürchner"
+        "end": 264,
+        "author": "Bürchner."
       }
     ]
   },
@@ -5861,11 +6089,13 @@
     "lemma": "Siphnos 1",
     "previous": "Siphnos",
     "next": "Siphnos 2",
+    "proof_read": 0,
     "short_description": "Kykladeninsel",
     "chapters": [
       {
         "start": 264,
-        "author": "Bürchner"
+        "end": 265,
+        "author": "Bürchner."
       }
     ]
   },
@@ -5873,18 +6103,20 @@
     "lemma": "Siphnos 2",
     "previous": "Siphnos 1",
     "next": "Siphon",
+    "proof_read": 0,
     "short_description": "Stadt auf der Insel Siphnos Nr. 1",
     "chapters": [
       {
         "start": 265,
-        "author": "Bürchner"
+        "end": 268,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Siphon",
     "previous": "Siphnos 2",
-    "next": "Siphrios",
+    "next": "Σίφριος",
     "short_description": "Das röhrenförmige Hebegerät.",
     "chapters": [
       {
@@ -5894,50 +6126,61 @@
     ]
   },
   {
-    "lemma": "Siphrios",
+    "lemma": "Σίφριος",
     "previous": "Siphon",
-    "next": "Siphthas",
-    "short_description": "Festung in Mesopotamien",
+    "next": "Σιφθᾶς",
+    "sort_key": "Siphrios",
+    "proof_read": 0,
+    "short_description": "Siphrios, Festung in Mesopotamien",
     "chapters": [
       {
         "start": 269,
-        "author": "Weissbach"
+        "end": 269,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Siphthas",
-    "previous": "Siphrios",
-    "next": "Sipiberis",
-    "short_description": "Aegyptischer König in der Liste des Eratosthenes",
+    "lemma": "Σιφθᾶς",
+    "previous": "Σίφριος",
+    "next": "Σιπιβηρίς",
+    "sort_key": "Siphthas",
+    "proof_read": 0,
+    "short_description": "Siphthas, ägyptischer König nach Eratosthenes",
     "chapters": [
       {
         "start": 269,
-        "author": "Kees"
+        "end": 271,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Sipiberis",
-    "previous": "Siphthas",
+    "lemma": "Σιπιβηρίς",
+    "previous": "Σιφθᾶς",
     "next": "Sipontum 1",
-    "short_description": "Ort",
+    "sort_key": "Sipiberis",
+    "proof_read": 0,
+    "short_description": "Sipiberis, Ort in Indien",
     "chapters": [
       {
         "start": 271,
-        "author": "Kretschmer"
+        "end": 271,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Sipontum 1",
-    "previous": "Sipiberis",
+    "previous": "Σιπιβηρίς",
     "next": "Sipontum 2",
+    "proof_read": 0,
     "short_description": "Stadt in Apulien",
     "chapters": [
       {
         "start": 271,
-        "author": "Philipp"
+        "end": 272,
+        "author": "Philipp."
       }
     ]
   },
@@ -5945,11 +6188,13 @@
     "lemma": "Sipontum 2",
     "previous": "Sipontum 1",
     "next": "Sippara 1",
+    "proof_read": 0,
     "short_description": "Stadt in Bruttium",
     "chapters": [
       {
         "start": 272,
-        "author": "Philipp"
+        "end": 272,
+        "author": "Philipp."
       }
     ]
   },
@@ -5957,11 +6202,13 @@
     "lemma": "Sippara 1",
     "previous": "Sipontum 2",
     "next": "Sippara 2",
+    "proof_read": 0,
     "short_description": "Stadt in Mesopotamien",
     "chapters": [
       {
         "start": 272,
-        "author": "Weissbach"
+        "end": 274,
+        "author": "Weissbach."
       }
     ]
   },
@@ -5969,11 +6216,13 @@
     "lemma": "Sippara 2",
     "previous": "Sippara 1",
     "next": "Sipparis",
+    "proof_read": 0,
     "short_description": "Stadt an der nördl. Koromandelküste",
     "chapters": [
       {
         "start": 274,
-        "author": "Wecker"
+        "end": 274,
+        "author": "Wecker."
       }
     ]
   },
@@ -6008,11 +6257,13 @@
     "lemma": "Siproites",
     "previous": "Σιπφάρα",
     "next": "Sipta",
+    "proof_read": 0,
     "short_description": "Kreter, wurde in eine Frau verwandelt",
     "chapters": [
       {
         "start": 274,
-        "author": "Zwicker"
+        "end": 274,
+        "author": "Zwicker."
       }
     ]
   },
