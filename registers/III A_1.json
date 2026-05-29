@@ -176,11 +176,19 @@
     "lemma": "ad Silanos",
     "previous": "Silanos",
     "next": "Silanus 1",
-    "short_description": "Person",
+    "sort_key": "silanosad",
+    "proof_read": 0,
+    "short_description": "Station zwischen Aquileia und Viruno",
     "chapters": [
       {
         "start": 6,
-        "author": "Seeck"
+        "end": 6,
+        "author": "Schönfeld."
+      },
+      {
+        "start": 6,
+        "end": 6,
+        "author": "Philipp."
       }
     ]
   },
@@ -4557,11 +4565,13 @@
     "lemma": "Sindon 1",
     "previous": "Sindomana",
     "next": "Sindon 2",
+    "proof_read": 0,
     "short_description": "Mündung des Indus",
     "chapters": [
       {
         "start": 229,
-        "author": "Wecker"
+        "end": 229,
+        "author": "Wecker."
       }
     ]
   },
@@ -4597,11 +4607,13 @@
     "lemma": "Sindonalia",
     "previous": "Σινδοναῖοι",
     "next": "Sindos 1",
+    "proof_read": 0,
     "short_description": "Land oder Hauptstadt des Königs Sabos",
     "chapters": [
       {
         "start": 229,
-        "author": "Wecker"
+        "end": 229,
+        "author": "Wecker."
       }
     ]
   },
@@ -4695,6 +4707,8 @@
     "next": "Sinduni",
     "proof_read": 0,
     "short_description": "Befehlshaber des herulischen Kontingents in Italien unter Narses",
+    "wp_link": "w:fr:Sinduald",
+    "wd_link": "d:Q3484895",
     "chapters": [
       {
         "start": 229,
@@ -5230,12 +5244,15 @@
   {
     "lemma": "Σίνκαρ",
     "previous": "Sinitense",
-    "next": "Sinna 1",
-    "short_description": "Ort",
+    "next": "Σίννα",
+    "sort_key": "Sinkar",
+    "proof_read": 0,
+    "short_description": "Sinkar, Stadt in Medien",
     "chapters": [
       {
         "start": 245,
-        "author": "Weissbach"
+        "end": 245,
+        "author": "Weissbach."
       }
     ]
   },
@@ -6242,7 +6259,7 @@
   {
     "lemma": "Σιπφάρα",
     "previous": "Sipparis",
-    "next": "Siproites",
+    "next": "Σιπροίτης",
     "sort_key": "Sipphara",
     "redirect": "Sippara 1",
     "proof_read": 2,
@@ -6254,9 +6271,10 @@
     ]
   },
   {
-    "lemma": "Siproites",
+    "lemma": "Σιπροίτης",
     "previous": "Σιπφάρα",
     "next": "Sipta",
+    "sort_key": "Siproites",
     "proof_read": 0,
     "short_description": "Kreter, wurde in eine Frau verwandelt",
     "chapters": [
@@ -6269,13 +6287,15 @@
   },
   {
     "lemma": "Sipta",
-    "previous": "Siproites",
+    "previous": "Σιπροίτης",
     "next": "Sipylene",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 275,
-        "author": "Oberhummer"
+        "end": 275,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6283,11 +6303,13 @@
     "lemma": "Sipylene",
     "previous": "Sipta",
     "next": "Sipylos 1",
+    "proof_read": 0,
     "short_description": "Beiname der Rhea",
     "chapters": [
       {
         "start": 275,
-        "author": "Zwicker"
+        "end": 275,
+        "author": "Zwicker."
       }
     ]
   },
@@ -6295,11 +6317,13 @@
     "lemma": "Sipylos 1",
     "previous": "Sipylene",
     "next": "Sipylos 2",
+    "proof_read": 0,
     "short_description": "Berg, Stadt und Fluß in Lydien",
     "chapters": [
       {
         "start": 275,
-        "author": "Bürchner"
+        "end": 281,
+        "author": "Bürchner."
       }
     ]
   },
@@ -6307,11 +6331,13 @@
     "lemma": "Sipylos 2",
     "previous": "Sipylos 1",
     "next": "Sipylos 3",
+    "proof_read": 0,
     "short_description": "Sohn des Amphion",
     "chapters": [
       {
         "start": 281,
-        "author": "Zwicker"
+        "end": 281,
+        "author": "Zwicker."
       }
     ]
   },
@@ -6319,30 +6345,35 @@
     "lemma": "Sipylos 3",
     "previous": "Sipylos 2",
     "next": "Sipylos 4",
+    "proof_read": 0,
     "short_description": "Skythe",
     "chapters": [
       {
         "start": 281,
-        "author": "Zwicker"
+        "end": 282,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sipylos 4",
     "previous": "Sipylos 3",
-    "next": "Siquanna",
+    "next": "Siquann(a)",
+    "proof_read": 0,
     "short_description": "Mannesname in Smyrna",
     "chapters": [
       {
         "start": 282,
-        "author": "Zwicker"
+        "end": 282,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Siquanna",
+    "lemma": "Siquann(a)",
     "previous": "Sipylos 4",
     "next": "Sira",
+    "sort_key": "Siquanna",
     "redirect": "Sequana",
     "proof_read": 2,
     "chapters": [
@@ -6354,13 +6385,15 @@
   },
   {
     "lemma": "Sira",
-    "previous": "Siquanna",
+    "previous": "Siquann(a)",
     "next": "Siracellae",
+    "proof_read": 0,
     "short_description": "Fluß in Mauretania Caesariensis",
     "chapters": [
       {
         "start": 282,
-        "author": "Dessau"
+        "end": 282,
+        "author": "Dessau."
       }
     ]
   },
@@ -6393,19 +6426,21 @@
   {
     "lemma": "Sirae 2",
     "previous": "Sirae 1",
-    "next": "Siraganon",
+    "next": "Σιραγανῶν",
+    "proof_read": 0,
     "short_description": "Ort in Arkadien",
     "chapters": [
       {
         "start": 282,
-        "author": "Geyer"
+        "end": 282,
+        "author": "Geyer."
       }
     ]
   },
   {
-    "lemma": "Siraganon",
+    "lemma": "Σιραγανῶν",
     "previous": "Sirae 2",
-    "next": "Sirakene 1",
+    "next": "Σιρακηνή 1",
     "short_description": "Ort",
     "chapters": [
       {
@@ -6415,98 +6450,120 @@
     ]
   },
   {
-    "lemma": "Sirakene 1",
-    "previous": "Siraganon",
-    "next": "Sirakene 2",
+    "lemma": "Σιρακηνή 1",
+    "previous": "Σιραγανῶν",
+    "next": "Σιρακηνή 2",
+    "sort_key": "Sirakene 1",
+    "proof_read": 0,
     "short_description": "Landschaft in Hyrkanien",
     "chapters": [
       {
         "start": 282,
-        "author": "Kretschmer"
+        "end": 282,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
-    "lemma": "Sirakene 2",
-    "previous": "Sirakene 1",
-    "next": "Sirakes",
+    "lemma": "Σιρακηνή 2",
+    "previous": "Σιρακηνή 1",
+    "next": "Σίρακες",
+    "sort_key": "Sirakene 2",
+    "proof_read": 0,
     "short_description": "Landschaft in Großarmenien",
     "chapters": [
       {
         "start": 282,
-        "author": "Kretschmer"
+        "end": 283,
+        "author": "K. Kretschmer-Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sirakes",
-    "previous": "Sirakene 2",
-    "next": "Sirangai",
+    "lemma": "Σίρακες",
+    "previous": "Σιρακηνή 2",
+    "next": "Σιράγγαι",
+    "sort_key": "Sirakes",
+    "proof_read": 0,
     "short_description": "Sarmatischer Völkerstamm am Kaukasus",
     "chapters": [
       {
         "start": 283,
-        "author": "Kretschmer"
+        "end": 285,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
-    "lemma": "Sirangai",
-    "previous": "Sirakes",
-    "next": "Sirbis",
+    "lemma": "Σιράγγαι",
+    "previous": "Σίρακες",
+    "next": "Σίρβις",
+    "sort_key": "Sirangai",
+    "proof_read": 0,
     "short_description": "Volk in der entos Libye",
     "chapters": [
       {
         "start": 285,
-        "author": "Honigmann"
+        "end": 285,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sirbis",
-    "previous": "Sirangai",
+    "lemma": "Σίρβις",
+    "previous": "Σιράγγαι",
     "next": "Sirbitum",
+    "sort_key": "Sirbis",
+    "proof_read": 0,
     "short_description": "Name des Flüßchens Xanthos in der Troas",
     "chapters": [
       {
         "start": 285,
-        "author": "Bürchner"
+        "end": 285,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sirbitum",
-    "previous": "Sirbis",
-    "next": "Sirbonis limne",
+    "previous": "Σίρβις",
+    "next": "Σιρβωνὶς",
+    "proof_read": 0,
     "short_description": "Stadt in Aethiopien",
     "chapters": [
       {
         "start": 285,
-        "author": "Honigmann"
+        "end": 286,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sirbonis limne",
+    "lemma": "Σιρβωνὶς",
     "previous": "Sirbitum",
     "next": "Siregius",
+    "sort_key": "Sirbonislimne",
+    "proof_read": 0,
     "short_description": "Strandsee an der Küste des Mittelländischen Meeres",
     "chapters": [
       {
         "start": 286,
-        "author": "Kees"
+        "end": 287,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Siregius",
-    "previous": "Sirbonis limne",
+    "previous": "Σιρβωνὶς",
     "next": "Sirenen",
+    "proof_read": 0,
     "short_description": "Person bei Cic. ad Att. XV 17,1 ( wahrsch. verderbt).",
     "chapters": [
       {
         "start": 287,
-        "author": "Münzer"
+        "end": 287,
+        "author": "Münzer."
       }
     ]
   },
@@ -6514,11 +6571,13 @@
     "lemma": "Sirenen",
     "previous": "Siregius",
     "next": "Sirenianus mons",
+    "proof_read": 0,
     "short_description": "Mischwesen aus Mensch und Vogel",
     "chapters": [
       {
         "start": 288,
-        "author": "Zwicker"
+        "end": 308,
+        "author": "Zwicker."
       }
     ]
   },
@@ -6526,11 +6585,14 @@
     "lemma": "Sirenianus mons",
     "previous": "Sirenen",
     "next": "Sirenum insulae",
+    "sort_key": "Sirenianusmons",
+    "proof_read": 0,
     "short_description": "Teil des Vorgebirges in der Bocca piccola",
     "chapters": [
       {
         "start": 308,
-        "author": "Philipp"
+        "end": 308,
+        "author": "Philipp."
       }
     ]
   },
@@ -6590,11 +6652,14 @@
     "lemma": "Sires, Siriopaiones",
     "previous": "Sirenusae",
     "next": "Siriacus",
+    "sort_key": "Sires,siriopaiones",
+    "proof_read": 0,
     "short_description": "Stamm der Paionen am unteren Strymon",
     "chapters": [
       {
         "start": 308,
-        "author": "Oberhummer"
+        "end": 308,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6602,11 +6667,13 @@
     "lemma": "Siriacus",
     "previous": "Sires, Siriopaiones",
     "next": "Siricae",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 308,
-        "author": "Keune"
+        "end": 309,
+        "author": "Keune."
       }
     ]
   },
@@ -6614,47 +6681,56 @@
     "lemma": "Siricae",
     "previous": "Siriacus",
     "next": "Siricius",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 309,
-        "author": "Ruge"
+        "end": 309,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Siricius",
     "previous": "Siricae",
-    "next": "Siridos Hedra",
+    "next": "Σιρίδος Ἔδρα",
+    "proof_read": 0,
     "short_description": "Sophist",
     "chapters": [
       {
         "start": 309,
-        "author": "Fluss"
+        "end": 309,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Siridos Hedra",
+    "lemma": "Σιρίδος Ἔδρα",
     "previous": "Siricius",
     "next": "Sirimalaga",
+    "sort_key": "Siridoshedra",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 309,
-        "author": "Bürchner"
+        "end": 309,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sirimalaga",
-    "previous": "Siridos Hedra",
+    "previous": "Σιρίδος Ἔδρα",
     "next": "Sirini",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 309,
-        "author": "Wecker"
+        "end": 309,
+        "author": "Wecker."
       }
     ]
   },
@@ -6688,11 +6764,13 @@
     "lemma": "Sirios",
     "previous": "Sirio",
     "next": "Siripalla",
+    "proof_read": 0,
     "short_description": "Aegyptischer König bei Eratosthenes",
     "chapters": [
       {
         "start": 309,
-        "author": "Kees"
+        "end": 309,
+        "author": "Kees."
       }
     ]
   },
@@ -6700,11 +6778,13 @@
     "lemma": "Siripalla",
     "previous": "Sirios",
     "next": "Siripolemaios",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 309,
-        "author": "Wecker"
+        "end": 309,
+        "author": "Wecker."
       }
     ]
   },
@@ -6712,11 +6792,13 @@
     "lemma": "Siripolemaios",
     "previous": "Siripalla",
     "next": "Siris 1",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 309,
-        "author": "Wecker"
+        "end": 309,
+        "author": "Wecker."
       }
     ]
   },
@@ -6724,11 +6806,13 @@
     "lemma": "Siris 1",
     "previous": "Siripolemaios",
     "next": "Siris 2",
+    "proof_read": 0,
     "short_description": "Gebirgsfluß bei Tarent Sinni",
     "chapters": [
       {
         "start": 309,
-        "author": "Philipp"
+        "end": 313,
+        "author": "Philipp."
       }
     ]
   },
@@ -6736,11 +6820,13 @@
     "lemma": "Siris 2",
     "previous": "Siris 1",
     "next": "Sirius",
+    "proof_read": 0,
     "short_description": "Stadt im östl. Makedonien",
     "chapters": [
       {
         "start": 313,
-        "author": "Oberhummer"
+        "end": 314,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6748,11 +6834,13 @@
     "lemma": "Sirius",
     "previous": "Siris 2",
     "next": "Sirmiates",
+    "proof_read": 0,
     "short_description": "Stern und Sternbild der südl. Hemisphäre",
     "chapters": [
       {
         "start": 314,
-        "author": "Gundel, Wilhelm"
+        "end": 351,
+        "author": "Gundel."
       }
     ]
   },
@@ -6799,36 +6887,43 @@
   {
     "lemma": "Sirmio",
     "previous": "Σιρμιεύς",
-    "next": "Sirmis",
+    "next": "Σίρμις",
+    "proof_read": 0,
     "short_description": "Halbinsel mit Siedlung und Kastell im Gardasee",
     "chapters": [
       {
         "start": 351,
-        "author": "Philipp"
+        "end": 351,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Sirmis",
+    "lemma": "Σίρμις",
     "previous": "Sirmio",
     "next": "Sirmium",
+    "sort_key": "Sirmis",
+    "proof_read": 0,
     "short_description": "Nebenname des Flußes Xanthos in der Troas",
     "chapters": [
       {
         "start": 351,
-        "author": "Bürchner"
+        "end": 351,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Sirmium",
-    "previous": "Sirmis",
+    "previous": "Σίρμις",
     "next": "Sirnides Insulae",
+    "proof_read": 0,
     "short_description": "Stadt in Pannonia inferior",
     "chapters": [
       {
         "start": 351,
-        "author": "Fluss"
+        "end": 353,
+        "author": "Fluss."
       }
     ]
   },
@@ -6836,11 +6931,14 @@
     "lemma": "Sirnides Insulae",
     "previous": "Sirmium",
     "next": "Sirogellae",
+    "sort_key": "Sirnidesinsulae",
+    "proof_read": 0,
     "short_description": "Insel bei Kreta",
     "chapters": [
       {
         "start": 353,
-        "author": "Bürchner"
+        "end": 353,
+        "author": "Bürchner."
       }
     ]
   },
@@ -6860,66 +6958,83 @@
   {
     "lemma": "Siroialum",
     "previous": "Sirogellae",
-    "next": "Sirok",
+    "next": "Σιρώκ",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 353,
-        "author": "Keune"
+        "end": 353,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sirok",
+    "lemma": "Σιρώκ",
     "previous": "Siroialum",
     "next": "Siron",
+    "sort_key": "Sirok",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 353,
-        "author": "Weissbach"
+        "end": 353,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Siron",
-    "previous": "Sirok",
+    "previous": "Σιρώκ",
     "next": "Sirona",
+    "proof_read": 0,
     "short_description": "Epikureer",
     "chapters": [
       {
         "start": 353,
-        "author": "Arnim"
+        "end": 353,
+        "author": "v. Arnim."
+      },
+      {
+        "start": 353,
+        "end": 354,
+        "author": "Kroll."
       }
     ]
   },
   {
     "lemma": "Sirona",
     "previous": "Siron",
-    "next": "Siropon",
+    "next": "Σίροπον",
+    "proof_read": 0,
     "short_description": "Keltischer Name einer Heilgöttin",
     "chapters": [
       {
         "start": 354,
-        "author": "Keune"
+        "end": 360,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Siropon",
+    "lemma": "Σίροπον",
     "previous": "Sirona",
     "next": "Sirote",
+    "sort_key": "Siropon",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 360,
-        "author": "Kees"
+        "end": 360,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Sirote",
-    "previous": "Siropon",
+    "previous": "Σίροπον",
     "next": "Sirotis",
     "redirect": "Serota",
     "proof_read": 3,
@@ -6947,11 +7062,13 @@
     "lemma": "Sirpicus",
     "previous": "Sirotis",
     "next": "Sirpium",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 360,
-        "author": "Stein, [Arthur]"
+        "end": 360,
+        "author": "Stein."
       }
     ]
   },
@@ -6959,11 +7076,13 @@
     "lemma": "Sirpium",
     "previous": "Sirpicus",
     "next": "Sirra",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 360,
-        "author": "Philipp"
+        "end": 360,
+        "author": "Philipp."
       }
     ]
   },
@@ -6983,7 +7102,7 @@
   {
     "lemma": "Σιρτιβεïς",
     "previous": "Sirra",
-    "next": "Sisa kome",
+    "next": "Σισὰ κώμη",
     "sort_key": "Sirtibeis",
     "redirect": "Sirbitum",
     "proof_read": 2,
@@ -6995,26 +7114,31 @@
     ]
   },
   {
-    "lemma": "Sisa kome",
+    "lemma": "Σισὰ κώμη",
     "previous": "Σιρτιβεïς",
     "next": "Sisamnes",
+    "sort_key": "Sisakome",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 361,
-        "author": "Honigmann"
+        "end": 361,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sisamnes",
-    "previous": "Sisa kome",
+    "previous": "Σισὰ κώμη",
     "next": "Sisapo",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 361,
-        "author": "Schoch"
+        "end": 361,
+        "author": "Schoch."
       }
     ]
   },
@@ -7022,41 +7146,48 @@
     "lemma": "Sisapo",
     "previous": "Sisamnes",
     "next": "Sisar",
+    "proof_read": 0,
     "short_description": "Stadt in der Baetica",
     "chapters": [
       {
         "start": 361,
-        "author": "Hübner"
+        "end": 361,
+        "author": "Hübner."
       }
     ]
   },
   {
     "lemma": "Sisar",
     "previous": "Sisapo",
-    "next": "Sisara 1",
+    "next": "Σισάρα 1",
+    "proof_read": 0,
     "short_description": "Küstenfluß Mauretaniens",
     "chapters": [
       {
         "start": 361,
-        "author": "Dessau"
+        "end": 361,
+        "author": "Dessau."
       }
     ]
   },
   {
-    "lemma": "Sisara 1",
+    "lemma": "Σισάρα 1",
     "previous": "Sisar",
     "next": "Σισάρα 2",
+    "sort_key": "Sisara 1",
+    "proof_read": 0,
     "short_description": "Afrikanischer See",
     "chapters": [
       {
         "start": 361,
-        "author": "Dessau"
+        "end": 361,
+        "author": "Dessau."
       }
     ]
   },
   {
     "lemma": "Σισάρα 2",
-    "previous": "Sisara 1",
+    "previous": "Σισάρα 1",
     "next": "Sisaraca",
     "sort_key": "Sisara 2",
     "redirect": "Sarbane",
@@ -7072,11 +7203,13 @@
     "lemma": "Sisaraca",
     "previous": "Σισάρα 2",
     "next": "Sisauranon",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 361,
-        "author": "Schulten"
+        "end": 361,
+        "author": "Schulten."
       }
     ]
   },
@@ -7109,11 +7242,13 @@
     "lemma": "Sisciacus",
     "previous": "Siscia",
     "next": "Siscianus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 363,
-        "author": "Keune"
+        "end": 363,
+        "author": "Keune."
       }
     ]
   },
@@ -7121,10 +7256,14 @@
     "lemma": "Siscianus",
     "previous": "Sisciacus",
     "next": "Sisebutus",
+    "redirect": "Siscia",
+    "proof_read": 0,
     "short_description": "s. Siscia",
     "chapters": [
       {
-        "start": 363
+        "start": 363,
+        "end": 363,
+        "author": "Fluss."
       }
     ]
   },
@@ -7132,11 +7271,13 @@
     "lemma": "Sisebutus",
     "previous": "Siscianus",
     "next": "Sisenna 1",
+    "proof_read": 0,
     "short_description": "König der Westgoten 612-620 n. Chr., Schriftsteller",
     "chapters": [
       {
         "start": 363,
-        "author": "Diehl, Ernst"
+        "end": 366,
+        "author": "Diehl."
       }
     ]
   },
@@ -7144,11 +7285,13 @@
     "lemma": "Sisenna 1",
     "previous": "Sisebutus",
     "next": "Sisenna 2",
+    "proof_read": 0,
     "short_description": "Centurio im syrischen Heer",
     "chapters": [
       {
         "start": 366,
-        "author": "Stein, [Arthur]"
+        "end": 366,
+        "author": "Stein."
       }
     ]
   },
@@ -7156,10 +7299,13 @@
     "lemma": "Sisenna 2",
     "previous": "Sisenna 1",
     "next": "Sisenna 3",
+    "redirect": "Cornelius  371-375, Mummius Statilius",
+    "proof_read": 0,
     "short_description": "s. Cornelius Nr. 371-375, Mummius Statilius",
     "chapters": [
       {
-        "start": 366
+        "start": 366,
+        "end": 366
       }
     ]
   },
@@ -7167,11 +7313,13 @@
     "lemma": "Sisenna 3",
     "previous": "Sisenna 2",
     "next": "Siser",
+    "proof_read": 0,
     "short_description": "Amphorentöpfer",
     "chapters": [
       {
         "start": 366,
-        "author": "Münzer"
+        "end": 366,
+        "author": "Keune."
       }
     ]
   },
@@ -7179,11 +7327,13 @@
     "lemma": "Siser",
     "previous": "Sisenna 3",
     "next": "Sisi",
+    "proof_read": 0,
     "short_description": "P., Person",
     "chapters": [
       {
         "start": 366,
-        "author": "Münzer"
+        "end": 366,
+        "author": "Münzer."
       }
     ]
   },
@@ -7233,11 +7383,13 @@
     "lemma": "Sisila",
     "previous": "Sisikottos",
     "next": "Sisines",
+    "proof_read": 0,
     "short_description": "Grenzkastell am Limes Ponticus",
     "chapters": [
       {
         "start": 366,
-        "author": "Honigmann"
+        "end": 366,
+        "author": "Honigmann."
       }
     ]
   },
@@ -7258,11 +7410,13 @@
     "lemma": "Sisinnius",
     "previous": "Sisines",
     "next": "Sisires",
+    "proof_read": 0,
     "short_description": "Magister militum der italienischen Westmark in den ersten Jahren des",
     "chapters": [
       {
         "start": 367,
-        "author": "Stein, Ernst"
+        "end": 367,
+        "author": "Ernst Stein."
       }
     ]
   },
@@ -7270,65 +7424,79 @@
     "lemma": "Sisires",
     "previous": "Sisinnius",
     "next": "Sisius",
+    "proof_read": 0,
     "short_description": "Aegyptischer Königsname",
     "chapters": [
       {
         "start": 367,
-        "author": "Kees"
+        "end": 367,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Sisius",
     "previous": "Sisires",
-    "next": "Sismara",
+    "next": "Σίσμαρα",
+    "proof_read": 0,
     "short_description": "Amphorentöpfer",
     "chapters": [
       {
         "start": 367,
-        "author": "Keune"
+        "end": 368,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sismara",
+    "lemma": "Σίσμαρα",
     "previous": "Sisius",
     "next": "Sisolenses",
+    "sort_key": "Sismara",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 368,
-        "author": "Honigmann"
+        "end": 368,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sisolenses",
-    "previous": "Sismara",
-    "next": "Sisopa",
+    "previous": "Σίσμαρα",
+    "next": "Σισώπα",
+    "redirect": "Sassula",
+    "proof_read": 0,
     "short_description": "s. Sassula",
     "chapters": [
       {
-        "start": 368
+        "start": 368,
+        "end": 368,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Sisopa",
+    "lemma": "Σισώπα",
     "previous": "Sisolenses",
     "next": "Sispara",
+    "sort_key": "Sisopa",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 368,
-        "author": "Fluss"
+        "end": 368,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Sispara",
-    "previous": "Sisopa",
-    "next": "Sisphe",
+    "previous": "Σισώπα",
+    "next": "Sisφe",
     "redirect": "Sippara 1",
     "proof_read": 2,
     "chapters": [
@@ -7339,26 +7507,31 @@
     ]
   },
   {
-    "lemma": "Sisphe",
+    "lemma": "Sisφe",
     "previous": "Sispara",
     "next": "Sissa 1",
+    "sort_key": "Sisphe",
+    "proof_read": 0,
     "short_description": "Etruskischer Name auf einem Wandgemälde des Françoisgrabes in Vulci",
     "chapters": [
       {
         "start": 368,
-        "author": "Fiesel"
+        "end": 368,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Sissa 1",
-    "previous": "Sisphe",
+    "previous": "Sisφe",
     "next": "Sissa 2",
+    "proof_read": 0,
     "short_description": "Nebenfluß der Loire",
     "chapters": [
       {
         "start": 368,
-        "author": "Keune"
+        "end": 369,
+        "author": "Keune."
       }
     ]
   },
@@ -7379,11 +7552,13 @@
     "lemma": "Sisserus",
     "previous": "Sissa 2",
     "next": "Sissiacus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 369,
-        "author": "Keune"
+        "end": 369,
+        "author": "Keune."
       }
     ]
   },
@@ -7391,11 +7566,13 @@
     "lemma": "Sissiacus",
     "previous": "Sisserus",
     "next": "Sissiones",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 369,
-        "author": "Keune"
+        "end": 369,
+        "author": "Keune."
       }
     ]
   },
@@ -7417,11 +7594,13 @@
     "lemma": "Sissus",
     "previous": "Sissiones",
     "next": "Sisterio",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 369,
-        "author": "Keune"
+        "end": 369,
+        "author": "Keune."
       }
     ]
   },
@@ -7441,7 +7620,7 @@
   {
     "lemma": "Sistero",
     "previous": "Sisterio",
-    "next": "Sistiniacus",
+    "next": "Sistiniacus, -um",
     "redirect": "Sora 1",
     "proof_read": 2,
     "chapters": [
@@ -7452,26 +7631,30 @@
     ]
   },
   {
-    "lemma": "Sistiniacus",
+    "lemma": "Sistiniacus, -um",
     "previous": "Sistero",
     "next": "Sistosichermes",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 369,
-        "author": "Keune"
+        "end": 369,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sistosichermes",
-    "previous": "Sistiniacus",
+    "previous": "Sistiniacus, -um",
     "next": "Sistrum",
+    "proof_read": 0,
     "short_description": "Aegyptischer Königsname",
     "chapters": [
       {
         "start": 369,
-        "author": "Kees"
+        "end": 370,
+        "author": "Kees."
       }
     ]
   },
@@ -7479,11 +7662,13 @@
     "lemma": "Sistrum",
     "previous": "Sistosichermes",
     "next": "Sisygambis",
+    "proof_read": 0,
     "short_description": "Musikinstrument der Aegypter",
     "chapters": [
       {
         "start": 370,
-        "author": "Pieper"
+        "end": 371,
+        "author": "Pieper."
       }
     ]
   },
@@ -7491,11 +7676,13 @@
     "lemma": "Sisygambis",
     "previous": "Sistrum",
     "next": "Sisyphides",
+    "proof_read": 0,
     "short_description": "Tochter des Ostanes",
     "chapters": [
       {
         "start": 371,
-        "author": "Schoch"
+        "end": 371,
+        "author": "Schoch."
       }
     ]
   },
@@ -7668,11 +7855,13 @@
     "lemma": "Sitalkes 1",
     "previous": "Sitalkas 2",
     "next": "Sitalkes 2",
+    "proof_read": 0,
     "short_description": "Sohn des Teres, König der thrakischen Odrysen 5. Jhdt v. Chr.",
     "chapters": [
       {
         "start": 377,
-        "author": "Schoch"
+        "end": 381,
+        "author": "Schoch."
       }
     ]
   },
@@ -7680,11 +7869,13 @@
     "lemma": "Sitalkes 2",
     "previous": "Sitalkes 1",
     "next": "Sitalkes 3",
+    "proof_read": 0,
     "short_description": "Thraker aus dem Geschlecht der Odrysen",
     "chapters": [
       {
         "start": 381,
-        "author": "Schoch"
+        "end": 382,
+        "author": "Schoch."
       }
     ]
   },
@@ -7692,18 +7883,20 @@
     "lemma": "Sitalkes 3",
     "previous": "Sitalkes 2",
     "next": "Sitalus",
+    "proof_read": 0,
     "short_description": "Thrakische Geisel in Rom unter Augustus",
     "chapters": [
       {
         "start": 382,
-        "author": "Stein, [Arthur]"
+        "end": 382,
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Sitalus",
     "previous": "Sitalkes 3",
-    "next": "Sitarion",
+    "next": "Σιτάριον",
     "proof_read": 2,
     "short_description": "Person",
     "chapters": [
@@ -7715,33 +7908,38 @@
     ]
   },
   {
-    "lemma": "Sitarion",
+    "lemma": "Σιτάριον",
     "previous": "Sitalus",
     "next": "Sitas",
+    "sort_key": "Sitarion",
+    "proof_read": 0,
     "short_description": "Gewichtsgröße",
     "chapters": [
       {
         "start": 382,
-        "author": "Regling"
+        "end": 382,
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Sitas",
-    "previous": "Sitarion",
+    "previous": "Σιτάριον",
     "next": "Σιτέα",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 382,
-        "author": "Stein, [Arthur]"
+        "end": 382,
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Σιτέα",
     "previous": "Sitas",
-    "next": "Siteresion",
+    "next": "Σιτηρέσιον",
     "sort_key": "Sitea",
     "proof_read": 2,
     "short_description": "Kultort der Phyle Pamphyleis",
@@ -7754,32 +7952,38 @@
     ]
   },
   {
-    "lemma": "Siteresion",
+    "lemma": "Σιτηρέσιον",
     "previous": "Σιτέα",
-    "next": "Sitesis",
+    "next": "Σίτησις",
+    "sort_key": "Siteresion",
+    "proof_read": 0,
     "short_description": "Verpflegungsgeld der griechischen Soldaten",
     "chapters": [
       {
         "start": 382,
-        "author": "Schulthess"
+        "end": 388,
+        "author": "Schulthess."
       }
     ]
   },
   {
-    "lemma": "Sitesis",
-    "previous": "Siteresion",
+    "lemma": "Σίτησις",
+    "previous": "Σιτηρέσιον",
     "next": "Σίθα",
+    "sort_key": "Sitesis",
+    "proof_read": 0,
     "short_description": "Speisung der Beamten während der Prytanie",
     "chapters": [
       {
         "start": 388,
-        "author": "Schulthess"
+        "end": 391,
+        "author": "Schulthess."
       }
     ]
   },
   {
     "lemma": "Σίθα",
-    "previous": "Sitesis",
+    "previous": "Σίτησις",
     "next": "Sithenoi",
     "sort_key": "Sitha",
     "redirect": "Is",
@@ -7808,36 +8012,43 @@
   {
     "lemma": "Sithiu",
     "previous": "Sithenoi",
-    "next": "Sithnides",
+    "next": "Σιθνίδες",
+    "proof_read": 0,
     "short_description": "Keltischer Name einer Örtlichkeit im Gebiet der Morini",
     "chapters": [
       {
         "start": 391,
-        "author": "Keune"
+        "end": 392,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sithnides",
+    "lemma": "Σιθνίδες",
     "previous": "Sithiu",
     "next": "Sithon",
+    "sort_key": "Sithnides",
+    "proof_read": 0,
     "short_description": "Beiname der Nymphen",
     "chapters": [
       {
         "start": 392,
-        "author": "Zwicker"
+        "end": 392,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Sithon",
-    "previous": "Sithnides",
+    "previous": "Σιθνίδες",
     "next": "Sithone",
+    "proof_read": 0,
     "short_description": "König der Odomanten",
     "chapters": [
       {
         "start": 392,
-        "author": "Humborg"
+        "end": 393,
+        "author": "Humborg."
       }
     ]
   },
@@ -7859,11 +8070,13 @@
     "lemma": "Sithones",
     "previous": "Sithone",
     "next": "Sithonia",
+    "proof_read": 0,
     "short_description": "Thrakisches Volk",
     "chapters": [
       {
         "start": 393,
-        "author": "Oberhummer"
+        "end": 393,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -7885,11 +8098,13 @@
     "lemma": "Siticines",
     "previous": "Sithonia",
     "next": "Sitifis",
+    "proof_read": 0,
     "short_description": "Leichenbläser?",
     "chapters": [
       {
         "start": 393,
-        "author": "Hug"
+        "end": 393,
+        "author": "Hug."
       }
     ]
   },
@@ -7897,11 +8112,13 @@
     "lemma": "Sitifis",
     "previous": "Siticines",
     "next": "Σιτικόν",
+    "proof_read": 0,
     "short_description": "Stadt in Numidien",
     "chapters": [
       {
         "start": 393,
-        "author": "Dessau"
+        "end": 394,
+        "author": "Dessau."
       }
     ]
   },
@@ -7925,11 +8142,13 @@
     "lemma": "Sitillia",
     "previous": "Σιτικόν",
     "next": "Σιτιόεντα",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 394,
-        "author": "Wackernagel"
+        "end": 394,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -7965,95 +8184,114 @@
     "lemma": "Sitmica",
     "previous": "Sitioganus",
     "next": "Sito",
+    "proof_read": 0,
     "short_description": "Beiname einer Lasa auf einem etruskischen Spiegel aus Montefiascone",
     "chapters": [
       {
         "start": 394,
-        "author": "Fiesel"
+        "end": 395,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Sito",
     "previous": "Sitmica",
-    "next": "Sitodosia",
+    "next": "Σιτοδοσία",
+    "proof_read": 0,
     "short_description": "Epiklesis der Demeter",
     "chapters": [
       {
         "start": 395,
-        "author": "Storck"
+        "end": 395,
+        "author": "Storck."
       }
     ]
   },
   {
-    "lemma": "Sitodosia",
+    "lemma": "Σιτοδοσία",
     "previous": "Sito",
     "next": "Sitomagus",
+    "sort_key": "Sitodosia",
+    "proof_read": 0,
     "short_description": "Billige Getreideabgabe an das athenische Volk durch den Staat",
     "chapters": [
       {
         "start": 395,
-        "author": "Schulthess"
+        "end": 396,
+        "author": "Schulthess."
       }
     ]
   },
   {
     "lemma": "Sitomagus",
-    "previous": "Sitodosia",
-    "next": "Sitonai",
+    "previous": "Σιτοδοσία",
+    "next": "Σιτῶναι",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 396,
-        "author": "MacDonald"
+        "end": 396,
+        "author": "MacDonald."
       }
     ]
   },
   {
-    "lemma": "Sitonai",
+    "lemma": "Σιτῶναι",
     "previous": "Sitomagus",
     "next": "Sitones",
+    "sort_key": "Sitonai",
+    "proof_read": 0,
     "short_description": "Beamte für den Getreidekauf des Staates",
     "chapters": [
       {
         "start": 396,
-        "author": "Thalheim"
+        "end": 397,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Sitones",
-    "previous": "Sitonai",
-    "next": "Sitonia",
+    "previous": "Σιτῶναι",
+    "next": "Σιτωνία",
+    "proof_read": 0,
     "short_description": "Nachbarn der skandinavischen Suiones",
     "chapters": [
       {
         "start": 397,
-        "author": "Schönfeld"
+        "end": 397,
+        "author": "Schönfeld."
       }
     ]
   },
   {
-    "lemma": "Sitonia",
+    "lemma": "Σιτωνία",
     "previous": "Sitones",
     "next": "Sitophoros",
+    "sort_key": "Sitonia",
+    "proof_read": 0,
     "short_description": "Getreidemangel",
     "chapters": [
       {
         "start": 397,
-        "author": "Thalheim"
+        "end": 398,
+        "author": "Thalheim."
       }
     ]
   },
   {
     "lemma": "Sitophoros",
-    "previous": "Sitonia",
+    "previous": "Σιτωνία",
     "next": "Σιτοφύλακες",
+    "proof_read": 0,
     "short_description": "Epitheton der Demeter",
     "chapters": [
       {
         "start": 398,
-        "author": "Storck"
+        "end": 398,
+        "author": "Storck."
       }
     ]
   },
@@ -8123,11 +8361,13 @@
     "lemma": "Sittas",
     "previous": "Σιττάφιον πεδίον",
     "next": "Sittius",
+    "proof_read": 0,
     "short_description": "Schwager Theodoras",
     "chapters": [
       {
         "start": 404,
-        "author": "Stein, Ernst"
+        "end": 408,
+        "author": "Ernst Stein."
       }
     ]
   },
@@ -8135,11 +8375,13 @@
     "lemma": "Sittius",
     "previous": "Sittas",
     "next": "Sittius 1",
+    "proof_read": 0,
     "short_description": "Campanisches Geschlecht",
     "chapters": [
       {
         "start": 408,
-        "author": "Münzer"
+        "end": 409,
+        "author": "Münzer."
       }
     ]
   },
@@ -8147,11 +8389,13 @@
     "lemma": "Sittius 1",
     "previous": "Sittius",
     "next": "Sittius 2",
+    "proof_read": 0,
     "short_description": "Aus Cales",
     "chapters": [
       {
         "start": 409,
-        "author": "Münzer"
+        "end": 409,
+        "author": "Münzer."
       }
     ]
   },
@@ -8159,11 +8403,13 @@
     "lemma": "Sittius 2",
     "previous": "Sittius 1",
     "next": "Sittius 3",
+    "proof_read": 0,
     "short_description": "P., Romtreuer im Bundesgenossenkrieg",
     "chapters": [
       {
         "start": 409,
-        "author": "Münzer"
+        "end": 409,
+        "author": "Münzer."
       }
     ]
   },
@@ -8171,47 +8417,56 @@
     "lemma": "Sittius 3",
     "previous": "Sittius 2",
     "next": "Sittokatis",
+    "proof_read": 0,
     "short_description": "P., Freund Ciceros",
     "chapters": [
       {
         "start": 409,
-        "author": "Münzer"
+        "end": 411,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Sittokatis",
     "previous": "Sittius 3",
-    "next": "Situ dike",
+    "next": "Σίτου δίκη",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Ganges",
     "chapters": [
       {
         "start": 411,
-        "author": "Wecker"
+        "end": 411,
+        "author": "Wecker."
       }
     ]
   },
   {
-    "lemma": "Situ dike",
+    "lemma": "Σίτου δίκη",
     "previous": "Sittokatis",
     "next": "Situdo",
+    "sort_key": "Situdike",
+    "proof_read": 0,
     "short_description": "Alimentationsklage für Erbtöchter, geschiedene Frauen und evtl. Waisen in Athen",
     "chapters": [
       {
         "start": 411,
-        "author": "Schulthess"
+        "end": 415,
+        "author": "Schulthess."
       }
     ]
   },
   {
     "lemma": "Situdo",
-    "previous": "Situ dike",
+    "previous": "Σίτου δίκη",
     "next": "Situlus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 415,
-        "author": "Schulten"
+        "end": 415,
+        "author": "Schulten."
       }
     ]
   },
@@ -8219,11 +8474,13 @@
     "lemma": "Situlus",
     "previous": "Situdo",
     "next": "Situpolis",
+    "proof_read": 0,
     "short_description": "Bauchiges Gefäß zum Wasserschöpfen",
     "chapters": [
       {
         "start": 415,
-        "author": "Leonard"
+        "end": 417,
+        "author": "Leonard."
       }
     ]
   },
@@ -8244,125 +8501,149 @@
     "lemma": "Siua",
     "previous": "Situpolis",
     "next": "Siuata",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 417,
-        "author": "Ruge"
+        "end": 417,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Siuata",
     "previous": "Siua",
-    "next": "Siviacus",
+    "next": "Σιούφ",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 417,
-        "author": "Ruge"
+        "end": 417,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Siviacus",
-    "previous": "Siuata",
+    "previous": "Σιούρ λιμήν",
     "next": "Sivolis",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 417,
-        "author": "Keune"
+        "end": 417,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sivolis",
     "previous": "Siviacus",
-    "next": "Siuph",
+    "next": "Σιούφ",
+    "proof_read": 0,
     "short_description": "Fluß Sioule",
     "chapters": [
       {
         "start": 417,
-        "author": "Keune"
+        "end": 417,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Siuph",
+    "lemma": "Σιούφ",
     "previous": "Sivolis",
-    "next": "Siur limen",
+    "next": "Σιούρ λιμήν",
+    "sort_key": "Siuph",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 417,
-        "author": "Kees"
+        "end": 417,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Siur limen",
-    "previous": "Siuph",
+    "lemma": "Σιούρ λιμήν",
+    "previous": "Σιούφ",
     "next": "Sivvonianus",
+    "sort_key": "Siviacus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 417,
-        "author": "Dessau"
+        "end": 417,
+        "author": "Dessau."
       }
     ]
   },
   {
     "lemma": "Sivvonianus",
-    "previous": "Siur limen",
+    "previous": "Σιούρ λιμήν",
     "next": "Sixtus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 418,
-        "author": "Keune"
+        "end": 418,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sixtus",
     "previous": "Sivvonianus",
-    "next": "Siza",
+    "next": "Σίζα",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 418,
-        "author": "Keune"
+        "end": 418,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Siza",
+    "lemma": "Σίζα",
     "previous": "Sixtus",
-    "next": "Sizara",
+    "next": "Σίζαρα (Λάρισα)",
+    "sort_key": "Siza",
+    "proof_read": 0,
     "short_description": "Bistum in Karien",
     "chapters": [
       {
         "start": 418,
-        "author": "Bürchner"
+        "end": 418,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Sizara",
-    "previous": "Siza",
+    "lemma": "Σίζαρα (Λάρισα)",
+    "previous": "Σίζα",
     "next": "Sizyges",
+    "sort_key": "Sizara",
+    "proof_read": 0,
     "short_description": "Stadt Nordsyriens",
     "chapters": [
       {
         "start": 418,
-        "author": "Honigmann"
+        "end": 419,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sizyges",
-    "previous": "Sizara",
+    "previous": "Σίζαρα (Λάρισα)",
     "next": "Σκ-",
     "short_description": "Sakenstamm im Alaital (Pamirgebirge)",
     "chapters": [
