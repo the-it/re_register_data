@@ -4062,7 +4062,7 @@
   {
     "lemma": "Simylos 2",
     "previous": "Simylos 1",
-    "next": "Σίμνρα",
+    "next": "Σίμυρα",
     "proof_read": 0,
     "short_description": "1",
     "chapters": [
@@ -4079,7 +4079,7 @@
     ]
   },
   {
-    "lemma": "Σίμνρα",
+    "lemma": "Σίμυρα",
     "previous": "Simylos 2",
     "next": "Sina 1",
     "sort_key": "Simyra",
@@ -4095,7 +4095,7 @@
   },
   {
     "lemma": "Sina 1",
-    "previous": "Σίμνρα",
+    "previous": "Σίμυρα",
     "next": "Sina 2",
     "proof_read": 0,
     "short_description": "Ortschaft in Margiana",
@@ -5246,7 +5246,7 @@
     "previous": "Sinitense",
     "next": "Σίννα",
     "sort_key": "Sinkar",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Sinkar, Stadt in Medien",
     "chapters": [
       {
@@ -6694,7 +6694,7 @@
   {
     "lemma": "Siricius",
     "previous": "Siricae",
-    "next": "Σιρίδος Ἔδρα",
+    "next": "Σιρίδος Ἕδρα",
     "proof_read": 0,
     "short_description": "Sophist",
     "chapters": [
@@ -6706,12 +6706,12 @@
     ]
   },
   {
-    "lemma": "Σιρίδος Ἔδρα",
+    "lemma": "Σιρίδος Ἕδρα",
     "previous": "Siricius",
     "next": "Sirimalaga",
     "sort_key": "Siridoshedra",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Ort auf der Insel Euboia",
     "chapters": [
       {
         "start": 309,
@@ -6722,7 +6722,7 @@
   },
   {
     "lemma": "Sirimalaga",
-    "previous": "Σιρίδος Ἔδρα",
+    "previous": "Σιρίδος Ἕδρα",
     "next": "Sirini",
     "proof_read": 0,
     "short_description": "Ort",
@@ -7132,8 +7132,9 @@
     "lemma": "Sisamnes",
     "previous": "Σισὰ κώμη",
     "next": "Sisapo",
-    "proof_read": 0,
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "Sohn des Hydarnes, Enkel des Bagābigna",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 361,
@@ -7160,7 +7161,7 @@
     "lemma": "Sisar",
     "previous": "Sisapo",
     "next": "Σισάρα 1",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Küstenfluß Mauretaniens",
     "chapters": [
       {
@@ -7175,7 +7176,7 @@
     "previous": "Sisar",
     "next": "Σισάρα 2",
     "sort_key": "Sisara 1",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Afrikanischer See",
     "chapters": [
       {
@@ -7203,8 +7204,9 @@
     "lemma": "Sisaraca",
     "previous": "Σισάρα 2",
     "next": "Sisauranon",
-    "proof_read": 0,
-    "short_description": "Ort",
+    "proof_read": 2,
+    "short_description": "Ort in Hispania Tarraconensis",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 361,
@@ -8542,7 +8544,7 @@
   {
     "lemma": "Sivolis",
     "previous": "Siviacus",
-    "next": "Σιούφ",
+    "next": "Sivvonianus",
     "proof_read": 0,
     "short_description": "Fluß Sioule",
     "chapters": [
@@ -8585,7 +8587,7 @@
   },
   {
     "lemma": "Sivvonianus",
-    "previous": "Σιούρ λιμήν",
+    "previous": "Sivolis",
     "next": "Sixtus",
     "proof_read": 0,
     "short_description": "Ort",
@@ -8645,18 +8647,20 @@
     "lemma": "Sizyges",
     "previous": "Σίζαρα (Λάρισα)",
     "next": "Σκ-",
+    "proof_read": 0,
     "short_description": "Sakenstamm im Alaital (Pamirgebirge)",
     "chapters": [
       {
         "start": 419,
-        "author": "Herrmann"
+        "end": 423,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Σκ-",
     "previous": "Sizyges",
-    "next": "Skabala",
+    "next": "Σκάβαλα",
     "sort_key": "Sk",
     "redirect": true,
     "proof_read": 2,
@@ -8668,38 +8672,46 @@
     ]
   },
   {
-    "lemma": "Skabala",
+    "lemma": "Σκάβαλα",
     "previous": "Σκ-",
-    "next": "Skabina",
-    "short_description": "Landstück der Eretrieer",
+    "next": "Σκάβινα",
+    "sort_key": "Skabala",
+    "proof_read": 0,
+    "short_description": "Skabala, Landstück der Eretrieer",
     "chapters": [
       {
         "start": 423,
-        "author": "Bürchner"
+        "end": 423,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Skabina",
-    "previous": "Skabala",
+    "lemma": "Σκάβινα",
+    "previous": "Σκάβαλα",
     "next": "Skaia",
-    "short_description": "Ort",
+    "sort_key": "Skabina",
+    "proof_read": 0,
+    "short_description": "Skabina, Ort in Medien",
     "chapters": [
       {
         "start": 423,
-        "author": "Weissbach"
+        "end": 423,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Skaia",
-    "previous": "Skabina",
+    "previous": "Σκάβινα",
     "next": "Σκαιδέβα",
+    "proof_read": 0,
     "short_description": "Tochter des Danaos",
     "chapters": [
       {
         "start": 423,
-        "author": "Kock"
+        "end": 424,
+        "author": "Kock."
       }
     ]
   },
@@ -8734,19 +8746,22 @@
   {
     "lemma": "Skaiisches Tor",
     "previous": "Σκαιή",
-    "next": "Skaioi",
+    "next": "Σκαιοί",
+    "sort_key": "Skaiischestor",
+    "proof_read": 0,
     "short_description": "Tor des sagenhaften Troia",
     "chapters": [
       {
         "start": 424,
-        "author": "Bürchner"
+        "end": 424,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Skaioi",
+    "lemma": "Σκαιοί",
     "previous": "Skaiisches Tor",
-    "next": "Skaios",
+    "next": "Σκαῖος",
     "short_description": "Volk in der Troas und in Thrakien vgl. Scaidava. Skaiisches Tor.",
     "chapters": [
       {
@@ -8756,57 +8771,69 @@
     ]
   },
   {
-    "lemma": "Skaios",
-    "previous": "Skaioi",
-    "next": "Skaios 1",
-    "short_description": "Name mehrerer mythischer Helden",
+    "lemma": "Σκαῖος",
+    "previous": "Σκαιοί",
+    "next": "Σκαῖος 1",
+    "sort_key": "Skaios",
+    "proof_read": 0,
+    "short_description": "Skaios, mehrere mythischer Helden",
     "chapters": [
       {
         "start": 424,
-        "author": "Zwicker"
+        "end": 424,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Skaios 1",
-    "previous": "Skaios",
-    "next": "Skaios 2",
-    "short_description": "Sohn des Hippokoon",
+    "lemma": "Σκαῖος 1",
+    "previous": "Σκαῖος",
+    "next": "Σκαῖος 2",
+    "sort_key": "Skaios 1",
+    "proof_read": 0,
+    "short_description": "Skaios, Sohn des Hippokoon",
     "chapters": [
       {
         "start": 424,
-        "author": "Zwicker"
+        "end": 424,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Skaios 2",
-    "previous": "Skaios 1",
-    "next": "Skaios 3",
-    "short_description": "Thebanischer Faustkämpfer",
+    "lemma": "Σκαῖος 2",
+    "previous": "Σκαῖος 1",
+    "next": "Σκαῖος 3",
+    "sort_key": "Skaios 2",
+    "proof_read": 0,
+    "short_description": "Skaios, thebanischer Faustkämpfer",
     "chapters": [
       {
         "start": 424,
-        "author": "Zwicker"
+        "end": 424,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Skaios 3",
-    "previous": "Skaios 2",
+    "lemma": "Σκαῖος 3",
+    "previous": "Σκαῖος 2",
     "next": "Skallion",
-    "short_description": "Erbauer des skäischen Tores von Troia",
+    "sort_key": "Skaios 3",
+    "proof_read": 0,
+    "short_description": "Skaios, Erbauer des skäischen Tores von Troia",
     "chapters": [
       {
         "start": 424,
-        "author": "Zwicker"
+        "end": 425,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Skallion",
-    "previous": "Skaios 3",
-    "next": "Skalmos",
+    "previous": "Σκαῖος 3",
+    "next": "Σκαλμός",
     "short_description": "Gefäßbezeichnung",
     "chapters": [
       {
@@ -8816,38 +8843,46 @@
     ]
   },
   {
-    "lemma": "Skalmos",
+    "lemma": "Σκαλμός",
     "previous": "Skallion",
-    "next": "Skamandria",
-    "short_description": "Pflöcke der Dullen auf Schiffen mit nur einer Ruderreihe",
+    "next": "Σκαμανδρία",
+    "sort_key": "Skalmos",
+    "proof_read": 0,
+    "short_description": "Skalmos, Pflöcke auf Schiffen mit einer Ruderreihe",
     "chapters": [
       {
         "start": 425,
-        "author": "Obst"
+        "end": 425,
+        "author": "Obst."
       }
     ]
   },
   {
-    "lemma": "Skamandria",
-    "previous": "Skalmos",
+    "lemma": "Σκαμανδρία",
+    "previous": "Σκαλμός",
     "next": "Skamandrios 1",
-    "short_description": "Ort",
+    "sort_key": "Skamandria",
+    "proof_read": 0,
+    "short_description": "Skamandria, Ort am Skamandros",
     "chapters": [
       {
         "start": 425,
-        "author": "Bürchner"
+        "end": 425,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Skamandrios 1",
-    "previous": "Skamandria",
+    "previous": "Σκαμανδρία",
     "next": "Skamandrios 2",
+    "proof_read": 0,
     "short_description": "Sohn des Hektor",
     "chapters": [
       {
         "start": 425,
-        "author": "Schmidt"
+        "end": 429,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8855,11 +8890,13 @@
     "lemma": "Skamandrios 2",
     "previous": "Skamandrios 1",
     "next": "Skamandrios 3",
+    "proof_read": 0,
     "short_description": "Sohn des Strophios",
     "chapters": [
       {
         "start": 429,
-        "author": "Schmidt"
+        "end": 429,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8867,11 +8904,13 @@
     "lemma": "Skamandrios 3",
     "previous": "Skamandrios 2",
     "next": "Skamandrios 4",
+    "proof_read": 0,
     "short_description": "Olympionike aus Mytilene",
     "chapters": [
       {
         "start": 429,
-        "author": "Schmidt"
+        "end": 429,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -8879,11 +8918,13 @@
     "lemma": "Skamandrios 4",
     "previous": "Skamandrios 3",
     "next": "Skamandros",
+    "proof_read": 0,
     "short_description": "Historischer Personenname",
     "chapters": [
       {
         "start": 429,
-        "author": "Zwicker"
+        "end": 429,
+        "author": "Zwicker."
       }
     ]
   },
@@ -8955,7 +8996,7 @@
   {
     "lemma": "Σκαμβωνίδαι",
     "previous": "Skamandros 3",
-    "next": "Skamma",
+    "next": "Σκάμμα",
     "short_description": "Attischer Demos",
     "chapters": [
       {
@@ -8965,33 +9006,38 @@
     ]
   },
   {
-    "lemma": "Skamma",
+    "lemma": "Σκάμμα",
     "previous": "Σκαμβωνίδαι",
     "next": "Skamon",
-    "short_description": "Durch Aufgraben gelockerte Bodenfläche",
+    "sort_key": "Skamma",
+    "proof_read": 0,
+    "short_description": "Skamma, durch Aufgraben gelockerte Bodenfläche",
     "chapters": [
       {
         "start": 435,
-        "author": "Jüthner"
+        "end": 437,
+        "author": "Jüthner."
       }
     ]
   },
   {
     "lemma": "Skamon",
-    "previous": "Skamma",
+    "previous": "Σκάμμα",
     "next": "Σκάμπα",
+    "proof_read": 0,
     "short_description": "Heurematograph aus Mytilene",
     "chapters": [
       {
         "start": 437,
-        "author": "Jacoby, [Felix]"
+        "end": 438,
+        "author": "F. Jacoby."
       }
     ]
   },
   {
     "lemma": "Σκάμπα",
     "previous": "Skamon",
-    "next": "Skandalistes",
+    "next": "Σκανδαλιστής",
     "sort_key": "Skampa",
     "redirect": "Scampis",
     "proof_read": 2,
@@ -9003,56 +9049,67 @@
     ]
   },
   {
-    "lemma": "Skandalistes",
+    "lemma": "Σκανδαλιστής",
     "previous": "Σκάμπα",
-    "next": "Skandaria",
-    "short_description": "Zauberkünstler",
+    "next": "Σκανδαρία",
+    "sort_key": "Skandalistes",
+    "proof_read": 0,
+    "short_description": "Skandalistes, Zauberkünstler",
     "chapters": [
       {
         "start": 438,
-        "author": "Kroll"
+        "end": 438,
+        "author": "Kroll."
       }
     ]
   },
   {
-    "lemma": "Skandaria",
-    "previous": "Skandalistes",
+    "lemma": "Σκανδαρία",
+    "previous": "Σκανδαλιστής",
     "next": "Skandeia",
-    "short_description": "Nordwestl. Vorgebirge auf der Insel Kos",
+    "sort_key": "Skandaria",
+    "proof_read": 0,
+    "short_description": "Skandaria, nordwestl. Vorgebirge der Insel Kos",
     "chapters": [
       {
         "start": 438,
-        "author": "Bürchner"
+        "end": 438,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Skandeia",
-    "previous": "Skandaria",
-    "next": "Skandeira",
+    "previous": "Σκανδαρία",
+    "next": "Σκάνδειρα",
+    "proof_read": 0,
     "short_description": "Hafen auf Kythera",
     "chapters": [
       {
         "start": 438,
-        "author": "Geyer"
+        "end": 438,
+        "author": "Geyer."
       }
     ]
   },
   {
-    "lemma": "Skandeira",
+    "lemma": "Σκάνδειρα",
     "previous": "Skandeia",
     "next": "Skandile",
+    "sort_key": "Skandeira",
+    "proof_read": 0,
     "short_description": "Inselchen im NW-Teil des Aigaiischen Meeres",
     "chapters": [
       {
         "start": 438,
-        "author": "Bürchner"
+        "end": 438,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Skandile",
-    "previous": "Skandeira",
+    "previous": "Σκάνδειρα",
     "next": "Skandira",
     "redirect": "Skandeira",
     "proof_read": 2,
@@ -9066,7 +9123,7 @@
   {
     "lemma": "Skandira",
     "previous": "Skandile",
-    "next": "Skandos",
+    "next": "Skandos (-on?)",
     "redirect": "Skandeira",
     "proof_read": 2,
     "chapters": [
@@ -9077,33 +9134,38 @@
     ]
   },
   {
-    "lemma": "Skandos",
+    "lemma": "Skandos (-on?)",
     "previous": "Skandira",
     "next": "Skapaneus 1",
+    "sort_key": "Skandos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 438,
-        "author": "Ruge"
+        "end": 439,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Skapaneus 1",
-    "previous": "Skandos",
+    "previous": "Skandos (-on?)",
     "next": "Skapaneus 2",
+    "proof_read": 0,
     "short_description": "Name des Herakles",
     "chapters": [
       {
         "start": 439,
-        "author": "Latte"
+        "end": 439,
+        "author": "Latte."
       }
     ]
   },
   {
     "lemma": "Skapaneus 2",
     "previous": "Skapaneus 1",
-    "next": "Skaperda",
+    "next": "Σκαπέρδα",
     "redirect": "Kapaneus 1",
     "proof_read": 2,
     "chapters": [
@@ -9114,20 +9176,23 @@
     ]
   },
   {
-    "lemma": "Skaperda",
+    "lemma": "Σκαπέρδα",
     "previous": "Skapaneus 2",
     "next": "Σκαφαθῶν κτῆμα",
+    "sort_key": "Skaperda",
+    "proof_read": 0,
     "short_description": "Gymnastisches Spiel bei den Griechen",
     "chapters": [
       {
         "start": 439,
-        "author": "Hug"
+        "end": 439,
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Σκαφαθῶν κτῆμα",
-    "previous": "Skaperda",
+    "previous": "Σκαπέρδα",
     "next": "Skaphe 1",
     "sort_key": "Skaphathon ktema",
     "proof_read": 2,
@@ -9144,11 +9209,13 @@
     "lemma": "Skaphe 1",
     "previous": "Σκαφαθῶν κτῆμα",
     "next": "Skaphe 2",
+    "proof_read": 0,
     "short_description": "Wanne Kahn Schale",
     "chapters": [
       {
         "start": 439,
-        "author": "Leonard"
+        "end": 442,
+        "author": "Leonard."
       }
     ]
   },
@@ -9156,11 +9223,13 @@
     "lemma": "Skaphe 2",
     "previous": "Skaphe 1",
     "next": "Skaphe 3",
+    "proof_read": 0,
     "short_description": "Skaphos: Beiboot eines Kriegsschiffs jedes größere Schiff",
     "chapters": [
       {
         "start": 442,
-        "author": "Obst"
+        "end": 443,
+        "author": "Obst."
       }
     ]
   },
@@ -9182,18 +9251,20 @@
     "lemma": "Skaphephoroi",
     "previous": "Skaphe 3",
     "next": "Σκάφιον, Σκάφος",
+    "proof_read": 0,
     "short_description": "Metökische Träger von Gefäßen mit Opfergaben beim athenischen Panathenäenzug",
     "chapters": [
       {
         "start": 443,
-        "author": "Pfister"
+        "end": 445,
+        "author": "Pfister."
       }
     ]
   },
   {
     "lemma": "Σκάφιον, Σκάφος",
     "previous": "Skaphephoroi",
-    "next": "Skapitanoi",
+    "next": "Σκαπιτανοί",
     "sort_key": "Skaphion",
     "redirect": "Skaphe 2",
     "proof_read": 2,
@@ -9205,20 +9276,23 @@
     ]
   },
   {
-    "lemma": "Skapitanoi",
+    "lemma": "Σκαπιτανοί",
     "previous": "Σκάφιον, Σκάφος",
     "next": "Skapos",
+    "sort_key": "Skapitanoi",
+    "proof_read": 0,
     "short_description": "Volksstamm in Sardinien",
     "chapters": [
       {
         "start": 445,
-        "author": "Philipp"
+        "end": 445,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Skapos",
-    "previous": "Skapitanoi",
+    "previous": "Σκαπιτανοί",
     "next": "Skapsa",
     "redirect": "Askaphos",
     "proof_read": 2,
@@ -9245,43 +9319,50 @@
   {
     "lemma": "Skapsis",
     "previous": "Skapsa",
-    "next": "Skapte hyle",
+    "next": "Σκαπτὴ ὕλη",
+    "proof_read": 0,
     "short_description": "Städtchen in der Aiolis",
     "chapters": [
       {
         "start": 445,
-        "author": "Bürchner"
+        "end": 446,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Skapte hyle",
+    "lemma": "Σκαπτὴ ὕλη",
     "previous": "Skapsis",
     "next": "Skarabäen",
+    "sort_key": "Skaptehyle",
+    "proof_read": 0,
     "short_description": "Örtlichkeit im Gebiet zwischen Strymon und Nestos",
     "chapters": [
       {
         "start": 446,
-        "author": "Oberhummer"
+        "end": 446,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Skarabäen",
-    "previous": "Skapte hyle",
+    "previous": "Σκαπτὴ ὕλη",
     "next": "Σκάρδων",
+    "proof_read": 0,
     "short_description": "Aegyptische Siegel in Form eines Käfers",
     "chapters": [
       {
         "start": 447,
-        "author": "Pieper"
+        "end": 459,
+        "author": "Pieper."
       }
     ]
   },
   {
     "lemma": "Σκάρδων",
     "previous": "Skarabäen",
-    "next": "Skardon oros",
+    "next": "Σκάρδον ὄρος",
     "sort_key": "Skardon",
     "redirect": "Scardona",
     "proof_read": 2,
@@ -9293,43 +9374,53 @@
     ]
   },
   {
-    "lemma": "Skardon oros",
+    "lemma": "Σκάρδον ὄρος",
     "previous": "Σκάρδων",
-    "next": "Skardona nesos",
+    "next": "Σκαρδῶνα νῆσος",
+    "sort_key": "Skardonoros",
+    "proof_read": 0,
     "short_description": "Oestl. Fortsetzung des Mons Adrius",
     "chapters": [
       {
         "start": 459,
-        "author": "Fluss"
+        "end": 460,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Skardona nesos",
-    "previous": "Skardon oros",
-    "next": "Skardone",
+    "lemma": "Σκαρδῶνα νῆσος",
+    "previous": "Σκάρδον ὄρος",
+    "next": "Σκαρδώνη",
+    "sort_key": "Skardonanesos",
+    "proof_read": 0,
     "short_description": "Zaratiner Insel",
     "chapters": [
       {
         "start": 460,
-        "author": "Fluss"
+        "end": 460,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Skardone",
-    "previous": "Skardona nesos",
+    "lemma": "Σκαρδώνη",
+    "previous": "Σκαρδῶνα νῆσος",
     "next": "Skaroi",
+    "sort_key": "Skardone",
+    "redirect": "Scardona",
+    "proof_read": 0,
     "short_description": "s. Scardona",
     "chapters": [
       {
-        "start": 460
+        "start": 460,
+        "end": 460
       }
     ]
   },
   {
     "lemma": "Skaroi",
-    "previous": "Skardone",
+    "previous": "Σκαρδώνη",
     "next": "Σκάρος",
     "proof_read": 2,
     "short_description": "lykische Stadt",
@@ -9372,11 +9463,13 @@
     "lemma": "Skarpheia",
     "previous": "Skarphe",
     "next": "Skarpheia 2",
+    "proof_read": 0,
     "short_description": "Stadt der Ostlokrer",
     "chapters": [
       {
         "start": 460,
-        "author": "Oldfather"
+        "end": 465,
+        "author": "Oldfather."
       }
     ]
   },
@@ -9411,36 +9504,43 @@
   {
     "lemma": "Skarsene",
     "previous": "Skarpheia 3",
-    "next": "Skedas",
+    "next": "Skedas-",
+    "proof_read": 0,
     "short_description": "Beiname der Hera auf einer Inschr. aus Doganowo",
     "chapters": [
       {
         "start": 465,
-        "author": "Zwicker"
+        "end": 465,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Skedas",
+    "lemma": "Skedas-",
     "previous": "Skarsene",
     "next": "Skedasos",
+    "sort_key": "Skedas",
+    "proof_read": 0,
     "short_description": "Beiname der Athena",
     "chapters": [
       {
         "start": 465,
-        "author": "Kock"
+        "end": 465,
+        "author": "Kock."
       }
     ]
   },
   {
     "lemma": "Skedasos",
-    "previous": "Skedas",
+    "previous": "Skedas-",
     "next": "Skeiron",
+    "proof_read": 0,
     "short_description": "Spielt eine Rolle in der Überlieferung der Schlacht von Leuktra",
     "chapters": [
       {
         "start": 465,
-        "author": "Pfister"
+        "end": 468,
+        "author": "Pfister."
       }
     ]
   },
@@ -9473,18 +9573,20 @@
     "lemma": "Skelenta",
     "previous": "Skeironikon Oidma",
     "next": "Skelentene",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 468,
-        "author": "Bürchner"
+        "end": 469,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Skelentene",
     "previous": "Skelenta",
-    "next": "Skelerdeia",
+    "next": "Σκελέρδεια",
     "proof_read": 2,
     "short_description": "Beiname der Meter theon",
     "no_creative_height": true,
@@ -9497,105 +9599,125 @@
     ]
   },
   {
-    "lemma": "Skelerdeia",
+    "lemma": "Σκελέρδεια",
     "previous": "Skelentene",
     "next": "Skelmis",
+    "sort_key": "Skelerdeia",
+    "proof_read": 0,
     "short_description": "Nebenname der Insel Antheia",
     "chapters": [
       {
         "start": 469,
-        "author": "Bürchner"
+        "end": 469,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Skelmis",
-    "previous": "Skelerdeia",
+    "previous": "Σκελέρδεια",
     "next": "Skemiophris",
+    "proof_read": 0,
     "short_description": "Mythischer Vertreter der Metallarbeit",
     "chapters": [
       {
         "start": 469,
-        "author": "Lippold, Georg"
+        "end": 469,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Skemiophris",
     "previous": "Skelmis",
-    "next": "Skenai",
+    "next": "Σκηναί",
+    "proof_read": 0,
     "short_description": "Schwester des ägyptischen Königs Amenemhet",
     "chapters": [
       {
         "start": 469,
-        "author": "Kees"
+        "end": 470,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Skenai",
+    "lemma": "Σκηναί",
     "previous": "Skemiophris",
-    "next": "Skenarchaia",
+    "next": "Σκεναρχαῖα",
+    "sort_key": "Skenai",
+    "proof_read": 0,
     "short_description": "Stadt Mesopotamiens",
     "chapters": [
       {
         "start": 470,
-        "author": "Weissbach"
+        "end": 470,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Skenarchaia",
-    "previous": "Skenai",
+    "lemma": "Σκεναρχαῖα",
+    "previous": "Σκηναί",
     "next": "Skene",
+    "sort_key": "Skenarchaia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 470,
-        "author": "Honigmann"
+        "end": 470,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Skene",
-    "previous": "Skenarchaia",
-    "next": "Skenikoi agones",
+    "previous": "Σκεναρχαῖα",
+    "next": "Σκηνικοὶ ἀγῶνες",
+    "proof_read": 0,
     "short_description": "Zeltbau aus hölzernen Stützen",
     "chapters": [
       {
         "start": 470,
-        "author": "Frickenhaus"
+        "end": 492,
+        "author": "Frickenhaus."
       }
     ]
   },
   {
-    "lemma": "Skenikoi agones",
+    "lemma": "Σκηνικοὶ ἀγῶνες",
     "previous": "Skene",
     "next": "Skenitai",
+    "sort_key": "Skenikoiagones",
+    "proof_read": 0,
     "short_description": "Dramatische Aufführungen",
     "chapters": [
       {
         "start": 492,
-        "author": "Schneider, K[arl]"
+        "end": 513,
+        "author": "K. Schneider."
       }
     ]
   },
   {
     "lemma": "Skenitai",
-    "previous": "Skenikoi agones",
+    "previous": "Σκηνικοὶ ἀγῶνες",
     "next": "Skenographie",
+    "proof_read": 0,
     "short_description": "Zeltbewohner",
     "chapters": [
       {
         "start": 513,
-        "author": "Moritz, [Bernhard]"
+        "end": 514,
+        "author": "Moritz."
       }
     ]
   },
   {
     "lemma": "Skenographie",
     "previous": "Skenitai",
-    "next": "Skephros",
+    "next": "Σκέφρος",
     "redirect": "Skene",
     "proof_read": 2,
     "chapters": [
@@ -9606,32 +9728,38 @@
     ]
   },
   {
-    "lemma": "Skephros",
+    "lemma": "Σκέφρος",
     "previous": "Skenographie",
-    "next": "Skepike geitonia",
+    "next": "Σκεπικὴ γειτονία",
+    "sort_key": "Skephros",
+    "proof_read": 0,
     "short_description": "Wurde von seinem Bruder ermordet",
     "chapters": [
       {
         "start": 514,
-        "author": "Zwicker"
+        "end": 515,
+        "author": "Zwicker."
       }
     ]
   },
   {
-    "lemma": "Skepike geitonia",
-    "previous": "Skephros",
+    "lemma": "Σκεπικὴ γειτονία",
+    "previous": "Σκέφρος",
     "next": "Skepsis 1",
+    "sort_key": "Skepikegeitonia",
+    "proof_read": 0,
     "short_description": "Stadtteil von Antiochia am Orontes",
     "chapters": [
       {
         "start": 515,
-        "author": "Honigmann"
+        "end": 515,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Skepsis 1",
-    "previous": "Skepike geitonia",
+    "previous": "Σκεπικὴ γειτονία",
     "next": "Skepsis 2",
     "redirect": "Skapsis",
     "proof_read": 2,
@@ -9646,11 +9774,13 @@
     "lemma": "Skepsis 2",
     "previous": "Skepsis 1",
     "next": "Skeptiker",
+    "proof_read": 0,
     "short_description": "Einrede, Vorwand",
     "chapters": [
       {
         "start": 515,
-        "author": "Thalheim"
+        "end": 515,
+        "author": "Thalheim."
       }
     ]
   },
@@ -9658,11 +9788,13 @@
     "lemma": "Skeptiker",
     "previous": "Skepsis 2",
     "next": "Σκέπτος",
+    "proof_read": 0,
     "short_description": "Name der Schule der Pyrrhoneer",
     "chapters": [
       {
         "start": 515,
-        "author": "Arnim"
+        "end": 515,
+        "author": "v. Arnim."
       }
     ]
   },
@@ -9696,11 +9828,13 @@
     "lemma": "Skeuothek",
     "previous": "Σκῆπτρον",
     "next": "Skia",
+    "proof_read": 0,
     "short_description": "Raum zur Aufbewahrung von Geräten",
     "chapters": [
       {
         "start": 516,
-        "author": "Ebert"
+        "end": 517,
+        "author": "Ebert."
       }
     ]
   },
@@ -9708,11 +9842,13 @@
     "lemma": "Skia",
     "previous": "Skeuothek",
     "next": "Skiadephoroi",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 517,
-        "author": "Geyer"
+        "end": 517,
+        "author": "Geyer."
       }
     ]
   },
@@ -9733,11 +9869,13 @@
     "lemma": "Skiaditis",
     "previous": "Skiadephoroi",
     "next": "Skiapodes",
+    "proof_read": 0,
     "short_description": "Beiname der Artemis",
     "chapters": [
       {
         "start": 517,
-        "author": "Kock"
+        "end": 517,
+        "author": "Kock."
       }
     ]
   },
@@ -9745,11 +9883,13 @@
     "lemma": "Skiapodes",
     "previous": "Skiaditis",
     "next": "Σκιάρα",
+    "proof_read": 0,
     "short_description": "Sagenhaftes Volk der griechischen Literatur",
     "chapters": [
       {
         "start": 517,
-        "author": "Herrmann"
+        "end": 518,
+        "author": "Herrmann."
       }
     ]
   },
@@ -9772,11 +9912,13 @@
     "lemma": "Skias",
     "previous": "Σκιάρα",
     "next": "Skiastes",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 518,
-        "author": "Geyer"
+        "end": 518,
+        "author": "Geyer."
       }
     ]
   },
@@ -9784,11 +9926,13 @@
     "lemma": "Skiastes",
     "previous": "Skias",
     "next": "Σκιαθικὴ χώρα",
+    "proof_read": 0,
     "short_description": "Beiname Apollons",
     "chapters": [
       {
         "start": 519,
-        "author": "Kock"
+        "end": 519,
+        "author": "Kock."
       }
     ]
   },
@@ -9811,11 +9955,13 @@
     "lemma": "Skiathis 1",
     "previous": "Σκιαθικὴ χώρα",
     "next": "Skiathis 2",
+    "proof_read": 0,
     "short_description": "Berg in Arkadien",
     "chapters": [
       {
         "start": 519,
-        "author": "Geyer"
+        "end": 519,
+        "author": "Geyer."
       }
     ]
   },
@@ -9823,65 +9969,77 @@
     "lemma": "Skiathis 2",
     "previous": "Skiathis 1",
     "next": "Skiathos",
+    "proof_read": 0,
     "short_description": "Ort in Unterägypten",
     "chapters": [
       {
         "start": 519,
-        "author": "Kees"
+        "end": 520,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Skiathos",
     "previous": "Skiathis 2",
-    "next": "Skidros",
+    "next": "Σκίδρος",
+    "proof_read": 0,
     "short_description": "Westlichste der Nördl. Sporaden",
     "chapters": [
       {
         "start": 520,
-        "author": "Fredrich"
+        "end": 521,
+        "author": "Fredrich."
       }
     ]
   },
   {
-    "lemma": "Skidros",
+    "lemma": "Σκίδρος",
     "previous": "Skiathos",
     "next": "Skiereia",
+    "sort_key": "Skidros",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 521,
-        "author": "Philipp"
+        "end": 521,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Skiereia",
-    "previous": "Skidros",
-    "next": "Skilla",
+    "previous": "Σκίδρος",
+    "next": "Σκίλλα",
+    "proof_read": 0,
     "short_description": "Trieterisches Fest in Alea in Arkadien",
     "chapters": [
       {
         "start": 521,
-        "author": "Pfister"
+        "end": 522,
+        "author": "Pfister."
       }
     ]
   },
   {
-    "lemma": "Skilla",
+    "lemma": "Σκίλλα",
     "previous": "Skiereia",
     "next": "Skilluntia",
+    "sort_key": "Skilla",
+    "proof_read": 0,
     "short_description": "Meerzwiebel",
     "chapters": [
       {
         "start": 522,
-        "author": "Steier"
+        "end": 526,
+        "author": "Steier."
       }
     ]
   },
   {
     "lemma": "Skilluntia",
-    "previous": "Skilla",
+    "previous": "Σκίλλα",
     "next": "Skillus",
     "proof_read": 2,
     "short_description": "Beiname der Athena",
@@ -9909,7 +10067,7 @@
   {
     "lemma": "Skiluros",
     "previous": "Skillus",
-    "next": "Skimpous",
+    "next": "Σκίμπους",
     "short_description": "Skyth. Fürst im 2. Jh. v. Chr., Vater des Palakos",
     "chapters": [
       {
@@ -9919,20 +10077,23 @@
     ]
   },
   {
-    "lemma": "Skimpous",
+    "lemma": "Σκίμπους",
     "previous": "Skiluros",
     "next": "Σκίον",
+    "sort_key": "Skimpous",
+    "proof_read": 0,
     "short_description": "Bett der armen Bevölkerung",
     "chapters": [
       {
         "start": 527,
-        "author": "Rodenwaldt"
+        "end": 529,
+        "author": "Rodenwaldt."
       }
     ]
   },
   {
     "lemma": "Σκίον",
-    "previous": "Skimpous",
+    "previous": "Σκίμπους",
     "next": "Skione",
     "sort_key": "Skion",
     "proof_read": 2,
@@ -9950,11 +10111,13 @@
     "lemma": "Skione",
     "previous": "Σκίον",
     "next": "Skira",
+    "proof_read": 0,
     "short_description": "Stadt auf der chalkidischen Halbinsel Pallene",
     "chapters": [
       {
         "start": 529,
-        "author": "Oberhummer"
+        "end": 530,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9962,11 +10125,13 @@
     "lemma": "Skira",
     "previous": "Skione",
     "next": "Σκιράδες",
+    "proof_read": 0,
     "short_description": "Fest an der hl. Straße nach Eleusis",
     "chapters": [
       {
         "start": 530,
-        "author": "Pfister"
+        "end": 533,
+        "author": "Pfister."
       }
     ]
   },
@@ -9987,84 +10152,130 @@
   {
     "lemma": "Skiradion",
     "previous": "Σκιράδες",
-    "next": "Skiras 1",
+    "next": "Σκιράς",
+    "proof_read": 0,
     "short_description": "Vorgebirge auf Salamis",
     "chapters": [
       {
         "start": 533,
-        "author": "Geyer"
+        "end": 533,
+        "author": "Geyer."
       }
     ]
   },
   {
-    "lemma": "Skiras 1",
+    "lemma": "Σκιράς",
     "previous": "Skiradion",
-    "next": "Skiras 2",
+    "next": "Σκιράς 1",
+    "proof_read": 0,
     "short_description": "Nebenname der Insel Salamis",
     "chapters": [
       {
         "start": 534,
-        "author": "Bürchner"
+        "end": 534,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Skiras 2",
-    "previous": "Skiras 1",
-    "next": "Skiras 3",
+    "lemma": "Σκιράς 1",
+    "previous": "Σκιράς",
+    "next": "Σκιράς 2",
+    "sort_key": "Skiras 1",
+    "proof_read": 0,
+    "short_description": "Nebenname der Insel Salamis",
+    "chapters": [
+      {
+        "start": 534,
+        "end": 534,
+        "author": "Bürchner."
+      }
+    ]
+  },
+  {
+    "lemma": "Σκιράς 2",
+    "previous": "Σκιράς 1",
+    "next": "Σκιράς 3",
+    "sort_key": "Skiras 2",
+    "proof_read": 0,
     "short_description": "Beiname der Athena",
     "chapters": [
       {
         "start": 534,
-        "author": "Kock"
+        "end": 535,
+        "author": "Kock."
       }
     ]
   },
   {
-    "lemma": "Skiras 3",
-    "previous": "Skiras 2",
-    "next": "Skiratai",
+    "lemma": "Σκιράς 3",
+    "previous": "Σκιράς 2",
+    "next": "Σκιρᾶται",
+    "sort_key": "Skiras 3",
+    "proof_read": 0,
     "short_description": "Dichter der italischen Komödie",
     "chapters": [
       {
         "start": 535,
-        "author": "Körte"
+        "end": 535,
+        "author": "Körte."
       }
     ]
   },
   {
-    "lemma": "Skiratai",
-    "previous": "Skiras 3",
+    "lemma": "Σκιρᾶται",
+    "previous": "Σκιράς 3",
     "next": "Skiris",
+    "sort_key": "Skiratai",
+    "proof_read": 0,
     "short_description": "Indisches Volk",
     "chapters": [
       {
         "start": 535,
-        "author": "Wecker"
+        "end": 536,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Skiris",
-    "previous": "Skiratai",
-    "next": "Skiritis 1",
+    "previous": "Σκιρᾶται",
+    "next": "Skiritis",
+    "proof_read": 0,
     "short_description": "Beiname der Artemis",
     "chapters": [
       {
         "start": 536,
-        "author": "Kock"
+        "end": 536,
+        "author": "Kock."
+      }
+    ]
+  },
+  {
+    "lemma": "Skiritis",
+    "previous": "Skiris",
+    "next": "Skiritis 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 536,
+        "end": 537,
+        "author": "Geyer."
       }
     ]
   },
   {
     "lemma": "Skiritis 1",
-    "previous": "Skiris",
+    "previous": "Skiritis",
     "next": "Skiritis 2",
+    "proof_read": 0,
     "short_description": "Landschaft in N-Lakonien",
     "chapters": [
       {
         "start": 536,
-        "author": "Geyer"
+        "end": 537,
+        "author": "Geyer."
       }
     ]
   },
@@ -10072,11 +10283,13 @@
     "lemma": "Skiritis 2",
     "previous": "Skiritis 1",
     "next": "Skiron 1",
+    "proof_read": 0,
     "short_description": "Gegend Kariens",
     "chapters": [
       {
         "start": 537,
-        "author": "Bürchner"
+        "end": 537,
+        "author": "Bürchner."
       }
     ]
   },
@@ -10084,11 +10297,13 @@
     "lemma": "Skiron 1",
     "previous": "Skiritis 2",
     "next": "Skiron 2",
+    "proof_read": 0,
     "short_description": "Megarische Sagenfigur",
     "chapters": [
       {
         "start": 537,
-        "author": "Kolf"
+        "end": 544,
+        "author": "Kolf."
       }
     ]
   },
@@ -10096,11 +10311,13 @@
     "lemma": "Skiron 2",
     "previous": "Skiron 1",
     "next": "Skiron 3",
+    "proof_read": 0,
     "short_description": "Attischer Name für den NW-Argestes",
     "chapters": [
       {
         "start": 544,
-        "author": "Kolf"
+        "end": 545,
+        "author": "Kolf."
       }
     ]
   },
@@ -10108,29 +10325,48 @@
     "lemma": "Skiron 3",
     "previous": "Skiron 2",
     "next": "Skironides",
+    "proof_read": 0,
     "short_description": "Ortschaft in Attika, später Vorort Athens",
     "chapters": [
       {
         "start": 545,
-        "author": "Geyer"
+        "end": 545,
+        "author": "Geyer."
       }
     ]
   },
   {
     "lemma": "Skironides",
     "previous": "Skiron 3",
-    "next": "Skironische Felsen",
+    "next": "Σκιρωνὶς ὁδός",
+    "proof_read": 0,
     "short_description": "Attischer Stratege",
     "chapters": [
       {
         "start": 545,
-        "author": "Swoboda, [Heinrich]"
+        "end": 546,
+        "author": "Swoboda."
+      }
+    ]
+  },
+  {
+    "lemma": "Σκιρωνὶς ὁδός",
+    "previous": "Skironides",
+    "next": "Skironische Felsen",
+    "sort_key": "Skironishodos",
+    "proof_read": 0,
+    "short_description": "Übergang von der Peloponnes nach Mittelgriechenland für Fußgänger",
+    "chapters": [
+      {
+        "start": 546,
+        "end": 546,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Skironische Felsen",
-    "previous": "Skironides",
+    "previous": "Σκιρωνὶς ὁδός",
     "next": "Skironis hodos",
     "short_description": "Steilabfall des Geraneiagebirges zum Saronischen Golf",
     "chapters": [
