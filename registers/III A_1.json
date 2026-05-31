@@ -1876,7 +1876,7 @@
   },
   {
     "lemma": "Silva 2",
-    "previous": "Silva 1",
+    "previous": "Silutum",
     "next": "Silvacus",
     "proof_read": 0,
     "short_description": "Vornehmster Decurio von Leptis um 364 n. Chr.",
@@ -6694,7 +6694,7 @@
   {
     "lemma": "Siricius",
     "previous": "Siricae",
-    "next": "Σιρίδος Ἕδρα",
+    "next": "Σιρίδος Ἔδρα",
     "proof_read": 0,
     "short_description": "Sophist",
     "chapters": [
@@ -6722,7 +6722,7 @@
   },
   {
     "lemma": "Sirimalaga",
-    "previous": "Σιρίδος Ἕδρα",
+    "previous": "Σιρίδος Ἔδρα",
     "next": "Sirini",
     "proof_read": 0,
     "short_description": "Ort",
@@ -9111,7 +9111,7 @@
     "lemma": "Skandile",
     "previous": "Σκάνδειρα",
     "next": "Skandira",
-    "redirect": "Skandeira",
+    "redirect": "Σκάνδειρα",
     "proof_read": 2,
     "chapters": [
       {
@@ -9124,7 +9124,7 @@
     "lemma": "Skandira",
     "previous": "Skandile",
     "next": "Skandos (-on?)",
-    "redirect": "Skandeira",
+    "redirect": "Σκάνδειρα",
     "proof_read": 2,
     "chapters": [
       {
@@ -9547,7 +9547,7 @@
   {
     "lemma": "Skeiron",
     "previous": "Skedasos",
-    "next": "Skeironikon Oidma",
+    "next": "Σκειρωνικὸν Οἰ̄δμα",
     "redirect": "Skiron 1",
     "proof_read": 2,
     "chapters": [
@@ -9558,20 +9558,23 @@
     ]
   },
   {
-    "lemma": "Skeironikon Oidma",
+    "lemma": "Σκειρωνικὸν Οἰ̄δμα",
     "previous": "Skeiron",
     "next": "Skelenta",
+    "sort_key": "Skeironikonoidma",
+    "proof_read": 0,
     "short_description": "Teil des Saronischen Meeres",
     "chapters": [
       {
         "start": 468,
-        "author": "Bürchner"
+        "end": 468,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Skelenta",
-    "previous": "Skeironikon Oidma",
+    "previous": "Σκειρωνικὸν Οἰ̄δμα",
     "next": "Skelentene",
     "proof_read": 0,
     "short_description": "Ort",
@@ -10367,17 +10370,20 @@
   {
     "lemma": "Skironische Felsen",
     "previous": "Σκιρωνὶς ὁδός",
-    "next": "Skironis hodos",
+    "next": "Σκιρωνὶς ὁδός",
+    "sort_key": "Skironischefelsen",
+    "proof_read": 0,
     "short_description": "Steilabfall des Geraneiagebirges zum Saronischen Golf",
     "chapters": [
       {
         "start": 546,
-        "author": "Geyer"
+        "end": 547,
+        "author": "Geyer."
       }
     ]
   },
   {
-    "lemma": "Skironis hodos",
+    "lemma": "Σκιρωνὶς ὁδός",
     "previous": "Skironische Felsen",
     "next": "Skirophoria",
     "short_description": "Übergang von der Peloponnes nach Mittelgriechenland für Fußgänger",
@@ -10390,7 +10396,7 @@
   },
   {
     "lemma": "Skirophoria",
-    "previous": "Skironis hodos",
+    "previous": "Σκιρωνὶς ὁδός",
     "next": "Skirophorion",
     "redirect": "Skira",
     "proof_read": 2,
@@ -10404,24 +10410,42 @@
   {
     "lemma": "Skirophorion",
     "previous": "Skirophoria",
-    "next": "Skiros 1",
+    "next": "Skiros",
+    "proof_read": 0,
     "short_description": "Monat des athenischen Jahres",
     "chapters": [
       {
         "start": 547,
-        "author": "Bischoff, [Ernst]"
+        "end": 547,
+        "author": "Bischoff."
+      }
+    ]
+  },
+  {
+    "lemma": "Skiros",
+    "previous": "Skirophorion",
+    "next": "Skiros 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 547,
+        "end": 547,
+        "author": "Johanna Schmidt."
       }
     ]
   },
   {
     "lemma": "Skiros 1",
-    "previous": "Skirophorion",
+    "previous": "Skiros",
     "next": "Skiros 2",
+    "proof_read": 0,
     "short_description": "Wahrsager",
     "chapters": [
       {
         "start": 547,
-        "author": "Schmidt"
+        "end": 548,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -10466,11 +10490,13 @@
     "lemma": "Skirphai",
     "previous": "Skiros 4",
     "next": "Skirtetes",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 550,
-        "author": "Geyer"
+        "end": 550,
+        "author": "Geyer."
       }
     ]
   },
@@ -10478,34 +10504,41 @@
     "lemma": "Skirtetes",
     "previous": "Skirphai",
     "next": "Skirtioi",
+    "proof_read": 0,
     "short_description": "Dichterischer Beiname Pans",
     "chapters": [
       {
         "start": 550,
-        "author": "Kock"
+        "end": 550,
+        "author": "Kock."
       }
     ]
   },
   {
     "lemma": "Skirtioi",
     "previous": "Skirtetes",
-    "next": "Skirtonion",
+    "next": "Σκίρτονες",
+    "redirect": "Scirtari",
+    "proof_read": 0,
     "short_description": "s. Scirtari",
     "chapters": [
       {
-        "start": 550
+        "start": 550,
+        "end": 550
       }
     ]
   },
   {
     "lemma": "Skirtonion",
-    "previous": "Skirtioi",
+    "previous": "Σκίρτονες",
     "next": "Skirtos 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 550,
-        "author": "Geyer"
+        "end": 550,
+        "author": "Geyer."
       }
     ]
   },
@@ -10513,11 +10546,13 @@
     "lemma": "Skirtos 1",
     "previous": "Skirtonion",
     "next": "Skirtos 2",
+    "proof_read": 0,
     "short_description": "Tänzer Satyr",
     "chapters": [
       {
         "start": 550,
-        "author": "Schmidt"
+        "end": 551,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -16252,7 +16287,7 @@
     "next": "Sopatros 2",
     "proof_read": 2,
     "short_description": "ein Urheber der Tieropfer und des attischen Festes der Buphonia",
-    "wp_link": "w:el:Σώπατρος (μυθολογία)",
+    "wp_link": "w:en:Sopater (mythology)",
     "wd_link": "d:Q16521309",
     "chapters": [
       {
