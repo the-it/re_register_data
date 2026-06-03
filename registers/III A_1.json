@@ -9547,7 +9547,7 @@
   {
     "lemma": "Skeiron",
     "previous": "Skedasos",
-    "next": "Σκειρωνικὸν Οἶδμα",
+    "next": "Σκειρωνικὸν Οἰ̄δμα",
     "redirect": "Skiron 1",
     "proof_read": 2,
     "chapters": [
@@ -9574,7 +9574,7 @@
   },
   {
     "lemma": "Skelenta",
-    "previous": "Σκειρωνικὸν Οἶδμα",
+    "previous": "Σκειρωνικὸν Οἰ̄δμα",
     "next": "Skelentene",
     "proof_read": 0,
     "short_description": "Ort",
@@ -11789,7 +11789,7 @@
   {
     "lemma": "Skylake 2",
     "previous": "Skylake 1",
-    "next": "Skylakeus",
+    "next": "Σκνλακεύς",
     "proof_read": 2,
     "short_description": "Ort",
     "chapters": [
@@ -11801,26 +11801,31 @@
     ]
   },
   {
-    "lemma": "Skylakeus",
+    "lemma": "Σκνλακεύς",
     "previous": "Skylake 2",
     "next": "Skylakios 1",
+    "sort_key": "Skylakeus",
+    "proof_read": 0,
     "short_description": "Gefährte des lykischen Glaukos",
     "chapters": [
       {
         "start": 618,
-        "author": "Zwicker"
+        "end": 618,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Skylakios 1",
-    "previous": "Skylakeus",
+    "previous": "Σκνλακεύς",
     "next": "Skylakios 2",
+    "proof_read": 0,
     "short_description": "Procos. Achaiae",
     "chapters": [
       {
         "start": 618,
-        "author": "Seeck"
+        "end": 619,
+        "author": "Seeck."
       }
     ]
   },
@@ -11828,11 +11833,13 @@
     "lemma": "Skylakios 2",
     "previous": "Skylakios 1",
     "next": "Skylakios 3",
+    "proof_read": 0,
     "short_description": "Freund des Libanios",
     "chapters": [
       {
         "start": 619,
-        "author": "Seeck"
+        "end": 619,
+        "author": "Seeck."
       }
     ]
   },
@@ -11854,11 +11861,13 @@
     "lemma": "Skylakitis",
     "previous": "Skylakios 3",
     "next": "Skylakotrophos",
+    "proof_read": 0,
     "short_description": "Beiname der Artemis-Hekate",
     "chapters": [
       {
         "start": 619,
-        "author": "Kock"
+        "end": 619,
+        "author": "Kock."
       }
     ]
   },
@@ -11866,11 +11875,13 @@
     "lemma": "Skylakotrophos",
     "previous": "Skylakitis",
     "next": "Skylax 1",
+    "proof_read": 0,
     "short_description": "Beiname von Artemis und Pan",
     "chapters": [
       {
         "start": 619,
-        "author": "Kock"
+        "end": 619,
+        "author": "Kock."
       }
     ]
   },
@@ -11924,11 +11935,13 @@
     "lemma": "Skylax 4",
     "previous": "Skylax 3",
     "next": "Skylax 5",
+    "proof_read": 0,
     "short_description": "Steinschneider",
     "chapters": [
       {
         "start": 646,
-        "author": "Sieveking"
+        "end": 646,
+        "author": "Sieveking."
       }
     ]
   },
@@ -11950,11 +11963,13 @@
     "lemma": "Skyletria",
     "previous": "Skylax 5",
     "next": "Skylios",
+    "proof_read": 0,
     "short_description": "Beiname der Athena",
     "chapters": [
       {
         "start": 646,
-        "author": "Kock"
+        "end": 646,
+        "author": "Kock."
       }
     ]
   },
@@ -11989,11 +12004,13 @@
     "lemma": "Skylla 2",
     "previous": "Skylla 1",
     "next": "Skylla 3",
+    "proof_read": 0,
     "short_description": "Tochter des Königs Nisos",
     "chapters": [
       {
         "start": 655,
-        "author": "Schmidt"
+        "end": 658,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12001,11 +12018,13 @@
     "lemma": "Skylla 3",
     "previous": "Skylla 2",
     "next": "Skylla 4",
+    "proof_read": 0,
     "short_description": "Tochter des Danaos",
     "chapters": [
       {
         "start": 658,
-        "author": "Schmidt"
+        "end": 658,
+        "author": "Johanna Schmidt."
       }
     ]
   },
@@ -12040,12 +12059,14 @@
   {
     "lemma": "Skyllaion",
     "previous": "Skyllai",
-    "next": "Σκυλλητικὸς κόλπος",
+    "next": "Σκυλλητικὸς",
+    "proof_read": 0,
     "short_description": "Östlichstes Vorgebirge der Argolis",
     "chapters": [
       {
         "start": 659,
-        "author": "Geyer"
+        "end": 660,
+        "author": "Geyer."
       }
     ]
   },
@@ -12095,11 +12116,13 @@
     "lemma": "Skyllios",
     "previous": "Skyllia",
     "next": "Skyllis",
+    "proof_read": 0,
     "short_description": "Beiname des Zeus",
     "chapters": [
       {
         "start": 660,
-        "author": "Kock"
+        "end": 660,
+        "author": "Kock."
       }
     ]
   },
@@ -12122,36 +12145,43 @@
   {
     "lemma": "Skyllitas",
     "previous": "Skyllis",
-    "next": "Skymnitai",
+    "next": "Σκυμνῖται",
+    "proof_read": 0,
     "short_description": "Beiname des Dionysos",
     "chapters": [
       {
         "start": 660,
-        "author": "Kock"
+        "end": 661,
+        "author": "Kock."
       }
     ]
   },
   {
-    "lemma": "Skymnitai",
+    "lemma": "Σκυμνῖται",
     "previous": "Skyllitas",
     "next": "Skymnos 1",
+    "sort_key": "Skymnitai",
+    "proof_read": 0,
     "short_description": "in Sarmatien",
     "chapters": [
       {
         "start": 661,
-        "author": "Kretschmer"
+        "end": 661,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Skymnos 1",
-    "previous": "Skymnitai",
+    "previous": "Σκυμνῖται",
     "next": "Skymnos 2",
+    "proof_read": 0,
     "short_description": "Geograph von Chios",
     "chapters": [
       {
         "start": 661,
-        "author": "Gisinger"
+        "end": 687,
+        "author": "F. Gisinger."
       }
     ]
   },
@@ -12159,11 +12189,13 @@
     "lemma": "Skymnos 2",
     "previous": "Skymnos 1",
     "next": "Skymnos 3",
+    "proof_read": 0,
     "short_description": "Erzgießer",
     "chapters": [
       {
         "start": 687,
-        "author": "Lippold, Georg"
+        "end": 688,
+        "author": "Lippold."
       }
     ]
   },
@@ -12185,7 +12217,7 @@
   {
     "lemma": "Σκυφία",
     "previous": "Skymnos 3",
-    "next": "Skyphios",
+    "next": "Σκύφιος",
     "sort_key": "Skyphia",
     "proof_read": 2,
     "short_description": "Ort",
@@ -12198,50 +12230,60 @@
     ]
   },
   {
-    "lemma": "Skyphios",
+    "lemma": "Σκύφιος",
     "previous": "Σκυφία",
     "next": "Skyphos",
+    "sort_key": "Skyphios",
+    "proof_read": 0,
     "short_description": "Name des Urrosses",
     "chapters": [
       {
         "start": 688,
-        "author": "Zwicker"
+        "end": 688,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Skyphos",
-    "previous": "Skyphios",
-    "next": "Skyppion",
+    "previous": "Σκύφιος",
+    "next": "Σκύππιον",
+    "proof_read": 0,
     "short_description": "Trinkgefäß",
     "chapters": [
       {
         "start": 688,
-        "author": "Nachod"
+        "end": 689,
+        "author": "Nachod."
       }
     ]
   },
   {
-    "lemma": "Skyppion",
+    "lemma": "Σκύππιον",
     "previous": "Skyphos",
     "next": "Skyras",
+    "sort_key": "Skyppion",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 689,
-        "author": "Bürchner"
+        "end": 689,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Skyras",
-    "previous": "Skyppion",
+    "previous": "Σκύππιον",
     "next": "Σκυρία δίκη",
+    "proof_read": 0,
     "short_description": "Fluß in Lakonien",
     "chapters": [
       {
         "start": 689,
-        "author": "Geyer"
+        "end": 690,
+        "author": "Geyer."
       }
     ]
   },
@@ -12264,41 +12306,48 @@
     "lemma": "Skyros 1",
     "previous": "Σκυρία δίκη",
     "next": "Skyros 2",
+    "proof_read": 0,
     "short_description": "Quellbach des Malus",
     "chapters": [
       {
         "start": 690,
-        "author": "Geyer"
+        "end": 690,
+        "author": "Geyer."
       }
     ]
   },
   {
     "lemma": "Skyros 2",
     "previous": "Skyros 1",
-    "next": "Skytale",
+    "next": "Σκυτάλη",
+    "proof_read": 0,
     "short_description": "Insel östl. Von Euboia",
     "chapters": [
       {
         "start": 690,
-        "author": "Fredrich"
+        "end": 691,
+        "author": "Fredrich."
       }
     ]
   },
   {
-    "lemma": "Skytale",
+    "lemma": "Σκυτάλη",
     "previous": "Skyros 2",
     "next": "Σκυταλισμός",
+    "sort_key": "Skytale",
+    "proof_read": 0,
     "short_description": "Abstreifholz Knüttel, Keule Briefstab, Brief bei den Spartanern",
     "chapters": [
       {
         "start": 691,
-        "author": "Oehler, J[ohann]"
+        "end": 692,
+        "author": "Oehler."
       }
     ]
   },
   {
     "lemma": "Σκυταλισμός",
-    "previous": "Skytale",
+    "previous": "Σκυτάλη",
     "next": "Skythai 1",
     "short_description": "Parteikampf in Argos",
     "chapters": [
@@ -12325,11 +12374,13 @@
     "lemma": "Skythai 2",
     "previous": "Skythai 1",
     "next": "Skythenoi",
+    "proof_read": 0,
     "short_description": "Polizeikorps in Athen",
     "chapters": [
       {
         "start": 691,
-        "author": "Oehler, J[ohann]"
+        "end": 692,
+        "author": "Oehler."
       }
     ]
   },
@@ -12337,11 +12388,13 @@
     "lemma": "Skythenoi",
     "previous": "Skythai 2",
     "next": "Skythes 1",
+    "proof_read": 0,
     "short_description": "Volk südl. von Trapezus",
     "chapters": [
       {
         "start": 692,
-        "author": "Ruge"
+        "end": 692,
+        "author": "Ruge."
       }
     ]
   },
@@ -12349,11 +12402,13 @@
     "lemma": "Skythes 1",
     "previous": "Skythenoi",
     "next": "Skythes 2",
+    "proof_read": 0,
     "short_description": "Sohn des Herakles",
     "chapters": [
       {
-        "start": 692,
-        "author": "Humborg"
+        "start": 693,
+        "end": 694,
+        "author": "Humborg."
       }
     ]
   },
@@ -12361,11 +12416,13 @@
     "lemma": "Skythes 2",
     "previous": "Skythes 1",
     "next": "Skythes 3",
+    "proof_read": 0,
     "short_description": "Vasenmaler",
     "chapters": [
       {
         "start": 694,
-        "author": "Nachod"
+        "end": 696,
+        "author": "Nachod."
       }
     ]
   },
@@ -12373,82 +12430,98 @@
     "lemma": "Skythes 3",
     "previous": "Skythes 2",
     "next": "Skythia",
+    "proof_read": 0,
     "short_description": "Sklave des Cn. Pompeius",
     "chapters": [
       {
         "start": 696,
-        "author": "Münzer"
+        "end": 696,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Skythia",
     "previous": "Skythes 3",
-    "next": "Skythias",
+    "next": "Σκνθιάς",
+    "proof_read": 0,
     "short_description": "Beiname der Artemis",
     "chapters": [
       {
         "start": 696,
-        "author": "Kock"
+        "end": 696,
+        "author": "Kock."
       }
     ]
   },
   {
-    "lemma": "Skythias",
+    "lemma": "Σκνθιάς",
     "previous": "Skythia",
     "next": "Skythinos",
+    "sort_key": "Skythias",
+    "proof_read": 0,
     "short_description": "Kastell in Mösien",
     "chapters": [
       {
         "start": 696,
-        "author": "Fluss"
+        "end": 696,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Skythinos",
-    "previous": "Skythias",
+    "previous": "Σκνθιάς",
     "next": "Skythis",
+    "proof_read": 0,
     "short_description": "Vorsokratiker von Teos",
     "chapters": [
       {
         "start": 696,
-        "author": "Jacoby, [Felix]"
+        "end": 697,
+        "author": "F. Jacoby."
       }
     ]
   },
   {
     "lemma": "Skythis",
     "previous": "Skythinos",
-    "next": "Skythranios limen",
+    "next": "Σκνθράνιος λιμήν",
+    "proof_read": 0,
     "short_description": "Nebenname der Insel Delos",
     "chapters": [
       {
         "start": 697,
-        "author": "Bürchner"
+        "end": 697,
+        "author": "Bürchner."
       }
     ]
   },
   {
-    "lemma": "Skythranios limen",
+    "lemma": "Σκνθράνιος λιμήν",
     "previous": "Skythis",
     "next": "Slaveneinfälle",
+    "sort_key": "Skythranioslimen",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 697,
-        "author": "Fischer"
+        "end": 697,
+        "author": "C. Th. Fischer."
       }
     ]
   },
   {
     "lemma": "Slaveneinfälle",
-    "previous": "Skythranios limen",
+    "previous": "Σκνθράνιος λιμήν",
     "next": "sleparis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 697,
-        "author": "Enßlin"
+        "end": 706,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12468,51 +12541,62 @@
     "lemma": "Smaragdites",
     "previous": "sleparis",
     "next": "Smaragdus mons",
+    "proof_read": 0,
     "short_description": "Berg bei Kalchedon",
     "chapters": [
       {
         "start": 706,
-        "author": "Oberhummer"
+        "end": 706,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Smaragdus mons",
     "previous": "Smaragdites",
-    "next": "Smaragos",
+    "next": "Σμάραγος",
+    "sort_key": "Smaragdusmons",
+    "proof_read": 0,
     "short_description": "Gegend der Smaragdgruben östl. vom Niltal beim Roten Meer",
     "chapters": [
       {
         "start": 706,
-        "author": "Kees"
+        "end": 708,
+        "author": "Kees."
       },
       {
-        "start": 708,
-        "author": "Honigmann"
+        "start": 709,
+        "end": 709,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Smaragos",
+    "lemma": "Σμάραγος",
     "previous": "Smaragdus mons",
     "next": "Smardos",
+    "sort_key": "Smaragos",
+    "proof_read": 0,
     "short_description": "Deleteres-Dämon",
     "chapters": [
       {
         "start": 709,
-        "author": "Zwicker"
+        "end": 709,
+        "author": "Zwicker."
       }
     ]
   },
   {
     "lemma": "Smardos",
-    "previous": "Smaragos",
+    "previous": "Σμάραγος",
     "next": "Smendes",
+    "proof_read": 0,
     "short_description": "Flüßchen in Phokaia",
     "chapters": [
       {
         "start": 709,
-        "author": "Bürchner"
+        "end": 709,
+        "author": "Bürchner."
       }
     ]
   },
@@ -12520,11 +12604,13 @@
     "lemma": "Smendes",
     "previous": "Smardos",
     "next": "Smenos",
+    "proof_read": 0,
     "short_description": "Erster Herrscher der XXI. ägyptischen Königsdynastie",
     "chapters": [
       {
         "start": 709,
-        "author": "Kees"
+        "end": 710,
+        "author": "Kees."
       }
     ]
   },
@@ -12532,11 +12618,13 @@
     "lemma": "Smenos",
     "previous": "Smendes",
     "next": "Smerdis 1",
+    "proof_read": 0,
     "short_description": "Fluß in Lakonien",
     "chapters": [
       {
         "start": 710,
-        "author": "Geyer"
+        "end": 710,
+        "author": "Geyer."
       }
     ]
   },
@@ -12544,11 +12632,13 @@
     "lemma": "Smerdis 1",
     "previous": "Smenos",
     "next": "Smerdis 2",
+    "proof_read": 0,
     "short_description": "Der echte Achaimenide, Sohn des Kyros",
     "chapters": [
       {
         "start": 710,
-        "author": "Kahrstedt"
+        "end": 711,
+        "author": "Kahrstedt."
       }
     ]
   },
@@ -12556,11 +12646,13 @@
     "lemma": "Smerdis 2",
     "previous": "Smerdis 1",
     "next": "Smerdis 3",
+    "proof_read": 0,
     "short_description": "Ahne des kappadokischen Königshauses",
     "chapters": [
       {
         "start": 711,
-        "author": "Kahrstedt"
+        "end": 711,
+        "author": "Kahrstedt."
       }
     ]
   },
@@ -12568,11 +12660,13 @@
     "lemma": "Smerdis 3",
     "previous": "Smerdis 2",
     "next": "Smertae",
+    "proof_read": 0,
     "short_description": "Der falsche Smerdis",
     "chapters": [
       {
         "start": 711,
-        "author": "Kahrstedt"
+        "end": 712,
+        "author": "Kahrstedt."
       }
     ]
   },
@@ -12580,11 +12674,13 @@
     "lemma": "Smertae",
     "previous": "Smerdis 3",
     "next": "Smertatius",
+    "proof_read": 0,
     "short_description": "Völkerschaft unweit der Spitze des nördl. Albions",
     "chapters": [
       {
         "start": 712,
-        "author": "MacDonald"
+        "end": 712,
+        "author": "MacDonald."
       }
     ]
   },
@@ -12592,11 +12688,13 @@
     "lemma": "Smertatius",
     "previous": "Smertae",
     "next": "Smertos",
+    "proof_read": 0,
     "short_description": "s. Smertrius",
     "chapters": [
       {
         "start": 712,
-        "author": "Keune"
+        "end": 712,
+        "author": "Keune."
       }
     ]
   },
@@ -12604,11 +12702,13 @@
     "lemma": "Smertos",
     "previous": "Smertatius",
     "next": "Smertrius",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 712,
-        "author": "Keune"
+        "end": 712,
+        "author": "Keune."
       }
     ]
   },
@@ -12616,11 +12716,13 @@
     "lemma": "Smertrius",
     "previous": "Smertos",
     "next": "Smertucus",
+    "proof_read": 0,
     "short_description": "Beiname des Mars bei den Treverern",
     "chapters": [
       {
         "start": 712,
-        "author": "Keune"
+        "end": 713,
+        "author": "Keune."
       }
     ]
   },
@@ -12628,11 +12730,13 @@
     "lemma": "Smertucus",
     "previous": "Smertrius",
     "next": "Smertullos",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 713,
-        "author": "Keune"
+        "end": 713,
+        "author": "Keune."
       }
     ]
   },
@@ -12640,11 +12744,13 @@
     "lemma": "Smertullos",
     "previous": "Smertucus",
     "next": "Smichias",
+    "proof_read": 0,
     "short_description": "Keltischer Name eines Gottes",
     "chapters": [
       {
         "start": 713,
-        "author": "Keune"
+        "end": 714,
+        "author": "Keune."
       }
     ]
   },
@@ -12652,11 +12758,13 @@
     "lemma": "Smichias",
     "previous": "Smertullos",
     "next": "Smikrion",
+    "proof_read": 0,
     "short_description": "Pythagoreer aus Tarent",
     "chapters": [
       {
         "start": 714,
-        "author": "Hobein"
+        "end": 714,
+        "author": "Hobein."
       }
     ]
   },
@@ -12664,11 +12772,13 @@
     "lemma": "Smikrion",
     "previous": "Smichias",
     "next": "Smikros 1",
+    "proof_read": 0,
     "short_description": "Lieblingsname auf mehreren Vasen vom Ende des 6. Jhs. v. Chr.",
     "chapters": [
       {
         "start": 715,
-        "author": "Nachod"
+        "end": 715,
+        "author": "Nachod."
       }
     ]
   },
@@ -12676,11 +12786,13 @@
     "lemma": "Smikros 1",
     "previous": "Smikrion",
     "next": "Smikros 2",
+    "proof_read": 0,
     "short_description": "Vater des Branchos",
     "chapters": [
       {
         "start": 715,
-        "author": "Kahrstedt"
+        "end": 715,
+        "author": "Kahrstedt."
       }
     ]
   },
@@ -12688,11 +12800,13 @@
     "lemma": "Smikros 2",
     "previous": "Smikros 1",
     "next": "Smikythos",
+    "proof_read": 0,
     "short_description": "Attischer Vasenmaler",
     "chapters": [
       {
         "start": 715,
-        "author": "Nachod"
+        "end": 716,
+        "author": "Nachod."
       }
     ]
   },
@@ -12700,11 +12814,13 @@
     "lemma": "Smikythos",
     "previous": "Smikros 2",
     "next": "Smila",
+    "proof_read": 0,
     "short_description": "Namensbeischrift auf strengrotfigurigen Vasen",
     "chapters": [
       {
         "start": 716,
-        "author": "Leonard"
+        "end": 717,
+        "author": "Leonard."
       }
     ]
   },
@@ -12712,11 +12828,13 @@
     "lemma": "Smila",
     "previous": "Smikythos",
     "next": "Smilax 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 717,
-        "author": "Oberhummer"
+        "end": 717,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -12739,47 +12857,57 @@
     "lemma": "Smilax 2",
     "previous": "Smilax 1",
     "next": "Smilis",
+    "proof_read": 0,
     "short_description": "Mehrere Pflanzenarten",
     "chapters": [
       {
         "start": 717,
-        "author": "Steier"
+        "end": 722,
+        "author": "Steier."
       }
     ]
   },
   {
     "lemma": "Smilis",
     "previous": "Smilax 2",
-    "next": "Sminth",
+    "next": "Sminθ",
+    "proof_read": 0,
     "short_description": "Bildhauer aus Aigina",
     "chapters": [
       {
         "start": 722,
-        "author": "Lippold, Georg"
+        "end": 723,
+        "author": "Lippold."
       }
     ]
   },
   {
-    "lemma": "Sminth",
+    "lemma": "Sminθ",
     "previous": "Smilis",
     "next": "Sminthe, Sminthos",
+    "sort_key": "Sminth",
+    "proof_read": 0,
     "short_description": "Etruskischer Namensstamm",
     "chapters": [
       {
         "start": 723,
-        "author": "Fiesel"
+        "end": 724,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Sminthe, Sminthos",
-    "previous": "Sminth",
+    "previous": "Sminθ",
     "next": "Sminthes",
+    "sort_key": "Sminthe,sminthos",
+    "proof_read": 0,
     "short_description": "Gebräuchlicher Ortsname von Sikelien bis Rhodos",
     "chapters": [
       {
         "start": 724,
-        "author": "Bürchner"
+        "end": 725,
+        "author": "Bürchner."
       }
     ]
   },
@@ -12787,11 +12915,13 @@
     "lemma": "Sminthes",
     "previous": "Sminthe, Sminthos",
     "next": "Smintheus",
+    "proof_read": 0,
     "short_description": "Verfasser eines astronomischen Lehrgedichts",
     "chapters": [
       {
         "start": 725,
-        "author": "Wickert"
+        "end": 726,
+        "author": "Wickert."
       }
     ]
   },
@@ -12814,11 +12944,13 @@
     "lemma": "Sminthia",
     "previous": "Smintheus",
     "next": "Sminthios",
+    "proof_read": 0,
     "short_description": "Fest des Smintheus",
     "chapters": [
       {
         "start": 726,
-        "author": "Pfister"
+        "end": 726,
+        "author": "Pfister."
       }
     ]
   },
@@ -12826,11 +12958,13 @@
     "lemma": "Sminthios",
     "previous": "Sminthia",
     "next": "Sminthos",
+    "proof_read": 0,
     "short_description": "Dorischer Kalendermonat in Nisyros",
     "chapters": [
       {
         "start": 726,
-        "author": "Bischoff, [Ernst]"
+        "end": 727,
+        "author": "Bischoff."
       }
     ]
   },
@@ -12865,11 +12999,13 @@
     "lemma": "Smyrna 1",
     "previous": "Smision",
     "next": "Smyrna 2",
+    "proof_read": 0,
     "short_description": "Amazone, Gründerin der Stadt Smyrna Nr. 3",
     "chapters": [
       {
         "start": 727,
-        "author": "Türk"
+        "end": 728,
+        "author": "Türk."
       }
     ]
   },
@@ -12877,11 +13013,13 @@
     "lemma": "Smyrna 2",
     "previous": "Smyrna 1",
     "next": "Smyrna 3f.",
+    "proof_read": 0,
     "short_description": "Tochter des Theias oder Kinyras",
     "chapters": [
       {
         "start": 728,
-        "author": "Türk"
+        "end": 730,
+        "author": "Türk."
       }
     ]
   },
@@ -13037,11 +13175,13 @@
     "lemma": "Snephorses",
     "previous": "snenaθ, snenati?",
     "next": "Soa",
+    "proof_read": 0,
     "short_description": "Beiname der Isis",
     "chapters": [
       {
         "start": 766,
-        "author": "Kießling, Emil"
+        "end": 767,
+        "author": "E. Kießling."
       }
     ]
   },
@@ -13049,77 +13189,92 @@
     "lemma": "Soa",
     "previous": "Snephorses",
     "next": "Soake",
+    "proof_read": 0,
     "short_description": "Ort in Phrygien",
     "chapters": [
       {
         "start": 767,
-        "author": "Ruge"
+        "end": 767,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Soake",
     "previous": "Soa",
-    "next": "Soanas 1",
+    "next": "Σοάνας 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 767,
-        "author": "Moritz, [Bernhard]"
+        "end": 767,
+        "author": "Moritz."
       }
     ]
   },
   {
-    "lemma": "Soanas 1",
+    "lemma": "Σοάνας 1",
     "previous": "Soake",
-    "next": "Soanas 2",
+    "next": "Σοάνας 2",
+    "sort_key": "Soanas 1",
+    "proof_read": 0,
     "short_description": "Grenzfluß zwischen Sarmatien und Albanien",
     "chapters": [
       {
         "start": 767,
-        "author": "Kretschmer"
+        "end": 767,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
-    "lemma": "Soanas 2",
-    "previous": "Soanas 1",
+    "lemma": "Σοάνας 2",
+    "previous": "Σοάνας 1",
     "next": "Soanda",
+    "sort_key": "Soanas 2",
+    "proof_read": 0,
     "short_description": "Fluß auf Ceylon",
     "chapters": [
       {
         "start": 767,
-        "author": "Wecker"
+        "end": 768,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Soanda",
-    "previous": "Soanas 2",
-    "next": "Soanes",
+    "previous": "Σοάνας 2",
+    "next": "Σόανες",
+    "proof_read": 0,
     "short_description": "Ort in Kappadocien",
     "chapters": [
       {
         "start": 768,
-        "author": "Ruge"
+        "end": 768,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Soanes",
+    "lemma": "Σόανες",
     "previous": "Soanda",
     "next": "Soanoi",
+    "sort_key": "Soanes",
+    "proof_read": 0,
     "short_description": "Kaukasisches Bergvolk",
     "chapters": [
       {
         "start": 768,
-        "author": "Kretschmer"
+        "end": 769,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Soanoi",
-    "previous": "Soanes",
+    "previous": "Σόανες",
     "next": "Soanos",
     "redirect": "Soanas 2",
     "proof_read": 2,
@@ -13134,11 +13289,13 @@
     "lemma": "Soanos",
     "previous": "Soanoi",
     "next": "Σοαωνεῖς",
+    "proof_read": 0,
     "short_description": "Oestl. Nebenfluß des Indus",
     "chapters": [
       {
         "start": 769,
-        "author": "Wecker"
+        "end": 769,
+        "author": "Wecker."
       }
     ]
   },
@@ -13161,11 +13318,13 @@
     "lemma": "Soara",
     "previous": "Σοαωνεῖς",
     "next": "Soas",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 770,
-        "author": "Wecker"
+        "end": 770,
+        "author": "Wecker."
       }
     ]
   },
@@ -13173,11 +13332,13 @@
     "lemma": "Soas",
     "previous": "Soara",
     "next": "Soatra",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Ganges",
     "chapters": [
       {
         "start": 770,
-        "author": "Wecker"
+        "end": 770,
+        "author": "Wecker."
       }
     ]
   },
@@ -13198,11 +13359,13 @@
     "lemma": "Soatris",
     "previous": "Soatra",
     "next": "Sobagena",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 770,
-        "author": "Fluss"
+        "end": 770,
+        "author": "Fluss."
       }
     ]
   },
@@ -13210,10 +13373,12 @@
     "lemma": "Sobagena",
     "previous": "Soatris",
     "next": "Σώβαλα",
+    "proof_read": 0,
     "short_description": "Auf einer Inschrift aus Khurman Kalesi in Kappadokien genannt s. Sabagena",
     "chapters": [
       {
         "start": 770,
+        "end": 770,
         "author": "Ruge."
       }
     ]
@@ -13221,7 +13386,7 @@
   {
     "lemma": "Σώβαλα",
     "previous": "Sobagena",
-    "next": "Sobanos",
+    "next": "Σώβανος",
     "sort_key": "Sobala",
     "proof_read": 2,
     "short_description": "Ortsname",
@@ -13234,21 +13399,24 @@
     ]
   },
   {
-    "lemma": "Sobanos",
+    "lemma": "Σώβανος",
     "previous": "Σώβαλα",
     "next": "Σόβαρα",
+    "sort_key": "Sobanos",
+    "proof_read": 0,
     "short_description": "Fluß in India extra Gangem",
     "chapters": [
       {
         "start": 770,
-        "author": "Kretschmer"
+        "end": 770,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Σόβαρα",
-    "previous": "Sobanos",
-    "next": "Sobidai",
+    "previous": "Σώβανος",
+    "next": "Σωβίδαι",
     "sort_key": "Sobara",
     "proof_read": 2,
     "short_description": "Ortsname",
@@ -13261,20 +13429,23 @@
     ]
   },
   {
-    "lemma": "Sobidai",
+    "lemma": "Σωβίδαι",
     "previous": "Σόβαρα",
     "next": "Σοβορίδαι",
+    "sort_key": "Sobidai",
+    "proof_read": 0,
     "short_description": "Volksstamm der Provinz Parthia",
     "chapters": [
       {
         "start": 770,
-        "author": "Kretschmer"
+        "end": 770,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Σοβορίδαι",
-    "previous": "Sobidai",
+    "previous": "Σωβίδαι",
     "next": "Sobrica",
     "sort_key": "Soboridai",
     "redirect": "Σεβρῖται",
@@ -13319,11 +13490,13 @@
     "lemma": "Soc.",
     "previous": "Sobura",
     "next": "Socco",
+    "proof_read": 0,
     "short_description": "Zeichnung der Erzeugnisse einer Ziegelei und mehrerer Töpfereien",
     "chapters": [
       {
         "start": 770,
-        "author": "Keune"
+        "end": 771,
+        "author": "Keune."
       }
     ]
   },
@@ -13345,11 +13518,13 @@
     "lemma": "Soccus",
     "previous": "Socco",
     "next": "Σῶχα",
+    "proof_read": 0,
     "short_description": "Leichter griechischer Schuh",
     "chapters": [
       {
         "start": 771,
-        "author": "Honigmann"
+        "end": 772,
+        "author": "Honigmann."
       }
     ]
   },
@@ -13441,11 +13616,13 @@
     "lemma": "Socius",
     "previous": "Societas, Socii",
     "next": "Socrates",
+    "proof_read": 0,
     "short_description": "Gehilfe eines Verbrechers",
     "chapters": [
       {
         "start": 781,
-        "author": "Pfaff"
+        "end": 784,
+        "author": "Pfaff."
       }
     ]
   },
@@ -13453,11 +13630,13 @@
     "lemma": "Socrates",
     "previous": "Socius",
     "next": "Socratu",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 784,
-        "author": "Keune"
+        "end": 784,
+        "author": "Keune."
       }
     ]
   },
@@ -13465,11 +13644,13 @@
     "lemma": "Socratu",
     "previous": "Socrates",
     "next": "Sodalicium",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 784,
-        "author": "Ruge"
+        "end": 784,
+        "author": "Ruge."
       }
     ]
   },
@@ -13477,11 +13658,13 @@
     "lemma": "Sodalicium",
     "previous": "Socratu",
     "next": "Sodalis",
+    "proof_read": 0,
     "short_description": "Besonders gefährliche Kategorie des Ambitus",
     "chapters": [
       {
         "start": 784,
-        "author": "Pfaff"
+        "end": 785,
+        "author": "Pfaff."
       }
     ]
   },
@@ -13489,11 +13672,13 @@
     "lemma": "Sodalis",
     "previous": "Sodalicium",
     "next": "Sodalitas",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 785,
-        "author": "Keune"
+        "end": 785,
+        "author": "Keune."
       }
     ]
   },
@@ -13501,11 +13686,13 @@
     "lemma": "Sodalitas",
     "previous": "Sodalis",
     "next": "Sodarus",
+    "proof_read": 0,
     "short_description": "Sakrale Bruderschaft",
     "chapters": [
       {
         "start": 785,
-        "author": "Ziebarth"
+        "end": 786,
+        "author": "Ziebarth."
       }
     ]
   },
@@ -13513,11 +13700,13 @@
     "lemma": "Sodarus",
     "previous": "Sodalitas",
     "next": "Sodi",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Kophen in Arachosien",
     "chapters": [
       {
         "start": 786,
-        "author": "Wecker"
+        "end": 786,
+        "author": "Wecker."
       }
     ]
   },
@@ -13538,18 +13727,20 @@
     "lemma": "Sodii",
     "previous": "Sodi",
     "next": "Sodinus",
+    "proof_read": 0,
     "short_description": "Volksstamm im östl. Kaukasus",
     "chapters": [
       {
         "start": 786,
-        "author": "Kretschmer"
+        "end": 786,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Sodinus",
     "previous": "Sodii",
-    "next": "Sodisium",
+    "next": "Sodisinum",
     "proof_read": 2,
     "short_description": "Schiffbarer Nebenfluß des Cophes s. Sodarus",
     "no_creative_height": true,
@@ -13562,11 +13753,11 @@
     ]
   },
   {
-    "lemma": "Sodisium",
+    "lemma": "Sodisinum",
     "previous": "Sodinus",
     "next": "Sodobria",
     "redirect": "Senus 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 786,
@@ -13576,31 +13767,36 @@
   },
   {
     "lemma": "Sodobria",
-    "previous": "Sodisium",
-    "next": "Sodoma",
+    "previous": "Sodisinum",
+    "next": "Σόδομα",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 786,
-        "author": "Keune"
+        "end": 786,
+        "author": "Keune."
       }
     ]
   },
   {
-    "lemma": "Sodoma",
+    "lemma": "Σόδομα",
     "previous": "Sodobria",
-    "next": "Sodoukene",
+    "next": "Sodrai",
+    "sort_key": "Sodoma",
+    "proof_read": 0,
     "short_description": "Stadt südl. des Toten Meeres",
     "chapters": [
       {
         "start": 786,
-        "author": "Honigmann"
+        "end": 787,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sodoukene",
-    "previous": "Sodoma",
+    "previous": "Σόδομα",
     "next": "Sodrai",
     "short_description": "Großarmenische Landschaft",
     "chapters": [
@@ -13612,20 +13808,22 @@
   },
   {
     "lemma": "Sodrai",
-    "previous": "Sodoukene",
-    "next": "Σόειτα",
+    "previous": "Σόδομα",
+    "next": "Σοδουκηνή",
+    "proof_read": 0,
     "short_description": "Volk unterhalb der Einmündung des Fünfstroms in den Indus",
     "chapters": [
       {
         "start": 787,
-        "author": "Wecker"
+        "end": 787,
+        "author": "Wecker."
       }
     ]
   },
   {
     "lemma": "Σόειτα",
-    "previous": "Sodrai",
-    "next": "Sofonius Tigellinus",
+    "previous": "Σοδουκηνή",
+    "next": "Sofonius",
     "sort_key": "Soeita",
     "proof_read": 2,
     "short_description": "Ortsname",
@@ -13638,9 +13836,9 @@
     ]
   },
   {
-    "lemma": "Sofonius Tigellinus",
+    "lemma": "Sofonius",
     "previous": "Σόειτα",
-    "next": "Sogane 1",
+    "next": "Σωγάνη 1",
     "redirect": "Ofonius Tigellinus",
     "proof_read": 2,
     "chapters": [
@@ -13651,38 +13849,46 @@
     ]
   },
   {
-    "lemma": "Sogane 1",
-    "previous": "Sofonius Tigellinus",
-    "next": "Sogane 2",
+    "lemma": "Σωγάνη 1",
+    "previous": "Sofonius",
+    "next": "Σωγάνη 2",
+    "sort_key": "Sogane 1",
+    "proof_read": 0,
     "short_description": "Kome der Gaulanitis",
     "chapters": [
       {
         "start": 787,
-        "author": "Honigmann"
+        "end": 788,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Sogane 2",
-    "previous": "Sogane 1",
+    "lemma": "Σωγάνη 2",
+    "previous": "Σωγάνη 1",
     "next": "Sogdiana",
+    "sort_key": "Sogane 2",
+    "proof_read": 0,
     "short_description": "Kome in Galilaia",
     "chapters": [
       {
         "start": 788,
-        "author": "Honigmann"
+        "end": 788,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Sogdiana",
-    "previous": "Sogane 2",
+    "previous": "Σωγάνη 2",
     "next": "Sogdianus",
+    "proof_read": 0,
     "short_description": "Nördlichste Landschaft des Perserreiches",
     "chapters": [
       {
         "start": 788,
-        "author": "Kretschmer"
+        "end": 791,
+        "author": "K. Kretschmer."
       }
     ]
   },
@@ -13690,11 +13896,13 @@
     "lemma": "Sogdianus",
     "previous": "Sogdiana",
     "next": "Sogdoi",
+    "proof_read": 0,
     "short_description": "Halbbruder des Xerxes II",
     "chapters": [
       {
         "start": 791,
-        "author": "Weissbach"
+        "end": 793,
+        "author": "Weissbach."
       }
     ]
   },
@@ -13702,11 +13910,13 @@
     "lemma": "Sogdoi",
     "previous": "Sogdianus",
     "next": "Sogenes 1",
+    "proof_read": 0,
     "short_description": "Von Alexander d. Gr. angelegte Stadt im Land der Sogdoi",
     "chapters": [
       {
         "start": 793,
-        "author": "Wecker"
+        "end": 793,
+        "author": "Wecker."
       }
     ]
   },
@@ -13714,11 +13924,13 @@
     "lemma": "Sogenes 1",
     "previous": "Sogdoi",
     "next": "Sogenes 2",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 793,
-        "author": "Kroll"
+        "end": 793,
+        "author": "Kroll."
       }
     ]
   },
@@ -13740,11 +13952,13 @@
     "lemma": "Sogenes 3",
     "previous": "Sogenes 2",
     "next": "Sogiontense",
+    "proof_read": 0,
     "short_description": "Bildhauer aus Paros",
     "chapters": [
       {
         "start": 794,
-        "author": "Lippold, Georg"
+        "end": 794,
+        "author": "Lippold."
       }
     ]
   },
@@ -13752,11 +13966,13 @@
     "lemma": "Sogiontense",
     "previous": "Sogenes 3",
     "next": "Sogiontii",
+    "proof_read": 0,
     "short_description": "Landschaft um Sion",
     "chapters": [
       {
         "start": 794,
-        "author": "Keune"
+        "end": 794,
+        "author": "Keune."
       }
     ]
   },
@@ -13764,11 +13980,13 @@
     "lemma": "Sogiontii",
     "previous": "Sogiontense",
     "next": "Σογοκάρα",
+    "proof_read": 0,
     "short_description": "Völkerschaft in den Alpen",
     "chapters": [
       {
         "start": 794,
-        "author": "Keune"
+        "end": 795,
+        "author": "Keune."
       }
     ]
   },
@@ -13805,11 +14023,13 @@
     "lemma": "Sohaemus 1",
     "previous": "Sohaemias",
     "next": "Sohaemus 2",
+    "proof_read": 0,
     "short_description": "Angesehener Mann aus Petra",
     "chapters": [
       {
         "start": 795,
-        "author": "Stein, [Arthur]"
+        "end": 795,
+        "author": "Stein."
       }
     ]
   },
@@ -13817,11 +14037,13 @@
     "lemma": "Sohaemus 2",
     "previous": "Sohaemus 1",
     "next": "Sohaemus 3",
+    "proof_read": 0,
     "short_description": "Hofbeamter des Herodes",
     "chapters": [
       {
         "start": 795,
-        "author": "Stein, [Arthur]"
+        "end": 796,
+        "author": "Stein."
       }
     ]
   },
@@ -13829,11 +14051,13 @@
     "lemma": "Sohaemus 3",
     "previous": "Sohaemus 2",
     "next": "Sohaemus 4",
+    "proof_read": 0,
     "short_description": "Herrscher der Ituraeer auch Soëmus geschrieben",
     "chapters": [
       {
         "start": 796,
-        "author": "Stein, [Arthur]"
+        "end": 796,
+        "author": "Stein."
       }
     ]
   },
@@ -13841,11 +14065,13 @@
     "lemma": "Sohaemus 4",
     "previous": "Sohaemus 3",
     "next": "Sohaemus 5",
+    "proof_read": 0,
     "short_description": "König von Emesa um 72 n.Chr.",
     "chapters": [
       {
         "start": 796,
-        "author": "Stein, [Arthur]"
+        "end": 798,
+        "author": "Stein."
       }
     ]
   },
@@ -13853,42 +14079,48 @@
     "lemma": "Sohaemus 5",
     "previous": "Sohaemus 4",
     "next": "Sohaemus 6",
+    "proof_read": 0,
     "short_description": "König von Großarmenien",
     "chapters": [
       {
         "start": 798,
-        "author": "Stein, [Arthur]"
+        "end": 798,
+        "author": "Stein."
       }
     ]
   },
   {
     "lemma": "Sohaemus 6",
     "previous": "Sohaemus 5",
-    "next": "Soiacus",
+    "next": "Soiacus, -um",
+    "proof_read": 0,
     "short_description": "Consular zur Zeit Valerians",
     "chapters": [
       {
         "start": 798,
-        "author": "Miltner, Franz"
+        "end": 798,
+        "author": "Miltner."
       }
     ]
   },
   {
-    "lemma": "Soiacus",
+    "lemma": "Soiacus, -um",
     "previous": "Sohaemus 6",
     "next": "Soïdas",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 798,
-        "author": "Keune"
+        "end": 799,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Soïdas",
-    "previous": "Soiacus",
-    "next": "Soiellus",
+    "previous": "Soiacus, -um",
+    "next": "Soiellus (?)",
     "proof_read": 2,
     "short_description": "s. Menaichmos Nr. 4",
     "chapters": [
@@ -13900,26 +14132,31 @@
     ]
   },
   {
-    "lemma": "Soiellus",
+    "lemma": "Soiellus (?)",
     "previous": "Soïdas",
     "next": "Soikunios",
+    "sort_key": "Soiellus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 799,
-        "author": "Keune"
+        "end": 799,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Soikunios",
-    "previous": "Soiellus",
+    "previous": "Soiellus (?)",
     "next": "Sointense",
+    "proof_read": 0,
     "short_description": "Aegyptischer König bei Eratosthenes",
     "chapters": [
       {
         "start": 799,
-        "author": "Kees"
+        "end": 799,
+        "author": "Kees."
       }
     ]
   },
@@ -13940,11 +14177,13 @@
     "lemma": "Soio",
     "previous": "Sointense",
     "next": "Soissionas",
+    "proof_read": 0,
     "short_description": "Örtliche Göttin an der Rhone",
     "chapters": [
       {
         "start": 799,
-        "author": "Keune"
+        "end": 800,
+        "author": "Keune."
       }
     ]
   },
@@ -13952,41 +14191,48 @@
     "lemma": "Soissionas",
     "previous": "Soio",
     "next": "Soita",
+    "proof_read": 0,
     "short_description": "Suessiones",
     "chapters": [
       {
         "start": 800,
-        "author": "Keune"
+        "end": 800,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Soita",
     "previous": "Soissionas",
-    "next": "Sokanda",
+    "next": "Σωκάνδα",
+    "proof_read": 0,
     "short_description": "Stadt im SW von Scythia extra Imaum",
     "chapters": [
       {
         "start": 800,
-        "author": "Herrmann"
+        "end": 801,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Sokanda",
+    "lemma": "Σωκάνδα",
     "previous": "Soita",
     "next": "Sokla",
+    "sort_key": "Sokanda",
+    "proof_read": 0,
     "short_description": "Fluß in Hyrkanien",
     "chapters": [
       {
         "start": 801,
-        "author": "Kretschmer"
+        "end": 801,
+        "author": "K. Kretschmer."
       }
     ]
   },
   {
     "lemma": "Sokla",
-    "previous": "Sokanda",
+    "previous": "Σωκάνδα",
     "next": "Soklaros 1",
     "redirect": "Pogla",
     "proof_read": 2,
@@ -14001,11 +14247,13 @@
     "lemma": "Soklaros 1",
     "previous": "Sokla",
     "next": "Soklaros 2",
+    "proof_read": 0,
     "short_description": "Ältester Sohn Plutarchs",
     "chapters": [
       {
         "start": 801,
-        "author": "Stein, [Arthur]"
+        "end": 801,
+        "author": "Stein."
       }
     ]
   },
@@ -14028,11 +14276,13 @@
     "lemma": "Soklaros 3",
     "previous": "Soklaros 2",
     "next": "Sokles 1",
+    "proof_read": 0,
     "short_description": "Sohn des Aristion",
     "chapters": [
       {
         "start": 801,
-        "author": "Stein, [Arthur]"
+        "end": 802,
+        "author": "Stein."
       }
     ]
   },
@@ -14040,11 +14290,13 @@
     "lemma": "Sokles 1",
     "previous": "Soklaros 3",
     "next": "Sokles 2",
+    "proof_read": 0,
     "short_description": "Attischer Töpfer",
     "chapters": [
       {
         "start": 802,
-        "author": "Nachod"
+        "end": 802,
+        "author": "Nachod."
       }
     ]
   },
@@ -14052,11 +14304,13 @@
     "lemma": "Sokles 2",
     "previous": "Sokles 1",
     "next": "Soklos",
+    "proof_read": 0,
     "short_description": "Chirurg",
     "chapters": [
       {
         "start": 802,
-        "author": "Kind"
+        "end": 802,
+        "author": "Kind."
       }
     ]
   },
@@ -14064,11 +14318,13 @@
     "lemma": "Soklos",
     "previous": "Sokles 2",
     "next": "Soknopaios",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 802,
-        "author": "Lippold, Georg"
+        "end": 802,
+        "author": "Lippold."
       }
     ]
   },
@@ -14089,11 +14345,14 @@
     "lemma": "Soknopaiu Nesos",
     "previous": "Soknopaios",
     "next": "Sokos 1",
+    "sort_key": "Soknopaiunesos",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 802,
-        "author": "Kees"
+        "end": 803,
+        "author": "Kees."
       }
     ]
   },
@@ -14101,11 +14360,13 @@
     "lemma": "Sokos 1",
     "previous": "Soknopaiu Nesos",
     "next": "Sokos 2",
+    "proof_read": 0,
     "short_description": "Epiklesis des Hermes?",
     "chapters": [
       {
         "start": 803,
-        "author": "Kroll"
+        "end": 803,
+        "author": "Kroll."
       }
     ]
   },
@@ -14113,11 +14374,13 @@
     "lemma": "Sokos 2",
     "previous": "Sokos 1",
     "next": "Sokos 3",
+    "proof_read": 0,
     "short_description": "Troer",
     "chapters": [
       {
         "start": 803,
-        "author": "Kroll"
+        "end": 803,
+        "author": "Kroll."
       }
     ]
   },
@@ -14125,11 +14388,13 @@
     "lemma": "Sokos 3",
     "previous": "Sokos 2",
     "next": "Σοκόσσιοι",
+    "proof_read": 0,
     "short_description": "Gatte der Kombe",
     "chapters": [
       {
         "start": 803,
-        "author": "Kroll"
+        "end": 803,
+        "author": "Kroll."
       }
     ]
   },
@@ -14165,11 +14430,13 @@
     "lemma": "Sokrates 1",
     "previous": "Sokrates",
     "next": "Sokrates 2",
+    "proof_read": 0,
     "short_description": "Truppenführer unter Demetrios II",
     "chapters": [
       {
-        "start": 803,
-        "author": "Schoch"
+        "start": 804,
+        "end": 804,
+        "author": "Schoch."
       }
     ]
   },
@@ -14177,11 +14444,13 @@
     "lemma": "Sokrates 2",
     "previous": "Sokrates 1",
     "next": "Sokrates 3",
+    "proof_read": 0,
     "short_description": "Epigrammdichter in Anth. Pal. 14",
     "chapters": [
       {
         "start": 803,
-        "author": "Geffcken"
+        "end": 803,
+        "author": "Geffcken."
       }
     ]
   },
@@ -14189,11 +14458,13 @@
     "lemma": "Sokrates 3",
     "previous": "Sokrates 2",
     "next": "Sokrates 4",
+    "proof_read": 0,
     "short_description": "Griechischer Grammatiker",
     "chapters": [
       {
         "start": 803,
-        "author": "Gudeman"
+        "end": 810,
+        "author": "Gudeman."
       }
     ]
   },
@@ -14201,11 +14472,13 @@
     "lemma": "Sokrates 4",
     "previous": "Sokrates 3",
     "next": "Sokrates 5",
+    "proof_read": 0,
     "short_description": "Autor einer Geschichte der Bürgerkriege aus Rhodos",
     "chapters": [
       {
         "start": 810,
-        "author": "Laqueur"
+        "end": 811,
+        "author": "Laqueur."
       }
     ]
   },
@@ -14259,11 +14532,13 @@
     "lemma": "Sokrates 8",
     "previous": "Sokrates 7",
     "next": "Sokrates 9",
+    "proof_read": 0,
     "short_description": "Maler",
     "chapters": [
       {
         "start": 891,
-        "author": "Lippold, Georg"
+        "end": 891,
+        "author": "Lippold."
       }
     ]
   },
@@ -14271,11 +14546,13 @@
     "lemma": "Sokrates 9",
     "previous": "Sokrates 8",
     "next": "Sokrates 10",
+    "proof_read": 0,
     "short_description": "Bildhauer von Theben",
     "chapters": [
       {
         "start": 891,
-        "author": "Lippold, Georg"
+        "end": 892,
+        "author": "Lippold."
       }
     ]
   },
@@ -14283,11 +14560,13 @@
     "lemma": "Sokrates 10",
     "previous": "Sokrates 9",
     "next": "Sokrates 11",
+    "proof_read": 0,
     "short_description": "Lieblingsname auf strengrotfigurigen Gefäßen",
     "chapters": [
       {
         "start": 892,
-        "author": "Leonard"
+        "end": 892,
+        "author": "Leonard."
       }
     ]
   },
@@ -14295,11 +14574,13 @@
     "lemma": "Sokrates 11",
     "previous": "Sokrates 10",
     "next": "Sokrates Scholasticus",
+    "proof_read": 0,
     "short_description": "Chirurg",
     "chapters": [
       {
         "start": 892,
-        "author": "Kind"
+        "end": 892,
+        "author": "Kind."
       }
     ]
   },
@@ -14307,11 +14588,14 @@
     "lemma": "Sokrates Scholasticus",
     "previous": "Sokrates 11",
     "next": "Sokratides 1",
+    "sort_key": "Sokratesscholasticus",
+    "proof_read": 0,
     "short_description": "Kirchengeschichtsschreiber",
     "chapters": [
       {
         "start": 892,
-        "author": "Eltester"
+        "end": 901,
+        "author": "Eltester."
       }
     ]
   },
@@ -14347,11 +14631,13 @@
     "lemma": "Sokratikos",
     "previous": "Sokratides 2",
     "next": "Sokration 1",
+    "proof_read": 0,
     "short_description": "Aelius Socraticus, epitropos Sebastou",
     "chapters": [
       {
         "start": 901,
-        "author": "Stein, [Arthur]"
+        "end": 901,
+        "author": "Stein."
       }
     ]
   },
@@ -14359,11 +14645,13 @@
     "lemma": "Sokration 1",
     "previous": "Sokratikos",
     "next": "Sokration 2",
+    "proof_read": 0,
     "short_description": "Helfershelfer des Statthalters Piso",
     "chapters": [
       {
         "start": 901,
-        "author": "Münzer"
+        "end": 901,
+        "author": "Münzer."
       }
     ]
   },
@@ -14443,11 +14731,13 @@
     "lemma": "Solana",
     "previous": "Sol 3",
     "next": "Solanades",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 913,
-        "author": "Herrmann"
+        "end": 913,
+        "author": "Herrmann."
       }
     ]
   },
@@ -14455,11 +14745,13 @@
     "lemma": "Solanades",
     "previous": "Solana",
     "next": "Solanon",
+    "proof_read": 0,
     "short_description": "Inseln an der Küste Arabiens",
     "chapters": [
       {
         "start": 913,
-        "author": "Honigmann"
+        "end": 913,
+        "author": "Honigmann."
       }
     ]
   },
@@ -14481,11 +14773,13 @@
     "lemma": "Solanus",
     "previous": "Solanon",
     "next": "Solarianum",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 914,
-        "author": "Keune"
+        "end": 914,
+        "author": "Keune."
       }
     ]
   },
@@ -14506,11 +14800,13 @@
     "lemma": "Solarium 1",
     "previous": "Solarianum",
     "next": "Solarium 1a",
+    "proof_read": 0,
     "short_description": "Ortschaften, nach der Sonnenuhr benannt",
     "chapters": [
       {
         "start": 914,
-        "author": "Keune"
+        "end": 914,
+        "author": "Keune."
       }
     ]
   },
@@ -14518,11 +14814,13 @@
     "lemma": "Solarium 1a",
     "previous": "Solarium 1",
     "next": "Solarium 1b",
+    "proof_read": 0,
     "short_description": "Ort bei Florentia",
     "chapters": [
       {
         "start": 914,
-        "author": "Keune"
+        "end": 914,
+        "author": "Keune."
       }
     ]
   },
@@ -14530,11 +14828,13 @@
     "lemma": "Solarium 1b",
     "previous": "Solarium 1a",
     "next": "Solarium 1c",
+    "proof_read": 0,
     "short_description": "Ort zwischen Luna und Genua",
     "chapters": [
       {
         "start": 914,
-        "author": "Keune"
+        "end": 914,
+        "author": "Keune."
       }
     ]
   },
@@ -14542,11 +14842,13 @@
     "lemma": "Solarium 1c",
     "previous": "Solarium 1b",
     "next": "Solarium 1d",
+    "proof_read": 0,
     "short_description": "Ort bei Massilia",
     "chapters": [
       {
         "start": 914,
-        "author": "Keune"
+        "end": 914,
+        "author": "Keune."
       }
     ]
   },
@@ -14554,11 +14856,13 @@
     "lemma": "Solarium 1d",
     "previous": "Solarium 1c",
     "next": "Solarium 1e",
+    "proof_read": 0,
     "short_description": "Ort an der Straße Castula - Valentia",
     "chapters": [
       {
         "start": 914,
-        "author": "Keune"
+        "end": 914,
+        "author": "Keune."
       }
     ]
   },
@@ -14566,11 +14870,13 @@
     "lemma": "Solarium 1e",
     "previous": "Solarium 1d",
     "next": "Solarium 2",
+    "proof_read": 0,
     "short_description": "Orte in nachrömischen Quellen",
     "chapters": [
       {
         "start": 914,
-        "author": "Keune"
+        "end": 914,
+        "author": "Keune."
       }
     ]
   },
@@ -14578,11 +14884,13 @@
     "lemma": "Solarium 2",
     "previous": "Solarium 1e",
     "next": "Solarium 3",
+    "proof_read": 0,
     "short_description": "Flaches Dach auf dem Oberstock des Hauses",
     "chapters": [
       {
         "start": 914,
-        "author": "Ebert"
+        "end": 915,
+        "author": "Ebert."
       }
     ]
   },
@@ -14590,11 +14898,13 @@
     "lemma": "Solarium 3",
     "previous": "Solarium 2",
     "next": "Solarium 4",
+    "proof_read": 0,
     "short_description": "Flaches Dach einer Säulenhalle",
     "chapters": [
       {
         "start": 915,
-        "author": "Ebert"
+        "end": 915,
+        "author": "Ebert."
       }
     ]
   },
@@ -14602,10 +14912,13 @@
     "lemma": "Solarium 4",
     "previous": "Solarium 3",
     "next": "Solasus",
+    "redirect": "Horologium",
+    "proof_read": 0,
     "short_description": "Sonnenuhr s. Horologium",
     "chapters": [
       {
-        "start": 915
+        "start": 915,
+        "end": 915
       }
     ]
   },
@@ -14613,11 +14926,13 @@
     "lemma": "Solasus",
     "previous": "Solarium 4",
     "next": "Σολβανοῦ",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 915,
-        "author": "Keune"
+        "end": 915,
+        "author": "Keune."
       }
     ]
   },
@@ -14640,11 +14955,13 @@
     "lemma": "Soldurii",
     "previous": "Σολβανοῦ",
     "next": "Sole",
+    "proof_read": 0,
     "short_description": "Leute, die sich ihrem gewählten Führer auf Leben und Tod verpflichtet haben",
     "chapters": [
       {
         "start": 915,
-        "author": "Fiebiger"
+        "end": 915,
+        "author": "Fiebiger."
       }
     ]
   },
@@ -14694,11 +15011,14 @@
     "lemma": "Solemium, Solemnium",
     "previous": "Soleadae",
     "next": "Solemniacus",
+    "sort_key": "Solemium,solemnium",
+    "proof_read": 0,
     "short_description": "Schenkung König Childeberts III an St. Denis",
     "chapters": [
       {
         "start": 916,
-        "author": "Keune"
+        "end": 916,
+        "author": "Keune."
       }
     ]
   },
@@ -14719,11 +15039,13 @@
     "lemma": "Solemnis",
     "previous": "Solemniacus",
     "next": "Solemnium",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 916,
-        "author": "Keune"
+        "end": 916,
+        "author": "Keune."
       }
     ]
   },
@@ -14744,11 +15066,13 @@
     "lemma": "Solen",
     "previous": "Solemnium",
     "next": "Solentia",
+    "proof_read": 0,
     "short_description": "Fluß im südöstl. Dekhan",
     "chapters": [
       {
         "start": 916,
-        "author": "Wecker"
+        "end": 916,
+        "author": "Wecker."
       }
     ]
   },
@@ -14756,11 +15080,13 @@
     "lemma": "Solentia",
     "previous": "Solen",
     "next": "Soletum",
+    "proof_read": 0,
     "short_description": "Dalmatinische Insel",
     "chapters": [
       {
         "start": 916,
-        "author": "Fluss"
+        "end": 917,
+        "author": "Fluss."
       }
     ]
   },
@@ -14768,11 +15094,13 @@
     "lemma": "Soletum",
     "previous": "Solentia",
     "next": "Solia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 917,
-        "author": "Schulten"
+        "end": 917,
+        "author": "Fluss."
       }
     ]
   },
@@ -14797,11 +15125,13 @@
     "lemma": "Soliacus",
     "previous": "Solia",
     "next": "Solianus",
+    "proof_read": 0,
     "short_description": "Ort s. Sauliacus",
     "chapters": [
       {
         "start": 917,
-        "author": "Keune"
+        "end": 917,
+        "author": "Keune."
       }
     ]
   },
@@ -14809,11 +15139,13 @@
     "lemma": "Solianus",
     "previous": "Soliacus",
     "next": "Soliceli",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 917,
-        "author": "Keune"
+        "end": 917,
+        "author": "Keune."
       }
     ]
   },
@@ -14821,11 +15153,13 @@
     "lemma": "Soliceli",
     "previous": "Solianus",
     "next": "Solicia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 917,
-        "author": "Keune"
+        "end": 917,
+        "author": "Keune."
       }
     ]
   },
@@ -14833,11 +15167,13 @@
     "lemma": "Solicia",
     "previous": "Soliceli",
     "next": "Soliciacus",
+    "proof_read": 0,
     "short_description": "Ort im Gebiet der Leuci Soulosse",
     "chapters": [
       {
         "start": 917,
-        "author": "Keune"
+        "end": 920,
+        "author": "Keune."
       }
     ]
   },
@@ -14859,11 +15195,13 @@
     "lemma": "Solicinium",
     "previous": "Soliciacus",
     "next": "Solidus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 920,
-        "author": "Schönfeld"
+        "end": 920,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -14871,11 +15209,13 @@
     "lemma": "Solidus",
     "previous": "Solicinium",
     "next": "Solienses",
+    "proof_read": 0,
     "short_description": "Römisches Einheitsgoldstück seit Constantinus I",
     "chapters": [
       {
         "start": 920,
-        "author": "Regling"
+        "end": 926,
+        "author": "Regling."
       }
     ]
   },
@@ -14883,11 +15223,13 @@
     "lemma": "Solienses",
     "previous": "Solidus",
     "next": "Solimara",
+    "proof_read": 0,
     "short_description": "Ethnikon eines Ortsnamens in Hispania Baetica",
     "chapters": [
       {
         "start": 926,
-        "author": "Keune"
+        "end": 926,
+        "author": "Keune."
       }
     ]
   },
@@ -14895,11 +15237,13 @@
     "lemma": "Solimara",
     "previous": "Solienses",
     "next": "Solimariaca",
+    "proof_read": 0,
     "short_description": "Keltischer Name einer Göttin",
     "chapters": [
       {
         "start": 926,
-        "author": "Keune"
+        "end": 926,
+        "author": "Keune."
       }
     ]
   },
@@ -14907,23 +15251,27 @@
     "lemma": "Solimariaca",
     "previous": "Solimara",
     "next": "Solimariacus",
+    "proof_read": 0,
     "short_description": "Vicus der Civitas Leucorum",
     "chapters": [
       {
         "start": 926,
-        "author": "Keune"
+        "end": 927,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Solimariacus",
     "previous": "Solimariaca",
-    "next": "Solimaros",
+    "next": "Solimaros, -us",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 927,
-        "author": "Keune"
+        "end": 927,
+        "author": "Keune."
       }
     ]
   },
@@ -14969,7 +15317,7 @@
   {
     "lemma": "Solinienses",
     "previous": "Solinates",
-    "next": "Solinus",
+    "next": "Solinus 1",
     "proof_read": 2,
     "short_description": "s. Salinaeo",
     "chapters": [
@@ -14981,23 +15329,53 @@
     ]
   },
   {
-    "lemma": "Solinus",
+    "lemma": "Solinus 1",
     "previous": "Solinienses",
-    "next": "Solinus 2",
+    "next": "Solinus 1a",
+    "proof_read": 0,
     "short_description": "Töpfernamen",
     "chapters": [
       {
         "start": 928,
-        "author": "Keune"
+        "end": 928,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Solinus 1a",
+    "previous": "Solinus 1",
+    "next": "Solinus 1b",
+    "proof_read": 0,
+    "short_description": "Töpfernamen",
+    "chapters": [
+      {
+        "start": 928,
+        "end": 928,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Solinus 1b",
+    "previous": "Solinus 1a",
+    "next": "Solinus 2",
+    "proof_read": 0,
+    "short_description": "Töpfernamen",
+    "chapters": [
+      {
+        "start": 928,
+        "end": 928,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Solinus 2",
-    "previous": "Solinus",
+    "previous": "Solinus 1b",
     "next": "Solis aqua",
     "redirect": "Iulius 492",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 928,
@@ -15009,11 +15387,14 @@
     "lemma": "Solis aqua",
     "previous": "Solinus 2",
     "next": "Solis Columna",
+    "sort_key": "Solisaqua",
+    "proof_read": 0,
     "short_description": "Quelle oder Fluß auf der Insel Panchaia",
     "chapters": [
       {
         "start": 928,
-        "author": "Honigmann"
+        "end": 928,
+        "author": "Honigmann."
       }
     ]
   },
@@ -15021,11 +15402,14 @@
     "lemma": "Solis Columna",
     "previous": "Solis aqua",
     "next": "Solis fons",
+    "sort_key": "Soliscolumna",
+    "proof_read": 0,
     "short_description": "Berg, Quellort der Rhone",
     "chapters": [
       {
         "start": 928,
-        "author": "Wackernagel"
+        "end": 928,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -15033,11 +15417,14 @@
     "lemma": "Solis fons",
     "previous": "Solis Columna",
     "next": "Solis insula",
+    "sort_key": "Solisfons",
+    "proof_read": 0,
     "short_description": "Quelle in der Ammonsoase",
     "chapters": [
       {
         "start": 929,
-        "author": "Honigmann"
+        "end": 929,
+        "author": "Honigmann."
       }
     ]
   },
@@ -15045,11 +15432,14 @@
     "lemma": "Solis insula",
     "previous": "Solis fons",
     "next": "Solis Portus",
+    "sort_key": "Solisinsula",
+    "proof_read": 0,
     "short_description": "Insel zwischen Coliacum promunturium und Taprobane",
     "chapters": [
       {
         "start": 929,
-        "author": "Wecker"
+        "end": 929,
+        "author": "Wecker."
       }
     ]
   },
@@ -15073,11 +15463,13 @@
     "lemma": "Solitaurilia",
     "previous": "Solis Portus",
     "next": "Solitus a",
+    "proof_read": 0,
     "short_description": "Feierliches Opfer an Mars",
     "chapters": [
       {
         "start": 929,
-        "author": "Türk"
+        "end": 929,
+        "author": "Türk."
       }
     ]
   },
@@ -15085,35 +15477,57 @@
     "lemma": "Solitus a",
     "previous": "Solitaurilia",
     "next": "Solitus b",
+    "sort_key": "Solitusa",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer in Gallien",
     "chapters": [
       {
         "start": 929,
-        "author": "Keune"
+        "end": 929,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Solitus b",
     "previous": "Solitus a",
-    "next": "Solium 1",
+    "next": "Solium",
+    "sort_key": "Solitusb",
+    "proof_read": 0,
     "short_description": "Lateinischer Rufname?",
     "chapters": [
       {
         "start": 929,
-        "author": "Keune"
+        "end": 929,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Solium",
+    "previous": "Solitus b",
+    "next": "Solium 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 929,
+        "end": 929,
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Solium 1",
-    "previous": "Solitus b",
+    "previous": "Solium",
     "next": "Solium 2",
+    "proof_read": 0,
     "short_description": "Hoher Sitz mit geraden Beinen, Rückenlehne und Armlehnen",
     "chapters": [
       {
         "start": 929,
-        "author": "Hug"
+        "end": 930,
+        "author": "Hug."
       }
     ]
   },
@@ -15121,11 +15535,13 @@
     "lemma": "Solium 2",
     "previous": "Solium 1",
     "next": "Solium 3",
+    "proof_read": 0,
     "short_description": "Badewanne",
     "chapters": [
       {
         "start": 930,
-        "author": "Hug"
+        "end": 930,
+        "author": "Hug."
       }
     ]
   },
@@ -15133,11 +15549,13 @@
     "lemma": "Solium 3",
     "previous": "Solium 2",
     "next": "Solius",
+    "proof_read": 0,
     "short_description": "Sarkophag",
     "chapters": [
       {
         "start": 931,
-        "author": "Hug"
+        "end": 931,
+        "author": "Hug."
       }
     ]
   },
@@ -15145,10 +15563,14 @@
     "lemma": "Solius",
     "previous": "Solium 3",
     "next": "Sollemniacus",
+    "redirect": "Sollos  2",
+    "proof_read": 0,
     "short_description": "Person s. Sollos Nr. 2",
     "chapters": [
       {
-        "start": 931
+        "start": 931,
+        "end": 931,
+        "author": "Keune."
       }
     ]
   },
@@ -15156,29 +15578,75 @@
     "lemma": "Sollemniacus",
     "previous": "Solius",
     "next": "Sollemnis",
+    "proof_read": 0,
     "short_description": "Name verschiedener Orte",
     "chapters": [
       {
         "start": 931,
-        "author": "Keune"
+        "end": 931,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sollemnis",
     "previous": "Sollemniacus",
-    "next": "Sol(l)emnium",
+    "next": "Sollemnis a",
+    "proof_read": 0,
     "short_description": "Lateinischer Name verschiedener Töpfer",
     "chapters": [
       {
         "start": 931,
-        "author": "Keune"
+        "end": 932,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sollemnis a",
+    "previous": "Sollemnis",
+    "next": "Sollemnis b",
+    "proof_read": 0,
+    "short_description": "Lateinischer Name verschiedener Töpfer",
+    "chapters": [
+      {
+        "start": 931,
+        "end": 931,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sollemnis b",
+    "previous": "Sollemnis a",
+    "next": "Sollemnis c",
+    "proof_read": 0,
+    "short_description": "Lateinischer Name verschiedener Töpfer",
+    "chapters": [
+      {
+        "start": 931,
+        "end": 932,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sollemnis c",
+    "previous": "Sollemnis b",
+    "next": "Sol(l)emnium",
+    "proof_read": 0,
+    "short_description": "Lateinischer Name verschiedener Töpfer",
+    "chapters": [
+      {
+        "start": 932,
+        "end": 932,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sol(l)emnium",
-    "previous": "Sollemnis",
+    "previous": "Sollemnis c",
     "next": "Sollenbeni",
     "sort_key": "Sollemnium",
     "redirect": "Solemium, Solemnium",
@@ -15194,11 +15662,13 @@
     "lemma": "Sollenbeni",
     "previous": "Sol(l)emnium",
     "next": "Sollers",
+    "proof_read": 0,
     "short_description": "Stempelmarke von Sigillatagefäßen aus Heiligenberg",
     "chapters": [
       {
         "start": 932,
-        "author": "Keune"
+        "end": 932,
+        "author": "Keune."
       }
     ]
   },
@@ -15206,11 +15676,13 @@
     "lemma": "Sollers",
     "previous": "Sollenbeni",
     "next": "Solliacus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 932,
-        "author": "Keune"
+        "end": 932,
+        "author": "Keune."
       }
     ]
   },
@@ -15244,18 +15716,20 @@
     "lemma": "Sollion",
     "previous": "Sollinienses",
     "next": "Sollius",
+    "proof_read": 0,
     "short_description": "Korinthische Pflanzstadt in Akarnanien",
     "chapters": [
       {
         "start": 932,
-        "author": "Geyer"
+        "end": 933,
+        "author": "Geyer."
       }
     ]
   },
   {
     "lemma": "Sollius",
     "previous": "Sollion",
-    "next": "Sollius 1",
+    "next": "Sollius 0",
     "redirect": "Sidonius 1",
     "proof_read": 2,
     "chapters": [
@@ -15266,14 +15740,30 @@
     ]
   },
   {
-    "lemma": "Sollius 1",
+    "lemma": "Sollius 0",
     "previous": "Sollius",
+    "next": "Sollius 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 933,
+        "end": 933,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sollius 1",
+    "previous": "Sollius 0",
     "next": "Sollius 2",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer",
     "chapters": [
       {
         "start": 933,
-        "author": "Keune"
+        "end": 933,
+        "author": "Keune."
       }
     ]
   },
@@ -15281,11 +15771,13 @@
     "lemma": "Sollius 2",
     "previous": "Sollius 1",
     "next": "Sollius 3",
+    "proof_read": 0,
     "short_description": "Auflösung der Abkürzung Sol.?",
     "chapters": [
       {
         "start": 933,
-        "author": "Keune"
+        "end": 933,
+        "author": "Keune."
       }
     ]
   },
@@ -15293,11 +15785,13 @@
     "lemma": "Sollius 3",
     "previous": "Sollius 2",
     "next": "Sollius 4",
+    "proof_read": 0,
     "short_description": "cos. suff. in unbekannter Zeit",
     "chapters": [
       {
         "start": 933,
-        "author": "Miltner, Franz"
+        "end": 933,
+        "author": "Miltner."
       }
     ]
   },
@@ -15305,54 +15799,118 @@
     "lemma": "Sollius 4",
     "previous": "Sollius 3",
     "next": "Sollo",
+    "proof_read": 0,
     "short_description": "Atticus, M., Bruder von Nr. 3",
     "chapters": [
       {
         "start": 933,
-        "author": "Miltner, Franz"
+        "end": 933,
+        "author": "Miltner."
       }
     ]
   },
   {
     "lemma": "Sollo",
     "previous": "Sollius 4",
-    "next": "Sollos 1",
+    "next": "Sollos",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer",
     "chapters": [
       {
         "start": 933,
-        "author": "Keune"
+        "end": 933,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sollos",
+    "previous": "Sollo",
+    "next": "Sollos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 934,
+        "end": 934,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sollos 1",
-    "previous": "Sollo",
+    "previous": "Sollos",
     "next": "Sollos 2",
+    "proof_read": 0,
     "short_description": "Beischrift auf gallischen Münzen der Viromandui",
     "chapters": [
       {
         "start": 934,
-        "author": "Keune"
+        "end": 934,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sollos 2",
     "previous": "Sollos 1",
-    "next": "Sollus",
+    "next": "Sollos 2a",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 934,
+        "end": 934,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sollos 2a",
+    "previous": "Sollos 2",
+    "next": "Sollos 2b",
+    "proof_read": 0,
     "short_description": "Töpfer in Gallien und Britannien",
     "chapters": [
       {
         "start": 934,
-        "author": "Keune"
+        "end": 934,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sollos 2b",
+    "previous": "Sollos 2a",
+    "next": "Sollos 2c",
+    "proof_read": 0,
+    "short_description": "Töpfer in Gallien und Britannien",
+    "chapters": [
+      {
+        "start": 934,
+        "end": 934,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sollos 2c",
+    "previous": "Sollos 2b",
+    "next": "Sollus",
+    "proof_read": 0,
+    "short_description": "Töpfer in Gallien und Britannien",
+    "chapters": [
+      {
+        "start": 934,
+        "end": 934,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sollus",
-    "previous": "Sollos 2",
-    "next": "Solmissos",
+    "previous": "Sollos 2c",
+    "next": "Σολμισσός",
     "redirect": "Sollos 1",
     "proof_read": 2,
     "chapters": [
@@ -15363,20 +15921,23 @@
     ]
   },
   {
-    "lemma": "Solmissos",
+    "lemma": "Σολμισσός",
     "previous": "Sollus",
     "next": "Solnacus",
+    "sort_key": "Solmissos",
+    "proof_read": 0,
     "short_description": "Berg bei Ephesos in Ionien",
     "chapters": [
       {
         "start": 934,
-        "author": "Bürchner"
+        "end": 934,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Solnacus",
-    "previous": "Solmissos",
+    "previous": "Σολμισσός",
     "next": "Solo",
     "redirect": "Solonacus",
     "proof_read": 2,
@@ -15391,11 +15952,13 @@
     "lemma": "Solo",
     "previous": "Solnacus",
     "next": "Solobriasae",
+    "proof_read": 0,
     "short_description": "Sigillatatöpfer",
     "chapters": [
       {
         "start": 934,
-        "author": "Keune"
+        "end": 935,
+        "author": "Keune."
       }
     ]
   },
@@ -15418,11 +15981,13 @@
     "lemma": "Solocense",
     "previous": "Solobriasae",
     "next": "Σολοεῖς",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 935,
-        "author": "Keune"
+        "end": 935,
+        "author": "Keune."
       }
     ]
   },
@@ -15445,11 +16010,13 @@
     "lemma": "Soloeis 1",
     "previous": "Σολοεῖς",
     "next": "Soloeis 2",
+    "proof_read": 0,
     "short_description": "Fluß bei Nikaia in Bithynien",
     "chapters": [
       {
         "start": 935,
-        "author": "Ruge"
+        "end": 935,
+        "author": "Ruge."
       }
     ]
   },
@@ -15457,11 +16024,13 @@
     "lemma": "Soloeis 2",
     "previous": "Soloeis 1",
     "next": "Soloettes",
+    "proof_read": 0,
     "short_description": "Vorgebirge an der W-Küste von Mauretanien",
     "chapters": [
       {
         "start": 935,
-        "author": "Oberhummer"
+        "end": 935,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -15469,11 +16038,13 @@
     "lemma": "Soloettes",
     "previous": "Soloeis 2",
     "next": "Soloi 1",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 935,
-        "author": "Regling"
+        "end": 935,
+        "author": "Regling."
       }
     ]
   },
@@ -15481,11 +16052,13 @@
     "lemma": "Soloi 1",
     "previous": "Soloettes",
     "next": "Soloi 2",
+    "proof_read": 0,
     "short_description": "Küstenstadt an der Grenze Kilikia Tracheia - Kilikia Pedias",
     "chapters": [
       {
         "start": 935,
-        "author": "Ruge"
+        "end": 938,
+        "author": "Ruge."
       }
     ]
   },
@@ -15493,11 +16066,13 @@
     "lemma": "Soloi 2",
     "previous": "Soloi 1",
     "next": "Solomatis",
+    "proof_read": 0,
     "short_description": "Stadt an der N-Küste von Kypros",
     "chapters": [
       {
         "start": 938,
-        "author": "Oberhummer"
+        "end": 941,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -15505,11 +16080,13 @@
     "lemma": "Solomatis",
     "previous": "Soloi 2",
     "next": "Solomon 1",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Ganges",
     "chapters": [
       {
         "start": 941,
-        "author": "Wecker"
+        "end": 941,
+        "author": "Wecker."
       }
     ]
   },
@@ -15563,11 +16140,13 @@
     "lemma": "Solon 1",
     "previous": "Solomon 3",
     "next": "Solon 2",
+    "proof_read": 0,
     "short_description": "Staatsmann von Athen",
     "chapters": [
       {
         "start": 946,
-        "author": "Aly"
+        "end": 978,
+        "author": "Aly."
       }
     ]
   },
@@ -15575,11 +16154,13 @@
     "lemma": "Solon 2",
     "previous": "Solon 1",
     "next": "Solon 3",
+    "proof_read": 0,
     "short_description": "Sohn des Straton",
     "chapters": [
       {
         "start": 978,
-        "author": "Schoch"
+        "end": 978,
+        "author": "Schoch."
       }
     ]
   },
@@ -15587,11 +16168,13 @@
     "lemma": "Solon 3",
     "previous": "Solon 2",
     "next": "Solon 4",
+    "proof_read": 0,
     "short_description": "Gesandter des Hippias in Rom",
     "chapters": [
       {
         "start": 978,
-        "author": "Schoch"
+        "end": 978,
+        "author": "Schoch."
       }
     ]
   },
@@ -15599,11 +16182,13 @@
     "lemma": "Solon 4",
     "previous": "Solon 3",
     "next": "Solon 5",
+    "proof_read": 0,
     "short_description": "Bildhauer von Myrina",
     "chapters": [
       {
         "start": 978,
-        "author": "Lippold, Georg"
+        "end": 978,
+        "author": "Lippold."
       }
     ]
   },
@@ -15611,11 +16196,13 @@
     "lemma": "Solon 5",
     "previous": "Solon 4",
     "next": "Solon 6",
+    "proof_read": 0,
     "short_description": "Steinschneider",
     "chapters": [
       {
         "start": 978,
-        "author": "Sieveking"
+        "end": 979,
+        "author": "Sieveking."
       }
     ]
   },
@@ -15623,11 +16210,13 @@
     "lemma": "Solon 6",
     "previous": "Solon 5",
     "next": "Solon 7",
+    "proof_read": 0,
     "short_description": "Namensbeischrift eines Komasten auf einer rotfig.-Schale des Oltos aus Vuci",
     "chapters": [
       {
         "start": 979,
-        "author": "Leonard"
+        "end": 979,
+        "author": "Leonard."
       }
     ]
   },
@@ -15635,11 +16224,13 @@
     "lemma": "Solon 7",
     "previous": "Solon 6",
     "next": "Solona",
+    "proof_read": 0,
     "short_description": "Arzt aus Smyrna",
     "chapters": [
       {
         "start": 979,
-        "author": "Kind"
+        "end": 979,
+        "author": "Kind."
       }
     ]
   },
@@ -15660,11 +16251,13 @@
     "lemma": "Solonacus",
     "previous": "Solona",
     "next": "Solonas, Solonate",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 979,
-        "author": "Keune"
+        "end": 979,
+        "author": "Keune."
       }
     ]
   },
@@ -15672,41 +16265,49 @@
     "lemma": "Solonas, Solonate",
     "previous": "Solonacus",
     "next": "Solonates",
+    "sort_key": "Solonas,solonate",
+    "proof_read": 0,
     "short_description": "Großziegeleien auf Ziegelstempel",
     "chapters": [
       {
         "start": 979,
-        "author": "Keune"
+        "end": 981,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Solonates",
     "previous": "Solonas, Solonate",
-    "next": "Solonees",
+    "next": "Σολωνέες",
+    "proof_read": 0,
     "short_description": "Völkerschaft im südl. Gallia cisalpina",
     "chapters": [
       {
         "start": 981,
-        "author": "Fluss"
+        "end": 981,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Solonees",
+    "lemma": "Σολωνέες",
     "previous": "Solonates",
     "next": "Solonenica",
+    "sort_key": "Solonees",
+    "proof_read": 0,
     "short_description": "Irrige Lesart eines Phyletikons von Olymos in Karien",
     "chapters": [
       {
         "start": 981,
-        "author": "Bürchner"
+        "end": 981,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Solonenica",
-    "previous": "Solonees",
+    "previous": "Σολωνέες",
     "next": "Solonianus",
     "proof_read": 2,
     "short_description": "Ort",
@@ -15722,11 +16323,13 @@
     "lemma": "Solonianus",
     "previous": "Solonenica",
     "next": "Solonium 1",
+    "proof_read": 0,
     "short_description": "Grundstück von Veleia",
     "chapters": [
       {
         "start": 981,
-        "author": "Keune"
+        "end": 981,
+        "author": "Keune."
       }
     ]
   },
@@ -15747,11 +16350,13 @@
     "lemma": "Solonium 2",
     "previous": "Solonium 1",
     "next": "Solonius",
+    "proof_read": 0,
     "short_description": "Stadt der Allobroger in Gallia Narbonensis",
     "chapters": [
       {
         "start": 981,
-        "author": "Wackernagel"
+        "end": 981,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -15759,11 +16364,13 @@
     "lemma": "Solonius",
     "previous": "Solonium 2",
     "next": "Solonius ager",
+    "proof_read": 0,
     "short_description": "Fabius Severinus, Q.",
     "chapters": [
       {
         "start": 981,
-        "author": "Stein, [Arthur]"
+        "end": 981,
+        "author": "Stein."
       }
     ]
   },
@@ -15771,11 +16378,14 @@
     "lemma": "Solonius ager",
     "previous": "Solonius",
     "next": "Solorius mons",
+    "sort_key": "Soloniusager",
+    "proof_read": 0,
     "short_description": "Grundstück südl. des 12 Meilensteines der Via Ostiensis",
     "chapters": [
       {
         "start": 981,
-        "author": "Fluss"
+        "end": 982,
+        "author": "Fluss."
       }
     ]
   },
@@ -15798,7 +16408,7 @@
   {
     "lemma": "Solothurn",
     "previous": "Solorius mons",
-    "next": "Solouentioi",
+    "next": "Σολουέντιοι",
     "proof_read": 2,
     "short_description": "Nachträge s. Salodurum",
     "chapters": [
@@ -15810,26 +16420,31 @@
     ]
   },
   {
-    "lemma": "Solouentioi",
+    "lemma": "Σολουέντιοι",
     "previous": "Solothurn",
     "next": "Solus",
+    "sort_key": "Solouentioi",
+    "proof_read": 0,
     "short_description": "Volk bei der W-Küste Libyens",
     "chapters": [
       {
         "start": 983,
-        "author": "Honigmann"
+        "end": 983,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Solus",
-    "previous": "Solouentioi",
+    "previous": "Σολουέντιοι",
     "next": "Solustriacus",
+    "proof_read": 0,
     "short_description": "Stadt an der N-Küste Siziliens",
     "chapters": [
       {
         "start": 983,
-        "author": "Ziegler"
+        "end": 985,
+        "author": "Ziegler."
       }
     ]
   },
@@ -15837,11 +16452,13 @@
     "lemma": "Solustriacus",
     "previous": "Solus",
     "next": "Solutio",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 985,
-        "author": "Keune"
+        "end": 985,
+        "author": "Keune."
       }
     ]
   },
@@ -15849,11 +16466,13 @@
     "lemma": "Solutio",
     "previous": "Solustriacus",
     "next": "Solva",
+    "proof_read": 0,
     "short_description": "Auflösung eines Schuldverhältnisses, Leistung eines Schuldgegenstandes",
     "chapters": [
       {
         "start": 985,
-        "author": "Leonhard"
+        "end": 987,
+        "author": "R. Leonhard."
       }
     ]
   },
@@ -15861,18 +16480,20 @@
     "lemma": "Solva",
     "previous": "Solutio",
     "next": "Solygeia",
+    "proof_read": 0,
     "short_description": "Stadt in Noricum",
     "chapters": [
       {
         "start": 987,
-        "author": "Wickert"
+        "end": 988,
+        "author": "Wickert."
       }
     ]
   },
   {
     "lemma": "Solygeia",
     "previous": "Solva",
-    "next": "Solyma",
+    "next": "Σόλυμα, τά",
     "short_description": "Ort in der südl. Korinthia",
     "chapters": [
       {
@@ -15882,26 +16503,31 @@
     ]
   },
   {
-    "lemma": "Solyma",
+    "lemma": "Σόλυμα, τά",
     "previous": "Solygeia",
     "next": "Solymer",
+    "sort_key": "Solyma",
+    "proof_read": 0,
     "short_description": "Berg in Lykien",
     "chapters": [
       {
         "start": 988,
-        "author": "Ruge"
+        "end": 989,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Solymer",
-    "previous": "Solyma",
+    "previous": "Σόλυμα, τά",
     "next": "Solymeus",
+    "proof_read": 0,
     "short_description": "Volk in Lykien",
     "chapters": [
       {
         "start": 989,
-        "author": "Ruge"
+        "end": 989,
+        "author": "Ruge."
       }
     ]
   },
@@ -15909,11 +16535,13 @@
     "lemma": "Solymeus",
     "previous": "Solymer",
     "next": "Solymnia",
+    "proof_read": 0,
     "short_description": "Beiname des Zeus",
     "chapters": [
       {
         "start": 989,
-        "author": "Kroll"
+        "end": 990,
+        "author": "Kroll."
       }
     ]
   },
@@ -15935,11 +16563,13 @@
     "lemma": "Solymos 1",
     "previous": "Solymnia",
     "next": "Solymos 2",
+    "proof_read": 0,
     "short_description": "Stammvater der Solymer",
     "chapters": [
       {
         "start": 990,
-        "author": "Türk"
+        "end": 990,
+        "author": "Türk."
       }
     ]
   },
@@ -15974,7 +16604,7 @@
   {
     "lemma": "Solymos 4",
     "previous": "Solymos 3",
-    "next": "Somatophylakes",
+    "next": "Σωματοφύλακες",
     "redirect": "Solyma",
     "proof_read": 2,
     "chapters": [
@@ -15985,20 +16615,23 @@
     ]
   },
   {
-    "lemma": "Somatophylakes",
+    "lemma": "Σωματοφύλακες",
     "previous": "Solymos 4",
     "next": "Somena",
+    "sort_key": "Somatophylakes",
+    "proof_read": 0,
     "short_description": "Leibwächter von Fürsten und Feldherren",
     "chapters": [
       {
         "start": 991,
-        "author": "Lammert, Friedrich"
+        "end": 992,
+        "author": "F. Lammert."
       }
     ]
   },
   {
     "lemma": "Somena",
-    "previous": "Somatophylakes",
+    "previous": "Σωματοφύλακες",
     "next": "Somena, Sommia, Somna",
     "redirect": "Simena",
     "proof_read": 2,
@@ -16050,12 +16683,14 @@
   {
     "lemma": "Somnialis",
     "previous": "Somna",
-    "next": "Sona 2",
+    "next": "Sona 1",
+    "proof_read": 0,
     "short_description": "Beiname des Hercules",
     "chapters": [
       {
         "start": 992,
-        "author": "Kroll"
+        "end": 993,
+        "author": "Kroll."
       }
     ]
   },
@@ -16074,13 +16709,15 @@
   },
   {
     "lemma": "Sonarciaga",
-    "previous": "Sona 2",
-    "next": "Sonautes",
+    "previous": "Sonautes",
+    "next": "Soncat, Soncta",
+    "proof_read": 0,
     "short_description": "Klostergut von St. Denis",
     "chapters": [
       {
         "start": 992,
-        "author": "Keune"
+        "end": 992,
+        "author": "Keune."
       }
     ]
   },
@@ -16100,25 +16737,29 @@
   },
   {
     "lemma": "Somis",
-    "previous": "Sonautes",
-    "next": "Sona 1",
+    "previous": "Somena, Sommina, Somna",
+    "next": "Sommina",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 993,
-        "author": "Lippold, Georg"
+        "end": 993,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Sona 1",
-    "previous": "Somis",
-    "next": "Soncat, Soncta",
+    "previous": "Somnialis",
+    "next": "Sona 2",
+    "proof_read": 0,
     "short_description": "Inschr. auf gallischen Bronzemünzen.S. Axius Nr. 7",
     "chapters": [
       {
         "start": 993,
-        "author": "Keune"
+        "end": 994,
+        "author": "Keune."
       }
     ]
   },
@@ -16153,11 +16794,14 @@
     "lemma": "Sonchar, Sonchor",
     "previous": "Sonceium",
     "next": "Sonchis",
+    "sort_key": "Sonchar,sonchor",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 994,
-        "author": "Moritz, [Bernhard]"
+        "end": 994,
+        "author": "Moritz."
       }
     ]
   },
@@ -16165,11 +16809,13 @@
     "lemma": "Sonchis",
     "previous": "Sonchar, Sonchor",
     "next": "Sondrae",
+    "proof_read": 0,
     "short_description": "Priesterlicher Vertreter ägyptischer Weisheit",
     "chapters": [
       {
         "start": 994,
-        "author": "Kees"
+        "end": 994,
+        "author": "Kees."
       }
     ]
   },
@@ -16192,11 +16838,13 @@
     "lemma": "Sondros",
     "previous": "Sondrae",
     "next": "Sonegias",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 994,
-        "author": "Nachod"
+        "end": 994,
+        "author": "Nachod."
       }
     ]
   },
@@ -16204,11 +16852,13 @@
     "lemma": "Sonegias",
     "previous": "Sondros",
     "next": "Soneium",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 994,
-        "author": "Keune"
+        "end": 994,
+        "author": "Keune."
       }
     ]
   },
@@ -16216,11 +16866,13 @@
     "lemma": "Soneium",
     "previous": "Sonegias",
     "next": "Soniacus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 994,
-        "author": "Fluss"
+        "end": 994,
+        "author": "Fluss."
       }
     ]
   },
@@ -16228,11 +16880,13 @@
     "lemma": "Soniacus",
     "previous": "Soneium",
     "next": "Sonikos 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 994,
-        "author": "Keune"
+        "end": 994,
+        "author": "Keune."
       }
     ]
   },
@@ -16254,11 +16908,13 @@
     "lemma": "Sonikos 2",
     "previous": "Sonikos 1",
     "next": "Sonikos 3",
+    "proof_read": 0,
     "short_description": "Politischer? Funktionär am Hof des Polyperchon",
     "chapters": [
       {
         "start": 994,
-        "author": "Schoch"
+        "end": 994,
+        "author": "Schoch."
       }
     ]
   },
@@ -16266,11 +16922,13 @@
     "lemma": "Sonikos 3",
     "previous": "Sonikos 2",
     "next": "Sonista",
+    "proof_read": 0,
     "short_description": "Bildhauer aus Aitolien",
     "chapters": [
       {
         "start": 995,
-        "author": "Lippold, Georg"
+        "end": 995,
+        "author": "Lippold."
       }
     ]
   },
@@ -16278,11 +16936,13 @@
     "lemma": "Sonista",
     "previous": "Sonikos 3",
     "next": "Sonnenuhr",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 995,
-        "author": "Fluss"
+        "end": 995,
+        "author": "Fluss."
       }
     ]
   },
@@ -16316,11 +16976,13 @@
     "lemma": "Sononaeis",
     "previous": "Sonno",
     "next": "Sonos",
+    "proof_read": 0,
     "short_description": "Lokaler Beiname der Isis in Soknopaios-Nesos",
     "chapters": [
       {
         "start": 995,
-        "author": "Kießling, Emil"
+        "end": 995,
+        "author": "E. Kießling."
       }
     ]
   },
@@ -16328,11 +16990,13 @@
     "lemma": "Sonos",
     "previous": "Sononaeis",
     "next": "Sontiates",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Ganges",
     "chapters": [
       {
         "start": 995,
-        "author": "Wecker"
+        "end": 995,
+        "author": "Wecker."
       }
     ]
   },
@@ -16368,15 +17032,18 @@
     "lemma": "Sontius",
     "previous": "Sontini",
     "next": "Soodina",
+    "proof_read": 0,
     "short_description": "Fluß bei Aquileia Isonzo",
     "chapters": [
       {
         "start": 996,
-        "author": "Hopfner, I[sidor]"
+        "end": 996,
+        "author": "Hopfner."
       },
       {
-        "start": 996,
-        "author": "Fluss"
+        "start": 997,
+        "end": 998,
+        "author": "Fluss."
       }
     ]
   },
@@ -16384,11 +17051,13 @@
     "lemma": "Soodina",
     "previous": "Sontius",
     "next": "Soos",
+    "proof_read": 0,
     "short_description": "Beiname der Artemis",
     "chapters": [
       {
         "start": 998,
-        "author": "Kroll"
+        "end": 998,
+        "author": "Kroll."
       }
     ]
   },
@@ -16396,11 +17065,13 @@
     "lemma": "Soos",
     "previous": "Soodina",
     "next": "Sopater",
+    "proof_read": 0,
     "short_description": "Legendarischer spartanischer König",
     "chapters": [
       {
         "start": 998,
-        "author": "Geyer"
+        "end": 999,
+        "author": "Geyer."
       }
     ]
   },
@@ -16421,11 +17092,13 @@
     "lemma": "Sopatma",
     "previous": "Sopater",
     "next": "Sopatreia",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 999,
-        "author": "Wecker"
+        "end": 999,
+        "author": "Wecker."
       }
     ]
   },
@@ -16433,11 +17106,13 @@
     "lemma": "Sopatreia",
     "previous": "Sopatma",
     "next": "Sopatros 1",
+    "proof_read": 0,
     "short_description": "Fest auf Delos",
     "chapters": [
       {
         "start": 999,
-        "author": "Pfister"
+        "end": 999,
+        "author": "Pfister."
       }
     ]
   },
@@ -16643,11 +17318,13 @@
     "lemma": "Sopatros 14",
     "previous": "Sopatros 13",
     "next": "Sopatros 15",
+    "proof_read": 0,
     "short_description": "Bildhauer aus Demetrias",
     "chapters": [
       {
         "start": 1007,
-        "author": "Lippold, Georg"
+        "end": 1007,
+        "author": "Lippold."
       }
     ]
   },
@@ -16655,11 +17332,13 @@
     "lemma": "Sopatros 15",
     "previous": "Sopatros 14",
     "next": "Sopatros 16",
+    "proof_read": 0,
     "short_description": "Bildhauer aus Theben",
     "chapters": [
       {
         "start": 1007,
-        "author": "Lippold, Georg"
+        "end": 1008,
+        "author": "Lippold."
       }
     ]
   },
@@ -16681,11 +17360,13 @@
     "lemma": "Sopeithes",
     "previous": "Sopatros 16",
     "next": "Sophagasenos",
+    "proof_read": 0,
     "short_description": "Indischer Fürst",
     "chapters": [
       {
         "start": 1008,
-        "author": "Kroll"
+        "end": 1008,
+        "author": "Kroll."
       }
     ]
   },
@@ -16693,11 +17374,13 @@
     "lemma": "Sophagasenos",
     "previous": "Sopeithes",
     "next": "Sophainetos",
+    "proof_read": 0,
     "short_description": "Indischer König",
     "chapters": [
       {
         "start": 1008,
-        "author": "Geyer"
+        "end": 1008,
+        "author": "Geyer."
       }
     ]
   },
@@ -16705,11 +17388,13 @@
     "lemma": "Sophainetos",
     "previous": "Sophagasenos",
     "next": "Sophanene",
+    "proof_read": 0,
     "short_description": "Xenos des jüngeren Kyros",
     "chapters": [
       {
         "start": 1008,
-        "author": "Bux"
+        "end": 1013,
+        "author": "Bux."
       }
     ]
   },
@@ -16730,41 +17415,48 @@
     "lemma": "Sophanes 1",
     "previous": "Sophanene",
     "next": "Sophanes 2",
+    "proof_read": 0,
     "short_description": "Sohn des Eutychides",
     "chapters": [
       {
         "start": 1013,
-        "author": "Swoboda, [Heinrich]"
+        "end": 1014,
+        "author": "Swoboda."
       }
     ]
   },
   {
     "lemma": "Sophanes 2",
     "previous": "Sophanes 1",
-    "next": "Sophanitai",
+    "next": "Σωφανῖται",
+    "proof_read": 0,
     "short_description": "Lieblingsname auf rotfig.-Gefäßen des freien Stils der perikleischen Zeit",
     "chapters": [
       {
         "start": 1014,
-        "author": "Leonard"
+        "end": 1015,
+        "author": "Leonard."
       }
     ]
   },
   {
-    "lemma": "Sophanitai",
+    "lemma": "Σωφανῖται",
     "previous": "Sophanes 2",
     "next": "Σωφάνους",
+    "sort_key": "Sophanitai",
+    "proof_read": 0,
     "short_description": "Volk im S der Eudaimon Arabia",
     "chapters": [
       {
         "start": 1015,
-        "author": "Honigmann"
+        "end": 1015,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Σωφάνους",
-    "previous": "Sophanitai",
+    "previous": "Σωφανῖται",
     "next": "Sophene",
     "short_description": "- kome, Ort",
     "chapters": [
@@ -16794,11 +17486,13 @@
     "lemma": "Sophia",
     "previous": "Sophene",
     "next": "Sophilos 1",
+    "proof_read": 0,
     "short_description": "Tüchtigkeit",
     "chapters": [
       {
         "start": 1019,
-        "author": "Leisegang"
+        "end": 1039,
+        "author": "H. Leisegang."
       }
     ]
   },
@@ -16806,11 +17500,13 @@
     "lemma": "Sophilos 1",
     "previous": "Sophia",
     "next": "Sophilos 2",
+    "proof_read": 0,
     "short_description": "Dichter der mittleren Komödie",
     "chapters": [
       {
         "start": 1039,
-        "author": "Körte"
+        "end": 1039,
+        "author": "Körte."
       }
     ]
   },
@@ -16932,11 +17628,13 @@
     "lemma": "Sophokles 5",
     "previous": "Sophokles 4",
     "next": "Sophokles 6",
+    "proof_read": 0,
     "short_description": "Sohn des Sostratides",
     "chapters": [
       {
         "start": 1095,
-        "author": "Swoboda, [Heinrich]"
+        "end": 1095,
+        "author": "Swoboda."
       }
     ]
   },
@@ -16944,11 +17642,13 @@
     "lemma": "Sophokles 6",
     "previous": "Sophokles 5",
     "next": "Sophokles 7",
+    "proof_read": 0,
     "short_description": "Erklärer der Argonautica des Apollonios Rhodios",
     "chapters": [
       {
         "start": 1096,
-        "author": "Gudeman"
+        "end": 1098,
+        "author": "Gudeman."
       }
     ]
   },
@@ -16956,11 +17656,13 @@
     "lemma": "Sophokles 7",
     "previous": "Sophokles 6",
     "next": "Sophon",
+    "proof_read": 0,
     "short_description": "Erzgießer",
     "chapters": [
       {
         "start": 1098,
-        "author": "Lippold, Georg"
+        "end": 1098,
+        "author": "Lippold."
       }
     ]
   },
@@ -16968,11 +17670,13 @@
     "lemma": "Sophon",
     "previous": "Sophokles 7",
     "next": "Sophonia",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1098,
-        "author": "Gossen"
+        "end": 1098,
+        "author": "Gossen."
       }
     ]
   },
@@ -17008,11 +17712,13 @@
     "lemma": "Sophoniba",
     "previous": "Sophonias",
     "next": "Sophron 1",
+    "proof_read": 0,
     "short_description": "Königin von Numidien",
     "chapters": [
       {
         "start": 1099,
-        "author": "Kahrstedt"
+        "end": 1100,
+        "author": "Kahrstedt."
       }
     ]
   },
