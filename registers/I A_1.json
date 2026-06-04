@@ -4903,7 +4903,20 @@
       }
     ]
   },
-  {"lemma": "Regia"},
+  {
+    "lemma": "Regia",
+    "previous": "Regetnoknada",
+    "next": "Regia 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 465,
+        "end": 465,
+        "author": "Rosenberg."
+      }
+    ]
+  },
   {
     "lemma": "Regia 1",
     "previous": "Regia",
@@ -8179,6 +8192,7 @@
   },
   {
     "lemma": "Rex sacrorum",
+    "previous": "Ῥηξήνωρ 2",
     "next": "Rha-, Rhe-, Rhi-, Rho-, Rhu-",
     "sort_key": "Rexsacrorum",
     "proof_read": 0,
@@ -10561,7 +10575,10 @@
       }
     ]
   },
-  {"lemma": "Ῥοδάσπης"},
+  {
+    "lemma": "Ῥοδάσπης",
+    "previous": "Rodaphan"
+  },
   {
     "lemma": "Ῥόδη 1",
     "previous": "Ῥοδάσπης",
@@ -11105,7 +11122,9 @@
       }
     ]
   },
-  {"lemma": "Ῥόδος"},
+  {
+    "lemma": "Ῥόδος"
+  },
   {
     "lemma": "Rodulfus",
     "previous": "Ῥόδος",
@@ -12426,6 +12445,7 @@
   {
     "lemma": "Ῥομβίτης μέγας, ἐλάσσων",
     "previous": "Romatius",
+    "next": "Ῥομβοειδές",
     "sort_key": "Rombitesmegas, elasson",
     "proof_read": 0,
     "short_description": "Zwei Küstenflüsse, münden in der Maiotis",
@@ -19084,7 +19104,20 @@
       }
     ]
   },
-  {"lemma": "Rutabulum"},
+  {
+    "lemma": "Rutabulum",
+    "previous": "Rusumbladeotos",
+    "next": "Rutabulum 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1246,
+        "end": 1246,
+        "author": "Hug."
+      }
+    ]
+  },
   {
     "lemma": "Rutabulum 1",
     "previous": "Rutabulum",
