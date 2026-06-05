@@ -5107,7 +5107,7 @@
   {
     "lemma": "Umbonius 2",
     "previous": "Umbilius 2",
-    "next": "Umbri, Umbria",
+    "next": "Umbri",
     "short_description": "U. Silo, Prokonsul der Provinz Hispania Baetica in der 1. H. des 1. Jh. n. Chr.",
     "chapters": [
       {
@@ -5117,9 +5117,9 @@
     ]
   },
   {
-    "lemma": "Umbri, Umbria",
+    "lemma": "Umbri",
     "previous": "Umbonius 2",
-    "next": "Umbricius 5",
+    "next": "Umbria",
     "sort_key": "Vmbri",
     "redirect": true,
     "proof_read": 0,
@@ -5132,8 +5132,22 @@
     ]
   },
   {
+    "lemma": "Umbria",
+    "previous": "Umbri",
+    "next": "Umbricius 5",
+    "sort_key": "Vmbria",
+    "redirect": "Umbri",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 1745,
+        "end": 1827
+      }
+    ]
+  },
+  {
     "lemma": "Umbricius 5",
-    "previous": "Umbri, Umbria",
+    "previous": "Umbria",
     "next": "Umbricius 6",
     "proof_read": 0,
     "short_description": "Q. U. Proculus, v. c., cos. suff. unter Marc Aurel",

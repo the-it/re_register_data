@@ -28038,6 +28038,7 @@
   {
     "lemma": "Archedemos 5",
     "previous": "Archedamos 2",
+    "next": "Archedemos 6",
     "proof_read": 3,
     "short_description": "von Tarsos, Stoiker und Rhetor 2. Jh. v. Chr.",
     "wp_link": "w:en:Archedemus of Tarsus",
@@ -28053,6 +28054,7 @@
   },
   {
     "lemma": "Archedemos 6",
+    "previous": "Archedemos 5",
     "next": "Archedemos 6a",
     "proof_read": 3,
     "short_description": "Rhetor, lebte nach Aristoteles im 2. Jh. v. Chr.",
@@ -137139,6 +137141,8 @@
   },
   {
     "lemma": "Oreibasios",
+    "previous": "Ordo 2",
+    "next": "Oreine",
     "proof_read": 3,
     "short_description": "von Pergamon, Leibarzt des Kaisers Iulian",
     "no_creative_height": true,
@@ -147976,7 +147980,7 @@
   {
     "lemma": "Προεισφορά",
     "previous": "proedros",
-    "next": "Programma",
+    "next": "πρόγραμμα",
     "sort_key": "Proeisphora",
     "proof_read": 3,
     "short_description": "die steuerliche Vorschußzahlung",
@@ -147990,11 +147994,12 @@
     ]
   },
   {
-    "lemma": "Programma",
+    "lemma": "πρόγραμμα",
     "previous": "Προεισφορά",
     "next": "προγραφή",
+    "sort_key": "Programma",
     "proof_read": 3,
-    "short_description": "die schriftliche Verlautbarung, der Anschlag",
+    "short_description": "programma",
     "no_creative_height": true,
     "chapters": [
       {
@@ -148006,7 +148011,7 @@
   },
   {
     "lemma": "προγραφή",
-    "previous": "Programma",
+    "previous": "πρόγραμμα",
     "next": "Prokles 18",
     "sort_key": "Prographe",
     "proof_read": 3,
@@ -149842,6 +149847,7 @@
   {
     "lemma": "Pythagoras 1",
     "previous": "Πυρρὸν πεδίον 2",
+    "next": "Pytharatos 3",
     "proof_read": 3,
     "short_description": "von Samos, der Philosoph, Sohn des Mnesarchos",
     "wp_link": "w:de:Pythagoras",
@@ -172404,7 +172410,7 @@
   {
     "lemma": "Umbonius 2",
     "previous": "Umbonius 1a",
-    "next": "Umbria",
+    "next": "Umbri",
     "sort_key": "Vmbonius 2",
     "proof_read": 3,
     "short_description": "U. Silo, Prokonsul der Provinz Hispania Baetica 1. Jh. n. Chr.",
@@ -172419,6 +172425,8 @@
   },
   {
     "lemma": "Umbri",
+    "previous": "Umbonius 2",
+    "next": "Umbria",
     "sort_key": "Vmbri",
     "proof_read": 3,
     "no_creative_height": true,
@@ -172432,7 +172440,7 @@
   },
   {
     "lemma": "Umbria",
-    "previous": "Umbonius 2",
+    "previous": "Umbri",
     "next": "Umbricius 4a",
     "sort_key": "Vmbria",
     "redirect": "Umbri, Umbria",
