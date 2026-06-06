@@ -15935,7 +15935,7 @@
   },
   {
     "lemma": "Sollus",
-    "previous": "Sollos 2c",
+    "previous": "Sollos 2",
     "next": "Σολμισσός",
     "redirect": "Sollos 1",
     "proof_read": 2,
@@ -17786,8 +17786,8 @@
     "lemma": "Sophronia",
     "previous": "Sophron 2",
     "next": "Sophronios 1",
-    "proof_read": 0,
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "Christin in Rom, Frau eines Stadtpräfekten, 306–312 n. Chr.",
     "chapters": [
       {
         "start": 1104,
@@ -21210,7 +21210,7 @@
     "lemma": "Sotira 1",
     "previous": "Sotion 4",
     "next": "Sotira 2",
-    "redirect": "Soteira 1",
+    "redirect": "Σώτειρα 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -21661,11 +21661,13 @@
     "lemma": "Spadines",
     "previous": "Spad(enos ?",
     "next": "Spado",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1258,
-        "author": "Obst"
+        "end": 1258,
+        "author": "Obst."
       }
     ]
   },
@@ -21673,11 +21675,13 @@
     "lemma": "Spado",
     "previous": "Spadines",
     "next": "Spadusa",
+    "proof_read": 0,
     "short_description": "Zeugungsunfähiger",
     "chapters": [
       {
         "start": 1258,
-        "author": "Pfaff"
+        "end": 1259,
+        "author": "Pfaff."
       }
     ]
   },
@@ -21766,36 +21770,43 @@
   {
     "lemma": "Spalatum",
     "previous": "Spalatrum",
-    "next": "Spalauthra",
+    "next": "Σπάλαυθρα (-ων)",
+    "proof_read": 0,
     "short_description": "Ort in Dalmatien",
     "chapters": [
       {
         "start": 1259,
-        "author": "Fluss"
+        "end": 1260,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Spalauthra",
+    "lemma": "Σπάλαυθρα (-ων)",
     "previous": "Spalatum",
     "next": "Spalaxos",
+    "sort_key": "Spalauthra",
+    "proof_read": 0,
     "short_description": "Stadt in Magnesia",
     "chapters": [
       {
         "start": 1260,
-        "author": "Stählin"
+        "end": 1261,
+        "author": "Stählin."
       }
     ]
   },
   {
     "lemma": "Spalaxos",
-    "previous": "Spalauthra",
+    "previous": "Σπάλαυθρα (-ων)",
     "next": "Spalei",
+    "proof_read": 0,
     "short_description": "Karischer Kuret",
     "chapters": [
       {
         "start": 1261,
-        "author": "Scherling"
+        "end": 1261,
+        "author": "Scherling."
       }
     ]
   },
@@ -21914,11 +21925,13 @@
     "lemma": "Sparamizes",
     "previous": "Sparameizos",
     "next": "Sparata",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1262,
-        "author": "Obst"
+        "end": 1262,
+        "author": "Obst."
       }
     ]
   },
@@ -21926,11 +21939,13 @@
     "lemma": "Sparata",
     "previous": "Sparamizes",
     "next": "Spargapises",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1262,
-        "author": "Fluss"
+        "end": 1262,
+        "author": "Fluss."
       }
     ]
   },
@@ -21938,11 +21953,13 @@
     "lemma": "Spargapises",
     "previous": "Sparata",
     "next": "Spargel",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1262,
-        "author": "Obst"
+        "end": 1262,
+        "author": "Obst."
       }
     ]
   },
@@ -21963,11 +21980,13 @@
     "lemma": "Spariantis",
     "previous": "Spargel",
     "next": "Sparnacus",
+    "proof_read": 0,
     "short_description": "Tochter des Hyakinthos",
     "chapters": [
       {
         "start": 1262,
-        "author": "Türk"
+        "end": 1262,
+        "author": "Türk."
       }
     ]
   },
@@ -21975,11 +21994,13 @@
     "lemma": "Sparnacus",
     "previous": "Spariantis",
     "next": "Sparsa nova",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1262,
-        "author": "Keune"
+        "end": 1262,
+        "author": "Keune."
       }
     ]
   },
@@ -21987,11 +22008,14 @@
     "lemma": "Sparsa nova",
     "previous": "Sparnacus",
     "next": "Sparsus",
+    "sort_key": "Sparsanova",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1262,
-        "author": "Dessau"
+        "end": 1262,
+        "author": "Dessau."
       }
     ]
   },
