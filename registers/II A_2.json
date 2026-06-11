@@ -2535,20 +2535,6 @@
     ]
   },
   {
-    "lemma": "Sempronius 63",
-    "previous": "Sempronius 63ff.",
-    "next": "Sempronius 64",
-    "proof_read": 0,
-    "short_description": "Longus, Decemvir sacris faciundis 174 v. Chr.",
-    "chapters": [
-      {
-        "start": 1429,
-        "end": 1430,
-        "author": "Münzer."
-      }
-    ]
-  },
-  {
     "lemma": "Sempronius 63ff.",
     "previous": "Sempronius 62",
     "next": "Sempronius 63",
@@ -2563,8 +2549,21 @@
     ]
   },
   {
-    "lemma": "Sempronius 64",
+    "lemma": "Sempronius 63",
     "previous": "Sempronius 63ff.",
+    "next": "Sempronius 64",
+    "proof_read": 0,
+    "short_description": "Longus, Decemvir sacris faciundis 174 v. Chr.",
+    "chapters": [
+      {
+        "start": 1429,
+        "end": 1430,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Sempronius 64",
     "next": "Sempronius 65",
     "proof_read": 2,
     "short_description": "Longus, C. Legat auf Sizilien",
@@ -6194,6 +6193,35 @@
     ]
   },
   {
+    "lemma": "Septem Maria",
+    "previous": "Septem fratres",
+    "next": "Septem pagi",
+    "sort_key": "Septemmaria",
+    "proof_read": 0,
+    "short_description": "Das Mündubgsgebiet v. Po u. Etsch",
+    "chapters": [
+      {
+        "start": 1551,
+        "end": 1551,
+        "author": "Philipp."
+      }
+    ]
+  },
+  {
+    "lemma": "Septem pagi",
+    "previous": "Septem Maria",
+    "next": "Septemiaci",
+    "sort_key": "Septempagi",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 1551,
+        "end": 1551,
+        "author": "Philipp."
+      }
+    ]
+  },
+  {
     "lemma": "Septemiaci",
     "previous": "Septem pagi",
     "next": "Septemiacus",
@@ -6233,35 +6261,6 @@
     ]
   },
   {
-    "lemma": "Septem Maria",
-    "previous": "Septem fratres",
-    "next": "Septem pagi",
-    "sort_key": "Septemmaria",
-    "proof_read": 0,
-    "short_description": "Das Mündubgsgebiet v. Po u. Etsch",
-    "chapters": [
-      {
-        "start": 1551,
-        "end": 1551,
-        "author": "Philipp."
-      }
-    ]
-  },
-  {
-    "lemma": "Septem pagi",
-    "previous": "Septem Maria",
-    "next": "Septemiaci",
-    "sort_key": "Septempagi",
-    "proof_read": 0,
-    "chapters": [
-      {
-        "start": 1551,
-        "end": 1551,
-        "author": "Philipp."
-      }
-    ]
-  },
-  {
     "lemma": "Septempeda",
     "previous": "Septemiuges",
     "next": "Septemviri 1",
@@ -6286,29 +6285,6 @@
         "start": 1552,
         "end": 1552,
         "author": "R. Leonhard."
-      }
-    ]
-  },
-  {
-    "lemma": "Septemviri",
-    "next": "Septemviri epulonum",
-    "short_description": "Gerichtl. Behörde",
-    "chapters": [
-      {
-        "start": 1552,
-        "author": "Leonhard"
-      }
-    ]
-  },
-  {
-    "lemma": "Septemviri epulonum",
-    "previous": "Septemviri",
-    "short_description": "Eines der vier höheren Priesterämter",
-    "chapters": [
-      {
-        "start": 1552,
-        "end": 1553,
-        "author": "Klotz"
       }
     ]
   },
@@ -14532,6 +14508,15 @@
     ]
   },
   {
+    "lemma": "Sethos",
+    "chapters": [
+      {
+        "start": 1923,
+        "end": 1923
+      }
+    ]
+  },
+  {
     "lemma": "Sethroë",
     "previous": "Sethos",
     "next": "Sethtiacum",
@@ -14615,7 +14600,7 @@
     ]
   },
   {
-    "lemma": "Setiensis 2",
+    "lemma": "Setiensis",
     "previous": "Σετίηνσις",
     "next": "Setis",
     "proof_read": 2,
@@ -14879,7 +14864,6 @@
   {
     "lemma": "Severa 3",
     "previous": "Severa 2",
-    "next": "Severacus, Severiacus",
     "redirect": "Marina 3",
     "proof_read": 2,
     "chapters": [
@@ -14919,19 +14903,7 @@
     ]
   },
   {
-    "lemma": "Σευήρα κώμη",
-    "previous": "Severacus, Severiacus",
-    "next": "Severeia",
-    "chapters": [
-      {
-        "start": 1928,
-        "author": "Honigmann"
-      }
-    ]
-  },
-  {
     "lemma": "Severeia",
-    "previous": "Σευήρα κώμη",
     "next": "Σευ(ηρεία) Ἀντ(ωνινεία), Σευ(ηρεία) Ἀλεξ(ανδρεία)",
     "redirect": "Σεβήρεια",
     "proof_read": 2,
@@ -15444,7 +15416,7 @@
     ]
   },
   {
-    "lemma": "Severinus 4",
+    "lemma": "Severinus 4a",
     "previous": "Severinus 3",
     "short_description": "Töpfername a - d)",
     "chapters": [
@@ -16724,26 +16696,12 @@
   {
     "lemma": "Sex",
     "previous": "Sevvonianus",
-    "next": "Sexag",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
       {
         "start": 2024,
         "end": 2024
-      }
-    ]
-  },
-  {
-    "lemma": "Sexag",
-    "previous": "Sex",
-    "next": "Sexagenarii",
-    "proof_read": 0,
-    "chapters": [
-      {
-        "start": 2024,
-        "end": 2024,
-        "author": "Keune."
       }
     ]
   },
@@ -16758,6 +16716,18 @@
         "start": 2024,
         "end": 2024,
         "author": "Klotz."
+      }
+    ]
+  },
+  {
+    "lemma": "Sexag",
+    "next": "Sexagenarii",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 2024,
+        "end": 2024,
+        "author": "Keune."
       }
     ]
   },
@@ -22497,17 +22467,6 @@
     ]
   },
   {
-    "lemma": "Σικελία, Sicilia 4",
-    "next": "Σικελία ἡ μικρά",
-    "short_description": "Epiklesis d. Hera in Syrakus",
-    "chapters": [
-      {
-        "start": 2522,
-        "author": "Storck"
-      }
-    ]
-  },
-  {
     "lemma": "Σικελία ἡ μικρά",
     "previous": "Σικελία, Sicilia 4",
     "next": "Σικελική",
@@ -22746,8 +22705,34 @@
     ]
   },
   {
+    "lemma": "Sarmatorum, strata–",
+    "chapters": [
+      {
+        "start": 2551,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sarmus",
+    "chapters": [
+      {
+        "start": 2551,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
+    "lemma": "Sarrum",
+    "chapters": [
+      {
+        "start": 2551,
+        "author": "Keune."
+      }
+    ]
+  },
+  {
     "lemma": "Sarta",
-    "previous": "Sila 2",
     "next": "Scribonius 30a",
     "short_description": "Alter Name d. heute la Sarthe gen. Loirezufluß",
     "chapters": [
