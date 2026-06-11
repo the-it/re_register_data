@@ -4828,6 +4828,7 @@
   },
   {
     "lemma": "Scalptor",
+    "next": "Scamcia",
     "chapters": [
       {
         "start": 350,
@@ -4837,6 +4838,7 @@
   },
   {
     "lemma": "Scamcia",
+    "previous": "Scalptor",
     "next": "Scammos",
     "redirect": "Scancia",
     "proof_read": 2,
@@ -14925,6 +14927,7 @@
   },
   {
     "lemma": "Seleucus 1",
+    "next": "Seleucus 2",
     "redirect": "Seleukos",
     "proof_read": 2,
     "chapters": [
@@ -14937,6 +14940,7 @@
   {
     "lemma": "Seleucus 2",
     "previous": "Seleucus 1",
+    "next": "Σελεύκεια, τά",
     "sort_key": "Seleucusmons",
     "proof_read": 0,
     "short_description": "Ortschaft im einstmaligen Gebiet d. Vocontii in Gallia Narbonensis",
@@ -14950,6 +14954,8 @@
   },
   {
     "lemma": "Σελεύκεια, τά",
+    "previous": "Seleucus 2",
+    "next": "Seleukeia",
     "sort_key": "Seleukeia,ta",
     "proof_read": 0,
     "short_description": "Seleukeia, Fest im ionischen Erythrai",
@@ -14963,6 +14969,7 @@
   },
   {
     "lemma": "Seleukeia",
+    "previous": "Σελεύκεια, τά",
     "next": "Seleukeia 1",
     "proof_read": 0,
     "short_description": "Fest im ion. Erythrai",
