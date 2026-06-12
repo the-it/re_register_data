@@ -2755,7 +2755,6 @@
   {
     "lemma": "Streontion",
     "previous": "Strenos",
-    "next": "Streouintia",
     "short_description": "Stadt in Germanien",
     "chapters": [
       {
@@ -2765,21 +2764,7 @@
     ]
   },
   {
-    "lemma": "Streouintia",
-    "previous": "Streontion",
-    "next": "Strepsa",
-    "short_description": "s. Streontion",
-    "chapters": [
-      {
-        "start": 354,
-        "author": "Franke"
-      }
-    ]
-  },
-  {
     "lemma": "Strepsa",
-    "previous": "Streouintia",
-    "next": "Striae",
     "short_description": "Maked. bzw. thrak. Stadt",
     "chapters": [
       {
@@ -2789,8 +2774,17 @@
     ]
   },
   {
+    "lemma": "Streouintia",
+    "short_description": "s. Streontion",
+    "chapters": [
+      {
+        "start": 354,
+        "author": "Franke"
+      }
+    ]
+  },
+  {
     "lemma": "Striae",
-    "previous": "Strepsa",
     "next": "Strictoria",
     "sort_key": "Striae",
     "proof_read": 2,
@@ -3422,7 +3416,6 @@
   {
     "lemma": "Struthas",
     "previous": "Struma",
-    "next": "Strouthophagoi",
     "short_description": "Pers. Oberfeldherr in d. Seeprovinzen Kleinasiens",
     "chapters": [
       {
@@ -3432,19 +3425,7 @@
     ]
   },
   {
-    "lemma": "Strouthophagoi",
-    "previous": "Struthas",
-    "next": "Strutheia",
-    "chapters": [
-      {
-        "start": 385,
-        "author": "Schwabe"
-      }
-    ]
-  },
-  {
     "lemma": "Strutheia",
-    "previous": "Strouthophagoi",
     "next": "Struthokamelos",
     "proof_read": 2,
     "short_description": "phrygische Stadt in der Nähe der lykaonischen Grenze, Steph. Byz.",
@@ -3459,7 +3440,6 @@
   {
     "lemma": "Struthokamelos",
     "previous": "Strutheia",
-    "next": "Struthopodes",
     "redirect": "Strauß",
     "proof_read": 2,
     "chapters": [
@@ -3470,8 +3450,16 @@
     ]
   },
   {
+    "lemma": "Strouthophagoi",
+    "chapters": [
+      {
+        "start": 385,
+        "author": "Schwabe"
+      }
+    ]
+  },
+  {
     "lemma": "Struthopodes",
-    "previous": "Struthokamelos",
     "next": "Struthus",
     "proof_read": 2,
     "short_description": "nach Eudoxos bei Plin. n. h. VII 24 ein Volk im südlichen Indien, dessen Männer",
