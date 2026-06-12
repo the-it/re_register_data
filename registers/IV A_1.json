@@ -402,22 +402,30 @@
   {
     "lemma": "Στομαλίμνη 1",
     "previous": "Stoma",
+    "next": "Στομαλίμνη 2",
+    "sort_key": "Stomalimne,he 1",
+    "proof_read": 0,
     "short_description": "Eine der Mündungen d. Skamandros/Troas",
     "chapters": [
       {
         "start": 63,
-        "author": "Bürchner"
+        "end": 64,
+        "author": "Bürchner."
       }
     ]
   },
   {
     "lemma": "Στομαλίμνη 2",
+    "previous": "Στομαλίμνη 1",
     "next": "Stomatae",
+    "sort_key": "Stomalimne,he 2",
+    "proof_read": 0,
     "short_description": "Dorfgemeinde auf d. Sporadeninsel Kos",
     "chapters": [
       {
         "start": 64,
-        "author": "Bürchner"
+        "end": 64,
+        "author": "Bürchner."
       }
     ]
   },
@@ -558,10 +566,13 @@
     "lemma": "Στόρνα",
     "previous": "Storgosia",
     "next": "Stornyx",
+    "sort_key": "Storna",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 73,
-        "author": "Herrmann"
+        "end": 73,
+        "author": "Herrmann."
       }
     ]
   },
@@ -653,8 +664,8 @@
     "lemma": "Strabo 1",
     "previous": "Strabax 2",
     "next": "Strabo 2",
-    "proof_read": 2,
-    "short_description": "Röm. Beiname",
+    "proof_read": 3,
+    "short_description": "römischer Beiname ‚der Schieler‘",
     "chapters": [
       {
         "start": 75,
@@ -824,11 +835,14 @@
     "lemma": "Στραγόνα",
     "previous": "Stragia",
     "next": "Stragulum",
+    "sort_key": "Stragona",
+    "proof_read": 0,
     "short_description": "Stadt in Germanien",
     "chapters": [
       {
         "start": 169,
-        "author": "Franke"
+        "end": 169,
+        "author": "Franke."
       }
     ]
   },
@@ -985,10 +999,13 @@
     "lemma": "Στράτα χώρα",
     "previous": "Straßenraub II",
     "next": "Stratagios",
+    "sort_key": "Stratachora",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 173,
-        "author": "Honigmann"
+        "end": 173,
+        "author": "Honigmann."
       }
     ]
   },
@@ -1023,11 +1040,14 @@
     "lemma": "Στρατηγήματα",
     "previous": "Strateburgus",
     "next": "Strategios",
+    "sort_key": "Strategemata",
+    "proof_read": 0,
     "short_description": "Kriegslisten, -taktiken",
     "chapters": [
       {
         "start": 174,
-        "author": "Lammert, Friedrich"
+        "end": 181,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -1301,11 +1321,14 @@
     "lemma": "Στρατηλάτης",
     "previous": "Strateios 2",
     "next": "Stratia 1",
+    "sort_key": "Stratelates",
+    "proof_read": 0,
     "short_description": "Heerführer einer selbständigen Formation",
     "chapters": [
       {
         "start": 254,
-        "author": "Kießling, Emil"
+        "end": 255,
+        "author": "E. Kießling."
       }
     ]
   },
@@ -1496,11 +1519,14 @@
     "lemma": "Στρατιωτικά",
     "previous": "Stratiotes",
     "next": "Strato",
+    "sort_key": "Stratiotika",
+    "proof_read": 0,
     "short_description": "Sc. chremata, besondere Kasse in Athen",
     "chapters": [
       {
         "start": 263,
-        "author": "Meyer, Ernst"
+        "end": 267,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -1521,8 +1547,8 @@
     "lemma": "Stratobates",
     "previous": "Strato",
     "next": "Stratoclia",
-    "proof_read": 2,
-    "short_description": "Einer der Söhne des Elektryon und der Anaxo",
+    "proof_read": 3,
+    "short_description": "ein Sohn des Elektryon und der Anaxo in Mykene",
     "wp_link": "w:en:Stratobates",
     "wd_link": "d:Q16087959",
     "chapters": [
@@ -1551,9 +1577,9 @@
   {
     "lemma": "Stratodemos",
     "previous": "Stratoclia",
-    "next": "Stratokeryx",
-    "proof_read": 2,
-    "short_description": "Spartaner, einer der Gesandten zum Großkönig, um ihn zum Krieg gegen Athen zu bewegen",
+    "next": "Στρατοκήρυξ",
+    "proof_read": 3,
+    "short_description": "Spartaner, Gesandter zum Großkönig gegen Athen",
     "no_creative_height": true,
     "chapters": [
       {
@@ -1564,7 +1590,7 @@
     ]
   },
   {
-    "lemma": "Stratokeryx",
+    "lemma": "Στρατοκήρυξ",
     "previous": "Stratodemos",
     "next": "Stratokleia",
     "sort_key": "Stratokeryx",
@@ -1579,7 +1605,7 @@
   },
   {
     "lemma": "Stratokleia",
-    "previous": "Stratokeryx",
+    "previous": "Στρατοκήρυξ",
     "next": "Stratokles 1",
     "redirect": "Stratoclia",
     "proof_read": 2,
@@ -1666,8 +1692,8 @@
     "lemma": "Stratokles 6",
     "previous": "Stratokles 5",
     "next": "Stratokles 7",
-    "proof_read": 2,
-    "short_description": "Athenischer Redner",
+    "proof_read": 3,
+    "short_description": "athenischer Redner",
     "chapters": [
       {
         "start": 271,
@@ -1737,12 +1763,12 @@
     "lemma": "Stratolaos 1",
     "previous": "Stratokles 10",
     "next": "Stratolaos 2",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Sohn des Parthenopaios, einer der Epigonen",
     "chapters": [
       {
-        "start": 271,
-        "end": 271,
+        "start": 272,
+        "end": 272,
         "author": "Scherling."
       }
     ]
@@ -1765,14 +1791,14 @@
     "lemma": "Stratolas",
     "previous": "Stratolaos 2",
     "next": "Στρατολογία",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Eleer, fiel im Kampf gegen die Arkader 364 v. Chr.",
     "wp_link": "w:ca:Estratoles",
     "wd_link": "d:Q11921049",
     "chapters": [
       {
-        "start": 271,
-        "end": 271,
+        "start": 272,
+        "end": 272,
         "author": "Fiehn."
       }
     ]
@@ -2115,8 +2141,8 @@
   {
     "lemma": "Straton 22",
     "previous": "Straton 21",
-    "next": "Stratonae",
-    "proof_read": 2,
+    "next": "Straton 23",
+    "proof_read": 3,
     "short_description": "Olympionike, Sohn des Korrhagos, aus Alexandria",
     "wp_link": "w:el:Στράτων ο Αλεξανδρεύς (παλαιστής)",
     "wd_link": "d:Q21644783",
@@ -2653,8 +2679,8 @@
     "previous": "Strauß",
     "next": "Streden",
     "sort_key": "Stravianis",
-    "proof_read": 2,
-    "short_description": "Ort in Pannonia inferior",
+    "proof_read": 3,
+    "short_description": "Ort in Pannonia inferior bei Mursa",
     "chapters": [
       {
         "start": 347,
@@ -9094,7 +9120,7 @@
     "lemma": "Suna 2",
     "previous": "Suna 1",
     "next": "Sunhivadus",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Sona, comes unter Theoderich, Bauleiter in Rom 507–511 n. Chr.",
     "chapters": [
       {
@@ -9108,8 +9134,8 @@
     "lemma": "Sunhivadus",
     "previous": "Suna 2",
     "next": "Sunia",
-    "proof_read": 2,
-    "short_description": "gotischer Beamter unter Theoderich, Anfang 6. Jhdt. n. Chr.",
+    "proof_read": 3,
+    "short_description": "gotischer Beamter unter Theoderich, Anfang 6. Jh. n. Chr.",
     "chapters": [
       {
         "start": 909,
@@ -10314,7 +10340,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Surus 2c",
     "chapters": [
       {
@@ -10323,7 +10349,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Surus 2d",
     "chapters": [
       {

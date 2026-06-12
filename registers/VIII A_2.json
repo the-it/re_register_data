@@ -10750,6 +10750,7 @@
   {
     "lemma": "Vedra",
     "previous": "Vecta",
+    "next": "Vegetius",
     "proof_read": 2,
     "short_description": "Britann. Fluß",
     "no_creative_height": true,
@@ -10763,12 +10764,19 @@
   },
   {
     "lemma": "Vegetius",
-    "chapters": [{"start": 2396}]
+    "previous": "Vedra",
+    "next": "Vēlābrum",
+    "chapters": [
+      {
+        "start": 2396
+      }
+    ]
   },
   {
-    "lemma": "Velabrum",
+    "lemma": "Vēlābrum",
     "previous": "Vegetius",
     "next": "Velanius",
+    "sort_key": "Velabrum",
     "proof_read": 0,
     "short_description": "das stadtrömische Sumpfgebiet zwischen Capitolium, Palatium und Tiber",
     "wp_link": "w:de:Velabrum",
@@ -10783,7 +10791,7 @@
   },
   {
     "lemma": "Velanius",
-    "previous": "Velabrum",
+    "previous": "Vēlābrum",
     "next": "Velatodurum, Velatudorum, Vetatudurum",
     "short_description": "Q. V., röm. Ritter, tribunus militum(?) unter Caesar",
     "chapters": [
