@@ -2141,6 +2141,7 @@
   {
     "lemma": "Straton 22",
     "previous": "Straton 21",
+    "next": "Stratonae",
     "proof_read": 3,
     "short_description": "Olympionike, Sohn des Korrhagos, aus Alexandria",
     "wp_link": "w:el:Στράτων ο Αλεξανδρεύς (παλαιστής)",
@@ -2487,41 +2488,48 @@
     "lemma": "Stratonikos 4",
     "previous": "Stratonikos 3",
     "next": "Stratonis",
+    "proof_read": 0,
     "short_description": "Von Kyzikos, Erzgießer u. Toreut",
     "chapters": [
       {
         "start": 327,
-        "author": "Lippold, Georg"
+        "end": 328,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Stratonis",
     "previous": "Stratonikos 4",
-    "next": "Stratonos nesos",
+    "next": "Στράτωνος νῆσος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 328,
-        "author": "Fluss"
+        "end": 328,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Stratonos nesos",
+    "lemma": "Στράτωνος νῆσος",
     "previous": "Stratonis",
     "next": "Στράτωνος πύργος",
+    "sort_key": "Stratonosnesos",
+    "proof_read": 0,
     "short_description": "Der W-Küste d. Arab. Meerbusens (d. Roten Meeres) vorgelagerte Insel",
     "chapters": [
       {
         "start": 328,
-        "author": "Treidler"
+        "end": 329,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Στράτωνος πύργος",
-    "previous": "Stratonos nesos",
-    "next": "Stratopeda",
+    "previous": "Στράτωνος νῆσος",
+    "next": "Στρατόπεδα",
     "sort_key": "Stratonos pyrgos",
     "redirect": "Caesarea 10",
     "proof_read": 2,
@@ -2533,49 +2541,73 @@
     ]
   },
   {
-    "lemma": "Stratopeda",
+    "lemma": "Στρατόπεδα",
     "previous": "Στράτωνος πύργος",
-    "next": "Stratopedarches",
+    "next": "Στρατοπεδάρχης",
+    "sort_key": "Stratopeda",
+    "proof_read": 0,
     "short_description": "Siedlungen gr. Söldner in Ägypten",
     "chapters": [
       {
         "start": 329,
-        "author": "Lammert, Friedrich"
+        "end": 329,
+        "author": "F. Lammert."
       }
     ]
   },
   {
-    "lemma": "Stratopedarches",
-    "previous": "Stratopeda",
+    "lemma": "Στρατοπεδάρχης",
+    "previous": "Στρατόπεδα",
     "next": "Strator",
+    "sort_key": "Stratopedarches",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 329,
-        "author": "Kießling, Emil"
+        "end": 329,
+        "author": "E. Kießling."
       }
     ]
   },
   {
     "lemma": "Strator",
-    "previous": "Stratopedarches",
-    "next": "Stratos 1",
+    "previous": "Στρατοπεδάρχης",
+    "next": "Stratos",
+    "proof_read": 0,
     "short_description": "Reitknecht beim Militär",
     "chapters": [
       {
         "start": 329,
-        "author": "Lammert, Friedrich"
+        "end": 330,
+        "author": "F. Lammert."
+      }
+    ]
+  },
+  {
+    "lemma": "Stratos",
+    "previous": "Strator",
+    "next": "Stratos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 330,
+        "end": 330,
+        "author": "Bölte."
       }
     ]
   },
   {
     "lemma": "Stratos 1",
-    "previous": "Strator",
+    "previous": "Stratos",
     "next": "Stratos 2",
+    "proof_read": 0,
     "short_description": "Älterer Name d. achäischen Stadt Dyme, s.d.",
     "chapters": [
       {
         "start": 330,
-        "author": "Bölte"
+        "end": 330,
+        "author": "Bölte."
       }
     ]
   },
@@ -2583,11 +2615,13 @@
     "lemma": "Stratos 2",
     "previous": "Stratos 1",
     "next": "Stratos 3",
+    "proof_read": 0,
     "short_description": "Zu Telphusa in Arkadien gehörende Gemeinde",
     "chapters": [
       {
         "start": 330,
-        "author": "Bölte"
+        "end": 331,
+        "author": "Bölte."
       }
     ]
   },
@@ -2595,11 +2629,13 @@
     "lemma": "Stratos 3",
     "previous": "Stratos 2",
     "next": "Strattis 1",
+    "proof_read": 0,
     "short_description": "Stadt in Akarnanien",
     "chapters": [
       {
         "start": 331,
-        "author": "Zschietzschmann"
+        "end": 336,
+        "author": "Zschietzschmann."
       }
     ]
   },
@@ -2607,11 +2643,13 @@
     "lemma": "Strattis 1",
     "previous": "Stratos 3",
     "next": "Strattis 2",
+    "proof_read": 0,
     "short_description": "Tyrann v. Chios",
     "chapters": [
       {
         "start": 336,
-        "author": "Kahrstedt"
+        "end": 336,
+        "author": "Kahrstedt."
       }
     ]
   },
@@ -2653,11 +2691,13 @@
     "lemma": "Stratum",
     "previous": "Strattis 3",
     "next": "Strauß",
+    "proof_read": 0,
     "short_description": "Pferdedeck Decke, Polster Pflaster (= pavimentum)",
     "chapters": [
       {
         "start": 338,
-        "author": "Miltner, Helene"
+        "end": 339,
+        "author": "H. Miltner."
       }
     ]
   },
@@ -2665,11 +2705,13 @@
     "lemma": "Strauß",
     "previous": "Stratum",
     "next": "Stravianis",
+    "proof_read": 0,
     "short_description": "Vogelart",
     "chapters": [
       {
         "start": 339,
-        "author": "Steier"
+        "end": 347,
+        "author": "Steier."
       }
     ]
   },
@@ -2706,10 +2748,12 @@
     "lemma": "Streitwagen",
     "previous": "Streden",
     "next": "Strena",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 347,
-        "author": "Lammert, Friedrich"
+        "end": 351,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -2717,11 +2761,13 @@
     "lemma": "Strena",
     "previous": "Streitwagen",
     "next": "Strenia",
+    "proof_read": 0,
     "short_description": "Neujahrsgeschenk",
     "chapters": [
       {
         "start": 351,
-        "author": "Nilsson"
+        "end": 353,
+        "author": "Nilsson."
       }
     ]
   },
@@ -2729,18 +2775,20 @@
     "lemma": "Strenia",
     "previous": "Strena",
     "next": "Strenos",
+    "proof_read": 0,
     "short_description": "Heilsgöttin",
     "chapters": [
       {
         "start": 353,
-        "author": "Marbach"
+        "end": 354,
+        "author": "Marbach."
       }
     ]
   },
   {
     "lemma": "Strenos",
     "previous": "Strenia",
-    "next": "Streontion",
+    "next": "Στρεόντιον",
     "proof_read": 2,
     "short_description": "Stadt auf Kreta, Lage nicht zu identifizieren. Steph. Byz. s. Στρῆνος.",
     "no_creative_height": true,
@@ -2753,18 +2801,24 @@
     ]
   },
   {
-    "lemma": "Streontion",
+    "lemma": "Στρεόντιον",
     "previous": "Strenos",
+    "next": "Strepsa",
+    "sort_key": "Streontion",
+    "proof_read": 0,
     "short_description": "Stadt in Germanien",
     "chapters": [
       {
         "start": 354,
-        "author": "Franke"
+        "end": 354,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Strepsa",
+    "previous": "Στρεόντιον",
+    "next": "Στρεουιντία",
     "short_description": "Maked. bzw. thrak. Stadt",
     "chapters": [
       {
@@ -2774,17 +2828,23 @@
     ]
   },
   {
-    "lemma": "Streouintia",
+    "lemma": "Στρεουιντία",
+    "previous": "Strepsa",
+    "next": "Striae",
+    "sort_key": "Streouintia",
+    "proof_read": 0,
     "short_description": "s. Streontion",
     "chapters": [
       {
         "start": 354,
-        "author": "Franke"
+        "end": 354,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Striae",
+    "previous": "Στρεουιντία",
     "next": "Strictoria",
     "sort_key": "Striae",
     "proof_read": 2,
@@ -2846,11 +2906,13 @@
     "lemma": "Striges",
     "previous": "Striganus",
     "next": "Strigilis",
+    "proof_read": 0,
     "short_description": "Beizeichung versch. Eulenarten Hexen und dämonische Wesen",
     "chapters": [
       {
         "start": 356,
-        "author": "Boehm"
+        "end": 363,
+        "author": "Boehm."
       }
     ]
   },
@@ -2858,11 +2920,13 @@
     "lemma": "Strigilis",
     "previous": "Striges",
     "next": "Strobilius",
+    "proof_read": 0,
     "short_description": "Löffelartiges Gerät, um z.B. Schmutz aus Öl, Sand usw. nach d. Sport",
     "chapters": [
       {
         "start": 363,
-        "author": "Miltner, Helene"
+        "end": 365,
+        "author": "H. Miltner."
       }
     ]
   },
@@ -2939,11 +3003,13 @@
     "lemma": "Strobilus 2",
     "previous": "Strobilus 1",
     "next": "Strobilus sinus",
+    "proof_read": 0,
     "short_description": "Person, bes. eines Lampentöpfers",
     "chapters": [
       {
         "start": 365,
-        "author": "Keune"
+        "end": 367,
+        "author": "Keune."
       }
     ]
   },
@@ -2951,11 +3017,14 @@
     "lemma": "Strobilus sinus",
     "previous": "Strobilus 2",
     "next": "Στρώη",
+    "sort_key": "Strobilussinus",
+    "proof_read": 0,
     "short_description": "Örtlichkeit an d. afrikan. Küste d. Roten Meeres",
     "chapters": [
       {
         "start": 367,
-        "author": "Treidler"
+        "end": 369,
+        "author": "Treidler."
       }
     ]
   },
@@ -2978,10 +3047,12 @@
     "lemma": "Stroibos",
     "previous": "Στρώη",
     "next": "Stromata",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 369,
-        "author": "Nachod"
+        "end": 369,
+        "author": "Nachod."
       }
     ]
   },
@@ -2989,11 +3060,13 @@
     "lemma": "Stromata",
     "previous": "Stroibos",
     "next": "Strombichides",
+    "proof_read": 0,
     "short_description": "Decken",
     "chapters": [
       {
         "start": 369,
-        "author": "Hug"
+        "end": 370,
+        "author": "Hug."
       }
     ]
   },
@@ -3001,11 +3074,13 @@
     "lemma": "Strombichides",
     "previous": "Stromata",
     "next": "Strombichos 1",
+    "proof_read": 0,
     "short_description": "Athen. Stratege 412 v. Chr.",
     "chapters": [
       {
         "start": 370,
-        "author": "Kahrstedt"
+        "end": 371,
+        "author": "Kahrstedt."
       }
     ]
   },
@@ -3013,11 +3088,13 @@
     "lemma": "Strombichos 1",
     "previous": "Strombichides",
     "next": "Strombichos 2",
+    "proof_read": 0,
     "short_description": "Stadtkommandant d. Polyperchon in Orchomenos",
     "chapters": [
       {
         "start": 371,
-        "author": "Schoch"
+        "end": 371,
+        "author": "Schoch."
       }
     ]
   },
@@ -3025,11 +3102,13 @@
     "lemma": "Strombichos 2",
     "previous": "Strombichos 1",
     "next": "Strombichos 3",
+    "proof_read": 0,
     "short_description": "Offizier d. Demetrios Poliorketes",
     "chapters": [
       {
         "start": 371,
-        "author": "Schoch"
+        "end": 371,
+        "author": "Schoch."
       }
     ]
   },
@@ -3037,11 +3116,13 @@
     "lemma": "Strombichos 3",
     "previous": "Strombichos 2",
     "next": "Strombos",
+    "proof_read": 0,
     "short_description": "Athen. Bildhauer",
     "chapters": [
       {
         "start": 371,
-        "author": "Lippold, Georg"
+        "end": 371,
+        "author": "Lippold."
       }
     ]
   },
@@ -3049,17 +3130,19 @@
     "lemma": "Strombos",
     "previous": "Strombichos 3",
     "next": "Stronges",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 371,
-        "author": "Türk"
+        "end": 371,
+        "author": "Türk."
       }
     ]
   },
   {
     "lemma": "Stronges",
     "previous": "Strombos",
-    "next": "Strongylai",
+    "next": "Στρογγύλαι",
     "proof_read": 2,
     "short_description": "(Στρόγγες), ein nur bei Procop. de aedif. IV S. 123, 17 Haury genanntes Kastell",
     "chapters": [
@@ -3071,19 +3154,22 @@
     ]
   },
   {
-    "lemma": "Strongylai",
+    "lemma": "Στρογγύλαι",
     "previous": "Stronges",
     "next": "Strongyle 1",
+    "sort_key": "Strongylai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 371,
-        "author": "Lammert, Friedrich"
+        "end": 371,
+        "author": "F. Lammert."
       }
     ]
   },
   {
     "lemma": "Strongyle 1",
-    "previous": "Strongylai",
+    "previous": "Στρογγύλαι",
     "next": "Strongyle 2",
     "proof_read": 2,
     "short_description": "Insel an d. lykischen Küste",
@@ -3127,11 +3213,13 @@
     "lemma": "Strongyle 4",
     "previous": "Strongyle 3",
     "next": "Strongyle 5",
+    "proof_read": 0,
     "short_description": "Eine der liparischen Inseln, heute Stromboli",
     "chapters": [
       {
         "start": 372,
-        "author": "Philipp"
+        "end": 372,
+        "author": "Philipp."
       }
     ]
   },
@@ -3153,17 +3241,19 @@
   {
     "lemma": "Strongylion",
     "previous": "Strongyle 5",
-    "next": "Στρογγύλον ὄρος",
+    "next": "Στρογγύλον",
+    "proof_read": 0,
     "short_description": "Erzgießer",
     "chapters": [
       {
         "start": 372,
-        "author": "Lippold, Georg"
+        "end": 374,
+        "author": "Lippold."
       }
     ]
   },
   {
-    "lemma": "Στρογγύλον ὄρος",
+    "lemma": "Στρογγύλον",
     "previous": "Strongylion",
     "next": "Strophades",
     "sort_key": "Strongylonoros",
@@ -3179,13 +3269,15 @@
   },
   {
     "lemma": "Strophades",
-    "previous": "Στρογγύλον ὄρος",
+    "previous": "Στρογγύλον",
     "next": "Στρόφαί",
+    "proof_read": 0,
     "short_description": "Zwei kleine Inseln im Ion. Meer",
     "chapters": [
       {
         "start": 374,
-        "author": "Creutzburg"
+        "end": 376,
+        "author": "Creutzburg."
       }
     ]
   },
@@ -3208,11 +3300,13 @@
     "lemma": "Strophaia",
     "previous": "Στρόφαί",
     "next": "Strophaios",
+    "proof_read": 0,
     "short_description": "Beiname d. Artemis",
     "chapters": [
       {
         "start": 376,
-        "author": "Gebhard"
+        "end": 377,
+        "author": "Gebhard."
       }
     ]
   },
@@ -3220,11 +3314,13 @@
     "lemma": "Strophaios",
     "previous": "Strophaia",
     "next": "Strophios 1",
+    "proof_read": 0,
     "short_description": "Beiname d. Hermes",
     "chapters": [
       {
         "start": 377,
-        "author": "Gebhard"
+        "end": 377,
+        "author": "Gebhard."
       }
     ]
   },
@@ -3232,11 +3328,13 @@
     "lemma": "Strophios 1",
     "previous": "Strophaios",
     "next": "Strophios 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Krisos",
     "chapters": [
       {
         "start": 377,
-        "author": "Türk"
+        "end": 378,
+        "author": "Türk."
       }
     ]
   },
@@ -3304,11 +3402,13 @@
     "lemma": "Strophium",
     "previous": "Strophios 5",
     "next": "Strota",
+    "proof_read": 0,
     "short_description": "Büstenhalter Gürtel Haarbinde",
     "chapters": [
       {
         "start": 378,
-        "author": "Bieber"
+        "end": 381,
+        "author": "Bieber."
       }
     ]
   },
@@ -3330,34 +3430,41 @@
   {
     "lemma": "Stroton",
     "previous": "Strota",
-    "next": "Strouchates",
+    "next": "Στρούχατες",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 381,
-        "author": "Lippold, Georg"
+        "end": 381,
+        "author": "Lippold."
       }
     ]
   },
   {
-    "lemma": "Strouchates",
+    "lemma": "Στρούχατες",
     "previous": "Stroton",
     "next": "Structor 1",
+    "sort_key": "Strouchates",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 381,
-        "author": "Weissbach"
+        "end": 381,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Structor 1",
-    "previous": "Strouchates",
+    "previous": "Στρούχατες",
     "next": "Structor 2",
+    "proof_read": 0,
     "short_description": "Handwerker im Baugewerbe",
     "chapters": [
       {
         "start": 381,
-        "author": "Hug"
+        "end": 382,
+        "author": "Hug."
       }
     ]
   },
@@ -3365,11 +3472,13 @@
     "lemma": "Structor 2",
     "previous": "Structor 1",
     "next": "Structor 3",
+    "proof_read": 0,
     "short_description": "Anrichter, Tafeldecker",
     "chapters": [
       {
         "start": 382,
-        "author": "Hug"
+        "end": 383,
+        "author": "Hug."
       }
     ]
   },
@@ -3391,11 +3500,14 @@
     "lemma": "Strues, Strufertarii",
     "previous": "Structor 3",
     "next": "Struma",
+    "sort_key": "Strues,strufertarii",
+    "proof_read": 0,
     "short_description": "Röm. Opferkuchen",
     "chapters": [
       {
         "start": 383,
-        "author": "Wissowa"
+        "end": 384,
+        "author": "Wissowa."
       }
     ]
   },
@@ -3416,16 +3528,20 @@
   {
     "lemma": "Struthas",
     "previous": "Struma",
+    "next": "Strutheia",
+    "proof_read": 0,
     "short_description": "Pers. Oberfeldherr in d. Seeprovinzen Kleinasiens",
     "chapters": [
       {
         "start": 384,
-        "author": "Fiehn"
+        "end": 384,
+        "author": "Fiehn."
       }
     ]
   },
   {
     "lemma": "Strutheia",
+    "previous": "Struthas",
     "next": "Struthokamelos",
     "proof_read": 2,
     "short_description": "phrygische Stadt in der Nähe der lykaonischen Grenze, Steph. Byz.",
@@ -3440,6 +3556,7 @@
   {
     "lemma": "Struthokamelos",
     "previous": "Strutheia",
+    "next": "Στρουθοφάγοι",
     "redirect": "Strauß",
     "proof_read": 2,
     "chapters": [
@@ -3450,16 +3567,22 @@
     ]
   },
   {
-    "lemma": "Strouthophagoi",
+    "lemma": "Στρουθοφάγοι",
+    "previous": "Struthokamelos",
+    "next": "Struthopodes",
+    "sort_key": "Strouthophagoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 385,
-        "author": "Schwabe"
+        "end": 385,
+        "author": "Schwabe."
       }
     ]
   },
   {
     "lemma": "Struthopodes",
+    "previous": "Στρουθοφάγοι",
     "next": "Struthus",
     "proof_read": 2,
     "short_description": "nach Eudoxos bei Plin. n. h. VII 24 ein Volk im südlichen Indien, dessen Männer",
@@ -3475,11 +3598,13 @@
     "lemma": "Struthus",
     "previous": "Struthopodes",
     "next": "Strychnos",
+    "proof_read": 0,
     "short_description": "Vorgebirge an d. O-Küste d. argol. Meerbusens",
     "chapters": [
       {
         "start": 385,
-        "author": "Bölte"
+        "end": 385,
+        "author": "Bölte."
       }
     ]
   },
@@ -3487,11 +3612,13 @@
     "lemma": "Strychnos",
     "previous": "Struthus",
     "next": "Stryme",
+    "proof_read": 0,
     "short_description": "Pflanzenart",
     "chapters": [
       {
         "start": 385,
-        "author": "Steier"
+        "end": 390,
+        "author": "Steier."
       }
     ]
   },
@@ -3515,11 +3642,13 @@
     "lemma": "Strymo 1",
     "previous": "Stryme",
     "next": "Strymo 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Skamandros",
     "chapters": [
       {
         "start": 390,
-        "author": "Bubbe"
+        "end": 390,
+        "author": "Bubbe."
       }
     ]
   },
@@ -3541,11 +3670,13 @@
     "lemma": "Strymon 1",
     "previous": "Strymo 2",
     "next": "Strymon 2",
+    "proof_read": 0,
     "short_description": "Strom d. Balkanhalbinsel",
     "chapters": [
       {
         "start": 390,
-        "author": "Oberhummer"
+        "end": 393,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -3553,11 +3684,13 @@
     "lemma": "Strymon 2",
     "previous": "Strymon 1",
     "next": "Strymon 3",
+    "proof_read": 0,
     "short_description": "Gott d. gleichnamigen Flußes Nr. 1",
     "chapters": [
       {
         "start": 393,
-        "author": "Türk"
+        "end": 394,
+        "author": "Türk."
       }
     ]
   },
@@ -3607,10 +3740,13 @@
     "lemma": "Strymonischer Golf",
     "previous": "Strymonioi",
     "next": "Stubera",
+    "sort_key": "Strymonischergolf",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 394,
-        "author": "Oberhummer"
+        "end": 395,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -3618,10 +3754,12 @@
     "lemma": "Stubera",
     "previous": "Strymonischer Golf",
     "next": "Stublo",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 395,
-        "author": "Oberhummer"
+        "end": 395,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -3657,36 +3795,43 @@
   {
     "lemma": "Stuck",
     "previous": "Stuccia",
-    "next": "studiis, a",
+    "next": "a studiis",
+    "proof_read": 0,
     "short_description": "Dekor in d. Architektur",
     "chapters": [
       {
         "start": 395,
-        "author": "Fensterbusch"
+        "end": 397,
+        "author": "Fensterbusch."
       }
     ]
   },
   {
-    "lemma": "studiis, a",
+    "lemma": "a studiis",
     "previous": "Stuck",
     "next": "Studios 1",
+    "sort_key": "studiis,a",
+    "proof_read": 0,
     "short_description": "Kaiserl. Hofamt",
     "chapters": [
       {
         "start": 397,
-        "author": "Kübler, B[ernhard]"
+        "end": 398,
+        "author": "Kübler."
       }
     ]
   },
   {
     "lemma": "Studios 1",
-    "previous": "studiis, a",
+    "previous": "a studiis",
     "next": "Studios 2",
+    "proof_read": 0,
     "short_description": "Comes rerum privatarum bei Arkadios",
     "chapters": [
       {
         "start": 398,
-        "author": "Seeck"
+        "end": 398,
+        "author": "Seeck."
       }
     ]
   },
@@ -3751,11 +3896,13 @@
     "lemma": "Stuhl",
     "previous": "Studius",
     "next": "Stulnini",
+    "proof_read": 0,
     "short_description": "Sitzgelegenheit",
     "chapters": [
       {
         "start": 398,
-        "author": "Hug"
+        "end": 422,
+        "author": "Hug."
       }
     ]
   },
@@ -3763,10 +3910,12 @@
     "lemma": "Stulnini",
     "previous": "Stuhl",
     "next": "Stulpini",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 422,
-        "author": "Philipp"
+        "end": 422,
+        "author": "Philipp."
       }
     ]
   },
@@ -3788,11 +3937,13 @@
     "lemma": "Stupidus",
     "previous": "Stulpini",
     "next": "Stuplo",
+    "proof_read": 0,
     "short_description": "Stehende Figur im Mimos",
     "chapters": [
       {
         "start": 422,
-        "author": "Kroll"
+        "end": 423,
+        "author": "Kroll."
       }
     ]
   },
@@ -3800,10 +3951,12 @@
     "lemma": "Stuplo",
     "previous": "Stupidus",
     "next": "Stuprum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 423,
-        "author": "Keune"
+        "end": 423,
+        "author": "Keune."
       }
     ]
   },
@@ -3811,11 +3964,13 @@
     "lemma": "Stuprum",
     "previous": "Stuplo",
     "next": "Stura 1",
+    "proof_read": 0,
     "short_description": "Schande, insbes. Entehrung durch Unzucht",
     "chapters": [
       {
         "start": 423,
-        "author": "Pfaff"
+        "end": 424,
+        "author": "Pfaff."
       }
     ]
   },
@@ -3823,11 +3978,13 @@
     "lemma": "Stura 1",
     "previous": "Stuprum",
     "next": "Stura 2",
+    "proof_read": 0,
     "short_description": "Niederung u. Ankerstelle im Indusdelta",
     "chapters": [
       {
         "start": 424,
-        "author": "Herrmann"
+        "end": 424,
+        "author": "Herrmann."
       }
     ]
   },
@@ -3835,11 +3992,13 @@
     "lemma": "Stura 2",
     "previous": "Stura 1",
     "next": "Stura 3",
+    "proof_read": 0,
     "short_description": "Fluß im Alpenland d. Tauriner",
     "chapters": [
       {
         "start": 425,
-        "author": "Philipp"
+        "end": 425,
+        "author": "Philipp."
       }
     ]
   },
@@ -3847,11 +4006,13 @@
     "lemma": "Stura 3",
     "previous": "Stura 2",
     "next": "Sturii",
+    "proof_read": 0,
     "short_description": "Fluß in Latium",
     "chapters": [
       {
         "start": 425,
-        "author": "Philipp"
+        "end": 425,
+        "author": "Philipp."
       }
     ]
   },
@@ -3859,11 +4020,13 @@
     "lemma": "Sturii",
     "previous": "Stura 3",
     "next": "Sturium",
+    "proof_read": 0,
     "short_description": "Volk auf einer Insel d. Rheinmündung",
     "chapters": [
       {
         "start": 425,
-        "author": "Franke"
+        "end": 425,
+        "author": "Franke."
       }
     ]
   },
@@ -3871,17 +4034,19 @@
     "lemma": "Sturium",
     "previous": "Sturii",
     "next": "Sturnini",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 425,
-        "author": "Wackernagel"
+        "end": 425,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
   {
     "lemma": "Sturnini",
     "previous": "Sturium",
-    "next": "Sturnoi 1",
+    "next": "Στοῦρνοι 1",
     "redirect": "Stulnini",
     "proof_read": 2,
     "chapters": [
@@ -3892,21 +4057,25 @@
     ]
   },
   {
-    "lemma": "Sturnoi 1",
+    "lemma": "Στοῦρνοι 1",
     "previous": "Sturnini",
-    "next": "Sturnoi 2",
+    "next": "Στοῦρνοι 2",
+    "sort_key": "Sturnoi 1",
+    "proof_read": 0,
     "short_description": "Volk in Sarmatien",
     "chapters": [
       {
         "start": 425,
-        "author": "Herrmann"
+        "end": 425,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Sturnoi 2",
-    "previous": "Sturnoi 1",
+    "lemma": "Στοῦρνοι 2",
+    "previous": "Στοῦρνοι 1",
     "next": "Sturum",
+    "sort_key": "Sturnoi 2",
     "redirect": "Stulnini",
     "proof_read": 2,
     "chapters": [
@@ -3918,13 +4087,15 @@
   },
   {
     "lemma": "Sturum",
-    "previous": "Sturnoi 2",
+    "previous": "Στοῦρνοι 2",
     "next": "Stygia",
+    "proof_read": 0,
     "short_description": "Ort an d. Straße Tyra/Pontus - Porolissum/Dakien",
     "chapters": [
       {
         "start": 425,
-        "author": "Fluss"
+        "end": 426,
+        "author": "Fluss."
       }
     ]
   },
@@ -3945,11 +4116,13 @@
     "lemma": "Stygios",
     "previous": "Stygia",
     "next": "Stygius Iupiter",
+    "proof_read": 0,
     "short_description": "Beiname 1. d. Proserpina, 2. d. Erinyen, 3. d. Parzen, 4. d. Kerberos",
     "chapters": [
       {
         "start": 426,
-        "author": "Gebhard"
+        "end": 426,
+        "author": "Gebhard."
       }
     ]
   },
@@ -3957,11 +4130,14 @@
     "lemma": "Stygius Iupiter",
     "previous": "Stygios",
     "next": "Stygne",
+    "sort_key": "Stygiusiupiter",
+    "proof_read": 0,
     "short_description": "Dispater-Pluton im Gegensatz zu Iupiter supremus",
     "chapters": [
       {
         "start": 426,
-        "author": "Gebhard"
+        "end": 426,
+        "author": "Gebhard."
       }
     ]
   },
@@ -3994,7 +4170,7 @@
   {
     "lemma": "Stylas",
     "previous": "Stylangion",
-    "next": "Stylis",
+    "next": "Στυλίς",
     "proof_read": 3,
     "short_description": "Comes Aegypti im J. 461, vertreibt den Bischof Timotheos Ailuros aus",
     "chapters": [
@@ -4006,20 +4182,23 @@
     ]
   },
   {
-    "lemma": "Stylis",
+    "lemma": "Στυλίς",
     "previous": "Stylas",
     "next": "Stylla",
+    "sort_key": "Stylis",
+    "proof_read": 0,
     "short_description": "Stange, Flaggenstange auf Schiffen",
     "chapters": [
       {
         "start": 427,
-        "author": "Lammert, Friedrich"
+        "end": 428,
+        "author": "F. Lammert."
       }
     ]
   },
   {
     "lemma": "Stylla",
-    "previous": "Stylis",
+    "previous": "Στυλίς",
     "next": "Styllagion",
     "proof_read": 2,
     "short_description": "(Στύλλα), Gemahlin des Aigestes, nach der die gleichnamige Stadt in Sizilien",
@@ -4047,70 +4226,99 @@
   {
     "lemma": "Stylobates",
     "previous": "Styllagion",
-    "next": "Stylos 1",
+    "next": "Στῦλος 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 428,
-        "author": "Ebert"
+        "end": 428,
+        "author": "Ebert."
       }
     ]
   },
   {
-    "lemma": "Stylos 1",
+    "lemma": "Στῦλος 1",
     "previous": "Stylobates",
-    "next": "Stylos 2",
+    "next": "Στῦλος 2",
+    "sort_key": "Stylos 1",
+    "proof_read": 0,
     "short_description": "Säule als Architekturform",
     "chapters": [
       {
         "start": 428,
-        "author": "Fensterbusch"
+        "end": 433,
+        "author": "Fensterbusch."
       }
     ]
   },
   {
-    "lemma": "Stylos 2",
-    "previous": "Stylos 1",
+    "lemma": "Στῦλος 2",
+    "previous": "Στῦλος 1",
     "next": "Stymbara",
+    "sort_key": "Stylos 2",
+    "proof_read": 0,
     "short_description": "Zu Dionysos im gr. Baumkult",
     "chapters": [
       {
         "start": 433,
-        "author": "Türk"
+        "end": 434,
+        "author": "Türk."
       }
     ]
   },
   {
     "lemma": "Stymbara",
-    "previous": "Stylos 2",
-    "next": "Stymphaia",
+    "previous": "Στῦλος 2",
+    "next": "Στυμφαία",
+    "proof_read": 0,
     "short_description": "s. Stubera",
     "chapters": [
       {
         "start": 434,
-        "author": "Oberhummer"
+        "end": 434,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Stymphaia",
+    "lemma": "Στυμφαία",
     "previous": "Stymbara",
-    "next": "Stymphalia 1",
+    "next": "Stymphalia",
+    "sort_key": "Stymphaia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 434,
-        "author": "Stählin"
+        "end": 434,
+        "author": "Stählin."
+      }
+    ]
+  },
+  {
+    "lemma": "Stymphalia",
+    "previous": "Στυμφαία",
+    "next": "Stymphalia 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 434,
+        "end": 434,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Stymphalia 1",
-    "previous": "Stymphaia",
+    "previous": "Stymphalia",
     "next": "Stymphalia 2",
+    "proof_read": 0,
     "short_description": "s. Tymphaia",
     "chapters": [
       {
         "start": 434,
-        "author": "Oberhummer"
+        "end": 434,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4118,11 +4326,13 @@
     "lemma": "Stymphalia 2",
     "previous": "Stymphalia 1",
     "next": "Stymphalia 3",
+    "proof_read": 0,
     "short_description": "Angebl. Bezirk Thessaliens",
     "chapters": [
       {
         "start": 434,
-        "author": "Stählin"
+        "end": 434,
+        "author": "Stählin."
       }
     ]
   },
@@ -4130,11 +4340,13 @@
     "lemma": "Stymphalia 3",
     "previous": "Stymphalia 2",
     "next": "Stymphaliden",
+    "proof_read": 0,
     "short_description": "Beiname d. Artemis",
     "chapters": [
       {
         "start": 434,
-        "author": "Gebhard"
+        "end": 434,
+        "author": "Gebhard."
       }
     ]
   },
@@ -4142,11 +4354,13 @@
     "lemma": "Stymphaliden",
     "previous": "Stymphalia 3",
     "next": "Stymphalis",
+    "proof_read": 0,
     "short_description": "Gefährliche Vögel auf d. See bei Stymphalos in Arkadien",
     "chapters": [
       {
         "start": 434,
-        "author": "Türk"
+        "end": 436,
+        "author": "Türk."
       }
     ]
   },
@@ -4154,10 +4368,12 @@
     "lemma": "Stymphalis",
     "previous": "Stymphaliden",
     "next": "Stymphalos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 436,
-        "author": "Türk"
+        "end": 436,
+        "author": "Türk."
       }
     ]
   },
@@ -4165,11 +4381,13 @@
     "lemma": "Stymphalos 1",
     "previous": "Stymphalis",
     "next": "Stymphalos 2",
+    "proof_read": 0,
     "short_description": "Stadt in Arkadien",
     "chapters": [
       {
         "start": 436,
-        "author": "Bölte"
+        "end": 453,
+        "author": "Bölte."
       }
     ]
   },
@@ -4177,11 +4395,13 @@
     "lemma": "Stymphalos 2",
     "previous": "Stymphalos 1",
     "next": "Στύμφη",
+    "proof_read": 0,
     "short_description": "Gatte d. Ornis",
     "chapters": [
       {
         "start": 453,
-        "author": "Türk"
+        "end": 453,
+        "author": "Türk."
       }
     ]
   },
@@ -4203,10 +4423,12 @@
     "lemma": "Styon",
     "previous": "Στύμφη",
     "next": "Styphelus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 453,
-        "author": "Türk"
+        "end": 453,
+        "author": "Türk."
       }
     ]
   },
@@ -4214,10 +4436,12 @@
     "lemma": "Styphelus",
     "previous": "Styon",
     "next": "Styphon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 453,
-        "author": "Bubbe"
+        "end": 453,
+        "author": "Bubbe."
       }
     ]
   },
@@ -4225,10 +4449,12 @@
     "lemma": "Styphon",
     "previous": "Styphelus",
     "next": "Styppax",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 453,
-        "author": "Ehrenberg"
+        "end": 454,
+        "author": "Ehrenberg."
       }
     ]
   },
@@ -4236,11 +4462,13 @@
     "lemma": "Styppax",
     "previous": "Styphon",
     "next": "Styra",
+    "proof_read": 0,
     "short_description": "Kyprier, Erzgießer",
     "chapters": [
       {
         "start": 454,
-        "author": "Lippold, Georg"
+        "end": 455,
+        "author": "Lippold."
       }
     ]
   },
@@ -4248,11 +4476,13 @@
     "lemma": "Styra",
     "previous": "Styppax",
     "next": "Styrakion",
+    "proof_read": 0,
     "short_description": "Stadt im S v. Euböa",
     "chapters": [
       {
         "start": 455,
-        "author": "Creutzburg"
+        "end": 456,
+        "author": "Creutzburg."
       }
     ]
   },
@@ -4260,10 +4490,12 @@
     "lemma": "Styrakion",
     "previous": "Styra",
     "next": "Styrakites",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 456,
-        "author": "Creutzburg"
+        "end": 456,
+        "author": "Creutzburg."
       }
     ]
   },
@@ -4271,10 +4503,12 @@
     "lemma": "Styrakites",
     "previous": "Styrakion",
     "next": "Styrax 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 456,
-        "author": "Türk"
+        "end": 456,
+        "author": "Türk."
       }
     ]
   },
@@ -4282,11 +4516,13 @@
     "lemma": "Styrax 1",
     "previous": "Styrakites",
     "next": "Styrax 2",
+    "proof_read": 0,
     "short_description": "Person in Inschr. aus Hieropolis/Kilikien",
     "chapters": [
       {
         "start": 456,
-        "author": "Stein, [Arthur]"
+        "end": 456,
+        "author": "Stein."
       }
     ]
   },
@@ -4307,10 +4543,12 @@
     "lemma": "Stysippos",
     "previous": "Styrax 2",
     "next": "Styx 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 457,
-        "author": "Türk"
+        "end": 457,
+        "author": "Türk."
       }
     ]
   },
@@ -4318,11 +4556,13 @@
     "lemma": "Styx 1",
     "previous": "Stysippos",
     "next": "Styx 2",
+    "proof_read": 0,
     "short_description": "Staubbach am Chelmos in Arkadien",
     "chapters": [
       {
         "start": 457,
-        "author": "Bölte"
+        "end": 463,
+        "author": "Bölte."
       }
     ]
   },
@@ -4330,23 +4570,27 @@
     "lemma": "Styx 2",
     "previous": "Styx 1",
     "next": "Styx 3",
+    "proof_read": 0,
     "short_description": "Fluß in Arabien",
     "chapters": [
       {
         "start": 463,
-        "author": "Grohmann"
+        "end": 464,
+        "author": "Grohmann."
       }
     ]
   },
   {
     "lemma": "Styx 3",
     "previous": "Styx 2",
-    "next": "Σουάβαστος",
+    "next": "Sua",
+    "proof_read": 0,
     "short_description": "Tochter d. Okeanos u. d. Tethys",
     "chapters": [
       {
         "start": 464,
-        "author": "Bethe"
+        "end": 465,
+        "author": "Bethe."
       }
     ]
   },
@@ -4367,24 +4611,29 @@
   },
   {
     "lemma": "Sua",
-    "previous": "Σουάβαστος",
-    "next": "Suadere legem, rogationem",
+    "previous": "Styx 3",
+    "next": "Σουάβαστος",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 465,
-        "author": "Dessau"
+        "end": 465,
+        "author": "Dessau."
       }
     ]
   },
   {
     "lemma": "Suadere legem, rogationem",
-    "previous": "Sua",
+    "previous": "Σουάβαστος",
     "next": "Suae",
+    "sort_key": "Suaderelegem, rogationem",
+    "proof_read": 0,
     "short_description": "Dem Volk einen Gesetzesvorschlag zur Annahme empfehlen",
     "chapters": [
       {
         "start": 465,
-        "author": "Kübler, B[ernhard]"
+        "end": 466,
+        "author": "Kübler."
       }
     ]
   },
@@ -4406,10 +4655,12 @@
     "lemma": "Suaeuconi",
     "previous": "Suae",
     "next": "Suagela",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 466,
-        "author": "Wackernagel"
+        "end": 466,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -4430,11 +4681,13 @@
     "lemma": "Suana",
     "previous": "Suagela",
     "next": "Suanagura",
+    "proof_read": 0,
     "short_description": "Etruskerort",
     "chapters": [
       {
         "start": 466,
-        "author": "Philipp"
+        "end": 467,
+        "author": "Philipp."
       }
     ]
   },
@@ -4442,10 +4695,12 @@
     "lemma": "Suanagura",
     "previous": "Suana",
     "next": "Suanetes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 467,
-        "author": "Herrmann"
+        "end": 467,
+        "author": "Herrmann."
       }
     ]
   },
@@ -4453,10 +4708,12 @@
     "lemma": "Suanetes",
     "previous": "Suanagura",
     "next": "Suanius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 467,
-        "author": "Wackernagel"
+        "end": 467,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -4464,11 +4721,13 @@
     "lemma": "Suanius",
     "previous": "Suanetes",
     "next": "Suanoi",
+    "proof_read": 0,
     "short_description": "Victor Vitellianus, L.",
     "chapters": [
       {
         "start": 467,
-        "author": "Fluss"
+        "end": 467,
+        "author": "Fluss."
       }
     ]
   },
@@ -4476,11 +4735,13 @@
     "lemma": "Suanoi",
     "previous": "Suanius",
     "next": "Suara",
+    "proof_read": 0,
     "short_description": "Volk im Kaukasus",
     "chapters": [
       {
         "start": 467,
-        "author": "Herrmann"
+        "end": 467,
+        "author": "Herrmann."
       }
     ]
   },
@@ -4488,11 +4749,13 @@
     "lemma": "Suara",
     "previous": "Suanoi",
     "next": "Suardenoi",
+    "proof_read": 0,
     "short_description": "Stadt Afrikas im Nilgebiet",
     "chapters": [
       {
         "start": 467,
-        "author": "Treidler"
+        "end": 468,
+        "author": "Treidler."
       }
     ]
   },
@@ -4500,10 +4763,12 @@
     "lemma": "Suardenoi",
     "previous": "Suara",
     "next": "Suardones",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 468,
-        "author": "Herrmann"
+        "end": 468,
+        "author": "Herrmann."
       }
     ]
   },
@@ -4538,11 +4803,13 @@
     "lemma": "Suarines",
     "previous": "Suari",
     "next": "Suarium forum",
+    "proof_read": 0,
     "short_description": "Nerthusvolk",
     "chapters": [
       {
         "start": 468,
-        "author": "Franke"
+        "end": 468,
+        "author": "Franke."
       }
     ]
   },
@@ -4567,11 +4834,13 @@
     "lemma": "Suarius 1",
     "previous": "Suarium forum",
     "next": "Suarius 2",
+    "proof_read": 0,
     "short_description": "Schweinehirt",
     "chapters": [
       {
         "start": 469,
-        "author": "Philipp"
+        "end": 469,
+        "author": "Philipp."
       }
     ]
   },
@@ -4579,11 +4848,13 @@
     "lemma": "Suarius 2",
     "previous": "Suarius 1",
     "next": "Suasa 1",
+    "proof_read": 0,
     "short_description": "Schweinehändler",
     "chapters": [
       {
         "start": 469,
-        "author": "Philipp"
+        "end": 469,
+        "author": "Hug."
       }
     ]
   },
@@ -4591,11 +4862,13 @@
     "lemma": "Suasa 1",
     "previous": "Suarius 2",
     "next": "Suasa 2",
+    "proof_read": 0,
     "short_description": "Alte Stadt in d. gall. Mark Umbriens",
     "chapters": [
       {
         "start": 469,
-        "author": "Philipp"
+        "end": 469,
+        "author": "Philipp."
       }
     ]
   },
@@ -4616,11 +4889,13 @@
     "lemma": "Suasoria",
     "previous": "Suasa 2",
     "next": "Suastene",
+    "proof_read": 0,
     "short_description": "Genus d. Kunstrede",
     "chapters": [
       {
         "start": 469,
-        "author": "Morel"
+        "end": 471,
+        "author": "W. Morel."
       }
     ]
   },
@@ -4669,11 +4944,13 @@
     "lemma": "Subaeratus",
     "previous": "Suavi",
     "next": "Σούβαρας",
+    "proof_read": 0,
     "short_description": "Münzart",
     "chapters": [
       {
         "start": 471,
-        "author": "Regling"
+        "end": 474,
+        "author": "Regling."
       }
     ]
   },
@@ -4710,10 +4987,12 @@
     "lemma": "Subasani",
     "previous": "Subas",
     "next": "Subatianus 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 474,
-        "author": "Philipp"
+        "end": 474,
+        "author": "Philipp."
       }
     ]
   },
@@ -4736,12 +5015,14 @@
   {
     "lemma": "Subatianus 2",
     "previous": "Subatianus 1",
-    "next": "Soubattioi",
+    "next": "Subatianus 3",
+    "proof_read": 0,
     "short_description": "Proculus, Ti. Cl(audius), Legat v. Numidien unter Septimius Severus",
     "chapters": [
       {
         "start": 476,
-        "author": "Fluss"
+        "end": 477,
+        "author": "Fluss."
       }
     ]
   },
@@ -4759,37 +5040,43 @@
   },
   {
     "lemma": "Subatianus 3",
-    "previous": "Soubattioi",
+    "previous": "Subatianus 2",
     "next": "Subatius",
+    "proof_read": 0,
     "short_description": "Aquilina, Ti. Cl(audia), Tochter v. Subatianus Nr. 2",
     "chapters": [
       {
         "start": 477,
-        "author": "Fluss"
+        "end": 477,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Subatius",
     "previous": "Subatianus 3",
-    "next": "Subcurator",
+    "next": "Σουβάττιοι",
+    "proof_read": 0,
     "short_description": "Ti. Cl(audia) Digna Subatia Saturnina",
     "chapters": [
       {
         "start": 477,
-        "author": "Fluss"
+        "end": 477,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Subcurator",
-    "previous": "Subatius",
+    "previous": "Σουβάττιοι",
     "next": "Subdobiadon",
+    "proof_read": 0,
     "short_description": "Kaiserl. Verwaltungsbeamter",
     "chapters": [
       {
         "start": 477,
-        "author": "Kubitschek"
+        "end": 478,
+        "author": "Kubitschek."
       }
     ]
   },
@@ -4797,10 +5084,12 @@
     "lemma": "Subdobiadon",
     "previous": "Subcurator",
     "next": "Suberadona",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 479,
-        "author": "MacDonald"
+        "end": 479,
+        "author": "MacDonald."
       }
     ]
   },
@@ -4808,33 +5097,39 @@
     "lemma": "Suberadona",
     "previous": "Subdobiadon",
     "next": "Subernius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 479,
-        "author": "Fluss"
+        "end": 479,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Subernius",
     "previous": "Suberadona",
-    "next": "Subertani",
+    "next": "Subertanum",
+    "proof_read": 0,
     "short_description": "C.",
     "chapters": [
       {
         "start": 479,
-        "author": "Münzer"
+        "end": 479,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Subertani",
-    "previous": "Subernius",
-    "next": "Subertanum",
+    "previous": "Subertanum",
+    "next": "Subhortana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 479,
-        "author": "Philipp"
+        "end": 479,
+        "author": "Philipp."
       }
     ]
   },
@@ -4868,10 +5163,12 @@
     "lemma": "Subi",
     "previous": "Subhortana",
     "next": "Subigus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 479,
-        "author": "Schulten"
+        "end": 479,
+        "author": "Schulten."
       }
     ]
   },
@@ -4879,10 +5176,12 @@
     "lemma": "Subigus",
     "previous": "Subi",
     "next": "Subil",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 479,
-        "author": "Marbach"
+        "end": 479,
+        "author": "Marbach."
       }
     ]
   },
@@ -4919,10 +5218,12 @@
     "lemma": "Sublanuvio",
     "previous": "Subinates",
     "next": "Sublaqueum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 480,
-        "author": "Philipp"
+        "end": 480,
+        "author": "Philipp."
       }
     ]
   },
@@ -4930,11 +5231,13 @@
     "lemma": "Sublaqueum",
     "previous": "Sublanuvio",
     "next": "Sublavio",
+    "proof_read": 0,
     "short_description": "Berühmte Villenanlage Neros in d. Colles Simbruini, heute Subiaco",
     "chapters": [
       {
         "start": 480,
-        "author": "Philipp"
+        "end": 480,
+        "author": "Philipp."
       }
     ]
   },
@@ -4942,11 +5245,13 @@
     "lemma": "Sublavio",
     "previous": "Sublaqueum",
     "next": "Sublicius pons",
+    "proof_read": 0,
     "short_description": "Klausen unterhalb v. Sabio, s.d.",
     "chapters": [
       {
         "start": 480,
-        "author": "Keune"
+        "end": 481,
+        "author": "Keune."
       }
     ]
   },
@@ -4954,41 +5259,49 @@
     "lemma": "Sublicius pons",
     "previous": "Sublavio",
     "next": "Subligaculum",
+    "sort_key": "Subliciuspons",
+    "proof_read": 0,
     "short_description": "Älteste Brücke Roms",
     "chapters": [
       {
         "start": 481,
-        "author": "Weiss, J[akob]"
+        "end": 481,
+        "author": "Weiss."
       }
     ]
   },
   {
     "lemma": "Subligaculum",
     "previous": "Sublicius pons",
-    "next": "Subligar, -is n.",
+    "next": "Subligar, -is",
+    "proof_read": 0,
     "short_description": "Eine Art Schurz",
     "chapters": [
       {
         "start": 481,
-        "author": "Schuppe"
+        "end": 482,
+        "author": "Schuppe."
       }
     ]
   },
   {
-    "lemma": "Subligar, -is n.",
+    "lemma": "Subligar, -is",
     "previous": "Subligaculum",
     "next": "Sublucu",
+    "sort_key": "Subligar,-is n.",
+    "proof_read": 0,
     "short_description": "s. subligaculum",
     "chapters": [
       {
         "start": 482,
-        "author": "Schuppe"
+        "end": 482,
+        "author": "Schuppe."
       }
     ]
   },
   {
     "lemma": "Sublucu",
-    "previous": "Subligar, -is n.",
+    "previous": "Subligar, -is",
     "next": "Sublupatia",
     "proof_read": 2,
     "short_description": "(so Tab. Peut., Sullucu Itin. Ant. p. 20 nach der besten, Sullucco nach den",
@@ -5019,11 +5332,13 @@
     "lemma": "Submissio",
     "previous": "Sublupatia",
     "next": "Subnis",
+    "proof_read": 0,
     "short_description": "Pflicht eines Pächters, d. Bestand einer Herde, eines Waldes o.ä. zu erhalten.",
     "chapters": [
       {
         "start": 483,
-        "author": "Kübler, B[ernhard]"
+        "end": 486,
+        "author": "Kübler."
       }
     ]
   },
@@ -5031,11 +5346,13 @@
     "lemma": "Subnis",
     "previous": "Submissio",
     "next": "Subocrini",
+    "proof_read": 0,
     "short_description": "s. Suppia",
     "chapters": [
       {
         "start": 486,
-        "author": "Keune"
+        "end": 486,
+        "author": "Keune."
       }
     ]
   },
@@ -5043,10 +5360,12 @@
     "lemma": "Subocrini",
     "previous": "Subnis",
     "next": "Subola",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 486,
-        "author": "Fluss"
+        "end": 486,
+        "author": "Fluss."
       }
     ]
   },
@@ -5054,10 +5373,12 @@
     "lemma": "Subola",
     "previous": "Subocrini",
     "next": "Subortana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 486,
-        "author": "Keune"
+        "end": 487,
+        "author": "Keune."
       }
     ]
   },
@@ -5065,11 +5386,13 @@
     "lemma": "Subortana",
     "previous": "Subola",
     "next": "Subos",
+    "proof_read": 0,
     "short_description": "Landgut bei Rom",
     "chapters": [
       {
         "start": 487,
-        "author": "Keune"
+        "end": 487,
+        "author": "Keune."
       }
     ]
   },
@@ -5077,10 +5400,12 @@
     "lemma": "Subos",
     "previous": "Subortana",
     "next": "Subota",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 487,
-        "author": "Treidler"
+        "end": 487,
+        "author": "Treidler."
       }
     ]
   },
@@ -5088,11 +5413,13 @@
     "lemma": "Subota",
     "previous": "Subos",
     "next": "Subrius 1",
+    "proof_read": 0,
     "short_description": "Insel in d. Ägäis",
     "chapters": [
       {
         "start": 487,
-        "author": "Honigmann"
+        "end": 488,
+        "author": "Honigmann."
       }
     ]
   },
@@ -5100,11 +5427,13 @@
     "lemma": "Subrius 1",
     "previous": "Subota",
     "next": "Subrius 2",
+    "proof_read": 0,
     "short_description": "Dexter, Sex. 69 n. Chr. Tribun einer Prätorianercohorte",
     "chapters": [
       {
         "start": 488,
-        "author": "Stein, [Arthur]"
+        "end": 488,
+        "author": "Stein."
       }
     ]
   },
@@ -5112,11 +5441,13 @@
     "lemma": "Subrius 2",
     "previous": "Subrius 1",
     "next": "Subromula",
+    "proof_read": 0,
     "short_description": "Flavus, Teilnehmer d. Pisonischen Verschwörung 65 n. Chr.",
     "chapters": [
       {
         "start": 488,
-        "author": "Stein, [Arthur]"
+        "end": 489,
+        "author": "Stein."
       }
     ]
   },
@@ -5153,11 +5484,13 @@
     "lemma": "Subscribendarius",
     "previous": "Subruncinator",
     "next": "Subscriptio",
+    "proof_read": 0,
     "short_description": "Titel eines Subalternbeamten",
     "chapters": [
       {
         "start": 489,
-        "author": "Enßlin"
+        "end": 490,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5165,11 +5498,13 @@
     "lemma": "Subscriptio",
     "previous": "Subscribendarius",
     "next": "Subscriptores",
+    "proof_read": 0,
     "short_description": "1. s. censoria, die sittenrichterl. Rüge, 2. Unterschrift unter d.",
     "chapters": [
       {
         "start": 490,
-        "author": "Kübler, B[ernhard]"
+        "end": 501,
+        "author": "Kübler."
       }
     ]
   },
@@ -5177,11 +5512,13 @@
     "lemma": "Subscriptores",
     "previous": "Subscriptio",
     "next": "Subseciva",
+    "proof_read": 0,
     "short_description": "Nebenkläger",
     "chapters": [
       {
         "start": 501,
-        "author": "Kleinfeller"
+        "end": 501,
+        "author": "Kleinfeller."
       }
     ]
   },
@@ -5189,11 +5526,13 @@
     "lemma": "Subseciva",
     "previous": "Subscriptores",
     "next": "Subsellium",
+    "proof_read": 0,
     "short_description": "t.t. der Agrimensoren",
     "chapters": [
       {
         "start": 501,
-        "author": "Weinstock"
+        "end": 502,
+        "author": "Weinstock."
       }
     ]
   },
@@ -5201,11 +5540,13 @@
     "lemma": "Subsellium",
     "previous": "Subseciva",
     "next": "Subsicivum",
+    "proof_read": 0,
     "short_description": "Schmaler Sitz, Bank",
     "chapters": [
       {
         "start": 502,
-        "author": "Hug"
+        "end": 504,
+        "author": "Hug."
       }
     ]
   },
@@ -5213,10 +5554,12 @@
     "lemma": "Subsicivum",
     "previous": "Subsellium",
     "next": "Subsortitio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 504,
-        "author": "Philipp"
+        "end": 504,
+        "author": "Philipp."
       }
     ]
   },
@@ -5224,11 +5567,13 @@
     "lemma": "Subsortitio",
     "previous": "Subsicivum",
     "next": "Substitutio",
+    "proof_read": 0,
     "short_description": "Ersatzauslosung eines Richters",
     "chapters": [
       {
         "start": 505,
-        "author": "Kübler, B[ernhard]"
+        "end": 505,
+        "author": "Kübler."
       }
     ]
   },
@@ -5236,11 +5581,13 @@
     "lemma": "Substitutio",
     "previous": "Subsortitio",
     "next": "Subucula",
+    "proof_read": 0,
     "short_description": "t.t. im Erbrecht",
     "chapters": [
       {
         "start": 505,
-        "author": "Weiss, Egon"
+        "end": 509,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -5248,11 +5595,13 @@
     "lemma": "Subucula",
     "previous": "Substitutio",
     "next": "Subur 1",
+    "proof_read": 0,
     "short_description": "Untergewand",
     "chapters": [
       {
         "start": 509,
-        "author": "Schuppe"
+        "end": 509,
+        "author": "Schuppe."
       }
     ]
   },
@@ -5260,11 +5609,13 @@
     "lemma": "Subur 1",
     "previous": "Subucula",
     "next": "Subur 2",
+    "proof_read": 0,
     "short_description": "Stadt d. Kossetaner",
     "chapters": [
       {
         "start": 509,
-        "author": "Schulten"
+        "end": 510,
+        "author": "Schulten."
       }
     ]
   },
@@ -5272,11 +5623,13 @@
     "lemma": "Subur 2",
     "previous": "Subur 1",
     "next": "Subur 3",
+    "proof_read": 0,
     "short_description": "Fluß Mauretaniens",
     "chapters": [
       {
         "start": 510,
-        "author": "Dessau"
+        "end": 510,
+        "author": "Dessau."
       }
     ]
   },
@@ -5298,11 +5651,13 @@
     "lemma": "Subur(r)a",
     "previous": "Subur 3",
     "next": "Suburbures",
+    "proof_read": 0,
     "short_description": "Zwei Ort in Rom",
     "chapters": [
       {
         "start": 510,
-        "author": "Weiss, J[akob]"
+        "end": 511,
+        "author": "Weiss."
       }
     ]
   },
@@ -5310,10 +5665,12 @@
     "lemma": "Suburbures",
     "previous": "Subur(r)a",
     "next": "Suburgia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 511,
-        "author": "Dessau"
+        "end": 511,
+        "author": "Dessau."
       }
     ]
   },
@@ -5321,10 +5678,12 @@
     "lemma": "Suburgia",
     "previous": "Suburbures",
     "next": "Suburtan-",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 511,
-        "author": "Dessau"
+        "end": 511,
+        "author": "Dessau."
       }
     ]
   },
@@ -5345,10 +5704,12 @@
     "lemma": "Subus",
     "previous": "Suburtan-",
     "next": "Σουβούττου",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 511,
-        "author": "Dessau"
+        "end": 511,
+        "author": "Dessau."
       }
     ]
   },
@@ -5371,10 +5732,12 @@
     "lemma": "Subzuar",
     "previous": "Σουβούττου",
     "next": "Subzupara",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 511,
-        "author": "Dessau"
+        "end": 512,
+        "author": "Dessau."
       }
     ]
   },
@@ -5382,11 +5745,13 @@
     "lemma": "Subzupara",
     "previous": "Subzuar",
     "next": "Sucaelo",
+    "proof_read": 0,
     "short_description": "s. Castra Zarba",
     "chapters": [
       {
         "start": 512,
-        "author": "Oberhummer"
+        "end": 512,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5409,10 +5774,12 @@
     "lemma": "Succ.",
     "previous": "Sucaelo",
     "next": "Succabar",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 512,
-        "author": "Keune"
+        "end": 512,
+        "author": "Keune."
       }
     ]
   },
@@ -5433,11 +5800,13 @@
     "lemma": "Succasini",
     "previous": "Succabar",
     "next": "Succasses",
+    "proof_read": 0,
     "short_description": "s. Interamna",
     "chapters": [
       {
         "start": 512,
-        "author": "Philipp"
+        "end": 512,
+        "author": "Philipp."
       }
     ]
   },
@@ -5445,10 +5814,12 @@
     "lemma": "Succasses",
     "previous": "Succasini",
     "next": "Succeianum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 512,
-        "author": "Keune"
+        "end": 512,
+        "author": "Keune."
       }
     ]
   },
@@ -5456,11 +5827,13 @@
     "lemma": "Succeianum",
     "previous": "Succasses",
     "next": "Succentriones",
+    "proof_read": 0,
     "short_description": "s. Subsicivum",
     "chapters": [
       {
         "start": 512,
-        "author": "Philipp"
+        "end": 512,
+        "author": "Philipp."
       }
     ]
   },
@@ -5468,10 +5841,12 @@
     "lemma": "Succentriones",
     "previous": "Succeianum",
     "next": "Successianus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 512,
-        "author": "Keune"
+        "end": 512,
+        "author": "Keune."
       }
     ]
   },
@@ -5479,10 +5854,12 @@
     "lemma": "Successianus",
     "previous": "Succentriones",
     "next": "Successus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 512,
-        "author": "Stein, [Arthur]"
+        "end": 512,
+        "author": "Stein."
       }
     ]
   },
@@ -5504,11 +5881,13 @@
     "lemma": "Succi",
     "previous": "Successus",
     "next": "Succiacus, Suciacus, -um",
+    "proof_read": 0,
     "short_description": "Hauptpaß auf d. großen Heerstraße Belgrad - Konstantinopel",
     "chapters": [
       {
         "start": 513,
-        "author": "Oberhummer"
+        "end": 514,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -5516,10 +5895,13 @@
     "lemma": "Succiacus, Suciacus, -um",
     "previous": "Succi",
     "next": "Succonianus",
+    "sort_key": "Succiacus,suciacus, -um",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 514,
-        "author": "Keune"
+        "end": 514,
+        "author": "Keune."
       }
     ]
   },
@@ -5541,11 +5923,13 @@
     "lemma": "Suc(conius...)",
     "previous": "Succonianus",
     "next": "Succosa 1",
+    "proof_read": 0,
     "short_description": "L.",
     "chapters": [
       {
         "start": 514,
-        "author": "Stein, [Arthur]"
+        "end": 514,
+        "author": "Stein."
       }
     ]
   },
@@ -5553,11 +5937,13 @@
     "lemma": "Succosa 1",
     "previous": "Suc(conius...)",
     "next": "Succosa 2",
+    "proof_read": 0,
     "short_description": "Stadt zw. Osca u. Ilerda",
     "chapters": [
       {
         "start": 514,
-        "author": "Schulten"
+        "end": 514,
+        "author": "Schulten."
       }
     ]
   },
@@ -5565,11 +5951,13 @@
     "lemma": "Succosa 2",
     "previous": "Succosa 1",
     "next": "Succubi?",
+    "proof_read": 0,
     "short_description": "Etr. Stadt",
     "chapters": [
       {
         "start": 514,
-        "author": "Philipp"
+        "end": 515,
+        "author": "Philipp."
       }
     ]
   },
@@ -5592,11 +5980,13 @@
     "lemma": "Sucellus",
     "previous": "Succubi?",
     "next": "Suche",
+    "proof_read": 0,
     "short_description": "Kelt. Name eines gall. Gottes",
     "chapters": [
       {
         "start": 515,
-        "author": "Keune"
+        "end": 540,
+        "author": "Keune."
       }
     ]
   },
@@ -5617,11 +6007,13 @@
     "lemma": "Suchos",
     "previous": "Suche",
     "next": "Sucibida",
+    "proof_read": 0,
     "short_description": "Ägypt. Gott",
     "chapters": [
       {
         "start": 540,
-        "author": "Kees"
+        "end": 560,
+        "author": "Kees."
       }
     ]
   },
@@ -5629,10 +6021,12 @@
     "lemma": "Sucibida",
     "previous": "Suchos",
     "next": "Sucidava",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 560,
-        "author": "Fluss"
+        "end": 560,
+        "author": "Fluss."
       }
     ]
   },
@@ -5640,11 +6034,13 @@
     "lemma": "Sucidava",
     "previous": "Sucibida",
     "next": "Suciniani",
+    "proof_read": 0,
     "short_description": "Ort am mösischen Limes s. auch Sacidava Nr. 2",
     "chapters": [
       {
         "start": 560,
-        "author": "Fluss"
+        "end": 560,
+        "author": "Fluss."
       }
     ]
   },
@@ -5652,10 +6048,12 @@
     "lemma": "Suciniani",
     "previous": "Sucidava",
     "next": "Suconna",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 560,
-        "author": "Philipp"
+        "end": 560,
+        "author": "Philipp."
       }
     ]
   },
@@ -5663,10 +6061,13 @@
     "lemma": "Suconna",
     "previous": "Suciniani",
     "next": "Sucridus",
+    "redirect": "Souconna Sauconna",
+    "proof_read": 0,
     "short_description": "s. Souconna Sauconna",
     "chapters": [
       {
-        "start": 560
+        "start": 560,
+        "end": 560
       }
     ]
   },
@@ -5674,10 +6075,12 @@
     "lemma": "Sucridus",
     "previous": "Suconna",
     "next": "Sucro 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 560,
-        "author": "Seeck"
+        "end": 560,
+        "author": "Seeck."
       }
     ]
   },
@@ -5685,59 +6088,71 @@
     "lemma": "Sucro 1",
     "previous": "Sucridus",
     "next": "Sucro 2",
+    "proof_read": 0,
     "short_description": "Fluß d. span. O-Küste, s. Nr. 2",
     "chapters": [
       {
         "start": 561,
-        "author": "Schulten"
+        "end": 561,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Sucro 2",
     "previous": "Sucro 1",
-    "next": "Sudanel",
+    "next": "Σουδανέλ",
+    "proof_read": 0,
     "short_description": "Grenzstadt d. Contestaner",
     "chapters": [
       {
         "start": 561,
-        "author": "Schulten"
+        "end": 561,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Sudanel",
+    "lemma": "Σουδανέλ",
     "previous": "Sucro 2",
-    "next": "Sudasanna",
+    "next": "Σουδασάννα",
+    "sort_key": "Sudanel",
+    "proof_read": 0,
     "short_description": "Soudanel",
     "chapters": [
       {
         "start": 561,
-        "author": "Fluss"
+        "end": 561,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Sudasanna",
-    "previous": "Sudanel",
+    "lemma": "Σουδασάννα",
+    "previous": "Σουδανέλ",
     "next": "Sudatio",
+    "sort_key": "Sudasanna",
+    "proof_read": 0,
     "short_description": "Soudasanna",
     "chapters": [
       {
         "start": 561,
-        "author": "Herrmann"
+        "end": 561,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Sudatio",
-    "previous": "Sudasanna",
+    "previous": "Σουδασάννα",
     "next": "Sudaua",
+    "proof_read": 0,
     "short_description": "Schwitzkur",
     "chapters": [
       {
         "start": 561,
-        "author": "Hug"
+        "end": 562,
+        "author": "Hug."
       }
     ]
   },
@@ -5745,10 +6160,12 @@
     "lemma": "Sudaua",
     "previous": "Sudatio",
     "next": "Σουδηνοί",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 562,
-        "author": "Dessau"
+        "end": 562,
+        "author": "Dessau."
       }
     ]
   },
@@ -5769,7 +6186,7 @@
   {
     "lemma": "Σούδερνον",
     "previous": "Σουδηνοί",
-    "next": "Sudeta",
+    "next": "Σούδητα",
     "sort_key": "Sudernon",
     "redirect": "Subertani",
     "proof_read": 2,
@@ -5781,38 +6198,46 @@
     ]
   },
   {
-    "lemma": "Sudeta",
+    "lemma": "Σούδητα",
     "previous": "Σούδερνον",
-    "next": "Sudianoi",
+    "next": "Σουδιανοί",
+    "sort_key": "Sudeta",
+    "proof_read": 0,
     "short_description": "Gebirge in SO-Germanien",
     "chapters": [
       {
         "start": 562,
-        "author": "Franke"
+        "end": 562,
+        "author": "Franke."
       }
     ]
   },
   {
-    "lemma": "Sudianoi",
-    "previous": "Sudeta",
+    "lemma": "Σουδιανοί",
+    "previous": "Σούδητα",
     "next": "Sudines",
+    "sort_key": "Sudianoi",
+    "proof_read": 0,
     "short_description": "German. Volk",
     "chapters": [
       {
         "start": 562,
-        "author": "Franke"
+        "end": 563,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Sudines",
-    "previous": "Sudianoi",
+    "previous": "Σουδιανοί",
     "next": "Sudinoi",
+    "proof_read": 0,
     "short_description": "Chaldäer",
     "chapters": [
       {
         "start": 563,
-        "author": "Kroll"
+        "end": 563,
+        "author": "Kroll."
       }
     ]
   },
@@ -5820,11 +6245,13 @@
     "lemma": "Sudinoi",
     "previous": "Sudines",
     "next": "Suebae",
+    "proof_read": 0,
     "short_description": "Stamm in Sarmatien",
     "chapters": [
       {
         "start": 563,
-        "author": "Franke"
+        "end": 564,
+        "author": "Franke."
       }
     ]
   },
@@ -5832,11 +6259,13 @@
     "lemma": "Suebae",
     "previous": "Sudinoi",
     "next": "Suebi",
+    "proof_read": 0,
     "short_description": "s. Matres",
     "chapters": [
       {
         "start": 564,
-        "author": "Heichelheim"
+        "end": 564,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -5844,11 +6273,13 @@
     "lemma": "Suebi",
     "previous": "Suebae",
     "next": "Suebos",
+    "proof_read": 0,
     "short_description": "German. Stamm",
     "chapters": [
       {
         "start": 564,
-        "author": "Schönfeld"
+        "end": 579,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -5869,10 +6300,12 @@
     "lemma": "Suedae",
     "previous": "Suebos",
     "next": "Suedius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 579,
-        "author": "Keune"
+        "end": 579,
+        "author": "Keune."
       }
     ]
   },
@@ -5926,10 +6359,12 @@
     "lemma": "Suel",
     "previous": "Sueius",
     "next": "Suelleni",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 581,
-        "author": "Schulten"
+        "end": 581,
+        "author": "Schulten."
       }
     ]
   },
@@ -5937,10 +6372,12 @@
     "lemma": "Suelleni",
     "previous": "Suel",
     "next": "Suellius 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 581,
-        "author": "Grohmann"
+        "end": 581,
+        "author": "Grohmann."
       }
     ]
   },
@@ -5948,11 +6385,13 @@
     "lemma": "Suellius 1",
     "previous": "Suelleni",
     "next": "Suellius 2",
+    "proof_read": 0,
     "short_description": "Cn. Quaestor in spätrepublikan. Zt.",
     "chapters": [
       {
         "start": 581,
-        "author": "Münzer"
+        "end": 581,
+        "author": "Münzer."
       }
     ]
   },
@@ -5960,11 +6399,13 @@
     "lemma": "Suellius 2",
     "previous": "Suellius 1",
     "next": "Suellius 3",
+    "proof_read": 0,
     "short_description": "Flaccus, Cn. Grundbesitzer in d. Beneventer Gegend, leg. Aug. pr. pr.",
     "chapters": [
       {
         "start": 581,
-        "author": "Groag"
+        "end": 583,
+        "author": "Groag."
       }
     ]
   },
@@ -5972,46 +6413,55 @@
     "lemma": "Suellius 3",
     "previous": "Suellius 2",
     "next": "Suellius 4",
+    "proof_read": 0,
     "short_description": "Marcianus, T. Statthalter d. Provinz Thrakien unter Commodus",
     "chapters": [
       {
         "start": 583,
-        "author": "Fluss"
+        "end": 583,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Suellius 4",
     "previous": "Suellius 3",
-    "next": "Suelteri, Selteri",
+    "next": "Suelteri – Selteri",
+    "proof_read": 0,
     "short_description": "[S]uellius Rufus, [C]n. Inschr.fr. v. Lyttos/Kreta",
     "chapters": [
       {
         "start": 584,
-        "author": "Fluss"
+        "end": 584,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Suelteri, Selteri",
+    "lemma": "Suelteri – Selteri",
     "previous": "Suellius 4",
     "next": "Suemus",
+    "sort_key": "Suelteri,selteri",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 584,
-        "author": "Wackernagel"
+        "end": 584,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
   {
     "lemma": "Suemus",
-    "previous": "Suelteri, Selteri",
+    "previous": "Suelteri – Selteri",
     "next": "Suenda",
+    "proof_read": 0,
     "short_description": "s. Syrmus",
     "chapters": [
       {
         "start": 584,
-        "author": "Oberhummer"
+        "end": 584,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6019,10 +6469,12 @@
     "lemma": "Suenda",
     "previous": "Suemus",
     "next": "Suentisium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 584,
-        "author": "Ruge"
+        "end": 584,
+        "author": "Ruge."
       }
     ]
   },
@@ -6030,11 +6482,13 @@
     "lemma": "Suentisium",
     "previous": "Suenda",
     "next": "Suesia",
+    "proof_read": 0,
     "short_description": "s. Sogiontense",
     "chapters": [
       {
         "start": 584,
-        "author": "Keune"
+        "end": 584,
+        "author": "Keune."
       }
     ]
   },
@@ -6042,10 +6496,12 @@
     "lemma": "Suesia",
     "previous": "Suentisium",
     "next": "Suessa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 584,
-        "author": "Franke"
+        "end": 584,
+        "author": "Franke."
       }
     ]
   },
@@ -6053,11 +6509,13 @@
     "lemma": "Suessa",
     "previous": "Suesia",
     "next": "Suessa Pometia",
+    "proof_read": 0,
     "short_description": "Alte Hauptburg d. Aurunker, heute Sezza",
     "chapters": [
       {
         "start": 584,
-        "author": "Philipp"
+        "end": 586,
+        "author": "Philipp."
       }
     ]
   },
@@ -6065,11 +6523,14 @@
     "lemma": "Suessa Pometia",
     "previous": "Suessa",
     "next": "Suessetaner",
+    "sort_key": "Suessapometia",
+    "proof_read": 0,
     "short_description": "Latin. Gemeinde",
     "chapters": [
       {
         "start": 586,
-        "author": "Philipp"
+        "end": 588,
+        "author": "Philipp."
       }
     ]
   },
@@ -6077,11 +6538,13 @@
     "lemma": "Suessetaner",
     "previous": "Suessa Pometia",
     "next": "Suessiones",
+    "proof_read": 0,
     "short_description": "Iberischer Stamm, s. Cessetaner",
     "chapters": [
       {
         "start": 588,
-        "author": "Schulten"
+        "end": 588,
+        "author": "Schulten."
       }
     ]
   },
@@ -6089,11 +6552,13 @@
     "lemma": "Suessiones",
     "previous": "Suessetaner",
     "next": "Suessula 1",
+    "proof_read": 0,
     "short_description": "Kelt. Volk in Gallia Belgica",
     "chapters": [
       {
         "start": 588,
-        "author": "Wackernagel"
+        "end": 590,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -6101,11 +6566,13 @@
     "lemma": "Suessula 1",
     "previous": "Suessiones",
     "next": "Suessula 2",
+    "proof_read": 0,
     "short_description": "Ort in Kampanien",
     "chapters": [
       {
         "start": 590,
-        "author": "Philipp"
+        "end": 590,
+        "author": "Philipp."
       }
     ]
   },
@@ -6113,11 +6580,13 @@
     "lemma": "Suessula 2",
     "previous": "Suessula 1",
     "next": "Suestasium",
+    "proof_read": 0,
     "short_description": "Alte Sabinerstadt",
     "chapters": [
       {
         "start": 590,
-        "author": "Philipp"
+        "end": 590,
+        "author": "Philipp."
       }
     ]
   },
@@ -6138,11 +6607,13 @@
     "lemma": "Suestatium",
     "previous": "Suestasium",
     "next": "Suestra",
+    "proof_read": 0,
     "short_description": "Suessatio, s. Carietes",
     "chapters": [
       {
         "start": 590,
-        "author": "Schulten"
+        "end": 590,
+        "author": "Schulten."
       }
     ]
   },
@@ -6150,11 +6621,13 @@
     "lemma": "Suestra",
     "previous": "Suestatium",
     "next": "Sueta",
+    "proof_read": 0,
     "short_description": "Ort in d. heutigen Niederlanden",
     "chapters": [
       {
         "start": 591,
-        "author": "Keune"
+        "end": 591,
+        "author": "Keune."
       }
     ]
   },
@@ -6162,10 +6635,12 @@
     "lemma": "Sueta",
     "previous": "Suestra",
     "next": "Suetes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 591,
-        "author": "Heichelheim"
+        "end": 591,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -6201,11 +6676,13 @@
     "lemma": "Suetonius 1",
     "previous": "Suetius",
     "next": "Suetonius 2",
+    "proof_read": 0,
     "short_description": "Laetus, Vater d. Schriftstellers C. Suetonius Tranquillus Nr. 4",
     "chapters": [
       {
         "start": 591,
-        "author": "Stein, [Arthur]"
+        "end": 591,
+        "author": "Stein."
       }
     ]
   },
@@ -6227,11 +6704,13 @@
     "lemma": "Suetonius 3",
     "previous": "Suetonius 2",
     "next": "Suetonius 4",
+    "proof_read": 0,
     "short_description": "Paullinus, C., cos. ord. 66 n. Chr.",
     "chapters": [
       {
         "start": 591,
-        "author": "Miltner, Franz"
+        "end": 593,
+        "author": "Miltner."
       }
     ]
   },
@@ -6256,11 +6735,14 @@
     "lemma": "Suetrii, Suetri",
     "previous": "Suetonius 4",
     "next": "Suevi",
+    "sort_key": "Suetrii,suetri",
+    "proof_read": 0,
     "short_description": "Wohl ligurische Völkerschaften in d. Seealpen",
     "chapters": [
       {
         "start": 641,
-        "author": "Wackernagel"
+        "end": 642,
+        "author": "H. G. Wackernagel."
       }
     ]
   },
@@ -6317,11 +6799,13 @@
     "lemma": "Sufenas",
     "previous": "Sufasar",
     "next": "Sufes",
+    "proof_read": 0,
     "short_description": "Verus, Legat d. Provinz Lykien-Pamphylien",
     "chapters": [
       {
         "start": 642,
-        "author": "Fluss"
+        "end": 643,
+        "author": "Fluss."
       }
     ]
   },
@@ -6329,11 +6813,13 @@
     "lemma": "Sufes",
     "previous": "Sufenas",
     "next": "Sufeten",
+    "proof_read": 0,
     "short_description": "Afrikan. Ortschaft d. Byzacena",
     "chapters": [
       {
         "start": 643,
-        "author": "Dessau"
+        "end": 643,
+        "author": "Dessau."
       }
     ]
   },
@@ -6353,47 +6839,69 @@
     "lemma": "Sufetula",
     "previous": "Sufeten",
     "next": "Suffectus",
+    "proof_read": 0,
     "short_description": "Ort in Afrika, Provincia Byzacena",
     "chapters": [
       {
         "start": 651,
-        "author": "Dessau"
+        "end": 652,
+        "author": "Dessau."
       }
     ]
   },
   {
     "lemma": "Suffectus",
     "previous": "Sufetula",
-    "next": "Suffenas 1",
+    "next": "Suffenas",
+    "proof_read": 0,
     "short_description": "Magistratus anstelle eines anderen, der vor Ablauf d. Amtsjahres gestorben ist",
     "chapters": [
       {
         "start": 652,
-        "author": "Kübler, B[ernhard]"
+        "end": 652,
+        "author": "Kübler."
+      }
+    ]
+  },
+  {
+    "lemma": "Suffenas",
+    "previous": "Suffectus",
+    "next": "Suffenas 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 652,
+        "end": 652,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Suffenas 1",
-    "previous": "Suffectus",
+    "previous": "Suffenas",
     "next": "Suffenas 2",
+    "proof_read": 0,
     "short_description": "Person bei Catull",
     "chapters": [
       {
         "start": 652,
-        "author": "Münzer"
+        "end": 652,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Suffenas 2",
     "previous": "Suffenas 1",
-    "next": "Suffenus",
+    "next": "Suffeten",
+    "proof_read": 0,
     "short_description": "Trebula Suffenatium, Sabinerstadt",
     "chapters": [
       {
         "start": 652,
-        "author": "Philipp"
+        "end": 652,
+        "author": "Philipp."
       }
     ]
   },
@@ -6411,7 +6919,7 @@
   },
   {
     "lemma": "Suffeten",
-    "previous": "Suffenus",
+    "previous": "Suffenas 2",
     "next": "Suffibulum",
     "redirect": "Sufeten",
     "proof_read": 2,
@@ -6426,10 +6934,12 @@
     "lemma": "Suffibulum",
     "previous": "Suffeten",
     "next": "Suffimentum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 652,
-        "author": "Marbach"
+        "end": 652,
+        "author": "Marbach."
       }
     ]
   },
@@ -6437,11 +6947,13 @@
     "lemma": "Suffimentum",
     "previous": "Suffibulum",
     "next": "Suffitanae",
+    "proof_read": 0,
     "short_description": "Räucherwerk, Opfergabe",
     "chapters": [
       {
         "start": 652,
-        "author": "Marbach"
+        "end": 653,
+        "author": "Marbach."
       }
     ]
   },
@@ -6449,10 +6961,12 @@
     "lemma": "Suffitanae",
     "previous": "Suffimentum",
     "next": "Suffitio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 653,
-        "author": "Keune"
+        "end": 653,
+        "author": "Keune."
       }
     ]
   },
@@ -6460,10 +6974,12 @@
     "lemma": "Suffitio",
     "previous": "Suffitanae",
     "next": "Sufflamen",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 653,
-        "author": "Marbach"
+        "end": 653,
+        "author": "Marbach."
       }
     ]
   },
@@ -6471,11 +6987,13 @@
     "lemma": "Sufflamen",
     "previous": "Suffitio",
     "next": "Suffragator",
+    "proof_read": 0,
     "short_description": "Radschuh, Radsperre",
     "chapters": [
       {
         "start": 653,
-        "author": "Hug"
+        "end": 654,
+        "author": "Hug."
       }
     ]
   },
@@ -6483,11 +7001,13 @@
     "lemma": "Suffragator",
     "previous": "Sufflamen",
     "next": "Suffragium",
+    "proof_read": 0,
     "short_description": "Jemand, der z.B. bei einer Beamtenwahl einen anderen zur Wahl empfiehlt",
     "chapters": [
       {
         "start": 654,
-        "author": "Kübler, B[ernhard]"
+        "end": 654,
+        "author": "Kübler."
       }
     ]
   },
@@ -6495,11 +7015,13 @@
     "lemma": "Suffragium",
     "previous": "Suffragator",
     "next": "Suffustius",
+    "proof_read": 0,
     "short_description": "Abstimmung Fürsprache beim Kaiser o. einem Beamten",
     "chapters": [
       {
         "start": 654,
-        "author": "Kübler, B[ernhard]"
+        "end": 658,
+        "author": "Kübler."
       }
     ]
   },
@@ -6507,11 +7029,13 @@
     "lemma": "Suffustius",
     "previous": "Suffragium",
     "next": "Sugambri",
+    "proof_read": 0,
     "short_description": "(Suffucius), Num.",
     "chapters": [
       {
         "start": 658,
-        "author": "Münzer"
+        "end": 658,
+        "author": "Münzer."
       }
     ]
   },
@@ -6519,11 +7043,13 @@
     "lemma": "Sugambri",
     "previous": "Suffustius",
     "next": "Σουγδαία",
+    "proof_read": 0,
     "short_description": "Am rechten Rheinufer seßhafter Stamm",
     "chapters": [
       {
         "start": 659,
-        "author": "Schönfeld"
+        "end": 662,
+        "author": "Schönfeld."
       }
     ]
   },
@@ -6572,11 +7098,13 @@
     "lemma": "Suggan",
     "previous": "Sugdiani",
     "next": "Suggentensis 1",
+    "proof_read": 0,
     "short_description": "s. Iesdan, S3,1197",
     "chapters": [
       {
         "start": 663,
-        "author": "Keune"
+        "end": 663,
+        "author": "Keune."
       }
     ]
   },
@@ -6584,11 +7112,13 @@
     "lemma": "Suggentensis 1",
     "previous": "Suggan",
     "next": "Suggentensis 2",
+    "proof_read": 0,
     "short_description": "S. pagus, Sundgau im Oberelsaß s. auch Sogiontense Valesius",
     "chapters": [
       {
         "start": 663,
-        "author": "Keune"
+        "end": 663,
+        "author": "Keune."
       }
     ]
   },
@@ -6596,11 +7126,13 @@
     "lemma": "Suggentensis 2",
     "previous": "Suggentensis 1",
     "next": "Sugges",
+    "proof_read": 0,
     "short_description": "Landschaft um Sion, heute Le Saintois s. auch Sogiontense Suentisium",
     "chapters": [
       {
         "start": 663,
-        "author": "Keune"
+        "end": 663,
+        "author": "Keune."
       }
     ]
   },
@@ -6608,10 +7140,12 @@
     "lemma": "Sugges",
     "previous": "Suggentensis 2",
     "next": "Suggestus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 663,
-        "author": "Seeck"
+        "end": 663,
+        "author": "Seeck."
       }
     ]
   },
@@ -6619,11 +7153,13 @@
     "lemma": "Suggestus",
     "previous": "Sugges",
     "next": "Suggrunda",
+    "proof_read": 0,
     "short_description": "Erhöhung, z.B. im Lager Rednerbühne",
     "chapters": [
       {
         "start": 663,
-        "author": "Hug"
+        "end": 663,
+        "author": "Hug."
       }
     ]
   },
@@ -6631,11 +7167,13 @@
     "lemma": "Suggrunda",
     "previous": "Suggestus",
     "next": "Sui heredes",
+    "proof_read": 0,
     "short_description": "Wetterdach Bestattungsraum",
     "chapters": [
       {
         "start": 663,
-        "author": "Marbach"
+        "end": 664,
+        "author": "Marbach."
       }
     ]
   },
@@ -6643,11 +7181,14 @@
     "lemma": "Sui heredes",
     "previous": "Suggrunda",
     "next": "Suicidium",
+    "sort_key": "Suiheredes",
+    "proof_read": 0,
     "short_description": "t.t. im Erbrecht",
     "chapters": [
       {
         "start": 664,
-        "author": "Manigk"
+        "end": 675,
+        "author": "Manigk."
       }
     ]
   },
@@ -6685,11 +7226,13 @@
     "lemma": "Suidas 2",
     "previous": "Suidas 1",
     "next": "Suigianus",
+    "proof_read": 0,
     "short_description": "Verf. einer Lokalchronik v. Thessalien",
     "chapters": [
       {
         "start": 717,
-        "author": "Laqueur"
+        "end": 717,
+        "author": "Laqueur."
       }
     ]
   },
@@ -6697,10 +7240,12 @@
     "lemma": "Suigianus",
     "previous": "Suidas 2",
     "next": "Suillates",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 717,
-        "author": "Keune"
+        "end": 717,
+        "author": "Keune."
       }
     ]
   },
@@ -6708,10 +7253,12 @@
     "lemma": "Suillates",
     "previous": "Suigianus",
     "next": "Suillius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 717,
-        "author": "Philipp"
+        "end": 718,
+        "author": "Philipp."
       }
     ]
   },
@@ -6719,11 +7266,13 @@
     "lemma": "Suillius",
     "previous": "Suillates",
     "next": "Suillius 1",
+    "proof_read": 0,
     "short_description": "Zum Namen",
     "chapters": [
       {
         "start": 718,
-        "author": "Münzer"
+        "end": 718,
+        "author": "Münzer."
       }
     ]
   },
@@ -6731,11 +7280,13 @@
     "lemma": "Suillius 1",
     "previous": "Suillius",
     "next": "Suillius 2",
+    "proof_read": 0,
     "short_description": "M., Person auf einer Münze aus Hierapolis",
     "chapters": [
       {
         "start": 718,
-        "author": "Fluss"
+        "end": 718,
+        "author": "Fluss."
       }
     ]
   },
@@ -6743,11 +7294,13 @@
     "lemma": "Suillius 2",
     "previous": "Suillius 1",
     "next": "Suillius 3",
+    "proof_read": 0,
     "short_description": "Caesoninus, Sohn d. Delators P. Suillius Rufus Nr. 4",
     "chapters": [
       {
         "start": 718,
-        "author": "Fluss"
+        "end": 718,
+        "author": "Fluss."
       }
     ]
   },
@@ -6755,11 +7308,13 @@
     "lemma": "Suillius 3",
     "previous": "Suillius 2",
     "next": "Suillius 4",
+    "proof_read": 0,
     "short_description": "Nerullinus, M. Sohn d. Delators P. Suillius Rufus Nr. 4",
     "chapters": [
       {
         "start": 718,
-        "author": "Fluss"
+        "end": 719,
+        "author": "Fluss."
       }
     ]
   },
@@ -6767,11 +7322,13 @@
     "lemma": "Suillius 4",
     "previous": "Suillius 3",
     "next": "Suillius 5",
+    "proof_read": 0,
     "short_description": "Rufus, P. Berüchtigter Delator unter Kaiser Claudius",
     "chapters": [
       {
         "start": 719,
-        "author": "Fluss"
+        "end": 722,
+        "author": "Fluss."
       }
     ]
   },
@@ -6779,11 +7336,13 @@
     "lemma": "Suillius 5",
     "previous": "Suillius 4",
     "next": "Suillius 6",
+    "proof_read": 0,
     "short_description": "Rufus, P. Sohn d. Delators P. Suillius Rufus Nr. 4",
     "chapters": [
       {
         "start": 722,
-        "author": "Fluss"
+        "end": 722,
+        "author": "Fluss."
       }
     ]
   },
@@ -6805,10 +7364,12 @@
     "lemma": "Suismontium",
     "previous": "Suillius 6",
     "next": "Suissa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 722,
-        "author": "Philipp"
+        "end": 722,
+        "author": "Philipp."
       }
     ]
   },
@@ -12958,7 +13519,7 @@
     "previous": "Symmachos 27",
     "next": "Symmachos 29",
     "proof_read": 3,
-    "short_description": "Symmacha, Galla, Tochter des jüngeren Nicomachus Flavianus",
+    "short_description": "Galla, Tochter des jüngeren Nicomachus Flavianus",
     "chapters": [
       {
         "start": 1159,

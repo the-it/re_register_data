@@ -10390,6 +10390,7 @@
   },
   {
     "lemma": "Skirophoria",
+    "previous": "Skironische Felsen",
     "next": "Skirophorion",
     "redirect": "Skira",
     "proof_read": 2,
@@ -10529,9 +10530,12 @@
   {
     "lemma": "Σκίρτονες",
     "previous": "Σκίρτιοι",
+    "next": "Skirtonion",
+    "proof_read": 0,
     "chapters": [
       {
-        "start": 550
+        "start": 550,
+        "end": 550
       }
     ]
   },
@@ -11044,7 +11048,7 @@
   {
     "lemma": "Skopelinos",
     "previous": "Skopelianos",
-    "next": "Skopelos",
+    "next": "Skopelos 1",
     "redirect": "Scopelinus",
     "proof_read": 2,
     "chapters": [
@@ -15302,6 +15306,7 @@
   },
   {
     "lemma": "Solinates",
+    "previous": "Solimaros, -us",
     "next": "Solinienses",
     "proof_read": 2,
     "short_description": "Ort",
@@ -15372,6 +15377,7 @@
   {
     "lemma": "Solinus 2",
     "previous": "Solinus 1b",
+    "next": "Solimnia",
     "redirect": "Iulius 492",
     "proof_read": 3,
     "chapters": [
@@ -15383,6 +15389,8 @@
   },
   {
     "lemma": "Solimnia",
+    "previous": "Solinus 2",
+    "next": "Solis aqua",
     "redirect": "Solymnia",
     "proof_read": 2,
     "chapters": [
@@ -15737,7 +15745,7 @@
   {
     "lemma": "Sollius",
     "previous": "Sollion",
-    "next": "Sollius 0",
+    "next": "Sollius 1",
     "redirect": "Sidonius 1",
     "proof_read": 2,
     "chapters": [
@@ -21489,26 +21497,47 @@
   {
     "lemma": "Σωζο(ύ)πολις 1",
     "previous": "Σωζόπετρα",
+    "next": "Σωζο(ύ)πολις 2",
+    "sort_key": "Sozo(u)polis 1",
+    "proof_read": 0,
     "short_description": "Stadt in Pisidien",
     "chapters": [
       {
         "start": 1256,
-        "author": "Ruge"
+        "end": 1257,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Σωζο(ύ)πολις 2",
+    "previous": "Σωζο(ύ)πολις 1",
+    "next": "Σῴζουσα",
+    "sort_key": "Sozo(u)polis 2",
+    "proof_read": 0,
     "short_description": "Name der Stadt Apollonia",
     "chapters": [
       {
         "start": 1257,
-        "author": "Oberhummer"
+        "end": 1257,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Σῴζουσα"
+    "lemma": "Σῴζουσα",
+    "previous": "Σωζο(ύ)πολις 2",
+    "next": "Σῴζουσα 1",
+    "sort_key": "Sozusa",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1257,
+        "end": 1257,
+        "author": "Honigmann."
+      }
+    ]
   },
   {
     "lemma": "Σῴζουσα 1",
