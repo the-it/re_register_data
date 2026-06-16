@@ -3708,7 +3708,7 @@
     "next": "Prodikos 1",
     "sort_key": "prodikos",
     "redirect": true,
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Vormund der spartanischen Könige bzw. Rechtsbeistand",
     "chapters": [
       {
@@ -6646,7 +6646,7 @@
     "previous": "Promaea",
     "next": "Promalanges",
     "redirect": true,
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 646,
@@ -11288,7 +11288,8 @@
   },
   {
     "lemma": "Protokosmos",
-        "chapters": [
+    "next": "Protokreon",
+    "chapters": [
       {
         "start": 984,
         "end": 984
@@ -11297,6 +11298,7 @@
   },
   {
     "lemma": "Protokreon",
+    "previous": "Protokosmos",
     "next": "Protolaos",
     "redirect": "Protokles",
     "proof_read": 2,
