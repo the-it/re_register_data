@@ -10023,7 +10023,10 @@
     "lemma": "Suniericus",
     "previous": "Suniatos",
     "next": "Sunion",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "comes des Theoderich, 459–462 n. Chr. in Spanien",
+    "wp_link": "w:en:Sunieric",
+    "wd_link": "d:Q3977022",
     "chapters": [
       {
         "start": 910,
@@ -10076,10 +10079,12 @@
     "lemma": "Sunniacum",
     "previous": "Sunista",
     "next": "Sunno",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 919,
-        "author": "Keune"
+        "end": 920,
+        "author": "Keune."
       }
     ]
   },
@@ -10087,11 +10092,15 @@
     "lemma": "Sunno",
     "previous": "Sunniacum",
     "next": "Sunonensis lacus",
-    "short_description": "Franke",
+    "proof_read": 1,
+    "short_description": "fränkischer Kleinkönig um 390 n. Chr.",
+    "wp_link": "w:de:Sunno",
+    "wd_link": "d:Q1396545",
     "chapters": [
       {
         "start": 920,
-        "author": "Seeck"
+        "end": 920,
+        "author": "Seeck."
       }
     ]
   },
@@ -10099,11 +10108,14 @@
     "lemma": "Sunonensis lacus",
     "previous": "Sunno",
     "next": "Sunucsal, Sunuxal, Sunuxsal",
+    "sort_key": "Sunonensislacus",
+    "proof_read": 0,
     "short_description": "s. Boane limen",
     "chapters": [
       {
         "start": 920,
-        "author": "Ruge"
+        "end": 920,
+        "author": "Ruge."
       }
     ]
   },
@@ -10111,18 +10123,21 @@
     "lemma": "Sunucsal, Sunuxal, Sunuxsal",
     "previous": "Sunonensis lacus",
     "next": "Sunux(s)al",
+    "sort_key": "Sunucsal,sunuxal, sunuxsal",
+    "proof_read": 0,
     "short_description": "Niederrhein. Göttin",
     "chapters": [
       {
         "start": 920,
-        "author": "Keune"
+        "end": 922,
+        "author": "Keune."
       }
     ]
   },
   {
     "lemma": "Sunux(s)al",
     "previous": "Sunucsal, Sunuxal, Sunuxsal",
-    "next": "Suobenoi",
+    "next": "Σουοβηνοί",
     "redirect": "Sunucsal, Sunuxal, Sunuxsal",
     "proof_read": 2,
     "chapters": [
@@ -10133,26 +10148,31 @@
     ]
   },
   {
-    "lemma": "Suobenoi",
+    "lemma": "Σουοβηνοί",
     "previous": "Sunux(s)al",
     "next": "Suomarius",
+    "sort_key": "Suobenoi",
+    "proof_read": 0,
     "short_description": "Souobenoi",
     "chapters": [
       {
         "start": 923,
-        "author": "Herrmann"
+        "end": 923,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Suomarius",
-    "previous": "Suobenoi",
+    "previous": "Σουοβηνοί",
     "next": "Suovetaurilia",
+    "proof_read": 0,
     "short_description": "alemannischer König um 350",
     "chapters": [
       {
         "start": 923,
-        "author": "Seeck"
+        "end": 923,
+        "author": "Seeck."
       }
     ]
   },
@@ -10173,10 +10193,12 @@
     "lemma": "Supara",
     "previous": "Suovetaurilia",
     "next": "Supatos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 923,
-        "author": "Herrmann"
+        "end": 923,
+        "author": "Herrmann."
       }
     ]
   },
@@ -10184,10 +10206,12 @@
     "lemma": "Supatos",
     "previous": "Supara",
     "next": "Supellex",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 923,
-        "author": "Herrmann"
+        "end": 923,
+        "author": "Herrmann."
       }
     ]
   },
@@ -10195,11 +10219,13 @@
     "lemma": "Supellex",
     "previous": "Supatos",
     "next": "Super.",
+    "proof_read": 0,
     "short_description": "Hausrat, Hausgerät",
     "chapters": [
       {
         "start": 923,
-        "author": "Hug"
+        "end": 924,
+        "author": "Hug."
       }
     ]
   },
@@ -10207,10 +10233,12 @@
     "lemma": "Super.",
     "previous": "Supellex",
     "next": "Supera 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 924,
-        "author": "Keune"
+        "end": 924,
+        "author": "Keune."
       }
     ]
   },
@@ -10218,11 +10246,13 @@
     "lemma": "Supera 1",
     "previous": "Super.",
     "next": "Supera 2",
+    "proof_read": 0,
     "short_description": "Beiname d. Fortuna",
     "chapters": [
       {
         "start": 924,
-        "author": "Gebhard"
+        "end": 924,
+        "author": "Gebhard."
       }
     ]
   },
@@ -10230,11 +10260,13 @@
     "lemma": "Supera 2",
     "previous": "Supera 1",
     "next": "Superaequum",
+    "proof_read": 0,
     "short_description": "Im Namen der röm. Kaiserin Gaia Cornelia Supera Augusta",
     "chapters": [
       {
         "start": 924,
-        "author": "Stein, [Arthur]"
+        "end": 925,
+        "author": "Stein."
       }
     ]
   },
@@ -10242,68 +10274,82 @@
     "lemma": "Superaequum",
     "previous": "Supera 2",
     "next": "Superatioi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 925,
-        "author": "Philipp"
+        "end": 925,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Superatioi",
     "previous": "Superaequum",
-    "next": "Superficies, superficium",
+    "next": "Superficies",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 925,
-        "author": "Schulten"
+        "end": 925,
+        "author": "Schulten."
       }
     ]
   },
   {
-    "lemma": "Superficies, superficium",
+    "lemma": "Superficies",
     "previous": "Superatioi",
     "next": "Superianos",
+    "sort_key": "Superficies,superficium",
+    "proof_read": 0,
     "short_description": "t.t. im röm. Sachen- u. Pfandrechts",
     "chapters": [
       {
         "start": 925,
-        "author": "Kübler, B[ernhard]"
+        "end": 932,
+        "author": "Kübler."
       }
     ]
   },
   {
     "lemma": "Superianos",
-    "previous": "Superficies, superficium",
-    "next": "Superindictio, superindictum",
+    "previous": "Superficies",
+    "next": "Superindictio, Superindictum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 932,
-        "author": "Kroll"
+        "end": 932,
+        "author": "Kroll."
       }
     ]
   },
   {
-    "lemma": "Superindictio, superindictum",
+    "lemma": "Superindictio, Superindictum",
     "previous": "Superianos",
     "next": "Superiores",
+    "sort_key": "Superindictio,superindictum",
+    "proof_read": 0,
     "short_description": "Außerordentl. Steuer o. Leistung",
     "chapters": [
       {
         "start": 933,
-        "author": "Enßlin"
+        "end": 937,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Superiores",
-    "previous": "Superindictio, superindictum",
+    "previous": "Superindictio, Superindictum",
     "next": "Superstitio",
+    "proof_read": 0,
     "short_description": "figlinae -",
     "chapters": [
       {
         "start": 937,
-        "author": "Keune"
+        "end": 937,
+        "author": "Keune."
       }
     ]
   },
@@ -10311,11 +10357,13 @@
     "lemma": "Superstitio",
     "previous": "Superiores",
     "next": "Supertamarici",
+    "proof_read": 0,
     "short_description": "Aberglaube Abweichen vom herkömmlichen Gottesdienst",
     "chapters": [
       {
         "start": 937,
-        "author": "Pfaff"
+        "end": 939,
+        "author": "Pfaff."
       }
     ]
   },
@@ -10323,10 +10371,12 @@
     "lemma": "Supertamarici",
     "previous": "Superstitio",
     "next": "Superum mare",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 939,
-        "author": "Schulten"
+        "end": 939,
+        "author": "Schulten."
       }
     ]
   },
@@ -12788,29 +12838,39 @@
   {
     "lemma": "Syllis",
     "previous": "Syllion",
-    "next": "Syllogeis",
+    "next": "Συλλογεῖς",
+    "proof_read": 2,
+    "short_description": "Nymphe, Mutter des Zeuxippos, Königs von Sikyon",
+    "wp_link": "w:en:Syllis (mythology)",
+    "wd_link": "d:Q12777065",
     "chapters": [
       {
         "start": 1044,
-        "author": "Türk"
+        "end": 1044,
+        "author": "Türk."
       }
     ]
   },
   {
-    "lemma": "Syllogeis",
+    "lemma": "Συλλογεῖς",
     "previous": "Syllis",
     "next": "Syllogeutikon",
-    "short_description": "Bezeichnung versch. Beamten",
+    "sort_key": "Syllogeis",
+    "proof_read": 0,
+    "short_description": "Syllogeis, Bezeichnung verschiedener Beamter",
+    "wp_link": "w:ca:Sil·logi",
+    "wd_link": "d:Q11949779",
     "chapters": [
       {
         "start": 1044,
-        "author": "Muttelsee"
+        "end": 1046,
+        "author": "Muttelsee."
       }
     ]
   },
   {
     "lemma": "Syllogeutikon",
-    "previous": "Syllogeis",
+    "previous": "Συλλογεῖς",
     "next": "Syllogistik",
     "short_description": "s. syllogos",
     "chapters": [
@@ -13266,7 +13326,7 @@
   {
     "lemma": "Symbroi",
     "previous": "Symbra 3",
-    "next": "Symbuloi",
+    "next": "Σύμβουλοι",
     "chapters": [
       {
         "start": 1095,
@@ -13275,20 +13335,23 @@
     ]
   },
   {
-    "lemma": "Symbuloi",
+    "lemma": "Σύμβουλοι",
     "previous": "Symbroi",
     "next": "Syme 1",
-    "short_description": "Beiräte",
+    "sort_key": "Symbuloi",
+    "proof_read": 0,
+    "short_description": "Symbuloi, Beiräte, Ratsmitglieder in Sparta, Kreta, Thurioi und Athen",
     "chapters": [
       {
         "start": 1095,
-        "author": "Muttelsee"
+        "end": 1097,
+        "author": "Muttelsee."
       }
     ]
   },
   {
     "lemma": "Syme 1",
-    "previous": "Symbuloi",
+    "previous": "Σύμβουλοι",
     "next": "Syme 2",
     "short_description": "Insel in d. Ägäis",
     "chapters": [
