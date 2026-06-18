@@ -1,30 +1,35 @@
 [
   {
     "lemma": "Symposion-Literatur",
-    "next": "Symproedroi",
+    "next": "Συμπρόεδροι",
+    "proof_read": 1,
     "short_description": "Literatur, in der die eigentliche Geschichte beim Symposion erzählt wird",
     "chapters": [
       {
         "start": 1273,
-        "author": "Hug"
+        "end": 1282,
+        "author": "Hug."
       }
     ]
   },
   {
-    "lemma": "Symproedroi",
+    "lemma": "Συμπρόεδροι",
     "previous": "Symposion-Literatur",
     "next": "Συν-",
+    "sort_key": "Symproedroi",
+    "proof_read": 0,
     "short_description": "Mitvorsitzende der Volksversammlung",
     "chapters": [
       {
         "start": 1282,
-        "author": "Muttelsee"
+        "end": 1283,
+        "author": "Muttelsee."
       }
     ]
   },
   {
     "lemma": "Συν-",
-    "previous": "Symproedroi",
+    "previous": "Συμπρόεδροι",
     "next": "Syna",
     "sort_key": "Syn",
     "redirect": true,
@@ -53,78 +58,96 @@
     "lemma": "Syna mons 1",
     "previous": "Syna",
     "next": "Syna mons 2",
+    "sort_key": "Synamons 1",
+    "proof_read": 0,
     "short_description": "Der Sinai",
     "chapters": [
       {
         "start": 1283,
-        "author": "Honigmann"
+        "end": 1283,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Syna mons 2",
     "previous": "Syna mons 1",
-    "next": "Synadoniazontes",
+    "next": "(Συν)αδωνιάζοντες",
+    "sort_key": "Synamons 2",
+    "proof_read": 0,
     "short_description": "Station der Küstenstraße Palästinas",
     "chapters": [
       {
         "start": 1283,
-        "author": "Honigmann"
+        "end": 1284,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Synadoniazontes",
+    "lemma": "(Συν)αδωνιάζοντες",
     "previous": "Syna mons 2",
-    "next": "Synagoge 1",
+    "next": "Συναγωγή 1",
+    "sort_key": "Synadoniazontes",
+    "proof_read": 0,
     "short_description": "Auf einer Inschr. aus Loryma",
     "chapters": [
       {
         "start": 1284,
-        "author": "Poland"
+        "end": 1284,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synagoge 1",
-    "previous": "Synadoniazontes",
-    "next": "Synagoge 2",
+    "lemma": "Συναγωγή 1",
+    "previous": "(Συν)αδωνιάζοντες",
+    "next": "Συναγωγή 2",
+    "sort_key": "Synagoge 1",
+    "proof_read": 0,
     "short_description": "Technischer Ausdruck in der Vereinssprache",
     "chapters": [
       {
         "start": 1284,
-        "author": "Poland"
+        "end": 1286,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synagoge 2",
-    "previous": "Synagoge 1",
-    "next": "Synagogeus",
+    "lemma": "Συναγωγή 2",
+    "previous": "Συναγωγή 1",
+    "next": "Συναγωγεύς",
+    "sort_key": "Synagoge 2",
+    "proof_read": 0,
     "short_description": "Versammlungsstätte der jüdischen Gemeinde zum Gottesdienst",
     "chapters": [
       {
         "start": 1286,
-        "author": "Krauss"
+        "end": 1316,
+        "author": "Krauss."
       }
     ]
   },
   {
-    "lemma": "Synagogeus",
-    "previous": "Synagoge 2",
+    "lemma": "Συναγωγεύς",
+    "previous": "Συναγωγή 2",
     "next": "Συναγωνισταί",
+    "sort_key": "Synagogeus",
+    "proof_read": 0,
     "short_description": "Vereinstitel",
     "chapters": [
       {
         "start": 1316,
-        "author": "Poland"
+        "end": 1322,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Συναγωνισταί",
-    "previous": "Synagogeus",
-    "next": "Synallagma",
+    "previous": "Συναγωγεύς",
+    "next": "Συνάλλαγμα",
     "sort_key": "Synagonistai",
     "redirect": "Technitai",
     "proof_read": 2,
@@ -136,74 +159,103 @@
     ]
   },
   {
-    "lemma": "Synallagma",
+    "lemma": "Συνάλλαγμα",
     "previous": "Συναγωνισταί",
-    "next": "Synallagmatographos",
+    "next": "Συναλλαγματογράφος",
+    "sort_key": "Synallagma",
+    "proof_read": 0,
     "short_description": "Alle auf Begründung einer Obligation gerichteten Rechtsgeschäfte",
     "chapters": [
       {
         "start": 1322,
-        "author": "Seidl"
+        "end": 1324,
+        "author": "Seidl."
       }
     ]
   },
   {
-    "lemma": "Synallagmatographos",
-    "previous": "Synallagma",
-    "next": "Synallaktes",
+    "lemma": "Συναλλαγματογράφος",
+    "previous": "Συνάλλαγμα",
+    "next": "Συναλλακτής",
+    "sort_key": "Synallagmatographos",
+    "proof_read": 0,
     "short_description": "Gewerbsmässiger öffentlich konzessionierter Urkundenschreiber im römischen",
     "chapters": [
       {
-        "start": 1325,
-        "author": "Bickermann"
+        "start": 1324,
+        "end": 1325,
+        "author": "Bickermann."
       }
     ]
   },
   {
-    "lemma": "Synallaktes",
-    "previous": "Synallagmatographos",
+    "lemma": "Συναλλακτής",
+    "previous": "Συναλλαγματογράφος",
     "next": "Synallaxis",
+    "sort_key": "Synallaktes",
+    "proof_read": 0,
     "short_description": "Vertragspartner",
     "chapters": [
       {
         "start": 1325,
-        "author": "Seidl"
+        "end": 1325,
+        "author": "Seidl."
       }
     ]
   },
   {
     "lemma": "Synallaxis",
-    "previous": "Synallaktes",
+    "previous": "Συναλλακτής",
     "next": "Synalos",
+    "proof_read": 0,
     "short_description": "Heilnymphe",
     "chapters": [
       {
         "start": 1325,
-        "author": "Türk"
+        "end": 1325,
+        "author": "Türk."
       }
     ]
   },
   {
     "lemma": "Synalos",
     "previous": "Synallaxis",
+    "next": "Synalos 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1325,
+        "end": 1325,
+        "author": "Ehrenberg."
+      }
+    ]
+  },
+  {
+    "lemma": "Synalos 1",
+    "previous": "Synalos",
     "next": "Synalos 2",
+    "proof_read": 0,
     "short_description": "Befehlshaber im karthagischen Sizilien",
     "chapters": [
       {
         "start": 1325,
-        "author": "Ehrenberg"
+        "end": 1326,
+        "author": "Ehrenberg."
       }
     ]
   },
   {
     "lemma": "Synalos 2",
-    "previous": "Synalos",
+    "previous": "Synalos 1",
     "next": "Synalos 3",
+    "proof_read": 0,
     "short_description": "Mitglied einer karthagischen Gesandtschaft nach Athen",
     "chapters": [
       {
         "start": 1326,
-        "author": "Ehrenberg"
+        "end": 1326,
+        "author": "Ehrenberg."
       }
     ]
   },
@@ -225,7 +277,7 @@
   {
     "lemma": "Σύναγγος",
     "previous": "Synalos 3",
-    "next": "Synanubiastai",
+    "next": "Συνανουβιασταί",
     "sort_key": "Synangos",
     "proof_read": 2,
     "short_description": "Ortsname",
@@ -238,105 +290,126 @@
     ]
   },
   {
-    "lemma": "Synanubiastai",
+    "lemma": "Συνανουβιασταί",
     "previous": "Σύναγγος",
     "next": "Synaos",
+    "sort_key": "Synanubiastai",
+    "proof_read": 0,
     "short_description": "Genossenschaft in Smyrna",
     "chapters": [
       {
         "start": 1326,
-        "author": "Poland"
+        "end": 1326,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Synaos",
-    "previous": "Synanubiastai",
-    "next": "Synapothanumenoi",
+    "previous": "Συνανουβιασταί",
+    "next": "Συναποθανούμενοι",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygia Pakatiane",
     "chapters": [
       {
         "start": 1326,
-        "author": "Ruge"
+        "end": 1327,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Synapothanumenoi",
+    "lemma": "Συναποθανούμενοι",
     "previous": "Synaos",
     "next": "Synarchia",
+    "sort_key": "Synapothanumenoi",
+    "proof_read": 0,
     "short_description": "Nannten sich die Zechgenossen nach der Schlacht von Aktium",
     "chapters": [
       {
         "start": 1327,
-        "author": "Poland"
+        "end": 1327,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Synarchia",
-    "previous": "Synapothanumenoi",
+    "previous": "Συναποθανούμενοι",
     "next": "Synarchis",
+    "proof_read": 0,
     "short_description": "Für das Münzwesen verantwortliche Behörde in Antiochia",
     "chapters": [
       {
         "start": 1327,
-        "author": "Regling"
+        "end": 1327,
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Synarchis",
     "previous": "Synarchia",
-    "next": "Synaristion",
+    "next": "Συναρίστιον",
+    "proof_read": 0,
     "short_description": "Beiname der Aphrodite",
     "chapters": [
       {
         "start": 1327,
-        "author": "Gebhard"
+        "end": 1327,
+        "author": "Gebhard."
       }
     ]
   },
   {
-    "lemma": "Synaristion",
+    "lemma": "Συναρίστιον",
     "previous": "Synarchis",
-    "next": "Synaspismos",
+    "next": "Συνασπισμός",
+    "sort_key": "Synaristion",
+    "proof_read": 0,
     "short_description": "Eine Vereinigung von Nisyros",
     "chapters": [
       {
         "start": 1327,
-        "author": "Poland"
+        "end": 1328,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synaspismos",
-    "previous": "Synaristion",
-    "next": "Synbasilistai",
+    "lemma": "Συνασπισμός",
+    "previous": "Συναρίστιον",
+    "next": "Συνβασιλισταί",
+    "sort_key": "Synaspismos",
+    "proof_read": 0,
     "short_description": "Stellung Schild an Schild taktische Form im makedonischen Heer",
     "chapters": [
       {
         "start": 1328,
-        "author": "Lammert, Friedrich"
+        "end": 1330,
+        "author": "F. Lammert."
       }
     ]
   },
   {
-    "lemma": "Synbasilistai",
-    "previous": "Synaspismos",
+    "lemma": "Συνβασιλισταί",
+    "previous": "Συνασπισμός",
     "next": "Syncellus",
+    "sort_key": "Synbasilistai",
+    "proof_read": 0,
     "short_description": "Ägypt. Verein in einer Inschr. unbekannter Herkunft",
     "chapters": [
       {
         "start": 1330,
-        "author": "Poland"
+        "end": 1330,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Syncellus",
-    "previous": "Synbasilistai",
-    "next": "Synchoresis",
+    "previous": "Συνβασιλισταί",
+    "next": "Συγχώρησις",
     "redirect": "Synkellos 1",
     "proof_read": 2,
     "chapters": [
@@ -347,110 +420,137 @@
     ]
   },
   {
-    "lemma": "Synchoresis",
+    "lemma": "Συγχώρησις",
     "previous": "Syncellus",
-    "next": "Syndeipnoi",
+    "next": "Σύνδειπνοι",
+    "sort_key": "Synchoresis",
+    "proof_read": 0,
     "short_description": "Form der Vertragsurkunde im römischen Alexandria",
     "chapters": [
       {
         "start": 1330,
-        "author": "Bickermann"
+        "end": 1331,
+        "author": "Bickermann."
       }
     ]
   },
   {
-    "lemma": "Syndeipnoi",
-    "previous": "Synchoresis",
-    "next": "Syndikazein",
+    "lemma": "Σύνδειπνοι",
+    "previous": "Συγχώρησις",
+    "next": "Συνδικάζειν",
+    "sort_key": "Syndeipnoi",
+    "proof_read": 0,
     "short_description": "Vereinsgenossen in Aegypten",
     "chapters": [
       {
         "start": 1331,
-        "author": "Poland"
+        "end": 1331,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Syndikazein",
-    "previous": "Syndeipnoi",
-    "next": "Syndikos 1",
+    "lemma": "Συνδικάζειν",
+    "previous": "Σύνδειπνοι",
+    "next": "Σύνδικος 1",
+    "sort_key": "Syndikazein",
+    "proof_read": 0,
     "short_description": "Terminus technicus für die ausserordentliche Beteiligung an der Gerichtsbarkeit",
     "chapters": [
       {
         "start": 1331,
-        "author": "Latte"
+        "end": 1331,
+        "author": "Latte."
       }
     ]
   },
   {
-    "lemma": "Syndikos 1",
-    "previous": "Syndikazein",
-    "next": "Syndikos 2",
+    "lemma": "Σύνδικος 1",
+    "previous": "Συνδικάζειν",
+    "next": "Σύνδικος 2",
+    "sort_key": "Syndikos 1",
+    "proof_read": 0,
     "short_description": "Hafenstadt bei Skythien s. Gorgippia",
     "chapters": [
       {
         "start": 1331,
-        "author": "Herrmann"
+        "end": 1331,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Syndikos 2",
-    "previous": "Syndikos 1",
-    "next": "Syndikos 3",
+    "lemma": "Σύνδικος 2",
+    "previous": "Σύνδικος 1",
+    "next": "Σύνδικος 3",
+    "sort_key": "Syndikos 2",
+    "proof_read": 0,
     "short_description": "Rechtsbeistand jurist. Beamter",
     "chapters": [
       {
         "start": 1331,
-        "author": "Kahrstedt"
+        "end": 1332,
+        "author": "Kahrstedt."
       }
     ]
   },
   {
-    "lemma": "Syndikos 3",
-    "previous": "Syndikos 2",
-    "next": "Synedrion 1",
+    "lemma": "Σύνδικος 3",
+    "previous": "Σύνδικος 2",
+    "next": "Συνέδριον 1",
+    "sort_key": "Syndikos 3",
+    "proof_read": 0,
     "short_description": "Liturgisches Amt",
     "chapters": [
       {
         "start": 1332,
-        "author": "Seidl"
+        "end": 1333,
+        "author": "Seidl."
       }
     ]
   },
   {
-    "lemma": "Synedrion 1",
-    "previous": "Syndikos 3",
-    "next": "Synedrion 2",
+    "lemma": "Συνέδριον 1",
+    "previous": "Σύνδικος 3",
+    "next": "Συνέδριον 2",
+    "sort_key": "Synedrion 1",
+    "proof_read": 0,
     "short_description": "Name für politische Körperschaften",
     "chapters": [
       {
         "start": 1333,
-        "author": "Kahrstedt"
+        "end": 1350,
+        "author": "Kahrstedt."
       }
     ]
   },
   {
-    "lemma": "Synedrion 2",
-    "previous": "Synedrion 1",
+    "lemma": "Συνέδριον 2",
+    "previous": "Συνέδριον 1",
     "next": "Synedrion neon",
+    "sort_key": "Synedrion 2",
+    "proof_read": 0,
     "short_description": "Genossenschaft",
     "chapters": [
       {
         "start": 1350,
-        "author": "Poland"
+        "end": 1353,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Synedrion neon",
-    "previous": "Synedrion 2",
+    "previous": "Συνέδριον 2",
     "next": "Synedroi",
+    "sort_key": "Synedrionneon",
+    "proof_read": 0,
     "short_description": "Personifizierter Rat auf Münzen aus Laodikeia des 3. Jhs. n. Chr.",
     "chapters": [
       {
         "start": 1353,
-        "author": "Regling"
+        "end": 1353,
+        "author": "Regling."
       }
     ]
   },
@@ -471,11 +571,13 @@
     "lemma": "Synegoros 1",
     "previous": "Synedroi",
     "next": "Synegoros 2",
+    "proof_read": 0,
     "short_description": "Von der Phyle gestellte Fürsprecher bei einem Prozess",
     "chapters": [
       {
         "start": 1353,
-        "author": "Latte"
+        "end": 1354,
+        "author": "Latte."
       }
     ]
   },
@@ -483,11 +585,13 @@
     "lemma": "Synegoros 2",
     "previous": "Synegoros 1",
     "next": "Συνεφηβία",
+    "proof_read": 0,
     "short_description": "Berufliche Anwaltschaft im ptolemäischen Aegypten",
     "chapters": [
       {
         "start": 1354,
-        "author": "Seidl"
+        "end": 1357,
+        "author": "Seidl."
       }
     ]
   },
@@ -509,11 +613,13 @@
     "lemma": "Synephebos",
     "previous": "Συνεφηβία",
     "next": "Syneranistai",
+    "proof_read": 0,
     "short_description": "Mitglieder der Ephebie",
     "chapters": [
       {
         "start": 1357,
-        "author": "Poland"
+        "end": 1360,
+        "author": "Poland."
       }
     ]
   },
