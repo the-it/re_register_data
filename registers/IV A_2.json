@@ -558,7 +558,7 @@
     "lemma": "Synedroi",
     "previous": "Synedrion neon",
     "next": "Synegoros 1",
-    "redirect": "Synedrion 1",
+    "redirect": "Συνέδριον 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -598,7 +598,7 @@
   {
     "lemma": "Συνεφηβία",
     "previous": "Synegoros 2",
-    "next": "Synephebos",
+    "next": "Συνέφηβος",
     "sort_key": "Synephebia",
     "redirect": "Synephebos",
     "proof_read": 2,
@@ -610,9 +610,10 @@
     ]
   },
   {
-    "lemma": "Synephebos",
+    "lemma": "Συνέφηβος",
     "previous": "Συνεφηβία",
-    "next": "Syneranistai",
+    "next": "Συνερανισταί",
+    "sort_key": "Synephebos",
     "proof_read": 0,
     "short_description": "Mitglieder der Ephebie",
     "chapters": [
@@ -624,98 +625,121 @@
     ]
   },
   {
-    "lemma": "Syneranistai",
-    "previous": "Synephebos",
-    "next": "Synergasia",
+    "lemma": "Συνερανισταί",
+    "previous": "Συνέφηβος",
+    "next": "Συνεργασία",
+    "sort_key": "Syneranistai",
+    "proof_read": 0,
     "short_description": "Verstärkung des Wortes eranistai",
     "chapters": [
       {
         "start": 1360,
-        "author": "Poland"
+        "end": 1360,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synergasia",
-    "previous": "Syneranistai",
-    "next": "Synergastai, synergatai",
+    "lemma": "Συνεργασία",
+    "previous": "Συνερανισταί",
+    "next": "Συνεργασταί, συνεργάται",
+    "sort_key": "Synergasia",
+    "proof_read": 0,
     "short_description": "Bezeichnung für eine Handwerkervereinigung",
     "chapters": [
       {
         "start": 1360,
-        "author": "Poland"
+        "end": 1361,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synergastai, synergatai",
-    "previous": "Synergasia",
-    "next": "Synergatines",
+    "lemma": "Συνεργασταί, συνεργάται",
+    "previous": "Συνεργασία",
+    "next": "Συνεργατίνης",
+    "sort_key": "Synergastai,synergatai",
+    "proof_read": 0,
     "short_description": "Genossenschaft in Tralleis",
     "chapters": [
       {
         "start": 1361,
-        "author": "Poland"
+        "end": 1361,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synergatines",
-    "previous": "Synergastai, synergatai",
-    "next": "Synergion",
+    "lemma": "Συνεργατίνης",
+    "previous": "Συνεργασταί, συνεργάται",
+    "next": "Συνέργιον",
+    "sort_key": "Synergatines",
+    "proof_read": 0,
     "short_description": "Fischereigesellschaft (?)",
     "chapters": [
       {
         "start": 1361,
-        "author": "Poland"
+        "end": 1361,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synergion",
-    "previous": "Synergatines",
-    "next": "Synergos",
+    "lemma": "Συνέργιον",
+    "previous": "Συνεργατίνης",
+    "next": "Συνεργός",
+    "sort_key": "Synergion",
+    "proof_read": 0,
     "short_description": "Handwerkervereinigung",
     "chapters": [
       {
         "start": 1361,
-        "author": "Poland"
+        "end": 1362,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synergos",
-    "previous": "Synergion",
-    "next": "Syneros, L. Atinius 1",
+    "lemma": "Συνεργός",
+    "previous": "Συνέργιον",
+    "next": "Syneros 1",
+    "sort_key": "Synergos",
+    "proof_read": 0,
     "short_description": "Handwerksgenosse (?)",
     "chapters": [
       {
         "start": 1362,
-        "author": "Poland"
+        "end": 1362,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Syneros, L. Atinius 1",
-    "previous": "Synergos",
+    "lemma": "Syneros 1",
+    "previous": "Συνεργός",
     "next": "Syneros 2",
+    "sort_key": "Syneros,l. atinius 1",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 1362,
-        "author": "Lippold, Georg"
+        "end": 1362,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Syneros 2",
-    "previous": "Syneros, L. Atinius 1",
+    "previous": "Syneros 1",
     "next": "Synesios 1",
+    "proof_read": 0,
     "short_description": "Gewährsmann für zwei Augenheilmittel",
     "chapters": [
       {
         "start": 1362,
-        "author": "Kind"
+        "end": 1362,
+        "author": "Kind."
       }
     ]
   },
@@ -723,11 +747,13 @@
     "lemma": "Synesios 1",
     "previous": "Syneros 2",
     "next": "Synesios 2",
+    "proof_read": 0,
     "short_description": "Philosoph und christlicher Bischof von Ptolemais kyrene",
     "chapters": [
       {
         "start": 1362,
-        "author": "Campenhausen"
+        "end": 1365,
+        "author": "H. v. Campenhausen."
       }
     ]
   },
@@ -835,7 +861,7 @@
   {
     "lemma": "Συγγένεια 1",
     "previous": "Συνευνομιωταί",
-    "next": "Syngeneia 2",
+    "next": "Συγγένεια 2",
     "sort_key": "Syngeneia 1",
     "redirect": true,
     "proof_read": 2,
@@ -847,68 +873,82 @@
     ]
   },
   {
-    "lemma": "Syngeneia 2",
+    "lemma": "Συγγένεια 2",
     "previous": "Συγγένεια 1",
     "next": "Syngeneios",
+    "sort_key": "Syngeneia 2",
+    "proof_read": 0,
     "short_description": "Sakrale und wirtschaftliche Verbindung von Städten",
     "chapters": [
       {
         "start": 1368,
-        "author": "Regling"
+        "end": 1368,
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Syngeneios",
-    "previous": "Syngeneia 2",
-    "next": "Syngeneis",
+    "previous": "Συγγένεια 2",
+    "next": "Συγγενεῖς",
+    "proof_read": 0,
     "short_description": "Beiname des Zeus",
     "chapters": [
       {
         "start": 1368,
-        "author": "Gebhard"
+        "end": 1368,
+        "author": "Gebhard."
       }
     ]
   },
   {
-    "lemma": "Syngeneis",
+    "lemma": "Συγγενεῖς",
     "previous": "Syngeneios",
-    "next": "Syngenes",
+    "next": "Συγγενής",
+    "sort_key": "Syngeneis",
+    "proof_read": 0,
     "short_description": "Weiterer Kreis der Verwandten",
     "chapters": [
       {
         "start": 1368,
-        "author": "Latte"
+        "end": 1368,
+        "author": "Latte."
       }
     ]
   },
   {
-    "lemma": "Syngenes",
-    "previous": "Syngeneis",
-    "next": "Syngeouchoi",
+    "lemma": "Συγγενής",
+    "previous": "Συγγενεῖς",
+    "next": "Συνγεοῦχοι",
+    "sort_key": "Syngenes",
+    "proof_read": 0,
     "short_description": "Höchster Hoftitel der hellenistischen Monarchien",
     "chapters": [
       {
         "start": 1368,
-        "author": "Bickermann"
+        "end": 1369,
+        "author": "Bickermann."
       }
     ]
   },
   {
-    "lemma": "Syngeouchoi",
-    "previous": "Syngenes",
+    "lemma": "Συνγεοῦχοι",
+    "previous": "Συγγενής",
     "next": "Synges",
+    "sort_key": "Syngeouchoi",
+    "proof_read": 0,
     "short_description": "Religiöse Privatvereinigung in Aegypten",
     "chapters": [
       {
         "start": 1369,
-        "author": "Poland"
+        "end": 1369,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Synges",
-    "previous": "Syngeouchoi",
+    "previous": "Συνγεοῦχοι",
     "next": "Syngnomon",
     "proof_read": 2,
     "short_description": "Person, vermutlich falsche Lesung",
@@ -923,66 +963,80 @@
   {
     "lemma": "Syngnomon",
     "previous": "Synges",
-    "next": "Syngraphai",
+    "next": "Συγγραφαί",
+    "proof_read": 0,
     "short_description": "Beiname des Apollon und Asklepios in Epidaurus",
     "chapters": [
       {
         "start": 1369,
-        "author": "Türk"
+        "end": 1369,
+        "author": "Türk."
       }
     ]
   },
   {
-    "lemma": "Syngraphai",
+    "lemma": "Συγγραφαί",
     "previous": "Syngnomon",
-    "next": "Syngraphe, Syngrapha",
+    "next": "Συγγραφή, syngrapha",
+    "sort_key": "Syngraphai",
+    "proof_read": 0,
     "short_description": "Entwürfe, die ein Ausschuss auf Beschluß der Volksversammlung ausarbeitet",
     "chapters": [
       {
         "start": 1369,
-        "author": "Schwahn"
+        "end": 1376,
+        "author": "Schwahn."
       }
     ]
   },
   {
-    "lemma": "Syngraphe, Syngrapha",
-    "previous": "Syngraphai",
-    "next": "Syngrapheis",
+    "lemma": "Συγγραφή, syngrapha",
+    "previous": "Συγγραφαί",
+    "next": "Συγγραφεῖς",
+    "sort_key": "Syngraphe,syngrapha",
+    "proof_read": 0,
     "short_description": "Griechische Vertragsurkunde",
     "chapters": [
       {
         "start": 1376,
-        "author": "Kunkel, Wolfgang"
+        "end": 1387,
+        "author": "W. Kunkel."
       }
     ]
   },
   {
-    "lemma": "Syngrapheis",
-    "previous": "Syngraphe, Syngrapha",
-    "next": "Syngraphophylax",
+    "lemma": "Συγγραφεῖς",
+    "previous": "Συγγραφή, syngrapha",
+    "next": "Συγγραφοφύλαξ",
+    "sort_key": "Syngrapheis",
+    "proof_read": 0,
     "short_description": "Verfasser der schriftlichen Ausarbeitung unformulierter Volksbeschlüsse",
     "chapters": [
       {
         "start": 1387,
-        "author": "Kahrstedt"
+        "end": 1388,
+        "author": "Kahrstedt."
       }
     ]
   },
   {
-    "lemma": "Syngraphophylax",
-    "previous": "Syngrapheis",
+    "lemma": "Συγγραφοφύλαξ",
+    "previous": "Συγγραφεῖς",
     "next": "Synhietae",
+    "sort_key": "Syngraphophylax",
+    "proof_read": 0,
     "short_description": "Archivar von Urkunden in Aegypten",
     "chapters": [
       {
         "start": 1388,
-        "author": "Bickermann"
+        "end": 1388,
+        "author": "Bickermann."
       }
     ]
   },
   {
     "lemma": "Synhietae",
-    "previous": "Syngraphophylax",
+    "previous": "Συγγραφοφύλαξ",
     "next": "Synhorium",
     "proof_read": 2,
     "short_description": "Volk östl. vom Tanais",
@@ -1027,11 +1081,13 @@
     "lemma": "Synkellos 1",
     "previous": "Σύγκη",
     "next": "Synkellos 2",
+    "proof_read": 0,
     "short_description": "Mönch benannt nach seiner kirchliche Würde, Geschichtschreiber",
     "chapters": [
       {
         "start": 1388,
-        "author": "Laqueur"
+        "end": 1410,
+        "author": "Laqueur."
       }
     ]
   },
@@ -1053,12 +1109,14 @@
   {
     "lemma": "Synkletios",
     "previous": "Synkellos 2",
-    "next": "Synkletos",
+    "next": "Σύγκλητος",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1410,
-        "author": "Seeck"
+        "end": 1410,
+        "author": "Seeck."
       }
     ]
   },
@@ -1100,20 +1158,22 @@
   },
   {
     "lemma": "Synnada",
-    "previous": "Synkynagoi",
+    "previous": "Συγκυναγοί",
     "next": "Synnaos",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygien",
     "chapters": [
       {
         "start": 1410,
-        "author": "Ruge"
+        "end": 1412,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Synnaos",
     "previous": "Synnada",
-    "next": "Synnautai",
+    "next": "Συνναῦται",
     "redirect": "Synaos",
     "proof_read": 2,
     "chapters": [
@@ -1124,44 +1184,52 @@
     ]
   },
   {
-    "lemma": "Synnautai",
+    "lemma": "Συνναῦται",
     "previous": "Synnaos",
     "next": "Synnoon",
+    "sort_key": "Synnautai",
+    "proof_read": 0,
     "short_description": "Seemanns- oder Fischereiverein",
     "chapters": [
       {
         "start": 1412,
-        "author": "Lippold, Georg"
+        "end": 1413,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Synnoon",
-    "previous": "Synnautai",
-    "next": "Synodiai",
+    "previous": "Συνναῦται",
+    "next": "Συνοδίαι",
+    "proof_read": 0,
     "short_description": "Erzgießer aus Aigina",
     "chapters": [
       {
         "start": 1413,
-        "author": "Lippold, Georg"
+        "end": 1413,
+        "author": "Lippold."
       }
     ]
   },
   {
-    "lemma": "Synodiai",
+    "lemma": "Συνοδίαι",
     "previous": "Synnoon",
     "next": "Συνοδιάρχης",
+    "sort_key": "Synodiai",
+    "proof_read": 0,
     "short_description": "Karawanen",
     "chapters": [
       {
         "start": 1413,
-        "author": "Poland"
+        "end": 1414,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Συνοδιάρχης",
-    "previous": "Synodiai",
+    "previous": "Συνοδίαι",
     "next": "Synodion",
     "sort_key": "Synodiarches",
     "redirect": "Synodiai",
@@ -1178,114 +1246,137 @@
     "lemma": "Synodion",
     "previous": "Συνοδιάρχης",
     "next": "Synodoiporos",
+    "proof_read": 0,
     "short_description": "Siedlung in Dalmatien",
     "chapters": [
       {
         "start": 1414,
-        "author": "Fluss"
+        "end": 1414,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Synodoiporos",
     "previous": "Synodion",
-    "next": "Synodos 1",
+    "next": "Σύνοδος 1",
+    "proof_read": 0,
     "short_description": "Beiname der Hygieia",
     "chapters": [
       {
         "start": 1414,
-        "author": "Gebhard"
+        "end": 1415,
+        "author": "Gebhard."
       }
     ]
   },
   {
-    "lemma": "Synodos 1",
+    "lemma": "Σύνοδος 1",
     "previous": "Synodoiporos",
-    "next": "Synodos 2",
+    "next": "Σύνοδος 2",
+    "sort_key": "Synodos 1",
+    "proof_read": 0,
     "short_description": "Politische Hauptkörperschaft des Achäischen Bundes",
     "chapters": [
       {
         "start": 1415,
-        "author": "Kahrstedt"
+        "end": 1420,
+        "author": "Kahrstedt."
       }
     ]
   },
   {
-    "lemma": "Synodos 2",
-    "previous": "Synodos 1",
-    "next": "Synoikia",
+    "lemma": "Σύνοδος 2",
+    "previous": "Σύνοδος 1",
+    "next": "Συνοίκια",
+    "sort_key": "Synodos 2",
+    "proof_read": 0,
     "short_description": "Zusammenkunft zu einem festlichen Zweck",
     "chapters": [
       {
         "start": 1420,
-        "author": "Poland"
+        "end": 1434,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synoikia",
-    "previous": "Synodos 2",
+    "lemma": "Συνοίκια",
+    "previous": "Σύνοδος 2",
     "next": "Synoikismos",
+    "sort_key": "Synoikia",
+    "proof_read": 0,
     "short_description": "Athenisches Fest",
     "chapters": [
       {
         "start": 1435,
-        "author": "Nilsson"
+        "end": 1435,
+        "author": "Nilsson."
       }
     ]
   },
   {
     "lemma": "Synoikismos",
-    "previous": "Synoikia",
-    "next": "Synomosia",
+    "previous": "Συνοίκια",
+    "next": "Συνωμοσία",
+    "proof_read": 0,
     "short_description": "Politische und städtebauliche Verschmelzung von Gemeinden",
     "chapters": [
       {
         "start": 1435,
-        "author": "Kahrstedt"
+        "end": 1445,
+        "author": "Kahrstedt."
       }
     ]
   },
   {
-    "lemma": "Synomosia",
+    "lemma": "Συνωμοσία",
     "previous": "Synoikismos",
     "next": "Synomosios",
+    "sort_key": "Synomosia",
+    "proof_read": 0,
     "short_description": "Politische Personenvereinigung, deren Mitglieder sich durch Eid zu",
     "chapters": [
       {
         "start": 1445,
-        "author": "Seidl"
+        "end": 1450,
+        "author": "Seidl."
       }
     ]
   },
   {
     "lemma": "Synomosios",
-    "previous": "Synomosia",
-    "next": "Synoris",
+    "previous": "Συνωμοσία",
+    "next": "Συνωρίς",
+    "proof_read": 0,
     "short_description": "Beiname des Zeus",
     "chapters": [
       {
         "start": 1450,
-        "author": "Kießling, Emil"
+        "end": 1450,
+        "author": "E. Kießling."
       }
     ]
   },
   {
-    "lemma": "Synoris",
+    "lemma": "Συνωρίς",
     "previous": "Synomosios",
     "next": "Συνσ-",
+    "sort_key": "Synoris",
+    "proof_read": 0,
     "short_description": "Zweigespann von Pferden",
     "chapters": [
       {
         "start": 1450,
-        "author": "Hug"
+        "end": 1452,
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Συνσ-",
-    "previous": "Synoris",
-    "next": "Synsarapiastai",
+    "previous": "Συνωρίς",
+    "next": "Συνσαραπιασταί",
     "sort_key": "Syns",
     "redirect": true,
     "proof_read": 2,
@@ -1297,21 +1388,24 @@
     ]
   },
   {
-    "lemma": "Synsarapiastai",
+    "lemma": "Συνσαραπιασταί",
     "previous": "Συνσ-",
     "next": "Συνσχολασταί",
+    "sort_key": "Synsarapiastai",
+    "proof_read": 0,
     "short_description": "Vereinsgenossen auf einer Inschr. aus Thasos",
     "chapters": [
       {
         "start": 1452,
-        "author": "Poland"
+        "end": 1452,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Συνσχολασταί",
-    "previous": "Synsarapiastai",
-    "next": "Syntaktikos",
+    "previous": "Συνσαραπιασταί",
+    "next": "Συντακτικός",
     "sort_key": "Synscholastai",
     "proof_read": 2,
     "short_description": "Teilnehmer an wissenschaftlichen Vorträgen",
@@ -1324,57 +1418,69 @@
     ]
   },
   {
-    "lemma": "Syntaktikos",
+    "lemma": "Συντακτικός",
     "previous": "Συνσχολασταί",
-    "next": "Syntaxei",
+    "next": "συντάξει",
+    "sort_key": "Syntaktikos",
+    "proof_read": 0,
     "short_description": "Beamter für Katökenlehen des ptolemäisch-römischen Aegypten",
     "chapters": [
       {
         "start": 1452,
-        "author": "Seidl"
+        "end": 1452,
+        "author": "Seidl."
       }
     ]
   },
   {
-    "lemma": "Syntaxei",
-    "previous": "Syntaktikos",
-    "next": "Syntaxis",
+    "lemma": "συντάξει",
+    "previous": "Συντακτικός",
+    "next": "Σύνταξις",
+    "sort_key": "Syntaxei",
+    "proof_read": 0,
     "short_description": "Beamter für Katökenlehen im ptolemäisch-römischen Aegypten",
     "chapters": [
       {
         "start": 1452,
-        "author": "Seidl"
+        "end": 1453,
+        "author": "Seidl."
       }
     ]
   },
   {
-    "lemma": "Syntaxis",
-    "previous": "Syntaxei",
-    "next": "Syntechnia",
+    "lemma": "Σύνταξις",
+    "previous": "συντάξει",
+    "next": "Συντεχνία",
+    "sort_key": "Syntaxis",
+    "proof_read": 0,
     "short_description": "Vereinbarung über Zahlungen",
     "chapters": [
       {
         "start": 1453,
-        "author": "Schwahn"
+        "end": 1456,
+        "author": "Schwahn."
       }
     ]
   },
   {
-    "lemma": "Syntechnia",
-    "previous": "Syntaxis",
+    "lemma": "Συντεχνία",
+    "previous": "Σύνταξις",
     "next": "Συντεχνῖται",
+    "sort_key": "Syntechnia",
+    "proof_read": 0,
     "short_description": "Handwerkervereine",
     "chapters": [
       {
         "start": 1456,
-        "author": "Poland"
+        "end": 1456,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Συντεχνῖται",
-    "previous": "Syntechnia",
-    "next": "Synteleia, synteleis 1",
+    "previous": "Συντεχνία",
+    "next": "Συντέλεια, συντελεῖς 1",
     "sort_key": "Syntechnitai",
     "proof_read": 2,
     "short_description": "Zunftgenossen in byzantinisch-arabischer Zeit",
@@ -1387,45 +1493,54 @@
     ]
   },
   {
-    "lemma": "Synteleia, synteleis 1",
+    "lemma": "Συντέλεια, συντελεῖς 1",
     "previous": "Συντεχνῖται",
-    "next": "Synteleia, synteleis 2",
+    "next": "Συντέλεια, συντελεῖς 2",
+    "sort_key": "Synteleia,synteleis 1",
+    "proof_read": 0,
     "short_description": "Zusammengehörigkeit von Gemeinden oder Personen",
     "chapters": [
       {
         "start": 1456,
-        "author": "Kahrstedt"
+        "end": 1457,
+        "author": "Kahrstedt."
       }
     ]
   },
   {
-    "lemma": "Synteleia, synteleis 2",
-    "previous": "Synteleia, synteleis 1",
-    "next": "Synteleia, synteleis 3",
+    "lemma": "Συντέλεια, συντελεῖς 2",
+    "previous": "Συντέλεια, συντελεῖς 1",
+    "next": "Συντέλεια, συντελεῖς 3",
+    "sort_key": "Synteleia,synteleis 2",
+    "proof_read": 0,
     "short_description": "Mitglieder der trierarchischen Symmorien",
     "chapters": [
       {
         "start": 1457,
-        "author": "Poland"
+        "end": 1458,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synteleia, synteleis 3",
-    "previous": "Synteleia, synteleis 2",
+    "lemma": "Συντέλεια, συντελεῖς 3",
+    "previous": "Συντέλεια, συντελεῖς 2",
     "next": "Συνθεασῖται, συνθειασῖται",
+    "sort_key": "Synteleia,synteleis 3",
+    "proof_read": 0,
     "short_description": "Späte Bezeichnung für pagane Vereine",
     "chapters": [
       {
         "start": 1458,
-        "author": "Poland"
+        "end": 1458,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Συνθεασῖται, συνθειασῖται",
-    "previous": "Synteleia, synteleis 3",
-    "next": "Synthekon parabaseos dike",
+    "previous": "Συντέλεια, συντελεῖς 3",
+    "next": "Συνθηκῶν παραβάσεως δίκη",
     "sort_key": "Syntheasitai, syntheiasitai",
     "redirect": "Synthias(e)itai",
     "proof_read": 2,
@@ -1437,26 +1552,31 @@
     ]
   },
   {
-    "lemma": "Synthekon parabaseos dike",
+    "lemma": "Συνθηκῶν παραβάσεως δίκη",
     "previous": "Συνθεασῖται, συνθειασῖται",
     "next": "Synthema",
+    "sort_key": "Synthekonparabaseos dike",
+    "proof_read": 0,
     "short_description": "Attische Klage wegen Nichterfüllung des Vertrags",
     "chapters": [
       {
         "start": 1458,
-        "author": "Latte"
+        "end": 1458,
+        "author": "Latte."
       }
     ]
   },
   {
     "lemma": "Synthema",
-    "previous": "Synthekon parabaseos dike",
+    "previous": "Συνθηκῶν παραβάσεως δίκη",
     "next": "Synthesis",
+    "proof_read": 0,
     "short_description": "Verabredetes Zeichen",
     "chapters": [
       {
         "start": 1458,
-        "author": "Hug"
+        "end": 1459,
+        "author": "Hug."
       }
     ]
   },
@@ -1464,11 +1584,13 @@
     "lemma": "Synthesis",
     "previous": "Synthema",
     "next": "Synthias(e)itai",
+    "proof_read": 0,
     "short_description": "Zusammensetzung, Zusammenstellung",
     "chapters": [
       {
         "start": 1459,
-        "author": "Schuppe"
+        "end": 1461,
+        "author": "Schuppe."
       }
     ]
   },
@@ -1786,7 +1908,7 @@
     "previous": "Syrbane",
     "next": "Syrbotae",
     "sort_key": "Syrboi",
-    "redirect": "Symbroi",
+    "redirect": "Σύμβροι",
     "proof_read": 2,
     "chapters": [
       {
