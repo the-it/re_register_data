@@ -600,7 +600,7 @@
     "previous": "Synegoros 2",
     "next": "Συνέφηβος",
     "sort_key": "Synephebia",
-    "redirect": "Synephebos",
+    "redirect": "Συνέφηβος",
     "proof_read": 2,
     "chapters": [
       {
@@ -1232,7 +1232,7 @@
     "previous": "Συνοδίαι",
     "next": "Synodion",
     "sort_key": "Synodiarches",
-    "redirect": "Synodiai",
+    "redirect": "Συνοδίαι",
     "proof_read": 2,
     "chapters": [
       {
@@ -1542,7 +1542,7 @@
     "previous": "Συντέλεια, συντελεῖς 3",
     "next": "Συνθηκῶν παραβάσεως δίκη",
     "sort_key": "Syntheasitai, syntheiasitai",
-    "redirect": "Synthias(e)itai",
+    "redirect": "Συνθιασ(ε)ῖται (συνθιασῶται)",
     "proof_read": 2,
     "chapters": [
       {
@@ -1583,7 +1583,7 @@
   {
     "lemma": "Synthesis",
     "previous": "Synthema",
-    "next": "Synthias(e)itai",
+    "next": "Συνθιασ(ε)ῖται (συνθιασῶται)",
     "proof_read": 0,
     "short_description": "Zusammensetzung, Zusammenstellung",
     "chapters": [
@@ -1595,56 +1595,68 @@
     ]
   },
   {
-    "lemma": "Synthias(e)itai",
+    "lemma": "Συνθιασ(ε)ῖται (συνθιασῶται)",
     "previous": "Synthesis",
-    "next": "Synthreskeutai",
+    "next": "Συνθρησκευταί",
+    "sort_key": "Synthias(e)itai",
+    "proof_read": 0,
     "short_description": "Vereinsgenossen",
     "chapters": [
       {
         "start": 1461,
-        "author": "Poland"
+        "end": 1461,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synthreskeutai",
-    "previous": "Synthias(e)itai",
-    "next": "Synthysiastai",
+    "lemma": "Συνθρησκευταί",
+    "previous": "Συνθιασ(ε)ῖται (συνθιασῶται)",
+    "next": "Συνθυσιασταί",
+    "sort_key": "Synthreskeutai",
+    "proof_read": 0,
     "short_description": "Genossenschaftliches Auftreten in Vereinen",
     "chapters": [
       {
         "start": 1461,
-        "author": "Poland"
+        "end": 1462,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synthysiastai",
-    "previous": "Synthreskeutai",
-    "next": "Synthytai",
-    "short_description": "Vereinsgenossen eines koinon auf Rhodos",
+    "lemma": "Συνθυσιασταί",
+    "previous": "Συνθρησκευταί",
+    "next": "Συνθύται",
+    "sort_key": "Synthysiastai",
+    "proof_read": 2,
+    "short_description": "Synthysiastai, Vereinsgenossen eines koinon auf Rhodos",
     "chapters": [
       {
         "start": 1462,
-        "author": "Poland"
+        "end": 1462,
+        "author": "Poland."
       }
     ]
   },
   {
-    "lemma": "Synthytai",
-    "previous": "Synthysiastai",
+    "lemma": "Συνθύται",
+    "previous": "Συνθυσιασταί",
     "next": "Συντίμησις",
+    "sort_key": "Synthytai",
+    "proof_read": 0,
     "short_description": "Teilnehmer an einem Opferfest gewisse Vereinsgenossen",
     "chapters": [
       {
         "start": 1462,
-        "author": "Poland"
+        "end": 1463,
+        "author": "Poland."
       }
     ]
   },
   {
     "lemma": "Συντίμησις",
-    "previous": "Synthytai",
+    "previous": "Συνθύται",
     "next": "Syntipas",
     "short_description": "Abschätzung der unverkäuflichen Staatsländereien in Aegypten",
     "chapters": [
@@ -1688,29 +1700,35 @@
   {
     "lemma": "Syntrips",
     "previous": "Συντρίκλεινοι",
-    "next": "Synymnodoi",
+    "next": "Συνυμνῳδοί",
+    "proof_read": 0,
     "short_description": "Unhold, der die Töpferöfen und -arbeiten zerstört",
     "chapters": [
       {
         "start": 1471,
-        "author": "Türk"
+        "end": 1471,
+        "author": "Türk."
       }
     ]
   },
   {
-    "lemma": "Synymnodoi",
+    "lemma": "Συνυμνῳδοί",
     "previous": "Syntrips",
     "next": "Syopii",
+    "sort_key": "Synymnodoi",
+    "redirect": "Synanoubiastai",
+    "proof_read": 0,
     "short_description": "s. Synanoubiastai",
     "chapters": [
       {
-        "start": 1471
+        "start": 1471,
+        "end": 1471
       }
     ]
   },
   {
     "lemma": "Syopii",
-    "previous": "Synymnodoi",
+    "previous": "Συνυμνῳδοί",
     "next": "Sypalettos",
     "proof_read": 2,
     "short_description": "Volksstamm an der S-Seite der Liburner",
@@ -1738,33 +1756,37 @@
     "lemma": "Syphaeum",
     "previous": "Sypalettos",
     "next": "Syphax",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1471,
-        "author": "Philipp"
+        "end": 1472,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Syphax",
     "previous": "Syphaeum",
-    "next": "Συπίκιος λιμήν",
+    "next": "Συπίκιος",
+    "proof_read": 0,
     "short_description": "Numidischer Fürst",
     "chapters": [
       {
         "start": 1472,
-        "author": "Habel"
+        "end": 1477,
+        "author": "Habel."
       }
     ]
   },
   {
-    "lemma": "Συπίκιος λιμήν",
+    "lemma": "Συπίκιος",
     "previous": "Syphax",
     "next": "Συππινάλοι",
     "sort_key": "Sypikios limen",
     "redirect": "Σονλπίκιος",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1477,
@@ -1774,7 +1796,7 @@
   },
   {
     "lemma": "Συππινάλοι",
-    "previous": "Συπίκιος λιμήν",
+    "previous": "Συπίκιος",
     "next": "Syracusanum talentum",
     "sort_key": "Syppinaloi",
     "redirect": "Συμπιλεαδεῖς",
@@ -1790,11 +1812,14 @@
     "lemma": "Syracusanum talentum",
     "previous": "Συππινάλοι",
     "next": "Syracusanus portus",
+    "sort_key": "Syracusanumtalentum",
+    "proof_read": 0,
     "short_description": "Syrakusanisches Talent",
     "chapters": [
       {
         "start": 1477,
-        "author": "Regling"
+        "end": 1478,
+        "author": "Regling."
       }
     ]
   },
@@ -1802,11 +1827,14 @@
     "lemma": "Syracusanus portus",
     "previous": "Syracusanum talentum",
     "next": "Syrades",
+    "sort_key": "Syracusanusportus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1478,
-        "author": "Philipp"
+        "end": 1478,
+        "author": "Philipp."
       }
     ]
   },
@@ -1858,54 +1886,64 @@
   {
     "lemma": "Syra(s)cellae",
     "previous": "Syrakusai",
-    "next": "Syrastra",
+    "next": "Συράστρα",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1547,
-        "author": "Oberhummer"
+        "end": 1547,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Syrastra",
+    "lemma": "Συράστρα",
     "previous": "Syra(s)cellae",
     "next": "Syrastrene",
+    "sort_key": "Syrastra",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1547,
-        "author": "Herrmann"
+        "end": 1547,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Syrastrene",
-    "previous": "Syrastra",
-    "next": "Syrbane",
+    "previous": "Συράστρα",
+    "next": "Συρβανή",
+    "proof_read": 0,
     "short_description": "Landschaft Indoskythiens",
     "chapters": [
       {
         "start": 1547,
-        "author": "Weissbach"
+        "end": 1547,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Syrbane",
+    "lemma": "Συρβανή",
     "previous": "Syrastrene",
     "next": "Σύρβοι",
+    "sort_key": "Syrbane",
+    "proof_read": 0,
     "short_description": "Insel im Euphrat",
     "chapters": [
       {
         "start": 1547,
-        "author": "Weissbach"
+        "end": 1547,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Σύρβοι",
-    "previous": "Syrbane",
+    "previous": "Συρβανή",
     "next": "Syrbotae",
     "sort_key": "Syrboi",
     "redirect": "Σύμβροι",
@@ -1921,11 +1959,13 @@
     "lemma": "Syrbotae",
     "previous": "Σύρβοι",
     "next": "Syrellianus",
+    "proof_read": 0,
     "short_description": "Völkerschaft Afrikas",
     "chapters": [
       {
         "start": 1547,
-        "author": "Treidler"
+        "end": 1548,
+        "author": "Treidler."
       }
     ]
   },
@@ -1933,11 +1973,13 @@
     "lemma": "Syrellianus",
     "previous": "Syrbotae",
     "next": "Syrgis",
+    "proof_read": 0,
     "short_description": "Grundstück der Gemeindeflur Veleia",
     "chapters": [
       {
         "start": 1548,
-        "author": "Keune"
+        "end": 1548,
+        "author": "Keune."
       }
     ]
   },
@@ -1945,11 +1987,13 @@
     "lemma": "Syrgis",
     "previous": "Syrellianus",
     "next": "Syria 1",
+    "proof_read": 0,
     "short_description": "Fluß durch das Land der Thyssageten und Maieten",
     "chapters": [
       {
         "start": 1549,
-        "author": "Herrmann"
+        "end": 1549,
+        "author": "Herrmann."
       }
     ]
   },
@@ -1957,11 +2001,13 @@
     "lemma": "Syria 1",
     "previous": "Syrgis",
     "next": "Syria 2",
+    "proof_read": 0,
     "short_description": "Personifikation von Syrien",
     "chapters": [
       {
         "start": 1549,
-        "author": "Eitrem"
+        "end": 1549,
+        "author": "Eitrem."
       }
     ]
   },
@@ -2030,13 +2076,15 @@
   },
   {
     "lemma": "Syriandos",
-    "previous": "Syria Phoenice",
+    "previous": "Σύριαι πύλαι",
     "next": "Syrianos 1",
+    "proof_read": 0,
     "short_description": "Name des Windes",
     "chapters": [
       {
         "start": 1728,
-        "author": "Capelle"
+        "end": 1728,
+        "author": "Capelle."
       }
     ]
   },
@@ -2044,11 +2092,13 @@
     "lemma": "Syrianos 1",
     "previous": "Syriandos",
     "next": "Syrianos 2",
+    "proof_read": 0,
     "short_description": "Neuplatoniker",
     "chapters": [
       {
         "start": 1728,
-        "author": "Praechter"
+        "end": 1775,
+        "author": "Praechter."
       }
     ]
   },
@@ -2056,11 +2106,13 @@
     "lemma": "Syrianos 2",
     "previous": "Syrianos 1",
     "next": "Syrianos 3",
+    "proof_read": 0,
     "short_description": "Der Jüngere, Neuplatoniker",
     "chapters": [
       {
         "start": 1775,
-        "author": "Praechter"
+        "end": 1775,
+        "author": "Praechter."
       }
     ]
   },
@@ -2068,11 +2120,13 @@
     "lemma": "Syrianos 3",
     "previous": "Syrianos 2",
     "next": "Syrias",
+    "proof_read": 0,
     "short_description": "Dux Aegypti",
     "chapters": [
       {
         "start": 1775,
-        "author": "Seeck"
+        "end": 1776,
+        "author": "Seeck."
       }
     ]
   },
@@ -2093,11 +2147,13 @@
     "lemma": "Syrie",
     "previous": "Syrias",
     "next": "Syries",
+    "proof_read": 0,
     "short_description": "Ehemalige Insel an der ionischen Küste",
     "chapters": [
       {
         "start": 1776,
-        "author": "Honigmann"
+        "end": 1776,
+        "author": "Honigmann."
       }
     ]
   },
@@ -2105,11 +2161,13 @@
     "lemma": "Syries",
     "previous": "Syrie",
     "next": "Syrimalaga",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 1776,
-        "author": "Sieveking"
+        "end": 1776,
+        "author": "Sieveking."
       }
     ]
   },
@@ -2130,35 +2188,55 @@
     "lemma": "Syringes",
     "previous": "Syrimalaga",
     "next": "Syrinthos",
+    "proof_read": 0,
     "short_description": "Königsgräber des Neuen Reiches im Biban el Moluk",
     "chapters": [
       {
         "start": 1776,
-        "author": "Kees"
+        "end": 1777,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Syrinthos",
     "previous": "Syringes",
-    "next": "Syrinx 1",
+    "next": "Syrinx",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1777,
-        "author": "Honigmann"
+        "end": 1777,
+        "author": "Honigmann."
+      }
+    ]
+  },
+  {
+    "lemma": "Syrinx",
+    "previous": "Syrinthos",
+    "next": "Syrinx 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 1777,
+        "end": 1777,
+        "author": "Eitrem."
       }
     ]
   },
   {
     "lemma": "Syrinx 1",
-    "previous": "Syrinthos",
+    "previous": "Syrinx",
     "next": "Syrinx 2",
+    "proof_read": 0,
     "short_description": "Arkadische Nymphe",
     "chapters": [
       {
         "start": 1777,
-        "author": "Eitrem"
+        "end": 1778,
+        "author": "Eitrem."
       }
     ]
   },
@@ -2166,11 +2244,13 @@
     "lemma": "Syrinx 2",
     "previous": "Syrinx 1",
     "next": "Syrinx 3",
+    "proof_read": 0,
     "short_description": "Nonn. Dion. I 467",
     "chapters": [
       {
         "start": 1778,
-        "author": "Eitrem"
+        "end": 1779,
+        "author": "Eitrem."
       }
     ]
   },
@@ -2178,35 +2258,41 @@
     "lemma": "Syrinx 3",
     "previous": "Syrinx 2",
     "next": "Syrinx 4",
+    "proof_read": 0,
     "short_description": "Stadt Hyrkaniens",
     "chapters": [
       {
         "start": 1779,
-        "author": "Herrmann"
+        "end": 1779,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Syrinx 4",
     "previous": "Syrinx 3",
-    "next": "Syris",
+    "next": "Syrios",
+    "proof_read": 0,
     "short_description": "Blasinstrument",
     "chapters": [
       {
         "start": 1779,
-        "author": "Abert"
+        "end": 1779,
+        "author": "Abert."
       }
     ]
   },
   {
     "lemma": "Syris",
-    "previous": "Syrinx 4",
+    "previous": "Syrios",
     "next": "Syrisch-römisches Rechtsbuch",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1779,
-        "author": "Ruge"
+        "end": 1779,
+        "author": "Ruge."
       }
     ]
   },
@@ -2214,11 +2300,14 @@
     "lemma": "Syrisch-römisches Rechtsbuch",
     "previous": "Syris",
     "next": "Syriscus",
+    "sort_key": "Syrisch-römischesrechtsbuch",
+    "proof_read": 0,
     "short_description": "Iuristisches Werk",
     "chapters": [
       {
         "start": 1779,
-        "author": "Seidl"
+        "end": 1785,
+        "author": "Seidl."
       }
     ]
   },
@@ -2226,11 +2315,13 @@
     "lemma": "Syriscus",
     "previous": "Syrisch-römisches Rechtsbuch",
     "next": "Syriskos",
+    "proof_read": 0,
     "short_description": "Name bei Martial",
     "chapters": [
       {
         "start": 1785,
-        "author": "Stein, [Arthur]"
+        "end": 1785,
+        "author": "Stein."
       }
     ]
   },
@@ -2238,11 +2329,13 @@
     "lemma": "Syriskos",
     "previous": "Syriscus",
     "next": "Syrium",
+    "proof_read": 0,
     "short_description": "Töpfer im Kerameikos",
     "chapters": [
       {
         "start": 1785,
-        "author": "Nachod"
+        "end": 1786,
+        "author": "Nachod."
       }
     ]
   },
@@ -2250,11 +2343,13 @@
     "lemma": "Syrium",
     "previous": "Syriskos",
     "next": "Syrma 1",
+    "proof_read": 0,
     "short_description": "Fluß Bithyniens",
     "chapters": [
       {
         "start": 1786,
-        "author": "Ruge"
+        "end": 1786,
+        "author": "Ruge."
       }
     ]
   },
@@ -2262,11 +2357,13 @@
     "lemma": "Syrma 1",
     "previous": "Syrium",
     "next": "Syrma 2",
+    "proof_read": 0,
     "short_description": "Schleppkleid der tragischen Schauspieler",
     "chapters": [
       {
         "start": 1786,
-        "author": "Bieber"
+        "end": 1787,
+        "author": "Bieber."
       }
     ]
   },
@@ -2274,11 +2371,13 @@
     "lemma": "Syrma 2",
     "previous": "Syrma 1",
     "next": "Syrmaia",
+    "proof_read": 0,
     "short_description": "Örtlichkeit bei Theben, der Antigone",
     "chapters": [
       {
         "start": 1787,
-        "author": "Bieber"
+        "end": 1787,
+        "author": "Bieber."
       }
     ]
   },
@@ -2286,11 +2385,13 @@
     "lemma": "Syrmaia",
     "previous": "Syrma 2",
     "next": "Συρμαίη",
+    "proof_read": 0,
     "short_description": "Agon in Sparta",
     "chapters": [
       {
         "start": 1787,
-        "author": "Nilsson"
+        "end": 1787,
+        "author": "Nilsson."
       }
     ]
   },
@@ -2340,11 +2441,13 @@
     "lemma": "Syrmus",
     "previous": "Syrmatae",
     "next": "Syrna",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Hebros in Thrakien",
     "chapters": [
       {
         "start": 1787,
-        "author": "Oberhummer"
+        "end": 1787,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -2394,11 +2497,13 @@
     "lemma": "Syrnos",
     "previous": "Συρνίσικα",
     "next": "Syrnota",
+    "proof_read": 0,
     "short_description": "Insel des Aegäischen Meeres",
     "chapters": [
       {
         "start": 1787,
-        "author": "Honigmann"
+        "end": 1787,
+        "author": "Honigmann."
       }
     ]
   },
@@ -2406,11 +2511,13 @@
     "lemma": "Syrnota",
     "previous": "Syrnos",
     "next": "Syrocilices",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 1787,
-        "author": "Oberhummer"
+        "end": 1787,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -2418,30 +2525,34 @@
     "lemma": "Syrocilices",
     "previous": "Syrnota",
     "next": "Syromedia",
+    "proof_read": 0,
     "short_description": "Völkerschaft Asiens",
     "chapters": [
       {
         "start": 1787,
-        "author": "Honigmann"
+        "end": 1788,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Syromedia",
     "previous": "Syrocilices",
-    "next": "Syron kome",
+    "next": "Σύρων κώμη",
+    "proof_read": 0,
     "short_description": "Landschaft Mediens",
     "chapters": [
       {
         "start": 1788,
-        "author": "Honigmann"
+        "end": 1788,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Syron kome",
+    "lemma": "Σύρων κώμη",
     "previous": "Syromedia",
-    "next": "Syrophoinike",
+    "next": "Συροφοινίκη",
     "short_description": "Vier Dörfer in Aegypten",
     "chapters": [
       {
@@ -2451,8 +2562,8 @@
     ]
   },
   {
-    "lemma": "Syrophoinike",
-    "previous": "Syron kome",
+    "lemma": "Συροφοινίκη",
+    "previous": "Σύρων κώμη",
     "next": "Syros 1",
     "short_description": "Römische Provinz",
     "chapters": [
@@ -2464,13 +2575,15 @@
   },
   {
     "lemma": "Syros 1",
-    "previous": "Syrophoinike",
+    "previous": "Συροφοινίκη",
     "next": "Syros 2",
+    "proof_read": 0,
     "short_description": "Insel im Aegäischen Meer",
     "chapters": [
       {
         "start": 1789,
-        "author": "Zschietzschmann"
+        "end": 1794,
+        "author": "Zschietzschmann."
       }
     ]
   },
@@ -2478,11 +2591,13 @@
     "lemma": "Syros 2",
     "previous": "Syros 1",
     "next": "Syros 3",
+    "proof_read": 0,
     "short_description": "Insel in Akarnanien",
     "chapters": [
       {
         "start": 1794,
-        "author": "Honigmann"
+        "end": 1794,
+        "author": "Honigmann."
       }
     ]
   },
@@ -2503,11 +2618,13 @@
     "lemma": "Syros 4",
     "previous": "Syros 3",
     "next": "Syros 5",
+    "proof_read": 0,
     "short_description": "Eponymos der Syrer",
     "chapters": [
       {
         "start": 1794,
-        "author": "Eitrem"
+        "end": 1795,
+        "author": "Eitrem."
       }
     ]
   },
@@ -2515,11 +2632,13 @@
     "lemma": "Syros 5",
     "previous": "Syros 4",
     "next": "Syros 6",
+    "proof_read": 0,
     "short_description": "Flußgott in Phrygien",
     "chapters": [
       {
         "start": 1795,
-        "author": "Eitrem"
+        "end": 1795,
+        "author": "Eitrem."
       }
     ]
   },
@@ -2558,11 +2677,13 @@
     "lemma": "Syros 8",
     "previous": "Syros 7",
     "next": "Syrphax",
+    "proof_read": 0,
     "short_description": "Ihm widmete Ptolemaios 3 seiner Werke",
     "chapters": [
       {
         "start": 1795,
-        "author": "Kroll"
+        "end": 1795,
+        "author": "Kroll."
       }
     ]
   },
@@ -2570,11 +2691,13 @@
     "lemma": "Syrphax",
     "previous": "Syros 8",
     "next": "Syrtas",
+    "proof_read": 0,
     "short_description": "Führer der perserfreundlichen Partei in Ephesos",
     "chapters": [
       {
         "start": 1796,
-        "author": "Obst"
+        "end": 1796,
+        "author": "Obst."
       }
     ]
   },
@@ -2582,11 +2705,13 @@
     "lemma": "Syrtas",
     "previous": "Syrphax",
     "next": "Syrtica regio",
+    "proof_read": 0,
     "short_description": "Kap Syrias",
     "chapters": [
       {
         "start": 1796,
-        "author": "Ruge"
+        "end": 1796,
+        "author": "Ruge."
       }
     ]
   },
@@ -2607,11 +2732,13 @@
     "lemma": "Syrtis",
     "previous": "Syrtica regio",
     "next": "Syrtis insula",
+    "proof_read": 0,
     "short_description": "Zwei Einschnitte an der afrikanischen Mittelmeerküste",
     "chapters": [
       {
         "start": 1796,
-        "author": "Treidler"
+        "end": 1829,
+        "author": "Treidler."
       }
     ]
   },
@@ -2632,11 +2759,13 @@
     "lemma": "Syrus",
     "previous": "Syrtis insula",
     "next": "Sys",
+    "proof_read": 0,
     "short_description": "Sklavenname",
     "chapters": [
       {
         "start": 1829,
-        "author": "Münzer"
+        "end": 1829,
+        "author": "Münzer."
       }
     ]
   },
@@ -2668,7 +2797,7 @@
   {
     "lemma": "Syskenoi 2",
     "previous": "Syskenoi 1",
-    "next": "Syspiritis",
+    "next": "Συσπιρῖτις",
     "short_description": "Bühnengenossen",
     "chapters": [
       {
@@ -2678,7 +2807,7 @@
     ]
   },
   {
-    "lemma": "Syspiritis",
+    "lemma": "Συσπιρῖτις",
     "previous": "Syskenoi 2",
     "next": "Syssitia",
     "short_description": "Landschaft in Armenien",
@@ -2691,18 +2820,20 @@
   },
   {
     "lemma": "Syssitia",
-    "previous": "Syspiritis",
-    "next": "Syssitoi",
+    "previous": "Συσπιρῖτις",
+    "next": "Σύσσιτοι",
+    "proof_read": 0,
     "short_description": "Männermahle in Sparta und Kreta",
     "chapters": [
       {
         "start": 1832,
-        "author": "Kahrstedt"
+        "end": 1833,
+        "author": "Kahrstedt."
       }
     ]
   },
   {
-    "lemma": "Syssitoi",
+    "lemma": "Σύσσιτοι",
     "previous": "Syssitia",
     "next": "Σύστασις",
     "short_description": "Die Zusammenspeisenden",
@@ -2715,7 +2846,7 @@
   },
   {
     "lemma": "Σύστασις",
-    "previous": "Syssitoi",
+    "previous": "Σύσσιτοι",
     "next": "Systatai",
     "sort_key": "Systasis",
     "redirect": "Systremma",
