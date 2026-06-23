@@ -835,8 +835,9 @@
     "lemma": "Συνήθεια, συνήθεις",
     "previous": "Synesios 6",
     "next": "Συνευνομιωταί",
+    "sort_key": "Synetheia",
     "proof_read": 0,
-    "short_description": "Freunde Bezeichnung von Vereinen",
+    "short_description": "Synetheia, Freunde, Bezeichnung von Vereinen",
     "chapters": [
       {
         "start": 1366,
@@ -1666,13 +1667,14 @@
     "lemma": "Συντίμησις",
     "previous": "Συνθύται",
     "next": "Syntipas",
+    "sort_key": "Syntimesis",
     "proof_read": 0,
     "short_description": "Abschätzung der unverkäuflichen Staatsländereien in Aegypten",
     "chapters": [
       {
         "start": 1463,
         "end": 1463,
-        "author": "Seidl"
+        "author": "Seidl."
       }
     ]
   },
@@ -2049,7 +2051,7 @@
   {
     "lemma": "Syria dea",
     "previous": "Syria 3",
-    "next": "Σύριαι πύλαι",
+    "next": "Syria Phoenice",
     "redirect": "Dea Syria",
     "proof_read": 2,
     "chapters": [
@@ -5927,6 +5929,8 @@
   },
   {
     "lemma": "Talent",
+    "previous": "Taleides",
+    "next": "Talestas",
     "chapters": [
       {
         "start": 2066,
@@ -8850,7 +8854,7 @@
     "lemma": "Tarabenioi",
     "previous": "Tara 2",
     "next": "Τάραχοι",
-    "redirect": "Tarrebenioi",
+    "redirect": "Ταρρηβήνιοι",
     "proof_read": 2,
     "chapters": [
       {
@@ -10408,41 +10412,48 @@
     "lemma": "Tarpeius 7",
     "previous": "Tarpeius 6",
     "next": "Tarpeius 8",
+    "proof_read": 0,
     "short_description": "Tarpeia, Vestalin unter Numa Pompilius",
     "chapters": [
       {
         "start": 2341,
-        "author": "Mielentz"
+        "end": 2342,
+        "author": "Mielentz."
       }
     ]
   },
   {
     "lemma": "Tarpeius 8",
     "previous": "Tarpeius 7",
-    "next": "Tarpetes",
+    "next": "Τάρπητες",
+    "proof_read": 0,
     "short_description": "Tarpeia, Gefährtin der Camilla",
     "chapters": [
       {
         "start": 2342,
-        "author": "Mielentz"
+        "end": 2342,
+        "author": "Mielentz."
       }
     ]
   },
   {
-    "lemma": "Tarpetes",
+    "lemma": "Τάρπητες",
     "previous": "Tarpeius 8",
     "next": "Τάρφαρα 1",
+    "sort_key": "Tarpetes",
+    "proof_read": 0,
     "short_description": "Stamm der Maioten",
     "chapters": [
       {
         "start": 2342,
-        "author": "Herrmann"
+        "end": 2342,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Τάρφαρα 1",
-    "previous": "Tarpetes",
+    "previous": "Τάρπητες",
     "next": "Τάρφαρα 2",
     "sort_key": "Tarphara 1",
     "redirect": "Thamara 1",
@@ -10485,47 +10496,56 @@
     "lemma": "Tarphe",
     "previous": "Tarpharon",
     "next": "Tarpodizo",
+    "proof_read": 0,
     "short_description": "(Myth.) Stadt in O-Lokrien",
     "chapters": [
       {
         "start": 2342,
-        "author": "Oldfather"
+        "end": 2343,
+        "author": "Oldfather."
       }
     ]
   },
   {
     "lemma": "Tarpodizo",
     "previous": "Tarphe",
-    "next": "Tarporon",
+    "next": "Τάρπωρον",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2343,
-        "author": "Oberhummer"
+        "end": 2343,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Tarporon",
+    "lemma": "Τάρπωρον",
     "previous": "Tarpodizo",
     "next": "Tarquenna",
+    "sort_key": "Tarporon",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2343,
-        "author": "Fluss"
+        "end": 2343,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Tarquenna",
-    "previous": "Tarporon",
+    "previous": "Τάρπωρον",
     "next": "Tarquiniensis lacus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2343,
-        "author": "Münzer"
+        "end": 2343,
+        "author": "Münzer."
       }
     ]
   },
@@ -10533,11 +10553,14 @@
     "lemma": "Tarquiniensis lacus",
     "previous": "Tarquenna",
     "next": "Tarquinii",
+    "sort_key": "Tarquiniensislacus",
+    "proof_read": 0,
     "short_description": "Heute Lago di Bolsena",
     "chapters": [
       {
         "start": 2343,
-        "author": "Philipp"
+        "end": 2343,
+        "author": "Philipp."
       }
     ]
   },
@@ -10545,11 +10568,13 @@
     "lemma": "Tarquinii",
     "previous": "Tarquiniensis lacus",
     "next": "Tarquinius",
+    "proof_read": 0,
     "short_description": "Etruskerstadt",
     "chapters": [
       {
         "start": 2343,
-        "author": "Philipp"
+        "end": 2348,
+        "author": "Philipp."
       }
     ]
   },
@@ -10557,11 +10582,13 @@
     "lemma": "Tarquinius",
     "previous": "Tarquinii",
     "next": "Tarquinius 1",
+    "proof_read": 0,
     "short_description": "Das Tarquiniergeschlecht und seine Zeit im allg.",
     "chapters": [
       {
         "start": 2348,
-        "author": "Schachermeyr"
+        "end": 2367,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10569,11 +10596,13 @@
     "lemma": "Tarquinius 1",
     "previous": "Tarquinius",
     "next": "Tarquinius 2",
+    "proof_read": 0,
     "short_description": "Arruns, Älterer Bruder des Priscus",
     "chapters": [
       {
         "start": 2367,
-        "author": "Schachermeyr"
+        "end": 2367,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10581,11 +10610,13 @@
     "lemma": "Tarquinius 2",
     "previous": "Tarquinius 1",
     "next": "Tarquinius 3",
+    "proof_read": 0,
     "short_description": "Egerius, Arruns s. Egerius",
     "chapters": [
       {
         "start": 2367,
-        "author": "Schachermeyr"
+        "end": 2367,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10593,11 +10624,13 @@
     "lemma": "Tarquinius 3",
     "previous": "Tarquinius 2",
     "next": "Tarquinius 4",
+    "proof_read": 0,
     "short_description": "Ar(r)uns, Bruder des Superbus",
     "chapters": [
       {
         "start": 2367,
-        "author": "Schachermeyr"
+        "end": 2367,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10605,11 +10638,13 @@
     "lemma": "Tarquinius 4",
     "previous": "Tarquinius 3",
     "next": "Tarquinius 5",
+    "proof_read": 0,
     "short_description": "Ar(r)uns, Sohn des Superbus",
     "chapters": [
       {
         "start": 2367,
-        "author": "Schachermeyr"
+        "end": 2368,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10617,11 +10652,13 @@
     "lemma": "Tarquinius 5",
     "previous": "Tarquinius 4",
     "next": "Tarquinius 6",
+    "proof_read": 0,
     "short_description": "Cn., dargestellt auf einem Wandgemälde der Tomba François in Vulci",
     "chapters": [
       {
         "start": 2368,
-        "author": "Schachermeyr"
+        "end": 2369,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10629,11 +10666,13 @@
     "lemma": "Tarquinius 6",
     "previous": "Tarquinius 5",
     "next": "Tarquinius 7",
+    "proof_read": 0,
     "short_description": "Priscus, L. Fünfter römischer König",
     "chapters": [
       {
         "start": 2369,
-        "author": "Schachermeyr"
+        "end": 2380,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10641,11 +10680,13 @@
     "lemma": "Tarquinius 7",
     "previous": "Tarquinius 6",
     "next": "Tarquinius 8",
+    "proof_read": 0,
     "short_description": "Superbus, L. Letzter römischer König = Tarquinius Superbus",
     "chapters": [
       {
         "start": 2380,
-        "author": "Schachermeyr"
+        "end": 2389,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10653,11 +10694,13 @@
     "lemma": "Tarquinius 8",
     "previous": "Tarquinius 7",
     "next": "Tarquinius 9",
+    "proof_read": 0,
     "short_description": "Collatinus, L. Herrscher von Collatia",
     "chapters": [
       {
         "start": 2389,
-        "author": "Schachermeyr"
+        "end": 2389,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10665,11 +10708,13 @@
     "lemma": "Tarquinius 9",
     "previous": "Tarquinius 8",
     "next": "Tarquinius 10",
+    "proof_read": 0,
     "short_description": "L. s. Tarquitius Nr. 6",
     "chapters": [
       {
         "start": 2389,
-        "author": "Schachermeyr"
+        "end": 2390,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10677,11 +10722,13 @@
     "lemma": "Tarquinius 10",
     "previous": "Tarquinius 9",
     "next": "Tarquinius 11",
+    "proof_read": 0,
     "short_description": "L., sagte über die Verschwörung des Catilina 63 v. Chr. aus",
     "chapters": [
       {
         "start": 2390,
-        "author": "Münzer"
+        "end": 2390,
+        "author": "Münzer."
       }
     ]
   },
@@ -10689,11 +10736,13 @@
     "lemma": "Tarquinius 11",
     "previous": "Tarquinius 10",
     "next": "Tarquinius 12",
+    "proof_read": 0,
     "short_description": "M., zeigte mit seinem Bruder eine Verschwörung unter Sklaven und niederem Volk",
     "chapters": [
       {
         "start": 2390,
-        "author": "Münzer"
+        "end": 2390,
+        "author": "Münzer."
       }
     ]
   },
@@ -10714,11 +10763,13 @@
     "lemma": "Tarquinius 13",
     "previous": "Tarquinius 12",
     "next": "Tarquinius 14",
+    "proof_read": 0,
     "short_description": "P., Sohn eines Gnaeus",
     "chapters": [
       {
         "start": 2390,
-        "author": "Münzer"
+        "end": 2391,
+        "author": "Münzer."
       }
     ]
   },
@@ -10726,11 +10777,13 @@
     "lemma": "Tarquinius 14",
     "previous": "Tarquinius 13",
     "next": "Tarquinius 15",
+    "proof_read": 0,
     "short_description": "Sextus, Sohn des Superbus",
     "chapters": [
       {
         "start": 2391,
-        "author": "Schachermeyr"
+        "end": 2391,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10738,11 +10791,13 @@
     "lemma": "Tarquinius 15",
     "previous": "Tarquinius 14",
     "next": "Tarquinius 16",
+    "proof_read": 0,
     "short_description": "Titus, Sohn des Superbus",
     "chapters": [
       {
         "start": 2391,
-        "author": "Schachermeyr"
+        "end": 2391,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -10750,11 +10805,13 @@
     "lemma": "Tarquinius 16",
     "previous": "Tarquinius 15",
     "next": "Tarquitius",
+    "proof_read": 0,
     "short_description": "Statthalter von Umbrien",
     "chapters": [
       {
         "start": 2391,
-        "author": "Enßlin"
+        "end": 2391,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10931,11 +10988,13 @@
     "lemma": "Tarra 2",
     "previous": "Tarra 1",
     "next": "Tarra 3",
+    "proof_read": 0,
     "short_description": "Stadt auf Kreta",
     "chapters": [
       {
         "start": 2395,
-        "author": "Fiehn"
+        "end": 2395,
+        "author": "Fiehn."
       }
     ]
   },
@@ -10943,11 +11002,13 @@
     "lemma": "Tarra 3",
     "previous": "Tarra 2",
     "next": "Tarrach",
+    "proof_read": 0,
     "short_description": "Stadt am Kaukasus",
     "chapters": [
       {
         "start": 2395,
-        "author": "Fiehn"
+        "end": 2395,
+        "author": "Fiehn."
       }
     ]
   },
@@ -10955,11 +11016,13 @@
     "lemma": "Tarrach",
     "previous": "Tarra 3",
     "next": "Tarracina",
+    "proof_read": 0,
     "short_description": "Hunnenführer unter dem Usurpator Vitalianus",
     "chapters": [
       {
         "start": 2395,
-        "author": "Enßlin"
+        "end": 2395,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10967,11 +11030,13 @@
     "lemma": "Tarracina",
     "previous": "Tarrach",
     "next": "Tarracina flumen",
+    "proof_read": 0,
     "short_description": "Stadt der Volsker an der Via Appia",
     "chapters": [
       {
         "start": 2395,
-        "author": "Philipp"
+        "end": 2397,
+        "author": "Philipp."
       }
     ]
   },
@@ -10979,11 +11044,14 @@
     "lemma": "Tarracina flumen",
     "previous": "Tarracina",
     "next": "Tarracius 1",
+    "sort_key": "Tarracinaflumen",
+    "proof_read": 0,
     "short_description": "Der bei Tarracina mündende Amasenus",
     "chapters": [
       {
         "start": 2397,
-        "author": "Philipp"
+        "end": 2397,
+        "author": "Philipp."
       }
     ]
   },
@@ -11004,11 +11072,13 @@
     "lemma": "Tarracius 2",
     "previous": "Tarracius 1",
     "next": "Tarraco 1",
+    "proof_read": 0,
     "short_description": "Bassus, Praef. urbi in Rom",
     "chapters": [
       {
         "start": 2398,
-        "author": "Enßlin"
+        "end": 2398,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11028,11 +11098,13 @@
     "lemma": "Tarraco 2",
     "previous": "Tarraco 1",
     "next": "Tarraelii",
+    "proof_read": 0,
     "short_description": "Stadt im Conventus von Caesaraugusta",
     "chapters": [
       {
         "start": 2403,
-        "author": "Schulten"
+        "end": 2403,
+        "author": "Schulten."
       }
     ]
   },
@@ -11065,7 +11137,7 @@
   {
     "lemma": "Tarraios",
     "previous": "Tarraga",
-    "next": "Tarras",
+    "next": "Τάρρας",
     "redirect": "Tarrhaios",
     "proof_read": 2,
     "chapters": [
@@ -11076,38 +11148,46 @@
     ]
   },
   {
-    "lemma": "Tarras",
+    "lemma": "Τάρρας",
     "previous": "Tarraios",
-    "next": "Tarrebenioi",
+    "next": "Ταρρηβήνιοι",
+    "sort_key": "Tarras",
+    "proof_read": 0,
     "short_description": "Stadt an der W-Küste Sardiniens",
     "chapters": [
       {
         "start": 2403,
-        "author": "Philipp"
+        "end": 2404,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Tarrebenioi",
-    "previous": "Tarras",
+    "lemma": "Ταρρηβήνιοι",
+    "previous": "Τάρρας",
     "next": "Tarrensis",
+    "sort_key": "Tarrebenioi",
+    "proof_read": 0,
     "short_description": "Völkerschaft im W Corsicas",
     "chapters": [
       {
         "start": 2404,
-        "author": "Philipp"
+        "end": 2404,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Tarrensis",
-    "previous": "Tarrebenioi",
+    "previous": "Ταρρηβήνιοι",
     "next": "Tarrhaios",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2404,
-        "author": "Enßlin"
+        "end": 2404,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11115,18 +11195,20 @@
     "lemma": "Tarrhaios",
     "previous": "Tarrensis",
     "next": "Tarrias",
+    "proof_read": 0,
     "short_description": "Epiklesis des Apollon Vater des Lampos",
     "chapters": [
       {
         "start": 2404,
-        "author": "Kruse"
+        "end": 2404,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Tarrias",
     "previous": "Tarrhaios",
-    "next": "Tarron",
+    "next": "Τάρρον",
     "redirect": "Atarrias",
     "proof_read": 2,
     "chapters": [
@@ -11137,26 +11219,31 @@
     ]
   },
   {
-    "lemma": "Tarron",
+    "lemma": "Τάρρον",
     "previous": "Tarrias",
     "next": "Tarronius 1",
+    "sort_key": "Tarron",
+    "proof_read": 0,
     "short_description": "Siedlung Nordafrikas",
     "chapters": [
       {
         "start": 2404,
-        "author": "Treidler"
+        "end": 2404,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Tarronius 1",
-    "previous": "Tarron",
+    "previous": "Τάρρον",
     "next": "Tarronius 2",
+    "proof_read": 0,
     "short_description": "Felix Dexter, Q. Patronus des collegium fabrum tignuariorum",
     "chapters": [
       {
         "start": 2404,
-        "author": "Fluss"
+        "end": 2404,
+        "author": "Fluss."
       }
     ]
   },
@@ -11164,11 +11251,13 @@
     "lemma": "Tarronius 2",
     "previous": "Tarronius 1",
     "next": "Tarrula",
+    "proof_read": 0,
     "short_description": "Pisoninus, Q. E. G. L. L. (sic!) CIL IX 2339",
     "chapters": [
       {
         "start": 2404,
-        "author": "Fluss"
+        "end": 2405,
+        "author": "Fluss."
       }
     ]
   },
@@ -11176,11 +11265,13 @@
     "lemma": "Tarrula",
     "previous": "Tarronius 2",
     "next": "Tarruntenus Paternus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2405,
-        "author": "Münzer"
+        "end": 2405,
+        "author": "Münzer."
       }
     ]
   },
@@ -11188,11 +11279,14 @@
     "lemma": "Tarruntenus Paternus",
     "previous": "Tarrula",
     "next": "Tarrutenius 1",
+    "sort_key": "Tarruntenuspaternus",
+    "proof_read": 0,
     "short_description": "Römischer Jurist",
     "chapters": [
       {
         "start": 2405,
-        "author": "Berger"
+        "end": 2407,
+        "author": "Berger."
       }
     ]
   },
@@ -11200,11 +11294,13 @@
     "lemma": "Tarrutenius 1",
     "previous": "Tarruntenus Paternus",
     "next": "Tarrutenius 2",
+    "proof_read": 0,
     "short_description": "Marcianus, Iulius Agrius",
     "chapters": [
       {
         "start": 2407,
-        "author": "Fluss"
+        "end": 2407,
+        "author": "Fluss."
       }
     ]
   },
@@ -11238,11 +11334,13 @@
     "lemma": "Tarrutenius 4",
     "previous": "Tarrutenius 3",
     "next": "Tarrutius 1",
+    "proof_read": 0,
     "short_description": "Proculus, P. CIL III 3565",
     "chapters": [
       {
         "start": 2407,
-        "author": "Fluss"
+        "end": 2407,
+        "author": "Fluss."
       }
     ]
   },
@@ -11250,11 +11348,13 @@
     "lemma": "Tarrutius 1",
     "previous": "Tarrutenius 4",
     "next": "Tarrutius 2",
+    "proof_read": 0,
     "short_description": "Reicher Gatte der Acca Larentina",
     "chapters": [
       {
         "start": 2407,
-        "author": "Münzer"
+        "end": 2407,
+        "author": "Münzer."
       }
     ]
   },
@@ -11262,11 +11362,18 @@
     "lemma": "Tarrutius 2",
     "previous": "Tarrutius 1",
     "next": "Tarsa 1",
+    "proof_read": 0,
     "short_description": "L. Mathematiker und Astrolog",
     "chapters": [
       {
         "start": 2407,
-        "author": "Münzer"
+        "end": 2407,
+        "author": "Münzer."
+      },
+      {
+        "start": 2408,
+        "end": 2409,
+        "author": "W. Kroll."
       }
     ]
   },
@@ -11274,11 +11381,13 @@
     "lemma": "Tarsa 1",
     "previous": "Tarrutius 2",
     "next": "Tarsa 2",
+    "proof_read": 0,
     "short_description": "Dorf in N-Syrien",
     "chapters": [
       {
         "start": 2409,
-        "author": "Honigmann"
+        "end": 2410,
+        "author": "Honigmann."
       }
     ]
   },
@@ -11286,11 +11395,13 @@
     "lemma": "Tarsa 2",
     "previous": "Tarsa 1",
     "next": "Tarsatica",
+    "proof_read": 0,
     "short_description": "Führer des thrakischen Aufstandes 26 n. Chr.",
     "chapters": [
       {
         "start": 2410,
-        "author": "Stein, [Arthur]"
+        "end": 2410,
+        "author": "Stein."
       }
     ]
   },
@@ -11298,11 +11409,13 @@
     "lemma": "Tarsatica",
     "previous": "Tarsa 2",
     "next": "Tarseia",
+    "proof_read": 0,
     "short_description": "Küstenort in Liburnien",
     "chapters": [
       {
         "start": 2410,
-        "author": "Fluss"
+        "end": 2410,
+        "author": "Fluss."
       }
     ]
   },
@@ -11337,47 +11450,56 @@
     "lemma": "Tarsene",
     "previous": "Ταρσήïον",
     "next": "Tarseus",
+    "proof_read": 0,
     "short_description": "Epiklesis der Meter",
     "chapters": [
       {
         "start": 2410,
-        "author": "Kruse"
+        "end": 2411,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Tarseus",
     "previous": "Tarsene",
-    "next": "Tarsiana",
+    "next": "Ταρσίανα",
+    "proof_read": 0,
     "short_description": "Epiklesis des Apollon",
     "chapters": [
       {
         "start": 2411,
-        "author": "Kruse"
+        "end": 2412,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
-    "lemma": "Tarsiana",
+    "lemma": "Ταρσίανα",
     "previous": "Tarseus",
     "next": "Tarsicius",
+    "sort_key": "Tarsiana",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2412,
-        "author": "Herrmann"
+        "end": 2412,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Tarsicius",
-    "previous": "Tarsiana",
+    "previous": "Ταρσίανα",
     "next": "Ταρσίη",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2412,
-        "author": "Enßlin"
+        "end": 2413,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11424,11 +11546,13 @@
     "lemma": "Tarsios 1",
     "previous": "Tarsion",
     "next": "Tarsios 2",
+    "proof_read": 0,
     "short_description": "Fluß in Mysien",
     "chapters": [
       {
         "start": 2413,
-        "author": "Ruge"
+        "end": 2413,
+        "author": "Ruge."
       }
     ]
   },
@@ -11449,11 +11573,13 @@
     "lemma": "Tarsos 1",
     "previous": "Tarsios 2",
     "next": "Tarsos 2",
+    "proof_read": 0,
     "short_description": "Kilikischer Fluß",
     "chapters": [
       {
         "start": 2413,
-        "author": "Ruge"
+        "end": 2413,
+        "author": "Ruge."
       }
     ]
   },
@@ -11461,11 +11587,13 @@
     "lemma": "Tarsos 2",
     "previous": "Tarsos 1",
     "next": "Tarsos 3",
+    "proof_read": 0,
     "short_description": "Stadt in Bithynien",
     "chapters": [
       {
         "start": 2413,
-        "author": "Ruge"
+        "end": 2413,
+        "author": "Ruge."
       }
     ]
   },
@@ -11473,23 +11601,27 @@
     "lemma": "Tarsos 3",
     "previous": "Tarsos 2",
     "next": "Tarsu",
+    "proof_read": 0,
     "short_description": "Stadt in Kilikien",
     "chapters": [
       {
         "start": 2413,
-        "author": "Ruge"
+        "end": 2439,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Tarsu",
     "previous": "Tarsos 3",
-    "next": "Tarsouras",
+    "next": "tarsura",
+    "proof_read": 0,
     "short_description": "Etruskische Beischrift auf einem Spiegel in Wien",
     "chapters": [
       {
         "start": 2439,
-        "author": "Fiesel"
+        "end": 2440,
+        "author": "Fiesel."
       }
     ]
   },
@@ -11519,13 +11651,15 @@
   },
   {
     "lemma": "Tartaros 1",
-    "previous": "tarsura",
+    "previous": "Ταρσούρας",
     "next": "Tartaros 2",
+    "proof_read": 0,
     "short_description": "Gefängnis der Titanen",
     "chapters": [
       {
         "start": 2440,
-        "author": "Scherling"
+        "end": 2445,
+        "author": "Scherling."
       }
     ]
   },
@@ -11533,11 +11667,13 @@
     "lemma": "Tartaros 2",
     "previous": "Tartaros 1",
     "next": "Tartaros 3",
+    "proof_read": 0,
     "short_description": "Fluß bei Meliteia",
     "chapters": [
       {
         "start": 2445,
-        "author": "Stählin"
+        "end": 2445,
+        "author": "Stählin."
       }
     ]
   },
@@ -11545,11 +11681,13 @@
     "lemma": "Tartaros 3",
     "previous": "Tartaros 2",
     "next": "Tartaruel",
+    "proof_read": 0,
     "short_description": "Fluß im Mündungsgebiet des Po",
     "chapters": [
       {
         "start": 2445,
-        "author": "Philipp"
+        "end": 2446,
+        "author": "Philipp."
       }
     ]
   },
@@ -11557,11 +11695,13 @@
     "lemma": "Tartaruel",
     "previous": "Tartaros 3",
     "next": "Tartemorion",
+    "proof_read": 0,
     "short_description": "Dämon der Mondgöttin",
     "chapters": [
       {
         "start": 2446,
-        "author": "Preisendanz"
+        "end": 2446,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -11581,36 +11721,43 @@
   {
     "lemma": "Tarteno",
     "previous": "Tartemorion",
-    "next": "Tartessis",
+    "next": "Ταρτησσίς",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2446,
-        "author": "Fluss"
+        "end": 2446,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Tartessis",
+    "lemma": "Ταρτησσίς",
     "previous": "Tarteno",
     "next": "Tartessos 1",
+    "sort_key": "Tartessis",
+    "proof_read": 0,
     "short_description": "Landschaft um Tartessos",
     "chapters": [
       {
         "start": 2446,
-        "author": "Schulten"
+        "end": 2446,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Tartessos 1",
-    "previous": "Tartessis",
+    "previous": "Ταρτησσίς",
     "next": "Tartessos 2",
+    "proof_read": 0,
     "short_description": "Alte südspanische Stadt",
     "chapters": [
       {
         "start": 2446,
-        "author": "Schulten"
+        "end": 2451,
+        "author": "Schulten."
       }
     ]
   },
@@ -11748,11 +11895,14 @@
     "lemma": "Tarvos Trigaranus",
     "previous": "Tarvisium",
     "next": "Tarus",
+    "sort_key": "Tarvostrigaranus",
+    "proof_read": 0,
     "short_description": "Keltisches Numen in Stiergestalt",
     "chapters": [
       {
         "start": 2453,
-        "author": "Heichelheim"
+        "end": 2457,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -11760,11 +11910,13 @@
     "lemma": "Tarus",
     "previous": "Tarvos Trigaranus",
     "next": "Tarusates",
+    "proof_read": 0,
     "short_description": "Nebenfluß des Po",
     "chapters": [
       {
         "start": 2457,
-        "author": "Philipp"
+        "end": 2457,
+        "author": "Philipp."
       }
     ]
   },
@@ -11822,7 +11974,6 @@
   {
     "lemma": "Tarutia emporon",
     "previous": "Tarusco 2",
-    "next": "Tarutius",
     "short_description": "Dorf im Gebiet von Apameia in N-Syrien",
     "chapters": [
       {
@@ -11832,8 +11983,23 @@
     ]
   },
   {
+    "lemma": "Ταρουτία ἐμπόρων",
+    "previous": "Tarusco 2",
+    "next": "Tarutius",
+    "sort_key": "Tarutiaemporon",
+    "proof_read": 0,
+    "short_description": "Dorf im Gebiet von Apameia in N-Syrien",
+    "chapters": [
+      {
+        "start": 2458,
+        "end": 2459,
+        "author": "Honigmann."
+      }
+    ]
+  },
+  {
     "lemma": "Tarutius",
-    "previous": "Tarutia emporon",
+    "previous": "Ταρουτία ἐμπόρων",
     "next": "Tasagora 1",
     "sort_key": "Tarvtius",
     "redirect": "Tarrutius 1",
@@ -11849,11 +12015,13 @@
     "lemma": "Tasagora 1",
     "previous": "Tarutius",
     "next": "Tasagora 2",
+    "proof_read": 0,
     "short_description": "Ort N-Africas",
     "chapters": [
       {
         "start": 2459,
-        "author": "Treidler"
+        "end": 2459,
+        "author": "Treidler."
       }
     ]
   },
@@ -11861,11 +12029,13 @@
     "lemma": "Tasagora 2",
     "previous": "Tasagora 1",
     "next": "Tasciaca",
+    "proof_read": 0,
     "short_description": "Fluß der Mauretania Caesariensis",
     "chapters": [
       {
         "start": 2459,
-        "author": "Treidler"
+        "end": 2459,
+        "author": "Treidler."
       }
     ]
   },
@@ -12176,7 +12346,7 @@
   {
     "lemma": "Tateabio",
     "previous": "Τατακηνή",
-    "next": "Tathilba",
+    "next": "Τάθιλβα",
     "redirect": "Tataion",
     "proof_read": 2,
     "chapters": [
@@ -12187,26 +12357,31 @@
     ]
   },
   {
-    "lemma": "Tathilba",
+    "lemma": "Τάθιλβα",
     "previous": "Tateabio",
     "next": "Tathis",
+    "sort_key": "Tathilba",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2463,
-        "author": "Herrmann"
+        "end": 2463,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Tathis",
-    "previous": "Tathilba",
+    "previous": "Τάθιλβα",
     "next": "Tathyris",
+    "proof_read": 0,
     "short_description": "Siedlung Aithiopiens",
     "chapters": [
       {
         "start": 2463,
-        "author": "Treidler"
+        "end": 2463,
+        "author": "Treidler."
       }
     ]
   },
@@ -12214,11 +12389,13 @@
     "lemma": "Tathyris",
     "previous": "Tathis",
     "next": "Tatianus 1",
+    "proof_read": 0,
     "short_description": "Dorf im Westthebanischen Gebiet Aegyptens",
     "chapters": [
       {
         "start": 2463,
-        "author": "Kees"
+        "end": 2463,
+        "author": "Kees."
       }
     ]
   },
@@ -12226,11 +12403,13 @@
     "lemma": "Tatianus 1",
     "previous": "Tathyris",
     "next": "Tatianus 2",
+    "proof_read": 0,
     "short_description": "Heißt versehentl. der cos. 337 n. Chr., s. Titianus Nr. 5",
     "chapters": [
       {
         "start": 2463,
-        "author": "Enßlin"
+        "end": 2463,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12238,11 +12417,13 @@
     "lemma": "Tatianus 2",
     "previous": "Tatianus 1",
     "next": "Tatianus 3",
+    "proof_read": 0,
     "short_description": "C. Iulius Rufinianus Ablabius s. Iulius Nr. 438",
     "chapters": [
       {
         "start": 2463,
-        "author": "Enßlin"
+        "end": 2463,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12250,11 +12431,13 @@
     "lemma": "Tatianus 3",
     "previous": "Tatianus 2",
     "next": "Tatianus 4",
+    "proof_read": 0,
     "short_description": "Flavius Eutolmius cos. 391 n. Chr.",
     "chapters": [
       {
         "start": 2463,
-        "author": "Enßlin"
+        "end": 2467,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12262,11 +12445,13 @@
     "lemma": "Tatianus 4",
     "previous": "Tatianus 3",
     "next": "Tatianus 5",
+    "proof_read": 0,
     "short_description": "Enkel von Nr. 3",
     "chapters": [
       {
         "start": 2467,
-        "author": "Enßlin"
+        "end": 2468,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12274,11 +12459,13 @@
     "lemma": "Tatianus 5",
     "previous": "Tatianus 4",
     "next": "Tatianus 6",
+    "proof_read": 0,
     "short_description": "Freund des Symmachus",
     "chapters": [
       {
         "start": 2468,
-        "author": "Enßlin"
+        "end": 2468,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12286,11 +12473,13 @@
     "lemma": "Tatianus 6",
     "previous": "Tatianus 5",
     "next": "Tatianus 7",
+    "proof_read": 0,
     "short_description": "Magister officiorum unter Kaiser Iustinus I",
     "chapters": [
       {
         "start": 2468,
-        "author": "Enßlin"
+        "end": 2468,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12298,11 +12487,13 @@
     "lemma": "Tatianus 7",
     "previous": "Tatianus 6",
     "next": "Tatianus 8",
+    "proof_read": 0,
     "short_description": "Sen.",
     "chapters": [
       {
         "start": 2468,
-        "author": "Enßlin"
+        "end": 2468,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12310,11 +12501,13 @@
     "lemma": "Tatianus 8",
     "previous": "Tatianus 7",
     "next": "Tatianus 9",
+    "proof_read": 0,
     "short_description": "Intendanturbeamter",
     "chapters": [
       {
         "start": 2468,
-        "author": "Enßlin"
+        "end": 2468,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12322,11 +12515,13 @@
     "lemma": "Tatianus 9",
     "previous": "Tatianus 8",
     "next": "Tatilti",
+    "proof_read": 0,
     "short_description": "der Syrer Christlicher Apologet und Gnostiker",
     "chapters": [
       {
         "start": 2468,
-        "author": "Fascher"
+        "end": 2471,
+        "author": "Erich Fascher."
       }
     ]
   },
@@ -12334,59 +12529,69 @@
     "lemma": "Tatilti",
     "previous": "Tatianus 9",
     "next": "Tatius 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2471,
-        "author": "Treidler"
+        "end": 2471,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Tatius 1",
     "previous": "Tatilti",
-    "next": "Tatia 3",
+    "next": "Tatius 2",
+    "proof_read": 0,
     "short_description": "Titus, mythischer König der Sabiner",
     "chapters": [
       {
         "start": 2471,
-        "author": "Glaser"
+        "end": 2477,
+        "author": "Konrad Glaser."
       }
     ]
   },
   {
     "lemma": "Tatia 3",
-    "previous": "Tatius 1",
-    "next": "Tatius 2",
+    "previous": "Tatia 2",
+    "next": "Tatta",
+    "proof_read": 0,
     "short_description": "Tochter des Titus Tatius Nr. 1",
     "chapters": [
       {
         "start": 2477,
-        "author": "Münzer"
+        "end": 2477,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Tatius 2",
-    "previous": "Tatia 3",
-    "next": "Tatta",
+    "previous": "Tatius 1",
+    "next": "Tatius 3",
+    "proof_read": 0,
     "short_description": "Andronicus cos. 310 n. Chr., s. Andronikos Nr. 18.",
     "chapters": [
       {
         "start": 2477,
-        "author": "Enßlin"
+        "end": 2477,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Tatta",
-    "previous": "Tatius 2",
+    "previous": "Tatius 3",
     "next": "Tattimuth",
+    "proof_read": 0,
     "short_description": "Großer Salzsee in Kleinasien",
     "chapters": [
       {
         "start": 2477,
-        "author": "Ruge"
+        "end": 2477,
+        "author": "Ruge."
       }
     ]
   },
@@ -12394,11 +12599,13 @@
     "lemma": "Tattimuth",
     "previous": "Tatta",
     "next": "Tattius",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2477,
-        "author": "Enßlin"
+        "end": 2477,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12421,60 +12628,73 @@
   {
     "lemma": "Tatulus",
     "previous": "Tattius",
-    "next": "Taua 1",
+    "next": "Ταύα 1",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2478,
-        "author": "Enßlin"
+        "end": 2478,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
-    "lemma": "Taua 1",
+    "lemma": "Ταύα 1",
     "previous": "Tatulus",
-    "next": "Taua 2",
+    "next": "Ταύα 2",
+    "sort_key": "Taua 1",
+    "proof_read": 0,
     "short_description": "Ort in Areia",
     "chapters": [
       {
         "start": 2478,
-        "author": "Weissbach"
+        "end": 2478,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Taua 2",
-    "previous": "Taua 1",
-    "next": "Taua eischysis",
+    "lemma": "Ταύα 2",
+    "previous": "Ταύα 1",
+    "next": "Ταούα εἴσχυσις",
+    "sort_key": "Taua 2",
+    "proof_read": 0,
     "short_description": "Ort im mittleren Nildelta",
     "chapters": [
       {
         "start": 2478,
-        "author": "Kees"
+        "end": 2479,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Taua eischysis",
-    "previous": "Taua 2",
+    "lemma": "Ταούα εἴσχυσις",
+    "previous": "Ταύα 2",
     "next": "Tauaka",
+    "sort_key": "Tauaeischysis",
+    "proof_read": 0,
     "short_description": "Flußmündung an der O-Küste Schottlands",
     "chapters": [
       {
         "start": 2479,
-        "author": "MacDonald"
+        "end": 2479,
+        "author": "MacDonald."
       }
     ]
   },
   {
     "lemma": "Tauaka",
-    "previous": "Taua eischysis",
+    "previous": "Ταούα εἴσχυσις",
     "next": "Taube",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2479,
-        "author": "Ziegler"
+        "end": 2479,
+        "author": "Ziegler."
       }
     ]
   },
@@ -12482,11 +12702,13 @@
     "lemma": "Taube",
     "previous": "Tauaka",
     "next": "Tauchen",
+    "proof_read": 0,
     "short_description": "Tierart",
     "chapters": [
       {
         "start": 2479,
-        "author": "Steier"
+        "end": 2500,
+        "author": "Steier."
       }
     ]
   },
@@ -12507,11 +12729,14 @@
     "lemma": "Tauchira, Teuchira",
     "previous": "Tauchen",
     "next": "Taveni 1",
+    "sort_key": "Tauchira,teuchira",
+    "proof_read": 0,
     "short_description": "Stadt in der Cyrenaica",
     "chapters": [
       {
         "start": 2500,
-        "author": "Kees"
+        "end": 2501,
+        "author": "Kees."
       }
     ]
   },
@@ -12547,11 +12772,13 @@
     "lemma": "Taufe",
     "previous": "Taveni 2",
     "next": "Taufsymbol",
+    "proof_read": 0,
     "short_description": "Begriff",
     "chapters": [
       {
         "start": 2501,
-        "author": "Fascher"
+        "end": 2518,
+        "author": "Erich Fascher."
       }
     ]
   },
@@ -12559,11 +12786,13 @@
     "lemma": "Taufsymbol",
     "previous": "Taufe",
     "next": "Taugast",
+    "proof_read": 0,
     "short_description": "Kunstvoll formuliertes Glaubensbekenntnis",
     "chapters": [
       {
         "start": 2518,
-        "author": "Fascher"
+        "end": 2523,
+        "author": "Erich Fascher."
       }
     ]
   },
@@ -12571,11 +12800,13 @@
     "lemma": "Taugast",
     "previous": "Taufsymbol",
     "next": "Tavia",
+    "proof_read": 0,
     "short_description": "Name für die Chinesen",
     "chapters": [
       {
         "start": 2523,
-        "author": "Herrmann"
+        "end": 2524,
+        "author": "Herrmann."
       }
     ]
   },
@@ -12583,47 +12814,56 @@
     "lemma": "Tavia",
     "previous": "Taugast",
     "next": "Tavium",
+    "proof_read": 0,
     "short_description": "Fluß in Ligurien",
     "chapters": [
       {
         "start": 2524,
-        "author": "Philipp"
+        "end": 2524,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Tavium",
     "previous": "Tavia",
-    "next": "Taukiana",
+    "next": "Ταυκιάνα",
+    "proof_read": 0,
     "short_description": "Taouion, Stadt im östl. Galatien",
     "chapters": [
       {
         "start": 2524,
-        "author": "Ruge"
+        "end": 2526,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Taukiana",
+    "lemma": "Ταυκιάνα",
     "previous": "Tavium",
     "next": "Taulantii",
+    "sort_key": "Taukiana",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2526,
-        "author": "Weissbach"
+        "end": 2526,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Taulantii",
-    "previous": "Taukiana",
+    "previous": "Ταυκιάνα",
     "next": "Taulantini",
+    "proof_read": 0,
     "short_description": "Illyrischer Volksstamm",
     "chapters": [
       {
         "start": 2526,
-        "author": "Fluss"
+        "end": 2529,
+        "author": "Fluss."
       }
     ]
   },
@@ -12644,11 +12884,13 @@
     "lemma": "Taulara",
     "previous": "Taulantini",
     "next": "Taulas 1",
+    "proof_read": 0,
     "short_description": "Ort in Pontos",
     "chapters": [
       {
         "start": 2529,
-        "author": "Ruge"
+        "end": 2530,
+        "author": "Ruge."
       }
     ]
   },
@@ -12656,11 +12898,13 @@
     "lemma": "Taulas 1",
     "previous": "Taulara",
     "next": "Taulas 2",
+    "proof_read": 0,
     "short_description": "Sohn des Illyrios",
     "chapters": [
       {
         "start": 2530,
-        "author": "Scherling"
+        "end": 2530,
+        "author": "Scherling."
       }
     ]
   },
@@ -12668,11 +12912,13 @@
     "lemma": "Taulas 2",
     "previous": "Taulas 1",
     "next": "Taum",
+    "proof_read": 0,
     "short_description": "Pflegevater des Tages",
     "chapters": [
       {
         "start": 2530,
-        "author": "Scherling"
+        "end": 2530,
+        "author": "Scherling."
       }
     ]
   },
@@ -12680,11 +12926,13 @@
     "lemma": "Taum",
     "previous": "Taulas 2",
     "next": "Taunensium civitas",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2530,
-        "author": "MacDonald"
+        "end": 2530,
+        "author": "MacDonald."
       }
     ]
   },
@@ -12705,11 +12953,13 @@
     "lemma": "Taunus",
     "previous": "Taunensium civitas",
     "next": "Ταυπάνα",
+    "proof_read": 0,
     "short_description": "Gebirge zwischen Main, Rhein, Lahn und Wetterau",
     "chapters": [
       {
         "start": 2530,
-        "author": "Franke"
+        "end": 2535,
+        "author": "Franke."
       }
     ]
   },
@@ -12731,11 +12981,13 @@
     "lemma": "Taura...",
     "previous": "Ταυπάνα",
     "next": "Taurania",
+    "proof_read": 0,
     "short_description": "Anfang eines Ethnikons?",
     "chapters": [
       {
         "start": 2535,
-        "author": "Ruge"
+        "end": 2535,
+        "author": "Ruge."
       }
     ]
   },
@@ -12743,11 +12995,13 @@
     "lemma": "Taurania",
     "previous": "Taura...",
     "next": "Taurarii",
+    "proof_read": 0,
     "short_description": "Ort, s. Taurasia",
     "chapters": [
       {
         "start": 2535,
-        "author": "Philipp"
+        "end": 2535,
+        "author": "Philipp."
       }
     ]
   },
@@ -12768,11 +13022,13 @@
     "lemma": "Taurasia 1",
     "previous": "Taurarii",
     "next": "Taurasia 2",
+    "proof_read": 0,
     "short_description": "Stadt in Samnium",
     "chapters": [
       {
         "start": 2535,
-        "author": "Philipp"
+        "end": 2536,
+        "author": "Philipp."
       }
     ]
   },
@@ -12780,11 +13036,13 @@
     "lemma": "Taurasia 2",
     "previous": "Taurasia 1",
     "next": "Taura(u)nitium",
+    "proof_read": 0,
     "short_description": "Hauptort der Tauriner in den Alpen, s. Taurini",
     "chapters": [
       {
         "start": 2536,
-        "author": "Philipp"
+        "end": 2536,
+        "author": "Philipp."
       }
     ]
   },
@@ -12806,11 +13064,13 @@
     "lemma": "Taureas 1",
     "previous": "Taura(u)nitium",
     "next": "Taureas 2",
+    "proof_read": 0,
     "short_description": "Verwandter des Redners Andokides",
     "chapters": [
       {
         "start": 2536,
-        "author": "Fiehn"
+        "end": 2537,
+        "author": "Fiehn."
       }
     ]
   },
@@ -12818,11 +13078,13 @@
     "lemma": "Taureas 2",
     "previous": "Taureas 1",
     "next": "Taureas 3",
+    "proof_read": 0,
     "short_description": "Zeitgenosse des Demosthenes",
     "chapters": [
       {
         "start": 2537,
-        "author": "Fiehn"
+        "end": 2537,
+        "author": "Fiehn."
       }
     ]
   },
@@ -12830,11 +13092,13 @@
     "lemma": "Taureas 3",
     "previous": "Taureas 2",
     "next": "Taureas 4",
+    "proof_read": 0,
     "short_description": "Als opsophagos verspottet.",
     "chapters": [
       {
         "start": 2537,
-        "author": "Fiehn"
+        "end": 2537,
+        "author": "Fiehn."
       }
     ]
   },
@@ -12842,11 +13106,13 @@
     "lemma": "Taureas 4",
     "previous": "Taureas 3",
     "next": "Tauredunum",
+    "proof_read": 0,
     "short_description": "Campaner aus Capua",
     "chapters": [
       {
         "start": 2537,
-        "author": "Fiehn"
+        "end": 2537,
+        "author": "Fiehn."
       }
     ]
   },
@@ -12854,11 +13120,13 @@
     "lemma": "Tauredunum",
     "previous": "Taureas 4",
     "next": "Taurentius",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 2537,
-        "author": "Philipp"
+        "end": 2537,
+        "author": "Philipp."
       }
     ]
   },
@@ -12866,11 +13134,13 @@
     "lemma": "Taurentius",
     "previous": "Tauredunum",
     "next": "Taureon",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 2537,
-        "author": "Enßlin"
+        "end": 2537,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12878,54 +13148,64 @@
     "lemma": "Taureon",
     "previous": "Taurentius",
     "next": "Taureos",
+    "proof_read": 0,
     "short_description": "Monatsname des ionischen Kleinasien",
     "chapters": [
       {
         "start": 2537,
-        "author": "Sontheimer"
+        "end": 2538,
+        "author": "Sontheimer."
       }
     ]
   },
   {
     "lemma": "Taureos",
     "previous": "Taureon",
-    "next": "Tauria 1",
+    "next": "Ταύρια 1",
+    "proof_read": 0,
     "short_description": "Epiklesis des Poseidon",
     "chapters": [
       {
         "start": 2538,
-        "author": "Kruse"
+        "end": 2539,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
-    "lemma": "Tauria 1",
+    "lemma": "Ταύρια 1",
     "previous": "Taureos",
-    "next": "Tauria 2",
+    "next": "Ταύρια 2",
+    "sort_key": "Tauria 1",
+    "proof_read": 0,
     "short_description": "Poseidonfest",
     "chapters": [
       {
         "start": 2539,
-        "author": "Ziehen"
+        "end": 2539,
+        "author": "Ziehen."
       }
     ]
   },
   {
-    "lemma": "Tauria 2",
-    "previous": "Tauria 1",
+    "lemma": "Ταύρια 2",
+    "previous": "Ταύρια 1",
     "next": "Tauriana",
+    "sort_key": "Tauria 2",
+    "proof_read": 0,
     "short_description": "Insel bei der N-afrikanischen Küste",
     "chapters": [
       {
         "start": 2539,
-        "author": "Treidler"
+        "end": 2540,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Tauriana",
-    "previous": "Tauria 2",
-    "next": "Taurianos skopelos",
+    "previous": "Ταύρια 2",
+    "next": "Ταυριανὸς σκόπελος",
     "proof_read": 0,
     "short_description": "Station in Bruttium",
     "chapters": [
@@ -12937,20 +13217,23 @@
     ]
   },
   {
-    "lemma": "Taurianos skopelos",
+    "lemma": "Ταυριανὸς σκόπελος",
     "previous": "Tauriana",
     "next": "Taurianum 1",
+    "sort_key": "Taurianosskopelos",
+    "proof_read": 0,
     "short_description": "Klippe in Bruttium",
     "chapters": [
       {
         "start": 2540,
-        "author": "Philipp"
+        "end": 2540,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Taurianum 1",
-    "previous": "Taurianos skopelos",
+    "previous": "Ταυριανὸς σκόπελος",
     "next": "Taurianum 2",
     "redirect": "Tauriana",
     "proof_read": 2,
@@ -12965,11 +13248,13 @@
     "lemma": "Taurianum 2",
     "previous": "Taurianum 1",
     "next": "Taurianus 1",
+    "proof_read": 0,
     "short_description": "Stadt auf einem Vorgebirge südl. des Flußes Matauros",
     "chapters": [
       {
         "start": 2540,
-        "author": "Oldfather"
+        "end": 2542,
+        "author": "Oldfather."
       }
     ]
   },
@@ -12977,11 +13262,13 @@
     "lemma": "Taurianus 1",
     "previous": "Taurianum 2",
     "next": "Taurianus 2",
+    "proof_read": 0,
     "short_description": "Bischof?, von makedonischen Bischöfen verurteilt",
     "chapters": [
       {
         "start": 2542,
-        "author": "Enßlin"
+        "end": 2542,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12989,11 +13276,13 @@
     "lemma": "Taurianus 2",
     "previous": "Taurianus 1",
     "next": "Tauri Aquae",
+    "proof_read": 0,
     "short_description": "Bischof von Lyrbe",
     "chapters": [
       {
         "start": 2542,
-        "author": "Enßlin"
+        "end": 2542,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -13015,11 +13304,13 @@
     "lemma": "Taurica 1",
     "previous": "Tauri Aquae",
     "next": "Taurica 2",
+    "proof_read": 0,
     "short_description": "Beiname der Göttin der taurischen Chersones",
     "chapters": [
       {
         "start": 2542,
-        "author": "Oppermann"
+        "end": 2542,
+        "author": "Oppermann."
       }
     ]
   },
@@ -13040,11 +13331,13 @@
     "lemma": "Taurico(m)",
     "previous": "Taurica 2",
     "next": "Taurii ludi",
+    "proof_read": 0,
     "short_description": "Keltiberische Sippe",
     "chapters": [
       {
         "start": 2542,
-        "author": "Schulten"
+        "end": 2542,
+        "author": "Schulten."
       }
     ]
   },
@@ -13052,11 +13345,14 @@
     "lemma": "Taurii ludi",
     "previous": "Taurico(m)",
     "next": "Ταυρική 1",
+    "sort_key": "Tauriiludi",
+    "proof_read": 0,
     "short_description": "Spiele zu Ehren der di inferi in Rom",
     "chapters": [
       {
         "start": 2542,
-        "author": "Altheim"
+        "end": 2544,
+        "author": "Altheim."
       }
     ]
   },
@@ -13120,11 +13416,13 @@
     "lemma": "Taurini",
     "previous": "Taurinae",
     "next": "Taurini saltus",
+    "proof_read": 0,
     "short_description": "Volk am Fuß der cottischen Alpen",
     "chapters": [
       {
         "start": 2544,
-        "author": "Philipp"
+        "end": 2545,
+        "author": "Philipp."
       }
     ]
   },
@@ -13184,11 +13482,13 @@
     "lemma": "Taurinus 1",
     "previous": "Taurinum 3",
     "next": "Taurinus 2",
+    "proof_read": 0,
     "short_description": "Augustus unter Severus Alexander",
     "chapters": [
       {
         "start": 2545,
-        "author": "Stein, [Arthur]"
+        "end": 2545,
+        "author": "Stein."
       }
     ]
   },
@@ -13196,11 +13496,13 @@
     "lemma": "Taurinus 2",
     "previous": "Taurinus 1",
     "next": "Taurinus 3",
+    "proof_read": 0,
     "short_description": "Comes Africae",
     "chapters": [
       {
         "start": 2545,
-        "author": "Enßlin"
+        "end": 2545,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -13208,11 +13510,13 @@
     "lemma": "Taurinus 3",
     "previous": "Taurinus 2",
     "next": "Taurinus 4",
+    "proof_read": 0,
     "short_description": "Praeses Thebaidos",
     "chapters": [
       {
         "start": 2546,
-        "author": "Enßlin"
+        "end": 2546,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -13220,11 +13524,13 @@
     "lemma": "Taurinus 4",
     "previous": "Taurinus 3",
     "next": "Taurinus 5",
+    "proof_read": 0,
     "short_description": "Aegyptischer Bischof",
     "chapters": [
       {
         "start": 2546,
-        "author": "Enßlin"
+        "end": 2546,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -13335,11 +13641,13 @@
     "lemma": "Taurion",
     "previous": "Taurinus saltus",
     "next": "Ταύριος ποταμός",
+    "proof_read": 0,
     "short_description": "Hoher makedonischer Offizier unter Antigonos Doson und Philipp V",
     "chapters": [
       {
         "start": 2546,
-        "author": "Meyer, Ernst"
+        "end": 2546,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -13362,18 +13670,19 @@
   {
     "lemma": "Tauris",
     "previous": "Ταύριος ποταμός",
-    "next": "Symbolaiographos",
+    "next": "Συμβολαιογράφος",
+    "proof_read": 0,
     "short_description": "Insel in der südl. Adria",
     "chapters": [
       {
         "start": 2546,
         "end": 2548,
-        "author": "Fluss"
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Symbolaiographos",
+    "lemma": "Συμβολαιογράφος",
     "previous": "Tauris",
     "short_description": "richtig: Symbolaiographos. Gewerbsmäßiger Privatnotar",
     "chapters": [
