@@ -234,7 +234,7 @@
   {
     "lemma": "Tauroentum",
     "previous": "Taurocholia",
-    "next": "Tauroi 1",
+    "next": "Tauroi, Tauroskythai 1",
     "redirect": "Tauriana",
     "proof_read": 3,
     "chapters": [
@@ -692,7 +692,7 @@
     "lemma": "Tauroskythai",
     "previous": "Tauros 11",
     "next": "Taurosthenes 1",
-    "redirect": "Tauroi 1",
+    "redirect": "Tauroi, Tauroskythai 1",
     "proof_read": 3,
     "chapters": [
       {
@@ -1529,11 +1529,13 @@
     "lemma": "Tebanus 1",
     "previous": "Tebae",
     "next": "Tebanus 2",
+    "proof_read": 0,
     "short_description": "Röm. Gentilname",
     "chapters": [
       {
         "start": 101,
-        "author": "Münzer"
+        "end": 101,
+        "author": "Münzer."
       }
     ]
   },
@@ -1541,11 +1543,13 @@
     "lemma": "Tebanus 2",
     "previous": "Tebanus 1",
     "next": "Tebanus 3",
+    "proof_read": 0,
     "short_description": "P., Inschr. v. ager Amiternus, CIL IX 4518",
     "chapters": [
       {
         "start": 101,
-        "author": "Fluss"
+        "end": 101,
+        "author": "Fluss."
       }
     ]
   },
@@ -1553,11 +1557,13 @@
     "lemma": "Tebanus 3",
     "previous": "Tebanus 2",
     "next": "Tebassus",
+    "proof_read": 0,
     "short_description": "Gavidius Latiaris, P., von senator. Rang, z.Zt. Vespasians",
     "chapters": [
       {
         "start": 101,
-        "author": "Fluss"
+        "end": 102,
+        "author": "Fluss."
       }
     ]
   },
@@ -1565,26 +1571,30 @@
     "lemma": "Tebassus",
     "previous": "Tebanus 3",
     "next": "Tebavii",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 102,
-        "author": "Münzer"
+        "end": 102,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Tebavii",
     "previous": "Tebassus",
-    "next": "Tebenda",
+    "next": "Τέβενδα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 102,
-        "author": "Fluss"
+        "end": 102,
+        "author": "Fluss."
       }
     ]
   },
   {
-    "lemma": "Tebenda",
+    "lemma": "Τέβενδα",
     "previous": "Tebavii",
     "next": "Tebens",
     "chapters": [
@@ -1596,13 +1606,15 @@
   },
   {
     "lemma": "Tebens",
-    "previous": "Tebenda",
+    "previous": "Τέβενδα",
     "next": "Teberianus",
+    "proof_read": 0,
     "short_description": "Irrige Lesung statt Terens, s. Claudius Nr. 363.",
     "chapters": [
       {
         "start": 102,
-        "author": "Groag"
+        "end": 102,
+        "author": "Groag."
       }
     ]
   },
@@ -1610,10 +1622,12 @@
     "lemma": "Teberianus",
     "previous": "Tebens",
     "next": "Τεβέτη",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 102,
-        "author": "Enßlin"
+        "end": 103,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -1648,37 +1662,43 @@
     "lemma": "Tebtynis",
     "previous": "Tebros",
     "next": "Techedia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 103,
-        "author": "Kees"
+        "end": 103,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Techedia",
     "previous": "Tebtynis",
-    "next": "Technon",
+    "next": "Technitai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 103,
-        "author": "Fiehn"
+        "end": 103,
+        "author": "Fiehn."
       }
     ]
   },
   {
     "lemma": "Technon",
-    "previous": "Techedia",
-    "next": "Technopaignia",
+    "previous": "Technitai",
+    "next": "Τεχνοπαίγνια",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 103,
-        "author": "Lippold, Georg"
+        "end": 103,
+        "author": "Lippold."
       }
     ]
   },
   {
-    "lemma": "Technopaignia",
+    "lemma": "Τεχνοπαίγνια",
     "previous": "Technon",
     "next": "Tector",
     "short_description": "Mod. Name für antike Figurengedichte",
@@ -1691,13 +1711,15 @@
   },
   {
     "lemma": "Tector",
-    "previous": "Technopaignia",
+    "previous": "Τεχνοπαίγνια",
     "next": "Tectum",
+    "proof_read": 0,
     "short_description": "Arbeiter, stellte d. Wandverputz her",
     "chapters": [
       {
         "start": 104,
-        "author": "Ebert"
+        "end": 105,
+        "author": "Ebert."
       }
     ]
   },
@@ -1705,11 +1727,13 @@
     "lemma": "Tectum",
     "previous": "Tector",
     "next": "Tecum",
+    "proof_read": 0,
     "short_description": "s. Materiatio (griech. Dach), (röm. Dach) Tegula",
     "chapters": [
       {
         "start": 105,
-        "author": "Ebert"
+        "end": 105,
+        "author": "Ebert."
       }
     ]
   },
@@ -1717,11 +1741,13 @@
     "lemma": "Tecum",
     "previous": "Tectum",
     "next": "tecvm",
+    "proof_read": 0,
     "short_description": "Etr. Wort, wohl Göttername",
     "chapters": [
       {
         "start": 105,
-        "author": "Besnier"
+        "end": 105,
+        "author": "M. Besnier."
       }
     ]
   },
@@ -1741,11 +1767,13 @@
     "lemma": "Tedanius",
     "previous": "tecvm",
     "next": "Tedertis",
+    "proof_read": 0,
     "short_description": "Fluß in Dalmatien",
     "chapters": [
       {
         "start": 105,
-        "author": "Fluss"
+        "end": 106,
+        "author": "Fluss."
       }
     ]
   },
@@ -1753,10 +1781,12 @@
     "lemma": "Tedertis",
     "previous": "Tedanius",
     "next": "Tedetius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 106,
-        "author": "MacDonald"
+        "end": 106,
+        "author": "G. Macdonald."
       }
     ]
   },
@@ -1764,10 +1794,12 @@
     "lemma": "Tedetius",
     "previous": "Tedertis",
     "next": "Tediaston",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 106,
-        "author": "Münzer"
+        "end": 106,
+        "author": "Münzer."
       }
     ]
   },
@@ -1775,10 +1807,12 @@
     "lemma": "Tediaston",
     "previous": "Tedetius",
     "next": "Tedion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 106,
-        "author": "Fluss"
+        "end": 106,
+        "author": "Fluss."
       }
     ]
   },
@@ -1786,10 +1820,12 @@
     "lemma": "Tedion",
     "previous": "Tediaston",
     "next": "Tedius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 106,
-        "author": "Grohmann"
+        "end": 106,
+        "author": "Grohmann."
       }
     ]
   },
@@ -1810,10 +1846,13 @@
     "lemma": "Tedius Afer",
     "previous": "Tedius",
     "next": "Tegaza",
+    "sort_key": "Tediusafer",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 106,
-        "author": "Fluss"
+        "end": 107,
+        "author": "Fluss."
       }
     ]
   },
@@ -1857,11 +1896,13 @@
     "lemma": "Tegea 2",
     "previous": "Tegea 1",
     "next": "Tegea 3",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in d. röm. Provinz Africa",
     "chapters": [
       {
         "start": 118,
-        "author": "Treidler"
+        "end": 118,
+        "author": "Treidler."
       }
     ]
   },
@@ -1869,11 +1910,13 @@
     "lemma": "Tegea 3",
     "previous": "Tegea 2",
     "next": "Tegeaeus",
+    "proof_read": 0,
     "short_description": "Stadt auf Kreta",
     "chapters": [
       {
         "start": 118,
-        "author": "Fiehn"
+        "end": 118,
+        "author": "Fiehn."
       }
     ]
   },
@@ -1881,10 +1924,12 @@
     "lemma": "Tegeaeus",
     "previous": "Tegea 3",
     "next": "Tegeates",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 118,
-        "author": "Kruse"
+        "end": 118,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -1892,11 +1937,13 @@
     "lemma": "Tegeates",
     "previous": "Tegeaeus",
     "next": "Tegessos",
+    "proof_read": 0,
     "short_description": "Sohn d. Lykaon, Gründer v. Tegea Nr. 1",
     "chapters": [
       {
         "start": 118,
-        "author": "Türk"
+        "end": 118,
+        "author": "Türk."
       }
     ]
   },
@@ -1904,10 +1951,12 @@
     "lemma": "Tegessos",
     "previous": "Tegeates",
     "next": "Tegestra",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 118,
-        "author": "Oberhummer"
+        "end": 118,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -1928,10 +1977,12 @@
     "lemma": "Teghag",
     "previous": "Tegestra",
     "next": "Tegianum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 119,
-        "author": "Enßlin"
+        "end": 119,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -1939,11 +1990,13 @@
     "lemma": "Tegianum",
     "previous": "Teghag",
     "next": "Tegillum",
+    "proof_read": 0,
     "short_description": "Hauptort d. Hochtales d. Tanager in W-Lucanien",
     "chapters": [
       {
         "start": 119,
-        "author": "Philipp"
+        "end": 119,
+        "author": "Philipp."
       }
     ]
   },
@@ -1951,11 +2004,13 @@
     "lemma": "Tegillum",
     "previous": "Tegianum",
     "next": "Teglanum",
+    "proof_read": 0,
     "short_description": "Decke",
     "chapters": [
       {
         "start": 119,
-        "author": "Schuppe"
+        "end": 119,
+        "author": "Schuppe."
       }
     ]
   },
@@ -1963,10 +2018,12 @@
     "lemma": "Teglanum",
     "previous": "Tegillum",
     "next": "Teglarios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 119,
-        "author": "Philipp"
+        "end": 119,
+        "author": "Philipp."
       }
     ]
   },
@@ -1974,10 +2031,12 @@
     "lemma": "Teglarios",
     "previous": "Teglanum",
     "next": "Teglicio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 120,
-        "author": "Enßlin"
+        "end": 120,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -1985,10 +2044,12 @@
     "lemma": "Teglicio",
     "previous": "Teglarios",
     "next": "Tegna",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 120,
-        "author": "Fluss"
+        "end": 120,
+        "author": "Fluss."
       }
     ]
   },
@@ -1996,10 +2057,12 @@
     "lemma": "Tegna",
     "previous": "Teglicio",
     "next": "Tegolata",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 120,
-        "author": "Besnier"
+        "end": 120,
+        "author": "M. Besnier."
       }
     ]
   },
@@ -2020,10 +2083,12 @@
     "lemma": "Tegra",
     "previous": "Tegolata",
     "next": "Tegula 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 120,
-        "author": "Fluss"
+        "end": 120,
+        "author": "Fluss."
       }
     ]
   },
@@ -2031,11 +2096,13 @@
     "lemma": "Tegula 1",
     "previous": "Tegra",
     "next": "Tegula 2",
+    "proof_read": 0,
     "short_description": "Aus Ton gebrannte Dachplatte",
     "chapters": [
       {
         "start": 120,
-        "author": "Ebert"
+        "end": 123,
+        "author": "Friedr. Ebert."
       }
     ]
   },
@@ -2043,11 +2110,13 @@
     "lemma": "Tegula 2",
     "previous": "Tegula 1",
     "next": "Tegulata",
+    "proof_read": 0,
     "short_description": "Stadt im S Sardiniens",
     "chapters": [
       {
         "start": 123,
-        "author": "Philipp"
+        "end": 123,
+        "author": "Philipp."
       }
     ]
   },
@@ -2055,11 +2124,13 @@
     "lemma": "Tegulata",
     "previous": "Tegula 2",
     "next": "Tegulicia",
+    "proof_read": 0,
     "short_description": "Ort an d. Küstenstraße Luna - Genua, heute Sestri Levante",
     "chapters": [
       {
         "start": 123,
-        "author": "Philipp"
+        "end": 123,
+        "author": "Philipp."
       }
     ]
   },
@@ -2080,11 +2151,13 @@
     "lemma": "Tegyra",
     "previous": "Tegulicia",
     "next": "Tegyraios",
+    "proof_read": 0,
     "short_description": "Stadt in Boiotien",
     "chapters": [
       {
         "start": 124,
-        "author": "Fiehn"
+        "end": 124,
+        "author": "Fiehn."
       }
     ]
   },
@@ -2092,11 +2165,13 @@
     "lemma": "Tegyraios",
     "previous": "Tegyra",
     "next": "Tegyrios",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Apollon",
     "chapters": [
       {
         "start": 124,
-        "author": "Kruse"
+        "end": 124,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -2104,11 +2179,13 @@
     "lemma": "Tegyrios",
     "previous": "Tegyraios",
     "next": "Tehgan",
+    "proof_read": 0,
     "short_description": "Thrakerkönig",
     "chapters": [
       {
         "start": 124,
-        "author": "Scherling"
+        "end": 124,
+        "author": "Scherling."
       }
     ]
   },
@@ -2116,10 +2193,12 @@
     "lemma": "Tehgan",
     "previous": "Tegyrios",
     "next": "Teia 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 124,
-        "author": "Enßlin"
+        "end": 125,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2127,11 +2206,13 @@
     "lemma": "Teia 1",
     "previous": "Tehgan",
     "next": "Teia 2",
+    "proof_read": 0,
     "short_description": "Comes z.Zt. d. Regierung d. Ostgotenkönigs Theoderich in Italien",
     "chapters": [
       {
         "start": 125,
-        "author": "Nagl"
+        "end": 125,
+        "author": "Nagl."
       }
     ]
   },
@@ -2152,23 +2233,27 @@
     "lemma": "Teia 3",
     "previous": "Teia 2",
     "next": "Teichion",
+    "proof_read": 0,
     "short_description": "Rufina, Virgo Vestalis",
     "chapters": [
       {
         "start": 125,
-        "author": "Groag"
+        "end": 125,
+        "author": "Groag."
       }
     ]
   },
   {
     "lemma": "Teichion",
     "previous": "Teia 3",
-    "next": "Teichious",
+    "next": "Τειχιοῦς",
+    "proof_read": 0,
     "short_description": "Ortschaft in Aitolien",
     "chapters": [
       {
         "start": 125,
-        "author": "Fiehn"
+        "end": 125,
+        "author": "Fiehn."
       }
     ]
   },
@@ -2186,13 +2271,15 @@
   },
   {
     "lemma": "Teichiussa",
-    "previous": "Teichious",
+    "previous": "Τειχιοῦς",
     "next": "Teichophylax",
+    "proof_read": 0,
     "short_description": "Ort im Gebiet v. Milet",
     "chapters": [
       {
         "start": 126,
-        "author": "Ruge"
+        "end": 126,
+        "author": "Ruge."
       }
     ]
   },
@@ -2200,10 +2287,12 @@
     "lemma": "Teichophylax",
     "previous": "Teichiussa",
     "next": "Teichos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 126,
-        "author": "Kolf"
+        "end": 126,
+        "author": "Kolf."
       }
     ]
   },
@@ -2211,11 +2300,13 @@
     "lemma": "Teichos",
     "previous": "Teichophylax",
     "next": "Teidius",
+    "proof_read": 0,
     "short_description": "Kastell im Gebiet v. Dyme",
     "chapters": [
       {
         "start": 126,
-        "author": "Meyer, Ernst"
+        "end": 127,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2223,11 +2314,13 @@
     "lemma": "Teidius",
     "previous": "Teichos",
     "next": "Teidius 1",
+    "proof_read": 0,
     "short_description": "römischer Gentliname",
     "chapters": [
       {
         "start": 127,
-        "author": "Münzer"
+        "end": 127,
+        "author": "Münzer."
       }
     ]
   },
@@ -2235,11 +2328,13 @@
     "lemma": "Teidius 1",
     "previous": "Teidius",
     "next": "Teidius 2",
+    "proof_read": 0,
     "short_description": "P. f., P. In einem samothrakischen Mystenverzeichnis",
     "chapters": [
       {
         "start": 127,
-        "author": "Münzer"
+        "end": 127,
+        "author": "Münzer."
       }
     ]
   },
@@ -2247,11 +2342,13 @@
     "lemma": "Teidius 2",
     "previous": "Teidius 1",
     "next": "Teidius 3",
+    "proof_read": 0,
     "short_description": "Sex., Senator 52 v. Chr.",
     "chapters": [
       {
         "start": 127,
-        "author": "Münzer"
+        "end": 127,
+        "author": "Münzer."
       }
     ]
   },
@@ -2259,11 +2356,13 @@
     "lemma": "Teidius 3",
     "previous": "Teidius 2",
     "next": "Teiedius",
+    "proof_read": 0,
     "short_description": "Valerius Catullus, Sex. cos. 31 n. Chr.",
     "chapters": [
       {
         "start": 127,
-        "author": "Groag"
+        "end": 128,
+        "author": "Groag."
       }
     ]
   },
@@ -2271,11 +2370,13 @@
     "lemma": "Teiedius",
     "previous": "Teidius 3",
     "next": "Teimaios",
+    "proof_read": 0,
     "short_description": "M. f., M.",
     "chapters": [
       {
         "start": 128,
-        "author": "Münzer"
+        "end": 128,
+        "author": "Münzer."
       }
     ]
   },
@@ -2296,10 +2397,12 @@
     "lemma": "Teimiusa",
     "previous": "Teimaios",
     "next": "Teimokrates",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 128,
-        "author": "Ruge"
+        "end": 128,
+        "author": "Ruge."
       }
     ]
   },
@@ -2307,10 +2410,12 @@
     "lemma": "Teimokrates",
     "previous": "Teimiusa",
     "next": "Teiranes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 128,
-        "author": "Oldfather"
+        "end": 128,
+        "author": "Oldfather."
       }
     ]
   },
@@ -2318,11 +2423,13 @@
     "lemma": "Teiranes",
     "previous": "Teimokrates",
     "next": "Teiresias",
+    "proof_read": 0,
     "short_description": "König d. Bosporan. Reiches 275/6-278/9 n. Chr.",
     "chapters": [
       {
         "start": 128,
-        "author": "Schwahn"
+        "end": 129,
+        "author": "Schwahn."
       }
     ]
   },
