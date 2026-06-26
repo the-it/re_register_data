@@ -234,7 +234,6 @@
   {
     "lemma": "Tauroentum",
     "previous": "Taurocholia",
-    "next": "Tauroi, Tauroskythai 1",
     "redirect": "Tauriana",
     "proof_read": 3,
     "chapters": [
@@ -245,25 +244,13 @@
     ]
   },
   {
-    "lemma": "Tauroi 1",
+    "lemma": "Tauroi, Tauroskythai 1",
     "previous": "Tauroentum",
-    "next": "Tauroi 2",
     "short_description": "O. Tauroskythai, älteste Bewohner d. Chersonesos Taurica",
     "chapters": [
       {
         "start": 22,
         "author": "Herrmann"
-      }
-    ]
-  },
-  {
-    "lemma": "Tauroi 2",
-    "previous": "Tauroi 1",
-    "short_description": "Bergkette auf d. W-Seite d. Roten Meeres",
-    "chapters": [
-      {
-        "start": 24,
-        "author": "Treidler"
       }
     ]
   },
@@ -1684,6 +1671,14 @@
         "start": 103,
         "end": 103,
         "author": "Fiehn."
+      }
+    ]
+  },
+  {
+    "lemma": "Technitai",
+        "chapters": [
+      {
+        "start": 103
       }
     ]
   },
@@ -4897,9 +4892,21 @@
       }
     ]
   },
+    {
+    "lemma": "Telesinos 4",
+    "proof_read": 2,
+    "short_description": "Person in einem Brief d. Papstes Gelasius 494 n. Chr.",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 386,
+        "end": 386,
+        "author": "W. Enßlin."
+      }
+    ]
+  },
   {
     "lemma": "Telesinos 5",
-    "previous": "Telesinos 3",
     "next": "Telesinos 6",
     "redirect": "Luccius 2a",
     "proof_read": 2,
@@ -4913,7 +4920,6 @@
   {
     "lemma": "Telesinos 6",
     "previous": "Telesinos 5",
-    "next": "Telesinus 4",
     "redirect": "Pontius 21",
     "proof_read": 2,
     "chapters": [
@@ -4924,23 +4930,7 @@
     ]
   },
   {
-    "lemma": "Telesinus 4",
-    "previous": "Telesinos 6",
-    "next": "Telesippos 1",
-    "proof_read": 2,
-    "short_description": "Person in einem Brief d. Papstes Gelasius 494 n. Chr.",
-    "no_creative_height": true,
-    "chapters": [
-      {
-        "start": 386,
-        "end": 386,
-        "author": "W. Enßlin."
-      }
-    ]
-  },
-  {
     "lemma": "Telesippos 1",
-    "previous": "Telesinus 4",
     "next": "Telesippos 2",
     "proof_read": 2,
     "short_description": "Bruder d. Redners Isokrates",
@@ -5513,8 +5503,18 @@
     ]
   },
   {
+    "lemma": "Tellonum",
+    "redirect": "Telonnum 1",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 406,
+        "end": 406
+      }
+    ]
+  },
+  {
     "lemma": "Tellis 1",
-    "previous": "Telliadai",
     "next": "Tellis 2",
     "proof_read": 0,
     "short_description": "Mit Kleoboia im Kahn d. Charon, Werk d. Künstlers Polygnot",
@@ -5541,21 +5541,7 @@
     ]
   },
   {
-    "lemma": "Tellonum",
-    "previous": "Tellis 2",
-    "next": "Tellos",
-    "redirect": "Telonnum 1",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 406,
-        "end": 406
-      }
-    ]
-  },
-  {
     "lemma": "Tellos",
-    "previous": "Tellonum",
     "next": "Tellurus",
     "proof_read": 2,
     "short_description": "Athener, angeblich von Solon als glücklichster Mensch gepriesen",
@@ -5829,6 +5815,20 @@
     ]
   },
   {
+    "lemma": "Telo Martius",
+    "previous": "Telo",
+    "next": "Telobis",
+    "sort_key": "Telomartius",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 417,
+        "end": 417,
+        "author": "M. Besnier."
+      }
+    ]
+  },
+  {
     "lemma": "Telobis",
     "previous": "Telo Martius",
     "next": "Telokles",
@@ -5851,20 +5851,6 @@
         "start": 417,
         "end": 417,
         "author": "Kirchner."
-      }
-    ]
-  },
-  {
-    "lemma": "Telo Martius",
-    "previous": "Telo",
-    "next": "Telobis",
-    "sort_key": "Telomartius",
-    "proof_read": 0,
-    "chapters": [
-      {
-        "start": 417,
-        "end": 417,
-        "author": "M. Besnier."
       }
     ]
   },
@@ -6022,20 +6008,7 @@
     ]
   },
   {
-    "lemma": "Telouch",
-    "previous": "Telos",
-    "next": "Telphosios",
-    "short_description": "s. Doliche",
-    "chapters": [
-      {
-        "start": 431,
-        "author": "Honigmann"
-      }
-    ]
-  },
-  {
     "lemma": "Telphosios",
-    "previous": "Telouch",
     "next": "Telphusa",
     "redirect": "Telphusios",
     "proof_read": 2,
@@ -6069,6 +6042,16 @@
         "start": 431,
         "end": 431,
         "author": "gr. Kruse."
+      }
+    ]
+  },
+  {
+    "lemma": "Τελούχ",
+    "short_description": "s. Doliche",
+    "chapters": [
+      {
+        "start": 431,
+        "author": "Honigmann"
       }
     ]
   },
