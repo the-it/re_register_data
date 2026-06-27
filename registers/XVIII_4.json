@@ -1079,6 +1079,7 @@
   {
     "lemma": "Parioi",
     "previous": "Par impar",
+    "next": "Parion",
     "sort_key": "Parioi",
     "proof_read": 2,
     "short_description": "Xandioi, ein Daerstamm",
@@ -1092,7 +1093,8 @@
   },
   {
     "lemma": "Parion",
-        "chapters": [
+    "previous": "Parioi",
+    "chapters": [
       {
         "start": 1484
       }
@@ -5570,6 +5572,9 @@
     "next": "Patricius 3",
     "proof_read": 0,
     "short_description": "Der Apostel Irlands",
+    "wp_link": "w:de:Patrick von Irland",
+    "ws_link": "s:en:Author:Patrick",
+    "wd_link": "d:Q165479",
     "chapters": [
       {
         "start": 2233,
@@ -5656,6 +5661,8 @@
     "sort_key": "Patriciusvicus",
     "proof_read": 0,
     "short_description": "Vornehme Straße in Rom zw. mons Cispius u. Viminalis",
+    "wp_link": "w:en:Vicus Patricius",
+    "wd_link": "d:Q4011320",
     "chapters": [
       {
         "start": 2242,

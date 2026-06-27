@@ -1164,11 +1164,14 @@
     "lemma": "Ταξίαρχος",
     "previous": "Ταξιάνα",
     "next": "Taxila",
+    "sort_key": "Taxiarchos",
+    "proof_read": 0,
     "short_description": "Führer einer taxis",
     "chapters": [
       {
         "start": 75,
-        "author": "Lammert, Friedrich"
+        "end": 75,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -1225,11 +1228,14 @@
     "lemma": "Τάξις",
     "previous": "Taximagulus",
     "next": "Ταξός",
+    "sort_key": "Taxis",
+    "proof_read": 0,
     "short_description": "Milit. t.t.",
     "chapters": [
       {
         "start": 85,
-        "author": "Lammert, Friedrich"
+        "end": 87,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -1237,10 +1243,13 @@
     "lemma": "Ταξός",
     "previous": "Τάξις",
     "next": "Taxtanulates",
+    "sort_key": "Taxos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 87,
-        "author": "Herrmann"
+        "end": 87,
+        "author": "Herrmann."
       }
     ]
   },
@@ -1676,7 +1685,9 @@
   },
   {
     "lemma": "Technitai",
-        "chapters": [
+    "previous": "Techedia",
+    "next": "Technon",
+    "chapters": [
       {
         "start": 103
       }
@@ -1756,11 +1767,13 @@
     "lemma": "tecvm",
     "previous": "Tecum",
     "next": "Tedanius",
+    "proof_read": 0,
     "short_description": "Etr. Wort, wohl Göttername",
     "chapters": [
       {
         "start": 105,
-        "author": "Fiesel"
+        "end": 105,
+        "author": "Fiesel."
       }
     ]
   },
@@ -4892,8 +4905,10 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Telesinos 4",
+    "previous": "Telesinos 3",
+    "next": "Telesinos 5",
     "proof_read": 2,
     "short_description": "Person in einem Brief d. Papstes Gelasius 494 n. Chr.",
     "no_creative_height": true,
@@ -4907,6 +4922,7 @@
   },
   {
     "lemma": "Telesinos 5",
+    "previous": "Telesinos 4",
     "next": "Telesinos 6",
     "redirect": "Luccius 2a",
     "proof_read": 2,
@@ -4920,6 +4936,7 @@
   {
     "lemma": "Telesinos 6",
     "previous": "Telesinos 5",
+    "next": "Telesippos 1",
     "redirect": "Pontius 21",
     "proof_read": 2,
     "chapters": [
@@ -4931,6 +4948,7 @@
   },
   {
     "lemma": "Telesippos 1",
+    "previous": "Telesinos 6",
     "next": "Telesippos 2",
     "proof_read": 2,
     "short_description": "Bruder d. Redners Isokrates",
@@ -5504,6 +5522,8 @@
   },
   {
     "lemma": "Tellonum",
+    "previous": "Telliadai",
+    "next": "Tellis 1",
     "redirect": "Telonnum 1",
     "proof_read": 2,
     "chapters": [
@@ -5515,6 +5535,7 @@
   },
   {
     "lemma": "Tellis 1",
+    "previous": "Tellonum",
     "next": "Tellis 2",
     "proof_read": 0,
     "short_description": "Mit Kleoboia im Kahn d. Charon, Werk d. Künstlers Polygnot",
@@ -5542,6 +5563,7 @@
   },
   {
     "lemma": "Tellos",
+    "previous": "Tellis 2",
     "next": "Tellurus",
     "proof_read": 2,
     "short_description": "Athener, angeblich von Solon als glücklichster Mensch gepriesen",
@@ -5793,11 +5815,13 @@
     "lemma": "telmun",
     "previous": "Telmissos 2",
     "next": "Telo",
+    "proof_read": 0,
     "short_description": "Etr. Name d. Telamon",
     "chapters": [
       {
         "start": 416,
-        "author": "Fiesel"
+        "end": 417,
+        "author": "Fiesel."
       }
     ]
   },
@@ -6009,6 +6033,7 @@
   },
   {
     "lemma": "Telphosios",
+    "previous": "Telos",
     "next": "Telphusa",
     "redirect": "Telphusios",
     "proof_read": 2,
@@ -6047,11 +6072,16 @@
   },
   {
     "lemma": "Τελούχ",
+    "previous": "Telphusios",
+    "next": "Telum",
+    "sort_key": "Telouch",
+    "proof_read": 0,
     "short_description": "s. Doliche",
     "chapters": [
       {
         "start": 431,
-        "author": "Honigmann"
+        "end": 431,
+        "author": "Honigmann."
       }
     ]
   },
@@ -6690,11 +6720,13 @@
     "lemma": "Templum",
     "previous": "Tempestates",
     "next": "Templum Veneris",
+    "proof_read": 0,
     "short_description": "t.t. d. Auguralwesens",
     "chapters": [
       {
         "start": 480,
-        "author": "Weinstock"
+        "end": 485,
+        "author": "Weinstock."
       }
     ]
   },
@@ -6702,10 +6734,13 @@
     "lemma": "Templum Veneris",
     "previous": "Templum",
     "next": "Tempsa",
+    "sort_key": "Templumveneris",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 485,
-        "author": "Treidler"
+        "end": 485,
+        "author": "Treidler."
       }
     ]
   },
@@ -6741,11 +6776,14 @@
     "lemma": "Tempus utile",
     "previous": "Tempsis",
     "next": "Tempyra",
+    "sort_key": "Tempusutile",
+    "proof_read": 0,
     "short_description": "Frist im röm. Recht",
     "chapters": [
       {
         "start": 485,
-        "author": "Kübler, B[ernhard]"
+        "end": 489,
+        "author": "Kübler."
       }
     ]
   },
@@ -6753,11 +6791,13 @@
     "lemma": "Tempyra",
     "previous": "Tempus utile",
     "next": "Temrogeios",
+    "proof_read": 0,
     "short_description": "Kleine Stadt in S-Thrakien",
     "chapters": [
       {
         "start": 489,
-        "author": "Oberhummer"
+        "end": 489,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -6765,11 +6805,13 @@
     "lemma": "Temrogeios",
     "previous": "Tempyra",
     "next": "Temusio",
+    "proof_read": 0,
     "short_description": "Göttername auf einer phrygisch-gr. Grabinschr.",
     "chapters": [
       {
         "start": 489,
-        "author": "Oppermann"
+        "end": 489,
+        "author": "Oppermann."
       }
     ]
   },
@@ -6777,10 +6819,12 @@
     "lemma": "Temusio",
     "previous": "Temrogeios",
     "next": "Tenacra",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 490,
-        "author": "Heichelheim"
+        "end": 490,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -6908,34 +6952,41 @@
   {
     "lemma": "Teneates",
     "previous": "Tenea",
-    "next": "Tenebrion akron",
+    "next": "Τενέβριον ἄκρον",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 493,
-        "author": "Kruse"
+        "end": 493,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
-    "lemma": "Tenebrion akron",
+    "lemma": "Τενέβριον ἄκρον",
     "previous": "Teneates",
     "next": "Tenedone",
+    "sort_key": "Tenebrionakron",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 493,
-        "author": "Schulten"
+        "end": 493,
+        "author": "Schulten."
       }
     ]
   },
   {
     "lemma": "Tenedone",
-    "previous": "Tenebrion akron",
+    "previous": "Τενέβριον ἄκρον",
     "next": "Tenedos 1",
+    "proof_read": 0,
     "short_description": "Ort in Vindelicien",
     "chapters": [
       {
         "start": 493,
-        "author": "Fluss"
+        "end": 494,
+        "author": "Fluss."
       }
     ]
   },
@@ -6943,56 +6994,68 @@
     "lemma": "Tenedos 1",
     "previous": "Tenedone",
     "next": "Tenedos 2",
+    "proof_read": 0,
     "short_description": "Insel mit gleichnamiger Stadt an d. Küste v. Troas",
     "chapters": [
       {
         "start": 494,
-        "author": "Fiehn"
+        "end": 498,
+        "author": "Fiehn."
       }
     ]
   },
   {
     "lemma": "Tenedos 2",
     "previous": "Tenedos 1",
-    "next": "Teneiai pegai",
+    "next": "Τενεῖαι πηγαί",
+    "proof_read": 0,
     "short_description": "Befestigter Küstenort Pamphyliens",
     "chapters": [
       {
         "start": 498,
-        "author": "Ruge"
+        "end": 499,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Teneiai pegai",
+    "lemma": "Τενεῖαι πηγαί",
     "previous": "Tenedos 2",
-    "next": "Teneion polis Achaias",
+    "next": "Τήνειον",
+    "sort_key": "Teneiaipegai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 499,
-        "author": "Meyer, Ernst"
+        "end": 499,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
-    "lemma": "Teneion polis Achaias",
-    "previous": "Teneiai pegai",
+    "lemma": "Τήνειον",
+    "previous": "Τενεῖαι πηγαί",
     "next": "Tenerikon",
+    "sort_key": "Teneionpolis achaias",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 499,
-        "author": "Meyer, Ernst"
+        "end": 499,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Tenerikon",
-    "previous": "Teneion polis Achaias",
+    "previous": "Τήνειον",
     "next": "Teneros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 499,
-        "author": "Fiehn"
+        "end": 499,
+        "author": "Fiehn."
       }
     ]
   },
@@ -7000,11 +7063,13 @@
     "lemma": "Teneros",
     "previous": "Tenerikon",
     "next": "Tenes",
+    "proof_read": 0,
     "short_description": "Sohn d. Apollon u. d. Okeanide Melia",
     "chapters": [
       {
         "start": 499,
-        "author": "Lesky"
+        "end": 500,
+        "author": "Lesky."
       }
     ]
   },
@@ -7024,35 +7089,42 @@
   {
     "lemma": "Tenesos",
     "previous": "Tenes",
-    "next": "Tenessis",
+    "next": "Τηνεσσίς",
+    "proof_read": 0,
     "short_description": "Ort in nordöstl. Nildelta, byzantin.-arab. Zt.",
     "chapters": [
       {
         "start": 500,
-        "author": "Kees"
+        "end": 500,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Tenessis",
+    "lemma": "Τηνεσσίς",
     "previous": "Tenesos",
     "next": "Tenia",
+    "sort_key": "Tenessis",
+    "proof_read": 0,
     "short_description": "Landschaft d. oberen Nilgebietes",
     "chapters": [
       {
         "start": 500,
-        "author": "Treidler"
+        "end": 501,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Tenia",
-    "previous": "Tenessis",
+    "previous": "Τηνεσσίς",
     "next": "Teniaueh(ae?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 501,
-        "author": "Ruge"
+        "end": 501,
+        "author": "Ruge."
       }
     ]
   },
@@ -7073,11 +7145,13 @@
     "lemma": "Tenis",
     "previous": "Teniaueh(ae?)",
     "next": "Tenis 1",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
         "start": 501,
-        "author": "Kees"
+        "end": 501,
+        "author": "Kees."
       }
     ]
   },
@@ -7085,68 +7159,82 @@
     "lemma": "Tenis 1",
     "previous": "Tenis",
     "next": "Tenis 2",
+    "proof_read": 0,
     "short_description": "Ort auf d. O-Ufer d. Nils, heute Tehne",
     "chapters": [
       {
         "start": 501,
-        "author": "Kees"
+        "end": 501,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Tenis 2",
     "previous": "Tenis 1",
-    "next": "Tenissa",
+    "next": "Τένισσα",
+    "proof_read": 0,
     "short_description": "Ort auf d. W-Ufer d. Nils",
     "chapters": [
       {
         "start": 501,
-        "author": "Kees"
+        "end": 502,
+        "author": "Kees."
       }
     ]
   },
   {
-    "lemma": "Tenissa",
+    "lemma": "Τένισσα",
     "previous": "Tenis 2",
     "next": "Tenitae",
+    "sort_key": "Tenissa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 502,
-        "author": "Treidler"
+        "end": 502,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Tenitae",
-    "previous": "Tenissa",
-    "next": "Tennagora",
+    "previous": "Τένισσα",
+    "next": "Τενναγόρα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 502,
-        "author": "Marbach"
+        "end": 502,
+        "author": "Marbach."
       }
     ]
   },
   {
-    "lemma": "Tennagora",
+    "lemma": "Τενναγόρα",
     "previous": "Tenitae",
     "next": "Tennes 1",
+    "sort_key": "Tennagora",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 502,
-        "author": "Herrmann"
+        "end": 502,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Tennes 1",
-    "previous": "Tennagora",
+    "previous": "Τενναγόρα",
     "next": "Tennes 2",
+    "proof_read": 0,
     "short_description": "Gottheit auf Tenedos, Bsp. für divinisierte Sterbliche",
     "chapters": [
       {
         "start": 502,
-        "author": "Lesky"
+        "end": 506,
+        "author": "Lesky."
       }
     ]
   },
@@ -7154,11 +7242,13 @@
     "lemma": "Tennes 2",
     "previous": "Tennes 1",
     "next": "Tenos 1",
+    "proof_read": 0,
     "short_description": "Fürst d. phoinik. Stadt Sidon",
     "chapters": [
       {
         "start": 507,
-        "author": "Berve"
+        "end": 507,
+        "author": "Berve."
       }
     ]
   },
@@ -7166,11 +7256,18 @@
     "lemma": "Tenos 1",
     "previous": "Tennes 2",
     "next": "Tenos 2",
+    "proof_read": 0,
     "short_description": "Kykladische Insel",
     "chapters": [
       {
         "start": 507,
-        "author": "Fiehn"
+        "end": 532,
+        "author": "Fiehn."
+      },
+      {
+        "start": 532,
+        "end": 532,
+        "author": "K. Regling."
       }
     ]
   },
@@ -7178,11 +7275,13 @@
     "lemma": "Tenos 2",
     "previous": "Tenos 1",
     "next": "Tenos 3",
+    "proof_read": 0,
     "short_description": "Stadt in Thessalien",
     "chapters": [
       {
         "start": 532,
-        "author": "Stählin"
+        "end": 533,
+        "author": "Stählin."
       }
     ]
   },
@@ -7190,11 +7289,13 @@
     "lemma": "Tenos 3",
     "previous": "Tenos 2",
     "next": "Tensa, Thensa",
+    "proof_read": 0,
     "short_description": "Stadt in Lakonien",
     "chapters": [
       {
         "start": 533,
-        "author": "Bölte"
+        "end": 533,
+        "author": "Bölte."
       }
     ]
   },
@@ -7202,11 +7303,14 @@
     "lemma": "Tensa, Thensa",
     "previous": "Tenos 3",
     "next": "Ten-Sapur",
+    "sort_key": "Tensa,thensa",
+    "proof_read": 0,
     "short_description": "Prunkwagen zu sakralen Zwecken",
     "chapters": [
       {
         "start": 533,
-        "author": "Koch, Carl"
+        "end": 536,
+        "author": "C. Koch."
       }
     ]
   },
@@ -7214,10 +7318,12 @@
     "lemma": "Ten-Sapur",
     "previous": "Tensa, Thensa",
     "next": "Tentheus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 536,
-        "author": "Enßlin"
+        "end": 536,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7238,11 +7344,13 @@
     "lemma": "Tenthredon",
     "previous": "Tentheus",
     "next": "Tentorium",
+    "proof_read": 0,
     "short_description": "Vater d. Magnetenführers Prothoos",
     "chapters": [
       {
         "start": 536,
-        "author": "Göber"
+        "end": 536,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -7263,11 +7371,13 @@
     "lemma": "Tentyra",
     "previous": "Tentorium",
     "next": "Tenupsis",
+    "proof_read": 0,
     "short_description": "Ort auf d. W-Ufer d. Nils in Oberägypten",
     "chapters": [
       {
         "start": 536,
-        "author": "Kees"
+        "end": 539,
+        "author": "Kees."
       }
     ]
   },
@@ -7275,11 +7385,13 @@
     "lemma": "Tenupsis",
     "previous": "Tentyra",
     "next": "Tenurcium",
+    "proof_read": 0,
     "short_description": "Stadt d. aithiop. Nubier",
     "chapters": [
       {
         "start": 539,
-        "author": "Treidler"
+        "end": 539,
+        "author": "Treidler."
       }
     ]
   },
@@ -7326,17 +7438,19 @@
     "lemma": "Tephras",
     "previous": "Τεφώ",
     "next": "Tephredo",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 570,
-        "author": "Türk"
+        "end": 571,
+        "author": "Türk."
       }
     ]
   },
   {
     "lemma": "Tephredo",
     "previous": "Tephras",
-    "next": "Tephrike, Tibrike, Tebrike",
+    "next": "Τεφρική",
     "redirect": "Pemphredo",
     "proof_read": 2,
     "chapters": [
@@ -7347,32 +7461,37 @@
     ]
   },
   {
-    "lemma": "Tephrike, Tibrike, Tebrike",
+    "lemma": "Τεφρική",
     "previous": "Tephredo",
     "next": "Tepidarium",
+    "sort_key": "Tephrike,tibrike, tebrike",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 571,
-        "author": "Weissbach"
+        "end": 571,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Tepidarium",
-    "previous": "Tephrike, Tibrike, Tebrike",
+    "previous": "Τεφρική",
     "next": "Teppich",
+    "proof_read": 0,
     "short_description": "Durchgangsraum im röm. Bad",
     "chapters": [
       {
         "start": 571,
-        "author": "Hug"
+        "end": 574,
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Teppich",
     "previous": "Tepidarium",
-    "next": "Teraios",
+    "next": "Τήραιος",
     "redirect": "Tapes",
     "proof_read": 2,
     "chapters": [
@@ -7383,43 +7502,51 @@
     ]
   },
   {
-    "lemma": "Teraios",
+    "lemma": "Τήραιος",
     "previous": "Teppich",
-    "next": "Terakatriai",
+    "next": "Τερακατρίαι",
+    "sort_key": "Teraios",
+    "proof_read": 0,
     "short_description": "Person, vgl. Tiraios",
     "chapters": [
       {
         "start": 574,
-        "author": "Weissbach"
+        "end": 574,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Terakatriai",
-    "previous": "Teraios",
+    "lemma": "Τερακατρίαι",
+    "previous": "Τήραιος",
     "next": "Terambos",
+    "sort_key": "Terakatriai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 574,
-        "author": "Franke"
+        "end": 574,
+        "author": "Franke."
       }
     ]
   },
   {
     "lemma": "Terambos",
-    "previous": "Terakatriai",
+    "previous": "Τερακατρίαι",
     "next": "Teramne",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 574,
-        "author": "Türk"
+        "end": 574,
+        "author": "Türk."
       }
     ]
   },
   {
     "lemma": "Teramne",
     "previous": "Terambos",
-    "next": "Terapse",
+    "next": "Τεράψη",
     "redirect": "Interamnia",
     "proof_read": 2,
     "chapters": [
@@ -7430,19 +7557,22 @@
     ]
   },
   {
-    "lemma": "Terapse",
+    "lemma": "Τεράψη",
     "previous": "Teramne",
     "next": "Teras",
+    "sort_key": "Terapse",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 575,
-        "author": "Treidler"
+        "end": 575,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Teras",
-    "previous": "Terapse",
+    "previous": "Τεράψη",
     "next": "Terasia",
     "redirect": "Μαντική",
     "proof_read": 2,
@@ -7470,11 +7600,14 @@
     "lemma": "terasias, teriasals",
     "previous": "Terasia",
     "next": "Terastios",
+    "sort_key": "terasias,teriasals",
+    "proof_read": 0,
     "short_description": "Etruskisierter Name des Teiresias",
     "chapters": [
       {
         "start": 575,
-        "author": "Fiesel"
+        "end": 575,
+        "author": "Fiesel."
       }
     ]
   },
@@ -7482,11 +7615,13 @@
     "lemma": "Terastios",
     "previous": "terasias, teriasals",
     "next": "Terbetia",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Zeus",
     "chapters": [
       {
         "start": 575,
-        "author": "Kruse"
+        "end": 576,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -7494,10 +7629,12 @@
     "lemma": "Terbetia",
     "previous": "Terastios",
     "next": "Terbintheus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 576,
-        "author": "Ziegler"
+        "end": 576,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7505,11 +7642,13 @@
     "lemma": "Terbintheus",
     "previous": "Terbetia",
     "next": "Terbulia",
+    "proof_read": 0,
     "short_description": "Epilklesis d. Apollon",
     "chapters": [
       {
         "start": 576,
-        "author": "Kruse"
+        "end": 576,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -7557,7 +7696,7 @@
   {
     "lemma": "Terdetes",
     "previous": "Terdec",
-    "next": "Terdnia",
+    "next": "Τερδνία",
     "proof_read": 2,
     "short_description": "hatte beim Lazenkönig Gubazes ein angesehenes Amt",
     "no_creative_height": true,
@@ -7570,30 +7709,36 @@
     ]
   },
   {
-    "lemma": "Terdnia",
+    "lemma": "Τερδνία",
     "previous": "Terdetes",
-    "next": "Terebia",
+    "next": "Τερεβία",
+    "sort_key": "Terdnia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 576,
-        "author": "Honigmann"
+        "end": 577,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Terebia",
-    "previous": "Terdnia",
+    "lemma": "Τερεβία",
+    "previous": "Τερδνία",
     "next": "Terebinthina",
+    "sort_key": "Terebia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 577,
-        "author": "Weissbach"
+        "end": 577,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Terebinthina",
-    "previous": "Terebia",
+    "previous": "Τερεβία",
     "next": "Terebinthos 1",
     "redirect": "Tucca 2",
     "proof_read": 2,
@@ -7608,11 +7753,13 @@
     "lemma": "Terebinthos 1",
     "previous": "Terebinthina",
     "next": "Terebinthos 2",
+    "proof_read": 0,
     "short_description": "Terpentinbaum",
     "chapters": [
       {
         "start": 577,
-        "author": "Steier"
+        "end": 581,
+        "author": "Steier."
       }
     ]
   },
@@ -7633,11 +7780,13 @@
     "lemma": "Terebinthos 3",
     "previous": "Terebinthos 2",
     "next": "Terebinthos 4",
+    "proof_read": 0,
     "short_description": "Schüler d. Skythianus",
     "chapters": [
       {
         "start": 581,
-        "author": "Enßlin"
+        "end": 581,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7674,11 +7823,13 @@
     "lemma": "Terebra",
     "previous": "Terebius",
     "next": "Teredon",
+    "proof_read": 0,
     "short_description": "Bohrer",
     "chapters": [
       {
         "start": 582,
-        "author": "Schroff"
+        "end": 584,
+        "author": "Schroff."
       }
     ]
   },
@@ -7686,11 +7837,13 @@
     "lemma": "Teredon",
     "previous": "Terebra",
     "next": "Tereia",
+    "proof_read": 0,
     "short_description": "Stadt in Babylonien s. Iridotis",
     "chapters": [
       {
         "start": 584,
-        "author": "Weissbach"
+        "end": 586,
+        "author": "Weissbach."
       }
     ]
   },
@@ -7698,11 +7851,13 @@
     "lemma": "Tereia",
     "previous": "Teredon",
     "next": "Tereie",
+    "proof_read": 0,
     "short_description": "Ortschaft nahe Zeleia",
     "chapters": [
       {
         "start": 586,
-        "author": "Ruge"
+        "end": 586,
+        "author": "Ruge."
       }
     ]
   },
@@ -7710,10 +7865,12 @@
     "lemma": "Tereie",
     "previous": "Tereia",
     "next": "Tereine",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 587,
-        "author": "Kruse"
+        "end": 587,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -7721,10 +7878,12 @@
     "lemma": "Tereine",
     "previous": "Tereie",
     "next": "Tereis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 587,
-        "author": "Kolf"
+        "end": 587,
+        "author": "Kolf."
       }
     ]
   },
@@ -7762,10 +7921,12 @@
     "lemma": "Terenius",
     "previous": "Teren",
     "next": "Terensis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 587,
-        "author": "Enßlin"
+        "end": 587,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -7773,11 +7934,13 @@
     "lemma": "Terensis",
     "previous": "Terenius",
     "next": "Terentianus 1",
+    "proof_read": 0,
     "short_description": "Konjektur für Noduterensis, röm. Sondergottheit",
     "chapters": [
       {
         "start": 587,
-        "author": "Weinstock"
+        "end": 587,
+        "author": "Weinstock."
       }
     ]
   },
@@ -7785,11 +7948,13 @@
     "lemma": "Terentianus 1",
     "previous": "Terensis",
     "next": "Terentianus 2",
+    "proof_read": 0,
     "short_description": "Röm. Metriker",
     "chapters": [
       {
         "start": 587,
-        "author": "Wessner"
+        "end": 591,
+        "author": "Wessner."
       }
     ]
   },
@@ -8037,11 +8202,13 @@
     "lemma": "Terentius 6",
     "previous": "Terentius 5",
     "next": "Terentius 7",
+    "proof_read": 0,
     "short_description": "Corrector Tusciae",
     "chapters": [
       {
         "start": 593,
-        "author": "Enßlin"
+        "end": 593,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8049,11 +8216,13 @@
     "lemma": "Terentius 7",
     "previous": "Terentius 6",
     "next": "Terentius 8",
+    "proof_read": 0,
     "short_description": "Comes des Kaisers Valens",
     "chapters": [
       {
         "start": 593,
-        "author": "Enßlin"
+        "end": 594,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8061,11 +8230,13 @@
     "lemma": "Terentius 8",
     "previous": "Terentius 7",
     "next": "Terentius 9",
+    "proof_read": 0,
     "short_description": "Feldherr des Constans",
     "chapters": [
       {
         "start": 594,
-        "author": "Enßlin"
+        "end": 594,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8073,11 +8244,13 @@
     "lemma": "Terentius 9",
     "previous": "Terentius 8",
     "next": "Terentius 10",
+    "proof_read": 0,
     "short_description": "Eunuch des Honorius",
     "chapters": [
       {
         "start": 594,
-        "author": "Enßlin"
+        "end": 594,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8085,11 +8258,13 @@
     "lemma": "Terentius 10",
     "previous": "Terentius 9",
     "next": "Terentius 11",
+    "proof_read": 0,
     "short_description": "Infanterieführer im Vandalenkrieg",
     "chapters": [
       {
         "start": 594,
-        "author": "Enßlin"
+        "end": 594,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8114,11 +8289,13 @@
     "lemma": "Terentius 12",
     "previous": "Terentius 11",
     "next": "Terentius 13",
+    "proof_read": 0,
     "short_description": "Katholischer Bischof aus Seleuciana",
     "chapters": [
       {
         "start": 594,
-        "author": "Enßlin"
+        "end": 594,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8490,11 +8667,13 @@
     "lemma": "Terentius 37",
     "previous": "Terentius 36",
     "next": "Terentius 38",
+    "proof_read": 0,
     "short_description": "Africanus s. Terentius Marcianus Nr. 57",
     "chapters": [
       {
         "start": 650,
-        "author": "Fluss"
+        "end": 650,
+        "author": "Fluss."
       }
     ]
   },
@@ -8502,11 +8681,13 @@
     "lemma": "Terentius 38",
     "previous": "Terentius 37",
     "next": "Terentius 39",
+    "proof_read": 0,
     "short_description": "Albius, M., beim Zensus 73/74 n. Chr. 100 Jahre alt",
     "chapters": [
       {
         "start": 650,
-        "author": "Stein, [Arthur]"
+        "end": 650,
+        "author": "Stein."
       }
     ]
   },
@@ -8514,11 +8695,13 @@
     "lemma": "Terentius 39",
     "previous": "Terentius 38",
     "next": "Terentius 40",
+    "proof_read": 0,
     "short_description": "Alexander, Epistrateg der Thebais 164 n. Chr.",
     "chapters": [
       {
         "start": 650,
-        "author": "Stein, [Arthur]"
+        "end": 650,
+        "author": "Stein."
       }
     ]
   },
@@ -8526,11 +8709,13 @@
     "lemma": "Terentius 40",
     "previous": "Terentius 39",
     "next": "Terentius 41",
+    "proof_read": 0,
     "short_description": "Aquila Grattianus, L.",
     "chapters": [
       {
         "start": 650,
-        "author": "Fluss"
+        "end": 650,
+        "author": "Fluss."
       }
     ]
   },
@@ -8538,11 +8723,13 @@
     "lemma": "Terentius 41",
     "previous": "Terentius 40",
     "next": "Terentius 42",
+    "proof_read": 0,
     "short_description": "Clemens, Römischer Jurist",
     "chapters": [
       {
         "start": 650,
-        "author": "Berger"
+        "end": 652,
+        "author": "Berger."
       }
     ]
   },
@@ -8564,11 +8751,13 @@
     "lemma": "Terentius 43",
     "previous": "Terentius 42",
     "next": "Terentius 44",
+    "proof_read": 0,
     "short_description": "Culleo, Q., Karthagischer Kriegsgefangener im 2. punischen Krieg",
     "chapters": [
       {
         "start": 652,
-        "author": "Münzer"
+        "end": 653,
+        "author": "Münzer."
       }
     ]
   },
@@ -8590,11 +8779,13 @@
     "lemma": "Terentius 45",
     "previous": "Terentius 44",
     "next": "Terentius 46",
+    "proof_read": 0,
     "short_description": "Culleo, Q., Procos. von Sizilien",
     "chapters": [
       {
         "start": 654,
-        "author": "Fluss"
+        "end": 655,
+        "author": "Fluss."
       }
     ]
   },
@@ -8602,11 +8793,13 @@
     "lemma": "Terentius 46",
     "previous": "Terentius 45",
     "next": "Terentius 47",
+    "proof_read": 0,
     "short_description": "Culleo, Q., Sohn von Nr. 45",
     "chapters": [
       {
         "start": 655,
-        "author": "Fluss"
+        "end": 655,
+        "author": "Fluss."
       }
     ]
   },
@@ -8614,11 +8807,13 @@
     "lemma": "Terentius 47",
     "previous": "Terentius 46",
     "next": "Terentius 48",
+    "proof_read": 0,
     "short_description": "Gentianus, M., cos. 211 n. Chr.",
     "chapters": [
       {
         "start": 655,
-        "author": "Groag"
+        "end": 656,
+        "author": "Groag."
       }
     ]
   },
@@ -8638,11 +8833,13 @@
     "lemma": "Terentius 49",
     "previous": "Terentius 48",
     "next": "Terentius 50",
+    "proof_read": 0,
     "short_description": "Hispo, P., Freund und Verwandter Ciceros",
     "chapters": [
       {
         "start": 662,
-        "author": "Münzer"
+        "end": 662,
+        "author": "Münzer."
       }
     ]
   },
@@ -9226,11 +9423,13 @@
     "lemma": "Terentius 88",
     "previous": "Terentius 87",
     "next": "Terentius 89",
+    "proof_read": 0,
     "short_description": "Varro Atacinus, P., Dichter",
     "chapters": [
       {
         "start": 692,
-        "author": "Lenz"
+        "end": 704,
+        "author": "Friedr. Lenz."
       }
     ]
   },
@@ -9238,11 +9437,13 @@
     "lemma": "Terentius 89",
     "previous": "Terentius 88",
     "next": "Terentius 90",
+    "proof_read": 0,
     "short_description": "Varro Gibba, M., Anwalt",
     "chapters": [
       {
         "start": 704,
-        "author": "Münzer"
+        "end": 705,
+        "author": "Münzer."
       }
     ]
   },
@@ -9250,11 +9451,13 @@
     "lemma": "Terentius 90",
     "previous": "Terentius 89",
     "next": "Terentius 91",
+    "proof_read": 0,
     "short_description": "Varro Lucullus, M. s. Licinius Nr. 109 Lex Terentia Cassia",
     "chapters": [
       {
         "start": 705,
-        "author": "Münzer"
+        "end": 705,
+        "author": "Münzer."
       }
     ]
   },
@@ -9262,11 +9465,13 @@
     "lemma": "Terentius 91",
     "previous": "Terentius 90",
     "next": "Terentius 92",
+    "proof_read": 0,
     "short_description": "Varro Murena, A., von Cicero mehrfach empfohlen",
     "chapters": [
       {
         "start": 705,
-        "author": "Münzer"
+        "end": 706,
+        "author": "Münzer."
       }
     ]
   },
@@ -9323,11 +9528,13 @@
     "lemma": "Terentius 95",
     "previous": "Terentius 94",
     "next": "Terentius 96",
+    "proof_read": 0,
     "short_description": "Erste Gattin Ciceros",
     "chapters": [
       {
         "start": 710,
-        "author": "Weinstock"
+        "end": 716,
+        "author": "Weinstock."
       }
     ]
   },
@@ -9335,11 +9542,13 @@
     "lemma": "Terentius 96",
     "previous": "Terentius 95",
     "next": "Terentius 97",
+    "proof_read": 0,
     "short_description": "Gattin des C. Maecenas",
     "chapters": [
       {
         "start": 716,
-        "author": "Stein, [Arthur]"
+        "end": 716,
+        "author": "Stein."
       }
     ]
   },
@@ -9347,11 +9556,13 @@
     "lemma": "Terentius 97",
     "previous": "Terentius 96",
     "next": "Terentius 98",
+    "proof_read": 0,
     "short_description": "Schwester des D. Terentius Gentianus Nr. 48",
     "chapters": [
       {
         "start": 716,
-        "author": "Groag"
+        "end": 717,
+        "author": "Groag."
       }
     ]
   },
@@ -9359,11 +9570,13 @@
     "lemma": "Terentius 98",
     "previous": "Terentius 97",
     "next": "Terentius 99",
+    "proof_read": 0,
     "short_description": "Mutter des L. Seius Strabo",
     "chapters": [
       {
         "start": 717,
-        "author": "Stein, [Arthur]"
+        "end": 717,
+        "author": "Stein."
       }
     ]
   },
@@ -9371,11 +9584,13 @@
     "lemma": "Terentius 99",
     "previous": "Terentius 98",
     "next": "Terentius 100",
+    "proof_read": 0,
     "short_description": "CIL V 8672",
     "chapters": [
       {
         "start": 717,
-        "author": "Fluss"
+        "end": 717,
+        "author": "Fluss."
       }
     ]
   },
@@ -9383,11 +9598,13 @@
     "lemma": "Terentius 100",
     "previous": "Terentius 99",
     "next": "Terentius 101",
+    "proof_read": 0,
     "short_description": "Polla, Mutter des A. Terentius Varro Nr. 82",
     "chapters": [
       {
         "start": 717,
-        "author": "Münzer"
+        "end": 717,
+        "author": "Münzer."
       }
     ]
   },
@@ -9395,11 +9612,13 @@
     "lemma": "Terentius 101",
     "previous": "Terentius 100",
     "next": "Terentius 102",
+    "proof_read": 0,
     "short_description": "Claudiana",
     "chapters": [
       {
         "start": 717,
-        "author": "Fluss"
+        "end": 717,
+        "author": "Fluss."
       }
     ]
   },
@@ -9407,11 +9626,13 @@
     "lemma": "Terentius 102",
     "previous": "Terentius 101",
     "next": "Terentius 103",
+    "proof_read": 0,
     "short_description": "Favola, Tochter des Q. Hedius Rufus Lollianus Gentianus Nr. 5",
     "chapters": [
       {
         "start": 717,
-        "author": "Groag"
+        "end": 718,
+        "author": "Groag."
       }
     ]
   },
@@ -9419,11 +9640,13 @@
     "lemma": "Terentius 103",
     "previous": "Terentius 102",
     "next": "Terento",
+    "proof_read": 0,
     "short_description": "Rufilla Tochter des Q. Terentius Rufus Nr. 67",
     "chapters": [
       {
         "start": 718,
-        "author": "Stein, [Arthur]"
+        "end": 718,
+        "author": "Stein."
       }
     ]
   },
@@ -9431,10 +9654,12 @@
     "lemma": "Terento",
     "previous": "Terentius 103",
     "next": "Terentum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 718,
-        "author": "Treidler"
+        "end": 718,
+        "author": "Treidler."
       }
     ]
   },
@@ -9455,11 +9680,13 @@
     "lemma": "Terenuthis",
     "previous": "Terentum",
     "next": "Teres 1",
+    "proof_read": 0,
     "short_description": "Dorf im W d. Nildeltas in Ägypten",
     "chapters": [
       {
         "start": 718,
-        "author": "Kees"
+        "end": 719,
+        "author": "Kees."
       }
     ]
   },
@@ -9467,11 +9694,13 @@
     "lemma": "Teres 1",
     "previous": "Terenuthis",
     "next": "Teres 2",
+    "proof_read": 0,
     "short_description": "Klaudios T., athen. Archon ca. 225-250 n. Chr.",
     "chapters": [
       {
         "start": 719,
-        "author": "Kirchner"
+        "end": 719,
+        "author": "Kirchner."
       }
     ]
   },
@@ -9479,11 +9708,13 @@
     "lemma": "Teres 2",
     "previous": "Teres 1",
     "next": "Teres 3",
+    "proof_read": 0,
     "short_description": "Vornehmer Thraker im Gefolge Antiochos' II.",
     "chapters": [
       {
         "start": 719,
-        "author": "Meyer, Ernst"
+        "end": 719,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -9491,11 +9722,13 @@
     "lemma": "Teres 3",
     "previous": "Teres 2",
     "next": "Tereses (Fortunales)",
+    "proof_read": 0,
     "short_description": "Thrak. Fürst, Schwiegersohn Philipps V.",
     "chapters": [
       {
         "start": 719,
-        "author": "Meyer, Ernst"
+        "end": 719,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -9503,10 +9736,13 @@
     "lemma": "Tereses (Fortunales)",
     "previous": "Teres 3",
     "next": "Tereventum",
+    "sort_key": "Tereses(fortunales)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 719,
-        "author": "Schulten"
+        "end": 719,
+        "author": "Schulten."
       }
     ]
   },
@@ -9527,11 +9763,13 @@
     "lemma": "Tereus",
     "previous": "Tereventum",
     "next": "Terfilius",
+    "proof_read": 0,
     "short_description": "Thrak. König d. gr. Sage, Gatte d. Prokne",
     "chapters": [
       {
         "start": 719,
-        "author": "Lesky"
+        "end": 721,
+        "author": "Lesky."
       }
     ]
   },
@@ -9539,10 +9777,12 @@
     "lemma": "Terfilius",
     "previous": "Tereus",
     "next": "Tergaza",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 721,
-        "author": "Enßlin"
+        "end": 721,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9563,11 +9803,13 @@
     "lemma": "Tergedum",
     "previous": "Tergaza",
     "next": "Tergeste",
+    "proof_read": 0,
     "short_description": "Siedlung d. mittleren Nilgebiets",
     "chapters": [
       {
         "start": 721,
-        "author": "Treidler"
+        "end": 722,
+        "author": "Treidler."
       }
     ]
   },
@@ -9575,46 +9817,55 @@
     "lemma": "Tergeste",
     "previous": "Tergedum",
     "next": "Tergilani",
+    "proof_read": 0,
     "short_description": "Stadt in Istrien, heute Triest",
     "chapters": [
       {
         "start": 722,
-        "author": "Philipp"
+        "end": 723,
+        "author": "Philipp."
       }
     ]
   },
   {
     "lemma": "Tergilani",
     "previous": "Tergeste",
-    "next": "Tergis",
+    "next": "Τέργις",
+    "proof_read": 0,
     "short_description": "s. Tegianum",
     "chapters": [
       {
         "start": 723,
-        "author": "Philipp"
+        "end": 723,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Tergis",
+    "lemma": "Τέργις",
     "previous": "Tergilani",
     "next": "Tergiversatio",
+    "sort_key": "Tergis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 723,
-        "author": "Treidler"
+        "end": 723,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Tergiversatio",
-    "previous": "Tergis",
+    "previous": "Τέργις",
     "next": "Tergolape",
+    "proof_read": 0,
     "short_description": "Ungerechtfertigter Rücktritt v. d. Anklage",
     "chapters": [
       {
         "start": 723,
-        "author": "Taubenschlag"
+        "end": 724,
+        "author": "Taubenschlag."
       }
     ]
   },
@@ -9622,10 +9873,12 @@
     "lemma": "Tergolape",
     "previous": "Tergiversatio",
     "next": "Terias 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 724,
-        "author": "Fluss"
+        "end": 724,
+        "author": "Fluss."
       }
     ]
   },
@@ -9633,11 +9886,13 @@
     "lemma": "Terias 1",
     "previous": "Tergolape",
     "next": "Terias 2",
+    "proof_read": 0,
     "short_description": "Fluß in Sizilien",
     "chapters": [
       {
         "start": 724,
-        "author": "Ziegler"
+        "end": 725,
+        "author": "Ziegler."
       }
     ]
   },
@@ -9671,28 +9926,33 @@
   {
     "lemma": "Tericiae",
     "previous": "teriasals",
-    "next": "Teridata",
+    "next": "Τηριδάτα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 725,
-        "author": "Besnier"
+        "end": 725,
+        "author": "M. Besnier."
       }
     ]
   },
   {
-    "lemma": "Teridata",
+    "lemma": "Τηριδάτα",
     "previous": "Tericiae",
     "next": "Teridates",
+    "sort_key": "Teridata",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 725,
-        "author": "Weissbach"
+        "end": 725,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Teridates",
-    "previous": "Teridata",
+    "previous": "Τηριδάτα",
     "next": "Terillos",
     "proof_read": 2,
     "short_description": "Der Gründer des Partherreichs, Bruder des Arsakes, Arr. Parth. bei Phot. cod.",
@@ -9709,11 +9969,13 @@
     "lemma": "Terillos",
     "previous": "Teridates",
     "next": "Terina",
+    "proof_read": 0,
     "short_description": "Tyrann v. Himera, 5. Jh. v. Chr.",
     "chapters": [
       {
         "start": 725,
-        "author": "Schwahn"
+        "end": 725,
+        "author": "Schwahn."
       }
     ]
   },
@@ -9721,11 +9983,13 @@
     "lemma": "Terina",
     "previous": "Terillos",
     "next": "Terina 1",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
         "start": 725,
-        "author": "Philipp"
+        "end": 726,
+        "author": "Philipp."
       }
     ]
   },
@@ -9733,11 +9997,13 @@
     "lemma": "Terina 1",
     "previous": "Terina",
     "next": "Terina 2",
+    "proof_read": 0,
     "short_description": "Fluß, heute Fiume di Bagni",
     "chapters": [
       {
         "start": 726,
-        "author": "Philipp"
+        "end": 726,
+        "author": "Philipp."
       }
     ]
   },
@@ -9745,11 +10011,13 @@
     "lemma": "Terina 2",
     "previous": "Terina 1",
     "next": "Terina 3",
+    "proof_read": 0,
     "short_description": "Sinus Terinaeus, Meerbusen in Bruttium",
     "chapters": [
       {
         "start": 726,
-        "author": "Philipp"
+        "end": 726,
+        "author": "Philipp."
       }
     ]
   },
@@ -9757,11 +10025,13 @@
     "lemma": "Terina 3",
     "previous": "Terina 2",
     "next": "Terina 4",
+    "proof_read": 0,
     "short_description": "Stadt in Bruttium",
     "chapters": [
       {
         "start": 726,
-        "author": "Philipp"
+        "end": 727,
+        "author": "Philipp."
       }
     ]
   },
@@ -9769,11 +10039,13 @@
     "lemma": "Terina 4",
     "previous": "Terina 3",
     "next": "Terinaeus sinus",
+    "proof_read": 0,
     "short_description": "Ortsgöttin d. gleichnamigen Stadt Nr. 3 in Bruttium",
     "chapters": [
       {
         "start": 727,
-        "author": "Türk"
+        "end": 727,
+        "author": "Türk."
       }
     ]
   },
@@ -9794,11 +10066,13 @@
     "lemma": "Teriolis",
     "previous": "Terinaeus sinus",
     "next": "Terisci",
+    "proof_read": 0,
     "short_description": "Ort westl. v. Innsbruck",
     "chapters": [
       {
         "start": 727,
-        "author": "Fluss"
+        "end": 728,
+        "author": "Fluss."
       }
     ]
   },
@@ -9820,10 +10094,12 @@
     "lemma": "Terizoi",
     "previous": "Terisci",
     "next": "Termaios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 728,
-        "author": "Fluss"
+        "end": 728,
+        "author": "Fluss."
       }
     ]
   },
@@ -9831,10 +10107,12 @@
     "lemma": "Termaios",
     "previous": "Terizoi",
     "next": "Termantia 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 729,
-        "author": "Kruse"
+        "end": 729,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -9898,11 +10176,13 @@
     "lemma": "Termera",
     "previous": "Termatius",
     "next": "Termerion",
+    "proof_read": 0,
     "short_description": "Karische Stadt",
     "chapters": [
       {
         "start": 729,
-        "author": "Ruge"
+        "end": 730,
+        "author": "Ruge."
       }
     ]
   },
@@ -9910,11 +10190,13 @@
     "lemma": "Termerion",
     "previous": "Termera",
     "next": "Termeris",
+    "proof_read": 0,
     "short_description": "Kap zw. Halikarnass u. Myndos",
     "chapters": [
       {
         "start": 730,
-        "author": "Ruge"
+        "end": 731,
+        "author": "Ruge."
       }
     ]
   },
@@ -9936,11 +10218,13 @@
     "lemma": "Termeros",
     "previous": "Termeris",
     "next": "Termes",
+    "proof_read": 0,
     "short_description": "Angebl. Gründer d. Stadt Termera",
     "chapters": [
       {
         "start": 731,
-        "author": "Türk"
+        "end": 731,
+        "author": "Türk."
       }
     ]
   },
@@ -9948,11 +10232,13 @@
     "lemma": "Termes",
     "previous": "Termeros",
     "next": "Termessos 1",
+    "proof_read": 0,
     "short_description": "Stadt d. Arevaker",
     "chapters": [
       {
         "start": 732,
-        "author": "Schulten"
+        "end": 732,
+        "author": "Schulten."
       }
     ]
   },
@@ -9960,11 +10246,13 @@
     "lemma": "Termessos 1",
     "previous": "Termes",
     "next": "Termessos 2",
+    "proof_read": 0,
     "short_description": "Gr. Heros, Eponym v. Nr. 2",
     "chapters": [
       {
         "start": 732,
-        "author": "Heberdey"
+        "end": 732,
+        "author": "R. Heberdey."
       }
     ]
   },
@@ -9972,11 +10260,13 @@
     "lemma": "Termessos 2",
     "previous": "Termessos 1",
     "next": "Termessos 3",
+    "proof_read": 0,
     "short_description": "Stadt in SW-Pisidien",
     "chapters": [
       {
         "start": 732,
-        "author": "Heberdey"
+        "end": 775,
+        "author": "R. Heberdey."
       }
     ]
   },
@@ -9984,11 +10274,13 @@
     "lemma": "Termessos 3",
     "previous": "Termessos 2",
     "next": "Termetis?",
+    "proof_read": 0,
     "short_description": "Stadt in SW-Pisidien, sog. Klein-T. im Unterschied zu Nr. 2",
     "chapters": [
       {
         "start": 775,
-        "author": "Heberdey"
+        "end": 778,
+        "author": "R. Heberdey."
       }
     ]
   },
@@ -10026,11 +10318,13 @@
     "lemma": "Termilai",
     "previous": "Termieus",
     "next": "Termile",
+    "proof_read": 0,
     "short_description": "Früherer Name d. Lykier",
     "chapters": [
       {
         "start": 778,
-        "author": "Ruge"
+        "end": 779,
+        "author": "Ruge."
       }
     ]
   },
@@ -10052,11 +10346,13 @@
     "lemma": "Terminatio",
     "previous": "Termile",
     "next": "Termintheus",
+    "proof_read": 0,
     "short_description": "Auch: determinatio. T.t. für d. Festlegung einer Grenze",
     "chapters": [
       {
         "start": 779,
-        "author": "Fabricius"
+        "end": 781,
+        "author": "Fabricius."
       }
     ]
   },
@@ -10077,11 +10373,13 @@
     "lemma": "Terminus",
     "previous": "Termintheus",
     "next": "Terminus motus",
+    "proof_read": 0,
     "short_description": "Grenzstein, bei d. Römern göttlich verehrt",
     "chapters": [
       {
         "start": 781,
-        "author": "Marbach"
+        "end": 784,
+        "author": "Marbach."
       }
     ]
   },
@@ -10089,11 +10387,14 @@
     "lemma": "Terminus motus",
     "previous": "Terminus",
     "next": "Termonin",
+    "sort_key": "Terminusmotus",
+    "proof_read": 0,
     "short_description": "Beseitigung o. Verrücken v. Grenzsteinen als strafbare Handlung",
     "chapters": [
       {
         "start": 784,
-        "author": "Taubenschlag"
+        "end": 785,
+        "author": "Taubenschlag."
       }
     ]
   },
@@ -10115,7 +10416,7 @@
     "lemma": "Termos",
     "previous": "Termonin",
     "next": "Termunes",
-    "redirect": "Temos",
+    "redirect": "Τέμος",
     "proof_read": 2,
     "chapters": [
       {
@@ -10128,10 +10429,12 @@
     "lemma": "Termunes",
     "previous": "Termos",
     "next": "Terpandros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 785,
-        "author": "Heichelheim"
+        "end": 785,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -10139,11 +10442,13 @@
     "lemma": "Terpandros",
     "previous": "Termunes",
     "next": "Terpes",
+    "proof_read": 0,
     "short_description": "Aus Antissa, Komponist eigener u. homerischer Texte",
     "chapters": [
       {
         "start": 785,
-        "author": "Vetter, Walther"
+        "end": 786,
+        "author": "Walter Vetter."
       }
     ]
   },
@@ -10166,11 +10471,13 @@
     "lemma": "Terpheus",
     "previous": "Terpes",
     "next": "Terpios",
+    "proof_read": 0,
     "short_description": "Monatsname in Karien",
     "chapters": [
       {
         "start": 786,
-        "author": "Sontheimer"
+        "end": 787,
+        "author": "Sontheimer."
       }
     ]
   },
@@ -10178,10 +10485,12 @@
     "lemma": "Terpios",
     "previous": "Terpheus",
     "next": "Terpnos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 787,
-        "author": "Kolf"
+        "end": 787,
+        "author": "Kolf."
       }
     ]
   },
@@ -10189,10 +10498,12 @@
     "lemma": "Terpnos",
     "previous": "Terpios",
     "next": "Terpolius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 787,
-        "author": "Stein, [Arthur]"
+        "end": 787,
+        "author": "Stein."
       }
     ]
   },
@@ -10200,11 +10511,13 @@
     "lemma": "Terpolius",
     "previous": "Terpnos",
     "next": "Terpon",
+    "proof_read": 0,
     "short_description": "M.",
     "chapters": [
       {
         "start": 787,
-        "author": "Münzer"
+        "end": 787,
+        "author": "Münzer."
       }
     ]
   },
@@ -10212,11 +10525,13 @@
     "lemma": "Terpon",
     "previous": "Terpolius",
     "next": "Terponos",
+    "proof_read": 0,
     "short_description": "Name eines Silens auf Vasen",
     "chapters": [
       {
         "start": 787,
-        "author": "Kolf"
+        "end": 788,
+        "author": "Kolf."
       }
     ]
   },
@@ -10224,11 +10539,13 @@
     "lemma": "Terponos",
     "previous": "Terpon",
     "next": "Terpsichore",
+    "proof_read": 0,
     "short_description": "Siedlung d. Iapoden",
     "chapters": [
       {
         "start": 789,
-        "author": "Fluss"
+        "end": 789,
+        "author": "Fluss."
       }
     ]
   },
@@ -10236,11 +10553,13 @@
     "lemma": "Terpsichore",
     "previous": "Terponos",
     "next": "Terpsikles 1",
+    "proof_read": 0,
     "short_description": "Eine d. neun Musen",
     "chapters": [
       {
         "start": 789,
-        "author": "Lesky"
+        "end": 790,
+        "author": "Lesky."
       }
     ]
   },
@@ -10263,11 +10582,13 @@
     "lemma": "Terpsikles 2",
     "previous": "Terpsikles 1",
     "next": "Terpsikome",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 790,
-        "author": "Lippold, Georg"
+        "end": 790,
+        "author": "Lippold."
       }
     ]
   },
@@ -10275,10 +10596,12 @@
     "lemma": "Terpsikome",
     "previous": "Terpsikles 2",
     "next": "Terpsion 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 790,
-        "author": "Kolf"
+        "end": 791,
+        "author": "Kolf."
       }
     ]
   },
@@ -10286,11 +10609,13 @@
     "lemma": "Terpsion 1",
     "previous": "Terpsikome",
     "next": "Terpsion 2",
+    "proof_read": 0,
     "short_description": "Aus Megara, Schüler d. Sokrates",
     "chapters": [
       {
         "start": 791,
-        "author": "Fritz"
+        "end": 791,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -10298,11 +10623,13 @@
     "lemma": "Terpsion 2",
     "previous": "Terpsion 1",
     "next": "Terpyllos",
+    "proof_read": 0,
     "short_description": "Verf. eines Buches über Gastrologie",
     "chapters": [
       {
         "start": 791,
-        "author": "Bux"
+        "end": 791,
+        "author": "Bux."
       }
     ]
   },
@@ -10337,11 +10664,14 @@
     "lemma": "Terra Mater, Tellus",
     "previous": "Terra Cimolia",
     "next": "Terra Melia",
+    "sort_key": "Terramater, tellus",
+    "proof_read": 0,
     "short_description": "Röm. Göttinnen",
     "chapters": [
       {
         "start": 791,
-        "author": "Weinstock"
+        "end": 806,
+        "author": "Weinstock."
       }
     ]
   },
@@ -10349,11 +10679,14 @@
     "lemma": "Terra Melia",
     "previous": "Terra Mater, Tellus",
     "next": "Terra Samia",
+    "sort_key": "Terramelia",
+    "proof_read": 0,
     "short_description": "Mineral v. d. Insel Melos Farbe",
     "chapters": [
       {
         "start": 806,
-        "author": "Kroll"
+        "end": 808,
+        "author": "Kroll."
       }
     ]
   },
@@ -10400,27 +10733,34 @@
   {
     "lemma": "Terrakotten",
     "previous": "Terracina",
+    "next": "T. Terrasidius",
+    "proof_read": 0,
     "short_description": "Künstlerische Erzeugnisse aus Ton",
     "chapters": [
       {
         "start": 808,
-        "author": "Heidenreich"
+        "end": 820,
+        "author": "Heidenreich."
       }
     ]
   },
   {
-    "lemma": "Terrasidius, T.",
+    "lemma": "T. Terrasidius",
+    "previous": "Terrakotten",
     "next": "Terrensis",
+    "sort_key": "Terrasidius,t.",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 820,
-        "author": "Münzer"
+        "end": 820,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Terrensis",
-    "previous": "Terrasidius, T.",
+    "previous": "T. Terrasidius",
     "next": "Terrinius Gallus",
     "redirect": "Tarrensis",
     "proof_read": 2,
@@ -10434,29 +10774,35 @@
   {
     "lemma": "Terrinius Gallus",
     "previous": "Terrensis",
-    "next": "Terruncius, teruncius",
+    "next": "Terruncius",
+    "sort_key": "Terriniusgallus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 820,
-        "author": "Groag"
+        "end": 820,
+        "author": "Groag."
       }
     ]
   },
   {
-    "lemma": "Terruncius, teruncius",
+    "lemma": "Terruncius",
     "previous": "Terrinius Gallus",
     "next": "Tersios",
+    "sort_key": "Terruncius,teruncius",
+    "proof_read": 0,
     "short_description": "Gewichts- u. Münzeinheit",
     "chapters": [
       {
         "start": 820,
-        "author": "Regling"
+        "end": 821,
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Tersios",
-    "previous": "Terruncius, teruncius",
+    "previous": "Terruncius",
     "next": "Terta",
     "redirect": "Tarseus",
     "proof_read": 2,
@@ -10471,34 +10817,53 @@
     "lemma": "Terta",
     "previous": "Tersios",
     "next": "Tertia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 821,
-        "author": "Oberhummer"
+        "end": 821,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Tertia",
     "previous": "Terta",
-    "next": "Tertiana",
+    "next": "Tertia 1",
+    "proof_read": 0,
     "short_description": "Röm. Praenomen u. Cognomen",
     "chapters": [
       {
         "start": 821,
-        "author": "Münzer"
+        "end": 822,
+        "author": "Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Tertia 1",
+    "previous": "Tertia",
+    "next": "Tertiana",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 822,
+        "end": 822,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Tertiana",
-    "previous": "Tertia",
+    "previous": "Tertia 1",
     "next": "Tertiarius",
+    "proof_read": 0,
     "short_description": "Göttin d. dreitägig wiederkehrenden Wechselfiebers",
     "chapters": [
       {
         "start": 822,
-        "author": "Weinstock"
+        "end": 822,
+        "author": "Weinstock."
       }
     ]
   },
@@ -10562,11 +10927,13 @@
     "lemma": "Tertullianus 1",
     "previous": "Tertulla",
     "next": "Tertullianus 2",
+    "proof_read": 0,
     "short_description": "Q. Septimius Florens, lat. christl. Schriftsteller 2./3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 822,
-        "author": "Koch, Hugo"
+        "end": 844,
+        "author": "Hugo Koch."
       }
     ]
   },
@@ -10574,11 +10941,13 @@
     "lemma": "Tertullianus 2",
     "previous": "Tertullianus 1",
     "next": "Tertullianus 3",
+    "proof_read": 0,
     "short_description": "Jurist in d. Digesten Iustinians",
     "chapters": [
       {
         "start": 844,
-        "author": "Steinwenter"
+        "end": 845,
+        "author": "Steinwenter."
       }
     ]
   },
@@ -10616,10 +10985,13 @@
     "lemma": "Tertullus 1",
     "previous": "Tertullianus 4",
     "next": "Tertullus 2",
+    "redirect": "Flavius  190 Gavius  27 Insteius  10-12",
+    "proof_read": 0,
     "short_description": "s. Flavius Nr. 190 Gavius Nr. 27 Insteius Nr. 10-12",
     "chapters": [
       {
-        "start": 845
+        "start": 845,
+        "end": 845
       }
     ]
   },
@@ -10641,11 +11013,13 @@
     "lemma": "Tertullus 3",
     "previous": "Tertullus 2",
     "next": "Tertullus 4",
+    "proof_read": 0,
     "short_description": "Urheber eines SC über Erbschaftsangelegenheiten",
     "chapters": [
       {
         "start": 845,
-        "author": "Fluss"
+        "end": 846,
+        "author": "Fluss."
       }
     ]
   },
@@ -10653,11 +11027,13 @@
     "lemma": "Tertullus 4",
     "previous": "Tertullus 3",
     "next": "Tertullus 5",
+    "proof_read": 0,
     "short_description": "cos.",
     "chapters": [
       {
         "start": 846,
-        "author": "Fluss"
+        "end": 846,
+        "author": "Fluss."
       }
     ]
   },
@@ -10665,11 +11041,13 @@
     "lemma": "Tertullus 5",
     "previous": "Tertullus 4",
     "next": "Tertullus 6",
+    "proof_read": 0,
     "short_description": "Geliebter der Kaiserin Faustina",
     "chapters": [
       {
         "start": 846,
-        "author": "Fluss"
+        "end": 846,
+        "author": "Fluss."
       }
     ]
   },
@@ -10677,11 +11055,13 @@
     "lemma": "Tertullus 6",
     "previous": "Tertullus 5",
     "next": "Tertullus 7",
+    "proof_read": 0,
     "short_description": "CIL VIII 939",
     "chapters": [
       {
         "start": 846,
-        "author": "Fluss"
+        "end": 846,
+        "author": "Fluss."
       }
     ]
   },
@@ -10689,11 +11069,13 @@
     "lemma": "Tertullus 7",
     "previous": "Tertullus 6",
     "next": "Tertullus 8",
+    "proof_read": 0,
     "short_description": "C. Umbrius, aus Thobursicum in Numidien z.Zt. Diokletians",
     "chapters": [
       {
         "start": 846,
-        "author": "Enßlin"
+        "end": 846,
+        "author": "W. Enßlin."
       }
     ]
   },
