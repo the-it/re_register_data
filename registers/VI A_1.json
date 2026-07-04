@@ -2,11 +2,14 @@
   {
     "lemma": "Θησαυρός",
     "next": "Thesaurus",
+    "sort_key": "Thesauros",
+    "proof_read": 0,
     "short_description": "Aufbewahrungsort, Depot das in Verwahrung Gegebene",
     "chapters": [
       {
         "start": 1,
-        "author": "Ziehen"
+        "end": 7,
+        "author": "Ziehen."
       }
     ]
   },
@@ -28,11 +31,13 @@
     "lemma": "Thesba",
     "previous": "Thesaurus",
     "next": "θese",
+    "proof_read": 0,
     "short_description": "Heimatort d. Propheten Elias o. d. Tobit",
     "chapters": [
       {
         "start": 13,
-        "author": "Hölscher"
+        "end": 14,
+        "author": "Hölscher."
       }
     ]
   },
@@ -86,11 +91,13 @@
     "lemma": "Theseus 2",
     "previous": "Theseus 1",
     "next": "Theseus 3",
+    "proof_read": 0,
     "short_description": "Historiker",
     "chapters": [
       {
         "start": 14,
-        "author": "Laqueur"
+        "end": 14,
+        "author": "Laqueur."
       }
     ]
   },
@@ -184,71 +191,86 @@
     "lemma": "Thesmophorios",
     "previous": "Thesmophorion",
     "next": "Thesmophoros",
+    "proof_read": 0,
     "short_description": "Gr. Monatsname",
     "chapters": [
       {
         "start": 28,
-        "author": "Sontheimer"
+        "end": 28,
+        "author": "Sontheimer."
       }
     ]
   },
   {
     "lemma": "Thesmophoros",
     "previous": "Thesmophorios",
-    "next": "Thesmophylakes",
+    "next": "Θεσμοφύλακες",
+    "proof_read": 0,
     "short_description": "Epiklesis 1. d. Demeter, 2. d. Dionysos, 3. der Hestia",
     "chapters": [
       {
         "start": 28,
-        "author": "Kruse"
+        "end": 29,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
-    "lemma": "Thesmophylakes",
+    "lemma": "Θεσμοφύλακες",
     "previous": "Thesmophoros",
-    "next": "Thesmos",
+    "next": "Θεσμός",
+    "sort_key": "Thesmophylakes",
+    "proof_read": 0,
     "short_description": "Eine der obersten Behörden in griech. Staaten",
     "chapters": [
       {
         "start": 29,
-        "author": "Schwahn"
+        "end": 31,
+        "author": "Schwahn."
       }
     ]
   },
   {
-    "lemma": "Thesmos",
-    "previous": "Thesmophylakes",
-    "next": "Thesmotheteion",
+    "lemma": "Θεσμός",
+    "previous": "Θεσμοφύλακες",
+    "next": "Θεσμοθετεῖον",
+    "sort_key": "Thesmos",
+    "proof_read": 0,
     "short_description": "Das Festgelegte, Verwahrte Ordnung, Vertrag, Gesetz",
     "chapters": [
       {
         "start": 31,
-        "author": "Latte"
+        "end": 33,
+        "author": "Latte."
       }
     ]
   },
   {
-    "lemma": "Thesmotheteion",
-    "previous": "Thesmos",
+    "lemma": "Θεσμοθετεῖον",
+    "previous": "Θεσμός",
     "next": "Thesmotheten",
+    "sort_key": "Thesmotheteion",
+    "proof_read": 0,
     "short_description": "Amtslokal",
     "chapters": [
       {
         "start": 33,
-        "author": "Latte"
+        "end": 33,
+        "author": "Latte."
       }
     ]
   },
   {
     "lemma": "Thesmotheten",
-    "previous": "Thesmotheteion",
+    "previous": "Θεσμοθετεῖον",
     "next": "Thespeia 1",
+    "proof_read": 0,
     "short_description": "Archontenkollegium in Athen",
     "chapters": [
       {
         "start": 33,
-        "author": "Latte"
+        "end": 37,
+        "author": "Latte."
       }
     ]
   },
@@ -256,11 +278,13 @@
     "lemma": "Thespeia 1",
     "previous": "Thesmotheten",
     "next": "Thespeia 2",
-    "short_description": "= Thespiai, Boiot. Stadt",
+    "proof_read": 0,
+    "short_description": "Thespiai, Boiot. Stadt",
     "chapters": [
       {
         "start": 37,
-        "author": "Fiehn"
+        "end": 59,
+        "author": "Fiehn."
       }
     ]
   },
@@ -282,11 +306,13 @@
     "lemma": "Thespesios 1",
     "previous": "Thespeia 2",
     "next": "Thespesios 2",
+    "proof_read": 0,
     "short_description": "Sophist u. Rhetoriklehrer in Caesarea, Lehrer d. Gregor v. Nazianz",
     "chapters": [
       {
         "start": 60,
-        "author": "Enßlin"
+        "end": 60,
+        "author": "Willy Stegemann."
       }
     ]
   },
@@ -309,11 +335,13 @@
     "lemma": "Thespiades 1",
     "previous": "Thespesios 2",
     "next": "Thespiades 2",
+    "proof_read": 0,
     "short_description": "Gründer v. Thespiai, = Thespios",
     "chapters": [
       {
         "start": 60,
-        "author": "Türk"
+        "end": 60,
+        "author": "Türk."
       }
     ]
   },
@@ -335,11 +363,13 @@
     "lemma": "Thespiades 3",
     "previous": "Thespiades 2",
     "next": "Thespiades 4",
+    "proof_read": 0,
     "short_description": "Bezeichnung d. Musen",
     "chapters": [
       {
         "start": 60,
-        "author": "Türk"
+        "end": 61,
+        "author": "Türk."
       }
     ]
   },
@@ -376,11 +406,13 @@
     "lemma": "Thespieus 2",
     "previous": "Thespieus 1",
     "next": "Thespieus 3",
+    "proof_read": 0,
     "short_description": "Sohn d. Ariphron",
     "chapters": [
       {
         "start": 61,
-        "author": "Scherling"
+        "end": 61,
+        "author": "Scherling."
       }
     ]
   },
@@ -388,11 +420,13 @@
     "lemma": "Thespieus 3",
     "previous": "Thespieus 2",
     "next": "Thespieus 4",
+    "proof_read": 0,
     "short_description": "Tenier, Sohn d. Aristomache",
     "chapters": [
       {
         "start": 61,
-        "author": "Scherling"
+        "end": 61,
+        "author": "Scherling."
       }
     ]
   },
@@ -414,11 +448,13 @@
     "lemma": "Thespios 1",
     "previous": "Thespieus 4",
     "next": "Thespios 2",
+    "proof_read": 0,
     "short_description": "Gründer von Thespiai in Boiotien",
     "chapters": [
       {
         "start": 61,
-        "author": "Türk"
+        "end": 62,
+        "author": "Türk."
       }
     ]
   },
@@ -426,11 +462,13 @@
     "lemma": "Thespios 2",
     "previous": "Thespios 1",
     "next": "Thespis 1",
+    "proof_read": 0,
     "short_description": "Person, Perser, 4. Jh. v. Chr.",
     "chapters": [
       {
         "start": 62,
-        "author": "Berve"
+        "end": 62,
+        "author": "Berve."
       }
     ]
   },
@@ -454,11 +492,13 @@
     "lemma": "Thespis 2",
     "previous": "Thespis 1",
     "next": "Thespis 3",
+    "proof_read": 0,
     "short_description": "Theban. Kitharöde",
     "chapters": [
       {
         "start": 64,
-        "author": "Bernert"
+        "end": 64,
+        "author": "Bernert."
       }
     ]
   },
@@ -480,11 +520,13 @@
     "lemma": "Thesprotoi",
     "previous": "Thespis 3",
     "next": "Thesprotos",
+    "proof_read": 0,
     "short_description": "Epeirot. Stamm",
     "chapters": [
       {
         "start": 64,
-        "author": "Lenk"
+        "end": 69,
+        "author": "Lenk."
       }
     ]
   },
@@ -492,34 +534,50 @@
     "lemma": "Thesprotos",
     "previous": "Thesprotoi",
     "next": "Thessalia",
+    "proof_read": 0,
     "short_description": "Sohn d. Lykaon, Eponym d. Thesproter",
     "chapters": [
       {
         "start": 69,
-        "author": "Scherling"
+        "end": 70,
+        "author": "Scherling."
       }
     ]
   },
   {
     "lemma": "Thessalia",
     "previous": "Thesprotos",
-    "next": "Thessalia B.",
+    "next": "Thessalis",
+    "proof_read": 0,
     "short_description": "Griech. Landschaft A. Landeskunde",
     "chapters": [
       {
         "start": 70,
-        "author": "Stählin"
+        "end": 111,
+        "author": "Stählin."
+      },
+      {
+        "start": 112,
+        "end": 138,
+        "author": "Hiller v Gaertringen."
+      },
+      {
+        "start": 139,
+        "end": 143,
+        "author": "Lippold."
       }
     ]
   },
   {
     "lemma": "Thessalicus",
-    "previous": "Thessalia C.",
+    "previous": "Thessalia",
     "next": "Thessalis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 143,
-        "author": "Stein, [Arthur]"
+        "end": 143,
+        "author": "Stein."
       }
     ]
   },
@@ -543,11 +601,13 @@
     "lemma": "Thessalonike",
     "previous": "Thessalis",
     "next": "Thessalos 1",
+    "proof_read": 0,
     "short_description": "Wichtiger Seehafen Makedoniens",
     "chapters": [
       {
         "start": 143,
-        "author": "Oberhummer"
+        "end": 163,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -555,11 +615,13 @@
     "lemma": "Thessalos 1",
     "previous": "Thessalonike",
     "next": "Thessalos 2",
+    "proof_read": 0,
     "short_description": "Archeget v. Thessalien",
     "chapters": [
       {
         "start": 163,
-        "author": "Schachermeyr"
+        "end": 164,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -567,11 +629,13 @@
     "lemma": "Thessalos 2",
     "previous": "Thessalos 1",
     "next": "Thessalos 3",
+    "proof_read": 0,
     "short_description": "Spartaner",
     "chapters": [
       {
         "start": 164,
-        "author": "Schachermeyr"
+        "end": 164,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -579,11 +643,13 @@
     "lemma": "Thessalos 3",
     "previous": "Thessalos 2",
     "next": "Thessalos 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Peisistratos",
     "chapters": [
       {
         "start": 164,
-        "author": "Schachermeyr"
+        "end": 165,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -591,11 +657,13 @@
     "lemma": "Thessalos 4",
     "previous": "Thessalos 3",
     "next": "Thessalos 5",
+    "proof_read": 0,
     "short_description": "Sohn d. Kimon",
     "chapters": [
       {
         "start": 165,
-        "author": "Schachermeyr"
+        "end": 165,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -603,11 +671,13 @@
     "lemma": "Thessalos 5",
     "previous": "Thessalos 4",
     "next": "Thessalos 6",
+    "proof_read": 0,
     "short_description": "Koischer Arzt, Sohn d. Asklepiaden Hippokrates",
     "chapters": [
       {
         "start": 165,
-        "author": "Diller"
+        "end": 168,
+        "author": "Diller."
       }
     ]
   },
@@ -615,11 +685,13 @@
     "lemma": "Thessalos 6",
     "previous": "Thessalos 5",
     "next": "Thessalos 7",
+    "proof_read": 0,
     "short_description": "Aus Tralleis/Kleinasien, Haupt d. method. Ärzteschule in Rom z.Zt. Neros",
     "chapters": [
       {
         "start": 168,
-        "author": "Diller"
+        "end": 182,
+        "author": "Diller."
       }
     ]
   },
@@ -627,11 +699,13 @@
     "lemma": "Thessalos 7",
     "previous": "Thessalos 6",
     "next": "Thessalos 8",
+    "proof_read": 0,
     "short_description": "Polemisiert gg. Apollodor v. Athen",
     "chapters": [
       {
         "start": 182,
-        "author": "Diller"
+        "end": 182,
+        "author": "Diller."
       }
     ]
   },
@@ -682,11 +756,13 @@
     "lemma": "Thestia",
     "previous": "Θέσσυρις",
     "next": "Thestiadai 1",
+    "proof_read": 0,
     "short_description": "Ort in Aitolien",
     "chapters": [
       {
         "start": 183,
-        "author": "Fiehn"
+        "end": 183,
+        "author": "Fiehn."
       }
     ]
   },
