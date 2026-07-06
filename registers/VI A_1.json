@@ -829,11 +829,13 @@
     "lemma": "Thestios 1",
     "previous": "Thestideion",
     "next": "Thestios 2",
+    "proof_read": 0,
     "short_description": "Myth. Herrscher v. Pleuron in Aitolien",
     "chapters": [
       {
         "start": 184,
-        "author": "Geisau"
+        "end": 184,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -856,11 +858,13 @@
     "lemma": "Thestios 3",
     "previous": "Thestios 2",
     "next": "Thestios 4",
+    "proof_read": 0,
     "short_description": "Myth. König v. Makedonien",
     "chapters": [
       {
         "start": 184,
-        "author": "Geisau"
+        "end": 185,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -883,10 +887,12 @@
     "lemma": "Thestis",
     "previous": "Thestios 4",
     "next": "Thestor 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 185,
-        "author": "Geisau"
+        "end": 185,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -894,11 +900,13 @@
     "lemma": "Thestor 1",
     "previous": "Thestis",
     "next": "Thestor 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Apollon u. d. Laothoe",
     "chapters": [
       {
         "start": 185,
-        "author": "Türk"
+        "end": 185,
+        "author": "Türk."
       }
     ]
   },
@@ -991,41 +999,48 @@
   {
     "lemma": "Theten",
     "previous": "Θεταιμαιῶται",
-    "next": "thethis",
+    "next": "θeθis",
+    "proof_read": 0,
     "short_description": "Freie Lohnarbeiter ohne Grundeigentum in Griechenland",
     "chapters": [
       {
         "start": 186,
-        "author": "Schwahn"
+        "end": 204,
+        "author": "Schwahn."
       }
     ]
   },
   {
-    "lemma": "thethis",
+    "lemma": "θeθis",
     "previous": "Theten",
     "next": "Thetideion",
+    "sort_key": "thethis",
+    "proof_read": 0,
     "short_description": "Name d. Thetis auf etr. Bronzespiegeln",
     "chapters": [
       {
         "start": 204,
-        "author": "Fiesel"
+        "end": 205,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Thetideion",
-    "previous": "thethis",
-    "next": "Thetieia",
+    "previous": "θeθis",
+    "next": "Θετίεια",
+    "proof_read": 0,
     "short_description": "Tempel d. Thetis u. Ortschaft im Gebiet v. Pharsalos",
     "chapters": [
       {
         "start": 205,
-        "author": "Stählin"
+        "end": 206,
+        "author": "Stählin."
       }
     ]
   },
   {
-    "lemma": "Thetieia",
+    "lemma": "Θετίεια",
     "previous": "Thetideion",
     "next": "Thetis",
     "sort_key": "Thetieia",
@@ -1040,13 +1055,15 @@
   },
   {
     "lemma": "Thetis",
-    "previous": "Thetieia",
+    "previous": "Θετίεια",
     "next": "Θητών, Θητώνιον",
+    "proof_read": 0,
     "short_description": "Thessal. Meergottheit, Tochter v. Nereus u. Doris, Mutter Achills",
     "chapters": [
       {
         "start": 206,
-        "author": "Mayer"
+        "end": 242,
+        "author": "Maximilian Mayer."
       }
     ]
   },
@@ -1071,10 +1088,12 @@
     "lemma": "Thettale",
     "previous": "Θητών, Θητώνιον",
     "next": "Theuda",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 243,
-        "author": "Schwahn"
+        "end": 243,
+        "author": "Schwahn."
       }
     ]
   },
