@@ -549,7 +549,7 @@
     "previous": "Thesprotos",
     "next": "Thessalis",
     "proof_read": 0,
-    "short_description": "Griech. Landschaft A. Landeskunde",
+    "short_description": "Griechische Landschaft A. Landeskunde",
     "chapters": [
       {
         "start": 70,
@@ -559,12 +559,12 @@
       {
         "start": 112,
         "end": 138,
-        "author": "Hiller v Gaertringen."
+        "author": "Hiller v. Gaertringen."
       },
       {
         "start": 139,
         "end": 143,
-        "author": "Lippold."
+        "author": "G. Lippold."
       }
     ]
   },
@@ -1114,11 +1114,13 @@
     "lemma": "Theudalis",
     "previous": "Theuda",
     "next": "Theudas",
-    "short_description": "Ort d. röm. Provinz Africa",
+    "proof_read": 0,
+    "short_description": "Ort der röm. Provinz Africa",
     "chapters": [
       {
         "start": 243,
-        "author": "Treidler"
+        "end": 244,
+        "author": "Hans Treidler."
       }
     ]
   },
@@ -1140,10 +1142,14 @@
     "lemma": "Theudense (oppidum)",
     "previous": "Theudas",
     "next": "Theudimund",
+    "sort_key": "Theudense(oppidum)",
+    "proof_read": 0,
+    "short_description": "Siedlung der römischen Provinz Africa",
     "chapters": [
       {
         "start": 244,
-        "author": "Treidler"
+        "end": 244,
+        "author": "Hans Treidler."
       }
     ]
   },
@@ -1164,11 +1170,13 @@
     "lemma": "Theudios",
     "previous": "Theudimund",
     "next": "Theudis",
+    "proof_read": 0,
     "short_description": "Aus Magnesia, Mathematiker u. Philosoph",
     "chapters": [
       {
         "start": 244,
-        "author": "Fritz"
+        "end": 246,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -1176,11 +1184,13 @@
     "lemma": "Theudis",
     "previous": "Theudios",
     "next": "Theudoria",
-    "short_description": "Westgotenkönig in Spanien, 531-548 n. Chr.",
+    "proof_read": 0,
+    "short_description": "Westgotenkönig in Spanien, 531–548 n. Chr.",
     "chapters": [
       {
         "start": 246,
-        "author": "Nagl"
+        "end": 249,
+        "author": "Assunta Nagl."
       }
     ]
   },
@@ -1203,10 +1213,12 @@
     "lemma": "Theudoros",
     "previous": "Theudoria",
     "next": "Theudurum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 249,
-        "author": "Lippold, Georg"
+        "end": 249,
+        "author": "Lippold."
       }
     ]
   },
@@ -1230,11 +1242,13 @@
     "lemma": "Theveste",
     "previous": "Theudurum",
     "next": "Theugenes 1",
-    "short_description": "Stadt in N-Afrika",
+    "proof_read": 0,
+    "short_description": "Stadt in Nordafrika",
     "chapters": [
       {
         "start": 249,
-        "author": "Treidler"
+        "end": 252,
+        "author": "Hans Treidler."
       }
     ]
   },
@@ -1242,11 +1256,13 @@
     "lemma": "Theugenes 1",
     "previous": "Theveste",
     "next": "Theugenes 2",
-    "short_description": "Von Ikos, Gast d. Pollis",
+    "proof_read": 0,
+    "short_description": "von Ikos, Gast des Pollis",
     "chapters": [
       {
         "start": 252,
-        "author": "Diehl, Ernst"
+        "end": 252,
+        "author": "Ernst Diehl."
       }
     ]
   },
@@ -1269,9 +1285,9 @@
   {
     "lemma": "Theuma, Teuma",
     "previous": "Theugenes 2",
-    "next": "Theupolis",
+    "next": "Θεούπολις",
     "proof_read": 3,
-    "short_description": "Theuma oder Teuma, Stadt in Thessalien, Liv. XXXII 13, 12, wahrscheinlich in",
+    "short_description": "Theuma oder Teuma, Stadt in Thessalien",
     "wp_link": "w:en:Theuma (Thessaly)",
     "wd_link": "d:Q56281138",
     "chapters": [
@@ -1283,37 +1299,46 @@
     ]
   },
   {
-    "lemma": "Theupolis",
+    "lemma": "Θεούπολις",
     "previous": "Theuma, Teuma",
-    "next": "Theu prosopon",
+    "next": "Θεοῦ πρόσωπον",
+    "sort_key": "Theupolis",
+    "proof_read": 0,
+    "short_description": "Theupolis, Beiname des syrischen Antio-cheia",
     "chapters": [
       {
         "start": 257,
-        "author": "Honigmann"
+        "end": 257,
+        "author": "Honigmann."
       }
     ]
   },
   {
-    "lemma": "Theu prosopon",
-    "previous": "Theupolis",
+    "lemma": "Θεοῦ πρόσωπον",
+    "previous": "Θεούπολις",
     "next": "Theurgie",
-    "short_description": "Vorgebirge an d. phoinik. Küste",
+    "sort_key": "Theuprosopon",
+    "proof_read": 0,
+    "short_description": "Vorgebirge der phoinikischen Küste",
     "chapters": [
       {
         "start": 257,
-        "author": "Honigmann"
+        "end": 258,
+        "author": "Ernst Honigmann."
       }
     ]
   },
   {
     "lemma": "Theurgie",
-    "previous": "Theu prosopon",
+    "previous": "Θεοῦ πρόσωπον",
     "next": "thevrumines",
-    "short_description": "Höchste Stufe d. Magie",
+    "proof_read": 0,
+    "short_description": "höchste Stufe der Magie",
     "chapters": [
       {
         "start": 258,
-        "author": "Hopfner, Th[eodor]"
+        "end": 270,
+        "author": "Th. Hopfner."
       }
     ]
   },
@@ -1377,11 +1402,13 @@
     "lemma": "Thia 3",
     "previous": "Thia 2",
     "next": "Thiabena",
-    "short_description": "Theia?, Station d. Straße Trapezunt - Satala",
+    "proof_read": 0,
+    "short_description": "Theia? Station der Straße Trapezunt–Satala",
     "chapters": [
       {
         "start": 271,
-        "author": "Ziegler"
+        "end": 271,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -1389,10 +1416,13 @@
     "lemma": "Thiabena",
     "previous": "Thia 3",
     "next": "Thiagola",
+    "proof_read": 0,
+    "short_description": "Siedlung in Nordafrika",
     "chapters": [
       {
         "start": 271,
-        "author": "Treidler"
+        "end": 271,
+        "author": "Hans Treidler."
       }
     ]
   },
@@ -1499,11 +1529,14 @@
     "lemma": "Thiba, Thibais",
     "previous": "Θίαυνα",
     "next": "Thibica",
-    "short_description": "Sagenhafte Gegend am Pontos",
+    "sort_key": "Thiba,thibais",
+    "proof_read": 0,
+    "short_description": "sagenhafte Gegend am Pontos",
     "chapters": [
       {
         "start": 272,
-        "author": "Ziegler"
+        "end": 272,
+        "author": "Konrat Ziegler."
       }
     ]
   },
@@ -1511,10 +1544,12 @@
     "lemma": "Thibica",
     "previous": "Thiba, Thibais",
     "next": "Thibili",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 272,
-        "author": "Treidler"
+        "end": 272,
+        "author": "Treidler."
       }
     ]
   },
@@ -1522,11 +1557,13 @@
     "lemma": "Thibili",
     "previous": "Thibica",
     "next": "Θιβινίς",
+    "proof_read": 0,
     "short_description": "Örtlichkeit N-Afrikas",
     "chapters": [
       {
         "start": 272,
-        "author": "Treidler"
+        "end": 273,
+        "author": "Treidler."
       }
     ]
   },
@@ -1562,23 +1599,41 @@
   {
     "lemma": "Thibiuca",
     "previous": "Thibitensis",
-    "next": "Thibron 1",
+    "next": "Thibron",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 273,
-        "author": "Treidler"
+        "end": 273,
+        "author": "Treidler."
+      }
+    ]
+  },
+  {
+    "lemma": "Thibron",
+    "previous": "Thibiuca",
+    "next": "Thibron 1",
+    "proof_read": 0,
+    "short_description": "zum namen",
+    "chapters": [
+      {
+        "start": 273,
+        "end": 273,
+        "author": "Ehrenberg."
       }
     ]
   },
   {
     "lemma": "Thibron 1",
-    "previous": "Thibiuca",
+    "previous": "Thibron",
     "next": "Thibron 2",
+    "proof_read": 0,
     "short_description": "Lakedaimonier, Heerführer im spartanisch-pers. Krieg um 400 v. Chr.",
     "chapters": [
       {
         "start": 273,
-        "author": "Ehrenberg"
+        "end": 275,
+        "author": "Ehrenberg."
       }
     ]
   },
@@ -1586,90 +1641,109 @@
     "lemma": "Thibron 2",
     "previous": "Thibron 1",
     "next": "Thibron 3",
+    "proof_read": 0,
     "short_description": "Lakedaimonier, Unterführer d. Harpalos",
     "chapters": [
       {
         "start": 275,
-        "author": "Ehrenberg"
+        "end": 276,
+        "author": "Ehrenberg."
       }
     ]
   },
   {
     "lemma": "Thibron 3",
     "previous": "Thibron 2",
-    "next": "Thibroneion nomisma",
+    "next": "Θιβρώνειον νόμισμα",
+    "proof_read": 0,
     "short_description": "In einem att. Inschr.fr.",
     "chapters": [
       {
         "start": 276,
-        "author": "Ehrenberg"
+        "end": 276,
+        "author": "Ehrenberg."
       }
     ]
   },
   {
-    "lemma": "Thibroneion nomisma",
+    "lemma": "Θιβρώνειον νόμισμα",
     "previous": "Thibron 3",
     "next": "Thibros",
+    "sort_key": "Thibroneionnomisma",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 276,
-        "author": "Regling"
+        "end": 276,
+        "author": "Regling."
       }
     ]
   },
   {
     "lemma": "Thibros",
-    "previous": "Thibroneion nomisma",
-    "next": "Thige",
+    "previous": "Θιβρώνειον νόμισμα",
+    "next": "Θίγη",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 277,
-        "author": "Ziegler"
+        "end": 277,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Thige",
+    "lemma": "Θίγη",
     "previous": "Thibros",
     "next": "Thiges",
+    "sort_key": "Thige",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 277,
-        "author": "Treidler"
+        "end": 277,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thiges",
-    "previous": "Thige",
-    "next": "Thigiba",
+    "previous": "Θίγη",
+    "next": "Θίγιβα",
+    "proof_read": 0,
     "short_description": "Siedlung N-Afrikas",
     "chapters": [
       {
         "start": 277,
-        "author": "Treidler"
+        "end": 277,
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Thigiba",
+    "lemma": "Θίγιβα",
     "previous": "Thiges",
     "next": "Thigisi",
+    "sort_key": "Thigiba",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 277,
-        "author": "Treidler"
+        "end": 277,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thigisi",
-    "previous": "Thigiba",
+    "previous": "Θίγιβα",
     "next": "Thignica",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 277,
-        "author": "Treidler"
+        "end": 277,
+        "author": "Treidler."
       }
     ]
   },
@@ -1690,10 +1764,12 @@
     "lemma": "Thikath",
     "previous": "Thignica",
     "next": "Θιλαβούς",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 278,
-        "author": "Treidler"
+        "end": 278,
+        "author": "Treidler."
       }
     ]
   },
@@ -1776,10 +1852,12 @@
     "lemma": "Thililva",
     "previous": "Thilbisme",
     "next": "Thillacama",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 278,
-        "author": "Heichelheim"
+        "end": 279,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -1859,11 +1937,13 @@
     "lemma": "Thiltauri",
     "previous": "Thilsaphata",
     "next": "Thiluta",
+    "proof_read": 0,
     "short_description": "Straßenstation in N-Syrien",
     "chapters": [
       {
         "start": 279,
-        "author": "Honigmann"
+        "end": 279,
+        "author": "Honigmann."
       }
     ]
   },
@@ -1937,10 +2017,12 @@
     "lemma": "Thimbure",
     "previous": "Thimbron",
     "next": "Thimida Regia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 279,
-        "author": "Treidler"
+        "end": 280,
+        "author": "Treidler."
       }
     ]
   },
@@ -1948,10 +2030,13 @@
     "lemma": "Thimida Regia",
     "previous": "Thimbure",
     "next": "Thimiliga",
+    "sort_key": "Thimidaregia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 280,
-        "author": "Treidler"
+        "end": 280,
+        "author": "Treidler."
       }
     ]
   },
@@ -1974,10 +2059,12 @@
     "lemma": "Thimonepsi",
     "previous": "Thimiliga",
     "next": "θimrae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 280,
-        "author": "Kees"
+        "end": 280,
+        "author": "Kees."
       }
     ]
   },
@@ -1985,11 +2072,14 @@
     "lemma": "θimrae",
     "previous": "Thimonepsi",
     "next": "Θιμουνα",
-    "short_description": "Etr. Beiname auf einem Bronzespiegel",
+    "sort_key": "thimrae",
+    "proof_read": 0,
+    "short_description": "etruskischer Beiname auf Bronzespiegel",
     "chapters": [
       {
         "start": 280,
-        "author": "Fiesel"
+        "end": 281,
+        "author": "Eva Fiesel."
       }
     ]
   },
@@ -2012,11 +2102,13 @@
     "lemma": "Thina",
     "previous": "Θιμουνα",
     "next": "Thinai",
+    "proof_read": 0,
     "short_description": "Hauptstadt d. Sinai",
     "chapters": [
       {
         "start": 281,
-        "author": "Herrmann"
+        "end": 281,
+        "author": "Herrmann."
       }
     ]
   },
@@ -2037,7 +2129,7 @@
   {
     "lemma": "Thincsus",
     "previous": "Thinai",
-    "next": "Thinge",
+    "next": "Θίγγη",
     "proof_read": 2,
     "short_description": "germanischer Beiname des römischen Mars. Vgl. eingehend o. Bd. XIV S. 1964. Zur",
     "no_creative_height": true,
@@ -2050,24 +2142,30 @@
     ]
   },
   {
-    "lemma": "Thinge",
+    "lemma": "Θίγγη",
     "previous": "Thincsus",
     "next": "Thinidrumense (oppidum)",
+    "sort_key": "Thinge",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 281,
-        "author": "Treidler"
+        "end": 281,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thinidrumense (oppidum)",
-    "previous": "Thinge",
+    "previous": "Θίγγη",
     "next": "Thinis, Thinites",
+    "sort_key": "Thinidrumense(oppidum)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 281,
-        "author": "Treidler"
+        "end": 282,
+        "author": "Treidler."
       }
     ]
   },
@@ -2075,18 +2173,21 @@
     "lemma": "Thinis, Thinites",
     "previous": "Thinidrumense (oppidum)",
     "next": "Thinisa",
+    "sort_key": "Thinis,thinites",
+    "proof_read": 0,
     "short_description": "Nomos, Hauptstadt d. thinitischen (8. oberägypt.) Gaus in d. Thebais",
     "chapters": [
       {
         "start": 282,
-        "author": "Kees"
+        "end": 285,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Thinisa",
     "previous": "Thinis, Thinites",
-    "next": "Thinodes oros",
+    "next": "Θινῶδες ὄρος",
     "redirect": true,
     "proof_read": 2,
     "chapters": [
@@ -2097,24 +2198,29 @@
     ]
   },
   {
-    "lemma": "Thinodes oros",
+    "lemma": "Θινῶδες ὄρος",
     "previous": "Thinisa",
     "next": "Thintis",
+    "sort_key": "Thinodesoros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 285,
-        "author": "Treidler"
+        "end": 286,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thintis",
-    "previous": "Thinodes oros",
+    "previous": "Θινῶδες ὄρος",
     "next": "Θιόλλα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 286,
-        "author": "Treidler"
+        "end": 286,
+        "author": "Treidler."
       }
     ]
   },
@@ -2233,11 +2339,13 @@
     "lemma": "Thisbe 2",
     "previous": "Thisbe 1",
     "next": "Thisbe 3",
+    "proof_read": 0,
     "short_description": "Boiot. Stadt, benannt nach Nr. 1",
     "chapters": [
       {
         "start": 287,
-        "author": "Fiehn"
+        "end": 291,
+        "author": "Fiehn."
       }
     ]
   },
@@ -2257,30 +2365,35 @@
   {
     "lemma": "Thisibitani",
     "previous": "Thisbe 3",
-    "next": "Thisika",
+    "next": "Θίσικα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 291,
-        "author": "Treidler"
+        "end": 291,
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Thisika",
+    "lemma": "Θίσικα",
     "previous": "Thisibitani",
     "next": "Thisitanus",
+    "sort_key": "Thisika",
+    "proof_read": 0,
     "short_description": "Siedlung N-Afrikas",
     "chapters": [
       {
         "start": 291,
-        "author": "Treidler"
+        "end": 291,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thisitanus",
-    "previous": "Thisika",
-    "next": "Thisizima",
+    "previous": "Θίσικα",
+    "next": "Θισίζιμα",
     "redirect": "Thisika",
     "proof_read": 2,
     "chapters": [
@@ -2291,25 +2404,30 @@
     ]
   },
   {
-    "lemma": "Thisizima",
+    "lemma": "Θισίζιμα",
     "previous": "Thisitanus",
     "next": "Thisoa",
+    "sort_key": "Thisizima",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 291,
-        "author": "Treidler"
+        "end": 292,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thisoa",
-    "previous": "Thisizima",
+    "previous": "Θισίζιμα",
     "next": "Thisoa 1",
+    "proof_read": 0,
     "short_description": "Zum Namen",
     "chapters": [
       {
         "start": 292,
-        "author": "Meyer, Ernst"
+        "end": 292,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2329,11 +2447,13 @@
     "lemma": "Thisoa 2",
     "previous": "Thisoa 1",
     "next": "Thiudi",
+    "proof_read": 0,
     "short_description": "Ort d. arkad. Landschaft Kynuria",
     "chapters": [
       {
         "start": 292,
-        "author": "Meyer, Ernst"
+        "end": 293,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2341,11 +2461,13 @@
     "lemma": "Thiudi",
     "previous": "Thisoa 2",
     "next": "Thiudimund",
+    "proof_read": 0,
     "short_description": "Volk finnischer o. skythischer Zugehörigkeit",
     "chapters": [
       {
         "start": 293,
-        "author": "Franke"
+        "end": 293,
+        "author": "Franke."
       }
     ]
   },
@@ -2365,34 +2487,41 @@
   {
     "lemma": "Thiunta",
     "previous": "Thiudimund",
-    "next": "Thizibi",
+    "next": "Θίζιβι",
+    "proof_read": 0,
     "short_description": "Dorf im Bezirk v. Hierapolis in Phrygien",
     "chapters": [
       {
         "start": 293,
-        "author": "Ziegler"
+        "end": 294,
+        "author": "Ziegler."
       }
     ]
   },
   {
-    "lemma": "Thizibi",
+    "lemma": "Θίζιβι",
     "previous": "Thiunta",
     "next": "Thlibiai",
+    "sort_key": "Thizibi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 294,
-        "author": "Treidler"
+        "end": 294,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thlibiai",
-    "previous": "Thizibi",
+    "previous": "Θίζιβι",
     "next": "Thmuis 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 294,
-        "author": "Hug"
+        "end": 294,
+        "author": "Hug."
       }
     ]
   },
@@ -2400,11 +2529,13 @@
     "lemma": "Thmuis 1",
     "previous": "Thlibiai",
     "next": "Thmuis 2",
+    "proof_read": 0,
     "short_description": "Zwillingsstadt v. Mendes im nordöstl. Nildelta",
     "chapters": [
       {
         "start": 294,
-        "author": "Kees"
+        "end": 296,
+        "author": "Kees."
       }
     ]
   },
@@ -2412,18 +2543,20 @@
     "lemma": "Thmuis 2",
     "previous": "Thmuis 1",
     "next": "Thmuis 3",
+    "proof_read": 0,
     "short_description": "Weiterer Ort in Oberägypten",
     "chapters": [
       {
         "start": 296,
-        "author": "Kees"
+        "end": 296,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Thmuis 3",
     "previous": "Thmuis 2",
-    "next": "Thoana",
+    "next": "Θοάνα",
     "redirect": "Muiso",
     "proof_read": 2,
     "chapters": [
@@ -2434,25 +2567,30 @@
     ]
   },
   {
-    "lemma": "Thoana",
+    "lemma": "Θοάνα",
     "previous": "Thmuis 3",
     "next": "Thoani",
+    "sort_key": "Thoana",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 296,
-        "author": "Hölscher"
+        "end": 296,
+        "author": "Hölscher."
       }
     ]
   },
   {
     "lemma": "Thoani",
-    "previous": "Thoana",
+    "previous": "Θοάνα",
     "next": "Thoantinus",
+    "proof_read": 0,
     "short_description": "Stamm in Arabia felix",
     "chapters": [
       {
         "start": 296,
-        "author": "Grohmann"
+        "end": 297,
+        "author": "Grohmann."
       }
     ]
   },
@@ -2473,10 +2611,12 @@
     "lemma": "Thoar",
     "previous": "Thoantinus",
     "next": "Thoaris",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 297,
-        "author": "Treidler"
+        "end": 297,
+        "author": "Treidler."
       }
     ]
   },
@@ -2484,10 +2624,12 @@
     "lemma": "Thoaris",
     "previous": "Thoar",
     "next": "Thoas 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 297,
-        "author": "Ziegler"
+        "end": 297,
+        "author": "Ziegler."
       }
     ]
   },
@@ -2495,11 +2637,13 @@
     "lemma": "Thoas 1",
     "previous": "Thoaris",
     "next": "Thoas 2",
+    "proof_read": 0,
     "short_description": "Alter Name d. Flußes Acheloos in Akarnanien",
     "chapters": [
       {
         "start": 297,
-        "author": "Modrze"
+        "end": 297,
+        "author": "Modrze."
       }
     ]
   },
@@ -2507,11 +2651,13 @@
     "lemma": "Thoas 2",
     "previous": "Thoas 1",
     "next": "Thoas 3",
+    "proof_read": 0,
     "short_description": "Von Lemnos, urspr. Gestalt d. Dionysoskreises, dann durch seine Tochter",
     "chapters": [
       {
         "start": 297,
-        "author": "Modrze"
+        "end": 299,
+        "author": "Modrze."
       }
     ]
   },
@@ -2519,11 +2665,13 @@
     "lemma": "Thoas 3",
     "previous": "Thoas 2",
     "next": "Thoas 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Ikarios",
     "chapters": [
       {
         "start": 299,
-        "author": "Modrze"
+        "end": 299,
+        "author": "Modrze."
       }
     ]
   },
@@ -2531,11 +2679,13 @@
     "lemma": "Thoas 4",
     "previous": "Thoas 3",
     "next": "Thoas 5",
+    "proof_read": 0,
     "short_description": "Sohn d. Ornytion v. Korinth",
     "chapters": [
       {
         "start": 299,
-        "author": "Modrze"
+        "end": 300,
+        "author": "Modrze."
       }
     ]
   },
@@ -2571,11 +2721,13 @@
     "lemma": "Thoas 7",
     "previous": "Thoas 6",
     "next": "Thoas 8",
+    "proof_read": 0,
     "short_description": "Sohn d. Mandrodoros aus Magnesia a.M.",
     "chapters": [
       {
         "start": 300,
-        "author": "Berve"
+        "end": 300,
+        "author": "Berve."
       }
     ]
   },
@@ -2583,11 +2735,13 @@
     "lemma": "Thoas 8",
     "previous": "Thoas 7",
     "next": "Thoas 9",
+    "proof_read": 0,
     "short_description": "Sohn d. Alexandros aus Trichonion um ca. 190 v. Chr.",
     "chapters": [
       {
         "start": 300,
-        "author": "Geyer"
+        "end": 301,
+        "author": "Geyer."
       }
     ]
   },
@@ -2595,11 +2749,13 @@
     "lemma": "Thoas 9",
     "previous": "Thoas 8",
     "next": "Thoas 10",
+    "proof_read": 0,
     "short_description": "Steuererheber unter Andronikos",
     "chapters": [
       {
         "start": 301,
-        "author": "Enßlin"
+        "end": 302,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2621,10 +2777,12 @@
     "lemma": "Thoasa",
     "previous": "Thoas 10",
     "next": "Thobarrhabau",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 302,
-        "author": "Geisau"
+        "end": 302,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -2632,11 +2790,13 @@
     "lemma": "Thobarrhabau",
     "previous": "Thoasa",
     "next": "Thodosis",
+    "proof_read": 0,
     "short_description": "Magisches Wort d. griech. Zauberliteratur",
     "chapters": [
       {
         "start": 302,
-        "author": "Preisendanz"
+        "end": 302,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -2688,47 +2848,57 @@
   {
     "lemma": "Thoeris",
     "previous": "Thoe 2",
-    "next": "Thogara",
+    "next": "Θογάρα",
+    "proof_read": 0,
     "short_description": "Ägypt. Göttin",
     "chapters": [
       {
         "start": 303,
-        "author": "Rusch"
+        "end": 305,
+        "author": "Rusch."
       }
     ]
   },
   {
-    "lemma": "Thogara",
+    "lemma": "Θογάρα",
     "previous": "Thoeris",
-    "next": "Thoinarmostria",
+    "next": "θοιναρμόστρια",
+    "sort_key": "Thogara",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 305,
-        "author": "Herrmann"
+        "end": 305,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Thoinarmostria",
-    "previous": "Thogara",
+    "lemma": "θοιναρμόστρια",
+    "previous": "Θογάρα",
     "next": "Thoinias",
+    "sort_key": "Thoinarmostria",
+    "proof_read": 0,
     "short_description": "Amtsbezeichnung der Aufseherin in Kulbezirken in Lakonien und Messenien",
     "chapters": [
       {
         "start": 305,
-        "author": "Ziehen"
+        "end": 306,
+        "author": "Ziehen."
       }
     ]
   },
   {
     "lemma": "Thoinias",
-    "previous": "Thoinarmostria",
+    "previous": "θοιναρμόστρια",
     "next": "Thoinon",
+    "proof_read": 0,
     "short_description": "Von Sikyon, Erzgießer",
     "chapters": [
       {
         "start": 306,
-        "author": "Lippold, Georg"
+        "end": 306,
+        "author": "Lippold."
       }
     ]
   },
@@ -2736,10 +2906,12 @@
     "lemma": "Thoinon",
     "previous": "Thoinias",
     "next": "Thoknia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 306,
-        "author": "Geyer"
+        "end": 307,
+        "author": "Geyer."
       }
     ]
   },
@@ -2747,10 +2919,12 @@
     "lemma": "Thoknia",
     "previous": "Thoinon",
     "next": "Tholos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 307,
-        "author": "Meyer, Ernst"
+        "end": 307,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -2758,11 +2932,13 @@
     "lemma": "Tholos",
     "previous": "Thoknia",
     "next": "Tholus",
+    "proof_read": 0,
     "short_description": "Gebäude, oft Rundbau",
     "chapters": [
       {
         "start": 307,
-        "author": "Fiechter"
+        "end": 315,
+        "author": "Fiechter."
       }
     ]
   },
@@ -2770,45 +2946,54 @@
     "lemma": "Tholus",
     "previous": "Tholos",
     "next": "Thomala",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 315,
-        "author": "Treidler"
+        "end": 315,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thomala",
     "previous": "Tholus",
-    "next": "Thomanon",
+    "next": "Θομανῶν",
+    "proof_read": 0,
     "short_description": "Stadt in Arabia felix",
     "chapters": [
       {
         "start": 315,
-        "author": "Grohmann"
+        "end": 316,
+        "author": "Grohmann."
       }
     ]
   },
   {
-    "lemma": "Thomanon",
+    "lemma": "Θομανῶν",
     "previous": "Thomala",
     "next": "Thomas 1",
+    "sort_key": "Thomanon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 316,
-        "author": "Weissbach"
+        "end": 316,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Thomas 1",
-    "previous": "Thomanon",
+    "previous": "Θομανῶν",
     "next": "Thomas 2",
+    "proof_read": 0,
     "short_description": "Der Apostel mit seinem Namen verbunden apokryphe christl. Schriften",
     "chapters": [
       {
         "start": 316,
-        "author": "Bornkamm"
+        "end": 323,
+        "author": "Günther Bornkamm."
       }
     ]
   },
@@ -2816,11 +3001,13 @@
     "lemma": "Thomas 2",
     "previous": "Thomas 1",
     "next": "Thomas 3",
+    "proof_read": 0,
     "short_description": "Th. Silentiaros, aus d. Hofstaat Kaiser Iustins I.",
     "chapters": [
       {
         "start": 323,
-        "author": "Nagl"
+        "end": 323,
+        "author": "Nagl."
       }
     ]
   },
@@ -2858,11 +3045,13 @@
     "lemma": "Thomas 5",
     "previous": "Thomas 4",
     "next": "Thomas 6",
+    "proof_read": 0,
     "short_description": "Praef. praet. per orientem",
     "chapters": [
       {
         "start": 323,
-        "author": "Enßlin"
+        "end": 323,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2885,11 +3074,13 @@
     "lemma": "Thomas 7",
     "previous": "Thomas 6",
     "next": "Thomas 8",
+    "proof_read": 0,
     "short_description": "Quaestor sacri palatii",
     "chapters": [
       {
         "start": 323,
-        "author": "Enßlin"
+        "end": 324,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2897,11 +3088,13 @@
     "lemma": "Thomas 8",
     "previous": "Thomas 7",
     "next": "Thomas 9",
+    "proof_read": 0,
     "short_description": "Vater des Johannes Guzes",
     "chapters": [
       {
         "start": 324,
-        "author": "Enßlin"
+        "end": 324,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2924,11 +3117,13 @@
     "lemma": "Thomas 10",
     "previous": "Thomas 9",
     "next": "Thomas 11",
+    "proof_read": 0,
     "short_description": "Gefolgsmann des Belisar",
     "chapters": [
       {
         "start": 324,
-        "author": "Enßlin"
+        "end": 324,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2936,11 +3131,13 @@
     "lemma": "Thomas 11",
     "previous": "Thomas 10",
     "next": "Thomas 12",
+    "proof_read": 0,
     "short_description": "Arcarius der Praetorianerpraefectur",
     "chapters": [
       {
         "start": 324,
-        "author": "Enßlin"
+        "end": 324,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2948,11 +3145,13 @@
     "lemma": "Thomas 12",
     "previous": "Thomas 11",
     "next": "Thomas 13",
+    "proof_read": 0,
     "short_description": "Erwähnt in einem Erlass Theoderichs d. Gr.",
     "chapters": [
       {
         "start": 324,
-        "author": "Enßlin"
+        "end": 324,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2960,11 +3159,13 @@
     "lemma": "Thomas 13",
     "previous": "Thomas 12",
     "next": "Thomas 14",
+    "proof_read": 0,
     "short_description": "Hatte Grundstücke des königlichen Patrimoniums übernommen",
     "chapters": [
       {
         "start": 324,
-        "author": "Enßlin"
+        "end": 324,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2987,11 +3188,13 @@
     "lemma": "Thomas 15",
     "previous": "Thomas 14",
     "next": "Thomas 16",
+    "proof_read": 0,
     "short_description": "Praef. praet. Africae unter Iustinus II",
     "chapters": [
       {
         "start": 324,
-        "author": "Enßlin"
+        "end": 325,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -2999,11 +3202,13 @@
     "lemma": "Thomas 16",
     "previous": "Thomas 15",
     "next": "Thomas 17",
+    "proof_read": 0,
     "short_description": "Flavius Menas Iustinianus Demosthenes Ioannes, Praeses Thebaidos 541/42 n. Chr.",
     "chapters": [
       {
         "start": 325,
-        "author": "Enßlin"
+        "end": 325,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3011,11 +3216,13 @@
     "lemma": "Thomas 17",
     "previous": "Thomas 16",
     "next": "Thomas 18",
+    "proof_read": 0,
     "short_description": "Katholischer Bischof von Cubda",
     "chapters": [
       {
         "start": 325,
-        "author": "Enßlin"
+        "end": 325,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3023,11 +3230,13 @@
     "lemma": "Thomas 18",
     "previous": "Thomas 17",
     "next": "Thomas 19",
+    "proof_read": 0,
     "short_description": "Verschiedene Adressaten des Isidoros von Pelusion",
     "chapters": [
       {
         "start": 325,
-        "author": "Enßlin"
+        "end": 325,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3035,11 +3244,13 @@
     "lemma": "Thomas 19",
     "previous": "Thomas 18",
     "next": "Thomas 20",
+    "proof_read": 0,
     "short_description": "Bischof von Derbe",
     "chapters": [
       {
         "start": 325,
-        "author": "Enßlin"
+        "end": 325,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3047,11 +3258,13 @@
     "lemma": "Thomas 20",
     "previous": "Thomas 19",
     "next": "Thomas 21",
+    "proof_read": 0,
     "short_description": "Bischof von Valentinianopolis und Auliu Kome",
     "chapters": [
       {
         "start": 325,
-        "author": "Enßlin"
+        "end": 326,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3059,11 +3272,13 @@
     "lemma": "Thomas 21",
     "previous": "Thomas 20",
     "next": "Thomas 22",
+    "proof_read": 0,
     "short_description": "Bischof von Mopsuestia",
     "chapters": [
       {
         "start": 326,
-        "author": "Enßlin"
+        "end": 326,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3071,11 +3286,13 @@
     "lemma": "Thomas 22",
     "previous": "Thomas 21",
     "next": "Thomas 23",
+    "proof_read": 0,
     "short_description": "Bischof von Porphyreon",
     "chapters": [
       {
         "start": 326,
-        "author": "Enßlin"
+        "end": 326,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3083,11 +3300,13 @@
     "lemma": "Thomas 23",
     "previous": "Thomas 22",
     "next": "Thomas 24",
+    "proof_read": 0,
     "short_description": "Bischof Euareias in der Phoinike Libanesia",
     "chapters": [
       {
         "start": 326,
-        "author": "Enßlin"
+        "end": 326,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3095,11 +3314,13 @@
     "lemma": "Thomas 24",
     "previous": "Thomas 23",
     "next": "Thomas 25",
+    "proof_read": 0,
     "short_description": "Bischof von Theodosiopolis",
     "chapters": [
       {
         "start": 326,
-        "author": "Enßlin"
+        "end": 326,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3107,11 +3328,13 @@
     "lemma": "Thomas 25",
     "previous": "Thomas 24",
     "next": "Thomas 26",
+    "proof_read": 0,
     "short_description": "Bischof der Phoenicia Maritima",
     "chapters": [
       {
         "start": 326,
-        "author": "Enßlin"
+        "end": 326,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3164,11 +3387,13 @@
     "lemma": "Thomas 29",
     "previous": "Thomas 28",
     "next": "Thomas 30",
+    "proof_read": 0,
     "short_description": "Presbyter und Archimandrit eines Johannesklosters im Gebiet von Apamea",
     "chapters": [
       {
         "start": 326,
-        "author": "Enßlin"
+        "end": 327,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3176,11 +3401,13 @@
     "lemma": "Thomas 30",
     "previous": "Thomas 29",
     "next": "Thomas 31",
+    "proof_read": 0,
     "short_description": "Orientalischer Bischof",
     "chapters": [
       {
         "start": 327,
-        "author": "Enßlin"
+        "end": 327,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3203,11 +3430,13 @@
     "lemma": "Thomas 32",
     "previous": "Thomas 31",
     "next": "Thomas 33",
+    "proof_read": 0,
     "short_description": "Bischof von Amida",
     "chapters": [
       {
         "start": 327,
-        "author": "Enßlin"
+        "end": 327,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3215,11 +3444,13 @@
     "lemma": "Thomas 33",
     "previous": "Thomas 32",
     "next": "Thomas 34",
+    "proof_read": 0,
     "short_description": "(Thômâ) bar Abdia, zweiter Bischof von Dara-Anastasiopolis",
     "chapters": [
       {
         "start": 327,
-        "author": "Enßlin"
+        "end": 327,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3242,11 +3473,13 @@
     "lemma": "Thomas 35",
     "previous": "Thomas 34",
     "next": "Thomas 36",
+    "proof_read": 0,
     "short_description": "Bischof von Damaskos",
     "chapters": [
       {
         "start": 327,
-        "author": "Enßlin"
+        "end": 328,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3254,11 +3487,13 @@
     "lemma": "Thomas 36",
     "previous": "Thomas 35",
     "next": "Thomas 37",
+    "proof_read": 0,
     "short_description": "Bischof von Emerîn",
     "chapters": [
       {
         "start": 328,
-        "author": "Enßlin"
+        "end": 328,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3266,11 +3501,13 @@
     "lemma": "Thomas 37",
     "previous": "Thomas 36",
     "next": "Thomas 38",
+    "proof_read": 0,
     "short_description": "Adressat eines Berichtes des Bischofs Innocentius von Maroneia",
     "chapters": [
       {
         "start": 328,
-        "author": "Enßlin"
+        "end": 328,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3278,11 +3515,13 @@
     "lemma": "Thomas 38",
     "previous": "Thomas 37",
     "next": "Thomas 39",
+    "proof_read": 0,
     "short_description": "Bischof von Germanicia",
     "chapters": [
       {
         "start": 328,
-        "author": "Enßlin"
+        "end": 328,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3290,11 +3529,13 @@
     "lemma": "Thomas 39",
     "previous": "Thomas 38",
     "next": "Thomas 40",
+    "proof_read": 0,
     "short_description": "Diakon und Apokrisiar der Kirche von Iustinianopolis",
     "chapters": [
       {
         "start": 328,
-        "author": "Enßlin"
+        "end": 328,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3302,11 +3543,13 @@
     "lemma": "Thomas 40",
     "previous": "Thomas 39",
     "next": "Thomas 41",
+    "proof_read": 0,
     "short_description": "Bischof von Aigai in Kilikien",
     "chapters": [
       {
         "start": 328,
-        "author": "Enßlin"
+        "end": 328,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3314,11 +3557,13 @@
     "lemma": "Thomas 41",
     "previous": "Thomas 40",
     "next": "Thomas 42",
+    "proof_read": 0,
     "short_description": "Bischof von Apamea",
     "chapters": [
       {
         "start": 328,
-        "author": "Enßlin"
+        "end": 328,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3326,11 +3571,13 @@
     "lemma": "Thomas 42",
     "previous": "Thomas 41",
     "next": "Thomas 43",
+    "proof_read": 0,
     "short_description": "Verschiedene Teilnehmer am Konzil von Constantinopel 553 n. Chr.",
     "chapters": [
       {
         "start": 328,
-        "author": "Enßlin"
+        "end": 328,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3338,11 +3585,13 @@
     "lemma": "Thomas 43",
     "previous": "Thomas 42",
     "next": "Thomna",
+    "proof_read": 0,
     "short_description": "Mönch eines Klosters bei Emesa",
     "chapters": [
       {
         "start": 328,
-        "author": "Enßlin"
+        "end": 329,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3362,11 +3611,13 @@
   {
     "lemma": "Thomu",
     "previous": "Thomna",
-    "next": "Thon 1",
+    "next": "Thon, Thonis 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 329,
-        "author": "Kees"
+        "end": 329,
+        "author": "Kees."
       }
     ]
   },
@@ -3385,7 +3636,6 @@
   {
     "lemma": "Thon 2",
     "previous": "Thon 1",
-    "next": "Θώνη",
     "short_description": "Örtlichkeit N-Afrikas",
     "chapters": [
       {
@@ -3395,8 +3645,22 @@
     ]
   },
   {
+    "lemma": "Thon, Thonis 2",
+    "previous": "Thon, Thonis 1",
+    "next": "Θώνη",
+    "proof_read": 0,
+    "short_description": "Örtlichkeit N-Afrikas",
+    "chapters": [
+      {
+        "start": 330,
+        "end": 330,
+        "author": "Treidler."
+      }
+    ]
+  },
+  {
     "lemma": "Θώνη",
-    "previous": "Thon 2",
+    "previous": "Thon, Thonis 2",
     "next": "Thonis",
     "sort_key": "Thone",
     "redirect": "Thoana",
@@ -3412,11 +3676,13 @@
     "lemma": "Thonis",
     "previous": "Θώνη",
     "next": "Thonitis",
+    "proof_read": 0,
     "short_description": "Ort in Ägypten",
     "chapters": [
       {
         "start": 330,
-        "author": "Kees"
+        "end": 330,
+        "author": "Kees."
       }
     ]
   },
@@ -3542,11 +3808,13 @@
     "lemma": "Thoosa",
     "previous": "Thoon 7",
     "next": "Thoosa 1",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
         "start": 330,
-        "author": "Geisau"
+        "end": 331,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -3554,11 +3822,13 @@
     "lemma": "Thoosa 1",
     "previous": "Thoosa",
     "next": "Thoosa 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Phorkys",
     "chapters": [
       {
         "start": 331,
-        "author": "Geisau"
+        "end": 331,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -3566,11 +3836,13 @@
     "lemma": "Thoosa 2",
     "previous": "Thoosa 1",
     "next": "Thoosa 3",
+    "proof_read": 0,
     "short_description": "Tochter d. Poseidon",
     "chapters": [
       {
         "start": 331,
-        "author": "Geisau"
+        "end": 331,
+        "author": "v. Geisau."
       }
     ]
   },
@@ -3624,11 +3896,13 @@
     "lemma": "Thorai",
     "previous": "Θωπῖτις",
     "next": "Thoraios",
+    "proof_read": 0,
     "short_description": "Att. Demos d. Phyle Antiochis",
     "chapters": [
       {
         "start": 331,
-        "author": "Wrede"
+        "end": 331,
+        "author": "Wrede."
       }
     ]
   },
@@ -3636,11 +3910,13 @@
     "lemma": "Thoraios",
     "previous": "Thorai",
     "next": "Thoranius",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Apollon",
     "chapters": [
       {
         "start": 331,
-        "author": "Kruse"
+        "end": 331,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -3648,11 +3924,13 @@
     "lemma": "Thoranius",
     "previous": "Thoraios",
     "next": "Thorates",
+    "proof_read": 0,
     "short_description": "Person, 1. Jh. v. Chr.",
     "chapters": [
       {
         "start": 331,
-        "author": "Münzer"
+        "end": 332,
+        "author": "Münzer."
       }
     ]
   },
@@ -3673,11 +3951,13 @@
     "lemma": "Thorax 1",
     "previous": "Thorates",
     "next": "Thorax 2",
+    "proof_read": 0,
     "short_description": "Griech. Panzer",
     "chapters": [
       {
         "start": 332,
-        "author": "Lammert, Friedrich"
+        "end": 336,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -3685,11 +3965,13 @@
     "lemma": "Thorax 2",
     "previous": "Thorax 1",
     "next": "Thorax 3",
+    "proof_read": 0,
     "short_description": "Schutzmauer, Brustwehr",
     "chapters": [
       {
         "start": 336,
-        "author": "Lammert, Friedrich"
+        "end": 336,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -3697,11 +3979,13 @@
     "lemma": "Thorax 3",
     "previous": "Thorax 2",
     "next": "Thorax 4",
+    "proof_read": 0,
     "short_description": "Angebl. König",
     "chapters": [
       {
         "start": 337,
-        "author": "Bernert"
+        "end": 337,
+        "author": "Bernert."
       }
     ]
   },
@@ -3709,11 +3993,13 @@
     "lemma": "Thorax 4",
     "previous": "Thorax 3",
     "next": "Thorax 5",
+    "proof_read": 0,
     "short_description": "Stadt in Syria II",
     "chapters": [
       {
         "start": 337,
-        "author": "Honigmann"
+        "end": 337,
+        "author": "Honigmann."
       }
     ]
   },
@@ -3721,11 +4007,13 @@
     "lemma": "Thorax 5",
     "previous": "Thorax 4",
     "next": "Thorax 6",
+    "proof_read": 0,
     "short_description": "Ein Aleuade aus Larissa",
     "chapters": [
       {
         "start": 337,
-        "author": "Bernert"
+        "end": 337,
+        "author": "Bernert."
       }
     ]
   },
@@ -3733,11 +4021,13 @@
     "lemma": "Thorax 6",
     "previous": "Thorax 5",
     "next": "Thorax 7",
+    "proof_read": 0,
     "short_description": "Spartiate",
     "chapters": [
       {
         "start": 337,
-        "author": "Ehrenberg"
+        "end": 338,
+        "author": "Ehrenberg."
       }
     ]
   },
@@ -3745,11 +4035,13 @@
     "lemma": "Thorax 7",
     "previous": "Thorax 6",
     "next": "Thorax 8",
+    "proof_read": 0,
     "short_description": "Thessaler",
     "chapters": [
       {
         "start": 338,
-        "author": "Geyer"
+        "end": 338,
+        "author": "Geyer."
       }
     ]
   },
@@ -3810,10 +4102,12 @@
     "lemma": "Thorisarius",
     "previous": "Thoringi",
     "next": "Thorisin",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 340,
-        "author": "Enßlin"
+        "end": 340,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3834,11 +4128,13 @@
     "lemma": "Thorismud 1",
     "previous": "Thorisin",
     "next": "Thorismud 2",
+    "proof_read": 0,
     "short_description": "König d. Ostgoten",
     "chapters": [
       {
         "start": 340,
-        "author": "Enßlin"
+        "end": 341,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3846,11 +4142,13 @@
     "lemma": "Thorismud 2",
     "previous": "Thorismud 1",
     "next": "Thorismud 3",
+    "proof_read": 0,
     "short_description": "König d. Westgoten, 451-453 n. Chr.",
     "chapters": [
       {
         "start": 341,
-        "author": "Enßlin"
+        "end": 343,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3858,11 +4156,13 @@
     "lemma": "Thorismud 3",
     "previous": "Thorismud 2",
     "next": "Thorismud 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Gepidenkönigs Thurisind",
     "chapters": [
       {
         "start": 343,
-        "author": "Enßlin"
+        "end": 343,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3870,11 +4170,13 @@
     "lemma": "Thorismud 4",
     "previous": "Thorismud 3",
     "next": "Thorius",
+    "proof_read": 0,
     "short_description": "Bucellarius d. Belisar",
     "chapters": [
       {
         "start": 343,
-        "author": "Enßlin"
+        "end": 343,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -3895,11 +4197,13 @@
     "lemma": "Thorius 1",
     "previous": "Thorius",
     "next": "Thorius 2",
+    "proof_read": 0,
     "short_description": "M. l. Nestor, M. Inschriftl. in Caere belegter Person",
     "chapters": [
       {
         "start": 343,
-        "author": "Münzer"
+        "end": 343,
+        "author": "Münzer."
       }
     ]
   },
@@ -3907,11 +4211,13 @@
     "lemma": "Thorius 2",
     "previous": "Thorius 1",
     "next": "Thorius 3",
+    "proof_read": 0,
     "short_description": "Sp., Tr. pl., sein Ackergesetz hob d. Gracchische Ackerreform großenteils auf",
     "chapters": [
       {
         "start": 343,
-        "author": "Münzer"
+        "end": 345,
+        "author": "Münzer."
       }
     ]
   },
@@ -3934,11 +4240,13 @@
     "lemma": "Thorius 4",
     "previous": "Thorius 3",
     "next": "Thorius 5",
+    "proof_read": 0,
     "short_description": "Balbus, L. Aus Lanuvium, Muster eines Epikureers",
     "chapters": [
       {
         "start": 345,
-        "author": "Münzer"
+        "end": 346,
+        "author": "Münzer."
       }
     ]
   },
@@ -3946,11 +4254,13 @@
     "lemma": "Thorius 5",
     "previous": "Thorius 4",
     "next": "Thornakios",
+    "proof_read": 0,
     "short_description": "Flaccus, Proc. v. Bithynien z.Zt. d. Augustus",
     "chapters": [
       {
         "start": 346,
-        "author": "Fluss"
+        "end": 347,
+        "author": "Fluss."
       }
     ]
   },
@@ -3971,11 +4281,13 @@
     "lemma": "Thornax 1",
     "previous": "Thornakios",
     "next": "Thornax 2",
+    "proof_read": 0,
     "short_description": "Berg westlich von Hermione",
     "chapters": [
       {
         "start": 347,
-        "author": "Meyer, Ernst"
+        "end": 347,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -3983,11 +4295,13 @@
     "lemma": "Thornax 2",
     "previous": "Thornax 1",
     "next": "Thornia",
+    "proof_read": 0,
     "short_description": "Örtlichkeit in Lakonien",
     "chapters": [
       {
         "start": 347,
-        "author": "Bölte"
+        "end": 349,
+        "author": "Bölte."
       }
     ]
   },
@@ -4007,47 +4321,57 @@
   {
     "lemma": "Thorodon",
     "previous": "Thornia",
-    "next": "Thospia",
+    "next": "Θωσπία",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 349,
-        "author": "Enßlin"
+        "end": 349,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
-    "lemma": "Thospia",
+    "lemma": "Θωσπία",
     "previous": "Thorodon",
-    "next": "Thospitis limne",
+    "next": "Θωσπῖτις λίμνη",
+    "sort_key": "Thospia",
+    "proof_read": 0,
     "short_description": "Stadt in Großarmenien",
     "chapters": [
       {
         "start": 349,
-        "author": "Weissbach"
+        "end": 349,
+        "author": "Weissbach."
       }
     ]
   },
   {
-    "lemma": "Thospitis limne",
-    "previous": "Thospia",
+    "lemma": "Θωσπῖτις λίμνη",
+    "previous": "Θωσπία",
     "next": "Thoth",
+    "sort_key": "Thospitislimne",
+    "proof_read": 0,
     "short_description": "Großer armenischer See",
     "chapters": [
       {
         "start": 349,
-        "author": "Weissbach"
+        "end": 350,
+        "author": "Weissbach."
       }
     ]
   },
   {
     "lemma": "Thoth",
-    "previous": "Thospitis limne",
+    "previous": "Θωσπῖτις λίμνη",
     "next": "Thothorses",
+    "proof_read": 0,
     "short_description": "Ägypt. Gott",
     "chapters": [
       {
         "start": 351,
-        "author": "Rusch"
+        "end": 388,
+        "author": "Rusch."
       }
     ]
   },
@@ -4055,11 +4379,13 @@
     "lemma": "Thothorses",
     "previous": "Thoth",
     "next": "Thou",
+    "proof_read": 0,
     "short_description": "König d. bosporanischen Reiches",
     "chapters": [
       {
         "start": 388,
-        "author": "Diehl, Erich"
+        "end": 388,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -4067,11 +4393,13 @@
     "lemma": "Thou",
     "previous": "Thothorses",
     "next": "Thôzopithê",
+    "proof_read": 0,
     "short_description": "Ort im O-Delta Ägyptens",
     "chapters": [
       {
         "start": 388,
-        "author": "Kees"
+        "end": 389,
+        "author": "Kees."
       }
     ]
   },
@@ -4090,11 +4418,13 @@
     "lemma": "Thraex",
     "previous": "Thôzopithê",
     "next": "Thraistos",
+    "proof_read": 0,
     "short_description": "Gladiatorenart",
     "chapters": [
       {
         "start": 389,
-        "author": "Schneider, K[arl]"
+        "end": 392,
+        "author": "K. Schneider."
       }
     ]
   },
@@ -4102,10 +4432,12 @@
     "lemma": "Thraistos",
     "previous": "Thraex",
     "next": "Thrake 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 392,
-        "author": "Meyer, Ernst"
+        "end": 392,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -4113,11 +4445,13 @@
     "lemma": "Thrake 1",
     "previous": "Thraistos",
     "next": "Thrake 2",
+    "proof_read": 0,
     "short_description": "Eponyme d. gleichnamigen Landes",
     "chapters": [
       {
         "start": 392,
-        "author": "Bernert"
+        "end": 393,
+        "author": "Bernert."
       }
     ]
   },
@@ -4125,11 +4459,13 @@
     "lemma": "Thrake 2",
     "previous": "Thrake 1",
     "next": "Thrake 3",
+    "proof_read": 0,
     "short_description": "Nymphe",
     "chapters": [
       {
         "start": 393,
-        "author": "Bernert"
+        "end": 393,
+        "author": "Bernert."
       }
     ]
   },
@@ -4137,31 +4473,33 @@
     "lemma": "Thrake 3",
     "previous": "Thrake 2",
     "next": "Thrakides",
+    "proof_read": 0,
     "short_description": "Landes- u. Volksbegriff v. schwankender Ausdehnung A. Landeskunde",
     "chapters": [
       {
         "start": 393,
-        "author": "Oberhummer"
+        "end": 404,
+        "author": "Eugen Oberhummer."
       },
       {
-        "start": 404,
-        "author": "Lenk"
+        "start": 405,
+        "end": 407,
+        "author": "B. Lenk."
       },
       {
-        "start": 407,
-        "author": "Brandenstein"
+        "start": 408,
+        "end": 414,
+        "author": "W. Brandenstein."
       },
       {
-        "start": 414,
-        "author": "Lenk"
+        "start": 415,
+        "end": 472,
+        "author": "Artur Betz."
       },
       {
-        "start": 452,
-        "author": "Betz"
-      },
-      {
-        "start": 472,
-        "author": "Kazarow"
+        "start": 473,
+        "end": 551,
+        "author": "Gawril Kazarow."
       }
     ]
   },
@@ -4169,10 +4507,12 @@
     "lemma": "Thrakides",
     "previous": "Thrake 3",
     "next": "Thrakion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 551,
-        "author": "Lippold, Georg"
+        "end": 551,
+        "author": "Lippold."
       }
     ]
   },
@@ -4180,10 +4520,12 @@
     "lemma": "Thrakion",
     "previous": "Thrakides",
     "next": "Thrakische Inseln",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 551,
-        "author": "Oberhummer"
+        "end": 552,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -4191,72 +4533,88 @@
     "lemma": "Thrakische Inseln",
     "previous": "Thrakion",
     "next": "Thrakisches Meer",
+    "sort_key": "Thrakischeinseln",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 552,
-        "author": "Oberhummer"
+        "end": 552,
+        "author": "Oberhummer."
       }
     ]
   },
   {
     "lemma": "Thrakisches Meer",
     "previous": "Thrakische Inseln",
-    "next": "Thrakon kome",
+    "next": "Θρᾴκων κώμη",
+    "sort_key": "Thrakischesmeer",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 552,
-        "author": "Oberhummer"
+        "end": 552,
+        "author": "Oberhummer."
       }
     ]
   },
   {
-    "lemma": "Thrakon kome",
+    "lemma": "Θρᾴκων κώμη",
     "previous": "Thrakisches Meer",
     "next": "Thramusdusim",
+    "sort_key": "Thrakonkome",
+    "proof_read": 0,
     "short_description": "Dorf bei Antiocheia",
     "chapters": [
       {
         "start": 552,
-        "author": "Honigmann"
+        "end": 552,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Thramusdusim",
-    "previous": "Thrakon kome",
+    "previous": "Θρᾴκων κώμη",
     "next": "Thranites",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 552,
-        "author": "Treidler"
+        "end": 553,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thranites",
     "previous": "Thramusdusim",
-    "next": "Thranitis",
+    "next": "Θρανῖτις",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 553,
-        "author": "Miltner, Franz"
+        "end": 553,
+        "author": "Miltner."
       }
     ]
   },
   {
-    "lemma": "Thranitis",
+    "lemma": "Θρανῖτις",
     "previous": "Thranites",
     "next": "Thranos",
+    "sort_key": "Thranitis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 553,
-        "author": "Miltner, Franz"
+        "end": 553,
+        "author": "Miltner."
       }
     ]
   },
   {
     "lemma": "Thranos",
-    "previous": "Thranitis",
+    "previous": "Θρανῖτις",
     "next": "Thrasamund 1",
     "chapters": [
       {
@@ -5003,11 +5361,13 @@
     "lemma": "Thrasymachos 1",
     "previous": "Thrasylochos 2",
     "next": "Thrasymachos 2",
-    "short_description": "Sophist u. Rhetor aus Chalkedon/Bithynien",
+    "proof_read": 0,
+    "short_description": "Sophist und Rhetor aus Chalkedon in Bithynien 5. Jh. v. Chr.",
     "chapters": [
       {
         "start": 584,
-        "author": "Oppenheimer"
+        "end": 592,
+        "author": "Klaus Oppenheimer."
       }
     ]
   },
@@ -5220,10 +5580,14 @@
     "lemma": "Θρήξ",
     "previous": "Θρῆσα",
     "next": "Thria",
+    "sort_key": "Threx",
+    "proof_read": 0,
+    "short_description": "Threx, zwei Burgen bei Jericho",
     "chapters": [
       {
         "start": 597,
-        "author": "Hölscher"
+        "end": 598,
+        "author": "Hölscher."
       }
     ]
   },
@@ -5828,11 +6192,14 @@
     "lemma": "Thule, Thyle",
     "previous": "Thukydides 5",
     "next": "Θουλουβάνα",
-    "short_description": "Land im äußersten N",
+    "sort_key": "Thule,thyle",
+    "proof_read": 0,
+    "short_description": "das Land im äußersten Norden",
     "chapters": [
       {
         "start": 627,
-        "author": "MacDonald"
+        "end": 630,
+        "author": "G. MacDonald."
       }
     ]
   },
@@ -7541,11 +7908,13 @@
     "lemma": "Tiamos",
     "previous": "Τιάγουρα",
     "next": "Tiana",
-    "short_description": "Beiname d. Gottes Men",
+    "proof_read": 0,
+    "short_description": "Beiname des Gottes Men",
     "chapters": [
       {
         "start": 760,
-        "author": "Stauffenberg"
+        "end": 761,
+        "author": "Graf Stauffenberg."
       }
     ]
   },
@@ -7553,11 +7922,13 @@
     "lemma": "Tiana",
     "previous": "Tiamos",
     "next": "Tiar 1",
-    "short_description": "Kelt. Göttin",
+    "proof_read": 0,
+    "short_description": "keltische Göttin",
     "chapters": [
       {
         "start": 761,
-        "author": "Kazarow"
+        "end": 761,
+        "author": "G. Kazarow."
       }
     ]
   },
@@ -7854,11 +8225,13 @@
     "lemma": "Tiberianus 1",
     "previous": "Tiberianus",
     "next": "Tiberianus 2",
+    "proof_read": 0,
     "short_description": "Dichter 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 766,
-        "author": "Lenz"
+        "end": 777,
+        "author": "Friedr. Lenz."
       }
     ]
   },
@@ -7956,11 +8329,14 @@
     "lemma": "Tiberina insula",
     "previous": "Tiberina descensio",
     "next": "Tiberinae",
-    "short_description": "Tiberinsel zw. Ianiculus u. Capitol",
+    "sort_key": "Tiberinainsula",
+    "proof_read": 0,
+    "short_description": "Tiberinsel zwischen Ianiculus und Capitol",
     "chapters": [
       {
         "start": 782,
-        "author": "Weiss, J[akob]"
+        "end": 784,
+        "author": "J. Weiss."
       }
     ]
   },
@@ -8598,11 +8974,14 @@
     "lemma": "L. Ticida",
     "previous": "Tichnondaês",
     "next": "Ticinum",
-    "short_description": "Röm. Ritter, Caesarianer im Neoterikerverzeichnis Ovid. trist.2,433f. gen.",
+    "sort_key": "Ticida",
+    "proof_read": 0,
+    "short_description": "röm. Ritter, Caesarianer im Neoterikerverzeichnis",
     "chapters": [
       {
         "start": 844,
-        "author": "Münzer"
+        "end": 846,
+        "author": "Münzer."
       }
     ]
   },
