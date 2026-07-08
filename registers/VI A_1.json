@@ -1331,7 +1331,7 @@
   {
     "lemma": "Theurgie",
     "previous": "Θεοῦ πρόσωπον",
-    "next": "thevrumines",
+    "next": "θevrumineś",
     "proof_read": 0,
     "short_description": "höchste Stufe der Magie",
     "chapters": [
@@ -1343,20 +1343,23 @@
     ]
   },
   {
-    "lemma": "thevrumines",
+    "lemma": "θevrumineś",
     "previous": "Theurgie",
     "next": "Theuzitana",
+    "sort_key": "thevrumines",
+    "proof_read": 0,
     "short_description": "Etr. Bezeichnung des Minotaurus",
     "chapters": [
       {
         "start": 270,
-        "author": "Fiesel"
+        "end": 271,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Theuzitana",
-    "previous": "thevrumines",
+    "previous": "θevrumineś",
     "next": "Thia 1",
     "proof_read": 2,
     "short_description": "Nur in Bischofslisten des ausgehenden Altertums (Ch. Tissot Géogr. comp. II",
@@ -2394,7 +2397,7 @@
     "lemma": "Thisitanus",
     "previous": "Θίσικα",
     "next": "Θισίζιμα",
-    "redirect": "Thisika",
+    "redirect": "Θίσικα",
     "proof_read": 2,
     "chapters": [
       {
@@ -2864,12 +2867,13 @@
     "previous": "Thoeris",
     "next": "θοιναρμόστρια",
     "sort_key": "Thogara",
-    "proof_read": 0,
+    "proof_read": 2,
+    "short_description": "Stadt in Serica",
     "chapters": [
       {
         "start": 305,
         "end": 305,
-        "author": "Herrmann."
+        "author": "Albert Herrmann."
       }
     ]
   },
@@ -3663,7 +3667,7 @@
     "previous": "Thon, Thonis 2",
     "next": "Thonis",
     "sort_key": "Thone",
-    "redirect": "Thoana",
+    "redirect": "Θοάνα",
     "proof_read": 2,
     "chapters": [
       {
@@ -3690,7 +3694,7 @@
     "lemma": "Thonitis",
     "previous": "Thonis",
     "next": "Thoon 1",
-    "redirect": "Thospitis limne",
+    "redirect": "Θωσπῖτις λίμνη",
     "proof_read": 2,
     "chapters": [
       {
@@ -3883,7 +3887,7 @@
     "previous": "Thootes",
     "next": "Thorai",
     "sort_key": "Thopitis",
-    "redirect": "Thospitis limne",
+    "redirect": "Θωσπῖτις λίμνη",
     "proof_read": 2,
     "chapters": [
       {
@@ -4309,7 +4313,7 @@
     "lemma": "Thornia",
     "previous": "Thornax 2",
     "next": "Thorodon",
-    "redirect": "Thoana",
+    "redirect": "Θοάνα",
     "proof_read": 2,
     "chapters": [
       {
@@ -4616,10 +4620,12 @@
     "lemma": "Thranos",
     "previous": "Θρανῖτις",
     "next": "Thrasamund 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 553,
-        "author": "Miltner, Franz"
+        "end": 553,
+        "author": "Miltner."
       }
     ]
   },
@@ -4627,11 +4633,13 @@
     "lemma": "Thrasamund 1",
     "previous": "Thranos",
     "next": "Thrasamund 2",
+    "proof_read": 0,
     "short_description": "Köng d. Vandalen, 496-523 n. Chr.",
     "chapters": [
       {
         "start": 553,
-        "author": "Enßlin"
+        "end": 559,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -4654,11 +4662,13 @@
     "lemma": "Thrasamund 3",
     "previous": "Thrasamund 2",
     "next": "Thrasaricus 1",
+    "proof_read": 0,
     "short_description": "Trans[mundus], praepositus unter Papst Hormisdas",
     "chapters": [
       {
         "start": 559,
-        "author": "Enßlin"
+        "end": 559,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -4666,11 +4676,13 @@
     "lemma": "Thrasaricus 1",
     "previous": "Thrasamund 3",
     "next": "Thrasaricus 2",
+    "proof_read": 0,
     "short_description": "König d. Gepiden",
     "chapters": [
       {
         "start": 559,
-        "author": "Enßlin"
+        "end": 559,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -4678,11 +4690,13 @@
     "lemma": "Thrasaricus 2",
     "previous": "Thrasaricus 1",
     "next": "Thrasaricus 3",
+    "proof_read": 0,
     "short_description": "Magister militum, 6. Jh. n. Chr.",
     "chapters": [
       {
         "start": 559,
-        "author": "Enßlin"
+        "end": 559,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -4690,11 +4704,13 @@
     "lemma": "Thrasaricus 3",
     "previous": "Thrasaricus 2",
     "next": "Thraseas",
+    "proof_read": 0,
     "short_description": "Gepide, arianischer Bischof",
     "chapters": [
       {
         "start": 559,
-        "author": "Enßlin"
+        "end": 559,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -4792,11 +4808,13 @@
     "lemma": "Thraskias",
     "previous": "Thrasippos 3",
     "next": "Thraso",
+    "proof_read": 0,
     "short_description": "Wind aus NW",
     "chapters": [
       {
         "start": 560,
-        "author": "Capelle"
+        "end": 562,
+        "author": "Capelle."
       }
     ]
   },
@@ -4817,11 +4835,13 @@
     "lemma": "Thrason 1",
     "previous": "Thraso",
     "next": "Thrason 2",
+    "proof_read": 0,
     "short_description": "Athener, unterstützte d. theban. Demokraten",
     "chapters": [
       {
         "start": 562,
-        "author": "Schwahn"
+        "end": 562,
+        "author": "Schwahn."
       }
     ]
   },
@@ -4829,11 +4849,13 @@
     "lemma": "Thrason 2",
     "previous": "Thrason 1",
     "next": "Thrason 3",
+    "proof_read": 0,
     "short_description": "Syrakusaner, Freund d. Königs Hieronymos",
     "chapters": [
       {
         "start": 563,
-        "author": "Geyer"
+        "end": 563,
+        "author": "Geyer."
       }
     ]
   },
@@ -4841,11 +4863,13 @@
     "lemma": "Thrason 3",
     "previous": "Thrason 2",
     "next": "Thrason 4",
+    "proof_read": 0,
     "short_description": "Archon zu Buttos",
     "chapters": [
       {
         "start": 563,
-        "author": "Oldfather"
+        "end": 563,
+        "author": "Oldfather."
       }
     ]
   },
@@ -4853,11 +4877,13 @@
     "lemma": "Thrason 4",
     "previous": "Thrason 3",
     "next": "Thrason 5",
+    "proof_read": 0,
     "short_description": "Aus Tyndaris/Sizilien",
     "chapters": [
       {
         "start": 563,
-        "author": "Münzer"
+        "end": 563,
+        "author": "Münzer."
       }
     ]
   },
@@ -4865,11 +4891,13 @@
     "lemma": "Thrason 5",
     "previous": "Thrason 4",
     "next": "Thrason 6",
+    "proof_read": 0,
     "short_description": "Person bei Plin. nat.",
     "chapters": [
       {
         "start": 563,
-        "author": "Fabricius"
+        "end": 563,
+        "author": "Fabricius."
       }
     ]
   },
@@ -4877,11 +4905,13 @@
     "lemma": "Thrason 6",
     "previous": "Thrason 5",
     "next": "Thrason 7",
+    "proof_read": 0,
     "short_description": "Erzgießer",
     "chapters": [
       {
         "start": 563,
-        "author": "Lippold, Georg"
+        "end": 563,
+        "author": "Lippold."
       }
     ]
   },
@@ -4889,11 +4919,13 @@
     "lemma": "Thrason 7",
     "previous": "Thrason 6",
     "next": "Thrason 8",
+    "proof_read": 0,
     "short_description": "Von Pellene, Bildhauer?",
     "chapters": [
       {
         "start": 563,
-        "author": "Lippold, Georg"
+        "end": 564,
+        "author": "Lippold."
       }
     ]
   },
@@ -4945,11 +4977,13 @@
     "lemma": "Thrassa 2",
     "previous": "Thrassa 1",
     "next": "Thrasyalkes",
+    "proof_read": 0,
     "short_description": "Mutter d. Ismaros",
     "chapters": [
       {
         "start": 565,
-        "author": "Bernert"
+        "end": 565,
+        "author": "Bernert."
       }
     ]
   },
@@ -4957,11 +4991,13 @@
     "lemma": "Thrasyalkes",
     "previous": "Thrassa 2",
     "next": "Thrasybule",
+    "proof_read": 0,
     "short_description": "Von Thasos, wohl Vorsokratiker",
     "chapters": [
       {
         "start": 565,
-        "author": "Capelle"
+        "end": 567,
+        "author": "Capelle."
       }
     ]
   },
@@ -4984,11 +5020,13 @@
     "lemma": "Thrasybulos 1",
     "previous": "Thrasybule",
     "next": "Thrasybulos 2",
+    "proof_read": 0,
     "short_description": "Tyrann v. Milet",
     "chapters": [
       {
         "start": 567,
-        "author": "Schachermeyr"
+        "end": 568,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -4996,11 +5034,13 @@
     "lemma": "Thrasybulos 2",
     "previous": "Thrasybulos 1",
     "next": "Thrasybulos 3",
+    "proof_read": 0,
     "short_description": "Tyrann v. Syrakus",
     "chapters": [
       {
         "start": 568,
-        "author": "Schachermeyr"
+        "end": 568,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -5008,11 +5048,13 @@
     "lemma": "Thrasybulos 3",
     "previous": "Thrasybulos 2",
     "next": "Thrasybulos 4",
+    "proof_read": 0,
     "short_description": "Berühmter athen. Feldherr u. Staatsmann 5./4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 568,
-        "author": "Schwahn"
+        "end": 574,
+        "author": "Schwahn."
       }
     ]
   },
@@ -5020,11 +5062,13 @@
     "lemma": "Thrasybulos 4",
     "previous": "Thrasybulos 3",
     "next": "Thrasybulos 5",
+    "proof_read": 0,
     "short_description": "Sohn v. Nr. 3",
     "chapters": [
       {
         "start": 574,
-        "author": "Schwahn"
+        "end": 575,
+        "author": "Schwahn."
       }
     ]
   },
@@ -5032,11 +5076,13 @@
     "lemma": "Thrasybulos 5",
     "previous": "Thrasybulos 4",
     "next": "Thrasybulos 6",
+    "proof_read": 0,
     "short_description": "Sohn d. Thrason aus Kollytos, athen.Staatsmann, Gegner d. Alkibiades",
     "chapters": [
       {
         "start": 575,
-        "author": "Schwahn"
+        "end": 575,
+        "author": "Schwahn."
       }
     ]
   },
@@ -5044,11 +5090,13 @@
     "lemma": "Thrasybulos 6",
     "previous": "Thrasybulos 5",
     "next": "Thrasybulos 7",
+    "proof_read": 0,
     "short_description": "Sohn d. Thrason aus Erchia, von antimakedon. Gesinnung",
     "chapters": [
       {
         "start": 575,
-        "author": "Schwahn"
+        "end": 575,
+        "author": "Schwahn."
       }
     ]
   },
@@ -5070,11 +5118,13 @@
     "lemma": "Thrasybulos 8",
     "previous": "Thrasybulos 7",
     "next": "Thrasybulos 9",
+    "proof_read": 0,
     "short_description": "Von Kalydon, Mörder d. Phrynichos",
     "chapters": [
       {
         "start": 575,
-        "author": "Schwahn"
+        "end": 576,
+        "author": "Schwahn."
       }
     ]
   },
@@ -5082,11 +5132,13 @@
     "lemma": "Thrasybulos 9",
     "previous": "Thrasybulos 8",
     "next": "Thrasybulos 10",
+    "proof_read": 0,
     "short_description": "Eleischer Wahrsager",
     "chapters": [
       {
         "start": 576,
-        "author": "Bernert"
+        "end": 576,
+        "author": "Bernert."
       }
     ]
   },
@@ -5094,11 +5146,13 @@
     "lemma": "Thrasybulos 10",
     "previous": "Thrasybulos 9",
     "next": "Thrasybulos 11",
+    "proof_read": 0,
     "short_description": "Literarhistor. Schriftsteller",
     "chapters": [
       {
         "start": 576,
-        "author": "Bux"
+        "end": 577,
+        "author": "Bux."
       }
     ]
   },
@@ -5120,11 +5174,13 @@
     "lemma": "Thrasydaios 1",
     "previous": "Thrasybulos 11",
     "next": "Thrasydaios 2",
+    "proof_read": 0,
     "short_description": "Demokratenführer in Elis",
     "chapters": [
       {
         "start": 577,
-        "author": "Schachermeyr"
+        "end": 577,
+        "author": "F. Schachermeyr."
       }
     ]
   },
@@ -5162,11 +5218,13 @@
     "lemma": "Thrasydaios 4",
     "previous": "Thrasydaios 3",
     "next": "Thrasydemos",
+    "proof_read": 0,
     "short_description": "Schüler d. Libanius",
     "chapters": [
       {
         "start": 577,
-        "author": "Enßlin"
+        "end": 577,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5190,11 +5248,13 @@
     "lemma": "Thrasykles 1",
     "previous": "Thrasydemos",
     "next": "Thrasykles 2",
+    "proof_read": 0,
     "short_description": "Athener, am Friedensschluß 421 v. Chr. beteiligt",
     "chapters": [
       {
         "start": 578,
-        "author": "Fiehn"
+        "end": 578,
+        "author": "Fiehn."
       }
     ]
   },
@@ -5216,11 +5276,13 @@
     "lemma": "Thrasykles 3",
     "previous": "Thrasykles 2",
     "next": "Thrasyllos 1",
+    "proof_read": 0,
     "short_description": "Athener aus Oion",
     "chapters": [
       {
         "start": 578,
-        "author": "Fiehn"
+        "end": 578,
+        "author": "Fiehn."
       }
     ]
   },
@@ -5242,11 +5304,13 @@
     "lemma": "Thrasyllos 2",
     "previous": "Thrasyllos 1",
     "next": "Thrasyllos 3",
+    "proof_read": 0,
     "short_description": "Athen. Feldherr während d. dekeleischen Krieges",
     "chapters": [
       {
         "start": 578,
-        "author": "Schwahn"
+        "end": 581,
+        "author": "Schwahn."
       }
     ]
   },
@@ -5254,11 +5318,13 @@
     "lemma": "Thrasyllos 3",
     "previous": "Thrasyllos 2",
     "next": "Thrasyllos 4",
+    "proof_read": 0,
     "short_description": "Sohn d. T. aus Dekelia",
     "chapters": [
       {
         "start": 581,
-        "author": "Schwahn"
+        "end": 581,
+        "author": "Schwahn."
       }
     ]
   },
@@ -5280,11 +5346,13 @@
     "lemma": "Thrasyllos 5",
     "previous": "Thrasyllos 4",
     "next": "Thrasyllos 6",
+    "proof_read": 0,
     "short_description": "Athener, Adoptivsohn d. Apollodoros",
     "chapters": [
       {
         "start": 581,
-        "author": "Fiehn"
+        "end": 581,
+        "author": "Fiehn."
       }
     ]
   },
@@ -5292,11 +5360,13 @@
     "lemma": "Thrasyllos 6",
     "previous": "Thrasyllos 5",
     "next": "Thrasyllos 7",
+    "proof_read": 0,
     "short_description": "Alter Kyniker",
     "chapters": [
       {
         "start": 581,
-        "author": "Modrze"
+        "end": 581,
+        "author": "Modrze."
       }
     ]
   },
@@ -5337,11 +5407,13 @@
     "lemma": "Thrasylochos 1",
     "previous": "Thrasyllos 8",
     "next": "Thrasylochos 2",
+    "proof_read": 0,
     "short_description": "Athener, Sohn d. Kephisodoros",
     "chapters": [
       {
         "start": 584,
-        "author": "Fiehn"
+        "end": 584,
+        "author": "Fiehn."
       }
     ]
   },
@@ -5349,11 +5421,13 @@
     "lemma": "Thrasylochos 2",
     "previous": "Thrasylochos 1",
     "next": "Thrasymachos 1",
+    "proof_read": 0,
     "short_description": "Messenier, Sohn d. Philiades",
     "chapters": [
       {
         "start": 584,
-        "author": "Fiehn"
+        "end": 584,
+        "author": "Fiehn."
       }
     ]
   },
@@ -5375,11 +5449,13 @@
     "lemma": "Thrasymachos 2",
     "previous": "Thrasymachos 1",
     "next": "Thrasymachos 3",
+    "proof_read": 0,
     "short_description": "Aus Korinth, Philosoph u. Lehrer d. Stilpon v. Megara",
     "chapters": [
       {
         "start": 592,
-        "author": "Fritz"
+        "end": 592,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -5387,11 +5463,13 @@
     "lemma": "Thrasymachos 3",
     "previous": "Thrasymachos 2",
     "next": "Thrasymedes 1",
+    "proof_read": 0,
     "short_description": "Aus Kyme",
     "chapters": [
       {
         "start": 592,
-        "author": "Fritz"
+        "end": 593,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -5399,11 +5477,13 @@
     "lemma": "Thrasymedes 1",
     "previous": "Thrasymachos 3",
     "next": "Thrasymedes 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Nestor",
     "chapters": [
       {
         "start": 593,
-        "author": "Bernert"
+        "end": 594,
+        "author": "Bernert."
       }
     ]
   },
@@ -5411,11 +5491,13 @@
     "lemma": "Thrasymedes 2",
     "previous": "Thrasymedes 1",
     "next": "Thrasymedes 3",
+    "proof_read": 0,
     "short_description": "Sohn d. Arignotos, v. Paros, Bildhauer u. Architekt",
     "chapters": [
       {
         "start": 594,
-        "author": "Lippold, Georg"
+        "end": 595,
+        "author": "Lippold."
       }
     ]
   },
@@ -5423,11 +5505,13 @@
     "lemma": "Thrasymedes 3",
     "previous": "Thrasymedes 2",
     "next": "Thrasymelos",
+    "proof_read": 0,
     "short_description": "Bildhauer",
     "chapters": [
       {
         "start": 595,
-        "author": "Lippold, Georg"
+        "end": 595,
+        "author": "Lippold."
       }
     ]
   },
@@ -5478,11 +5562,13 @@
     "lemma": "Thraustila 1",
     "previous": "Thrausi",
     "next": "Thraustila 2",
+    "proof_read": 0,
     "short_description": "Gote o. Gepide, Schwiegersohn d. Aetius",
     "chapters": [
       {
         "start": 595,
-        "author": "Enßlin"
+        "end": 595,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5490,11 +5576,13 @@
     "lemma": "Thraustila 2",
     "previous": "Thraustila 1",
     "next": "Thraustila 3",
+    "proof_read": 0,
     "short_description": "Verschwörer gg. Kaiser Zeno",
     "chapters": [
       {
         "start": 595,
-        "author": "Enßlin"
+        "end": 595,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5502,11 +5590,13 @@
     "lemma": "Thraustila 3",
     "previous": "Thraustila 2",
     "next": "Thraustos",
+    "proof_read": 0,
     "short_description": "Gepidenkönig, Vater d.Thrasarich",
     "chapters": [
       {
         "start": 595,
-        "author": "Enßlin"
+        "end": 596,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -5595,11 +5685,13 @@
     "lemma": "Thria",
     "previous": "Θρήξ",
     "next": "Thriagonos",
+    "proof_read": 0,
     "short_description": "Att. Demos d. Phyle Oineis",
     "chapters": [
       {
         "start": 598,
-        "author": "Wrede"
+        "end": 598,
+        "author": "Wrede."
       }
     ]
   },
@@ -5621,41 +5713,48 @@
     "lemma": "Thriai",
     "previous": "Thriagonos",
     "next": "Thriambos",
+    "proof_read": 0,
     "short_description": "Drei Nymphen am Parnassos, Pflegerinnen Apollons",
     "chapters": [
       {
         "start": 598,
-        "author": "Türk"
+        "end": 599,
+        "author": "Türk."
       }
     ]
   },
   {
     "lemma": "Thriambos",
     "previous": "Thriai",
-    "next": "Thriasion pedion",
+    "next": "Θριάσιον πεδίον",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Dionysos",
     "chapters": [
       {
         "start": 599,
-        "author": "Kruse"
+        "end": 599,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
-    "lemma": "Thriasion pedion",
+    "lemma": "Θριάσιον πεδίον",
     "previous": "Thriambos",
     "next": "Thriasios",
+    "sort_key": "Thriasionpedion",
+    "proof_read": 0,
     "short_description": "to Thriasion, Ebene d. Demos Thria",
     "chapters": [
       {
         "start": 599,
-        "author": "Wrede"
+        "end": 601,
+        "author": "Wrede."
       }
     ]
   },
   {
     "lemma": "Thriasios",
-    "previous": "Thriasion pedion",
+    "previous": "Θριάσιον πεδίον",
     "next": "Thrinakia",
     "proof_read": 2,
     "short_description": "(Θριάσιος), Heros, in einer Inschrift genannt, die in der thriasischen Ebene",
@@ -5671,11 +5770,13 @@
     "lemma": "Thrinakia",
     "previous": "Thriasios",
     "next": "Thrinakie, Trinakria, Trinakia",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Hekate-Selene",
     "chapters": [
       {
         "start": 601,
-        "author": "Kruse"
+        "end": 601,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -5683,11 +5784,14 @@
     "lemma": "Thrinakie, Trinakria, Trinakia",
     "previous": "Thrinakia",
     "next": "Thrinakos",
+    "sort_key": "Thrinakie,trinakria, trinakia",
+    "proof_read": 0,
     "short_description": "Insel d. Herden d. Helios bei Homer: Sizilien (?)",
     "chapters": [
       {
         "start": 601,
-        "author": "Ziegler"
+        "end": 607,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5695,18 +5799,20 @@
     "lemma": "Thrinakos",
     "previous": "Thrinakie, Trinakria, Trinakia",
     "next": "Thrinax",
+    "proof_read": 0,
     "short_description": "König v. Sizilien",
     "chapters": [
       {
         "start": 607,
-        "author": "Kruse"
+        "end": 607,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Thrinax",
     "previous": "Thrinakos",
-    "next": "Thrinke",
+    "next": "Θρίγκη",
     "redirect": "Thrinakos",
     "proof_read": 2,
     "chapters": [
@@ -5717,30 +5823,36 @@
     ]
   },
   {
-    "lemma": "Thrinke",
+    "lemma": "Θρίγκη",
     "previous": "Thrinax",
-    "next": "Thrinnaeus",
+    "next": "Θρινναεύς",
+    "sort_key": "Thrinke",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 607,
-        "author": "Treidler"
+        "end": 607,
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Thrinnaeus",
-    "previous": "Thrinke",
+    "lemma": "Θρινναεύς",
+    "previous": "Θρίγκη",
     "next": "Thripis",
+    "sort_key": "Thrinnaeus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 607,
-        "author": "Stählin"
+        "end": 607,
+        "author": "Stählin."
       }
     ]
   },
   {
     "lemma": "Thripis",
-    "previous": "Thrinnaeus",
+    "previous": "Θρινναεύς",
     "next": "Thrius",
     "redirect": "Triphis",
     "proof_read": 2,
@@ -5769,42 +5881,50 @@
   {
     "lemma": "Thrixallios",
     "previous": "Thrius",
-    "next": "Throana 1",
+    "next": "Θρόανα 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 607,
-        "author": "Sontheimer"
+        "end": 608,
+        "author": "Sontheimer."
       }
     ]
   },
   {
-    "lemma": "Throana 1",
+    "lemma": "Θρόανα 1",
     "previous": "Thrixallios",
-    "next": "Throana 2",
+    "next": "Θρόανα 2",
+    "sort_key": "Throana 1",
+    "proof_read": 0,
     "short_description": "Ortschaft in Serica",
     "chapters": [
       {
         "start": 608,
-        "author": "Herrmann"
+        "end": 608,
+        "author": "Herrmann."
       }
     ]
   },
   {
-    "lemma": "Throana 2",
-    "previous": "Throana 1",
+    "lemma": "Θρόανα 2",
+    "previous": "Θρόανα 1",
     "next": "Θρόανοι",
+    "sort_key": "Throana 2",
+    "proof_read": 0,
     "short_description": "Ortschaft in India extra Gangem",
     "chapters": [
       {
         "start": 608,
-        "author": "Herrmann"
+        "end": 608,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Θρόανοι",
-    "previous": "Throana 2",
-    "next": "Throaska",
+    "previous": "Θρόανα 2",
+    "next": "Θρόασκα",
     "sort_key": "Throanoi",
     "redirect": "Throana 1",
     "proof_read": 2,
@@ -5816,25 +5936,30 @@
     ]
   },
   {
-    "lemma": "Throaska",
+    "lemma": "Θρόασκα",
     "previous": "Θρόανοι",
     "next": "Thronia",
+    "sort_key": "Throaska",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 608,
-        "author": "Herrmann"
+        "end": 608,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Thronia",
-    "previous": "Throaska",
+    "previous": "Θρόασκα",
     "next": "Thronikos",
+    "proof_read": 0,
     "short_description": "Eponyme d. Hauptstadt d. epiknemidischen Lokrer, Thronion",
     "chapters": [
       {
         "start": 608,
-        "author": "Göber"
+        "end": 608,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -5842,58 +5967,70 @@
     "lemma": "Thronikos",
     "previous": "Thronia",
     "next": "Thronion",
+    "proof_read": 0,
     "short_description": "Heros aus Thronion",
     "chapters": [
       {
         "start": 608,
-        "author": "Göber"
+        "end": 609,
+        "author": "Willi Göber."
       }
     ]
   },
   {
     "lemma": "Thronion",
     "previous": "Thronikos",
-    "next": "Thronos 1",
+    "next": "Θρόνος 1",
+    "proof_read": 0,
     "short_description": "Hauptstadt d. epiknemidischen Lokrer",
     "chapters": [
       {
         "start": 609,
-        "author": "Oldfather"
+        "end": 613,
+        "author": "Oldfather."
       }
     ]
   },
   {
-    "lemma": "Thronos 1",
+    "lemma": "Θρόνος 1",
     "previous": "Thronion",
-    "next": "Thronos 2",
+    "next": "Θρόνος 2",
+    "sort_key": "Thronos 1",
+    "proof_read": 0,
     "short_description": "Höherer Stuhl Königs- o. Götterthron",
     "chapters": [
       {
         "start": 613,
-        "author": "Hug"
+        "end": 618,
+        "author": "Hug."
       }
     ]
   },
   {
-    "lemma": "Thronos 2",
-    "previous": "Thronos 1",
+    "lemma": "Θρόνος 2",
+    "previous": "Θρόνος 1",
     "next": "Thryanda",
+    "sort_key": "Thronos 2",
+    "proof_read": 0,
     "short_description": "Berg an d. nordsyr. Küste",
     "chapters": [
       {
         "start": 618,
-        "author": "Honigmann"
+        "end": 618,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Thryanda",
-    "previous": "Thronos 2",
+    "previous": "Θρόνος 2",
     "next": "Thryon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 618,
-        "author": "Ziegler"
+        "end": 618,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5901,11 +6038,13 @@
     "lemma": "Thryon",
     "previous": "Thryanda",
     "next": "Thuben",
+    "proof_read": 0,
     "short_description": "Thryonessa, Ort im pylischen Reich d. Nestor",
     "chapters": [
       {
         "start": 618,
-        "author": "Meyer, Ernst"
+        "end": 618,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -5913,33 +6052,53 @@
     "lemma": "Thuben",
     "previous": "Thryon",
     "next": "Thubida",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 618,
-        "author": "Treidler"
+        "end": 619,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thubida",
     "previous": "Thuben",
-    "next": "Thuburbo 1",
+    "next": "Thuburbo",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 619,
-        "author": "Weissbach"
+        "end": 619,
+        "author": "Weissbach."
+      }
+    ]
+  },
+  {
+    "lemma": "Thuburbo",
+    "previous": "Thubida",
+    "next": "Thuburbo 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 619,
+        "end": 619,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thuburbo 1",
-    "previous": "Thubida",
+    "previous": "Thuburbo",
     "next": "Thuburbo 2",
+    "proof_read": 0,
     "short_description": "Th. Maius, kaiserzeitl. Siedlung N-Afrikas",
     "chapters": [
       {
         "start": 619,
-        "author": "Treidler"
+        "end": 620,
+        "author": "Treidler."
       }
     ]
   },
@@ -5947,68 +6106,95 @@
     "lemma": "Thuburbo 2",
     "previous": "Thuburbo 1",
     "next": "Thuburnica",
+    "proof_read": 0,
     "short_description": "Th. Minus, Siedlung N-Afrikas, heute Tebourba",
     "chapters": [
       {
         "start": 620,
-        "author": "Treidler"
+        "end": 620,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thuburnica",
     "previous": "Thuburbo 2",
-    "next": "Thubursicum 1",
+    "next": "Thubursicum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 620,
-        "author": "Treidler"
+        "end": 620,
+        "author": "Treidler."
+      }
+    ]
+  },
+  {
+    "lemma": "Thubursicum",
+    "previous": "Thuburnica",
+    "next": "Thubursicum 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 621,
+        "end": 621,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thubursicum 1",
-    "previous": "Thuburnica",
+    "previous": "Thubursicum",
     "next": "Thubursicum 2",
+    "proof_read": 0,
     "short_description": "Th. Burse, Siedlung N-Afrikas, heute Teboursouk",
     "chapters": [
       {
         "start": 621,
-        "author": "Treidler"
+        "end": 621,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thubursicum 2",
     "previous": "Thubursicum 1",
-    "next": "Thubutis",
+    "next": "Θουβοῦτις",
+    "proof_read": 0,
     "short_description": "Th. Numidarum, Siedlung N-Afrikas",
     "chapters": [
       {
         "start": 621,
-        "author": "Treidler"
+        "end": 622,
+        "author": "Treidler."
       }
     ]
   },
   {
-    "lemma": "Thubutis",
+    "lemma": "Θουβοῦτις",
     "previous": "Thubursicum 2",
     "next": "Thucolis",
+    "sort_key": "Thubutis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 622,
-        "author": "Treidler"
+        "end": 622,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Thucolis",
-    "previous": "Thubutis",
+    "previous": "Θουβοῦτις",
     "next": "Thudemos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 622,
-        "author": "Heichelheim"
+        "end": 622,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -6016,10 +6202,12 @@
     "lemma": "Thudemos",
     "previous": "Thucolis",
     "next": "Thudeus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 622,
-        "author": "Kirchner"
+        "end": 622,
+        "author": "Kirchner."
       }
     ]
   },
@@ -6027,10 +6215,12 @@
     "lemma": "Thudeus",
     "previous": "Thudemos",
     "next": "Thudippos 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 622,
-        "author": "Schwahn"
+        "end": 622,
+        "author": "Schwahn."
       }
     ]
   },
@@ -6038,11 +6228,13 @@
     "lemma": "Thudippos 1",
     "previous": "Thudeus",
     "next": "Thudippos 2",
+    "proof_read": 0,
     "short_description": "Athener aus Araphen",
     "chapters": [
       {
         "start": 623,
-        "author": "Fiehn"
+        "end": 623,
+        "author": "Fiehn."
       }
     ]
   },
@@ -6064,7 +6256,7 @@
   {
     "lemma": "Thueris",
     "previous": "Thudippos 2",
-    "next": "thufltha",
+    "next": "θuflθa",
     "redirect": "Thoeris",
     "proof_read": 2,
     "chapters": [
@@ -6075,26 +6267,31 @@
     ]
   },
   {
-    "lemma": "thufltha",
+    "lemma": "θuflθa",
     "previous": "Thueris",
     "next": "Thugenides",
+    "sort_key": "thufltha",
+    "proof_read": 0,
     "short_description": "Etr. Name einer Göttin",
     "chapters": [
       {
         "start": 623,
-        "author": "Fiesel"
+        "end": 624,
+        "author": "Fiesel."
       }
     ]
   },
   {
     "lemma": "Thugenides",
-    "previous": "thufltha",
-    "next": "Thuidi",
+    "previous": "θuflθa",
+    "next": "Thugga",
+    "proof_read": 0,
     "short_description": "Komödiendichter",
     "chapters": [
       {
         "start": 624,
-        "author": "Körte"
+        "end": 624,
+        "author": "Körte."
       }
     ]
   },
@@ -6115,11 +6312,13 @@
     "lemma": "Thukritos",
     "previous": "Thuidi",
     "next": "Thukydides 1",
+    "proof_read": 0,
     "short_description": "Athener, Person bei Demosth.",
     "chapters": [
       {
         "start": 624,
-        "author": "Fiehn"
+        "end": 625,
+        "author": "Fiehn."
       }
     ]
   },
@@ -6144,11 +6343,13 @@
     "lemma": "Thukydides 2",
     "previous": "Thukydides 1",
     "next": "Thukydides 3",
+    "proof_read": 0,
     "short_description": "Berühmter athen. Staatsmann, Gegner d. Perikles",
     "chapters": [
       {
         "start": 625,
-        "author": "Fiehn"
+        "end": 627,
+        "author": "Fiehn."
       }
     ]
   },
@@ -6156,11 +6357,13 @@
     "lemma": "Thukydides 3",
     "previous": "Thukydides 2",
     "next": "Thukydides 4",
+    "proof_read": 0,
     "short_description": "Sohn d. Ariston, wahrscheinl. Stratege im Samischen Krieg 440 v. Chr.",
     "chapters": [
       {
         "start": 627,
-        "author": "Fiehn"
+        "end": 627,
+        "author": "Fiehn."
       }
     ]
   },
@@ -6168,11 +6371,13 @@
     "lemma": "Thukydides 4",
     "previous": "Thukydides 3",
     "next": "Thukydides 5",
+    "proof_read": 0,
     "short_description": "Sohn d. Pantainetos",
     "chapters": [
       {
         "start": 627,
-        "author": "Fiehn"
+        "end": 627,
+        "author": "Fiehn."
       }
     ]
   },
@@ -6180,11 +6385,13 @@
     "lemma": "Thukydides 5",
     "previous": "Thukydides 4",
     "next": "Thule, Thyle",
+    "proof_read": 0,
     "short_description": "Von Martius Verus beauftragt, d. König Sohaemus in Armenien wieder einzusetzen",
     "chapters": [
       {
         "start": 627,
-        "author": "Stein, [Arthur]"
+        "end": 627,
+        "author": "Stein."
       }
     ]
   },
@@ -6222,11 +6429,13 @@
     "lemma": "Thumata",
     "previous": "Θουλουβάνα",
     "next": "Thumelicus",
+    "proof_read": 0,
     "short_description": "Stadt in Arabien an d. Karawanenstraße nach Charax",
     "chapters": [
       {
         "start": 630,
-        "author": "Grohmann"
+        "end": 630,
+        "author": "Grohmann."
       }
     ]
   },
@@ -6234,11 +6443,13 @@
     "lemma": "Thumelicus",
     "previous": "Thumata",
     "next": "Thumida",
+    "proof_read": 0,
     "short_description": "Sohn d. Arminius u. d. Thusnelda",
     "chapters": [
       {
         "start": 630,
-        "author": "Stein, [Arthur]"
+        "end": 631,
+        "author": "Stein."
       }
     ]
   },
@@ -6259,11 +6470,13 @@
     "lemma": "Thumna",
     "previous": "Thumida",
     "next": "Thunatai",
+    "proof_read": 0,
     "short_description": "Hauptstadt d. Katabanen in Arabia felix",
     "chapters": [
       {
         "start": 631,
-        "author": "Grohmann"
+        "end": 633,
+        "author": "Grohmann."
       }
     ]
   },
@@ -6271,10 +6484,12 @@
     "lemma": "Thunatai",
     "previous": "Thumna",
     "next": "Thunfisch",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 633,
-        "author": "Fluss"
+        "end": 633,
+        "author": "Fluss."
       }
     ]
   },
@@ -6295,10 +6510,12 @@
     "lemma": "Thurae",
     "previous": "Thunfisch",
     "next": "Θούρας",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 633,
-        "author": "Honigmann"
+        "end": 633,
+        "author": "Honigmann."
       }
     ]
   },
@@ -6321,11 +6538,13 @@
     "lemma": "Thuria",
     "previous": "Θούρας",
     "next": "Thuriel",
+    "proof_read": 0,
     "short_description": "Stadt in Messenien",
     "chapters": [
       {
         "start": 633,
-        "author": "Bölte"
+        "end": 638,
+        "author": "Bölte."
       }
     ]
   },
@@ -6333,11 +6552,13 @@
     "lemma": "Thuriel",
     "previous": "Thuria",
     "next": "Thurimachos",
+    "proof_read": 0,
     "short_description": "Erzengelname",
     "chapters": [
       {
         "start": 638,
-        "author": "Preisendanz"
+        "end": 640,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -6359,11 +6580,13 @@
     "lemma": "Thuringi",
     "previous": "Thurimachos",
     "next": "Thurinus",
+    "proof_read": 0,
     "short_description": "Thoringi, german. Volk in Mitteldeutschland",
     "chapters": [
       {
         "start": 640,
-        "author": "Franke"
+        "end": 646,
+        "author": "Franke."
       }
     ]
   },
@@ -6371,11 +6594,13 @@
     "lemma": "Thurinus",
     "previous": "Thuringi",
     "next": "Thurioi",
+    "proof_read": 0,
     "short_description": "Beiname d. Kaisers Augustus",
     "chapters": [
       {
         "start": 646,
-        "author": "Stein, [Arthur]"
+        "end": 646,
+        "author": "Stein."
       }
     ]
   },
@@ -6383,11 +6608,13 @@
     "lemma": "Thurioi",
     "previous": "Thurinus",
     "next": "Thurion",
+    "proof_read": 0,
     "short_description": "Panhellenische Kolonie in Unteritalien",
     "chapters": [
       {
         "start": 646,
-        "author": "Philipp"
+        "end": 652,
+        "author": "Philipp."
       }
     ]
   },
@@ -6395,10 +6622,12 @@
     "lemma": "Thurion",
     "previous": "Thurioi",
     "next": "Thurios 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 652,
-        "author": "Fiehn"
+        "end": 652,
+        "author": "Fiehn."
       }
     ]
   },
@@ -6434,11 +6663,13 @@
     "lemma": "Thurios 3",
     "previous": "Thurios 2",
     "next": "Thuris",
+    "proof_read": 0,
     "short_description": "Gigant",
     "chapters": [
       {
         "start": 652,
-        "author": "Bernert"
+        "end": 653,
+        "author": "Bernert."
       }
     ]
   },
@@ -6461,11 +6692,13 @@
     "lemma": "Thurisind",
     "previous": "Thuris",
     "next": "Thuro",
+    "proof_read": 0,
     "short_description": "König d. Gepiden",
     "chapters": [
       {
         "start": 653,
-        "author": "Enßlin"
+        "end": 654,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -6473,10 +6706,12 @@
     "lemma": "Thuro",
     "previous": "Thurisind",
     "next": "Thuros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 655,
-        "author": "Bernert"
+        "end": 655,
+        "author": "Bernert."
       }
     ]
   },
@@ -6484,11 +6719,13 @@
     "lemma": "Thuros",
     "previous": "Thuro",
     "next": "Thurrus",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Ares bei Dichtern",
     "chapters": [
       {
         "start": 655,
-        "author": "Kruse"
+        "end": 655,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -6496,10 +6733,12 @@
     "lemma": "Thurrus",
     "previous": "Thuros",
     "next": "Thusnelda",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 655,
-        "author": "Münzer"
+        "end": 655,
+        "author": "Münzer."
       }
     ]
   },
@@ -6507,11 +6746,13 @@
     "lemma": "Thusnelda",
     "previous": "Thurrus",
     "next": "Thutel",
+    "proof_read": 0,
     "short_description": "Gattin d. Arminius",
     "chapters": [
       {
         "start": 655,
-        "author": "Stein, [Arthur]"
+        "end": 656,
+        "author": "Stein."
       }
     ]
   },
@@ -6519,10 +6760,12 @@
     "lemma": "Thutel",
     "previous": "Thusnelda",
     "next": "Θυαιρηνῶν κώμη",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 656,
-        "author": "Preisendanz"
+        "end": 656,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -6546,10 +6789,12 @@
     "lemma": "Thyamia",
     "previous": "Θυαιρηνῶν κώμη",
     "next": "Thyamis 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 656,
-        "author": "Meyer, Ernst"
+        "end": 656,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -6557,11 +6802,13 @@
     "lemma": "Thyamis 1",
     "previous": "Thyamia",
     "next": "Thyamis 2",
+    "proof_read": 0,
     "short_description": "Fluß in Epeiros",
     "chapters": [
       {
         "start": 656,
-        "author": "Herbst"
+        "end": 657,
+        "author": "Rudolf Herbst."
       }
     ]
   },
@@ -6569,11 +6816,13 @@
     "lemma": "Thyamis 2",
     "previous": "Thyamis 1",
     "next": "Thyamis 3",
+    "proof_read": 0,
     "short_description": "Vorgebirge an d. Küste v. Epeiros",
     "chapters": [
       {
         "start": 657,
-        "author": "Herbst"
+        "end": 657,
+        "author": "Rudolf Herbst."
       }
     ]
   },
@@ -6651,11 +6900,14 @@
     "lemma": "Thybris, Thymbris 1",
     "previous": "Thybarna",
     "next": "Thybris, Thymbris 2",
+    "sort_key": "Thybris,thymbris 1",
+    "proof_read": 0,
     "short_description": "Gebirge Siciliens",
     "chapters": [
       {
         "start": 659,
-        "author": "Ziegler"
+        "end": 661,
+        "author": "Ziegler."
       }
     ]
   },
@@ -6682,11 +6934,14 @@
     "lemma": "Thybris, Thymbris 3",
     "previous": "Thybris, Thymbris 2",
     "next": "Thydonos",
+    "sort_key": "Thybris,thymbris 3",
+    "proof_read": 0,
     "short_description": "S. Tiber",
     "chapters": [
       {
         "start": 661,
-        "author": "Philipp"
+        "end": 661,
+        "author": "Philipp."
       }
     ]
   },
@@ -6709,11 +6964,13 @@
     "lemma": "Thyelle",
     "previous": "Thydonos",
     "next": "Thyene",
+    "proof_read": 0,
     "short_description": "Mutter d. Aresrosse",
     "chapters": [
       {
         "start": 661,
-        "author": "Göber"
+        "end": 662,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -6735,10 +6992,12 @@
     "lemma": "Thyessos",
     "previous": "Thyene",
     "next": "Thyestes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 662,
-        "author": "Keil"
+        "end": 662,
+        "author": "Keil."
       }
     ]
   },
@@ -6746,11 +7005,13 @@
     "lemma": "Thyestes",
     "previous": "Thyessos",
     "next": "Thyia 1",
+    "proof_read": 0,
     "short_description": "Gestalt d. gr. Sage",
     "chapters": [
       {
         "start": 662,
-        "author": "Mayer"
+        "end": 679,
+        "author": "Maximilian Mayer."
       }
     ]
   },
@@ -6758,11 +7019,13 @@
     "lemma": "Thyia 1",
     "previous": "Thyestes",
     "next": "Thyia 2",
+    "proof_read": 0,
     "short_description": "Dionysosdienerin",
     "chapters": [
       {
         "start": 679,
-        "author": "Preisendanz"
+        "end": 679,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -6770,11 +7033,13 @@
     "lemma": "Thyia 2",
     "previous": "Thyia 1",
     "next": "Thyia 3",
+    "proof_read": 0,
     "short_description": "Nymphe, Prototyp d. Winddämoninnen u. Thyiaden, von Zeus geschwängert",
     "chapters": [
       {
         "start": 679,
-        "author": "Preisendanz"
+        "end": 680,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -6782,11 +7047,13 @@
     "lemma": "Thyia 3",
     "previous": "Thyia 2",
     "next": "Thyia 4",
+    "proof_read": 0,
     "short_description": "Mitglied eines weibl. Kultkollegiums in Elis elisches Fest",
     "chapters": [
       {
         "start": 680,
-        "author": "Preisendanz"
+        "end": 684,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -6794,11 +7061,13 @@
     "lemma": "Thyia 4",
     "previous": "Thyia 3",
     "next": "Thyiaden",
+    "proof_read": 0,
     "short_description": "Ortschaft im Gebiet v. Delphi",
     "chapters": [
       {
         "start": 684,
-        "author": "Preisendanz"
+        "end": 684,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -6806,11 +7075,13 @@
     "lemma": "Thyiaden",
     "previous": "Thyia 4",
     "next": "Thyias",
+    "proof_read": 0,
     "short_description": "Gleichbedeutend mit Mainaden u. Bakchen",
     "chapters": [
       {
         "start": 684,
-        "author": "Preisendanz"
+        "end": 691,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -6818,11 +7089,13 @@
     "lemma": "Thyias",
     "previous": "Thyiaden",
     "next": "Thyillos",
+    "proof_read": 0,
     "short_description": "Kult. Dionysosdienerin, s. Mainades, Thyiaden",
     "chapters": [
       {
         "start": 691,
-        "author": "Marbach"
+        "end": 692,
+        "author": "Marbach."
       }
     ]
   },
@@ -6830,10 +7103,12 @@
     "lemma": "Thyillos",
     "previous": "Thyias",
     "next": "Thyionidas",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 692,
-        "author": "Geffcken"
+        "end": 692,
+        "author": "Geffcken."
       }
     ]
   },
@@ -6841,10 +7116,12 @@
     "lemma": "Thyionidas",
     "previous": "Thyillos",
     "next": "Thyios 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 692,
-        "author": "Ehrenberg"
+        "end": 692,
+        "author": "Ehrenberg."
       }
     ]
   },
@@ -6852,11 +7129,13 @@
     "lemma": "Thyios 1",
     "previous": "Thyionidas",
     "next": "Thyios 2",
+    "proof_read": 0,
     "short_description": "Epiklesis Apollons in Milet",
     "chapters": [
       {
         "start": 692,
-        "author": "Kruse"
+        "end": 693,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -6864,11 +7143,13 @@
     "lemma": "Thyios 2",
     "previous": "Thyios 1",
     "next": "Thylakos",
+    "proof_read": 0,
     "short_description": "Griech. Monatsname",
     "chapters": [
       {
         "start": 693,
-        "author": "Sontheimer"
+        "end": 693,
+        "author": "Sontheimer."
       }
     ]
   },
@@ -6889,10 +7170,12 @@
     "lemma": "Thyllophoros",
     "previous": "Thylakos",
     "next": "Thymaitadai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 693,
-        "author": "Kruse"
+        "end": 693,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -6900,11 +7183,13 @@
     "lemma": "Thymaitadai",
     "previous": "Thyllophoros",
     "next": "Thymbra 1",
+    "proof_read": 0,
     "short_description": "Att. Demos d. Phyle Hippothontis",
     "chapters": [
       {
         "start": 693,
-        "author": "Wrede"
+        "end": 694,
+        "author": "Wrede."
       }
     ]
   },
@@ -6924,24 +7209,42 @@
   {
     "lemma": "Thymbra 2",
     "previous": "Thymbra 1",
-    "next": "Thymbraios 1",
+    "next": "Thymbraios",
+    "proof_read": 0,
     "short_description": "Alte, kleine Stadt bei Troia mit Apollonheiligtum",
     "chapters": [
       {
         "start": 694,
-        "author": "Ziegler"
+        "end": 697,
+        "author": "Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Thymbraios",
+    "previous": "Thymbra 2",
+    "next": "Thymbraios 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 697,
+        "end": 697,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Thymbraios 1",
-    "previous": "Thymbra 2",
+    "previous": "Thymbraios",
     "next": "Thymbraios 2",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Apollon",
     "chapters": [
       {
         "start": 697,
-        "author": "Kruse"
+        "end": 697,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -6979,10 +7282,12 @@
     "lemma": "Thymbrara",
     "previous": "Thymbraios 3",
     "next": "Thymbria",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 697,
-        "author": "Keil"
+        "end": 698,
+        "author": "Keil."
       }
     ]
   },
@@ -6990,10 +7295,12 @@
     "lemma": "Thymbria",
     "previous": "Thymbrara",
     "next": "Thymbrion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 698,
-        "author": "Ziegler"
+        "end": 698,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7001,11 +7308,13 @@
     "lemma": "Thymbrion",
     "previous": "Thymbria",
     "next": "Thymbrios, Thymbris",
+    "proof_read": 0,
     "short_description": "Stadt in O-Phrygien",
     "chapters": [
       {
         "start": 698,
-        "author": "Ziegler"
+        "end": 698,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7013,11 +7322,14 @@
     "lemma": "Thymbrios, Thymbris",
     "previous": "Thymbrion",
     "next": "Thymbris 1",
+    "sort_key": "Thymbrios,thymbris",
+    "proof_read": 0,
     "short_description": "Kleiner Nebenfluß d. Skamandros in d. Troas",
     "chapters": [
       {
         "start": 698,
-        "author": "Ziegler"
+        "end": 699,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7070,46 +7382,55 @@
     "lemma": "Thymbros",
     "previous": "Thymbris 3",
     "next": "Thymelaia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 699,
-        "author": "Göber"
+        "end": 699,
+        "author": "Willi Göber."
       }
     ]
   },
   {
     "lemma": "Thymelaia",
     "previous": "Thymbros",
-    "next": "Thymele 0",
+    "next": "Θυμέλη",
+    "proof_read": 0,
     "short_description": "Pflanzenart",
     "chapters": [
       {
         "start": 699,
-        "author": "Steier"
+        "end": 700,
+        "author": "Steier."
       }
     ]
   },
   {
-    "lemma": "Thymele 0",
+    "lemma": "Θυμέλη",
     "previous": "Thymelaia",
     "next": "Thymele",
     "sort_key": "Thymele 0",
+    "proof_read": 0,
+    "short_description": "Feuerstelle",
     "chapters": [
       {
         "start": 700,
-        "author": "Fensterbusch"
+        "end": 704,
+        "author": "Fensterbusch."
       }
     ]
   },
   {
     "lemma": "Thymele",
-    "previous": "Thymele 0",
+    "previous": "Θυμέλη",
     "next": "Thymelicus",
-    "sort_key": "Thymele 1",
+    "proof_read": 0,
+    "short_description": "Feuerstelle, Opferstätte t.t. im Theaterwesen",
     "chapters": [
       {
-        "start": 700,
-        "author": "Fensterbusch"
+        "start": 704,
+        "end": 704,
+        "author": "Fensterbusch."
       }
     ]
   },
@@ -9349,11 +9670,14 @@
     "lemma": "M. Tigellius Hermogenes",
     "previous": "Tigellinus",
     "next": "Tiger",
+    "sort_key": "M.tigellius hermogenes",
+    "proof_read": 0,
     "short_description": "Günstling Caesars",
     "chapters": [
       {
         "start": 943,
-        "author": "Münzer"
+        "end": 946,
+        "author": "Münzer."
       }
     ]
   },
