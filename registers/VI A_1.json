@@ -547,6 +547,7 @@
   {
     "lemma": "Thessalia",
     "previous": "Thesprotos",
+    "next": "Thessalicus",
     "proof_read": 0,
     "short_description": "Griechische Landschaft A. Landeskunde",
     "chapters": [
@@ -3627,11 +3628,14 @@
   {
     "lemma": "Thon, Thonis 1",
     "previous": "Thomu",
+    "next": "Thon, Thonis 2",
+    "proof_read": 0,
     "short_description": "(Thonis) König v. Ägypten",
     "chapters": [
       {
         "start": 329,
-        "author": "Pieper"
+        "end": 330,
+        "author": "Pieper."
       }
     ]
   },
@@ -4398,10 +4402,12 @@
     "lemma": "Thôzopithê",
     "previous": "Thou",
     "next": "Thraex",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 389,
-        "author": "Preisendanz"
+        "end": 389,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -5913,7 +5919,7 @@
     "previous": "Θρόανα 2",
     "next": "Θρόασκα",
     "sort_key": "Throanoi",
-    "redirect": "Throana 1",
+    "redirect": "Θρόανα 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -6284,6 +6290,8 @@
   },
   {
     "lemma": "Thugga",
+    "previous": "Thugenides",
+    "next": "Thuidi",
     "chapters": [
       {
         "start": 624,
@@ -6293,6 +6301,7 @@
   },
   {
     "lemma": "Thuidi",
+    "previous": "Thugga",
     "next": "Thukritos",
     "redirect": "Thiudi",
     "proof_read": 2,
@@ -7432,7 +7441,7 @@
   {
     "lemma": "Thymelicus",
     "previous": "Thymele",
-    "next": "Thymelikoi agones",
+    "next": "Θυμελικοὶ ἀγῶνες",
     "proof_read": 3,
     "short_description": "Versfuß für die Silbenfolge – ◡ ◡ ◡ –",
     "wp_link": "w:de:Thymelicus (Versfuß)",
@@ -7447,55 +7456,65 @@
     ]
   },
   {
-    "lemma": "Thymelikoi agones",
+    "lemma": "Θυμελικοὶ ἀγῶνες",
     "previous": "Thymelicus",
     "next": "Thymiaterion",
+    "sort_key": "Thymelikoiagones",
+    "proof_read": 0,
     "short_description": "Form musikalischer Agone",
     "chapters": [
       {
         "start": 704,
-        "author": "Aly"
+        "end": 706,
+        "author": "Aly."
       }
     ]
   },
   {
     "lemma": "Thymiaterion",
-    "previous": "Thymelikoi agones",
+    "previous": "Θυμελικοὶ ἀγῶνες",
     "next": "Thymilos",
+    "proof_read": 0,
     "short_description": "Räuchergerät",
     "chapters": [
       {
         "start": 706,
-        "author": "Hug"
+        "end": 714,
+        "author": "Hug."
       }
     ]
   },
   {
     "lemma": "Thymilos",
     "previous": "Thymiaterion",
-    "next": "Thymnias sinus",
+    "next": "Thymnias",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 714,
-        "author": "Lippold, Georg"
+        "end": 714,
+        "author": "Lippold."
       }
     ]
   },
   {
-    "lemma": "Thymnias sinus",
+    "lemma": "Thymnias",
     "previous": "Thymilos",
     "next": "Thymochares 1",
+    "sort_key": "Thymniassinus",
+    "proof_read": 0,
     "short_description": "Bucht Kariens",
     "chapters": [
       {
         "start": 714,
-        "author": "Ziegler"
+        "end": 715,
+        "author": "Ziegler."
       }
     ]
   },
   {
     "lemma": "Thymochares 1",
-    "previous": "Thymnias sinus",
+    "previous": "Thymnias",
     "next": "Thymochares 2",
     "proof_read": 2,
     "short_description": "Athen. Archon ca. 272/1 v. Chr.",
@@ -7541,11 +7560,13 @@
     "lemma": "Thymochares 4",
     "previous": "Thymochares 3",
     "next": "Thymochares 5",
+    "proof_read": 0,
     "short_description": "Athen. Archon Mitte 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 715,
-        "author": "Fiehn"
+        "end": 715,
+        "author": "Fiehn."
       }
     ]
   },
@@ -7553,11 +7574,13 @@
     "lemma": "Thymochares 5",
     "previous": "Thymochares 4",
     "next": "Thymochares 6",
+    "proof_read": 0,
     "short_description": "Agonothet d. Amphiaraosspiele v. Oropos 329/8 v. Chr.",
     "chapters": [
       {
         "start": 715,
-        "author": "Fiehn"
+        "end": 715,
+        "author": "Fiehn."
       }
     ]
   },
@@ -7565,11 +7588,13 @@
     "lemma": "Thymochares 6",
     "previous": "Thymochares 5",
     "next": "Thymoites 1",
+    "proof_read": 0,
     "short_description": "Enkel v. Nr. 5",
     "chapters": [
       {
         "start": 715,
-        "author": "Fiehn"
+        "end": 716,
+        "author": "Fiehn."
       }
     ]
   },
@@ -7577,11 +7602,13 @@
     "lemma": "Thymoites 1",
     "previous": "Thymochares 6",
     "next": "Thymoites 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Laomedon",
     "chapters": [
       {
         "start": 716,
-        "author": "Türk"
+        "end": 716,
+        "author": "Türk."
       }
     ]
   },
@@ -7617,11 +7644,13 @@
     "lemma": "Thymoites 4",
     "previous": "Thymoites 3",
     "next": "Thymoites 5",
+    "proof_read": 0,
     "short_description": "Sohn d. Oxyntes",
     "chapters": [
       {
         "start": 716,
-        "author": "Türk"
+        "end": 716,
+        "author": "Türk."
       }
     ]
   },
@@ -7671,11 +7700,13 @@
     "lemma": "Thymondas",
     "previous": "Thymokles",
     "next": "Thyne",
+    "proof_read": 0,
     "short_description": "Sohn d. Rhodiers Mentor",
     "chapters": [
       {
         "start": 716,
-        "author": "Schwahn"
+        "end": 717,
+        "author": "Schwahn."
       }
     ]
   },
@@ -7709,11 +7740,13 @@
     "lemma": "Thynias 1",
     "previous": "Thyneis",
     "next": "Thynias 2",
+    "proof_read": 0,
     "short_description": "Küstenstrich u. Vorgebirge Thrakiens",
     "chapters": [
       {
         "start": 717,
-        "author": "Oberhummer"
+        "end": 718,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -7721,11 +7754,13 @@
     "lemma": "Thynias 2",
     "previous": "Thynias 1",
     "next": "Thynis",
+    "proof_read": 0,
     "short_description": "Kleine Insel im Schwarzen Meer",
     "chapters": [
       {
         "start": 718,
-        "author": "Ziegler"
+        "end": 720,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7746,10 +7781,12 @@
     "lemma": "Thynnaros",
     "previous": "Thynis",
     "next": "Thynnos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 720,
-        "author": "Türk"
+        "end": 720,
+        "author": "Türk."
       }
     ]
   },
@@ -7757,11 +7794,13 @@
     "lemma": "Thynnos",
     "previous": "Thynnaros",
     "next": "Thynoi",
+    "proof_read": 0,
     "short_description": "Thunfisch",
     "chapters": [
       {
         "start": 720,
-        "author": "Steier"
+        "end": 734,
+        "author": "Steier."
       }
     ]
   },
@@ -7769,11 +7808,13 @@
     "lemma": "Thynoi",
     "previous": "Thynnos",
     "next": "Thynos",
+    "proof_read": 0,
     "short_description": "Thrak. Stamm",
     "chapters": [
       {
         "start": 734,
-        "author": "Lenk"
+        "end": 735,
+        "author": "Lenk."
       }
     ]
   },
@@ -7781,11 +7822,13 @@
     "lemma": "Thynos",
     "previous": "Thynoi",
     "next": "Thyon",
+    "proof_read": 0,
     "short_description": "Wohl falsch für Tyros, s.d.",
     "chapters": [
       {
         "start": 735,
-        "author": "Ziegler"
+        "end": 735,
+        "author": "Ziegler."
       }
     ]
   },
@@ -7806,11 +7849,13 @@
     "lemma": "Thyone",
     "previous": "Thyon",
     "next": "Thyoneus 1",
+    "proof_read": 0,
     "short_description": "Mutter d. Dionysos, meist d. Semele gleichgesetzt",
     "chapters": [
       {
         "start": 735,
-        "author": "Preisendanz"
+        "end": 736,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -7818,11 +7863,13 @@
     "lemma": "Thyoneus 1",
     "previous": "Thyone",
     "next": "Thyoneus 2",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Dionysos",
     "chapters": [
       {
         "start": 736,
-        "author": "Kruse"
+        "end": 736,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -7830,11 +7877,13 @@
     "lemma": "Thyoneus 2",
     "previous": "Thyoneus 1",
     "next": "Thyonidas",
+    "proof_read": 0,
     "short_description": "Sohn d. Dionysos",
     "chapters": [
       {
         "start": 736,
-        "author": "Kruse"
+        "end": 736,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -7854,7 +7903,7 @@
   {
     "lemma": "Thyos",
     "previous": "Thyonidas",
-    "next": "thyoskoos",
+    "next": "θυοσκόος",
     "redirect": "Thyios 1",
     "proof_read": 2,
     "chapters": [
@@ -7865,78 +7914,95 @@
     ]
   },
   {
-    "lemma": "thyoskoos",
+    "lemma": "θυοσκόος",
     "previous": "Thyos",
-    "next": "thyoskopos",
-    "short_description": "Priester mit mantischen Aufgaben, 'Opferbeobachter'",
+    "next": "θυοσκόπος",
+    "sort_key": "Thyoskoos",
+    "proof_read": 0,
+    "short_description": "thyoskoos, Priester mit mantischen Aufgaben, 'Opferbeobachter'",
     "chapters": [
       {
         "start": 736,
-        "author": "Ziehen"
+        "end": 737,
+        "author": "Ludwig Ziehen."
       }
     ]
   },
   {
-    "lemma": "thyoskopos",
-    "previous": "thyoskoos",
+    "lemma": "θυοσκόπος",
+    "previous": "θυοσκόος",
     "next": "Thyra",
-    "short_description": "s. Thyoskoos",
+    "sort_key": "Thyoskopos",
+    "proof_read": 0,
+    "short_description": "thyoskopos s. Thyoskoos",
     "chapters": [
       {
         "start": 737,
-        "author": "Ziehen"
+        "end": 737,
+        "author": "Ludwig Ziehen."
       }
     ]
   },
   {
     "lemma": "Thyra",
-    "previous": "thyoskopos",
-    "next": "Thyraiai",
+    "previous": "θυοσκόπος",
+    "next": "Θυραῖαι",
+    "proof_read": 0,
     "short_description": "Tür (in Häusern)",
     "chapters": [
       {
         "start": 737,
-        "author": "Ebert"
+        "end": 742,
+        "author": "Friedr. Ebert."
       }
     ]
   },
   {
-    "lemma": "Thyraiai",
+    "lemma": "Θυραῖαι",
     "previous": "Thyra",
     "next": "Thyraion",
-    "short_description": "Thyreai",
+    "sort_key": "Thyraiai",
+    "proof_read": 0,
+    "short_description": "Thyraiai, Thyreai, Stadt in Kalabrien",
     "chapters": [
       {
         "start": 742,
-        "author": "Philipp"
+        "end": 742,
+        "author": "Hans Philipp."
       }
     ]
   },
   {
     "lemma": "Thyraion",
-    "previous": "Thyraiai",
-    "next": "Thyranoiktes",
+    "previous": "Θυραῖαι",
+    "next": "Θυρανοίκτης",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 742,
-        "author": "Meyer, Ernst"
+        "end": 743,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
-    "lemma": "Thyranoiktes",
+    "lemma": "Θυρανοίκτης",
     "previous": "Thyraion",
     "next": "Θυρέαι",
+    "sort_key": "Thyranoiktes",
+    "proof_read": 0,
+    "short_description": "Thyranoiktes, Amt im byzantinischen Zirkus",
     "chapters": [
       {
         "start": 743,
-        "author": "Miltner, Helene"
+        "end": 743,
+        "author": "H. Miltner."
       }
     ]
   },
   {
     "lemma": "Θυρέαι",
-    "previous": "Thyranoiktes",
+    "previous": "Θυρανοίκτης",
     "next": "Thyreatis",
     "sort_key": "Thyreai",
     "redirect": "Thyraiai",
@@ -7966,10 +8032,12 @@
     "lemma": "Thyresus",
     "previous": "Thyreatis",
     "next": "Thyrgonidai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 743,
-        "author": "Münzer"
+        "end": 743,
+        "author": "Münzer."
       }
     ]
   },
@@ -7977,10 +8045,12 @@
     "lemma": "Thyrgonidai",
     "previous": "Thyresus",
     "next": "Thyria",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 743,
-        "author": "Wrede"
+        "end": 743,
+        "author": "Wrede."
       }
     ]
   },
@@ -8001,11 +8071,13 @@
     "lemma": "Thyrides 1",
     "previous": "Thyria",
     "next": "Thyrides 2",
+    "proof_read": 0,
     "short_description": "Halbinsel nördl. v. Kap Tainaron",
     "chapters": [
       {
         "start": 743,
-        "author": "Bölte"
+        "end": 743,
+        "author": "Bölte."
       }
     ]
   },
@@ -8013,11 +8085,13 @@
     "lemma": "Thyrides 2",
     "previous": "Thyrides 1",
     "next": "Thyrius",
+    "proof_read": 0,
     "short_description": "Drei Inseln im Messenischen Meerbusen",
     "chapters": [
       {
         "start": 743,
-        "author": "Bölte"
+        "end": 744,
+        "author": "Bölte."
       }
     ]
   },
@@ -8025,10 +8099,12 @@
     "lemma": "Thyrius",
     "previous": "Thyrides 2",
     "next": "Thyrreion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 744,
-        "author": "Besnier"
+        "end": 744,
+        "author": "M. Besnier."
       }
     ]
   },
@@ -8036,11 +8112,13 @@
     "lemma": "Thyrreion",
     "previous": "Thyrius",
     "next": "Thyrsos 1",
+    "proof_read": 0,
     "short_description": "Stadt in NO-Akarnanien",
     "chapters": [
       {
         "start": 744,
-        "author": "Fiehn"
+        "end": 747,
+        "author": "Fiehn."
       }
     ]
   },
@@ -8048,11 +8126,13 @@
     "lemma": "Thyrsos 1",
     "previous": "Thyrreion",
     "next": "Thyrsos 2",
+    "proof_read": 0,
     "short_description": "Stab aus Rohr o. Holz mit Knauf aus Efeu- o. Weinlaub",
     "chapters": [
       {
         "start": 747,
-        "author": "Lorentz"
+        "end": 752,
+        "author": "F. v. Lorentz."
       }
     ]
   },
@@ -8060,11 +8140,13 @@
     "lemma": "Thyrsos 2",
     "previous": "Thyrsos 1",
     "next": "Thyrsos 3",
+    "proof_read": 0,
     "short_description": "Fluß im W Sardiniens",
     "chapters": [
       {
         "start": 752,
-        "author": "Philipp"
+        "end": 753,
+        "author": "Philipp."
       }
     ]
   },
@@ -8072,11 +8154,13 @@
     "lemma": "Thyrsos 3",
     "previous": "Thyrsos 2",
     "next": "Thyrxeus",
+    "proof_read": 0,
     "short_description": "Freigelassener d.Caesar Octavianus",
     "chapters": [
       {
         "start": 753,
-        "author": "Münzer"
+        "end": 753,
+        "author": "Münzer."
       }
     ]
   },
@@ -8084,10 +8168,12 @@
     "lemma": "Thyrxeus",
     "previous": "Thyrsos 3",
     "next": "Thys",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 753,
-        "author": "Kruse"
+        "end": 753,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -8095,10 +8181,12 @@
     "lemma": "Thys",
     "previous": "Thyrxeus",
     "next": "Thysandros?",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 753,
-        "author": "Geyer"
+        "end": 753,
+        "author": "Geyer."
       }
     ]
   },
@@ -8106,10 +8194,12 @@
     "lemma": "Thysandros?",
     "previous": "Thys",
     "next": "Thysdrus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 753,
-        "author": "Lippold, Georg"
+        "end": 753,
+        "author": "Lippold."
       }
     ]
   },
@@ -8117,11 +8207,13 @@
     "lemma": "Thysdrus",
     "previous": "Thysandros?",
     "next": "θυσιάδες",
+    "proof_read": 0,
     "short_description": "Stadt N-Afrikas",
     "chapters": [
       {
         "start": 753,
-        "author": "Treidler"
+        "end": 755,
+        "author": "Treidler."
       }
     ]
   },
@@ -8144,10 +8236,12 @@
     "lemma": "Thyssagetai",
     "previous": "θυσιάδες",
     "next": "Thyssanus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 755,
-        "author": "Herrmann"
+        "end": 755,
+        "author": "Herrmann."
       }
     ]
   },
@@ -8255,11 +8349,13 @@
     "lemma": "Tiar 1",
     "previous": "Tiana",
     "next": "Tiar 2",
+    "proof_read": 0,
     "short_description": "T. Iulia, Gemeinde an d. O-Küste Spaniens",
     "chapters": [
       {
         "start": 761,
-        "author": "Schulten"
+        "end": 761,
+        "author": "Schulten."
       }
     ]
   },
@@ -8267,11 +8363,13 @@
     "lemma": "Tiar 2",
     "previous": "Tiar 1",
     "next": "Tiara",
+    "proof_read": 0,
     "short_description": "Thiar, bei Elche",
     "chapters": [
       {
         "start": 761,
-        "author": "Schulten"
+        "end": 761,
+        "author": "Schulten."
       }
     ]
   },
@@ -8392,10 +8490,12 @@
     "lemma": "Tiauranceaicus",
     "previous": "Τιάτουρα",
     "next": "Τιαύσα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 763,
-        "author": "Heichelheim"
+        "end": 763,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -8434,11 +8534,13 @@
     "lemma": "Tibarenoi",
     "previous": "Tibarani",
     "next": "Tibas",
+    "proof_read": 0,
     "short_description": "Volk an d. S-Küste d. Pontos",
     "chapters": [
       {
         "start": 764,
-        "author": "Herrmann"
+        "end": 764,
+        "author": "Herrmann."
       }
     ]
   },
@@ -8491,11 +8593,13 @@
     "lemma": "Tibeios",
     "previous": "Tibeion",
     "next": "Tiberiacum",
-    "short_description": "Paphlagon. Person",
+    "proof_read": 1,
+    "short_description": "paphlagonischer Personen- und athenischer Sklavenname",
     "chapters": [
       {
         "start": 765,
-        "author": "Schwahn"
+        "end": 765,
+        "author": "Walther Schwahn."
       }
     ]
   },
@@ -8503,11 +8607,13 @@
     "lemma": "Tiberiacum",
     "previous": "Tibeios",
     "next": "Τιβεριανή",
+    "proof_read": 0,
     "short_description": "Ort in Germania inferior",
     "chapters": [
       {
         "start": 765,
-        "author": "Rau"
+        "end": 766,
+        "author": "Rau."
       }
     ]
   },
@@ -8517,7 +8623,7 @@
     "next": "Tiberianus",
     "sort_key": "Tiberiane",
     "proof_read": 3,
-    "short_description": "phyle -",
+    "short_description": "Tiberiane, Phyle in Prusias am Hypios",
     "chapters": [
       {
         "start": 766,
@@ -8558,11 +8664,13 @@
     "lemma": "Tiberianus 2",
     "previous": "Tiberianus 1",
     "next": "Tiberianus 3",
+    "proof_read": 0,
     "short_description": "Schrieb einen Brief an Kaiser Traian",
     "chapters": [
       {
         "start": 777,
-        "author": "Fluss"
+        "end": 778,
+        "author": "Fluss."
       }
     ]
   },
@@ -8570,11 +8678,13 @@
     "lemma": "Tiberianus 3",
     "previous": "Tiberianus 2",
     "next": "Tiberianus 4",
+    "proof_read": 0,
     "short_description": "C. Annius, kaiserl. Beamter 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 778,
-        "author": "Enßlin"
+        "end": 779,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8582,11 +8692,13 @@
     "lemma": "Tiberianus 4",
     "previous": "Tiberianus 3",
     "next": "Tiberianus 5",
+    "proof_read": 0,
     "short_description": "Freund d. Priscillianus",
     "chapters": [
       {
         "start": 779,
-        "author": "Enßlin"
+        "end": 779,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8609,11 +8721,13 @@
     "lemma": "Tiberias",
     "previous": "Tiberianus 5",
     "next": "Q. Tiberilius",
+    "proof_read": 0,
     "short_description": "Stadt am W-Ufer d. Sees Genezareth in Palästina, heute .tabarija",
     "chapters": [
       {
         "start": 779,
-        "author": "Hölscher"
+        "end": 781,
+        "author": "Hölscher."
       }
     ]
   },
@@ -8636,18 +8750,21 @@
     "lemma": "Tiberina descensio",
     "previous": "Q. Tiberilius",
     "next": "Tiberina insula",
+    "sort_key": "Tiberinadescensio",
+    "proof_read": 0,
     "short_description": "Fest zu Ehren d. Fors Fortuna",
     "chapters": [
       {
         "start": 781,
-        "author": "Rohde"
+        "end": 782,
+        "author": "G. Rohde."
       }
     ]
   },
   {
     "lemma": "Tiberina insula",
     "previous": "Tiberina descensio",
-    "next": "Tiberinae",
+    "next": "Tiberine",
     "sort_key": "Tiberinainsula",
     "proof_read": 0,
     "short_description": "Tiberinsel zwischen Ianiculus und Capitol",
@@ -8662,7 +8779,6 @@
   {
     "lemma": "Tiberinae",
     "previous": "Tiberina insula",
-    "next": "Tiberinu chorion",
     "proof_read": 2,
     "short_description": "Tiberine, eine öde Gegend in Kappadokien, Gregor. Nazianz. ep. 2 (Migne G.",
     "chapters": [
@@ -8674,25 +8790,44 @@
     ]
   },
   {
-    "lemma": "Tiberinu chorion",
-    "previous": "Tiberinae",
-    "next": "Tiberinus 1",
+    "lemma": "Tiberine",
+    "previous": "Tiberina insula",
+    "next": "Τιβερίνου χωρίον",
+    "proof_read": 2,
+    "short_description": "Tiberine, eine öde Gegend in Kappadokien, Gregor. Nazianz. ep. 2 (Migne G.",
     "chapters": [
       {
         "start": 784,
-        "author": "Honigmann"
+        "end": 784,
+        "author": "W. Ruge."
+      }
+    ]
+  },
+  {
+    "lemma": "Τιβερίνου χωρίον",
+    "previous": "Tiberine",
+    "next": "Tiberinus 1",
+    "sort_key": "Tiberinuchorion",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 784,
+        "end": 784,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Tiberinus 1",
-    "previous": "Tiberinu chorion",
+    "previous": "Τιβερίνου χωρίον",
     "next": "Tiberinus 2",
+    "proof_read": 0,
     "short_description": "Gottheit d. Tiberflußes",
     "chapters": [
       {
         "start": 784,
-        "author": "Rohde"
+        "end": 788,
+        "author": "G. Rohde."
       }
     ]
   },
@@ -8700,11 +8835,13 @@
     "lemma": "Tiberinus 2",
     "previous": "Tiberinus 1",
     "next": "Tiberinus 3",
+    "proof_read": 0,
     "short_description": "Fischart",
     "chapters": [
       {
         "start": 788,
-        "author": "Steier"
+        "end": 790,
+        "author": "Steier."
       }
     ]
   },
@@ -8742,11 +8879,13 @@
     "lemma": "Tiberiopolis",
     "previous": "Tiberinus 4",
     "next": "Tiberios Sebastos",
+    "proof_read": 0,
     "short_description": "Stadt in Phrygia Pacatiana",
     "chapters": [
       {
         "start": 790,
-        "author": "Ruge"
+        "end": 792,
+        "author": "Ruge."
       }
     ]
   },
@@ -8754,11 +8893,14 @@
     "lemma": "Tiberios Sebastos",
     "previous": "Tiberiopolis",
     "next": "Tiberis",
+    "sort_key": "Tiberiossebastos",
+    "proof_read": 0,
     "short_description": "Monatsname d. älteren Kalenders d. Kaiserzeit v. Asia",
     "chapters": [
       {
         "start": 792,
-        "author": "Sontheimer"
+        "end": 792,
+        "author": "Sontheimer."
       }
     ]
   },
@@ -8766,11 +8908,13 @@
     "lemma": "Tiberis",
     "previous": "Tiberios Sebastos",
     "next": "Tiberius 1",
+    "proof_read": 0,
     "short_description": "Zweitgrößter Fluß Italiens, Tiber",
     "chapters": [
       {
         "start": 792,
-        "author": "Philipp"
+        "end": 804,
+        "author": "Philipp."
       }
     ]
   },
@@ -8778,11 +8922,13 @@
     "lemma": "Tiberius 1",
     "previous": "Tiberis",
     "next": "Tiberius 2",
+    "proof_read": 0,
     "short_description": "Verf. zweier Epigramme",
     "chapters": [
       {
         "start": 804,
-        "author": "Ziegler"
+        "end": 804,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8806,11 +8952,13 @@
     "lemma": "Tiberius 3",
     "previous": "Tiberius 2",
     "next": "Tiberius 4",
+    "proof_read": 0,
     "short_description": "Wohl proc. v. Africa",
     "chapters": [
       {
         "start": 807,
-        "author": "Fluss"
+        "end": 808,
+        "author": "Fluss."
       }
     ]
   },
@@ -8846,11 +8994,13 @@
     "lemma": "Tiberius 6",
     "previous": "Tiberius 5",
     "next": "Tiberius 7",
+    "proof_read": 0,
     "short_description": "Bischof v. Ilistra/Isaurien",
     "chapters": [
       {
         "start": 808,
-        "author": "Enßlin"
+        "end": 808,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8858,11 +9008,13 @@
     "lemma": "Tiberius 7",
     "previous": "Tiberius 6",
     "next": "Tiberius 8",
+    "proof_read": 0,
     "short_description": "Bischof v. Thmuis",
     "chapters": [
       {
         "start": 808,
-        "author": "Enßlin"
+        "end": 808,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8870,11 +9022,13 @@
     "lemma": "Tiberius 8",
     "previous": "Tiberius 7",
     "next": "Tiberius 9",
+    "proof_read": 0,
     "short_description": "Diakon u. Mönch aus Palästina",
     "chapters": [
       {
         "start": 808,
-        "author": "Enßlin"
+        "end": 808,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -8897,11 +9051,13 @@
     "lemma": "Tibia 1",
     "previous": "Tiberius 9",
     "next": "Tibia 2",
+    "proof_read": 0,
     "short_description": "Musikinstrument röm. Entsprechung zum gr. Aulos",
     "chapters": [
       {
         "start": 808,
-        "author": "Vetter, Walther"
+        "end": 812,
+        "author": "Walter Vetter."
       }
     ]
   },
@@ -8923,11 +9079,13 @@
     "lemma": "Tibiale",
     "previous": "Tibia 2",
     "next": "Tibica",
+    "proof_read": 0,
     "short_description": "1. Kleidungsstück, 2. Schienbeinschutz (milit.)",
     "chapters": [
       {
         "start": 812,
-        "author": "Schuppe"
+        "end": 812,
+        "author": "Schuppe."
       }
     ]
   },
@@ -8948,10 +9106,13 @@
     "lemma": "Tibigense oppidum",
     "previous": "Tibica",
     "next": "Tibili",
+    "sort_key": "Tibigenseoppidum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 812,
-        "author": "Windberg"
+        "end": 812,
+        "author": "Windberg."
       }
     ]
   },
@@ -8972,11 +9133,13 @@
     "lemma": "Tibilis 1",
     "previous": "Tibili",
     "next": "Tibilis 2",
+    "proof_read": 0,
     "short_description": "Ort an d. Straße Cirta - Hippo regius",
     "chapters": [
       {
         "start": 812,
-        "author": "Windberg"
+        "end": 813,
+        "author": "Windberg."
       }
     ]
   },
@@ -9014,11 +9177,13 @@
     "lemma": "Tibiscum",
     "previous": "Tibisca",
     "next": "Tibiscus",
+    "proof_read": 0,
     "short_description": "Ort im traianischen Dacien",
     "chapters": [
       {
         "start": 813,
-        "author": "Fluss"
+        "end": 814,
+        "author": "Fluss."
       }
     ]
   },
@@ -9026,11 +9191,13 @@
     "lemma": "Tibiscus",
     "previous": "Tibiscum",
     "next": "Tibisia",
+    "proof_read": 0,
     "short_description": "Fluß in Noricum",
     "chapters": [
       {
         "start": 814,
-        "author": "Fluss"
+        "end": 815,
+        "author": "Fluss."
       }
     ]
   },
@@ -9096,11 +9263,13 @@
     "lemma": "Tibula",
     "previous": "Τιβρακάνα",
     "next": "Tibulatii",
+    "proof_read": 0,
     "short_description": "Ort an d. N-Küste Sardiniens",
     "chapters": [
       {
         "start": 815,
-        "author": "Philipp"
+        "end": 816,
+        "author": "Philipp."
       }
     ]
   },
@@ -9108,10 +9277,12 @@
     "lemma": "Tibulatii",
     "previous": "Tibula",
     "next": "Tibur",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 816,
-        "author": "Philipp"
+        "end": 816,
+        "author": "Philipp."
       }
     ]
   },
@@ -9119,11 +9290,13 @@
     "lemma": "Tibur",
     "previous": "Tibulatii",
     "next": "Tibures",
+    "proof_read": 0,
     "short_description": "Stadt in Latium, heute Tivoli",
     "chapters": [
       {
         "start": 816,
-        "author": "Weinstock"
+        "end": 841,
+        "author": "Weinstock."
       }
     ]
   },
@@ -9131,11 +9304,13 @@
     "lemma": "Tibures",
     "previous": "Tibur",
     "next": "Tiburnus",
+    "proof_read": 0,
     "short_description": "Tiburi",
     "chapters": [
       {
         "start": 841,
-        "author": "Schulten"
+        "end": 841,
+        "author": "Schulten."
       }
     ]
   },
@@ -9158,10 +9333,13 @@
     "lemma": "Tiburtinus lapis",
     "previous": "Tiburnus",
     "next": "Tiburtius 1",
+    "sort_key": "Tiburtinuslapis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 841,
-        "author": "Ebert"
+        "end": 841,
+        "author": "Friedr. Ebert."
       }
     ]
   },
@@ -9169,11 +9347,13 @@
     "lemma": "Tiburtius 1",
     "previous": "Tiburtinus lapis",
     "next": "Tiburtius 2",
+    "proof_read": 0,
     "short_description": "M., Anhänger Caesars",
     "chapters": [
       {
         "start": 841,
-        "author": "Münzer"
+        "end": 841,
+        "author": "Münzer."
       }
     ]
   },
@@ -9181,11 +9361,13 @@
     "lemma": "Tiburtius 2",
     "previous": "Tiburtius 1",
     "next": "Tiburtius 3",
+    "proof_read": 0,
     "short_description": "Vater d. Papstes Siricus",
     "chapters": [
       {
         "start": 841,
-        "author": "Enßlin"
+        "end": 841,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9193,11 +9375,13 @@
     "lemma": "Tiburtius 3",
     "previous": "Tiburtius 2",
     "next": "Tiburtius 4",
+    "proof_read": 0,
     "short_description": "Episcopus Lamacensis",
     "chapters": [
       {
         "start": 841,
-        "author": "Enßlin"
+        "end": 842,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9205,11 +9389,13 @@
     "lemma": "Tiburtius 4",
     "previous": "Tiburtius 3",
     "next": "Tiburtus",
+    "proof_read": 0,
     "short_description": "Bischof v. Capua",
     "chapters": [
       {
         "start": 842,
-        "author": "Enßlin"
+        "end": 842,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9232,11 +9418,13 @@
     "lemma": "Ticarius",
     "previous": "Tiburtus",
     "next": "Ticelia",
+    "proof_read": 0,
     "short_description": "Fluß im W Corsicas",
     "chapters": [
       {
         "start": 842,
-        "author": "Philipp"
+        "end": 842,
+        "author": "Philipp."
       }
     ]
   },
@@ -9244,11 +9432,13 @@
     "lemma": "Ticelia",
     "previous": "Ticarius",
     "next": "Tichasa",
+    "proof_read": 0,
     "short_description": "Stadt am Bagradas",
     "chapters": [
       {
         "start": 842,
-        "author": "Windberg"
+        "end": 843,
+        "author": "Windberg."
       }
     ]
   },
@@ -9256,11 +9446,13 @@
     "lemma": "Tichasa",
     "previous": "Ticelia",
     "next": "Tichiesseis",
+    "proof_read": 0,
     "short_description": "Stadt in Africa",
     "chapters": [
       {
         "start": 843,
-        "author": "Windberg"
+        "end": 844,
+        "author": "Windberg."
       }
     ]
   },
@@ -9281,11 +9473,13 @@
     "lemma": "Tichnondaês",
     "previous": "Tichiesseis",
     "next": "L. Ticida",
+    "proof_read": 0,
     "short_description": "Name in d. Mithrasliturgie d. Großen Pariser Zauberpapyrus",
     "chapters": [
       {
         "start": 844,
-        "author": "Preisendanz"
+        "end": 844,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -9308,11 +9502,13 @@
     "lemma": "Ticinum",
     "previous": "L. Ticida",
     "next": "Ticinus",
+    "proof_read": 0,
     "short_description": "Stadt d. Gallia Cispadana, heute Pavia",
     "chapters": [
       {
         "start": 846,
-        "author": "Philipp"
+        "end": 848,
+        "author": "Philipp."
       }
     ]
   },
@@ -9320,11 +9516,13 @@
     "lemma": "Ticinus",
     "previous": "Ticinum",
     "next": "Ticis 1",
+    "proof_read": 0,
     "short_description": "Nebenfluß d. Padus",
     "chapters": [
       {
         "start": 848,
-        "author": "Oehler, R[aimund]"
+        "end": 849,
+        "author": "R. Oehler."
       }
     ]
   },
@@ -9332,11 +9530,13 @@
     "lemma": "Ticis 1",
     "previous": "Ticinus",
     "next": "Ticis 2",
+    "proof_read": 0,
     "short_description": "Fluß südl. v. Elne/Pyrenäen",
     "chapters": [
       {
         "start": 849,
-        "author": "Schulten"
+        "end": 849,
+        "author": "Schulten."
       }
     ]
   },
@@ -9344,11 +9544,13 @@
     "lemma": "Ticis 2",
     "previous": "Ticis 1",
     "next": "Ticonius",
+    "proof_read": 0,
     "short_description": "Fluß bei Rosas/Pyrenäen",
     "chapters": [
       {
         "start": 849,
-        "author": "Schulten"
+        "end": 849,
+        "author": "Schulten."
       }
     ]
   },
@@ -9356,11 +9558,13 @@
     "lemma": "Ticonius",
     "previous": "Ticis 2",
     "next": "Tidanius",
+    "proof_read": 0,
     "short_description": "Afrikan. Reformdonatist, Ende 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 849,
-        "author": "Dinkler"
+        "end": 856,
+        "author": "Erich Dinkler."
       }
     ]
   },
@@ -9381,10 +9585,12 @@
     "lemma": "Tidone",
     "previous": "Tidanius",
     "next": "Tieion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 856,
-        "author": "Philipp"
+        "end": 856,
+        "author": "Philipp."
       }
     ]
   },
@@ -9392,11 +9598,13 @@
     "lemma": "Tieion",
     "previous": "Tidone",
     "next": "Tierdämonen",
+    "proof_read": 0,
     "short_description": "Stadt an d. N-Küste Kleinasiens",
     "chapters": [
       {
         "start": 856,
-        "author": "Ruge"
+        "end": 862,
+        "author": "Ruge."
       }
     ]
   },
@@ -9404,15 +9612,18 @@
     "lemma": "Tierdämonen",
     "previous": "Tieion",
     "next": "Tierheilkunde",
+    "proof_read": 0,
     "short_description": "In Tiergestalt sich offenbarende dämonische o. göttl. Wesen",
     "chapters": [
       {
         "start": 862,
-        "author": "Eitrem"
+        "end": 921,
+        "author": "Eitrem."
       },
       {
-        "start": 921,
-        "author": "Heichelheim"
+        "start": 922,
+        "end": 931,
+        "author": "Fritz Heichelheim."
       }
     ]
   },
@@ -9459,11 +9670,13 @@
     "lemma": "Tifata 1",
     "previous": "Tierna",
     "next": "Tifata 2",
+    "proof_read": 0,
     "short_description": "Altlatin. Stadt (?)",
     "chapters": [
       {
         "start": 932,
-        "author": "Philipp"
+        "end": 932,
+        "author": "Philipp."
       }
     ]
   },
@@ -9471,11 +9684,13 @@
     "lemma": "Tifata 2",
     "previous": "Tifata 1",
     "next": "Tifatina",
+    "proof_read": 0,
     "short_description": "Berg(gebiet) bei Capua",
     "chapters": [
       {
         "start": 932,
-        "author": "Philipp"
+        "end": 933,
+        "author": "Philipp."
       }
     ]
   },
@@ -9483,11 +9698,13 @@
     "lemma": "Tifatina",
     "previous": "Tifata 2",
     "next": "Tifatinus",
+    "proof_read": 0,
     "short_description": "Beiname d. Diana nach ihrer Kultstätte am W-Abhang d. Berges Tifata bei Capua",
     "chapters": [
       {
         "start": 933,
-        "author": "Weinstock"
+        "end": 939,
+        "author": "Weinstock."
       }
     ]
   },
@@ -9495,10 +9712,12 @@
     "lemma": "Tifatinus",
     "previous": "Tifatina",
     "next": "Tifernum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 939,
-        "author": "Weinstock"
+        "end": 939,
+        "author": "Weinstock."
       }
     ]
   },
@@ -9506,11 +9725,13 @@
     "lemma": "Tifernum",
     "previous": "Tifatinus",
     "next": "Tifernum 1",
+    "proof_read": 0,
     "short_description": "Allgem.",
     "chapters": [
       {
         "start": 939,
-        "author": "Philipp"
+        "end": 939,
+        "author": "Philipp."
       }
     ]
   },
@@ -9518,11 +9739,13 @@
     "lemma": "Tifernum 1",
     "previous": "Tifernum",
     "next": "Tifernum 2",
+    "proof_read": 0,
     "short_description": "Stadt in Samnium",
     "chapters": [
       {
         "start": 939,
-        "author": "Philipp"
+        "end": 939,
+        "author": "Philipp."
       }
     ]
   },
@@ -9530,11 +9753,13 @@
     "lemma": "Tifernum 2",
     "previous": "Tifernum 1",
     "next": "Tifernum 3",
+    "proof_read": 0,
     "short_description": "T. Tiberinum, Stadt im oberen Tibertal",
     "chapters": [
       {
         "start": 939,
-        "author": "Philipp"
+        "end": 940,
+        "author": "Philipp."
       }
     ]
   },
@@ -9542,11 +9767,13 @@
     "lemma": "Tifernum 3",
     "previous": "Tifernum 2",
     "next": "Tifernus",
+    "proof_read": 0,
     "short_description": "T. Tifernates Metaurenses, Ort in Umbrien",
     "chapters": [
       {
         "start": 940,
-        "author": "Philipp"
+        "end": 940,
+        "author": "Philipp."
       }
     ]
   },
@@ -9554,11 +9781,13 @@
     "lemma": "Tifernus",
     "previous": "Tifernum 3",
     "next": "Tifernus 1",
+    "proof_read": 0,
     "short_description": "Allgem., s. auch Tifata und Tiberis",
     "chapters": [
       {
         "start": 940,
-        "author": "Philipp"
+        "end": 940,
+        "author": "Philipp."
       }
     ]
   },
@@ -9566,11 +9795,13 @@
     "lemma": "Tifernus 1",
     "previous": "Tifernus",
     "next": "Tifernus 2",
+    "proof_read": 0,
     "short_description": "Gebirgsmassiv in Samnium",
     "chapters": [
       {
         "start": 940,
-        "author": "Philipp"
+        "end": 941,
+        "author": "Philipp."
       }
     ]
   },
@@ -9578,11 +9809,13 @@
     "lemma": "Tifernus 2",
     "previous": "Tifernus 1",
     "next": "Tigas 1",
+    "proof_read": 0,
     "short_description": "Fluß, am Fuß d. gleichnamigen Berges Nr. 1 entspringend",
     "chapters": [
       {
         "start": 941,
-        "author": "Philipp"
+        "end": 941,
+        "author": "Philipp."
       }
     ]
   },
@@ -9620,10 +9853,12 @@
     "lemma": "Tigasis",
     "previous": "Tigas 2",
     "next": "Tigava 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 941,
-        "author": "Göber"
+        "end": 942,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -9631,11 +9866,13 @@
     "lemma": "Tigava 1",
     "previous": "Tigasis",
     "next": "Tigava 2",
+    "proof_read": 0,
     "short_description": "T. castra, Kastell in Mauretania Caesariensis",
     "chapters": [
       {
         "start": 942,
-        "author": "Windberg"
+        "end": 942,
+        "author": "Windberg."
       }
     ]
   },
@@ -9643,11 +9880,13 @@
     "lemma": "Tigava 2",
     "previous": "Tigava 1",
     "next": "Tigellinus",
+    "proof_read": 0,
     "short_description": "T. municipium, Ort in Mauretania Caesariensis",
     "chapters": [
       {
         "start": 942,
-        "author": "Windberg"
+        "end": 943,
+        "author": "Windberg."
       }
     ]
   },
@@ -9683,11 +9922,13 @@
     "lemma": "Tiger",
     "previous": "M. Tigellius Hermogenes",
     "next": "Tigidius Perennis",
+    "proof_read": 0,
     "short_description": "Tierart",
     "chapters": [
       {
         "start": 946,
-        "author": "Steier"
+        "end": 952,
+        "author": "Steier."
       }
     ]
   },
@@ -9695,11 +9936,14 @@
     "lemma": "Tigidius Perennis",
     "previous": "Tiger",
     "next": "Tigillum",
+    "sort_key": "Tigidiusperennis",
+    "proof_read": 0,
     "short_description": "Praef. praet. unter Commodus",
     "chapters": [
       {
         "start": 952,
-        "author": "Stein, [Arthur]"
+        "end": 956,
+        "author": "Stein."
       }
     ]
   },
@@ -9720,11 +9964,13 @@
     "lemma": "Tigillus",
     "previous": "Tigillum",
     "next": "Tigisis 1",
+    "proof_read": 0,
     "short_description": "Beiname d. Iuppiter",
     "chapters": [
       {
         "start": 956,
-        "author": "Weinstock"
+        "end": 957,
+        "author": "Weinstock."
       }
     ]
   },
@@ -9732,11 +9978,13 @@
     "lemma": "Tigisis 1",
     "previous": "Tigillus",
     "next": "Tigisis 2",
+    "proof_read": 0,
     "short_description": "Stadt in Numidia",
     "chapters": [
       {
         "start": 957,
-        "author": "Windberg"
+        "end": 957,
+        "author": "Windberg."
       }
     ]
   },
@@ -9744,11 +9992,13 @@
     "lemma": "Tigisis 2",
     "previous": "Tigisis 1",
     "next": "Tiglatpileser",
+    "proof_read": 0,
     "short_description": "Stadt in Mauretania Caesariensis",
     "chapters": [
       {
         "start": 957,
-        "author": "Windberg"
+        "end": 958,
+        "author": "Windberg."
       }
     ]
   },
@@ -9756,11 +10006,13 @@
     "lemma": "Tiglatpileser",
     "previous": "Tigisis 2",
     "next": "Tiglita",
+    "proof_read": 0,
     "short_description": "Name dreier assyr. Könige",
     "chapters": [
       {
         "start": 958,
-        "author": "Weissbach"
+        "end": 967,
+        "author": "Weissbach."
       }
     ]
   },
@@ -9781,11 +10033,13 @@
     "lemma": "Tignarius",
     "previous": "Tiglita",
     "next": "Tignica",
+    "proof_read": 0,
     "short_description": "Zimmermann",
     "chapters": [
       {
         "start": 967,
-        "author": "Schroff"
+        "end": 967,
+        "author": "Schroff."
       }
     ]
   },
@@ -9806,11 +10060,14 @@
     "lemma": "Tignum iunctum",
     "previous": "Tignica",
     "next": "Tigra",
+    "sort_key": "Tignumiunctum",
+    "proof_read": 0,
     "short_description": "Jurist. t.t. hinsichtl. d. Verwendung fremden Baumaterials",
     "chapters": [
       {
         "start": 967,
-        "author": "Ehrhardt"
+        "end": 969,
+        "author": "Arnold Ehrhardt."
       }
     ]
   },
@@ -9892,11 +10149,13 @@
     "lemma": "Tigranes 3",
     "previous": "Tigranes 2",
     "next": "Tigranes 4",
+    "proof_read": 0,
     "short_description": "T.II., Sohn v. König Artavasdes, Enkel T.' I. 20 v. Chr.",
     "chapters": [
       {
         "start": 979,
-        "author": "Geyer"
+        "end": 980,
+        "author": "Geyer."
       }
     ]
   },
@@ -9904,11 +10163,13 @@
     "lemma": "Tigranes 4",
     "previous": "Tigranes 3",
     "next": "Tigranes 5",
+    "proof_read": 0,
     "short_description": "T.III., wohl Sohn v. T. II., 12-6 v. Chr.",
     "chapters": [
       {
         "start": 980,
-        "author": "Geyer"
+        "end": 980,
+        "author": "Geyer."
       }
     ]
   },
@@ -9916,11 +10177,13 @@
     "lemma": "Tigranes 5",
     "previous": "Tigranes 4",
     "next": "Tigranes 6",
+    "proof_read": 0,
     "short_description": "T.IV., Enkel Herodes' d. Gr.",
     "chapters": [
       {
         "start": 980,
-        "author": "Geyer"
+        "end": 980,
+        "author": "Geyer."
       }
     ]
   },
@@ -9928,11 +10191,13 @@
     "lemma": "Tigranes 6",
     "previous": "Tigranes 5",
     "next": "Tigranes 7",
+    "proof_read": 0,
     "short_description": "T.V., Urenkel Herodes' d. Gr.",
     "chapters": [
       {
         "start": 980,
-        "author": "Geyer"
+        "end": 981,
+        "author": "Geyer."
       }
     ]
   },
@@ -9957,11 +10222,13 @@
     "lemma": "Tigranes 8",
     "previous": "Tigranes 7",
     "next": "Τιγρανοάμα",
+    "proof_read": 0,
     "short_description": "Angebl. König v. Armenien, Sohn eines Arsakes",
     "chapters": [
       {
         "start": 981,
-        "author": "Enßlin"
+        "end": 981,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -9984,11 +10251,13 @@
     "lemma": "Tigranokerta",
     "previous": "Τιγρανοάμα",
     "next": "Tigranucomae",
-    "short_description": "Jüngere Hauptstadt Armeniens neben Artaxata",
+    "proof_read": 0,
+    "short_description": "jüngere Hauptstadt Armeniens neben Artaxata",
     "chapters": [
       {
         "start": 981,
-        "author": "Lehmann-Haupt"
+        "end": 1007,
+        "author": "C. F. Lehmann-Haupt."
       }
     ]
   },
@@ -9996,10 +10265,12 @@
     "lemma": "Tigranucomae",
     "previous": "Tigranokerta",
     "next": "Tigridius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1007,
-        "author": "Honigmann"
+        "end": 1007,
+        "author": "Honigmann."
       }
     ]
   },
@@ -10007,10 +10278,12 @@
     "lemma": "Tigridius",
     "previous": "Tigranucomae",
     "next": "Tigrinus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1007,
-        "author": "Enßlin"
+        "end": 1007,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10018,10 +10291,12 @@
     "lemma": "Tigrinus",
     "previous": "Tigridius",
     "next": "Tigris 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1008,
-        "author": "Enßlin"
+        "end": 1008,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10029,11 +10304,13 @@
     "lemma": "Tigris 1",
     "previous": "Tigrinus",
     "next": "Tigris 2",
+    "proof_read": 0,
     "short_description": "Einer d. Hauptströme Vorderasiens",
     "chapters": [
       {
         "start": 1008,
-        "author": "Honigmann"
+        "end": 1022,
+        "author": "Honigmann."
       }
     ]
   },
@@ -10041,11 +10318,13 @@
     "lemma": "Tigris 2",
     "previous": "Tigris 1",
     "next": "Tigris 3",
+    "proof_read": 0,
     "short_description": "Aus Leukas, Geliebte Pyrrhos' II. v. Epeiros",
     "chapters": [
       {
         "start": 1022,
-        "author": "Stähelin"
+        "end": 1023,
+        "author": "Stähelin."
       }
     ]
   },
@@ -10053,11 +10332,13 @@
     "lemma": "Tigris 3",
     "previous": "Tigris 2",
     "next": "Tigris 4",
+    "proof_read": 0,
     "short_description": "Aur(elia) CIL VI 31956",
     "chapters": [
       {
         "start": 1023,
-        "author": "Enßlin"
+        "end": 1023,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10078,11 +10359,13 @@
     "lemma": "Tigrius",
     "previous": "Tigris 4",
     "next": "Tigtila",
+    "proof_read": 0,
     "short_description": "Presbyter in Constantinopel",
     "chapters": [
       {
         "start": 1023,
-        "author": "Enßlin"
+        "end": 1023,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10090,11 +10373,13 @@
     "lemma": "Tigtila",
     "previous": "Tigrius",
     "next": "Tigubis",
+    "proof_read": 0,
     "short_description": "Küstenfluß in Ligurien",
     "chapters": [
       {
         "start": 1023,
-        "author": "Banti"
+        "end": 1024,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -10102,10 +10387,12 @@
     "lemma": "Tigubis",
     "previous": "Tigtila",
     "next": "Tiguli",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1024,
-        "author": "Sturm"
+        "end": 1024,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -10126,11 +10413,13 @@
     "lemma": "Tigullia",
     "previous": "Tiguli",
     "next": "Tiguntia",
+    "proof_read": 0,
     "short_description": "Ort in Ligurien",
     "chapters": [
       {
         "start": 1024,
-        "author": "Banti"
+        "end": 1024,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -10138,11 +10427,13 @@
     "lemma": "Tiguntia",
     "previous": "Tigullia",
     "next": "Tigurini",
+    "proof_read": 0,
     "short_description": "Bach in Noricum",
     "chapters": [
       {
         "start": 1024,
-        "author": "Fluss"
+        "end": 1025,
+        "author": "Fluss."
       }
     ]
   },
@@ -10150,11 +10441,13 @@
     "lemma": "Tigurini",
     "previous": "Tiguntia",
     "next": "Τιλάδαι",
+    "proof_read": 0,
     "short_description": "Helvetische Völkerschaft",
     "chapters": [
       {
         "start": 1025,
-        "author": "Linckenheld"
+        "end": 1028,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -10177,10 +10470,12 @@
     "lemma": "Tilataioi",
     "previous": "Τιλάδαι",
     "next": "Tilaventus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1034,
-        "author": "Fluss"
+        "end": 1034,
+        "author": "Fluss."
       }
     ]
   },
@@ -10188,11 +10483,13 @@
     "lemma": "Tilaventus",
     "previous": "Tilataioi",
     "next": "Tilena",
+    "proof_read": 0,
     "short_description": "Fluß in Venetia, heute Tagliamento",
     "chapters": [
       {
         "start": 1034,
-        "author": "Philipp"
+        "end": 1035,
+        "author": "Philipp."
       }
     ]
   },
@@ -10200,11 +10497,13 @@
     "lemma": "Tilena",
     "previous": "Tilaventus",
     "next": "Tilenus",
+    "proof_read": 0,
     "short_description": "Wichtiger Straßenposten mit Siedlung an d. Via Agrippina",
     "chapters": [
       {
         "start": 1035,
-        "author": "Linckenheld"
+        "end": 1037,
+        "author": "E. Linckenheld."
       }
     ]
   },
@@ -10255,10 +10554,12 @@
     "lemma": "Tilium",
     "previous": "Φρούριον τὸ Τιλικίων",
     "next": "Tilleus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1037,
-        "author": "Philipp"
+        "end": 1037,
+        "author": "Philipp."
       }
     ]
   },
@@ -10311,11 +10612,13 @@
     "lemma": "Tillius 1",
     "previous": "Tillito",
     "next": "Tillius 2",
+    "proof_read": 0,
     "short_description": "Bruder v. L. Tillius Cimber Nr. 5), Person bei Horaz",
     "chapters": [
       {
         "start": 1037,
-        "author": "Münzer"
+        "end": 1038,
+        "author": "Münzer."
       }
     ]
   },
@@ -10337,11 +10640,13 @@
     "lemma": "Tillius 3",
     "previous": "Tillius 2",
     "next": "Tillius 4",
+    "proof_read": 0,
     "short_description": "L. Proxenos v. Delphi",
     "chapters": [
       {
         "start": 1038,
-        "author": "Münzer"
+        "end": 1038,
+        "author": "Münzer."
       }
     ]
   },
@@ -10349,11 +10654,13 @@
     "lemma": "Tillius 4",
     "previous": "Tillius 3",
     "next": "Tillius 5",
+    "proof_read": 0,
     "short_description": "Q. Legat Caesars im Bürgerkrieg",
     "chapters": [
       {
         "start": 1038,
-        "author": "Münzer"
+        "end": 1038,
+        "author": "Münzer."
       }
     ]
   },
@@ -10361,11 +10668,13 @@
     "lemma": "Tillius 5",
     "previous": "Tillius 4",
     "next": "Tillius 6",
+    "proof_read": 0,
     "short_description": "Cimber, L. Anhänger Caesars, Teilnehmer an d. Verschwörung gegen ihn",
     "chapters": [
       {
         "start": 1038,
-        "author": "Münzer"
+        "end": 1040,
+        "author": "Münzer."
       }
     ]
   },
@@ -10373,11 +10682,13 @@
     "lemma": "Tillius 6",
     "previous": "Tillius 5",
     "next": "Tillius 7",
+    "proof_read": 0,
     "short_description": "Rufus, C. Duumvir iure dicundo in Pompeii",
     "chapters": [
       {
         "start": 1040,
-        "author": "Münzer"
+        "end": 1040,
+        "author": "Münzer."
       }
     ]
   },
@@ -10385,63 +10696,77 @@
     "lemma": "Tillius 7",
     "previous": "Tillius 6",
     "next": "Tillorobus",
+    "proof_read": 0,
     "short_description": "Sassius, Qu. Frater Arvalis",
     "chapters": [
       {
         "start": 1040,
-        "author": "Fluss"
+        "end": 1041,
+        "author": "Fluss."
       }
     ]
   },
   {
     "lemma": "Tillorobus",
     "previous": "Tillius 7",
-    "next": "Tilmognon agros",
+    "next": "Τιλμογνὼν ἀγρός",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1041,
-        "author": "Stein, [Arthur]"
+        "end": 1041,
+        "author": "Stein."
       }
     ]
   },
   {
-    "lemma": "Tilmognon agros",
+    "lemma": "Τιλμογνὼν ἀγρός",
     "previous": "Tillorobus",
-    "next": "Tilogrammon",
+    "next": "Τιλόγραμμον",
+    "sort_key": "Tilmognonagros",
+    "proof_read": 2,
+    "short_description": "Tilmognon agros, Landschaft in Nordsyrien",
     "chapters": [
       {
         "start": 1041,
-        "author": "Honigmann"
+        "end": 1041,
+        "author": "Ernst Honigmann."
       }
     ]
   },
   {
-    "lemma": "Tilogrammon",
-    "previous": "Tilmognon agros",
-    "next": "Tilokbarinos",
-    "short_description": "Stadt nahe d. dritten Gangesmündung",
+    "lemma": "Τιλόγραμμον",
+    "previous": "Τιλμογνὼν ἀγρός",
+    "next": "Τιλοκβαρινός",
+    "sort_key": "Tilogrammon",
+    "proof_read": 0,
+    "short_description": "Tilogrammon, Stadt bei der dritten Gangesmündung",
     "chapters": [
       {
         "start": 1041,
-        "author": "Stein, O[tto]"
+        "end": 1043,
+        "author": "O. Stein."
       }
     ]
   },
   {
-    "lemma": "Tilokbarinos",
-    "previous": "Tilogrammon",
+    "lemma": "Τιλοκβαρινός",
+    "previous": "Τιλόγραμμον",
     "next": "Tilox",
-    "short_description": "Ethnikon aus einem Ort in N-Syrien",
+    "sort_key": "Tilokbarinos",
+    "proof_read": 2,
+    "short_description": "Tilokbarinos, Ethnikon in Nordsyrien",
     "chapters": [
       {
         "start": 1043,
-        "author": "Honigmann"
+        "end": 1044,
+        "author": "Ernst Honigmann."
       }
     ]
   },
   {
     "lemma": "Tilox",
-    "previous": "Tilokbarinos",
+    "previous": "Τιλοκβαρινός",
     "next": "Tilphossaion",
     "proof_read": 2,
     "short_description": "(Τίλοξ ἄκρον), nach Ptolem. III 2, 2 Vorgebirge an der Nordküste Corsicas, nach",
@@ -10472,11 +10797,13 @@
     "lemma": "Tilphossion",
     "previous": "Tilphossaion",
     "next": "Tilphusa",
+    "proof_read": 0,
     "short_description": "Berg in Boiotien",
     "chapters": [
       {
         "start": 1044,
-        "author": "Schober"
+        "end": 1045,
+        "author": "F. Schober."
       }
     ]
   },
@@ -10484,11 +10811,13 @@
     "lemma": "Tilphusa",
     "previous": "Tilphossion",
     "next": "Tilphusios",
+    "proof_read": 0,
     "short_description": "Nymphe einer boiot. Quelle",
     "chapters": [
       {
         "start": 1045,
-        "author": "Wüst"
+        "end": 1048,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -10496,10 +10825,12 @@
     "lemma": "Tilphusios",
     "previous": "Tilphusa",
     "next": "Tilthazes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1048,
-        "author": "Wüst"
+        "end": 1048,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -10507,10 +10838,12 @@
     "lemma": "Tilthazes",
     "previous": "Tilphusios",
     "next": "Tilurio",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1048,
-        "author": "Kazarow"
+        "end": 1048,
+        "author": "Kazarow."
       }
     ]
   },
@@ -10518,11 +10851,13 @@
     "lemma": "Tilurio",
     "previous": "Tilthazes",
     "next": "Tilurion",
+    "proof_read": 0,
     "short_description": "Station an d. Straße Salona - Scodra",
     "chapters": [
       {
         "start": 1048,
-        "author": "Fluss"
+        "end": 1048,
+        "author": "Fluss."
       }
     ]
   },
@@ -10544,11 +10879,13 @@
     "lemma": "Tilurius",
     "previous": "Tilurion",
     "next": "Timachi",
+    "proof_read": 0,
     "short_description": "Fluß in Dalmatien",
     "chapters": [
       {
         "start": 1048,
-        "author": "Fluss"
+        "end": 1051,
+        "author": "Fluss."
       }
     ]
   },
@@ -10556,11 +10893,13 @@
     "lemma": "Timachi",
     "previous": "Tilurius",
     "next": "Timachidas",
+    "proof_read": 0,
     "short_description": "Volksstamm in d. röm. Provinz Moesien",
     "chapters": [
       {
         "start": 1051,
-        "author": "Fluss"
+        "end": 1052,
+        "author": "Fluss."
       }
     ]
   },
@@ -10568,11 +10907,13 @@
     "lemma": "Timachidas",
     "previous": "Timachi",
     "next": "Timachos",
+    "proof_read": 0,
     "short_description": "Von Rhodos, Verf. einer Chronik d. Stadt Lindos auf Rhodos",
     "chapters": [
       {
         "start": 1052,
-        "author": "Ziegler"
+        "end": 1060,
+        "author": "Ziegler."
       }
     ]
   },
@@ -10593,11 +10934,14 @@
     "lemma": "Timacum maius",
     "previous": "Timachos",
     "next": "Timacum minus",
+    "sort_key": "Timacummaius",
+    "proof_read": 0,
     "short_description": "Station in Moesia superior",
     "chapters": [
       {
         "start": 1060,
-        "author": "Fluss"
+        "end": 1060,
+        "author": "Fluss."
       }
     ]
   },
@@ -10605,11 +10949,14 @@
     "lemma": "Timacum minus",
     "previous": "Timacum maius",
     "next": "Timacus",
+    "sort_key": "Timacumminus",
+    "proof_read": 0,
     "short_description": "Kastell u. Ort an d. Straße Naissus - Ratiaria",
     "chapters": [
       {
         "start": 1060,
-        "author": "Fluss"
+        "end": 1062,
+        "author": "Fluss."
       }
     ]
   },
@@ -10617,11 +10964,13 @@
     "lemma": "Timacus",
     "previous": "Timacum minus",
     "next": "Timagenes 1",
+    "proof_read": 0,
     "short_description": "Fluß in Moesia superior",
     "chapters": [
       {
         "start": 1062,
-        "author": "Fluss"
+        "end": 1063,
+        "author": "Fluss."
       }
     ]
   },
@@ -10629,11 +10978,13 @@
     "lemma": "Timagenes 1",
     "previous": "Timacus",
     "next": "Timagenes 2",
+    "proof_read": 0,
     "short_description": "Ägypter, Feldherr d. Zenobia",
     "chapters": [
       {
         "start": 1063,
-        "author": "Stein, [Arthur]"
+        "end": 1063,
+        "author": "Stein."
       }
     ]
   },
@@ -10641,11 +10992,13 @@
     "lemma": "Timagenes 2",
     "previous": "Timagenes 1",
     "next": "Timagetos",
+    "proof_read": 0,
     "short_description": "Von Alexandria, Rhetor u. Historiker",
     "chapters": [
       {
         "start": 1063,
-        "author": "Laqueur"
+        "end": 1071,
+        "author": "Laqueur."
       }
     ]
   },
@@ -10653,11 +11006,13 @@
     "lemma": "Timagetos",
     "previous": "Timagenes 2",
     "next": "Timagon",
+    "proof_read": 0,
     "short_description": "Verf. einer Schrift Peri limenon",
     "chapters": [
       {
         "start": 1071,
-        "author": "Gisinger"
+        "end": 1073,
+        "author": "F. Gisinger."
       }
     ]
   },
@@ -10694,11 +11049,13 @@
     "lemma": "Timagoras 2",
     "previous": "Timagoras 1",
     "next": "Timagoras 3",
+    "proof_read": 0,
     "short_description": "Athener 4. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1073,
-        "author": "Reincke"
+        "end": 1073,
+        "author": "Reincke."
       }
     ]
   },
@@ -10739,11 +11096,13 @@
     "lemma": "Timagoras 5",
     "previous": "Timagoras 4",
     "next": "Timagoras 6",
+    "proof_read": 0,
     "short_description": "Epikureer",
     "chapters": [
       {
         "start": 1073,
-        "author": "Philippson"
+        "end": 1074,
+        "author": "R. Philippson."
       }
     ]
   },
@@ -10751,11 +11110,13 @@
     "lemma": "Timagoras 6",
     "previous": "Timagoras 5",
     "next": "Timagoras 7",
+    "proof_read": 0,
     "short_description": "Von Chalkis, Maler",
     "chapters": [
       {
         "start": 1074,
-        "author": "Lippold, Georg"
+        "end": 1074,
+        "author": "Lippold."
       }
     ]
   },
@@ -10763,11 +11124,13 @@
     "lemma": "Timagoras 7",
     "previous": "Timagoras 6",
     "next": "Timagoras 8",
+    "proof_read": 0,
     "short_description": "Von Rhodos, Erzgießer",
     "chapters": [
       {
         "start": 1074,
-        "author": "Lippold, Georg"
+        "end": 1074,
+        "author": "Lippold."
       }
     ]
   },
@@ -10804,11 +11167,13 @@
     "lemma": "Timaia 2",
     "previous": "Timaia 1",
     "next": "Timainetos",
+    "proof_read": 0,
     "short_description": "Spartiatin",
     "chapters": [
       {
         "start": 1074,
-        "author": "Ehrenberg"
+        "end": 1075,
+        "author": "Ehrenberg."
       }
     ]
   },
@@ -10831,11 +11196,13 @@
     "lemma": "Timaios 1",
     "previous": "Timainetos",
     "next": "Timaios 2",
+    "proof_read": 0,
     "short_description": "Stratege d. Aitolischen Bundes",
     "chapters": [
       {
         "start": 1075,
-        "author": "Ziegler"
+        "end": 1076,
+        "author": "Ziegler."
       }
     ]
   },
@@ -10857,11 +11224,13 @@
     "lemma": "Timaios 3",
     "previous": "Timaios 2",
     "next": "Timaios 4",
+    "proof_read": 0,
     "short_description": "Von Tauromenion, gr. Historiker",
     "chapters": [
       {
         "start": 1076,
-        "author": "Laqueur"
+        "end": 1203,
+        "author": "Laqueur."
       }
     ]
   },
@@ -10869,11 +11238,13 @@
     "lemma": "Timaios 4",
     "previous": "Timaios 3",
     "next": "Timaios 5",
-    "short_description": "Von Lokroi, wohl Pythagoreer Titelperson in Platons gleichnamigem Dialog dem T.",
+    "proof_read": 0,
+    "short_description": "von Lokroi, Pythagoreer, Titelperson in Platons gleichnamigem Dialog",
     "chapters": [
       {
         "start": 1203,
-        "author": "Harder, R[ichard]"
+        "end": 1226,
+        "author": "R. Harder."
       }
     ]
   },
@@ -10930,11 +11301,13 @@
     "lemma": "Timaios 8",
     "previous": "Timaios 7",
     "next": "Timaios 9",
+    "proof_read": 0,
     "short_description": "Platoniker, Verf. eines Platonlexikons",
     "chapters": [
       {
         "start": 1226,
-        "author": "Fritz"
+        "end": 1228,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -10971,10 +11344,12 @@
     "lemma": "Timalkiolon",
     "previous": "Timalinum",
     "next": "Timalkos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1229,
-        "author": "Fluss"
+        "end": 1229,
+        "author": "Fluss."
       }
     ]
   },
@@ -10982,11 +11357,13 @@
     "lemma": "Timalkos",
     "previous": "Timalkiolon",
     "next": "Timandra 1",
+    "proof_read": 0,
     "short_description": "Sohn d. eponymen Königs Megareus v. Megara",
     "chapters": [
       {
         "start": 1229,
-        "author": "Göber"
+        "end": 1229,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -10994,11 +11371,13 @@
     "lemma": "Timandra 1",
     "previous": "Timalkos",
     "next": "Timandra 2",
+    "proof_read": 0,
     "short_description": "Tochter d. Tyndareos u. d. Leda",
     "chapters": [
       {
         "start": 1229,
-        "author": "Göber"
+        "end": 1230,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -11006,11 +11385,13 @@
     "lemma": "Timandra 2",
     "previous": "Timandra 1",
     "next": "Timandra 3",
+    "proof_read": 0,
     "short_description": "Mutter d. Neophron",
     "chapters": [
       {
         "start": 1230,
-        "author": "Göber"
+        "end": 1230,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -11018,11 +11399,13 @@
     "lemma": "Timandra 3",
     "previous": "Timandra 2",
     "next": "Timandra 4",
+    "proof_read": 0,
     "short_description": "Mutter d. jüngeren Lais",
     "chapters": [
       {
         "start": 1230,
-        "author": "Göber"
+        "end": 1230,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -11030,11 +11413,13 @@
     "lemma": "Timandra 4",
     "previous": "Timandra 3",
     "next": "Timandreus",
+    "proof_read": 0,
     "short_description": "Hetäre",
     "chapters": [
       {
         "start": 1230,
-        "author": "Göber"
+        "end": 1230,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -11042,10 +11427,12 @@
     "lemma": "Timandreus",
     "previous": "Timandra 4",
     "next": "Timandros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1230,
-        "author": "Göber"
+        "end": 1230,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -11053,10 +11440,12 @@
     "lemma": "Timandros",
     "previous": "Timandreus",
     "next": "Timanei",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1230,
-        "author": "Göber"
+        "end": 1230,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -11064,11 +11453,13 @@
     "lemma": "Timanei",
     "previous": "Timandros",
     "next": "Timanor",
+    "proof_read": 0,
     "short_description": "Volksstamm in Arabia felix",
     "chapters": [
       {
         "start": 1230,
-        "author": "Grohmann"
+        "end": 1231,
+        "author": "Grohmann."
       }
     ]
   },
@@ -11076,10 +11467,12 @@
     "lemma": "Timanor",
     "previous": "Timanei",
     "next": "Timanthes 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1231,
-        "author": "Oldfather"
+        "end": 1231,
+        "author": "Oldfather."
       }
     ]
   },
@@ -11087,11 +11480,13 @@
     "lemma": "Timanthes 1",
     "previous": "Timanor",
     "next": "Timanthes 2",
+    "proof_read": 0,
     "short_description": "Von Kythnos, Maler",
     "chapters": [
       {
         "start": 1231,
-        "author": "Lippold, Georg"
+        "end": 1232,
+        "author": "Lippold."
       }
     ]
   },
@@ -11099,11 +11494,13 @@
     "lemma": "Timanthes 2",
     "previous": "Timanthes 1",
     "next": "Timaratos",
+    "proof_read": 0,
     "short_description": "Maler, wohl Sikyonier",
     "chapters": [
       {
         "start": 1232,
-        "author": "Lippold, Georg"
+        "end": 1232,
+        "author": "Lippold."
       }
     ]
   },
@@ -11111,10 +11508,12 @@
     "lemma": "Timaratos",
     "previous": "Timanthes 2",
     "next": "Timarchides 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1232,
-        "author": "Fritz"
+        "end": 1233,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -11150,11 +11549,13 @@
     "lemma": "Timarchides 3",
     "previous": "Timarchides 2",
     "next": "Timarchides 4",
+    "proof_read": 0,
     "short_description": "Freigelassener d. C. Verres",
     "chapters": [
       {
         "start": 1233,
-        "author": "Münzer"
+        "end": 1233,
+        "author": "Münzer."
       }
     ]
   },
@@ -11162,11 +11563,13 @@
     "lemma": "Timarchides 4",
     "previous": "Timarchides 3",
     "next": "Timarchides 5",
+    "proof_read": 0,
     "short_description": "Sohn d. Polykles, Bildhauer",
     "chapters": [
       {
         "start": 1233,
-        "author": "Lippold, Georg"
+        "end": 1234,
+        "author": "Lippold."
       }
     ]
   },
@@ -11174,11 +11577,13 @@
     "lemma": "Timarchides 5",
     "previous": "Timarchides 4",
     "next": "Timarchides 6",
+    "proof_read": 0,
     "short_description": "Sohn d. Polykles, Enkel v. Nr. 4, Bildhauer",
     "chapters": [
       {
         "start": 1234,
-        "author": "Lippold, Georg"
+        "end": 1234,
+        "author": "Lippold."
       }
     ]
   },
@@ -11244,11 +11649,13 @@
     "lemma": "Timarchos 4",
     "previous": "Timarchos 3",
     "next": "Timarchos 5",
+    "proof_read": 0,
     "short_description": "Bundesgenosse d. Ptolemaios",
     "chapters": [
       {
         "start": 1236,
-        "author": "Ziegler"
+        "end": 1237,
+        "author": "Ziegler."
       }
     ]
   },
@@ -11268,11 +11675,13 @@
     "lemma": "Timarchos 6",
     "previous": "Timarchos 5",
     "next": "Timarchos 7",
+    "proof_read": 0,
     "short_description": "Kreter aus Eleutherna",
     "chapters": [
       {
         "start": 1238,
-        "author": "Ziegler"
+        "end": 1238,
+        "author": "Ziegler."
       }
     ]
   },
@@ -11337,11 +11746,13 @@
     "lemma": "Timarchos 11",
     "previous": "Timarchos 10",
     "next": "Timarchos 12",
+    "proof_read": 0,
     "short_description": "Angebl. v. Metrodor zum Eintritt in d. Schule Epikurs aufgefordert",
     "chapters": [
       {
         "start": 1238,
-        "author": "Philippson"
+        "end": 1238,
+        "author": "R. Philippson."
       }
     ]
   },
@@ -11349,11 +11760,13 @@
     "lemma": "Timarchos 12",
     "previous": "Timarchos 11",
     "next": "Timarchos 13",
+    "proof_read": 0,
     "short_description": "Sohn d. Praxiteles, Bildhauer",
     "chapters": [
       {
         "start": 1238,
-        "author": "Lippold, Georg"
+        "end": 1239,
+        "author": "Lippold."
       }
     ]
   },
@@ -11361,11 +11774,13 @@
     "lemma": "Timarchos 13",
     "previous": "Timarchos 12",
     "next": "Timares",
+    "proof_read": 0,
     "short_description": "Von Rhodos, Bildhauer",
     "chapters": [
       {
         "start": 1239,
-        "author": "Lippold, Georg"
+        "end": 1239,
+        "author": "Lippold."
       }
     ]
   },
@@ -11386,10 +11801,12 @@
     "lemma": "Timareta",
     "previous": "Timares",
     "next": "Timarete",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1239,
-        "author": "Fritz"
+        "end": 1239,
+        "author": "K. v. Fritz."
       }
     ]
   },
@@ -11397,10 +11814,12 @@
     "lemma": "Timarete",
     "previous": "Timareta",
     "next": "Timaris",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1239,
-        "author": "Lippold, Georg"
+        "end": 1239,
+        "author": "Lippold."
       }
     ]
   },
@@ -11408,10 +11827,12 @@
     "lemma": "Timaris",
     "previous": "Timarete",
     "next": "Timarum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1239,
-        "author": "Diehl, Ernst"
+        "end": 1239,
+        "author": "Diehl."
       }
     ]
   },
@@ -11445,10 +11866,12 @@
     "lemma": "Timasarchos",
     "previous": "Timasagoras",
     "next": "Timasion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1239,
-        "author": "Enßlin"
+        "end": 1239,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11456,10 +11879,12 @@
     "lemma": "Timasion",
     "previous": "Timasarchos",
     "next": "Timasitheos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1239,
-        "author": "Fiehn"
+        "end": 1239,
+        "author": "Fiehn."
       }
     ]
   },
@@ -11467,11 +11892,13 @@
     "lemma": "Timasitheos",
     "previous": "Timasion",
     "next": "Timasius 1",
+    "proof_read": 0,
     "short_description": "Stratege v. Lipara",
     "chapters": [
       {
         "start": 1239,
-        "author": "Münzer"
+        "end": 1240,
+        "author": "Münzer."
       }
     ]
   },
