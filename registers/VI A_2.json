@@ -7630,6 +7630,7 @@
   {
     "lemma": "Tomara, Tomaris 2",
     "previous": "Tomara, Tomaris 1",
+    "next": "Tomarus, Tmarus",
     "proof_read": 0,
     "short_description": "Indische Stadt",
     "chapters": [
@@ -8045,7 +8046,7 @@
   {
     "lemma": "Toni stagnum",
     "previous": "Tongoenabiagus",
-    "next": "Τονίκι",
+    "next": "Tonitrator",
     "sort_key": "Tonistagnum",
     "proof_read": 0,
     "chapters": [
@@ -8628,10 +8629,12 @@
     "lemma": "Torgiatês",
     "previous": "Toreutik",
     "next": "Toribius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1774,
-        "author": "Preisendanz"
+        "end": 1774,
+        "author": "Preisendanz."
       }
     ]
   },
@@ -8651,29 +8654,34 @@
   {
     "lemma": "Torikos",
     "previous": "Toribius",
-    "next": "Toringoi",
+    "next": "Τωρίγγοι",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1774,
-        "author": "Diehl, Erich"
+        "end": 1775,
+        "author": "Erich Diehl."
       }
     ]
   },
   {
-    "lemma": "Toringoi",
+    "lemma": "Τωρίγγοι",
     "previous": "Torikos",
     "next": "Torius 1",
+    "sort_key": "Toringoi",
+    "proof_read": 0,
     "short_description": "Für Soringoi, s. Sorai",
     "chapters": [
       {
         "start": 1775,
-        "author": "Stein, O[tto]"
+        "end": 1775,
+        "author": "O. Stein."
       }
     ]
   },
   {
     "lemma": "Torius 1",
-    "previous": "Toringoi",
+    "previous": "Τωρίγγοι",
     "next": "Torius 2",
     "redirect": "Thorius 1",
     "proof_read": 2,
@@ -8688,11 +8696,13 @@
     "lemma": "Torius 2",
     "previous": "Torius 1",
     "next": "Tormenta 1",
+    "proof_read": 0,
     "short_description": "Culleo, Q. CIL II 3270",
     "chapters": [
       {
         "start": 1775,
-        "author": "Stein, [Arthur]"
+        "end": 1775,
+        "author": "Stein."
       }
     ]
   },
@@ -8700,46 +8710,55 @@
     "lemma": "Tormenta 1",
     "previous": "Torius 2",
     "next": "Tormenta 2",
+    "proof_read": 0,
     "short_description": "s. Geschütze Lithobolos, Machinae",
     "chapters": [
       {
         "start": 1775,
-        "author": "Lammert, Friedrich"
+        "end": 1775,
+        "author": "F. Lammert."
       }
     ]
   },
   {
     "lemma": "Tormenta 2",
     "previous": "Tormenta 1",
-    "next": "Torm(ion? -en?), e(i)s to",
+    "next": "ε(ἰ)ς το Τορμ(ιον? -ην?)",
+    "proof_read": 0,
     "short_description": "Folter",
     "chapters": [
       {
         "start": 1775,
-        "author": "Ehrhardt"
+        "end": 1794,
+        "author": "Arnold Ehrhardt."
       }
     ]
   },
   {
-    "lemma": "Torm(ion? -en?), e(i)s to",
+    "lemma": "ε(ἰ)ς το Τορμ(ιον? -ην?)",
     "previous": "Tormenta 2",
     "next": "Tornadotus",
+    "sort_key": "Tormion, eis to",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1794,
-        "author": "Ruge"
+        "end": 1794,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Tornadotus",
-    "previous": "Torm(ion? -en?), e(i)s to",
+    "previous": "ε(ἰ)ς το Τορμ(ιον? -ην?)",
     "next": "Τορνᾶς",
+    "proof_read": 0,
     "short_description": "Nebenfluß d. Tigris",
     "chapters": [
       {
         "start": 1794,
-        "author": "Sturm"
+        "end": 1794,
+        "author": "J. Sturm."
       }
     ]
   },
@@ -8761,10 +8780,12 @@
     "lemma": "Torneutik",
     "previous": "Τορνᾶς",
     "next": "Torokka",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1794,
-        "author": "Lippold, Georg"
+        "end": 1794,
+        "author": "Lippold."
       }
     ]
   },
@@ -8772,10 +8793,12 @@
     "lemma": "Torokka",
     "previous": "Torneutik",
     "next": "Toron",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1794,
-        "author": "Diehl, Erich"
+        "end": 1794,
+        "author": "Erich Diehl."
       }
     ]
   },
@@ -8783,11 +8806,13 @@
     "lemma": "Toron",
     "previous": "Torokka",
     "next": "Toronäischer Golf",
+    "proof_read": 0,
     "short_description": "Erzgießer im 3. Jh. v. Chr.",
     "chapters": [
       {
         "start": 1794,
-        "author": "Lippold, Georg"
+        "end": 1795,
+        "author": "Lippold."
       }
     ]
   },
@@ -8795,10 +8820,13 @@
     "lemma": "Toronäischer Golf",
     "previous": "Toron",
     "next": "Toronäisches Vorgebirge",
+    "sort_key": "Toronäischergolf",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1795,
-        "author": "Oberhummer"
+        "end": 1795,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -8806,10 +8834,13 @@
     "lemma": "Toronäisches Vorgebirge",
     "previous": "Toronäischer Golf",
     "next": "Toronaios",
+    "sort_key": "Toronäischesvorgebirge",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1795,
-        "author": "Oberhummer"
+        "end": 1795,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -8817,10 +8848,12 @@
     "lemma": "Toronaios",
     "previous": "Toronäisches Vorgebirge",
     "next": "Torone",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1795,
-        "author": "Kruse"
+        "end": 1795,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -8828,11 +8861,13 @@
     "lemma": "Torone",
     "previous": "Toronaios",
     "next": "Toros",
+    "proof_read": 0,
     "short_description": "Wichtigste Stadt auf d. mittleren der drei chalkidischen Halbinseln",
     "chapters": [
       {
         "start": 1795,
-        "author": "Oberhummer"
+        "end": 1798,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -8840,10 +8875,12 @@
     "lemma": "Toros",
     "previous": "Torone",
     "next": "Torquata",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1798,
-        "author": "Ziegler"
+        "end": 1799,
+        "author": "Ziegler."
       }
     ]
   },
@@ -8851,10 +8888,12 @@
     "lemma": "Torquata",
     "previous": "Toros",
     "next": "Torquatus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1799,
-        "author": "Groag"
+        "end": 1799,
+        "author": "Groag."
       }
     ]
   },
@@ -9032,11 +9071,14 @@
     "lemma": "Torquatus Gennadius",
     "previous": "Torquatus 11",
     "next": "Torques, torquis",
+    "sort_key": "Torquatusgennadius",
+    "proof_read": 0,
     "short_description": "Hersteller einer Rezension in einer Martial-Hs.",
     "chapters": [
       {
         "start": 1799,
-        "author": "Kroll"
+        "end": 1800,
+        "author": "Kroll."
       }
     ]
   },
@@ -9044,11 +9086,14 @@
     "lemma": "Torques, torquis",
     "previous": "Torquatus Gennadius",
     "next": "Torrhebos",
+    "sort_key": "Torques,torquis",
+    "proof_read": 0,
     "short_description": "Halsband aus Gold, Silber o. Bronze",
     "chapters": [
       {
         "start": 1800,
-        "author": "Schuppe"
+        "end": 1805,
+        "author": "Schuppe."
       }
     ]
   },
@@ -9056,17 +9101,19 @@
     "lemma": "Torrhebos",
     "previous": "Torques, torquis",
     "next": "Torthyneion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1805,
-        "author": "Treidler"
+        "end": 1805,
+        "author": "Treidler."
       }
     ]
   },
   {
     "lemma": "Torthyneion",
     "previous": "Torrhebos",
-    "next": "Tortomion",
+    "next": "Τορτόμιον",
     "short_description": "Arkad. Stadt",
     "chapters": [
       {
@@ -9076,24 +9123,29 @@
     ]
   },
   {
-    "lemma": "Tortomion",
+    "lemma": "Τορτόμιον",
     "previous": "Torthyneion",
     "next": "Tortor",
+    "sort_key": "Tortomion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1807,
-        "author": "Honigmann"
+        "end": 1807,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Tortor",
-    "previous": "Tortomion",
+    "previous": "Τορτόμιον",
     "next": "Tortuni",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1807,
-        "author": "Rohde"
+        "end": 1807,
+        "author": "G. Rohde."
       }
     ]
   },
@@ -9114,11 +9166,13 @@
     "lemma": "Tortyre",
     "previous": "Tortuni",
     "next": "Torus",
+    "proof_read": 0,
     "short_description": "s. Tieion",
     "chapters": [
       {
         "start": 1807,
-        "author": "Ruge"
+        "end": 1807,
+        "author": "Ruge."
       }
     ]
   },
@@ -9126,11 +9180,13 @@
     "lemma": "Torus",
     "previous": "Tortyre",
     "next": "Torvates",
+    "proof_read": 0,
     "short_description": "Polster, Kissen, Matratze",
     "chapters": [
       {
         "start": 1807,
-        "author": "Herzog-Hauser"
+        "end": 1809,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
@@ -9138,90 +9194,110 @@
     "lemma": "Torvates",
     "previous": "Torus",
     "next": "Toryne",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1809,
-        "author": "Stevens"
+        "end": 1809,
+        "author": "Stevens."
       }
     ]
   },
   {
     "lemma": "Toryne",
     "previous": "Torvates",
-    "next": "Tosale",
+    "next": "Τωσάλη",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1809,
-        "author": "Fiehn"
+        "end": 1809,
+        "author": "Fiehn."
       }
     ]
   },
   {
-    "lemma": "Tosale",
+    "lemma": "Τωσάλη",
     "previous": "Toryne",
-    "next": "Tosarene",
+    "next": "Τωσαρηνή",
+    "sort_key": "Tosale",
+    "proof_read": 0,
     "short_description": "Stadt in O-Indien",
     "chapters": [
       {
         "start": 1809,
-        "author": "Stein, O[tto]"
+        "end": 1810,
+        "author": "O. Stein."
       }
     ]
   },
   {
-    "lemma": "Tosarene",
-    "previous": "Tosale",
+    "lemma": "Τωσαρηνή",
+    "previous": "Τωσάλη",
     "next": "Tosibis",
+    "sort_key": "Tosarene",
+    "proof_read": 0,
     "short_description": "Landschaft in Armenien",
     "chapters": [
       {
         "start": 1810,
-        "author": "Sturm"
+        "end": 1810,
+        "author": "J. Sturm."
       }
     ]
   },
   {
     "lemma": "Tosibis",
-    "previous": "Tosarene",
-    "next": "Tosiopoi(-ai)",
+    "previous": "Τωσαρηνή",
+    "next": "Τοσιωποί(-αί)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1810,
-        "author": "Preisendanz"
+        "end": 1811,
+        "author": "Preisendanz."
       }
     ]
   },
   {
-    "lemma": "Tosiopoi(-ai)",
+    "lemma": "Τοσιωποί(-αί)",
     "previous": "Tosibis",
-    "next": "Tosmouanassa",
+    "next": "Τοσμουάνασσα",
+    "sort_key": "Tosiopoi(-ai)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1811,
-        "author": "Ruge"
+        "end": 1811,
+        "author": "Ruge."
       }
     ]
   },
   {
-    "lemma": "Tosmouanassa",
-    "previous": "Tosiopoi(-ai)",
+    "lemma": "Τοσμουάνασσα",
+    "previous": "Τοσιωποί(-αί)",
     "next": "Tosorthos",
+    "sort_key": "Tosmouanassa",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1811,
-        "author": "Herrmann"
+        "end": 1811,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Tosorthos",
-    "previous": "Tosmouanassa",
+    "previous": "Τοσμουάνασσα",
     "next": "Totates, To(u)tas",
+    "proof_read": 0,
     "short_description": "Ägypt. König",
     "chapters": [
       {
         "start": 1811,
-        "author": "Kees"
+        "end": 1813,
+        "author": "Kees."
       }
     ]
   },
@@ -9229,11 +9305,14 @@
     "lemma": "Totates, To(u)tas",
     "previous": "Tosorthos",
     "next": "Totenbeigabe",
+    "sort_key": "Totates,to(u)tas",
+    "proof_read": 0,
     "short_description": "s. Mars (keltisch) Mercurius (keltisch) Teutates",
     "chapters": [
       {
         "start": 1813,
-        "author": "Heichelheim"
+        "end": 1813,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -9280,11 +9359,13 @@
     "lemma": "Totenteil",
     "previous": "Totenorakel",
     "next": "Totila",
+    "proof_read": 0,
     "short_description": "Griech. und röm.",
     "chapters": [
       {
         "start": 1813,
-        "author": "Bruck"
+        "end": 1828,
+        "author": "E. F. Bruck."
       }
     ]
   },
@@ -9303,34 +9384,41 @@
   {
     "lemma": "Totis",
     "previous": "Totila",
-    "next": "Totoes",
+    "next": "Totoēs",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1838,
-        "author": "Kazarow"
+        "end": 1838,
+        "author": "G. Kazarow."
       }
     ]
   },
   {
-    "lemma": "Totoes",
+    "lemma": "Totoēs",
     "previous": "Totis",
     "next": "Totonia",
+    "sort_key": "Totoes",
+    "proof_read": 0,
     "short_description": "Name eines Gottes in einer Widmung aus Amphipolis",
     "chapters": [
       {
         "start": 1838,
-        "author": "Kazarow"
+        "end": 1839,
+        "author": "G. Kazarow."
       }
     ]
   },
   {
     "lemma": "Totonia",
-    "previous": "Totoes",
+    "previous": "Totoēs",
     "next": "Totordanes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1839,
-        "author": "Ruge"
+        "end": 1839,
+        "author": "Ruge."
       }
     ]
   },
@@ -9338,11 +9426,13 @@
     "lemma": "Totordanes",
     "previous": "Totonia",
     "next": "Tottaium",
+    "proof_read": 0,
     "short_description": "s. Vardanes",
     "chapters": [
       {
         "start": 1839,
-        "author": "Herrmann"
+        "end": 1839,
+        "author": "Herrmann."
       }
     ]
   },
@@ -9363,10 +9453,12 @@
     "lemma": "Tottes",
     "previous": "Tottaium",
     "next": "Tottoa (-ea?)",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1839,
-        "author": "Kazarow"
+        "end": 1839,
+        "author": "G. Kazarow."
       }
     ]
   },
@@ -9374,18 +9466,21 @@
     "lemma": "Tottoa (-ea?)",
     "previous": "Tottes",
     "next": "Tottoion",
+    "sort_key": "Tottoa(-ea?)",
+    "proof_read": 0,
     "short_description": "Ort in NW-Phrygien",
     "chapters": [
       {
         "start": 1839,
-        "author": "Ruge"
+        "end": 1840,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Tottoion",
     "previous": "Tottoa (-ea?)",
-    "next": "Tou, Toum",
+    "next": "Τόου, Τόουμ",
     "redirect": "Tottoa (-ea?)",
     "proof_read": 2,
     "chapters": [
@@ -9396,24 +9491,29 @@
     ]
   },
   {
-    "lemma": "Tou, Toum",
+    "lemma": "Τόου, Τόουμ",
     "previous": "Tottoion",
     "next": "Toudopalandaica",
+    "sort_key": "Tou,toum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1840,
-        "author": "Kees"
+        "end": 1840,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Toudopalandaica",
-    "previous": "Tou, Toum",
+    "previous": "Τόου, Τόουμ",
     "next": "Tourenus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1840,
-        "author": "Heichelheim"
+        "end": 1840,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -9461,11 +9561,14 @@
     "lemma": "Toutenus, Tourenus",
     "previous": "Toutates",
     "next": "Toutiorix",
+    "sort_key": "Toutenus,tourenus",
+    "proof_read": 0,
     "short_description": "Vgl. Mercurius (keltisch)",
     "chapters": [
       {
         "start": 1840,
-        "author": "Heichelheim"
+        "end": 1840,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -9473,11 +9576,13 @@
     "lemma": "Toutiorix",
     "previous": "Toutenus, Tourenus",
     "next": "Toutobodiaci",
+    "proof_read": 0,
     "short_description": "Kelt. Quell- u. Heilgottheit",
     "chapters": [
       {
         "start": 1840,
-        "author": "Heichelheim"
+        "end": 1841,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -9485,10 +9590,12 @@
     "lemma": "Toutobodiaci",
     "previous": "Toutiorix",
     "next": "Toxandria",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1841,
-        "author": "Ruge"
+        "end": 1841,
+        "author": "Ruge."
       }
     ]
   },
@@ -9496,11 +9603,13 @@
     "lemma": "Toxandria",
     "previous": "Toutobodiaci",
     "next": "Toxaris",
+    "proof_read": 0,
     "short_description": "Landschaft N-Belgiens/ S-Hollands",
     "chapters": [
       {
         "start": 1841,
-        "author": "Stevens"
+        "end": 1844,
+        "author": "Stevens."
       }
     ]
   },
@@ -9508,11 +9617,13 @@
     "lemma": "Toxaris",
     "previous": "Toxandria",
     "next": "Toxeus 1",
+    "proof_read": 0,
     "short_description": "Person bei Lukian",
     "chapters": [
       {
         "start": 1844,
-        "author": "Aly"
+        "end": 1845,
+        "author": "Aly."
       }
     ]
   },
@@ -9520,11 +9631,13 @@
     "lemma": "Toxeus 1",
     "previous": "Toxaris",
     "next": "Toxeus 2",
+    "proof_read": 0,
     "short_description": "Sohn d. Eurytos v. Oichalia",
     "chapters": [
       {
         "start": 1845,
-        "author": "Schwenn"
+        "end": 1845,
+        "author": "Schwenn."
       }
     ]
   },
@@ -9532,11 +9645,13 @@
     "lemma": "Toxeus 2",
     "previous": "Toxeus 1",
     "next": "Toxia",
+    "proof_read": 0,
     "short_description": "Gestalt d. Sage v. Kalydon",
     "chapters": [
       {
         "start": 1845,
-        "author": "Schwenn"
+        "end": 1845,
+        "author": "Schwenn."
       }
     ]
   },
@@ -9544,11 +9659,13 @@
     "lemma": "Toxia",
     "previous": "Toxeus 2",
     "next": "Toxikon",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Artemis",
     "chapters": [
       {
         "start": 1845,
-        "author": "Kruse"
+        "end": 1846,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -9556,11 +9673,13 @@
     "lemma": "Toxikon",
     "previous": "Toxia",
     "next": "Toxikrate",
+    "proof_read": 0,
     "short_description": "(Pfeil-) Gift",
     "chapters": [
       {
         "start": 1846,
-        "author": "Morel"
+        "end": 1846,
+        "author": "W. Morel."
       }
     ]
   },
@@ -9568,10 +9687,12 @@
     "lemma": "Toxikrate",
     "previous": "Toxikon",
     "next": "Toxioi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1846,
-        "author": "Schwenn"
+        "end": 1846,
+        "author": "Schwenn."
       }
     ]
   },
@@ -9579,10 +9700,12 @@
     "lemma": "Toxioi",
     "previous": "Toxikrate",
     "next": "Toxios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1846,
-        "author": "Oberhummer"
+        "end": 1846,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -9603,10 +9726,12 @@
     "lemma": "Toxius",
     "previous": "Toxios",
     "next": "Toxis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1846,
-        "author": "Fabricius"
+        "end": 1847,
+        "author": "Fabricius."
       }
     ]
   },
@@ -9614,10 +9739,12 @@
     "lemma": "Toxis",
     "previous": "Toxius",
     "next": "Toxitis",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1847,
-        "author": "Wüst"
+        "end": 1847,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -9637,65 +9764,77 @@
   {
     "lemma": "Toxokleitos",
     "previous": "Toxitis",
-    "next": "Toxon",
+    "next": "Τόξον",
+    "proof_read": 0,
     "short_description": "Sohn d. Herakles u. d. Megara",
     "chapters": [
       {
         "start": 1847,
-        "author": "Wüst"
+        "end": 1847,
+        "author": "E. Wüst."
       }
     ]
   },
   {
-    "lemma": "Toxon",
+    "lemma": "Τόξον",
     "previous": "Toxokleitos",
     "next": "Toxophoros",
+    "sort_key": "Toxon",
+    "proof_read": 0,
     "short_description": "Bezeichnung für Bogen und Pfeil",
     "chapters": [
       {
         "start": 1847,
-        "author": "Miltner, Helene"
+        "end": 1853,
+        "author": "H. Miltner."
       }
     ]
   },
   {
     "lemma": "Toxophoros",
-    "previous": "Toxon",
+    "previous": "Τόξον",
     "next": "Toxos",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1853,
-        "author": "Kruse"
+        "end": 1853,
+        "author": "gr. Kruse."
       }
     ]
   },
   {
     "lemma": "Toxos",
     "previous": "Toxophoros",
-    "next": "Toxotai 1",
+    "next": "τοξόται 1",
+    "proof_read": 0,
     "short_description": "s. Toxeus Nr. 1",
     "chapters": [
       {
         "start": 1853,
-        "author": "Schwenn"
+        "end": 1853,
+        "author": "Schwenn."
       }
     ]
   },
   {
-    "lemma": "Toxotai 1",
+    "lemma": "τοξόται 1",
     "previous": "Toxos",
-    "next": "Toxotai 2",
+    "next": "τοξόται 2",
+    "sort_key": "Toxotai 1",
+    "proof_read": 0,
     "short_description": "Bogenschützen",
     "chapters": [
       {
         "start": 1853,
-        "author": "Lammert, Friedrich"
+        "end": 1855,
+        "author": "F. Lammert."
       }
     ]
   },
   {
-    "lemma": "Toxotai 2",
-    "previous": "Toxotai 1",
+    "lemma": "τοξόται 2",
+    "previous": "τοξόται 1",
     "next": "Tougenoi",
     "short_description": "Städtische athen. Polizei",
     "chapters": [
@@ -9707,7 +9846,7 @@
   },
   {
     "lemma": "Tougenoi",
-    "previous": "Toxotai 2",
+    "previous": "τοξόται 2",
     "next": "Toxotes",
     "short_description": "Helvetischer oder german. Stamm (= Teutonen?)",
     "chapters": [
@@ -9734,11 +9873,13 @@
     "lemma": "Toxotius 1",
     "previous": "Toxotes",
     "next": "Toxotius 2",
+    "proof_read": 0,
     "short_description": "Person in d. Hist.Aug.",
     "chapters": [
       {
         "start": 1859,
-        "author": "Kroll"
+        "end": 1859,
+        "author": "Kroll."
       }
     ]
   },
@@ -9746,35 +9887,41 @@
     "lemma": "Toxotius 2",
     "previous": "Toxotius 1",
     "next": "Toxotius 3",
+    "proof_read": 0,
     "short_description": "Vornehmer Stadtrömer, Mitte 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1859,
-        "author": "Enßlin"
+        "end": 1859,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Toxotius 3",
     "previous": "Toxotius 2",
-    "next": "Trabala",
+    "next": "Τωύγενοι",
+    "proof_read": 0,
     "short_description": "Sohn v. Nr. 2",
     "chapters": [
       {
         "start": 1859,
-        "author": "Enßlin"
+        "end": 1859,
+        "author": "W. Enßlin."
       }
     ]
   },
   {
     "lemma": "Trabala",
-    "previous": "Toxotius 3",
+    "previous": "Τωύγενοι",
     "next": "Trabea 1",
+    "proof_read": 0,
     "short_description": "Stadt in Lykien",
     "chapters": [
       {
         "start": 1860,
-        "author": "Ruge"
+        "end": 1860,
+        "author": "Ruge."
       }
     ]
   },
@@ -9782,11 +9929,13 @@
     "lemma": "Trabea 1",
     "previous": "Trabala",
     "next": "Trabea 2",
+    "proof_read": 0,
     "short_description": "Röm. Ehrengewand",
     "chapters": [
       {
         "start": 1860,
-        "author": "Schuppe"
+        "end": 1862,
+        "author": "Schuppe."
       }
     ]
   },
@@ -9810,10 +9959,12 @@
     "lemma": "Trabeata",
     "previous": "Trabea 2",
     "next": "Trabitium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1862,
-        "author": "Kroll"
+        "end": 1862,
+        "author": "Kroll."
       }
     ]
   },
@@ -9847,11 +9998,13 @@
     "lemma": "Trachalus 1",
     "previous": "Trabium",
     "next": "Trachalus 2",
+    "proof_read": 0,
     "short_description": "Cognomen zweier Brüder aus Ariminum",
     "chapters": [
       {
         "start": 1862,
-        "author": "Stein, [Arthur]"
+        "end": 1862,
+        "author": "Stein."
       }
     ]
   },
@@ -9885,10 +10038,12 @@
     "lemma": "Tracheia",
     "previous": "Trachas",
     "next": "Trachie",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1862,
-        "author": "Keil"
+        "end": 1863,
+        "author": "Keil."
       }
     ]
   },
@@ -9896,10 +10051,12 @@
     "lemma": "Trachie",
     "previous": "Tracheia",
     "next": "Trachine",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1863,
-        "author": "Herbst"
+        "end": 1863,
+        "author": "Rudolf Herbst."
       }
     ]
   },
@@ -9919,34 +10076,41 @@
   {
     "lemma": "Trachinia",
     "previous": "Trachine",
-    "next": "Trachiniai petrai",
+    "next": "Τραχίνιαι πέτραι",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1863,
-        "author": "Hanell"
+        "end": 1863,
+        "author": "Krister Hanell."
       }
     ]
   },
   {
-    "lemma": "Trachiniai petrai",
+    "lemma": "Τραχίνιαι πέτραι",
     "previous": "Trachinia",
     "next": "Trachis",
+    "sort_key": "Trachiniaipetrai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1863,
-        "author": "Stählin"
+        "end": 1863,
+        "author": "Stählin."
       }
     ]
   },
   {
     "lemma": "Trachis",
-    "previous": "Trachiniai petrai",
+    "previous": "Τραχίνιαι πέτραι",
     "next": "Trachon",
+    "proof_read": 0,
     "short_description": "Haupstadt d. gleichnamigen Landschaft westl. d. Thermopylen",
     "chapters": [
       {
         "start": 1863,
-        "author": "Stählin"
+        "end": 1864,
+        "author": "Stählin."
       }
     ]
   },
@@ -9954,10 +10118,12 @@
     "lemma": "Trachon",
     "previous": "Trachis",
     "next": "Trachonitis, Trachon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1865,
-        "author": "Ruge"
+        "end": 1865,
+        "author": "Ruge."
       }
     ]
   },
@@ -9965,11 +10131,14 @@
     "lemma": "Trachonitis, Trachon",
     "previous": "Trachon",
     "next": "Trachy",
+    "sort_key": "Trachonitis,trachon",
+    "proof_read": 0,
     "short_description": "Landschaft im O-Jordanland",
     "chapters": [
       {
         "start": 1865,
-        "author": "Hölscher"
+        "end": 1866,
+        "author": "Hölscher."
       }
     ]
   },
@@ -9977,11 +10146,13 @@
     "lemma": "Trachy",
     "previous": "Trachonitis, Trachon",
     "next": "Tracias",
+    "proof_read": 0,
     "short_description": "Bergzug in Arkadien",
     "chapters": [
       {
         "start": 1866,
-        "author": "Meyer, Ernst"
+        "end": 1866,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -9989,10 +10160,12 @@
     "lemma": "Tracias",
     "previous": "Trachy",
     "next": "Tractator",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1866,
-        "author": "Ruge"
+        "end": 1866,
+        "author": "Ruge."
       }
     ]
   },
@@ -10000,11 +10173,13 @@
     "lemma": "Tractator",
     "previous": "Tracias",
     "next": "Tractatores",
+    "proof_read": 0,
     "short_description": "Masseur",
     "chapters": [
       {
         "start": 1866,
-        "author": "Hug"
+        "end": 1867,
+        "author": "Hug."
       }
     ]
   },
@@ -10012,11 +10187,13 @@
     "lemma": "Tractatores",
     "previous": "Tractator",
     "next": "Tractoria",
+    "proof_read": 0,
     "short_description": "Rechnungsbeamte",
     "chapters": [
       {
         "start": 1867,
-        "author": "Enßlin"
+        "end": 1872,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10024,11 +10201,13 @@
     "lemma": "Tractoria",
     "previous": "Tractatores",
     "next": "Traditio",
+    "proof_read": 0,
     "short_description": "Anweisung auf eine Fahrt mit d. Staatspost Einladungsschreiben zu Synoden",
     "chapters": [
       {
         "start": 1872,
-        "author": "Enßlin"
+        "end": 1875,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10036,11 +10215,13 @@
     "lemma": "Traditio",
     "previous": "Tractoria",
     "next": "Traducta",
+    "proof_read": 0,
     "short_description": "(Hin- oder Weiter-)Gabe eines Gegenstandes (jurist. t.t.)",
     "chapters": [
       {
         "start": 1875,
-        "author": "Ehrhardt"
+        "end": 1892,
+        "author": "Arnold Ehrhardt."
       }
     ]
   },
@@ -10048,11 +10229,13 @@
     "lemma": "Traducta",
     "previous": "Traditio",
     "next": "Traete",
+    "proof_read": 0,
     "short_description": "Stadt zw. Carteia u. Mellaria",
     "chapters": [
       {
         "start": 1892,
-        "author": "Schulten"
+        "end": 1893,
+        "author": "Schulten."
       }
     ]
   },
@@ -10086,10 +10269,12 @@
     "lemma": "Trag(a)la(s)sos",
     "previous": "Tragaiai",
     "next": "Tragantios",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1893,
-        "author": "Ruge"
+        "end": 1893,
+        "author": "Ruge."
       }
     ]
   },
@@ -10097,10 +10282,12 @@
     "lemma": "Tragantios",
     "previous": "Trag(a)la(s)sos",
     "next": "Tragasai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1893,
-        "author": "Klaffenbach"
+        "end": 1893,
+        "author": "Günther Klaffenbach."
       }
     ]
   },
@@ -10108,11 +10295,13 @@
     "lemma": "Tragasai",
     "previous": "Tragantios",
     "next": "Tragasos",
+    "proof_read": 0,
     "short_description": "Ort in S-Troas",
     "chapters": [
       {
         "start": 1893,
-        "author": "Ruge"
+        "end": 1893,
+        "author": "Ruge."
       }
     ]
   },
@@ -10120,11 +10309,13 @@
     "lemma": "Tragasos",
     "previous": "Tragasai",
     "next": "Trageai",
+    "proof_read": 0,
     "short_description": "Eponym d. Stadt Tragasai in d. Troas",
     "chapters": [
       {
         "start": 1893,
-        "author": "Göber"
+        "end": 1894,
+        "author": "Willi Göber."
       }
     ]
   },
@@ -10144,12 +10335,14 @@
   {
     "lemma": "Tragelaphos",
     "previous": "Trageai",
-    "next": "Tragia 3",
+    "next": "Tragicomoedia",
+    "proof_read": 0,
     "short_description": "Tierisches Mischwesen",
     "chapters": [
       {
         "start": 1894,
-        "author": "Steier"
+        "end": 1895,
+        "author": "Steier."
       }
     ]
   },
@@ -10167,20 +10360,22 @@
   },
   {
     "lemma": "Tragia(i) 1",
-    "previous": "Tragia 3",
+    "previous": "Tragicomoedia",
     "next": "Tragia(i) 2",
+    "proof_read": 0,
     "short_description": "Insel(gruppe) südöstl. v. Samos",
     "chapters": [
       {
         "start": 1895,
-        "author": "Herbst"
+        "end": 1895,
+        "author": "Rudolf Herbst."
       }
     ]
   },
   {
     "lemma": "Tragia(i) 2",
     "previous": "Tragia(i) 1",
-    "next": "Tragicomoedia",
+    "next": "Tragia(i) 3",
     "proof_read": 2,
     "short_description": "Stadt auf Naxos, s. Naxos",
     "chapters": [
@@ -10206,12 +10401,14 @@
   },
   {
     "lemma": "Tragila",
-    "previous": "Tragicomoedia",
+    "previous": "Tragia(i) 3",
     "next": "Tragion",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1896,
-        "author": "Hiller von Gaertringen"
+        "end": 1896,
+        "author": "Friedrich Hiller von Gaertringen"
       }
     ]
   },
@@ -10219,10 +10416,12 @@
     "lemma": "Tragion",
     "previous": "Tragila",
     "next": "Tragios 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1896,
-        "author": "Bölte"
+        "end": 1896,
+        "author": "Bölte."
       }
     ]
   },
@@ -10230,11 +10429,13 @@
     "lemma": "Tragios 1",
     "previous": "Tragion",
     "next": "Tragios 2",
+    "proof_read": 0,
     "short_description": "Epiklesis Apollons",
     "chapters": [
       {
         "start": 1896,
-        "author": "Kruse"
+        "end": 1896,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -10273,11 +10474,13 @@
     "lemma": "Tragodia",
     "previous": "Tragiskos",
     "next": "Tragoedia",
+    "proof_read": 0,
     "short_description": "Tragoedia, Personifikation d. Tragödie",
     "chapters": [
       {
         "start": 1896,
-        "author": "Herter"
+        "end": 1899,
+        "author": "H. Herter."
       }
     ]
   },
@@ -10285,11 +10488,13 @@
     "lemma": "Tragoedia",
     "previous": "Tragodia",
     "next": "Τραγονίκη",
+    "proof_read": 0,
     "short_description": "Literaturgattung d. Dramas",
     "chapters": [
       {
         "start": 1899,
-        "author": "Ziegler"
+        "end": 2075,
+        "author": "Ziegler."
       }
     ]
   },
@@ -10312,10 +10517,12 @@
     "lemma": "Tragos",
     "previous": "Τραγονίκη",
     "next": "Tragurium",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2075,
-        "author": "Meyer, Ernst"
+        "end": 2076,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -10323,11 +10530,13 @@
     "lemma": "Tragurium",
     "previous": "Tragos",
     "next": "Traha",
+    "proof_read": 0,
     "short_description": "Siedlung in Dalmatien",
     "chapters": [
       {
         "start": 2076,
-        "author": "Braun"
+        "end": 2076,
+        "author": "Egon Braun."
       }
     ]
   },
@@ -10335,11 +10544,13 @@
     "lemma": "Traha",
     "previous": "Tragurium",
     "next": "Traia Capita",
+    "proof_read": 0,
     "short_description": "Schleife, Schlitten",
     "chapters": [
       {
         "start": 2077,
-        "author": "Hörle"
+        "end": 2078,
+        "author": "Josef Hörle."
       }
     ]
   },
@@ -10347,10 +10558,13 @@
     "lemma": "Traia Capita",
     "previous": "Traha",
     "next": "Traiana Augusta",
+    "sort_key": "Traiacapita",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2078,
-        "author": "Schulten"
+        "end": 2078,
+        "author": "Schulten."
       }
     ]
   },
@@ -10386,11 +10600,14 @@
     "lemma": "Traiani forum 1",
     "previous": "Traiana colonia",
     "next": "Traiani forum 2",
+    "sort_key": "Traianiforum 1",
+    "proof_read": 0,
     "short_description": "In Rom das letzte der Kaiserfora gg. NW",
     "chapters": [
       {
         "start": 2078,
-        "author": "Weiss, J[akob]"
+        "end": 2081,
+        "author": "J. Weiss."
       }
     ]
   },
@@ -10411,11 +10628,14 @@
     "lemma": "Traiani munimentum",
     "previous": "Traiani forum 2",
     "next": "Traianopolis 1",
+    "sort_key": "Traianimunimentum",
+    "proof_read": 0,
     "short_description": "Ort wahrscheinl. im unteren Maingebiet",
     "chapters": [
       {
         "start": 2081,
-        "author": "Rau"
+        "end": 2082,
+        "author": "Rau."
       }
     ]
   },
@@ -10423,11 +10643,13 @@
     "lemma": "Traianopolis 1",
     "previous": "Traiani munimentum",
     "next": "Traianopolis 2",
+    "proof_read": 0,
     "short_description": "Stadt in Thrakien",
     "chapters": [
       {
         "start": 2082,
-        "author": "Oberhummer"
+        "end": 2085,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -10435,11 +10657,13 @@
     "lemma": "Traianopolis 2",
     "previous": "Traianopolis 1",
     "next": "Traianopolis 3",
+    "proof_read": 0,
     "short_description": "Stadt im Gebiet d. Grimenothyritai in Kleinasien",
     "chapters": [
       {
         "start": 2085,
-        "author": "Ruge"
+        "end": 2087,
+        "author": "Ruge."
       }
     ]
   },
@@ -10447,11 +10671,13 @@
     "lemma": "Traianopolis 3",
     "previous": "Traianopolis 2",
     "next": "Traianopolis 4",
+    "proof_read": 0,
     "short_description": "Name v. Selinus in Kilikien",
     "chapters": [
       {
         "start": 2087,
-        "author": "Ruge"
+        "end": 2088,
+        "author": "Ruge."
       }
     ]
   },
@@ -10459,11 +10685,13 @@
     "lemma": "Traianopolis 4",
     "previous": "Traianopolis 3",
     "next": "Traianus",
+    "proof_read": 0,
     "short_description": "Name v. Epiphaneia in Kilikien",
     "chapters": [
       {
         "start": 2088,
-        "author": "Ruge"
+        "end": 2088,
+        "author": "Ruge."
       }
     ]
   },
@@ -10484,11 +10712,13 @@
     "lemma": "Traianus 1",
     "previous": "Traianus",
     "next": "Traianus 2",
+    "proof_read": 0,
     "short_description": "Mucianus, duc(enarius) in einer Inschr. aus Traiana Augusta",
     "chapters": [
       {
         "start": 2088,
-        "author": "Stein, [Arthur]"
+        "end": 2088,
+        "author": "Stein."
       }
     ]
   },
@@ -10496,11 +10726,13 @@
     "lemma": "Traianus 2",
     "previous": "Traianus 1",
     "next": "Traianus 3",
+    "proof_read": 0,
     "short_description": "Dux Aegypti, 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2089,
-        "author": "Enßlin"
+        "end": 2090,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10508,11 +10740,13 @@
     "lemma": "Traianus 3",
     "previous": "Traianus 2",
     "next": "Traianus 4",
+    "proof_read": 0,
     "short_description": "Leibwächter d. Belisar",
     "chapters": [
       {
         "start": 2090,
-        "author": "Enßlin"
+        "end": 2090,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10535,11 +10769,13 @@
     "lemma": "Traianus 5",
     "previous": "Traianus 4",
     "next": "Traianus 6",
+    "proof_read": 0,
     "short_description": "Patricius u. Quaestor sacri palatii unter Iustin II.",
     "chapters": [
       {
         "start": 2090,
-        "author": "Enßlin"
+        "end": 2090,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10577,11 +10813,13 @@
     "lemma": "Traianus 8",
     "previous": "Traianus 7",
     "next": "Traianus portus",
+    "proof_read": 0,
     "short_description": "Presbyter u. Mönch",
     "chapters": [
       {
         "start": 2090,
-        "author": "Enßlin"
+        "end": 2090,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10589,10 +10827,13 @@
     "lemma": "Traianus portus",
     "previous": "Traianus 8",
     "next": "Traiectus",
+    "sort_key": "Traianusportus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2090,
-        "author": "Banti"
+        "end": 2091,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -10600,11 +10841,13 @@
     "lemma": "Traiectus",
     "previous": "Traianus portus",
     "next": "Traienses",
+    "proof_read": 0,
     "short_description": "Angebl. Ortschaft im röm. Britannien",
     "chapters": [
       {
         "start": 2091,
-        "author": "MacDonald"
+        "end": 2091,
+        "author": "G. Macdonald."
       }
     ]
   },
@@ -10653,7 +10896,7 @@
   {
     "lemma": "τρακτευταί",
     "previous": "Trakana",
-    "next": "Tralitai",
+    "next": "Τραλῖται",
     "sort_key": "Trakteutai",
     "redirect": "Tractatores",
     "proof_read": 2,
@@ -10665,19 +10908,22 @@
     ]
   },
   {
-    "lemma": "Tralitai",
+    "lemma": "Τραλῖται",
     "previous": "τρακτευταί",
     "next": "Tralla",
+    "sort_key": "Tralitai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2091,
-        "author": "Kees"
+        "end": 2091,
+        "author": "Kees."
       }
     ]
   },
   {
     "lemma": "Tralla",
-    "previous": "Tralitai",
+    "previous": "Τραλῖται",
     "next": "Tralleis, -i 1",
     "proof_read": 2,
     "short_description": "Name einer von Herakles getöteten Amazone, Eponyme einer sonst unbekannten",
@@ -10694,11 +10940,14 @@
     "lemma": "Tralleis, -i 1",
     "previous": "Tralla",
     "next": "Tralleis, -i 2",
+    "sort_key": "Tralleis,-i 1",
+    "proof_read": 0,
     "short_description": "Illyr. Stammesname",
     "chapters": [
       {
         "start": 2091,
-        "author": "Polaschek"
+        "end": 2093,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -10706,18 +10955,21 @@
     "lemma": "Tralleis, -i 2",
     "previous": "Tralleis, -i 1",
     "next": "Trallia",
+    "sort_key": "Tralleis,-i 2",
+    "proof_read": 0,
     "short_description": "Stadt in Karien",
     "chapters": [
       {
         "start": 2093,
-        "author": "Ruge"
+        "end": 2128,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Trallia",
     "previous": "Tralleis, -i 2",
-    "next": "Trallikon",
+    "next": "Τραλλικών",
     "redirect": "Tralleis, -i 1",
     "proof_read": 3,
     "chapters": [
@@ -10728,20 +10980,23 @@
     ]
   },
   {
-    "lemma": "Trallikon",
+    "lemma": "Τραλλικών",
     "previous": "Trallia",
     "next": "Trallion",
+    "sort_key": "Trallikon",
+    "proof_read": 0,
     "short_description": "agr(os)",
     "chapters": [
       {
         "start": 2128,
-        "author": "Ruge"
+        "end": 2128,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Trallion",
-    "previous": "Trallikon",
+    "previous": "Τραλλικών",
     "next": "Trama",
     "proof_read": 2,
     "short_description": "Ort Bithyniens am astakenischen Meerbusen",
@@ -10759,11 +11014,13 @@
     "lemma": "Trama",
     "previous": "Trallion",
     "next": "Tramaricium",
+    "proof_read": 0,
     "short_description": "Einschlag beim Weben",
     "chapters": [
       {
         "start": 2128,
-        "author": "Herzog-Hauser"
+        "end": 2129,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
@@ -10771,10 +11028,12 @@
     "lemma": "Tramaricium",
     "previous": "Trama",
     "next": "Tramarinae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2129,
-        "author": "Windberg"
+        "end": 2129,
+        "author": "Windberg."
       }
     ]
   },
@@ -10794,35 +11053,41 @@
   {
     "lemma": "Trambelos",
     "previous": "Tramarinae",
-    "next": "Trampyra",
+    "next": "Trampya",
+    "proof_read": 0,
     "short_description": "Sohn d. Telamon",
     "chapters": [
       {
         "start": 2129,
-        "author": "Wüst"
+        "end": 2131,
+        "author": "E. Wüst."
       }
     ]
   },
   {
-    "lemma": "Trampyra",
+    "lemma": "Trampya",
     "previous": "Trambelos",
     "next": "Tranipsai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2131,
-        "author": "Fiehn"
+        "end": 2131,
+        "author": "Fiehn."
       }
     ]
   },
   {
     "lemma": "Tranipsai",
-    "previous": "Trampyra",
+    "previous": "Trampya",
     "next": "Trankopfer",
+    "proof_read": 0,
     "short_description": "Volk in Thrakien, s. Nipsaioi",
     "chapters": [
       {
         "start": 2131,
-        "author": "Oberhummer"
+        "end": 2131,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -10830,11 +11095,13 @@
     "lemma": "Trankopfer",
     "previous": "Tranipsai",
     "next": "Tranquillinus 1",
+    "proof_read": 0,
     "short_description": "Spenden, Libationen",
     "chapters": [
       {
         "start": 2131,
-        "author": "Hanell"
+        "end": 2137,
+        "author": "Krister Hanell."
       }
     ]
   },
@@ -10842,11 +11109,13 @@
     "lemma": "Tranquillinus 1",
     "previous": "Trankopfer",
     "next": "Tranquillinus 2",
+    "proof_read": 0,
     "short_description": "Bischofsname in Synodalakten",
     "chapters": [
       {
         "start": 2137,
-        "author": "Enßlin"
+        "end": 2137,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10854,11 +11123,13 @@
     "lemma": "Tranquillinus 2",
     "previous": "Tranquillinus 1",
     "next": "Tranquillitas 1",
+    "proof_read": 0,
     "short_description": "Briefadressat d. Ioh.Chrys.",
     "chapters": [
       {
         "start": 2137,
-        "author": "Enßlin"
+        "end": 2138,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10866,11 +11137,13 @@
     "lemma": "Tranquillitas 1",
     "previous": "Tranquillinus 2",
     "next": "Tranquillitas 2",
+    "proof_read": 0,
     "short_description": "Philosoph. t.t.",
     "chapters": [
       {
         "start": 2138,
-        "author": "Rohde"
+        "end": 2138,
+        "author": "G. Rohde."
       }
     ]
   },
@@ -10878,11 +11151,13 @@
     "lemma": "Tranquillitas 2",
     "previous": "Tranquillitas 1",
     "next": "Tranquillitas 3",
+    "proof_read": 0,
     "short_description": "Meeresstille als Gottheit",
     "chapters": [
       {
         "start": 2138,
-        "author": "Rohde"
+        "end": 2139,
+        "author": "G. Rohde."
       }
     ]
   },
@@ -10890,11 +11165,13 @@
     "lemma": "Tranquillitas 3",
     "previous": "Tranquillitas 2",
     "next": "Tranquillius",
+    "proof_read": 0,
     "short_description": "Polit. Begriff, Personifikation d. Ruhe u. Sicherheit d. Staates",
     "chapters": [
       {
         "start": 2139,
-        "author": "Rohde"
+        "end": 2139,
+        "author": "G. Rohde."
       }
     ]
   },
@@ -10915,11 +11192,13 @@
     "lemma": "Tranquillus 1",
     "previous": "Tranquillius",
     "next": "Tranquillus 2",
+    "proof_read": 0,
     "short_description": "Überbrachte 512 n. Chr.einen Brief d. Ennodius",
     "chapters": [
       {
         "start": 2139,
-        "author": "Enßlin"
+        "end": 2139,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10927,11 +11206,13 @@
     "lemma": "Tranquillus 2",
     "previous": "Tranquillus 1",
     "next": "Transactio",
+    "proof_read": 0,
     "short_description": "s. Tranquillinus",
     "chapters": [
       {
         "start": 2139,
-        "author": "Enßlin"
+        "end": 2139,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -10939,11 +11220,13 @@
     "lemma": "Transactio",
     "previous": "Tranquillus 2",
     "next": "Transalba",
+    "proof_read": 0,
     "short_description": "Der Vergleich im röm. Recht",
     "chapters": [
       {
         "start": 2139,
-        "author": "Kaser"
+        "end": 2147,
+        "author": "Max Kaser."
       }
     ]
   },
@@ -10951,11 +11234,13 @@
     "lemma": "Transalba",
     "previous": "Transactio",
     "next": "Transaquincum",
+    "proof_read": 0,
     "short_description": "Kastell in Dakien (?)",
     "chapters": [
       {
         "start": 2147,
-        "author": "Polaschek"
+        "end": 2148,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -10979,10 +11264,13 @@
     "lemma": "Transcellensis Mons",
     "previous": "Transaquincum",
     "next": "Transdierna",
+    "sort_key": "Transcellensismons",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2150,
-        "author": "Windberg"
+        "end": 2150,
+        "author": "Windberg."
       }
     ]
   },
@@ -10990,11 +11278,13 @@
     "lemma": "Transdierna",
     "previous": "Transcellensis Mons",
     "next": "Transdrobeta",
+    "proof_read": 0,
     "short_description": "Kastell gegenüber Dierna",
     "chapters": [
       {
         "start": 2150,
-        "author": "Braun"
+        "end": 2150,
+        "author": "Egon Braun."
       }
     ]
   },
@@ -11002,11 +11292,13 @@
     "lemma": "Transdrobeta",
     "previous": "Transdierna",
     "next": "Transducta",
+    "proof_read": 0,
     "short_description": "Garnison in d. Dacia ripensis",
     "chapters": [
       {
         "start": 2150,
-        "author": "Polaschek"
+        "end": 2152,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -11027,11 +11319,13 @@
     "lemma": "Transenna",
     "previous": "Transducta",
     "next": "Transfuga",
+    "proof_read": 0,
     "short_description": "Gitter mit diagonalen Sprossen, vergittertes Fenster",
     "chapters": [
       {
         "start": 2152,
-        "author": "Ebert"
+        "end": 2152,
+        "author": "Friedr. Ebert."
       }
     ]
   },
@@ -11039,11 +11333,13 @@
     "lemma": "Transfuga",
     "previous": "Transenna",
     "next": "Transitio ad plebem",
+    "proof_read": 0,
     "short_description": "Überläufer (militär. verwaltungstechnisch religiös)",
     "chapters": [
       {
         "start": 2152,
-        "author": "Schnorr von Carolsfeld"
+        "end": 2154,
+        "author": "Ludwig Schnorr von Carolsfeld."
       }
     ]
   },
@@ -11051,11 +11347,14 @@
     "lemma": "Transitio ad plebem",
     "previous": "Transfuga",
     "next": "Transitorium forum",
+    "sort_key": "Transitioad plebem",
+    "proof_read": 0,
     "short_description": "Übertritt eines Patriziers in d. Plebs",
     "chapters": [
       {
         "start": 2154,
-        "author": "Kübler, B[ernhard]"
+        "end": 2157,
+        "author": "Kübler."
       }
     ]
   },
@@ -11076,11 +11375,13 @@
     "lemma": "Transiugitani",
     "previous": "Transitorium forum",
     "next": "Translatio",
+    "proof_read": 0,
     "short_description": "Hinter d. SW-Rändern d. Hügel um d. Donauknie seßhafte Stämme",
     "chapters": [
       {
         "start": 2157,
-        "author": "Polaschek"
+        "end": 2158,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -11088,11 +11389,13 @@
     "lemma": "Translatio",
     "previous": "Transiugitani",
     "next": "Translicon",
+    "proof_read": 0,
     "short_description": "Jurist. t.t.",
     "chapters": [
       {
         "start": 2158,
-        "author": "Kaser"
+        "end": 2170,
+        "author": "Max Kaser."
       }
     ]
   },
@@ -11100,10 +11403,12 @@
     "lemma": "Translicon",
     "previous": "Translatio",
     "next": "Translitae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2170,
-        "author": "Ruge"
+        "end": 2170,
+        "author": "Ruge."
       }
     ]
   },
@@ -11111,10 +11416,12 @@
     "lemma": "Translitae",
     "previous": "Translicon",
     "next": "Transluco",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2170,
-        "author": "Polaschek"
+        "end": 2170,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -11122,10 +11429,12 @@
     "lemma": "Transluco",
     "previous": "Translitae",
     "next": "Transmarinus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2170,
-        "author": "Polaschek"
+        "end": 2170,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -11146,11 +11455,13 @@
     "lemma": "Transmarisca",
     "previous": "Transmarinus",
     "next": "Transmontanoi 1",
+    "proof_read": 0,
     "short_description": "Station an d. niedermoesischen Donau",
     "chapters": [
       {
         "start": 2171,
-        "author": "Polaschek"
+        "end": 2174,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -11158,11 +11469,13 @@
     "lemma": "Transmontanoi 1",
     "previous": "Transmarisca",
     "next": "Transmontanoi 2",
+    "proof_read": 0,
     "short_description": "Völkerschaft im europ. Sarmatien",
     "chapters": [
       {
         "start": 2174,
-        "author": "Herrmann"
+        "end": 2174,
+        "author": "Herrmann."
       }
     ]
   },
@@ -11170,11 +11483,13 @@
     "lemma": "Transmontanoi 2",
     "previous": "Transmontanoi 1",
     "next": "Transmontanoi 3",
+    "proof_read": 0,
     "short_description": "O. Transmontani, Völkerschaft im europ. Sarmatien",
     "chapters": [
       {
         "start": 2174,
-        "author": "Polaschek"
+        "end": 2175,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -11182,11 +11497,13 @@
     "lemma": "Transmontanoi 3",
     "previous": "Transmontanoi 2",
     "next": "Trans monte",
+    "proof_read": 0,
     "short_description": "Astures Transmontani, Teil d. Astures in Spanien",
     "chapters": [
       {
         "start": 2176,
-        "author": "Schulten"
+        "end": 2176,
+        "author": "Schulten."
       }
     ]
   },
@@ -11194,10 +11511,13 @@
     "lemma": "Trans monte",
     "previous": "Transmontanoi 3",
     "next": "Transmundus",
+    "sort_key": "Transmonte",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2176,
-        "author": "Ruge"
+        "end": 2176,
+        "author": "Ruge."
       }
     ]
   },
@@ -11218,11 +11538,13 @@
     "lemma": "Transpadana",
     "previous": "Transmundus",
     "next": "Transscriptio",
+    "proof_read": 0,
     "short_description": "Region in Italien",
     "chapters": [
       {
         "start": 2176,
-        "author": "Philipp"
+        "end": 2178,
+        "author": "Philipp."
       }
     ]
   },
@@ -11243,10 +11565,12 @@
     "lemma": "Transtrum",
     "previous": "Transscriptio",
     "next": "Transvectio equitum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2178,
-        "author": "Miltner, Franz"
+        "end": 2178,
+        "author": "Miltner."
       }
     ]
   },
@@ -11254,11 +11578,14 @@
     "lemma": "Transvectio equitum",
     "previous": "Transtrum",
     "next": "Transulmanus Pelecianus",
+    "sort_key": "Transvectioequitum",
+    "proof_read": 0,
     "short_description": "Jährliche Reiterparade d. Römer am 15.Juli",
     "chapters": [
       {
         "start": 2178,
-        "author": "Weinstock"
+        "end": 2187,
+        "author": "Weinstock."
       }
     ]
   },
@@ -11266,10 +11593,13 @@
     "lemma": "Transulmanus Pelecianus",
     "previous": "Transvectio equitum",
     "next": "Tranupara",
+    "sort_key": "Transulmanuspelecianus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2187,
-        "author": "Philipp"
+        "end": 2187,
+        "author": "Philipp."
       }
     ]
   },
@@ -11277,10 +11607,12 @@
     "lemma": "Tranupara",
     "previous": "Transulmanus Pelecianus",
     "next": "Trapeia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2187,
-        "author": "Oberhummer"
+        "end": 2187,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -11288,10 +11620,12 @@
     "lemma": "Trapeia",
     "previous": "Tranupara",
     "next": "Trapetum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2187,
-        "author": "Philipp"
+        "end": 2187,
+        "author": "Philipp."
       }
     ]
   },
@@ -11299,11 +11633,13 @@
     "lemma": "Trapetum",
     "previous": "Trapeia",
     "next": "Trapeza 1",
+    "proof_read": 0,
     "short_description": "O. trapetus, Olivenmühle",
     "chapters": [
       {
         "start": 2187,
-        "author": "Hörle"
+        "end": 2194,
+        "author": "Josef Hörle."
       }
     ]
   },
@@ -11324,11 +11660,13 @@
     "lemma": "Trapeza 2",
     "previous": "Trapeza 1",
     "next": "Trapeza 3",
+    "proof_read": 0,
     "short_description": "Bankwesen",
     "chapters": [
       {
         "start": 2194,
-        "author": "Ziebarth"
+        "end": 2207,
+        "author": "Ziebarth."
       }
     ]
   },
@@ -11336,11 +11674,13 @@
     "lemma": "Trapeza 3",
     "previous": "Trapeza 2",
     "next": "Trapezas",
+    "proof_read": 0,
     "short_description": "Vorgebirge im Hellespont",
     "chapters": [
       {
         "start": 2207,
-        "author": "Ruge"
+        "end": 2207,
+        "author": "Ruge."
       }
     ]
   },
@@ -11348,10 +11688,12 @@
     "lemma": "Trapezas",
     "previous": "Trapeza 3",
     "next": "Trapezeus, Trapezus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2207,
-        "author": "Ruge"
+        "end": 2208,
+        "author": "Ruge."
       }
     ]
   },
@@ -11359,11 +11701,14 @@
     "lemma": "Trapezeus, Trapezus",
     "previous": "Trapezas",
     "next": "Trapezites 1",
+    "sort_key": "Trapezeus,trapezus",
+    "proof_read": 0,
     "short_description": "Sohn d. Arkaders Lykaon, angebl. Gründer d. Stadt Trapezus",
     "chapters": [
       {
         "start": 2208,
-        "author": "Wüst"
+        "end": 2208,
+        "author": "E. Wüst."
       }
     ]
   },
@@ -11383,36 +11728,43 @@
   {
     "lemma": "Trapezites 2",
     "previous": "Trapezites 1",
-    "next": "Trapezon",
+    "next": "Τραπεζών",
+    "proof_read": 0,
     "short_description": "Direktoren v. Regierungskassen in Ägypten",
     "chapters": [
       {
         "start": 2208,
-        "author": "Kießling, Emil"
+        "end": 2209,
+        "author": "E. Kießling."
       }
     ]
   },
   {
-    "lemma": "Trapezon",
+    "lemma": "Τραπεζών",
     "previous": "Trapezites 2",
     "next": "Trapezophorum",
+    "sort_key": "Trapezon",
+    "proof_read": 0,
     "short_description": "Hügel in N-Syrien",
     "chapters": [
       {
         "start": 2209,
-        "author": "Honigmann"
+        "end": 2209,
+        "author": "Honigmann."
       }
     ]
   },
   {
     "lemma": "Trapezophorum",
-    "previous": "Trapezon",
+    "previous": "Τραπεζών",
     "next": "Trapezopolis",
+    "proof_read": 0,
     "short_description": "Tischträger, -stütze",
     "chapters": [
       {
         "start": 2209,
-        "author": "Hug"
+        "end": 2210,
+        "author": "Hug."
       }
     ]
   },
@@ -11420,11 +11772,13 @@
     "lemma": "Trapezopolis",
     "previous": "Trapezophorum",
     "next": "Trapezus 1",
+    "proof_read": 0,
     "short_description": "Stadt in Karien",
     "chapters": [
       {
         "start": 2210,
-        "author": "Ruge"
+        "end": 2212,
+        "author": "Ruge."
       }
     ]
   },
@@ -11432,11 +11786,13 @@
     "lemma": "Trapezus 1",
     "previous": "Trapezopolis",
     "next": "Trapezus 2",
+    "proof_read": 0,
     "short_description": "Stadt südl. d. Alpheios",
     "chapters": [
       {
         "start": 2212,
-        "author": "Meyer, Ernst"
+        "end": 2214,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -11444,11 +11800,13 @@
     "lemma": "Trapezus 2",
     "previous": "Trapezus 1",
     "next": "Trapezus 3",
+    "proof_read": 0,
     "short_description": "Stadt an d. N-Küste Kleinasiens",
     "chapters": [
       {
         "start": 2214,
-        "author": "Ruge"
+        "end": 2221,
+        "author": "Ruge."
       }
     ]
   },
@@ -11470,11 +11828,13 @@
     "lemma": "Trapheia",
     "previous": "Trapezus 3",
     "next": "Τράρα",
+    "proof_read": 0,
     "short_description": "Stadt Boiotiens",
     "chapters": [
       {
         "start": 2221,
-        "author": "Kirsten"
+        "end": 2223,
+        "author": "Kirsten."
       }
     ]
   },
@@ -11529,10 +11889,12 @@
     "lemma": "Traron",
     "previous": "Trarion 2",
     "next": "Trasamunc... pagus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2223,
-        "author": "Ruge"
+        "end": 2223,
+        "author": "Ruge."
       }
     ]
   },
@@ -11540,10 +11902,13 @@
     "lemma": "Trasamunc... pagus",
     "previous": "Traron",
     "next": "Trasamundus",
+    "sort_key": "Trasamunc...pagus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2223,
-        "author": "Philipp"
+        "end": 2223,
+        "author": "Philipp."
       }
     ]
   },
@@ -11590,11 +11955,14 @@
     "lemma": "Trasimenischer See",
     "previous": "Trasila",
     "next": "Tratorius",
+    "sort_key": "Trasimenischersee",
+    "proof_read": 0,
     "short_description": "See in Umbrien, heute Lago Trasimeno o. Lago di Perugia",
     "chapters": [
       {
         "start": 2223,
-        "author": "Oehler, R[aimund]"
+        "end": 2224,
+        "author": "R. Oehler."
       }
     ]
   },
@@ -11602,17 +11970,19 @@
     "lemma": "Tratorius",
     "previous": "Trasimenischer See",
     "next": "Τραύαξα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2224,
-        "author": "Münzer"
+        "end": 2224,
+        "author": "Münzer."
       }
     ]
   },
   {
     "lemma": "Τραύαξα",
     "previous": "Tratorius",
-    "next": "Trauchenioi",
+    "next": "Τραυχένιοι",
     "sort_key": "Trauaxa",
     "proof_read": 3,
     "short_description": "Trauaxa, Ort in Medien",
@@ -11625,65 +11995,78 @@
     ]
   },
   {
-    "lemma": "Trauchenioi",
+    "lemma": "Τραυχένιοι",
     "previous": "Τραύαξα",
     "next": "Trauerkleidung",
+    "sort_key": "Trauchenioi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2224,
-        "author": "Herrmann"
+        "end": 2225,
+        "author": "Herrmann."
       }
     ]
   },
   {
     "lemma": "Trauerkleidung",
-    "previous": "Trauchenioi",
+    "previous": "Τραυχένιοι",
     "next": "Travinis",
+    "proof_read": 0,
     "short_description": "I. Allgem. II. Griechen III. Römer",
     "chapters": [
       {
         "start": 2225,
-        "author": "Herzog-Hauser"
+        "end": 2231,
+        "author": "G. Herzog-Hauser."
       }
     ]
   },
   {
     "lemma": "Travinis",
     "previous": "Trauerkleidung",
-    "next": "Traulus Montanus, Sex.",
+    "next": "Sex. Traulus Montanus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2231,
-        "author": "Heichelheim"
+        "end": 2232,
+        "author": "Heichelheim."
       }
     ]
   },
   {
-    "lemma": "Traulus Montanus, Sex.",
+    "lemma": "Sex. Traulus Montanus",
     "previous": "Travinis",
-    "next": "Trauma ek pronoias",
+    "next": "Τραῦμα ἐκ προνοίας",
+    "sort_key": "Traulusmontanus, sex.",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2232,
-        "author": "Stein, [Arthur]"
+        "end": 2232,
+        "author": "Stein."
       }
     ]
   },
   {
-    "lemma": "Trauma ek pronoias",
-    "previous": "Traulus Montanus, Sex.",
+    "lemma": "Τραῦμα ἐκ προνοίας",
+    "previous": "Sex. Traulus Montanus",
     "next": "Traumdeutung",
+    "sort_key": "Traumaek pronoias",
+    "proof_read": 0,
     "short_description": "Vorsätzliche Körperverletzung",
     "chapters": [
       {
         "start": 2232,
-        "author": "Latte"
+        "end": 2233,
+        "author": "Latte."
       }
     ]
   },
   {
     "lemma": "Traumdeutung",
-    "previous": "Trauma ek pronoias",
+    "previous": "Τραῦμα ἐκ προνοίας",
     "next": "Trauos",
     "sort_key": "Traumdeutung",
     "proof_read": 2,
@@ -11716,11 +12099,13 @@
     "lemma": "Trausi",
     "previous": "Trauos",
     "next": "Trausius",
+    "proof_read": 0,
     "short_description": "Volk in Thrakien",
     "chapters": [
       {
         "start": 2245,
-        "author": "Oberhummer"
+        "end": 2246,
+        "author": "Oberhummer."
       }
     ]
   },
@@ -11728,10 +12113,12 @@
     "lemma": "Trausius",
     "previous": "Trausi",
     "next": "Trausius campus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2246,
-        "author": "Stein, [Arthur]"
+        "end": 2246,
+        "author": "Stein."
       }
     ]
   },
@@ -11739,10 +12126,13 @@
     "lemma": "Trausius campus",
     "previous": "Trausius",
     "next": "Traustila",
+    "sort_key": "Trausiuscampus",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2246,
-        "author": "Banti"
+        "end": 2246,
+        "author": "Luisa Banti."
       }
     ]
   },
@@ -11777,11 +12167,13 @@
     "lemma": "Trdat 1",
     "previous": "Traxula",
     "next": "Trdat 2",
+    "proof_read": 0,
     "short_description": "Tiridates III., Armenierkönig, Sohn d. Chosrau, 3. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2246,
-        "author": "Enßlin"
+        "end": 2249,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11789,11 +12181,13 @@
     "lemma": "Trdat 2",
     "previous": "Trdat 1",
     "next": "Trdat 3",
+    "proof_read": 0,
     "short_description": "Tirith, Neffe o. Bruder d. Arsakes II.",
     "chapters": [
       {
         "start": 2249,
-        "author": "Enßlin"
+        "end": 2249,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11801,11 +12195,13 @@
     "lemma": "Trdat 3",
     "previous": "Trdat 2",
     "next": "Trdat 4",
+    "proof_read": 0,
     "short_description": "Angebl. Sohn d. Arsakes II.",
     "chapters": [
       {
         "start": 2249,
-        "author": "Enßlin"
+        "end": 2249,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -11873,10 +12269,12 @@
     "lemma": "Trea",
     "previous": "Trdat 7",
     "next": "Treba",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2250,
-        "author": "Philipp"
+        "end": 2250,
+        "author": "Philipp."
       }
     ]
   },
@@ -11884,10 +12282,12 @@
     "lemma": "Treba",
     "previous": "Trea",
     "next": "Treballia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2250,
-        "author": "Philipp"
+        "end": 2250,
+        "author": "Philipp."
       }
     ]
   },
@@ -11908,11 +12308,13 @@
     "lemma": "Trebanius",
     "previous": "Treballia",
     "next": "Trebaruna",
+    "proof_read": 0,
     "short_description": "L.",
     "chapters": [
       {
         "start": 2250,
-        "author": "Münzer"
+        "end": 2250,
+        "author": "Münzer."
       }
     ]
   },
@@ -11920,10 +12322,12 @@
     "lemma": "Trebaruna",
     "previous": "Trebanius",
     "next": "Trebatius",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2250,
-        "author": "Heichelheim"
+        "end": 2250,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -11931,11 +12335,13 @@
     "lemma": "Trebatius",
     "previous": "Trebaruna",
     "next": "Trebatius 1",
+    "proof_read": 0,
     "short_description": "Plebeisches Geschlecht",
     "chapters": [
       {
         "start": 2250,
-        "author": "Sonnet"
+        "end": 2251,
+        "author": "Sonnet."
       }
     ]
   },
@@ -11943,11 +12349,13 @@
     "lemma": "Trebatius 1",
     "previous": "Trebatius",
     "next": "Trebatius 2",
+    "proof_read": 0,
     "short_description": "Praetor d. Samniten 89 v. Chr.",
     "chapters": [
       {
         "start": 2251,
-        "author": "Münzer"
+        "end": 2251,
+        "author": "Münzer."
       }
     ]
   },
@@ -12000,11 +12408,13 @@
     "lemma": "Trebatius 5",
     "previous": "Trebatius 4",
     "next": "Trebatius 6",
+    "proof_read": 0,
     "short_description": "Priscus, M. cos. 108 n. Chr.",
     "chapters": [
       {
         "start": 2251,
-        "author": "Sonnet"
+        "end": 2251,
+        "author": "Sonnet."
       }
     ]
   },
@@ -12012,11 +12422,13 @@
     "lemma": "Trebatius 6",
     "previous": "Trebatius 5",
     "next": "Trebatius 7",
+    "proof_read": 0,
     "short_description": "Rufio, C. genannt auf einem stadtröm. Grabmal",
     "chapters": [
       {
         "start": 2251,
-        "author": "Münzer"
+        "end": 2251,
+        "author": "Münzer."
       }
     ]
   },
@@ -12036,11 +12448,13 @@
     "lemma": "Trebellenus",
     "previous": "Trebatius 7",
     "next": "Trebellianus",
+    "proof_read": 0,
     "short_description": "Rufus, T. Aus Concordia in Venetien, kaiserl. Legat unter Augustus",
     "chapters": [
       {
         "start": 2261,
-        "author": "Hoffmann"
+        "end": 2262,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -12048,11 +12462,13 @@
     "lemma": "Trebellianus",
     "previous": "Trebellenus",
     "next": "Trebellius 1",
+    "proof_read": 0,
     "short_description": "Angebl. Usurpator z.Zt. d. Gallienus",
     "chapters": [
       {
         "start": 2262,
-        "author": "Stein, [Arthur]"
+        "end": 2262,
+        "author": "Stein."
       }
     ]
   },
@@ -12060,11 +12476,13 @@
     "lemma": "Trebellius 1",
     "previous": "Trebellianus",
     "next": "Trebellius 2",
+    "proof_read": 0,
     "short_description": "A. Röm. Ritter aus Hasta/Baetica",
     "chapters": [
       {
         "start": 2262,
-        "author": "Münzer"
+        "end": 2262,
+        "author": "Münzer."
       }
     ]
   },
@@ -12086,11 +12504,13 @@
     "lemma": "Trebellius 3",
     "previous": "Trebellius 2",
     "next": "Trebellius 4",
+    "proof_read": 0,
     "short_description": "L. Tr. pl. 67 v. Chr.",
     "chapters": [
       {
         "start": 2262,
-        "author": "Münzer"
+        "end": 2263,
+        "author": "Münzer."
       }
     ]
   },
@@ -12098,11 +12518,13 @@
     "lemma": "Trebellius 4",
     "previous": "Trebellius 3",
     "next": "Trebellius 5",
+    "proof_read": 0,
     "short_description": "L. Tr. pl. 47 v. Chr.",
     "chapters": [
       {
         "start": 2263,
-        "author": "Münzer"
+        "end": 2264,
+        "author": "Münzer."
       }
     ]
   },
@@ -12110,11 +12532,13 @@
     "lemma": "Trebellius 5",
     "previous": "Trebellius 4",
     "next": "Trebellius 6",
+    "proof_read": 0,
     "short_description": "L. Aed. cur. auf einer stadtröm. Inschr.",
     "chapters": [
       {
         "start": 2264,
-        "author": "Hoffmann"
+        "end": 2264,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -12122,11 +12546,13 @@
     "lemma": "Trebellius 6",
     "previous": "Trebellius 5",
     "next": "Trebellius 7",
+    "proof_read": 0,
     "short_description": "M. Aus Fregellae, diente 169 v. Chr. in Illyrien",
     "chapters": [
       {
         "start": 2264,
-        "author": "Münzer"
+        "end": 2265,
+        "author": "Münzer."
       }
     ]
   },
@@ -12148,11 +12574,13 @@
     "lemma": "Trebellius 8",
     "previous": "Trebellius 7",
     "next": "Trebellius 9",
+    "proof_read": 0,
     "short_description": "M. Freund d. Columella",
     "chapters": [
       {
         "start": 2265,
-        "author": "Stein, [Arthur]"
+        "end": 2265,
+        "author": "Stein."
       }
     ]
   },
@@ -12175,11 +12603,13 @@
     "lemma": "Trebellius 10",
     "previous": "Trebellius 9",
     "next": "Trebellius 11",
+    "proof_read": 0,
     "short_description": "Calca Gab sich für P. Clodius aus",
     "chapters": [
       {
         "start": 2265,
-        "author": "Münzer"
+        "end": 2265,
+        "author": "Münzer."
       }
     ]
   },
@@ -12187,11 +12617,13 @@
     "lemma": "Trebellius 11",
     "previous": "Trebellius 10",
     "next": "Trebellius 12",
+    "proof_read": 0,
     "short_description": "Treb(ell)ius Catulus, Q. Legat d. 16.Legion unter Claudius",
     "chapters": [
       {
         "start": 2265,
-        "author": "Hoffmann"
+        "end": 2265,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -12213,11 +12645,13 @@
     "lemma": "Trebellius 13",
     "previous": "Trebellius 12",
     "next": "Trebellius 14",
+    "proof_read": 0,
     "short_description": "Maximus, M. cos. suff. 56 n. Chr.",
     "chapters": [
       {
         "start": 2265,
-        "author": "Hanslik"
+        "end": 2266,
+        "author": "Hanslik."
       }
     ]
   },
@@ -12253,11 +12687,13 @@
     "lemma": "Trebendai",
     "previous": "Trebellius 15",
     "next": "Trebenna",
+    "proof_read": 0,
     "short_description": "Ort in Lykien",
     "chapters": [
       {
         "start": 2267,
-        "author": "Ruge"
+        "end": 2268,
+        "author": "Ruge."
       }
     ]
   },
@@ -12265,11 +12701,13 @@
     "lemma": "Trebenna",
     "previous": "Trebendai",
     "next": "Trebi",
+    "proof_read": 0,
     "short_description": "Stadt im lykisch-pamphylischen Grenzgebiet",
     "chapters": [
       {
         "start": 2268,
-        "author": "Ruge"
+        "end": 2269,
+        "author": "Ruge."
       }
     ]
   },
@@ -12277,10 +12715,12 @@
     "lemma": "Trebi",
     "previous": "Trebenna",
     "next": "Trebia",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2269,
-        "author": "Philipp"
+        "end": 2269,
+        "author": "Philipp."
       }
     ]
   },
@@ -12288,11 +12728,13 @@
     "lemma": "Trebia",
     "previous": "Trebi",
     "next": "Trebianus",
+    "proof_read": 0,
     "short_description": "Nebenfluß d. Padus",
     "chapters": [
       {
         "start": 2269,
-        "author": "Oehler, R[aimund]"
+        "end": 2270,
+        "author": "R. Oehler."
       }
     ]
   },
@@ -12300,11 +12742,13 @@
     "lemma": "Trebianus",
     "previous": "Trebia",
     "next": "Trebium",
+    "proof_read": 0,
     "short_description": "Pompeianer",
     "chapters": [
       {
         "start": 2270,
-        "author": "Münzer"
+        "end": 2270,
+        "author": "Münzer."
       }
     ]
   },
@@ -12327,11 +12771,13 @@
     "lemma": "Trebius",
     "previous": "Trebium",
     "next": "Trebius 1",
+    "proof_read": 0,
     "short_description": "Osk. Vorname",
     "chapters": [
       {
         "start": 2270,
-        "author": "Münzer"
+        "end": 2271,
+        "author": "Münzer."
       }
     ]
   },
@@ -12339,11 +12785,13 @@
     "lemma": "Trebius 1",
     "previous": "Trebius",
     "next": "Trebius 2",
+    "proof_read": 0,
     "short_description": "Statius Angesehener Mann in Compsa/S-Samnium",
     "chapters": [
       {
         "start": 2271,
-        "author": "Münzer"
+        "end": 2271,
+        "author": "Münzer."
       }
     ]
   },
@@ -12351,11 +12799,13 @@
     "lemma": "Trebius 2",
     "previous": "Trebius 1",
     "next": "Trebius 3",
+    "proof_read": 0,
     "short_description": "Gallus, M. Offizier in Caesars Heer in Gallien",
     "chapters": [
       {
         "start": 2271,
-        "author": "Münzer"
+        "end": 2271,
+        "author": "Münzer."
       }
     ]
   },
@@ -12363,11 +12813,13 @@
     "lemma": "Trebius 3",
     "previous": "Trebius 2",
     "next": "Trebius 4",
+    "proof_read": 0,
     "short_description": "Germanus, L. cos. suff. z.Zt. d. Hadrian o. Antoninus Pius",
     "chapters": [
       {
         "start": 2271,
-        "author": "Groag"
+        "end": 2272,
+        "author": "Groag."
       }
     ]
   },
@@ -12387,11 +12839,13 @@
     "lemma": "Trebius 5",
     "previous": "Trebius 4",
     "next": "Trebius 6",
+    "proof_read": 0,
     "short_description": "Niger Wohl lat. Paradoxograph",
     "chapters": [
       {
         "start": 2272,
-        "author": "Münzer"
+        "end": 2272,
+        "author": "Münzer."
       }
     ]
   },
@@ -12413,11 +12867,13 @@
     "lemma": "Trebius 7",
     "previous": "Trebius 6",
     "next": "Trebonianus Gallus",
+    "proof_read": 0,
     "short_description": "Sergianus, C. cos. 132 n. Chr.",
     "chapters": [
       {
         "start": 2272,
-        "author": "Groag"
+        "end": 2273,
+        "author": "Groag."
       }
     ]
   },
@@ -12441,11 +12897,13 @@
     "lemma": "Trebonius",
     "previous": "Trebonianus Gallus",
     "next": "Trebonius 1",
+    "proof_read": 0,
     "short_description": "Plebeischer Gentilname",
     "chapters": [
       {
         "start": 2273,
-        "author": "Münzer"
+        "end": 2273,
+        "author": "Münzer."
       }
     ]
   },
@@ -12453,11 +12911,13 @@
     "lemma": "Trebonius 1",
     "previous": "Trebonius",
     "next": "Trebonius 2",
+    "proof_read": 0,
     "short_description": "Person bei Horaz",
     "chapters": [
       {
         "start": 2273,
-        "author": "Münzer"
+        "end": 2273,
+        "author": "Münzer."
       }
     ]
   },
@@ -12465,11 +12925,13 @@
     "lemma": "Trebonius 2",
     "previous": "Trebonius 1",
     "next": "Trebonius 3",
+    "proof_read": 0,
     "short_description": "A. Von Sulla proskribiert 82 v. Chr.",
     "chapters": [
       {
         "start": 2273,
-        "author": "Münzer"
+        "end": 2273,
+        "author": "Münzer."
       }
     ]
   },
@@ -12505,11 +12967,13 @@
     "lemma": "Trebonius 5",
     "previous": "Trebonius 4",
     "next": "Trebonius 6",
+    "proof_read": 0,
     "short_description": "C. Vater v. Nr. 6",
     "chapters": [
       {
         "start": 2274,
-        "author": "Münzer"
+        "end": 2274,
+        "author": "Münzer."
       }
     ]
   },
@@ -12517,11 +12981,13 @@
     "lemma": "Trebonius 6",
     "previous": "Trebonius 5",
     "next": "Trebonius 7",
+    "proof_read": 0,
     "short_description": "C. Sohn v. Nr. 5, beteiligt an d. Ermordung Caesars",
     "chapters": [
       {
         "start": 2274,
-        "author": "Münzer"
+        "end": 2282,
+        "author": "Münzer."
       }
     ]
   },
@@ -12529,11 +12995,13 @@
     "lemma": "Trebonius 7",
     "previous": "Trebonius 6",
     "next": "Trebonius 8",
+    "proof_read": 0,
     "short_description": "C. Röm. Ritter, diente unter Caesar in Gallien",
     "chapters": [
       {
         "start": 2282,
-        "author": "Münzer"
+        "end": 2282,
+        "author": "Münzer."
       }
     ]
   },
@@ -12541,11 +13009,13 @@
     "lemma": "Trebonius 8",
     "previous": "Trebonius 7",
     "next": "Trebonius 9",
+    "proof_read": 0,
     "short_description": "Cn. Tr. pl. 401 v. Chr.",
     "chapters": [
       {
         "start": 2282,
-        "author": "Münzer"
+        "end": 2282,
+        "author": "Münzer."
       }
     ]
   },
@@ -12553,11 +13023,13 @@
     "lemma": "Trebonius 9",
     "previous": "Trebonius 8",
     "next": "Trebonius 10",
+    "proof_read": 0,
     "short_description": "L. Tr. pl. 448 v. Chr.",
     "chapters": [
       {
         "start": 2282,
-        "author": "Münzer"
+        "end": 2282,
+        "author": "Münzer."
       }
     ]
   },
@@ -12565,11 +13037,13 @@
     "lemma": "Trebonius 10",
     "previous": "Trebonius 9",
     "next": "Trebonius 11",
+    "proof_read": 0,
     "short_description": "M. Consularischer Kriegstribun 383 v. Chr.",
     "chapters": [
       {
         "start": 2282,
-        "author": "Münzer"
+        "end": 2283,
+        "author": "Münzer."
       }
     ]
   },
@@ -12577,11 +13051,13 @@
     "lemma": "Trebonius 11",
     "previous": "Trebonius 10",
     "next": "Trebonius 12",
+    "proof_read": 0,
     "short_description": "P. Consularischer Kriegstribun 379 v. Chr.",
     "chapters": [
       {
         "start": 2283,
-        "author": "Münzer"
+        "end": 2283,
+        "author": "Münzer."
       }
     ]
   },
@@ -12589,11 +13065,13 @@
     "lemma": "Trebonius 12",
     "previous": "Trebonius 11",
     "next": "Trebonius 13",
+    "proof_read": 0,
     "short_description": "P. Diente unter Marius im Cimbernkrieg",
     "chapters": [
       {
         "start": 2283,
-        "author": "Münzer"
+        "end": 2283,
+        "author": "Münzer."
       }
     ]
   },
@@ -12601,11 +13079,13 @@
     "lemma": "Trebonius 13",
     "previous": "Trebonius 12",
     "next": "Trebonius 14",
+    "proof_read": 0,
     "short_description": "T. Legat d. Consuls L. Papirius Cursor 293 v. Chr.",
     "chapters": [
       {
         "start": 2283,
-        "author": "Münzer"
+        "end": 2283,
+        "author": "Münzer."
       }
     ]
   },
@@ -12613,11 +13093,13 @@
     "lemma": "Trebonius 14",
     "previous": "Trebonius 13",
     "next": "Trebonius 15",
+    "proof_read": 0,
     "short_description": "Carutianus Procurator in Africa unter Galba",
     "chapters": [
       {
         "start": 2283,
-        "author": "Stein, [Arthur]"
+        "end": 2283,
+        "author": "Stein."
       }
     ]
   },
@@ -12651,11 +13133,13 @@
     "lemma": "Trebonius 17",
     "previous": "Trebonius 16",
     "next": "Trebula 1",
+    "proof_read": 0,
     "short_description": "Rufinus Freund d. Plinius",
     "chapters": [
       {
         "start": 2283,
-        "author": "Stein, [Arthur]"
+        "end": 2283,
+        "author": "Stein."
       }
     ]
   },
@@ -12663,11 +13147,13 @@
     "lemma": "Trebula 1",
     "previous": "Trebonius 17",
     "next": "Trebula 2",
+    "proof_read": 0,
     "short_description": "Municipium im Gebiet d. samnitischen Caracener",
     "chapters": [
       {
         "start": 2283,
-        "author": "Philipp"
+        "end": 2284,
+        "author": "Philipp."
       }
     ]
   },
@@ -12675,11 +13161,13 @@
     "lemma": "Trebula 2",
     "previous": "Trebula 1",
     "next": "Trebula 3",
+    "proof_read": 0,
     "short_description": "Ager Trebulanus, im Hirpinerland",
     "chapters": [
       {
         "start": 2284,
-        "author": "Philipp"
+        "end": 2284,
+        "author": "Philipp."
       }
     ]
   },
@@ -12687,11 +13175,13 @@
     "lemma": "Trebula 3",
     "previous": "Trebula 2",
     "next": "Trebula 4",
+    "proof_read": 0,
     "short_description": "Dorf nördl. d. Volturnus in Campanien",
     "chapters": [
       {
         "start": 2284,
-        "author": "Philipp"
+        "end": 2284,
+        "author": "Philipp."
       }
     ]
   },
@@ -12699,11 +13189,13 @@
     "lemma": "Trebula 4",
     "previous": "Trebula 3",
     "next": "Trebula 5",
+    "proof_read": 0,
     "short_description": "T. Mutuesca, municipium im Gebiet v. Reate",
     "chapters": [
       {
         "start": 2284,
-        "author": "Philipp"
+        "end": 2285,
+        "author": "Philipp."
       }
     ]
   },
@@ -12711,11 +13203,13 @@
     "lemma": "Trebula 5",
     "previous": "Trebula 4",
     "next": "Trecenarius",
+    "proof_read": 0,
     "short_description": "T. Suffenas, Ort bei Plin. nat.3,107",
     "chapters": [
       {
         "start": 2285,
-        "author": "Philipp"
+        "end": 2285,
+        "author": "Philipp."
       }
     ]
   },
@@ -12723,10 +13217,12 @@
     "lemma": "Trecenarius",
     "previous": "Trebula 5",
     "next": "Trechedipnum",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2285,
-        "author": "Lammert, Friedrich"
+        "end": 2285,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -12734,11 +13230,13 @@
     "lemma": "Trechedipnum",
     "previous": "Trecenarius",
     "next": "Treideln",
+    "proof_read": 0,
     "short_description": "Gewand o. Sandalen (Bed. unklar)",
     "chapters": [
       {
         "start": 2285,
-        "author": "Schuppe"
+        "end": 2286,
+        "author": "Schuppe."
       }
     ]
   },
@@ -12746,18 +13244,20 @@
     "lemma": "Treideln",
     "previous": "Trechedipnum",
     "next": "Treienses",
+    "proof_read": 0,
     "short_description": "Beförderung eines Schiffes",
     "chapters": [
       {
         "start": 2286,
-        "author": "Miltner, Franz"
+        "end": 2286,
+        "author": "Miltner."
       }
     ]
   },
   {
     "lemma": "Treienses",
     "previous": "Treideln",
-    "next": "Treis Eleai",
+    "next": "Τρεῖς Ἐλέαι",
     "redirect": "Trea",
     "proof_read": 2,
     "chapters": [
@@ -12768,25 +13268,30 @@
     ]
   },
   {
-    "lemma": "Treis Eleai",
+    "lemma": "Τρεῖς Ἐλέαι",
     "previous": "Treienses",
     "next": "Tremelius",
+    "sort_key": "Treiseleai",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2286,
-        "author": "Ruge"
+        "end": 2286,
+        "author": "Ruge."
       }
     ]
   },
   {
     "lemma": "Tremelius",
-    "previous": "Treis Eleai",
+    "previous": "Τρεῖς Ἐλέαι",
     "next": "Tremelius 1",
+    "proof_read": 0,
     "short_description": "Tremellius, röm. Gentilname",
     "chapters": [
       {
         "start": 2286,
-        "author": "Münzer"
+        "end": 2287,
+        "author": "Münzer."
       }
     ]
   },
@@ -12808,11 +13313,13 @@
     "lemma": "Tremelius 2",
     "previous": "Tremelius 1",
     "next": "Tremelius 3",
+    "proof_read": 0,
     "short_description": "Tremellius, Cn. Tr. pl. 168 v. Chr.",
     "chapters": [
       {
         "start": 2287,
-        "author": "Münzer"
+        "end": 2287,
+        "author": "Münzer."
       }
     ]
   },
@@ -12820,11 +13327,13 @@
     "lemma": "Tremelius 3",
     "previous": "Tremelius 2",
     "next": "Tremelius 4",
+    "proof_read": 0,
     "short_description": "Tremellius, Cn. cos. suff. 21 n. Chr.",
     "chapters": [
       {
         "start": 2287,
-        "author": "Hoffmann"
+        "end": 2287,
+        "author": "W. Hoffmann."
       }
     ]
   },
@@ -12832,11 +13341,13 @@
     "lemma": "Tremelius 4",
     "previous": "Tremelius 3",
     "next": "Tremelius 5",
+    "proof_read": 0,
     "short_description": "Tremellius Flaccus, Cn. Quaestorier 205 v. Chr.",
     "chapters": [
       {
         "start": 2287,
-        "author": "Münzer"
+        "end": 2287,
+        "author": "Münzer."
       }
     ]
   },
@@ -12844,11 +13355,13 @@
     "lemma": "Tremelius 5",
     "previous": "Tremelius 4",
     "next": "Tremelius 6",
+    "proof_read": 0,
     "short_description": "Tremellius Scrofa, Cn. Kriegstribun 69 v. Chr. Gesprächsteilnehmer bei Varro",
     "chapters": [
       {
         "start": 2287,
-        "author": "Münzer"
+        "end": 2289,
+        "author": "Münzer."
       }
     ]
   },
@@ -12872,11 +13385,13 @@
     "lemma": "Tremiles",
     "previous": "Tremelius 6",
     "next": "Tremissis",
+    "proof_read": 0,
     "short_description": "Eponymer Heros v. Lykien",
     "chapters": [
       {
         "start": 2289,
-        "author": "Oppermann"
+        "end": 2290,
+        "author": "Oppermann."
       }
     ]
   },
@@ -12897,10 +13412,12 @@
     "lemma": "Tremithus",
     "previous": "Tremissis",
     "next": "Tremo",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2290,
-        "author": "Herbst"
+        "end": 2290,
+        "author": "Rudolf Herbst."
       }
     ]
   },
@@ -12908,10 +13425,12 @@
     "lemma": "Tremo",
     "previous": "Tremithus",
     "next": "Tremulae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2290,
-        "author": "Enßlin"
+        "end": 2290,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -12919,11 +13438,13 @@
     "lemma": "Tremulae",
     "previous": "Tremo",
     "next": "Trepheia",
+    "proof_read": 0,
     "short_description": "Station in Mauretania Tingitana",
     "chapters": [
       {
         "start": 2290,
-        "author": "Windberg"
+        "end": 2291,
+        "author": "Windberg."
       }
     ]
   },
@@ -12944,41 +13465,48 @@
     "lemma": "Treres",
     "previous": "Trepheia",
     "next": "Trerus",
+    "proof_read": 0,
     "short_description": "Thrak. Volksstamm",
     "chapters": [
       {
         "start": 2291,
-        "author": "Keil"
+        "end": 2291,
+        "author": "Keil."
       }
     ]
   },
   {
     "lemma": "Trerus",
     "previous": "Treres",
-    "next": "Tresantes",
+    "next": "Τρέσαντες",
+    "proof_read": 0,
     "short_description": "Fluß im Gebiet d. Herniker, s. Tolerienses",
     "chapters": [
       {
         "start": 2291,
-        "author": "Philipp"
+        "end": 2291,
+        "author": "Philipp."
       }
     ]
   },
   {
-    "lemma": "Tresantes",
+    "lemma": "Τρέσαντες",
     "previous": "Trerus",
     "next": "Tres Arbores",
+    "sort_key": "Tresantes",
+    "proof_read": 0,
     "short_description": "(Spartan.) Bezeichnung für im Krieg 'feige' Spartiaten",
     "chapters": [
       {
         "start": 2292,
-        "author": "Ehrenberg"
+        "end": 2297,
+        "author": "Ehrenberg."
       }
     ]
   },
   {
     "lemma": "Tres Arbores",
-    "previous": "Tresantes",
+    "previous": "Τρέσαντες",
     "next": "Ad tres insulas",
     "short_description": "Station an der Straße Burdigala-Tolosa",
     "chapters": [
@@ -13006,11 +13534,13 @@
     "lemma": "Tressis",
     "previous": "Ad tres insulas",
     "next": "Tres Tabernae",
+    "proof_read": 0,
     "short_description": "Dreifacher As",
     "chapters": [
       {
         "start": 2297,
-        "author": "Vittinghoff"
+        "end": 2299,
+        "author": "Friedrich Vittinghoff."
       }
     ]
   },
@@ -13044,10 +13574,12 @@
     "lemma": "Treta",
     "previous": "Tresviri",
     "next": "Trete",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2299,
-        "author": "Herbst"
+        "end": 2299,
+        "author": "Rudolf Herbst."
       }
     ]
   },
@@ -13055,10 +13587,12 @@
     "lemma": "Trete",
     "previous": "Treta",
     "next": "Treto",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2299,
-        "author": "Schulten"
+        "end": 2299,
+        "author": "Schulten."
       }
     ]
   },
@@ -13066,10 +13600,12 @@
     "lemma": "Treto",
     "previous": "Trete",
     "next": "Tretoi",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2299,
-        "author": "Heichelheim"
+        "end": 2299,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -13088,7 +13624,7 @@
   {
     "lemma": "Τρητόν",
     "previous": "Tretoi",
-    "next": "Treton akron",
+    "next": "Τρητὸν ἄκρον",
     "sort_key": "Treton",
     "redirect": "Triton 1",
     "proof_read": 2,
@@ -13100,26 +13636,31 @@
     ]
   },
   {
-    "lemma": "Treton akron",
+    "lemma": "Τρητὸν ἄκρον",
     "previous": "Τρητόν",
     "next": "Tretos 1",
+    "sort_key": "Tretonakron",
+    "proof_read": 0,
     "short_description": "Kap an d. Grenze zw. Mauretania u. Numidia",
     "chapters": [
       {
         "start": 2299,
-        "author": "Windberg"
+        "end": 2300,
+        "author": "Windberg."
       }
     ]
   },
   {
     "lemma": "Tretos 1",
-    "previous": "Treton akron",
+    "previous": "Τρητὸν ἄκρον",
     "next": "Tretos 2",
+    "proof_read": 0,
     "short_description": "Hafenstadt d. Adramitae in Arabia felix",
     "chapters": [
       {
         "start": 2300,
-        "author": "Grohmann"
+        "end": 2300,
+        "author": "Grohmann."
       }
     ]
   },
@@ -13127,11 +13668,13 @@
     "lemma": "Tretos 2",
     "previous": "Tretos 1",
     "next": "Tretos 3",
+    "proof_read": 0,
     "short_description": "Gebirge im SO v. Nemea",
     "chapters": [
       {
         "start": 2300,
-        "author": "Meyer, Ernst"
+        "end": 2301,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -13139,11 +13682,13 @@
     "lemma": "Tretos 3",
     "previous": "Tretos 2",
     "next": "Treva",
+    "proof_read": 0,
     "short_description": "Vorgebirge im NW v. Kreta",
     "chapters": [
       {
         "start": 2301,
-        "author": "Herbst"
+        "end": 2301,
+        "author": "Rudolf Herbst."
       }
     ]
   },
@@ -13151,11 +13696,13 @@
     "lemma": "Treva",
     "previous": "Tretos 3",
     "next": "Treverae",
+    "proof_read": 0,
     "short_description": "Stadt in Germanien",
     "chapters": [
       {
         "start": 2301,
-        "author": "Franke"
+        "end": 2301,
+        "author": "Franke."
       }
     ]
   },
@@ -13176,11 +13723,13 @@
     "lemma": "Treveri",
     "previous": "Treverae",
     "next": "Trevidon",
+    "proof_read": 0,
     "short_description": "Keltisch-germanisches Mischvolk im Moselgebiet (2320ff.: Trier/Augusta",
     "chapters": [
       {
         "start": 2301,
-        "author": "Rau"
+        "end": 2353,
+        "author": "Rau."
       }
     ]
   },
@@ -13188,11 +13737,13 @@
     "lemma": "Trevidon",
     "previous": "Treveri",
     "next": "Trex",
+    "proof_read": 0,
     "short_description": "Ort in Gallia Lugdunensis",
     "chapters": [
       {
         "start": 2353,
-        "author": "Scherling"
+        "end": 2353,
+        "author": "Scherling."
       }
     ]
   },
@@ -13200,28 +13751,32 @@
     "lemma": "Trex",
     "previous": "Trevidon",
     "next": "Triaditza",
+    "proof_read": 0,
     "short_description": "Magischer Name eines Winddämons",
     "chapters": [
       {
         "start": 2353,
-        "author": "Preisendanz"
+        "end": 2354,
+        "author": "Preisendanz."
       }
     ]
   },
   {
     "lemma": "Triaditza",
     "previous": "Trex",
-    "next": "Triakadieis",
+    "next": "Τριακαδιεῖς",
+    "proof_read": 0,
     "short_description": "Byzantin. Transskription d. bulgar. Umformung d. Ort Serdica",
     "chapters": [
       {
         "start": 2354,
-        "author": "Polaschek"
+        "end": 2354,
+        "author": "E. Polaschek."
       }
     ]
   },
   {
-    "lemma": "Triakadieis",
+    "lemma": "Τριακαδιεῖς",
     "previous": "Triaditza",
     "next": "Triakon",
     "chapters": [
@@ -13233,12 +13788,14 @@
   },
   {
     "lemma": "Triakon",
-    "previous": "Triakadieis",
+    "previous": "Τριακαδιεῖς",
     "next": "Οἱ τριάκοντα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2354,
-        "author": "Treidler"
+        "end": 2355,
+        "author": "Treidler."
       }
     ]
   },
@@ -13261,11 +13818,13 @@
     "lemma": "Triakontaschoinos",
     "previous": "Οἱ τριάκοντα",
     "next": "Triakonteres",
+    "proof_read": 0,
     "short_description": "Dreißigmeilenland' in Nubien",
     "chapters": [
       {
         "start": 2377,
-        "author": "Kees"
+        "end": 2378,
+        "author": "Kees."
       }
     ]
   },
@@ -13273,40 +13832,47 @@
     "lemma": "Triakonteres",
     "previous": "Triakontaschoinos",
     "next": "Triakontoros",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2378,
-        "author": "Miltner, Franz"
+        "end": 2378,
+        "author": "Miltner."
       }
     ]
   },
   {
     "lemma": "Triakontoros",
     "previous": "Triakonteres",
-    "next": "Triakosioi, hoi",
+    "next": "Τριακόσιοι, οἱ",
+    "proof_read": 0,
     "short_description": "Ein v. 30 Ruderern angetriebenes Schiff",
     "chapters": [
       {
         "start": 2378,
-        "author": "Miltner, Franz"
+        "end": 2379,
+        "author": "Miltner."
       }
     ]
   },
   {
-    "lemma": "Triakosioi, hoi",
+    "lemma": "Τριακόσιοι, οἱ",
     "previous": "Triakontoros",
     "next": "Triare",
+    "sort_key": "Triakosioi,hoi",
+    "proof_read": 0,
     "short_description": "die Dreihundert' 1. Oberste Behörde für Verwaltung u. Rechtssprechung in Athen",
     "chapters": [
       {
         "start": 2379,
-        "author": "Schwahn"
+        "end": 2384,
+        "author": "Schwahn."
       }
     ]
   },
   {
     "lemma": "Triare",
-    "previous": "Triakosioi, hoi",
+    "previous": "Τριακόσιοι, οἱ",
     "next": "Triarii",
     "proof_read": 2,
     "short_description": "(Plin. n. h. VI 29 [var. Thriare]), eine Landschaft im Südwesten des",
@@ -13322,11 +13888,13 @@
     "lemma": "Triarii",
     "previous": "Triare",
     "next": "Triarius",
+    "proof_read": 0,
     "short_description": "Krieger im röm. Manipularheer im dritten Treffen d. Legion",
     "chapters": [
       {
         "start": 2384,
-        "author": "Lammert, Friedrich"
+        "end": 2391,
+        "author": "F. Lammert."
       }
     ]
   },
@@ -13334,11 +13902,13 @@
     "lemma": "Triarius",
     "previous": "Triarii",
     "next": "Triarius 1",
+    "proof_read": 0,
     "short_description": "Cognomen nach röm. Truppengattung",
     "chapters": [
       {
         "start": 2391,
-        "author": "Münzer"
+        "end": 2391,
+        "author": "Münzer."
       }
     ]
   },
@@ -13346,11 +13916,13 @@
     "lemma": "Triarius 1",
     "previous": "Triarius",
     "next": "Triarius 2",
+    "proof_read": 0,
     "short_description": "Deklamator augusteischer Zt.",
     "chapters": [
       {
         "start": 2391,
-        "author": "Kroll"
+        "end": 2391,
+        "author": "Kroll."
       }
     ]
   },
@@ -13372,11 +13944,13 @@
     "lemma": "Triarius 3",
     "previous": "Triarius 2",
     "next": "Triarius 4",
+    "proof_read": 0,
     "short_description": "Ostgote, Vater d. Theoderich Strabo",
     "chapters": [
       {
         "start": 2391,
-        "author": "Enßlin"
+        "end": 2391,
+        "author": "W. Enßlin."
       }
     ]
   },
@@ -13384,11 +13958,13 @@
     "lemma": "Triarius 4",
     "previous": "Triarius 3",
     "next": "Triarius 5",
+    "proof_read": 0,
     "short_description": "Maternus Lascivius Person d. Hist.Aug.",
     "chapters": [
       {
         "start": 2392,
-        "author": "Groag"
+        "end": 2392,
+        "author": "Groag."
       }
     ]
   },
@@ -13396,11 +13972,13 @@
     "lemma": "Triarius 5",
     "previous": "Triarius 4",
     "next": "Triaspis",
+    "proof_read": 0,
     "short_description": "Rufinus, A. cos. ord. 210 n. Chr.",
     "chapters": [
       {
         "start": 2392,
-        "author": "Groag"
+        "end": 2392,
+        "author": "Groag."
       }
     ]
   },
@@ -13422,11 +14000,13 @@
     "lemma": "Triauchen",
     "previous": "Triaspis",
     "next": "Triballi",
+    "proof_read": 0,
     "short_description": "Epiklesis d. Hekate",
     "chapters": [
       {
         "start": 2392,
-        "author": "Kruse"
+        "end": 2392,
+        "author": "gr. Kruse."
       }
     ]
   },
@@ -13434,11 +14014,13 @@
     "lemma": "Triballi",
     "previous": "Triauchen",
     "next": "Triballos 1",
+    "proof_read": 0,
     "short_description": "Volksstamm an d. unteren Donau",
     "chapters": [
       {
         "start": 2392,
-        "author": "Polaschek"
+        "end": 2401,
+        "author": "E. Polaschek."
       }
     ]
   },
@@ -13446,11 +14028,13 @@
     "lemma": "Triballos 1",
     "previous": "Triballi",
     "next": "Triballos 2",
+    "proof_read": 0,
     "short_description": "Vater d. Hipponoos",
     "chapters": [
       {
         "start": 2401,
-        "author": "Keyßner"
+        "end": 2401,
+        "author": "Keyßner."
       }
     ]
   },
@@ -13458,11 +14042,13 @@
     "lemma": "Triballos 2",
     "previous": "Triballos 1",
     "next": "Triba(n)s",
+    "proof_read": 0,
     "short_description": "Eponymos d. Triballer",
     "chapters": [
       {
         "start": 2401,
-        "author": "Keyßner"
+        "end": 2403,
+        "author": "Keyßner."
       }
     ]
   },
@@ -13470,10 +14056,12 @@
     "lemma": "Triba(n)s",
     "previous": "Triballos 2",
     "next": "Tribanta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2403,
-        "author": "Heichelheim"
+        "end": 2403,
+        "author": "Heichelheim."
       }
     ]
   },
@@ -13577,7 +14165,7 @@
   {
     "lemma": "Tribola",
     "previous": "Triboci",
-    "next": "triboloi",
+    "next": "τρίβολοι",
     "chapters": [
       {
         "start": 2413,
@@ -13586,7 +14174,7 @@
     ]
   },
   {
-    "lemma": "triboloi",
+    "lemma": "τρίβολοι",
     "previous": "Tribola",
     "next": "Tribon",
     "short_description": "tribuli, Hindernisse, Geschosse",
@@ -13599,13 +14187,15 @@
   },
   {
     "lemma": "Tribon",
-    "previous": "triboloi",
+    "previous": "τρίβολοι",
     "next": "Tribonianus 1",
+    "proof_read": 0,
     "short_description": "Mantel aus grobem Wollstoff",
     "chapters": [
       {
         "start": 2415,
-        "author": "Schuppe"
+        "end": 2419,
+        "author": "Schuppe."
       }
     ]
   },
