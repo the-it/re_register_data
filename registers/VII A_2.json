@@ -1072,6 +1072,7 @@
   {
     "lemma": "Turba, Turbula 1",
     "previous": "Turasius 2",
+    "next": "Turba, Turbula 2",
     "proof_read": 0,
     "short_description": "Turbula, Nachbarn und Feinde von Sagunt",
     "chapters": [
@@ -1121,6 +1122,7 @@
   },
   {
     "lemma": "Turba, Turbula 3",
+    "previous": "Turba, Turbula 2",
     "next": "Turbantius",
     "proof_read": 2,
     "short_description": "Tuba, Adressat eines Briefes des Isidoros von Pelusion",
@@ -1634,7 +1636,7 @@
   {
     "lemma": "Turibius",
     "previous": "Turiasso",
-    "next": "Turibrigenses",
+    "next": "Turi(brigenses)",
     "redirect": "Turribius",
     "proof_read": 2,
     "chapters": [
@@ -1645,14 +1647,17 @@
     ]
   },
   {
-    "lemma": "Turibrigenses",
+    "lemma": "Turi(brigenses)",
     "previous": "Turibius",
-    "next": "Turicum",
+    "next": "Turibulum",
+    "sort_key": "Turibrigenses",
+    "proof_read": 0,
     "short_description": "Iberische Stammesgottheiten",
     "chapters": [
       {
-        "start": 1384,
-        "author": "Heichelheim"
+        "start": 1385,
+        "end": 1385,
+        "author": "Fritz Heichelheim."
       }
     ]
   },
@@ -4929,7 +4934,7 @@
   {
     "lemma": "Tylangii",
     "previous": "Tyenis",
-    "next": "Tydii",
+    "next": "Tyle",
     "proof_read": 0,
     "short_description": "Keltisches Volk im Wallis",
     "chapters": [
@@ -5267,7 +5272,7 @@
     "previous": "Tympanis",
     "next": "Tymphaia",
     "proof_read": 0,
-    "short_description": "Tamburin Indische Kesselpauke Scheibenförmige Gegenstände",
+    "short_description": "Tamburin, Indische Kesselpauke, scheibenförmige Gegenstände",
     "wp_link": "w:de:Tympanon (Musik)",
     "wd_link": "d:Q386382",
     "chapters": [
@@ -7613,6 +7618,7 @@
   {
     "lemma": "Vacca, Vaga 1",
     "previous": "Vacatio 2",
+    "next": "Vacca, Vaga 2",
     "proof_read": 0,
     "short_description": "Stadt im Innern Numidiens",
     "chapters": [
@@ -8230,7 +8236,7 @@
     "lemma": "Vaga",
     "previous": "Vaeosus",
     "next": "Vagabanta",
-    "redirect": "Vacca 1",
+    "redirect": "Vacca, Vaga 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -8342,7 +8348,7 @@
     "lemma": "Vagense",
     "previous": "Vagellius 3",
     "next": "Vagharsakes",
-    "redirect": "Vacca 1",
+    "redirect": "Vacca, Vaga 1",
     "proof_read": 2,
     "chapters": [
       {
@@ -8908,6 +8914,7 @@
   {
     "lemma": "P. Val.",
     "previous": "Οὐακουᾶται",
+    "next": "Οὔαλα 1",
     "sort_key": "Val.,p.",
     "proof_read": 0,
     "short_description": "Praeses provinciae Sardiniae",
@@ -8944,7 +8951,7 @@
   },
   {
     "lemma": "Οὔαλα 2",
-    "previous": "Uala",
+    "previous": "Οὔαλα 1",
     "next": "Valabriga",
     "sort_key": "Vala 2",
     "redirect": "Valla",
