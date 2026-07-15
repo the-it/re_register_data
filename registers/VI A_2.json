@@ -8019,21 +8019,8 @@
     ]
   },
   {
-    "lemma": "Toniki",
-    "previous": "Tongoenabiagus",
-    "next": "Toni stagnum",
-    "short_description": "Emporion an d. Küste v. Azania",
-    "chapters": [
-      {
-        "start": 1711,
-        "author": "Windberg"
-      }
-    ]
-  },
-  {
     "lemma": "Toni stagnum",
     "previous": "Tongoenabiagus",
-    "next": "Tonitrator",
     "sort_key": "Tonistagnum",
     "proof_read": 0,
     "chapters": [
@@ -8045,8 +8032,17 @@
     ]
   },
   {
+    "lemma": "Τονίκι",
+    "short_description": "Emporion an d. Küste v. Azania",
+    "chapters": [
+      {
+        "start": 1711,
+        "author": "Windberg"
+      }
+    ]
+  },
+  {
     "lemma": "Tonitrator",
-    "previous": "Toni stagnum",
     "next": "Tonitrualia",
     "redirect": "Tonans",
     "proof_read": 2,
@@ -9835,20 +9831,7 @@
     ]
   },
   {
-    "lemma": "Tougenoi",
-    "previous": "τοξόται 2",
-    "next": "Toxotes",
-    "short_description": "Helvetischer oder german. Stamm (= Teutonen?)",
-    "chapters": [
-      {
-        "start": 1859,
-        "author": "Stevens"
-      }
-    ]
-  },
-  {
     "lemma": "Toxotes",
-    "previous": "Τωύγενοι",
     "next": "Toxotius 1",
     "redirect": "Sagittarius 1",
     "proof_read": 2,
@@ -9898,6 +9881,16 @@
         "start": 1859,
         "end": 1859,
         "author": "W. Enßlin."
+      }
+    ]
+  },
+  {
+    "lemma": "Τωύγενοι",
+    "short_description": "Helvetischer oder german. Stamm (= Teutonen?)",
+    "chapters": [
+      {
+        "start": 1859,
+        "author": "Stevens"
       }
     ]
   },
@@ -10337,14 +10330,13 @@
     ]
   },
   {
-    "lemma": "Tragia 3",
-    "previous": "Tragelaphos",
-    "next": "Tragia(i) 1",
-    "short_description": "Epiklesis d. Aphrodite",
+    "lemma": "Tragicomoedia",
+    "redirect": "Hilarotragoedie",
+    "proof_read": 2,
     "chapters": [
       {
         "start": 1895,
-        "author": "Kruse"
+        "end": 1895
       }
     ]
   },
@@ -10377,17 +10369,7 @@
     ]
   },
   {
-    "lemma": "Tragicomoedia",
-    "previous": "Tragia(i) 2",
-    "next": "Tragila",
-    "redirect": "Hilarotragoedie",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 1895,
-        "end": 1895
-      }
-    ]
+    "lemma": "Tragia(i) 3"
   },
   {
     "lemma": "Tragila",
