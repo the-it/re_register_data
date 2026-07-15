@@ -998,6 +998,7 @@
     "proof_read": 3,
     "short_description": "Fulvius C. f. Popin. Aburnius Valens, L., cos. 118 n. Chr., eq. publ.",
     "wp_link": "w:de:Lucius Fulvius Aburnius Valens",
+    "ws_link": "s:it:Autore:Lucio Fulvio Aburnio Valente",
     "wd_link": "d:Q11904046",
     "no_creative_height": true,
     "chapters": [
@@ -164822,7 +164823,7 @@
   {
     "lemma": "Vallus 2",
     "previous": "Vallum 1",
-    "next": "Οὐάλω",
+    "next": "Οὐάλων",
     "proof_read": 3,
     "short_description": "die Getreideschwinge",
     "no_creative_height": true,
@@ -164835,8 +164836,11 @@
     ]
   },
   {
+    "lemma": "Οὐάλων",
+    "previous": "Vallus 2"
+  },
+  {
     "lemma": "Οὐάλω",
-    "previous": "Vallus 2",
     "next": "Vandalen",
     "sort_key": "Valo",
     "proof_read": 3,
@@ -164870,7 +164874,6 @@
   {
     "lemma": "Vanduara",
     "previous": "Vandalen",
-    "next": "Vangiones",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -164882,9 +164885,13 @@
     ]
   },
   {
+    "lemma": "Vangio",
+    "next": "Vangiones"
+  },
+  {
     "lemma": "Vangiones",
-    "previous": "Vanduara",
-    "next": "Wanze",
+    "previous": "Vangio",
+    "next": "Οὐανίας",
     "proof_read": 3,
     "short_description": "ursprünglich germanisches (?), später keltisiertes Volk = Blangiani",
     "no_creative_height": true,
@@ -164897,8 +164904,11 @@
     ]
   },
   {
+    "lemma": "Οὐανίας",
+    "previous": "Vangiones"
+  },
+  {
     "lemma": "Wanze",
-    "previous": "Vangiones",
     "next": "Varae",
     "sort_key": "Vanze",
     "proof_read": 3,
