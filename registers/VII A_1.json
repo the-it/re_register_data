@@ -325,23 +325,7 @@
     ]
   },
   {
-    "lemma": "(T?)ricoria, Ricoria",
-    "previous": "Tricomia 2",
-    "next": "Tricorii",
-    "sort_key": "Tricoria,ricoria",
-    "proof_read": 0,
-    "short_description": "richtig Ricoria, iberische Göttin?",
-    "chapters": [
-      {
-        "start": 101,
-        "end": 101,
-        "author": "v. Petrikovits."
-      }
-    ]
-  },
-  {
     "lemma": "Tricolli",
-    "previous": "(T?)ricoria, Ricoria",
     "next": "Tricomia 1",
     "proof_read": 0,
     "short_description": "Stamm in Gallia Narbonensis",
@@ -370,7 +354,6 @@
   {
     "lemma": "Tricomia 2",
     "previous": "Tricomia 1",
-    "next": "Tricorii",
     "proof_read": 3,
     "short_description": "früherer Name von Skythopolis in Palästina",
     "chapters": [
@@ -378,6 +361,21 @@
         "start": 101,
         "end": 101,
         "author": "Hölscher."
+      }
+    ]
+  },
+  {
+    "lemma": "(T?)ricoria, Ricoria",
+    "previous": "Tricomia 2",
+    "next": "Tricorii",
+    "sort_key": "Tricoria,ricoria",
+    "proof_read": 0,
+    "short_description": "richtig Ricoria, iberische Göttin?",
+    "chapters": [
+      {
+        "start": 101,
+        "end": 101,
+        "author": "v. Petrikovits."
       }
     ]
   },
@@ -1800,26 +1798,13 @@
     ]
   },
   {
-    "lemma": "Trinoixeiton, ho choros",
+    "lemma": "ὁ χῶρος ὁ Τρινοιξειτῶν",
     "previous": "Trinoctium",
-    "next": "Tribolion",
     "short_description": "Gebiet in Mysien",
     "chapters": [
       {
         "start": 159,
         "author": "Ruge"
-      }
-    ]
-  },
-  {
-    "lemma": "Tribolion",
-    "previous": "Trinoixeiton, ho choros",
-    "next": "Trinovantes",
-    "short_description": "Griechische Silbermünze",
-    "chapters": [
-      {
-        "start": 160,
-        "author": "Schwabacher"
       }
     ]
   },
@@ -3430,6 +3415,17 @@
     ]
   },
   {
+    "lemma": "Trivium",
+    "redirect": "Τρίοδος",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 524,
+        "end": 524
+      }
+    ]
+  },
+  {
     "lemma": "Triwa",
     "previous": "Trivium",
     "next": "Τριζοί",
@@ -3440,19 +3436,6 @@
         "start": 524,
         "end": 524,
         "author": "Nagl."
-      }
-    ]
-  },
-  {
-    "lemma": "Trivium",
-    "previous": "Triwa",
-    "next": "Τριζοί",
-    "redirect": "Τρίοδος",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 524,
-        "end": 524
       }
     ]
   },
@@ -3731,6 +3714,15 @@
         "start": 600,
         "end": 600,
         "author": "F. Münzer."
+      }
+    ]
+  },
+  {
+    "lemma": "Troia 1",
+        "chapters": [
+      {
+        "start": 600,
+        "end": 600
       }
     ]
   },
@@ -5997,20 +5989,7 @@
     ]
   },
   {
-    "lemma": "Touana",
-    "previous": "Trysa",
-    "next": "Tsamak 1",
-    "short_description": "Ort",
-    "chapters": [
-      {
-        "start": 748,
-        "author": "Stein, O[tto]"
-      }
-    ]
-  },
-  {
     "lemma": "Tsamak 1",
-    "previous": "Τουάνα",
     "next": "Tsamak 2",
     "redirect": "Zammaxes",
     "proof_read": 2,
@@ -6083,7 +6062,6 @@
   {
     "lemma": "Tuaisis",
     "previous": "Tsikles (?)",
-    "next": "Tuba 1",
     "redirect": "Tuesis 1",
     "proof_read": 2,
     "chapters": [
@@ -6094,8 +6072,17 @@
     ]
   },
   {
+    "lemma": "Τουάνα",
+    "short_description": "Ort",
+    "chapters": [
+      {
+        "start": 748,
+        "author": "Stein, O[tto]"
+      }
+    ]
+  },
+  {
     "lemma": "Tuba 1",
-    "previous": "Tuaisis",
     "next": "Tuba 2",
     "proof_read": 0,
     "short_description": "Trompete",
