@@ -2137,7 +2137,7 @@
   },
   {
     "lemma": "Tingis",
-        "chapters": [
+    "chapters": [
       {
         "start": 1384,
         "end": 1387
@@ -3563,7 +3563,8 @@
   },
   {
     "lemma": "Tissaphernes",
-        "chapters": [
+    "next": "Τίσουρος",
+    "chapters": [
       {
         "start": 1482,
         "end": 1482
@@ -3572,11 +3573,16 @@
   },
   {
     "lemma": "Τίσουρος",
-    "short_description": "Stadt am NW-Ufer d. Lacus Tritonum",
+    "previous": "Tissaphernes",
+    "next": "Titaca",
+    "sort_key": "Tisuros",
+    "proof_read": 0,
+    "short_description": "Tisuros, Stadt am NW-Ufer des Lacus Tritonum",
     "chapters": [
       {
         "start": 1482,
-        "author": "Windberg"
+        "end": 1483,
+        "author": "Windberg."
       }
     ]
   },
@@ -6913,6 +6919,7 @@
   {
     "lemma": "Toga picta",
     "previous": "Toga 3",
+    "next": "Toga virilis",
     "redirect": "Triumphus 1",
     "proof_read": 2,
     "chapters": [
@@ -6924,6 +6931,8 @@
   },
   {
     "lemma": "Toga virilis",
+    "previous": "Toga picta",
+    "next": "Togaron",
     "redirect": "Tirocinium fori",
     "proof_read": 2,
     "chapters": [
@@ -6935,6 +6944,8 @@
   },
   {
     "lemma": "Togaron",
+    "previous": "Toga virilis",
+    "next": "Togata 1",
     "redirect": "Toparon 1",
     "proof_read": 2,
     "chapters": [
@@ -6973,6 +6984,7 @@
   },
   {
     "lemma": "Togati",
+    "previous": "Togata 2",
     "next": "Togati Augustorum",
     "proof_read": 0,
     "short_description": "Bezeichnung d. röm. Bürger",
@@ -8033,6 +8045,7 @@
   },
   {
     "lemma": "Τονίκι",
+    "next": "Tonitrator",
     "short_description": "Emporion an d. Küste v. Azania",
     "chapters": [
       {
@@ -8043,6 +8056,7 @@
   },
   {
     "lemma": "Tonitrator",
+    "previous": "Τονίκι",
     "next": "Tonitrualia",
     "redirect": "Tonans",
     "proof_read": 2,
@@ -9832,6 +9846,7 @@
   },
   {
     "lemma": "Toxotes",
+    "previous": "τοξόται 2",
     "next": "Toxotius 1",
     "redirect": "Sagittarius 1",
     "proof_read": 2,
@@ -10331,6 +10346,8 @@
   },
   {
     "lemma": "Tragicomoedia",
+    "previous": "Tragelaphos",
+    "next": "Tragia(i) 1",
     "redirect": "Hilarotragoedie",
     "proof_read": 2,
     "chapters": [
@@ -10369,7 +10386,8 @@
     ]
   },
   {
-    "lemma": "Tragia(i) 3"
+    "lemma": "Tragia(i) 3",
+    "next": "Tragila"
   },
   {
     "lemma": "Tragila",
