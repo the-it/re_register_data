@@ -5089,7 +5089,7 @@
   {
     "lemma": "Vantit...",
     "previous": "Vanth",
-    "next": "Wanze",
+    "next": "Vapanes",
     "proof_read": 0,
     "short_description": "Örtlicher Schutzgeist? in Traianiberg",
     "chapters": [
@@ -5328,7 +5328,7 @@
   {
     "lemma": "Varanes 3",
     "previous": "Varanes 2",
-    "next": "Varar",
+    "next": "Vararanes",
     "proof_read": 0,
     "short_description": "Bischof von Alexandreia Mikra in Kilikien",
     "chapters": [
@@ -7625,6 +7625,8 @@
     "sort_key": "Vasius,t.",
     "proof_read": 0,
     "short_description": "Person",
+    "wp_link": "w:ca:Tit Vasi",
+    "wd_link": "d:Q11951997",
     "chapters": [
       {
         "start": 453,
@@ -8084,6 +8086,8 @@
     "next": "Vatinius 4",
     "proof_read": 0,
     "short_description": "P., Volkstribun 59 v. Chr.",
+    "wp_link": "w:de:Publius Vatinius",
+    "wd_link": "d:Q521446",
     "chapters": [
       {
         "start": 495,
@@ -8195,7 +8199,7 @@
     "lemma": "Vaturus",
     "previous": "Vatviae",
     "next": "Vatusicus",
-    "redirect": "Vatusicus caseus",
+    "redirect": "Vatusicus",
     "proof_read": 2,
     "chapters": [
       {
@@ -8223,7 +8227,7 @@
     "lemma": "Vatusium",
     "previous": "Vatusicus",
     "next": "Wau",
-    "redirect": "Vatusicus caseus",
+    "redirect": "Vatusicus",
     "proof_read": 2,
     "chapters": [
       {
@@ -9180,7 +9184,7 @@
   },
   {
     "lemma": "Vascium",
-    "previous": "Veminii",
+    "previous": "Veamini(i)",
     "next": "Vecellanus pagus",
     "proof_read": 2,
     "short_description": "Ort",
@@ -9432,7 +9436,7 @@
     "lemma": "vectores",
     "previous": "Vectones",
     "next": "vectura",
-    "redirect": "Vectuarii",
+    "redirect": "vecturarii",
     "proof_read": 2,
     "chapters": [
       {
@@ -9482,7 +9486,7 @@
   },
   {
     "lemma": "Vecu",
-    "previous": "Vectuarii",
+    "previous": "vecturarii",
     "next": "Vediantiae",
     "redirect": true,
     "proof_read": 2,
@@ -9927,6 +9931,8 @@
     "next": "Vehicularius cursus",
     "proof_read": 0,
     "short_description": "Seherin",
+    "wp_link": "w:de:Lasa Vecu",
+    "wd_link": "d:Q3563978",
     "chapters": [
       {
         "start": 577,
@@ -10995,6 +11001,7 @@
     "next": "Velleius 9",
     "proof_read": 0,
     "short_description": "Macrinus, C. Sedatius",
+    "wd_link": "d:Q18634156",
     "chapters": [
       {
         "start": 659,
@@ -12736,6 +12743,8 @@
     "next": "Ventidius 6",
     "proof_read": 0,
     "short_description": "Bassus, P. Feldherr des Antonius",
+    "wp_link": "w:de:Publius Ventidius Bassus",
+    "wd_link": "d:Q521552",
     "chapters": [
       {
         "start": 795,
@@ -12764,6 +12773,8 @@
     "next": "Ventidius 8",
     "proof_read": 0,
     "short_description": "Cumanus, Dritter Procurator von Iudaea unter Claudius",
+    "wp_link": "w:de:Ventidius Cumanus",
+    "wd_link": "d:Q705429",
     "chapters": [
       {
         "start": 816,
@@ -12903,6 +12914,8 @@
     "next": "Venuleius 4",
     "proof_read": 0,
     "short_description": "Legat? des Q. Cornificius in Africa",
+    "wp_link": "w:ca:Venuleu (militar)",
+    "wd_link": "d:Q20102187",
     "chapters": [
       {
         "start": 820,
@@ -13061,6 +13074,8 @@
     "next": "Venus 1",
     "proof_read": 0,
     "short_description": "Gesandter des Rutulerfürsten Turnus an Diomedes nach Apulien",
+    "wp_link": "w:en:Venulus",
+    "wd_link": "d:Q4009778",
     "chapters": [
       {
         "start": 827,
@@ -13314,12 +13329,15 @@
   {
     "lemma": "Wep-Wawet",
     "previous": "Vepotalus",
-    "next": "Uepillion",
+    "next": "Ver",
+    "sort_key": "Vep-Wawet",
+    "proof_read": 0,
     "short_description": "Aegyptische Gottheit in Gestalt eines Caniden",
     "chapters": [
       {
-        "start": 897,
-        "author": "Helck"
+        "start": 898,
+        "end": 905,
+        "author": "Wolfgang Helck."
       }
     ]
   },
@@ -13337,19 +13355,35 @@
   },
   {
     "lemma": "Ver",
-    "previous": "Uepillion",
-    "next": "Ver sacrum",
+    "previous": "Wep-Wawet",
+    "next": "ver sacrum",
+    "proof_read": 0,
     "short_description": "Personifikation des Frühlings",
     "chapters": [
       {
         "start": 905,
-        "author": "Eisenhut"
+        "end": 911,
+        "author": "W. Eisenhut."
+      }
+    ]
+  },
+  {
+    "lemma": "ver sacrum",
+    "previous": "Ver",
+    "next": "Fundus Ver...",
+    "sort_key": "Versacrum",
+    "proof_read": 0,
+    "short_description": "Italischer Brauch der Sühnung",
+    "chapters": [
+      {
+        "start": 911,
+        "end": 923,
+        "author": "W. Eisenhut."
       }
     ]
   },
   {
     "lemma": "Ver sacrum",
-    "previous": "Ver",
     "next": "Fundus Ver...",
     "sort_key": "Ver s",
     "chapters": [
@@ -13361,7 +13395,7 @@
   },
   {
     "lemma": "Fundus Ver...",
-    "previous": "Ver sacrum",
+    "previous": "ver sacrum",
     "next": "Vera 1",
     "sort_key": "Ver z",
     "proof_read": 2,
@@ -13392,11 +13426,13 @@
     "lemma": "Vera 2",
     "previous": "Vera 1",
     "next": "Veraglasca",
+    "proof_read": 0,
     "short_description": "[---]minia V., Gattin des T. Caunius (III 1806) Priscus, Mutter des Caunius",
     "chapters": [
       {
         "start": 923,
-        "author": "Weinstock"
+        "end": 926,
+        "author": "St. Weinstock."
       }
     ]
   },
@@ -13404,11 +13440,13 @@
     "lemma": "Veraglasca",
     "previous": "Vera 2",
     "next": "Veragri",
+    "proof_read": 0,
     "short_description": "Fluß bei Genua",
     "chapters": [
       {
         "start": 926,
-        "author": "Radke"
+        "end": 927,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -13416,11 +13454,13 @@
     "lemma": "Veragri",
     "previous": "Veraglasca",
     "next": "Veranius 1",
+    "proof_read": 0,
     "short_description": "Gallischer Stamm im Rhônetal oberhalb des Genfersees",
     "chapters": [
       {
         "start": 927,
-        "author": "Effenterre"
+        "end": 937,
+        "author": "H. van Effenterre."
       }
     ]
   },
@@ -13428,11 +13468,13 @@
     "lemma": "Veranius 1",
     "previous": "Veragri",
     "next": "Veranius 2",
+    "proof_read": 0,
     "short_description": "Schriftsteller über sakrale Rechtsbestimmungen",
     "chapters": [
       {
         "start": 937,
-        "author": "Gordon"
+        "end": 937,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13440,11 +13482,13 @@
     "lemma": "Veranius 2",
     "previous": "Veranius 1",
     "next": "Veranius 3",
+    "proof_read": 0,
     "short_description": "Q., Legat des Germanicus in Cappadocia",
     "chapters": [
       {
         "start": 937,
-        "author": "Gordon"
+        "end": 938,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13452,11 +13496,15 @@
     "lemma": "Veranius 3",
     "previous": "Veranius 2",
     "next": "Veranius 4",
+    "proof_read": 0,
     "short_description": "Q., cos. 49 n. Chr.",
+    "wp_link": "w:de:Quintus Veranius",
+    "wd_link": "d:Q17417188",
     "chapters": [
       {
         "start": 938,
-        "author": "Gordon"
+        "end": 959,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13494,11 +13542,13 @@
     "lemma": "Veranius 6",
     "previous": "Veranius 5",
     "next": "Veranius 7",
+    "proof_read": 0,
     "short_description": "Sevir augustalis",
     "chapters": [
       {
         "start": 959,
-        "author": "Gordon"
+        "end": 959,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13506,11 +13556,13 @@
     "lemma": "Veranius 7",
     "previous": "Veranius 6",
     "next": "Veranius 8",
+    "proof_read": 0,
     "short_description": "Candidus, Centurio der Cohors I der Legio III Augusta",
     "chapters": [
       {
         "start": 959,
-        "author": "Gordon"
+        "end": 959,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13518,11 +13570,13 @@
     "lemma": "Veranius 8",
     "previous": "Veranius 7",
     "next": "Veranius 9",
+    "proof_read": 0,
     "short_description": "Eudemus, Q. Vater des Q. Veranius Tlepolemus Nr. 16",
     "chapters": [
       {
         "start": 959,
-        "author": "Gordon"
+        "end": 960,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13530,11 +13584,13 @@
     "lemma": "Veranius 9",
     "previous": "Veranius 8",
     "next": "Veranius 10",
+    "proof_read": 0,
     "short_description": "Euphe- wohlhabender Bürger der Stadt Rhodos",
     "chapters": [
       {
         "start": 960,
-        "author": "Gordon"
+        "end": 961,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13555,11 +13611,13 @@
     "lemma": "Veranius 11",
     "previous": "Veranius 10",
     "next": "Veranius 12",
+    "proof_read": 0,
     "short_description": "Hypsaeus, L. IIvir iure dicundo in Pompeii",
     "chapters": [
       {
         "start": 961,
-        "author": "Gordon"
+        "end": 962,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13567,11 +13625,13 @@
     "lemma": "Veranius 12",
     "previous": "Veranius 11",
     "next": "Veranius 13",
+    "proof_read": 0,
     "short_description": "Iason, Q. Hoher Priester des lykischen Bundes",
     "chapters": [
       {
         "start": 962,
-        "author": "Gordon"
+        "end": 962,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13579,11 +13639,13 @@
     "lemma": "Veranius 13",
     "previous": "Veranius 12",
     "next": "Veranius 14",
+    "proof_read": 0,
     "short_description": "Philagrus, Q. Reicher Bürger und Wohltäter von Kibyra",
     "chapters": [
       {
         "start": 962,
-        "author": "Gordon"
+        "end": 964,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13591,11 +13653,13 @@
     "lemma": "Veranius 14",
     "previous": "Veranius 13",
     "next": "Veranius 15",
+    "proof_read": 0,
     "short_description": "Priscianus, Hoher Priester des lykischen Bundes 143 n. Chr.",
     "chapters": [
       {
         "start": 964,
-        "author": "Gordon"
+        "end": 964,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13618,11 +13682,13 @@
     "lemma": "Veranius 16",
     "previous": "Veranius 15",
     "next": "Veranius 17",
+    "proof_read": 0,
     "short_description": "Tlepolemus, Q. Hoher Priester des lykischen Bundes 149 n. Chr.",
     "chapters": [
       {
         "start": 964,
-        "author": "Gordon"
+        "end": 965,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13630,11 +13696,13 @@
     "lemma": "Veranius 17",
     "previous": "Veranius 16",
     "next": "Veranius 18",
+    "proof_read": 0,
     "short_description": "Verinus, Custos armorum einer legio VI?",
     "chapters": [
       {
         "start": 965,
-        "author": "Gordon"
+        "end": 966,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13657,11 +13725,13 @@
     "lemma": "Veranius 19",
     "previous": "Veranius 18",
     "next": "Veranius 20",
+    "proof_read": 0,
     "short_description": "Gemina, Tochter des Q. Veranius Nr. 3",
     "chapters": [
       {
         "start": 966,
-        "author": "Gordon"
+        "end": 967,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13669,11 +13739,13 @@
     "lemma": "Veranius 20",
     "previous": "Veranius 19",
     "next": "Veranius 21",
+    "proof_read": 0,
     "short_description": "Nicassa, wohlhabende Bürgerin der Stadt Rhodos",
     "chapters": [
       {
         "start": 967,
-        "author": "Gordon"
+        "end": 967,
+        "author": "E. A. Gordon."
       }
     ]
   },
@@ -13681,78 +13753,93 @@
     "lemma": "Veranius 21",
     "previous": "Veranius 20",
     "next": "Veranoca",
+    "proof_read": 0,
     "short_description": "Andere Veranii",
     "chapters": [
       {
         "start": 967,
-        "author": "Gordon"
+        "end": 968,
+        "author": "E. A. Gordon."
       }
     ]
   },
   {
     "lemma": "Veranoca",
     "previous": "Veranius 21",
-    "next": "Veratius Quadratus, L.",
+    "next": "L. Veratius Quadratus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 968,
-        "author": "Honigmann"
+        "end": 968,
+        "author": "E. Honigmann."
       }
     ]
   },
   {
-    "lemma": "Veratius Quadratus, L.",
+    "lemma": "L. Veratius Quadratus",
     "previous": "Veranoca",
-    "next": "Veratrum",
+    "next": "Vērātrum",
+    "sort_key": "Veratiusquadratus, l.",
+    "proof_read": 0,
     "short_description": "Vornehme Persöhnlichkeit der Zeit zwischen Vespasian und Domitian",
     "chapters": [
       {
         "start": 968,
-        "author": "Hanslik"
+        "end": 968,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
-    "lemma": "Veratrum",
-    "previous": "Veratius Quadratus, L.",
-    "next": "Veraudunus, Verigodumnus",
+    "lemma": "Vērātrum",
+    "previous": "L. Veratius Quadratus",
+    "next": "Veraudunus (Veriugodumnus)",
+    "sort_key": "Veratrum",
+    "proof_read": 0,
     "short_description": "Nieswurz",
     "chapters": [
       {
         "start": 968,
-        "author": "Schuster"
+        "end": 969,
+        "author": "Mauriz Schuster."
       }
     ]
   },
   {
-    "lemma": "Veraudunus, Verigodumnus",
-    "previous": "Veratrum",
+    "lemma": "Veraudunus (Veriugodumnus)",
+    "previous": "Vērātrum",
     "next": "Verax",
+    "sort_key": "Veraudunus,veriugodumnus",
+    "proof_read": 0,
     "short_description": "Keltische Gottheit",
     "chapters": [
       {
         "start": 969,
-        "author": "Heichelheim"
+        "end": 969,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
   {
     "lemma": "Verax",
-    "previous": "Veraudunus, Verigodumnus",
+    "previous": "Veraudunus (Veriugodumnus)",
     "next": "Verbalis",
+    "proof_read": 0,
     "short_description": "Schwager des Bataverfürsten Iulius Civilis",
     "chapters": [
       {
         "start": 969,
-        "author": "Chochole"
+        "end": 970,
+        "author": "H. Chochole."
       }
     ]
   },
   {
     "lemma": "Verbalis",
     "previous": "Verax",
-    "next": "Verbannus lacus",
+    "next": "Verban(n)us lacus",
     "proof_read": 2,
     "short_description": "Ort",
     "no_creative_height": true,
@@ -13765,81 +13852,97 @@
     ]
   },
   {
-    "lemma": "Verbannus lacus",
+    "lemma": "Verban(n)us lacus",
     "previous": "Verbalis",
     "next": "Verbascum",
+    "sort_key": "Verbannuslacus",
+    "proof_read": 0,
     "short_description": "Heute Langensee",
     "chapters": [
       {
         "start": 970,
-        "author": "Meyer, Ernst"
+        "end": 970,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Verbascum",
-    "previous": "Verbannus lacus",
+    "previous": "Verban(n)us lacus",
     "next": "Verbeia",
+    "proof_read": 0,
     "short_description": "Königskerze, Wollkraut",
     "chapters": [
       {
         "start": 970,
-        "author": "Schuster"
+        "end": 973,
+        "author": "Mauriz Schuster."
       }
     ]
   },
   {
     "lemma": "Verbeia",
     "previous": "Verbascum",
-    "next": "Verbena",
+    "next": "Verbēna",
+    "proof_read": 0,
     "short_description": "Keltische Flußgöttin",
     "chapters": [
       {
         "start": 973,
-        "author": "Heichelheim"
+        "end": 973,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
   {
-    "lemma": "Verbena",
+    "lemma": "Verbēna",
     "previous": "Verbeia",
-    "next": "Verbenaca",
+    "next": "Verbēnāca",
+    "sort_key": "Verbena",
+    "proof_read": 0,
     "short_description": "Grünes Gezweig für religiöse Handlungen",
     "chapters": [
       {
         "start": 973,
-        "author": "Schuster"
+        "end": 976,
+        "author": "Mauriz Schuster."
       }
     ]
   },
   {
-    "lemma": "Verbenaca",
-    "previous": "Verbena",
-    "next": "Verbigenus pagus",
+    "lemma": "Verbēnāca",
+    "previous": "Verbēna",
+    "next": "Οὐέρβικαι",
+    "sort_key": "Verbenaca",
+    "proof_read": 0,
     "short_description": "Eisenkraut",
     "chapters": [
       {
         "start": 976,
-        "author": "Schuster"
+        "end": 978,
+        "author": "Mauriz Schuster."
       }
     ]
   },
   {
     "lemma": "Verbigenus pagus",
-    "previous": "Verbenaca",
-    "next": "Οὐέρβικαι",
+    "previous": "Verbēnāca",
+    "next": "Verbinum",
+    "sort_key": "Verbigenuspagus",
+    "proof_read": 0,
     "short_description": "Gau der Helvetier",
     "chapters": [
       {
         "start": 978,
-        "author": "Meyer, Ernst"
+        "end": 978,
+        "author": "Ernst Meyer."
       }
     ]
   },
   {
     "lemma": "Οὐέρβικαι",
-    "previous": "Verbigenus pagus",
-    "next": "Verbinum",
+    "previous": "Verbēnāca",
+    "next": "Verbigenus pagus",
     "sort_key": "Verbikiai",
     "proof_read": 2,
     "short_description": "Verbikiai, Volksstamm der Mauretania Tingitana",
@@ -13854,13 +13957,15 @@
   },
   {
     "lemma": "Verbinum",
-    "previous": "Οὐέρβικαι",
+    "previous": "Verbigenus pagus",
     "next": "Vercana",
+    "proof_read": 0,
     "short_description": "Stadt der Gallia Belgica",
     "chapters": [
       {
         "start": 978,
-        "author": "Heurgon"
+        "end": 979,
+        "author": "J. Heurgon."
       }
     ]
   },
@@ -13868,11 +13973,13 @@
     "lemma": "Vercana",
     "previous": "Verbinum",
     "next": "Vercassivellaunus",
+    "proof_read": 0,
     "short_description": "Keltische oder germanische Quellgöttin",
     "chapters": [
       {
         "start": 979,
-        "author": "Heichelheim"
+        "end": 979,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
@@ -13880,11 +13987,13 @@
     "lemma": "Vercassivellaunus",
     "previous": "Vercana",
     "next": "Vercellae",
+    "proof_read": 0,
     "short_description": "Arvernerfürst",
     "chapters": [
       {
         "start": 979,
-        "author": "Gelzer"
+        "end": 980,
+        "author": "M. Gelzer."
       }
     ]
   },
@@ -13892,11 +14001,13 @@
     "lemma": "Vercellae",
     "previous": "Vercassivellaunus",
     "next": "Vercingetorix",
+    "proof_read": 0,
     "short_description": "Stadt der 11. Region Italiens",
     "chapters": [
       {
         "start": 980,
-        "author": "Radke"
+        "end": 981,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -13914,8 +14025,8 @@
   },
   {
     "lemma": "Vercondaridubnus",
-    "previous": "Vercingetorix",
-    "next": "Verconnius Herennianus",
+    "previous": "Verconnius Herennianus",
+    "next": "Vercustis",
     "redirect": "Iulius 523",
     "proof_read": 2,
     "chapters": [
@@ -13927,8 +14038,8 @@
   },
   {
     "lemma": "Verconnius Herennianus",
-    "previous": "Vercondaridubnus",
-    "next": "Vercustis",
+    "previous": "Vercingetorix",
+    "next": "Vercondaridubnus",
     "redirect": "Herennianus 5",
     "proof_read": 2,
     "chapters": [
@@ -13940,13 +14051,15 @@
   },
   {
     "lemma": "Vercustis",
-    "previous": "Verconnius Herennianus",
+    "previous": "Vercondaridubnus",
     "next": "Vereasueca",
+    "proof_read": 0,
     "short_description": "Hypostase auf Weihesteinen der germanischen Göttin Vagdavercustis",
     "chapters": [
       {
         "start": 1008,
-        "author": "Heichelheim"
+        "end": 1009,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
@@ -13967,11 +14080,13 @@
     "lemma": "Verecunda",
     "previous": "Vereasueca",
     "next": "Verecundia",
+    "proof_read": 0,
     "short_description": "Ort auf der Strecke Lambaesis - Timgad",
     "chapters": [
       {
         "start": 1009,
-        "author": "Courtois"
+        "end": 1009,
+        "author": "Ch. Courtois."
       }
     ]
   },
@@ -13979,11 +14094,13 @@
     "lemma": "Verecundia",
     "previous": "Verecunda",
     "next": "Verecundus",
+    "proof_read": 0,
     "short_description": "Personifikation der Scham",
     "chapters": [
       {
         "start": 1009,
-        "author": "Weinstock"
+        "end": 1010,
+        "author": "St. Weinstock."
       }
     ]
   },
@@ -13991,11 +14108,13 @@
     "lemma": "Verecundus",
     "previous": "Verecundia",
     "next": "Vereda",
+    "proof_read": 0,
     "short_description": "Bischof in Afrika und lateinischer Schriftsteller",
     "chapters": [
       {
         "start": 1010,
-        "author": "Schuster"
+        "end": 1012,
+        "author": "Mauriz Schuster."
       }
     ]
   },
@@ -14100,11 +14219,13 @@
     "lemma": "Veretum",
     "previous": "Veresvos",
     "next": "Vergae",
+    "proof_read": 0,
     "short_description": "Stadt der Saletiner",
     "chapters": [
       {
         "start": 1013,
-        "author": "Radke"
+        "end": 1013,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -14112,11 +14233,13 @@
     "lemma": "Vergae",
     "previous": "Veretum",
     "next": "Vergellae",
+    "proof_read": 0,
     "short_description": "Stadt Bruttiens",
     "chapters": [
       {
         "start": 1013,
-        "author": "Radke"
+        "end": 1014,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -14139,11 +14262,13 @@
     "lemma": "Vergellus",
     "previous": "Vergellae",
     "next": "Vergilia",
+    "proof_read": 0,
     "short_description": "Apulischer Fluß",
     "chapters": [
       {
         "start": 1014,
-        "author": "Radke"
+        "end": 1014,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -14167,11 +14292,13 @@
     "lemma": "Vergiliae",
     "previous": "Vergilia",
     "next": "Vergilianus",
+    "proof_read": 0,
     "short_description": "Lateinische Bezeichnung der Pleiaden",
     "chapters": [
       {
         "start": 1014,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1015,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -14205,11 +14332,13 @@
     "lemma": "Vergilius",
     "previous": "Vergilio",
     "next": "Vergilius 1",
+    "proof_read": 0,
     "short_description": "Römischer Eigenname",
     "chapters": [
       {
         "start": 1015,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1016,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -14217,11 +14346,13 @@
     "lemma": "Vergilius 1",
     "previous": "Vergilius",
     "next": "Vergilius 2",
+    "proof_read": 0,
     "short_description": "Münzmeister",
     "chapters": [
       {
         "start": 1016,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1016,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -14229,11 +14360,13 @@
     "lemma": "Vergilius 2",
     "previous": "Vergilius 1",
     "next": "Vergilius 3",
+    "proof_read": 0,
     "short_description": "C., Legat des Procos. L. Calpurnius Piso Caesoninus in Makedonien",
     "chapters": [
       {
         "start": 1016,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1016,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -14241,11 +14374,13 @@
     "lemma": "Vergilius 3",
     "previous": "Vergilius 2",
     "next": "Vergilius 4",
+    "proof_read": 0,
     "short_description": "C., Kommandant der Stadt Thapsus 46 v. Chr.",
     "chapters": [
       {
         "start": 1016,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1018,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -14253,11 +14388,15 @@
     "lemma": "Vergilius 4",
     "previous": "Vergilius 3",
     "next": "Vergilius 5",
+    "proof_read": 0,
     "short_description": "M., Volkstribun 87 v. Chr.",
+    "wp_link": "w:en:Marcus Virgilius",
+    "wd_link": "d:Q11935241",
     "chapters": [
       {
         "start": 1018,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1019,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -14265,29 +14404,46 @@
     "lemma": "Vergilius 5",
     "previous": "Vergilius 4",
     "next": "Vergilius 6",
+    "proof_read": 0,
     "short_description": "Eurysaces, M. Bäcker in Rom",
     "chapters": [
       {
         "start": 1019,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1020,
+        "author": "H. Gundel."
       }
     ]
   },
   {
     "lemma": "Vergilius 6",
     "previous": "Vergilius 5",
-    "next": "Vergilius Maro, P.",
+    "next": "P. Vergilius Maro",
+    "proof_read": 0,
     "short_description": "Gallus Lusius, M. Idiologus ad Aegyptum in Alexandria",
     "chapters": [
       {
         "start": 1020,
-        "author": "Chochole"
+        "end": 1021,
+        "author": "H. Chochole."
+      }
+    ]
+  },
+  {
+    "lemma": "P. Vergilius Maro",
+    "previous": "Vergilius 6",
+    "sort_key": "Vergiliusmaro, p.",
+    "proof_read": 0,
+    "short_description": "Römischer Dichter",
+    "chapters": [
+      {
+        "start": 1021,
+        "end": 1264,
+        "author": "Karl Büchner."
       }
     ]
   },
   {
     "lemma": "Vergilius Maro, P.",
-    "previous": "Vergilius 6",
     "next": "Valerius 261",
     "short_description": "Römischer Dichter",
     "chapters": [
