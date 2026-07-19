@@ -6588,8 +6588,9 @@
     "previous": "Μελάντιοι σκόπελοι",
     "next": "Melas 1",
     "sort_key": "Melantion oros",
-    "redirect": "Mauron oros",
-    "proof_read": 2,
+    "redirect": "Μαῦρον ὄρος",
+    "proof_read": 3,
+    "short_description": "Melantion s. Mauron oros",
     "chapters": [
       {
         "start": 437,
@@ -7040,8 +7041,9 @@
     "lemma": "Melchiades",
     "previous": "Melatas",
     "next": "Melcomani",
-    "redirect": "Miltiades",
+    "redirect": "Miltiades 10",
     "proof_read": 3,
+    "short_description": "Papst",
     "chapters": [
       {
         "start": 441,
@@ -7136,8 +7138,9 @@
     "lemma": "Meldita",
     "previous": "Meldis",
     "next": "Meleagrides",
-    "redirect": "Melitida",
-    "proof_read": 2,
+    "redirect": "Μελιτίδα",
+    "proof_read": 3,
+    "short_description": "s. Melitida",
     "chapters": [
       {
         "start": 445,
@@ -8566,7 +8569,7 @@
     "previous": "Melissus",
     "next": "Μελίταια",
     "proof_read": 2,
-    "short_description": "In der attischen Periegese des Papyrus von Hawara ergänzt Wilcken (Genethliakon",
+    "short_description": "Baumeister am Tempel der Artemis Munychia",
     "chapters": [
       {
         "start": 534,
@@ -11022,7 +11025,7 @@
     "lemma": "Memnonia",
     "previous": "Memnones",
     "next": "Memnonides",
-    "redirect": "Susa (Archäologisch)",
+    "redirect": "Susa",
     "proof_read": 3,
     "chapters": [
       {
@@ -12612,7 +12615,7 @@
     "lemma": "Menecine",
     "previous": "Menebrontes",
     "next": "Menedaios",
-    "redirect": "Menekine",
+    "redirect": "Μενεκίνη",
     "proof_read": 2,
     "chapters": [
       {
@@ -15524,8 +15527,8 @@
     "previous": "Mennis",
     "next": "Menoba",
     "sort_key": "Mennius",
-    "proof_read": 1,
-    "short_description": "C.",
+    "proof_read": 2,
+    "short_description": "C. Mennius, L. f. in Venafrum",
     "chapters": [
       {
         "start": 896,
@@ -16796,7 +16799,7 @@
     "lemma": "Menralia",
     "previous": "Menotyrannos",
     "next": "menrva",
-    "redirect": "Mellaria",
+    "redirect": "Mellaria 4",
     "proof_read": 2,
     "chapters": [
       {
@@ -17841,7 +17844,7 @@
     "lemma": "Mercurii promuntorium",
     "previous": "Mercurianus",
     "next": "Mercurinus",
-    "redirect": "Hermaeum promuntorium 4",
+    "redirect": "Hermaeum promunturium 4",
     "proof_read": 2,
     "chapters": [
       {
@@ -19130,7 +19133,7 @@
   {
     "lemma": "Meroveus",
     "previous": "Meroth",
-    "next": "Μερρά",
+    "next": "Merowech",
     "redirect": "Merowech",
     "proof_read": 2,
     "chapters": [
@@ -19141,8 +19144,22 @@
     ]
   },
   {
-    "lemma": "Μερρά",
+    "lemma": "Merowech",
     "previous": "Meroveus",
+    "next": "Μερρά",
+    "redirect": true,
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 1068,
+        "end": 1068,
+        "author": "Enßlin."
+      }
+    ]
+  },
+  {
+    "lemma": "Μερρά",
+    "previous": "Merowech",
     "next": "Μερράν 1",
     "sort_key": "Merra",
     "redirect": "Mara 1",
