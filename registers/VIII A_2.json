@@ -4945,7 +4945,7 @@
   {
     "lemma": "Uginêl",
     "previous": "Ugia",
-    "next": "Ugios, Bugios",
+    "next": "Ugios (Bugios)",
     "sort_key": "Vginêl",
     "proof_read": 3,
     "short_description": "Magischer Engelname",
@@ -4972,13 +4972,16 @@
   },
   {
     "lemma": "Ugium",
-    "previous": "Ugios, Bugios",
+    "previous": "Ugios (Bugios)",
     "next": "Ugmos",
+    "sort_key": "Vgium",
+    "proof_read": 0,
     "short_description": "Stadt in Gallien bei Arles",
     "chapters": [
       {
         "start": 1910,
-        "author": "Rolland"
+        "end": 1919,
+        "author": "H. Rolland."
       }
     ]
   },
@@ -5076,11 +5079,14 @@
     "lemma": "Uiaduas",
     "previous": "Viaca",
     "next": "Viales",
+    "sort_key": "Viaduas",
+    "proof_read": 0,
     "short_description": "Zufluß der Ostsee",
     "chapters": [
       {
         "start": 1920,
-        "author": "Gutenbrunner"
+        "end": 1922,
+        "author": "S. Gutenbrunner."
       }
     ]
   },
@@ -5262,7 +5268,7 @@
   {
     "lemma": "Viatorii",
     "previous": "Viator 7",
-    "next": "Uibantauarion",
+    "next": "Οὐιβαντανάριον",
     "redirect": "Viales",
     "proof_read": 2,
     "chapters": [
@@ -5286,7 +5292,7 @@
   },
   {
     "lemma": "Vibelli",
-    "previous": "Uibantauarion",
+    "previous": "Οὐιβαντανάριον",
     "next": "Vibellius 1",
     "proof_read": 2,
     "short_description": "Falsche Lesart für Binbelli",
@@ -5443,15 +5449,20 @@
   {
     "lemma": "Vibienus",
     "previous": "Vibidius 3",
+    "next": "Vibienus 1",
+    "proof_read": 0,
+    "short_description": "seltener römischer Familienname",
     "chapters": [
       {
         "start": 1946,
-        "author": "Gundel, Hans [Georg]"
+        "end": 1946,
+        "author": "H. Gundel."
       }
     ]
   },
   {
     "lemma": "Vibienus 1",
+    "previous": "Vibienus",
     "next": "Vibienus 2",
     "short_description": "Erblasser des Vecillus",
     "chapters": [
@@ -5527,7 +5538,7 @@
   {
     "lemma": "Vibinum",
     "previous": "Vibinates",
-    "next": "Uibiones",
+    "next": "Οὐιβίωνες",
     "redirect": "Vibinates",
     "proof_read": 2,
     "chapters": [
@@ -5538,7 +5549,7 @@
     ]
   },
   {
-    "lemma": "Uibiones",
+    "lemma": "Οὐιβίωνες",
     "previous": "Vibinum",
     "next": "Vibisci",
     "short_description": "Volksstamm der Sarmatia Europaea",
@@ -5551,7 +5562,7 @@
   },
   {
     "lemma": "Vibisci",
-    "previous": "Uibiones",
+    "previous": "Οὐιβίωνες",
     "next": "Vibiscues",
     "redirect": "Vivisci",
     "proof_read": 2,
@@ -8877,11 +8888,13 @@
     "lemma": "Victovali",
     "previous": "Victorius 12",
     "next": "Victrices",
-    "short_description": "Stamm in O-Germanien",
+    "proof_read": 0,
+    "short_description": "Stamm in Ostgermanien",
     "chapters": [
       {
         "start": 2087,
-        "author": "Gutenbrunner"
+        "end": 2088,
+        "author": "S. Gutenbrunner."
       }
     ]
   },
@@ -9142,18 +9155,20 @@
     "lemma": "Vidivarii",
     "previous": "Widin",
     "next": "Vidotera",
-    "short_description": "Germanisches Volk",
+    "proof_read": 0,
+    "short_description": "germanisches Volk an der Weichselmündung",
     "chapters": [
       {
         "start": 2097,
-        "author": "Jungandreas"
+        "end": 2098,
+        "author": "Wolfg. Jungandreas."
       }
     ]
   },
   {
     "lemma": "Vidotera",
     "previous": "Vidivarii",
-    "next": "Uidros",
+    "next": "Οὐίδρος",
     "redirect": "Vindogara",
     "proof_read": 2,
     "chapters": [
@@ -9164,9 +9179,9 @@
     ]
   },
   {
-    "lemma": "Uidros",
+    "lemma": "Οὐίδρος",
     "previous": "Vidotera",
-    "next": "Vidua, viduus",
+    "next": "vidua (viduus)",
     "short_description": "Fluß mit Mündung zwischen Rhein und Ems",
     "chapters": [
       {
@@ -9176,26 +9191,34 @@
     ]
   },
   {
-    "lemma": "Vidua, viduus",
-    "previous": "Uidros",
+    "lemma": "vidua (viduus)",
+    "previous": "Οὐίδρος",
     "next": "Widuarius",
-    "short_description": "Unverheiratete Frau",
+    "sort_key": "Vidua,viduus",
+    "proof_read": 0,
+    "short_description": "Witwe, auch unverheiratete Frau",
     "chapters": [
       {
         "start": 2098,
-        "author": "Mayer-Maly"
+        "end": 2107,
+        "author": "T. Mayer-Maly."
       }
     ]
   },
   {
     "lemma": "Widuarius",
-    "previous": "Vidua, viduus",
+    "previous": "vidua (viduus)",
     "next": "Vidubia",
-    "short_description": "Person",
+    "sort_key": "Viduarius",
+    "proof_read": 2,
+    "short_description": "König der Quaden um 357 n. Chr.",
+    "wd_link": "d:Q60732174",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2107,
-        "author": "Enßlin"
+        "end": 2107,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -10002,7 +10025,7 @@
   {
     "lemma": "Vimius",
     "previous": "Vimitellarii",
-    "next": "Vinarius",
+    "next": "vinarius",
     "proof_read": 2,
     "short_description": "Keltischer Göttername",
     "no_creative_height": true,
@@ -10015,7 +10038,7 @@
     ]
   },
   {
-    "lemma": "Vinarius",
+    "lemma": "vinarius",
     "previous": "Vimius",
     "next": "Vinaria Castra",
     "short_description": "Weinhändler",
@@ -10028,7 +10051,7 @@
   },
   {
     "lemma": "Vinaria Castra",
-    "previous": "Vinarius",
+    "previous": "vinarius",
     "next": "Vinceia",
     "redirect": "Castra, Castrum 52",
     "proof_read": 2,
@@ -10507,7 +10530,7 @@
   },
   {
     "lemma": "Vindaonius Magnus",
-    "previous": "Vindana portus",
+    "previous": "Vindana (Vidana) portus",
     "next": "Vindasca",
     "redirect": "Magnus 12",
     "proof_read": 2,
