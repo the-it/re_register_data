@@ -198,7 +198,7 @@
   {
     "lemma": "Vindex 2",
     "previous": "Vindex 1",
-    "next": "Vindex 4",
+    "next": "Vindex 3",
     "proof_read": 0,
     "short_description": "Titel des Steuereinnehmers seit Kaiser Anastasius I",
     "chapters": [
@@ -2784,7 +2784,7 @@
   {
     "lemma": "Wirtshäuser",
     "previous": "Virrora",
-    "next": "Virtus Iulia",
+    "next": "Virtus",
     "sort_key": "Virtshäuser",
     "proof_read": 0,
     "short_description": "Herbergen",
@@ -2964,7 +2964,7 @@
   {
     "lemma": "Viscellae",
     "previous": "Viscata",
-    "next": "Viscellius",
+    "next": "Viscellius (?)",
     "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
@@ -2976,26 +2976,32 @@
     ]
   },
   {
-    "lemma": "Viscellius",
+    "lemma": "Viscellius (?)",
     "previous": "Viscellae",
     "next": "Viscera natio",
+    "sort_key": "Viscellius",
+    "proof_read": 0,
     "short_description": "Lateinischer Familienname",
     "chapters": [
       {
         "start": 350,
-        "author": "Gundel, Hans [Georg]"
+        "end": 350,
+        "author": "H. Gundel."
       }
     ]
   },
   {
     "lemma": "Viscera natio",
-    "previous": "Viscellius",
+    "previous": "Viscellius (?)",
     "next": "visceratio",
+    "sort_key": "Visceranatio",
+    "proof_read": 0,
     "short_description": "Volk in Afrika",
     "chapters": [
       {
         "start": 350,
-        "author": "Treidler"
+        "end": 351,
+        "author": "Hans Treidler."
       }
     ]
   },
@@ -3003,18 +3009,20 @@
     "lemma": "visceratio",
     "previous": "Viscera natio",
     "next": "Viscus",
+    "proof_read": 0,
     "short_description": "Öffentliche Fleischverteilung",
     "chapters": [
       {
         "start": 351,
-        "author": "Eisenhut"
+        "end": 353,
+        "author": "W. Eisenhut."
       }
     ]
   },
   {
     "lemma": "Viscus",
     "previous": "visceratio",
-    "next": "Viseius",
+    "next": "Viseius (?)",
     "redirect": "Macrinus 7",
     "proof_read": 2,
     "chapters": [
@@ -3025,26 +3033,31 @@
     ]
   },
   {
-    "lemma": "Viseius",
+    "lemma": "Viseius (?)",
     "previous": "Viscus",
     "next": "Visellius",
+    "sort_key": "Viseius",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 353,
-        "author": "Gundel, Hans [Georg]"
+        "end": 353,
+        "author": "Hans Gundel."
       }
     ]
   },
   {
     "lemma": "Visellius",
-    "previous": "Viseius",
+    "previous": "Viseius (?)",
     "next": "Visellius 1",
+    "proof_read": 0,
     "short_description": "Römischer Gentilname",
     "chapters": [
       {
         "start": 353,
-        "author": "Gundel, Hans [Georg]"
+        "end": 354,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3052,11 +3065,15 @@
     "lemma": "Visellius 1",
     "previous": "Visellius",
     "next": "Visellius 2",
+    "proof_read": 0,
     "short_description": "Aculeo, C. Verwandter Ciceros",
+    "wp_link": "w:en:Gaius Aculeo",
+    "wd_link": "d:Q5517406",
     "chapters": [
       {
         "start": 354,
-        "author": "Gundel, Hans [Georg]"
+        "end": 355,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3064,11 +3081,13 @@
     "lemma": "Visellius 2",
     "previous": "Visellius 1",
     "next": "Visellius 3",
+    "proof_read": 0,
     "short_description": "Ruga, C. Volkstribun 492 v. Chr.",
     "chapters": [
       {
         "start": 355,
-        "author": "Gundel, Hans [Georg]"
+        "end": 355,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3076,11 +3095,15 @@
     "lemma": "Visellius 3",
     "previous": "Visellius 2",
     "next": "Visellius 4",
+    "proof_read": 0,
     "short_description": "Varro, C. Redner",
+    "wp_link": "w:ca:Gai Visel·li Varró (edil curul)",
+    "wd_link": "d:Q12275963",
     "chapters": [
       {
         "start": 355,
-        "author": "Gundel, Hans [Georg]"
+        "end": 358,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3088,11 +3111,13 @@
     "lemma": "Visellius 4",
     "previous": "Visellius 3",
     "next": "Visellius 5",
+    "proof_read": 0,
     "short_description": "Visellia, Cic. Att. XV 13,4",
     "chapters": [
       {
         "start": 358,
-        "author": "Gundel, Hans [Georg]"
+        "end": 358,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3115,11 +3140,13 @@
     "lemma": "Visellius 6",
     "previous": "Visellius 5",
     "next": "Visellius 7",
+    "proof_read": 0,
     "short_description": "Varro, C. cos. suff. 12 n. Chr.",
     "chapters": [
       {
         "start": 360,
-        "author": "Fuhrmann"
+        "end": 360,
+        "author": "Manfred Fuhrmann."
       }
     ]
   },
@@ -3127,11 +3154,13 @@
     "lemma": "Visellius 7",
     "previous": "Visellius 6",
     "next": "Visellius 8",
+    "proof_read": 0,
     "short_description": "Varro, L. cos. ord. 24 n. Chr.",
     "chapters": [
       {
         "start": 360,
-        "author": "Fuhrmann"
+        "end": 361,
+        "author": "Manfred Fuhrmann."
       }
     ]
   },
@@ -3139,15 +3168,13 @@
     "lemma": "Visellius 8",
     "previous": "Visellius 7",
     "next": "Visense Oppidum",
-    "short_description": "Rhetor",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 361,
-        "author": "Fuhrmann"
-      },
-      {
-        "start": 361,
-        "author": "Hanslik"
+        "end": 361,
+        "author": "Manfred Fuhrmann."
       }
     ]
   },
@@ -3155,11 +3182,14 @@
     "lemma": "Visense Oppidum",
     "previous": "Visellius 8",
     "next": "Visentium",
+    "sort_key": "Visenseoppidum",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 361,
-        "author": "Leglay"
+        "end": 361,
+        "author": "M. Leglay."
       }
     ]
   },
@@ -3167,11 +3197,13 @@
     "lemma": "Visentium",
     "previous": "Visense Oppidum",
     "next": "Visidianus",
+    "proof_read": 0,
     "short_description": "Ortschaft beim Bolsenasee",
     "chapters": [
       {
         "start": 361,
-        "author": "Radke"
+        "end": 361,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -3179,11 +3211,18 @@
     "lemma": "Visidianus",
     "previous": "Visentium",
     "next": "Visidius",
+    "proof_read": 0,
     "short_description": "Gott der Stadt Narnia in S-Umbrien",
     "chapters": [
       {
         "start": 361,
-        "author": "Eisenhut"
+        "end": 361,
+        "author": "W. Eisenhut."
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -3191,11 +3230,13 @@
     "lemma": "Visidius",
     "previous": "Visidianus",
     "next": "Visidius 1",
+    "proof_read": 0,
     "short_description": "Personenname",
     "chapters": [
       {
         "start": 362,
-        "author": "Gundel, Hans [Georg]"
+        "end": 362,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3203,11 +3244,13 @@
     "lemma": "Visidius 1",
     "previous": "Visidius",
     "next": "Wisigarda",
+    "proof_read": 0,
     "short_description": "L. Römischer Ritter",
     "chapters": [
       {
         "start": 362,
-        "author": "Gundel, Hans [Georg]"
+        "end": 362,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3229,11 +3272,13 @@
     "lemma": "Visimar",
     "previous": "Wisigarda",
     "next": "Visolus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 363,
-        "author": "Gundel, Hans [Georg]"
+        "end": 363,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -3256,11 +3301,13 @@
     "lemma": "Visontium 1",
     "previous": "Visolus",
     "next": "Visontium 2",
+    "proof_read": 0,
     "short_description": "Stadt der Pelendoner",
     "chapters": [
       {
         "start": 363,
-        "author": "Schulten"
+        "end": 363,
+        "author": "Ad. Schulten."
       }
     ]
   },
@@ -3268,18 +3315,20 @@
     "lemma": "Visontium 2",
     "previous": "Visontium 1",
     "next": "Visontium 3",
+    "proof_read": 0,
     "short_description": "Ort in Pannonia superior",
     "chapters": [
       {
         "start": 363,
-        "author": "Saria"
+        "end": 363,
+        "author": "Balduin Saria."
       }
     ]
   },
   {
     "lemma": "Visontium 3",
     "previous": "Visontium 2",
-    "next": "Uispoi",
+    "next": "Οὐίσποι",
     "redirect": "Vesontio",
     "proof_read": 2,
     "chapters": [
@@ -3290,20 +3339,23 @@
     ]
   },
   {
-    "lemma": "Uispoi",
+    "lemma": "Οὐίσποι",
     "previous": "Visontium 3",
     "next": "Vistilius",
+    "sort_key": "Vispoi",
+    "proof_read": 0,
     "short_description": "Stamm zwischen Rhein und Abnobagebirge",
     "chapters": [
       {
         "start": 363,
-        "author": "Gutenbrunner"
+        "end": 364,
+        "author": "Siegfr. Gutenbrunner."
       }
     ]
   },
   {
     "lemma": "Vistilius",
-    "previous": "Uispoi",
+    "previous": "Οὐίσποι",
     "next": "Uistos",
     "redirect": true,
     "proof_read": 2,
@@ -3318,11 +3370,14 @@
     "lemma": "Uistos",
     "previous": "Vistilius",
     "next": "Vistula",
+    "sort_key": "Vistos",
+    "proof_read": 0,
     "short_description": "Dämon der 15. Montagsstunde",
     "chapters": [
       {
         "start": 364,
-        "author": "Preisendanz"
+        "end": 364,
+        "author": "Karl Preisendanz."
       }
     ]
   },
@@ -3330,11 +3385,13 @@
     "lemma": "Vistula",
     "previous": "Uistos",
     "next": "Visucia, Visucius",
+    "proof_read": 0,
     "short_description": "Der Fluß Weichsel",
     "chapters": [
       {
         "start": 364,
-        "author": "Gutenbrunner"
+        "end": 365,
+        "author": "S. Gutenbrunner."
       }
     ]
   },
@@ -3342,11 +3399,14 @@
     "lemma": "Visucia, Visucius",
     "previous": "Vistula",
     "next": "Visuentani",
+    "sort_key": "Visucia,visucius",
+    "proof_read": 0,
     "short_description": "Beiname des Mercurius und einer Gefährtin auf einem Weihestein bei Sumelocenna",
     "chapters": [
       {
         "start": 365,
-        "author": "Heichelheim"
+        "end": 365,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
@@ -3354,11 +3414,13 @@
     "lemma": "Visuentani",
     "previous": "Visucia, Visucius",
     "next": "Visuna",
+    "proof_read": 0,
     "short_description": "Völkerschaft oder Stadt Umbriens",
     "chapters": [
       {
         "start": 365,
-        "author": "Radke"
+        "end": 366,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -3366,11 +3428,13 @@
     "lemma": "Visuna",
     "previous": "Visuentani",
     "next": "Visurgis",
+    "proof_read": 0,
     "short_description": "Keltische oder germanische Göttermehrheit",
     "chapters": [
       {
         "start": 366,
-        "author": "Heichelheim"
+        "end": 366,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
@@ -3378,11 +3442,18 @@
     "lemma": "Visurgis",
     "previous": "Visuna",
     "next": "Vita",
+    "proof_read": 0,
     "short_description": "Der Fluß Weser",
     "chapters": [
       {
         "start": 366,
-        "author": "Gutenbrunner"
+        "end": 367,
+        "author": "Siegfr. Gutenbrunner."
+      },
+      {
+        "start": 368,
+        "end": 371,
+        "author": "W. John."
       }
     ]
   },
@@ -3390,11 +3461,13 @@
     "lemma": "Vita",
     "previous": "Visurgis",
     "next": "Vitaka",
+    "proof_read": 0,
     "short_description": "Personifikation des Lebens",
     "chapters": [
       {
         "start": 371,
-        "author": "Eisenhut"
+        "end": 373,
+        "author": "W. Eisenhut."
       }
     ]
   },
@@ -3402,11 +3475,13 @@
     "lemma": "Vitaka",
     "previous": "Vita",
     "next": "Vitalianus 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 373,
-        "author": "Leglay"
+        "end": 373,
+        "author": "M. Leglay."
       }
     ]
   },
@@ -3476,11 +3551,13 @@
     "lemma": "Vitalianus 5",
     "previous": "Vitalianus 4",
     "next": "Vitalianus 6",
+    "proof_read": 0,
     "short_description": "Cancellarius Lucaniae et Bruttiorum",
     "chapters": [
       {
         "start": 374,
-        "author": "Enßlin"
+        "end": 374,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -3488,11 +3565,13 @@
     "lemma": "Vitalianus 6",
     "previous": "Vitalianus 5",
     "next": "Vitalianus 7",
+    "proof_read": 0,
     "short_description": "Sohn des Patriciolus",
     "chapters": [
       {
         "start": 374,
-        "author": "Enßlin"
+        "end": 378,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -3500,11 +3579,13 @@
     "lemma": "Vitalianus 7",
     "previous": "Vitalianus 6",
     "next": "Vitalianus 8",
+    "proof_read": 0,
     "short_description": "Afrikanischer Bischof",
     "chapters": [
       {
         "start": 378,
-        "author": "Enßlin"
+        "end": 378,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -3512,11 +3593,13 @@
     "lemma": "Vitalianus 8",
     "previous": "Vitalianus 7",
     "next": "Vitalianus 9",
+    "proof_read": 0,
     "short_description": "Afrikanische Bischöfe unter Hunerich",
     "chapters": [
       {
         "start": 378,
-        "author": "Enßlin"
+        "end": 379,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -3524,29 +3607,33 @@
     "lemma": "Vitalianus 9",
     "previous": "Vitalianus 8",
     "next": "Vitalianus 10",
+    "proof_read": 0,
     "short_description": "Italischer Bischof",
     "chapters": [
       {
         "start": 379,
-        "author": "Enßlin"
+        "end": 379,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
   {
     "lemma": "Vitalianus 10",
     "previous": "Vitalianus 9",
-    "next": "Vitalinus",
+    "next": "Vitalianus 11",
+    "proof_read": 0,
     "short_description": "Bischöfe an der Synode von Rom 499 n. Chr.",
     "chapters": [
       {
         "start": 379,
-        "author": "Enßlin"
+        "end": 379,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
   {
     "lemma": "Vitalinus",
-    "previous": "Vitalianus 10",
+    "previous": "Vitalianus 11",
     "next": "Vitalis 1",
     "redirect": "Flavius 210",
     "proof_read": 2,
@@ -3574,11 +3661,13 @@
     "lemma": "Vitalis 2",
     "previous": "Vitalis 1",
     "next": "Vitalis 3",
+    "proof_read": 0,
     "short_description": "Flavius, Protector et notarius",
     "chapters": [
       {
         "start": 379,
-        "author": "Enßlin"
+        "end": 379,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3586,11 +3675,13 @@
     "lemma": "Vitalis 3",
     "previous": "Vitalis 2",
     "next": "Vitalis 4",
+    "proof_read": 0,
     "short_description": "Praefectus annonae unter Kaiser Honorius",
     "chapters": [
       {
         "start": 379,
-        "author": "Enßlin"
+        "end": 379,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3598,11 +3689,13 @@
     "lemma": "Vitalis 4",
     "previous": "Vitalis 3",
     "next": "Vitalis 5",
+    "proof_read": 0,
     "short_description": "In einem Brief des Ennodius erwähnt",
     "chapters": [
       {
         "start": 379,
-        "author": "Enßlin"
+        "end": 379,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3625,11 +3718,13 @@
     "lemma": "Vitalis 6",
     "previous": "Vitalis 5",
     "next": "Vitalis 7",
+    "proof_read": 0,
     "short_description": "General des Kaisers Iustinian I",
     "chapters": [
       {
         "start": 379,
-        "author": "Enßlin"
+        "end": 380,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3637,11 +3732,13 @@
     "lemma": "Vitalis 7",
     "previous": "Vitalis 6",
     "next": "Vitalis 8",
+    "proof_read": 0,
     "short_description": "Afrikanischer episcopus de civitate Verensium",
     "chapters": [
       {
         "start": 380,
-        "author": "Enßlin"
+        "end": 380,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3666,11 +3763,13 @@
     "lemma": "Vitalis 9",
     "previous": "Vitalis 8",
     "next": "Vitalis 10",
+    "proof_read": 0,
     "short_description": "Antiochenischer Presbyter",
     "chapters": [
       {
         "start": 380,
-        "author": "Enßlin"
+        "end": 380,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3678,11 +3777,13 @@
     "lemma": "Vitalis 10",
     "previous": "Vitalis 9",
     "next": "Vitalis 11",
+    "proof_read": 0,
     "short_description": "Donatistischer Bischof",
     "chapters": [
       {
         "start": 380,
-        "author": "Enßlin"
+        "end": 380,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3690,11 +3791,13 @@
     "lemma": "Vitalis 11",
     "previous": "Vitalis 10",
     "next": "Vitalis 12",
+    "proof_read": 0,
     "short_description": "Notarius ecclesiae catholicae",
     "chapters": [
       {
         "start": 381,
-        "author": "Enßlin"
+        "end": 381,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3702,11 +3805,13 @@
     "lemma": "Vitalis 12",
     "previous": "Vitalis 11",
     "next": "Vitalis 13",
+    "proof_read": 0,
     "short_description": "Diakon in Sitifis",
     "chapters": [
       {
         "start": 381,
-        "author": "Enßlin"
+        "end": 381,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3714,11 +3819,13 @@
     "lemma": "Vitalis 13",
     "previous": "Vitalis 12",
     "next": "Vitalis 14",
+    "proof_read": 0,
     "short_description": "Archidiakon",
     "chapters": [
       {
         "start": 381,
-        "author": "Enßlin"
+        "end": 381,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3756,11 +3863,13 @@
     "lemma": "Vitalis 16",
     "previous": "Vitalis 15",
     "next": "Vitalis 17",
+    "proof_read": 0,
     "short_description": "Presbyter in Sufetula in der Byzacenae",
     "chapters": [
       {
         "start": 381,
-        "author": "Enßlin"
+        "end": 381,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3768,11 +3877,13 @@
     "lemma": "Vitalis 17",
     "previous": "Vitalis 16",
     "next": "Vitalis 18",
+    "proof_read": 0,
     "short_description": "Verschiedene katholische Bischöfe unter Hunerich",
     "chapters": [
       {
         "start": 381,
-        "author": "Enßlin"
+        "end": 381,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3780,11 +3891,13 @@
     "lemma": "Vitalis 18",
     "previous": "Vitalis 17",
     "next": "Vitalis 19",
+    "proof_read": 0,
     "short_description": "Episcopus Troentinas",
     "chapters": [
       {
         "start": 381,
-        "author": "Enßlin"
+        "end": 382,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3792,11 +3905,13 @@
     "lemma": "Vitalis 19",
     "previous": "Vitalis 18",
     "next": "Vitalis 20",
+    "proof_read": 0,
     "short_description": "Römischer Diakon",
     "chapters": [
       {
         "start": 382,
-        "author": "Enßlin"
+        "end": 382,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3804,11 +3919,13 @@
     "lemma": "Vitalis 20",
     "previous": "Vitalis 19",
     "next": "Vitalis 21",
+    "proof_read": 0,
     "short_description": "Italischer Bischof",
     "chapters": [
       {
         "start": 382,
-        "author": "Enßlin"
+        "end": 382,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3816,11 +3933,13 @@
     "lemma": "Vitalis 21",
     "previous": "Vitalis 20",
     "next": "Vitalis 22",
+    "proof_read": 0,
     "short_description": "Zwei Bischöfe an der römischen Synode 499 n. Chr.",
     "chapters": [
       {
         "start": 382,
-        "author": "Enßlin"
+        "end": 382,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3828,11 +3947,13 @@
     "lemma": "Vitalis 22",
     "previous": "Vitalis 21",
     "next": "Vitalis 23",
+    "proof_read": 0,
     "short_description": "Metropolit von Mailand",
     "chapters": [
       {
         "start": 382,
-        "author": "Enßlin"
+        "end": 382,
+        "author": "Wilhelm Enßlin."
       }
     ]
   },
@@ -3895,11 +4016,13 @@
     "lemma": "Vitellia 1",
     "previous": "Vitellenses",
     "next": "Vitellia 2",
+    "proof_read": 0,
     "short_description": "Ortschaft an der Grenze Latium - Gebiet der Aequer",
     "chapters": [
       {
         "start": 382,
-        "author": "Radke"
+        "end": 382,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -3907,11 +4030,13 @@
     "lemma": "Vitellia 2",
     "previous": "Vitellia 1",
     "next": "Vitellia 3",
+    "proof_read": 0,
     "short_description": "Stammgöttin der Vitellier",
     "chapters": [
       {
         "start": 382,
-        "author": "Radke"
+        "end": 382,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -3945,11 +4070,13 @@
     "lemma": "Vitellius",
     "previous": "Vitellianus",
     "next": "Vitellius 1",
+    "proof_read": 0,
     "short_description": "Römischer Gentilname",
     "chapters": [
       {
         "start": 383,
-        "author": "Gundel, Hans [Georg]"
+        "end": 384,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -3957,11 +4084,13 @@
     "lemma": "Vitellius 1",
     "previous": "Vitellius",
     "next": "Vitellius 2",
+    "proof_read": 0,
     "short_description": "Vitellii fratres, verbünden sich zum Sturz der jungen römischen Republik",
     "chapters": [
       {
         "start": 384,
-        "author": "Gundel, Hans [Georg]"
+        "end": 384,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3969,11 +4098,13 @@
     "lemma": "Vitellius 2",
     "previous": "Vitellius 1",
     "next": "Vitellius 3",
+    "proof_read": 0,
     "short_description": "A., Duovir in Ostia 46 v. Chr.",
     "chapters": [
       {
         "start": 385,
-        "author": "Gundel, Hans [Georg]"
+        "end": 385,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3981,11 +4112,13 @@
     "lemma": "Vitellius 3",
     "previous": "Vitellius 2",
     "next": "Vitellius 4",
+    "proof_read": 0,
     "short_description": "Q., Duovir in Ostia 47-45 v. Chr.",
     "chapters": [
       {
         "start": 385,
-        "author": "Gundel, Hans [Georg]"
+        "end": 385,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -3993,11 +4126,15 @@
     "lemma": "Vitellius 4",
     "previous": "Vitellius 3",
     "next": "Vitellius 5",
+    "proof_read": 0,
     "short_description": "Gattin des L. Iunius Brutus",
+    "wp_link": "w:it:Vitellia (moglie di Lucio Giunio Bruto)",
+    "wd_link": "d:Q55371769",
     "chapters": [
       {
         "start": 385,
-        "author": "Gundel, Hans [Georg]"
+        "end": 385,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -4005,11 +4142,15 @@
     "lemma": "Vitellius 5",
     "previous": "Vitellius 4",
     "next": "Vitellius 6",
+    "proof_read": 0,
     "short_description": "P., Sohn des P. Vitellius Nr. 7",
+    "wp_link": "w:de:Publius Vitellius",
+    "wd_link": "d:Q1227318",
     "chapters": [
       {
         "start": 385,
-        "author": "Schuster"
+        "end": 391,
+        "author": "Mauriz Schuster."
       }
     ]
   },
@@ -4045,24 +4186,28 @@
   {
     "lemma": "Vitellius 8",
     "previous": "Vitellius 7ff.",
-    "next": "Vitenses",
+    "next": "Vitennius",
+    "proof_read": 0,
     "short_description": "Donatistischer Schriftsteller",
     "chapters": [
       {
         "start": 391,
-        "author": "Enßlin"
+        "end": 391,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
   {
     "lemma": "Vitenses",
-    "previous": "Vitellius 8",
+    "previous": "Vitennius",
     "next": "Viterinus",
+    "proof_read": 0,
     "short_description": "Völkerschaft oder Stadtbewohner auf S-Sardinien",
     "chapters": [
       {
         "start": 391,
-        "author": "Radke"
+        "end": 392,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -4098,31 +4243,48 @@
     "lemma": "vitex",
     "previous": "Vites",
     "next": "Vithicabius",
+    "proof_read": 0,
     "short_description": "Keuschbaum",
     "chapters": [
       {
         "start": 392,
-        "author": "Gams"
+        "end": 393,
+        "author": "Gams."
       }
     ]
   },
   {
     "lemma": "Vithicabius",
     "previous": "vitex",
-    "next": "Vitia",
+    "next": "Vithimer",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 393,
-        "author": "Enßlin"
+        "end": 393,
+        "author": "Wilh. Enßlin."
+      }
+    ]
+  },
+  {
+    "lemma": "Vithimer",
+    "previous": "Vithicabius",
+    "next": "Vitia",
+    "redirect": "Vidimer",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 393,
+        "end": 393
       }
     ]
   },
   {
     "lemma": "Vitia",
-    "previous": "Vithicabius",
+    "previous": "Vithimer",
     "next": "Vitianum",
-    "redirect": "Uitioi",
+    "redirect": "Οὐίτιοι",
     "proof_read": 2,
     "chapters": [
       {
@@ -4135,11 +4297,13 @@
     "lemma": "Vitianum",
     "previous": "Vitia",
     "next": "Vitianus",
+    "proof_read": 0,
     "short_description": "Castrum in territorio Tridentino",
     "chapters": [
       {
         "start": 394,
-        "author": "Meyer, Ernst"
+        "end": 395,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -4175,11 +4339,13 @@
     "lemma": "Viticini",
     "previous": "Vitiarium",
     "next": "Witigis",
+    "proof_read": 0,
     "short_description": "Picenische Völkerschaft",
     "chapters": [
       {
         "start": 395,
-        "author": "Radke"
+        "end": 395,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -4187,18 +4353,21 @@
     "lemma": "Witigis",
     "previous": "Viticini",
     "next": "Vitigisclus",
+    "sort_key": "Vitigis",
+    "proof_read": 0,
     "short_description": "Schwertträger des Ostgotenkönigs Athalarich",
     "chapters": [
       {
         "start": 395,
-        "author": "Enßlin"
+        "end": 400,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
   {
     "lemma": "Vitigisclus",
     "previous": "Witigis",
-    "next": "Uitioi",
+    "next": "Οὐίτιοι",
     "proof_read": 3,
     "short_description": "''censitor'' der Provinz Sizilien im Ostgotenreich Athalarichs, um 526/27 n. Chr.",
     "no_creative_height": true,
@@ -4211,26 +4380,31 @@
     ]
   },
   {
-    "lemma": "Uitioi",
+    "lemma": "Οὐίτιοι",
     "previous": "Vitigisclus",
     "next": "Vitiris",
+    "sort_key": "Vitioi",
+    "proof_read": 0,
     "short_description": "Volksstamm am W-Ufer des Kaspischen Meeres",
     "chapters": [
       {
         "start": 400,
-        "author": "Treidler"
+        "end": 408,
+        "author": "Hans Treidler."
       }
     ]
   },
   {
     "lemma": "Vitiris",
-    "previous": "Uitioi",
+    "previous": "Οὐίτιοι",
     "next": "Witirich",
+    "proof_read": 0,
     "short_description": "Numen am Hadrianswall",
     "chapters": [
       {
         "start": 408,
-        "author": "Heichelheim"
+        "end": 415,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
@@ -4269,11 +4443,13 @@
     "lemma": "Vitisator 1",
     "previous": "Vitis",
     "next": "Vitisator 2",
+    "proof_read": 0,
     "short_description": "Beiname des Bacchus-Dionysos",
     "chapters": [
       {
         "start": 415,
-        "author": "Eisenhut"
+        "end": 415,
+        "author": "W. Eisenhut."
       }
     ]
   },
@@ -4281,11 +4457,13 @@
     "lemma": "Vitisator 2",
     "previous": "Vitisator 1",
     "next": "Vitorius",
+    "proof_read": 0,
     "short_description": "Angebl. Beiname des Saturnus",
     "chapters": [
       {
         "start": 415,
-        "author": "Eisenhut"
+        "end": 416,
+        "author": "W. Eisenhut."
       }
     ]
   },
@@ -4323,11 +4501,13 @@
     "lemma": "Vitrasius 1",
     "previous": "Vitrasii",
     "next": "Vitrasius 2",
+    "proof_read": 0,
     "short_description": "Aequus, Hafenort bei Karthago",
     "chapters": [
       {
         "start": 416,
-        "author": "Hanslik"
+        "end": 416,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
@@ -4335,11 +4515,13 @@
     "lemma": "Vitrasius 2",
     "previous": "Vitrasius 1",
     "next": "Vitrasius 3",
+    "proof_read": 0,
     "short_description": "Aequus, Senatorischer Jüngling",
     "chapters": [
       {
         "start": 416,
-        "author": "Hanslik"
+        "end": 416,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
@@ -4379,23 +4561,27 @@
     "lemma": "Vitrasius 6",
     "previous": "Vitrasius 4–5",
     "next": "Vitrasius 7",
+    "proof_read": 0,
     "short_description": "Pollio, Praef. von Aegypten 31/32 n. Chr.",
     "chapters": [
       {
         "start": 418,
-        "author": "Hanslik"
+        "end": 418,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Vitrasius 7",
     "previous": "Vitrasius 6",
-    "next": "Vitrasia Faustina 10",
+    "next": "Vitrasius 8",
+    "proof_read": 0,
     "short_description": "Praef. von Aegypten 39 n. Chr.",
     "chapters": [
       {
         "start": 418,
-        "author": "Hanslik"
+        "end": 419,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
@@ -4413,31 +4599,50 @@
   },
   {
     "lemma": "Vitrasius 8",
-    "previous": "Vitrasia Faustina 10",
+    "previous": "Vitrasius 7",
     "next": "Vitrasius 9",
+    "proof_read": 0,
     "short_description": "Pollio, T. Pomponius Proculus, cos. II 178 n. Chr.",
     "chapters": [
       {
         "start": 419,
-        "author": "Hanslik"
+        "end": 419,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Vitrasius 9",
     "previous": "Vitrasius 8",
-    "next": "Vitriaria",
+    "next": "Vitrasius 10",
+    "proof_read": 0,
     "short_description": "Pollio, T. Fundanius, Sohn von Nr. 8",
     "chapters": [
       {
         "start": 419,
-        "author": "Hanslik"
+        "end": 419,
+        "author": "Rudolf Hanslik."
+      }
+    ]
+  },
+  {
+    "lemma": "Vitrasius 10",
+    "previous": "Vitrasius 9",
+    "next": "Vitriaria",
+    "sort_key": "Vitrasiafaustina 10",
+    "proof_read": 0,
+    "short_description": "Tochter von Nr. 8",
+    "chapters": [
+      {
+        "start": 419,
+        "end": 419,
+        "author": "Rudolf Hanslik."
       }
     ]
   },
   {
     "lemma": "Vitriaria",
-    "previous": "Vitrasius 9",
+    "previous": "Vitrasius 10",
     "next": "Vitricium",
     "redirect": true,
     "proof_read": 2,
@@ -4452,18 +4657,20 @@
     "lemma": "Vitricium",
     "previous": "Vitriaria",
     "next": "Vitrodurus",
+    "proof_read": 0,
     "short_description": "Stadt der Salasser",
     "chapters": [
       {
         "start": 419,
-        "author": "Radke"
+        "end": 419,
+        "author": "Gerhard Radke."
       }
     ]
   },
   {
     "lemma": "Vitrodurus",
     "previous": "Vitricium",
-    "next": "Vitruvius",
+    "next": "Vitrum",
     "proof_read": 3,
     "short_description": "Sohn des Quadenkönigs Widuarius, um 357 n. Chr.",
     "wd_link": "d:Q140521259",
@@ -4480,11 +4687,13 @@
     "lemma": "Vitruvius",
     "previous": "Vitrodurus",
     "next": "Vitruvius 1",
+    "proof_read": 0,
     "short_description": "Römische Gens nach Inschriften",
     "chapters": [
       {
         "start": 419,
-        "author": "Thielscher"
+        "end": 426,
+        "author": "Paul Thielscher."
       }
     ]
   },
@@ -4492,11 +4701,15 @@
     "lemma": "Vitruvius 1",
     "previous": "Vitruvius",
     "next": "Vitruvius 2",
+    "proof_read": 0,
     "short_description": "Vaccus, M. Führer der Städte Privernum und Fundi 330/29 v. Chr.",
+    "wp_link": "w:en:Vitruvius Vaccus",
+    "wd_link": "d:Q3657011",
     "chapters": [
       {
         "start": 426,
-        "author": "Gundel, Hans [Georg]"
+        "end": 427,
+        "author": "Hans Gundel."
       }
     ]
   },
@@ -4504,11 +4717,13 @@
     "lemma": "Vitruvius 2",
     "previous": "Vitruvius 1",
     "next": "Vitruvius 3",
+    "proof_read": 0,
     "short_description": "Mamurra, L. Verfasser eines Architekturwerkes",
     "chapters": [
       {
         "start": 427,
-        "author": "Thielscher"
+        "end": 462,
+        "author": "Paul Thielscher."
       }
     ]
   },
@@ -4516,10 +4731,12 @@
     "lemma": "Vitruvius 3",
     "previous": "Vitruvius 2",
     "next": "Vitruvius 4",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 462,
-        "author": "Thielscher"
+        "end": 464,
+        "author": "Paul Thielscher."
       }
     ]
   },
@@ -4542,10 +4759,12 @@
     "lemma": "Vitruvius 5",
     "previous": "Vitruvius 4",
     "next": "vitta",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 464,
-        "author": "Thielscher"
+        "end": 489,
+        "author": "Paul Thielscher."
       }
     ]
   },
@@ -4566,11 +4785,13 @@
     "lemma": "Vitudurum",
     "previous": "vitta",
     "next": "Vitula",
+    "proof_read": 0,
     "short_description": "Vicus und Kastell an der Straße Vindonissa - Bregenz",
     "chapters": [
       {
         "start": 489,
-        "author": "Meyer, Ernst"
+        "end": 491,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -4578,11 +4799,13 @@
     "lemma": "Vitula",
     "previous": "Vitudurum",
     "next": "Vitularius",
+    "proof_read": 0,
     "short_description": "Römische Göttin",
     "chapters": [
       {
         "start": 491,
-        "author": "Eisenhut"
+        "end": 493,
+        "author": "W. Eisenhut."
       }
     ]
   },
@@ -4603,11 +4826,13 @@
     "lemma": "Vitulus 1",
     "previous": "Vitularius",
     "next": "Vitulus 2",
+    "proof_read": 0,
     "short_description": "Cognomen der Mamilii",
     "chapters": [
       {
         "start": 493,
-        "author": "Gundel, Hans [Georg]"
+        "end": 493,
+        "author": "H. Gundel."
       }
     ]
   },
@@ -4643,11 +4868,13 @@
     "lemma": "Vitumnus",
     "previous": "Vitulus 3",
     "next": "Vitus 1",
+    "proof_read": 0,
     "short_description": "Helfende Macht für Kinder",
     "chapters": [
       {
         "start": 493,
-        "author": "Eisenhut"
+        "end": 494,
+        "author": "W. Eisenhut."
       }
     ]
   },
@@ -4655,11 +4882,13 @@
     "lemma": "Vitus 1",
     "previous": "Vitumnus",
     "next": "Vitus 2",
+    "proof_read": 0,
     "short_description": "Magister utriusque militiae",
     "chapters": [
       {
         "start": 494,
-        "author": "Enßlin"
+        "end": 494,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -4667,11 +4896,13 @@
     "lemma": "Vitus 2",
     "previous": "Vitus 1",
     "next": "Vitus 3",
+    "proof_read": 0,
     "short_description": "Bankier",
     "chapters": [
       {
         "start": 494,
-        "author": "Enßlin"
+        "end": 494,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -4708,7 +4939,7 @@
   {
     "lemma": "Vitus 5",
     "previous": "Vitus 4",
-    "next": "Viva aqua 1",
+    "next": "Vivantavarium",
     "proof_read": 2,
     "short_description": "Bischof in Primnesia",
     "no_creative_height": true,
@@ -4722,32 +4953,38 @@
   },
   {
     "lemma": "Viva aqua 1",
-    "previous": "Vitus 5",
+    "previous": "Vivantavarium",
     "next": "Viva aqua 2",
+    "sort_key": "Vivaaqua 1",
+    "proof_read": 0,
     "short_description": "Station der Via Flaminia",
     "chapters": [
       {
         "start": 494,
-        "author": "Radke"
+        "end": 494,
+        "author": "Gerhard Radke."
       }
     ]
   },
   {
     "lemma": "Viva aqua 2",
     "previous": "Viva aqua 1",
-    "next": "Vivantavarium",
+    "next": "Vivarium",
+    "sort_key": "Vivaaqua 2",
+    "proof_read": 0,
     "short_description": "s. Aqua viva",
     "chapters": [
       {
         "start": 494,
-        "author": "Saria"
+        "end": 495,
+        "author": "Balduin Saria."
       }
     ]
   },
   {
     "lemma": "Vivantavarium",
-    "previous": "Viva aqua 2",
-    "next": "Vivarium",
+    "previous": "Vitus 5",
+    "next": "Viva aqua 1",
     "redirect": "Οὐιβαντανάριον",
     "proof_read": 2,
     "chapters": [
@@ -4759,13 +4996,15 @@
   },
   {
     "lemma": "Vivarium",
-    "previous": "Vivantavarium",
+    "previous": "Viva aqua 2",
     "next": "Vivatia",
+    "proof_read": 0,
     "short_description": "Kloster am Golf von Squillace in Bruttium",
     "chapters": [
       {
         "start": 495,
-        "author": "Radke"
+        "end": 495,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -4773,11 +5012,13 @@
     "lemma": "Vivatia",
     "previous": "Vivarium",
     "next": "Vivenciolus",
+    "proof_read": 0,
     "short_description": "Stadt in Andalusien",
     "chapters": [
       {
         "start": 495,
-        "author": "Grosse"
+        "end": 495,
+        "author": "Rob. Grosse."
       }
     ]
   },
@@ -4800,11 +5041,13 @@
     "lemma": "Viventius 1",
     "previous": "Vivenciolus",
     "next": "Viventius 2",
+    "proof_read": 0,
     "short_description": "Quaestor sacri palatii",
     "chapters": [
       {
         "start": 495,
-        "author": "Enßlin"
+        "end": 496,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -4857,11 +5100,13 @@
     "lemma": "Viventum",
     "previous": "Viventius 4",
     "next": "Vivianus 1",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 496,
-        "author": "Radke"
+        "end": 496,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -4869,11 +5114,13 @@
     "lemma": "Vivianus 1",
     "previous": "Viventum",
     "next": "Vivianus 2",
+    "proof_read": 0,
     "short_description": "Jurist",
     "chapters": [
       {
         "start": 496,
-        "author": "Mayer-Maly"
+        "end": 497,
+        "author": "T. Mayer-Maly."
       }
     ]
   },
@@ -4881,18 +5128,20 @@
     "lemma": "Vivianus 2",
     "previous": "Vivianus 1",
     "next": "Vivianus 3",
+    "proof_read": 0,
     "short_description": "Vir spectabilis in Rom",
     "chapters": [
       {
         "start": 497,
-        "author": "Enßlin"
+        "end": 497,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
   {
     "lemma": "Vivianus 3",
     "previous": "Vivianus 2",
-    "next": "Vivicomburium",
+    "next": "vivicomburium",
     "redirect": "Vibianus 1",
     "proof_read": 2,
     "chapters": [
@@ -4903,20 +5152,22 @@
     ]
   },
   {
-    "lemma": "Vivicomburium",
+    "lemma": "vivicomburium",
     "previous": "Vivianus 3",
     "next": "Vividarii",
+    "proof_read": 0,
     "short_description": "Strafe des Lebendigverbrennens",
     "chapters": [
       {
         "start": 497,
-        "author": "Mayer-Maly"
+        "end": 498,
+        "author": "T. Mayer-Maly."
       }
     ]
   },
   {
     "lemma": "Vividarii",
-    "previous": "Vivicomburium",
+    "previous": "vivicomburium",
     "next": "Vivisci",
     "redirect": "Vidivarii",
     "proof_read": 2,
@@ -4931,11 +5182,13 @@
     "lemma": "Vivisci",
     "previous": "Vividarii",
     "next": "Viviscus",
+    "proof_read": 0,
     "short_description": "Beiname der keltischen Bituriges",
     "chapters": [
       {
         "start": 498,
-        "author": "Goessler"
+        "end": 503,
+        "author": "Goessler."
       }
     ]
   },
@@ -4955,11 +5208,13 @@
     "lemma": "Vivius",
     "previous": "Viviscus",
     "next": "Vi-ut-us",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 504,
-        "author": "Heichelheim"
+        "end": 504,
+        "author": "Wilh. Enßlin."
       }
     ]
   },
@@ -4982,7 +5237,7 @@
   {
     "lemma": "Uka",
     "previous": "Vi-ut-us",
-    "next": "Ukalegon",
+    "next": "Ukălĕgon",
     "sort_key": "Vka",
     "redirect": "Uca",
     "proof_read": 2,
@@ -4994,7 +5249,7 @@
     ]
   },
   {
-    "lemma": "Ukalegon",
+    "lemma": "Ukălĕgon",
     "previous": "Uka",
     "next": "Ukena",
     "sort_key": "Vkalegon",
@@ -5010,13 +5265,16 @@
   },
   {
     "lemma": "Ukena",
-    "previous": "Ukalegon",
+    "previous": "Ukălĕgon",
     "next": "Ukimath",
+    "sort_key": "Vkena",
+    "proof_read": 0,
     "short_description": "Stadt Galatiens",
     "chapters": [
       {
         "start": 505,
-        "author": "Kirsten"
+        "end": 505,
+        "author": "E. Kirsten."
       }
     ]
   },
@@ -5037,36 +5295,45 @@
   {
     "lemma": "Ukisem",
     "previous": "Ukimath",
-    "next": "Uku",
+    "next": "τὸ Οὔκου",
+    "sort_key": "Vkisem",
+    "proof_read": 0,
     "short_description": "Planetendämon",
     "chapters": [
       {
         "start": 505,
-        "author": "Preisendanz"
+        "end": 505,
+        "author": "Karl Preisendanz."
       }
     ]
   },
   {
-    "lemma": "Uku",
+    "lemma": "τὸ Οὔκου",
     "previous": "Ukisem",
     "next": "Ulaphael",
+    "sort_key": "Vku",
+    "proof_read": 0,
     "short_description": "Kastell in der Provinz Haemimontus",
     "chapters": [
       {
         "start": 505,
-        "author": "Saria"
+        "end": 505,
+        "author": "Balduin Saria."
       }
     ]
   },
   {
     "lemma": "Ulaphael",
-    "previous": "Uku",
+    "previous": "τὸ Οὔκου",
     "next": "Ularis",
+    "sort_key": "Vlaphael",
+    "proof_read": 0,
     "short_description": "Iatromagischer Engelname",
     "chapters": [
       {
         "start": 505,
-        "author": "Preisendanz"
+        "end": 505,
+        "author": "Karl Preisendanz."
       }
     ]
   },
@@ -5074,35 +5341,59 @@
     "lemma": "Ularis",
     "previous": "Ulaphael",
     "next": "Ulasape",
+    "sort_key": "Vlaris",
+    "proof_read": 0,
     "short_description": "Erster Dekan im Sternbild des Wassermanns",
     "chapters": [
       {
         "start": 506,
-        "author": "Preisendanz"
+        "end": 506,
+        "author": "Karl Preisendanz."
       }
     ]
   },
   {
     "lemma": "Ulasape",
     "previous": "Ularis",
-    "next": "Ulatha 1",
+    "next": "Ulatha",
+    "sort_key": "Vlasape",
+    "proof_read": 0,
     "short_description": "Dämon der späteren griechischen Magie",
     "chapters": [
       {
         "start": 506,
-        "author": "Preisendanz"
+        "end": 506,
+        "author": "Karl Preisendanz."
+      }
+    ]
+  },
+  {
+    "lemma": "Ulatha",
+    "previous": "Ulasape",
+    "next": "Ulatha 1",
+    "sort_key": "Vlatha",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "chapters": [
+      {
+        "start": 506,
+        "end": 506,
+        "author": "Joachim Jeremias."
       }
     ]
   },
   {
     "lemma": "Ulatha 1",
-    "previous": "Ulasape",
+    "previous": "Ulatha",
     "next": "Ulatha 2",
+    "sort_key": "Vlatha 1",
+    "proof_read": 0,
     "short_description": "Landstrich bei Antiocheia in Syrien",
     "chapters": [
       {
         "start": 506,
-        "author": "Jeremias"
+        "end": 506,
+        "author": "Joachim Jeremias."
       }
     ]
   },
@@ -5110,11 +5401,14 @@
     "lemma": "Ulatha 2",
     "previous": "Ulatha 1",
     "next": "Ulatius",
+    "sort_key": "Vlatha 2",
+    "proof_read": 0,
     "short_description": "Sumpfgebiet im N-Palästina",
     "chapters": [
       {
         "start": 506,
-        "author": "Jeremias"
+        "end": 506,
+        "author": "Joachim Jeremias."
       }
     ]
   },
@@ -5122,11 +5416,14 @@
     "lemma": "Ulatius",
     "previous": "Ulatha 2",
     "next": "Ulauhinehae",
+    "sort_key": "Vlatius",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 506,
-        "author": "Gross"
+        "end": 506,
+        "author": "W. H. Gross."
       }
     ]
   },
@@ -5134,11 +5431,14 @@
     "lemma": "Ulauhinehae",
     "previous": "Ulatius",
     "next": "Ulbanum (vinum)",
+    "sort_key": "Vlauhinehae",
+    "proof_read": 0,
     "short_description": "s. Matres",
     "chapters": [
       {
         "start": 506,
-        "author": "Heichelheim"
+        "end": 507,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
@@ -5146,32 +5446,38 @@
     "lemma": "Ulbanum (vinum)",
     "previous": "Ulauhinehae",
     "next": "Ulbia",
+    "sort_key": "Vlbanum(vinum)",
+    "proof_read": 0,
     "short_description": "Ort in Campanien?",
     "chapters": [
       {
         "start": 507,
-        "author": "Ziegler"
+        "end": 507,
+        "author": "Konrat Ziegler."
       }
     ]
   },
   {
     "lemma": "Ulbia",
     "previous": "Ulbanum (vinum)",
-    "next": "Ulca",
+    "next": "Ulbius",
+    "sort_key": "Vlbia",
+    "proof_read": 0,
     "short_description": "Verstümmelter Name von Olbia, s.d.",
     "chapters": [
       {
         "start": 507,
-        "author": "Radke"
+        "end": 507,
+        "author": "Gerhard Radke."
       }
     ]
   },
   {
     "lemma": "Ulca",
-    "previous": "Ulbia",
+    "previous": "Ulbius",
     "next": "Ulcinium",
     "sort_key": "Vlca",
-    "redirect": "Ulkaia hele",
+    "redirect": "Οὐλκαῖα ἕλη",
     "proof_read": 2,
     "chapters": [
       {
@@ -5184,11 +5490,14 @@
     "lemma": "Ulcinium",
     "previous": "Ulca",
     "next": "Ulcirus mons",
+    "sort_key": "Vlcinium",
+    "proof_read": 0,
     "short_description": "Küstenstadt in S-Dalmatien",
     "chapters": [
       {
         "start": 507,
-        "author": "Saria"
+        "end": 507,
+        "author": "B. Saria."
       }
     ]
   },
@@ -5196,11 +5505,14 @@
     "lemma": "Ulcirus mons",
     "previous": "Ulcinium",
     "next": "Ulcisia castra",
+    "sort_key": "Vlcirusmons",
+    "proof_read": 0,
     "short_description": "Berg oder Gebirge der römischen Provinz Dalmatia",
     "chapters": [
       {
         "start": 507,
-        "author": "Saria"
+        "end": 508,
+        "author": "B. Saria."
       }
     ]
   },
@@ -5208,11 +5520,14 @@
     "lemma": "Ulcisia castra",
     "previous": "Ulcirus mons",
     "next": "Uldach",
+    "sort_key": "Vlcisiacastra",
+    "proof_read": 0,
     "short_description": "Römischer Vicus und Kohortenlager in Pannonia inferior",
     "chapters": [
       {
         "start": 508,
-        "author": "Saria"
+        "end": 510,
+        "author": "Balduin Saria."
       }
     ]
   },
@@ -5220,11 +5535,14 @@
     "lemma": "Uldach",
     "previous": "Ulcisia castra",
     "next": "Uldin",
+    "sort_key": "Vldach",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 510,
-        "author": "Lippold, Adolf"
+        "end": 510,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5232,11 +5550,14 @@
     "lemma": "Uldin",
     "previous": "Uldach",
     "next": "Ulfila 1",
+    "sort_key": "Vldin",
+    "proof_read": 0,
     "short_description": "Hunnenfürst",
     "chapters": [
       {
         "start": 510,
-        "author": "Lippold, Adolf"
+        "end": 512,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5244,11 +5565,14 @@
     "lemma": "Ulfila 1",
     "previous": "Uldin",
     "next": "Ulfila 2",
+    "sort_key": "Vlfila 1",
+    "proof_read": 0,
     "short_description": "Bischof der Goten, Bibelübersetzer",
     "chapters": [
       {
         "start": 512,
-        "author": "Lippold, Adolf"
+        "end": 531,
+        "author": "Adolf Lippold."
       }
     ]
   },
@@ -5256,11 +5580,14 @@
     "lemma": "Ulfila 2",
     "previous": "Ulfila 1",
     "next": "Ulia 1",
+    "sort_key": "Vlfila 2",
+    "proof_read": 0,
     "short_description": "Feldherr des Honorius",
     "chapters": [
       {
         "start": 531,
-        "author": "Lippold, Adolf"
+        "end": 532,
+        "author": "Adolf Lippold."
       }
     ]
   },
@@ -5268,31 +5595,40 @@
     "lemma": "Ulia 1",
     "previous": "Ulfila 2",
     "next": "Ulia 2",
+    "sort_key": "Vlia 1",
+    "proof_read": 0,
     "short_description": "Beiname der Artemis, s. Ulios",
     "chapters": [
       {
         "start": 532,
-        "author": "Radke"
+        "end": 532,
+        "author": "Gerhard Radke."
       }
     ]
   },
   {
     "lemma": "Ulia 2",
     "previous": "Ulia 1",
-    "short_description": "Bergstadt in Hispania ulterior, h. Montemayor",
+    "next": "Uliades 1",
+    "sort_key": "Vlia 2",
+    "proof_read": 0,
+    "short_description": "1",
     "chapters": [
       {
         "start": 532,
-        "author": "Grosse"
+        "end": 532,
+        "author": "Schulten."
       },
       {
         "start": 532,
-        "author": "Schulten"
+        "end": 532,
+        "author": "Rob. Grosse."
       }
     ]
   },
   {
     "lemma": "Uliades 1",
+    "previous": "Ulia 2",
     "next": "Uliaris 1",
     "sort_key": "Vliades 0 1",
     "chapters": [
@@ -5304,12 +5640,16 @@
   },
   {
     "lemma": "Uliaris 1",
+    "previous": "Uliades 1",
     "next": "Uliaris 2",
+    "sort_key": "Vliaris 1",
+    "proof_read": 0,
     "short_description": "Offizier Belisars",
     "chapters": [
       {
         "start": 532,
-        "author": "Lippold, Adolf"
+        "end": 533,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5317,11 +5657,14 @@
     "lemma": "Uliaris 2",
     "previous": "Uliaris 1",
     "next": "Uliaros",
+    "sort_key": "Vliaris 2",
+    "proof_read": 0,
     "short_description": "Neffe des Bojo, s. Wiliarit",
     "chapters": [
       {
         "start": 533,
-        "author": "Lippold, Adolf"
+        "end": 533,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5329,11 +5672,14 @@
     "lemma": "Uliaros",
     "previous": "Uliaris 2",
     "next": "Ulias 1",
+    "sort_key": "Vliaros",
+    "proof_read": 0,
     "short_description": "Insel des Aquitanicus sinus Oléron",
     "chapters": [
       {
         "start": 533,
-        "author": "Merlat"
+        "end": 534,
+        "author": "Pierre Merlat."
       }
     ]
   },
@@ -5341,47 +5687,59 @@
     "lemma": "Ulias 1",
     "previous": "Uliaros",
     "next": "Ulias 2",
+    "sort_key": "Vlias 1",
+    "proof_read": 0,
     "short_description": "Vater des Theaios von Argos",
     "chapters": [
       {
         "start": 534,
-        "author": "Ziegler"
+        "end": 534,
+        "author": "Konrat Ziegler."
       }
     ]
   },
   {
     "lemma": "Ulias 2",
     "previous": "Ulias 1",
-    "next": "Ulibula",
+    "next": "Οὐλίβουλα",
+    "sort_key": "Vlias 2",
+    "proof_read": 0,
     "short_description": "Vornehmer Gote",
     "chapters": [
       {
         "start": 535,
-        "author": "Lippold, Adolf"
+        "end": 535,
+        "author": "A. Lippold."
       }
     ]
   },
   {
-    "lemma": "Ulibula",
+    "lemma": "Οὐλίβουλα",
     "previous": "Ulias 2",
     "next": "Ulietai",
+    "sort_key": "Vlibula",
+    "proof_read": 0,
     "short_description": "Kastell in Epirus",
     "chapters": [
       {
         "start": 535,
-        "author": "Saria"
+        "end": 535,
+        "author": "Balduin Saria."
       }
     ]
   },
   {
     "lemma": "Ulietai",
-    "previous": "Ulibula",
+    "previous": "Οὐλίβουλα",
     "next": "Ulifus",
+    "sort_key": "Vlietai",
+    "proof_read": 0,
     "short_description": "Irrige Schreibung für Aulietai",
     "chapters": [
       {
         "start": 535,
-        "author": "Kirsten"
+        "end": 535,
+        "author": "Ernst Kirsten."
       }
     ]
   },
@@ -5389,11 +5747,14 @@
     "lemma": "Ulifus",
     "previous": "Ulietai",
     "next": "Uligagus",
+    "sort_key": "Vlifus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 535,
-        "author": "Lippold, Adolf"
+        "end": 535,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5401,11 +5762,14 @@
     "lemma": "Uligagus",
     "previous": "Ulifus",
     "next": "Uligisalus",
+    "sort_key": "Vligagus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 535,
-        "author": "Lippold, Adolf"
+        "end": 535,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5413,11 +5777,14 @@
     "lemma": "Uligisalus",
     "previous": "Uligagus",
     "next": "Ulimun(d)",
+    "sort_key": "Vligisalus",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 535,
-        "author": "Lippold, Adolf"
+        "end": 535,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5439,11 +5806,14 @@
     "lemma": "Ulimuth",
     "previous": "Ulimun(d)",
     "next": "Uliob",
+    "sort_key": "Vlimuth",
+    "proof_read": 0,
     "short_description": "Person",
     "chapters": [
       {
         "start": 535,
-        "author": "Lippold, Adolf"
+        "end": 535,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5451,11 +5821,14 @@
     "lemma": "Uliob",
     "previous": "Ulimuth",
     "next": "Ulios",
+    "sort_key": "Vliob",
+    "proof_read": 0,
     "short_description": "Planetendämon",
     "chapters": [
       {
         "start": 535,
-        "author": "Preisendanz"
+        "end": 536,
+        "author": "Karl Preisendanz."
       }
     ]
   },
@@ -5463,11 +5836,14 @@
     "lemma": "Ulios",
     "previous": "Uliob",
     "next": "Uliphos",
+    "sort_key": "Vlios",
+    "proof_read": 0,
     "short_description": "Beiname Apollons",
     "chapters": [
       {
         "start": 536,
-        "author": "Radke"
+        "end": 536,
+        "author": "Gerhard Radke."
       }
     ]
   },
@@ -5489,18 +5865,21 @@
     "lemma": "Ulisi",
     "previous": "Uliphos",
     "next": "Ulisippira",
+    "sort_key": "Vlisi",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 536,
-        "author": "Grosse"
+        "end": 536,
+        "author": "Rob. Grosse."
       }
     ]
   },
   {
     "lemma": "Ulisippira",
     "previous": "Ulisi",
-    "next": "Ulispada",
+    "next": "Οὐλίσπαδα",
     "sort_key": "Vlisippira",
     "redirect": "Ulixibera",
     "proof_read": 2,
@@ -5512,26 +5891,32 @@
     ]
   },
   {
-    "lemma": "Ulispada",
+    "lemma": "Οὐλίσπαδα",
     "previous": "Ulisippira",
     "next": "Ulitheus 1",
+    "sort_key": "Vlispada",
+    "proof_read": 0,
     "short_description": "Siedlung auf Taprobane",
     "chapters": [
       {
         "start": 536,
-        "author": "Treidler"
+        "end": 537,
+        "author": "Hans Treidler."
       }
     ]
   },
   {
     "lemma": "Ulitheus 1",
-    "previous": "Ulispada",
+    "previous": "Οὐλίσπαδα",
     "next": "Ulitheus 2",
+    "sort_key": "Vlitheus 1",
+    "proof_read": 0,
     "short_description": "Onkel des Ostgotenkönigs Witigis",
     "chapters": [
       {
         "start": 537,
-        "author": "Lippold, Adolf"
+        "end": 537,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5539,11 +5924,14 @@
     "lemma": "Ulitheus 2",
     "previous": "Ulitheus 1",
     "next": "Ulixes",
+    "sort_key": "Vlitheus 2",
+    "proof_read": 0,
     "short_description": "Doryphoros des Gontharis",
     "chapters": [
       {
         "start": 537,
-        "author": "Lippold, Adolf"
+        "end": 537,
+        "author": "A. Lippold."
       }
     ]
   },
@@ -5551,23 +5939,29 @@
     "lemma": "Ulixes",
     "previous": "Ulitheus 2",
     "next": "Ulixibera",
+    "sort_key": "Vlixes",
+    "proof_read": 0,
     "short_description": "Lateinische Form des Namens Odysseus",
     "chapters": [
       {
         "start": 537,
-        "author": "Wüst"
+        "end": 540,
+        "author": "Ernst Wüst."
       }
     ]
   },
   {
     "lemma": "Ulixibera",
     "previous": "Ulixes",
-    "next": "Οὐλιξίβιρρα",
+    "next": "Ulixis portus",
+    "sort_key": "Vlixibera",
+    "proof_read": 0,
     "short_description": "Ort in Africa Proconsularis",
     "chapters": [
       {
         "start": 540,
-        "author": "Leglay"
+        "end": 541,
+        "author": "M. Leglay."
       }
     ]
   },
@@ -5587,13 +5981,16 @@
   },
   {
     "lemma": "Ulixis portus",
-    "previous": "Οὐλιξίβιρρα",
-    "next": "Ulkaia hele",
+    "previous": "Ulixibera",
+    "next": "Οὐλιξίβιρρα",
+    "sort_key": "Vlixisportus",
+    "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
       {
         "start": 541,
-        "author": "Ziegler"
+        "end": 541,
+        "author": "Ziegler."
       }
     ]
   },
@@ -5611,13 +6008,16 @@
   },
   {
     "lemma": "Ulla",
-    "previous": "Ulkaia hele",
+    "previous": "Οὐλκαῖα ἕλη",
     "next": "Ulmanectes",
+    "sort_key": "Vlla",
+    "proof_read": 0,
     "short_description": "Fluß an der Küste von Galicia",
     "chapters": [
       {
         "start": 542,
-        "author": "Grosse"
+        "end": 542,
+        "author": "Rob. Grosse."
       }
     ]
   },
@@ -5625,11 +6025,14 @@
     "lemma": "Ulmanectes",
     "previous": "Ulla",
     "next": "Ulme",
+    "sort_key": "Vlmanectes",
+    "proof_read": 0,
     "short_description": "Volk der Gallia Belgica",
     "chapters": [
       {
         "start": 542,
-        "author": "Heurgon"
+        "end": 543,
+        "author": "Jacques Heurgon."
       }
     ]
   },
@@ -5637,10 +6040,13 @@
     "lemma": "Ulme",
     "previous": "Ulmanectes",
     "next": "Ulmerugi",
+    "sort_key": "Vlme",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 544,
-        "author": "Schuster"
+        "end": 554,
+        "author": "Schuster."
       }
     ]
   },
@@ -5648,11 +6054,14 @@
     "lemma": "Ulmerugi",
     "previous": "Ulme",
     "next": "Ulmetum",
+    "sort_key": "Vlmerugi",
+    "proof_read": 0,
     "short_description": "Germanisches Volk an der Ostsee",
     "chapters": [
       {
         "start": 555,
-        "author": "Jungandreas"
+        "end": 556,
+        "author": "Wolfg. Jungandreas."
       }
     ]
   },
@@ -5660,11 +6069,14 @@
     "lemma": "Ulmetum",
     "previous": "Ulmerugi",
     "next": "Ulmus 1",
+    "sort_key": "Vlmetum",
+    "proof_read": 0,
     "short_description": "Vicus und Kastell in Moesia inferior",
     "chapters": [
       {
         "start": 556,
-        "author": "Saria"
+        "end": 558,
+        "author": "Balduin Saria."
       }
     ]
   },
@@ -5672,11 +6084,14 @@
     "lemma": "Ulmus 1",
     "previous": "Ulmetum",
     "next": "Ulmus 2",
+    "sort_key": "Vlmus 1",
+    "proof_read": 0,
     "short_description": "Römische Straßenstation in Pannonia superior",
     "chapters": [
       {
         "start": 558,
-        "author": "Saria"
+        "end": 558,
+        "author": "Balduin Saria."
       }
     ]
   },
@@ -5684,11 +6099,14 @@
     "lemma": "Ulmus 2",
     "previous": "Ulmus 1",
     "next": "Ulmus 3",
+    "sort_key": "Vlmus 2",
+    "proof_read": 0,
     "short_description": "Römische Straßenstation in Pannonia inferior",
     "chapters": [
       {
         "start": 558,
-        "author": "Saria"
+        "end": 559,
+        "author": "Balduin Saria."
       }
     ]
   },
