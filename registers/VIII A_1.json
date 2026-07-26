@@ -789,7 +789,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Valerius 206f.",
     "previous": "Valerius 205",
     "next": "Valerius 206",
@@ -818,7 +818,6 @@
       }
     ]
   },
-
   {
     "lemma": "Valerius 207",
     "previous": "Valerius 206",
@@ -2491,7 +2490,7 @@
   },
   {
     "lemma": "Valerius Publicola",
-        "chapters": [
+    "chapters": [
       {
         "start": 214,
         "end": 214
@@ -4070,7 +4069,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Vallii",
     "previous": "Valia, Valios",
     "next": "Valila",
@@ -4098,7 +4097,6 @@
       }
     ]
   },
-
   {
     "lemma": "Valina",
     "previous": "Valila",
@@ -4950,7 +4948,7 @@
   },
   {
     "lemma": "Vangiones",
-        "chapters": [
+    "chapters": [
       {
         "start": 337,
         "end": 337
@@ -8005,12 +8003,12 @@
   {
     "lemma": "Vaticanus 1a"
   },
-   {
+  {
     "lemma": "Vaticanus 2a"
   },
   {
     "lemma": "Vatienus",
-        "chapters": [
+    "chapters": [
       {
         "start": 494,
         "end": 494
@@ -8548,7 +8546,7 @@
   },
   {
     "lemma": "Ubicana",
-        "chapters": [
+    "chapters": [
       {
         "start": 531,
         "end": 531
@@ -8676,7 +8674,7 @@
   },
   {
     "lemma": "Ucasus",
-        "chapters": [
+    "chapters": [
       {
         "start": 546,
         "end": 546,
@@ -8892,7 +8890,12 @@
   },
   {
     "lemma": "Ucie(n)se",
-        "chapters": [
+    "previous": "Ucia",
+    "next": "Ucibi",
+    "sort_key": "Vciense",
+    "redirect": "Ucia",
+    "proof_read": 3,
+    "chapters": [
       {
         "start": 551,
         "end": 551
@@ -8901,9 +8904,11 @@
   },
   {
     "lemma": "Ucibi",
+    "previous": "Ucie(n)se",
+    "next": "Ucimath",
     "sort_key": "Vcibi",
     "redirect": "Ucubis",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 551,
@@ -9010,7 +9015,7 @@
   },
   {
     "lemma": "Udai",
-        "chapters": [
+    "chapters": [
       {
         "start": 554,
         "end": 554
@@ -9019,7 +9024,7 @@
   },
   {
     "lemma": "Udaios",
-        "chapters": [
+    "chapters": [
       {
         "start": 554,
         "end": 554
@@ -9119,7 +9124,7 @@
   },
   {
     "lemma": "Udon",
-        "chapters": [
+    "chapters": [
       {
         "start": 556,
         "end": 556
@@ -9189,6 +9194,7 @@
   },
   {
     "lemma": "Veamini(i)",
+    "next": "Veascium",
     "short_description": "Ligurisch-gallischer Volksstamm in den Seealpen",
     "chapters": [
       {
@@ -9214,6 +9220,7 @@
   },
   {
     "lemma": "Vecellanus pagus",
+    "previous": "Veascium",
     "next": "Vecellinus",
     "sort_key": "Vecellanuspagus",
     "proof_read": 2,
@@ -9341,7 +9348,8 @@
     ]
   },
   {
-    "lemma": "Vecta"
+    "lemma": "Vecta",
+    "next": "Vectienus"
   },
   {
     "lemma": "Vectienus",
@@ -11109,7 +11117,8 @@
   },
   {
     "lemma": "Vellocasses",
-        "chapters": [
+    "next": "Vellocatus",
+    "chapters": [
       {
         "start": 661,
         "end": 661
@@ -11225,6 +11234,7 @@
   },
   {
     "lemma": "Weltbild",
+    "next": "Veltinia tribus",
     "chapters": [
       {
         "start": 666,
@@ -11234,6 +11244,10 @@
   },
   {
     "lemma": "Veltinia tribus",
+    "previous": "Weltbild",
+    "next": "Weltschöpfung",
+    "redirect": "Voltinia tribus",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 666,
@@ -11243,6 +11257,7 @@
   },
   {
     "lemma": "Weltschöpfung",
+    "previous": "Veltinia tribus",
     "chapters": [
       {
         "start": 666,
