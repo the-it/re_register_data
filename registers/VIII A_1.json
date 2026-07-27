@@ -2490,6 +2490,10 @@
   },
   {
     "lemma": "Valerius Publicola",
+    "previous": "Valerius 321",
+    "next": "Valerius 322",
+    "redirect": true,
+    "proof_read": 0,
     "chapters": [
       {
         "start": 214,
@@ -2499,6 +2503,7 @@
   },
   {
     "lemma": "Valerius 322",
+    "previous": "Valerius Publicola",
     "next": "Valerius 323",
     "short_description": "c.v. Pudens, cos. suff. um das J. 195 n. Chr.",
     "chapters": [
@@ -7998,10 +8003,21 @@
     ]
   },
   {
-    "lemma": "Vaticanus a"
+    "lemma": "Vaticanus a",
+    "previous": "Vaticanus 2",
+    "next": "Vaticanus 1a",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 490,
+        "end": 490,
+        "author": "Gerhard Radke."
+      }
+    ]
   },
   {
-    "lemma": "Vaticanus 1a"
+    "lemma": "Vaticanus 1a",
+    "previous": "Vaticanus a"
   },
   {
     "lemma": "Vaticanus 2a"
@@ -8285,6 +8301,9 @@
   },
   {
     "lemma": "Uaxaine",
+    "previous": "Vax Villa Repentina",
+    "next": "Οὐαζαγάδα",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 525,
@@ -8546,6 +8565,9 @@
   },
   {
     "lemma": "Ubicana",
+    "previous": "Ubertas",
+    "next": "Ubienthes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 531,
@@ -8674,6 +8696,9 @@
   },
   {
     "lemma": "Ucasus",
+    "previous": "Uca",
+    "next": "Uccula",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 546,
@@ -9015,6 +9040,7 @@
   },
   {
     "lemma": "Udai",
+    "next": "Udaios",
     "chapters": [
       {
         "start": 554,
@@ -9024,6 +9050,9 @@
   },
   {
     "lemma": "Udaios",
+    "previous": "Udai",
+    "next": "Udakespes",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 554,
@@ -9418,7 +9447,16 @@
   },
   {
     "lemma": "Vectius 1",
-    "previous": "Vectis"
+    "previous": "Vectis",
+    "next": "Vectius 2",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 560,
+        "end": 560,
+        "author": "Wilh. Enßlin."
+      }
+    ]
   },
   {
     "lemma": "Vectius 2",
