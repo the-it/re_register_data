@@ -80187,7 +80187,7 @@
   {
     "lemma": "Eirenis",
     "previous": "Εἰρηνικοὶ ἄνδρες",
-    "next": "Ἐἰρηνοφύλακες",
+    "next": "Εἰρηνοφύλακες",
     "proof_read": 3,
     "short_description": "Hetäre im 4. Jh. v. Chr.",
     "no_creative_height": true,
@@ -80200,7 +80200,7 @@
     ]
   },
   {
-    "lemma": "Ἐἰρηνοφύλακες",
+    "lemma": "Εἰρηνοφύλακες",
     "previous": "Eirenis",
     "next": "Εἰσαγωγεῖς",
     "sort_key": "Eirenophylakes",
@@ -80217,7 +80217,7 @@
   },
   {
     "lemma": "Εἰσαγωγεῖς",
-    "previous": "Ἐἰρηνοφύλακες",
+    "previous": "Εἰρηνοφύλακες",
     "next": "Εἰσαγώγιον",
     "sort_key": "Eisagogeis",
     "proof_read": 3,
@@ -110170,7 +110170,7 @@
     "lemma": "Karta",
     "previous": "Karrhotos",
     "next": "Karthasis",
-    "redirect": "Zadrakarta",
+    "redirect": "Ζαδράκαρτα",
     "proof_read": 3,
     "short_description": "Hyrkan. Stadt",
     "chapters": [
@@ -134509,7 +134509,7 @@
     "lemma": "Nosokomeion",
     "previous": "Noropes",
     "next": "Notare",
-    "redirect": "xenodocheion, Xenodochium",
+    "redirect": "ξενοδοχεῖον, xenodochium",
     "proof_read": 3,
     "short_description": "die Kranken- und Pflegeanstalt",
     "chapters": [
@@ -138299,7 +138299,7 @@
     "lemma": "Parabalani",
     "previous": "Papius 13a",
     "next": "Parachoathras oros",
-    "redirect": "xenodocheion, Xenodochium",
+    "redirect": "ξενοδοχεῖον, xenodochium",
     "proof_read": 3,
     "short_description": "Krankenpflegepersonal im spätantiken Alexandreia",
     "wp_link": "w:de:Parabolani",
@@ -149193,7 +149193,7 @@
     "lemma": "Ptocheion",
     "previous": "Ptiani(i)",
     "next": "Ptolemaios 18",
-    "redirect": "xenodocheion, Xenodochium",
+    "redirect": "ξενοδοχεῖον, xenodochium",
     "proof_read": 3,
     "chapters": [
       {
@@ -174905,7 +174905,7 @@
   {
     "lemma": "Zaabram",
     "previous": "Xerxes 4",
-    "next": "Zaaram",
+    "next": "Ζααράμ",
     "proof_read": 3,
     "short_description": "Hafenstadt an der arabischen Westküste",
     "no_creative_height": true,
@@ -174918,9 +174918,10 @@
     ]
   },
   {
-    "lemma": "Zaaram",
+    "lemma": "Ζααράμ",
     "previous": "Zaabram",
-    "next": "Zabida",
+    "next": "Ζάβιδα",
+    "sort_key": "Zaaram",
     "proof_read": 3,
     "short_description": "Hafenstadt an der arabischen Westküste = Zaabram",
     "no_creative_height": true,
@@ -174933,9 +174934,10 @@
     ]
   },
   {
-    "lemma": "Zabida",
-    "previous": "Zaaram",
+    "lemma": "Ζάβιδα",
+    "previous": "Ζααράμ",
     "next": "Zamareni",
+    "sort_key": "Zabida",
     "proof_read": 3,
     "short_description": "Ort in Arabia Eudaimon",
     "no_creative_height": true,
@@ -174949,7 +174951,7 @@
   },
   {
     "lemma": "Zamareni",
-    "previous": "Zabida",
+    "previous": "Ζάβιδα",
     "next": "Zanes",
     "proof_read": 3,
     "short_description": "südarabisches Volk",
@@ -175097,7 +175099,7 @@
   {
     "lemma": "Zeila",
     "previous": "Zegrensioi",
-    "next": "Zeiritai",
+    "next": "Ζειρῖται",
     "proof_read": 3,
     "short_description": "kappadokische Stadt",
     "no_creative_height": true,
@@ -175110,12 +175112,13 @@
     ]
   },
   {
-    "lemma": "Zeiritai",
+    "lemma": "Ζειρῖται",
     "previous": "Zeila",
     "next": "Zeitha 1",
+    "sort_key": "Zeiritai",
     "redirect": "Zeeritai",
     "proof_read": 3,
-    "short_description": "arabisches Volk",
+    "short_description": "Zeiritai, arabisches Volk",
     "chapters": [
       {
         "start": 233,
@@ -175125,7 +175128,7 @@
   },
   {
     "lemma": "Zeitha 1",
-    "previous": "Zeiritai",
+    "previous": "Ζειρῖται",
     "next": "Zeitha 2",
     "proof_read": 3,
     "short_description": "nordafrikanisches Kap",
