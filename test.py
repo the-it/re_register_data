@@ -15,7 +15,9 @@ else:
 my_env = os.environ.copy()
 my_env["WS_REAL_DATA"] = "1"
 my_env["REGISTER_DATA_PATH"] = str(root_path)
-result = subprocess.run([local_binary_path.joinpath("nose2"), "--verbosity", "0"],  # nosec
-                        cwd=root_path,
-                        env=my_env)
+result = subprocess.run(  # nosec
+    [local_binary_path.joinpath("pytest"), "-v", "WS_THEbotIT/service/ws_re/integration_test"],
+    cwd=root_path,
+    env=my_env,
+)
 sys.exit(result.returncode)
