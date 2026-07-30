@@ -2475,6 +2475,7 @@
   {
     "lemma": "Vesontio",
     "previous": "Vesinicates",
+    "next": "Vespa 1",
     "proof_read": 0,
     "short_description": "Ortschaft der Sequaner in Gallien Besançon",
     "chapters": [
@@ -2501,6 +2502,8 @@
   },
   {
     "lemma": "Vespa 2",
+    "previous": "Vespa 1",
+    "next": "Vespasia Polla",
     "redirect": "Terentius 93",
     "proof_read": 2,
     "chapters": [
@@ -2527,8 +2530,10 @@
   },
   {
     "lemma": "Vespasianus",
+    "previous": "Vespasia Polla",
+    "next": "Vespasius Pollio",
     "redirect": "Flavius 206",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1711,
@@ -3006,7 +3011,8 @@
   },
   {
     "lemma": "Vesubium",
-        "chapters": [
+    "next": "Vesucius",
+    "chapters": [
       {
         "start": 1798,
         "end": 1798
@@ -3015,6 +3021,7 @@
   },
   {
     "lemma": "Vesucius",
+    "previous": "Vesubium",
     "next": "Vesulus mons",
     "redirect": "Visucia, Visucius",
     "proof_read": 2,
@@ -3080,10 +3087,9 @@
   },
   {
     "lemma": "Vesuvius",
-        "chapters": [
+    "chapters": [
       {
         "start": 1801
-
       }
     ]
   },
@@ -3477,6 +3483,8 @@
   },
   {
     "lemma": "Vettiolum",
+    "previous": "Vettienus 2",
+    "next": "Vettii",
     "redirect": "Turocaelum",
     "proof_read": 2,
     "chapters": [
@@ -5110,7 +5118,7 @@
   },
   {
     "lemma": "Veturius 34a",
-        "chapters": [
+    "chapters": [
       {
         "start": 1904,
         "end": 1904
@@ -5222,7 +5230,7 @@
   },
   {
     "lemma": "vexillarius, vexillatio, vexillum",
-        "chapters": [
+    "chapters": [
       {
         "start": 1907,
         "end": 1907
@@ -6037,6 +6045,7 @@
   {
     "lemma": "Vibisci",
     "previous": "Οὐιβίωνες",
+    "next": "Vibiscus",
     "redirect": "Vivisci",
     "proof_read": 2,
     "chapters": [
@@ -7277,7 +7286,7 @@
   },
   {
     "lemma": "Vibius 80",
-        "chapters": [
+    "chapters": [
       {
         "start": 2000,
         "end": 2000
@@ -8933,8 +8942,8 @@
     ]
   },
   {
-    "lemma":  "Victoria 3a",
-        "chapters": [
+    "lemma": "Victoria 3a",
+    "chapters": [
       {
         "start": 2071,
         "end": 2071
@@ -9155,8 +9164,9 @@
   {
     "lemma": "Victorinianus",
     "previous": "Victorianus 13",
+    "next": "Victoriatus",
     "redirect": "Victorianus 7",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 2074,
@@ -9165,8 +9175,9 @@
     ]
   },
   {
-    "lemma":  "Victoriatus",
-        "chapters": [
+    "lemma": "Victoriatus",
+    "previous": "Victorinianus",
+    "chapters": [
       {
         "start": 2074,
         "end": 2074
@@ -10102,8 +10113,8 @@
     ]
   },
   {
-    "lemma":    "Viducasses",
-        "chapters": [
+    "lemma": "Viducasses",
+    "chapters": [
       {
         "start": 2107,
         "end": 2107
@@ -10284,6 +10295,7 @@
   },
   {
     "lemma": "Vigilantius 3",
+    "next": "Vigiles, Vigilia, Vigiliarium",
     "chapters": [
       {
         "start": 2132,
@@ -10294,6 +10306,7 @@
   },
   {
     "lemma": "Vigiles, Vigilia, Vigiliarium",
+    "previous": "Vigilantius 3",
     "next": "Vigilius 1",
     "redirect": true,
     "proof_read": 3,
@@ -10998,7 +11011,7 @@
   },
   {
     "lemma": "Viminacium 3",
-        "chapters": [
+    "chapters": [
       {
         "start": 2181,
         "end": 2181
@@ -11007,7 +11020,7 @@
   },
   {
     "lemma": "Viminalis",
-        "chapters": [
+    "chapters": [
       {
         "start": 2181,
         "end": 2181
@@ -11692,7 +11705,8 @@
   },
   {
     "lemma": "Valerius 261",
-        "chapters": [
+    "next": "Valgius 5a",
+    "chapters": [
       {
         "start": 2388,
         "end": 2388
@@ -11701,6 +11715,7 @@
   },
   {
     "lemma": "Valgius 5a",
+    "previous": "Valerius 261",
     "next": "Ualielos",
     "sort_key": "Valgius 5a",
     "proof_read": 2,
