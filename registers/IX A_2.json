@@ -561,6 +561,16 @@
     ]
   },
   {
+    "lemma": "Uxsacanus",
+        "chapters": [
+      {
+        "start": 1322,
+        "end": 1323,
+        "author": "F. M. Heichelheim."
+      }
+    ]
+  },
+  {
     "lemma": "Uxynoêl",
     "previous": "Uxsacanus",
     "next": "Uzalis",
@@ -678,6 +688,26 @@
         "start": 1325,
         "end": 1329,
         "author": "Gerhard Radke."
+      }
+    ]
+  },
+  {
+    "lemma": "Uzia",
+        "chapters": [
+      {
+        "start": 1329,
+        "end": 1330,
+        "author": "Hans Treidler."
+      }
+    ]
+  },
+  {
+    "lemma": "Uzicath",
+        "chapters": [
+      {
+        "start": 1330,
+        "end": 1330,
+        "author": "M. Leglay."
       }
     ]
   },
@@ -4987,7 +5017,6 @@
   {
     "lemma": "Ypone Zareston, Ypone Zenetum",
     "previous": "Ypodon",
-    "next": "Ysilime",
     "sort_key": "Yponezareston, ypone zenetum",
     "proof_read": 2,
     "short_description": "entstellte Formen des Ortsnamens Hippo Diarrhytus",
@@ -5000,23 +5029,9 @@
       }
     ]
   },
-  {
-    "lemma": "Ysilime",
-    "previous": "Ypone Zareston, Ypone Zenetum",
-    "next": "Ysotenis",
-    "redirect": "Hyssu limen",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 2192,
-        "end": 2192
-      }
-    ]
-  },
+
   {
     "lemma": "Ysotenis",
-    "previous": "Ypone Zareston, Ypone Zenetum",
-    "next": "Ysson",
     "proof_read": 0,
     "short_description": "Ort zwischen Naukratis und Crocodilon",
     "chapters": [
@@ -5029,8 +5044,6 @@
   },
   {
     "lemma": "Ysson",
-    "previous": "Ysotenis",
-    "next": "Ysulime",
     "proof_read": 2,
     "short_description": "verderbter Name für Assos",
     "no_creative_height": true,
@@ -5043,9 +5056,18 @@
     ]
   },
   {
+    "lemma": "Ysilime",
+    "redirect": "Hyssu limen",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 2192,
+        "end": 2192
+      }
+    ]
+  },
+  {
     "lemma": "Ysulime",
-    "previous": "Ysson",
-    "next": "Ytio Scython",
     "redirect": "Hyssu limen",
     "proof_read": 2,
     "chapters": [
@@ -5057,8 +5079,6 @@
   },
   {
     "lemma": "Ytio Scython",
-    "previous": "Ysulime",
-    "next": "Zaa",
     "sort_key": "Ytioscython",
     "proof_read": 0,
     "short_description": "Teilgebiet der Landschaft Hyrkanien",
@@ -5288,6 +5308,16 @@
       {
         "start": 2204,
         "end": 2204,
+        "author": "Adolf Lippold."
+      }
+    ]
+  },
+    {
+    "lemma": "Zabergan 2",
+    "chapters": [
+      {
+        "start": 2204,
+        "end": 2206,
         "author": "Adolf Lippold."
       }
     ]
@@ -6572,9 +6602,30 @@
   {
     "lemma": "Zamolxis",
     "previous": "Zamnes",
-    "next": "Ζαναάθα",
     "redirect": "Zalmoxis",
     "proof_read": 3,
+    "chapters": [
+      {
+        "start": 2313,
+        "end": 2313
+      }
+    ]
+  },
+    {
+    "lemma": "Zandalas",
+    "next": "Zanes",
+    "proof_read": 0,
+    "short_description": "Person",
+    "chapters": [
+      {
+        "start": 2313,
+        "end": 2313,
+        "author": "Adolf Lippold."
+      }
+    ]
+  },
+    {
+    "lemma": "Zanes",
     "chapters": [
       {
         "start": 2313,
@@ -6597,20 +6648,7 @@
       }
     ]
   },
-  {
-    "lemma": "Zandalas",
-    "previous": "Ζαναάθα",
-    "next": "Zanes",
-    "proof_read": 0,
-    "short_description": "Person",
-    "chapters": [
-      {
-        "start": 2313,
-        "end": 2313,
-        "author": "Adolf Lippold."
-      }
-    ]
-  },
+
   {
     "lemma": "Zange",
     "previous": "Ζαναάθα",
@@ -6844,19 +6882,6 @@
     ]
   },
   {
-    "lemma": "Zarangai",
-    "previous": "Zarama",
-    "next": "Zaranis",
-    "redirect": "Drangai",
-    "proof_read": 2,
-    "chapters": [
-      {
-        "start": 2317,
-        "end": 2317
-      }
-    ]
-  },
-  {
     "lemma": "Zaranis",
     "previous": "Zarama",
     "next": "Zarangai",
@@ -6867,6 +6892,17 @@
         "start": 2317,
         "end": 2317,
         "author": "Hans Treidler."
+      }
+    ]
+  },
+  {
+    "lemma": "Zarangai",
+    "redirect": "Drangai",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 2317,
+        "end": 2317
       }
     ]
   },
