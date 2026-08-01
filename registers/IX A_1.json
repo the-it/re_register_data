@@ -626,7 +626,7 @@
   },
   {
     "lemma": "Vinduna",
-        "chapters": [
+    "chapters": [
       {
         "start": 106,
         "end": 106
@@ -2806,8 +2806,9 @@
     ]
   },
   {
-    "lemma":  "Virtus",
-        "chapters": [
+    "lemma": "Virtus",
+    "next": "Virtus Iulia",
+    "chapters": [
       {
         "start": 244,
         "end": 244
@@ -2816,9 +2817,10 @@
   },
   {
     "lemma": "Virtus Iulia",
+    "previous": "Virtus",
     "next": "Virvedrum Promontorium",
     "redirect": "Itucci",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 244,
@@ -2966,7 +2968,7 @@
   },
   {
     "lemma": "Οὐισβούργιοι",
-        "chapters": [
+    "chapters": [
       {
         "start": 348,
         "end": 349,
@@ -3660,7 +3662,7 @@
   },
   {
     "lemma": "Vitalianus 11",
-        "chapters": [
+    "chapters": [
       {
         "start": 379,
         "end": 379
@@ -4235,7 +4237,7 @@
   },
   {
     "lemma": "Vitennius",
-                "chapters": [
+    "chapters": [
       {
         "start": 391,
         "end": 391
@@ -4717,8 +4719,8 @@
     ]
   },
   {
-    "lemma":  "Vitrum",
-        "chapters": [
+    "lemma": "Vitrum",
+    "chapters": [
       {
         "start": 419,
         "end": 419
@@ -5515,7 +5517,7 @@
   },
   {
     "lemma": "Ulbius",
-        "chapters": [
+    "chapters": [
       {
         "start": 507,
         "end": 507
@@ -6015,7 +6017,7 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Ulixis portus",
     "previous": "Ulixibera",
     "next": "Οὐλιξίβιρρα",
@@ -6032,9 +6034,11 @@
   },
   {
     "lemma": "Οὐλιξίβιρρα",
+    "previous": "Ulixis portus",
+    "next": "Οὐλκαῖα ἕλη",
     "sort_key": "Vlixibirra",
     "redirect": "Ulixibera",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 541,
@@ -6042,9 +6046,9 @@
       }
     ]
   },
-
   {
     "lemma": "Οὐλκαῖα ἕλη",
+    "previous": "Οὐλιξίβιρρα",
     "next": "Ulla",
     "short_description": "Sumpfgebiet bei Cibalae",
     "chapters": [
@@ -7506,6 +7510,8 @@
     "sort_key": "Vmmidius 3",
     "proof_read": 0,
     "short_description": "Ummidia Quadratilla, Tochter des C. Ummidius Durmius Quadratus",
+    "wp_link": "w:de:Ummidia Quadratilla",
+    "wd_link": "d:Q7881721",
     "chapters": [
       {
         "start": 600,
@@ -8633,7 +8639,7 @@
   },
   {
     "lemma": "Volaginius",
-        "chapters": [
+    "chapters": [
       {
         "start": 719,
         "end": 719
@@ -8712,7 +8718,7 @@
   },
   {
     "lemma": "Volasennia",
-        "chapters": [
+    "chapters": [
       {
         "start": 721,
         "end": 721
@@ -9152,7 +9158,8 @@
   },
   {
     "lemma": "Wolf",
-        "chapters": [
+    "next": "Wolfsmilch",
+    "chapters": [
       {
         "start": 763,
         "end": 763
@@ -9161,6 +9168,7 @@
   },
   {
     "lemma": "Wolfsmilch",
+    "previous": "Wolf",
     "next": "Volgesia",
     "sort_key": "Volfsmilch",
     "proof_read": 0,
@@ -9550,7 +9558,8 @@
   },
   {
     "lemma": "Volteius 5",
-        "chapters": [
+    "next": "Voltinia tribus",
+    "chapters": [
       {
         "start": 849,
         "end": 849
@@ -9559,6 +9568,7 @@
   },
   {
     "lemma": "Voltinia tribus",
+    "previous": "Volteius 5",
     "next": "Voltumna",
     "redirect": true,
     "proof_read": 2,
@@ -10071,8 +10081,8 @@
     ]
   },
   {
-    "lemma":  "Volumnius 20",
-        "chapters": [
+    "lemma": "Volumnius 20",
+    "chapters": [
       {
         "start": 884,
         "end": 884
@@ -10179,8 +10189,9 @@
     ]
   },
   {
-    "lemma":  "Voluscius 2",
-        "chapters": [
+    "lemma": "Voluscius 2",
+    "next": "Volusenna",
+    "chapters": [
       {
         "start": 894,
         "end": 894
@@ -10189,6 +10200,7 @@
   },
   {
     "lemma": "Volusenna",
+    "previous": "Voluscius 2",
     "next": "Volusenus",
     "redirect": "Iulius 535",
     "proof_read": 2,
@@ -10598,8 +10610,9 @@
   {
     "lemma": "Volusius 8",
     "previous": "Volusius 7",
+    "next": "Volusius 9",
     "redirect": "Venustus 4",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 906,
@@ -10609,7 +10622,8 @@
   },
   {
     "lemma": "Volusius 9",
-        "chapters": [
+    "previous": "Volusius 8",
+    "chapters": [
       {
         "start": 906,
         "end": 906
@@ -10855,6 +10869,7 @@
   },
   {
     "lemma": "Vorocium",
+    "next": "Vorocius",
     "proof_read": 0,
     "short_description": "Ort",
     "chapters": [
@@ -10867,8 +10882,10 @@
   },
   {
     "lemma": "Vorocius",
+    "previous": "Vorocium",
+    "next": "Voroius",
     "redirect": "Mars 2",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 921,
@@ -10876,10 +10893,12 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Voroius",
+    "previous": "Vorocius",
+    "next": "Vorodes",
     "redirect": "Vorio (Voroius)",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 921,
@@ -10889,8 +10908,10 @@
   },
   {
     "lemma": "Vorodes",
+    "previous": "Voroius",
+    "next": "Vortigern",
     "redirect": "Septimius 61",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 921,
@@ -10898,7 +10919,6 @@
       }
     ]
   },
-
   {
     "lemma": "Vortigern",
     "previous": "Vorodes",
@@ -11419,7 +11439,7 @@
   },
   {
     "lemma": "Ur",
-        "chapters": [
+    "chapters": [
       {
         "start": 930,
         "end": 930
@@ -13334,8 +13354,8 @@
     ]
   },
   {
-    "lemma":  "urceus",
-        "chapters": [
+    "lemma": "urceus",
+    "chapters": [
       {
         "start": 999,
         "end": 999
@@ -13513,7 +13533,7 @@
   },
   {
     "lemma": "Urgulania",
-        "chapters": [
+    "chapters": [
       {
         "start": 1000,
         "end": 1000
@@ -13522,10 +13542,11 @@
   },
   {
     "lemma": "Urgulanilla",
+    "previous": "Urgolania",
     "next": "Urgulanius",
     "sort_key": "Vrgulanilla",
     "redirect": "Plautius 66",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1000,
@@ -13670,7 +13691,7 @@
   },
   {
     "lemma": "Urin",
-        "chapters": [
+    "chapters": [
       {
         "start": 1024,
         "end": 1024
@@ -13679,7 +13700,8 @@
   },
   {
     "lemma": "Urina",
-    "next": "Urinatius",
+    "previous": "Urima",
+    "next": "Urin",
     "sort_key": "Vrina",
     "redirect": "Urium 2",
     "proof_read": 2,
@@ -13900,7 +13922,7 @@
   },
   {
     "lemma": "urna",
-        "chapters": [
+    "chapters": [
       {
         "start": 1031,
         "end": 1031
@@ -13939,7 +13961,8 @@
   },
   {
     "lemma": "Uroboros",
-        "chapters": [
+    "next": "Urobroci(ae, i)",
+    "chapters": [
       {
         "start": 1031,
         "end": 1031
@@ -13948,12 +13971,16 @@
   },
   {
     "lemma": "Urobroci(ae, i)",
+    "previous": "Uroboros",
     "next": "Uro(comagus)",
+    "sort_key": "Vrobrociae",
+    "proof_read": 0,
     "short_description": "Keltische Göttermehrheit",
     "chapters": [
       {
         "start": 1031,
-        "author": "Heichelheim"
+        "end": 1031,
+        "author": "F. M. Heichelheim."
       }
     ]
   },
@@ -14348,7 +14375,7 @@
   },
   {
     "lemma": "Ursinis",
-        "chapters": [
+    "chapters": [
       {
         "start": 1063,
         "end": 1063
@@ -14417,7 +14444,7 @@
   },
   {
     "lemma": "Ursolis, Ursinis",
-       "chapters": [
+    "chapters": [
       {
         "start": 1066,
         "end": 1066,
@@ -14844,7 +14871,7 @@
   },
   {
     "lemma": "Usenus",
-        "chapters": [
+    "chapters": [
       {
         "start": 1079,
         "end": 1079
@@ -14976,7 +15003,7 @@
   },
   {
     "lemma": "Usimares",
-        "chapters": [
+    "chapters": [
       {
         "start": 1086,
         "end": 1086
@@ -15454,21 +15481,21 @@
   },
   {
     "lemma": "Utaêt",
-        "chapters": [
+    "chapters": [
       {
         "start": 1176,
         "end": 1176,
-                "author": "Karl Preisendanz."
+        "author": "Karl Preisendanz."
       }
     ]
   },
-    {
+  {
     "lemma": "Utalal",
-        "chapters": [
+    "chapters": [
       {
         "start": 1176,
         "end": 1176,
-                "author": "Karl Preisendanz."
+        "author": "Karl Preisendanz."
       }
     ]
   },
@@ -15592,7 +15619,8 @@
   },
   {
     "lemma": "Utica",
-        "chapters": [
+    "next": "Οὐτίδαυα",
+    "chapters": [
       {
         "start": 1179
       }
@@ -15600,17 +15628,22 @@
   },
   {
     "lemma": "Οὐτίδαυα",
+    "previous": "Utica",
     "next": "Utidorsi",
+    "sort_key": "Utidaua",
+    "proof_read": 0,
     "short_description": "Örtlichkeit des heutigen Rumänien",
     "chapters": [
       {
         "start": 1179,
-        "author": "Treidler"
+        "end": 1180,
+        "author": "Hans Treidler."
       }
     ]
   },
   {
     "lemma": "Utidorsi",
+    "previous": "Οὐτίδαυα",
     "next": "Οὐτίκνα",
     "sort_key": "Vtidorsi",
     "proof_read": 0,
@@ -15669,17 +15702,17 @@
     ]
   },
   {
-    "lemma":  "Utis",
-        "chapters": [
+    "lemma": "Utis",
+    "chapters": [
       {
         "start": 1187,
         "end": 1187
       }
     ]
   },
-    {
-    "lemma":  "Ut-Napištim",
-        "chapters": [
+  {
+    "lemma": "Ut-Napištim",
+    "chapters": [
       {
         "start": 1187,
         "end": 1187
@@ -15807,16 +15840,16 @@
   },
   {
     "lemma": "Uturger",
-        "chapters": [
+    "chapters": [
       {
         "start": 1188,
         "end": 1188
       }
     ]
   },
-    {
+  {
     "lemma": "Uturguroi",
-        "chapters": [
+    "chapters": [
       {
         "start": 1189,
         "end": 1189
@@ -15969,52 +16002,52 @@
   },
   {
     "lemma": "Vistilius",
-        "chapters": [
+    "chapters": [
       {
         "start": 1275,
         "end": 1275
       }
     ]
   },
-    {
+  {
     "lemma": "Vitalianus 11",
-        "chapters": [
+    "chapters": [
       {
         "start": 1275,
         "end": 1275
       }
     ]
   },
-    {
+  {
     "lemma": "Vitalius",
-        "chapters": [
+    "chapters": [
       {
         "start": 1275,
         "end": 1275
       }
     ]
   },
-    {
+  {
     "lemma": "Vitellius 7ff.",
-        "chapters": [
+    "chapters": [
       {
         "start": 1275,
         "end": 1275
       }
     ]
   },
-    {
+  {
     "lemma": "Vitennius",
-        "chapters": [
+    "chapters": [
       {
         "start": 1275,
         "end": 1275
       }
     ]
   },
-    {
+  {
     "lemma": "Vitorius",
-        "chapters": [
+    "chapters": [
       {
         "start": 1275,
         "end": 1275
@@ -16046,7 +16079,8 @@
   },
   {
     "lemma": "Uncia 2",
-        "chapters": [
+    "next": "Urgia",
+    "chapters": [
       {
         "start": 1280,
         "end": 1280
@@ -16055,6 +16089,7 @@
   },
   {
     "lemma": "Urgia",
+    "previous": "Uncia 2",
     "next": "Usimares",
     "sort_key": "Vrgia",
     "proof_read": 2,

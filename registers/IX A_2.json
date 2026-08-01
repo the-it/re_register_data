@@ -562,7 +562,7 @@
   },
   {
     "lemma": "Uxsacanus",
-        "chapters": [
+    "chapters": [
       {
         "start": 1322,
         "end": 1323,
@@ -693,7 +693,7 @@
   },
   {
     "lemma": "Uzia",
-        "chapters": [
+    "chapters": [
       {
         "start": 1329,
         "end": 1330,
@@ -703,7 +703,7 @@
   },
   {
     "lemma": "Uzicath",
-        "chapters": [
+    "chapters": [
       {
         "start": 1330,
         "end": 1330,
@@ -5017,6 +5017,7 @@
   {
     "lemma": "Ypone Zareston, Ypone Zenetum",
     "previous": "Ypodon",
+    "next": "Ysotenis",
     "sort_key": "Yponezareston, ypone zenetum",
     "proof_read": 2,
     "short_description": "entstellte Formen des Ortsnamens Hippo Diarrhytus",
@@ -5029,9 +5030,10 @@
       }
     ]
   },
-
   {
     "lemma": "Ysotenis",
+    "previous": "Ypone Zareston, Ypone Zenetum",
+    "next": "Ysson",
     "proof_read": 0,
     "short_description": "Ort zwischen Naukratis und Crocodilon",
     "chapters": [
@@ -5044,6 +5046,8 @@
   },
   {
     "lemma": "Ysson",
+    "previous": "Ysotenis",
+    "next": "Ysilime",
     "proof_read": 2,
     "short_description": "verderbter Name für Assos",
     "no_creative_height": true,
@@ -5057,6 +5061,8 @@
   },
   {
     "lemma": "Ysilime",
+    "previous": "Ysson",
+    "next": "Ysulime",
     "redirect": "Hyssu limen",
     "proof_read": 2,
     "chapters": [
@@ -5068,6 +5074,8 @@
   },
   {
     "lemma": "Ysulime",
+    "previous": "Ysilime",
+    "next": "Ytio Scython",
     "redirect": "Hyssu limen",
     "proof_read": 2,
     "chapters": [
@@ -5079,6 +5087,7 @@
   },
   {
     "lemma": "Ytio Scython",
+    "previous": "Ysulime",
     "sort_key": "Ytioscython",
     "proof_read": 0,
     "short_description": "Teilgebiet der Landschaft Hyrkanien",
@@ -5312,8 +5321,9 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Zabergan 2",
+    "next": "Zabi 1",
     "chapters": [
       {
         "start": 2204,
@@ -6602,6 +6612,7 @@
   {
     "lemma": "Zamolxis",
     "previous": "Zamnes",
+    "next": "Zandalas",
     "redirect": "Zalmoxis",
     "proof_read": 3,
     "chapters": [
@@ -6611,8 +6622,9 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Zandalas",
+    "previous": "Zamolxis",
     "next": "Zanes",
     "proof_read": 0,
     "short_description": "Person",
@@ -6624,8 +6636,10 @@
       }
     ]
   },
-    {
+  {
     "lemma": "Zanes",
+    "previous": "Zandalas",
+    "next": "Ζαναάθα",
     "chapters": [
       {
         "start": 2313,
@@ -6648,7 +6662,6 @@
       }
     ]
   },
-
   {
     "lemma": "Zange",
     "previous": "Ζαναάθα",
@@ -6897,6 +6910,8 @@
   },
   {
     "lemma": "Zarangai",
+    "previous": "Zaranis",
+    "next": "Zaras",
     "redirect": "Drangai",
     "proof_read": 2,
     "chapters": [
@@ -7231,7 +7246,7 @@
   {
     "lemma": "Zarter",
     "previous": "Ζαρουάνα",
-    "next": "Ζαρουάνα",
+    "next": "Zarzas",
     "proof_read": 2,
     "short_description": "Massagete, Doryphoros Belisars, 536 n. Chr. unter dux Konstantinos",
     "no_creative_height": true,
