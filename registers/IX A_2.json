@@ -7233,21 +7233,7 @@
     ]
   },
   {
-    "lemma": "Zarouana",
-    "previous": "Zarotis",
-    "next": "Zarter",
-    "short_description": "Polis der Armenia maior",
-    "chapters": [
-      {
-        "start": 2330,
-        "author": "Treidler"
-      }
-    ]
-  },
-  {
     "lemma": "Zarter",
-    "previous": "Ζαρουάνα",
-    "next": "Zarzas",
     "proof_read": 2,
     "short_description": "Massagete, Doryphoros Belisars, 536 n. Chr. unter dux Konstantinos",
     "no_creative_height": true,
@@ -7292,8 +7278,6 @@
   },
   {
     "lemma": "Zatchlas",
-    "previous": "Zarzas",
-    "next": "Zathraustes",
     "proof_read": 2,
     "short_description": "Aegyptius propheta primarius, beschwört die Seele Verstorbener herauf",
     "no_creative_height": true,
@@ -7305,21 +7289,7 @@
       }
     ]
   },
-  {
-    "lemma": "Zathraustes",
-    "previous": "Zatchlas",
-    "next": "Zattara",
-    "proof_read": 0,
-    "short_description": "Form von Zarathustra",
-    "chapters": [
-      {
-        "start": 2331,
-        "end": 2331,
-        "author": "Konrat Ziegler."
-      }
-    ]
-  },
-  {
+    {
     "lemma": "Zathua",
     "previous": "Zatchlas",
     "next": "Zathraustes",
@@ -7333,6 +7303,19 @@
       }
     ]
   },
+  {
+    "lemma": "Zathraustes",
+    "proof_read": 0,
+    "short_description": "Form von Zarathustra",
+    "chapters": [
+      {
+        "start": 2331,
+        "end": 2331,
+        "author": "Konrat Ziegler."
+      }
+    ]
+  },
+
   {
     "lemma": "Zattara",
     "previous": "Zathraustes",
@@ -7372,6 +7355,24 @@
         "start": 2332,
         "end": 2332,
         "author": "Adolf Lippold."
+      }
+    ]
+  },
+  {
+    "lemma": "Zautha",
+        "chapters": [
+      {
+        "start": 2332,
+        "end": 2332
+      }
+    ]
+  },
+  {
+    "lemma": "Zazaka",
+        "chapters": [
+      {
+        "start": 2332,
+        "end": 2332
       }
     ]
   },
@@ -7912,6 +7913,15 @@
       }
     ]
   },
+    {
+    "lemma": "Zengisa",
+    "chapters": [
+      {
+        "start": 2500,
+        "end": 2500
+      }
+    ]
+  },
   {
     "lemma": "Zeniketes",
     "previous": "Zengisa",
@@ -7923,19 +7933,6 @@
         "start": 2500,
         "end": 2502,
         "author": "Hans Gundel."
-      }
-    ]
-  },
-  {
-    "lemma": "Xenophon 6",
-    "previous": "Zeniketes",
-    "next": "Zenis 1",
-    "short_description": "X. von Athen, der Feldherr und Historiker und Sokratiker im 5./4. Jh. v. Chr",
-    "chapters": [
-      {
-        "start": 2501,
-        "end": 2502,
-        "author": "Breitenbach"
       }
     ]
   },
@@ -7970,7 +7967,6 @@
   {
     "lemma": "Zenius",
     "previous": "Zenis 2",
-    "next": "Zenobia 1",
     "proof_read": 2,
     "short_description": "praefectus Aegypti 328 n. Chr.",
     "no_creative_height": true,
@@ -7979,6 +7975,16 @@
         "start": 2502,
         "end": 2502,
         "author": "Adolf Lippold."
+      }
+    ]
+  },
+    {
+    "lemma": "Xenophon 6",
+    "chapters": [
+      {
+        "start": 2501,
+        "end": 2502,
+        "author": "Breitenbach"
       }
     ]
   }
