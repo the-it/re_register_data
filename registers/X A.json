@@ -2599,28 +2599,12 @@
   },
   {
     "lemma": "Zilia",
-    "previous": "Zigua",
-    "next": "Zilmissus",
     "redirect": "Zulil",
     "proof_read": 2,
     "chapters": [
       {
         "start": 447,
         "end": 447
-      }
-    ]
-  },
-  {
-    "lemma": "Zilmissus",
-    "previous": "Zilia",
-    "next": "Zimizes",
-    "proof_read": 0,
-    "short_description": "Hügel oder Berg in Thrakien",
-    "chapters": [
-      {
-        "start": 447,
-        "end": 447,
-        "author": "Chr. M. Danoff."
       }
     ]
   },
@@ -2635,6 +2619,19 @@
         "start": 447,
         "end": 447,
         "author": "Konrat Ziegler."
+      }
+    ]
+  },
+  {
+    "lemma": "Zilmissus",
+    "next": "Zimizes",
+    "proof_read": 0,
+    "short_description": "Hügel oder Berg in Thrakien",
+    "chapters": [
+      {
+        "start": 447,
+        "end": 447,
+        "author": "Chr. M. Danoff."
       }
     ]
   },
@@ -2833,6 +2830,15 @@
         "start": 460,
         "end": 461,
         "author": "M. Leglay."
+      }
+    ]
+  },
+  {
+    "lemma":  "Zitha",
+        "chapters": [
+      {
+        "start": 461,
+        "end": 461
       }
     ]
   },
@@ -4500,65 +4506,13 @@
     ]
   },
   {
-    "lemma": "Zygioi, Zygoi",
-    "previous": "Zygere",
-    "next": "Zesis",
+    "lemma": "Zygioi–Zygoi",
     "short_description": "Volksstamm an der kaukasischen Küste des Pontos Euxeinos",
     "chapters": [
       {
         "start": 860,
         "end": 861,
         "author": "Danoff"
-      }
-    ]
-  },
-  {
-    "lemma": "Zesis",
-    "previous": "Zygioi, Zygoi",
-    "next": "Zeugitana regio 1",
-    "short_description": "Z. aus dem isaur. Astra, richtig: Zezis, kaiserzeitl. Bildhauer",
-    "chapters": [
-      {
-        "start": 861,
-        "author": "Ziegler"
-      }
-    ]
-  },
-  {
-    "lemma": "Zeugitana regio 1",
-    "previous": "Zesis",
-    "next": "Zeugitana regio a",
-    "short_description": "Nordafrikan. Bergkette",
-    "chapters": [
-      {
-        "start": 861,
-        "author": "Leglay"
-      }
-    ]
-  },
-  {
-    "lemma": "Zeugitana regio a",
-    "previous": "Zeugitana regio 1",
-    "next": "Zexis",
-    "sort_key": "Zeugitana regio 0",
-    "short_description": "s.[a]) im R, Der nördl. Teil der Provinz Africa proconsularis, später eigene",
-    "chapters": [
-      {
-        "start": 861,
-        "end": 864,
-        "author": "Leglay"
-      }
-    ]
-  },
-  {
-    "lemma": "Zexis",
-    "previous": "Zeugitana regio a",
-    "next": "Zygopolis",
-    "short_description": "Z. aus dem isaur. Astra, richtig: Zezis, kaiserzeitl. Bildhauer",
-    "chapters": [
-      {
-        "start": 861,
-        "author": "Ziegler"
       }
     ]
   },
@@ -4659,9 +4613,50 @@
       }
     ]
   },
+    {
+    "lemma": "Zesis",
+    "short_description": "Z. aus dem isaur. Astra, richtig: Zezis, kaiserzeitl. Bildhauer",
+    "chapters": [
+      {
+        "start": 861,
+        "author": "Ziegler"
+      }
+    ]
+  },
+    {
+    "lemma": "Zexis",
+    "short_description": "Z. aus dem isaur. Astra, richtig: Zezis, kaiserzeitl. Bildhauer",
+    "chapters": [
+      {
+        "start": 861,
+        "author": "Ziegler"
+      }
+    ]
+  },
+  {
+    "lemma": "Zeugitana regio 1",
+    "short_description": "Nordafrikan. Bergkette",
+    "chapters": [
+      {
+        "start": 861,
+        "author": "Leglay"
+      }
+    ]
+  },
+  {
+    "lemma": "Zeugitana regio a",
+    "sort_key": "Zeugitana regio 0",
+    "short_description": "s.[a]) im R, Der nördl. Teil der Provinz Africa proconsularis, später eigene",
+    "chapters": [
+      {
+        "start": 861,
+        "end": 864,
+        "author": "Leglay"
+      }
+    ]
+  },
   {
     "lemma": "Zorambos",
-    "previous": "Zythos",
     "proof_read": 0,
     "short_description": "Gedros. (bzw. karman.) Küstenfluß",
     "chapters": [
