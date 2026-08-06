@@ -8015,13 +8015,35 @@
   },
   {
     "lemma": "Vaticanus 1a",
-    "previous": "Vaticanus a"
+    "previous": "Vaticanus a",
+    "next": "Vaticanus 2a",
+    "proof_read": 0,
+    "short_description": "Gebiet längs des westl. Tiberufers",
+    "chapters": [
+      {
+        "start": 490,
+        "end": 493,
+        "author": "Gerhard Radke."
+      }
+    ]
   },
   {
-    "lemma": "Vaticanus 2a"
+    "lemma": "Vaticanus 2a",
+    "previous": "Vaticanus 1a",
+    "next": "Vatienus",
+    "proof_read": 0,
+    "short_description": "Gott des vaticanischen Hügels",
+    "chapters": [
+      {
+        "start": 493,
+        "end": 494,
+        "author": "C. Koch."
+      }
+    ]
   },
   {
     "lemma": "Vatienus",
+    "previous": "Vaticanus 2a",
     "chapters": [
       {
         "start": 494,
@@ -9045,16 +9067,21 @@
   {
     "lemma": "Ucutumani, Ucutamii",
     "previous": "Ucuetis",
+    "next": "Udai",
+    "sort_key": "Vcutumani",
+    "proof_read": 0,
     "short_description": "Stamm Afrikas",
     "chapters": [
       {
         "start": 553,
-        "author": "Courtois"
+        "end": 554,
+        "author": "Ch. Courtois."
       }
     ]
   },
   {
     "lemma": "Udai",
+    "previous": "Ucutumani, Ucutamii",
     "next": "Udaios",
     "chapters": [
       {
@@ -9239,12 +9266,16 @@
   },
   {
     "lemma": "Veamini(i)",
+    "previous": "Q. Ve... Iust?(us",
     "next": "Veascium",
+    "sort_key": "Veminii",
+    "proof_read": 0,
     "short_description": "Ligurisch-gallischer Volksstamm in den Seealpen",
     "chapters": [
       {
         "start": 556,
-        "author": "Goessler"
+        "end": 558,
+        "author": "P. Goessler."
       }
     ]
   },
@@ -13453,6 +13484,10 @@
   {
     "lemma": "Οὐεπίλλιον",
     "previous": "Venutius",
+    "next": "Vepitenum",
+    "sort_key": "Vepillion",
+    "proof_read": 0,
+    "short_description": "Ort",
     "chapters": [
       {
         "start": 898,
