@@ -7143,26 +7143,39 @@
   },
   {
     "lemma": "Laberius 3",
+    "previous": "Kyrsilida",
+    "next": "Leburna",
+    "proof_read": 2,
+    "short_description": "Mimendichter, 1. Jhdt. v. Chr.",
+    "wp_link": "w:de:Decimus Laberius",
+    "ws_link": "s:it:Autore:Decimo Laberio",
+    "wd_link": "d:Q1181859",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 357,
+        "end": 357,
         "author": "Mario Bonaria."
       }
     ]
   },
   {
     "lemma": "Leburna",
-    "next": "Legitimatio",
-    "short_description": "Magister (= magistra) mimariorum",
+    "previous": "Laberius 3",
+    "next": "legitimatio",
+    "proof_read": 2,
+    "short_description": "magister (= magistra) mimariorum",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 357,
-        "author": "Bonaria"
+        "end": 357,
+        "author": "Mario Bonaria."
       }
     ]
   },
   {
-    "lemma": "Legitimatio",
+    "lemma": "legitimatio",
     "previous": "Leburna",
     "next": "Leptines 8",
     "chapters": [
@@ -7175,7 +7188,7 @@
   },
   {
     "lemma": "Leptines 8",
-    "previous": "Legitimatio",
+    "previous": "legitimatio",
     "short_description": "Siegreicher Schauspieler bei den Dionysia um das J. 430 v. Chr.",
     "chapters": [
       {
