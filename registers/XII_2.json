@@ -1861,11 +1861,13 @@
     "lemma": "Leokrates 1",
     "previous": "Leokorion",
     "next": "Leokrates 2",
-    "short_description": "Athen. Stratege im J. 479/8 v. Chr.",
+    "proof_read": 0,
+    "short_description": "athen. Stratege 479/8 v. Chr.",
     "chapters": [
       {
         "start": 2001,
-        "author": "Obst"
+        "end": 2002,
+        "author": "Obst."
       }
     ]
   },
@@ -8610,11 +8612,13 @@
     "lemma": "Lex Antia",
     "previous": "Lex Ampia Atia",
     "next": "Lex Antistia Asinia",
+    "proof_read": 2,
     "short_description": "L. A. sumptuaria",
     "chapters": [
       {
         "start": 2324,
-        "author": "Weiss, Egon"
+        "end": 2324,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -8624,6 +8628,7 @@
     "next": "Lex Antonia 1",
     "redirect": "Lex de flaminica diali",
     "proof_read": 2,
+    "short_description": "de flaminica diali",
     "chapters": [
       {
         "start": 2324,
@@ -9495,11 +9500,13 @@
     "previous": "Leges Corneliae 2",
     "next": "Lex Cornelia",
     "sort_key": "Lex Corneliae 3",
-    "short_description": "Die Gesetze des C. Cornelius über die Rechtsprechung der Prätoren",
+    "proof_read": 0,
+    "short_description": "Gesetz über die Rechtsprechung der Prätoren",
     "chapters": [
       {
         "start": 2343,
-        "author": "Weiss, Egon"
+        "end": 2343,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -9608,7 +9615,15 @@
   {
     "lemma": "Lex Curiata",
     "previous": "Lex Cornelia Fulvia de ambitu",
-    "next": "Lex data"
+    "next": "Lex data",
+    "redirect": "Lex",
+    "proof_read": 2,
+    "chapters": [
+      {
+        "start": 2345,
+        "end": 2345
+      }
+    ]
   },
   {
     "lemma": "Lex data",
@@ -9654,7 +9669,7 @@
   {
     "lemma": "Lex dicta",
     "previous": "Lex decumis vendundis",
-    "next": "Lex Domitia",
+    "next": "Lex Didia",
     "redirect": "Lex",
     "proof_read": 2,
     "chapters": [
@@ -9665,14 +9680,30 @@
     ]
   },
   {
-    "lemma": "Lex Domitia",
+    "lemma": "Lex Didia",
     "previous": "Lex dicta",
-    "next": "Lex Duilia",
-    "short_description": "Das Gesetz über die Priesterwahlen",
+    "next": "Lex Domitia",
+    "redirect": "Didius 1",
+    "proof_read": 2,
+    "short_description": "L. D. sumptuaria",
     "chapters": [
       {
         "start": 2345,
-        "author": "Weiss, Egon"
+        "end": 2345
+      }
+    ]
+  },
+  {
+    "lemma": "Lex Domitia",
+    "previous": "Lex Didia",
+    "next": "Lex Duilia",
+    "proof_read": 2,
+    "short_description": "Gesetz über die Priesterwahlen",
+    "chapters": [
+      {
+        "start": 2345,
+        "end": 2345,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -9758,11 +9789,13 @@
     "lemma": "Lex Fannia",
     "previous": "Lex Falcidia",
     "next": "Lex de flaminica diali",
+    "proof_read": 2,
     "short_description": "L. F. sumptuaria",
     "chapters": [
       {
         "start": 2353,
-        "author": "Weiss, Egon"
+        "end": 2353,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -10209,11 +10242,13 @@
     "lemma": "Lex Iunia 3",
     "previous": "Lex Iunia 2",
     "next": "Lex Iunia 4",
-    "short_description": "L. I. de pecuniis repetundis = L. I. Nr. 1",
+    "proof_read": 2,
+    "short_description": "L. I. de pecuniis repetundis",
     "chapters": [
       {
         "start": 2393,
-        "author": "Weiss, Egon"
+        "end": 2393,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -10266,7 +10301,7 @@
     "next": "Lex Laetoria",
     "sort_key": "Lexiunia vellaea",
     "proof_read": 2,
-    "short_description": "Gessetz zur Vererbung",
+    "short_description": "Gesetz zur Vererbung",
     "chapters": [
       {
         "start": 2394,
@@ -10278,20 +10313,28 @@
   {
     "lemma": "Lex Laetoria",
     "previous": "Lex Iunia Vellaea",
-    "next": "Lex Licinia 1"
+    "next": "Lex Licinia 1",
+    "proof_read": 2,
+    "short_description": "Gesetz über die Minderjährigen",
+    "chapters": [
+      {
+        "start": 2394,
+        "end": 2394
+      }
+    ]
   },
   {
     "lemma": "Lex Licinia 1",
     "previous": "Lex Laetoria",
     "next": "Lex Licinia 2",
     "sort_key": "Lexlicinia 1",
-    "proof_read": 0,
-    "short_description": "Erwähnt bei Liv. zum J. 208 v. Chr.",
+    "proof_read": 2,
+    "short_description": "erwähnt bei Livius zum Jahr 208 v. Chr.",
     "chapters": [
       {
         "start": 2394,
         "end": 2394,
-        "author": "Weiss."
+        "author": "E. Weiss."
       }
     ]
   },
@@ -10300,13 +10343,13 @@
     "previous": "Lex Licinia 1",
     "next": "Lex Licinia 3",
     "sort_key": "Lexlicinia 2",
-    "proof_read": 0,
-    "short_description": "Zur Einsetzung von triumviri epulones, 197 v. Chr.",
+    "proof_read": 2,
+    "short_description": "zur Einsetzung von triumviri epulones 197 v. Chr.",
     "chapters": [
       {
         "start": 2394,
         "end": 2394,
-        "author": "Weiss."
+        "author": "E. Weiss."
       }
     ]
   },
@@ -10314,11 +10357,13 @@
     "lemma": "Lex Licinia 3",
     "previous": "Lex Licinia 2",
     "next": "Lex Licinia 4",
+    "proof_read": 2,
     "short_description": "L. L. de sodaliciis",
     "chapters": [
       {
         "start": 2394,
-        "author": "Weiss, J[akob]"
+        "end": 2394,
+        "author": "E. Weiss."
       }
     ]
   },

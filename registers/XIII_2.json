@@ -12500,11 +12500,13 @@
     "lemma": "Lyrkeion 2",
     "previous": "Lyrkeion 1",
     "next": "Lyrkos 1",
-    "short_description": "Argiv. Ort",
+    "proof_read": 0,
+    "short_description": "argivischer Ort",
     "chapters": [
       {
         "start": 2500,
-        "author": "Meyer, Ernst"
+        "end": 2500,
+        "author": "Ernst Meyer."
       }
     ]
   },
@@ -13964,6 +13966,7 @@
   },
   {
     "lemma": "Lenus",
+    "next": "Leokrates 1",
     "chapters": [
       {
         "start": 2560,
@@ -13973,15 +13976,21 @@
   },
   {
     "lemma": "Leokrates 1",
+    "previous": "Lenus",
+    "next": "Leuci",
+    "proof_read": 0,
+    "short_description": "athen. Stratege 479/8 v. Chr.",
     "chapters": [
       {
         "start": 2560,
+        "end": 2560,
         "author": "Nachod."
       }
     ]
   },
   {
     "lemma": "Leuci",
+    "previous": "Leokrates 1",
     "chapters": [
       {
         "start": 2560,
