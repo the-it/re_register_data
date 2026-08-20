@@ -8439,8 +8439,8 @@
     "previous": "Lex Acilia Minucia",
     "next": "Lex Aebutia 2",
     "sort_key": "Lexaebutia 1",
-    "proof_read": 1,
-    "short_description": "Bei Cic. leg. agr. erwähntes Gesetz",
+    "proof_read": 2,
+    "short_description": "bei Cic. leg. agr. erwähntes Gesetz",
     "chapters": [
       {
         "start": 2320,
@@ -10445,11 +10445,13 @@
     "lemma": "Lex Licinia 9",
     "previous": "Lex Licinia 8",
     "next": "Lex Licinia de ambitu",
-    "short_description": "Das Gesetz über die Berufung außerordentlicher Kommissionen vgl. Licinius Nr. 3",
+    "proof_read": 2,
+    "short_description": "Gesetz über die Berufung außerordentlicher Kommissionen",
     "chapters": [
       {
         "start": 2395,
-        "author": "Weiss, J[akob]"
+        "end": 2395,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -10570,12 +10572,15 @@
   },
   {
     "lemma": "Leges Maniliae",
-    "sort_key": "Lex Maniliae",
-    "short_description": "Lex Manilia de libertinorum suffragiis und Lex Manilia de imperio Cn. Pompei",
+    "previous": "Lex Mamilia Roscia Peducaea Alliena Fabia",
+    "next": "Leges Manilianae",
+    "proof_read": 0,
+    "short_description": "de libertinorum suffragiis und Lex Manilia de imperio Cn. Pompei",
     "chapters": [
       {
         "start": 2397,
-        "author": "Weiss, Egon"
+        "end": 2398,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -11781,11 +11786,13 @@
     "lemma": "Lex Scribonia",
     "previous": "Lex Scantinia",
     "next": "Leges Semproniae 1",
-    "short_description": "Das Gesetz über die Aufhebung der Servitutersitzung",
+    "proof_read": 0,
+    "short_description": "Gesetz über die Aufhebung der Servitutersitzung",
     "chapters": [
       {
         "start": 2414,
-        "author": "Weiss, Egon"
+        "end": 2414,
+        "author": "E. Weiss."
       }
     ]
   },
@@ -11808,12 +11815,13 @@
     "lemma": "Leges Semproniae 2",
     "previous": "Leges Semproniae 1",
     "next": "Leges Serviliae 1",
-    "sort_key": "Lex Semproniae 2",
-    "short_description": "des C. Sempronius Gracchus",
+    "proof_read": 0,
+    "short_description": "L. S. de provocatione",
     "chapters": [
       {
         "start": 2414,
-        "author": "Weiss, Egon"
+        "end": 2414,
+        "author": "E. Weiss."
       }
     ]
   },
