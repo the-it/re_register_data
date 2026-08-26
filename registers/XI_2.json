@@ -13914,12 +13914,13 @@
     "lemma": "Kyllene 3",
     "previous": "Kyllene 2",
     "next": "Kyllene 4",
-    "short_description": "Hafen an der Nordwestküste von Elis",
+    "proof_read": 0,
+    "short_description": "Hafen an der NW-Küste von Elis",
     "chapters": [
       {
         "start": 2457,
         "end": 2458,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
@@ -14405,7 +14406,7 @@
   {
     "lemma": "Kynaion",
     "previous": "Kynaigeiros",
-    "next": "Kynaitha 1",
+    "next": "Kynaitha",
     "proof_read": 2,
     "short_description": "s. Kenaion",
     "no_creative_height": true,
@@ -14418,15 +14419,31 @@
     ]
   },
   {
-    "lemma": "Kynaitha 1",
+    "lemma": "Kynaitha",
     "previous": "Kynaion",
+    "next": "Kynaitha 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 2479,
+        "end": 2479,
+        "author": "Pieske."
+      }
+    ]
+  },
+  {
+    "lemma": "Kynaitha 1",
+    "previous": "Kynaitha",
     "next": "Kynaitha 2",
-    "short_description": "Nordarkad. Stadt",
+    "proof_read": 0,
+    "short_description": "nordarkadische Stadt",
     "chapters": [
       {
         "start": 2479,
         "end": 2482,
-        "author": "Pieske"
+        "author": "Pieske."
       }
     ]
   },
