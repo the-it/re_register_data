@@ -990,11 +990,18 @@
     "lemma": "Parentalia",
     "previous": "Parenta",
     "next": "Parentes",
+    "proof_read": 2,
+    "short_description": "das römische Totenfest",
     "chapters": [
       {
-        "start": 1461
+        "start": 1461,
+        "end": 1461
       }
-    ]
+    ],
+    "history": {
+      "0": "261014",
+      "2": "261015"
+    }
   },
   {
     "lemma": "Parentes",
@@ -1363,11 +1370,18 @@
     "lemma": "Parion",
     "previous": "Parioi",
     "next": "Paris 1",
+    "proof_read": 2,
+    "short_description": "kleinasiatische Stadt an der Propontis",
     "chapters": [
       {
-        "start": 1484
+        "start": 1484,
+        "end": 1484
       }
-    ]
+    ],
+    "history": {
+      "0": "261014",
+      "2": "261015"
+    }
   },
   {
     "lemma": "Paris 1",
@@ -9853,48 +9867,70 @@
     "lemma": "Pacht",
     "previous": "Paytnouphis",
     "next": "Paedagogium puerorum a capite Africae",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 2439,
-        "author": "Bolla"
+        "end": 2483,
+        "author": "v. Bolla."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Paedagogium puerorum a capite Africae",
     "previous": "Pacht",
-    "next": "Paidëia",
-    "short_description": "Röm. Erziehungsanstalt für kaiserl. Pagen auf dem Mons Caelius",
+    "next": "Παιδήια",
+    "proof_read": 0,
+    "short_description": "römische Erziehungsanstalt für kaiserl. Pagen auf dem Mons Caelius",
     "chapters": [
       {
         "start": 2483,
-        "author": "Riemann"
+        "end": 2483,
+        "author": "H. Riemann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
-    "lemma": "Paidëia",
+    "lemma": "Παιδήια",
     "previous": "Paedagogium puerorum a capite Africae",
-    "next": "Palairos",
-    "short_description": "Ein Opfer bei den delph. Apaturien",
+    "next": "Palaestina",
+    "sort_key": "Paidëia",
+    "proof_read": 0,
+    "short_description": "ein Opfer bei den delphischen Apaturien",
     "chapters": [
       {
         "start": 2483,
-        "author": "Ziehen"
+        "end": 2484,
+        "author": "L. Ziehen."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Palairos",
-    "previous": "Paidëia",
+    "previous": "Παιδήια",
     "next": "Paphlagonia",
-    "short_description": "Westakarnan. Stadt",
+    "proof_read": 0,
+    "short_description": "westakarnanische Stadt",
+    "wd_link": "d:Q38280718",
     "chapters": [
       {
         "start": 2484,
-        "author": "Kirsten"
+        "end": 2486,
+        "author": "E. Kirsten."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Paphlagonia",
@@ -10063,25 +10099,35 @@
     "lemma": "Papirius 60",
     "previous": "Pausippos",
     "next": "Parapotamioi 2",
-    "short_description": "Maso, C. Curator frumenti",
+    "proof_read": 0,
+    "short_description": "C. Papirius Mas(s)o, Plebejer auf Inschriften, 2. Hälfte des 1. Jhdts. v. Chr.",
     "chapters": [
       {
         "start": 2585,
-        "author": "Hofmann, Max"
+        "end": 2586,
+        "author": "Max Hofmann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Parapotamioi 2",
     "previous": "Papirius 60",
-    "next": "Parmenon 4",
-    "short_description": "Bewohner einer Gegend am Acheloos (I 213 Nr. 1)",
+    "next": "Parmenion 6",
+    "proof_read": 0,
+    "short_description": "Bewohner einer Gegend am Acheloos",
     "chapters": [
       {
         "start": 2586,
-        "author": "Kirsten"
+        "end": 2586,
+        "author": "E. Kirsten."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Parmenon 4",
