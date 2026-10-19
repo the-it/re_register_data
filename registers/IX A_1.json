@@ -242,7 +242,7 @@
   {
     "lemma": "Vindex 2",
     "previous": "Vindex 1",
-    "next": "Vindex 3",
+    "next": "Vindex 4",
     "proof_read": 0,
     "short_description": "Titel des Steuereinnehmers seit Kaiser Anastasius I",
     "chapters": [
@@ -302,7 +302,7 @@
       }
     ],
     "history": {
-      "2": "220114",
+      "2": "210911",
       "3": "260721"
     }
   },
@@ -319,7 +319,7 @@
       }
     ],
     "history": {
-      "2": "220114",
+      "2": "210911",
       "3": "260721"
     }
   },
@@ -432,7 +432,7 @@
       }
     ],
     "history": {
-      "2": "220110"
+      "2": "211113"
     }
   },
   {
@@ -2640,7 +2640,7 @@
       }
     ],
     "history": {
-      "2": "220114"
+      "2": "210911"
     }
   },
   {
@@ -2761,7 +2761,7 @@
       }
     ],
     "history": {
-      "2": "220114",
+      "2": "210911",
       "3": "260721"
     }
   },
@@ -3421,8 +3421,8 @@
   },
   {
     "lemma": "Virtus",
-    "previous": "Wirtshäuser",
-    "next": "Virtus Iulia",
+    "previous": "Vipsanius 2",
+    "next": "Virunum 1",
     "sort_key": "Virtus",
     "redirect": true,
     "proof_read": 2,
@@ -3494,13 +3494,20 @@
     "lemma": "Virunum 1",
     "previous": "Viruniensis",
     "next": "Virunum 2",
-    "short_description": "Nor. Stadt",
+    "proof_read": 0,
+    "short_description": "norische Stadt",
+    "wp_link": "w:de:Virunum",
+    "wd_link": "d:Q701582",
     "chapters": [
       {
         "start": 244,
-        "author": "Vetters"
+        "end": 309,
+        "author": "Hermann Vetters."
       }
-    ]
+    ],
+    "history": {
+      "0": "261018"
+    }
   },
   {
     "lemma": "Virunum 2",
@@ -3717,7 +3724,10 @@
         "end": 353,
         "author": "W. Eisenhut."
       }
-    ]
+    ],
+    "history": {
+      "0": "260721"
+    }
   },
   {
     "lemma": "Viscus",
@@ -4106,13 +4116,13 @@
       }
     ],
     "history": {
-      "2": "220114"
+      "2": "210911"
     }
   },
   {
     "lemma": "Οὐίσποι",
     "previous": "Visontium 3",
-    "next": "Vistilius",
+    "next": "Vistilius 1",
     "sort_key": "Vispoi",
     "proof_read": 0,
     "short_description": "Stamm zwischen Rhein und Abnobagebirge",
@@ -4128,11 +4138,12 @@
     }
   },
   {
-    "lemma": "Vistilius",
+    "lemma": "Vistilius 1",
     "previous": "Οὐίσποι",
     "next": "Uistos",
     "redirect": true,
-    "proof_read": 2,
+    "proof_read": 3,
+    "short_description": "Sex. V. (von Igurium?), Senator (Prätor) um die Zeitenwende",
     "chapters": [
       {
         "start": 364,
@@ -4140,12 +4151,12 @@
       }
     ],
     "history": {
-      "2": "220114"
+      "3": "261018"
     }
   },
   {
     "lemma": "Uistos",
-    "previous": "Vistilius",
+    "previous": "Vistilius 1",
     "next": "Vistula",
     "sort_key": "Vistos",
     "proof_read": 0,
@@ -4487,7 +4498,7 @@
       }
     ],
     "history": {
-      "2": "220114"
+      "2": "210911"
     }
   },
   {
@@ -6087,7 +6098,7 @@
       }
     ],
     "history": {
-      "2": "220113"
+      "2": "211210"
     }
   },
   {
@@ -6103,7 +6114,7 @@
       }
     ],
     "history": {
-      "2": "220114"
+      "2": "210911"
     }
   },
   {
@@ -6333,7 +6344,7 @@
       }
     ],
     "history": {
-      "2": "220114"
+      "2": "210911"
     }
   },
   {
@@ -6366,7 +6377,7 @@
       }
     ],
     "history": {
-      "2": "220114"
+      "2": "210911"
     }
   },
   {
@@ -7232,7 +7243,7 @@
       }
     ],
     "history": {
-      "2": "220114"
+      "2": "210911"
     }
   },
   {
@@ -9253,13 +9264,18 @@
     "lemma": "Uncia 2",
     "previous": "Uncia 1",
     "next": "Unciana",
-    "short_description": "Röm. Maß- und Gewichtseinheit",
+    "proof_read": 0,
+    "short_description": "die römische Maß- und Gewichtseinheit. II. Münzen",
     "chapters": [
       {
         "start": 604,
-        "author": "Chantraine"
+        "end": 665,
+        "author": "H. Chantraine."
       }
-    ]
+    ],
+    "history": {
+      "0": "261018"
+    }
   },
   {
     "lemma": "Unciana",
@@ -19479,6 +19495,7 @@
   {
     "lemma": "Vitrum",
     "previous": "Vitriaria",
+    "next": "Uncia 2",
     "short_description": "(Waid, Glastum, Isatis) Die Farbstoffpflanze vgl. Glas, Waid",
     "chapters": [
       {
@@ -19489,13 +19506,20 @@
   },
   {
     "lemma": "Uncia 2",
+    "previous": "Vitrum",
     "next": "Urgia",
+    "proof_read": 0,
+    "short_description": "die römische Maß- und Gewichtseinheit. II. Münzen",
     "chapters": [
       {
         "start": 1280,
-        "end": 1280
+        "end": 1280,
+        "author": "H. Chantraine."
       }
-    ]
+    ],
+    "history": {
+      "0": "261018"
+    }
   },
   {
     "lemma": "Urgia",
