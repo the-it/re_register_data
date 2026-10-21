@@ -100,7 +100,7 @@
       }
     ],
     "history": {
-      "2": "220103"
+      "2": "211103"
     }
   },
   {
@@ -1609,7 +1609,7 @@
       }
     ],
     "history": {
-      "2": "220103"
+      "2": "211103"
     }
   },
   {
@@ -3067,13 +3067,18 @@
     "lemma": "Parthenion 1",
     "previous": "Parthenie",
     "next": "Parthenion 2",
-    "short_description": "Niedrigster Teil des argiv.-arkad. Grenzgebirges",
+    "proof_read": 0,
+    "short_description": "niedrigster Teil des argivisch-arkadischen Grenzgebirges",
     "chapters": [
       {
         "start": 1887,
-        "author": "Meyer, Ernst"
+        "end": 1890,
+        "author": "Ernst Meyer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Parthenion 2",
@@ -4159,12 +4164,17 @@
     "lemma": "Partitio legata",
     "previous": "Παρτίσκον",
     "next": "Partus abactio",
+    "proof_read": 0,
+    "short_description": "erbschaftsrechtlicher Begriff",
     "chapters": [
       {
         "start": 2046,
-        "end": 2048
+        "end": 2046
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Partus abactio",
@@ -6388,8 +6398,8 @@
     "lemma": "Paterios 1",
     "previous": "Paterculus",
     "next": "Paterios 2",
-    "redirect": true,
     "proof_read": 2,
+    "short_description": "Neuplatoniker(?) im 4./5. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2159,
@@ -7648,13 +7658,19 @@
     "lemma": "Πατρονόμος",
     "previous": "Patronis",
     "next": "Patronus",
-    "short_description": "Institution d. hellenistisch-römischen Sparta",
+    "sort_key": "Patronomos",
+    "proof_read": 0,
+    "short_description": "eponymer Beamter im hellenistisch-römischen Sparta",
     "chapters": [
       {
         "start": 2295,
-        "author": "Schaefer"
+        "end": 2306,
+        "author": "Hans Schaefer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Patronus",
@@ -9597,12 +9613,17 @@
     "lemma": "Pausippos",
     "previous": "Pausimachos 9",
     "next": "Pausiras",
+    "proof_read": 0,
+    "short_description": "Spartiate, Mitglied einer spartan. Gesandtschaft zum Perserkönig Dareios III.",
     "chapters": [
       {
         "start": 2423,
         "end": 2423
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Pausiras",
@@ -9990,121 +10011,191 @@
     "lemma": "Patara",
     "previous": "Pataikoi",
     "next": "Patareus 1",
-    "short_description": "Lyk. Küstenstadt",
+    "proof_read": 0,
+    "short_description": "Lykische Küstenstadt",
     "chapters": [
       {
         "start": 2555,
-        "author": "Radke"
+        "end": 2561,
+        "author": "Gerhard Radke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Patareus 1",
     "previous": "Patara",
     "next": "Patareus 2",
-    "short_description": "Einwohner der lyk. Stadt Patara (XVIII 2. H. 2555)",
+    "proof_read": 0,
+    "short_description": "Einwohner der lykischen Stadt Patara",
     "chapters": [
       {
         "start": 2561,
-        "author": "Radke"
+        "end": 2561,
+        "author": "Gerhard Radke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Patareus 2",
     "previous": "Patareus 1",
-    "next": "Pataros 1",
+    "next": "Pataros",
+    "proof_read": 0,
     "short_description": "Epitheton des Apollon",
     "chapters": [
       {
         "start": 2561,
-        "author": "Radke"
+        "end": 2561,
+        "author": "Gerhard Radke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
-    "lemma": "Pataros 1",
+    "lemma": "Pataros",
     "previous": "Patareus 2",
-    "next": "Pataros 2",
-    "short_description": "Eponymos von Patara (XVIII 2.H.2555), Sohn des Apollon und der Xanthostochter",
+    "next": "Pataros 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
     "chapters": [
       {
         "start": 2561,
-        "author": "Radke"
+        "end": 2561,
+        "author": "Gerhard Radke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261020"
+    }
+  },
+  {
+    "lemma": "Pataros 1",
+    "previous": "Pataros",
+    "next": "Pataros 2",
+    "proof_read": 0,
+    "short_description": "Eponymos von Patara, Sohn des Apollon und der Xanthostochter Lykia",
+    "wd_link": "d:Q139579280",
+    "chapters": [
+      {
+        "start": 2561,
+        "end": 2562,
+        "author": "Gerhard Radke."
+      }
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Pataros 2",
     "previous": "Pataros 1",
     "next": "Pataros 3",
-    "short_description": "Seeräuber, Eponymos von Patara (XVIII 2.H.2555), Sohn des Lapeon (XII 762),",
+    "proof_read": 0,
+    "short_description": "Seeräuber, Eponymos von Patara, Sohn des Lapeon, Bruder des Xanthos",
     "chapters": [
       {
         "start": 2562,
-        "author": "Radke"
+        "end": 2562,
+        "author": "Gerhard Radke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Pataros 3",
     "previous": "Pataros 2",
     "next": "Pataros 4",
-    "short_description": "Seeräuber, Gründer von Tios (Tion) (VI A 1411 Nr. 2)",
+    "proof_read": 0,
+    "short_description": "Seeräuber, Gründer von Tios (Tion)",
     "chapters": [
       {
         "start": 2562,
-        "author": "Radke"
+        "end": 2562,
+        "author": "Gerhard Radke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Pataros 4",
     "previous": "Pataros 3",
     "next": "Paterios 1",
-    "short_description": "Bithyn. Heros",
+    "proof_read": 0,
+    "short_description": "bithynischer Heros",
     "chapters": [
       {
         "start": 2562,
-        "author": "Radke"
+        "end": 2562,
+        "author": "Gerhard Radke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Paterios 1",
     "previous": "Pataros 4",
     "next": "Pausanias 1",
+    "proof_read": 0,
     "short_description": "Neuplatoniker(?) im 4./5. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2562,
-        "author": "Beutler"
+        "end": 2563,
+        "author": "R. Beutler."
       }
-    ]
+    ],
+    "history": {
+      "0": "261020"
+    }
   },
   {
     "lemma": "Pausanias 1",
     "previous": "Paterios 1",
     "next": "Pausanias 2",
-    "short_description": "Spartiate, Agiade, Sieger von Plataiai im J. 479 v. Chr., Sohn des Kleombrotos",
+    "proof_read": 0,
+    "short_description": "Spartiate, Agiade, Sieger von Plataiai 479 v. Chr., Sohn des Kleombrotos",
+    "wp_link": "w:de:Pausanias (Sparta)",
+    "wd_link": "d:Q314518",
     "chapters": [
       {
         "start": 2563,
-        "author": "Schaefer"
+        "end": 2578,
+        "author": "Hans Schaefer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Pausanias 2",
     "previous": "Pausanias 1",
     "next": "Pausippos",
-    "short_description": "Spartan. König in den J. 445-426 v. Chr. und 408/7-395/4 v. Chr., Sohn des",
+    "proof_read": 0,
+    "short_description": "spartanischer König 445–426 v. Chr. und 408-395 v. Chr., Sohn des Pleistoanax",
     "chapters": [
       {
         "start": 2578,
-        "author": "Schaefer"
+        "end": 2584,
+        "author": "Hans Schaefer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261014"
+    }
   },
   {
     "lemma": "Pausippos",
