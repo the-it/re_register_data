@@ -1419,13 +1419,18 @@
     "lemma": "Pontius 44",
     "previous": "Pontius 43",
     "next": "Pontius 45",
-    "short_description": "Ti. P. Pontianus, konsular. Legat in Pannonia inf. etwa in den J. 218-220 n.",
+    "proof_read": 0,
+    "short_description": "Ti. P. Pontianus, konsular. Legat in Pannonia inferior etwa 218–220 n. Chr.",
     "chapters": [
       {
         "start": 42,
-        "author": "Wolf"
+        "end": 42,
+        "author": "Wolf."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017"
+    }
   },
   {
     "lemma": "Pontius 45",
@@ -1708,13 +1713,18 @@
     "lemma": "Pontius 61",
     "previous": "Pontius 60",
     "next": "Pontius 62",
-    "short_description": "P. Leontius, Freund des Dichters Sidonius Apollinaris, s. P. Leontius Nr. 30",
+    "proof_read": 0,
+    "short_description": "P. Leontius, Freund des Dichters Sidonius Apollinaris",
     "chapters": [
       {
         "start": 45,
-        "author": "Ziegler"
+        "end": 45,
+        "author": "Konrat Ziegler."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017"
+    }
   },
   {
     "lemma": "Pontius 62",
@@ -3172,11 +3182,18 @@
     "lemma": "Populares",
     "previous": "Poppaeus 4",
     "next": "Popularis actio",
+    "proof_read": 2,
+    "short_description": "politische Richtung im republikanischen Rom",
     "chapters": [
       {
-        "start": 91
+        "start": 91,
+        "end": 91
       }
-    ]
+    ],
+    "history": {
+      "0": "261017",
+      "2": "261021"
+    }
   },
   {
     "lemma": "Popularis actio",
@@ -6640,14 +6657,18 @@
     "lemma": "Poseidion 15",
     "previous": "Poseidion 14",
     "next": "Ποσ(είδι)ος, Ποσ(τούμ)ιος",
-    "short_description": "Heiligtum des Poseidon Samios mit Hafen an der triphyl. Küste",
+    "proof_read": 0,
+    "short_description": "Heiligtum des Poseidon Samios mit Hafen an der triphylischen Küste",
     "chapters": [
       {
         "start": 423,
         "end": 426,
-        "author": "Meyer, Ernst"
+        "author": "Ernst Meyer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017"
+    }
   },
   {
     "lemma": "Ποσ(είδι)ος, Ποσ(τούμ)ιος",
@@ -11190,13 +11211,18 @@
     "lemma": "pontem",
     "previous": "Praefectianus",
     "next": "Poron",
-    "short_description": "Station an der Straße Gades - Corduba.",
+    "proof_read": 0,
+    "short_description": "Station an der Straße Gades-Corduba",
     "chapters": [
       {
         "start": 1225,
-        "author": "Schulten"
+        "end": 1225,
+        "author": "A. Schulten."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017"
+    }
   },
   {
     "lemma": "Poron",
@@ -11258,13 +11284,18 @@
     "lemma": "Porsica",
     "previous": "Poros 4",
     "next": "Portikanos",
-    "short_description": "Mesopot. Örtlichkeit.",
+    "proof_read": 0,
+    "short_description": "mesopotamische Örtlichkeit",
     "chapters": [
       {
         "start": 1229,
-        "author": "Treidler"
+        "end": 1229,
+        "author": "Hans Treidler."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017"
+    }
   },
   {
     "lemma": "Portikanos",
@@ -11281,72 +11312,110 @@
   {
     "lemma": "Postumus 9a",
     "previous": "Portikanos",
-    "next": "Potamios",
-    "short_description": "L. P[---] P., leg. Augg. pr. pr. der Provinz Belgica etwa in den J. 202-209 n.",
+    "next": "Ποτάμιος",
+    "proof_read": 0,
+    "short_description": "leg. Augg. pr. pr. der Provinz Belgica 202–209 n. Chr.",
     "chapters": [
       {
         "start": 1254,
-        "author": "Hanslik"
+        "end": 1254,
+        "author": "Rudolf Hanslik."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017"
+    }
   },
   {
-    "lemma": "Potamios",
+    "lemma": "Ποτάμιος",
     "previous": "Postumus 9a",
     "next": "Potentius 3",
-    "short_description": "Monatsname des dor. Kalenders in Kalchedon.",
+    "sort_key": "Potamios",
+    "proof_read": 2,
+    "short_description": "Potamios, Monatsname im dorischen Kalender (Kalchedon)",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1254,
-        "author": "Sontheimer"
+        "end": 1254,
+        "author": "Walther Sontheimer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017",
+      "2": "261023"
+    }
   },
   {
     "lemma": "Potentius 3",
-    "previous": "Potamios",
+    "previous": "Ποτάμιος",
     "next": "Potentius 4",
-    "short_description": "Kath. Bischof aus der Mitte des 5. Jh. n. Chr.",
+    "proof_read": 0,
+    "short_description": "katholischer Bischof 5. Jh. n. Chr.",
     "chapters": [
       {
         "start": 1254,
-        "author": "Enßlin"
+        "end": 1254,
+        "author": "W. Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017"
+    }
   },
   {
     "lemma": "Potentius 4",
     "previous": "Potentius 3",
     "next": "Potitus 4",
-    "short_description": "Defensor in den J. 558/60 n. Chr.",
+    "proof_read": 2,
+    "short_description": "Defensor 558/60 n. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1254,
-        "author": "Enßlin"
+        "end": 1254,
+        "author": "W. Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017",
+      "2": "261023"
+    }
   },
   {
     "lemma": "Potitus 4",
     "previous": "Potentius 4",
     "next": "Potitus 5",
+    "proof_read": 0,
     "short_description": "Vicarius urbis im J. 379/80 n. Chr.",
     "chapters": [
       {
         "start": 1255,
-        "author": "Enßlin"
+        "end": 1255,
+        "author": "W. Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017"
+    }
   },
   {
     "lemma": "Potitus 5",
     "previous": "Potitus 4",
-    "short_description": "Anhänger des Markion.",
+    "next": "Praeda",
+    "proof_read": 2,
+    "short_description": "Anhänger des Markion",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1255,
-        "author": "Enßlin"
+        "end": 1255,
+        "author": "W. Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261017",
+      "2": "261023"
+    }
   }
 ]

@@ -3574,7 +3574,8 @@
     "lemma": "Phistyon",
     "previous": "Phistyis",
     "next": "Phiteus",
-    "proof_read": 0,
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "aitolische Stadt",
     "chapters": [
       {
@@ -3583,7 +3584,8 @@
       }
     ],
     "history": {
-      "0": "261016"
+      "0": "261016",
+      "3": "261023"
     }
   },
   {
@@ -5532,7 +5534,8 @@
     "lemma": "Phoinikis",
     "previous": "Phoinikion",
     "next": "Phoinikischer Münzfuß",
-    "proof_read": 0,
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "boiotische Stadt",
     "chapters": [
       {
@@ -5541,7 +5544,8 @@
       }
     ],
     "history": {
-      "0": "261016"
+      "0": "261016",
+      "3": "261023"
     }
   },
   {
@@ -12537,8 +12541,9 @@
     "lemma": "Phylarchoi",
     "previous": "Phylarches",
     "next": "Phylarchos 1",
-    "proof_read": 0,
-    "short_description": "die Phylen Vorsteher, s. Phylarchos Nr. 4",
+    "redirect": true,
+    "proof_read": 3,
+    "short_description": "die Phylen Vorsteher",
     "chapters": [
       {
         "start": 990,
@@ -12546,14 +12551,16 @@
       }
     ],
     "history": {
-      "0": "261016"
+      "0": "261016",
+      "3": "261023"
     }
   },
   {
     "lemma": "Phylarchos 1",
     "previous": "Phylarchoi",
     "next": "Phylarchos 2",
-    "proof_read": 2,
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "griechische Geschichtsschreiber 3. Jh. v. Chr.",
     "wp_link": "w:de:Phylarchos",
     "ws_link": "s:it:Autore:Filarco di Atene",
@@ -12566,7 +12573,8 @@
     ],
     "history": {
       "0": "261016",
-      "2": "261020"
+      "2": "261020",
+      "3": "261023"
     }
   },
   {
@@ -14327,7 +14335,8 @@
     "lemma": "Physkos 3",
     "previous": "Physkos 2",
     "next": "Physkos 4",
-    "proof_read": 0,
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "Ort und Demos der rhodischen Peraia",
     "chapters": [
       {
@@ -14336,7 +14345,8 @@
       }
     ],
     "history": {
-      "0": "261016"
+      "0": "261016",
+      "3": "261023"
     }
   },
   {
@@ -14843,7 +14853,8 @@
     "lemma": "Piathris",
     "previous": "Piasos",
     "next": "Piavonius",
-    "proof_read": 2,
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "astrologischer Begriff, der dritte Dekan der Fische",
     "chapters": [
       {
@@ -14853,7 +14864,8 @@
     ],
     "history": {
       "0": "261016",
-      "2": "261020"
+      "2": "261020",
+      "3": "261023"
     }
   },
   {
@@ -14876,15 +14888,18 @@
   {
     "lemma": "Pibechis",
     "previous": "Piavonius",
-    "next": "Picarii",
-    "redirect": "Victorinus 2",
-    "proof_read": 2,
+    "proof_read": 0,
+    "short_description": "spätantiker ägyptischer Magier",
     "chapters": [
       {
-        "start": 1185,
-        "end": 1185
+        "start": 1310,
+        "end": 1312,
+        "author": "K. Preisendanz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261016"
+    }
   },
   {
     "lemma": "Picarii",
@@ -15389,13 +15404,20 @@
     "lemma": "τόπος Φιλώτα",
     "previous": "Pignus",
     "next": "Philotera",
-    "sort_key": "Philota",
+    "sort_key": "Philota Topos",
+    "proof_read": 2,
+    "short_description": "Topos Philota, Örtlichkeit im karischen Magnesia",
     "chapters": [
       {
         "start": 1285,
-        "author": "Ruge"
+        "end": 1285,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261016",
+      "2": "261023"
+    }
   },
   {
     "lemma": "Philotera",

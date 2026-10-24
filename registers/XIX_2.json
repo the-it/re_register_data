@@ -8920,7 +8920,8 @@
     "lemma": "Pharmakussai",
     "previous": "Pharmakussa",
     "next": "Φαρματηνός",
-    "proof_read": 2,
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "zwei Inseln in der Meerenge von Salamis",
     "chapters": [
       {
@@ -8930,7 +8931,8 @@
     ],
     "history": {
       "0": "261015",
-      "2": "261020"
+      "2": "261020",
+      "3": "261023"
     }
   },
   {
@@ -9518,7 +9520,8 @@
     "lemma": "Pharsalos",
     "previous": "Pharroa",
     "next": "Pharsana",
-    "proof_read": 0,
+    "redirect": true,
+    "proof_read": 3,
     "short_description": "thessalische Stadt",
     "chapters": [
       {
@@ -9527,7 +9530,8 @@
       }
     ],
     "history": {
-      "0": "261015"
+      "0": "261015",
+      "3": "261023"
     }
   },
   {
@@ -21780,12 +21784,17 @@
   {
     "lemma": "Philippos 71",
     "previous": "Philippos 70",
-    "short_description": "Astrologe in Delphi = P. Nr. 70 (XIX 2558)(?)",
+    "proof_read": 0,
+    "short_description": "Astrologe in Delphi",
     "chapters": [
       {
         "start": 2558,
-        "author": "Treves"
+        "end": 2560,
+        "author": "P. Treves."
       }
-    ]
+    ],
+    "history": {
+      "0": "261016"
+    }
   }
 ]
