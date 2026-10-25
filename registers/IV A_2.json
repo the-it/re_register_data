@@ -2137,13 +2137,18 @@
     "lemma": "Sypalettos",
     "previous": "Syopii",
     "next": "Syphaeum",
-    "short_description": "Att. Demos.",
+    "proof_read": 0,
+    "short_description": "attischer Demos",
     "chapters": [
       {
         "start": 1471,
-        "author": "Meyer, Ernst"
+        "end": 1471,
+        "author": "Ernst Meyer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Syphaeum",
@@ -2531,19 +2536,26 @@
   {
     "lemma": "Σύριαι πύλαι",
     "previous": "Syria Phoenice",
-    "next": "Syriandos",
-    "short_description": "Hauptübergang über das Amanosgebirge vgl. Pylai Nr. 9) Kilikiai.",
+    "next": "Syriandos (?)",
+    "sort_key": "Syriai pylai",
+    "proof_read": 0,
+    "short_description": "Hauptübergang über das Amanosgebirge",
     "chapters": [
       {
         "start": 1727,
-        "author": "Honigmann"
+        "end": 1728,
+        "author": "Honigmann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
-    "lemma": "Syriandos",
+    "lemma": "Syriandos (?)",
     "previous": "Σύριαι πύλαι",
     "next": "Syrianos 1",
+    "sort_key": "Syriandos",
     "proof_read": 0,
     "short_description": "Name des Windes",
     "chapters": [
@@ -2559,7 +2571,7 @@
   },
   {
     "lemma": "Syrianos 1",
-    "previous": "Syriandos",
+    "previous": "Syriandos (?)",
     "next": "Syrianos 2",
     "proof_read": 0,
     "short_description": "Neuplatoniker",
@@ -5043,13 +5055,21 @@
     "lemma": "Tabulae duodecim",
     "previous": "Tabulae dotales",
     "next": "Tabulae honestae missionis",
-    "short_description": "Das röm. Zwölftafelgesetz",
+    "proof_read": 0,
+    "short_description": "das römische Zwölftafelgesetz",
+    "wp_link": "w:de:Zwölftafelgesetz",
+    "ws_link": "s:la:Lex duodecim tabularum",
+    "wd_link": "d:Q203686",
     "chapters": [
       {
         "start": 1900,
-        "author": "Berger"
+        "end": 1949,
+        "author": "Berger."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Tabulae honestae missionis",
@@ -5631,13 +5651,18 @@
     "lemma": "Tadinae",
     "previous": "Tadiates",
     "next": "Tadius 1",
-    "short_description": "Umbr. Ort",
+    "proof_read": 0,
+    "short_description": "umbrischer Ort",
     "chapters": [
       {
         "start": 1999,
-        "author": "Philipp"
+        "end": 2000,
+        "author": "Philipp."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Tadius 1",
@@ -7232,8 +7257,9 @@
     "lemma": "Taleides",
     "previous": "Talbonda",
     "next": "Talent",
-    "proof_read": 0,
-    "short_description": "Person",
+    "proof_read": 2,
+    "short_description": "attischer Töpfer 6. Jh. v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 2066,
@@ -7242,19 +7268,25 @@
       }
     ],
     "history": {
-      "0": "260618"
+      "0": "260618",
+      "2": "261024"
     }
   },
   {
     "lemma": "Talent",
     "previous": "Taleides",
     "next": "Talestas",
+    "proof_read": 3,
+    "short_description": "Gewicht- und Münzeinheit",
     "chapters": [
       {
         "start": 2066,
         "end": 2066
       }
-    ]
+    ],
+    "history": {
+      "3": "261024"
+    }
   },
   {
     "lemma": "Talestas",
@@ -8270,7 +8302,7 @@
       }
     ],
     "history": {
-      "2": "220106"
+      "2": "211001"
     }
   },
   {
@@ -8552,13 +8584,18 @@
     "lemma": "Tammuz",
     "previous": "Tammas",
     "next": "Τάμνα 1",
-    "short_description": "Babylon.-assyr. Gottheit",
+    "proof_read": 0,
+    "short_description": "babylonisch-assyrische Gottheit",
     "chapters": [
       {
         "start": 2139,
-        "author": "Preisendanz"
+        "end": 2148,
+        "author": "K. Preisendanz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Τάμνα 1",
@@ -13511,7 +13548,8 @@
       }
     ],
     "history": {
-      "3": "220109"
+      "2": "190219",
+      "3": "201206"
     }
   },
   {
@@ -13619,7 +13657,7 @@
   {
     "lemma": "Tarracius 2",
     "previous": "Tarracius 1",
-    "next": "Tarraco 1",
+    "next": "Tarraco",
     "proof_read": 0,
     "short_description": "Bassus, Praef. urbi in Rom",
     "chapters": [
@@ -13634,16 +13672,40 @@
     }
   },
   {
-    "lemma": "Tarraco 1",
+    "lemma": "Tarraco",
     "previous": "Tarracius 2",
-    "next": "Tarraco 2",
-    "short_description": "Hauptstadt der Provinz Hispania Tarraconensis.",
+    "next": "Tarraco 1",
+    "proof_read": 0,
+    "short_description": "zum Namen",
     "chapters": [
       {
         "start": 2398,
-        "author": "Schulten"
+        "end": 2398,
+        "author": "Schulten."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
+  },
+  {
+    "lemma": "Tarraco 1",
+    "previous": "Tarraco",
+    "next": "Tarraco 2",
+    "proof_read": 0,
+    "short_description": "Hauptstadt der Provinz Hispania Tarraconensis",
+    "wp_link": "w:de:Tarraco",
+    "wd_link": "d:Q1501940",
+    "chapters": [
+      {
+        "start": 2398,
+        "end": 2403,
+        "author": "Schulten."
+      }
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Tarraco 2",
@@ -14178,13 +14240,18 @@
     "lemma": "Tarsion",
     "previous": "Tarsikos",
     "next": "Tarsios 1",
-    "short_description": "Ort in Pannonia inf.",
+    "proof_read": 0,
+    "short_description": "Ort in Pannonia inferior",
     "chapters": [
       {
         "start": 2413,
-        "author": "Fluss"
+        "end": 2413,
+        "author": "Fluss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Tarsios 1",
@@ -16841,23 +16908,36 @@
   {
     "lemma": "Συμβολαιογράφος",
     "previous": "Tauris",
-    "short_description": "richtig: Symbolaiographos. Gewerbsmäßiger Privatnotar",
+    "next": "Symmachia 3",
+    "sort_key": "Symbolaiographos",
+    "proof_read": 0,
+    "short_description": "der Privatnotar im byzantinischen Aegypten",
     "chapters": [
       {
-        "start": 2547
+        "start": 2547,
+        "end": 2547
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Symmachia 3",
+    "previous": "Συμβολαιογράφος",
     "next": "Tarne 2",
+    "proof_read": 0,
+    "short_description": "die Verbindung zweier oder mehrerer Staaten",
     "chapters": [
       {
         "start": 2547,
         "end": 2548,
         "author": "Schwahn."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Tarne 2",

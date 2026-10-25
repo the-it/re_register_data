@@ -58287,7 +58287,7 @@
       }
     ],
     "history": {
-      "3": "230202"
+      "3": "230123"
     }
   },
   {
@@ -95704,7 +95704,7 @@
       }
     ],
     "history": {
-      "3": "220104"
+      "3": "210820"
     }
   },
   {
@@ -110979,7 +110979,7 @@
       }
     ],
     "history": {
-      "3": "220109"
+      "3": "210821"
     }
   },
   {
@@ -131262,7 +131262,7 @@
       }
     ],
     "history": {
-      "3": "220109"
+      "3": "210821"
     }
   },
   {
@@ -142888,7 +142888,7 @@
       }
     ],
     "history": {
-      "3": "220114"
+      "3": "210822"
     }
   },
   {
@@ -160435,7 +160435,7 @@
       }
     ],
     "history": {
-      "3": "220114"
+      "3": "210822"
     }
   },
   {
@@ -176553,7 +176553,7 @@
   {
     "lemma": "πρόδρομος 2",
     "previous": "proditio",
-    "next": "proedros",
+    "next": "πρόεδρος",
     "sort_key": "prodromos 2",
     "proof_read": 3,
     "short_description": "prodromos, Süßwein, Most",
@@ -176572,9 +176572,10 @@
     }
   },
   {
-    "lemma": "proedros",
+    "lemma": "πρόεδρος",
     "previous": "πρόδρομος 2",
     "next": "Προεισφορά",
+    "sort_key": "proedros",
     "proof_read": 3,
     "short_description": "Vorsitzender einer Körperschaft des öffentlichen oder privaten Lebens",
     "no_creative_height": true,
@@ -176586,16 +176587,16 @@
       }
     ],
     "history": {
-      "3": "240513"
+      "3": "261024"
     }
   },
   {
     "lemma": "Προεισφορά",
-    "previous": "proedros",
+    "previous": "πρόεδρος",
     "next": "πρόγραμμα",
     "sort_key": "Proeisphora",
     "proof_read": 3,
-    "short_description": "die steuerliche Vorschußzahlung",
+    "short_description": "Proeisphora, die steuerliche Vorschußzahlung",
     "no_creative_height": true,
     "chapters": [
       {
@@ -178018,7 +178019,7 @@
       }
     ],
     "history": {
-      "3": "220114"
+      "3": "210822"
     }
   },
   {
@@ -186430,7 +186431,6 @@
     "lemma": "Serus, Serius",
     "previous": "Servius 11",
     "next": "Sesarethii",
-    "sort_key": "ServsSerius",
     "proof_read": 3,
     "short_description": "Terrakottentöpfer in Trier",
     "no_creative_height": true,
@@ -190440,6 +190440,9 @@
     "next": "Tadinae",
     "proof_read": 3,
     "short_description": "das römische Zwölftafelgesetz",
+    "wp_link": "w:de:Zwölftafelgesetz",
+    "ws_link": "s:la:Lex duodecim tabularum",
+    "wd_link": "d:Q203686",
     "no_creative_height": true,
     "chapters": [
       {
@@ -192919,7 +192922,7 @@
   {
     "lemma": "Thiannica",
     "previous": "Thiannea",
-    "next": "Thisamatai",
+    "next": "Θισαμάται",
     "proof_read": 3,
     "short_description": "Küstenstrich der römischen Provinz Pontus",
     "no_creative_height": true,
@@ -192935,9 +192938,10 @@
     }
   },
   {
-    "lemma": "Thisamatai",
+    "lemma": "Θισαμάται",
     "previous": "Thiannica",
     "next": "Thisoa 1",
+    "sort_key": "Thisamatai",
     "proof_read": 3,
     "short_description": "Volk zwischen Hypanis und Borysthenes in Skythien",
     "no_creative_height": true,
@@ -192954,7 +192958,7 @@
   },
   {
     "lemma": "Thisoa 1",
-    "previous": "Thisamatai",
+    "previous": "Θισαμάται",
     "next": "Thoas 6a",
     "proof_read": 3,
     "short_description": "arkadischer Ort",
