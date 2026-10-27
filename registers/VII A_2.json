@@ -1274,19 +1274,24 @@
     "lemma": "Turarius Vicus",
     "previous": "Turarius",
     "next": "Turasius 1",
-    "short_description": "Späterer Name des Tuscus Nr. 1 Vicus, Straße in Rom zwischen dem Forum Romanum",
+    "proof_read": 0,
+    "short_description": "Straße in Rom, späterer Name des Tuscus Nr. 1 Vicus = Unguentarius Vicus",
     "chapters": [
       {
         "start": 1372,
-        "author": "Riemann"
+        "end": 1372,
+        "author": "H. Riemann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Turasius 1",
     "previous": "Turarius Vicus",
     "next": "Turasius 2",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Freund des Symmachus",
     "no_creative_height": true,
     "chapters": [
@@ -1297,14 +1302,15 @@
       }
     ],
     "history": {
-      "2": "220107"
+      "2": "220107",
+      "3": "261026"
     }
   },
   {
     "lemma": "Turasius 2",
     "previous": "Turasius 1",
     "next": "Turba, Turbula 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "short_description": "Turasi thermae in Spoletium",
     "no_creative_height": true,
     "chapters": [
@@ -1315,7 +1321,8 @@
       }
     ],
     "history": {
-      "2": "220107"
+      "2": "220107",
+      "3": "261026"
     }
   },
   {
@@ -2413,12 +2420,17 @@
     "lemma": "Turnkunst",
     "previous": "Turni lacus",
     "next": "Turnos (?)",
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1409,
         "end": 1409
       }
-    ]
+    ],
+    "history": {
+      "0": "261025",
+      "3": "261026"
+    }
   },
   {
     "lemma": "Turnos (?)",
@@ -4448,20 +4460,27 @@
     "lemma": "Tuscus Vicus 1",
     "previous": "Tuscus 4",
     "next": "Tuscus Vicus 2",
-    "short_description": "Straße in Rom zwischen dem Forum Romanum und dem Forum Boarium. = Turarius (VII",
+    "proof_read": 0,
+    "short_description": "Straße in Rom zwischen dem Forum Romanum und dem Forum Boarium",
+    "wp_link": "w:en:Vicus Tuscus",
+    "wd_link": "d:Q1229845",
     "chapters": [
       {
         "start": 1493,
-        "author": "Welin"
+        "end": 1494,
+        "author": "Welin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Tuscus Vicus 2",
     "previous": "Tuscus Vicus 1",
     "next": "Τουσιαγάθ",
     "sort_key": "Tuscusvicus 2",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "Quartier von Antiocheia in Pisidien",
     "chapters": [
       {
@@ -4471,7 +4490,8 @@
       }
     ],
     "history": {
-      "0": "260710"
+      "0": "260710",
+      "2": "261026"
     }
   },
   {
@@ -6955,7 +6975,7 @@
     "previous": "Tynnichos 1",
     "next": "Tynnondas",
     "proof_read": 3,
-    "short_description": "Mit Nr. 1 identisch",
+    "short_description": "mit Nr. 1 identisch, kein Künstler",
     "chapters": [
       {
         "start": 1795,
@@ -7029,13 +7049,18 @@
     "lemma": "Typaneai",
     "previous": "Τυπαῖον",
     "next": "Typasius",
-    "short_description": "Triphyl. Stadt",
+    "proof_read": 0,
+    "short_description": "triphylische Stadt",
     "chapters": [
       {
         "start": 1796,
-        "author": "Meyer, Ernst"
+        "end": 1797,
+        "author": "Ernst Meyer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Typasius",
@@ -8654,13 +8679,18 @@
     "lemma": "Tyrrhener",
     "previous": "Tyrra",
     "next": "Tyrrhenos 1",
-    "short_description": "Griech. Bezeichnung für Etrusker bzw. für ein Volk der Aegaeis.",
+    "proof_read": 0,
+    "short_description": "griechische Bezeichnung für die ital. Etrusker bzw. für ein Volk der Aegaeis",
     "chapters": [
       {
         "start": 1909,
-        "author": "Brandenstein"
+        "end": 1938,
+        "author": "W. Brandenstein."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Tyrrhenos 1",
@@ -14766,13 +14796,18 @@
     "lemma": "Valerius",
     "previous": "Valeriolus",
     "next": "Valerius 1",
-    "short_description": "Altes patrizisches Geschlecht",
+    "proof_read": 0,
+    "short_description": "altes patrizisches Geschlecht",
     "chapters": [
       {
         "start": 2292,
-        "author": "Volkmann"
+        "end": 2296,
+        "author": "Volkmann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Valerius 1",
@@ -17268,13 +17303,21 @@
     "lemma": "Valerius 142",
     "previous": "Valerius 141",
     "next": "Valerius 143",
-    "short_description": "Diocletianus C. Aurelius V., röm. Kaiser in den J. 284-305 n. Chr",
+    "proof_read": 0,
+    "short_description": "C. Aurelius V. Diocletianus, röm. Kaiser 284–305 n. Chr.",
+    "wp_link": "w:de:Diokletian",
+    "ws_link": "s:en:Portal:Diocletian",
+    "wd_link": "d:Q43107",
     "chapters": [
       {
         "start": 2419,
-        "author": "Enßlin"
+        "end": 2495,
+        "author": "W. Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Valerius 143",
@@ -17434,13 +17477,18 @@
     "lemma": "Trogitis",
     "previous": "Valerius 151",
     "next": "Trogodytai",
+    "proof_read": 0,
+    "short_description": "lykaonischer See",
     "chapters": [
       {
         "start": 2497,
         "end": 2497,
-        "author": "K. Jahn."
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Trogodytai",
@@ -17465,49 +17513,70 @@
     "lemma": "Troia 1",
     "previous": "Trogodytai",
     "next": "Troodos",
-    "short_description": "Stadt im nordwestl. Kleinasien",
+    "proof_read": 0,
+    "short_description": "Stadt im nordwestlichen Kleinasien",
     "chapters": [
       {
         "start": 2500,
-        "author": "Brandenstein"
+        "end": 2506,
+        "author": "W. Brandenstein."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Troodos",
     "previous": "Troia 1",
     "next": "Turibulum 1",
-    "short_description": "Kypr. Berg bzw. Gebirge",
+    "proof_read": 2,
+    "short_description": "kyprischer Berg bzw. Gebirge",
     "chapters": [
       {
         "start": 2507,
-        "author": "Oberhummer"
+        "end": 2507,
+        "author": "E. Oberhummer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025",
+      "2": "261026"
+    }
   },
   {
     "lemma": "Turibulum 1",
     "previous": "Troodos",
     "next": "Turibulum 2",
-    "short_description": "Das Räuchergerät",
+    "proof_read": 0,
+    "short_description": "das Räuchergerät",
     "chapters": [
       {
         "start": 2508,
-        "author": "Kreis-von Schaewen"
+        "end": 2512,
+        "author": "R. Kreis-v. Schaewen."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Turibulum 2",
     "previous": "Turibulum 1",
     "next": "Turnkunst",
-    "short_description": "Das Sternbild des Altars = Thyterion (VI A 757)",
+    "proof_read": 0,
+    "short_description": "das Sternbild des Altars = Thyterion",
     "chapters": [
       {
         "start": 2512,
-        "author": "Kreis-von Schaewen"
+        "end": 2513,
+        "author": "R. Kreis-v. Schaewen."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Turnkunst",
@@ -17523,31 +17592,59 @@
   {
     "lemma": "Tutela 10",
     "previous": "Turnkunst",
-    "next": "Tyberis(s)eis",
-    "short_description": "T. navis, die röm. Schutzgottheit der Schiffe",
+    "next": "Tybenissos",
+    "proof_read": 0,
+    "short_description": "T. navis, die römische Schutzgottheit der Schiffe",
     "chapters": [
       {
         "start": 2556,
-        "author": "Miltner, Franz"
+        "end": 2557,
+        "author": "F. Miltner."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
-    "lemma": "Tyberis(s)eis",
+    "lemma": "Tybenissos",
     "previous": "Tutela 10",
-    "next": "Tycae",
-    "short_description": "Bewohner des südlyk. Tyberis(s)os",
+    "next": "Τυβερισ(σ)εῖς",
+    "redirect": "Τυβερισ(σ)εῖς",
+    "proof_read": 3,
+    "short_description": "südlykischer Ort",
     "chapters": [
       {
         "start": 2557,
-        "author": "Ruge"
+        "end": 2557
       }
-    ]
+    ],
+    "history": {
+      "3": "261026"
+    }
+  },
+  {
+    "lemma": "Τυβερισ(σ)εῖς",
+    "previous": "Tybenissos",
+    "next": "Tycae",
+    "sort_key": "Tyberisseis",
+    "proof_read": 0,
+    "short_description": "Bewohner des südlykischen Tyberis(s)os",
+    "chapters": [
+      {
+        "start": 2557,
+        "end": 2557,
+        "author": "W. Ruge."
+      }
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Tycae",
-    "previous": "Tyberis(s)eis",
-    "next": "Tyindeis",
+    "previous": "Τυβερισ(σ)εῖς",
+    "next": "Τυινδεῖς",
     "proof_read": 3,
     "short_description": "Ort an der Straße Amastris – Sinope",
     "chapters": [
@@ -17563,32 +17660,46 @@
     }
   },
   {
-    "lemma": "Tyindeis",
+    "lemma": "Τυινδεῖς",
     "previous": "Tycae",
-    "next": "Tyitenos",
-    "short_description": "Bewohner einer kleinasiat. Siedlung(?)",
+    "next": "Τυιτηνός",
+    "sort_key": "Tyindeis",
+    "proof_read": 2,
+    "short_description": "Tyindeis, Bewohner einer kleinasiatischen Siedlung?",
     "chapters": [
       {
         "start": 2557,
-        "author": "Ruge"
+        "end": 2557,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025",
+      "2": "261026"
+    }
   },
   {
-    "lemma": "Tyitenos",
-    "previous": "Tyindeis",
+    "lemma": "Τυιτηνός",
+    "previous": "Τυινδεῖς",
     "next": "Tyrotarichos",
-    "short_description": "Ethnikon auf Tekmoreier-Inschriften. = Tuitenos (?) vgl. Tekmoreioi",
+    "sort_key": "Tyitenos",
+    "proof_read": 2,
+    "short_description": "Tyitenos, Ethnikon auf Tekmoreier-Inschriften = Tuitenos",
     "chapters": [
       {
         "start": 2557,
-        "author": "Ruge"
+        "end": 2558,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025",
+      "2": "261026"
+    }
   },
   {
     "lemma": "Tyrotarichos",
-    "previous": "Tyitenos",
+    "previous": "Τυιτηνός",
     "next": "Tyrsenos 2",
     "short_description": "Gericht aus Käse und Salzfisch",
     "chapters": [

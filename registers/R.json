@@ -757,7 +757,8 @@
       }
     ],
     "history": {
-      "3": "220108"
+      "2": "210111",
+      "3": "210723"
     }
   },
   {
@@ -52558,7 +52559,10 @@
         "end": 57,
         "author": "Hans Gärtner."
       }
-    ]
+    ],
+    "history": {
+      "3": "230122"
+    }
   },
   {
     "lemma": "Aurelius 56b",
@@ -97198,7 +97202,10 @@
         "end": 105,
         "author": "Hans Gärtner."
       }
-    ]
+    ],
+    "history": {
+      "3": "230129"
+    }
   },
   {
     "lemma": "Epistula 1",
@@ -130956,7 +130963,7 @@
     "previous": "Karanos 3",
     "next": "Καρικὰ μέλη",
     "proof_read": 3,
-    "short_description": "Trinkgefäß",
+    "short_description": "großes Trinkgefäß, Art des Kantharos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -139208,6 +139215,7 @@
     "previous": "Leburna",
     "next": "Lechi",
     "proof_read": 3,
+    "short_description": "Korinth. Hafenort",
     "no_creative_height": true,
     "chapters": [
       {
@@ -157418,6 +157426,7 @@
     "previous": "Muta",
     "next": "Mutuum",
     "proof_read": 3,
+    "short_description": "Begriff",
     "no_creative_height": true,
     "chapters": [
       {
@@ -194964,8 +194973,9 @@
     "lemma": "Tuitenos",
     "previous": "Tuccianus 3",
     "next": "Tullius 24a",
+    "sort_key": "Tuitenos",
     "proof_read": 3,
-    "short_description": "inschriftlich bezeugtes phrygisches Ethnikon = Tyitenos",
+    "short_description": "Tuitenos inschriftlich, phrygisches Ethnikon = Tyitenos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -195259,9 +195269,9 @@
   {
     "lemma": "Tybenissos",
     "previous": "Tyana",
-    "next": "Tyberis(s)eis",
+    "next": "Τυβερισ(σ)εῖς",
     "proof_read": 3,
-    "short_description": "südlyk. Ort",
+    "short_description": "südlykischer Ort",
     "no_creative_height": true,
     "chapters": [
       {
@@ -195275,7 +195285,7 @@
     }
   },
   {
-    "lemma": "Tyberis(s)eis",
+    "lemma": "Τυβερισ(σ)εῖς",
     "previous": "Tybenissos",
     "next": "Tyberisos",
     "sort_key": "Tyberisseis",
@@ -195295,7 +195305,7 @@
   },
   {
     "lemma": "Tyberisos",
-    "previous": "Tyberis(s)eis",
+    "previous": "Τυβερισ(σ)εῖς",
     "next": "Tycae",
     "proof_read": 3,
     "short_description": "Südlyk. Ort, s. Tyberis(s)eis",
@@ -195350,7 +195360,7 @@
   {
     "lemma": "Τυεννεσσῷ",
     "previous": "Tychamenes",
-    "next": "Tyindeis",
+    "next": "Τυινδεῖς",
     "sort_key": "Tyennesso",
     "redirect": "Τυεννεσσῷ",
     "proof_read": 3,
@@ -195366,11 +195376,12 @@
     }
   },
   {
-    "lemma": "Tyindeis",
+    "lemma": "Τυινδεῖς",
     "previous": "Τυεννεσσῷ",
-    "next": "Tyitenos",
+    "next": "Τυιτηνός",
+    "sort_key": "Tyindeis",
     "proof_read": 3,
-    "short_description": "Bewohner einer kleinasiatischen Siedlung?",
+    "short_description": "Tyindeis, Bewohner einer kleinasiatischen Siedlung?",
     "no_creative_height": true,
     "chapters": [
       {
@@ -195384,11 +195395,12 @@
     }
   },
   {
-    "lemma": "Tyitenos",
-    "previous": "Tyindeis",
+    "lemma": "Τυιτηνός",
+    "previous": "Τυινδεῖς",
     "next": "Typaneai",
+    "sort_key": "Tyitenos",
     "proof_read": 3,
-    "short_description": "Ethnikon auf Tekmoreier-Inschriften = Tuitenos, vgl. Tekmoreioi",
+    "short_description": "Tyitenos, Ethnikon auf Tekmoreier-Inschriften = Tuitenos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -195403,7 +195415,7 @@
   },
   {
     "lemma": "Typaneai",
-    "previous": "Tyitenos",
+    "previous": "Τυιτηνός",
     "next": "Tyrannos 1a",
     "proof_read": 3,
     "short_description": "triphylische Stadt",

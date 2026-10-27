@@ -4471,7 +4471,7 @@
   {
     "lemma": "Troesmis",
     "previous": "Trocundus 2",
-    "next": "Troezena",
+    "next": "Troezene",
     "proof_read": 0,
     "short_description": "Stadt und Legionslager an der Donau in Moesia inferior",
     "chapters": [
@@ -4486,11 +4486,11 @@
     }
   },
   {
-    "lemma": "Troezena",
+    "lemma": "Troezene",
     "previous": "Troesmis",
     "next": "Trogilion",
-    "proof_read": 0,
-    "short_description": "Ort, siehe auch Troezene",
+    "proof_read": 2,
+    "short_description": "karische Stadt",
     "chapters": [
       {
         "start": 596,
@@ -4499,12 +4499,12 @@
       }
     ],
     "history": {
-      "0": "260710"
+      "2": "261026"
     }
   },
   {
     "lemma": "Trogilion",
-    "previous": "Troezena",
+    "previous": "Troezene",
     "next": "Trogilos",
     "proof_read": 0,
     "short_description": "Kap am W-Ende der Mykale gegenüber Samos",
@@ -4557,13 +4557,18 @@
     "lemma": "Trogitis",
     "previous": "Troginus",
     "next": "Trogus",
-    "short_description": "Lykaon. See (Z.1 lies: S.598 zum Art.)",
+    "proof_read": 0,
+    "short_description": "lykaonischer See",
     "chapters": [
       {
         "start": 598,
-        "author": "Ruge"
+        "end": 600,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261024"
+    }
   },
   {
     "lemma": "Trogus",
@@ -4586,12 +4591,18 @@
     "lemma": "Troia 1",
     "previous": "Trogus",
     "next": "Troia 2",
+    "proof_read": 3,
+    "short_description": "Stadt im nordwestlichen Kleinasien",
     "chapters": [
       {
         "start": 600,
         "end": 600
       }
-    ]
+    ],
+    "history": {
+      "0": "261025",
+      "3": "261026"
+    }
   },
   {
     "lemma": "Troia 2",
@@ -5142,7 +5153,7 @@
     "previous": "Trokonda",
     "next": "Tromentina tribus",
     "redirect": "Trocundus 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 659,
@@ -5150,7 +5161,8 @@
       }
     ],
     "history": {
-      "2": "211004"
+      "2": "211004",
+      "3": "261026"
     }
   },
   {
@@ -5158,7 +5170,7 @@
     "previous": "Trokundes",
     "next": "Tromentus campus",
     "redirect": "Tromentus campus",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 659,
@@ -5166,7 +5178,8 @@
       }
     ],
     "history": {
-      "2": "211004"
+      "2": "211004",
+      "3": "261026"
     }
   },
   {
@@ -5192,7 +5205,7 @@
     "previous": "Tromentus campus",
     "next": "Tronis",
     "redirect": "Tuba 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 659,
@@ -5200,7 +5213,8 @@
       }
     ],
     "history": {
-      "2": "211004"
+      "2": "211004",
+      "3": "261026"
     }
   },
   {
@@ -5258,20 +5272,25 @@
     "lemma": "Tropaea Augusti",
     "previous": "Tropa",
     "next": "Tropaei",
-    "short_description": "Ehrenmal des Senats für Augustus auf der höchsten Spitze der Seealpen",
+    "proof_read": 0,
+    "short_description": "Siegesdenkmal des Augustus in den Alpen oberhalb von Monoecus",
     "chapters": [
       {
         "start": 661,
-        "author": "Philipp"
+        "end": 662,
+        "author": "Hans Philipp."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025"
+    }
   },
   {
     "lemma": "Tropaei",
     "previous": "Tropaea Augusti",
     "next": "Tropaia 1",
     "redirect": "Winde",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 662,
@@ -5279,7 +5298,8 @@
       }
     ],
     "history": {
-      "2": "211004"
+      "2": "211004",
+      "3": "261026"
     }
   },
   {
@@ -5287,7 +5307,7 @@
     "previous": "Tropaei",
     "next": "Tropaia 2",
     "redirect": "Tropaios",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 662,
@@ -5295,7 +5315,8 @@
       }
     ],
     "history": {
-      "2": "211004"
+      "2": "211004",
+      "3": "261026"
     }
   },
   {
@@ -9793,13 +9814,19 @@
     "lemma": "Troezene",
     "previous": "Troas 1",
     "next": "Trogodytai",
-    "short_description": "Ergänzung zu Troezena",
+    "proof_read": 2,
+    "short_description": "karische Stadt",
     "chapters": [
       {
         "start": 1280,
-        "author": "Ruge"
+        "end": 1280,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025",
+      "2": "261026"
+    }
   },
   {
     "lemma": "Trogodytai",
@@ -9824,12 +9851,19 @@
   {
     "lemma": "Tuitenos",
     "previous": "Trogodytai",
-    "short_description": "Inschriftl. bezeugtes phryg. Ethnikon. = Tyitenos (?)",
+    "sort_key": "Tuitenos",
+    "proof_read": 2,
+    "short_description": "Tuitenos inschriftlich, phrygisches Ethnikon = Tyitenos",
     "chapters": [
       {
         "start": 1280,
-        "author": "Ruge"
+        "end": 1280,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261025",
+      "2": "261026"
+    }
   }
 ]
