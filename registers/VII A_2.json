@@ -15,7 +15,7 @@
       }
     ],
     "history": {
-      "0": "220103"
+      "0": "160606"
     }
   },
   {
@@ -5630,7 +5630,7 @@
     "lemma": "Tyberisos",
     "previous": "Tyba",
     "next": "Τυβιάκαι",
-    "redirect": "Tyberis(s)eis",
+    "redirect": "Τυβερισ(σ)εῖς",
     "proof_read": 3,
     "short_description": "Südlyk. Ort, s. Tyberis(s)eis",
     "chapters": [
@@ -8454,7 +8454,7 @@
     "previous": "Tyrmidai",
     "next": "Tyro",
     "sort_key": "Tyrmisseis",
-    "redirect": "Tyberis(s)eis",
+    "redirect": "Τυβερισ(σ)εῖς",
     "proof_read": 3,
     "chapters": [
       {
@@ -8846,7 +8846,7 @@
     "lemma": "Tyrsenos",
     "previous": "Tyrritor",
     "next": "Tyrseta",
-    "redirect": true,
+    "redirect": "Tyrrhenos 1",
     "proof_read": 3,
     "chapters": [
       {
@@ -17700,43 +17700,61 @@
   {
     "lemma": "Tyrotarichos",
     "previous": "Τυιτηνός",
-    "next": "Tyrsenos 2",
-    "short_description": "Gericht aus Käse und Salzfisch",
+    "next": "Τυρσηνός 2",
+    "proof_read": 0,
+    "short_description": "das Gericht aus Käse und Salzfisch",
     "chapters": [
       {
         "start": 2558,
-        "author": "Herzog-Hauser"
+        "end": 2559,
+        "author": "G. Herzog-Hauser."
       }
-    ]
+    ],
+    "history": {
+      "0": "261026"
+    }
   },
   {
-    "lemma": "Tyrsenos 2",
+    "lemma": "Τυρσηνός 2",
     "previous": "Tyrotarichos",
     "next": "Tyscos (-on?)",
-    "short_description": "Ethnikon auf einer Tekmoreier-Inschrift",
+    "sort_key": "Tyrsenos 2",
+    "proof_read": 2,
+    "short_description": "Tyrsenos, Ethnikon auf einer Tekmoreier-Inschrift",
     "chapters": [
       {
         "start": 2559,
-        "author": "Ruge"
+        "end": 2559,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261026",
+      "2": "261027"
+    }
   },
   {
     "lemma": "Tyscos (-on?)",
-    "previous": "Tyrsenos 2",
-    "next": "Tzidrama",
-    "short_description": "Ort im Gebiet der galat. Tolistobogioi",
+    "previous": "Τυρσηνός 2",
+    "next": "Tytenos",
+    "proof_read": 2,
+    "short_description": "Ort im Gebiet der galatischen Tolistobogioi",
     "chapters": [
       {
         "start": 2559,
-        "author": "Ruge"
+        "end": 2559,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261026",
+      "2": "261027"
+    }
   },
   {
     "lemma": "Tzidrama",
-    "previous": "Tyscos (-on?)",
-    "next": "Valerius 152",
+    "previous": "Tytenos",
+    "next": "Tyrrhener",
     "sort_key": "Tzidrama",
     "proof_read": 2,
     "short_description": "Örtlichkeits in Galatien bei Anastasiupolis",

@@ -4712,7 +4712,7 @@
     "previous": "Φογώρ 4",
     "next": "Phoibaia",
     "redirect": "Phoebadius",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 323,
@@ -4720,7 +4720,8 @@
       }
     ],
     "history": {
-      "2": "210903"
+      "2": "210903",
+      "3": "261027"
     }
   },
   {
@@ -10361,7 +10362,10 @@
         "end": 772,
         "author": "Ziegler."
       }
-    ]
+    ],
+    "history": {
+      "0": "260318"
+    }
   },
   {
     "lemma": "Phrontis 2",
@@ -10375,7 +10379,10 @@
         "end": 772,
         "author": "Ziegler."
       }
-    ]
+    ],
+    "history": {
+      "0": "260318"
+    }
   },
   {
     "lemma": "Phrontis 3",
@@ -10389,7 +10396,10 @@
         "end": 772,
         "author": "Ziegler."
       }
-    ]
+    ],
+    "history": {
+      "0": "260318"
+    }
   },
   {
     "lemma": "Phrontis 4",
@@ -10689,7 +10699,10 @@
         "end": 892,
         "author": "Kirsten."
       }
-    ]
+    ],
+    "history": {
+      "0": "260313"
+    }
   },
   {
     "lemma": "Phrygia 3",
@@ -10703,7 +10716,10 @@
         "end": 892,
         "author": "Johanna Schmidt."
       }
-    ]
+    ],
+    "history": {
+      "0": "260313"
+    }
   },
   {
     "lemma": "Phrygia 4",
@@ -10717,7 +10733,10 @@
         "end": 892,
         "author": "Johanna Schmidt."
       }
-    ]
+    ],
+    "history": {
+      "0": "260313"
+    }
   },
   {
     "lemma": "Phrygia 5",
@@ -10731,7 +10750,10 @@
         "end": 892,
         "author": "Johanna Schmidt."
       }
-    ]
+    ],
+    "history": {
+      "0": "260318"
+    }
   },
   {
     "lemma": "Phrygia 6",
@@ -10745,7 +10767,10 @@
         "end": 892,
         "author": "Nagl."
       }
-    ]
+    ],
+    "history": {
+      "0": "260318"
+    }
   },
   {
     "lemma": "Phrygianum",
@@ -10759,7 +10784,10 @@
         "end": 892,
         "author": "Weiss."
       }
-    ]
+    ],
+    "history": {
+      "0": "260313"
+    }
   },
   {
     "lemma": "Phrygillos",
@@ -10773,7 +10801,10 @@
         "end": 893,
         "author": "Sieveking."
       }
-    ]
+    ],
+    "history": {
+      "0": "260318"
+    }
   },
   {
     "lemma": "Phrygion",
@@ -14244,7 +14275,7 @@
     "previous": "Physke",
     "next": "Physkia",
     "redirect": "Physkos 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1165,
@@ -14252,7 +14283,8 @@
       }
     ],
     "history": {
-      "2": "210904"
+      "2": "210904",
+      "3": "261027"
     }
   },
   {
@@ -14261,6 +14293,7 @@
     "next": "Physkios",
     "redirect": true,
     "proof_read": 2,
+    "short_description": "nicht gefunden",
     "chapters": [
       {
         "start": 1165,
@@ -14276,7 +14309,7 @@
     "previous": "Physkia",
     "next": "Physkoa",
     "redirect": "Physkos 1",
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1165,
@@ -14284,7 +14317,8 @@
       }
     ],
     "history": {
-      "2": "210904"
+      "2": "210904",
+      "3": "261027"
     }
   },
   {
@@ -15210,8 +15244,9 @@
   {
     "lemma": "Pieria 3ff.",
     "previous": "Pieria 2",
-    "next": "Pierides",
-    "redirect": true,
+    "next": "Pierides 1",
+    "sort_key": "Pieria 2z",
+    "redirect": "Pieria 3",
     "proof_read": 2,
     "chapters": [
       {
@@ -15224,11 +15259,11 @@
     }
   },
   {
-    "lemma": "Pierides",
+    "lemma": "Pierides 1",
     "previous": "Pieria 3ff.",
     "next": "Pierius 1",
     "redirect": true,
-    "proof_read": 2,
+    "proof_read": 3,
     "chapters": [
       {
         "start": 1220,
@@ -15236,12 +15271,12 @@
       }
     ],
     "history": {
-      "2": "210904"
+      "3": "261027"
     }
   },
   {
     "lemma": "Pierius 1",
-    "previous": "Pierides",
+    "previous": "Pierides 1",
     "next": "Pierius 2",
     "proof_read": 0,
     "short_description": "Gatte der Coelia Nerviana",
@@ -15276,7 +15311,7 @@
   {
     "lemma": "Pierius 3",
     "previous": "Pierius 2",
-    "next": "Pieros",
+    "next": "Pieros 1",
     "proof_read": 0,
     "short_description": "Oberster der berittenen Garde des Praefectus praetorio unter Athalarich",
     "chapters": [
@@ -15291,11 +15326,13 @@
     }
   },
   {
-    "lemma": "Pieros",
+    "lemma": "Pieros 1",
     "previous": "Pierius 3",
     "next": "Pietas",
     "redirect": true,
-    "proof_read": 2,
+    "proof_read": 3,
+    "wp_link": "w:en:Pierus (eponym of Pieria)",
+    "wd_link": "d:Q21567935",
     "chapters": [
       {
         "start": 1221,
@@ -15303,12 +15340,12 @@
       }
     ],
     "history": {
-      "2": "210904"
+      "3": "261027"
     }
   },
   {
     "lemma": "Pietas",
-    "previous": "Pieros",
+    "previous": "Pieros 1",
     "next": "Pietas Iulia",
     "proof_read": 0,
     "short_description": "„Frömmigkeit“, römische Tugend",

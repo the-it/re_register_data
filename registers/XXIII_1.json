@@ -564,7 +564,7 @@
       }
     ],
     "history": {
-      "2": "220119"
+      "2": "211119"
     }
   },
   {
@@ -618,7 +618,7 @@
       }
     ],
     "history": {
-      "2": "220119"
+      "2": "211119"
     }
   },
   {
@@ -1271,7 +1271,7 @@
       }
     ],
     "history": {
-      "2": "220119"
+      "2": "211119"
     }
   },
   {
@@ -1289,7 +1289,7 @@
       }
     ],
     "history": {
-      "2": "220119"
+      "2": "211119"
     }
   },
   {
@@ -1376,7 +1376,7 @@
       }
     ],
     "history": {
-      "2": "220119"
+      "2": "211119"
     }
   },
   {
@@ -2155,7 +2155,7 @@
       }
     ],
     "history": {
-      "2": "220119"
+      "2": "211119"
     }
   },
   {
@@ -7724,7 +7724,7 @@
       }
     ],
     "history": {
-      "2": "220115"
+      "2": "210920"
     }
   },
   {
@@ -8295,7 +8295,7 @@
       }
     ],
     "history": {
-      "2": "220104"
+      "2": "210920"
     }
   },
   {
@@ -8545,7 +8545,7 @@
   {
     "lemma": "Προμήθειον",
     "previous": "Προμήθεια 2",
-    "next": "Prometheus",
+    "next": "Προμήθειος",
     "sort_key": "Prometheion",
     "proof_read": 0,
     "short_description": "Zauberkraut Medeas",
@@ -8730,7 +8730,7 @@
       }
     ],
     "history": {
-      "2": "220115"
+      "2": "210920"
     }
   },
   {
@@ -8800,7 +8800,7 @@
       }
     ],
     "history": {
-      "2": "220101",
+      "2": "211203",
       "3": "260413"
     }
   },
@@ -8961,7 +8961,7 @@
       }
     ],
     "history": {
-      "2": "220115"
+      "2": "210920"
     }
   },
   {
@@ -9106,7 +9106,7 @@
       }
     ],
     "history": {
-      "2": "220101",
+      "2": "211203",
       "3": "260413"
     }
   },
@@ -9175,7 +9175,7 @@
       }
     ],
     "history": {
-      "2": "220115"
+      "2": "210920"
     }
   },
   {
@@ -10183,7 +10183,7 @@
       }
     ],
     "history": {
-      "2": "220110"
+      "2": "211214"
     }
   },
   {
@@ -10202,7 +10202,7 @@
       }
     ],
     "history": {
-      "2": "220110"
+      "2": "211214"
     }
   },
   {
@@ -10237,7 +10237,7 @@
       }
     ],
     "history": {
-      "2": "220110"
+      "2": "211214"
     }
   },
   {
@@ -15432,7 +15432,7 @@
   {
     "lemma": "Prytaneia",
     "previous": "Prynoe?, Pryneie?",
-    "next": "prytaneia, -neion, -nis",
+    "next": "Prytanis, Prytaneia, Prytaneion",
     "proof_read": 0,
     "short_description": "Beiname der Hestia",
     "chapters": [
@@ -15447,11 +15447,15 @@
     }
   },
   {
-    "lemma": "prytaneia, -neion, -nis",
+    "lemma": "Prytanis, Prytaneia, Prytaneion",
     "previous": "Prytaneia",
     "next": "Prytanis",
-    "redirect": "Prytanis, Prytaneia, Prytaneion",
+    "sort_key": "Prytanis 0",
+    "redirect": true,
     "proof_read": 3,
+    "short_description": "Amt im antiken Griechenland, führende Mitglieder der Regierung einer polis",
+    "wp_link": "w:de:Prytan",
+    "wd_link": "d:Q456334",
     "chapters": [
       {
         "start": 1157,
@@ -15459,13 +15463,12 @@
       }
     ],
     "history": {
-      "2": "210920",
-      "3": "220830"
+      "3": "261027"
     }
   },
   {
     "lemma": "Prytanis",
-    "previous": "prytaneia, -neion, -nis",
+    "previous": "Prytanis, Prytaneia, Prytaneion",
     "next": "Prytanis 1",
     "proof_read": 0,
     "short_description": "Fluß im NO-Winkel des schwarzen Meeres",
@@ -15922,7 +15925,7 @@
       }
     ],
     "history": {
-      "0": "220105"
+      "0": "180613"
     }
   },
   {
