@@ -7076,7 +7076,7 @@
     "next": "Vibennius",
     "redirect": "Caelius mons 1",
     "proof_read": 3,
-    "short_description": "Caelius und Aulus Vibenna, Brüder der etruskischen und frührömischen Legende",
+    "short_description": "s. Caelius Mons",
     "wp_link": "w:en:Caelius Vibenna",
     "wd_link": "d:Q653978",
     "chapters": [
@@ -9653,10 +9653,9 @@
     "lemma": "Victor 1",
     "previous": "Victor",
     "next": "Victor 2",
-    "sort_key": "Victor 01",
     "redirect": true,
     "proof_read": 3,
-    "short_description": "röm. Götter- und Herrscherbeiname",
+    "short_description": "Röm. Götter- und Herrscherbeiname",
     "chapters": [
       {
         "start": 2057,
@@ -15813,7 +15812,7 @@
   {
     "lemma": "Veturius 34a",
     "previous": "Vetissos",
-    "next": "Vexillarius",
+    "next": "vexillarius",
     "sort_key": "Veturius 34a1",
     "proof_read": 3,
     "short_description": "Veturia Gratilla Thais, patrona des Veturius Aquila",
@@ -15831,47 +15830,62 @@
     }
   },
   {
-    "lemma": "Vexillarius",
+    "lemma": "vexillarius",
     "previous": "Veturius 34a",
     "next": "Vexillatio",
-    "short_description": "Der Träger des vexillum (VIII A 2446) im röm. Heer",
+    "proof_read": 0,
+    "short_description": "der Träger des vexillum im römischen Heer",
     "chapters": [
       {
         "start": 2439,
+        "end": 2442,
         "author": "Alfred Neumann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vexillatio",
-    "previous": "Vexillarius",
+    "previous": "vexillarius",
     "next": "vexillum",
-    "short_description": "Der Truppenteil im röm. Heer",
+    "proof_read": 0,
+    "short_description": "der Truppenteil im römischen Heer",
     "chapters": [
       {
         "start": 2442,
+        "end": 2446,
         "author": "Alfred Neumann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "vexillum",
     "previous": "Vexillatio",
     "next": "Vibenna",
-    "short_description": "Die Zeugfahne des röm. Heeres vgl. vexillarius",
+    "proof_read": 0,
+    "short_description": "die Zeugfahne des römischen Heeres, vgl. vexillarius",
     "chapters": [
       {
         "start": 2446,
+        "end": 2454,
         "author": "Alfred Neumann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibenna",
     "previous": "vexillum",
     "next": "Vibius 40",
     "proof_read": 0,
-    "short_description": "Caelius und Aulus Vibenna, Brüder der etruskischen und frührömischen Legende",
+    "short_description": "s. Caelius Mons",
     "wp_link": "w:en:Caelius Vibenna",
     "wd_link": "d:Q653978",
     "chapters": [
@@ -15913,37 +15927,52 @@
     "lemma": "Vibulenus 1",
     "previous": "Vibius 80",
     "next": "Vibulenus 2",
-    "short_description": "Miles gregarius beim Aufstand der drei pannon. Legionen im J. 14 n. Chr.",
+    "proof_read": 0,
+    "short_description": "Miles gregarius beim Aufstand der drei pannonischen Legionen 14 n. Chr.",
     "chapters": [
       {
         "start": 2462,
-        "author": "Stiglitz"
+        "end": 2463,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibulenus 2",
     "previous": "Vibulenus 1",
     "next": "Vibullius 2",
-    "short_description": "V. Agrippa, richtig: Vibulius Agrippa(?), röm. Ritter in der 1. H. des 1. Jh.",
+    "proof_read": 0,
+    "short_description": "Vibul(l)ius Agrippa (?), röm. Ritter 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 2463,
-        "author": "Stiglitz"
+        "end": 2463,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 2",
     "previous": "Vibulenus 2",
     "next": "Vibullius 3",
-    "short_description": "Prätor im J. 56 n. Chr.",
+    "proof_read": 0,
+    "short_description": "Prätor 56 n. Chr.",
     "chapters": [
       {
         "start": 2463,
-        "author": "Stiglitz"
+        "end": 2463,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 3",
@@ -15965,121 +15994,171 @@
     "lemma": "Vibullius 4",
     "previous": "Vibullius 3",
     "next": "Vibullius 5",
-    "short_description": "L. V. Claudius Herodes, Sohn des (V.) Nr. 10 (VIII A 2469) Rufus, Adoptivsohn",
+    "proof_read": 0,
+    "short_description": "L. V. Claudius Herodes, Sohn des (V.) Nr. 10 Rufus, Adoptivsohn des Ti. Claudius",
     "chapters": [
       {
         "start": 2463,
-        "author": "Stiglitz"
+        "end": 2464,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 5",
     "previous": "Vibullius 4",
     "next": "Vibullius 6",
-    "short_description": "L. V. Hipparchus, athen. Archon (im J. 118/9 n. Chr.?), Sohn des L. V. Nr. 8",
+    "proof_read": 0,
+    "short_description": "L. V. Hipparchus, athen. Archon (118/9 n. Chr.?), Sohn des L. V. Nr. 8 Rufus",
     "chapters": [
       {
         "start": 2464,
-        "author": "Stiglitz"
+        "end": 2464,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 6",
     "previous": "Vibullius 5",
     "next": "Vibullius 7",
-    "short_description": "L. V. Hipparchus, in der 2. H. des 2. Jh. n. Chr., Sohn des P. Aelius V. Nr. 11",
+    "proof_read": 0,
+    "short_description": "L. V. Hipparchus, 2. Jh. n. Chr., Sohn des P. Aelius V. Nr. 11 Rufus?",
     "chapters": [
       {
         "start": 2464,
-        "author": "Stiglitz"
+        "end": 2466,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 7",
     "previous": "Vibullius 6",
     "next": "Vibullius 8",
-    "short_description": "V. Polydeucion, Zögling des Ti. Claudius (III 2678. S I 317 Nr. 72) Atticus",
+    "proof_read": 0,
+    "short_description": "V. Polydeucion, Zögling des Ti. Claudius Atticus Herodes",
     "chapters": [
       {
         "start": 2466,
-        "author": "Stiglitz"
+        "end": 2468,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 8",
     "previous": "Vibullius 7",
     "next": "Vibullius 9",
-    "short_description": "L. V. Rufus, Sohn des (V.) Nr. 9 (VIII A 2468) Rufus(?), Bruder der Vibullia",
+    "proof_read": 0,
+    "short_description": "L. V. Rufus, Sohn des (V.) Nr. 9 Rufus?, Bruder der Vibullia Nr. 12 Alcia Agrippina",
     "chapters": [
       {
         "start": 2468,
-        "author": "Stiglitz"
+        "end": 2468,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 9",
     "previous": "Vibullius 8",
     "next": "Vibullius 10",
-    "short_description": "(V.) Rufus, Vater des L. V. Nr. 8 (VIII A 2468) Rufus(?) und der Vibullia Nr.",
+    "proof_read": 0,
+    "short_description": "(V.) Rufus, Vater des L. V. Nr. 8 Rufus? und der Vibullia Nr. 12 Alcia Agrippina",
     "chapters": [
       {
         "start": 2468,
-        "author": "Stiglitz"
+        "end": 2469,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 10",
     "previous": "Vibullius 9",
     "next": "Vibullius 11",
-    "short_description": "(V.) Rufus, Vater des L. V. Nr. 4 (VIII A 2463) Claudius Herodes",
+    "proof_read": 0,
+    "short_description": "(V.) Rufus, Vater des L. V. Nr. 4 Claudius Herodes",
     "chapters": [
       {
         "start": 2469,
-        "author": "Stiglitz"
+        "end": 2470,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 11",
     "previous": "Vibullius 10",
     "next": "Vibullius 12",
-    "short_description": "P. Aelius V. Rufus, athen. Archon (im J. 143/4 n. Chr.?), Sohn des L. V. Nr. 5",
+    "proof_read": 0,
+    "short_description": "P. Aelius V. Rufus, athen. Archon 143/4 n. Chr.?, Sohn des L. V. Nr. 5 Hipparchus",
     "chapters": [
       {
         "start": 2470,
-        "author": "Stiglitz"
+        "end": 2470,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 12",
     "previous": "Vibullius 11",
     "next": "Vibullius 13",
-    "short_description": "Vibullia Alcia Agrippina, Tochter des (V.) Nr. 9 (VIII A 2468) Rufus, Gattin",
+    "proof_read": 0,
+    "short_description": "Vibullia Alcia Agrippina, Tochter des (V.) Nr. 9 Rufus",
     "chapters": [
       {
         "start": 2470,
-        "author": "Stiglitz"
+        "end": 2471,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vibullius 13",
     "previous": "Vibullius 12",
     "next": "Vicesima 1",
-    "short_description": "Vibullia Athenais, Tochter des L. V. Nr. 6 (VIII A 2464) Hipparchus",
+    "proof_read": 0,
+    "short_description": "Vibullia Athenais, Tochter des L. V. Nr. 6 Hipparchus",
     "chapters": [
       {
         "start": 2471,
-        "author": "Stiglitz"
+        "end": 2471,
+        "author": "Roman Stiglitz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vicesima 1",
@@ -16217,9 +16296,8 @@
     "lemma": "Victor 1",
     "previous": "victimarius",
     "next": "Victoria 1",
-    "sort_key": "Victor 01",
     "proof_read": 0,
-    "short_description": "röm. Götter- und Herrscherbeiname",
+    "short_description": "Röm. Götter- und Herrscherbeiname",
     "chapters": [
       {
         "start": 2485,
@@ -16235,13 +16313,20 @@
     "lemma": "Victoria 1",
     "previous": "Victor 1",
     "next": "Victoria 3a",
-    "short_description": "Die röm. Siegesgottheit",
+    "proof_read": 0,
+    "short_description": "die römische Siegesgottheit",
+    "wp_link": "w:de:Victoria (Mythologie)",
+    "wd_link": "d:Q308902",
     "chapters": [
       {
         "start": 2501,
+        "end": 2542,
         "author": "St. Weinstock."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Victoria 3a",
@@ -16282,37 +16367,52 @@
     "lemma": "Vicus 3",
     "previous": "Victumulae",
     "next": "Vicus 4",
-    "short_description": "Uikos (Uiskos), Ort in der Provinz Alpes Graiae et Poeninae = Viviscus (IX A",
+    "proof_read": 0,
+    "short_description": "Uikos (Uiskos), Ort in der Provinz Alpes Graiae et Poeninae = Viviscus",
     "chapters": [
       {
         "start": 2557,
+        "end": 2557,
         "author": "Richard Heuberger."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vicus 4",
     "previous": "Vicus 3",
     "next": "Vicus 5",
-    "short_description": "V. Aurelii, numid. Ort",
+    "proof_read": 0,
+    "short_description": "V. Aurelii, numidischer Ort",
     "chapters": [
       {
         "start": 2557,
+        "end": 2557,
         "author": "M. Leglay."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vicus 5",
     "previous": "Vicus 4",
     "next": "Vicus 6",
-    "short_description": "V. Caedicii, Ort im Gebiet von Sinuessa (III A 259)",
+    "proof_read": 0,
+    "short_description": "V. Caedicii, Ort im Gebiet von Sinuessa",
     "chapters": [
       {
         "start": 2557,
+        "end": 2558,
         "author": "Gerhard Radke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261030"
+    }
   },
   {
     "lemma": "Vicus 6",
