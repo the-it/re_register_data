@@ -1565,14 +1565,18 @@
     "lemma": "Zenoposeidon",
     "previous": "Zenophron",
     "next": "Zenothemis 1",
-    "short_description": "Griech. Bezeichnung für den kar. Zeus Osogoa",
+    "proof_read": 0,
+    "short_description": "griechische Bezeichnung für den karischen Zeus Osogoa",
     "chapters": [
       {
         "start": 220,
         "end": 221,
-        "author": "Abel"
+        "author": "Karlhans Abel."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Zenothemis 1",
@@ -3459,12 +3463,16 @@
     "lemma": "Zitha",
     "previous": "Zita",
     "next": "Zizoatra",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 461,
         "end": 461
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Zizoatra",
@@ -5632,6 +5640,7 @@
   },
   {
     "lemma": "Zexis",
+    "next": "Zeugitana regio 1",
     "short_description": "Z. aus dem isaur. Astra, richtig: Zezis, kaiserzeitl. Bildhauer",
     "chapters": [
       {
@@ -5642,28 +5651,41 @@
   },
   {
     "lemma": "Zeugitana regio 1",
-    "short_description": "Nordafrikan. Bergkette",
+    "previous": "Zexis",
+    "next": "Zeugitana regio a",
+    "proof_read": 0,
+    "short_description": "nordafrikanische Bergkette",
     "chapters": [
       {
         "start": 861,
-        "author": "Leglay"
+        "end": 861,
+        "author": "M. Leglay."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Zeugitana regio a",
-    "sort_key": "Zeugitana regio 0",
-    "short_description": "s.[a]) im R, Der nördl. Teil der Provinz Africa proconsularis, später eigene",
+    "previous": "Zeugitana regio 1",
+    "next": "Zorambos",
+    "proof_read": 0,
+    "short_description": "Teil der Provinz Africa proconsularis, später eigene Provinz",
     "chapters": [
       {
         "start": 861,
         "end": 864,
-        "author": "Leglay"
+        "author": "M. Leglay."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Zorambos",
+    "previous": "Zeugitana regio a",
     "proof_read": 0,
     "short_description": "Gedros. (bzw. karman.) Küstenfluß",
     "chapters": [
