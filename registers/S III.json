@@ -9743,7 +9743,7 @@
     ],
     "history": {
       "2": "171025",
-      "3": "200102"
+      "3": "191206"
     }
   },
   {
@@ -14771,6 +14771,8 @@
     "next": "Boconiana",
     "proof_read": 3,
     "short_description": "ostlokr. Fluß = Manes",
+    "wp_link": "w:en:Boagrius River",
+    "wd_link": "d:Q60790665",
     "chapters": [
       {
         "start": 209,
@@ -25679,10 +25681,24 @@
   },
   {
     "lemma": "Egus",
-    "previous": "Egnatius 9"
+    "previous": "Egnatius 9",
+    "next": "Εἰρηνάρχαι",
+    "proof_read": 0,
+    "short_description": "Allobroger, mit seinem Bruder Roucillus im Heer Caesars",
+    "chapters": [
+      {
+        "start": 419,
+        "end": 419,
+        "author": "Münzer."
+      }
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Εἰρηνάρχαι",
+    "previous": "Egus",
     "next": "Εἰρηνικοὶ ἄνδρες",
     "sort_key": "Eirenarchai",
     "proof_read": 2,
@@ -26019,6 +26035,7 @@
   {
     "lemma": "Emeia",
     "previous": "Elpinike 1a",
+    "next": "Empusa 2",
     "proof_read": 3,
     "short_description": "Örtlichkeit bei Mykenai.",
     "chapters": [
@@ -26034,6 +26051,7 @@
   },
   {
     "lemma": "Empusa 2",
+    "previous": "Emeia",
     "next": "Ἐμπυρομάντεις",
     "proof_read": 3,
     "short_description": "Spitzname von Aischines' Mutter Glaukothea Nr.2",
@@ -33597,7 +33615,18 @@
   },
   {
     "lemma": "Helike 4",
-    "next": "Helioseiros"
+    "next": "Helioseiros",
+    "proof_read": 0,
+    "short_description": "Stadt an der hispan. Ostküste. = Ilici (IX 1061. S III 1217 ).",
+    "chapters": [
+      {
+        "start": 894,
+        "end": 894
+      }
+    ],
+    "history": {
+      "0": "261104"
+    }
   },
   {
     "lemma": "Helioseiros",
@@ -33718,8 +33747,7 @@
       }
     ],
     "history": {
-      "0": "261102",
-      "1": "261103"
+      "0": "261105"
     }
   },
   {
@@ -33893,7 +33921,7 @@
     "lemma": "Heraios, Eraos 1a",
     "previous": "Hera 1",
     "next": "Heraios, Eraos 1b",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "Epiklese des Zeus",
     "chapters": [
       {
@@ -33903,14 +33931,15 @@
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
     "lemma": "Heraios, Eraos 1b",
     "previous": "Heraios, Eraos 1a",
     "next": "Herakleides 18",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "Epiklese des Herakles",
     "chapters": [
       {
@@ -33920,7 +33949,8 @@
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
@@ -33944,24 +33974,25 @@
     "lemma": "Herakleides 36a",
     "previous": "Herakleides 18",
     "next": "Herakleides 61a",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "Figur des Alexanderromans",
     "chapters": [
       {
         "start": 909,
         "end": 909,
-        "author": "W. Kroll."
+        "author": "Kroll."
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
     "lemma": "Herakleides 61a",
     "previous": "Herakleides 36a",
     "next": "Herakleitos 18",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "byzant. Bildhauer, Sohn des Satyriskos",
     "chapters": [
       {
@@ -33971,14 +34002,15 @@
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
     "lemma": "Herakleitos 18",
     "previous": "Herakleides 61a",
     "next": "Herakleodoros 4",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "von Iasos, Bildhauer im 2./1. Jh. v. Chr., Sohn des Thoas",
     "chapters": [
       {
@@ -33988,24 +34020,26 @@
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
     "lemma": "Herakleodoros 4",
     "previous": "Herakleitos 18",
     "next": "Herakleon 7",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "Epikureer in hellenist. Zeit",
     "chapters": [
       {
         "start": 909,
         "end": 909,
-        "author": "W. Kroll."
+        "author": "Kroll."
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
@@ -34049,7 +34083,7 @@
     "lemma": "Herapel",
     "previous": "Herakles",
     "next": "Herculaneus pagus",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "Lothring. Bergrücken an der Rossel",
     "chapters": [
       {
@@ -34059,14 +34093,15 @@
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
     "lemma": "Herculaneus pagus",
     "previous": "Herapel",
     "next": "Hercules 2",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "allg. Vorbemerkung",
     "chapters": [
       {
@@ -34076,7 +34111,8 @@
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
@@ -34100,7 +34136,7 @@
     "lemma": "Herennius 26a",
     "previous": "Hercules 2",
     "next": "Herennius 34",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "H. Flav[---], Besitzer einer Schwertöpferei",
     "chapters": [
       {
@@ -34110,7 +34146,8 @@
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
@@ -34172,7 +34209,7 @@
     "lemma": "Hermapion",
     "previous": "Hermapias",
     "next": "Hermes 1",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "lykischer Übersetzer ägypt. Königstitulaturen",
     "chapters": [
       {
@@ -34182,7 +34219,8 @@
       }
     ],
     "history": {
-      "0": "261102"
+      "0": "261102",
+      "1": "261105"
     }
   },
   {
@@ -34350,21 +34388,46 @@
   },
   {
     "lemma": "Ἠροδία",
-    "previous": "Herodes 3"
+    "previous": "Herodes 3",
+    "next": "Heros",
+    "sort_key": "Herodia",
+    "proof_read": 0,
+    "chapters": [
+      {
+        "start": 1130,
+        "end": 1130,
+        "author": "Ganschinietz."
+      }
+    ],
+    "history": {
+      "0": "261105"
+    }
   },
   {
-    "lemma": "Herodia",
+    "lemma": "Heros",
+    "previous": "Ἠροδία"
+  },
+  {
+    "lemma": "Ἡροδία",
+    "previous": "Herodes 3",
+    "next": "Heros 1",
+    "sort_key": "Herodia",
+    "proof_read": 0,
     "short_description": "Epiklese der Mondgöttin",
     "chapters": [
       {
         "start": 1130,
-        "author": "Ganschinietz"
+        "end": 1130,
+        "author": "Ganschinietz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Heros 1",
-    "previous": "Ἠροδία",
+    "previous": "Ἡροδία",
     "next": "Heros 2",
     "proof_read": 0,
     "short_description": "griech. Halbgott",
@@ -35178,26 +35241,35 @@
     "lemma": "Hyaila",
     "previous": "Horatia",
     "next": "Hydrea",
-    "short_description": "Südarab. Ort",
+    "proof_read": 0,
+    "short_description": "südarabischer Ort",
     "chapters": [
       {
         "start": 1160,
-        "author": "Grohmann"
+        "end": 1160,
+        "author": "Grohmann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Hydrea",
     "previous": "Hyaila",
     "next": "Hylas 4b",
-    "short_description": "Insel südöstl. der Argolis",
+    "proof_read": 0,
+    "short_description": "Insel südöstlich der Argolis",
     "chapters": [
       {
         "start": 1159,
         "end": 1161,
-        "author": "Bölte"
+        "author": "Bölte."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Hylas 4b",
@@ -36387,194 +36459,317 @@
     "lemma": "Ilucia",
     "previous": "Iluberitani",
     "next": "Ilucro(nensis?)",
-    "short_description": "Stadt der iber. Oretani. = Ilugo (S III 1231)(?)",
+    "proof_read": 0,
+    "short_description": "Stadt der iberischen Oretani = Ilugo (?)",
     "chapters": [
       {
         "start": 1230,
-        "author": "Keune"
+        "end": 1230,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilucro(nensis?)",
     "previous": "Ilucia",
     "next": "Ilugo",
-    "short_description": "Mons Gebirge im südöstl. Hispanien",
+    "proof_read": 0,
+    "short_description": "Mons, Gebirge im südöstlichen Hispanien",
     "chapters": [
       {
         "start": 1230,
         "end": 1231,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilugo",
+    "previous": "Ilucro(nensis?)",
+    "next": "Ilumber",
+    "proof_read": 0,
+    "short_description": "Stadt in Hispania Tarraconensis = Ilucia",
     "chapters": [
       {
         "start": 1231,
         "end": 1232,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilumber",
+    "previous": "Ilugo",
+    "next": "Ilunnis",
+    "proof_read": 0,
+    "short_description": "Ilumber(ris), iber. Gottheit",
     "chapters": [
       {
         "start": 1232,
         "end": 1232,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilunnis",
+    "previous": "Ilumber",
+    "next": "Ilunum",
+    "proof_read": 0,
+    "short_description": "Ilunis, Ilunnus, pyren. Gottheit",
     "chapters": [
       {
         "start": 1232,
         "end": 1233,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilunum",
+    "previous": "Ilunnis",
+    "next": "Ilurbida",
+    "proof_read": 0,
+    "short_description": "Stadt der iberischen Bastetani",
     "chapters": [
       {
         "start": 1233,
         "end": 1233
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilurbida",
+    "previous": "Ilunum",
+    "next": "Ilurci",
+    "proof_read": 0,
+    "short_description": "Stadt der iber. Carpetani",
     "chapters": [
       {
         "start": 1233,
         "end": 1233,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilurci",
-    "short_description": "Iber. Stadt = Gracurris (VII 1687)",
+    "previous": "Ilurbida",
+    "next": "Ilurco",
+    "proof_read": 0,
+    "short_description": "iberische Stadt = Gracurris",
     "chapters": [
       {
         "start": 1233,
-        "author": "Keune"
+        "end": 1233,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilurco",
+    "previous": "Ilurci",
+    "next": "Iluro",
+    "proof_read": 0,
+    "short_description": "Stadt in Hispania Baetica",
     "chapters": [
       {
         "start": 1233,
         "end": 1235,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Iluro",
-    "short_description": "Allg. Vorb.",
+    "previous": "Ilurco",
+    "next": "Iluro 1",
+    "proof_read": 0,
+    "short_description": "allg. Vorbemerkung",
     "chapters": [
       {
         "start": 1235,
-        "author": "Keune"
+        "end": 1235,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Iluro 1",
+    "previous": "Iluro",
+    "next": "Iluro 2",
+    "proof_read": 0,
+    "short_description": "Stadt in Aquitanien",
+    "wp_link": "w:de:Oloron-Sainte-Marie",
+    "wd_link": "d:Q208407",
     "chapters": [
       {
         "start": 1235,
         "end": 1236,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Iluro 2",
+    "previous": "Iluro 1",
+    "next": "Iluro 3",
+    "proof_read": 0,
+    "short_description": "Stadt in Hispania Baetica",
+    "wp_link": "w:de:Álora",
+    "wd_link": "d:Q250746",
     "chapters": [
       {
         "start": 1236,
         "end": 1236,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Iluro 3",
+    "previous": "Iluro 2",
+    "next": "Iluro 4",
+    "proof_read": 0,
+    "short_description": "Stadt in Hispania Tarraconensis",
+    "wp_link": "w:de:Mataró",
+    "wd_link": "d:Q11492",
     "chapters": [
       {
         "start": 1236,
         "end": 1237,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Iluro 4",
+    "previous": "Iluro 3",
+    "next": "Ilursenses",
+    "proof_read": 0,
+    "short_description": "Iber. Gottheit vgl. Ilumber",
     "chapters": [
       {
         "start": 1237,
         "end": 1237,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ilursenses",
     "previous": "Iluro 4",
-    "next": "Imola",
-    "short_description": "Gemeinde in Hispania cit.",
+    "next": "Imaginifer",
+    "proof_read": 0,
+    "short_description": "Gemeinde in Hispania citerior",
     "chapters": [
       {
         "start": 1237,
-        "author": "Keune"
+        "end": 1237,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
+  },
+  {
+    "lemma": "Imaginifer",
+    "previous": "Ilursenses",
+    "next": "Imola"
   },
   {
     "lemma": "Imola",
-    "previous": "Ilursenses",
+    "previous": "Imaginifer",
     "next": "Impflingen",
-    "short_description": "Norditalien. Stadt = Forum Corneli (VII 66 Nr. 1).",
+    "proof_read": 0,
+    "short_description": "norditalienische Stadt = Forum Corneli",
     "chapters": [
       {
         "start": 1237,
         "end": 1238,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Impflingen",
     "previous": "Imola",
     "next": "Inapha",
-    "short_description": "dt. Ort in der Rheinpfalz",
+    "proof_read": 0,
+    "short_description": "Ort in der Rheinpfalz",
     "chapters": [
       {
         "start": 1238,
-        "author": "Keune"
+        "end": 1238,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Inapha",
     "previous": "Impflingen",
     "next": "Inatos",
-    "short_description": "Stadt der südarab. Minaioi",
+    "proof_read": 0,
+    "short_description": "Stadt der südarabischen Minaioi",
     "chapters": [
       {
         "start": 1238,
-        "author": "Grohmann"
+        "end": 1238,
+        "author": "Grohmann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Inatos",
@@ -36651,97 +36846,139 @@
     "lemma": "Ingelheim",
     "previous": "Indus 3",
     "next": "Ingenuus 4",
-    "short_description": "dt. Ort in Rheinhessen",
+    "proof_read": 0,
+    "short_description": "Ort in Rheinhessen",
     "chapters": [
       {
         "start": 1239,
-        "author": "Keune"
+        "end": 1239,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ingenuus 4",
     "previous": "Ingelheim",
     "next": "Ingirozoglezim dii",
-    "short_description": "Cn. A(-) Ing(enuus), röm. Glasfabrikant",
+    "proof_read": 0,
+    "short_description": "römischer Glasfabrikant",
     "chapters": [
       {
         "start": 1239,
-        "author": "Keune"
+        "end": 1239,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ingirozoglezim dii",
     "previous": "Ingenuus 4",
     "next": "Ingweiler",
-    "short_description": "Nordafrikan. Schutzgottheiten vgl. Iuba Nr. [1. 2]",
+    "proof_read": 0,
+    "short_description": "nordafrikan. Schutzgottheiten",
     "chapters": [
       {
         "start": 1239,
-        "author": "Keune"
+        "end": 1239,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ingweiler",
     "previous": "Ingirozoglezim dii",
     "next": "Inheiden",
-    "short_description": "Elsäss. Ort",
+    "proof_read": 0,
+    "short_description": "Ort im Elsass",
     "chapters": [
       {
         "start": 1239,
-        "author": "Keune"
+        "end": 1239,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Inheiden",
     "previous": "Ingweiler",
     "next": "Insulae odoriferae",
-    "short_description": "dt. Dorf in Hessen",
+    "proof_read": 0,
+    "short_description": "Dorf in Hessen",
     "chapters": [
       {
         "start": 1240,
-        "author": "Keune"
+        "end": 1240,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Insulae odoriferae",
     "previous": "Inheiden",
     "next": "Intarabus",
-    "short_description": "Inseln im Arab. Meerbusen",
+    "proof_read": 0,
+    "short_description": "Inseln im arabischen Meerbusen",
     "chapters": [
       {
         "start": 1240,
-        "author": "Grohmann"
+        "end": 1240,
+        "author": "Grohmann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Intarabus",
     "previous": "Insulae odoriferae",
     "next": "Intaranum",
-    "short_description": "Trever. Gottheit / = Entarabus (V 2638)",
+    "proof_read": 0,
+    "short_description": "trever. Gottheit = Entarabus",
+    "wp_link": "w:de:Intarabus",
+    "wd_link": "d:Q1580179",
     "chapters": [
       {
         "start": 1240,
-        "author": "Keune"
+        "end": 1241,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Intaranum",
     "previous": "Intarabus",
     "next": "Ad Ioglandem",
-    "short_description": "Ort im Gebiet der gall. Senones",
+    "proof_read": 0,
+    "short_description": "Ort im Gebiet der gallischen Senones",
     "chapters": [
       {
         "start": 1241,
-        "author": "Keune"
+        "end": 1241,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Ad Ioglandem",
@@ -36784,85 +37021,122 @@
     "lemma": "Jonquières",
     "previous": "Iolaos 6",
     "next": "Iovantucarus",
-    "short_description": "Südfrz. Ort",
+    "proof_read": 0,
+    "short_description": "südfranzösicher Ort",
     "chapters": [
       {
         "start": 1242,
-        "author": "Keune"
+        "end": 1242,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Iovantucarus",
     "previous": "Jonquières",
     "next": "Jouey",
-    "short_description": "Kelt. Beiname des Mercurius",
+    "proof_read": 0,
+    "short_description": "kelt. Beiname des Mercurius",
+    "wp_link": "w:de:Iovantucarus",
+    "wd_link": "d:Q174480",
     "chapters": [
       {
         "start": 1242,
-        "author": "Keune"
+        "end": 1242,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Jouey",
     "previous": "Iovantucarus",
     "next": "Iovia, Iobia",
-    "short_description": "Frz. Ort",
+    "proof_read": 0,
+    "short_description": "französicher Ort",
     "chapters": [
       {
         "start": 1242,
-        "author": "Keune"
+        "end": 1242,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Iovia, Iobia",
     "previous": "Jouey",
     "next": "Jouy, Joué",
-    "short_description": "officina Röm. Ziegelei",
+    "proof_read": 0,
+    "short_description": "römische Ziegelei",
     "chapters": [
       {
         "start": 1242,
-        "author": "Keune"
+        "end": 1242,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Jouy, Joué",
     "previous": "Iovia, Iobia",
     "next": "Jouy-aux-Arches",
-    "short_description": "Ortsnamen gallo-röm. Ursprungs vgl. -acus, -iacus",
+    "proof_read": 0,
+    "short_description": "Ortnamen gallo-römischen Ursprungs",
     "chapters": [
       {
         "start": 1242,
-        "author": "Keune"
+        "end": 1243,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261102"
+    }
   },
   {
     "lemma": "Jouy-aux-Arches",
     "previous": "Jouy, Joué",
     "next": "Joyeuse",
-    "short_description": "Lothring. Ort",
+    "proof_read": 0,
+    "short_description": "Ort in Lothringen",
     "chapters": [
       {
         "start": 1243,
-        "author": "Keune"
+        "end": 1243,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Joyeuse",
     "previous": "Jouy-aux-Arches",
     "next": "Ipsch",
-    "short_description": "Frz. Ort",
+    "proof_read": 0,
+    "short_description": "Ort in Frankreich",
     "chapters": [
       {
         "start": 1243,
-        "author": "Keune"
+        "end": 1243,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Ipsch",
@@ -36900,125 +37174,193 @@
   {
     "lemma": "Isarcus",
     "previous": "Iresia",
+    "next": "Isca 1",
+    "proof_read": 0,
+    "short_description": "norisch-venetischer Fluß",
     "chapters": [
       {
         "start": 1243,
         "end": 1244,
         "author": "Hopfner."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Isca 1",
+    "previous": "Isarcus",
+    "next": "Ise 1",
+    "proof_read": 0,
+    "short_description": "Fluß in Südwestbritannien, jetzt Exe",
     "chapters": [
       {
         "start": 1244,
+        "end": 1244,
         "author": "Hopfner."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Ise 1",
+    "previous": "Isca 1",
     "next": "Ise 2",
-    "short_description": "R 135 (Isa) Nor. Fluß",
+    "proof_read": 0,
+    "short_description": "norischer Fluß",
     "chapters": [
       {
         "start": 1244,
-        "author": "Keune"
+        "end": 1244,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Ise 2",
     "previous": "Ise 1",
     "next": "Isidoros 6a",
-    "short_description": "R 135 (Isa) Nebenfluß des Arauris vgl. Cinorus",
+    "proof_read": 0,
+    "short_description": "Nebenfluß des Arauris",
     "chapters": [
       {
         "start": 1244,
-        "author": "Keune"
+        "end": 1244,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Isidoros 6a",
     "previous": "Ise 2",
     "next": "Isidoros 20a",
+    "proof_read": 0,
     "short_description": "I. Aigeates, griech. Epigrammdichter um die Zeitenwende",
     "chapters": [
       {
         "start": 1244,
         "end": 1245,
-        "author": "Keune"
+        "author": "Franke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Isidoros 20a",
     "previous": "Isidoros 6a",
-    "short_description": "I. Scholastikos, spätantiker griech. Epigrammdichter",
+    "next": "Isines",
+    "proof_read": 0,
+    "short_description": "Scholastikos, spätantiker griech. Epigrammdichter",
     "chapters": [
       {
         "start": 1245,
-        "author": "Franke"
+        "end": 1245,
+        "author": "Franke."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Isis 1",
+    "proof_read": 0,
+    "short_description": "ägyptische Gottheit",
+    "wp_link": "w:de:Isis",
+    "wd_link": "d:Q79876",
     "chapters": [
       {
         "start": 1245,
+        "end": 1245,
         "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Isines",
-    "next": "Isola Farnese",
-    "short_description": "Centuria der hispan. Stadt Arva",
+    "previous": "Isidoros 20a",
+    "next": "Isis 1",
+    "proof_read": 0,
+    "short_description": "Centuria der hispanischen Stadt Arva",
     "chapters": [
       {
         "start": 1245,
-        "author": "Keune"
+        "end": 1245,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
+  },
+  {
+    "lemma": "Isis 2",
+    "next": "Isola Farnese"
   },
   {
     "lemma": "Isola Farnese",
-    "previous": "Isines",
+    "previous": "Isis 2",
     "next": "Isonta",
-    "short_description": "Mittelalterl. Ort an der Stelle von Veii",
+    "proof_read": 0,
+    "short_description": "mittelalterlicher Ort an der Stelle von Veii",
     "chapters": [
       {
         "start": 1246,
-        "author": "Keune"
+        "end": 1246,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Isonta",
     "previous": "Isola Farnese",
     "next": "Isurgut(ana?)",
-    "short_description": "Alter Name der Salzach(?) vgl. Ivaro",
+    "proof_read": 0,
+    "short_description": "alter Name der Salzach",
     "chapters": [
       {
         "start": 1246,
-        "author": "Keune"
+        "end": 1246,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Isurgut(ana?)",
     "previous": "Isonta",
     "next": "Italia",
-    "short_description": "Centuria der hispan. Stadt Arva",
+    "proof_read": 0,
+    "short_description": "Centuria der hispanischen Stadt Arva",
     "chapters": [
       {
         "start": 1246,
-        "author": "Keune"
+        "end": 1246,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Italia",
@@ -37043,25 +37385,37 @@
     "lemma": "Itone",
     "previous": "Italia",
     "next": "Iuba 1",
+    "proof_read": 0,
+    "short_description": "streichen",
     "chapters": [
       {
         "start": 1302,
-        "author": "Bürchner"
+        "end": 1302,
+        "author": "Bürchner."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Iuba 1",
     "previous": "Itone",
     "next": "Judenburg",
-    "short_description": "Iuba I., Iuba II., numid. Könige",
+    "proof_read": 0,
+    "short_description": "I., König v. Numidien u. Gaetulien, geb. um 85 v. Chr.",
+    "wp_link": "w:de:Juba I.",
+    "wd_link": "d:Q379277",
     "chapters": [
       {
         "start": 1302,
         "end": 1303,
-        "author": "Keune"
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261103"
+    }
   },
   {
     "lemma": "Judenburg",
@@ -37181,7 +37535,7 @@
   {
     "lemma": "Epona",
     "previous": "Abacus 9",
-    "next": "Giganten",
+    "next": "Felsendenkmäler",
     "proof_read": 3,
     "short_description": "gallischen Göttin",
     "wp_link": "w:de:Epona (Mythologie)",
@@ -37192,20 +37546,24 @@
         "end": 1305,
         "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "3": "180611"
+    }
   },
   {
-    "lemma":  "Felsendenkmäler",
-        "chapters": [
+    "lemma": "Felsendenkmäler",
+    "previous": "Epona",
+    "chapters": [
       {
         "start": 1305,
         "author": "Keune."
       }
     ]
   },
-    {
-    "lemma":  "Giganten",
-        "chapters": [
+  {
+    "lemma": "Giganten",
+    "chapters": [
       {
         "start": 1305,
         "end": 1306,

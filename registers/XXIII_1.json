@@ -4546,7 +4546,6 @@
     "previous": "prodigium",
     "next": "Prodikos 1",
     "sort_key": "prodikos 0",
-    "redirect": true,
     "proof_read": 3,
     "short_description": "prodikos, Vormund der spartanischen Könige bzw. Rechtsbeistand",
     "chapters": [
@@ -15871,7 +15870,7 @@
   {
     "lemma": "prodigus",
     "previous": "pro dictatore",
-    "next": "prodikos",
+    "next": "πρόδικος",
     "short_description": "Der Verschwender im röm. Recht.",
     "chapters": [
       {
@@ -15885,18 +15884,23 @@
     "lemma": "πρόδικος",
     "previous": "prodigus",
     "next": "πρόδρομος 2",
-    "short_description": "Der Vormund der spartan. Könige bzw. der Rechtsbeistand. vgl. Syndikos Nr. 2",
+    "sort_key": "prodikos 0",
+    "proof_read": 0,
+    "short_description": "prodikos, Vormund der spartanischen Könige bzw. Rechtsbeistand",
     "chapters": [
       {
         "start": 1283,
         "end": 1284,
-        "author": "Schaefer"
+        "author": "Hans Schaefer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261106"
+    }
   },
   {
     "lemma": "πρόδρομος 2",
-    "previous": "prodikos",
+    "previous": "πρόδικος",
     "next": "Prokles 18",
     "sort_key": "prodromos 2",
     "proof_read": 2,
