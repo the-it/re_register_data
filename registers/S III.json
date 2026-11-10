@@ -5146,7 +5146,7 @@
       }
     ],
     "history": {
-      "0": "180617",
+      "0": "150417",
       "2": "220807",
       "3": "230131"
     }
@@ -33599,7 +33599,7 @@
   {
     "lemma": "Helena 1a",
     "previous": "Helena 1",
-    "next": "Helenos 5a",
+    "next": "Helike 4",
     "proof_read": 1,
     "short_description": "Gallo-röm. Dorf im Gebiet der nordgall. Atrebates",
     "chapters": [
@@ -33616,6 +33616,7 @@
   },
   {
     "lemma": "Helike 4",
+    "previous": "Helena 1a",
     "next": "Helioseiros",
     "proof_read": 0,
     "short_description": "Stadt an der hispan. Ostküste. = Ilici (IX 1061. S III 1217 ).",
@@ -34391,7 +34392,7 @@
   {
     "lemma": "Ἠροδία",
     "previous": "Herodes 3",
-    "next": "Heros",
+    "next": "Heros 1",
     "sort_key": "Herodia",
     "proof_read": 0,
     "chapters": [
@@ -34406,12 +34407,12 @@
     }
   },
   {
-    "lemma": "Heros",
-    "previous": "Ἠροδία"
+    "lemma": "Heros"
   },
   {
     "lemma": "Ἡροδία",
     "previous": "Herodes 3",
+    "next": "Heros 1",
     "sort_key": "Herodia",
     "proof_read": 0,
     "short_description": "Epiklese der Mondgöttin",
@@ -34428,10 +34429,12 @@
   },
   {
     "lemma": "Heros 1",
-    "previous": "Ἠροδία",
+    "previous": "Ἡροδία",
     "next": "Heros 2",
     "proof_read": 0,
-    "short_description": "griech. Halbgott",
+    "short_description": "Halbgott",
+    "wp_link": "w:de:Eros (Mythologie)",
+    "wd_link": "d:Q121973",
     "chapters": [
       {
         "start": 1130,
@@ -34481,7 +34484,20 @@
   {
     "lemma": "Herostratos 3",
     "previous": "Ἥρως Αὐλωνείτης",
-    "next": "Herpa…"
+    "next": "Herpa…",
+    "sort_key": "Herostratos 3",
+    "proof_read": 0,
+    "short_description": "Vertrauter des Caesarmörders M. Iunius Brutus",
+    "chapters": [
+      {
+        "start": 1149,
+        "end": 1149,
+        "author": "Münzer."
+      }
+    ],
+    "history": {
+      "0": "261105"
+    }
   },
   {
     "lemma": "Herpa…",
