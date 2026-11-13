@@ -4946,7 +4946,7 @@
     "lemma": "Habron 1c",
     "previous": "Gyron",
     "next": "Hadaia",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "Argiver, Vater des Melissos, Großvater des Aktaion",
     "chapters": [
       {
@@ -4957,7 +4957,8 @@
     ],
     "history": {
       "0": "261104",
-      "1": "261111"
+      "1": "261111",
+      "2": "261112"
     }
   },
   {
@@ -5106,7 +5107,7 @@
     "lemma": "Hegesinus 2",
     "previous": "Hegesias 10a",
     "next": "Hegesippos 1a",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "Epiker (?)",
     "chapters": [
       {
@@ -5117,7 +5118,8 @@
     ],
     "history": {
       "0": "261104",
-      "1": "261111"
+      "1": "261111",
+      "2": "261112"
     }
   },
   {
@@ -5144,7 +5146,7 @@
     "lemma": "Hegias 2a",
     "previous": "Hegesippos 1a",
     "next": "Hekataios 1b",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "von Ephesos, Mitglied im Kriegsrat Xerxes' I.",
     "chapters": [
       {
@@ -5155,7 +5157,8 @@
     ],
     "history": {
       "0": "261104",
-      "1": "261111"
+      "1": "261111",
+      "2": "261112"
     }
   },
   {
@@ -5194,6 +5197,7 @@
   },
   {
     "lemma": "Heliupolis a",
+    "next": "Hellanikos 3a",
     "proof_read": 0,
     "short_description": "mittelsyrische Stadt",
     "chapters": [
@@ -5209,8 +5213,6 @@
   },
   {
     "lemma": "Hektor 1a",
-    "previous": "Hekataios 1c",
-    "next": "Heliupolis a",
     "proof_read": 2,
     "short_description": "Makedone, Freund Alexanders d. Gr., Sohn des Parmenion, † 331",
     "no_creative_height": true,
@@ -5228,6 +5230,7 @@
   },
   {
     "lemma": "Hellanikos 3a",
+    "previous": "Heliupolis a",
     "next": "Hellas 1a",
     "proof_read": 2,
     "short_description": "aus Argos, 2. Hälfte 4. Jhdt. v. Chr., Wohltäter der Samier",
@@ -5456,7 +5459,7 @@
     "lemma": "Herodikos a",
     "previous": "Hermippos 12",
     "next": "Herodoros 3a",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "von Perinth, Schriftsteller",
     "chapters": [
       {
@@ -5467,7 +5470,8 @@
     ],
     "history": {
       "0": "261105",
-      "1": "261111"
+      "1": "261111",
+      "2": "261112"
     }
   },
   {
@@ -5782,7 +5786,7 @@
     "lemma": "Hippomachos 2a",
     "previous": "Hippokles 1a",
     "next": "Histiaia",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "Seher im Lager des Feldherrn Mardonios 479 v. Chr.",
     "chapters": [
       {
@@ -5793,7 +5797,8 @@
     ],
     "history": {
       "0": "261106",
-      "1": "261111"
+      "1": "261111",
+      "2": "261112"
     }
   },
   {
@@ -6109,8 +6114,8 @@
     "lemma": "Hylias 2",
     "previous": "Hyle 4",
     "next": "Ὑπασχολούμενος",
-    "proof_read": 1,
-    "short_description": "Flüßchen in Bruttium",
+    "proof_read": 2,
+    "short_description": "Städtchen in Bruttium",
     "chapters": [
       {
         "start": 770,
@@ -6120,7 +6125,8 @@
     ],
     "history": {
       "0": "261106",
-      "1": "261111"
+      "1": "261111",
+      "2": "261112"
     }
   },
   {
@@ -6592,7 +6598,7 @@
     "lemma": "Intibili 1",
     "previous": "Intibili",
     "next": "Intibili 2",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "hispanische Stadt am oberen Baetis",
     "chapters": [
       {
@@ -6603,7 +6609,8 @@
     ],
     "history": {
       "0": "261106",
-      "1": "261111"
+      "1": "261111",
+      "2": "261112"
     }
   },
   {
@@ -6804,7 +6811,7 @@
     "lemma": "Iontora",
     "previous": "Ionische Aufstandsmünze",
     "next": "Iordanis",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "Ortsname bei Diodor = Lactora",
     "chapters": [
       {
@@ -6815,7 +6822,8 @@
     ],
     "history": {
       "0": "261107",
-      "1": "261111"
+      "1": "261111",
+      "2": "261112"
     }
   },
   {
@@ -7232,95 +7240,141 @@
   {
     "lemma": "Kalathion",
     "previous": "Kalas 4",
+    "next": "Καλάθουσα 2",
+    "proof_read": 0,
+    "short_description": "Lakonisches Gebirge",
     "chapters": [
       {
         "start": 855,
+        "end": 855,
         "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
-    "lemma": "Kalathusa 2",
-    "next": "Kalathusa 3",
-    "short_description": "Hispan. Stadt = Calathe",
+    "lemma": "Καλάθουσα 2",
+    "previous": "Kalathion",
+    "next": "Καλάθουσα 3",
+    "sort_key": "Kalathusa 2",
+    "proof_read": 0,
+    "short_description": "hispanische Stadt",
     "chapters": [
       {
         "start": 855,
-        "author": "Geisau"
+        "end": 855,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
-    "lemma": "Kalathusa 3",
-    "previous": "Kalathusa 2",
+    "lemma": "Καλάθουσα 3",
+    "previous": "Καλάθουσα 2",
     "next": "Kalepios 1",
-    "short_description": "Stadt am Pontos Euxeinos = Kallatis",
+    "sort_key": "Kalathusa 3",
+    "proof_read": 0,
+    "short_description": "Stadt am Pontos Euxeinos",
     "chapters": [
       {
         "start": 855,
-        "author": "Geisau"
+        "end": 855,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
     "lemma": "Kalepios 1",
-    "previous": "Kalathusa 3",
+    "previous": "Καλάθουσα 3",
     "next": "Kalepios 2",
-    "short_description": "Rationalis trium provinciarum im J. 340 n. Chr.",
+    "proof_read": 0,
+    "short_description": "Rationalis trium provinciarum 340 n. Chr.",
     "chapters": [
       {
         "start": 855,
-        "author": "Seeck"
+        "end": 855,
+        "author": "Seeck."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
     "lemma": "Kalepios 2",
     "previous": "Kalepios 1",
-    "next": "Kales dromos",
-    "short_description": "Weström. Konsul im J. 447 n. Chr.",
+    "next": "Καλῆς δρόμος",
+    "proof_read": 0,
+    "short_description": "weströmischer Konsul 447 n. Chr.",
     "chapters": [
       {
         "start": 855,
-        "author": "Seeck"
+        "end": 855,
+        "author": "Seeck."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
-    "lemma": "Kales dromos",
+    "lemma": "Καλῆς δρόμος",
     "previous": "Kalepios 2",
     "next": "Kalibios",
-    "short_description": "Örtlichkeit auf dem korinth.-megar. Isthmos",
+    "sort_key": "Kales dromos",
+    "proof_read": 0,
+    "short_description": "Örtlichkeit auf dem korinthisch-megarischen Isthmos",
     "chapters": [
       {
         "start": 855,
-        "author": "Geisau"
+        "end": 855,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
     "lemma": "Kalibios",
-    "previous": "Kales dromos",
+    "previous": "Καλῆς δρόμος",
     "next": "Kalis 2",
-    "short_description": "Curator von Aptunga vgl. Aptugnium das J. 315 n. Chr.",
+    "proof_read": 0,
+    "short_description": "Curator von Aptunga 315 n. Chr.",
     "chapters": [
       {
         "start": 855,
-        "author": "Seeck"
+        "end": 855,
+        "author": "Seeck."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
     "lemma": "Kalis 2",
     "previous": "Kalibios",
     "next": "Kalleas 2",
-    "short_description": "Makedone im Dienste Alexanders d.Gr.",
+    "proof_read": 0,
+    "short_description": "Makedone im Dienste Alexanders d. Gr.",
     "chapters": [
       {
         "start": 855,
-        "author": "Berve"
+        "end": 855,
+        "author": "Berve."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
     "lemma": "Kalleas 2",
@@ -7342,64 +7396,93 @@
     }
   },
   {
+    "lemma": "Kallia 1",
+    "next": "Kallia 2"
+  },
+  {
     "lemma": "Kallia 2",
-    "previous": "Kalleas 2",
+    "previous": "Kallia 1",
     "next": "Kalliades 3a",
-    "short_description": "Att. Örtlichkeit am Hymettos",
+    "proof_read": 0,
+    "short_description": "attische Örtlichkeit am Hymettos",
     "chapters": [
       {
         "start": 855,
-        "author": "Geisau"
+        "end": 855,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
     "lemma": "Kalliades 3a",
     "previous": "Kallia 2",
     "next": "Kalliai 1",
-    "short_description": "Einflußreicher Trachinier im Kriegsrat des Xerxes bei Thermopylai",
+    "proof_read": 0,
+    "short_description": "einflußreicher Trachinier im Kriegsrat des Xerxes bei Thermopylai",
     "chapters": [
       {
         "start": 855,
-        "author": "Wiedersich"
+        "end": 855,
+        "author": "Wiedersich."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
     "lemma": "Kalliai 1",
     "previous": "Kalliades 3a",
     "next": "Kalliai 2",
+    "proof_read": 0,
     "short_description": "Stadt der sog. arkad. Tripolis",
     "chapters": [
       {
         "start": 855,
-        "author": "Geisau"
+        "end": 856,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261108"
+    }
   },
   {
     "lemma": "Kalliai 2",
     "previous": "Kalliai 1",
     "next": "Kalliai 3",
-    "short_description": "Aitol. Ort. = Kallipolis Nr. 11 vgl. Kalliai Nr. 1",
+    "proof_read": 0,
+    "short_description": "aitolischer Ort = Kallipolis",
     "chapters": [
       {
         "start": 856,
-        "author": "Geisau"
+        "end": 856,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261109"
+    }
   },
   {
     "lemma": "Kalliai 3",
     "previous": "Kalliai 2",
     "next": "Kallias 14a",
-    "short_description": "Ort in der Nähe von Tarentum (IV A 2302 Nr. 1) = Kallipolis (X 1660 Nr. 9) =",
+    "proof_read": 0,
+    "short_description": "Ort in der Nähe von Tarentum",
     "chapters": [
       {
         "start": 856,
-        "author": "Geisau"
+        "end": 856,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261109"
+    }
   },
   {
     "lemma": "Kallias 14a",
@@ -7423,7 +7506,7 @@
   {
     "lemma": "Kallias 14b",
     "previous": "Kallias 14a",
-    "next": "Kalliazein",
+    "next": "Καλλιάζειν",
     "proof_read": 2,
     "short_description": "Grieche, vom maked. König Philippos V. im Rausch getötet",
     "no_creative_height": true,
@@ -7440,20 +7523,26 @@
     }
   },
   {
-    "lemma": "Kalliazein",
+    "lemma": "Καλλιάζειν",
     "previous": "Kallias 14b",
     "next": "Kallidamos",
-    "short_description": "Die Ausübung einer unbestimmten (polit.?) Funktion in Kyzikos",
+    "sort_key": "Kalliazein",
+    "proof_read": 0,
+    "short_description": "die Ausübung einer unbestimmten (polit. ?) Funktion in Kyzikos",
     "chapters": [
       {
         "start": 856,
-        "author": "Schulthess"
+        "end": 857,
+        "author": "Schultheß."
       }
-    ]
+    ],
+    "history": {
+      "0": "261109"
+    }
   },
   {
     "lemma": "Kallidamos",
-    "previous": "Kalliazein",
+    "previous": "Καλλιάζειν",
     "next": "Kalligeitos",
     "proof_read": 2,
     "short_description": "ptolemäischer Beamter in Thera 265 v. Chr.",
@@ -7474,37 +7563,52 @@
     "lemma": "Kalligeitos",
     "previous": "Kallidamos",
     "next": "Kalligonos",
-    "short_description": "K. von Megara, pers. Gesandter nach Sparta im J. 412 v. Chr., Sohn des Laophon",
+    "proof_read": 0,
+    "short_description": "von Megara, persischer Gesandter nach Sparta 412 v. Chr.",
     "chapters": [
       {
         "start": 857,
-        "author": "Wiedersich"
+        "end": 857,
+        "author": "Wiedersich."
       }
-    ]
+    ],
+    "history": {
+      "0": "261109"
+    }
   },
   {
     "lemma": "Kalligonos",
     "previous": "Kalligeitos",
     "next": "Kallikinos",
-    "short_description": "Praepositus sacri cubiculi Valentinians II. im J. 386 n. Chr.",
+    "proof_read": 0,
+    "short_description": "Praepositus sacri cubiculi Valentinians II. 386 n. Chr.",
     "chapters": [
       {
         "start": 857,
-        "author": "Seeck"
+        "end": 857,
+        "author": "Seeck."
       }
-    ]
+    ],
+    "history": {
+      "0": "261109"
+    }
   },
   {
     "lemma": "Kallikinos",
     "previous": "Kalligonos",
     "next": "Kallikrates 7a",
-    "short_description": "Thessal. Hügel",
+    "proof_read": 0,
+    "short_description": "thessalischer Hügel",
     "chapters": [
       {
         "start": 857,
-        "author": "Geisau"
+        "end": 857,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261109"
+    }
   },
   {
     "lemma": "Kallikrates 7a",
@@ -7607,13 +7711,18 @@
     "lemma": "Kallikrates 7f",
     "previous": "Kallikrates 7e",
     "next": "Kallikrates 7g",
-    "short_description": "Schatzmeister Alexanders d.Gr. in Susa im J. 331 v. Chr. = K. Nr. 7c (S IV",
+    "proof_read": 0,
+    "short_description": "Schatzmeister Alexanders d. Gr. in Susa 331 v. Chr.",
     "chapters": [
       {
         "start": 859,
-        "author": "Berve"
+        "end": 859,
+        "author": "Berve."
       }
-    ]
+    ],
+    "history": {
+      "0": "261109"
+    }
   },
   {
     "lemma": "Kallikrates 7g",
@@ -7692,13 +7801,18 @@
     "lemma": "Kallimache",
     "previous": "Kallikritos 2",
     "next": "Kallimachos 3a",
-    "short_description": "Örtlichkeit an der kar. Küste",
+    "proof_read": 0,
+    "short_description": "Örtlichkeit an der karischen Küste",
     "chapters": [
       {
         "start": 862,
-        "author": "Bürchner"
+        "end": 862,
+        "author": "Bürchner."
       }
-    ]
+    ],
+    "history": {
+      "0": "261109"
+    }
   },
   {
     "lemma": "Kallimachos 3a",
@@ -7722,23 +7836,35 @@
   {
     "lemma": "Kallimachos 3b",
     "previous": "Kallimachos 3a",
-    "short_description": "K. von Parrhasia, Lochage im Heer Kyros, d.J. im J. 401 v. Chr.",
+    "next": "Kallimachos 6",
+    "proof_read": 0,
+    "short_description": "von Parrhasia, Lochage im Heer Kyros’ d. J. 401 v. Chr.",
     "chapters": [
       {
         "start": 862,
-        "author": "Wiedersich"
+        "end": 862,
+        "author": "Wiedersich."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kallimachos 6",
+    "previous": "Kallimachos 3b",
     "next": "Kallimachos 9",
+    "proof_read": 0,
+    "short_description": "K. der Jüngere von Kyrene, Dichter",
     "chapters": [
       {
         "start": 862,
-        "author": "Schoch."
+        "end": 862
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kallimachos 9",
@@ -7764,25 +7890,35 @@
     "lemma": "Kallimedon 2",
     "previous": "Kallimachos 9",
     "next": "Kallines",
-    "short_description": "s. 2)",
+    "proof_read": 0,
+    "short_description": "athen. Gesandter zum persischen Satrapen Tiribazos 392 v. Chr.",
     "chapters": [
       {
         "start": 862,
-        "author": "Wiedersich"
+        "end": 862,
+        "author": "Wiedersich."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kallines",
     "previous": "Kallimedon 2",
     "next": "Kalliopios 1",
-    "short_description": "Maked. Offizier im Heer Alexanders d.Gr.",
+    "proof_read": 0,
+    "short_description": "makedonischer Offizier im Heer Alexanders d. Gr.",
     "chapters": [
       {
         "start": 863,
-        "author": "Berve"
+        "end": 863,
+        "author": "Berve."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kalliopios 1",
@@ -7922,17 +8058,22 @@
   {
     "lemma": "Kallipolis 7b",
     "previous": "Kallipolis 7a",
-    "next": "Kallirrhoë 14",
+    "next": "Kallippos 22",
+    "proof_read": 0,
+    "short_description": "Ort am Pontos (S IX 866. 1911) Euxeinos bei Olbia (XVII 2405 Nr. 4)",
     "chapters": [
       {
         "start": 864,
+        "end": 864,
         "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kallirrhoë 14",
-    "previous": "Kallipolis 7b",
     "next": "Kallisthenes 5",
     "proof_read": 3,
     "short_description": "Quelle bei der aitolischen Stadt Kalydon",
@@ -8123,13 +8264,18 @@
     "lemma": "Kamenios 1",
     "previous": "Kambylos",
     "next": "Kamenios 2",
-    "short_description": "Ceionius Iulianus Camenius, praef. urbi im J. 333/4 n. Chr. = Caeionius (III",
+    "proof_read": 0,
+    "short_description": "Ceionius Iulianus Camenius, praef. urbi 333/4 n. Chr.",
     "chapters": [
       {
         "start": 865,
-        "author": "Seeck"
+        "end": 865,
+        "author": "Seeck."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kamenios 2",
@@ -8156,13 +8302,18 @@
     "lemma": "Kamiris",
     "previous": "Kamenios 2",
     "next": "Kamma",
-    "short_description": "Das Gebiet der rhod. Stadt Kamiros",
+    "proof_read": 0,
+    "short_description": "Gebiet der rhodischen Stadt Kamiros",
     "chapters": [
       {
         "start": 865,
-        "author": "Hiller v. Gaertringen"
+        "end": 865,
+        "author": "Hiller v. Gaertringen."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kamma",
@@ -8187,12 +8338,19 @@
     "lemma": "Kanai 1",
     "previous": "Kamma",
     "next": "Kandasa",
+    "proof_read": 1,
+    "short_description": "aiolische Stadt",
     "chapters": [
       {
         "start": 865,
+        "end": 865,
         "author": "Oldfather."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110",
+      "1": "261111"
+    }
   },
   {
     "lemma": "Kandasa",
@@ -8216,71 +8374,105 @@
   {
     "lemma": "Kanobus 1",
     "previous": "Kandasa",
+    "next": "Kantharos 5",
+    "proof_read": 0,
+    "short_description": "ägyptischer Ort nahe der westlichsten Nilmündung",
     "chapters": [
       {
         "start": 865,
+        "end": 866,
         "author": "Kees."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kantharos 5",
-    "next": "Kanun",
-    "short_description": "Gefäßbezeichnung",
+    "previous": "Kanobus 1",
+    "next": "Κανοῦν",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 866,
-        "author": "Frankenstein"
+        "end": 867,
+        "author": "Frankenstein."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
-    "lemma": "Kanun",
+    "lemma": "Κανοῦν",
     "previous": "Kantharos 5",
     "next": "Kaphisias 2",
+    "sort_key": "Kanun",
+    "proof_read": 0,
     "short_description": "Gefäßbezeichnung",
     "chapters": [
       {
         "start": 867,
-        "author": "Humborg"
+        "end": 875,
+        "author": "Humborg."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Kaphisias 2",
-    "previous": "Kanun",
-    "next": "Kapru sema",
-    "short_description": "Flötenspieler am Hof Alexanders d.Gr. im J. 324 v. Chr.",
+    "previous": "Κανοῦν",
+    "next": "Κάπρου σῆμα",
+    "proof_read": 0,
+    "short_description": "Flötenspieler am Hof Alexanders d. Gr. 324 v. Chr.",
     "chapters": [
       {
         "start": 875,
-        "author": "Berve"
+        "end": 875,
+        "author": "Berve."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
-    "lemma": "Kapru sema",
+    "lemma": "Κάπρου σῆμα",
     "previous": "Kaphisias 2",
     "next": "Karanos 2",
-    "short_description": "Messen. Örtlichkeit",
+    "sort_key": "Kapru sema",
+    "proof_read": 0,
+    "short_description": "messenische Örtlichkeit",
     "chapters": [
       {
         "start": 875,
-        "author": "Geisau"
+        "end": 875,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Karanos 2",
-    "previous": "Kapru sema",
+    "previous": "Κάπρου σῆμα",
     "next": "Karchesion",
+    "proof_read": 0,
     "short_description": "Reiteroffizier im Dienste Alexanders d.Gr.",
     "chapters": [
       {
         "start": 875,
-        "author": "Berve"
+        "end": 876,
+        "author": "Berve."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Karchesion",
@@ -8324,7 +8516,7 @@
     "previous": "Καρικὰ μέλη"
   },
   {
-    "lemma": "Karika mele",
+    "lemma": "Καρικὰ μέλη",
     "next": "Karthasis",
     "short_description": "Choriamb. Dichtungen",
     "chapters": [
@@ -8336,15 +8528,20 @@
   },
   {
     "lemma": "Karthasis",
-    "previous": "Karika mele",
+    "previous": "Καρικὰ μέλη",
     "next": "Karzenos",
-    "short_description": "Skyth. Feldherr gegen Alexander d.Gr. im J. 329 v. Chr.",
+    "proof_read": 0,
+    "short_description": "skythischer Feldherr gegen Alexander d. Gr. 329 v. Chr.",
     "chapters": [
       {
         "start": 876,
-        "author": "Berve"
+        "end": 876,
+        "author": "Berve."
       }
-    ]
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Karzenos",
@@ -8438,15 +8635,23 @@
   {
     "lemma": "Kassiope 3",
     "previous": "Kassignatos",
+    "next": "Kassopia",
+    "proof_read": 0,
+    "short_description": "epeirotische Hafenstadt",
     "chapters": [
       {
         "start": 879,
+        "end": 879,
         "author": "Oberhummer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kassopia",
+    "previous": "Kassiope 3",
     "chapters": [
       {
         "start": 879,
