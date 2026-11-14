@@ -7029,7 +7029,20 @@
   {
     "lemma": "Iuppitersäulen",
     "previous": "Judas a",
-    "next": "Καβαλλάριος"
+    "next": "Καβαλλάριος",
+    "redirect": "Gigantensäulen",
+    "proof_read": 2,
+    "short_description": "s. Gigantensäulen (S IV 689. S VII 220)",
+    "chapters": [
+      {
+        "start": 801,
+        "end": 801
+      }
+    ],
+    "history": {
+      "0": "261111",
+      "2": "261113"
+    }
   },
   {
     "lemma": "Καβαλλάριος",
@@ -8513,7 +8526,20 @@
   },
   {
     "lemma": "Katharsis",
-    "previous": "Καρικὰ μέλη"
+    "previous": "Καρικὰ μέλη",
+    "next": "Karzenos",
+    "proof_read": 0,
+    "short_description": "kultische Reinigungshandlungen",
+    "chapters": [
+      {
+        "start": 876,
+        "end": 876,
+        "author": "Berve."
+      }
+    ],
+    "history": {
+      "0": "261110"
+    }
   },
   {
     "lemma": "Καρικὰ μέλη",
@@ -8673,7 +8699,6 @@
   {
     "lemma": "Kassopa (K), Kassope, Kassopia",
     "previous": "Kassopaioi",
-    "next": "Kastellos",
     "short_description": "Epeirot. Stadt",
     "chapters": [
       {
@@ -8683,143 +8708,216 @@
     ]
   },
   {
-    "lemma": "Kastellos",
-    "previous": "Kassopa (K), Kassope, Kassopia",
+    "lemma": "Kastalios",
+    "next": "Κάστελλος"
+  },
+  {
+    "lemma": "Κάστελλος",
+    "previous": "Kastalios",
     "next": "Kastorion",
-    "short_description": "Epeirot. Kastell",
+    "sort_key": "Kastellos",
+    "proof_read": 0,
+    "short_description": "epeirotisches Kastell",
     "chapters": [
       {
         "start": 880,
-        "author": "Oberhummer"
+        "end": 880,
+        "author": "Oberhummer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kastorion",
-    "previous": "Kastellos",
+    "previous": "Κάστελλος",
     "next": "Kastorios",
-    "short_description": "K. von Soloi, lyr. Dichter in der 2. H. des 4. Jh. v. Chr.",
+    "proof_read": 0,
+    "short_description": "von Soloi, lyrischer Dichter 4. Jh. v. Chr.",
     "chapters": [
       {
         "start": 880,
-        "author": "Seeck"
+        "end": 880,
+        "author": "Kroll."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kastorios",
     "previous": "Kastorion",
     "next": "Katanes",
-    "short_description": "Consularis Siciliae und vicarius Africae in der 2. H. des 4. Jh. n. Chr.",
+    "proof_read": 0,
+    "short_description": "Consularis Siciliae und vicarius Africae 4. Jh. n. Chr.",
     "chapters": [
       {
         "start": 880,
-        "author": "Seeck"
+        "end": 880,
+        "author": "Seeck."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Katanes",
     "previous": "Kastorios",
     "next": "Kattabier",
-    "short_description": "Perser in der Umgebung des Bessos, Gegner Alexanders d.Gr. im J. 327 v. Chr.",
+    "proof_read": 0,
+    "short_description": "Perser in der Umgebung des Bessos",
+    "wd_link": "d:Q71167947",
     "chapters": [
       {
         "start": 880,
-        "author": "Schoch"
+        "end": 880,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kattabier",
     "previous": "Katanes",
     "next": "Kauaros",
-    "short_description": "Demos von Lindos vgl. Kastabala. Kastabos",
+    "proof_read": 0,
+    "short_description": "Demos von Lindos",
     "chapters": [
       {
         "start": 881,
-        "author": "Hiller von Gaertringen"
+        "end": 881,
+        "author": "Hiller v. Gaertringen."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kauaros",
     "previous": "Kattabier",
     "next": "Kaukion",
-    "short_description": "König der tylen. Galater zu Ende des 2. Jh. v. Chr.",
+    "proof_read": 0,
+    "short_description": "König der tylenischen Galater 2. Jh. v. Chr.",
     "chapters": [
       {
         "start": 881,
-        "author": "Schoch"
+        "end": 882,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kaukion",
     "previous": "Kauaros",
+    "next": "Keladone",
+    "proof_read": 0,
     "short_description": "Gefäßbezeichnung",
     "chapters": [
       {
         "start": 882,
-        "author": "Frankenstein"
+        "end": 882,
+        "author": "Frankenstein."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Keladone",
+    "previous": "Kaukion",
+    "next": "Kephalon 2",
+    "proof_read": 0,
+    "short_description": "Lokr. Stadt",
     "chapters": [
       {
         "start": 882,
+        "end": 882,
         "author": "Oldfather."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kephalon 2",
+    "previous": "Keladone",
     "next": "Kephalos 3a",
-    "short_description": "Vertrauter des Strategen Aratos Nr. 2",
+    "proof_read": 0,
+    "short_description": "Vertrauter des Strategen Aratos",
     "chapters": [
       {
         "start": 882,
-        "author": "Schoch"
+        "end": 882,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kephalos 3a",
     "previous": "Kephalon 2",
     "next": "Kephisodoros 4a",
-    "short_description": "K. von Epeiros, Freund des maked. Königshauses, Prostates der Molosser zu",
+    "proof_read": 0,
+    "short_description": "von Epeiros, Freund des makedonischen Königshauses",
     "chapters": [
       {
         "start": 882,
-        "author": "Schoch"
+        "end": 883,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kephisodoros 4a",
     "previous": "Kephalos 3a",
     "next": "Ker",
-    "short_description": "Lochage im Heer Kyros, d.J., Sohn des Kephisophon von Athen",
+    "proof_read": 0,
+    "short_description": "Lochage im Heer Kyros’ d. J., Sohn des Kephisophon",
     "chapters": [
       {
         "start": 883,
-        "author": "Wiedersich"
+        "end": 883,
+        "author": "Wiedersich."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Ker",
     "previous": "Kephisodoros 4a",
     "next": "Kerax",
-    "short_description": "Griech. weibl. Dämon",
+    "proof_read": 0,
+    "short_description": "griechischer weiblicher Dämon",
+    "wp_link": "w:de:Ker",
+    "wd_link": "d:Q403964",
     "chapters": [
       {
         "start": 883,
-        "author": "Malten"
+        "end": 900,
+        "author": "Malten."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kerax",
@@ -8842,50 +8940,76 @@
   {
     "lemma": "Kerketion 1",
     "previous": "Kerax",
-    "next": "Kerkineus",
-    "short_description": "Thessal.-epeirot. Grenzgebirge",
+    "next": "Kerketion 2",
+    "proof_read": 0,
+    "short_description": "thessalisch-epeirotisches Grenzgebirge",
     "chapters": [
       {
         "start": 900,
-        "author": "Geisau"
+        "end": 900,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
-    "lemma": "Kerkineus",
+    "lemma": "Kerketion 2",
     "previous": "Kerketion 1",
+    "next": "Κερκινεύς"
+  },
+  {
+    "lemma": "Κερκινεύς",
+    "previous": "Kerketion 2",
     "next": "Kerkis 1",
-    "short_description": "Bach beim thessal. Melitaia",
+    "sort_key": "Kerkineus",
+    "proof_read": 0,
+    "short_description": "Bach beim thessalischen Melitaia",
     "chapters": [
       {
         "start": 900,
-        "author": "Geisau"
+        "end": 900,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kerkis 1",
-    "previous": "Kerkineus",
+    "previous": "Κερκινεύς",
     "next": "Kerkis 2",
-    "short_description": "Das Segment des Zuschauerraumes im griech. Theater",
+    "proof_read": 0,
+    "short_description": "Segment des Zuschauerraumes im griechischen Theater",
     "chapters": [
       {
         "start": 900,
-        "author": "Ebert"
+        "end": 900,
+        "author": "Ebert."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kerkis 2",
     "previous": "Kerkis 1",
     "next": "Kerkis 3",
-    "short_description": "Die Bezeichnung für das halbe Giebelfeld des griech. Tempels",
+    "proof_read": 0,
+    "short_description": "das halbe Giebelfeld des griechischen Tempels",
     "chapters": [
       {
         "start": 900,
-        "author": "Ebert"
+        "end": 901,
+        "author": "Ebert."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kerkis 3",
@@ -8945,13 +9069,20 @@
     "lemma": "Kerkops 2",
     "previous": "Kerkis 5",
     "next": "Κεστός",
-    "short_description": "K. von Milet, griech. Epiker = K. Nr. 1) (XI 314)(?).",
+    "proof_read": 0,
+    "short_description": "von Milet, griechischer Epiker",
+    "wp_link": "w:ca:Cèrcops de Milet",
+    "wd_link": "d:Q11916406",
     "chapters": [
       {
         "start": 901,
-        "author": "Rzach"
+        "end": 902,
+        "author": "Rzach."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Κεστός",
@@ -8977,23 +9108,38 @@
   {
     "lemma": "Killes",
     "previous": "Κεστός",
-    "short_description": "Maked. Feldherr des Ptolemaios Lagu in Syrien im J. 311 v. Chr.",
+    "next": "Kinesias",
+    "proof_read": 0,
+    "short_description": "makedonischer Feldherr des Ptolemaios Lagu in Syrien im J. 311 v. Chr.",
     "chapters": [
       {
         "start": 902,
-        "author": "Schoch"
+        "end": 903,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kinesias",
+    "previous": "Killes",
     "next": "Kithairon 1",
+    "proof_read": 0,
+    "short_description": "attischer Dithyrambendichter 450–390 v. Chr.",
+    "wp_link": "w:de:Kinesias",
+    "wd_link": "d:Q2973270",
     "chapters": [
       {
         "start": 903,
+        "end": 903,
         "author": "Maas."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kithairon 1",
@@ -9054,13 +9200,18 @@
     "lemma": "Kleainetos 1a",
     "previous": "Kleagoras 2",
     "next": "Kleainetos 1b",
-    "short_description": "Günstling des Demetrios I. Poliorketes, Sohn des Kleomedon (S IV 909 Nr. 2)",
+    "proof_read": 0,
+    "short_description": "Günstling des Demetrios I. Poliorketes, Sohn des Kleomedon",
     "chapters": [
       {
         "start": 907,
-        "author": "Schoch"
+        "end": 908,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleainetos 1b",
@@ -9083,13 +9234,18 @@
     "lemma": "Kleandros 8",
     "previous": "Kleainetos 1b",
     "next": "Kleanor",
-    "short_description": "K. von Mantineia, Erzieher des arkad. Staatsmannes Philopoimen",
+    "proof_read": 0,
+    "short_description": "von Mantineia, Erzieher des achaischen Staatsmannes Philopoimen",
     "chapters": [
       {
         "start": 908,
-        "author": "Schoch"
+        "end": 908,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleanor",
@@ -9186,13 +9342,18 @@
     "lemma": "Kleinias 8",
     "previous": "Klearetos",
     "next": "Kleino",
-    "short_description": "Quellenautor bei Serv. Aen. 1,273",
+    "proof_read": 0,
+    "short_description": "Quellenautor bei Servius Aen.",
     "chapters": [
       {
         "start": 908,
-        "author": "Kroll"
+        "end": 908,
+        "author": "W. Kroll."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleino",
@@ -9218,12 +9379,18 @@
     "lemma": "Kleippides",
     "previous": "Kleino",
     "next": "Kleisophos 2",
+    "proof_read": 0,
+    "short_description": "athen. Stratege 428 v. Chr., Sohn des Deinias",
     "chapters": [
       {
         "start": 908,
+        "end": 909,
         "author": "Kroll."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleisophos 2",
@@ -9265,37 +9432,52 @@
     "lemma": "Kleomedon 2",
     "previous": "Kleomachos 1a",
     "next": "Kleon 16",
-    "short_description": "Vater des Kleainetos (S IV 907 Nr. 1a)",
+    "proof_read": 0,
+    "short_description": "Vater des Kleainetos",
     "chapters": [
       {
         "start": 909,
-        "author": "Schoch"
+        "end": 909,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleon 16",
     "previous": "Kleomedon 2",
     "next": "Kleon 17",
-    "short_description": "Steinschneider in august. Zt.",
+    "proof_read": 0,
+    "short_description": "Steinschneider in august. Zeit",
     "chapters": [
       {
         "start": 909,
-        "author": "Sieveking"
+        "end": 909,
+        "author": "Sieveking."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleon 17",
     "previous": "Kleon 16",
     "next": "Kleopatra 22a",
-    "short_description": "Ingenieur und Baumeister unter Ptolemaios II. Philadelphos in den J. 258-252 v.",
+    "proof_read": 0,
+    "short_description": "Ingenieur und Baumeister unter Ptolemaios II. Philadelphos 258 v. Chr.",
     "chapters": [
       {
         "start": 909,
-        "author": "Tittel"
+        "end": 912,
+        "author": "Tittel."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleopatra 22a",
@@ -9317,35 +9499,53 @@
   {
     "lemma": "Kleopatris 2",
     "previous": "Kleopatra 22a",
+    "next": "Kleostratos 2a",
+    "proof_read": 0,
+    "short_description": "ägyptischer Ort im südlichen Nildelta",
     "chapters": [
       {
         "start": 912,
+        "end": 912,
         "author": "Kees."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleostratos 2a",
+    "previous": "Kleopatris 2",
     "next": "Kleostratos 6",
-    "short_description": "K. von Argos, Gesandter zu Dareios II. um das J. 408 v. Chr.",
+    "proof_read": 0,
+    "short_description": "von Argos, Gesandter zu Dareios II. 408 v. Chr.",
     "chapters": [
       {
         "start": 912,
-        "author": "Wiedersich"
+        "end": 912,
+        "author": "Wiedersich."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleostratos 6",
     "previous": "Kleostratos 2a",
     "next": "Kleoxenos 3",
+    "proof_read": 0,
     "short_description": "K. von Tenedos, Astronom in der 2. H. des 6. Jh. v. Chr.",
     "chapters": [
       {
         "start": 912,
-        "author": "Kroll"
+        "end": 913,
+        "author": "W. Kroll."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Kleoxenos 3",
@@ -9368,29 +9568,44 @@
   {
     "lemma": "Kochome",
     "previous": "Kleoxenos 3",
+    "next": "Koës",
+    "proof_read": 0,
+    "short_description": "ägyptischer Ort unbekannter Lage",
     "chapters": [
       {
         "start": 913,
+        "end": 913,
         "author": "Kees."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Koës",
-    "next": "Koinon 1",
-    "sort_key": "Koes 2",
-    "short_description": "Führer im Heer Dareios' I. in den Jahren 514 und 501 v. Chr., Sohn des Erxandros",
+    "previous": "Kochome",
+    "next": "Κοινόν 1",
+    "proof_read": 0,
+    "short_description": "Führer im Heer Dareios’ I. 514 v. Chr., Sohn des Erxandros",
+    "wp_link": "w:en:Coes of Mytilene",
+    "wd_link": "d:Q5140832",
     "chapters": [
       {
         "start": 913,
-        "author": "Wiedersich"
+        "end": 914,
+        "author": "Wiedersich."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
-    "lemma": "Koinon 1",
+    "lemma": "Κοινόν 1",
     "previous": "Koës",
     "next": "Koinos 5",
+    "sort_key": "Koinon 1",
     "proof_read": 1,
     "short_description": "der korporative Zusammenschluss",
     "wp_link": "w:de:Koinon",
@@ -9408,7 +9623,7 @@
   },
   {
     "lemma": "Koinos 5",
-    "previous": "Koinon 1",
+    "previous": "Κοινόν 1",
     "next": "Koios 2",
     "proof_read": 2,
     "short_description": "Steinschneider",
@@ -9429,25 +9644,38 @@
     "lemma": "Koios 2",
     "previous": "Koinos 5",
     "next": "Koiranos 3",
-    "short_description": "s. 2)",
+    "proof_read": 0,
+    "short_description": "Titane",
+    "wp_link": "w:de:Koios (Mythologie)",
+    "wd_link": "d:Q182837",
     "chapters": [
       {
         "start": 941,
-        "author": "Hepding"
+        "end": 941,
+        "author": "Hepding."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Koiranos 3",
     "previous": "Koios 2",
     "next": "Koiranos 8",
-    "short_description": "s. 3",
+    "proof_read": 0,
+    "short_description": "von Paros, von einem Delphin aus Seenot gerettet",
+    "wd_link": "d:Q106975645",
     "chapters": [
       {
         "start": 941,
-        "author": "Schoch"
+        "end": 942,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Koiranos 8",
@@ -9471,13 +9699,18 @@
     "lemma": "Koiranos 9",
     "previous": "Koiranos 8",
     "next": "Koiranos 10",
-    "short_description": "Obersteuereinnehmer Phoinikiens unter Alexander d.Gr. im J. 331 v. Chr.",
+    "proof_read": 0,
+    "short_description": "Reiterführer Alexanders d.Gr. bei Gaugamela im J. 331 v. Chr.",
     "chapters": [
       {
         "start": 942,
-        "author": "Berve"
+        "end": 942,
+        "author": "Berve."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Koiranos 10",
@@ -9503,13 +9736,18 @@
     "lemma": "Kolaios",
     "previous": "Koiranos 10",
     "next": "Komaieis",
-    "short_description": "K. von Samos, Kaufmann in der 1. H. des 7. Jh. v. Chr.",
+    "proof_read": 0,
+    "short_description": "von Samos, Kaufmann 7. Jh. v. Chr.",
     "chapters": [
       {
         "start": 942,
-        "author": "Schoch"
+        "end": 942,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261112"
+    }
   },
   {
     "lemma": "Komaieis",
