@@ -4543,7 +4543,7 @@
     "previous": "Geheimschrift",
     "next": "Gergis 3",
     "proof_read": 0,
-    "short_description": "Spaltenangaben: 1439",
+    "short_description": "Begriff",
     "chapters": [
       {
         "start": 521,
@@ -7392,7 +7392,6 @@
   {
     "lemma": "Kalleas 2",
     "previous": "Kalis 2",
-    "next": "Kallia 2",
     "proof_read": 2,
     "short_description": "von Thespiai, römerfreundlicher Gesandter 172/1 v. Chr.",
     "no_creative_height": true,
@@ -7409,8 +7408,25 @@
     }
   },
   {
+    "lemma": "Kallepios",
+    "next": "Kallia 1"
+  },
+  {
     "lemma": "Kallia 1",
-    "next": "Kallia 2"
+    "previous": "Kallepios",
+    "next": "Kallia 2",
+    "redirect": true,
+    "proof_read": 0,
+    "short_description": "Stadt der sog. arkad. Tripolis. = Kalliai (S IV 855 Nr. 1 )",
+    "chapters": [
+      {
+        "start": 855,
+        "end": 855
+      }
+    ],
+    "history": {
+      "0": "261113"
+    }
   },
   {
     "lemma": "Kallia 2",
@@ -8661,9 +8677,25 @@
   {
     "lemma": "Kassiope 3",
     "previous": "Kassignatos",
-    "next": "Kassopia",
-    "proof_read": 0,
+    "next": "Kassopa, Kassope, Kassopia",
+    "proof_read": 2,
     "short_description": "epeirotische Hafenstadt",
+    "chapters": [
+      {
+        "start": 879,
+        "end": 879,
+        "author": "Oberhummer."
+      }
+    ],
+    "history": {
+      "0": "261111",
+      "2": "261115"
+    }
+  },
+  {
+    "lemma": "Kassopia",
+    "proof_read": 0,
+    "short_description": "epeirotische Landschaft",
     "chapters": [
       {
         "start": 879,
@@ -8676,29 +8708,42 @@
     }
   },
   {
-    "lemma": "Kassopia",
+    "lemma": "Kassopa, Kassope, Kassopia",
     "previous": "Kassiope 3",
+    "next": "Kassopaioi",
+    "proof_read": 2,
+    "short_description": "epeirotische Stadt",
     "chapters": [
       {
         "start": 879,
+        "end": 879,
         "author": "Oberhummer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Kassopaioi",
-    "next": "Kassopa (K), Kassope, Kassopia",
-    "short_description": "Volk in der epeirot. Landschaft Kassopia (X 2334. S IV 879) = Kassoper (X 2334)",
+    "previous": "Kassopa, Kassope, Kassopia",
+    "next": "Kassopia",
+    "proof_read": 0,
+    "short_description": "Volk in der epeirotischen Landschaft Kassopia",
     "chapters": [
       {
         "start": 879,
-        "author": "Oberhummer"
+        "end": 879,
+        "author": "Oberhummer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261111"
+    }
   },
   {
     "lemma": "Kassopa (K), Kassope, Kassopia",
-    "previous": "Kassopaioi",
     "short_description": "Epeirot. Stadt",
     "chapters": [
       {
@@ -8708,15 +8753,30 @@
     ]
   },
   {
-    "lemma": "Kastalios",
-    "next": "Κάστελλος"
+    "lemma": "Kastalios"
+  },
+  {
+    "lemma": "Kastalios 2",
+    "previous": "Kassopia",
+    "next": "Κάστελλος",
+    "proof_read": 2,
+    "short_description": "Praef. urbi im J. 474/5 n. Chr.",
+    "chapters": [
+      {
+        "start": 879,
+        "end": 880
+      }
+    ],
+    "history": {
+      "2": "261115"
+    }
   },
   {
     "lemma": "Κάστελλος",
-    "previous": "Kastalios",
+    "previous": "Kastalios 2",
     "next": "Kastorion",
     "sort_key": "Kastellos",
-    "proof_read": 0,
+    "proof_read": 2,
     "short_description": "epeirotisches Kastell",
     "chapters": [
       {
@@ -8726,7 +8786,8 @@
       }
     ],
     "history": {
-      "0": "261111"
+      "0": "261111",
+      "2": "261115"
     }
   },
   {
@@ -8957,7 +9018,19 @@
   {
     "lemma": "Kerketion 2",
     "previous": "Kerketion 1",
-    "next": "Κερκινεύς"
+    "next": "Κερκινεύς",
+    "redirect": true,
+    "proof_read": 0,
+    "short_description": "Gebirge auf Samos. = Kerketeus",
+    "chapters": [
+      {
+        "start": 900,
+        "end": 900
+      }
+    ],
+    "history": {
+      "0": "261114"
+    }
   },
   {
     "lemma": "Κερκινεύς",
@@ -9735,7 +9808,7 @@
   {
     "lemma": "Kolaios",
     "previous": "Koiranos 10",
-    "next": "Komaieis",
+    "next": "Κωμαιεῖς",
     "proof_read": 0,
     "short_description": "von Samos, Kaufmann 7. Jh. v. Chr.",
     "chapters": [
@@ -9750,64 +9823,110 @@
     }
   },
   {
-    "lemma": "Komaieis",
+    "lemma": "Κωμαιεῖς",
     "previous": "Kolaios",
     "next": "Komaitho",
-    "short_description": "Demos des euboi. Eretria",
+    "sort_key": "Komaieis",
+    "proof_read": 2,
+    "short_description": "Demos des euboischen Eretria",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 942,
-        "author": "Geisau"
+        "end": 942,
+        "author": "v. Geisau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Komaitho",
-    "previous": "Komaieis",
-    "short_description": "Allg. Vorb.",
+    "previous": "Κωμαιεῖς",
+    "next": "Komaitho 1",
+    "proof_read": 2,
+    "short_description": "allg. Vorbemerkung",
     "chapters": [
       {
         "start": 942,
-        "author": "Lamer"
+        "end": 942,
+        "author": "Lamer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Komaitho 1",
+    "previous": "Komaitho",
+    "next": "Komaitho 2",
+    "proof_read": 0,
+    "short_description": "Tochter des mythischen Königs Pterelaos",
     "chapters": [
       {
         "start": 942,
-        "author": "Lamer"
+        "end": 947,
+        "author": "Lamer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113"
+    }
   },
   {
     "lemma": "Komaitho 2",
+    "previous": "Komaitho 1",
+    "next": "Komaitho 3",
+    "proof_read": 0,
+    "short_description": "Priesterin der Artemis Triklaria von Patrai",
     "chapters": [
       {
         "start": 947,
-        "author": "Lamer"
+        "end": 948,
+        "author": "Lamer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113"
+    }
   },
   {
     "lemma": "Komaitho 3",
+    "previous": "Komaitho 2",
+    "next": "Komaitho 4",
+    "proof_read": 0,
+    "short_description": "Tochter des Tydeus Nr. 1, Gattin des Aigialeus",
     "chapters": [
       {
         "start": 948,
-        "author": "Lamer"
+        "end": 949,
+        "author": "Lamer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113"
+    }
   },
   {
     "lemma": "Komaitho 4",
+    "previous": "Komaitho 3",
     "next": "Komboiomarus",
+    "proof_read": 0,
+    "short_description": "Gattin des Flußgottes Kydnos",
     "chapters": [
       {
         "start": 949,
-        "author": "Lamer"
+        "end": 950,
+        "author": "Lamer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113"
+    }
   },
   {
     "lemma": "Komboiomarus",
@@ -9830,30 +9949,40 @@
   {
     "lemma": "Kombutis",
     "previous": "Komboiomarus",
-    "next": "Kome 1",
-    "short_description": "Gall. Truppenführer unter Brennos Nr. 1 im J. 279 v. Chr.",
+    "next": "Κώμη 1",
+    "proof_read": 0,
+    "short_description": "gallischer Truppenführer unter Brennos 279 v. Chr.",
     "chapters": [
       {
         "start": 950,
-        "author": "Schoch"
+        "end": 950,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113"
+    }
   },
   {
-    "lemma": "Kome 1",
+    "lemma": "Κώμη 1",
     "previous": "Kombutis",
     "next": "Komedai",
-    "short_description": "Die Bezeichnung für Dorfsiedlung oder Stadtteil",
+    "sort_key": "Kome 1",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 950,
-        "author": "Swoboda, [Heinrich]"
+        "end": 976,
+        "author": "Swoboda."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113"
+    }
   },
   {
     "lemma": "Komedai",
-    "previous": "Kome 1",
+    "previous": "Κώμη 1",
     "next": "Kommagene",
     "short_description": "Volk der Sakai",
     "chapters": [
@@ -9982,13 +10111,18 @@
     "lemma": "Korrabos",
     "previous": "Korrabon",
     "next": "Korragos",
-    "short_description": "Sohn des Demetrios I. Poliorketes und der Eurydike (VI 1327 Nr. 17)(?)",
+    "proof_read": 0,
+    "short_description": "Sohn des Demetrios I. Poliorketes und der Eurydike",
     "chapters": [
       {
         "start": 1036,
-        "author": "Schoch"
+        "end": 1036,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261113"
+    }
   },
   {
     "lemma": "Korragos",
@@ -10120,26 +10254,43 @@
   {
     "lemma": "Korrhagos 4",
     "previous": "Korrhagos 3",
-    "next": "Korrhagos 5",
-    "short_description": "Sohn des Aristomachos R 146: streichen",
+    "next": "Korrhaios",
+    "proof_read": 2,
+    "short_description": "Hetairos Alexanders des Großen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1037,
-        "author": "Schoch"
+        "end": 1037,
+        "author": "Schoch."
+      },
+      {
+        "start": 1037,
+        "end": 1037,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "2": "261113"
+    }
   },
   {
     "lemma": "Korrhagos 5",
-    "previous": "Korrhagos 4",
     "next": "Korrhaios",
-    "short_description": "Hetairos Alexanders d.Gr.",
+    "proof_read": 2,
+    "short_description": "Militär im Dienste der Ptolemaier",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1037,
-        "author": "Schoch"
+        "end": 1037,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261114",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Korrhaios",
@@ -10180,25 +10331,44 @@
   {
     "lemma": "Korylas",
     "previous": "Korydallos 4",
-    "short_description": "Pers. Satrap in Paphlagonien um das J. 400 v. Chr.",
+    "next": "Kos 3",
+    "proof_read": 0,
+    "short_description": "persischer Satrap in Paphlagonien 400 v. Chr.",
+    "wd_link": "d:Q11743907",
     "chapters": [
       {
         "start": 1037,
-        "author": "Schoch"
+        "end": 1037,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261114"
+    }
   },
   {
     "lemma": "Kos 3",
+    "previous": "Korylas",
+    "next": "Kosingas",
+    "proof_read": 2,
+    "short_description": "ägypt. Dorf im Arsinoïtes Nomos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1037,
+        "end": 1037,
         "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261114",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Kosingas",
+    "previous": "Kos 3",
+    "next": "Kostos",
     "chapters": [
       {
         "start": 1037,
@@ -10208,15 +10378,26 @@
   },
   {
     "lemma": "Kostos",
+    "previous": "Kosingas",
+    "next": "Kothon 4",
+    "proof_read": 2,
+    "short_description": "Bischofssitz in der Diözese Alexandreia",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1038,
+        "end": 1038,
         "author": "Kees."
       }
-    ]
+    ],
+    "history": {
+      "0": "261114",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Kothon 4",
+    "previous": "Kostos",
     "next": "Kotinna",
     "chapters": [
       {
@@ -10559,37 +10740,57 @@
     "lemma": "Kritodamos 2a",
     "previous": "Kritias 6",
     "next": "Kritodamos 2b",
-    "short_description": "Kritodemos von Alopeke, gegen die Spartaner im J. 405 v. Chr. gefallen, Vater",
+    "proof_read": 2,
+    "short_description": "von Alopeke, gegen die Spartaner 405 v. Chr. gefallen",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1101,
-        "author": "Schoch"
+        "end": 1102,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261114",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Kritodamos 2b",
     "previous": "Kritodamos 2a",
     "next": "Kritolaidas",
-    "short_description": "Kritodemos von Alopeke, Trierarch im J. 356/5 v. Chr., Sohn des K. Nr. [2a] (S",
+    "proof_read": 2,
+    "short_description": "von Alopeke, Trierarch 356 v. Chr.",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 1102,
-        "author": "Schoch"
+        "end": 1102,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261114",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Kritolaidas",
     "previous": "Kritodamos 2b",
     "next": "Ktesiphon 5",
-    "short_description": "Spartan. Schiedsrichter zwischen Athen und Megara im J. 508/7 v. Chr. vgl.",
+    "proof_read": 2,
+    "short_description": "spartanischer Schiedsrichter zwischen Athen und Megara 508 v. Chr.",
     "chapters": [
       {
         "start": 1102,
-        "author": "Lenschau"
+        "end": 1102,
+        "author": "Lenschau."
       }
-    ]
+    ],
+    "history": {
+      "0": "261114",
+      "2": "261115"
+    }
   },
   {
     "lemma": "Ktesiphon 5",

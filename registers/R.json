@@ -107377,7 +107377,7 @@
     "previous": "Gentinos",
     "next": "Γεωμετρία 2",
     "proof_read": 3,
-    "short_description": "Spaltenangaben: 1439",
+    "short_description": "Begriff",
     "no_creative_height": true,
     "chapters": [
       {
@@ -128932,6 +128932,7 @@
     "next": "Kallia 2",
     "redirect": "Kalliai 1",
     "proof_read": 3,
+    "short_description": "Stadt der sog. arkad. Tripolis. = Kalliai (S IV 855 Nr. 1 )",
     "chapters": [
       {
         "start": 139,
@@ -131443,7 +131444,7 @@
   {
     "lemma": "Kassiope 3",
     "previous": "Kassignatos",
-    "next": "Kassopa (K), Kassope, Kassopia",
+    "next": "Kassopa, Kassope, Kassopia",
     "proof_read": 3,
     "short_description": "epeirotische Hafenstadt",
     "no_creative_height": true,
@@ -131460,6 +131461,22 @@
   },
   {
     "lemma": "Kassopa (K), Kassope, Kassopia",
+    "proof_read": 3,
+    "short_description": "epeirotische Stadt",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 142,
+        "end": 142,
+        "author": "Hans Gärtner."
+      }
+    ],
+    "history": {
+      "3": "240408"
+    }
+  },
+  {
+    "lemma": "Kassopa, Kassope, Kassopia",
     "previous": "Kassiope 3",
     "next": "Kassopaioi",
     "proof_read": 3,
@@ -131478,7 +131495,7 @@
   },
   {
     "lemma": "Kassopaioi",
-    "previous": "Kassopa (K), Kassope, Kassopia",
+    "previous": "Kassopa, Kassope, Kassopia",
     "next": "Kassopia",
     "proof_read": 3,
     "short_description": "Volk in der epeirotischen Landschaft Kassopia",
@@ -131518,6 +131535,7 @@
     "next": "Κάστελλος",
     "redirect": "Audax 1",
     "proof_read": 3,
+    "short_description": "Praef. urbi im J. 474/5 n. Chr.",
     "chapters": [
       {
         "start": 142,
@@ -132193,6 +132211,7 @@
     "next": "Κερκινεύς",
     "redirect": true,
     "proof_read": 3,
+    "short_description": "Gebirge auf Samos. = Kerketeus",
     "chapters": [
       {
         "start": 143,
@@ -134253,7 +134272,7 @@
   {
     "lemma": "Kolymbethra",
     "previous": "Kolides",
-    "next": "Komaieis",
+    "next": "Κωμαιεῖς",
     "proof_read": 3,
     "short_description": "Schwimmbassin",
     "no_creative_height": true,
@@ -134269,9 +134288,10 @@
     }
   },
   {
-    "lemma": "Komaieis",
+    "lemma": "Κωμαιεῖς",
     "previous": "Kolymbethra",
     "next": "Komaitho",
+    "sort_key": "Komaieis",
     "proof_read": 3,
     "short_description": "Demos des euboischen Eretria",
     "no_creative_height": true,
@@ -134288,7 +134308,7 @@
   },
   {
     "lemma": "Komaitho",
-    "previous": "Komaieis",
+    "previous": "Κωμαιεῖς",
     "next": "Komaitho 1",
     "proof_read": 3,
     "short_description": "allg. Vorbemerkung",
@@ -134451,7 +134471,7 @@
   {
     "lemma": "Kombutis",
     "previous": "Komboiomarus",
-    "next": "Kome 1",
+    "next": "Κώμη 1",
     "proof_read": 3,
     "short_description": "gallischer Truppenführer unter Brennos 279 v. Chr.",
     "no_creative_height": true,
@@ -134467,9 +134487,10 @@
     }
   },
   {
-    "lemma": "Kome 1",
+    "lemma": "Κώμη 1",
     "previous": "Kombutis",
     "next": "Komedai",
+    "sort_key": "Kome 1",
     "proof_read": 3,
     "no_creative_height": true,
     "chapters": [
@@ -134485,7 +134506,7 @@
   },
   {
     "lemma": "Komedai",
-    "previous": "Kome 1",
+    "previous": "Κώμη 1",
     "next": "Kommagene",
     "proof_read": 3,
     "short_description": "Volk der Sakai",
@@ -135047,7 +135068,7 @@
     "previous": "Korrhagos 3",
     "next": "Korrhagos 5",
     "proof_read": 3,
-    "short_description": "Hetairos Alexanders d. Gr.",
+    "short_description": "Hetairos Alexanders des Großen",
     "no_creative_height": true,
     "chapters": [
       {
@@ -135066,6 +135087,7 @@
     "next": "Korrhaios",
     "redirect": "Korragos",
     "proof_read": 3,
+    "short_description": "Militär im Dienste der Ptolemaier",
     "chapters": [
       {
         "start": 146,
