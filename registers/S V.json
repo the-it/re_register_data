@@ -6206,13 +6206,19 @@
     "lemma": "Rufinus 39",
     "previous": "Rufinus 38",
     "next": "Salmeschiniaka",
-    "short_description": "R. von Antiocheia, Grammatiker kaum vor der Mitte des 5. Jh. n. Chr.",
+    "proof_read": 0,
+    "short_description": "von Antiocheia, Grammatiker, 5. Jhdt. n. Chr.",
+    "wd_link": "d:Q1251659",
     "chapters": [
       {
         "start": 842,
-        "author": "Wessner"
+        "end": 843,
+        "author": "Wessner."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Salmeschiniaka",
@@ -6229,6 +6235,7 @@
   },
   {
     "lemma": "Saros 3",
+    "previous": "Salmeschiniaka",
     "chapters": [
       {
         "start": 845,
