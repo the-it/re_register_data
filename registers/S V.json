@@ -1198,6 +1198,7 @@
   {
     "lemma": "Herakleides 62a",
     "previous": "Herakleidas 5a",
+    "next": "Herakleitos 16a",
     "short_description": "Maler in der 1. H. des 3. Jh. v. Chr.",
     "chapters": [
       {
@@ -1208,14 +1209,20 @@
   },
   {
     "lemma": "Herakleitos 16a",
+    "previous": "Herakleides 62a",
     "next": "Herpyllis",
+    "proof_read": 0,
     "short_description": "Briefe des H.",
     "chapters": [
       {
         "start": 228,
-        "author": "Heinemann"
+        "end": 232,
+        "author": "Heinemann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Herpyllis",

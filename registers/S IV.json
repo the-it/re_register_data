@@ -513,6 +513,7 @@
       }
     ],
     "history": {
+      "0": "150211",
       "2": "161214",
       "3": "170222"
     }
@@ -11019,107 +11020,162 @@
   {
     "lemma": "Kydias 2a",
     "previous": "Kydas 3",
-    "next": "Kydnos",
-    "short_description": "Athener, gegen die Gallier im J. 279 v. Chr. gefallen",
+    "next": "Kydna",
+    "proof_read": 0,
+    "short_description": "Athener, gegen die Gallier 279 v. Chr. gefallen",
     "chapters": [
       {
         "start": 1124,
-        "author": "Schoch"
+        "end": 1124,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
+  },
+  {
+    "lemma": "Kydna",
+    "previous": "Kydias 2a",
+    "next": "Kydnos"
   },
   {
     "lemma": "Kydnos",
-    "previous": "Kydias 2a",
+    "previous": "Kydna",
     "next": "Kydon 3",
-    "short_description": "Kilik. Fluß",
+    "proof_read": 0,
+    "short_description": "kilikischer Fluß",
     "chapters": [
       {
         "start": 1124,
-        "author": "Schoch"
+        "end": 1124,
+        "author": "Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Kydon 3",
     "previous": "Kydnos",
     "next": "Kydrara",
-    "short_description": "Athenerfreundlicher Byzantier im J. 409/8 und Gesandter nach Athen im J. 378/7",
+    "proof_read": 0,
+    "short_description": "Byzantier, Gesandter nach Athen 378 v. Chr.",
     "chapters": [
       {
         "start": 1124,
-        "author": "Schoch"
+        "end": 1125,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Kydrara",
     "previous": "Kydon 3",
     "next": "Kyinda",
-    "short_description": "Phryg. Grenzstadt",
+    "proof_read": 0,
+    "short_description": "phrygische Grenzstadt",
     "chapters": [
       {
         "start": 1125,
-        "author": "Ruge"
+        "end": 1125,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Kyinda",
     "previous": "Kydrara",
     "next": "Kykladion",
-    "short_description": "Kilik. Ort",
+    "proof_read": 0,
+    "short_description": "kilikischer Ort",
     "chapters": [
       {
         "start": 1125,
-        "author": "Ruge"
+        "end": 1125,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Kykladion",
     "previous": "Kyinda",
     "next": "Kyklas",
-    "short_description": "K., Lykadion, Golf an der Ostküste des Bosporos (III 742 Nr. 1)",
+    "proof_read": 0,
+    "short_description": "Lykadion, Golf an der Ostküste des Bosporos",
     "chapters": [
       {
         "start": 1125,
-        "author": "Ruge"
+        "end": 1125,
+        "author": "W. Ruge."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Kyklas",
     "previous": "Kykladion",
     "next": "Kynegeiros",
+    "proof_read": 0,
     "short_description": "Gewandbezeichnung",
     "chapters": [
       {
         "start": 1125,
-        "author": "Hartmann, R[ichard]"
+        "end": 1126,
+        "author": "R. Hartmann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Kynegeiros",
     "previous": "Kyklas",
-    "short_description": "Athen. Kämpfer bei Marathon im J. 490 v. Chr., Bruder des Tragikers Aischylos",
+    "next": "Kynopolites 1",
+    "proof_read": 0,
+    "short_description": "athenischer Kämpfer bei Marathon 490 v. Chr.",
+    "wp_link": "w:de:Kynaigeiros",
+    "wd_link": "d:Q3008829",
     "chapters": [
       {
         "start": 1126,
-        "author": "Schoch"
+        "end": 1126,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Kynopolites 1",
+    "previous": "Kynegeiros",
     "next": "Kynosarion",
+    "proof_read": 0,
+    "short_description": "oberägyptischer Gau",
     "chapters": [
       {
         "start": 1127,
+        "end": 1127,
         "author": "Kees."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Kynosarion",
@@ -11276,162 +11332,235 @@
   {
     "lemma": "Λαβασσοάρασκος",
     "previous": "Kyros 6a",
-    "next": "Labbana",
-    "short_description": "Labassoaraskos",
+    "next": "Λάββανα",
+    "sort_key": "Labassoaraskos",
+    "proof_read": 0,
+    "short_description": "Labassoaraskos, babylonischer König 556 v. Chr.",
     "chapters": [
       {
-        "start": 1176,
-        "author": "Weissbach"
-      }
-    ]
-  },
-  {
-    "lemma": "Labbana",
-    "previous": "Λαβασσοάρασκος",
-    "next": "Labos",
-    "short_description": "Mesopot. Stadt",
-    "chapters": [
-      {
-        "start": 1176,
+        "start": 1177,
         "end": 1177,
-        "author": "Weissbach"
+        "author": "Weißbach."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
-    "lemma": "Labos",
-    "previous": "Labbana",
-    "next": "Ladoineris",
+    "lemma": "Λάββανα",
+    "previous": "Λαβασσοάρασκος",
+    "next": "Λάβος",
+    "sort_key": "Labbana",
+    "proof_read": 0,
+    "short_description": "mesopotamische Stadt",
+    "chapters": [
+      {
+        "start": 1177,
+        "end": 1178,
+        "author": "Weißbach."
+      }
+    ],
+    "history": {
+      "0": "261115"
+    }
+  },
+  {
+    "lemma": "Λάβος",
+    "previous": "Λάββανα",
+    "next": "Λαδοινερίς",
+    "sort_key": "Labos",
+    "proof_read": 0,
+    "short_description": "Grenzgebirge",
     "chapters": [
       {
         "start": 1178,
-        "author": "Weissbach"
+        "end": 1178,
+        "author": "Weissbach."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
-    "lemma": "Ladoineris",
-    "previous": "Labos",
+    "lemma": "Λαδοινερίς",
+    "previous": "Λάβος",
     "next": "Laidas",
+    "sort_key": "Ladoineris",
+    "proof_read": 0,
     "short_description": "Ort in der Landschaft Melitene",
     "chapters": [
       {
         "start": 1178,
-        "author": "Weissbach"
+        "end": 1178,
+        "author": "Weissbach."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Laidas",
-    "previous": "Ladoineris",
-    "next": "Lakereia 2",
+    "previous": "Λαδοινερίς",
+    "next": "Λακέρεια 2",
+    "proof_read": 0,
     "short_description": "Hoplomachos in Gytheion, Sohn des Damippidas von Sparta",
     "chapters": [
       {
         "start": 1178,
-        "author": "Schoch"
+        "end": 1178,
+        "author": "Schoch."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
-    "lemma": "Lakereia 2",
+    "lemma": "Λακέρεια 2",
     "previous": "Laidas",
     "next": "Lakmon",
-    "short_description": "Früherer Name von Hermion(e) Nr. 1, Stadt an der Südostküste der Argolis",
+    "sort_key": "Lakereia 2",
+    "proof_read": 0,
+    "short_description": "früherer Name von Hermion(e), Stadt an der SO-Küste der Argolis",
     "chapters": [
       {
         "start": 1178,
-        "author": "Geiger"
+        "end": 1178,
+        "author": "Geiger."
       }
-    ]
+    ],
+    "history": {
+      "0": "261115"
+    }
   },
   {
     "lemma": "Lakmon",
-    "previous": "Lakereia 2",
-    "next": "Lakonikos kolpos",
-    "short_description": "Epeirot. Gebirge vgl. Pindos. Epeiros",
+    "previous": "Λακέρεια 2",
+    "next": "Λακώνικος κόλπος",
+    "proof_read": 0,
+    "short_description": "epeirotisches Gebirge",
     "chapters": [
       {
         "start": 1178,
-        "author": "Geiger"
+        "end": 1178,
+        "author": "Geiger."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
-    "lemma": "Lakonikos kolpos",
+    "lemma": "Λακώνικος κόλπος",
     "previous": "Lakmon",
     "next": "Lala 1a",
-    "short_description": "Golf an der peloponnes. Südküste",
+    "sort_key": "Lakonikos kolpos",
+    "proof_read": 0,
+    "short_description": "Golf an der peloponnesischen Südküste",
     "chapters": [
       {
         "start": 1178,
-        "author": "Geiger"
+        "end": 1178,
+        "author": "Geiger."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Lala 1a",
-    "previous": "Lakonikos kolpos",
+    "previous": "Λακώνικος κόλπος",
     "next": "Lebaia",
-    "short_description": "Nordarmen. Ort",
+    "proof_read": 0,
+    "short_description": "nordarmenischer Ort",
     "chapters": [
       {
         "start": 1178,
-        "author": "Weissbach"
+        "end": 1178,
+        "author": "Weissbach."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Lebaia",
     "previous": "Lala 1a",
     "next": "Leder",
-    "short_description": "Maked. Stadt",
+    "proof_read": 0,
+    "short_description": "makedonische Stadt",
+    "wp_link": "w:en:Lebaea",
+    "wd_link": "d:Q11931281",
     "chapters": [
       {
         "start": 1178,
-        "author": "Oberhummer"
+        "end": 1178,
+        "author": "Oberhummer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Leder",
     "previous": "Lebaia",
     "next": "Ledon",
+    "proof_read": 0,
     "chapters": [
       {
         "start": 1178,
         "end": 1182,
         "author": "R. Hartmann."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Ledon",
     "previous": "Leder",
-    "next": "Charakteres",
-    "short_description": "Phok. Stadt vgl. Pedieis Nr. 1",
+    "next": "Χαρακτῆρες",
+    "proof_read": 0,
+    "short_description": "phokische Stadt",
     "chapters": [
       {
         "start": 1182,
-        "author": "Wrede"
+        "end": 1182,
+        "author": "Wrede."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
-    "lemma": "Charakteres",
+    "lemma": "Χαρακτῆρες",
     "previous": "Ledon",
     "next": "Delphoi",
+    "sort_key": "Charakteres",
+    "proof_read": 0,
+    "short_description": "mystisch-symbolische Zeichen in der Zauberei",
     "chapters": [
       {
         "start": 1183,
         "end": 1188,
         "author": "Th. Hopfner."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Delphoi",
-    "previous": "Charakteres",
+    "previous": "Χαρακτῆρες",
     "next": "Kallippos 22",
     "short_description": "Ort und wichtiges Heiligtum: [I, archäologisch]",
     "chapters": [
