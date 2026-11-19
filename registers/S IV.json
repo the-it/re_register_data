@@ -7394,7 +7394,7 @@
   {
     "lemma": "Kalleas 2",
     "previous": "Kalis 2",
-    "next": "Kallia 2",
+    "next": "Kallepios",
     "proof_read": 2,
     "short_description": "von Thespiai, römerfreundlicher Gesandter 172/1 v. Chr.",
     "no_creative_height": true,
@@ -7412,7 +7412,19 @@
   },
   {
     "lemma": "Kallepios",
-    "next": "Kallia 1"
+    "previous": "Kalleas 2",
+    "next": "Kallia 1",
+    "proof_read": 0,
+    "short_description": "s. Kalepios Nr. 1 und 2 (S IV 855)",
+    "chapters": [
+      {
+        "start": 855,
+        "end": 855
+      }
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Kallia 1",
@@ -8370,7 +8382,7 @@
     "lemma": "Kanai 1",
     "previous": "Kamma",
     "next": "Kandasa",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "aiolische Stadt",
     "chapters": [
       {
@@ -8381,7 +8393,8 @@
     ],
     "history": {
       "0": "261110",
-      "1": "261111"
+      "1": "261111",
+      "2": "261118"
     }
   },
   {
@@ -8425,6 +8438,7 @@
     "previous": "Kanobus 1",
     "next": "Κανοῦν",
     "proof_read": 0,
+    "short_description": "Gefäßbezeichnung",
     "chapters": [
       {
         "start": 866,
@@ -11353,7 +11367,7 @@
     "next": "Λάβος",
     "sort_key": "Labbana",
     "proof_read": 0,
-    "short_description": "mesopotamische Stadt",
+    "short_description": "Labbana, mesopotamische Stadt",
     "chapters": [
       {
         "start": 1177,
@@ -11562,25 +11576,37 @@
     "lemma": "Delphoi",
     "previous": "Χαρακτῆρες",
     "next": "Kallippos 22",
+    "proof_read": 0,
     "short_description": "Ort und wichtiges Heiligtum: [I, archäologisch]",
+    "wp_link": "w:de:Delphi",
+    "wd_link": "d:Q75459",
     "chapters": [
       {
         "start": 1189,
-        "author": "Pomtow"
+        "end": 1432,
+        "author": "Pomtow."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Kallippos 22",
     "previous": "Delphoi",
     "next": "Karkabos 2",
-    "short_description": "K. von Kyzikos, Astronom im 4. Jh. v. Chr., Sohn des Euippos",
+    "proof_read": 0,
+    "short_description": "von Kyzikos, Astronom 4. Jh. v. Chr., Sohn des Euippos",
     "chapters": [
       {
         "start": 1431,
-        "author": "Rehm"
+        "end": 1438,
+        "author": "Albert Rehm."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
     "lemma": "Karkabos 2",
@@ -11603,16 +11629,23 @@
   {
     "lemma": "Karnabas",
     "previous": "Karkabos 2",
-    "short_description": "Sohn oder Enkel des Triopas = Karkabos",
+    "next": "Geographie",
+    "proof_read": 0,
+    "short_description": "Sohn oder Enkel des Triopas",
     "chapters": [
       {
         "start": 1438,
+        "end": 1438,
         "author": "Heeg."
       }
-    ]
+    ],
+    "history": {
+      "0": "261116"
+    }
   },
   {
-    "lemma": "Geographie"
+    "lemma": "Geographie",
+    "previous": "Karnabas"
   },
   {
     "lemma": "Kaiserkult"
