@@ -128772,6 +128772,8 @@
     "next": "Καλῆς δρόμος",
     "proof_read": 3,
     "short_description": "weströmischer Konsul 447 n. Chr.",
+    "wp_link": "w:it:Calepio",
+    "wd_link": "d:Q218794",
     "no_creative_height": true,
     "chapters": [
       {
@@ -128790,7 +128792,7 @@
     "next": "Kalibios",
     "sort_key": "Kales dromos",
     "proof_read": 3,
-    "short_description": "Örtlichkeit auf dem korinthisch-megarischen Isthmos",
+    "short_description": "Kales dromos, Örtlichkeit auf dem korinthisch-megarischen Isthmos",
     "no_creative_height": true,
     "chapters": [
       {
@@ -128808,7 +128810,7 @@
     "previous": "Καλῆς δρόμος",
     "next": "Καλικάντσαρος",
     "proof_read": 3,
-    "short_description": "Curator von Aptunga 315 n. Chr.",
+    "short_description": "Curator von Aptunga um 315 n. Chr.",
     "no_creative_height": true,
     "chapters": [
       {
@@ -133983,7 +133985,7 @@
   {
     "lemma": "Κοινόν 1",
     "previous": "Koës",
-    "next": "Κοινόν 1a",
+    "next": " Κοινόν 1a",
     "sort_key": "Koinon 1",
     "proof_read": 3,
     "short_description": "der korporative Zusammenschluss",
@@ -134002,7 +134004,7 @@
     }
   },
   {
-    "lemma": "Κοινόν 1a",
+    "lemma": " Κοινόν 1a",
     "previous": "Κοινόν 1",
     "next": "Koinonia",
     "sort_key": "Koinon 1a",
@@ -134022,7 +134024,7 @@
   },
   {
     "lemma": "Koinonia",
-    "previous": "Κοινόν 1a",
+    "previous": " Κοινόν 1a",
     "next": "Koinos 5",
     "proof_read": 3,
     "short_description": "Finanzgesellschaft",
@@ -144582,7 +144584,7 @@
   {
     "lemma": "Libanotis",
     "previous": "Lex Vibia 2",
-    "next": "Λιβανωτρίς 1",
+    "next": "Λιβανωτρίς, -ίδος 1",
     "redirect": "Libanotris 1a",
     "proof_read": 3,
     "chapters": [
@@ -144596,9 +144598,9 @@
     }
   },
   {
-    "lemma": "Λιβανωτρίς 1",
+    "lemma": "Λιβανωτρίς, -ίδος 1",
     "previous": "Libanotis",
-    "next": "Libanotris 1a",
+    "next": "Λιβανωτρίς, -ίδος 1a",
     "sort_key": "Libanotris 1",
     "proof_read": 3,
     "short_description": "das Weihrauchkästchen",
@@ -144615,9 +144617,10 @@
     }
   },
   {
-    "lemma": "Libanotris 1a",
-    "previous": "Λιβανωτρίς 1",
-    "next": "Libanotris 1b",
+    "lemma": "Λιβανωτρίς, -ίδος 1a",
+    "previous": "Λιβανωτρίς, -ίδος 1",
+    "next": "Λιβανωτρίς, -ίδος 1b",
+    "sort_key": "Libanotris 1a",
     "proof_read": 3,
     "short_description": "der Rosmarin",
     "no_creative_height": true,
@@ -144633,9 +144636,26 @@
     }
   },
   {
-    "lemma": "Libanotris 1b",
-    "previous": "Libanotris 1a",
+    "lemma": "Libanotris 1a",
+    "proof_read": 3,
+    "short_description": "der Rosmarin",
+    "no_creative_height": true,
+    "chapters": [
+      {
+        "start": 157,
+        "end": 157,
+        "author": "Hans Gärtner."
+      }
+    ],
+    "history": {
+      "3": "240409"
+    }
+  },
+  {
+    "lemma": "Λιβανωτρίς, -ίδος 1b",
+    "previous": "Λιβανωτρίς, -ίδος 1a",
     "next": "Libela",
+    "sort_key": "Libanotris 1b",
     "proof_read": 3,
     "short_description": "Doldenpflanze",
     "no_creative_height": true,
@@ -144652,7 +144672,7 @@
   },
   {
     "lemma": "Libela",
-    "previous": "Libanotris 1b",
+    "previous": "Λιβανωτρίς, -ίδος 1b",
     "next": "Libella 1",
     "proof_read": 3,
     "short_description": "Schauspieler",
@@ -144801,7 +144821,6 @@
     "lemma": "Liburnia a",
     "previous": "Liburni",
     "next": "Licentius 2",
-    "sort_key": "Liburnia 0",
     "proof_read": 3,
     "short_description": "NW-dalmatische Landschaft",
     "no_creative_height": true,
@@ -145263,7 +145282,7 @@
     "lemma": "Limen(ius) a",
     "previous": "Limendas",
     "next": "Limigantes",
-    "sort_key": "Limenius 0",
+    "sort_key": "Limenius a",
     "proof_read": 3,
     "short_description": "Dispensator",
     "no_creative_height": true,

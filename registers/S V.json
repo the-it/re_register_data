@@ -2166,7 +2166,7 @@
   {
     "lemma": "Lampitos 2",
     "previous": "Lakkum",
-    "next": "Lampsus 2",
+    "next": "Λάμψος 2",
     "proof_read": 2,
     "short_description": "Bildhauer 2. Jh. v. Chr.?, Sohn des Apollonios",
     "chapters": [
@@ -2182,7 +2182,6 @@
   },
   {
     "lemma": "Lampsus 2",
-    "previous": "Lampitos 2",
     "chapters": [
       {
         "start": 541,
@@ -2570,13 +2569,18 @@
     "lemma": "Lepavist",
     "previous": "Leonnorios",
     "next": "Leprea",
+    "proof_read": 0,
     "short_description": "Station an der Straße Aquincum-Brigantio",
     "chapters": [
       {
         "start": 550,
-        "author": "Fluss"
+        "end": 550,
+        "author": "Fluss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Leprea",
@@ -2600,25 +2604,37 @@
     "lemma": "Lepreon",
     "previous": "Leprea",
     "next": "Leto",
-    "short_description": "Peloponnes. Stadt",
+    "proof_read": 0,
+    "short_description": "peloponnesische Stadt",
     "chapters": [
       {
         "start": 550,
-        "author": "Fiehn"
+        "end": 555,
+        "author": "Fiehn."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Leto",
     "previous": "Lepreon",
     "next": "Leuciana",
-    "short_description": "Griech. Gottheit",
+    "proof_read": 0,
+    "short_description": "griechische Gottheit",
+    "wp_link": "w:de:Leto (Mythologie)",
+    "wd_link": "d:Q103107",
     "chapters": [
       {
         "start": 555,
-        "author": "Wehrli"
+        "end": 576,
+        "author": "Wehrli."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Leuciana",
@@ -2678,13 +2694,18 @@
     "lemma": "Lex Glitia",
     "previous": "Leges Corneliae 2) 2.",
     "next": "Lex Iunia Norbana",
+    "proof_read": 0,
     "short_description": "L. G. de querela inofficiosi",
     "chapters": [
       {
         "start": 577,
-        "author": "Weiss, Egon"
+        "end": 577,
+        "author": "E. Weiss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Lex Iunia Norbana",
@@ -2743,33 +2764,72 @@
   {
     "lemma": "Lex Plaetoria 1",
     "previous": "Lex Plaetoria 2",
+    "next": "Lex Plaetoria 3",
+    "proof_read": 0,
+    "short_description": "Gesetz über die prätorische Iurisdiktion",
     "chapters": [
       {
         "start": 582,
-        "author": "Weiss, Egon"
+        "end": 582,
+        "author": "E. Weiss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Lex Plaetoria 3",
-    "short_description": "Das Gesetz über die Einsetzung von Duoviri",
+    "previous": "Lex Plaetoria 1",
+    "next": "Λιβανωτρίς, -ίδος 1",
+    "proof_read": 0,
+    "short_description": "Gesetz über die Einsetzung von Duoviri",
     "chapters": [
       {
         "start": 582,
-        "author": "Weiss, Egon"
+        "end": 582,
+        "author": "E. Weiss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
-    "lemma": "Libanotris 1",
+    "lemma": "Λιβανωτρίς, -ίδος 1",
     "previous": "Lex Plaetoria 3",
-    "short_description": "Libanotis, der Rosmarin",
+    "next": "Λιβανωτρίς, -ίδος 1a",
+    "sort_key": "Libanotris 1",
+    "proof_read": 0,
+    "short_description": "das Weihrauchkästchen",
     "chapters": [
       {
         "start": 581,
-        "author": "Schuppe"
+        "end": 581,
+        "author": "Schuppe."
       }
-    ]
+    ],
+    "history": {
+      "0": "261120"
+    }
+  },
+  {
+    "lemma": "Λιβανωτρίς, -ίδος 1a",
+    "previous": "Λιβανωτρίς, -ίδος 1",
+    "next": "Λιβανωτρίς, -ίδος 1b",
+    "sort_key": "Libanotris 1a",
+    "proof_read": 0,
+    "short_description": "der Rosmarin",
+    "chapters": [
+      {
+        "start": 581,
+        "end": 582,
+        "author": "Schuppe."
+      }
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Libanotris 1a",
@@ -2792,46 +2852,94 @@
     ]
   },
   {
-    "lemma": "Libici",
+    "lemma": "Λιβανωτρίς, -ίδος 1b",
+    "previous": "Λιβανωτρίς, -ίδος 1a",
+    "next": "Libici",
+    "sort_key": "Libanotris 1b",
+    "proof_read": 0,
+    "short_description": "Doldenpflanze",
     "chapters": [
       {
         "start": 582,
+        "end": 582,
+        "author": "Schuppe."
+      }
+    ],
+    "history": {
+      "0": "261119"
+    }
+  },
+  {
+    "lemma": "Libici",
+    "previous": "Λιβανωτρίς, -ίδος 1b",
+    "next": "Liburni",
+    "proof_read": 0,
+    "short_description": "Ligurisch-keltisches Volk",
+    "wp_link": "w:en:Libici (Cisalpine Gaul)",
+    "wd_link": "d:Q3237873",
+    "chapters": [
+      {
+        "start": 582,
+        "end": 582,
         "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Liburni",
+    "previous": "Libici",
+    "next": "Liburnia a",
+    "proof_read": 0,
+    "short_description": "illyrisches Volk",
+    "wp_link": "w:de:Liburner",
+    "wd_link": "d:Q1259473",
     "chapters": [
       {
         "start": 582,
-        "author": "Keune."
+        "end": 593,
+        "author": "Fluss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Liburnia a",
+    "previous": "Liburni",
     "next": "Licinium",
-    "sort_key": "Liburnia 0",
-    "short_description": "Nordwestdalmat. Landschaft vgl. Liburni",
+    "proof_read": 0,
+    "short_description": "NW-dalmatische Landschaft",
     "chapters": [
       {
         "start": 593,
-        "author": "Fluss"
+        "end": 593,
+        "author": "Fluss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Licinium",
     "previous": "Liburnia a",
     "next": "Licirrus",
-    "short_description": "Illyr. Stadt = Lychnidus",
+    "proof_read": 0,
+    "short_description": "illyrische Stadt",
     "chapters": [
       {
         "start": 593,
-        "author": "Fluss"
+        "end": 594,
+        "author": "Fluss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Licirrus",
@@ -2872,37 +2980,53 @@
   {
     "lemma": "Lidus, Ledus",
     "previous": "Lictia",
-    "short_description": "Küstenfluß in Gallia Narbonensis = Ledus",
+    "next": "Liflum",
+    "proof_read": 0,
+    "short_description": "Küstenfluß in Gallia Narbonensis",
+    "chapters": [
+      {
+        "start": 594,
+        "end": 594,
+        "author": "Keune."
+      }
+    ],
+    "history": {
+      "0": "261119"
+    }
+  },
+  {
+    "lemma": "Liflum",
+    "previous": "Lidus, Ledus",
+    "next": "Ligeia 2",
+    "proof_read": 0,
+    "short_description": "Stadt der mittel-italienischen Aequi (?)",
     "chapters": [
       {
         "start": 594,
         "end": 594,
         "author": "Philipp."
       }
-    ]
-  },
-  {
-    "lemma": "Liflum",
-    "next": "Ligeia 2",
-    "short_description": "Stadt der mittelital. Aequi(?)",
-    "chapters": [
-      {
-        "start": 594,
-        "author": "Philipp"
-      }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Ligeia 2",
     "previous": "Liflum",
     "next": "Liliacus",
-    "short_description": "Südital. Insel, Grab der Sirene L. Nr. 1",
+    "proof_read": 0,
+    "short_description": "süditalienische Insel, Grab der Sirene L.",
     "chapters": [
       {
         "start": 594,
-        "author": "Philipp"
+        "end": 594,
+        "author": "Philipp."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Liliacus",
@@ -2942,26 +3066,36 @@
     "lemma": "Limen(ius) a",
     "previous": "Limendas",
     "next": "Linde",
-    "sort_key": "Limenius 0",
-    "short_description": "Disp(ensator) vgl. Servaeus Nr. 6",
+    "sort_key": "Limenius a",
+    "proof_read": 0,
+    "short_description": "Dispensator",
     "chapters": [
       {
         "start": 594,
-        "author": "Fluss"
+        "end": 594,
+        "author": "Fluss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Linde",
     "previous": "Limen(ius) a",
     "next": "Litteriacus",
+    "proof_read": 0,
     "short_description": "Lindenbaum",
     "chapters": [
       {
         "start": 594,
-        "author": "Steier"
+        "end": 598,
+        "author": "Steier."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Litteriacus",
@@ -2984,13 +3118,21 @@
     "lemma": "Livius 10a",
     "previous": "Litteriacus",
     "next": "Lotodos",
-    "short_description": "L. L. Andronicus, lat. Dichter in der 2. H. des 3. Jh. v. Chr.",
+    "proof_read": 0,
+    "short_description": "L. L. Andronicus, lateinischer Dichter 3. Jh. v. Chr.",
+    "wp_link": "w:de:Livius Andronicus",
+    "ws_link": "s:fr:Auteur:Livius Andronicus",
+    "wd_link": "d:Q193058",
     "chapters": [
       {
         "start": 598,
-        "author": "Fraenkel, Eduard"
+        "end": 607,
+        "author": "Eduard Fraenkel."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Lotodos",
@@ -3013,25 +3155,35 @@
     "lemma": "Luccius 2a",
     "previous": "Lotodos",
     "next": "Lucena",
-    "short_description": "C. L. Telesinus, Konsul im J. 66 n. Chr.",
+    "proof_read": 0,
+    "short_description": "C. L. Telesinus, Konsul 66 n. Chr.",
     "chapters": [
       {
         "start": 607,
-        "author": "Fluss"
+        "end": 607,
+        "author": "Fluss."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Lucena",
     "previous": "Luccius 2a",
     "next": "Ludi Capitolini",
-    "short_description": "Kelt. (provinziale?) Gottheit",
+    "proof_read": 0,
+    "short_description": "keltische (provinziale?) Gottheit",
     "chapters": [
       {
         "start": 607,
-        "author": "Keune"
+        "end": 607,
+        "author": "Keune."
       }
-    ]
+    ],
+    "history": {
+      "0": "261119"
+    }
   },
   {
     "lemma": "Ludi Capitolini",

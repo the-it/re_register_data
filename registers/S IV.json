@@ -7310,7 +7310,7 @@
     "lemma": "Kalepios 1",
     "previous": "Καλάθουσα 3",
     "next": "Kalepios 2",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "Rationalis trium provinciarum 340 n. Chr.",
     "chapters": [
       {
@@ -7321,15 +7321,18 @@
     ],
     "history": {
       "0": "261108",
-      "1": "261119"
+      "1": "261119",
+      "2": "261120"
     }
   },
   {
     "lemma": "Kalepios 2",
     "previous": "Kalepios 1",
     "next": "Καλῆς δρόμος",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "weströmischer Konsul 447 n. Chr.",
+    "wp_link": "w:it:Calepio",
+    "wd_link": "d:Q218794",
     "chapters": [
       {
         "start": 855,
@@ -7339,7 +7342,8 @@
     ],
     "history": {
       "0": "261108",
-      "1": "261119"
+      "1": "261119",
+      "2": "261120"
     }
   },
   {
@@ -7348,7 +7352,8 @@
     "next": "Kalibios",
     "sort_key": "Kales dromos",
     "proof_read": 0,
-    "short_description": "Örtlichkeit auf dem korinthisch-megarischen Isthmos",
+    "short_description": "Kales dromos, Örtlichkeit auf dem korinthisch-megarischen Isthmos",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 855,
@@ -7364,8 +7369,8 @@
     "lemma": "Kalibios",
     "previous": "Καλῆς δρόμος",
     "next": "Kalis 2",
-    "proof_read": 1,
-    "short_description": "Curator von Aptunga 315 n. Chr.",
+    "proof_read": 2,
+    "short_description": "Curator von Aptunga um 315 n. Chr.",
     "chapters": [
       {
         "start": 855,
@@ -7375,7 +7380,8 @@
     ],
     "history": {
       "0": "261108",
-      "1": "261119"
+      "1": "261119",
+      "2": "261120"
     }
   },
   {
@@ -7632,7 +7638,7 @@
     "lemma": "Kalligonos",
     "previous": "Kalligeitos",
     "next": "Kallikinos",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "Praepositus sacri cubiculi Valentinians II. 386 n. Chr.",
     "chapters": [
       {
@@ -7643,7 +7649,8 @@
     ],
     "history": {
       "0": "261109",
-      "1": "261119"
+      "1": "261119",
+      "2": "261120"
     }
   },
   {
@@ -7652,6 +7659,7 @@
     "next": "Kallikrates 7a",
     "proof_read": 0,
     "short_description": "thessalischer Hügel",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 857,
@@ -8723,7 +8731,6 @@
   },
   {
     "lemma": "Kassopia",
-    "next": "Kastalios 2",
     "proof_read": 0,
     "short_description": "epeirotische Landschaft",
     "chapters": [
@@ -8739,6 +8746,7 @@
   },
   {
     "lemma": "Kassopa, Kassope, Kassopia",
+    "previous": "Kassiope 3",
     "next": "Kassopaioi",
     "proof_read": 2,
     "short_description": "epeirotische Stadt",
@@ -8785,6 +8793,7 @@
   {
     "lemma": "Kastalios",
     "previous": "Kassopa, Kassope, Kassopia",
+    "next": "Κάστελλος",
     "proof_read": 0,
     "short_description": "Epiklesis des Apollon in einem Zauberpapyrus",
     "chapters": [
@@ -8799,7 +8808,6 @@
   },
   {
     "lemma": "Kastalios 2",
-    "previous": "Kassopia",
     "next": "Κάστελλος",
     "proof_read": 2,
     "short_description": "Praef. urbi im J. 474/5 n. Chr.",
