@@ -2723,7 +2723,7 @@
     "lemma": "Lex Iunia Norbana",
     "previous": "Lex Glitia",
     "next": "Lex Licinia 10",
-    "proof_read": 0,
+    "proof_read": 1,
     "short_description": "Gesetz über die Freilassung von Sklaven",
     "wp_link": "w:de:Lex Iunia Norbana de manumissionibus",
     "wd_link": "d:Q130368969",
@@ -2735,7 +2735,8 @@
       }
     ],
     "history": {
-      "0": "250908"
+      "0": "250908",
+      "1": "261125"
     }
   },
   {
@@ -3376,7 +3377,7 @@
     "lemma": "Maiandrios 4",
     "previous": "Magister 3a",
     "next": "Μακραβανδῶν",
-    "proof_read": 1,
+    "proof_read": 2,
     "short_description": "Architekt in Didyma 2. Jh. v. Chr., Sohn des Thrason",
     "chapters": [
       {
@@ -3387,7 +3388,8 @@
     ],
     "history": {
       "0": "261120",
-      "1": "261122"
+      "1": "261122",
+      "2": "261125"
     }
   },
   {
@@ -3587,8 +3589,8 @@
     "lemma": "Manais",
     "previous": "Mamonas",
     "next": "Mandane a",
-    "proof_read": 1,
-    "short_description": "gedrosischer Fluß",
+    "proof_read": 2,
+    "short_description": "Fluß in Gedrosien",
     "chapters": [
       {
         "start": 650,
@@ -3598,7 +3600,8 @@
     ],
     "history": {
       "0": "261120",
-      "1": "261122"
+      "1": "261122",
+      "2": "261125"
     }
   },
   {
@@ -6368,40 +6371,55 @@
     "lemma": "Maximus 122",
     "previous": "Maximus 121",
     "next": "Maximus 123",
-    "short_description": "Bischof von Tralleis im J. 449 n. Chr.",
+    "proof_read": 0,
+    "short_description": "Bischof von Tralleis 449 n. Chr.",
     "chapters": [
       {
         "start": 678,
-        "author": "Enßlin"
+        "end": 678,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 123",
     "previous": "Maximus 122",
     "next": "Maximus 124",
-    "short_description": "Archimandrit in Konstantinopel um die Mitte des 5. Jh. n. Chr.",
+    "proof_read": 0,
+    "short_description": "Archimandrit in Konstantinopel 5. Jh. n. Chr.",
     "chapters": [
       {
         "start": 679,
-        "author": "Enßlin"
+        "end": 679,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 124",
     "previous": "Maximus 123",
-    "next": "Maximus 124a-b",
-    "short_description": "Gall. Bischof aus dem Sprengel von Arelate im J. 450 n. Chr.",
+    "next": "Maximus 124a–b",
+    "proof_read": 0,
+    "short_description": "gallischer Bischof aus dem Sprengel von Arelate 450 n. Chr",
     "chapters": [
       {
         "start": 679,
-        "author": "Enßlin"
+        "end": 679,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
-    "lemma": "Maximus 124a-b",
+    "lemma": "Maximus 124a–b",
     "previous": "Maximus 124",
     "next": "Maximus 125",
     "short_description": "Zwei Bischöfe, Teilnehmer an einer Synode von Arelate um die Mitte des 5. Jh.",
@@ -6414,48 +6432,71 @@
   },
   {
     "lemma": "Maximus 125",
-    "previous": "Maximus 124a-b",
+    "previous": "Maximus 124a–b",
     "next": "Maximus 126",
-    "short_description": "Bischof von Laodikeia (XII 713 Nr. 1), Teilnehmer an dem Konzil von",
+    "proof_read": 0,
+    "short_description": "Bischof von Laodikeia, am Konzil von Konstantinopel 459 n. Chr.",
     "chapters": [
       {
         "start": 679,
-        "author": "Enßlin"
+        "end": 679,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 126",
     "previous": "Maximus 125",
     "next": "Maximus 127",
-    "short_description": "Bischof von Diocletianopolis um die Mitte des 5. Jh. n. Chr.",
+    "proof_read": 0,
+    "short_description": "Bischof von Diocletianopolis 5. Jh. n. Chr.",
     "chapters": [
       {
         "start": 679,
-        "author": "Enßlin"
+        "end": 679,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 127",
     "previous": "Maximus 126",
-    "short_description": "Episcopus Libyae, Teilnehmer an dem Konzil von Konstantinopel im J. 459 n. Chr.",
+    "next": "Maximus 127a",
+    "proof_read": 0,
+    "short_description": "Episcopus Zazylensis, am Konzil von Konstantinopel 459 n. Chr.",
     "chapters": [
       {
         "start": 679,
-        "author": "Enßlin"
+        "end": 679,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 127a",
+    "previous": "Maximus 127",
     "next": "Maximus 128",
+    "proof_read": 0,
+    "short_description": "Episcopus Libyae, am Konzil von Konstantinopel 459 n. Chr.",
     "chapters": [
       {
         "start": 679,
-        "author": "Enßlin"
+        "end": 679,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 128",
@@ -6607,49 +6648,69 @@
     "lemma": "Maximus 130",
     "previous": "Maximus 129f",
     "next": "Maximus 130a",
-    "short_description": "Episcopus Bleranus, Teilnehmer an den Synoden in Rom in den J. 487, 499, 501",
+    "proof_read": 0,
+    "short_description": "Episcopus Bieranus, an den Synoden in Rom 487, 499, 501 und 502 n. Chr.",
     "chapters": [
       {
         "start": 680,
-        "author": "Enßlin"
+        "end": 680,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 130a",
     "previous": "Maximus 130",
     "next": "Maximus 130b",
-    "short_description": "Teilnehmer an der Synode in Rom im J. 502 n. Chr. = M. Nr. [130b] (S V",
+    "proof_read": 0,
+    "short_description": "Teilnehmer an der Synode in Rom 502 n. Chr.",
     "chapters": [
       {
         "start": 680,
-        "author": "Enßlin"
+        "end": 680,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 130b",
     "previous": "Maximus 130a",
     "next": "Maximus 131",
-    "short_description": "Episcopus ecclesiae Ticinensis, Teilnehmer an der Synode in Rom im J. 501 n.",
+    "proof_read": 0,
+    "short_description": "Episcopus ecclesiae Ticinensis, an der Synode in Rom 501 n. Chr.",
     "chapters": [
       {
         "start": 680,
-        "author": "Enßlin"
+        "end": 680,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 131",
     "previous": "Maximus 130b",
     "next": "Maximus 132",
+    "proof_read": 0,
     "short_description": "M. von Thena, Arzt, Briefadressat des Augustinus",
     "chapters": [
       {
         "start": 680,
-        "author": "Enßlin"
+        "end": 680,
+        "author": "Enßlin."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Maximus 132",
@@ -6693,13 +6754,18 @@
     "lemma": "Mazdaismus",
     "previous": "Maximus 133",
     "next": "Mazuca",
-    "short_description": "Altpers. Religion",
+    "proof_read": 0,
+    "short_description": "altpersische Religion",
     "chapters": [
       {
         "start": 679,
-        "author": "Clemen"
+        "end": 704,
+        "author": "Clemen."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Mazuca",
@@ -6726,13 +6792,21 @@
     "lemma": "Mebarsapes",
     "previous": "Mazuca",
     "next": "Meclodunum",
-    "short_description": "König von Adiabene im J. 115 n. Chr. vgl. Sentius Nr. 2",
+    "proof_read": 1,
+    "short_description": "König von Adiabene 115 n. Chr.",
+    "wp_link": "w:en:Meharaspes",
+    "wd_link": "d:Q81331",
     "chapters": [
       {
         "start": 704,
-        "author": "Stein, [Arthur]"
+        "end": 704,
+        "author": "Stein."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124",
+      "1": "261125"
+    }
   },
   {
     "lemma": "Meclodunum",
@@ -6796,13 +6870,19 @@
     "lemma": "Medicus 2",
     "previous": "Medeios 2",
     "next": "Medullina",
-    "short_description": "Siegerbeiname mehrerer röm. Kaiser",
+    "proof_read": 1,
+    "short_description": "Siegerbeiname mehrerer römischer Kaiser",
     "chapters": [
       {
         "start": 705,
-        "author": "Stein, [Arthur]"
+        "end": 706,
+        "author": "Stein."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124",
+      "1": "261125"
+    }
   },
   {
     "lemma": "Medullina",
@@ -6843,76 +6923,112 @@
     "lemma": "Megallos",
     "previous": "Megabates 3",
     "next": "Megarikoi",
-    "short_description": "Erfinder der Salbe (myron) Megalleion",
+    "proof_read": 0,
+    "short_description": "Erfinder der Salbe Megalleion",
     "chapters": [
       {
         "start": 706,
-        "author": "Göbel"
+        "end": 707,
+        "author": "Göbel."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Megarikoi",
     "previous": "Megallos",
-    "next": "Megasa",
-    "short_description": "vgl. Megarikaoi Philosoph. Schule, begründet von Eukleides Nr. 5 von Megara",
+    "next": "Μέγασα",
+    "proof_read": 0,
+    "short_description": "philosophische Schule, begründet von Eukleides von Megara",
+    "wp_link": "w:de:Megariker",
+    "wd_link": "d:Q1145454",
     "chapters": [
       {
         "start": 707,
-        "author": "Fritz"
+        "end": 724,
+        "author": "K. v. Fritz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
-    "lemma": "Megasa",
+    "lemma": "Μέγασα",
     "previous": "Megarikoi",
     "next": "Megia",
+    "sort_key": "Megasa",
+    "proof_read": 0,
     "short_description": "Libysche Stadt",
     "chapters": [
       {
         "start": 724,
-        "author": "Schwabe"
+        "end": 724,
+        "author": "Schwabe."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Megia",
-    "previous": "Megasa",
+    "previous": "Μέγασα",
     "next": "Meilichioi Theoi 1",
+    "proof_read": 0,
     "short_description": "Ort am Euphrat",
     "chapters": [
       {
         "start": 724,
-        "author": "König"
+        "end": 725,
+        "author": "König."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Meilichioi Theoi 1",
+    "previous": "Megia",
     "next": "Mekionike",
+    "proof_read": 0,
+    "short_description": "Meilichios, Epiklese des Zeus",
     "chapters": [
       {
         "start": 725,
+        "end": 725,
         "author": "W. Kroll."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Mekionike",
     "previous": "Meilichioi Theoi 1",
     "next": "Mela 1a",
-    "short_description": "Tochter des Oarion s. Orion Nr. 1 von Hyria Nr. [a] oder des Eurotas Nr. 3",
+    "proof_read": 0,
+    "short_description": "Tochter des Oarion von Hyria oder des Eurotas",
     "chapters": [
       {
         "start": 725,
-        "author": "Söder"
+        "end": 725,
+        "author": "R. Söder."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124",
+      "1": "261125"
+    }
   },
   {
     "lemma": "Mela 1a",
     "previous": "Mekionike",
-    "next": "Melabason oros",
+    "next": "Μελαβασῶν ὄρος",
     "proof_read": 2,
     "short_description": "Prokurator unter Tiberius",
     "chapters": [
@@ -6927,20 +7043,26 @@
     }
   },
   {
-    "lemma": "Melabason oros",
+    "lemma": "Μελαβασῶν ὄρος",
     "previous": "Mela 1a",
     "next": "Melaenis",
-    "short_description": "Mesopot. Gebirge",
+    "sort_key": "Melabason oros",
+    "proof_read": 0,
+    "short_description": "mesopotamisches Gebirge",
     "chapters": [
       {
         "start": 725,
-        "author": "König"
+        "end": 725,
+        "author": "König."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melaenis",
-    "previous": "Melabason oros",
+    "previous": "Μελαβασῶν ὄρος",
     "next": "Melanippos",
     "proof_read": 2,
     "short_description": "Frauenname bei Martial",
@@ -6959,73 +7081,107 @@
     "lemma": "Melanippos",
     "previous": "Melaenis",
     "next": "Melanippos 1",
-    "short_description": "Bildhauer",
+    "proof_read": 0,
+    "short_description": "allg. Vorbemerkung",
     "chapters": [
       {
         "start": 725,
-        "author": "Krischan"
+        "end": 725,
+        "author": "Krischan."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melanippos 1",
     "previous": "Melanippos",
     "next": "Melanippos 2",
-    "short_description": "Theban. Heros, Sohn des Astakos (II 1775 Nr. 3)",
+    "proof_read": 0,
+    "short_description": "thebanischer Heros, Sohn des Astakos",
+    "wp_link": "w:de:Melanippos (Sohn des Astakos)",
+    "wd_link": "d:Q3332905",
     "chapters": [
       {
         "start": 725,
-        "author": "Krischan"
+        "end": 727,
+        "author": "Krischan."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melanippos 2",
     "previous": "Melanippos 1",
     "next": "Melanippos 3",
-    "short_description": "Sohn des Agrios (I 896 Nr. 5 )",
+    "proof_read": 0,
+    "short_description": "Sohn des Agrios",
     "chapters": [
       {
         "start": 727,
-        "author": "Krischan"
+        "end": 728,
+        "author": "Krischan."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melanippos 3",
     "previous": "Melanippos 2",
     "next": "Melanippos 4",
-    "short_description": "Sohn des Theseus (S XIII 1045 Nr. 1) und der Perigune (XIX 745 )",
+    "proof_read": 0,
+    "short_description": "Sohn des Theseus und der Perigune",
     "chapters": [
       {
         "start": 728,
-        "author": "Krischan"
+        "end": 728,
+        "author": "Krischan."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melanippos 4",
     "previous": "Melanippos 3",
     "next": "Melanippos 5",
-    "short_description": "Sohn des Ares Nr. 2 und der Triteia Nr. 3",
+    "proof_read": 0,
+    "short_description": "Sohn des Ares und der Triteia",
+    "wp_link": "w:fr:Mélanippos fils d'Arès",
+    "wd_link": "d:Q26647461",
     "chapters": [
       {
         "start": 728,
-        "author": "Krischan"
+        "end": 728,
+        "author": "Krischan."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melanippos 5",
     "previous": "Melanippos 4",
     "next": "Melanippos 6",
-    "short_description": "M. von Patrai, myth. Jüngling vgl. Komaitho Nr. 2",
+    "proof_read": 0,
+    "short_description": "M. von Patrai, mythischer Jüngling",
     "chapters": [
       {
         "start": 728,
-        "author": "Krischan"
+        "end": 729,
+        "author": "Krischan."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melanippos 6",
@@ -7085,13 +7241,18 @@
     "lemma": "Melanippos 9",
     "previous": "Melanippos 8",
     "next": "Melanippos 10",
+    "proof_read": 0,
     "short_description": "Troer, Sohn des Hiketaon",
     "chapters": [
       {
         "start": 729,
-        "author": "Krischan"
+        "end": 729,
+        "author": "Krischan."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melanippos 10",
@@ -7151,37 +7312,56 @@
     "lemma": "Melanippos 13",
     "previous": "Melanippos 12",
     "next": "Melanis",
+    "proof_read": 0,
     "short_description": "Kentaurenname auf einem Krater",
     "chapters": [
       {
         "start": 729,
-        "author": "Krischan"
+        "end": 730,
+        "author": "Krischan."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Melanis",
     "previous": "Melanippos 13",
     "next": "Melankomas 2",
-    "short_description": "Tochter des Hyamos und der Melantheia, Mutter des Delphos vgl. Kelaino Nr. 3",
+    "proof_read": 0,
+    "short_description": "Tochter des Hyamos und der Melantheia, Mutter des Delphos",
     "chapters": [
       {
         "start": 730,
-        "author": "Söder"
+        "end": 730,
+        "author": "R. Söder."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124",
+      "1": "261125"
+    }
   },
   {
     "lemma": "Melankomas 2",
     "previous": "Melanis",
     "next": "Melanthion",
-    "short_description": "Athlet in der 2. H. des 1. Jh. n. Chr., Sohn des Athleten M. von Karien",
+    "proof_read": 1,
+    "short_description": "Athlet 1. Jh. n. Chr., Sohn des Athleten M. von Karien",
+    "wp_link": "w:de:Melankomas",
+    "wd_link": "d:Q434881",
     "chapters": [
       {
         "start": 730,
-        "author": "Stein, [Arthur]"
+        "end": 730,
+        "author": "Stein."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124",
+      "1": "261125"
+    }
   },
   {
     "lemma": "Melanthion",
@@ -7221,37 +7401,55 @@
     "lemma": "Rhetorios",
     "previous": "Melas 7a",
     "next": "Rhodos",
-    "short_description": "Astrolog. Kompilator um das J. 500 n. Chr.",
+    "proof_read": 0,
+    "short_description": "astrologischer Kompilator um 500 n. Chr.",
+    "wp_link": "w:de:Rhetorios",
+    "ws_link": "s:el:Συγγραφέας:Ρητόριος",
+    "wd_link": "d:Q938867",
     "chapters": [
       {
         "start": 731,
-        "author": "Kroll"
+        "end": 731,
+        "author": "W. Kroll."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Rhodos",
     "previous": "Rhetorios",
     "next": "Rufinus 38",
-    "short_description": "Griech. Insel vor der SW-Küste Kleinasiens",
+    "proof_read": 0,
+    "short_description": "griechische Insel vor der Südwestküste Kleinasiens",
     "chapters": [
       {
         "start": 731,
-        "author": "Hiller von Gaertringen"
+        "end": 840,
+        "author": "Hiller von Gaertringen."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Rufinus 38",
     "previous": "Rhodos",
     "next": "Rufinus 39",
-    "short_description": "Epigrammatiker um das J. 100 n. Chr.",
+    "proof_read": 0,
+    "short_description": "Epigrammatiker um 100 n. Chr.",
     "chapters": [
       {
         "start": 841,
-        "author": "Geffcken"
+        "end": 842,
+        "author": "J. Geffcken."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Rufinus 39",
@@ -7276,72 +7474,109 @@
     "lemma": "Salmeschiniaka",
     "previous": "Rufinus 39",
     "next": "Saros 3",
-    "short_description": "Hermet. Schrift.",
+    "proof_read": 0,
+    "short_description": "hermetische Schrift",
+    "wp_link": "w:de:Salmeschiniaka",
+    "wd_link": "d:Q124707956",
     "chapters": [
       {
         "start": 843,
         "end": 846,
-        "author": "Kroll"
+        "author": "W. Kroll."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Saros 3",
     "previous": "Salmeschiniaka",
+    "next": "Scalprum (scalper, scalprus)",
+    "proof_read": 0,
+    "short_description": "Insel nördlich von Karpathos",
     "chapters": [
       {
         "start": 845,
-        "author": "Kroll"
+        "end": 845,
+        "author": "Hiller v. Gaertringen."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Scalprum (scalper, scalprus)",
     "previous": "Saros 3",
     "next": "Scalptor",
-    "short_description": "Das Instrument zum Gravieren, Schneiden bzw. Meißeln",
+    "proof_read": 0,
+    "short_description": "das Instrument zum Gravieren, Schneiden bzw. Meißeln",
     "chapters": [
       {
         "start": 845,
-        "author": "Hug"
+        "end": 846,
+        "author": "Hug."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Scalptor",
     "previous": "Scalprum (scalper, scalprus)",
     "next": "Schwimmen",
-    "short_description": "Der Graveur s. auch Gemmen",
+    "proof_read": 0,
+    "short_description": "der Graveur",
     "chapters": [
       {
         "start": 846,
-        "author": "Regling"
+        "end": 847,
+        "author": "Regling."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Schwimmen",
     "previous": "Scalptor",
-    "short_description": "S. (einschließlich Tauchen und Wasserspringen)",
+    "next": "Secundinus 6a",
+    "proof_read": 0,
+    "short_description": "einschließlich Tauchen und Wasserspringen",
     "chapters": [
       {
         "start": 847,
-        "author": "Mehl"
+        "end": 847,
+        "author": "Erwin Mehl."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Secundinus 6a",
-    "short_description": "Maler, s. Launio Nr. 2.",
+    "previous": "Schwimmen",
+    "next": "Seekrieg",
+    "proof_read": 0,
+    "short_description": "Maler, s. Launio",
     "chapters": [
       {
         "start": 864,
+        "end": 864,
         "author": "Lippold."
       }
-    ]
+    ],
+    "history": {
+      "0": "261124"
+    }
   },
   {
     "lemma": "Seekrieg",
+    "previous": "Secundinus 6a",
     "next": "Seewesen",
     "chapters": [
       {
