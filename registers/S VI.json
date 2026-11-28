@@ -3074,7 +3074,7 @@
   {
     "lemma": "Herodianus 5",
     "previous": "Herodes 13a",
-    "next": "Hieros gamos",
+    "next": "Ἱερὸς γάμος",
     "short_description": "Rhetor (im 2. Jh. n. Chr.?)",
     "chapters": [
       {
@@ -3085,32 +3085,43 @@
     ]
   },
   {
-    "lemma": "Hieros gamos",
+    "lemma": "Ἱερὸς γάμος",
     "previous": "Herodianus 5",
-    "short_description": "Die Götterhochzeit",
+    "next": "Hodometron, Hodometros",
+    "sort_key": "Hieros gamos",
+    "proof_read": 0,
+    "short_description": "Hieros gamos, die Götterhochzeit",
     "chapters": [
       {
         "start": 107,
         "end": 113,
-        "author": "Klinz"
+        "author": "A. Klinz."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125"
+    }
   },
   {
     "lemma": "Hodometron, Hodometros",
-    "previous": "Hieros gamos",
+    "previous": "Ἱερὸς γάμος",
     "next": "Hylli",
-    "short_description": "Automat. Wegmesser",
+    "proof_read": 0,
+    "short_description": "automatischer Wegmesser",
     "chapters": [
       {
         "start": 113,
         "end": 114,
-        "author": "Kubitschek"
+        "author": "Wilh. Kubitschek."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125"
+    }
   },
   {
     "lemma": "Hylli",
+    "previous": "Hodometron, Hodometros",
     "next": "Hyllis 2",
     "short_description": "Illyr. Volk = Hylleer (S IX 79)",
     "chapters": [
@@ -3406,7 +3417,7 @@
   {
     "lemma": "Καινοφρούριον",
     "previous": "Iunius 183a",
-    "next": "Kalindoia",
+    "next": "Καλίνδοια",
     "short_description": "Thrak. Örtlichkeit",
     "chapters": [
       {
@@ -3416,20 +3427,27 @@
     ]
   },
   {
-    "lemma": "Kalindoia",
+    "lemma": "Καλίνδοια",
     "previous": "Καινοφρούριον",
     "next": "Kaloikinoi",
-    "short_description": "Stadt in der thrak. Bottike",
+    "sort_key": "Kalindoia",
+    "proof_read": 2,
+    "short_description": "Kalindoia, Stadt in der thrakischen Bottike",
     "chapters": [
       {
         "start": 138,
-        "author": "Hiller von Gaertringen"
+        "end": 138,
+        "author": "v. Hiller."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125",
+      "2": "261127"
+    }
   },
   {
     "lemma": "Kaloikinoi",
-    "previous": "Kalindoia",
+    "previous": "Καλίνδοια",
     "next": "Kalypso 3",
     "short_description": "Illyr. Volk",
     "chapters": [
@@ -3443,25 +3461,37 @@
     "lemma": "Kalypso 3",
     "previous": "Kaloikinoi",
     "next": "Kamasarye",
-    "short_description": "Griechin im palaestin. Marissa",
+    "proof_read": 2,
+    "short_description": "Griechin im palaestinischen Marissa",
     "chapters": [
       {
         "start": 138,
-        "author": "Lamer"
+        "end": 138,
+        "author": "H. Lamer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125",
+      "2": "261127"
+    }
   },
   {
     "lemma": "Kamasarye",
     "previous": "Kalypso 3",
     "next": "Kammania",
-    "short_description": "Gattin des bosporan. Königs Pairisades III.",
+    "proof_read": 2,
+    "short_description": "Gattin des bosporanischen Königs Pairisades III. 178 v. Chr.",
     "chapters": [
       {
         "start": 138,
-        "author": "Hiller von Gaertringen"
+        "end": 138,
+        "author": "v. Hiller."
       }
-    ]
+    ],
+    "history": {
+      "0": "261126",
+      "2": "261127"
+    }
   },
   {
     "lemma": "Kammania",
@@ -3530,14 +3560,18 @@
     "lemma": "Katharsis",
     "previous": "Καρκῖνοι",
     "next": "Καυκάσιον",
-    "short_description": "Die kult. Reinigungshandlungen",
+    "proof_read": 0,
+    "short_description": "kultische Reinigungshandlungen",
     "chapters": [
       {
         "start": 146,
         "end": 162,
-        "author": "Pfister"
+        "author": "Friedrich Pfister."
       }
-    ]
+    ],
+    "history": {
+      "0": "261126"
+    }
   },
   {
     "lemma": "Καυκάσιον",

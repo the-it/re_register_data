@@ -1471,7 +1471,7 @@
       {
         "start": 282,
         "end": 310,
-        "author": "L. Heinemann."
+        "author": "I. Heinemann."
       }
     ],
     "history": {
@@ -2002,10 +2002,11 @@
     "previous": "Kroisos",
     "next": "Kuß",
     "proof_read": 0,
+    "short_description": "Begriff",
     "chapters": [
       {
         "start": 472,
-        "end": 472,
+        "end": 511,
         "author": "Valentin Müller."
       }
     ],
@@ -7696,13 +7697,18 @@
     "lemma": "Silcadenit",
     "previous": "Sigismer 2",
     "next": "Silicarii",
-    "short_description": "Maur. Volk",
+    "proof_read": 0,
+    "short_description": "maurisches Volk",
     "chapters": [
       {
         "start": 971,
-        "author": "Treidler"
+        "end": 971,
+        "author": "Treidler."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125"
+    }
   },
   {
     "lemma": "Silicarii",
@@ -7717,6 +7723,7 @@
   },
   {
     "lemma": "Silphion",
+    "next": "Silvacae",
     "chapters": [
       {
         "start": 972,
@@ -7728,25 +7735,39 @@
     "lemma": "Silvacae",
     "previous": "Silphion",
     "next": "Silvaizan",
-    "short_description": "Maur. Volk, s. Silcadenit.",
+    "proof_read": 2,
+    "short_description": "maurisches Volk, s. Silcadenit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 974,
-        "author": "Treidler"
+        "end": 974,
+        "author": "Treidler."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125",
+      "2": "261127"
+    }
   },
   {
     "lemma": "Silvaizan",
     "previous": "Silvacae",
     "next": "Silverius 1",
-    "short_description": "Maur. Volk, s. Silcadenit.",
+    "proof_read": 2,
+    "short_description": "maurisches Volk, s. Silcadenit",
+    "no_creative_height": true,
     "chapters": [
       {
         "start": 974,
-        "author": "Treidler"
+        "end": 974,
+        "author": "Treidler."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125",
+      "2": "261127"
+    }
   },
   {
     "lemma": "Silverius 1",
@@ -7823,13 +7844,18 @@
     "lemma": "Silzactae",
     "previous": "Silvinus 6",
     "next": "Simeonius",
-    "short_description": "Maur. Volk. vgl. Silcadenit",
+    "proof_read": 0,
+    "short_description": "maurisches Volk, vgl. Silcadenit",
     "chapters": [
       {
         "start": 976,
-        "author": "Treidler"
+        "end": 977,
+        "author": "Treidler."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125"
+    }
   },
   {
     "lemma": "Simeonius",
@@ -7947,7 +7973,7 @@
   {
     "lemma": "Skiagraphia",
     "previous": "Skerdilaïdas",
-    "next": "Skidros 2",
+    "next": "Σκίδρος 2",
     "short_description": "Maltechnik. vgl. Apollodoros Nr. 77",
     "chapters": [
       {
@@ -7957,20 +7983,27 @@
     ]
   },
   {
-    "lemma": "Skidros 2",
+    "lemma": "Σκίδρος 2",
     "previous": "Skiagraphia",
     "next": "Skylla 1",
-    "short_description": "Gatte der Siris, der Tochter des sizil. Urkönigs Morges",
+    "sort_key": "Skidros 2",
+    "proof_read": 2,
+    "short_description": "Skidros, Gatte der Siris, Tochter des sizilischen Urkönigs Morges",
     "chapters": [
       {
         "start": 980,
-        "author": "Mayer"
+        "end": 980,
+        "author": "M. Mayer."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125",
+      "2": "261127"
+    }
   },
   {
     "lemma": "Skylla 1",
-    "previous": "Skidros 2",
+    "previous": "Σκίδρος 2",
     "next": "Sokratikerbriefe",
     "short_description": "Das Seeungetüm in der Odyssee. vgl. Charybdis",
     "chapters": [
@@ -8118,24 +8151,35 @@
   {
     "lemma": "Kornutos",
     "previous": "Statilius 19a",
-    "next": "Krabbatos",
-    "short_description": "Grammatiker und Philosoph im 1. Jh. n. Chr. = L. Annaeus (I 2225 Nr. 5) Cornutus",
+    "next": "Κράββατος",
+    "proof_read": 0,
+    "short_description": "Grammatiker und Philosoph 1. Jh. n. Chr.",
     "chapters": [
       {
         "start": 995,
-        "author": "Nock"
+        "end": 1005,
+        "author": "Nock."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125"
+    }
   },
   {
-    "lemma": "Krabbatos",
+    "lemma": "Κράββατος",
     "previous": "Kornutos",
-    "short_description": "Das Ruhebett vgl. Scimpodium. Skimpus",
+    "sort_key": "Krabbatos",
+    "proof_read": 0,
+    "short_description": "Krabbatos, Ruhebett",
     "chapters": [
       {
         "start": 1005,
-        "author": "Hug"
+        "end": 1006,
+        "author": "Hug."
       }
-    ]
+    ],
+    "history": {
+      "0": "261125"
+    }
   }
 ]
